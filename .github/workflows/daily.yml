@@ -1,21 +1,22 @@
-name: Daily Sync
+name: Daily Sentinel Sync
 on:
   schedule:
-    - cron: '0 11 * * *' # 6:00 AM EST
+    - cron: '0 11 * * *'
   workflow_dispatch:
 
 permissions:
-  contents: write  # This grants the "robot" permission to commit files
+  contents: write
 
 jobs:
-  sync:                          # This is the name of your job
+  sentinel_sync:
     runs-on: ubuntu-latest
-    if: vars.SYSTEM_STATUS == 'ACTIVE'  # The Kill-Switch Gate
+    if: vars.SYSTEM_STATUS == 'ACTIVE'
     
     steps:
-      - uses: actions/checkout@v4
-      
-      - name: Set up Python
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Setup Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.10'
@@ -23,15 +24,15 @@ jobs:
       - name: Install dependencies
         run: pip install requests
 
-      - name: Run Intelligence Script
+      - name: Fetch Cyber Intel
         env:
           NEWS_API_KEY: ${{ secrets.NEWS_API_KEY }}
         run: python main.py
 
-      - name: Deploy to Repo
+      - name: Commit Intelligence
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "shieldlogic-bot"
           git add data.json
-          git commit -m "Automated Intel Sync: $(date)" || echo "No changes"
+          git commit -m "Sentinel Sync: $(date)" || echo "No changes"
           git push
