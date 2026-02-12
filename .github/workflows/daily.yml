@@ -8,22 +8,30 @@ permissions:
   contents: write  # This grants the "robot" permission to commit files
 
 jobs:
-  build:
+  sync:                          # This is the name of your job
     runs-on: ubuntu-latest
+    if: vars.SYSTEM_STATUS == 'ACTIVE'  # The Kill-Switch Gate
+    
     steps:
       - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
+      
+      - name: Set up Python
+        uses: actions/setup-python@v5
         with:
           python-version: '3.10'
-      - run: pip install -r requirements.txt
-      - name: Run Update
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run Intelligence Script
         env:
           NEWS_API_KEY: ${{ secrets.NEWS_API_KEY }}
         run: python main.py
-      - name: Deploy
+
+      - name: Deploy to Repo
         run: |
           git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
+          git config --local user.name "shieldlogic-bot"
           git add data.json
-          git commit -m "Sync: $(date)" || echo "No changes"
+          git commit -m "Automated Intel Sync: $(date)" || echo "No changes"
           git push
