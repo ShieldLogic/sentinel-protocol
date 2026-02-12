@@ -3,6 +3,10 @@ on:
   schedule:
     - cron: '0 11 * * *' # 6:00 AM EST
   workflow_dispatch:
+
+permissions:
+  contents: write  # This grants the "robot" permission to commit files
+
 jobs:
   build:
     runs-on: ubuntu-latest
