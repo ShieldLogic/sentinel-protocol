@@ -1,1 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sentinel Protocol | Cyber Intelligence</title>
+    <style>
+        /* THE VIBE: Tactical Dark Mode */
+        :root {
+            --glow: #00ff41;
+            --bg: #050505;
+            --card-bg: #0d0d0d;
+            --text: #d1d1d1;
+            --border: #1a1a1a;
+        }
 
+        body {
+            background-color: var(--bg);
+            color: var(--text);
+            font-family: 'IBM Plex Mono', 'Courier New', monospace;
+            margin: 0;
+            padding: 20px;
+            line-height: 1.6;
+        }
+
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+        }
+
+        header {
+            border-bottom: 2px solid var(--glow);
+            padding-bottom: 20px;
+            margin-bottom: 40px;
+            text-transform: uppercase;
+        }
+
+        h1 {
+            color: var(--glow);
+            margin: 0;
+            font-size: 1.8rem;
+            letter-spacing: 2px;
+            text-shadow: 0 0 10px rgba(0, 255, 65, 0.3);
+        }
+
+        .tagline {
+            font-size: 0.9rem;
+            opacity: 0.7;
+            margin: 5px 0 0 0;
+        }
+
+        #last-updated {
+            font-size: 0.75rem;
+            color: var(--glow);
+            margin-top: 10px;
+        }
+
+        .article {
+            background: var(--card-bg);
+            border: 1px solid var(--border);
+            padding: 20px;
+            margin-bottom: 20px;
+            border-left: 4px solid var(--glow);
+            transition: transform 0.2s ease;
+        }
+
+        .article:hover {
+            transform: translateX(5px);
+            border-color: var(--glow);
+        }
+
+        .article h3 {
+            margin: 0 0 10px 0;
+            color: #fff;
+            font-size: 1.2rem;
+        }
+
+        .article p {
+            font-size: 0.95rem;
+            margin-bottom: 15px;
+        }
+
+        .article a {
+            color: var(--glow);
+            text-decoration: none;
+            font-weight: bold;
+            font-size: 0.85rem;
+            border: 1px solid var(--glow);
+            padding: 5px 10px;
+            display: inline-block;
+        }
+
+        .article a:hover {
+            background: var(--glow);
+            color: var(--bg);
+        }
+
+        .meta {
+            color: var(--glow);
+            font-size: 0.8rem;
+        }
+
+        /* Error/Loading state styles */
+        .status-msg {
+            padding: 20px;
+            border: 1px dashed var(--glow);
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <header>
+            <h1 id="feed-title">Sentinel Protocol</h1>
+            <p id="tagline" class="tagline">Initializing perimeter scan...</p>
+            <div id="last-updated">SYNC_STATUS: PENDING</div>
+        </header>
+
+        <div id="news-container">
+            <div class="status-msg">[ SYSTEM_MESSAGE: SYNCHRONIZING_INTELLIGENCE_STREAM... ]</div>
+        </div>
+    </div>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            const container = document.getElementById('news-container');
+            const updateEl = document.getElementById('last-updated');
+
+            fetch('./data.json')
+                .then(response => {
+                    if (!response.ok) throw new Error('INTEL_FILE_NOT_FOUND');
+                    return response.json();
+                })
+                .then(data => {
+                    container.innerHTML = ''; // Clear loading message
+                    
+                    document.getElementById('feed-title').innerText = data.title;
+                    document.getElementById('tag
