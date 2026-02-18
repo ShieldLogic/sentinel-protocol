@@ -1,6 +1,11 @@
 {
-    "updated": "2026-02-18 18:40:01 UTC",
+    "updated": "2026-02-18 20:29:09 UTC",
     "news": [
+        {
+            "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+            "description": "[CISA.GOV] CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2021-22175 GitLab Server-Side Request Forgery (SSRF)...",
+            "url": "https://www.cisa.gov/news-events/alerts/2026/02/18/cisa-adds-two-known-exploited-vulnerabilities-catalog"
+        },
         {
             "title": "Citizen Lab Finds Cellebrite Tool Used on Kenyan Activist\u2019s Phone in Police Custody",
             "description": "[FEEDS.FEEDBURNER.COM] New research from the Citizen Lab has found signs that Kenyan authorities used a commercial forensic extraction tool manufactured by Israeli company Cellebrite to break into a prominent dissident's...",
@@ -27,6 +32,11 @@
             "url": "https://thehackernews.com/2026/02/dell-recoverpoint-for-vms-zero-day-cve.html"
         },
         {
+            "title": "AI platforms can be abused for stealthy malware communication",
+            "description": "[BLEEPINGCOMPUTER.COM] AI assistants like Grok and Microsoft Copilot with web browsing and URL-fetching capabilities can be abused to intermediate command-and-control (C2) activity. [...]",
+            "url": "https://www.bleepingcomputer.com/news/security/ai-platforms-can-be-abused-for-stealthy-malware-communication/"
+        },
+        {
             "title": "Telegram channels expose rapid weaponization of SmarterMail flaws",
             "description": "[BLEEPINGCOMPUTER.COM] Underground Telegram channels shared SmarterMail exploit PoCs and stolen admin credentials within days of disclosure. Flare explains how monitoring these communities reveals rapid weaponization of...",
             "url": "https://www.bleepingcomputer.com/news/security/telegram-channels-expose-rapid-weaponization-of-smartermail-flaws/"
@@ -47,11 +57,6 @@
             "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-bug-causes-copilot-to-summarize-confidential-emails/"
         },
         {
-            "title": "Glendale man gets 5 years in prison for role in darknet drug ring",
-            "description": "[BLEEPINGCOMPUTER.COM] \u200bA Glendale man was sentenced to nearly five years in federal prison for his role in a darknet drug trafficking operation that sold cocaine, methamphetamine, MDMA, and ketamine to customers across...",
-            "url": "https://www.bleepingcomputer.com/news/security/glendale-man-gets-5-years-in-prison-for-role-in-darknet-drug-trafficking-operation/"
-        },
-        {
             "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
             "description": "[CISA.GOV] CISA has added four new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2008-0015 Microsoft Windows Video ActiveX Control Remote...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/02/17/cisa-adds-four-known-exploited-vulnerabilities-catalog"
@@ -62,11 +67,6 @@
             "url": "https://www.cisa.gov/news-events/alerts/2026/02/10/cisa-adds-six-known-exploited-vulnerabilities-catalog"
         },
         {
-            "title": "Poland Energy Sector Cyber Incident Highlights OT and ICS Security Gaps",
-            "description": "[CISA.GOV] The purpose of this Alert is to amplify Poland\u2019s Computer Emergency Response Team (CERT Polska\u2019s) Energy Sector Incident Report published on Jan. 30, 2026, and highlight key mitigations for Energy...",
-            "url": "https://www.cisa.gov/news-events/alerts/2026/02/10/poland-energy-sector-cyber-incident-highlights-ot-and-ics-security-gaps"
-        },
-        {
             "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
             "description": "[CISA.GOV] CISA has added four new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2024-43468 Microsoft Configuration Manager SQL Injection...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/02/12/cisa-adds-four-known-exploited-vulnerabilities-catalog"
@@ -75,6 +75,16 @@
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
             "description": "[CISA.GOV] CISA has added one new vulnerability to its&nbsp;Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-1731 BeyondTrust Remote Support (RS) and Privileged...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/02/13/cisa-adds-one-known-exploited-vulnerability-catalog"
+        },
+        {
+            "title": "Indonesia's MDI Ventures Doubles Down on Execution and Trust to Unlock Regional Portfolio Value",
+            "description": "[THE TRIBUNE] Jakarta [Indonesia], February 18: After investing across the AI, cybersecurity, and blockchain sectors through portfolio companies such as Cyfirma, Whale, and IDRX throughout 2025, MDI Ventures is...",
+            "url": "https://www.tribuneindia.com/news/business/indonesias-mdi-ventures-doubles-down-on-execution-and-trust-to-unlock-regional-portfolio-value/"
+        },
+        {
+            "title": "Loan applications, drivers licences, personal data of 440k Aussies exposed after hacker hits Sydney finance tech company youX",
+            "description": "[PERTHNOW] The personal data of more than 440,000 Australians - including $3.7bn in loan applications - has been exposed after a cybersecurity breach at a major finance technology company.",
+            "url": "https://www.perthnow.com.au/news/loan-applications-drivers-licences-personal-data-of-440k-aussies-exposed-after-hacker-hits-sydney-finance-tech-company-youx-c-21681356"
         },
         {
             "title": "India Today AI Summit 2026: AI is 100 times more opportunities and 100 times more risk, says Rubrik CEO",
@@ -115,16 +125,6 @@
             "title": "ITC Secure and IronNet Unite to Form Collective Defence, a New Force in Critical Infrastructure Protection Against Hybrid Warfare",
             "description": "[MARKETSCREENER] Collective Defence announced its formation following the combination of ITC Secure, a leading UK-based cybersecurity services firm and Microsoft Security Solutions Partner, and IronNet, a pioneer...",
             "url": "https://www.marketscreener.com/news/itc-secure-and-ironnet-unite-to-form-collective-defence-a-new-force-in-critical-infrastructure-prot-ce7e5dd9df88f421"
-        },
-        {
-            "title": "Palo Alto Falls As Fiscal Q2 Beat, Guidance Underwhelms",
-            "description": "[INVESTOR'S BUSINESS DAILY] Palo Alto stock fell amid fiscal Q2 earnings that topped estimates as investors mulled guidance amid the cybersecurity firm's acquisitions.",
-            "url": "https://www.investors.com/news/technology/palo-alto-stock-panw-palo-alto-earnings-news-q42025/"
-        },
-        {
-            "title": "Meta and Other Tech Companies Ban OpenClaw Over Cybersecurity Concerns",
-            "description": "[WIRED] Security experts have urged people to be cautious with the viral agentic AI tool, known for being highly capable but also wildly unpredictable.",
-            "url": "https://www.wired.com/story/openclaw-banned-by-tech-companies-as-security-concerns-mount/"
         }
     ]
 }
