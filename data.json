@@ -1,15 +1,10 @@
 {
-    "updated": "2026-02-19 18:40:08 UTC",
+    "updated": "2026-02-19 20:22:51 UTC",
     "news": [
         {
             "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
             "description": "[CISA.GOV] CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2021-22175 GitLab Server-Side Request Forgery (SSRF)...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/02/18/cisa-adds-two-known-exploited-vulnerabilities-catalog"
-        },
-        {
-            "title": "Citizen Lab Finds Cellebrite Tool Used on Kenyan Activist\u2019s Phone in Police Custody",
-            "description": "[FEEDS.FEEDBURNER.COM] New research from the Citizen Lab has found signs that Kenyan authorities used a commercial forensic extraction tool manufactured by Israeli company Cellebrite to break into a prominent dissident's...",
-            "url": "https://thehackernews.com/2026/02/citizen-lab-finds-cellebrite-tool-used.html"
         },
         {
             "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
@@ -22,6 +17,21 @@
             "url": "https://www.cisa.gov/news-events/alerts/2026/02/10/cisa-adds-six-known-exploited-vulnerabilities-catalog"
         },
         {
+            "title": "PromptSpy Android Malware Abuses Gemini AI to Automate Recent-Apps Persistence",
+            "description": "[FEEDS.FEEDBURNER.COM] Cybersecurity researchers have discovered what they say is the first Android malware that abuses Gemini, Google's generative artificial intelligence (AI) chatbot, as part of its execution flow and...",
+            "url": "https://thehackernews.com/2026/02/promptspy-android-malware-abuses-google.html"
+        },
+        {
+            "title": "INTERPOL Operation Red Card 2.0 Arrests 651 in African Cybercrime Crackdown",
+            "description": "[FEEDS.FEEDBURNER.COM] An international cybercrime operation against online scams has led to 651 arrests and recovered more than $4.3 million as part of an effort led by law enforcement agencies from 16 African countries....",
+            "url": "https://thehackernews.com/2026/02/interpol-operation-red-card-20-arrests.html"
+        },
+        {
+            "title": "Microsoft Patches CVE-2026-26119 Privilege Escalation in Windows Admin Center",
+            "description": "[FEEDS.FEEDBURNER.COM] Microsoft has disclosed a now-patched security flaw in Windows Admin Center that could allow an attacker to escalate their privileges. Windows Admin Center is a locally deployed, browser-based...",
+            "url": "https://thehackernews.com/2026/02/microsoft-patches-cve-2026-26119.html"
+        },
+        {
             "title": "ThreatsDay Bulletin: OpenSSL RCE, Foxit 0-Days, Copilot Leak, AI Password Flaws & 20+ Stories",
             "description": "[FEEDS.FEEDBURNER.COM] The cyber threat space doesn\u2019t pause, and this week makes that clear. New risks, new tactics, and new security gaps are showing up across platforms, tools, and industries \u2014 often all at the same...",
             "url": "https://thehackernews.com/2026/02/threatsday-bulletin-openssl-rce-foxit-0.html"
@@ -32,19 +42,14 @@
             "url": "https://thehackernews.com/2026/02/from-exposure-to-exploitation-how-ai.html"
         },
         {
-            "title": "Fake IPTV Apps Spread Massiv Android Malware Targeting Mobile Banking Users",
-            "description": "[FEEDS.FEEDBURNER.COM] Cybersecurity researchers have disclosed details of a new Android trojan called Massiv that's designed to facilitate device takeover (DTO) attacks for financial theft. The malware, according to...",
-            "url": "https://thehackernews.com/2026/02/fake-iptv-apps-spread-massiv-android.html"
-        },
-        {
-            "title": "CRESCENTHARVEST Campaign Targets Iran Protest Supporters With RAT Malware",
-            "description": "[FEEDS.FEEDBURNER.COM] Cybersecurity researchers have disclosed details of a new campaign dubbed CRESCENTHARVEST, likely targeting supporters of Iran's ongoing protests to conduct information theft and long-term espionage....",
-            "url": "https://thehackernews.com/2026/02/crescentharvest-campaign-targets-iran.html"
-        },
-        {
             "title": "Flaw in Grandstream VoIP phones allows stealthy eavesdropping",
             "description": "[BLEEPINGCOMPUTER.COM] A critical vulnerability in Grandstream GXP1600 series VoIP phones allows a remote, unauthenticated attacker to gain root privileges and silently eavesdrop on communications. [...]",
             "url": "https://www.bleepingcomputer.com/news/security/flaw-in-grandstream-voip-phones-allows-stealthy-eavesdropping/"
+        },
+        {
+            "title": "Google blocked over 1.75 million Play Store app submissions in 2025",
+            "description": "[BLEEPINGCOMPUTER.COM] Google says that through 2025, it blocked more than 255,000 Android apps from obtaining excessive access to sensitive user data and rejected over 1.75 million apps from being published on Google Play...",
+            "url": "https://www.bleepingcomputer.com/news/security/google-blocked-over-175-million-play-store-app-submissions-in-2025/"
         },
         {
             "title": "CISA orders feds to patch actively exploited Dell flaw within 3 days",
@@ -62,11 +67,6 @@
             "url": "https://www.bleepingcomputer.com/news/security/nigerian-man-gets-eight-years-in-prison-for-hacking-tax-firms/"
         },
         {
-            "title": "Texas sues TP-Link over Chinese hacking risks, user deception",
-            "description": "[BLEEPINGCOMPUTER.COM] Texas sued networking giant TP-Link Systems, accusing the company of deceptively marketing its routers as secure while allowing Chinese state-backed hackers to exploit firmware vulnerabilities and...",
-            "url": "https://www.bleepingcomputer.com/news/security/texas-sues-tp-link-over-chinese-hacking-risks-user-deception/"
-        },
-        {
             "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
             "description": "[CISA.GOV] CISA has added four new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2024-43468 Microsoft Configuration Manager SQL Injection...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/02/12/cisa-adds-four-known-exploited-vulnerabilities-catalog"
@@ -75,6 +75,11 @@
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
             "description": "[CISA.GOV] CISA has added one new vulnerability to its&nbsp;Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-1731 BeyondTrust Remote Support (RS) and Privileged...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/02/13/cisa-adds-one-known-exploited-vulnerability-catalog"
+        },
+        {
+            "title": "North West London NHS trusts unify imaging with Sectra's cloud platform to boost collaboration and speed diagnoses",
+            "description": "[PR NEWSWIRE UK] /PRNewswire/ -- International medical technology and cybersecurity company Sectra (STO: SECT B) has signed an agreement to migrate two of its existing NHS...",
+            "url": "https://www.prnewswire.co.uk/news-releases/north-west-london-nhs-trusts-unify-imaging-with-sectras-cloud-platform-to-boost-collaboration-and-speed-diagnoses-302692413.html"
         },
         {
             "title": "Fraudster seeks 500 kg tea for \u2018army canteen\u2019, Kottayam trader smells a rat",
@@ -120,11 +125,6 @@
             "title": "What is AI's Role in Proactive Cyber Defense for Lean IT Teams?",
             "description": "[SANTA CLARITA VALLEY SIGNAL] The Growing Challenge of Cybersecurity in Lean IT Environments In today\u2019s digital landscape, cybersecurity threats are evolving faster and becoming more sophisticated than ever before. Organizations,...",
             "url": "https://signalscv.com/2026/02/what-is-ais-role-in-proactive-cyber-defense-for-lean-it-teams/"
-        },
-        {
-            "title": "Building a Business Continuity Plan That Withstands Cyber Threats",
-            "description": "[TECHBULLION] Disruptions are no longer restricted to natural disasters or power outages. The most critical disruptions that modern enterprises have to contend with are now invisible. The increasing cyberattacks,...",
-            "url": "https://techbullion.com/building-a-business-continuity-plan-that-withstands-cyber-threats/"
         }
     ]
 }
