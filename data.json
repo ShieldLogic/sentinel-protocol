@@ -1,5 +1,5 @@
 {
-    "updated": "2026-02-20 08:31:03 UTC",
+    "updated": "2026-02-20 10:28:33 UTC",
     "news": [
         {
             "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
@@ -32,11 +32,6 @@
             "url": "https://thehackernews.com/2026/02/microsoft-patches-cve-2026-26119.html"
         },
         {
-            "title": "ThreatsDay Bulletin: OpenSSL RCE, Foxit 0-Days, Copilot Leak, AI Password Flaws & 20+ Stories",
-            "description": "[FEEDS.FEEDBURNER.COM] The cyber threat space doesn\u2019t pause, and this week makes that clear. New risks, new tactics, and new security gaps are showing up across platforms, tools, and industries \u2014 often all at the same...",
-            "url": "https://thehackernews.com/2026/02/threatsday-bulletin-openssl-rce-foxit-0.html"
-        },
-        {
             "title": "PromptSpy is the first known Android malware to use generative AI at runtime",
             "description": "[BLEEPINGCOMPUTER.COM] Researchers have discovered the first known Android malware to use generative AI in its execution flow, using Google's Gemini model to adapt its persistence across different devices. [...]",
             "url": "https://www.bleepingcomputer.com/news/security/promptspy-is-the-first-known-android-malware-to-use-generative-ai-at-runtime/"
@@ -52,29 +47,49 @@
             "url": "https://www.bleepingcomputer.com/news/security/google-blocked-over-175-million-play-store-app-submissions-in-2025/"
         },
         {
-            "title": "CISA orders feds to patch actively exploited Dell flaw within 3 days",
-            "description": "[BLEEPINGCOMPUTER.COM] The U.S. Cybersecurity and Infrastructure Security Agency (CISA) ordered government agencies to patch their systems within three days against a maximum-severity Dell vulnerability that has been under...",
-            "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-dell-flaw-within-3-days/"
-        },
-        {
-            "title": "How infostealers turn stolen credentials into real identities",
-            "description": "[BLEEPINGCOMPUTER.COM] Infostealer dumps increasingly tie stolen credentials to real identities, linking usernames, cookies, and behavior across personal and enterprise accounts. Specops explains how analyzing 90,000 dumps...",
-            "url": "https://www.bleepingcomputer.com/news/security/how-infostealers-turn-stolen-credentials-into-real-identities/"
-        },
-        {
             "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
             "description": "[CISA.GOV] CISA has added four new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2024-43468 Microsoft Configuration Manager SQL Injection...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/02/12/cisa-adds-four-known-exploited-vulnerabilities-catalog"
         },
         {
-            "title": "Three Former Google Engineers Indicted Over Trade Secret Transfers to Iran",
+            "title": "FBI Reports 1,900 ATM Jackpotting Incidents Since 2020, $20M Lost in 2025",
+            "description": "[FEEDS.FEEDBURNER.COM] The U.S. Federal Bureau of Investigation (FBI) has warned of an increase in ATM jackpotting incidents across the country, leading to losses of more than $20 million in 2025. The agency said 1,900 ATM...",
+            "url": "https://thehackernews.com/2026/02/fbi-reports-1900-atm-jackpotting.html"
+        },
+        {
+            "title": "Former Google Engineers Indicted Over Trade Secret Transfers to Iran",
             "description": "[FEEDS.FEEDBURNER.COM] Two former Google engineers and one of their husbands have been indicted in the U.S. for allegedly committing trade secret theft from the search giant and other tech firms and transferring the...",
             "url": "https://thehackernews.com/2026/02/three-former-google-engineers-indicted.html"
+        },
+        {
+            "title": "FBI: Over $20 million stolen in surge of ATM malware attacks in 2025",
+            "description": "[BLEEPINGCOMPUTER.COM] The FBI warned that Americans lost more than $20 million last year amid a massive surge in ATM \"jackpotting\" attacks, in which criminals use malware to force cash machines to dispense money. [...]",
+            "url": "https://www.bleepingcomputer.com/news/security/fbi-over-20-million-stolen-in-surge-of-atm-malware-attacks-in-2025/"
+        },
+        {
+            "title": "Ukrainian gets 5 years for helping North Koreans infiltrate US firms",
+            "description": "[BLEEPINGCOMPUTER.COM] A Ukrainian national was sentenced to five years in prison for providing North Korean IT workers with stolen identities that helped them infiltrate U.S. companies. [...]",
+            "url": "https://www.bleepingcomputer.com/news/security/ukrainian-gets-5-years-for-helping-north-koreans-infiltrate-us-firms/"
         },
         {
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
             "description": "[CISA.GOV] CISA has added one new vulnerability to its&nbsp;Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-1731 BeyondTrust Remote Support (RS) and Privileged...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/02/13/cisa-adds-one-known-exploited-vulnerability-catalog"
+        },
+        {
+            "title": "Texas Tech gets $149M for cybersecurity, EMP testing",
+            "description": "[AMARILLO GLOBE-NEWS] Texas Tech University received a $149 million grant from the state to boost national security research in EMP testing and cybersecurity.",
+            "url": "https://www.amarillo.com/story/news/local/2026/02/19/texas-tech-ttu-recieves-149-million-for-cybersecurity-emp-infratstrcture-national-security-reseach/88741530007/"
+        },
+        {
+            "title": "Texas Tech gets $149M for cybersecurity, EMP testing",
+            "description": "[LUBBOCK AVALANCHE-JOURNAL] Texas Tech University received a $149 million grant from the state to boost national security research in EMP testing and cybersecurity.",
+            "url": "https://www.lubbockonline.com/story/news/local/2026/02/19/texas-tech-ttu-recieves-149-million-for-cybersecurity-emp-infratstrcture-national-security-reseach/88741530007/"
+        },
+        {
+            "title": "Researchers find Tesla Model 3 and Cybertruck are hackable machines on wheels",
+            "description": "[DIGITAL TRENDS] Researchers show that Tesla\u2019s Model 3 and Cybertruck can be manipulated through internal network access, raising major concerns about cybersecurity in modern connected vehicles.",
+            "url": "https://www.digitaltrends.com/cars/researchers-find-tesla-model-3-and-cybertruck-are-hackable-machines-on-wheels/"
         },
         {
             "title": "UMMC confirms ransomware attack forcing clinics to close",
@@ -110,21 +125,6 @@
             "title": "AI and Critical Infrastructure Among Key Topics at Billington State and Local CyberSecurity Summit",
             "description": "[BUSINESS WIRE] AI and infrastructure are among the cyber topics being explored at the March 9-11 Billington State and Local CyberSecurity Summit in D.C.",
             "url": "https://www.businesswire.com/news/home/20260219569957/en/AI-and-Critical-Infrastructure-Among-Key-Topics-at-Billington-State-and-Local-CyberSecurity-Summit"
-        },
-        {
-            "title": "Google\u2019s threat intel chief explains why AI is now both the weapon and the target",
-            "description": "[FAST COMPANY] As rivals and nation-states try to extract proprietary models, John Hultquist says cybersecurity is entering an autonomous era.",
-            "url": "https://www.fastcompany.com/91494157/googles-threat-intel-chief-explains-why-ai-is-now-both-the-weapon-and-the-target"
-        },
-        {
-            "title": "iDefender Expands Enterprise Execution Intelligence with Vivechana, Niyanta, Niyanta AI and Bazar Bandhu",
-            "description": "[THE TRIBUNE] New Delhi [India], February 19: iDefender IT Services Pvt. Ltd., an enterprise IT and cybersecurity solutions provider founded in 2012, today announced the continued evolution of its integrated...",
-            "url": "https://www.tribuneindia.com/news/business/idefender-expands-enterprise-execution-intelligence-with-vivechana-niyanta-niyanta-ai-and-bazar-bandhu/"
-        },
-        {
-            "title": "Jeffs' Brands: KeepZone AI Enters into Distribution Agreement with Assac Networks to Distribute Cybersecurity Software",
-            "description": "[THE MANILA TIMES] Tel Aviv, Israel, Feb. 19, 2026 (GLOBE NEWSWIRE) -- Jeffs' Brands Ltd ('Jeffs\u2019 Brands\u201d or the 'Company\u201d) (Nasdaq: JFBR, JFBRW), a data-driven e-commerce company operating on the Amazon Marketplace...",
-            "url": "https://www.manilatimes.net/2026/02/19/tmt-newswire/globenewswire/jeffs-brands-keepzone-ai-enters-into-distribution-agreement-with-assac-networks-to-distribute-cybersecurity-software/2281085"
         }
     ]
 }
