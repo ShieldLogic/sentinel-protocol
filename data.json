@@ -1,5 +1,5 @@
 {
-    "updated": "2026-02-20 12:36:37 UTC",
+    "updated": "2026-02-20 14:34:49 UTC",
     "news": [
         {
             "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
@@ -17,24 +17,24 @@
             "url": "https://www.cisa.gov/news-events/alerts/2026/02/10/cisa-adds-six-known-exploited-vulnerabilities-catalog"
         },
         {
-            "title": "PromptSpy Android Malware Abuses Gemini AI to Automate Recent-Apps Persistence",
-            "description": "[FEEDS.FEEDBURNER.COM] Cybersecurity researchers have discovered what they say is the first Android malware that abuses Gemini, Google's generative artificial intelligence (AI) chatbot, as part of its execution flow and...",
-            "url": "https://thehackernews.com/2026/02/promptspy-android-malware-abuses-google.html"
-        },
-        {
             "title": "PromptSpy is the first known Android malware to use generative AI at runtime",
             "description": "[BLEEPINGCOMPUTER.COM] Researchers have discovered the first known Android malware to use generative AI in its execution flow, using Google's Gemini model to adapt its persistence across different devices. [...]",
             "url": "https://www.bleepingcomputer.com/news/security/promptspy-is-the-first-known-android-malware-to-use-generative-ai-at-runtime/"
         },
         {
-            "title": "Flaw in Grandstream VoIP phones allows stealthy eavesdropping",
-            "description": "[BLEEPINGCOMPUTER.COM] A critical vulnerability in Grandstream GXP1600 series VoIP phones allows a remote, unauthenticated attacker to gain root privileges and silently eavesdrop on communications. [...]",
-            "url": "https://www.bleepingcomputer.com/news/security/flaw-in-grandstream-voip-phones-allows-stealthy-eavesdropping/"
-        },
-        {
             "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
             "description": "[CISA.GOV] CISA has added four new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2024-43468 Microsoft Configuration Manager SQL Injection...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/02/12/cisa-adds-four-known-exploited-vulnerabilities-catalog"
+        },
+        {
+            "title": "Cline CLI 2.3.0 Supply Chain Attack Installed OpenClaw on Developer Systems",
+            "description": "[FEEDS.FEEDBURNER.COM] In yet another software supply chain attack, the open-source, artificial intelligence (AI)-powered coding assistant Cline CLI was updated to stealthily install OpenClaw, a self-hosted autonomous AI...",
+            "url": "https://thehackernews.com/2026/02/cline-cli-230-supply-chain-attack.html"
+        },
+        {
+            "title": "ClickFix Campaign Abuses Compromised Sites to Deploy MIMICRAT Malware",
+            "description": "[FEEDS.FEEDBURNER.COM] Cybersecurity researchers have disclosed details of a new ClickFix campaign that abuses compromised legitimate sites to deliver a previously undocumented remote access trojan (RAT) called MIMICRAT...",
+            "url": "https://thehackernews.com/2026/02/clickfix-campaign-abuses-compromised.html"
         },
         {
             "title": "Identity Cyber Scores: The New Metric Shaping Cyber Insurance in 2026",
@@ -52,9 +52,9 @@
             "url": "https://thehackernews.com/2026/02/fbi-reports-1900-atm-jackpotting.html"
         },
         {
-            "title": "Former Google Engineers Indicted Over Trade Secret Transfers to Iran",
-            "description": "[FEEDS.FEEDBURNER.COM] Two former Google engineers and one of their husbands have been indicted in the U.S. for allegedly committing trade secret theft from the search giant and other tech firms and transferring the...",
-            "url": "https://thehackernews.com/2026/02/three-former-google-engineers-indicted.html"
+            "title": "PayPal discloses data breach that exposed user info for 6 months",
+            "description": "[BLEEPINGCOMPUTER.COM] PayPal is notifying customers of a data breach after a software error in a loan application exposed their sensitive personal information, including Social Security numbers, for nearly 6 months last...",
+            "url": "https://www.bleepingcomputer.com/news/security/paypal-discloses-data-breach-exposing-users-personal-information/"
         },
         {
             "title": "Mississippi medical center closes all clinics after ransomware attack",
@@ -75,6 +75,16 @@
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
             "description": "[CISA.GOV] CISA has added one new vulnerability to its&nbsp;Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-1731 BeyondTrust Remote Support (RS) and Privileged...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/02/13/cisa-adds-one-known-exploited-vulnerability-catalog"
+        },
+        {
+            "title": "World Impact, Map Control Loops Across Industrial Infrastructure",
+            "description": "[ITWIRE] Three new OT threat groups identified including SYLVANITE linked to VOLTZITE/Volt Typhoon operations; ransomware groups with reach into OT environment...",
+            "url": "https://itwire.com/guest-articles/guest-research/dragos-ot-cybersecurity-report-adversaries-increase-real-world-impact,-map-control-loops-across-industrial-infrastructure.html"
+        },
+        {
+            "title": "'Secure chatbots or your wife may know your secrets'",
+            "description": "[TIMES OF INDIA] India Business News: New Delhi: What if your spouse discovers your deepest secrets by scrolling through your chatbot conversations? Nikesh Arora, CEO of cybersecurity gian.",
+            "url": "https://timesofindia.indiatimes.com/business/india-business/secure-chatbots-or-your-wife-may-know-your-secrets/articleshow/128584122.cms"
         },
         {
             "title": "Most jobs are not going anywhere soon; AI is good for deterministic problems right now: Nikesh Arora",
@@ -115,16 +125,6 @@
             "title": "UMMC confirms ransomware attack forcing clinics to close",
             "description": "[JACKSON CLARION-LEDGER] A ransomware attack on University of Mississippi Medical Center shut down IT systems and forced clinics to close. Federal agencies are investigating.",
             "url": "https://eu.clarionledger.com/story/news/2026/02/19/university-of-mississippi-medical-center-cyberattack-forces-clinics-to-close/88757906007/"
-        },
-        {
-            "title": "Behavioral Analytics Market to Reach USD 6,116.18 Million by 2032 Driven by AI Integration and Rising Cybersecurity Demand - Credence Research",
-            "description": "[PR NEWSWIRE UK] /PRNewswire/ -- The \"Behavioral Analytics Market \u2013 Growth, Share, Opportunities & Competitive Analysis, 2025 \u2013 2032\" report has been added to the Credence...",
-            "url": "https://www.prnewswire.co.uk/news-releases/behavioral-analytics-market-to-reach-usd-6-116-18-million-by-2032-driven-by-ai-integration-and-rising-cybersecurity-demand--credence-research-302692946.html"
-        },
-        {
-            "title": "Government Cyber Resilience Summit Philippines 2026 gears up to unite public sector leaders and global cybersecurity innovators",
-            "description": "[THE MANILA TIMES] THE Government Cyber Resilience Summit \u2013 Philippines Edition 2026 is set to convene senior public sector leaders, cybersecurity authorities, and global technology innovators on March 2, 2026 at...",
-            "url": "https://www.manilatimes.net/2026/02/20/tmt-newswire/government-cyber-resilience-summit-philippines-2026-gears-up-to-unite-public-sector-leaders-and-global-cybersecurity-innovators/2281496"
         }
     ]
 }
