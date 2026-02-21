@@ -1,5 +1,5 @@
 {
-    "updated": "2026-02-21 14:18:29 UTC",
+    "updated": "2026-02-21 16:18:11 UTC",
     "news": [
         {
             "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
@@ -17,6 +17,11 @@
             "url": "https://www.cisa.gov/news-events/alerts/2026/02/12/cisa-adds-four-known-exploited-vulnerabilities-catalog"
         },
         {
+            "title": "AI-Assisted Threat Actor Compromises 600+ FortiGate Devices in 55 Countries",
+            "description": "[FEEDS.FEEDBURNER.COM] A Russian-speaking, financially motivated threat actor has been observed taking advantage of commercial generative artificial intelligence (AI) services to compromise over 600 FortiGate devices...",
+            "url": "https://thehackernews.com/2026/02/ai-assisted-threat-actor-compromises.html"
+        },
+        {
             "title": "Anthropic Launches Claude Code Security for AI-Powered Vulnerability Scanning",
             "description": "[FEEDS.FEEDBURNER.COM] Artificial intelligence (AI) company Anthropic has begun to roll out a new security feature for Claude Code that can scan a user's software codebase for vulnerabilities and suggest patches. The...",
             "url": "https://thehackernews.com/2026/02/anthropic-launches-claude-code-security.html"
@@ -27,12 +32,17 @@
             "url": "https://thehackernews.com/2026/02/cisa-adds-two-actively-exploited.html"
         },
         {
+            "title": "Predator spyware hooks iOS SpringBoard to hide mic, camera activity",
+            "description": "[BLEEPINGCOMPUTER.COM] Intellexa's Predator spyware can hide iOS recording indicators while secretly streaming camera and microphone feeds to its operators. [...]",
+            "url": "https://www.bleepingcomputer.com/news/security/predator-spyware-hooks-ios-springboard-to-hide-mic-camera-activity/"
+        },
+        {
             "title": "EC-Council Expands AI Certification Portfolio to Strengthen U.S. AI Workforce Readiness and Security",
             "description": "[FEEDS.FEEDBURNER.COM] With $5.5 trillion in global AI risk exposure and 700,000 U.S. workers needing reskilling, four new AI certifications and Certified CISO v4 help close the gap between AI adoption and workforce...",
             "url": "https://thehackernews.com/2026/02/ec-council-expands-ai-certification.html"
         },
         {
-            "title": "Amazon: AI-assisted hacker breached 600 FortiGate firewalls in 5 weeks",
+            "title": "Amazon: AI-assisted hacker breached 600 Fortinet firewalls in 5 weeks",
             "description": "[BLEEPINGCOMPUTER.COM] Amazon is warning that a Russian-speaking hacker used multiple generative AI services as part of a campaign that breached more than 600 FortiGate firewalls across 55 countries in five weeks. [...]",
             "url": "https://www.bleepingcomputer.com/news/security/amazon-ai-assisted-hacker-breached-600-fortigate-firewalls-in-5-weeks/"
         },
@@ -45,11 +55,6 @@
             "title": "BeyondTrust Flaw Used for Web Shells, Backdoors, and Data Exfiltration",
             "description": "[FEEDS.FEEDBURNER.COM] Threat actors have been observed exploiting a recently disclosed critical security flaw impacting BeyondTrust Remote Support (RS) and Privileged Remote Access (PRA) products to conduct a wide range...",
             "url": "https://thehackernews.com/2026/02/beyondtrust-flaw-used-for-web-shells.html"
-        },
-        {
-            "title": "Cline CLI 2.3.0 Supply Chain Attack Installed OpenClaw on Developer Systems",
-            "description": "[FEEDS.FEEDBURNER.COM] In yet another software supply chain attack, the open-source, artificial intelligence (AI)-powered coding assistant Cline CLI was updated to stealthily install OpenClaw, a self-hosted autonomous AI...",
-            "url": "https://thehackernews.com/2026/02/cline-cli-230-supply-chain-attack.html"
         },
         {
             "title": "Japanese tech giant Advantest hit by ransomware attack",
@@ -67,14 +72,29 @@
             "url": "https://www.bleepingcomputer.com/news/security/data-breach-at-french-bank-registry-impacts-12-million-accounts/"
         },
         {
-            "title": "Why the shift left dream has become a nightmare for security and developers",
-            "description": "[BLEEPINGCOMPUTER.COM] The \"shift left\" approach has increased pressure on developers, as speed demands override security checks in modern CI pipelines. Qualys explains how analyzing 34,000 public container images revealed...",
-            "url": "https://www.bleepingcomputer.com/news/security/why-the-shift-left-dream-has-become-a-nightmare-for-security-and-developers/"
-        },
-        {
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
             "description": "[CISA.GOV] CISA has added one new vulnerability to its&nbsp;Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-1731 BeyondTrust Remote Support (RS) and Privileged...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/02/13/cisa-adds-one-known-exploited-vulnerability-catalog"
+        },
+        {
+            "title": "Why Anthropic's New AI Tool Claude Code Security Is Rattling Cybersecurity Stocks",
+            "description": "[BENZINGA] On Friday, Anthropic unveiled Claude Code Security, a new AI\u2011driven tool designed to autonomously hunt down software vulnerabilities and propose fixes.",
+            "url": "https://www.benzinga.com/markets/tech/26/02/50768056/why-anthropics-new-ai-tool-claude-code-security-is-rattling-cybersecurity-stocks"
+        },
+        {
+            "title": "Cybersecurity stocks hit sharply by Anthropic 'Claude Code Security'",
+            "description": "[THE ECONOMIC TIMES] Shares of companies in the cyber security solutions space have nosedived after America-based AI company Anthropic PBC unveiled a tool that is capable of autonomously finding and patching possible...",
+            "url": "https://economictimes.indiatimes.com/tech/technology/cybersecurity-stocks-hit-sharply-by-anthropic-claude-code-security/articleshow/128631892.cms"
+        },
+        {
+            "title": "Cybersecurity stocks hit sharply by Anthropic 'Claude Code Security'",
+            "description": "[NEWS18] Cybersecurity stocks hit sharply by Anthropic 'Claude Code Security'",
+            "url": "https://www.news18.com/agency-feeds/cybersecurity-stocks-hit-sharply-by-anthropic-claude-code-security-9920964.html"
+        },
+        {
+            "title": "Cybersecurity stocks hit sharply by Anthropic 'Claude Code Security'",
+            "description": "[THE TRIBUNE] Shares of companies in the cyber security solutions space have nosedived after America-based AI company Anthropic PBC unveiled a tool that is capable of autonomously finding and patching possible...",
+            "url": "https://www.tribuneindia.com/news/business/cybersecurity-stocks-hit-sharply-by-anthropic-claude-code-security/"
         },
         {
             "title": "Mississippi Hospital System Closes All Clinics After Ransomware Attack",
@@ -105,26 +125,6 @@
             "title": "Major cyberattack forces closure of clinics across Mississippi",
             "description": "[CABLE NEWS NETWORK] A ransomware attack has forced one of Mississippi\u2019s largest health care systems to close clinics across the state on Friday raising larger concerns about the cybersecurity of medical facilities...",
             "url": "https://edition.cnn.com/2026/02/20/politics/cyberattack-closes-clinics-mississippi"
-        },
-        {
-            "title": "Major cyberattack forces closure of clinics across Mississippi",
-            "description": "[ABC17NEWS.COM] By Sean Lyngaas, CNN (CNN) \u2014 A ransomware attack has forced one of Mississippi\u2019s largest health care systems to close clinics across the state on Friday raising larger concerns about the...",
-            "url": "https://abc17news.com/politics/national-politics/cnn-us-politics/2026/02/20/major-cyberattack-forces-closure-of-clinics-across-mississippi/"
-        },
-        {
-            "title": "Claude Code Security has broad implications for cybersecurity, says Jefferies",
-            "description": "[MARKETS INSIDER] After Anthropic announced the limited research preview of Claude Code Security, Jefferies said he views the announcement as mildly incremental t...",
-            "url": "https://markets.businessinsider.com/news/stocks/claude-code-security-has-broad-implications-for-cybersecurity-says-jefferies-1035852293"
-        },
-        {
-            "title": "YouTube TV billing scam emails are hitting inboxes",
-            "description": "[FOX NEWS] Cybersecurity expert reveals how to protect yourself from YouTube TV phishing scams using urgent billing alerts. Google confirms the emails are fraudulent.",
-            "url": "https://www.foxnews.com/tech/youtube-tv-billing-scam-emails-hitting-inboxes"
-        },
-        {
-            "title": "Govt weighs new cyber framework as Airtel unveils AI Threat Research Centre",
-            "description": "[LIVEMINT] India is planning new cybersecurity laws to combat AI-powered threats, supported by a new Airtel-Zscaler research centre that monitors 500 billion daily transactions.",
-            "url": "https://www.livemint.com/ai/artificial-intelligence/govt-weighs-new-cyber-framework-as-airtel-unveils-ai-threat-research-centre-11771601289911.html"
         }
     ]
 }
