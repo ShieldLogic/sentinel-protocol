@@ -1,10 +1,20 @@
 {
-    "updated": "2026-02-24 18:49:32 UTC",
+    "updated": "2026-02-24 20:25:05 UTC",
     "news": [
+        {
+            "title": "RoguePilot Flaw in GitHub Codespaces Enabled Copilot to Leak GITHUB_TOKEN",
+            "description": "[FEEDS.FEEDBURNER.COM] A vulnerability in GitHub Codespaces could have been exploited by bad actors to seize control of repositories by injecting malicious Copilot instructions in a GitHub issue. The artificial...",
+            "url": "https://thehackernews.com/2026/02/roguepilot-flaw-in-github-codespaces.html"
+        },
         {
             "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
             "description": "[CISA.GOV] CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2021-22175 GitLab Server-Side Request Forgery (SSRF)...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/02/18/cisa-adds-two-known-exploited-vulnerabilities-catalog"
+        },
+        {
+            "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+            "description": "[CISA.GOV] CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-25108 Soliton Systems K.K. FileZen OS Command Injection...",
+            "url": "https://www.cisa.gov/news-events/alerts/2026/02/24/cisa-adds-one-known-exploited-vulnerability-catalog"
         },
         {
             "title": "UAC-0050 Targets European Financial Institution With Spoofed Domain and RMS Malware",
@@ -37,11 +47,6 @@
             "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-adds-copilot-data-controls-to-all-storage-locations/"
         },
         {
-            "title": "Anthropic Says Chinese AI Firms Used 16 Million Claude Queries to Copy Model",
-            "description": "[FEEDS.FEEDBURNER.COM] Anthropic on Monday said it identified \"industrial-scale campaigns\" mounted by three artificial intelligence (AI) companies, DeepSeek, Moonshot AI, and MiniMax, to illegally extract Claude's...",
-            "url": "https://thehackernews.com/2026/02/anthropic-says-chinese-ai-firms-used-16.html"
-        },
-        {
             "title": "Identity-First AI Security: Why CISOs Must Add Intent to the Equation",
             "description": "[BLEEPINGCOMPUTER.COM] AI agents now provision infrastructure and approve actions, but many inherit over-scoped privileges without proper governance. Token Security explains why CISOs must treat agents as identities and...",
             "url": "https://www.bleepingcomputer.com/news/security/identity-first-ai-security-why-cisos-must-add-intent-to-the-equation/"
@@ -62,11 +67,6 @@
             "url": "https://www.cisa.gov/news-events/alerts/2026/02/17/cisa-adds-four-known-exploited-vulnerabilities-catalog"
         },
         {
-            "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
-            "description": "[CISA.GOV] CISA has added four new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2024-43468 Microsoft Configuration Manager SQL Injection...",
-            "url": "https://www.cisa.gov/news-events/alerts/2026/02/12/cisa-adds-four-known-exploited-vulnerabilities-catalog"
-        },
-        {
             "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
             "description": "[CISA.GOV] CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-49113 RoundCube Webmail Deserialization of Untrusted...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/02/20/cisa-adds-two-known-exploited-vulnerabilities-catalog"
@@ -75,6 +75,41 @@
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
             "description": "[CISA.GOV] CISA has added one new vulnerability to its&nbsp;Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-1731 BeyondTrust Remote Support (RS) and Privileged...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/02/13/cisa-adds-one-known-exploited-vulnerability-catalog"
+        },
+        {
+            "title": "Chandigarh University Becomes India's First Private University to Launch a Private Internet Technology Research Lab with India Internet Foundation",
+            "description": "[THE TRIBUNE] Chandigarh [India], February 24: The rapid advancements in the world of technology in recent decades have not only altered but transformed the dynamics of modern warfare completely. Amid rising cyber...",
+            "url": "https://www.tribuneindia.com/news/business/chandigarh-university-becomes-indias-first-private-university-to-launch-a-private-internet-technology-research-lab-with-india-internet-foundation/"
+        },
+        {
+            "title": "230,000 Australian driver licences exposed in ransomware attack on vehicle finance firm",
+            "description": "[PERTHNOW] If you\u2019ve applied for a car loan recently, your driver\u2019s licence may have been exposed in a data breach of an Australian firm.",
+            "url": "https://www.perthnow.com.au/lifestyle/motoring/230000-australian-driver-licences-exposed-in-ransomware-attack-on-vehicle-finance-firm-c-21741347"
+        },
+        {
+            "title": "230,000 Australian driver licences exposed in ransomware attack on vehicle finance firm",
+            "description": "[7NEWS AUSTRALIA] If you\u2019ve applied for a car loan recently, your driver\u2019s licence may have been exposed in a data breach of an Australian firm.",
+            "url": "https://7news.com.au/motoring/230000-australian-driver-licences-exposed-in-ransomware-attack-on-vehicle-finance-firm-c-21741346"
+        },
+        {
+            "title": "Wall Street Stumbles Between Trade Angst and Cybersecurity Panic",
+            "description": "[MARKETSCREENER] US indexes started the week sharply lower, squeezed between renewed trade tensions and a fresh wave of concern in the technology sector. Financial stocks are suffering from uncertainty over tariff...",
+            "url": "https://www.marketscreener.com/news/wall-street-stumbles-between-trade-angst-and-cybersecurity-panic-ce7e5dd3d089f62c"
+        },
+        {
+            "title": "What Have Retailers Learnt About Broadband Security in Online Sales Around Valentine\u2019s Day?",
+            "description": "[TECHBULLION] Valentine\u2019s Day is a highlight in the retail calendar, driving a surge in online shopping as consumers seek the perfect gifts for their loved ones. For retailers, this seasonal spike brings both...",
+            "url": "https://techbullion.com/what-have-retailers-learnt-about-broadband-security-in-online-sales-around-valentines-day/"
+        },
+        {
+            "title": "CNBC Daily Open: Unstable tariff situation and new AI disruption spark market sell-off",
+            "description": "[CNBC] Investors lost their sense of security in the business of cybersecurity companies after Anthropic on Friday launched an AI-powered security scanning tool.",
+            "url": "https://www.cnbc.com/2026/02/24/cnbc-daily-open-unstable-tariff-situation-and-new-ai-disruption-spark-market-sell-off.html"
+        },
+        {
+            "title": "India and Israel: Trade, Defence and Diplomacy",
+            "description": "[DECCAN CHRONICLE] New Delhi has steadily expanded cooperation with Israel across the defence, agriculture, technology and cybersecurity sectors",
+            "url": "https://www.deccanchronicle.com/nation/world/india-and-israel-trade-defence-and-diplomacy-1939484"
         },
         {
             "title": "Cybersecurity Stocks Slump After Anthropic AI Launch",
@@ -90,41 +125,6 @@
             "title": "4 Vijay Kedia stocks crash up to 20% on fears of AI-led disruption",
             "description": "[THE ECONOMIC TIMES] Shares of four companies backed by ace investor Vijay Kedia tumbled up to 20% on Tuesday after investors reacted to AI startup Anthropics new security tool, Claude Code Security, which detects and...",
             "url": "https://economictimes.indiatimes.com/markets/stocks/news/4-vijay-kedia-stocks-crash-up-to-20-on-fears-of-ai-led-disruption/articleshow/128742349.cms"
-        },
-        {
-            "title": "IBM shares sink 13%, record steepest drop in 25 years after Anthropic says AI can modernise COBOL",
-            "description": "[THE ECONOMIC TIMES] Shares of IBM plunged 13.2% Monday, marking their steepest single-day drop in over 25 years, after AI startup Anthropic said its Claude Code tool can modernise COBOL, the legacy programming language...",
-            "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/ibm-shares-sink-13-record-steepest-drop-in-25-years-after-anthropic-says-ai-can-modernise-cobol/articleshow/128741710.cms"
-        },
-        {
-            "title": "What is Claude Code Security? The new Anthropic AI tool that wiped billions off cybersecurity stocks",
-            "description": "[LIVEMINT] Anthropic has launched Claude Code Security, an AI tool that scans code for vulnerabilities and suggests patches. The newtool led to a significant drop in shares for several cybersecurity companies.",
-            "url": "https://www.livemint.com/technology/tech-news/what-is-claude-code-security-the-new-anthropic-ai-tool-that-wiped-billions-off-cybersecurity-stocks-11771906327079.html"
-        },
-        {
-            "title": "WatchGuard Marks 30 Years of Setting the MSP Security Standard",
-            "description": "[THE MANILA TIMES] Cybersecurity leader has helped MSPs reduce complexity, scale protection, and profitably grow through every market shift",
-            "url": "https://www.manilatimes.net/2026/02/24/tmt-newswire/globenewswire/watchguard-marks-30-years-of-setting-the-msp-security-standard/2283506"
-        },
-        {
-            "title": "Asian shares are mixed after heavy selling of potential AI losers hits Wall Street",
-            "description": "[THE ATLANTA JOURNAL-CONSTITUTION] Shares are mixed in Asia after U.S. stocks slumped on heavy selling of shares in companies that could be losers in the artificial-intelligence boom. U.S. futures climbed. Markets in mainland China...",
-            "url": "https://www.ajc.com/news/2026/02/asian-shares-are-mixed-after-heavy-selling-of-potential-ai-losers-hits-wall-street/"
-        },
-        {
-            "title": "Creative Newtech Partners With Kaspersky to Expand Cybersecurity Portfolio",
-            "description": "[SCANX.TRADE] Creative Newtech Limited has formed a strategic partnership with global cybersecurity company Kaspersky to distribute comprehensive cybersecurity solutions across North, West, and East India. The...",
-            "url": "https://scanx.trade/stock-market-news/stocks/creative-newtech-partners-with-kaspersky-to-strengthen-cybersecurity-services-across-india/33453091"
-        },
-        {
-            "title": "CrowdStrike, Datadog and other cybersecurity stocks slide after Anthropic's AI tool launch",
-            "description": "[THE ECONOMIC TIMES] Shares of cybersecurity firms like CrowdStrike and Datadog fell sharply Monday. This followed the launch of Anthropic's new tool, Claude Code Security. The feature detects vulnerabilities in...",
-            "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/crowdstrike-datadog-and-other-cybersecurity-stocks-slide-after-anthropics-ai-tool-launch/articleshow/128738203.cms"
-        },
-        {
-            "title": "What's Anthropic\u2019s Claude Code Security that has shaken cybersecurity stocks",
-            "description": "[CNBC TV18] Anthropic says that Claude Code Security is an AI-driven system that scans entire codebases to identify vulnerabilities, prioritises serious risks, and recommends patches for human review. However,...",
-            "url": "https://www.cnbctv18.com/technology/what-is-anthropic-claude-code-security-that-has-shaken-cybersecurity-stocks-crowdstrike-datadog-zscaler-ws-el-19856348.htm"
         }
     ]
 }
