@@ -1,10 +1,15 @@
 {
-    "updated": "2026-02-24 16:56:32 UTC",
+    "updated": "2026-02-24 18:49:32 UTC",
     "news": [
         {
             "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
             "description": "[CISA.GOV] CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2021-22175 GitLab Server-Side Request Forgery (SSRF)...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/02/18/cisa-adds-two-known-exploited-vulnerabilities-catalog"
+        },
+        {
+            "title": "UAC-0050 Targets European Financial Institution With Spoofed Domain and RMS Malware",
+            "description": "[FEEDS.FEEDBURNER.COM] A Russia-aligned threat actor has been observed targeting a European financial institution as part of a social engineering attack to likely facilitate intelligence gathering or financial theft,...",
+            "url": "https://thehackernews.com/2026/02/uac-0050-targets-european-financial.html"
         },
         {
             "title": "Identity Prioritization isn't a Backlog Problem - It's a Risk Math Problem",
@@ -20,6 +25,16 @@
             "title": "UnsolicitedBooker Targets Central Asian Telecoms With LuciDoor and MarsSnake Backdoors",
             "description": "[FEEDS.FEEDBURNER.COM] The threat activity cluster known as UnsolicitedBooker has been observed targeting telecommunications companies in Kyrgyzstan and Tajikistan, marking a shift from prior attacks aimed at Saudi Arabian...",
             "url": "https://thehackernews.com/2026/02/unsolicitedbooker-targets-central-asian.html"
+        },
+        {
+            "title": "CarGurus data breach exposes information of 12.4 million accounts",
+            "description": "[BLEEPINGCOMPUTER.COM] The ShinyHunters extortion group has published personal information in more than 12 million records allegedly stolen from CarGurus, a U.S.-based digital auto platform. [...]",
+            "url": "https://www.bleepingcomputer.com/news/security/cargurus-data-breach-exposes-information-of-124-million-accounts/"
+        },
+        {
+            "title": "Microsoft adds Copilot data controls to all storage locations",
+            "description": "[BLEEPINGCOMPUTER.COM] Microsoft is expanding data loss prevention (DLP) controls to block the Microsoft 365 Copilot AI assistant from processing confidential Word, Excel, and PowerPoint documents, regardless of their...",
+            "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-adds-copilot-data-controls-to-all-storage-locations/"
         },
         {
             "title": "Anthropic Says Chinese AI Firms Used 16 Million Claude Queries to Copy Model",
@@ -42,21 +57,6 @@
             "url": "https://www.bleepingcomputer.com/news/security/critical-solarwinds-serv-u-flaws-offer-root-access-to-servers/"
         },
         {
-            "title": "ShinyHunters extortion gang claims Odido breach affecting millions",
-            "description": "[BLEEPINGCOMPUTER.COM] The ShinyHunters extortion gang has claimed responsibility for breaching Dutch telecommunications provider Odido and stealing millions of user records from its compromised systems. [...]",
-            "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-extortion-gang-claims-odido-breach-affecting-millions/"
-        },
-        {
-            "title": "North Korean Lazarus group linked to Medusa ransomware attacks",
-            "description": "[BLEEPINGCOMPUTER.COM] North Korean state-backed hackers associated with the Lazarus threat group are targeting U.S. healthcare organizations in extortion attacks using the Medusa ransomware. [...]",
-            "url": "https://www.bleepingcomputer.com/news/security/north-korean-lazarus-group-linked-to-medusa-ransomware-attacks/"
-        },
-        {
-            "title": "APT28 Targeted European Entities Using Webhook-Based Macro Malware",
-            "description": "[FEEDS.FEEDBURNER.COM] The Russia-linked state-sponsored threat actor tracked as APT28 has been attributed to a new campaign targeting specific entities in Western and Central Europe. The activity, per S2 Grupo's LAB52...",
-            "url": "https://thehackernews.com/2026/02/apt28-targeted-european-entities-using.html"
-        },
-        {
             "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
             "description": "[CISA.GOV] CISA has added four new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2008-0015 Microsoft Windows Video ActiveX Control Remote...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/02/17/cisa-adds-four-known-exploited-vulnerabilities-catalog"
@@ -77,6 +77,36 @@
             "url": "https://www.cisa.gov/news-events/alerts/2026/02/13/cisa-adds-one-known-exploited-vulnerability-catalog"
         },
         {
+            "title": "Cybersecurity Stocks Slump After Anthropic AI Launch",
+            "description": "[COINTELEGRAPH] Leading cybersecurity stocks shed billions in market cap after Anthropic launched an AI tool that scans codebases for vulnerabilities.",
+            "url": "https://cointelegraph.com/news/cybersecurity-stocks-tank-following-launch-claude-code-security"
+        },
+        {
+            "title": "AI coming for cybersecurity too? Anthropic fear hits another corner of Indian stock market",
+            "description": "[THE ECONOMIC TIMES] Cybersecurity stocks in India and the US fell sharply after Anthropic launched Claude Code Security, raising concerns about AI-driven disruption in legacy systems and vulnerability management. Indian...",
+            "url": "https://economictimes.indiatimes.com/markets/stocks/news/ai-coming-for-cybersecurity-too-anthropic-fear-hits-another-corner-of-indian-stock-market/articleshow/128742419.cms"
+        },
+        {
+            "title": "4 Vijay Kedia stocks crash up to 20% on fears of AI-led disruption",
+            "description": "[THE ECONOMIC TIMES] Shares of four companies backed by ace investor Vijay Kedia tumbled up to 20% on Tuesday after investors reacted to AI startup Anthropics new security tool, Claude Code Security, which detects and...",
+            "url": "https://economictimes.indiatimes.com/markets/stocks/news/4-vijay-kedia-stocks-crash-up-to-20-on-fears-of-ai-led-disruption/articleshow/128742349.cms"
+        },
+        {
+            "title": "IBM shares sink 13%, record steepest drop in 25 years after Anthropic says AI can modernise COBOL",
+            "description": "[THE ECONOMIC TIMES] Shares of IBM plunged 13.2% Monday, marking their steepest single-day drop in over 25 years, after AI startup Anthropic said its Claude Code tool can modernise COBOL, the legacy programming language...",
+            "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/ibm-shares-sink-13-record-steepest-drop-in-25-years-after-anthropic-says-ai-can-modernise-cobol/articleshow/128741710.cms"
+        },
+        {
+            "title": "What is Claude Code Security? The new Anthropic AI tool that wiped billions off cybersecurity stocks",
+            "description": "[LIVEMINT] Anthropic has launched Claude Code Security, an AI tool that scans code for vulnerabilities and suggests patches. The newtool led to a significant drop in shares for several cybersecurity companies.",
+            "url": "https://www.livemint.com/technology/tech-news/what-is-claude-code-security-the-new-anthropic-ai-tool-that-wiped-billions-off-cybersecurity-stocks-11771906327079.html"
+        },
+        {
+            "title": "WatchGuard Marks 30 Years of Setting the MSP Security Standard",
+            "description": "[THE MANILA TIMES] Cybersecurity leader has helped MSPs reduce complexity, scale protection, and profitably grow through every market shift",
+            "url": "https://www.manilatimes.net/2026/02/24/tmt-newswire/globenewswire/watchguard-marks-30-years-of-setting-the-msp-security-standard/2283506"
+        },
+        {
             "title": "Asian shares are mixed after heavy selling of potential AI losers hits Wall Street",
             "description": "[THE ATLANTA JOURNAL-CONSTITUTION] Shares are mixed in Asia after U.S. stocks slumped on heavy selling of shares in companies that could be losers in the artificial-intelligence boom. U.S. futures climbed. Markets in mainland China...",
             "url": "https://www.ajc.com/news/2026/02/asian-shares-are-mixed-after-heavy-selling-of-potential-ai-losers-hits-wall-street/"
@@ -95,36 +125,6 @@
             "title": "What's Anthropic\u2019s Claude Code Security that has shaken cybersecurity stocks",
             "description": "[CNBC TV18] Anthropic says that Claude Code Security is an AI-driven system that scans entire codebases to identify vulnerabilities, prioritises serious risks, and recommends patches for human review. However,...",
             "url": "https://www.cnbctv18.com/technology/what-is-anthropic-claude-code-security-that-has-shaken-cybersecurity-stocks-crowdstrike-datadog-zscaler-ws-el-19856348.htm"
-        },
-        {
-            "title": "Cybersecurity stocks are the latest AI victim. Analysts say buy the dip",
-            "description": "[CNBC TV18] Analysts from across Wall Street believe that the fears are overblown, and delivered names they think will outperform the most.",
-            "url": "https://www.cnbctv18.com/market/cybersecurity-stocks-are-the-latest-ai-victim-analysts-say-buy-the-dip-ws-l-19856344.htm"
-        },
-        {
-            "title": "CNBC Daily Open: AI fears and tariff confusion spook U.S. markets",
-            "description": "[CNBC] Investors lost their sense of security in the business of cybersecurity companies after Anthropic on Friday launched an AI-powered security scanning tool.",
-            "url": "https://www.cnbc.com/2026/02/24/cnbc-daily-open-ai-fears-and-tariff-confusion-spook-us-markets.html"
-        },
-        {
-            "title": "Cybersecurity stocks slide as Anthropic launches Claude Code Security amid AI fears",
-            "description": "[THE HINDU BUSINESS LINE] CrowdStrike, Datadog and peers fall up to 11% after Anthropic unveils Claude Code Security, intensifying AI disruption fears in cybersecurity stocks.",
-            "url": "https://www.thehindubusinessline.com/markets/cybersecurity-stocks-tumble-as-anthropic-unveils-claude-code-security-tool/article70669528.ece"
-        },
-        {
-            "title": "Data centres, GCCs powering India\u2019s tech stack",
-            "description": "[THE HINDU BUSINESS LINE] Global enterprises rely on India teams for engineering leadership, data strategy, AI model development and cybersecurity",
-            "url": "https://www.thehindubusinessline.com/opinion/data-centres-gccs-powering-indias-tech-stack/article70667453.ece"
-        },
-        {
-            "title": "ons won\u2019t help IT, cybersecurity weather this storm",
-            "description": "[THE ECONOMIC TIMES] In less than ten days, Anthropic triggered two separate stock selloffs across enterprise technology. First, its Cowork agent shook IT services stocks. Then, late last week, it launched Claude Code...",
-            "url": "https://economictimes.indiatimes.com/tech/technology/why-ai-bolt-ons-wont-help-it-cybersecurity-weather-this-storm/articleshow/128718494.cms"
-        },
-        {
-            "title": "CrowdStrike, Datadog and other cybersecurity stocks slide after Anthropic's AI tool launch",
-            "description": "[THE STAR] Feb 23 (Reuters) - \u2060Shares of cybersecurity companies including CrowdStrike and Datadog slumped \u2060on Monday, as investors weighed the potential impact of \u200cartificial intelligence startup Anthropic's...",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/02/24/crowdstrike-datadog-and-other-cybersecurity-stocks-slide-after-anthropic039s-ai-tool-launch"
         }
     ]
 }
