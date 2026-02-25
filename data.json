@@ -1,6 +1,11 @@
 {
-    "updated": "2026-02-25 12:41:25 UTC",
+    "updated": "2026-02-25 14:43:09 UTC",
     "news": [
+        {
+            "title": "Malicious NuGet Packages Stole ASP.NET Data; npm Package Dropped Malware",
+            "description": "[FEEDS.FEEDBURNER.COM] Cybersecurity researchers have discovered four malicious NuGet packages that are designed to target ASP.NET web application developers to steal sensitive data. The campaign, discovered by Socket,...",
+            "url": "https://thehackernews.com/2026/02/malicious-nuget-packages-stole-aspnet.html"
+        },
         {
             "title": "Manual Processes Are Putting National Security at Risk",
             "description": "[FEEDS.FEEDBURNER.COM] Why automating sensitive data transfers is now a mission-critical priority More than half of national security organizations still rely on manual processes to transfer sensitive data, according to...",
@@ -22,6 +27,11 @@
             "url": "https://thehackernews.com/2026/02/cisa-confirms-active-exploitation-of.html"
         },
         {
+            "title": "Zyxel warns of critical RCE flaw affecting over a dozen routers",
+            "description": "[BLEEPINGCOMPUTER.COM] Taiwan networking provider Zyxel has released security updates to address a critical vulnerability affecting over a dozen router models that can allow unauthenticated attackers to gain remote command...",
+            "url": "https://www.bleepingcomputer.com/news/security/zyxel-warns-of-critical-rce-flaw-affecting-over-a-dozen-routers/"
+        },
+        {
             "title": "US sanctions Russian broker for buying stolen zero-day exploits",
             "description": "[BLEEPINGCOMPUTER.COM] The U.S. Treasury Department has sanctioned a Russian exploit broker who bought stolen hacking tools from a former executive of a U.S. defense contractor. [...]",
             "url": "https://www.bleepingcomputer.com/news/security/us-sanctions-russian-exploit-broker-for-buying-stolen-zero-days/"
@@ -35,11 +45,6 @@
             "title": "Windows 11 KB5077241 update improves BitLocker, adds Sysmon tool",
             "description": "[BLEEPINGCOMPUTER.COM] Microsoft has released the KB5077241 optional cumulative update for Windows 11, which comes with 29 changes, including improvements to BitLocker, a new network speed test tool, and native System...",
             "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5077241-update-improves-bitlocker-adds-sysmon-tool/"
-        },
-        {
-            "title": "RoguePilot Flaw in GitHub Codespaces Enabled Copilot to Leak GITHUB_TOKEN",
-            "description": "[FEEDS.FEEDBURNER.COM] A vulnerability in GitHub Codespaces could have been exploited by bad actors to seize control of repositories by injecting malicious Copilot instructions in a GitHub issue. The artificial...",
-            "url": "https://thehackernews.com/2026/02/roguepilot-flaw-in-github-codespaces.html"
         },
         {
             "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
@@ -57,11 +62,6 @@
             "url": "https://www.bleepingcomputer.com/news/security/phishing-campaign-targets-freight-and-logistics-orgs-in-the-us-europe/"
         },
         {
-            "title": "Wynn Resorts confirms employee data breach after extortion threat",
-            "description": "[BLEEPINGCOMPUTER.COM] Wynn Resorts has confirmed that a hacker stole employee data from its systems after the company was listed on the ShinyHunters extortion gang's data leak site. [...]",
-            "url": "https://www.bleepingcomputer.com/news/security/wynn-resorts-confirms-employee-data-breach-after-extortion-threat/"
-        },
-        {
             "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
             "description": "[CISA.GOV] CISA has added four new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2008-0015 Microsoft Windows Video ActiveX Control Remote...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/02/17/cisa-adds-four-known-exploited-vulnerabilities-catalog"
@@ -75,6 +75,16 @@
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
             "description": "[CISA.GOV] CISA has added one new vulnerability to its&nbsp;Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-1731 BeyondTrust Remote Support (RS) and Privileged...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/02/13/cisa-adds-one-known-exploited-vulnerability-catalog"
+        },
+        {
+            "title": "IT, BFSI & telecom headline India's AI cybersecurity push",
+            "description": "[THE ECONOMIC TIMES] BFSI surges ahead: Global BFSI AI market projected to reach $64.3 billion by 2030, with India among the fastest-growing contributors",
+            "url": "https://economictimes.indiatimes.com/tech/technology/it-bfsi-telecom-headline-indias-ai-cybersecurity-push/articleshow/128768089.cms"
+        },
+        {
+            "title": "PM Modi in Israel Live: Narendra Modi set for two-day Israel tour, visit to boost defense and tech partnership",
+            "description": "[INDIA.COM] As per the reports, New Delhi and Tel Aviv are likely to announce an updated security agreement, as both countries seek closer collaboration in emerging domains such as artificial intelligence,...",
+            "url": "https://www.india.com/news/world/pm-narendra-modi-israel-tel-aviv-jerusalem-benjamin-netanyahu-artificial-intelligence-quantum-technologies-cybersecurity-reuven-azar-jaishankar-united-states-donald-trump-8320846/"
         },
         {
             "title": "Exabeam Research: AI Accountability Becomes the New Mandate as Cybersecurity Economics Shift",
@@ -115,16 +125,6 @@
             "title": "Palo Alto Networks: Organic Growth Begins To Normalize (NASDAQ:PANW)",
             "description": "[SEEKING ALPHA] Palo Alto Networks stock has tumbled year-to-date. Read why investors should take a second look at the cybersecurity giant.",
             "url": "https://seekingalpha.com/article/4874015-palo-alto-networks-organic-growth-begins-to-normalize-q3-eps-miss-driven-by-share-dilution"
-        },
-        {
-            "title": "Software stocks rebound as Anthropic announces new partnerships",
-            "description": "[CNBC] Cybersecurity and software names have sold off heavily in recent weeks as investors fretted about potential disruption from artificial intelligence.",
-            "url": "https://www.cnbc.com/2026/02/24/software-stocks-anthropic-ai.html"
-        },
-        {
-            "title": "Why forcing AI firms to report online threats may not be simple",
-            "description": "[CHEK NEWS] A cybersecurity law expert says Canada could introduce laws requiring that artificial intelligence companies notify police of online threats, but the process would not be a simple one, since...",
-            "url": "https://cheknews.ca/why-forcing-ai-firms-to-report-online-threats-may-not-be-simple-1307408/"
         }
     ]
 }
