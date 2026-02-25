@@ -1,10 +1,25 @@
 {
-    "updated": "2026-02-25 16:59:10 UTC",
+    "updated": "2026-02-25 18:53:38 UTC",
     "news": [
+        {
+            "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+            "description": "[CISA.GOV] CISA has added&nbsp;two&nbsp;new&nbsp;vulnerabilities&nbsp;to its&nbsp;Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation.&nbsp;...",
+            "url": "https://www.cisa.gov/news-events/alerts/2026/02/25/cisa-adds-two-known-exploited-vulnerabilities-catalog"
+        },
         {
             "title": "CISA and Partners Release Guidance for Ongoing Global Exploitation of Cisco SD-WAN Systems",
             "description": "[CISA.GOV] The purpose of this Alert is to provide resources for organizations with Cisco Software-Defined Wide-Area Networking (SD-WAN) systems, including Federal Civilian Executive Branch (FCEB) agencies, to...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/02/25/cisa-and-partners-release-guidance-ongoing-global-exploitation-cisco-sd-wan-systems"
+        },
+        {
+            "title": "Google Disrupts UNC2814 GRIDTIDE Campaign After 53 Breaches Across 42 Countries",
+            "description": "[FEEDS.FEEDBURNER.COM] Google on Wednesday disclosed that it worked with industry partners to disrupt the infrastructure of a suspected China-nexus cyber espionage group tracked as UNC2814 that breached at least 53...",
+            "url": "https://thehackernews.com/2026/02/google-disrupts-unc2814-gridtide.html"
+        },
+        {
+            "title": "Claude Code Flaws Allow Remote Code Execution and API Key Exfiltration",
+            "description": "[FEEDS.FEEDBURNER.COM] Cybersecurity researchers have disclosed multiple security vulnerabilities in Anthropic's Claude Code, an artificial intelligence (AI)-powered coding assistant, that could result in remote code...",
+            "url": "https://thehackernews.com/2026/02/claude-code-flaws-allow-remote-code.html"
         },
         {
             "title": "SLH Offers $500\u2013$1,000 Per Call to Recruit Women for IT Help Desk Vishing Attacks",
@@ -22,14 +37,14 @@
             "url": "https://thehackernews.com/2026/02/malicious-nuget-packages-stole-aspnet.html"
         },
         {
-            "title": "Manual Processes Are Putting National Security at Risk",
-            "description": "[FEEDS.FEEDBURNER.COM] Why automating sensitive data transfers is now a mission-critical priority More than half of national security organizations still rely on manual processes to transfer sensitive data, according to...",
-            "url": "https://thehackernews.com/2026/02/manual-processes-are-putting-national.html"
+            "title": "Critical Cisco SD-WAN bug exploited in zero-day attacks since 2023",
+            "description": "[BLEEPINGCOMPUTER.COM] Cisco is warning that a critical authentication bypass vulnerability in Cisco Catalyst SD-WAN, tracked as CVE-2026-20127, was actively exploited in zero-day attacks that allowed remote attackers to...",
+            "url": "https://www.bleepingcomputer.com/news/security/critical-cisco-sd-wan-bug-exploited-in-zero-day-attacks-since-2023/"
         },
         {
-            "title": "Defense Contractor Employee Jailed for Selling 8 Zero-Days to Russian Broker",
-            "description": "[FEEDS.FEEDBURNER.COM] A 39-year-old Australian national who was previously employed at U.S. defense contractor L3Harris has been sentenced to a little over seven years in prison for selling eight zero-day exploits to...",
-            "url": "https://thehackernews.com/2026/02/defense-contractor-employee-jailed-for.html"
+            "title": "Chinese cyberspies breached dozens of telecom firms, govt agencies",
+            "description": "[BLEEPINGCOMPUTER.COM] Google's Threat Intelligence Group (GTIG), Mandiant, and partners disrupted a global espionage campaign attributed to a suspected Chinese threat actor that used SaaS API calls to hide malicious...",
+            "url": "https://www.bleepingcomputer.com/news/security/chinese-cyberspies-breached-dozens-of-telecom-firms-govt-agencies/"
         },
         {
             "title": "Marquis sues SonicWall over backup breach that led to ransomware attack",
@@ -47,16 +62,6 @@
             "url": "https://www.bleepingcomputer.com/news/security/zyxel-warns-of-critical-rce-flaw-affecting-over-a-dozen-routers/"
         },
         {
-            "title": "US sanctions Russian broker for buying stolen zero-day exploits",
-            "description": "[BLEEPINGCOMPUTER.COM] The U.S. Treasury Department has sanctioned a Russian exploit broker who bought stolen hacking tools from a former executive of a U.S. defense contractor. [...]",
-            "url": "https://www.bleepingcomputer.com/news/security/us-sanctions-russian-exploit-broker-for-buying-stolen-zero-days/"
-        },
-        {
-            "title": "Ex-L3Harris exec jailed for selling zero-days to Russian exploit broker",
-            "description": "[BLEEPINGCOMPUTER.COM] The former head of Trenchant, a specialized U.S. defense contractor unit, was sentenced Tuesday to more than seven years in federal prison for stealing and selling zero-day exploits to a Russian...",
-            "url": "https://www.bleepingcomputer.com/news/security/ex-l3harris-exec-jailed-for-selling-zero-days-to-russian-exploit-broker/"
-        },
-        {
             "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
             "description": "[CISA.GOV] CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2021-22175 GitLab Server-Side Request Forgery (SSRF)...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/02/18/cisa-adds-two-known-exploited-vulnerabilities-catalog"
@@ -67,14 +72,34 @@
             "url": "https://www.cisa.gov/news-events/alerts/2026/02/24/cisa-adds-one-known-exploited-vulnerability-catalog"
         },
         {
-            "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
-            "description": "[CISA.GOV] CISA has added four new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2008-0015 Microsoft Windows Video ActiveX Control Remote...",
-            "url": "https://www.cisa.gov/news-events/alerts/2026/02/17/cisa-adds-four-known-exploited-vulnerabilities-catalog"
-        },
-        {
             "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
             "description": "[CISA.GOV] CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-49113 RoundCube Webmail Deserialization of Untrusted...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/02/20/cisa-adds-two-known-exploited-vulnerabilities-catalog"
+        },
+        {
+            "title": "Multibagger IPO: NSE SME-listed cybersecurity stock doubles allottees' money in five months",
+            "description": "[LIVEMINT] TechD Cybersecurity doubled investors' funds in five months post-IPO, but shares fell over 12% amid AI replacement concerns. CEO Sunny Vaghela emphasized AI enhances rather than replaces...",
+            "url": "https://www.livemint.com/market/stock-market-news/multibagger-ipo-nse-sme-listed-cybersecurity-stock-doubles-allottees-money-in-five-months-11771997877404.html"
+        },
+        {
+            "title": "Why Smart Business Owners Treat Technology as a Growth Strategy",
+            "description": "[TECHBULLION] Many small businesses view technology as a necessary expense rather than a competitive advantage. Computers, software, and cybersecurity tools are often purchased reactively, usually after something...",
+            "url": "https://techbullion.com/why-smart-business-owners-treat-technology-as-a-growth-strategy/"
+        },
+        {
+            "title": "Rabia Khatoon balances cybersecurity and ERP modernisation in a high-reliability public-sector",
+            "description": "[THE NATION] Modernising public-sector operations is often discussed as a software upgrade, but the real test comes when the systems being changed are the same ones that keep",
+            "url": "https://www.nation.com.pk/25-Feb-2026/rabia-khatoon-balances-cybersecurity-erp-modernisation-high-reliability-public-sector-environment"
+        },
+        {
+            "title": "AI & Automation to Data & Analytics, 5 essential skill stacks for career success",
+            "description": "[CNBC TV18] LinkedIn's Skills on the Rise 2026 report reveals top skill stacks like AI, Data Analytics, Cybersecurity, and Leadership for thriving in India's job market.",
+            "url": "https://www.cnbctv18.com/education/ai-automation-to-data-analytics-5-essential-skill-stacks-for-career-success-ws-l-19857361.htm"
+        },
+        {
+            "title": "Qadden Raises the Bar in Cybersecurity and Fraud Prevention for Digital Payments",
+            "description": "[TECHBULLION] As digital payments grow, so do the threats around them. Fraud is no longer limited to simple stolen cards or basic phishing attempts. Today\u2019s attackers use automation, botnets, identity spoofing,...",
+            "url": "https://techbullion.com/qadden-raises-the-bar-in-cybersecurity-and-fraud-prevention-for-digital-payments/"
         },
         {
             "title": "India, Israel to boost counter terror coop through best practice sharing",
@@ -100,31 +125,6 @@
             "title": "Black Hat Asia 2026 to Unveil Groundbreaking Research on AI Threats and Supply Chain Vulnerabilities",
             "description": "[BUSINESS WIRE] Black Hat, the cybersecurity industry\u2019s most established and in-depth security event series, today announced the content preview for Black Hat Asia 2026, the...",
             "url": "https://www.businesswire.com/news/home/20260224996636/en/Black-Hat-Asia-2026-to-Unveil-Groundbreaking-Research-on-AI-Threats-and-Supply-Chain-Vulnerabilities"
-        },
-        {
-            "title": "AlgoSec Achieves Protected Level under the Australian Government\u2019s Infosec Registered Assessors Programme (IRAP) Framework",
-            "description": "[BUSINESS WIRE] AlgoSec's SaaS platform has been assessed and certified to the Protected level under the Infosec Registered Assessors Programme (IRAP) framework.",
-            "url": "https://www.businesswire.com/news/home/20260224332051/en/AlgoSec-Achieves-Protected-Level-under-the-Australian-Governments-Infosec-Registered-Assessors-Programme-IRAP-Framework"
-        },
-        {
-            "title": "Cybersecurity Stocks Are Cratering On AI Threat: Is This A Buy Opportunity?",
-            "description": "[BENZINGA] Cybersecurity stocks plunged after Anthropic unveiled its AI code\u2011scanning tool, sparking fears of margin pressure, though analysts say the selloff overlooks the strengths of full\u2011scale runtime...",
-            "url": "https://www.benzinga.com/markets/tech/26/02/50834000/cybersecurity-stocks-fall-anthropic-claude-code-security-buy-opportunity"
-        },
-        {
-            "title": "Forum: Health providers will be supported through cybersecurity transition",
-            "description": "[THE STRAITS TIMES] Read more at straitstimes.com.",
-            "url": "https://www.straitstimes.com/opinion/forum/forum-health-providers-will-be-supported-through-cybersecurity-transition"
-        },
-        {
-            "title": "U.S. Targets Cybersecurity Threats with New Sanctions",
-            "description": "[DEVDISCOURSE] The U.S. has imposed sanctions on individuals and entities in Russia and the UAE for cyber threats to its national security. These actions are tied to the theft of trade secrets by a former...",
-            "url": "https://www.devdiscourse.com/article/law-order/3816558-us-targets-cybersecurity-threats-with-new-sanctions"
-        },
-        {
-            "title": "The violent software sell-off pauses. Wall Street says bet on these stocks to bounce",
-            "description": "[CNBC] Some analysts believe the sell-off is overdone in companies across cybersecurity and traditional software, opening up buying opportunities.",
-            "url": "https://www.cnbc.com/2026/02/24/the-violent-software-sell-off-pauses-wall-street-says-bet-on-these-stocks-to-bounce.html"
         }
     ]
 }
