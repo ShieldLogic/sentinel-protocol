@@ -1,10 +1,25 @@
 {
-    "updated": "2026-02-25 06:52:21 UTC",
+    "updated": "2026-02-25 08:37:18 UTC",
     "news": [
+        {
+            "title": "SolarWinds Patches 4 Critical Serv-U 15.5 Flaws Allowing Root Code Execution",
+            "description": "[FEEDS.FEEDBURNER.COM] SolarWinds has released updates to address four critical security flaws in its Serv-U file transfer software that, if successfully exploited, could result in remote code execution. The...",
+            "url": "https://thehackernews.com/2026/02/solarwinds-patches-4-critical-serv-u.html"
+        },
         {
             "title": "CISA Confirms Active Exploitation of FileZen CVE-2026-25108 Vulnerability",
             "description": "[FEEDS.FEEDBURNER.COM] The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a recently disclosed vulnerability in FileZen to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence...",
             "url": "https://thehackernews.com/2026/02/cisa-confirms-active-exploitation-of.html"
+        },
+        {
+            "title": "Ex-L3Harris exec jailed for selling zero-days to Russian exploit broker",
+            "description": "[BLEEPINGCOMPUTER.COM] The former head of Trenchant, a specialized U.S. defense contractor unit, was sentenced Tuesday to more than seven years in federal prison for stealing and selling zero-day exploits to a Russian...",
+            "url": "https://www.bleepingcomputer.com/news/security/ex-l3harris-exec-jailed-for-selling-zero-days-to-russian-exploit-broker/"
+        },
+        {
+            "title": "Windows 11 KB5077241 update improves BitLocker, adds Sysmon tool",
+            "description": "[BLEEPINGCOMPUTER.COM] Microsoft has released the KB5077241 optional cumulative update for Windows 11, which comes with 29 changes, including improvements to BitLocker, a new network speed test tool, and native System...",
+            "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5077241-update-improves-bitlocker-adds-sysmon-tool/"
         },
         {
             "title": "RoguePilot Flaw in GitHub Codespaces Enabled Copilot to Leak GITHUB_TOKEN",
@@ -37,11 +52,6 @@
             "url": "https://thehackernews.com/2026/02/identity-prioritization-isnt-backlog.html"
         },
         {
-            "title": "Lazarus Group Uses Medusa Ransomware in Middle East and U.S. Healthcare Attacks",
-            "description": "[FEEDS.FEEDBURNER.COM] The North Korea-linked Lazarus Group (aka Diamond Sleet and Pompilus) has been observed using Medusa ransomware in an attack targeting an unnamed entity in the Middle East, according to a new report...",
-            "url": "https://thehackernews.com/2026/02/lazarus-group-uses-medusa-ransomware-in.html"
-        },
-        {
             "title": "Wynn Resorts confirms employee data breach after extortion threat",
             "description": "[BLEEPINGCOMPUTER.COM] Wynn Resorts has confirmed that a hacker stole employee data from its systems after the company was listed on the ShinyHunters extortion gang's data leak site. [...]",
             "url": "https://www.bleepingcomputer.com/news/security/wynn-resorts-confirms-employee-data-breach-after-extortion-threat/"
@@ -50,16 +60,6 @@
             "title": "1Campaign platform helps malicious Google ads evade detection",
             "description": "[BLEEPINGCOMPUTER.COM] A newly identified cybercrime service known as 1Campaign is enabling threat actors to run malicious Google Ads that remain online for extended periods while evading scrutiny from security...",
             "url": "https://www.bleepingcomputer.com/news/security/1campaign-platform-helps-malicious-google-ads-evade-detection/"
-        },
-        {
-            "title": "CarGurus data breach exposes information of 12.4 million accounts",
-            "description": "[BLEEPINGCOMPUTER.COM] The ShinyHunters extortion group has published personal information in more than 12 million records allegedly stolen from CarGurus, a U.S.-based digital auto platform. [...]",
-            "url": "https://www.bleepingcomputer.com/news/security/cargurus-data-breach-exposes-information-of-124-million-accounts/"
-        },
-        {
-            "title": "Microsoft adds Copilot data controls to all storage locations",
-            "description": "[BLEEPINGCOMPUTER.COM] Microsoft is expanding data loss prevention (DLP) controls to block the Microsoft 365 Copilot AI assistant from processing confidential Word, Excel, and PowerPoint documents, regardless of their...",
-            "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-adds-copilot-data-controls-to-all-storage-locations/"
         },
         {
             "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
@@ -75,6 +75,11 @@
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
             "description": "[CISA.GOV] CISA has added one new vulnerability to its&nbsp;Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-1731 BeyondTrust Remote Support (RS) and Privileged...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/02/13/cisa-adds-one-known-exploited-vulnerability-catalog"
+        },
+        {
+            "title": "U.S. Targets Cybersecurity Threats with New Sanctions",
+            "description": "[DEVDISCOURSE] The U.S. has imposed sanctions on individuals and entities in Russia and the UAE for cyber threats to its national security. These actions are tied to the theft of trade secrets by a former...",
+            "url": "https://www.devdiscourse.com/article/law-order/3816558-us-targets-cybersecurity-threats-with-new-sanctions"
         },
         {
             "title": "The violent software sell-off pauses. Wall Street says bet on these stocks to bounce",
@@ -120,11 +125,6 @@
             "title": "Nasuni expands operations in Hyderabad",
             "description": "[THE HINDU BUSINESS LINE] Nasuni\u2019s File Data Platform integrates storage, backup, disaster recovery, ransomware protection, and analytics through a single hybrid cloud solution with centralised management",
             "url": "https://www.thehindubusinessline.com/info-tech/nasuni-expands-operations-in-hyderabad/article70671802.ece"
-        },
-        {
-            "title": "What is Anthropic\u2019s Claude Code Security and how does it work - why did cybersecurity stocks fall after the launch?",
-            "description": "[THE ECONOMIC TIMES] Anthropics Claude Code Security: Cybersecurity stocks dropped up to 11% on February 23, 2026, after Anthropic launched Claude Code Security. The AI-powered code security tool scans entire codebases....",
-            "url": "https://economictimes.indiatimes.com/news/international/us/what-is-anthropics-claude-code-security-and-how-does-it-work-why-did-cybersecurity-stocks-fall-after-the-launch/articleshow/128751411.cms"
         }
     ]
 }
