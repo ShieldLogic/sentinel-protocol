@@ -1,6 +1,21 @@
 {
-    "updated": "2026-02-25 14:43:09 UTC",
+    "updated": "2026-02-25 16:59:10 UTC",
     "news": [
+        {
+            "title": "CISA and Partners Release Guidance for Ongoing Global Exploitation of Cisco SD-WAN Systems",
+            "description": "[CISA.GOV] The purpose of this Alert is to provide resources for organizations with Cisco Software-Defined Wide-Area Networking (SD-WAN) systems, including Federal Civilian Executive Branch (FCEB) agencies, to...",
+            "url": "https://www.cisa.gov/news-events/alerts/2026/02/25/cisa-and-partners-release-guidance-ongoing-global-exploitation-cisco-sd-wan-systems"
+        },
+        {
+            "title": "SLH Offers $500\u2013$1,000 Per Call to Recruit Women for IT Help Desk Vishing Attacks",
+            "description": "[FEEDS.FEEDBURNER.COM] The notorious cybercrime collective known as Scattered LAPSUS$ Hunters (SLH) has been observed offering financial incentives to recruit women to pull off social engineering attacks. The idea is to...",
+            "url": "https://thehackernews.com/2026/02/slh-offers-5001000-per-call-to-recruit.html"
+        },
+        {
+            "title": "Top 5 Ways Broken Triage Increases Business Risk Instead of Reducing It",
+            "description": "[FEEDS.FEEDBURNER.COM] Triage is supposed to make things simpler. In a lot of teams, it does the opposite. When you can\u2019t reach a confident verdict early, alerts turn into repeat checks, back-and-forth, and \u201cjust escalate...",
+            "url": "https://thehackernews.com/2026/02/top-5-ways-broken-triage-increases.html"
+        },
         {
             "title": "Malicious NuGet Packages Stole ASP.NET Data; npm Package Dropped Malware",
             "description": "[FEEDS.FEEDBURNER.COM] Cybersecurity researchers have discovered four malicious NuGet packages that are designed to target ASP.NET web application developers to steal sensitive data. The campaign, discovered by Socket,...",
@@ -17,14 +32,14 @@
             "url": "https://thehackernews.com/2026/02/defense-contractor-employee-jailed-for.html"
         },
         {
-            "title": "SolarWinds Patches 4 Critical Serv-U 15.5 Flaws Allowing Root Code Execution",
-            "description": "[FEEDS.FEEDBURNER.COM] SolarWinds has released updates to address four critical security flaws in its Serv-U file transfer software that, if successfully exploited, could result in remote code execution. The...",
-            "url": "https://thehackernews.com/2026/02/solarwinds-patches-4-critical-serv-u.html"
+            "title": "Marquis sues SonicWall over backup breach that led to ransomware attack",
+            "description": "[BLEEPINGCOMPUTER.COM] Marquis Software Solutions has filed a lawsuit against SonicWall, accusing the cybersecurity company of gross negligence and misrepresentation that allegedly led to a ransomware attack disrupting...",
+            "url": "https://www.bleepingcomputer.com/news/security/marquis-sues-sonicwall-over-backup-breach-that-led-to-ransomware-attack/"
         },
         {
-            "title": "CISA Confirms Active Exploitation of FileZen CVE-2026-25108 Vulnerability",
-            "description": "[FEEDS.FEEDBURNER.COM] The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a recently disclosed vulnerability in FileZen to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence...",
-            "url": "https://thehackernews.com/2026/02/cisa-confirms-active-exploitation-of.html"
+            "title": "The OpenClaw Hype: Analysis of Chatter from Open-Source Deep and Dark Web",
+            "description": "[BLEEPINGCOMPUTER.COM] OpenClaw has sparked heavy Telegram and dark web chatter, but Flare's data shows more research hype than mass exploitation. Flare explains how its telemetry found real supply-chain risk in the skills...",
+            "url": "https://www.bleepingcomputer.com/news/security/the-openclaw-hype-analysis-of-chatter-from-open-source-deep-and-dark-web/"
         },
         {
             "title": "Zyxel warns of critical RCE flaw affecting over a dozen routers",
@@ -42,11 +57,6 @@
             "url": "https://www.bleepingcomputer.com/news/security/ex-l3harris-exec-jailed-for-selling-zero-days-to-russian-exploit-broker/"
         },
         {
-            "title": "Windows 11 KB5077241 update improves BitLocker, adds Sysmon tool",
-            "description": "[BLEEPINGCOMPUTER.COM] Microsoft has released the KB5077241 optional cumulative update for Windows 11, which comes with 29 changes, including improvements to BitLocker, a new network speed test tool, and native System...",
-            "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5077241-update-improves-bitlocker-adds-sysmon-tool/"
-        },
-        {
             "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
             "description": "[CISA.GOV] CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2021-22175 GitLab Server-Side Request Forgery (SSRF)...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/02/18/cisa-adds-two-known-exploited-vulnerabilities-catalog"
@@ -55,11 +65,6 @@
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
             "description": "[CISA.GOV] CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-25108 Soliton Systems K.K. FileZen OS Command Injection...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/02/24/cisa-adds-one-known-exploited-vulnerability-catalog"
-        },
-        {
-            "title": "Phishing campaign targets freight and logistics orgs in the US, Europe",
-            "description": "[BLEEPINGCOMPUTER.COM] A financially motivated threat group dubbed \"Diesel Vortex\" is stealing credentials from freight and logistics operators in the U.S. and Europe in phishing attacks using 52 domains. [...]",
-            "url": "https://www.bleepingcomputer.com/news/security/phishing-campaign-targets-freight-and-logistics-orgs-in-the-us-europe/"
         },
         {
             "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
@@ -72,9 +77,9 @@
             "url": "https://www.cisa.gov/news-events/alerts/2026/02/20/cisa-adds-two-known-exploited-vulnerabilities-catalog"
         },
         {
-            "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-            "description": "[CISA.GOV] CISA has added one new vulnerability to its&nbsp;Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-1731 BeyondTrust Remote Support (RS) and Privileged...",
-            "url": "https://www.cisa.gov/news-events/alerts/2026/02/13/cisa-adds-one-known-exploited-vulnerability-catalog"
+            "title": "India, Israel to boost counter terror coop through best practice sharing",
+            "description": "[THE ECONOMIC TIMES] India and Israel are stepping up their joint campaign against terrorism, agreeing to deepen collaboration across training, cybersecurity, and intelligence sharing. Their efforts now prioritise...",
+            "url": "https://economictimes.indiatimes.com/news/india/india-israel-to-intensify-counter-terror-alliance-with-joint-training-cybersecurity-ai-and-drone-threat-crackdown/articleshow/128769900.cms"
         },
         {
             "title": "IT, BFSI & telecom headline India's AI cybersecurity push",
@@ -120,11 +125,6 @@
             "title": "The violent software sell-off pauses. Wall Street says bet on these stocks to bounce",
             "description": "[CNBC] Some analysts believe the sell-off is overdone in companies across cybersecurity and traditional software, opening up buying opportunities.",
             "url": "https://www.cnbc.com/2026/02/24/the-violent-software-sell-off-pauses-wall-street-says-bet-on-these-stocks-to-bounce.html"
-        },
-        {
-            "title": "Palo Alto Networks: Organic Growth Begins To Normalize (NASDAQ:PANW)",
-            "description": "[SEEKING ALPHA] Palo Alto Networks stock has tumbled year-to-date. Read why investors should take a second look at the cybersecurity giant.",
-            "url": "https://seekingalpha.com/article/4874015-palo-alto-networks-organic-growth-begins-to-normalize-q3-eps-miss-driven-by-share-dilution"
         }
     ]
 }
