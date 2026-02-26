@@ -1,5 +1,5 @@
 {
-    "updated": "2026-02-26 14:41:49 UTC",
+    "updated": "2026-02-26 16:46:29 UTC",
     "news": [
         {
             "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
@@ -12,21 +12,6 @@
             "url": "https://www.cisa.gov/news-events/alerts/2026/02/25/cisa-and-partners-release-guidance-ongoing-global-exploitation-cisco-sd-wan-systems"
         },
         {
-            "title": "Google Disrupts UNC2814 GRIDTIDE Campaign After 53 Breaches Across 42 Countries",
-            "description": "[FEEDS.FEEDBURNER.COM] Google on Wednesday disclosed that it worked with industry partners to disrupt the infrastructure of a suspected China-nexus cyber espionage group tracked as UNC2814 that breached at least 53...",
-            "url": "https://thehackernews.com/2026/02/google-disrupts-unc2814-gridtide.html"
-        },
-        {
-            "title": "Medical device maker UFP Technologies warns of data stolen in cyberattack",
-            "description": "[BLEEPINGCOMPUTER.COM] American manufacturer of medical devices, UFP Technologies, has disclosed that a cybersecurity incident has compromised its IT systems and data. [...]",
-            "url": "https://www.bleepingcomputer.com/news/security/medical-device-maker-ufp-technologies-warns-of-data-stolen-in-cyberattack/"
-        },
-        {
-            "title": "Fake Next.js job interview tests backdoor developer's devices",
-            "description": "[BLEEPINGCOMPUTER.COM] The Microsoft Defender team has discovered a coordinated campaign targeting software developers through malicious repositories posing as legitimate Next.js projects and technical assessment...",
-            "url": "https://www.bleepingcomputer.com/news/security/fake-nextjs-job-interview-tests-backdoor-developers-devices/"
-        },
-        {
             "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
             "description": "[CISA.GOV] CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2021-22175 GitLab Server-Side Request Forgery (SSRF)...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/02/18/cisa-adds-two-known-exploited-vulnerabilities-catalog"
@@ -35,6 +20,16 @@
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
             "description": "[CISA.GOV] CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-25108 Soliton Systems K.K. FileZen OS Command Injection...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/02/24/cisa-adds-one-known-exploited-vulnerability-catalog"
+        },
+        {
+            "title": "UAT-10027 Targets U.S. Education and Healthcare with Dohdoor Backdoor",
+            "description": "[FEEDS.FEEDBURNER.COM] A previously undocumented threat activity cluster has been attributed to an ongoing malicious campaign targeting education and healthcare sectors in the U.S. since at least December 2025. The...",
+            "url": "https://thehackernews.com/2026/02/uat-10027-targets-us-education-and.html"
+        },
+        {
+            "title": "ThreatsDay Bulletin: Kali Linux + Claude, Chrome Crash Traps, WinRAR Flaws, LockBit & 15+ Stories",
+            "description": "[FEEDS.FEEDBURNER.COM] Nothing here looks dramatic at first glance. That\u2019s the point. Many of this week\u2019s threats begin with something ordinary, like an ad, a meeting invite, or a software update. Behind the scenes, the...",
+            "url": "https://thehackernews.com/2026/02/threatsday-bulletin-kali-linux-claude.html"
         },
         {
             "title": "Expert Recommends: Prepare for PQC Right Now",
@@ -52,14 +47,19 @@
             "url": "https://thehackernews.com/2026/02/malicious-stripeapi-nuget-package.html"
         },
         {
-            "title": "Cisco SD-WAN Zero-Day CVE-2026-20127 Exploited Since 2023 for Admin Access",
-            "description": "[FEEDS.FEEDBURNER.COM] A newly disclosed maximum-severity security flaw in Cisco Catalyst SD-WAN Controller (formerly vSmart) and Catalyst SD-WAN Manager (formerly vManage) has come under active exploitation in the wild as...",
-            "url": "https://thehackernews.com/2026/02/cisco-sd-wan-zero-day-cve-2026-20127.html"
+            "title": "Critical Juniper Networks PTX flaw allows full router takeover",
+            "description": "[BLEEPINGCOMPUTER.COM] A critical vulnerability in the Junos OS Evolved network operating system running on PTX Series routers from Juniper Networks could allow an unauthenticated attacker to execute code remotely with...",
+            "url": "https://www.bleepingcomputer.com/news/security/critical-juniper-networks-ptx-flaw-allows-full-router-takeover/"
+        },
+        {
+            "title": "Olympique Marseille confirms 'attempted' cyberattack after data leak",
+            "description": "[BLEEPINGCOMPUTER.COM] French professional football club Olympique de Marseille has confirmed a cyberattack after a threat actor claimed on Monday that it breached the club's systems earlier this month. [...]",
+            "url": "https://www.bleepingcomputer.com/news/security/olympique-marseille-football-club-confirms-cyberattack-after-data-leak/"
         },
         {
             "title": "Ransomware payment rate drops to record low as attacks surge",
             "description": "[BLEEPINGCOMPUTER.COM] The number of ransomware victims paying threat actors has dropped to 28% last year, an all-time low, despite a significant increase in the number of claimed attacks. [...]",
-            "url": "https://www.bleepingcomputer.com/news/security/ransomware-payment-rate-drops-to-record-low-despite-attack-surge/"
+            "url": "https://www.bleepingcomputer.com/news/security/ransomware-payment-rate-drops-to-record-low-as-attacks-surge/"
         },
         {
             "title": "Microsoft expands Windows restore to more enterprise devices",
