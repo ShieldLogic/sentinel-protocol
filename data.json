@@ -1,130 +1,124 @@
 {
-    "updated": "2026-03-02 10:35:59 UTC",
+    "title": "Sentinel Protocol",
+    "tagline": "Perimeter Intelligence Sync",
+    "updated": "2026-03-02 11:30 UTC",
     "news": [
         {
-            "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
-            "description": "[CISA.GOV] CISA has added&nbsp;two&nbsp;new&nbsp;vulnerabilities&nbsp;to its&nbsp;Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation.&nbsp;...",
-            "url": "https://www.cisa.gov/news-events/alerts/2026/02/25/cisa-adds-two-known-exploited-vulnerabilities-catalog"
+            "source": {
+                "id": null,
+                "name": "Github.com"
+            },
+            "author": "Yigtwx",
+            "title": "Show HN: CANomaly-LSTM \u2013 Detecting CAN bus anomalies with deep learning",
+            "description": "LSTM Autoencoder\u2013based anomaly detection system for CAN-Bus traffic, featuring synthetic attack generation and reconstruction-error classification. - Yigtwxx/CANomaly-LSTM",
+            "url": "https://github.com/Yigtwxx/CANomaly-LSTM",
+            "urlToImage": "https://opengraph.githubassets.com/bd46c0f834f8d021095bb5532e7d7d2d9cd908405c4d8eb67f648b1c79144505/Yigtwxx/CANomaly-LSTM",
+            "publishedAt": "2026-03-01T11:01:33Z",
+            "content": "CANomaly-LSTM is a specialized, end-to-end anomaly detection pipeline designed for Controller Area Network (CAN) security. As modern vehicles become increasingly connected, they face growing threats \u2026 [+3792 chars]"
         },
         {
-            "title": "CISA and Partners Release Guidance for Ongoing Global Exploitation of Cisco SD-WAN Systems",
-            "description": "[CISA.GOV] The purpose of this Alert is to provide resources for organizations with Cisco Software-Defined Wide-Area Networking (SD-WAN) systems, including Federal Civilian Executive Branch (FCEB) agencies, to...",
-            "url": "https://www.cisa.gov/news-events/alerts/2026/02/25/cisa-and-partners-release-guidance-ongoing-global-exploitation-cisco-sd-wan-systems"
+            "source": {
+                "id": null,
+                "name": "Securityaffairs.com"
+            },
+            "author": "Pierluigi Paganini",
+            "title": "CVE-2025-64328 exploitation impacts 900 Sangoma FreePBX instances",
+            "description": "About 900 Sangoma FreePBX systems were infected with web shells after attackers exploited a command injection flaw. Hundreds of Sangoma FreePBX instances are still infected with web shells following attacks that began in December 2025. Sangoma FreePBX is an o\u2026",
+            "url": "https://securityaffairs.com/188679/uncategorized/cve-2025-64328-exploitation-impacts-900-sangoma-freepbx-instances.html",
+            "urlToImage": "https://securityaffairs.com/wp-content/uploads/2026/03/image.png",
+            "publishedAt": "2026-03-01T10:01:54Z",
+            "content": "CVE-2025-64328 exploitation impacts 900 Sangoma FreePBX instances\r\nHundreds of Sangoma FreePBX instances are still infected with web shells following attacks that began in December 2025. \r\nSangoma Fr\u2026 [+3154 chars]"
         },
         {
-            "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
-            "description": "[CISA.GOV] CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2021-22175 GitLab Server-Side Request Forgery (SSRF)...",
-            "url": "https://www.cisa.gov/news-events/alerts/2026/02/18/cisa-adds-two-known-exploited-vulnerabilities-catalog"
+            "source": {
+                "id": null,
+                "name": "Pypi.org"
+            },
+            "author": "killian@openvulnera.com",
+            "title": "open-vulnera added to PyPI",
+            "description": "A cybersecurity-focused AI execution engine for vulnerability research and offensive tooling",
+            "url": "https://pypi.org/project/open-vulnera/",
+            "urlToImage": "https://pypi.org/static/images/twitter.abaf4b19.webp",
+            "publishedAt": "2026-03-01T09:41:22Z",
+            "content": "Open Vulnera License v1.0 See LICENSE file for full terms.\r\nCommercial use, obfuscation, and uncredentialed redistribution are prohibited.\r\nOpen Vulnera lets LLMs run code (Python, Javascript, Shell,\u2026 [+10653 chars]"
         },
         {
-            "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-            "description": "[CISA.GOV] CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-25108 Soliton Systems K.K. FileZen OS Command Injection...",
-            "url": "https://www.cisa.gov/news-events/alerts/2026/02/24/cisa-adds-one-known-exploited-vulnerability-catalog"
+            "source": {
+                "id": null,
+                "name": "Help Net Security"
+            },
+            "author": "Help Net Security",
+            "title": "Week in review: Self-spreading npm malware hits developers, Cisco SD-WAN 0-day exploited since 2023",
+            "description": "Here\u2019s an overview of some of last week\u2019s most interesting news, articles, interviews and videos: Identity verification systems are struggling with synthetic fraud Fake and expired IDs keep showing up in routine customer transactions, from alcohol purchases t\u2026",
+            "url": "https://www.helpnetsecurity.com/2026/03/01/week-in-review-self-spreading-npm-malware-hits-developers-cisco-sd-wan-0-day-exploited-since-2023/",
+            "urlToImage": "https://img.helpnetsecurity.com/wp-content/uploads/2024/03/25124834/cybersecurity-week-review-3-1500.webp",
+            "publishedAt": "2026-03-01T09:00:20Z",
+            "content": "Heres an overview of some of last weeks most interesting news, articles, interviews and videos:\r\nIdentity verification systems are struggling with synthetic fraudFake and expired IDs keep showing up \u2026 [+19698 chars]"
         },
         {
-            "title": "ClawJacked attack let malicious websites hijack OpenClaw to steal data",
-            "description": "[BLEEPINGCOMPUTER.COM] Security researchers have disclosed a high-severity vulnerability dubbed \"ClawJacked\" in the popular AI agent OpenClaw that allowed a malicious website to silently bruteforce access to a locally...",
-            "url": "https://www.bleepingcomputer.com/news/security/clawjacked-attack-let-malicious-websites-hijack-openclaw-to-steal-data/"
+            "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            "author": "Oliver Simonnet",
+            "title": "Your employees are using AI, whether you like it or not - but are they using AI securely?",
+            "description": "As AI becomes increasingly integrated into professional lives, the question is: Are your employees using AI securely?",
+            "url": "https://www.techradar.com/pro/your-employees-are-using-ai-whether-you-like-it-or-not-but-are-they-using-ai-securely",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/cuJ2nHdA2cLngX4bhsHsye-2560-80.jpg",
+            "publishedAt": "2026-03-01T08:00:00Z",
+            "content": "AI has become inescapable. What was once a niche research field has now become fully integrated into the personal and professional lives of the everyday person. For business leaders, the question the\u2026 [+6424 chars]"
         },
         {
-            "title": "Samsung TVs to stop collecting Texans\u2019 data without express consent",
-            "description": "[BLEEPINGCOMPUTER.COM] Samsung and the State of Texas have reached a settlement agreement over the alleged unlawful collection of content-viewing information through its smart TVs [...]",
-            "url": "https://www.bleepingcomputer.com/news/security/samsung-tvs-to-stop-collecting-texans-data-without-express-consent/"
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "ETtech",
+            "title": "Anthropic will survive US ban, says CEO Dario Amodei amid clash with Pentagon",
+            "description": "After the Trump administration halted US government use of Anthropic\u2019s AI systems and imposed additional penalties, Amodei dismissed the impact as limited and overstated. He defended the AI major\u2019s refusal to allow unrestricted military access to its models a\u2026",
+            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-will-survive-us-ban-says-ceo-dario-amodei-amid-clash-with-pentagon/articleshow/128908907.cms",
+            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-25486,resizemode-75,msid-128908907/tech/artificial-intelligence/anthropic-will-survive-us-ban-says-ceo-dario-amodei-amid-clash-with-pentagon.jpg",
+            "publishedAt": "2026-03-01T07:23:36Z",
+            "content": "Anthropic will survive, said CEO Dario Amodei after the Trump administration on Friday directed all US federal agencies to halt use of Anthropics artificial intelligence (AI) systems and imposed addi\u2026 [+5047 chars]"
         },
         {
-            "title": "ClawJacked Flaw Lets Malicious Sites Hijack Local OpenClaw AI Agents via WebSocket",
-            "description": "[FEEDS.FEEDBURNER.COM] OpenClaw has fixed a high-severity security issue that, if successfully exploited, could have allowed a malicious website to connect to a locally running artificial intelligence (AI) agent and take...",
-            "url": "https://thehackernews.com/2026/02/clawjacked-flaw-lets-malicious-sites.html"
+            "source": {
+                "id": null,
+                "name": "SiliconANGLE News"
+            },
+            "author": "Kyt Dotson",
+            "title": "Ahead of MWC Barcelona, Nvidia bets AI-native platforms will carry telecom into 6G",
+            "description": "Nvidia Corp. early Sunday announced ahead of the MWC Barcelona conference that its joining global telecom leaders in a commitment to build 6G on open and secure artificial intelligence-native platforms, bringing software-defined networking to the future of te\u2026",
+            "url": "https://siliconangle.com/2026/03/01/ahead-mwc-barcelona-nvidia-bets-ai-native-platforms-will-carry-telecom-6g/",
+            "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/01/weale.png",
+            "publishedAt": "2026-03-01T07:00:07Z",
+            "content": "Nvidia Corp. early Sunday announced ahead of the MWC Barcelona conference that its joining global telecom leaders in a commitment to build 6G on open and secure artificial intelligence-native platfor\u2026 [+5683 chars]"
         },
         {
-            "title": "Thousands of Public Google Cloud API Keys Exposed with Gemini Access After API Enablement",
-            "description": "[FEEDS.FEEDBURNER.COM] New research has found that Google Cloud API keys, typically designated as project identifiers for billing purposes, could be abused to authenticate to sensitive Gemini endpoints and access private...",
-            "url": "https://thehackernews.com/2026/02/thousands-of-public-google-cloud-api.html"
+            "source": {
+                "id": null,
+                "name": "Freerepublic.com"
+            },
+            "author": "PJ Media",
+            "title": "'Great' Time to Defund the Department of Homeland Security, Democrats. Feel Stupid Yet? Remember: President Autopen let 18,000 known terrorists into the country.",
+            "description": "Democrats were outraged that Immigration and Customs Enforcement (ICE) agents wore masks while arresting illegal alien criminals inside the U.S. and, as a result, slashed the budget for the entire Department of Homeland Security. This government shutdown cont\u2026",
+            "url": "https://freerepublic.com/focus/f-news/4368795/posts",
+            "urlToImage": null,
+            "publishedAt": "2026-03-01T05:54:21Z",
+            "content": "Skip to comments.\r\n'Great' Time to Defund the Department of Homeland Security, Democrats. Feel Stupid Yet? Remember: President Autopen let 18,000 known terrorists into the country.PJ Media ^\r\n | 02/2\u2026 [+3431 chars]"
         },
         {
-            "title": "QuickLens Chrome extension steals crypto, shows ClickFix attack",
-            "description": "[BLEEPINGCOMPUTER.COM] A Chrome extension named \"QuickLens - Search Screen with Google Lens\" has been removed from the Chrome Web Store after it was compromised to push malware and attempt to steal crypto from thousands of...",
-            "url": "https://www.bleepingcomputer.com/news/security/quicklens-chrome-extension-steals-crypto-shows-clickfix-attack/"
-        },
-        {
-            "title": "Pentagon Designates Anthropic Supply Chain Risk Over AI Military Dispute",
-            "description": "[FEEDS.FEEDBURNER.COM] Anthropic on Friday hit back after U.S. Secretary of Defense Pete Hegseth directed the Pentagon to designate the artificial intelligence (AI) upstart as a \"supply chain risk.\" \"This action follows...",
-            "url": "https://thehackernews.com/2026/02/pentagon-designates-anthropic-supply.html"
-        },
-        {
-            "title": "$4.8M in crypto stolen after Korean tax agency exposes wallet seed",
-            "description": "[BLEEPINGCOMPUTER.COM] South Korea's National Tax Service accidentally exposed the mnemonic recovery phrase of a seized cryptocurrency wallet in an official press release, allowing hackers to steal 6.4 billion won ($4.8M)...",
-            "url": "https://www.bleepingcomputer.com/news/security/48m-in-crypto-stolen-after-korean-tax-agency-exposes-wallet-seed/"
-        },
-        {
-            "title": "North Korean Hackers Publish 26 npm Packages Hiding Pastebin C2 for Cross-Platform RAT",
-            "description": "[FEEDS.FEEDBURNER.COM] Cybersecurity researchers have disclosed a new iteration of the ongoing Contagious Interview campaign, where the North Korean threat actors have published a set of 26 malicious packages to the npm...",
-            "url": "https://thehackernews.com/2026/03/north-korean-hackers-publish-26-npm.html"
-        },
-        {
-            "title": "DoJ Seizes $61 Million in Tether Linked to Pig Butchering Crypto Scams",
-            "description": "[FEEDS.FEEDBURNER.COM] The U.S. Department of Justice (DoJ) this week announced the seizure of $61 million worth of Tether that were allegedly associated with bogus cryptocurrency schemes known as pig butchering. The...",
-            "url": "https://thehackernews.com/2026/02/doj-seizes-61-million-in-tether-linked.html"
-        },
-        {
-            "title": "Microsoft testing Windows 11 batch file security improvements",
-            "description": "[BLEEPINGCOMPUTER.COM] Microsoft is rolling out new Windows 11 Insider Preview builds that improve security and performance during batch file or CMD script execution. [...]",
-            "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-windows-11-batch-file-security-improvements/"
-        },
-        {
-            "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
-            "description": "[CISA.GOV] CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-49113 RoundCube Webmail Deserialization of Untrusted...",
-            "url": "https://www.cisa.gov/news-events/alerts/2026/02/20/cisa-adds-two-known-exploited-vulnerabilities-catalog"
-        },
-        {
-            "title": "Bitcoin Hyper Price Prediction Stalls as Pepeto Puts Audited Infrastructure at Presale Pricing While Ransomware Hits $820 Million",
-            "description": "[TECHBULLION] Uncover insights on the Bitcoin Hyper price prediction while navigating recent security challenges in the cryptocurrency market.",
-            "url": "https://techbullion.com/bitcoin-hyper-price-prediction-stalls-as-pepeto-puts-audited-infrastructure-at-presale-pricing-while-ransomware-hits-820-million/"
-        },
-        {
-            "title": "Surfshark is one of the few VPNs to offer a real antivirus solution - here's the difference",
-            "description": "[TECHRADAR] Why getting One cybersecurity bundle could be enough",
-            "url": "https://www.techradar.com/vpn/vpn-services/surfshark-is-one-of-the-few-vpns-to-offer-a-real-antivirus-solution-heres-the-difference"
-        },
-        {
-            "title": "Hackers hit Iranian apps, websites after US-Israeli strikes",
-            "description": "[THE STRAITS TIMES] March 1 - A wave of cyber-enabled operations took place early Saturday morning alongside the joint U.S.-Israeli attack on targets across Iran, according to cybersecurity experts and observers. Read...",
-            "url": "https://www.straitstimes.com/world/middle-east/hackers-hit-iranian-apps-websites-after-us-israeli-strikes"
-        },
-        {
-            "title": "Hackers hit Iranian apps, websites after US-Israeli strikes",
-            "description": "[REUTERS] A wave of cyber-enabled operations took place early Saturday morning alongside the joint U.S.-Israeli attack on targets across Iran, according to cybersecurity experts and observers.",
-            "url": "https://www.reuters.com/business/media-telecom/hackers-hit-iranian-apps-websites-after-us-israeli-strikes-2026-03-01/"
-        },
-        {
-            "title": "Hackers hit Iranian apps, websites after US-Israeli strikes",
-            "description": "[AL-MONITOR] By AJ VicensMarch 1 (Reuters) - A wave of cyber-enabled operations took place early Saturday morning alongside the joint U.S.-Israeli attack on targets across Iran, according to cybersecurity experts...",
-            "url": "https://www.al-monitor.com/originals/2026/03/hackers-hit-iranian-apps-websites-after-us-israeli-strikes"
-        },
-        {
-            "title": "Cyber Onslaughts Unveiled: U.S.-Israeli Surge Against Iran",
-            "description": "[DEVDISCOURSE] In a synchronized move, U.S. and Israeli forces launched cyber-enabled operations targeting Iran, affecting multiple platforms, including the BadeSaba app. This act has drawn attention from...",
-            "url": "https://www.devdiscourse.com/article/technology/3822510-cyber-onslaughts-unveiled-us-israeli-surge-against-iran"
-        },
-        {
-            "title": "Hackers hit Iranian apps, websites after US-Israeli strikes",
-            "description": "[MARKETSCREENER] A wave of cyber-enabled operations took place early Saturday morning alongside the joint U.S.-Israeli attack on targets across Iran, according to cybersecurity experts and observers. The...",
-            "url": "https://www.marketscreener.com/news/hackers-hit-iranian-apps-websites-after-us-israeli-strikes-ce7e5cdcdb81f724"
-        },
-        {
-            "title": "LGMS looks to \u2018star\u2019 product, expansion for growth",
-            "description": "[THE STAR] Cybersecurity holds huge potential for companies which are able to capture such opportunities. This is as organisations, both large and small, are increasingly being exposed to cyber threats, which...",
-            "url": "https://www.thestar.com.my/business/business-news/2026/03/02/lgms-looks-to-starproduct-expansion-for-growth"
-        },
-        {
-            "title": "Surveillance company Flock generates controversy, and L.A. customers",
-            "description": "[LOS ANGELES TIMES] Other cities have ended their relationships with Flock Safety over its ties to the federal government and concerns about cybersecurity and privacy. But connections in the L.A. area endure.",
-            "url": "https://www.latimes.com/california/story/2026-03-01/surveillance-company-flock-safety-los-angeles"
-        },
-        {
-            "title": "Abbott Activates Operation Fury Shield to Protect Texas Infrastructure After Iran Strikes",
-            "description": "[BREITBART NEWS NETWORK] Texas Governor Greg Abbott has ordered the Texas Military Department to activate service members under Operation Fury Shield, launching expanded patrols at energy facilities, ports, and the southern...",
-            "url": "https://www.breitbart.com/border/2026/03/01/abbott-activates-operation-fury-shield-to-protect-texas-infrastructure-after-iran-strikes/"
+            "source": {
+                "id": null,
+                "name": "Independent.ie"
+            },
+            "author": "Fearghal O'Connor",
+            "title": "CEO \u2018sextortion\u2019 and online harassment the newest frontier for cyber threats",
+            "description": "A new collaboration between one of Ireland\u2019s largest IT services providers and a leading online reputation expert is aimed at protecting Irish firms \u2013 and their employees \u2013 against the rapidly growing threat of everything from sextortion of CEOs and their fam\u2026",
+            "url": "https://www.independent.ie/business/irish/ceo-sextortion-and-online-harassment-the-newest-frontier-for-cyber-threats/a1751883111.html",
+            "urlToImage": "https://focus.independent.ie/thumbor/Q8kN1_0yOmFJENkoYY9xJHUrnE8=/0x0:3237x2158/629x0/prod-mh-ireland/2e23a581-c161-4c84-ae3a-50fd6e683ac1/bd697976-fca0-45bb-96c7-0f12e11dea58/2e23a581-c161-4c84-ae3a-50fd6e683ac1.jpg",
+            "publishedAt": "2026-03-01T05:30:00Z",
+            "content": "Attacks on servers and networks used to be cybersecurity firms bread and butter but times have changed\r\nA new collaboration between one of Irelands largest IT services providers and a leading online \u2026 [+411 chars]"
         }
     ]
 }
