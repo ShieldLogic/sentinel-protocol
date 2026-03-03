@@ -1,5 +1,5 @@
 {
-    "updated": "2026-03-02 22:19:33 UTC",
+    "updated": "2026-03-03 01:16:57 UTC",
     "news": [
         {
             "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
@@ -30,6 +30,11 @@
             "title": "Google Develops Merkle Tree Certificates to Enable Quantum-Resistant HTTPS in Chrome",
             "description": "[FEEDS.FEEDBURNER.COM] Google has announced a new program in its Chrome browser to ensure that HTTPS certificates are secure against the future risk posed by quantum computers. \"To ensure the scalability and efficiency of...",
             "url": "https://thehackernews.com/2026/03/google-develops-merkle-tree.html"
+        },
+        {
+            "title": "CyberStrikeAI tool adopted by hackers for AI-powered attacks",
+            "description": "[BLEEPINGCOMPUTER.COM] Researchers warn that a newly identified open-source AI security testing platform called CyberStrikeAI was used by the same threat actor behind a recent campaign that breached hundreds of Fortinet...",
+            "url": "https://www.bleepingcomputer.com/news/security/cyberstrikeai-tool-adopted-by-hackers-for-ai-powered-attacks/"
         },
         {
             "title": "\u26a1 Weekly Recap: SD-WAN 0-Day, Critical CVEs, Telegram Probe, Smart TV Proxy SDK and More",
@@ -67,14 +72,44 @@
             "url": "https://www.bleepingcomputer.com/news/security/uk-warns-of-iranian-cyberattack-risks-amid-middle-east-conflict/"
         },
         {
-            "title": "How Deepfakes and Injection Attacks Are Breaking Identity Verification",
-            "description": "[BLEEPINGCOMPUTER.COM] Deepfakes and injection attacks are targeting identity verification moments, from onboarding to account recovery. Incode explains why enterprises must validate the full session\u2014media, device...",
-            "url": "https://www.bleepingcomputer.com/news/security/how-deepfakes-and-injection-attacks-are-breaking-identity-verification/"
-        },
-        {
             "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
             "description": "[CISA.GOV] CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-49113 RoundCube Webmail Deserialization of Untrusted...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/02/20/cisa-adds-two-known-exploited-vulnerabilities-catalog"
+        },
+        {
+            "title": "Why This Analyst Sees Nearly 40% Upside To CrowdStrike Stock Despite High Valuation?",
+            "description": "[BENZINGA] Piper Sandler has revised its rating for cybersecurity firm CrowdStrike Holdings (NASDAQ: CRWD), identifying artificial intelligence (AI) as a significant growth catalyst rather than a threat.",
+            "url": "https://www.benzinga.com/markets/tech/26/03/50962861/why-this-analyst-sees-nearly-40-upside-to-crowdstrike-stock-despite-high-valuation"
+        },
+        {
+            "title": "AI in Cybersecurity: Is It Worth the Effort for Lean Security Teams?",
+            "description": "[THE HACKER NEWS] AI in cybersecurity can improve detection and response, but lean teams must weigh complexity, costs, and measurable outcomes carefully.",
+            "url": "https://thehackernews.com/expert-insights/2026/03/ai-in-cybersecurity-is-it-worth-effort.html"
+        },
+        {
+            "title": "This cybersecurity stock has taken a beating on AI worries. Why one analyst sees an opportunity",
+            "description": "[CNBC] Piper Sandler sees shares of CrowdStrike rallying 40% from here.",
+            "url": "https://www.cnbc.com/2026/03/02/crowdstrike-has-taken-a-beating-on-ai-worries-why-one-analyst-sees-an-opportunity.html"
+        },
+        {
+            "title": "Why encrypted backups may fail in an AI-driven ransomware era",
+            "description": "[ZDNET] Think your encrypted backups are safe? AI-driven ransomware now infiltrates networks, corrupts recovery points, and silently targets backup systems before you ever realize your data protection...",
+            "url": "https://www.zdnet.com/article/encrypted-backups-fail-ai-driven-ransomware/"
+        },
+        {
+            "title": "Will AI make cybersecurity obsolete or is Silicon Valley confabulating again?",
+            "description": "[ZDNET] 'If the code developer is offering the code security tool, is that like the fox guarding the hen house?'",
+            "url": "https://www.zdnet.com/article/ai-cybersecurity-silicon-valley/"
+        },
+        {
+            "title": "Hackers hit Iranian apps, websites after US",
+            "description": "[CNBC TV18] A wave of cyber-enabled operations took place early Saturday morning alongside the joint U.S.-Israeli attack on targets across Iran, according to cybersecurity experts and observers.",
+            "url": "https://www.cnbctv18.com/world/hackers-hit-iranian-apps-websites-after-us-israeli-strikes-19861023.htm"
+        },
+        {
+            "title": "CERT-In warns Indian users of serious security flaws in trend Micro Apex One",
+            "description": "[INDIA TV NEWS] CERT-In has issued a critical cybersecurity warning for Trend Micro Apex One users, citing multiple vulnerabilities that could allow remote attacks and privilege escalation. Organisations are urged...",
+            "url": "https://www.indiatvnews.com/technology/news/cert-in-warns-indian-users-of-serious-security-flaws-in-trend-micro-apex-one-2026-03-02-1032304"
         },
         {
             "title": "New training academy to equip more than 150,000 public officers with digital, data and AI skills",
@@ -90,41 +125,6 @@
             "title": "Singapore's new cybersecurity threat detection tools",
             "description": "[THE STRAITS TIMES] Singapore develops proprietary threat detection tools and tightens cybersecurity regulations following recent advanced persistent threat attacks. Read more at straitstimes.com.",
             "url": "https://www.straitstimes.com/singapore/politics/singapore-develops-its-own-threat-detection-tool-on-the-heels-of-unc3886-attacks"
-        },
-        {
-            "title": "Arunachal's New Policing Era: Strengthening Security Through Technology",
-            "description": "[DEVDISCOURSE] Arunachal Pradesh CM Pema Khandu discussed advances in technology-driven policing at a state conference. Emphasizing cybersecurity, digital forensics, and public transparency, he advocated for a...",
-            "url": "https://www.devdiscourse.com/article/law-order/3823060-arunachals-new-policing-era-strengthening-security-through-technology"
-        },
-        {
-            "title": "India must scale AI infra, talent, and trust to stay competitive: Experts",
-            "description": "[FORBES INDIA] At Rising Bharat 2026, industry leaders discuss sovereign AI, quantum computing, and cybersecurity as next steps for India\u2019s technology ambitions",
-            "url": "https://www.forbesindia.com/article/news/india-must-scale-ai-infra-talent-and-trust-to-stay-competitive-experts/2991848/1"
-        },
-        {
-            "title": "News sites, religious apps hacked amid joint US-Israeli operation",
-            "description": "[FIRSTPOST] A wave of cyber-enabled operations took place early Saturday morning alongside the joint US-Israeli attack on targets across Iran, according to cybersecurity experts and observers.",
-            "url": "https://www.firstpost.com/tech/news-sites-religious-apps-hacked-amid-joint-us-israeli-operation-13985239.html"
-        },
-        {
-            "title": "Hackers hit Iranian apps, websites after US-Israeli strikes",
-            "description": "[THE INDIAN EXPRESS] A wave of cyber-enabled operations took place early Saturday morning alongside the joint U.S.-Israeli attack on targets across Iran, according to cybersecurity experts and observers. The operations...",
-            "url": "https://indianexpress.com/shorts/technology/hackers-hit-iranian-apps-websites-after-us-israeli-strikes-10560477/"
-        },
-        {
-            "title": "Iran-Israel conflict: Hackers hit Iranian apps",
-            "description": "[THE HINDU] A wave of cyber-enabled operations took place early Saturday \u200cmorning alongside the joint U.S.-Israeli attack on targets across Iran, according to cybersecurity \u200bexperts and observers.",
-            "url": "https://www.thehindu.com/sci-tech/technology/hackers-hit-iranian-apps-websites-after-us-israeli-strikes/article70693739.ece"
-        },
-        {
-            "title": "XRP Price News 2026: Smart Money Rotates to Pepeto for 100X as IPO Genie Stalls and Chainalysis Reveals 50% Surge in Ransomware Attacks",
-            "description": "[TECHBULLION] Get the freshest XRP price news 2026 and discover how market trends and ransomware incidents are impacting the altcoin.",
-            "url": "https://techbullion.com/xrp-price-news-2026-smart-money-rotates-to-pepeto-for-100x-as-ipo-genie-stalls-and-chainalysis-reveals-50-surge-in-ransomware-attacks/"
-        },
-        {
-            "title": "From weakest link to key asset: Rethinking human role in cybersecurity",
-            "description": "[DEVDISCOURSE] Read more about From weakest link to key asset: Rethinking human role in cybersecurity on Devdiscourse",
-            "url": "https://www.devdiscourse.com/article/technology/3818682-from-weakest-link-to-key-asset-rethinking-human-role-in-cybersecurity"
         }
     ]
 }
