@@ -1,5 +1,5 @@
 {
-    "updated": "2026-03-05 14:39:45 UTC",
+    "updated": "2026-03-05 17:54:35 UTC",
     "news": [
         {
             "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
@@ -12,16 +12,6 @@
             "url": "https://www.cisa.gov/news-events/alerts/2026/02/25/cisa-and-partners-release-guidance-ongoing-global-exploitation-cisco-sd-wan-systems"
         },
         {
-            "title": "Bitwarden adds support for passkey login on Windows 11",
-            "description": "[BLEEPINGCOMPUTER.COM] Bitwarden announced support for logging into Windows 11 devices using passkeys stored in the manager's vault, enabling phishing-resistant authentication. [...]",
-            "url": "https://www.bleepingcomputer.com/news/security/bitwarden-adds-support-for-passkey-login-on-windows-11/"
-        },
-        {
-            "title": "Mail2Shell zero-click attack lets hackers hijack FreeScout mail servers",
-            "description": "[BLEEPINGCOMPUTER.COM] A maximum severity vulnerability in the FreeScout helpdesk platform allows hackers to achieve remote code execution without any user interaction or authentication. [...]",
-            "url": "https://www.bleepingcomputer.com/news/security/mail2shell-zero-click-attack-lets-hackers-hijack-freescout-mail-servers/"
-        },
-        {
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
             "description": "[CISA.GOV] CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-25108 Soliton Systems K.K. FileZen OS Command Injection...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/02/24/cisa-adds-one-known-exploited-vulnerability-catalog"
@@ -32,14 +22,19 @@
             "url": "https://www.cisa.gov/news-events/alerts/2026/03/03/cisa-adds-two-known-exploited-vulnerabilities-catalog"
         },
         {
-            "title": "ThreatsDay Bulletin: DDR5 Bot Scalping, Samsung TV Tracking, Reddit Privacy Fine & More",
-            "description": "[FEEDS.FEEDBURNER.COM] Some weeks in cybersecurity feel routine. This one doesn&rsquo;t. Several new developments surfaced over the past few days, showing how quickly the threat landscape keeps shifting. Researchers...",
-            "url": "https://thehackernews.com/2026/03/threatsday-bulletin-redis-rce-ddr5-bot.html"
-        },
-        {
             "title": "Preparing for the Quantum Era: Post-Quantum Cryptography Webinar for Security Leaders",
             "description": "[FEEDS.FEEDBURNER.COM] Most organizations assume encrypted data is safe. But many attackers are already preparing for a future where today\u2019s encryption can be broken. Instead of trying to decrypt information now, they are...",
             "url": "https://thehackernews.com/2026/03/preparing-for-quantum-era-post-quantum.html"
+        },
+        {
+            "title": "Cisco Confirms Active Exploitation of Two Catalyst SD-WAN Manager Vulnerabilities",
+            "description": "[FEEDS.FEEDBURNER.COM] Cisco has disclosed that two more vulnerabilities affecting Catalyst SD-WAN Manager (formerly SD-WAN vManage) have come under active exploitation in the wild. The vulnerabilities in question are...",
+            "url": "https://thehackernews.com/2026/03/cisco-confirms-active-exploitation-of.html"
+        },
+        {
+            "title": "ThreatsDay Bulletin: DDR5 Bot Scalping, Samsung TV Tracking, Reddit Privacy Fine & More",
+            "description": "[FEEDS.FEEDBURNER.COM] Some weeks in cybersecurity feel routine. This one doesn&rsquo;t. Several new developments surfaced over the past few days, showing how quickly the threat landscape keeps shifting. Researchers...",
+            "url": "https://thehackernews.com/2026/03/threatsday-bulletin-redis-rce-ddr5-bot.html"
         },
         {
             "title": "Dust Specter Targets Iraqi Officials with New SPLITDROP and GHOSTFORM Malware",
@@ -52,9 +47,14 @@
             "url": "https://thehackernews.com/2026/03/where-multi-factor-authentication-stops.html"
         },
         {
-            "title": "APT28-Linked Campaign Deploys BadPaw Loader and MeowMeow Backdoor in Ukraine",
-            "description": "[FEEDS.FEEDBURNER.COM] Cybersecurity researchers have disclosed details of a new Russian cyber campaign that has targeted Ukrainian entities with two previously undocumented malware families named BadPaw and MeowMeow. \"The...",
-            "url": "https://thehackernews.com/2026/03/apt28-linked-campaign-deploys-badpaw.html"
+            "title": "Google says 90 zero-days were exploited in attacks last year",
+            "description": "[BLEEPINGCOMPUTER.COM] Google Threat Intelligence Group (GTIG) tracked 90 zero-day vulnerabilities actively exploited throughout 2025, almost half of them in enterprise software and appliances. [...]",
+            "url": "https://www.bleepingcomputer.com/news/security/google-says-90-zero-days-were-exploited-in-attacks-last-year/"
+        },
+        {
+            "title": "2026 Browser Data Reveals Major Enterprise Security Blind Spots",
+            "description": "[BLEEPINGCOMPUTER.COM] The browser is becoming the operating system for modern work, yet many enterprises still treat it as an extension of network or endpoint security. Keep Aware's 2026 State of Browser Security Report...",
+            "url": "https://www.bleepingcomputer.com/news/security/2026-browser-data-reveals-major-enterprise-security-blind-spots/"
         },
         {
             "title": "Police dismantles online gambling ring exploiting Ukrainian women",
@@ -75,6 +75,26 @@
             "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
             "description": "[CISA.GOV] CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-49113 RoundCube Webmail Deserialization of Untrusted...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/02/20/cisa-adds-two-known-exploited-vulnerabilities-catalog"
+        },
+        {
+            "title": "S$45 million grant to help healthcare providers meet new data-sharing, cybersecurity rules",
+            "description": "[CNA] The one-off funding supports clinics, nursing homes and private hospitals in adopting or upgrading their health information systems.",
+            "url": "https://www.channelnewsasia.com/singapore/healthcare-grant-cybersecurity-clinics-hia-nehr-5972421"
+        },
+        {
+            "title": "GAC Achieves Global First with DAkkS-Accredited ASIL D Functional Safety and Cybersecurity Certification for Quark E-Drive",
+            "description": "[THE MANILA TIMES] GUANGZHOU, China, March 5, 2026 /PRNewswire/ -- Recently, GAC's independently developed Quark E-Drive power domain control system has achieved the world's first dual certification for deeply...",
+            "url": "https://www.manilatimes.net/2026/03/05/tmt-newswire/pr-newswire/gac-achieves-global-first-with-dakks-accredited-asil-d-functional-safety-and-cybersecurity-certification-for-quark-e-drive/2293651"
+        },
+        {
+            "title": "War in Iran raises cybersecurity concerns",
+            "description": "[NBC10 BOSTON] Caution is urged online amid the conflict in the Middle East.",
+            "url": "https://www.nbcboston.com/investigations/consumer/war-in-iran-raises-cybersecurity-concerns/3910805/"
+        },
+        {
+            "title": "The biggest AI threats come from within - 12 ways to defend your organization",
+            "description": "[ZDNET] The gravest AI-powered threat to your cybersecurity isn't coming from external hackers. Review these strategic recommendations for handling the risks from within.",
+            "url": "https://www.zdnet.com/article/12-tips-for-cybersecurity-pros-looking-to-harness-ai-safely/"
         },
         {
             "title": "'Unimaginable loss': US soldiers who died in Iran war mourned by friends, family",
@@ -105,26 +125,6 @@
             "title": "Okta Earnings Top Estimates. Fiscal 2027 Revenue Outlook In Line.",
             "description": "[INVESTOR'S BUSINESS DAILY] Okta reported Q4 earnings that topped estimates. The cybersecurity firm's fiscal 2027 sales guidance for Okta stock met expectations.",
             "url": "https://www.investors.com/news/technology/okta-stock-okta-earnings-news-q42025/"
-        },
-        {
-            "title": "CrowdStrike\u2019s Record Quarter: Why Cybersecurity Is the Must-Own Wartime Trade",
-            "description": "[INVESTING.COM] Market Analysis by covering: Fortinet Inc, KOSPI, Palo Alto Networks Inc, Zscaler Inc. Read 's Market Analysis on Investing.com",
-            "url": "https://www.investing.com/analysis/crowdstrikes-record-quarter-why-cybersecurity-is-the-mustown-wartime-trade-200676077"
-        },
-        {
-            "title": "Trump nominee to lead nation's cyber agency removed from post as senior DHS adviser",
-            "description": "[CBS NEWS] Although Sean Plankey's access badge was taken and he was escorted out of Coast Guard headquarters Monday, he remains the nominee to lead the Cybersecurity and Infrastructure Security Agency, sources...",
-            "url": "https://www.cbsnews.com/news/trump-nominee-cisa-cyber-agency-removed-as-senior-dhs-adviser/"
-        },
-        {
-            "title": "Scott Augenbaum to Newsmax: AI Helping Scammers Be More Productive",
-            "description": "[NEWSMAX] Artificial intelligence platforms are helping scammers be more effective, cybersecurity expert and retired FBI supervisory special agent Scott Augenbaum told Newsmax.",
-            "url": "https://www.newsmax.com/newsmax-tv/scott-augenbaum-ai-cybercrime/2026/03/04/id/1248300/"
-        },
-        {
-            "title": "Imarticus Learning lines up Rs 1,000-crore IPO in FY27",
-            "description": "[THE FINANCIAL EXPRESS] Imarticus Learning, a Mumbai-based edtech firm, plans to go public with a Rs 1,000 crore IPO in FY27. It aims to enhance its career programmes and partnerships in emerging job roles like AI and...",
-            "url": "https://www.financialexpress.com/shorts/market/imarticus-learning-lines-up-rs-1000-crore-ipo-in-fy27-4162682/"
         }
     ]
 }
