@@ -1,5 +1,5 @@
 {
-    "updated": "2026-03-04 22:22:26 UTC",
+    "updated": "2026-03-05 01:15:09 UTC",
     "news": [
         {
             "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
@@ -20,6 +20,11 @@
             "title": "Coruna iOS Exploit Kit Uses 23 Exploits Across Five Chains Targeting iOS 13\u201317.2.1",
             "description": "[FEEDS.FEEDBURNER.COM] Google said it identified a \"new and powerful\" exploit kit dubbed Coruna (aka CryptoWaters) targeting Apple iPhone models running iOS versions between 13.0 and 17.2.1. The exploit kit featured five...",
             "url": "https://thehackernews.com/2026/03/coruna-ios-exploit-kit-uses-23-exploits.html"
+        },
+        {
+            "title": "Bitwarden adds support for passkey login on Windows 11",
+            "description": "[BLEEPINGCOMPUTER.COM] Bitwarden announced support for logging into Windows 11 devices using passkeys stored in the manager's vault, enabling phishing-resistant authentication. [...]",
+            "url": "https://www.bleepingcomputer.com/news/security/bitwarden-adds-support-for-passkey-login-on-windows-11/"
         },
         {
             "title": "New RFP Template for AI Usage Control and AI Governance",
@@ -52,11 +57,6 @@
             "url": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-max-severity-secure-fmc-flaws-giving-root-access/"
         },
         {
-            "title": "Spyware-grade Coruna iOS exploit kit now used in crypto theft attacks",
-            "description": "[BLEEPINGCOMPUTER.COM] A previously undocumented set of 23 iOS exploits named \"Coruna\" has been deployed by multiple threat actors in targeted espionage campaigns and financially motivated attacks. [...]",
-            "url": "https://www.bleepingcomputer.com/news/security/spyware-grade-coruna-ios-exploit-kit-now-used-in-crypto-theft-attacks/"
-        },
-        {
             "title": "APT41-Linked Silver Dragon Targets Governments Using Cobalt Strike and Google Drive C2",
             "description": "[FEEDS.FEEDBURNER.COM] Cybersecurity researchers have disclosed details of an advanced persistent threat (APT) group dubbed Silver Dragon that has been linked to cyber attacks targeting entities in Europe and Southeast...",
             "url": "https://thehackernews.com/2026/03/apt41-linked-silver-dragon-targets.html"
@@ -77,6 +77,46 @@
             "url": "https://www.cisa.gov/news-events/alerts/2026/02/20/cisa-adds-two-known-exploited-vulnerabilities-catalog"
         },
         {
+            "title": "Paint giant AkzoNobel reveals data breach, says US site was affected",
+            "description": "[TECHRADAR] Ransomware operators Anubis claims the breach",
+            "url": "https://www.techradar.com/pro/security/paint-giant-akzonobel-reveals-data-breach-says-us-site-was-affected"
+        },
+        {
+            "title": "After SaaSocalypse And Cybersecurity Sell Off, This $15 Billion Sector Could Be The Next Target",
+            "description": "[BENZINGA] BofA Global Research has warned that artificial intelligence (AI) disintermediation could put over $15 billion of the insurance industry at risk.",
+            "url": "https://www.benzinga.com/markets/tech/26/03/51030891/after-saasocalypse-and-cybersecurity-sell-off-this-15-billion-sector-could-be-the-next-target"
+        },
+        {
+            "title": "UK Financial Firms Must Put Security First",
+            "description": "[TECHBULLION] UK financial firms now face stronger demands to make cybersecurity a core part of how they operate. The rules from regulators \u2013 the Financial Conduct Authority (FCA) and the Prudential Regulation...",
+            "url": "https://techbullion.com/uk-financial-firms-must-put-security-first/"
+        },
+        {
+            "title": "CrowdStrike Projects 2027 Revenue Surge Amidst Growing Cybersecurity Demand",
+            "description": "[THE ECONOMIC TIMES] CrowdStrike has forecasted fiscal 2027 revenue to exceed Wall Street expectations, driven by strong demand for its AI-based cybersecurity solutions. Insights on industry trends following recent...",
+            "url": "https://economictimes.indiatimes.com/tech/technology/crowdstrike-forecasts-fiscal-2027-revenue-above-estimates-on-cybersecurity-tools-demand/articleshow/129026528.cms"
+        },
+        {
+            "title": "Amazon AWS Data Centres Hit by Iranian Drone Strikes - How Digital Transactions Are Affected in UAE and Bahrain",
+            "description": "[INTERNATIONAL BUSINESS TIMES] Iranian drone strikes on AWS data centres in the UAE and Bahrain are causing major disruptions to banking apps and delivery services, and exposing cybersecurity vulnerabilities in the Middle East.",
+            "url": "https://www.ibtimes.com/amazon-aws-data-centres-hit-iranian-drone-strikes-how-digital-transactions-are-affected-uae-3798342"
+        },
+        {
+            "title": "AI Makeover: How Will Hyderabad Look in 2050 If Its Nizam Legacy Meets A Robotic Future?",
+            "description": "[TIMES NOW] In 2050, Hyderabad transforms into Asia\u2019s cybersecurity powerhouse while preserving its regal heritage. From holographic-lit Charminar to AI-governed districts in HITEC City, autonomous metro pods...",
+            "url": "https://www.timesnownews.com/hyderabad/ai-makeover-how-will-hyderabad-look-in-2050-if-its-nizam-legacy-meets-a-robotic-future-photo-gallery-153751468"
+        },
+        {
+            "title": "Protean eGov Technologies Appoints Mitesh Shah as Executive Vice President and Chief Information Officer",
+            "description": "[SCANX.TRADE] Protean eGov Technologies Limited has appointed Mr. Mitesh Shah as Executive Vice President (Chief Information Officer) effective March 5, 2026, following Board approval on March 4, 2026. Mr. Shah...",
+            "url": "https://scanx.trade/stock-market-news/stocks/protean-egov-technologies-appoints-mitesh-shah-as-executive-vice-president-and-chief-information-officer/34167823"
+        },
+        {
+            "title": "Google Identifies Cybersecurity Threat Used By Hackers To Target Older iOS Versions Possibly Developed By US Government",
+            "description": "[BENZINGA] Google identifies Coruna, a hacking tool targeting older versions of iOS, urges users to update software versions.",
+            "url": "https://www.benzinga.com/markets/tech/26/03/51028165/google-identifies-cybersecurity-threat-used-by-hackers-to-target-older-ios-versions-possibly-developed-by-us-government"
+        },
+        {
             "title": "Apollo Micro Systems Wins \u20b9733.26 Million Defence & Government Orders",
             "description": "[FREE PRESS JOURNAL] Apollo Micro Systems Limited has secured multiple orders worth a cumulative Rs 733.26 million from defence and government entities, as well as private sector companies. The orders include systems for...",
             "url": "https://www.freepressjournal.in/business/apollo-micro-systems-wins-73326-million-defence-government-orders"
@@ -85,46 +125,6 @@
             "title": "Cabka Activates Incident Response Following Cybersecurity Event",
             "description": "[THE MANILA TIMES] Amsterdam 4 March 2026. Cabka N.V. (together with its subsidiaries 'Cabka\u201d, or the 'Company\u201d), specialized in transforming hard to recycle plastic waste into innovative Reusable Transport Packaging...",
             "url": "https://www.manilatimes.net/2026/03/04/tmt-newswire/globenewswire/cabka-activates-incident-response-following-cybersecurity-event/2292817"
-        },
-        {
-            "title": "iTWire TV: Schools Are Swimming in Student Data. Hackers Have Noticed.",
-            "description": "[ITWIRE] GUEST INTERVIEW: Yubico's Geoff Schomburgk on why education is cybersecurity's most overlooked soft target, and what passkeys can do about it....",
-            "url": "https://itwire.com/guest-articles/guest-interviews/itwire-tv-schools-are-swimming-in-student-data-hackers-have-noticed.html"
-        },
-        {
-            "title": "Resecurity Exhibited at SANS Cyber Threat Intelligence Summit & Training 2026",
-            "description": "[BUSINESS WIRE] Resecurity, a global cybersecurity and threat intelligence company trusted by Fortune 100 enterprises and government agencies, exhibited at the SANS Cyber Th...",
-            "url": "https://www.businesswire.com/news/home/20260303544847/en/Resecurity-Exhibited-at-SANS-Cyber-Threat-Intelligence-Summit-Training-2026"
-        },
-        {
-            "title": "Pro-Iran \u2018hacktivists\u2019 could target Canadian organizations, cybersecurity experts warn",
-            "description": "[THE GLOBE AND MAIL] Political activists, journalists and human rights advocates also likely to be targeted, the Canadian Centre for Cyber Security says",
-            "url": "https://www.theglobeandmail.com/business/economy/article-pro-iran-hacktivists-could-target-canadian-organizations-cybersecurity/"
-        },
-        {
-            "title": "Yubico Establishes Singapore as Third Global Headquarters Accelerating Asia Pacific Growth",
-            "description": "[ITWIRE] Yubico (NASDAQ STOCKHOLM: YUBICO), a cybersecurity company, inventor of FIDO passkeys and creator of the YubiKey, the most secure passkey, today annou...",
-            "url": "https://itwire.com/it-industry-news/strategy/yubico-establishes-singapore-as-third-global-headquarters-accelerating-asia-pacific-growth.html"
-        },
-        {
-            "title": "CrowdStrike forecasts fiscal 2027 revenue above estimates on cybersecurity tools demand",
-            "description": "[REUTERS] CrowdStrike forecast fiscal 2027 revenue above Wall Street estimates \u200con Tuesday, betting on resilient demand for its artificial intelligence-powered cybersecurity solutions.",
-            "url": "https://www.reuters.com/technology/crowdstrike-forecasts-fiscal-2027-revenue-above-estimates-cybersecurity-tools-2026-03-03/"
-        },
-        {
-            "title": "CrowdStrike forecasts fiscal 2027 revenue above estimates on cybersecurity tools demand",
-            "description": "[MARKETSCREENER] CrowdStrike forecast fiscal 2027 revenue above Wall Street estimates on Tuesday, betting on resilient demand for its artificial intelligence-powered cybersecurity solutions. Shares of...",
-            "url": "https://www.marketscreener.com/news/crowdstrike-forecasts-fiscal-2027-revenue-above-estimates-on-cybersecurity-tools-demand-ce7e5cd2d08efe21"
-        },
-        {
-            "title": "CrowdStrike Beats Fourth-Quarter Views as AI Boom Fuels Cybersecurity Demand",
-            "description": "[MARKETSCREENER] CrowdStrike late Tuesday reported fiscal fourth-quarter results that beat Wall Street's estimates as rapid adoption of artificial intelligence has fueled the need for advanced...",
-            "url": "https://www.marketscreener.com/news/crowdstrike-beats-fourth-quarter-views-as-ai-boom-fuels-cybersecurity-demand-ce7e5cd2d188ff21"
-        },
-        {
-            "title": "SentinelOne taps Sonalee Parekh as finance chief as competition intensifies",
-            "description": "[MARKETSCREENER] Cybersecurity firm SentinelOne on Tuesday appointed Sonalee Parekh as chief financial officer, effective March 24, tapping the former RingCentral finance chief as the cybersecurity firm faces...",
-            "url": "https://www.marketscreener.com/news/sentinelone-taps-sonalee-parekh-as-finance-chief-as-competition-intensifies-ce7e5cd2d189f424"
         }
     ]
 }
