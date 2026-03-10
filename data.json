@@ -1,5 +1,5 @@
 {
-    "updated": "2026-03-10 14:41:08 UTC",
+    "updated": "2026-03-10 16:47:49 UTC",
     "news": [
         {
             "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
@@ -10,6 +10,11 @@
             "title": "CISA and Partners Release Guidance for Ongoing Global Exploitation of Cisco SD-WAN Systems",
             "description": "[CISA.GOV] The purpose of this Alert is to provide resources for organizations with Cisco Software-Defined Wide-Area Networking (SD-WAN) systems, including Federal Civilian Executive Branch (FCEB) agencies, to...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/02/25/cisa-and-partners-release-guidance-ongoing-global-exploitation-cisco-sd-wan-systems"
+        },
+        {
+            "title": "KadNap Malware Infects 14,000+ Edge Devices to Power Stealth Proxy Botnet",
+            "description": "[FEEDS.FEEDBURNER.COM] Cybersecurity researchers have discovered a new malware called KadNap that's primarily targeting Asus routers to enlist them into a botnet for proxying malicious traffic. The malware, first detected...",
+            "url": "https://thehackernews.com/2026/03/kadnap-malware-infects-14000-edge.html"
         },
         {
             "title": "New \"LeakyLooker\" Flaws in Google Looker Studio Could Enable Cross-Tenant SQL Queries",
@@ -32,9 +37,14 @@
             "url": "https://thehackernews.com/2026/03/apt28-uses-beardshell-and-covenant.html"
         },
         {
-            "title": "Threat Actors Mass-Scan Salesforce Experience Cloud via Modified AuraInspector Tool",
-            "description": "[FEEDS.FEEDBURNER.COM] Salesforce has warned of an increase in threat actor activity that's aimed at exploiting misconfigurations in publicly accessible Experience Cloud sites by making use of a customized version of an...",
-            "url": "https://thehackernews.com/2026/03/threat-actors-mass-scan-salesforce.html"
+            "title": "Microsoft brings phishing-resistant Windows sign-ins via Entra passkeys",
+            "description": "[BLEEPINGCOMPUTER.COM] Microsoft is rolling out passkey support for Microsoft Entra on Windows devices, adding phishing-resistant passwordless authentication via Windows Hello. [...]",
+            "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-entra-brings-phishing-resistant-sign-in-to-windows/"
+        },
+        {
+            "title": "New KadNap botnet hijacks ASUS routers to fuel cybercrime proxy network",
+            "description": "[BLEEPINGCOMPUTER.COM] A newly discovered botnet malware called KadNap is targeting ASUS routers and other edge networking devices to turn them into proxies for malicious traffic. [...]",
+            "url": "https://www.bleepingcomputer.com/news/security/new-kadnap-botnet-hijacks-asus-routers-to-fuel-cybercrime-proxy-network/"
         },
         {
             "title": "The New Turing Test: How Threats Use Geometry to Prove 'Humanness'",
@@ -52,11 +62,6 @@
             "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-enable-hotpatch-security-updates-by-default-in-may/"
         },
         {
-            "title": "APT28 hackers deploy customized variant of Covenant open-source tool",
-            "description": "[BLEEPINGCOMPUTER.COM] The Russian state-sponsored APT28 threat group is using a custom variant of the open-source Covenant post-exploitation framework for long-term espionage operations. [...]",
-            "url": "https://www.bleepingcomputer.com/news/security/apt28-hackers-deploy-customized-variant-of-covenant-open-source-tool/"
-        },
-        {
             "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
             "description": "[CISA.GOV] CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-21385 Qualcomm Multiple Chipsets Memory Corruption...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/03/03/cisa-adds-two-known-exploited-vulnerabilities-catalog"
@@ -72,9 +77,14 @@
             "url": "https://www.cisa.gov/news-events/alerts/2026/03/09/cisa-adds-three-known-exploited-vulnerabilities-catalog"
         },
         {
-            "title": "Microsoft Teams phishing targets employees with A0Backdoor malware",
-            "description": "[BLEEPINGCOMPUTER.COM] Hackers contacted employees at financial and healthcare organizations over Microsoft Teams to trick them into granting remote access through Quick Assist and deploy a new piece of malware called...",
-            "url": "https://www.bleepingcomputer.com/news/security/microsoft-teams-phishing-targets-employees-with-backdoors/"
+            "title": "Ontario government home care vendor paid ransom to regain access to its servers: report",
+            "description": "[GLOBAL NEWS] In April 2025, servers belonging to Ontario Medical Supply, which works with Crown agency Ontario Health atHome, were locked after a ransomware attack.",
+            "url": "https://globalnews.ca/news/11722969/ontario-government-home-care-vendor-paid-ransom-to-regain-access-to-its-servers-report/"
+        },
+        {
+            "title": "CEOs Share AI Spending, Hiring Plans for 2026: KPMG Survey",
+            "description": "[BUSINESS INSIDER] 100 CEOs of large US companies shared their AI spending and hiring plans with KPMG. Cybersecurity ranked as a top concern.",
+            "url": "https://www.businessinsider.com/kpmg-survey-ceos-ai-spending-hiring-plans-cybersecurity-2026-3"
         },
         {
             "title": "Texas Governor orders cybersecurity audit of Chinese medical devices over data breach risks",
@@ -115,16 +125,6 @@
             "title": "OpenAI to buy cybersecurity startup Promptfoo to safeguard AI agents",
             "description": "[CNBC] Promptfoo's team will join Sam Altman-led OpenAI, and its technology will be integrated into the Frontier platform for AI agents.",
             "url": "https://www.cnbc.com/2026/03/09/open-ai-cybersecurity-promptfoo-ai-agents.html"
-        },
-        {
-            "title": "Black Book Research: Black Book Releases HIMSS26 Floor Guide Grouping Top Client-Rated Exhibitors by Strategic Category",
-            "description": "[FINANZNACHRICHTEN] Client-rated highest user satisfaction vendor guide helps attendees identify 70 Black Book-honored booths by interoperability, clinical platforms, ambient AI, cybersecurity, revenue cycle, imaging,...",
-            "url": "https://www.finanznachrichten.de/nachrichten-2026-03/67893449-black-book-research-black-book-releases-himss26-floor-guide-grouping-top-client-rated-exhibitors-by-strategic-category-200.htm"
-        },
-        {
-            "title": "Texas Gov Abbott issues warning of Chinese spying in medical tech",
-            "description": "[FOX NEWS] Texas Gov. Abbott warns of Chinese spying through medical devices, directing health agencies to address cybersecurity risks after federal alerts.",
-            "url": "https://www.foxnews.com/politics/texas-gov-abbott-issues-warning-chinese-spying-medical-tech"
         }
     ]
 }
