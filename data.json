@@ -1,5 +1,5 @@
 {
-    "updated": "2026-03-11 16:40:54 UTC",
+    "updated": "2026-03-11 18:41:56 UTC",
     "news": [
         {
             "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
@@ -7,9 +7,14 @@
             "url": "https://www.cisa.gov/news-events/alerts/2026/02/25/cisa-adds-two-known-exploited-vulnerabilities-catalog"
         },
         {
-            "title": "CISA and Partners Release Guidance for Ongoing Global Exploitation of Cisco SD-WAN Systems",
-            "description": "[CISA.GOV] The purpose of this Alert is to provide resources for organizations with Cisco Software-Defined Wide-Area Networking (SD-WAN) systems, including Federal Civilian Executive Branch (FCEB) agencies, to...",
-            "url": "https://www.cisa.gov/news-events/alerts/2026/02/25/cisa-and-partners-release-guidance-ongoing-global-exploitation-cisco-sd-wan-systems"
+            "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+            "description": "[CISA.GOV] CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-68613 n8n Improper Control of Dynamically-Managed Code...",
+            "url": "https://www.cisa.gov/news-events/alerts/2026/03/11/cisa-adds-one-known-exploited-vulnerability-catalog"
+        },
+        {
+            "title": "Researchers Trick Perplexity's Comet AI Browser Into Phishing Scam in Under Four Minutes",
+            "description": "[FEEDS.FEEDBURNER.COM] Agentic web browsers that leverage artificial intelligence (AI) capabilities to autonomously execute actions across multiple websites on behalf of a user could be trained and tricked into falling...",
+            "url": "https://thehackernews.com/2026/03/researchers-trick-perplexitys-comet-ai.html"
         },
         {
             "title": "Critical n8n Flaws Allow Remote Code Execution and Exposure of Stored Credentials",
@@ -32,9 +37,19 @@
             "url": "https://thehackernews.com/2026/03/what-boards-must-demand-in-age-of-ai.html"
         },
         {
-            "title": "Microsoft Patches 84 Flaws in March Patch Tuesday, Including Two Public Zero-Days",
-            "description": "[FEEDS.FEEDBURNER.COM] Microsoft on Tuesday released patches for a set of 84 new security vulnerabilities affecting various software components, including two that have been listed as publicly known. Of these, eight are...",
-            "url": "https://thehackernews.com/2026/03/microsoft-patches-84-flaws-in-march.html"
+            "title": "CISA orders feds to patch n8n RCE flaw exploited in attacks",
+            "description": "[BLEEPINGCOMPUTER.COM] The U.S. Cybersecurity and Infrastructure Security Agency (CISA) ordered government agencies on Wednesday to patch their systems against an actively exploited n8n vulnerability. [...]",
+            "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-n8n-rce-flaw-exploited-in-attacks/"
+        },
+        {
+            "title": "Medtech giant Stryker offline after Iran-linked wiper malware attack",
+            "description": "[BLEEPINGCOMPUTER.COM] Leading medical technology company Stryker has been hit by a wiper malware attack claimed by Handala, an Iranian-linked and pro-Palestinian hacktivist group. [...]",
+            "url": "https://www.bleepingcomputer.com/news/security/medtech-giant-stryker-offline-after-iran-linked-wiper-malware-attack/"
+        },
+        {
+            "title": "New PhantomRaven NPM attack wave steals dev data via 88 packages",
+            "description": "[BLEEPINGCOMPUTER.COM] New attack waves from the 'PhantomRaven' supply-chain campaign are hitting the npm registry, with dozens of malicious packages that exfiltrate sensitive data from JavaScript developers. [...]",
+            "url": "https://www.bleepingcomputer.com/news/security/new-phantomraven-npm-attack-wave-steals-dev-data-via-88-packages/"
         },
         {
             "title": "Meta adds new WhatsApp, Facebook, and Messenger anti-scam tools",
@@ -45,21 +60,6 @@
             "title": "New \u2018BlackSanta\u2019 EDR killer spotted targeting HR departments",
             "description": "[BLEEPINGCOMPUTER.COM] For more than a year, a Russian-speaking threat actor targeted human resource (HR) departments with malware that delivers a new EDR killer named BlackSanta. [...]",
             "url": "https://www.bleepingcomputer.com/news/security/new-blacksanta-edr-killer-spotted-targeting-hr-departments/"
-        },
-        {
-            "title": "New BeatBanker Android malware poses as Starlink app to hijack devices",
-            "description": "[BLEEPINGCOMPUTER.COM] A new Android malware named BeatBanker can hijack devices and tricks users into installing it by posing as a Starlink app on websites masquerading as the official Google Play Store. [...]",
-            "url": "https://www.bleepingcomputer.com/news/security/new-beatbanker-android-malware-poses-as-starlink-app-to-hijack-devices/"
-        },
-        {
-            "title": "New 'Zombie ZIP' technique lets malware slip past security tools",
-            "description": "[BLEEPINGCOMPUTER.COM] A new technique dubbed \"Zombie ZIP\" helps conceal payloads in compressed files specially created to avoid detection from security solutions such as antivirus and endpoint detection and response (EDR)...",
-            "url": "https://www.bleepingcomputer.com/news/security/new-zombie-zip-technique-lets-malware-slip-past-security-tools/"
-        },
-        {
-            "title": "Microsoft releases Windows 10 KB5078885 extended security update",
-            "description": "[BLEEPINGCOMPUTER.COM] Microsoft has released the Windows 10 KB5078885 extended security update to fix the March 2026 Patch Tuesday vulnerabilities, including 2 zero-days and an issue that prevent some devices from...",
-            "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5078885-extended-security-update/"
         },
         {
             "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
@@ -75,6 +75,16 @@
             "title": "CISA Adds Three Known Exploited Vulnerabilities to Catalog",
             "description": "[CISA.GOV] CISA has added three new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2021-22054 Omnissa Workspace ONE Server-Side Request...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/03/09/cisa-adds-three-known-exploited-vulnerabilities-catalog"
+        },
+        {
+            "title": "India's GCCs: Navigating a Compliance Labyrinth",
+            "description": "[DEVDISCOURSE] India is a leading hub for Global Capability Centres (GCCs), which face a complex regulatory environment. With over 500 legal obligations and 2,000 annual filings, GCCs must balance growth and...",
+            "url": "https://www.devdiscourse.com/article/business/3833587-indias-gccs-navigating-a-compliance-labyrinth"
+        },
+        {
+            "title": "RSAC's Innovation Sandbox is where cybersecurity's next giants are born",
+            "description": "[VENTUREBEAT] The lineup of RSAC's Innovation Sandbox this year reads like a map of enterprise security's most urgent pressure points in 2026: agentic AI governance, non-human identity management, social...",
+            "url": "https://venturebeat.com/technology/rsacs-innovation-sandbox-is-where-cybersecuritys-next-giants-are-born"
         },
         {
             "title": "National Reconstruction Fund pumps $200m into Macquarie Technology",
@@ -115,16 +125,6 @@
             "title": "Cyber attack reported at Community College of Beaver County",
             "description": "[PITTSBURGH TRIBUNE-REVIEW] Community College of Beaver County officials are working to find out what led to a cyber attack. Leslie Tennant, CCBC vice president of communications, said they experienced a cybersecurity incident...",
             "url": "https://triblive.com/local/regional/cyber-attack-reported-at-community-college-of-beaver-county/"
-        },
-        {
-            "title": "Morgan Stanley Expects One Of The 'Most Expensive' Cybersecurity Stocks To Outperform Long Term",
-            "description": "[BENZINGA] CrowdStrike shares are trading higher on Tuesday. Morgan Stanley upgraded the cybersecurity leader from Equal\u2011weight to Overweight.",
-            "url": "https://www.benzinga.com/trading-ideas/movers/26/03/51167607/morgan-stanley-expects-one-of-the-most-expensive-cybersecurity-stocks-to-outperform-long-term"
-        },
-        {
-            "title": "Rajasthan: Cybersecurity and legal rights awareness session for students on March 12\u200b",
-            "description": "[LOKMAT TIMES] Rajasthan: Cybersecurity and legal rights awareness session for students on March 12\u200b - Jaipur, March 10 To commemorate International Women\u2019s Day, a special online awareness programme will be held on...",
-            "url": "https://www.lokmattimes.com/national/rajasthan-cybersecurity-and-legal-rights-awareness-session-for-students-on-march-12/"
         }
     ]
 }
