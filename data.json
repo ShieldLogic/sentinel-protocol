@@ -1,5 +1,5 @@
 {
-    "updated": "2026-03-11 08:30:16 UTC",
+    "updated": "2026-03-11 10:30:04 UTC",
     "news": [
         {
             "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
@@ -10,6 +10,16 @@
             "title": "CISA and Partners Release Guidance for Ongoing Global Exploitation of Cisco SD-WAN Systems",
             "description": "[CISA.GOV] The purpose of this Alert is to provide resources for organizations with Cisco Software-Defined Wide-Area Networking (SD-WAN) systems, including Federal Civilian Executive Branch (FCEB) agencies, to...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/02/25/cisa-and-partners-release-guidance-ongoing-global-exploitation-cisco-sd-wan-systems"
+        },
+        {
+            "title": "Microsoft Patches 84 Flaws in March Patch Tuesday, Including Two Public Zero-Days",
+            "description": "[FEEDS.FEEDBURNER.COM] Microsoft on Tuesday released patches for a set of 84 new security vulnerabilities affecting various software components, including two that have been listed as publicly known. Of these, eight are...",
+            "url": "https://thehackernews.com/2026/03/microsoft-patches-84-flaws-in-march.html"
+        },
+        {
+            "title": "UNC6426 Exploits nx npm Supply-Chain Attack to Gain AWS Admin Access in 72 Hours",
+            "description": "[FEEDS.FEEDBURNER.COM] A threat actor known as UNC6426 leveraged keys stolen following the supply chain compromise of the nx npm package last year to completely breach a victim's cloud environment within a span of 72...",
+            "url": "https://thehackernews.com/2026/03/unc6426-exploits-nx-npm-supply-chain.html"
         },
         {
             "title": "Five Malicious Rust Crates and AI Bot Exploit CI/CD Pipelines to Steal Developer Secrets",
@@ -27,19 +37,9 @@
             "url": "https://thehackernews.com/2026/03/how-to-stop-ai-data-leaks-webinar-guide.html"
         },
         {
-            "title": "KadNap Malware Infects 14,000+ Edge Devices to Power Stealth Proxy Botnet",
-            "description": "[FEEDS.FEEDBURNER.COM] Cybersecurity researchers have discovered a new malware called KadNap that's primarily targeting Asus routers to enlist them into a botnet for proxying malicious traffic. The malware, first detected...",
-            "url": "https://thehackernews.com/2026/03/kadnap-malware-infects-14000-edge.html"
-        },
-        {
             "title": "New \u2018BlackSanta\u2019 EDR killer spotted targeting HR departments",
             "description": "[BLEEPINGCOMPUTER.COM] For more than a year, a Russian-speaking threat actor targeted human resource (HR) departments with malware that delivers a new EDR killer named BlackSanta. [...]",
             "url": "https://www.bleepingcomputer.com/news/security/new-blacksanta-edr-killer-spotted-targeting-hr-departments/"
-        },
-        {
-            "title": "New \"LeakyLooker\" Flaws in Google Looker Studio Could Enable Cross-Tenant SQL Queries",
-            "description": "[FEEDS.FEEDBURNER.COM] Cybersecurity researchers have disclosed nine cross-tenant vulnerabilities in Google Looker Studio that could have permitted attackers to run arbitrary SQL queries on victims' databases and...",
-            "url": "https://thehackernews.com/2026/03/new-leakylooker-flaws-in-google-looker.html"
         },
         {
             "title": "New BeatBanker Android malware poses as Starlink app to hijack devices",
@@ -75,6 +75,11 @@
             "title": "CISA Adds Three Known Exploited Vulnerabilities to Catalog",
             "description": "[CISA.GOV] CISA has added three new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2021-22054 Omnissa Workspace ONE Server-Side Request...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/03/09/cisa-adds-three-known-exploited-vulnerabilities-catalog"
+        },
+        {
+            "title": "Why 2026 will be the year of governed cybersecurity AI",
+            "description": "[TNW] AI & automation are lowering the average cost of data breaches. But they are also creating new governance, compliance, & operational risks.",
+            "url": "https://thenextweb.com/news/why-2026-will-be-the-year-of-governed-cybersecurity-ai"
         },
         {
             "title": "Reliance Global Group Reports 2025 Results and Provides Strategic Update on Scale51 Initiative and Launch of EZRA International Group",
@@ -120,11 +125,6 @@
             "title": "Protean eGov Technologies Receives NCLT Approval for Composite Scheme of Arrangement",
             "description": "[SCANX.TRADE] Protean eGov Technologies Limited received NCLT approval on March 10, 2026, for its composite scheme of arrangement involving the demerger of cybersecurity and compliance business from wholly-owned...",
             "url": "https://scanx.trade/stock-market-news/corporate-actions/protean-egov-technologies-receives-nclt-approval-for-composite-scheme-of-arrangement/34695202"
-        },
-        {
-            "title": "OpenAI acquires Promptfoo to secure AI agents as the next security battleground emerges",
-            "description": "[TECHSTARTUPS.COM] OpenAI is moving deeper into the security layer of artificial intelligence. The company said Monday it has acquired the cybersecurity startup Promptfoo, a developer platform for testing and...",
-            "url": "https://techstartups.com/2026/03/10/openai-acquires-promptfoo-to-secure-ai-agents-as-the-next-security-battleground-emerges/"
         }
     ]
 }
