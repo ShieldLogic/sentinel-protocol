@@ -1,5 +1,5 @@
 {
-    "updated": "2026-03-12 16:50:54 UTC",
+    "updated": "2026-03-12 18:40:04 UTC",
     "news": [
         {
             "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
@@ -17,6 +17,16 @@
             "url": "https://www.cisa.gov/news-events/alerts/2026/03/03/cisa-adds-two-known-exploited-vulnerabilities-catalog"
         },
         {
+            "title": "Rust-Based VENON Malware Targets 33 Brazilian Banks with Credential-Stealing Overlays",
+            "description": "[FEEDS.FEEDBURNER.COM] Cybersecurity researchers have disclosed details of a new banking malware targeting Brazilian users that's written in Rust, marking a significant departure from other known Delphi-based malware...",
+            "url": "https://thehackernews.com/2026/03/rust-based-venon-malware-targets-33.html"
+        },
+        {
+            "title": "Hive0163 Uses AI-Assisted Slopoly Malware for Persistent Access in Ransomware Attacks",
+            "description": "[FEEDS.FEEDBURNER.COM] Cybersecurity researchers have disclosed details of a suspected artificial intelligence (AI)-generated malware codenamed Slopoly put to use by a financially motivated threat actor named Hive0163....",
+            "url": "https://thehackernews.com/2026/03/hive0163-uses-ai-assisted-slopoly.html"
+        },
+        {
             "title": "How to Scale Phishing Detection in Your SOC: 3 Steps for CISOs",
             "description": "[FEEDS.FEEDBURNER.COM] Phishing has quietly turned into one of the hardest enterprise threats to expose early. Instead of crude lures and obvious payloads, modern campaigns rely on trusted infrastructure,...",
             "url": "https://thehackernews.com/2026/03/how-to-scale-phishing-detection-in-your.html"
@@ -32,14 +42,9 @@
             "url": "https://thehackernews.com/2026/03/attackers-dont-just-send-phishing.html"
         },
         {
-            "title": "Apple Issues Security Updates for Older iOS Devices Targeted by Coruna WebKit Exploit",
-            "description": "[FEEDS.FEEDBURNER.COM] Apple on Wednesday backported fixes for a security flaw in iOS, iPadOS, and macOS Sonoma to older versions after it was found to be used as part of the Coruna exploit kit. The vulnerability, tracked...",
-            "url": "https://thehackernews.com/2026/03/apple-issues-security-updates-for-older.html"
-        },
-        {
-            "title": "Six Android Malware Families Target Pix Payments, Banking Apps, and Crypto Wallets",
-            "description": "[FEEDS.FEEDBURNER.COM] Cybersecurity researchers have discovered half-a-dozen new Android malware families that come with capabilities to steal data from compromised devices and conduct financial fraud. The Android malware...",
-            "url": "https://thehackernews.com/2026/03/six-android-malware-families-target-pix.html"
+            "title": "Veeam warns of critical flaws exposing backup servers to RCE attacks",
+            "description": "[BLEEPINGCOMPUTER.COM] Data protection company Veeam Software has patched multiple flaws in its Backup & Replication solution, including four critical remote code execution (RCE) vulnerabilities. [...]",
+            "url": "https://www.bleepingcomputer.com/news/security/veeam-warns-of-critical-flaws-exposing-backup-servers-to-rce-attacks/"
         },
         {
             "title": "US disrupts SocksEscort proxy network powered by Linux malware",
@@ -62,11 +67,6 @@
             "url": "https://www.bleepingcomputer.com/news/security/going-the-extra-mile-travel-rewards-turn-into-underground-currency/"
         },
         {
-            "title": "Apple patches older iPhones and iPads against Coruna exploits",
-            "description": "[BLEEPINGCOMPUTER.COM] \u200bApple has released security updates to patch older iPhones and iPads against a set of vulnerabilities targeted in cyberespionage and crypto-theft attacks using the Coruna exploit kit. [...]",
-            "url": "https://www.bleepingcomputer.com/news/apple/apple-patches-older-iphones-and-ipads-against-coruna-exploits/"
-        },
-        {
             "title": "CISA Adds Five Known Exploited Vulnerabilities to Catalog",
             "description": "[CISA.GOV] CISA has added five new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2017-7921 Hikvision Multiple Products Improper...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/03/05/cisa-adds-five-known-exploited-vulnerabilities-catalog"
@@ -75,6 +75,21 @@
             "title": "CISA Adds Three Known Exploited Vulnerabilities to Catalog",
             "description": "[CISA.GOV] CISA has added three new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2021-22054 Omnissa Workspace ONE Server-Side Request...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/03/09/cisa-adds-three-known-exploited-vulnerabilities-catalog"
+        },
+        {
+            "title": "Stryker Cyber Attacks: What Is Wiper Malware And Can Stryker Corp Recover?",
+            "description": "[NDTV PROFIT] Stryker confirmed a global network disruption in its Microsoft environment, but said there was no sign of ransomware or malware, and the incident appears contained.",
+            "url": "https://www.ndtvprofit.com/world/stryker-cyber-attacks-what-is-wiper-malware-and-can-stryker-corp-recover-11203731"
+        },
+        {
+            "title": "China\u2019s cyber agency raises concerns over OpenClaw AI",
+            "description": "[THE NEWS INTERNATIONAL] China\u2019s cybersecurity authority has issued a warning about OpenClaw, an emerging agentic AI tool, citing serious AI security risks and vulnerabilities that could expose users to...",
+            "url": "https://www.thenews.com.pk/latest/1395410-chinas-cyber-agency-raises-concerns-over-openclaw-ai"
+        },
+        {
+            "title": "Bursa Malaysia: Broker-level cyber incidents contained",
+            "description": "[THE STAR] KUALA LUMPUR: The latest cybersecurity incidents reported by a few brokers have been contained and all trading and market operations continue as normal, with no evidence of unauthorised trading...",
+            "url": "https://www.thestar.com.my/business/business-news/2026/03/12/bursa-malaysia-broker-level-cyber-incidents-contained"
         },
         {
             "title": "Anthropic launches 'Anthropic Institute', expands public policy team",
@@ -110,21 +125,6 @@
             "title": "Palo Alto Networks Adds $1 Billion to Buyback Authorization",
             "description": "[MARKETSCREENER] By Elias Schisgall Palo Alto Networks' board of directors approved a $1 billion boost to the cybersecurity company's stock buyback authorization. The increase adds to the company's existing...",
             "url": "https://www.marketscreener.com/news/palo-alto-networks-adds-1-billion-to-buyback-authorization-ce7e5fddd98bff26"
-        },
-        {
-            "title": "Michigan-based Stryker hit with cyberattack, says it's experiencing \"global network disruption\"",
-            "description": "[CBS NEWS] The company says it has \"no indication of ransomware or malware.\" Officials believe the incident is contained.",
-            "url": "https://www.cbsnews.com/detroit/news/michigan-based-stryker-hit-with-cyberattack/"
-        },
-        {
-            "title": "iTWire TV: How a Cybersecurity Company Ended Up on McLaren's F1 Car (And Why It's Smarter Than You Think)",
-            "description": "[ITWIRE] Okta's Auth0 president Shiv Ramji on 500 million McLaren fans, race-weekend traffic spikes, and turning identity management into a spectator sport...",
-            "url": "https://itwire.com/guest-articles/guest-interviews/itwire-tv-how-a-cybersecurity-company-ended-up-on-mclaren-s-f1-car-and-why-it-s-smarter-than-you-think.html"
-        },
-        {
-            "title": "How a Cybersecurity Company Ended Up on McLaren's F1 Car (And Why It's Smarter Than You Think)",
-            "description": "[ITWIRE] Okta's Auth0 president Shiv Ramji on 500 million McLaren fans, race-weekend traffic spikes, and turning identity management into a spectator sport...",
-            "url": "https://itwire.com/business-it-news/security/how-a-cybersecurity-company-ended-up-on-mclaren-s-f1-car-and-why-it-s-smarter-than-you-think.html"
         }
     ]
 }
