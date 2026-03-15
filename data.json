@@ -1,130 +1,137 @@
 {
-    "updated": "2026-03-15 10:20:58 UTC",
+    "title": "Sentinel Protocol",
+    "tagline": "Perimeter Intelligence Sync",
+    "updated": "2026-03-15 11:23 UTC",
     "news": [
         {
-            "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-            "description": "[CISA.GOV] CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-68613 n8n Improper Control of Dynamically-Managed Code...",
-            "url": "https://www.cisa.gov/news-events/alerts/2026/03/11/cisa-adds-one-known-exploited-vulnerability-catalog"
+            "source": {
+                "id": null,
+                "name": "Tom's Hardware UK"
+            },
+            "author": "Bruno Ferreira",
+            "title": "DoJ dismantles botnet made of 360,000 infected routers and IOT devices spread across 163 countries that ran for 16 years \u2014 SocksEscort proxy network eliminated in joint operation with Europol",
+            "description": "Network ran for 16 years and was host to all sorts of nasty criminal mischief.",
+            "url": "https://www.tomshardware.com/tech-industry/cyber-security/doj-dismantles-socksescort-proxy-network-that-ran-for-16-years-in-joint-operation-with-europol-botnet-comprised-360-000-infected-routers-and-iot-devices-across-163-countries",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/vALaxXCsBdhCKNjbe9Av6d-2048-80.jpg",
+            "publishedAt": "2026-03-14T11:00:00Z",
+            "content": "Hot on the heels of the LeakBase takedown, the combined might of the U.S. Department of Justice and Europol brought down another gigantic botnet, the SocksEscort proxy network, in an effort spanning \u2026 [+2418 chars]"
         },
         {
-            "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
-            "description": "[CISA.GOV] CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-21385 Qualcomm Multiple Chipsets Memory Corruption...",
-            "url": "https://www.cisa.gov/news-events/alerts/2026/03/03/cisa-adds-two-known-exploited-vulnerabilities-catalog"
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Andy Greenberg, Maddy Varner, Andrew Couts",
+            "title": "A Hacker Accidentally Broke Into the FBI\u2019s Epstein Files",
+            "description": "Plus: A porn-quitting app exposed the masturbation habits of hundreds of thousands of users, Russian hackers are trying to take over people\u2019s Signal accounts, and more.",
+            "url": "https://www.wired.com/story/security-news-this-week-a-hacker-accidentally-broke-into-the-fbis-epstein-files/",
+            "urlToImage": "https://media.wired.com/photos/69b48fe9f7bf82b48959d097/191:100/w_1280,c_limit/Security_EpsteinNews_GettyImages-2260272890.jpg",
+            "publishedAt": "2026-03-14T10:30:00Z",
+            "content": "The United States and Israels war with Iran has now been ongoing for two weeks, and the bombs continue to fall. But many of Irans missiles are failing to hit their targets. WIREDs team in the Middle \u2026 [+5719 chars]"
         },
         {
-            "title": "CISA Adds Five Known Exploited Vulnerabilities to Catalog",
-            "description": "[CISA.GOV] CISA has added five new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2017-7921 Hikvision Multiple Products Improper...",
-            "url": "https://www.cisa.gov/news-events/alerts/2026/03/05/cisa-adds-five-known-exploited-vulnerabilities-catalog"
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Matthew S. Smith",
+            "title": "Identity Theft Protection Services: Do You Actually Need One?",
+            "description": "Here's the best advice I have for protecting your identity online.",
+            "url": "https://www.wired.com/story/best-id-protection-services/",
+            "urlToImage": "https://media.wired.com/photos/69b0f54c5922ceb01a5360bf/191:100/w_1280,c_limit/What-Do-Identity-Protection-Services-Do,-And-Are-They-Worth-It-.jpg",
+            "publishedAt": "2026-03-14T10:30:00Z",
+            "content": "Odds are good youve encountered an identity theft protection service in the last year, even if you werent looking to sign up for one. ID protection services are served up as remedies in data breach s\u2026 [+4039 chars]"
         },
         {
-            "title": "OpenClaw AI Agent Flaws Could Enable Prompt Injection and Data Exfiltration",
-            "description": "[FEEDS.FEEDBURNER.COM] China's National Computer Network Emergency Response Technical Team (CNCERT) has issued a warning about the security stemming from the use of OpenClaw (formerly Clawdbot and Moltbot), an open-source...",
-            "url": "https://thehackernews.com/2026/03/openclaw-ai-agent-flaws-could-enable.html"
+            "source": {
+                "id": null,
+                "name": "Thechronicle.com.gh"
+            },
+            "author": "BERNICE BESSEY",
+            "title": "12 Nigerians Arrested Over Alleged Cyber Fraud, Human Trafficking",
+            "description": "A joint security operation involving the Cyber Vetting and Enforcement Team of the Inspector-General of Police (IGP), the Surveillance Unit of the Criminal Investigations Department (CID) Headquarters and the Ghana Immigration Service has led to the arrest of\u2026",
+            "url": "https://thechronicle.com.gh/12-nigerians-arrested-over-alleged-cyber-fraud-human-trafficking/",
+            "urlToImage": "https://thechronicle.com.gh/wp-content/uploads/2025/12/IGP-Christian-Tetteh-Yohuno.jpg",
+            "publishedAt": "2026-03-14T09:15:56Z",
+            "content": "A joint security operation involving the Cyber Vetting and Enforcement Team of the Inspector-General of Police (IGP), the Surveillance Unit of the Criminal Investigations Department (CID) Headquarter\u2026 [+2276 chars]"
         },
         {
-            "title": "GlassWorm Supply-Chain Attack Abuses 72 Open VSX Extensions to Target Developers",
-            "description": "[FEEDS.FEEDBURNER.COM] Cybersecurity researchers have flagged a new iteration of the GlassWorm campaign that they say represents a \"significant escalation\" in how it propagates through the Open VSX registry. \"Instead of...",
-            "url": "https://thehackernews.com/2026/03/glassworm-supply-chain-attack-abuses-72.html"
-        },
-        {
-            "title": "Microsoft releases Windows 11 OOB hotpatch to fix RRAS RCE flaw",
-            "description": "[BLEEPINGCOMPUTER.COM] Microsoft has released an out-of-band (OOB) update to fix a security vulnerabilities affecting Windows 11 Enterprise devices that receive hotpatch updates instead of the regular Patch Tuesday...",
-            "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-11-oob-hotpatch-to-fix-rras-rce-flaw/"
-        },
-        {
-            "title": "AppsFlyer Web SDK hijacked to spread crypto-stealing JavaScript code",
-            "description": "[BLEEPINGCOMPUTER.COM] The AppsFlyer Web SDK was temporarily hijacked this week with malicious code used to steal cryptocurrency in a supply-chain attack. [...]",
-            "url": "https://www.bleepingcomputer.com/news/security/appsflyer-web-sdk-used-to-spread-crypto-stealer-javascript-code/"
-        },
-        {
-            "title": "CISA Adds Three Known Exploited Vulnerabilities to Catalog",
-            "description": "[CISA.GOV] CISA has added three new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2021-22054 Omnissa Workspace ONE Server-Side Request...",
-            "url": "https://www.cisa.gov/news-events/alerts/2026/03/09/cisa-adds-three-known-exploited-vulnerabilities-catalog"
-        },
-        {
-            "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
-            "description": "[CISA.GOV] CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-3909 Google Skia Out-of-Bounds Write Vulnerability...",
-            "url": "https://www.cisa.gov/news-events/alerts/2026/03/13/cisa-adds-two-known-exploited-vulnerabilities-catalog"
-        },
-        {
-            "title": "Chinese Hackers Target Southeast Asian Militaries with AppleChris and MemFun Malware",
-            "description": "[FEEDS.FEEDBURNER.COM] A suspected China-based cyber espionage operation has targeted Southeast Asian military organizations as part of a state-sponsored campaign that dates back to at least 2020. Palo Alto Networks Unit...",
-            "url": "https://thehackernews.com/2026/03/chinese-hackers-target-southeast-asian.html"
-        },
-        {
-            "title": "Meta to Shut Down Instagram End-to-End Encrypted Chat Support Starting May 2026",
-            "description": "[FEEDS.FEEDBURNER.COM] Meta has announced plans to discontinue support for end-to-end encryption (E2EE) for chats on Instagram after May 8, 2026. \"If you have chats that are impacted by this change, you will see...",
-            "url": "https://thehackernews.com/2026/03/meta-to-shut-down-instagram-end-to-end.html"
-        },
-        {
-            "title": "INTERPOL Dismantles 45,000 Malicious IPs, Arrests 94 in Global Cybercrime",
-            "description": "[FEEDS.FEEDBURNER.COM] INTERPOL on Friday announced the takedown of 45,000 malicious IP addresses and servers used in connection with phishing, malware, and ransomware campaigns, as part of the agency's ongoing efforts to...",
-            "url": "https://thehackernews.com/2026/03/interpol-dismantles-45000-malicious-ips.html"
-        },
-        {
-            "title": "Microsoft: Windows 11 users can't access C: drive on some Samsung PCs",
-            "description": "[BLEEPINGCOMPUTER.COM] Microsoft is investigating a new issue affecting some Samsung laptops running Windows 11 after installing the February 2026 security updates, in which users lose access to their C:&#092; drive and...",
-            "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-users-cant-access-c-drive-on-some-samsung-pcs/"
-        },
-        {
-            "title": "FBI seeks victims of Steam games used to spread malware",
-            "description": "[BLEEPINGCOMPUTER.COM] The FBI is asking gamers who installed Steam titles containing malware to provide information as part of an ongoing investigation into eight malicious games uploaded to the gaming platform. [...]",
-            "url": "https://www.bleepingcomputer.com/news/security/fbi-seeks-victims-of-steam-games-used-to-spread-malware/"
-        },
-        {
-            "title": "Poland's nuclear research centre targeted by cyberattack",
-            "description": "[BLEEPINGCOMPUTER.COM] Poland's National Centre for Nuclear Research (NCBJ) says hackers targeted its IT infrastructure, but the attack was detected and blocked before causing any impact. [...]",
-            "url": "https://www.bleepingcomputer.com/news/security/polands-nuclear-research-centre-targeted-by-cyberattack/"
-        },
-        {
-            "title": "MP News: Darkness Under The Lamp; ESB Recruits Staff For Others, But 60% Of Its Posts Are Vacant",
-            "description": "[FREE PRESS JOURNAL] The posts of the additional director, controller, joint director, principal systems analyst, deputy director, accounts officer, cybersecurity expert, assistant director, superintendent, programmer,...",
-            "url": "https://www.freepressjournal.in/bhopal/mp-news-darkness-under-the-lamp-esb-recruits-staff-for-others-but-60-of-its-posts-are-vacant"
-        },
-        {
-            "title": "AI Generated Alerts To Prevent Tiger Attacks Near Pench",
-            "description": "[DECCAN CHRONICLE] Visitors interact with researchers during the R&D Showcase at the International Institute of Information Technology Hyderabad, featuring innovations in AI, robotics and cybersecurity.",
-            "url": "https://www.deccanchronicle.com/nation/ai-generated-alerts-to-prevent-tiger-attacks-near-pench-1943938"
-        },
-        {
-            "title": "VEREM Sets New Benchmark for RWA Security with Successful Completion of Hacken Smart Contract Audit",
-            "description": "[THE MANILA TIMES] LONDON, March 14, 2026 (GLOBE NEWSWIRE) -- VEREM, a Real-World Asset (RWA) ecosystem focused on the tokenization of GIA-certified emeralds, today announced the successful completion of a...",
-            "url": "https://www.manilatimes.net/2026/03/15/tmt-newswire/globenewswire/verem-sets-new-benchmark-for-rwa-security-with-successful-completion-of-hacken-smart-contract-audit/2300137"
-        },
-        {
-            "title": "Autonomous Wheelchair, Robots Draw Spotlight at IIIT-H",
-            "description": "[DECCAN CHRONICLE] IIIT Hyderabad director Sandeep K. Shukla said discussions around cybersecurity and digital trust were central to the event.",
-            "url": "https://www.deccanchronicle.com/southern-states/telangana/autonomous-wheelchair-robots-draw-spotlight-at-iiit-h-1943852"
-        },
-        {
-            "title": "Women in cybersecurity reflect on a decade of change",
-            "description": "[THE MANILA TIMES] TEN years ago, cybersecurity was not the kind of word that came up in boardrooms. Bring it up, and someone would steer the conversation back to IT, where it apparently belonged, handled by technical...",
-            "url": "https://www.manilatimes.net/2026/03/15/business/sunday-business-it/women-in-cybersecurity-reflect-on-a-decade-of-change/2300025"
-        },
-        {
-            "title": "GPS is being weaponized in electronic warfare \u202a-\u202c and it's putting ships at risk",
-            "description": "[LIVESCIENCE.COM] A cybersecurity researcher explores how GPS disruption can happen and its dangerous consequences.",
-            "url": "https://www.livescience.com/technology/gps-is-being-weaponized-in-electronic-warfare-and-its-putting-ships-at-risk"
-        },
-        {
-            "title": "Finance Conclave 2026 At Thakur Global Business School Highlights Technology-Driven Transformation Of India\u2019s Financial Sector",
-            "description": "[FREE PRESS JOURNAL] Thakur Global Business School hosted Finance Conclave 2026 focusing on technology-driven transformation in India\u2019s financial sector. Industry leaders discussed fintech innovation, AI, cybersecurity,...",
-            "url": "https://www.freepressjournal.in/mumbai/finance-conclave-2026-at-thakur-global-business-school-highlights-technology-driven-transformation-of-indias-financial-sector"
-        },
-        {
-            "title": "CID police organise cybersecurity training for its officers",
-            "description": "[THE HINDU] CID police in Andhra Pradesh conduct five-day cybersecurity training for officers, enhancing skills in cyber hygiene and risk management.",
-            "url": "https://www.thehindu.com/news/national/andhra-pradesh/cid-police-organise-cybersecurity-training-for-its-officers/article70743505.ece"
-        },
-        {
-            "title": "Former CISA chief accuses Iran of using AI to create false war narratives",
-            "description": "[FOX NEWS] Artificial intelligence propaganda by Iran includes AI-altered images of Supreme Leader Mojtaba Khamenei, according to BBC Verify journalist and cybersecurity expert Bridget Bean.",
-            "url": "https://www.foxnews.com/media/iran-using-ai-fake-winning-war-against-us-regime-cant-win-militarily-former-security-chief-warns"
-        },
-        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "Muntazir Abbas",
             "title": "Effective AI use can deter cyberattacks: SISA CEO",
-            "description": "[THE ECONOMIC TIMES] Cyber frauds are increasing rapidly. Artificial intelligence offers a powerful defense for businesses. Companies can use AI tools to protect themselves from threats like phishing. New security...",
-            "url": "https://economictimes.indiatimes.com/news/india/effective-ai-use-can-deter-cyberattacks-sisa-ceo/articleshow/129571877.cms"
+            "description": "Cyber frauds are increasing rapidly. Artificial intelligence offers a powerful defense for businesses. Companies can use AI tools to protect themselves from threats like phishing. New security challenges are emerging. The cybersecurity market is expected to g\u2026",
+            "url": "https://economictimes.indiatimes.com/news/india/effective-ai-use-can-deter-cyberattacks-sisa-ceo/articleshow/129571877.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-129571905,width-1200,height-630,imgsize-54148,overlay-economictimes/articleshow.jpg",
+            "publishedAt": "2026-03-14T09:11:45Z",
+            "content": "NEW DELHI: Enterprises could defend and secure themselves by applying artificial intelligence (AI) effectively, as cyber frauds including phishing, are rising at a phenomenal pace, a top executive of\u2026 [+1609 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Securityaffairs.com"
+            },
+            "author": "Pierluigi Paganini",
+            "title": "Interpol \u2013 Operation Synergia III leads to 45,000 malicious IPs dismantled and 94 arrests worldwide",
+            "description": "INTERPOL dismantled 45,000 malicious IPs and servers and arrested 94 suspects in a global cybercrime operation. INTERPOL announced a global cybercrime operation (codenamed Operation Synergia III) involving 72 countries that dismantled 45,000 malicious IP addr\u2026",
+            "url": "https://securityaffairs.com/189420/cyber-crime/interpol-operation-synergia-iii-leads-to-45000-malicious-ips-dismantled-and-94-arrests-worldwide.html",
+            "urlToImage": "https://securityaffairs.com/wp-content/uploads/2020/01/Interpol-Goldfish-Alpha-operation.jpg",
+            "publishedAt": "2026-03-14T08:33:24Z",
+            "content": "Interpol \u2013 Operation Synergia III leads to 45,000 malicious IPs dismantled and 94 arrests worldwide\r\nINTERPOL announced a global cybercrime operation (codenamed Operation Synergia III) involving 72 c\u2026 [+2535 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Macworld"
+            },
+            "author": "DealPost Team",
+            "title": "Mac malware beware \u2014 Moonlock\u2019s got your back for $30",
+            "description": "Macworld\n\n\n\r\n\n\n\n\nTL;DR:\u00a0Protect your Mac with Moonlock\u00a0for just $29.99 (MSRP $54) \u2014 a one-year subscription that blocks malware, safeguards your privacy, and gives easy-to-follow security guidance.\r\n\n\n\n\nWorried about malware sneaking onto your Mac? Moonlock m\u2026",
+            "url": "https://www.macworld.com/article/3083234/mac-malware-beware-moonlocks-got-your-back-for-30.html",
+            "urlToImage": "https://www.macworld.com/wp-content/uploads/2026/03/Moonlock-2.jpg?quality=50&strip=all&w=1024",
+            "publishedAt": "2026-03-14T08:00:00Z",
+            "content": "Skip to contentType your search and hit enter\r\nWhen you purchase through links in our articles, we may earn a small commission. This doesn't affect our editorial independence\r\n.\r\nTL;DR:\u00a0Protect your \u2026 [+1432 chars]"
+        },
+        {
+            "source": {
+                "id": "hacker-news",
+                "name": "Hacker News"
+            },
+            "author": "CzaxTanmay",
+            "title": "Show HN: Fortress,Cross-platform DSL for cybersecurity",
+            "description": "Fortress is a DSL made for OSINT, Recon, Reporting and Networks.The language is made with go and is very easy to use. You can make your own libraries and try more cool features.Why Fortress?Ease\nSpeed and\nPower= FortressYou can read more here -->https://githu\u2026",
+            "url": "https://news.ycombinator.com/item?id=47374325",
+            "urlToImage": null,
+            "publishedAt": "2026-03-14T07:52:09Z",
+            "content": "Fortress is a DSL made for OSINT, Recon, Reporting and Networks.The language is made with go and is very easy to use. You can make your own libraries and try more cool features.Why Fortress?\r\nEase\r\nS\u2026 [+214 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Addicted2success.com"
+            },
+            "author": "Addicted2Success Editor",
+            "title": "The Entrepreneur\u2019s Guide to Securing Your Phone and Protecting Your Focus in 2026",
+            "description": "Here\u2019s how entrepreneurs can simplify their devices, protect their data, and stay focused in a hyperconnected world.\nThe post The Entrepreneur\u2019s Guide to Securing Your Phone and Protecting Your Focus in 2026 appeared first on Addicted 2 Success.",
+            "url": "https://addicted2success.com/tech/digital-minimalism-for-entrepreneurs/",
+            "urlToImage": "https://addicted2success.com/wp-content/uploads/2026/03/The-Entrepreneurs-Guide-to-Securing-Your-Phone-and-Protecting-Your-Focus-in-2026.png",
+            "publishedAt": "2026-03-14T06:00:08Z",
+            "content": "A few years ago, I noticed something uncomfortable. My phone, the device that was supposed to make me more productive, was quietly doing the opposite.\r\nNotifications were constant. Apps were multiply\u2026 [+6222 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Naturalnews.com"
+            },
+            "author": "Zoey Sky",
+            "title": "The invisible war: How a cyberattack could plunge your city into darkness",
+            "description": "Cyberattacks are a real and immediate threat to the power grid. Incidents like the Ukraine grid hack prove that digital assaults cause severe, tangible blackouts, potentially collapsing vital systems in moments. A grid failure would trigger a cascade of socie\u2026",
+            "url": "https://www.naturalnews.com/2026-03-14-how-cyberattack-plunge-your-city-into-darkness.html",
+            "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/03/Woman-in-total-darkness-investigating-fuse-box-1.jpg",
+            "publishedAt": "2026-03-14T06:00:00Z",
+            "content": "<ul><li>Cyberattacks are a real and immediate threat to the power grid. Incidents like the Ukraine grid hack prove that digital assaults cause severe, tangible blackouts, potentially collapsing vital\u2026 [+5624 chars]"
         }
     ]
 }
