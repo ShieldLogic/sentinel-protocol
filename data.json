@@ -1,10 +1,15 @@
 {
-    "updated": "2026-03-16 18:49:42 UTC",
+    "updated": "2026-03-16 20:29:01 UTC",
     "news": [
         {
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
             "description": "[CISA.GOV] CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-68613 n8n Improper Control of Dynamically-Managed Code...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/03/11/cisa-adds-one-known-exploited-vulnerability-catalog"
+        },
+        {
+            "title": "GlassWorm Attack Uses Stolen GitHub Tokens to Force-Push Malware Into Python Repos",
+            "description": "[FEEDS.FEEDBURNER.COM] The GlassWorm malware campaign is being used to fuel an ongoing attack that leverages the stolen GitHub tokens to inject malware into hundreds of Python repositories. \"The attack targets Python...",
+            "url": "https://thehackernews.com/2026/03/glassworm-attack-uses-stolen-github.html"
         },
         {
             "title": "CISA Adds Five Known Exploited Vulnerabilities to Catalog",
@@ -32,6 +37,11 @@
             "url": "https://thehackernews.com/2026/03/clickfix-campaigns-spread-macsync-macos.html"
         },
         {
+            "title": "Stryker attack wiped tens of thousands of devices, no malware needed",
+            "description": "[BLEEPINGCOMPUTER.COM] Last week's cyberattack on medical technology giant Stryker was limited to its internal Microsoft environment and remotely wiped tens of thousands of employee devices. [...]",
+            "url": "https://www.bleepingcomputer.com/news/security/stryker-attack-wiped-tens-of-thousands-of-devices-no-malware-needed/"
+        },
+        {
             "title": "DRILLAPP Backdoor Targets Ukraine, Abuses Microsoft Edge Debugging for Stealth Espionage",
             "description": "[FEEDS.FEEDBURNER.COM] Ukrainian entities have emerged as the target of a new campaign likely orchestrated by threat actors linked to Russia, according to a report from S2 Grupo's LAB52 threat intelligence team. The...",
             "url": "https://thehackernews.com/2026/03/drillapp-backdoor-targets-ukraine.html"
@@ -52,19 +62,9 @@
             "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-online-outage-blocks-access-to-mailboxes/"
         },
         {
-            "title": "Android 17 Blocks Non-Accessibility Apps from Accessibility API to Prevent Malware Abuse",
-            "description": "[FEEDS.FEEDBURNER.COM] Google is testing a new security feature as part of Android Advanced Protection Mode (AAPM) that prevents certain kinds of apps from using the accessibility services API. The change, incorporated in...",
-            "url": "https://thehackernews.com/2026/03/android-17-blocks-non-accessibility.html"
-        },
-        {
             "title": "Shadow AI is everywhere. Here\u2019s how to find and secure it.",
             "description": "[BLEEPINGCOMPUTER.COM] Shadow AI is quietly spreading across SaaS environments as employees adopt new AI tools without IT oversight. Nudge Security explains how security teams can discover AI apps, monitor usage, and...",
             "url": "https://www.bleepingcomputer.com/news/security/shadow-ai-is-everywhere-heres-how-to-find-and-secure-it/"
-        },
-        {
-            "title": "Microsoft pulls Samsung app blocking Windows C: drive from Store",
-            "description": "[BLEEPINGCOMPUTER.COM] \u200bMicrosoft has removed the Samsung Galaxy Connect app from the Microsoft Store because it was causing issues on specific Samsung Galaxy Book 4 and desktop models running Windows 11. [...]",
-            "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-pulls-samsung-app-blocking-windows-c-drive-from-store/"
         },
         {
             "title": "CISA Adds Three Known Exploited Vulnerabilities to Catalog",
@@ -75,6 +75,16 @@
             "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
             "description": "[CISA.GOV] CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-3909 Google Skia Out-of-Bounds Write Vulnerability...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/03/13/cisa-adds-two-known-exploited-vulnerabilities-catalog"
+        },
+        {
+            "title": "Free event to help local businesses build skills in AI and cybersecurity",
+            "description": "[EXPRESS & STAR] Businesses across the Midlands are invited to a free event showcasing funded training opportunities designed to help organisations build skills in the fast-growing areas of artificial intelligence,...",
+            "url": "https://www.expressandstar.com/your-world/2026/03/16/free-event-to-help-local-businesses-build-skills-in-ai-and-cybersecurity/"
+        },
+        {
+            "title": "The More I Look At Quantum Computing, The More I Like It: Upgrading To \u201cBuy\u201d (QUBT)",
+            "description": "[SEEKING ALPHA] Quantum Computing pivots to photonics under the new CEO, targeting cybersecurity and commercialization. Read why QUBT stock is upgraded to buy.",
+            "url": "https://seekingalpha.com/article/4882617-more-i-look-at-quantum-computing-more-i-like-it-upgrading-to-buy"
         },
         {
             "title": "Rubrik: Cybersecurity Growth Story Facing A Narrative Problem",
@@ -115,16 +125,6 @@
             "title": "VEREM Sets New Benchmark for RWA Security with Successful Completion of Hacken Smart Contract Audit",
             "description": "[THE MANILA TIMES] LONDON, March 14, 2026 (GLOBE NEWSWIRE) -- VEREM, a Real-World Asset (RWA) ecosystem focused on the tokenization of GIA-certified emeralds, today announced the successful completion of a...",
             "url": "https://www.manilatimes.net/2026/03/15/tmt-newswire/globenewswire/verem-sets-new-benchmark-for-rwa-security-with-successful-completion-of-hacken-smart-contract-audit/2300137"
-        },
-        {
-            "title": "Autonomous Wheelchair, Robots Draw Spotlight at IIIT-H",
-            "description": "[DECCAN CHRONICLE] IIIT Hyderabad director Sandeep K. Shukla said discussions around cybersecurity and digital trust were central to the event.",
-            "url": "https://www.deccanchronicle.com/southern-states/telangana/autonomous-wheelchair-robots-draw-spotlight-at-iiit-h-1943852"
-        },
-        {
-            "title": "Women in cybersecurity reflect on a decade of change",
-            "description": "[THE MANILA TIMES] TEN years ago, cybersecurity was not the kind of word that came up in boardrooms. Bring it up, and someone would steer the conversation back to IT, where it apparently belonged, handled by technical...",
-            "url": "https://www.manilatimes.net/2026/03/15/business/sunday-business-it/women-in-cybersecurity-reflect-on-a-decade-of-change/2300025"
         }
     ]
 }
