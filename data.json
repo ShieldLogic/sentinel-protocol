@@ -1,10 +1,15 @@
 {
-    "updated": "2026-03-17 16:56:25 UTC",
+    "updated": "2026-03-17 18:49:32 UTC",
     "news": [
         {
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
             "description": "[CISA.GOV] CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-68613 n8n Improper Control of Dynamically-Managed Code...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/03/11/cisa-adds-one-known-exploited-vulnerability-catalog"
+        },
+        {
+            "title": "AI Flaws in Amazon Bedrock, LangSmith, and SGLang Enable Data Exfiltration and RCE",
+            "description": "[FEEDS.FEEDBURNER.COM] Cybersecurity researchers have disclosed details of a new method for exfiltrating sensitive data from artificial intelligence (AI) code execution environments using domain name system (DNS) queries....",
+            "url": "https://thehackernews.com/2026/03/ai-flaws-in-amazon-bedrock-langsmith.html"
         },
         {
             "title": "LeakNet Ransomware Uses ClickFix via Hacked Sites, Deploys Deno In-Memory Loader",
@@ -20,6 +25,11 @@
             "title": "Konni Deploys EndRAT Through Phishing, Uses KakaoTalk to Propagate Malware",
             "description": "[FEEDS.FEEDBURNER.COM] North Korean threat actors have been observed sending phishing to compromise targets and obtain access to a victim's KakaoTalk desktop application to distribute malicious payloads to certain...",
             "url": "https://thehackernews.com/2026/03/konni-deploys-endrat-through-spear.html"
+        },
+        {
+            "title": "Europe sanctions Chinese and Iranian firms for cyberattacks",
+            "description": "[BLEEPINGCOMPUTER.COM] The European Union Council has announced sanctions against three entities and two individuals for their involvement in cyberattacks targeting critical infrastructure in the region. [...]",
+            "url": "https://www.bleepingcomputer.com/news/security/europe-sanctions-chinese-and-iranian-firms-for-cyberattacks/"
         },
         {
             "title": "CISA Flags Actively Exploited Wing FTP Vulnerability Leaking Server Paths",
@@ -38,23 +48,13 @@
         },
         {
             "title": "Microsoft stops force-installing the Microsoft 365 Copilot app",
-            "description": "[BLEEPINGCOMPUTER.COM] Microsoft has stopped automatically installing the Microsoft 365 Copilot app on Windows devices outside the European Economic Area (EEA) that have the Microsoft 365 desktop client apps. [...]",
+            "description": "[BLEEPINGCOMPUTER.COM] Microsoft has stopped automatically installing the Microsoft 365 Copilot app on Windows devices that have the Microsoft 365 desktop client apps. [...]",
             "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-stops-force-installing-the-microsoft-365-copilot-app/"
         },
         {
             "title": "LeakNet ransomware uses ClickFix, Deno runtime in stealthy attacks",
             "description": "[BLEEPINGCOMPUTER.COM] The LeakNet ransomware gang is now using the ClickFix technique for initial access into corporate environments and deploys a malware loader based on the open-source Deno runtime for JavaScript and...",
             "url": "https://www.bleepingcomputer.com/news/security/leaknet-ransomware-uses-clickfix-and-deno-runtime-for-stealthy-attacks/"
-        },
-        {
-            "title": "Microsoft shares fix for Windows C: drive access issues on Samsung PCs",
-            "description": "[BLEEPINGCOMPUTER.COM] Microsoft has shared guidance to fix C:&#092; drive access issues and app failures on some Samsung laptops running Windows 11, versions 25H2 and 24H2. [...]",
-            "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-fix-for-windows-c-drive-access-issues-on-samsung-pcs/"
-        },
-        {
-            "title": "GlassWorm Attack Uses Stolen GitHub Tokens to Force-Push Malware Into Python Repos",
-            "description": "[FEEDS.FEEDBURNER.COM] The GlassWorm malware campaign is being used to fuel an ongoing attack that leverages the stolen GitHub tokens to inject malware into hundreds of Python repositories. \"The attack targets Python...",
-            "url": "https://thehackernews.com/2026/03/glassworm-attack-uses-stolen-github.html"
         },
         {
             "title": "CISA Adds Five Known Exploited Vulnerabilities to Catalog",
@@ -75,6 +75,21 @@
             "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
             "description": "[CISA.GOV] CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-3909 Google Skia Out-of-Bounds Write Vulnerability...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/03/13/cisa-adds-two-known-exploited-vulnerabilities-catalog"
+        },
+        {
+            "title": "AI-Driven IT Transformation: CIPL Partners with ONGC for Digital Future",
+            "description": "[DEVDISCOURSE] Corporate Infotech Pvt. Ltd. (CIPL) has secured a \u20b9125 crore contract to transform and secure ONGC's IT infrastructure across 47 locations. Over three years, they will implement AI-powered digital...",
+            "url": "https://www.devdiscourse.com/article/technology/3840891-ai-driven-it-transformation-cipl-partners-with-ongc-for-digital-future"
+        },
+        {
+            "title": "Career Path To Becoming A Cyber Security Engineer, Expected Salary Up to Rs 80 Lakh",
+            "description": "[NEWS18] To become a cybersecurity engineer, a minimum qualification of a B.Tech or B.E. degree in computer science, IT, or a related field is required.",
+            "url": "https://www.news18.com/education-career/career-path-to-becoming-a-cyber-security-engineer-expected-salary-up-to-rs-80-lakh-ws-e-9978487.html"
+        },
+        {
+            "title": "Kaspersky's Ambitious Expansion: Doubling Down on India amid Cybersecurity Challenges",
+            "description": "[DEVDISCOURSE] Kaspersky plans significant investment in India, using it as a hub for regional services. With strong growth and a positive financial outlook, the company aims to expand its marketing, business...",
+            "url": "https://www.devdiscourse.com/article/technology/3840877-kasperskys-ambitious-expansion-doubling-down-on-india-amid-cybersecurity-challenges"
         },
         {
             "title": "America's North Korean IT workers' problem that Amazon security head said he traced by keystroke data is now 'troubling' Europe",
@@ -110,21 +125,6 @@
             "title": "AI is reviving tech sectors that VCs had all but forgotten",
             "description": "[NEWSBREAK] PitchBook data shows early-stage money surging back into healthtech, cybersecurity, biotech, and SaaS.",
             "url": "https://www.newsbreak.com/fortune-561435/4542870978409-ai-is-reviving-tech-sectors-that-vcs-had-all-but-forgotten"
-        },
-        {
-            "title": "Parliamentary panel flags digital infrastructure, cyber capacity gaps in MeitY spending review",
-            "description": "[TIMES OF INDIA] India News: NEW DELHI: A parliamentary committee has recommended strengthening institutional capacity in cybersecurity, data protection and digital infrastructure.",
-            "url": "https://timesofindia.indiatimes.com/india/parliamentary-panel-flags-digital-infrastructure-cyber-capacity-gaps-in-meity-spending-review/articleshow/129613389.cms"
-        },
-        {
-            "title": "Machias adopts policy to get free cybersecurity coverage",
-            "description": "[BANGOR DAILY NEWS] Machias has obtained free cybersecurity protection from the Maine Municipal Association after passing an acceptable use policy. New security measures are now in place.",
-            "url": "https://www.bangordailynews.com/2026/03/16/down-east/downeast-government/machias-maine-communications-policy-vote/"
-        },
-        {
-            "title": "Arctic Wolf Appoints Will May as Chief Revenue Officer to Accelerate Next Phase of Global Growth",
-            "description": "[THE MANILA TIMES] Seasoned go-to-market leader brings deep experience scaling SaaS and cybersecurity organizations amid growing AI and agentic AI industry adoption",
-            "url": "https://www.manilatimes.net/2026/03/16/tmt-newswire/globenewswire/arctic-wolf-appoints-will-may-as-chief-revenue-officer-to-accelerate-next-phase-of-global-growth/2300984"
         }
     ]
 }
