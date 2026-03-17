@@ -1,5 +1,5 @@
 {
-    "updated": "2026-03-17 20:29:53 UTC",
+    "updated": "2026-03-17 22:23:49 UTC",
     "news": [
         {
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
@@ -15,6 +15,11 @@
             "title": "LeakNet Ransomware Uses ClickFix via Hacked Sites, Deploys Deno In-Memory Loader",
             "description": "[FEEDS.FEEDBURNER.COM] The ransomware operation known as LeakNet has adopted the ClickFix social engineering tactic delivered through compromised websites as an initial access method. The use of ClickFix, where users are...",
             "url": "https://thehackernews.com/2026/03/leaknet-ransomware-uses-clickfix-via.html"
+        },
+        {
+            "title": "GlassWorm malware hits 400+ code repos on GitHub, npm, VSCode, OpenVSX",
+            "description": "[BLEEPINGCOMPUTER.COM] The GlassWorm supply-chain campaign has returned with a new, coordinated attack that targeted hundreds of packages, repositories, and extensions on GitHub, npm, and VSCode/OpenVSX extensions. [...]",
+            "url": "https://www.bleepingcomputer.com/news/security/glassworm-malware-hits-400-plus-code-repos-on-github-npm-vscode-openvsx/"
         },
         {
             "title": "AI is Everywhere, But CISOs are Still Securing It with Yesterday's Skills and Tools, Study Finds",
@@ -52,11 +57,6 @@
             "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-stops-force-installing-the-microsoft-365-copilot-app/"
         },
         {
-            "title": "LeakNet ransomware uses ClickFix, Deno runtime in stealthy attacks",
-            "description": "[BLEEPINGCOMPUTER.COM] The LeakNet ransomware gang is now using the ClickFix technique for initial access into corporate environments and deploys a malware loader based on the open-source Deno runtime for JavaScript and...",
-            "url": "https://www.bleepingcomputer.com/news/security/leaknet-ransomware-uses-clickfix-and-deno-runtime-for-stealthy-attacks/"
-        },
-        {
             "title": "CISA Adds Five Known Exploited Vulnerabilities to Catalog",
             "description": "[CISA.GOV] CISA has added five new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2017-7921 Hikvision Multiple Products Improper...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/03/05/cisa-adds-five-known-exploited-vulnerabilities-catalog"
@@ -75,6 +75,26 @@
             "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
             "description": "[CISA.GOV] CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-3909 Google Skia Out-of-Bounds Write Vulnerability...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/03/13/cisa-adds-two-known-exploited-vulnerabilities-catalog"
+        },
+        {
+            "title": "Italian solar sector gears up for cybersecurity regulations on PV systems over 100 kW",
+            "description": "[PV MAGAZINE] The Italian energy regulator is requiring PV and wind plants over 100 kW to install central controllers with remote active power control, with staggered compliance deadlines up to 2028. The rules,...",
+            "url": "https://www.pv-magazine.com/2026/03/17/italian-solar-sector-gears-up-for-cybersecurity-regulations-on-pv-systems-over-100-kw/"
+        },
+        {
+            "title": "US Department of Defence IT Budget: The $66.1 Billion Push Into Cyber and AI",
+            "description": "[TECHBULLION] The US Department of Defence allocated $66.1 billion to IT in FY2026, with cybersecurity and artificial intelligence accounting for the majority of its record-setting technology investment.",
+            "url": "https://techbullion.com/us-department-of-defence-it-budget-the-66-1-billion-push-into-cyber-and-ai/"
+        },
+        {
+            "title": "Canada Cyber Startup Tailscale Buys Border0 as AI Agents Spill Onto Servers",
+            "description": "[BLOOMBERG] Canadian cybersecurity startup Tailscale Inc. bought smaller Vancouver-based firm Border0, its first acquisition, adding technology that helps businesses manage the proliferation of artificial...",
+            "url": "https://www.bloomberg.com/news/articles/2026-03-17/canada-cyber-startup-tailscale-buys-border0-as-ai-agents-spill-onto-servers"
+        },
+        {
+            "title": "VIPRE Security Group Partners with Microsoft to Deliver Unified Email Security Defenses",
+            "description": "[PR NEWSWIRE UK] /PRNewswire/ -- VIPRE Security Group (VIPRE), a global leader in cybersecurity, privacy, and data protection, today announced a new integration with Microsoft...",
+            "url": "https://www.prnewswire.co.uk/news-releases/vipre-security-group-partners-with-microsoft-to-deliver-unified-email-security-defenses-302714586.html"
         },
         {
             "title": "PowerDMARC is Exhibiting at the National Cybersecurity Summit 2026, New Zealand",
@@ -105,26 +125,6 @@
             "title": "Bengaluru startup wins Rs 1 crore in national cybersecurity challenge",
             "description": "[THE NEW INDIAN EXPRESS] The startup developed a biometric identification system using volatile organic compounds (VOCs) emitted from human skin to identify individuals through their ch",
             "url": "https://www.newindianexpress.com/cities/bengaluru/2026/Mar/17/bengaluru-startup-wins-rs-1-crore-in-national-cybersecurity-challenge"
-        },
-        {
-            "title": "Urgent warning issued to 'all Gmail users' told not to do one thing",
-            "description": "[THE DAILY STAR] Cybersecurity experts have uncovered a new phishing scam targeting Gmail users that disguises itself as a Google account security tool to steal sensitive information",
-            "url": "https://www.dailystar.co.uk/news/latest-news/urgent-warning-issued-all-gmail-36878152"
-        },
-        {
-            "title": "Hesai Joins NVIDIA Halos AI Systems Inspection Lab to Advance Safety in Autonomous Vehicles and Robotics",
-            "description": "[THE MANILA TIMES] PALO ALTO, Calif., March 17, 2026 /PRNewswire/ -- Hesai Technology (NASDAQ: HSAI; HKEX: 2525), a global leader in automotive lidar solutions, today announced it has joined the NVIDIA Halos AI Systems...",
-            "url": "https://www.manilatimes.net/2026/03/17/tmt-newswire/pr-newswire/hesai-joins-nvidia-halos-ai-systems-inspection-lab-to-advance-safety-in-autonomous-vehicles-and-robotics/2301265"
-        },
-        {
-            "title": "Urgent warning to all 1.8b Gmail users over new scam using security checks to steal accounts: Do NOT click",
-            "description": "[DAILY MAIL ONLINE] Cybersecurity experts have uncovered a new scam targeting Gmail users that disguises itself as a Google account security tool designed to protect email accounts.",
-            "url": "https://www.dailymail.co.uk/sciencetech/article-15651367/gmail-scam-security-check-steal-accounts.html"
-        },
-        {
-            "title": "AI is reviving tech sectors that VCs had all but forgotten",
-            "description": "[FORTUNE] PitchBook data shows early-stage money surging back into healthtech, cybersecurity, biotech, and SaaS.",
-            "url": "https://fortune.com/2026/03/16/ai-is-reviving-tech-sectors-that-vcs-had-all-but-forgotten/"
         }
     ]
 }
