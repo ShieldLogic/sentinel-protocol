@@ -1,10 +1,15 @@
 {
-    "updated": "2026-03-17 04:08:59 UTC",
+    "updated": "2026-03-17 06:53:19 UTC",
     "news": [
         {
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
             "description": "[CISA.GOV] CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-68613 n8n Improper Control of Dynamically-Managed Code...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/03/11/cisa-adds-one-known-exploited-vulnerability-catalog"
+        },
+        {
+            "title": "CISA Flags Actively Exploited Wing FTP Vulnerability Leaking Server Paths",
+            "description": "[FEEDS.FEEDBURNER.COM] The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a medium-severity security flaw impacting Wing FTP to its Known Exploited Vulnerabilities (KEV) catalog, citing...",
+            "url": "https://thehackernews.com/2026/03/cisa-flags-actively-exploited-wing-ftp.html"
         },
         {
             "title": "GlassWorm Attack Uses Stolen GitHub Tokens to Force-Push Malware Into Python Repos",
@@ -42,11 +47,6 @@
             "url": "https://www.bleepingcomputer.com/news/security/stryker-attack-wiped-tens-of-thousands-of-devices-no-malware-needed/"
         },
         {
-            "title": "DRILLAPP Backdoor Targets Ukraine, Abuses Microsoft Edge Debugging for Stealth Espionage",
-            "description": "[FEEDS.FEEDBURNER.COM] Ukrainian entities have emerged as the target of a new campaign likely orchestrated by threat actors linked to Russia, according to a report from S2 Grupo's LAB52 threat intelligence team. The...",
-            "url": "https://thehackernews.com/2026/03/drillapp-backdoor-targets-ukraine.html"
-        },
-        {
             "title": "CISA flags Wing FTP Server flaw as actively exploited in attacks",
             "description": "[BLEEPINGCOMPUTER.COM] CISA warned U.S. government agencies to secure their Wing FTP Server instances against an actively exploited vulnerability that may be chained in remote code execution attacks. [...]",
             "url": "https://www.bleepingcomputer.com/news/security/cisa-flags-wing-ftp-server-flaw-as-actively-exploited-in-attacks/"
@@ -75,6 +75,11 @@
             "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
             "description": "[CISA.GOV] CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-3909 Google Skia Out-of-Bounds Write Vulnerability...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/03/13/cisa-adds-two-known-exploited-vulnerabilities-catalog"
+        },
+        {
+            "title": "Urgent warning to all 1.8b Gmail users over new scam using security checks to steal accounts: Do NOT click",
+            "description": "[DAILY MAIL ONLINE] Cybersecurity experts have uncovered a new scam targeting Gmail users that disguises itself as a Google account security tool designed to protect email accounts.",
+            "url": "https://www.dailymail.co.uk/sciencetech/article-15651367/gmail-scam-security-check-steal-accounts.html"
         },
         {
             "title": "AI is reviving tech sectors that VCs had all but forgotten",
@@ -120,11 +125,6 @@
             "title": "Government Cyber Resilience Summit Ph convenes national leaders to strengthen country\u2019s cybersecurity, digital resilience",
             "description": "[THE MANILA TIMES] THE Government Cyber Resilience Summit \u2013 Philippines successfully convened leading government authorities, cybersecurity experts, industry leaders, and technology innovators to address the growing...",
             "url": "https://www.manilatimes.net/2026/03/16/tmt-newswire/government-cyber-resilience-summit-ph-convenes-national-leaders-to-strengthen-countrys-cybersecurity-digital-resilience/2300598"
-        },
-        {
-            "title": "Power Electronics Secures JC Star\u20111 Certification, Strengthening Cybersecurity for Energy Storage Systems in Japan",
-            "description": "[PV MAGAZINE] Power Electronics has achieved the prestigious JC Star\u20111 Certification, reinforcing its commitment to the highest cybersecurity standards required for equipment connected to Japan\u2019s power grid. This...",
-            "url": "https://www.pv-magazine.com/press-releases/power-electronics-secures-jc-star%e2%80%911-certification-strengthening-cybersecurity-for-energy-storage-systems-in-japan/"
         }
     ]
 }
