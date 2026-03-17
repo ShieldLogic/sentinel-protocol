@@ -1,5 +1,5 @@
 {
-    "updated": "2026-03-17 12:46:53 UTC",
+    "updated": "2026-03-17 14:49:15 UTC",
     "news": [
         {
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
@@ -22,6 +22,21 @@
             "url": "https://thehackernews.com/2026/03/cisa-flags-actively-exploited-wing-ftp.html"
         },
         {
+            "title": "Top 5 Things CISOs Need to Do Today to Secure AI Agents",
+            "description": "[BLEEPINGCOMPUTER.COM] AI agents are autonomous actors with real access to data and systems, not just copilots. Token Security explains why identity-based access control is critical to prevent misuse and data exposure....",
+            "url": "https://www.bleepingcomputer.com/news/security/top-5-things-cisos-need-to-do-today-to-secure-ai-agents/"
+        },
+        {
+            "title": "New font-rendering trick hides malicious commands from AI tools",
+            "description": "[BLEEPINGCOMPUTER.COM] A new font-rendering attack causes AI assistants to miss malicious commands shown on webpages by hiding them in seemingly harmless HTML. [...]",
+            "url": "https://www.bleepingcomputer.com/news/security/new-font-rendering-trick-hides-malicious-commands-from-ai-tools/"
+        },
+        {
+            "title": "Microsoft stops force-installing the Microsoft 365 Copilot app",
+            "description": "[BLEEPINGCOMPUTER.COM] Microsoft has stopped automatically installing the Microsoft 365 Copilot app on Windows devices outside the European Economic Area (EEA) that have the Microsoft 365 desktop client apps. [...]",
+            "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-stops-force-installing-the-microsoft-365-copilot-app/"
+        },
+        {
             "title": "LeakNet ransomware uses ClickFix, Deno runtime in stealthy attacks",
             "description": "[BLEEPINGCOMPUTER.COM] The LeakNet ransomware gang is now using the ClickFix technique for initial access into corporate environments and deploys a malware loader based on the open-source Deno runtime for JavaScript and...",
             "url": "https://www.bleepingcomputer.com/news/security/leaknet-ransomware-uses-clickfix-and-deno-runtime-for-stealthy-attacks/"
@@ -30,16 +45,6 @@
             "title": "Microsoft shares fix for Windows C: drive access issues on Samsung PCs",
             "description": "[BLEEPINGCOMPUTER.COM] Microsoft has shared guidance to fix C:&#092; drive access issues and app failures on some Samsung laptops running Windows 11, versions 25H2 and 24H2. [...]",
             "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-fix-for-windows-c-drive-access-issues-on-samsung-pcs/"
-        },
-        {
-            "title": "New Windows 11 hotpatch fixes Bluetooth device visibility issue",
-            "description": "[BLEEPINGCOMPUTER.COM] Microsoft has released an emergency update to fix a Bluetooth device visibility issue on hotpatch-enabled Windows 11 Enterprise devices. [...]",
-            "url": "https://www.bleepingcomputer.com/news/microsoft/new-windows-11-hotpatch-fixes-bluetooth-device-visibility-issue/"
-        },
-        {
-            "title": "Microsoft: Enabling Teams Meeting add-in breaks Outlook Classic",
-            "description": "[BLEEPINGCOMPUTER.COM] Microsoft is working to address a known issue that renders the classic Outlook email client unusable for users who have enabled the Microsoft Teams Meeting Add-in. [...]",
-            "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-enabling-teams-meeting-add-in-breaks-outlook-classic/"
         },
         {
             "title": "GlassWorm Attack Uses Stolen GitHub Tokens to Force-Push Malware Into Python Repos",
@@ -60,11 +65,6 @@
             "title": "\u26a1 Weekly Recap: Chrome 0-Days, Router Botnets, AWS Breach, Rogue AI Agents & More",
             "description": "[FEEDS.FEEDBURNER.COM] Some weeks in security feel normal. Then you read a few tabs and get that immediate \u201cah, great, we\u2019re doing this now\u201d feeling. This week has that energy. Fresh messes, old problems getting sharper,...",
             "url": "https://thehackernews.com/2026/03/weekly-recap-chrome-0-days-router.html"
-        },
-        {
-            "title": "Stryker attack wiped tens of thousands of devices, no malware needed",
-            "description": "[BLEEPINGCOMPUTER.COM] Last week's cyberattack on medical technology giant Stryker was limited to its internal Microsoft environment and remotely wiped tens of thousands of employee devices. [...]",
-            "url": "https://www.bleepingcomputer.com/news/security/stryker-attack-wiped-tens-of-thousands-of-devices-no-malware-needed/"
         },
         {
             "title": "CISA Adds Three Known Exploited Vulnerabilities to Catalog",
