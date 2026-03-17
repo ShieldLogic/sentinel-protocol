@@ -1,5 +1,5 @@
 {
-    "updated": "2026-03-17 08:40:24 UTC",
+    "updated": "2026-03-17 10:41:02 UTC",
     "news": [
         {
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
@@ -7,9 +7,19 @@
             "url": "https://www.cisa.gov/news-events/alerts/2026/03/11/cisa-adds-one-known-exploited-vulnerability-catalog"
         },
         {
+            "title": "Konni Deploys EndRAT Through Phishing, Uses KakaoTalk to Propagate Malware",
+            "description": "[FEEDS.FEEDBURNER.COM] North Korean threat actors have been observed sending phishing to compromise targets and obtain access to a victim's KakaoTalk desktop application to distribute malicious payloads to certain...",
+            "url": "https://thehackernews.com/2026/03/konni-deploys-endrat-through-spear.html"
+        },
+        {
             "title": "CISA Flags Actively Exploited Wing FTP Vulnerability Leaking Server Paths",
             "description": "[FEEDS.FEEDBURNER.COM] The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a medium-severity security flaw impacting Wing FTP to its Known Exploited Vulnerabilities (KEV) catalog, citing...",
             "url": "https://thehackernews.com/2026/03/cisa-flags-actively-exploited-wing-ftp.html"
+        },
+        {
+            "title": "Microsoft: Enabling Teams Meeting add-in breaks Outlook Classic",
+            "description": "[BLEEPINGCOMPUTER.COM] Microsoft is working to address a known issue that renders the classic Outlook email client unusable for users who have enabled the Microsoft Teams Meeting Add-in. [...]",
+            "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-enabling-teams-meeting-add-in-breaks-outlook-classic/"
         },
         {
             "title": "GlassWorm Attack Uses Stolen GitHub Tokens to Force-Push Malware Into Python Repos",
@@ -37,11 +47,6 @@
             "url": "https://thehackernews.com/2026/03/why-security-validation-is-becoming.html"
         },
         {
-            "title": "ClickFix Campaigns Spread MacSync macOS Infostealer via Fake AI Tool Installers",
-            "description": "[FEEDS.FEEDBURNER.COM] Three different ClickFix campaigns have been found to act as a delivery vector for the deployment of a macOS information stealer called MacSync. \"Unlike traditional exploit-based attacks, this method...",
-            "url": "https://thehackernews.com/2026/03/clickfix-campaigns-spread-macsync-macos.html"
-        },
-        {
             "title": "Stryker attack wiped tens of thousands of devices, no malware needed",
             "description": "[BLEEPINGCOMPUTER.COM] Last week's cyberattack on medical technology giant Stryker was limited to its internal Microsoft environment and remotely wiped tens of thousands of employee devices. [...]",
             "url": "https://www.bleepingcomputer.com/news/security/stryker-attack-wiped-tens-of-thousands-of-devices-no-malware-needed/"
@@ -62,11 +67,6 @@
             "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-online-outage-blocks-access-to-mailboxes/"
         },
         {
-            "title": "Shadow AI is everywhere. Here\u2019s how to find and secure it.",
-            "description": "[BLEEPINGCOMPUTER.COM] Shadow AI is quietly spreading across SaaS environments as employees adopt new AI tools without IT oversight. Nudge Security explains how security teams can discover AI apps, monitor usage, and...",
-            "url": "https://www.bleepingcomputer.com/news/security/shadow-ai-is-everywhere-heres-how-to-find-and-secure-it/"
-        },
-        {
             "title": "CISA Adds Three Known Exploited Vulnerabilities to Catalog",
             "description": "[CISA.GOV] CISA has added three new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2021-22054 Omnissa Workspace ONE Server-Side Request...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/03/09/cisa-adds-three-known-exploited-vulnerabilities-catalog"
@@ -75,6 +75,11 @@
             "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
             "description": "[CISA.GOV] CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-3909 Google Skia Out-of-Bounds Write Vulnerability...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/03/13/cisa-adds-two-known-exploited-vulnerabilities-catalog"
+        },
+        {
+            "title": "Hesai Joins NVIDIA Halos AI Systems Inspection Lab to Advance Safety in Autonomous Vehicles and Robotics",
+            "description": "[THE MANILA TIMES] PALO ALTO, Calif., March 17, 2026 /PRNewswire/ -- Hesai Technology (NASDAQ: HSAI; HKEX: 2525), a global leader in automotive lidar solutions, today announced it has joined the NVIDIA Halos AI Systems...",
+            "url": "https://www.manilatimes.net/2026/03/17/tmt-newswire/pr-newswire/hesai-joins-nvidia-halos-ai-systems-inspection-lab-to-advance-safety-in-autonomous-vehicles-and-robotics/2301265"
         },
         {
             "title": "Urgent warning to all 1.8b Gmail users over new scam using security checks to steal accounts: Do NOT click",
@@ -120,11 +125,6 @@
             "title": "SentinelOne Expanded Cybersecurity Partnership With Cloudflare",
             "description": "[BENZINGA] SentinelOne integrates Cloudflare Logpush telemetry into its AI security platform to strengthen enterprise threat detection capabilities.",
             "url": "https://www.benzinga.com/markets/mid-cap/26/03/51273819/sentinelone-expanded-cybersecurity-partnership-with-cloudflare"
-        },
-        {
-            "title": "Government Cyber Resilience Summit Ph convenes national leaders to strengthen country\u2019s cybersecurity, digital resilience",
-            "description": "[THE MANILA TIMES] THE Government Cyber Resilience Summit \u2013 Philippines successfully convened leading government authorities, cybersecurity experts, industry leaders, and technology innovators to address the growing...",
-            "url": "https://www.manilatimes.net/2026/03/16/tmt-newswire/government-cyber-resilience-summit-ph-convenes-national-leaders-to-strengthen-countrys-cybersecurity-digital-resilience/2300598"
         }
     ]
 }
