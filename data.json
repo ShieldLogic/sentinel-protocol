@@ -1,130 +1,137 @@
 {
-    "updated": "2026-03-18 10:41:55 UTC",
+    "title": "Sentinel Protocol",
+    "tagline": "Perimeter Intelligence Sync",
+    "updated": "2026-03-18 11:42 UTC",
     "news": [
         {
-            "title": "Ubuntu CVE-2026-3888 Bug Lets Attackers Gain Root via systemd Cleanup Timing Exploit",
-            "description": "[FEEDS.FEEDBURNER.COM] A high-severity security flaw affecting default installations of Ubuntu Desktop versions 24.04 and later could be exploited to escalate privileges to the root level. Tracked as CVE-2026-3888 (CVSS...",
-            "url": "https://thehackernews.com/2026/03/ubuntu-cve-2026-3888-bug-lets-attackers.html"
+            "source": {
+                "id": null,
+                "name": "CNA"
+            },
+            "author": null,
+            "title": "Stryker says cyberattack on its network contained",
+            "description": "March 17 : Medical device maker Stryker said on Tuesday it has contained a cyberattack that caused widespread disruption to its business and was now prioritizing restoring systems that directly support customers, ordering and shipping. A cyberattack on March \u2026",
+            "url": "https://www.channelnewsasia.com/business/stryker-says-cyberattack-its-network-contained-5998856",
+            "urlToImage": "https://dam.mediacorp.sg/image/upload/s--ySs2lQFl--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-03-17T113955Z_1_LYNXMPEM2G0NR_RTROPTP_3_USA-TRUMP-TARIFFS-IRELAND.JPG?itok=6vantqPa",
+            "publishedAt": "2026-03-17T11:39:55Z",
+            "content": "March 17 : Medical device maker Stryker said on Tuesday it has contained a cyberattack that caused widespread disruption to its business and was now prioritizing restoring systems that directly suppo\u2026 [+914 chars]"
         },
         {
-            "title": "Apple Fixes WebKit Vulnerability Enabling Same-Origin Policy Bypass on iOS and macOS",
-            "description": "[FEEDS.FEEDBURNER.COM] Apple on Tuesday released its first round of Background Security Improvements to address a security flaw in WebKit that affects iOS, iPadOS, and macOS. The vulnerability, tracked as CVE-2026-20643...",
-            "url": "https://thehackernews.com/2026/03/apple-fixes-webkit-vulnerability.html"
+            "source": {
+                "id": null,
+                "name": "Help Net Security"
+            },
+            "author": "Industry News",
+            "title": "Imprivata enhances NHS access security with passwordless controls",
+            "description": "Imprivata has introduced new capabilities designed to help NHS organisations and UK healthcare providers meet the unique demands of the UK\u2019s evolving compliance, cybersecurity, data protection landscape, including the Cyber Assessment Framework (CAF)-aligned \u2026",
+            "url": "https://www.helpnetsecurity.com/2026/03/17/imprivata-enterprise-access-management/",
+            "urlToImage": "https://img.helpnetsecurity.com/wp-content/uploads/2024/11/28150559/hns-large_logo.webp",
+            "publishedAt": "2026-03-17T11:10:32Z",
+            "content": "Imprivata has introduced new capabilities designed to help NHS organisations and UK healthcare providers meet the unique demands of the UKs evolving compliance, cybersecurity, data protection landsca\u2026 [+4096 chars]"
         },
         {
-            "title": "Critical Unpatched Telnetd Flaw (CVE-2026-32746) Enables Unauthenticated Root RCE via Port 23",
-            "description": "[FEEDS.FEEDBURNER.COM] Cybersecurity researchers have disclosed a critical security flaw impacting the GNU InetUtils telnet daemon (telnetd) that could be exploited by an unauthenticated remote attacker to execute...",
-            "url": "https://thehackernews.com/2026/03/critical-telnetd-flaw-cve-2026-32746.html"
+            "source": {
+                "id": "financial-post",
+                "name": "Financial Post"
+            },
+            "author": "Business Wire",
+            "title": "Exchange Income Corporation Announces March 2026 Dividend",
+            "description": "WINNIPEG, Manitoba \u2014 Exchange Income Corporation (TSX: EIF) (the \u201cCorporation\u201d), a diversified, acquisition-oriented company focused on opportunities in the Aerospace & Aviation and Manufacturing segments, announced today that the Directors of the Corporation\u2026",
+            "url": "https://financialpost.com/news/exchange-income-corporation-announces-march-2026-dividend",
+            "urlToImage": null,
+            "publishedAt": "2026-03-17T11:06:56Z",
+            "content": "WINNIPEG, Manitoba Exchange Income Corporation (TSX: EIF) (the Corporation), a diversified, acquisition-oriented company focused on opportunities in the Aerospace &amp; Aviation and Manufacturing seg\u2026 [+5554 chars]"
         },
         {
-            "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-            "description": "[CISA.GOV] CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-68613 n8n Improper Control of Dynamically-Managed Code...",
-            "url": "https://www.cisa.gov/news-events/alerts/2026/03/11/cisa-adds-one-known-exploited-vulnerability-catalog"
+            "source": {
+                "id": "financial-post",
+                "name": "Financial Post"
+            },
+            "author": "Business Wire",
+            "title": "AECOM consortium selected to help deliver first stage of pioneering \u00a3200 million STEP fusion energy program",
+            "description": "DALLAS \u2014 AECOM (NYSE:ACM), the trusted global infrastructure leader, today announced that it will provide design and technical services as part of the ILIOS consortium, which has been appointed by UK Fusion Energy as Construction Partner for the first three-y\u2026",
+            "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/aecom-consortium-selected-to-help-deliver-first-stage-of-pioneering-200-million-step-fusion-energy-program",
+            "urlToImage": null,
+            "publishedAt": "2026-03-17T11:06:50Z",
+            "content": "DALLAS AECOM (NYSE:ACM), the trusted global infrastructure leader, today announced that it will provide design and technical services as part of the ILIOS consortium, which has been appointed by UK F\u2026 [+10542 chars]"
         },
         {
-            "title": "AI Flaws in Amazon Bedrock, LangSmith, and SGLang Enable Data Exfiltration and RCE",
-            "description": "[FEEDS.FEEDBURNER.COM] Cybersecurity researchers have disclosed details of a new method for exfiltrating sensitive data from artificial intelligence (AI) code execution environments using domain name system (DNS) queries....",
-            "url": "https://thehackernews.com/2026/03/ai-flaws-in-amazon-bedrock-langsmith.html"
+            "source": {
+                "id": null,
+                "name": "Healthsystemcio.com"
+            },
+            "author": "Anthony Guerra",
+            "title": "Sentara Healthcare\u2019s Thomas Says Isolated Recovery Environments Are a \u2018Lifeboat\u2019 for Ransomware Events",
+            "description": "When Sentara Healthcare ran its most recent ransomware tabletop exercise, executives heard the clock start ticking. Assessment alone would take 72 hours. Downtime computers, ordinarily the fallback, were powered off as part of the containment protocol. The CE\u2026",
+            "url": "https://healthsystemcio.com/2026/03/17/sentara-healthcares-thomas-says-isolated-recovery-environments-are-a-lifeboat-for-ransomware-events/",
+            "urlToImage": "https://healthsystemcio.com/wp-content/uploads/2026/03/thomas_jeff.jpeg",
+            "publishedAt": "2026-03-17T11:00:50Z",
+            "content": "Jeff Thomas, CTO, Sentara Healthcare\r\nWhen Sentara Healthcare ran its most recent ransomware tabletop exercise, executives heard the clock start ticking. Assessment alone would take 72 hours. Downtim\u2026 [+7304 chars]"
         },
         {
-            "title": "Apple pushes first Background Security Improvements update to fix WebKit flaw",
-            "description": "[BLEEPINGCOMPUTER.COM] Apple has released its first Background Security Improvements update to fix a WebKit flaw tracked as CVE-2026-20643 on iPhones, iPads, and Macs without requiring a full operating system upgrade. [...]",
-            "url": "https://www.bleepingcomputer.com/news/security/apple-pushes-first-background-security-improvements-update-to-fix-webkit-flaw/"
+            "source": {
+                "id": null,
+                "name": "Healthsystemcio.com"
+            },
+            "author": "Anthony Guerra",
+            "title": "Cooper University Health Care\u2019s Curran Says Cross-Functional Collaboration Was the Key to Securing More Than 10,000 Edge Devices",
+            "description": "Cooper University Health Care had visibility into just 25 percent of the more than 10,000 IoT and medical devices connected to its network when it launched an 18-month initiative to close the gap. Phil Curran, CISO, said the unmanaged devices represented a si\u2026",
+            "url": "https://healthsystemcio.com/2026/03/17/cooper-university-health-cares-curran-says-cross-functional-collaboration-was-the-key-to-securing-more-than-10000-edge-devices/",
+            "urlToImage": "https://healthsystemcio.com/wp-content/uploads/2026/03/Curran_Phil_NEW.jpg",
+            "publishedAt": "2026-03-17T11:00:32Z",
+            "content": "Phil Curran, CISO, Cooper University Health Care\r\nCooper University Health Care had visibility into just 25 percent of the more than 10,000 IoT and medical devices connected to its network when it la\u2026 [+5655 chars]"
         },
         {
-            "title": "LeakNet Ransomware Uses ClickFix via Hacked Sites, Deploys Deno In-Memory Loader",
-            "description": "[FEEDS.FEEDBURNER.COM] The ransomware operation known as LeakNet has adopted the ClickFix social engineering tactic delivered through compromised websites as an initial access method. The use of ClickFix, where users are...",
-            "url": "https://thehackernews.com/2026/03/leaknet-ransomware-uses-clickfix-via.html"
+            "source": {
+                "id": null,
+                "name": "Help Net Security"
+            },
+            "author": "Industry News",
+            "title": "Proofpoint addresses AI threats with intent-based security",
+            "description": "Proofpoint has announced Proofpoint AI Security, the newest security solution that combines intent-based detection, multi-surface control points, and a comprehensive implementation framework to secure how humans and AI agents use AI across the enterprise. Bas\u2026",
+            "url": "https://www.helpnetsecurity.com/2026/03/17/proofpoint-ai-security/",
+            "urlToImage": "https://img.helpnetsecurity.com/wp-content/uploads/2024/11/28150559/hns-large_logo.webp",
+            "publishedAt": "2026-03-17T10:52:39Z",
+            "content": "Proofpoint has announced Proofpoint AI Security, the newest security solution that combines intent-based detection, multi-surface control points, and a comprehensive implementation framework to secur\u2026 [+4908 chars]"
         },
         {
-            "title": "GlassWorm malware hits 400+ code repos on GitHub, npm, VSCode, OpenVSX",
-            "description": "[BLEEPINGCOMPUTER.COM] The GlassWorm supply-chain campaign has returned with a new, coordinated attack that targeted hundreds of packages, repositories, and extensions on GitHub, npm, and VSCode/OpenVSX extensions. [...]",
-            "url": "https://www.bleepingcomputer.com/news/security/glassworm-malware-hits-400-plus-code-repos-on-github-npm-vscode-openvsx/"
+            "source": {
+                "id": null,
+                "name": "HackRead"
+            },
+            "author": "Deeba Ahmed",
+            "title": "New Vidar 2.0 Infostealer Spreads via Fake Game Cheats on GitHub, Reddit",
+            "description": "The new infostealer campaign spreads Vidar 2.0 via fake game cheats on GitHub and Reddit, stealing crypto, login tokens, and files while targeting young gamers ignoring security warnings",
+            "url": "https://hackread.com/vidar-2-0-infostealer-fake-game-cheats-github-reddit/",
+            "urlToImage": "https://hackread.com/wp-content/uploads/2026/03/vidar-2-0-infostealer-fake-game-cheats-github-reddit.jpg",
+            "publishedAt": "2026-03-17T10:49:13Z",
+            "content": "For many online gamers, the temptation to get a competitive edge in hits like Fortnite or Counter-Strike is high. However, a new wave of cyberattacks is proving that \u2018free\u2019 cheats often come with a h\u2026 [+2603 chars]"
         },
         {
-            "title": "Europe sanctions Chinese and Iranian firms for cyberattacks",
-            "description": "[BLEEPINGCOMPUTER.COM] The European Union Council has announced sanctions against three entities and two individuals for their involvement in cyberattacks targeting critical infrastructure in the region. [...]",
-            "url": "https://www.bleepingcomputer.com/news/security/europe-sanctions-chinese-and-iranian-firms-for-cyberattacks/"
+            "source": {
+                "id": null,
+                "name": "GlobeNewswire"
+            },
+            "author": "Akamai Technologies, Inc.",
+            "title": "AI Transformation at Risk: APIs Emerge as the Primary Attack Surface, Akamai Research Finds",
+            "description": "Cybercriminals follow enterprise AI investment, exploiting APIs as the fastest path to scale, disruption, and profit Cybercriminals follow enterprise AI investment, exploiting APIs as the fastest path to scale, disruption, and profit",
+            "url": "https://www.globenewswire.com/news-release/2026/03/17/3256958/0/en/AI-Transformation-at-Risk-APIs-Emerge-as-the-Primary-Attack-Surface-Akamai-Research-Finds.html",
+            "urlToImage": "https://ml.globenewswire.com/Resource/Download/4ce7685a-3da0-416d-9bc1-58cc8b7812b8",
+            "publishedAt": "2026-03-17T10:28:00Z",
+            "content": "CAMBRIDGE, Mass., March 17, 2026 (GLOBE NEWSWIRE) -- Akamai\r\n (NASDAQ: AKAM) today released its 2026 Apps, APIs, and DDoS State of the Internet (SOTI) report,\r\n highlighting a decisive shift in the t\u2026 [+3892 chars]"
         },
         {
-            "title": "Top 5 Things CISOs Need to Do Today to Secure AI Agents",
-            "description": "[BLEEPINGCOMPUTER.COM] AI agents are autonomous actors with real access to data and systems, not just copilots. Token Security explains why identity-based access control is critical to prevent misuse and data exposure....",
-            "url": "https://www.bleepingcomputer.com/news/security/top-5-things-cisos-need-to-do-today-to-secure-ai-agents/"
-        },
-        {
-            "title": "New font-rendering trick hides malicious commands from AI tools",
-            "description": "[BLEEPINGCOMPUTER.COM] A new font-rendering attack causes AI assistants to miss malicious commands shown on webpages by hiding them in seemingly harmless HTML. [...]",
-            "url": "https://www.bleepingcomputer.com/news/security/new-font-rendering-trick-hides-malicious-commands-from-ai-tools/"
-        },
-        {
-            "title": "CISA Adds Five Known Exploited Vulnerabilities to Catalog",
-            "description": "[CISA.GOV] CISA has added five new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2017-7921 Hikvision Multiple Products Improper...",
-            "url": "https://www.cisa.gov/news-events/alerts/2026/03/05/cisa-adds-five-known-exploited-vulnerabilities-catalog"
-        },
-        {
-            "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-            "description": "[CISA.GOV] CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation.&nbsp; CVE-2025-47813 Wing FTP Server Information Disclosure...",
-            "url": "https://www.cisa.gov/news-events/alerts/2026/03/16/cisa-adds-one-known-exploited-vulnerability-catalog"
-        },
-        {
-            "title": "CISA Adds Three Known Exploited Vulnerabilities to Catalog",
-            "description": "[CISA.GOV] CISA has added three new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2021-22054 Omnissa Workspace ONE Server-Side Request...",
-            "url": "https://www.cisa.gov/news-events/alerts/2026/03/09/cisa-adds-three-known-exploited-vulnerabilities-catalog"
-        },
-        {
-            "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
-            "description": "[CISA.GOV] CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-3909 Google Skia Out-of-Bounds Write Vulnerability...",
-            "url": "https://www.cisa.gov/news-events/alerts/2026/03/13/cisa-adds-two-known-exploited-vulnerabilities-catalog"
-        },
-        {
-            "title": "China hacker group leaks $7M crypto theft operation targeting wallet supply chains\u200b",
-            "description": "[CRYPTO NEWS] A hacker group from China posing as a cybersecurity firm has allegedly stolen 7 million dollars via wallet supply\u2011chain attacks",
-            "url": "https://crypto.news/china-hacker-group-leaks-7m-crypto-theft-operation-targeting-wallet-supply-chains/"
-        },
-        {
-            "title": "Top Startup and Tech Funding News - March 17, 2025",
-            "description": "[TECHSTARTUPS.COM] It\u2019s Tuesday, March 17, 2026, and we\u2019re back with today\u2019s top startup and tech funding news. Today\u2019s rounds highlight accelerating investor interest in embedded fintech, automated cybersecurity,...",
-            "url": "https://techstartups.com/2026/03/17/top-startup-and-tech-funding-news-march-17-2025/"
-        },
-        {
-            "title": "Tailscale turns to mergers amid AI agents flooding networks",
-            "description": "[FINANCIAL POST] Canadian cybersecurity startup Tailscale Inc. has bought smaller Vancouver-based firm Border0, its first acquisition. Find out more here",
-            "url": "https://financialpost.com/cybersecurity/cyber-startup-tailscale-turns-to-mergers"
-        },
-        {
-            "title": "Up to 86% Off Surfshark One - Lock in This All-in-One Cybersecurity Deal",
-            "description": "[GIZMODO] Surfshark One bundles VPN, antivirus, breach alerts, and private search in one security package \u2014 now up to 86% off with a 30-day money-back guarantee.",
-            "url": "https://gizmodo.com/up-to-86-off-surfshark-one-lock-in-this-all-in-one-cybersecurity-deal-2000734635"
-        },
-        {
-            "title": "The US Cybersecurity Market in 2026: How It Reached $99.8 Billion",
-            "description": "[TECHBULLION] The US cybersecurity market reached $99.8 billion in 2026, driven by escalating cyber threats, regulatory mandates, and enterprise security modernisation.",
-            "url": "https://techbullion.com/the-us-cybersecurity-market-in-2026-how-it-reached-99-8-billion/"
-        },
-        {
-            "title": "US Cybersecurity Market Forecast: The Path to $144.1 Billion by 2031",
-            "description": "[TECHBULLION] The US cybersecurity market is forecast to reach $144.1 billion by 2031, with cloud security and AI-driven threat detection leading growth categories.",
-            "url": "https://techbullion.com/us-cybersecurity-market-forecast-the-path-to-144-1-billion-by-2031/"
-        },
-        {
-            "title": "Global Cybersecurity Market 2026: Inside the $302 Billion Industry Protecting the Digital World",
-            "description": "[TECHBULLION] The global cybersecurity market reached $302 billion in 2026 as organisations worldwide invest in protecting critical infrastructure from escalating digital threats.",
-            "url": "https://techbullion.com/global-cybersecurity-market-2026-inside-the-302-billion-industry-protecting-the-digital-world/"
-        },
-        {
-            "title": "Cybercrime Damages at $10.5 Trillion: Why the World Is Spending Record Amounts on Cyber Defence",
-            "description": "[TECHBULLION] Global cybercrime damages reached $10.5 trillion, driving record cybersecurity spending as organisations combat ransomware, data breaches, and state-sponsored attacks.",
-            "url": "https://techbullion.com/cybercrime-damages-at-10-5-trillion-why-the-world-is-spending-record-amounts-on-cyber-defence/"
-        },
-        {
-            "title": "Palo Alto Networks: How the $9.22 Billion Revenue Giant Became Cybersecurity's Market Leader",
-            "description": "[TECHBULLION] Palo Alto Networks generated $9.22 billion in revenue to become cybersecurity's market leader through its integrated platform approach to enterprise security.",
-            "url": "https://techbullion.com/palo-alto-networks-how-the-9-22-billion-revenue-giant-became-cybersecuritys-market-leader/"
-        },
-        {
-            "title": "Cloud Cybersecurity Deployments: Why 66.85% of Security Solutions Are Now Cloud-Based",
-            "description": "[TECHBULLION] Cloud-based cybersecurity deployments now account for 66.85% of all security solutions as enterprises migrate protection to match their cloud-first infrastructure strategies.",
-            "url": "https://techbullion.com/cloud-cybersecurity-deployments-why-66-85-of-security-solutions-are-now-cloud-based/"
+            "source": {
+                "id": null,
+                "name": "Livemint"
+            },
+            "author": "Aman Gupta",
+            "title": "\u2018Makes no sense\u2019: Zerodha\u2019s Nithin Kamath says he doesn\u2019t use net banking apps, calls access to SMS, contacts \u2018invasive\u2019",
+            "description": "Zerodha's Nithin Kamath has raised concerns over net banking apps demanding excessive permissions like SMS and contacts. He contrasted that with the privacy focused policy that his own company follows.",
+            "url": "https://www.livemint.com/industry/banking/makes-no-sense-zerodha-s-nithin-kamath-says-he-doesn-t-use-net-banking-apps-calls-access-to-sms-contacts-invasive-11773740634889.html",
+            "urlToImage": "https://www.livemint.com/lm-img/img/2026/03/17/1600x900/logo/2-0-1271708440-Nithin-Kamath-12-20180926-ANC-0_1679602402149_1773742199816.JPG",
+            "publishedAt": "2026-03-17T10:20:23Z",
+            "content": "Zerodha co-founder Nithin Kamath has criticized net banking apps for the excessive permissions they require on the smartphones of users. Kamath says that the invasive device permissions required by t\u2026 [+2276 chars]"
         }
     ]
 }
