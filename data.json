@@ -1,6 +1,11 @@
 {
-    "updated": "2026-03-18 04:14:46 UTC",
+    "updated": "2026-03-18 06:51:58 UTC",
     "news": [
+        {
+            "title": "Critical Unpatched Telnetd Flaw (CVE-2026-32746) Enables Unauthenticated Root RCE via Port 23",
+            "description": "[FEEDS.FEEDBURNER.COM] Cybersecurity researchers have disclosed a critical security flaw impacting the GNU InetUtils telnet daemon (telnetd) that could be exploited by an unauthenticated remote attacker to execute...",
+            "url": "https://thehackernews.com/2026/03/critical-telnetd-flaw-cve-2026-32746.html"
+        },
         {
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
             "description": "[CISA.GOV] CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-68613 n8n Improper Control of Dynamically-Managed Code...",
@@ -42,11 +47,6 @@
             "url": "https://www.bleepingcomputer.com/news/security/europe-sanctions-chinese-and-iranian-firms-for-cyberattacks/"
         },
         {
-            "title": "CISA Flags Actively Exploited Wing FTP Vulnerability Leaking Server Paths",
-            "description": "[FEEDS.FEEDBURNER.COM] The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a medium-severity security flaw impacting Wing FTP to its Known Exploited Vulnerabilities (KEV) catalog, citing...",
-            "url": "https://thehackernews.com/2026/03/cisa-flags-actively-exploited-wing-ftp.html"
-        },
-        {
             "title": "Top 5 Things CISOs Need to Do Today to Secure AI Agents",
             "description": "[BLEEPINGCOMPUTER.COM] AI agents are autonomous actors with real access to data and systems, not just copilots. Token Security explains why identity-based access control is critical to prevent misuse and data exposure....",
             "url": "https://www.bleepingcomputer.com/news/security/top-5-things-cisos-need-to-do-today-to-secure-ai-agents/"
@@ -75,6 +75,16 @@
             "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
             "description": "[CISA.GOV] CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-3909 Google Skia Out-of-Bounds Write Vulnerability...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/03/13/cisa-adds-two-known-exploited-vulnerabilities-catalog"
+        },
+        {
+            "title": "Tailscale turns to mergers amid AI agents flooding networks",
+            "description": "[FINANCIAL POST] Canadian cybersecurity startup Tailscale Inc. has bought smaller Vancouver-based firm Border0, its first acquisition. Find out more here",
+            "url": "https://financialpost.com/cybersecurity/cyber-startup-tailscale-turns-to-mergers"
+        },
+        {
+            "title": "Up to 86% Off Surfshark One - Lock in This All-in-One Cybersecurity Deal",
+            "description": "[GIZMODO] Surfshark One bundles VPN, antivirus, breach alerts, and private search in one security package \u2014 now up to 86% off with a 30-day money-back guarantee.",
+            "url": "https://gizmodo.com/up-to-86-off-surfshark-one-lock-in-this-all-in-one-cybersecurity-deal-2000734635"
         },
         {
             "title": "The US Cybersecurity Market in 2026: How It Reached $99.8 Billion",
@@ -115,16 +125,6 @@
             "title": "Cybersecurity Software Market: How It Will Reach $299.42 Billion by 2031",
             "description": "[TECHBULLION] The cybersecurity software market is projected to reach $299.42 billion by 2031 as software-defined security replaces hardware-based approaches across enterprises.",
             "url": "https://techbullion.com/cybersecurity-software-market-how-it-will-reach-299-42-billion-by-2031/"
-        },
-        {
-            "title": "Banking and Finance Cybersecurity: Why BFSI Accounts for 27% of Global Security Spending",
-            "description": "[TECHBULLION] Banking and financial services account for 27% of global cybersecurity spending as the BFSI sector combats sophisticated fraud, data breaches, and regulatory mandates.",
-            "url": "https://techbullion.com/banking-and-finance-cybersecurity-why-bfsi-accounts-for-27-of-global-security-spending/"
-        },
-        {
-            "title": "Global Cybersecurity Spending to Exceed $520 Billion in 2026: Where the Money Is Going",
-            "description": "[TECHBULLION] Global cybersecurity spending will exceed $520 billion in 2026, with cloud security, AI-powered threat detection, and zero trust leading investment categories.",
-            "url": "https://techbullion.com/global-cybersecurity-spending-to-exceed-520-billion-in-2026-where-the-money-is-going/"
         }
     ]
 }
