@@ -1,6 +1,11 @@
 {
-    "updated": "2026-03-18 14:56:03 UTC",
+    "updated": "2026-03-18 16:50:31 UTC",
     "news": [
+        {
+            "title": "Interlock Ransomware Exploits Cisco FMC Zero-Day CVE-2026-20131 for Root Access",
+            "description": "[FEEDS.FEEDBURNER.COM] Amazon Threat Intelligence is warning of an active Interlock ransomware campaign that's exploiting a recently disclosed critical security flaw in Cisco Secure Firewall Management Center (FMC)...",
+            "url": "https://thehackernews.com/2026/03/interlock-ransomware-exploits-cisco-fmc.html"
+        },
         {
             "title": "Critical Unpatched Telnetd Flaw (CVE-2026-32746) Enables Unauthenticated Root RCE",
             "description": "[FEEDS.FEEDBURNER.COM] Cybersecurity researchers have disclosed a critical security flaw impacting the GNU InetUtils telnet daemon (telnetd) that could be exploited by an unauthenticated remote attacker to execute...",
@@ -22,9 +27,9 @@
             "url": "https://thehackernews.com/2026/03/product-walkthrough-how-mesh-csma.html"
         },
         {
-            "title": "Ubuntu CVE-2026-3888 Bug Lets Attackers Gain Root via systemd Cleanup Timing Exploit",
-            "description": "[FEEDS.FEEDBURNER.COM] A high-severity security flaw affecting default installations of Ubuntu Desktop versions 24.04 and later could be exploited to escalate privileges to the root level. Tracked as CVE-2026-3888 (CVSS...",
-            "url": "https://thehackernews.com/2026/03/ubuntu-cve-2026-3888-bug-lets-attackers.html"
+            "title": "Marquis: Ransomware gang stole data of 672K people in cyberattack",
+            "description": "[BLEEPINGCOMPUTER.COM] Marquis, a Texas-based financial services provider, revealed this week that a ransomware gang stole the data of over 670,000 individuals in an August 2025 cyberattack that also disrupted operations...",
+            "url": "https://www.bleepingcomputer.com/news/security/marquis-ransomware-gang-stole-data-of-672-000-people-in-2025-cyberattack/"
         },
         {
             "title": "The Refund Fraud Economy: Exploiting Major Retailers and Payment Platforms",
@@ -52,11 +57,6 @@
             "url": "https://www.bleepingcomputer.com/news/security/apple-pushes-first-background-security-improvements-update-to-fix-webkit-flaw/"
         },
         {
-            "title": "GlassWorm malware hits 400+ code repos on GitHub, npm, VSCode, OpenVSX",
-            "description": "[BLEEPINGCOMPUTER.COM] The GlassWorm supply-chain campaign has returned with a new, coordinated attack that targeted hundreds of packages, repositories, and extensions on GitHub, npm, and VSCode/OpenVSX extensions. [...]",
-            "url": "https://www.bleepingcomputer.com/news/security/glassworm-malware-hits-400-plus-code-repos-on-github-npm-vscode-openvsx/"
-        },
-        {
             "title": "CISA Adds Five Known Exploited Vulnerabilities to Catalog",
             "description": "[CISA.GOV] CISA has added five new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2017-7921 Hikvision Multiple Products Improper...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/03/05/cisa-adds-five-known-exploited-vulnerabilities-catalog"
@@ -75,6 +75,11 @@
             "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
             "description": "[CISA.GOV] CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-3909 Google Skia Out-of-Bounds Write Vulnerability...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/03/13/cisa-adds-two-known-exploited-vulnerabilities-catalog"
+        },
+        {
+            "title": "Zerodha\u2019s Nithin Kamath Reveals Why He Skips Net Banking Apps On Mobile",
+            "description": "[NEWS18] Zerodha CEO Nithin Kamath criticized banks' invasive net banking app policies, questioning excessive permissions and emphasizing the Principle of Least Privilege for cybersecurity.",
+            "url": "https://www.news18.com/business/banking-finance/zerodhas-nithin-kamath-reveals-why-he-skips-net-banking-apps-on-mobile-ws-l-9983484.html"
         },
         {
             "title": "Bitrefill Links Lazarus Group to Employee Laptop Hack, Stolen Funds",
@@ -120,11 +125,6 @@
             "title": "Global Cybersecurity Market 2026: Inside the $302 Billion Industry Protecting the Digital World",
             "description": "[TECHBULLION] The global cybersecurity market reached $302 billion in 2026 as organisations worldwide invest in protecting critical infrastructure from escalating digital threats.",
             "url": "https://techbullion.com/global-cybersecurity-market-2026-inside-the-302-billion-industry-protecting-the-digital-world/"
-        },
-        {
-            "title": "Cybercrime Damages at $10.5 Trillion: Why the World Is Spending Record Amounts on Cyber Defence",
-            "description": "[TECHBULLION] Global cybercrime damages reached $10.5 trillion, driving record cybersecurity spending as organisations combat ransomware, data breaches, and state-sponsored attacks.",
-            "url": "https://techbullion.com/cybercrime-damages-at-10-5-trillion-why-the-world-is-spending-record-amounts-on-cyber-defence/"
         }
     ]
 }
