@@ -1,5 +1,5 @@
 {
-    "updated": "2026-03-19 18:43:06 UTC",
+    "updated": "2026-03-19 20:27:20 UTC",
     "news": [
         {
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
@@ -37,6 +37,11 @@
             "url": "https://thehackernews.com/2026/03/how-ceros-gives-security-teams.html"
         },
         {
+            "title": "New \u2018PolyShell\u2019 flaw allows unauthenticated RCE on Magento e-stores",
+            "description": "[BLEEPINGCOMPUTER.COM] A newly disclosed vulnerability dubbed 'PolyShell' affects all Magento Open Source and Adobe Commerce stable version 2 installations, allowing unauthenticated code execution and account takeover....",
+            "url": "https://www.bleepingcomputer.com/news/security/new-polyshell-flaw-allows-unauthenticated-rce-on-magento-e-stores/"
+        },
+        {
             "title": "DarkSword iOS Exploit Kit Uses 6 Flaws, 3 Zero-Days for Full Device Takeover",
             "description": "[FEEDS.FEEDBURNER.COM] A new exploit kit for Apple iOS devices designed to steal sensitive data from is being wielded by multiple threat actors since at least November 2025, according to reports from Google Threat...",
             "url": "https://thehackernews.com/2026/03/darksword-ios-exploit-kit-uses-6-flaws.html"
@@ -52,11 +57,6 @@
             "url": "https://www.bleepingcomputer.com/news/security/fbi-seizes-handala-data-leak-site-after-stryker-cyberattack/"
         },
         {
-            "title": "CISA Warns of Zimbra, SharePoint Flaw Exploits; Cisco Zero-Day Hit in Ransomware Attacks",
-            "description": "[FEEDS.FEEDBURNER.COM] The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has urged government agencies to apply patches for two security flaws impacting Synacor Zimbra Collaboration Suite (ZCS) and Microsoft...",
-            "url": "https://thehackernews.com/2026/03/cisa-warns-of-zimbra-sharepoint-flaw.html"
-        },
-        {
             "title": "Russian hackers exploit Zimbra flaw in Ukrainian govt attacks",
             "description": "[BLEEPINGCOMPUTER.COM] Hackers part of APT28, a state-backed threat group linked to Russia's military intelligence service (GRU), are exploiting a Zimbra Collaboration Suite (ZCS) vulnerability in attacks targeting...",
             "url": "https://www.bleepingcomputer.com/news/security/russian-apt28-military-hackers-exploit-zimbra-flaw-in-ukrainian-govt-attacks/"
@@ -67,14 +67,39 @@
             "url": "https://www.bleepingcomputer.com/news/security/7-ways-to-prevent-privilege-escalation-via-password-resets/"
         },
         {
-            "title": "Max severity Ubiquiti UniFi flaw may allow account takeover",
-            "description": "[BLEEPINGCOMPUTER.COM] Ubiquiti has patched two vulnerabilities in the UniFi Network Application, including a maximum-severity flaw that may allow attackers to take over user accounts. [...]",
-            "url": "https://www.bleepingcomputer.com/news/security/ubiquiti-warns-of-unifi-flaw-that-may-enable-account-takeover/"
-        },
-        {
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
             "description": "[CISA.GOV] CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation.&nbsp; CVE-2025-47813 Wing FTP Server Information Disclosure...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/03/16/cisa-adds-one-known-exploited-vulnerability-catalog"
+        },
+        {
+            "title": "54 EDR Killers Use BYOVD to Exploit 34 Signed Vulnerable Drivers and Disable Security",
+            "description": "[FEEDS.FEEDBURNER.COM] A new analysis of endpoint detection and response (EDR) killers has revealed that 54 of them leverage a technique known as bring your own vulnerable driver (BYOVD) by abusing a total of 34 vulnerable...",
+            "url": "https://thehackernews.com/2026/03/54-edr-killers-use-byovd-to-exploit-34.html"
+        },
+        {
+            "title": "Sectra to deliver national training platform to all Norwegian health regions",
+            "description": "[PR NEWSWIRE UK] /PRNewswire/ -- International medical technology and cybersecurity company Sectra (STO: SECT B) has signed a three-year agreement to provide its cloud-based...",
+            "url": "https://www.prnewswire.co.uk/news-releases/sectra-to-deliver-national-training-platform-to-all-norwegian-health-regions-302718508.html"
+        },
+        {
+            "title": "US Warns Firms to Secure Microsoft Intune After Stryker Cyberattack",
+            "description": "[MARKETSCREENER] The Cybersecurity and Infrastructure Security Agency, or CISA, said late Wednesday that businesses should follow Microsoft's latest guidance to secure Intune, after last week's cyberattack on...",
+            "url": "https://www.marketscreener.com/news/us-warns-firms-to-secure-microsoft-intune-after-stryker-cyberattack-ce7e5eded98bfe25"
+        },
+        {
+            "title": "US government registers aliens.gov domain after Trump's UFO files claim",
+            "description": "[CNBC TV18] Trump's Executive Office registered aliens.gov, managed by the Cybersecurity and Infrastructure Security Agency. Trump plans to release UFO and alien files.",
+            "url": "https://www.cnbctv18.com/world/us-government-registers-aliens-gov-domain-after-trump-ufo-files-claim-ws-el-19871495.htm"
+        },
+        {
+            "title": "STL Digital Unveils Securennov: A Next-Gen Cybersecurity Solution",
+            "description": "[DEVDISCOURSE] STL Digital has launched Securennov, a cutting-edge portfolio of cybersecurity services integrating AI analytics and strategic governance. This solution strengthens digital defenses across...",
+            "url": "https://www.devdiscourse.com/article/technology/3842981-stl-digital-unveils-securennov-a-next-gen-cybersecurity-solution"
+        },
+        {
+            "title": "STL Digital Launches Securennov\u2122, a Next",
+            "description": "[THE TRIBUNE] \u2013 A comprehensive, future-proof cybersecurity portfolio designed to help enterprises build cyber-resilient, secure-by-design ecosystems BENGALURU, India, March 19, 2026 /PRNewswire/ -- STL Digital...",
+            "url": "https://www.tribuneindia.com/news/business/stl-digital-launches-securennov-a-next-gen-cybersecurity-suite/"
         },
         {
             "title": "Apple iOS vulnerability chain exposes new attack pathway, researchers say",
@@ -100,31 +125,6 @@
             "title": "Millions Of iPhones At Risk From New Spyware Attack: What Apple Users Must Do Immediately",
             "description": "[TIMES NOW] A new spyware campaign, known as \"Darksword,\" is alarming cybersecurity experts as it targets iPhones extensively. This sophisticated malware can extract sensitive personal data, including...",
             "url": "https://www.timesnownews.com/technology-science/millions-of-iphones-at-risk-from-new-spyware-attack-what-apple-users-must-do-immediately-article-153870089"
-        },
-        {
-            "title": "Top Startup and Tech Funding News - March 18, 2025",
-            "description": "[TECHSTARTUPS.COM] It\u2019s Wednesday, March 18, 2026, and we\u2019re back with today\u2019s top startup and tech funding news. Today\u2019s rounds highlight growing investor urgency around autonomous cybersecurity, cancer immunotherapy,...",
-            "url": "https://techstartups.com/2026/03/18/top-startup-and-tech-funding-news-march-18-2025/"
-        },
-        {
-            "title": "The compelling case for this cybersecurity ASX ETF",
-            "description": "[THE MOTLEY FOOL AUSTRALIA] A new report from Betashares has pointed out the positive long term prospects for this ASX ETF focussed on global cybersecurity.",
-            "url": "https://www.fool.com.au/2026/03/19/the-compelling-case-for-this-cybersecurity-asx-etf/"
-        },
-        {
-            "title": "A new iPhone hacking tool puts anyone still on iOS 18 at risk",
-            "description": "[ENGADGET] Google and its cybersecurity research partners have discovered a new hack called \"DarkSword\" that can instantly access data from iPhones running iOS 18.",
-            "url": "https://www.engadget.com/cybersecurity/a-new-iphone-hacking-tool-puts-anyone-still-on-ios-18-at-risk-203745949.html"
-        },
-        {
-            "title": "Cyber Insurance Market to Reach USD 118.97 Billion by 2032 Amid Rising Ransomware Risk, Regulatory Pressure, and AI-Driven Underwriting Innovation - Credence Research",
-            "description": "[PR NEWSWIRE UK] /PRNewswire/ -- The global Cyber Insurance Market was valued at USD 20.88 billion in 2024 and is anticipated to reach USD 118.97 billion by 2032, registering a...",
-            "url": "https://www.prnewswire.co.uk/news-releases/cyber-insurance-market-to-reach-usd-118-97-billion-by-2032-amid-rising-ransomware-risk-regulatory-pressure-and-ai-driven-underwriting-innovation--credence-research-302717895.html"
-        },
-        {
-            "title": "One in five UK small businesses could close after data breach, Traitors star warns",
-            "description": "[THE DAILY STAR] Traitors winner Stephen Libby has teamed up with Samsung to warn about cybersecurity threats facing UK SMEs.",
-            "url": "https://www.dailystar.co.uk/news/uk-news/one-five-uk-small-businesses-36886685"
         }
     ]
 }
