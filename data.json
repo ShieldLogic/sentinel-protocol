@@ -1,5 +1,5 @@
 {
-    "updated": "2026-03-19 20:27:20 UTC",
+    "updated": "2026-03-19 22:18:36 UTC",
     "news": [
         {
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
@@ -32,6 +32,11 @@
             "url": "https://thehackernews.com/2026/03/new-perseus-android-banking-malware.html"
         },
         {
+            "title": "Navia discloses data breach impacting 2.7 million people",
+            "description": "[BLEEPINGCOMPUTER.COM] Navia Benefit Solutions, Inc. (Navia) is informing nearly 2.7 million individuals of a data breach that exposed their sensitive information to attackers. [...]",
+            "url": "https://www.bleepingcomputer.com/news/security/navia-discloses-data-breach-impacting-27-million-people/"
+        },
+        {
             "title": "How Ceros Gives Security Teams Visibility and Control in Claude Code",
             "description": "[FEEDS.FEEDBURNER.COM] Security teams have spent years building identity and access controls for human users and service accounts. But a new category of actor has quietly entered most enterprise environments, and it...",
             "url": "https://thehackernews.com/2026/03/how-ceros-gives-security-teams.html"
@@ -40,11 +45,6 @@
             "title": "New \u2018PolyShell\u2019 flaw allows unauthenticated RCE on Magento e-stores",
             "description": "[BLEEPINGCOMPUTER.COM] A newly disclosed vulnerability dubbed 'PolyShell' affects all Magento Open Source and Adobe Commerce stable version 2 installations, allowing unauthenticated code execution and account takeover....",
             "url": "https://www.bleepingcomputer.com/news/security/new-polyshell-flaw-allows-unauthenticated-rce-on-magento-e-stores/"
-        },
-        {
-            "title": "DarkSword iOS Exploit Kit Uses 6 Flaws, 3 Zero-Days for Full Device Takeover",
-            "description": "[FEEDS.FEEDBURNER.COM] A new exploit kit for Apple iOS devices designed to steal sensitive data from is being wielded by multiple threat actors since at least November 2025, according to reports from Google Threat...",
-            "url": "https://thehackernews.com/2026/03/darksword-ios-exploit-kit-uses-6-flaws.html"
         },
         {
             "title": "Bitrefill blames North Korean Lazarus group for cyberattack",
@@ -62,19 +62,39 @@
             "url": "https://www.bleepingcomputer.com/news/security/russian-apt28-military-hackers-exploit-zimbra-flaw-in-ukrainian-govt-attacks/"
         },
         {
-            "title": "7 Ways to Prevent Privilege Escalation via Password Resets",
-            "description": "[BLEEPINGCOMPUTER.COM] Password resets are often weaker than login security, making them a prime target for privilege escalation. Specops Software explains how attackers abuse reset workflows and how to secure them. [...]",
-            "url": "https://www.bleepingcomputer.com/news/security/7-ways-to-prevent-privilege-escalation-via-password-resets/"
-        },
-        {
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
             "description": "[CISA.GOV] CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation.&nbsp; CVE-2025-47813 Wing FTP Server Information Disclosure...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/03/16/cisa-adds-one-known-exploited-vulnerability-catalog"
         },
         {
+            "title": "Speagle Malware Hijacks Cobra DocGuard to Steal Data via Compromised Servers",
+            "description": "[FEEDS.FEEDBURNER.COM] Cybersecurity researchers have flagged a new malware dubbed Speagle that hijacks the functionality and infrastructure of a legitimate program called Cobra DocGuard. \"Speagle is designed to...",
+            "url": "https://thehackernews.com/2026/03/speagle-malware-hijacks-cobra-docguard.html"
+        },
+        {
             "title": "54 EDR Killers Use BYOVD to Exploit 34 Signed Vulnerable Drivers and Disable Security",
             "description": "[FEEDS.FEEDBURNER.COM] A new analysis of endpoint detection and response (EDR) killers has revealed that 54 of them leverage a technique known as bring your own vulnerable driver (BYOVD) by abusing a total of 34 vulnerable...",
             "url": "https://thehackernews.com/2026/03/54-edr-killers-use-byovd-to-exploit-34.html"
+        },
+        {
+            "title": "Cybersecurity Solutions Firm Kratikal Tech Strengthens Board Ahead of Listing Plans",
+            "description": "[OUTLOOK BUSINESS] In a release, the company said the appointments come in the backdrop of its transition from a founder-led structure to a more institutionalised governance framework",
+            "url": "https://www.outlookbusiness.com/corporate/cybersecurity-solutions-firm-kratikal-tech-strengthens-board-ahead-of-listing-plans"
+        },
+        {
+            "title": "NordVPN debuts first-ever physical retail presence in London and New York in partnership with Smartech and tm:rw",
+            "description": "[PR NEWSWIRE UK] /PRNewswire/ -- NordVPN, a global provider of cybersecurity solutions, announces a partnership with Smartech and tm:rw, experiential retail destinations for...",
+            "url": "https://www.prnewswire.co.uk/news-releases/nordvpn-debuts-first-ever-physical-retail-presence-in-london-and-new-york-in-partnership-with-smartech-and-tmrw-302718581.html"
+        },
+        {
+            "title": "OpenClaw Phishing Attack Targets Developers on GitHub",
+            "description": "[COINTELEGRAPH] Cybersecurity firm OX Security reported a phishing campaign targeting OpenClaw developers using fake \"CLAW\" token claims and a cloned website.",
+            "url": "https://cointelegraph.com/news/openclaw-phishing-scam-free-claw-tokens"
+        },
+        {
+            "title": "Springfield IT director Neil Slagle retiring March 27",
+            "description": "[SPRINGFIELD NEWS-LEADER] Neil Slagle is retiring from the city March 27 after leading major upgrades, cybersecurity improvements and a first\u2011in\u2011the\u2011nation partnership.",
+            "url": "https://www.news-leader.com/story/news/local/2026/03/19/city-of-springfield-tech-director-neil-slagle-retiring/89201880007/"
         },
         {
             "title": "Sectra to deliver national training platform to all Norwegian health regions",
@@ -105,26 +125,6 @@
             "title": "Apple iOS vulnerability chain exposes new attack pathway, researchers say",
             "description": "[THE HINDU] A newly identified set of iOS vulnerabilities is at the centre of a sophisticated attack method known as \u201cDarkSword,\u201d according to a new research by Google\u2019s Threat Intelligence Group, along with...",
             "url": "https://www.thehindu.com/sci-tech/technology/apple-ios-vulnerability-chain-exposes-new-attack-pathway-researchers-say/article70760838.ece"
-        },
-        {
-            "title": "STL Digital enters cybersecurity market with Securennov suite",
-            "description": "[THE HINDU BUSINESS LINE] STL Digital launches Securennov suite, offering AI-driven cybersecurity services across enterprise design, development, access, and operations.",
-            "url": "https://www.thehindubusinessline.com/markets/stock-markets/stl-digital-enters-cybersecurity-market-with-securennov-suite/article70760781.ece"
-        },
-        {
-            "title": "CISA Warns of Zimbra, SharePoint Flaw Exploits; Cisco Zero-Day Hit in Ransomware Attacks",
-            "description": "[THE HACKER NEWS] Interlock exploits CVE-2026-20131 zero-day since Jan 26, enabling root access on Cisco FMC, increasing ransomware risks.",
-            "url": "https://thehackernews.com/2026/03/cisa-warns-of-zimbra-sharepoint-flaw.html"
-        },
-        {
-            "title": "New iPhone hack tool puts millions at risk",
-            "description": "[THE NEWS INTERNATIONAL] A new iPhone hack tool, called DarkSword, has sparked concerns among cybersecurity experts, as it enables cybercriminals to take control of iPhone devices without the owner's knowledge simply by...",
-            "url": "https://www.thenews.com.pk/latest/1396160-new-iphone-hack-tool-puts-millions-at-risk"
-        },
-        {
-            "title": "Millions Of iPhones At Risk From New Spyware Attack: What Apple Users Must Do Immediately",
-            "description": "[TIMES NOW] A new spyware campaign, known as \"Darksword,\" is alarming cybersecurity experts as it targets iPhones extensively. This sophisticated malware can extract sensitive personal data, including...",
-            "url": "https://www.timesnownews.com/technology-science/millions-of-iphones-at-risk-from-new-spyware-attack-what-apple-users-must-do-immediately-article-153870089"
         }
     ]
 }
