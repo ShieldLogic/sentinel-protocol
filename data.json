@@ -1,5 +1,5 @@
 {
-    "updated": "2026-03-20 18:34:51 UTC",
+    "updated": "2026-03-20 20:21:56 UTC",
     "news": [
         {
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
@@ -27,6 +27,11 @@
             "url": "https://www.cisa.gov/news-events/alerts/2026/03/20/cisa-adds-five-known-exploited-vulnerabilities-catalog"
         },
         {
+            "title": "Trivy Security Scanner GitHub Actions Breached, 75 Tags Hijacked to Steal CI/CD Secrets",
+            "description": "[FEEDS.FEEDBURNER.COM] Trivy, a popular open-source vulnerability scanner maintained by Aqua Security, was compromised a second time within the span of a month to deliver malware that stole sensitive CI/CD secrets. The...",
+            "url": "https://thehackernews.com/2026/03/trivy-security-scanner-github-actions.html"
+        },
+        {
             "title": "Critical Langflow Flaw CVE-2026-33017 Triggers Attacks within 20 Hours of Disclosure",
             "description": "[FEEDS.FEEDBURNER.COM] A critical security flaw impacting Langflow has come under active exploitation within 20 hours of public disclosure, highlighting the speed at which threat actors weaponize newly published...",
             "url": "https://thehackernews.com/2026/03/critical-langflow-flaw-cve-2026-33017.html"
@@ -47,14 +52,14 @@
             "url": "https://thehackernews.com/2026/03/magento-polyshell-flaw-enables.html"
         },
         {
+            "title": "Oracle pushes emergency fix for critical Identity Manager RCE flaw",
+            "description": "[BLEEPINGCOMPUTER.COM] Oracle has released an out-of-band security update to fix a critical unauthenticated remote code execution vulnerability in Identity Manager and Web Services Manager tracked as CVE-2026-21992. [...]",
+            "url": "https://www.bleepingcomputer.com/news/security/oracle-pushes-emergency-fix-for-critical-identity-manager-rce-flaw/"
+        },
+        {
             "title": "Police take down 373,000 fake CSAM sites in Operation Alice",
             "description": "[BLEEPINGCOMPUTER.COM] An international law enforcement action called Operation Alice has shut down over 373,000 dark web sites that offered fake CSAM packages. [...]",
             "url": "https://www.bleepingcomputer.com/news/security/police-take-down-373-000-fake-csam-sites-in-operation-alice/"
-        },
-        {
-            "title": "DoJ Disrupts 3 Million-Device IoT Botnets Behind Record 31.4 Tbps Global DDoS Attacks",
-            "description": "[FEEDS.FEEDBURNER.COM] The U.S. Department of Justice (DoJ) on Thursday announced the disruption of command-and-control (C2) infrastructure used by several Internet of Things (IoT) botnets like AISURU, Kimwolf, JackSkid,...",
-            "url": "https://thehackernews.com/2026/03/doj-disrupts-3-million-device-iot.html"
         },
         {
             "title": "CISA orders feds to patch max-severity Cisco flaw by Sunday",
@@ -72,9 +77,14 @@
             "url": "https://www.bleepingcomputer.com/news/security/musician-pleads-guilty-to-10m-streaming-fraud-powered-by-ai-bots/"
         },
         {
-            "title": "International joint action disrupts world\u2019s largest DDoS botnets",
-            "description": "[BLEEPINGCOMPUTER.COM] Authorities from the United States, Germany, and Canada have taken down Command and Control (C2) infrastructure used by the Aisuru, KimWolf, JackSkid, and Mossad botnets to infect Internet of Things...",
-            "url": "https://www.bleepingcomputer.com/news/security/aisuru-kimwolf-jackskid-and-mossad-botnets-disrupted-in-joint-action/"
+            "title": "Successful War Leaves Iran With One Option, Cyber",
+            "description": "[LAWFARE] The latest edition of the Seriously Risky Business cybersecurity newsletter, now on Lawfare.",
+            "url": "https://www.lawfaremedia.org/article/successful-war-leaves-iran-with-one-option--cyber"
+        },
+        {
+            "title": "EdTech Security: Protecting Student Data in an Increasingly Decentralized Learning Environment",
+            "description": "[TECHBULLION] Explore how educational institutions can protect student data in decentralized learning environments. Learn key cybersecurity strategies, compliance requirements, and technologies securing modern...",
+            "url": "https://techbullion.com/edtech-security-protecting-student-data-in-an-increasingly-decentralized-learning-environment/"
         },
         {
             "title": "33rd Convergence India & 11th Smart Future Cities India Expo Set to Accelerate AI, 6G, and Next",
@@ -85,6 +95,11 @@
             "title": "Foster City services impacted by cyber security breach",
             "description": "[THE MERCURY NEWS] Public services in Foster City have largely been suspended in the wake of a cybersecurity breach, according to the city.",
             "url": "https://www.mercurynews.com/2026/03/19/foster-city-services-impacted-by-cyber-security-breach/"
+        },
+        {
+            "title": "In Depth: OpenClaw Craze Fuels Fresh AI Ambitions, Fears in China",
+            "description": "[CAIXIN] In Depth: OpenClaw Craze Fuels Fresh AI Ambitions, Fears in China - As companies rush to embed the globally viral AI agent across apps, devices and cloud services, regulators warn that broad system...",
+            "url": "https://www.caixinglobal.com/2026-03-20/in-depth-openclaw-craze-fuels-fresh-ai-ambitions-fears-in-china-102425383.html"
         },
         {
             "title": "Why Cybersecurity Is Now Mission",
@@ -102,7 +117,7 @@
             "url": "https://www.fool.com.au/2026/03/20/3-betashares-etfs-id-buy-and-hold-for-10-years/"
         },
         {
-            "title": "54 EDR Killers Use BYOVD to Exploit 34 Signed Vulnerable Drivers and Disable Security",
+            "title": "54 EDR Killers Use BYOVD to Exploit 35 Signed Vulnerable Drivers and Disable Security",
             "description": "[THE HACKER NEWS] 54 EDR killers exploit 34 vulnerable drivers via BYOVD, gaining kernel access to disable defenses, increasing ransomware success rates.",
             "url": "https://thehackernews.com/2026/03/54-edr-killers-use-byovd-to-exploit-34.html"
         },
@@ -110,21 +125,6 @@
             "title": "Accenture, Microsoft And Avanade Collaborate To Deliver Advanced Agentic Ai-Driven Cybersecurity Solutions",
             "description": "[MARKETSCREENER] Accenture announced new assets and capabilities for its Adaptive Managed Extended Detection and Response , empowering clients to augment their Microsoft Security platforms with advanced, integrated...",
             "url": "https://www.marketscreener.com/news/accenture-microsoft-and-avanade-collaborate-to-deliver-advanced-agentic-ai-driven-cybersecurity-sol-ce7e5edede8ef325"
-        },
-        {
-            "title": "CISO Whisperer Highlights 11 Cybersecurity Vendors CISOs Must Check Out at RSA Conference 2026",
-            "description": "[TECHBULLION] amplified by autonomous agents. Their fireside chat at RSAC explores whether traditional identity architectures can meet this new demand",
-            "url": "https://techbullion.com/ciso-whisperer-highlights-11-cybersecurity-vendors-cisos-must-check-out-at-rsa-conference-2026/"
-        },
-        {
-            "title": "Accenture, Microsoft Deepen Collaboration to Deliver More AI-Driven Cybersecurity Tools",
-            "description": "[MARKETSCREENER] Accenture said Thursday its Adaptive Managed Extended Detection and Response, or MxDR, service is now equipped with new assets and capabilities, allowing users to enhance their Microsoft Security...",
-            "url": "https://www.marketscreener.com/news/accenture-microsoft-deepen-collaboration-to-deliver-more-ai-driven-cybersecurity-tools-ce7e5edede8ffe2c"
-        },
-        {
-            "title": "Marquis confirms sensitive personal data of 672,000 people stolen in ransomware attack",
-            "description": "[TECHRADAR] The August 2025 SonicWall breach keeps getting worse",
-            "url": "https://www.techradar.com/pro/security/marquis-confirms-sensitive-personal-data-of-672-000-people-stolen-in-ransomware-attack"
         }
     ]
 }
