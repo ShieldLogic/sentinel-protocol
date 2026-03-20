@@ -1,5 +1,5 @@
 {
-    "updated": "2026-03-20 06:42:23 UTC",
+    "updated": "2026-03-20 08:30:49 UTC",
     "news": [
         {
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
@@ -37,21 +37,6 @@
             "url": "https://www.bleepingcomputer.com/news/security/new-polyshell-flaw-allows-unauthenticated-rce-on-magento-e-stores/"
         },
         {
-            "title": "Bitrefill blames North Korean Lazarus group for cyberattack",
-            "description": "[BLEEPINGCOMPUTER.COM] Crypto-powered gift card store Bitrefill says that the attack it suffered at the beginning of the month was likely perpetrated by North Korean hackers of the Bluenoroff group. [...]",
-            "url": "https://www.bleepingcomputer.com/news/security/bitrefill-blames-north-korean-lazarus-group-for-cyberattack/"
-        },
-        {
-            "title": "FBI seizes Handala data leak site after Stryker cyberattack",
-            "description": "[BLEEPINGCOMPUTER.COM] The FBI has seized two websites used by the Handala hacktivist group after the threat actors conducted a destructive cyberattack on medical technology giant Stryker that wiped approximately 80,000...",
-            "url": "https://www.bleepingcomputer.com/news/security/fbi-seizes-handala-data-leak-site-after-stryker-cyberattack/"
-        },
-        {
-            "title": "Russian hackers exploit Zimbra flaw in Ukrainian govt attacks",
-            "description": "[BLEEPINGCOMPUTER.COM] Hackers part of APT28, a state-backed threat group linked to Russia's military intelligence service (GRU), are exploiting a Zimbra Collaboration Suite (ZCS) vulnerability in attacks targeting...",
-            "url": "https://www.bleepingcomputer.com/news/security/russian-apt28-military-hackers-exploit-zimbra-flaw-in-ukrainian-govt-attacks/"
-        },
-        {
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
             "description": "[CISA.GOV] CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation.&nbsp; CVE-2025-47813 Wing FTP Server Information Disclosure...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/03/16/cisa-adds-one-known-exploited-vulnerability-catalog"
@@ -67,6 +52,21 @@
             "url": "https://thehackernews.com/2026/03/apple-warns-older-iphones-vulnerable-to.html"
         },
         {
+            "title": "International joint action disrupts world\u2019s largest DDoS botnets",
+            "description": "[BLEEPINGCOMPUTER.COM] Authorities from the United States, Germany, and Canada have taken down Command and Control (C2) infrastructure used by the Aisuru, KimWolf, JackSkid, and Mossad botnets to infect Internet of Things...",
+            "url": "https://www.bleepingcomputer.com/news/security/aisuru-kimwolf-jackskid-and-mossad-botnets-disrupted-in-joint-action/"
+        },
+        {
+            "title": "Microsoft: March Windows updates break Teams, OneDrive sign-ins",
+            "description": "[BLEEPINGCOMPUTER.COM] Microsoft says the March Windows 11 update breaks sign-ins with Microsoft accounts across multiple Microsoft apps, including Teams and OneDrive. [...]",
+            "url": "https://www.bleepingcomputer.com/news/microsoft/kb5079473-march-windows-11-update-breaks-microsoft-account-sign-ins/"
+        },
+        {
+            "title": "Ex-data analyst stole company data in $2.5M extortion scheme",
+            "description": "[BLEEPINGCOMPUTER.COM] A North Carolina man was found guilty of extorting a D.C.-based technology company while still being employed as a data analyst contractor. [...]",
+            "url": "https://www.bleepingcomputer.com/news/security/data-analyst-found-guilty-of-extorting-brightly-software-of-25-million/"
+        },
+        {
             "title": "Speagle Malware Hijacks Cobra DocGuard to Steal Data via Compromised Servers",
             "description": "[FEEDS.FEEDBURNER.COM] Cybersecurity researchers have flagged a new malware dubbed Speagle that hijacks the functionality and infrastructure of a legitimate program called Cobra DocGuard. \"Speagle is designed to...",
             "url": "https://thehackernews.com/2026/03/speagle-malware-hijacks-cobra-docguard.html"
@@ -74,6 +74,11 @@
         {
             "title": "54 EDR Killers Use BYOVD to Exploit 35 Signed Vulnerable Drivers and Disable Security",
             "description": "[FEEDS.FEEDBURNER.COM] A new analysis of endpoint detection and response (EDR) killers has revealed that 54 of them leverage a technique known as bring your own vulnerable driver (BYOVD) by abusing a total of 35 vulnerable...",
+            "url": "https://thehackernews.com/2026/03/54-edr-killers-use-byovd-to-exploit-34.html"
+        },
+        {
+            "title": "54 EDR Killers Use BYOVD to Exploit 34 Signed Vulnerable Drivers and Disable Security",
+            "description": "[THE HACKER NEWS] 54 EDR killers exploit 34 vulnerable drivers via BYOVD, gaining kernel access to disable defenses, increasing ransomware success rates.",
             "url": "https://thehackernews.com/2026/03/54-edr-killers-use-byovd-to-exploit-34.html"
         },
         {
@@ -120,11 +125,6 @@
             "title": "CISA urges companies to secure Microsoft Intune systems after hackers mass-wipe Stryker devices",
             "description": "[TECHCRUNCH] The U.S. cybersecurity agency urged companies to prevent access to systems used for remotely managing their fleets of employee devices after hackers broke into a major U.S. medical tech giant and...",
             "url": "https://techcrunch.com/2026/03/19/cisa-urges-companies-to-secure-microsoft-intune-systems-after-hackers-mass-wipe-stryker-devices/"
-        },
-        {
-            "title": "Cybersecurity needs more than human intervention in AI age: Nicole Quinn",
-            "description": "[BUSINESS STANDARD] AI has reduced ransomware attack timelines significantly, making cybersecurity more complex, says Palo Alto Networks' Nicole Quinn",
-            "url": "https://www.business-standard.com/companies/news/ai-threat-landscape-cuts-cyber-response-time-palo-alto-nicole-quinn-126031901201_1.html"
         }
     ]
 }
