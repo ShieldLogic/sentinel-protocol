@@ -1,137 +1,130 @@
 {
-    "title": "Sentinel Protocol",
-    "tagline": "Perimeter Intelligence Sync",
-    "updated": "2026-03-22 11:20 UTC",
+    "updated": "2026-03-22 12:30:13 UTC",
     "news": [
         {
-            "source": {
-                "id": null,
-                "name": "Scientific American"
-            },
-            "author": "Deni Ellis B\u00e9chard",
-            "title": "GlassWorm malware hides in invisible open-source code",
-            "description": "A cybercrime campaign called GlassWorm is hiding malware in invisible characters and spreading it through software that millions of developers rely on",
-            "url": "https://www.scientificamerican.com/article/glassworm-malware-hides-in-invisible-open-source-code/",
-            "urlToImage": "https://static.scientificamerican.com/dam/m/643a1c5fb1f95296/original/GettyImages-619071566.jpg?m=1774037398.294&w=1200",
-            "publishedAt": "2026-03-21T10:30:00Z",
-            "content": "The danger in the code came from characters that are invisible to the human eye. In early March researchers at several security firms examined what looked like empty space and found hidden Unicode ch\u2026 [+4079 chars]"
+            "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+            "description": "[CISA.GOV] CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-20963 Microsoft SharePoint Deserialization of Untrusted...",
+            "url": "https://www.cisa.gov/news-events/alerts/2026/03/18/cisa-adds-one-known-exploited-vulnerability-catalog-0"
         },
         {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Matt Burgess, Lily Hay Newman, Andy Greenberg",
-            "title": "Cyberattack on a Car Breathalyzer Firm Leaves Drivers Stuck",
-            "description": "Plus: The FBI admits it\u2019s buying phone data to track Americans, Iranian hackers disrupt medical care at Maryland hospitals, and more.",
-            "url": "https://www.wired.com/story/security-news-this-week-cyberattack-on-a-car-breathalyzer-firm-leaves-drivers-stuck/",
-            "urlToImage": "https://media.wired.com/photos/69bd936664f16d66cf6343e0/191:100/w_1280,c_limit/Security-Roundup-Hacked-Breathalyzer-Security-523525124.jpg",
-            "publishedAt": "2026-03-21T10:30:00Z",
-            "content": "United States law enforcement this week took down the Aisuru, Kimwolf, JackSkid, and Mossad botnets, a slate of cybercriminal tools that have infected more than 3 million devices around the world, in\u2026 [+3867 chars]"
+            "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+            "description": "[CISA.GOV] CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-66376 Synacor Zimbra Collaboration Suite (ZCS) Cross-Site...",
+            "url": "https://www.cisa.gov/news-events/alerts/2026/03/18/cisa-adds-one-known-exploited-vulnerability-catalog"
         },
         {
-            "source": {
-                "id": null,
-                "name": "Internet"
-            },
-            "author": "info@thehackernews.com (The Hacker News)",
+            "title": "CISA Urges Endpoint Management System Hardening After Cyberattack Against US Organization",
+            "description": "[CISA.GOV] CISA is aware of malicious cyber activity targeting endpoint management systems of U.S. organizations based on the March 11, 2026 cyberattack against U.S.-based medical technology firm Stryker...",
+            "url": "https://www.cisa.gov/news-events/alerts/2026/03/18/cisa-urges-endpoint-management-system-hardening-after-cyberattack-against-us-organization"
+        },
+        {
+            "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+            "description": "[CISA.GOV] CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation.&nbsp; CVE-2026-20131 Cisco Secure Firewall Management Center (FMC)...",
+            "url": "https://www.cisa.gov/news-events/alerts/2026/03/19/cisa-adds-one-known-exploited-vulnerability-catalog"
+        },
+        {
+            "title": "FBI Warns Russian Hackers Target Signal, WhatsApp in Mass Phishing Attacks",
+            "description": "[FEEDS.FEEDBURNER.COM] Threat actors affiliated with Russian Intelligence Services are conducting phishing campaigns to compromise commercial messaging applications (CMAs) like WhatsApp and Signal to seize control of...",
+            "url": "https://thehackernews.com/2026/03/fbi-warns-russian-hackers-target-signal.html"
+        },
+        {
             "title": "Oracle Patches Critical CVE-2026-21992 Enabling Unauthenticated RCE in Identity Manager",
-            "description": "Oracle has released security updates to address a critical security flaw impacting Identity Manager and Web Services Manager that could be exploited to achieve remote code execution.\nThe vulnerability, tracked as CVE-2026-21992, carries a CVSS score of 9.8 ou\u2026",
-            "url": "https://thehackernews.com/2026/03/oracle-patches-critical-cve-2026-21992.html",
-            "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxIh9aqIMPc6elNLcqZwmxGq0BHfA3NS2kkxawAr-H7SzPJKmvc7tXrykcm664TGFkJUIb_BmGpJV0CkEjIxVoRfTCrc8br5bi_TL93Nv_g7J_c9ccucZL4e55lp_zyywwBeAzDIoA1bnI95ELRLCbOyVf0WX0CGgGHLun2uQFKhqeMKf16nBOeJTO7O77/s1700-e365/oracle-flaw-hack.jpg",
-            "publishedAt": "2026-03-21T10:24:00Z",
-            "content": "Oracle has released security updates to address a critical security flaw impacting Identity Manager and Web Services Manager that could be exploited to achieve remote code execution.\r\nThe vulnerabili\u2026 [+1279 chars]"
+            "description": "[FEEDS.FEEDBURNER.COM] Oracle has released security updates to address a critical security flaw impacting Identity Manager and Web Services Manager that could be exploited to achieve remote code execution. The...",
+            "url": "https://thehackernews.com/2026/03/oracle-patches-critical-cve-2026-21992.html"
         },
         {
-            "source": {
-                "id": null,
-                "name": "Securityaffairs.com"
-            },
-            "author": "Pierluigi Paganini",
-            "title": "PolyShell flaw exposes Magento and Adobe Commerce to file upload attacks",
-            "description": "Sansec found a Magento and Adobe Commerce REST API flaw, named PolyShell, which allows unauthenticated file uploads and possible XSS in older versions. Sansec disclosed a critical flaw in the Magento and Adobe Commerce REST API that allows attackers to upload\u2026",
-            "url": "https://securityaffairs.com/189744/security/polyshell-flaw-exposes-magento-and-adobe-commerce-to-file-upload-attacks.html",
-            "urlToImage": "https://securityaffairs.com/wp-content/uploads/2022/02/magento-vector-logo.png",
-            "publishedAt": "2026-03-21T10:09:50Z",
-            "content": "PolyShell flaw exposes Magento and Adobe Commerce to file upload attacks\r\nSansec disclosed a critical flaw in the Magento and Adobe Commerce REST API that allows attackers to upload executable files \u2026 [+3083 chars]"
+            "title": "Trivy Supply Chain Attack Triggers Self-Spreading CanisterWorm Across 47 npm Packages",
+            "description": "[FEEDS.FEEDBURNER.COM] The threat actors behind the supply chain attack targeting the popular Trivy scanner are suspected to be conducting follow-on attacks that have led to the compromise of a large number of npm packages...",
+            "url": "https://thehackernews.com/2026/03/trivy-supply-chain-attack-triggers-self.html"
         },
         {
-            "source": {
-                "id": null,
-                "name": "National Post"
-            },
-            "author": "Special to National Post",
-            "title": "Warren Kinsella: How Iran stage-manages anti-Israel campaigns in the West",
-            "description": "Book excerpt: Iran has invested considerable resources as puppet-masters of protests in western democracies. It has paid many dividends.",
-            "url": "https://nationalpost.com/news/warren-kinsella-how-iran-stage-manages-anti-israel-campaigns-in-the-west",
-            "urlToImage": "https://smartcdn.gprod.postmedia.digital/nationalpost/wp-content/uploads/2029/03/protesters-1-1.jpg",
-            "publishedAt": "2026-03-21T10:00:12Z",
-            "content": "Said the Microsoft Threat Analysis team, As the Israel-Hamas war broke out on October 7, 2023, Iran immediately surged support to Hamas with its now well-honed technique of combining targeted hacks w\u2026 [+3888 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "BusinessLine"
-            },
-            "author": null,
-            "title": "Infosys and Formula E Launch AI-Powered Race Centre, Taking Fan Experience to Pole Position",
-            "description": "New digital platform leverages Infosys Topaz to deliver real-time insights that will redefine innovation for race day and beyond",
-            "url": "https://www.thehindubusinessline.com/brandhub/pr-release/infosys-and-formula-e-launch-ai-powered-race-centre-taking-fan-experience-to-pole-position/article70768680.ece",
-            "urlToImage": "https://bl-i.thgim.com/public/brandhub/cc0rqq/article70768688.ece/alternates/LANDSCAPE_1200/infosys.png",
-            "publishedAt": "2026-03-21T09:04:34Z",
-            "content": "BENGALURU, India,\u00a0March 20, 2026\u00a0/PRNewswire/ --\u00a0Infosys\u00a0(NSE: INFY) (BSE: INFY) (NYSE: INFY), a global leader in next generation digital services and consulting, and\u00a0Formula E, the worlds first all-\u2026 [+8234 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Internet"
-            },
-            "author": "info@thehackernews.com (The Hacker News)",
             "title": "CISA Flags Apple, Craft CMS, Laravel Bugs in KEV, Orders Patching by April 3, 2026",
-            "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added five security flaws impacting Apple, Craft CMS, and Laravel Livewire to its Known Exploited Vulnerabilities (KEV) catalog, urging federal agencies to patch them by April 3, 2026.\u2026",
-            "url": "https://thehackernews.com/2026/03/cisa-flags-apple-craft-cms-laravel-bugs.html",
-            "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJQDea3eiUAONNSYkmQsjicwXBMSALOAUJi7yPHqOStd9N-KBADSGXjH5zJS66VPyzi7-w5ULK7Ax9qH66_Av9E3xIL8BB7sDKz9d-ZbmlyqeyfKyCUYBb15eOH5_keQQ-RUchVoh7NvguG3Ps8sau8Ik17QNOMVtmTkQEck9gao_1zcLPE8JE_qPvc4Q9/s1700-e365/cisa-kev.jpg",
-            "publishedAt": "2026-03-21T08:25:00Z",
-            "content": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added five security flaws impacting Apple, Craft CMS, and Laravel Livewire to its Known Exploited Vulnerabilities (KEV) cata\u2026 [+4399 chars]"
+            "description": "[FEEDS.FEEDBURNER.COM] The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added five security flaws impacting Apple, Craft CMS, and Laravel Livewire to its Known Exploited Vulnerabilities (KEV)...",
+            "url": "https://thehackernews.com/2026/03/cisa-flags-apple-craft-cms-laravel-bugs.html"
         },
         {
-            "source": {
-                "id": "techradar",
-                "name": "TechRadar"
-            },
-            "author": "Rob Dunne",
-            "title": "Secure your spring break travels with Mullvad VPN \u2014 it's the simplest VPN deal I've ever seen",
-            "description": "There's no long term subscriptions, sneaky price hikes, or complicated tax rates with this one",
-            "url": "https://www.techradar.com/vpn/vpn-services/secure-your-spring-break-travels-with-mullvad-vpn-its-the-simplest-vpn-deal-ive-ever-seen",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/bBwbCumwRt8TWfDCfRKAZR-1344-80.png",
-            "publishedAt": "2026-03-21T07:00:00Z",
-            "content": "If you're traveling over spring break, a VPN is a useful tool to help secure your data on unencrypted public Wi-Fi and to retain access to your favorite shows from home.\r\nHowever, some of the best VP\u2026 [+1995 chars]"
+            "title": "Trivy vulnerability scanner breach pushed infostealer via GitHub Actions",
+            "description": "[BLEEPINGCOMPUTER.COM] The Trivy vulnerability scanner was compromised in a supply-chain attack by threat actors known as TeamPCP, which distributed credential-stealing malware through official releases and GitHub Actions....",
+            "url": "https://www.bleepingcomputer.com/news/security/trivy-vulnerability-scanner-breach-pushed-infostealer-via-github-actions/"
         },
         {
-            "source": {
-                "id": "abc-news-au",
-                "name": "ABC News (AU)"
-            },
-            "author": "Monte Bovill",
-            "title": "Ash was hacked. She wants you to know 'you could be next'",
-            "description": "In a matter of minutes, Ash Raso lost access to everything from her email address to her social media accounts and even banking. She is among a growing number of younger Australians falling victim to cybercrime.",
-            "url": "https://www.abc.net.au/news/2026-03-21/young-australians-leaving-themselves-vulnerable-to-cybercrime/106467928",
-            "urlToImage": "https://live-production.wcms.abc-cdn.net.au/ad50b44e2620e82641f7ed8f6866545e?impolicy=wcms_watermark_news&cropH=2468&cropW=4388&xPos=0&yPos=360&width=862&height=485&imformat=generic",
-            "publishedAt": "2026-03-21T06:10:31Z",
-            "content": "Ash Raso was on the cusp of launching her own clothing label when she was hacked.\r\nIn a matter of minutes, the 29-year-old lost access to everything, from her email address to her social media accoun\u2026 [+4400 chars]"
+            "title": "Google adds \u2018Advanced Flow\u2019 for safe APK sideloading on Android",
+            "description": "[BLEEPINGCOMPUTER.COM] Google has announced a new mechanism in Android called Advanced Flow that will allow sideloading APKs from unverified developers for power users in a more secure way. [...]",
+            "url": "https://www.bleepingcomputer.com/news/security/google-adds-advanced-flow-for-safe-apk-sideloading-on-android/"
         },
         {
-            "source": {
-                "id": null,
-                "name": "Iphonejd.com"
-            },
-            "author": "Jeff Richardson",
-            "title": "Podcast episode 237: A Cybersecurity Sword \u2694\ufe0f Big Hairy Creatures, and Better Braided Charging Cords ",
-            "description": "We begin this week\u2019s podcast by encouraging folks going to ABA TECHSHOW in a few days to look out for Brett and me\u2014especially if you want to be a part of next week\u2019s podcast. Next, we discuss many recent cybersecurity threats and explain what you should do to\u2026",
-            "url": "https://www.iphonejd.com/iphone_jd/2026/03/podcast-237.html",
-            "urlToImage": null,
-            "publishedAt": "2026-03-21T06:08:52Z",
-            "content": "We begin this week\u2019s podcast by encouraging folks going to ABA TECHSHOW in a few days to look out for Brett and meespecially if you want to be a part of next week\u2019s podcast. Next, we discuss many rec\u2026 [+981 chars]"
+            "title": "Microsoft Azure Monitor alerts abused for callback phishing attacks",
+            "description": "[BLEEPINGCOMPUTER.COM] Microsoft Azure Monitor alerts are being abused to send callback phishing emails that impersonate warnings from the Microsoft Security Team about unauthorized charges on your account. [...]",
+            "url": "https://www.bleepingcomputer.com/news/security/microsoft-azure-monitor-alerts-abused-in-callback-phishing-campaigns/"
+        },
+        {
+            "title": "CISA Adds Five Known Exploited Vulnerabilities to Catalog",
+            "description": "[CISA.GOV] CISA has added five new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-31277 Apple Multiple Products Buffer Overflow...",
+            "url": "https://www.cisa.gov/news-events/alerts/2026/03/20/cisa-adds-five-known-exploited-vulnerabilities-catalog"
+        },
+        {
+            "title": "Trivy Security Scanner GitHub Actions Breached, 75 Tags Hijacked to Steal CI/CD Secrets",
+            "description": "[FEEDS.FEEDBURNER.COM] Trivy, a popular open-source vulnerability scanner maintained by Aqua Security, was compromised a second time within the span of a month to deliver malware that stole sensitive CI/CD secrets. The...",
+            "url": "https://thehackernews.com/2026/03/trivy-security-scanner-github-actions.html"
+        },
+        {
+            "title": "FBI links Signal phishing attacks to Russian intelligence services",
+            "description": "[BLEEPINGCOMPUTER.COM] The FBI has issued a public service announcement warning that Russian intelligence-linked threat actors are actively targeting users of encrypted messaging apps such as Signal and WhatsApp in...",
+            "url": "https://www.bleepingcomputer.com/news/security/fbi-links-signal-phishing-attacks-to-russian-intelligence-services/"
+        },
+        {
+            "title": "Oracle pushes emergency fix for critical Identity Manager RCE flaw",
+            "description": "[BLEEPINGCOMPUTER.COM] Oracle has released an out-of-band security update to fix a critical unauthenticated remote code execution vulnerability in Identity Manager and Web Services Manager tracked as CVE-2026-21992. [...]",
+            "url": "https://www.bleepingcomputer.com/news/security/oracle-pushes-emergency-fix-for-critical-identity-manager-rce-flaw/"
+        },
+        {
+            "title": "FBI sends 'Russian warning' to Americans; says: Hackers linked to Russia are targeting you on ...",
+            "description": "[TIMES OF INDIA] Tech News News: The Federal Bureau of Investigation (FBI) and Cybersecurity and Infrastructure Security Agency (CISA) have issued a warning to Americans. The US gover.",
+            "url": "https://timesofindia.indiatimes.com/technology/tech-news/fbi-sends-russian-warning-to-americans-says-hackers-linked-to-russia-are-targeting-you-on-/articleshow/129718020.cms"
+        },
+        {
+            "title": "Books on the shelf: Uncovering myths of history, science, and security",
+            "description": "[THE FINANCIAL EXPRESS] From cybersecurity to Rasputin, the books this week has a wide range of selection",
+            "url": "https://www.financialexpress.com/life/lifestyle/books-on-the-shelfnbsp-uncovering-myths-of-history-science-and-security/4179904/"
+        },
+        {
+            "title": "AI chatbot would kill to survive: Experts warn",
+            "description": "[THE NEWS INTERNATIONAL] It sounds like a scene from a dystopian thriller: an AI assistant telling a human it would kill to protect its own existence. But for cybersecurity expert Mark Vos, it was chillingly real. Vos...",
+            "url": "https://www.thenews.com.pk/latest/1396387-ai-chatbot-would-kill-to-survive-experts-warn"
+        },
+        {
+            "title": "Are Gulf jobs dying after Iran-Israel tensions? Where is the money now?",
+            "description": "[INDIA TODAY] War doesn\u2019t just shift borders, it reshapes careers. Rising tensions are pushing the Middle East job market toward tech, cybersecurity, and strategic roles, where adaptability and future-ready skills...",
+            "url": "https://www.indiatoday.in/jobs/story/iran-israel-war-hits-middle-east-jobs-which-jobs-are-safe-in-gulf-and-which-arent-educ-2885200-2026-03-21"
+        },
+        {
+            "title": "Lured by jobs, sold into slavery: India\u2019s crackdown on cyber trafficking continues",
+            "description": "[THE WEEK] Such cases have prompted cybersecurity officials to launch drives to create awareness among job seekers",
+            "url": "https://www.theweek.in/news/india/2026/03/21/lured-by-jobs-sold-into-slavery-indias-crackdown-on-cyber-trafficking-continues.html"
+        },
+        {
+            "title": "CSA XCON 2026 Brings Together Innovation, Ethical Hacking, and Next",
+            "description": "[THE TRIBUNE] New Delhi [India], March 21: The Cloud Security Alliance organised CSA XCON 2026 conference successfully,which attracted a wide range of industry experts and ethical hackers and researchers and...",
+            "url": "https://www.tribuneindia.com/news/business/csa-xcon-2026-brings-together-innovation-ethical-hacking-and-next-gen-cyber-defence/"
+        },
+        {
+            "title": "Nancy Guthrie dead or alive? Former detective and cybersecurity expert raises theory on \u2018violent\u2019 abduction of Savannah Guthrie\u2019s mother",
+            "description": "[THE ECONOMIC TIMES] An 84-year-old woman, Nancy Guthrie, is missing. A former detective believes her case is not a simple missing person incident. Evidence suggests a violent abduction from her home. The detective urges...",
+            "url": "https://economictimes.indiatimes.com/us/news/nancy-guthrie-dead-or-alive-former-detective-and-cybersecurity-expert-raises-theory-on-violent-abduction-of-savannah-guthries-mother/articleshow/129712530.cms"
+        },
+        {
+            "title": "Canada should ban at military bases expert says",
+            "description": "[CP24 TORONTO] Intelligence and cybersecurity experts are warning the Liberal government about national security risks posed by allowing Chinese electric vehicles onto Canadian military bases.",
+            "url": "https://www.cp24.com/news/canada/2026/03/20/canada-should-absolutely-match-polands-chinese-ev-ban-at-military-bases-expert/"
+        },
+        {
+            "title": "Canada should 'absolutely' match Poland's Chinese EV ban at military bases: expert",
+            "description": "[SOOTODAY] OTTAWA \u2014 Intelligence and cybersecurity experts are warning the Liberal government about national security risks posed by allowing Chinese electric vehicles onto Canadian military bases.",
+            "url": "https://www.sootoday.com/national-news/canada-should-absolutely-match-polands-chinese-ev-ban-at-military-bases-expert-12037638"
+        },
+        {
+            "title": "Canada should 'absolutely' match Poland's Chinese EV ban at military bases: expert",
+            "description": "[BAYTODAY] OTTAWA \u2014 Intelligence and cybersecurity experts are warning the Liberal government about national security risks posed by allowing Chinese electric vehicles onto Canadian military bases.",
+            "url": "https://www.baytoday.ca/national-news/canada-should-absolutely-match-polands-chinese-ev-ban-at-military-bases-expert-12037638"
         }
     ]
 }
