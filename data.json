@@ -1,5 +1,5 @@
 {
-    "updated": "2026-03-24 16:52:07 UTC",
+    "updated": "2026-03-24 18:50:13 UTC",
     "news": [
         {
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
@@ -15,6 +15,11 @@
             "title": "CISA Urges Endpoint Management System Hardening After Cyberattack Against US Organization",
             "description": "[CISA.GOV] CISA is aware of malicious cyber activity targeting endpoint management systems of U.S. organizations based on the March 11, 2026 cyberattack against U.S.-based medical technology firm Stryker...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/03/18/cisa-urges-endpoint-management-system-hardening-after-cyberattack-against-us-organization"
+        },
+        {
+            "title": "Tax Search Ads Deliver ScreenConnect Malware Using Huawei Driver to Disable EDR",
+            "description": "[FEEDS.FEEDBURNER.COM] A large-scale malvertising campaign active since January 2026 has been observed targeting U.S.-based individuals searching for tax-related documents to serve rogue installers for ConnectWise...",
+            "url": "https://thehackernews.com/2026/03/tax-search-ads-deliver-screenconnect.html"
         },
         {
             "title": "5 Learnings from the First-Ever Gartner Market Guide for Guardian Agents",
@@ -37,9 +42,9 @@
             "url": "https://thehackernews.com/2026/03/ghost-campaign-uses-7-npm-packages-to.html"
         },
         {
-            "title": "TeamPCP Hacks Checkmarx GitHub Actions Using Stolen CI Credentials",
-            "description": "[FEEDS.FEEDBURNER.COM] Two more GitHub Actions workflows have become the latest to be compromised by credential-stealing malware by a threat actor known as TeamPCP, the cloud-native cybercriminal operation also behind the...",
-            "url": "https://thehackernews.com/2026/03/teampcp-hacks-checkmarx-github-actions.html"
+            "title": "Firefox now has a free built-in VPN with 50GB monthly data limit",
+            "description": "[BLEEPINGCOMPUTER.COM] Mozilla released Firefox 149 with added privacy protection through a built-in VPN tool offering up to 50GB of monthly traffic. [...]",
+            "url": "https://www.bleepingcomputer.com/news/security/firefox-now-has-a-free-built-in-vpn-with-50gb-monthly-data-limit/"
         },
         {
             "title": "Microsoft fixes bug causing Classic Outlook sync issues with Gmail",
@@ -62,11 +67,6 @@
             "url": "https://www.bleepingcomputer.com/news/security/infinite-campus-warns-of-breach-after-shinyhunters-claims-data-theft/"
         },
         {
-            "title": "Yanluowang ransomware access broker gets 81 months in prison",
-            "description": "[BLEEPINGCOMPUTER.COM] A Russian national was sentenced to nearly 7 years in prison after pleading guilty to acting as an initial access broker (IAB) for Yanluowang ransomware attacks. [...]",
-            "url": "https://www.bleepingcomputer.com/news/security/yanluowang-ransomware-access-broker-gets-81-months-in-prison/"
-        },
-        {
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
             "description": "[CISA.GOV] CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation.&nbsp; CVE-2026-20131 Cisco Secure Firewall Management Center (FMC)...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/03/19/cisa-adds-one-known-exploited-vulnerability-catalog"
@@ -77,6 +77,46 @@
             "url": "https://www.cisa.gov/news-events/alerts/2026/03/20/cisa-adds-five-known-exploited-vulnerabilities-catalog"
         },
         {
+            "title": "U.S. Sentences Russian Hacker to 6.75 Years for Role in $9M Ransomware Damage",
+            "description": "[THE HACKER NEWS] Russian hacker gets 6.75 years after enabling ransomware attacks causing $9M+ losses, highlighting access broker role in cybercrime.",
+            "url": "https://thehackernews.com/2026/03/us-sentences-russian-hacker-to-675.html"
+        },
+        {
+            "title": "Palo Alto Networks: Buy Other Battered Cybersecurity Stocks Instead (NASDAQ:PANW)",
+            "description": "[SEEKING ALPHA] The acquisitions of CyberArk and Chromosphere expand Palo Alto Networks' capabilities but introduce integration and synergy risks. Read why PANW stock is a Hold.",
+            "url": "https://seekingalpha.com/article/4885180-palo-alto-networks-buy-other-battered-cybersecurity-stocks-instead-downgrade"
+        },
+        {
+            "title": "Who are Handala Hackers? Everything about Iran-linked cyber group using Telegram to spread malware",
+            "description": "[THE FINANCIAL EXPRESS] The FBI has warned about Iran-linked hackers using Telegram to target journalists and dissidents. By spreading malware through fake messages, attackers gain access to sensitive data, raising serious...",
+            "url": "https://www.financialexpress.com/life/technology-who-are-handala-hackers-everything-about-iran-linked-cyber-group-using-telegram-to-spread-malware-4182214/"
+        },
+        {
+            "title": "Trend Micro\u2019s Enterprise Business Is Now TrendAI",
+            "description": "[ITWIRE] New identity for solving enterprise challenges reflects company\u2019s evolution and AI leadership. The global leader in AI cybersecurity has adopte...",
+            "url": "https://itwire.com/business-it-sp-511/business-it/trend-micro%e2%80%99s-enterprise-business-is-now-trendai.html"
+        },
+        {
+            "title": "U.S. bans new foreign-made routers over security risks",
+            "description": "[SEEKING ALPHA] U.S. bans new foreign-made Wi\u2011Fi router imports as FCC cites cybersecurity and supply-chain risks; see what it means for TP\u2011Link, Netgear, Eero & Nest\u2014read...",
+            "url": "https://seekingalpha.com/news/4567637-us-bans-new-foreign-made-routers-over-security-risks"
+        },
+        {
+            "title": "FCC Bans Imports Of New Foreign-Made Routers Over National Security Concerns; China Estimated To Control 60% Home Routers",
+            "description": "[FREE PRESS JOURNAL] The US Federal Communications Commission has banned imports of new foreign-made routers citing cybersecurity risks. The order, effective through March 2027, does not affect existing authorised...",
+            "url": "https://www.freepressjournal.in/tech/fcc-bans-imports-of-new-foreign-made-routers-over-national-security-concerns-china-estimated-to-control-60-home-routers"
+        },
+        {
+            "title": "Inspira Enterprise Joins the Microsoft Intelligent Security Association",
+            "description": "[THE TRIBUNE] Mumbai (Maharashtra) [India], March 24: Inspira Enterprise, a global cybersecurity services provider, today announced it has become a member of the Microsoft Intelligent Security Association (MISA),...",
+            "url": "https://www.tribuneindia.com/news/business/inspira-enterprise-joins-the-microsoft-intelligent-security-association/"
+        },
+        {
+            "title": "Millions Of iPhones At Risk? New Spyware Could Steal Your Data: How To Protect Your Devices",
+            "description": "[TIMES NOW] A leaked version of the DarkSword spyware has reportedly raised concerns among cybersecurity experts, potentially putting millions of iPhones at risk. The tool can exploit outdated devices and access...",
+            "url": "https://www.timesnownews.com/technology-science/millions-of-iphones-at-risk-new-spyware-could-steal-your-data-how-to-protect-your-devices-article-153906346"
+        },
+        {
             "title": "Hackers said they breached 6.8M Crunchyroll users\u2019 personal data - Anime giant responds",
             "description": "[THE FINANCIAL EXPRESS] Popular anime streaming platform Crunchyroll has announced a potential data breach affecting 6.8 million users. Cybersecurity experts are investigating the incident, which may have been caused by a...",
             "url": "https://www.financialexpress.com/shorts/trending/hackers-said-they-breached-6-8m-crunchyroll-users-personal-data-anime-giant-cybersecurity-experts-launch-probe-4182065/"
@@ -85,46 +125,6 @@
             "title": "Hackers said they breached 6.8M Crunchyroll users\u2019 personal data \u2013 Anime giant & cybersecurity experts launch probe",
             "description": "[THE FINANCIAL EXPRESS] Crunchyroll is investigating a potential major breach after hackers claimed they stole near 6.8 million users' data.",
             "url": "https://www.financialexpress.com/trending/hackers-said-they-breached-6-8m-crunchyroll-users-personal-data-anime-giant-amp-cybersecurity-experts-launch-probe/4182065/"
-        },
-        {
-            "title": "Malaysia scam losses rise to RM2.7bil in 2025, spike during festive seasons",
-            "description": "[THE STAR] KUALA LUMPUR: Malaysia's scam-related losses reached approximately RM2.7 billion in 2025, representing a 76 per cent increase from 2024, with a noticeable spike during festive seasons such as Hari...",
-            "url": "https://www.thestar.com.my/business/business-news/2026/03/24/malaysia-scam-losses-rise-to-rm27bil-in-2025-spike-during-festive-seasons"
-        },
-        {
-            "title": "Inspira Enterprise Joins the Microsoft Intelligent Security Association",
-            "description": "[THE MANILA TIMES] **media[985086]** MUMBAI, India, March 24, 2026 /PRNewswire/ -- Inspira Enterprise, a global cybersecurity services provider, today announced it has become a member of the Microsoft Intelligent...",
-            "url": "https://www.manilatimes.net/2026/03/24/tmt-newswire/pr-newswire/inspira-enterprise-joins-the-microsoft-intelligent-security-association/2305989"
-        },
-        {
-            "title": "FCC bans foreign routers over rising US cybersecurity threats",
-            "description": "[INTERESTING ENGINEERING] The FCC bans new foreign-made routers over cybersecurity risks, citing threats to U.S. infrastructure and links to major cyberattacks.",
-            "url": "https://interestingengineering.com/culture/us-blocks-foreign-router-imports-cyber-risks"
-        },
-        {
-            "title": "AI becoming integral to how networks are designed, experienced: TRAI chief",
-            "description": "[THE HITAVADA] artificial intelligence is no longer peripheral to telecom, and is becoming integral to how networks are designed, managed, and experienced, anil kumar lahoti, chairman, telecom regulatory authority...",
-            "url": "https://www.thehitavada.com//Encyc/2026/3/24/ai-becoming-integral-to-how-networks-are-designed-experienced-trai-chief.html"
-        },
-        {
-            "title": "AI becoming integral to how networks are designed, experienced: TRAI chief",
-            "description": "[THE HITAVADA] artificial intelligence is no longer peripheral to telecom, and is becoming integral to how networks are designed, managed, and experienced, anil kumar lahoti, chairman, telecom regulatory authority...",
-            "url": "https://www.thehitavada.com/Encyc/2026/3/24/ai-becoming-integral-to-how-networks-are-designed-experienced-trai-chief.html"
-        },
-        {
-            "title": "Inspira Enterprise Joins the Microsoft Intelligent Security Association",
-            "description": "[PR NEWSWIRE UK] /PRNewswire/ -- Inspira Enterprise, a global cybersecurity services provider, today announced it has become a member of the Microsoft Intelligent Security...",
-            "url": "https://www.prnewswire.co.uk/news-releases/inspira-enterprise-joins-the-microsoft-intelligent-security-association-302722223.html"
-        },
-        {
-            "title": "How AI Is Creating Net New Markets, Especially for Cybersecurity",
-            "description": "[MORNINGSTAR] And which companies we think could rise to the top of the AI evolution.",
-            "url": "https://www.morningstar.com/stocks/how-ai-is-creating-net-new-markets-especially-cybersecurity"
-        },
-        {
-            "title": "FCC Bans New Chinese Routers to Protect U.S. Cybersecurity",
-            "description": "[DEVDISCOURSE] The U.S. Federal Communications Commission has announced a ban on importing new foreign-made consumer routers due to cybersecurity risks. This decision, aimed primarily at Chinese-made devices, seeks...",
-            "url": "https://www.devdiscourse.com/article/technology/3848042-fcc-bans-new-chinese-routers-to-protect-us-cybersecurity"
         }
     ]
 }
