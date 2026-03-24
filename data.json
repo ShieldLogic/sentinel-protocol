@@ -1,5 +1,5 @@
 {
-    "updated": "2026-03-24 18:50:13 UTC",
+    "updated": "2026-03-24 20:32:16 UTC",
     "news": [
         {
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
@@ -15,6 +15,11 @@
             "title": "CISA Urges Endpoint Management System Hardening After Cyberattack Against US Organization",
             "description": "[CISA.GOV] CISA is aware of malicious cyber activity targeting endpoint management systems of U.S. organizations based on the March 11, 2026 cyberattack against U.S.-based medical technology firm Stryker...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/03/18/cisa-urges-endpoint-management-system-hardening-after-cyberattack-against-us-organization"
+        },
+        {
+            "title": "TeamPCP Backdoors LiteLLM Versions 1.82.7\u20131.82.8 Likely via Trivy CI/CD Compromise",
+            "description": "[FEEDS.FEEDBURNER.COM] TeamPCP, the threat actor behind the recent compromises of Trivy and KICS, has now compromised a popular Python package named litellm, pushing two malicious versions containing a credential...",
+            "url": "https://thehackernews.com/2026/03/teampcp-backdoors-litellm-versions.html"
         },
         {
             "title": "Tax Search Ads Deliver ScreenConnect Malware Using Huawei Driver to Disable EDR",
@@ -35,11 +40,6 @@
             "title": "The Hidden Cost of Cybersecurity Specialization: Losing Foundational Skills",
             "description": "[FEEDS.FEEDBURNER.COM] Cybersecurity has changed fast. Roles are more&nbsp;specialized, and tooling is more advanced. On paper, this should make organizations more secure. But in practice, many teams struggle with the same...",
             "url": "https://thehackernews.com/2026/03/the-hidden-cost-of-cybersecurity.html"
-        },
-        {
-            "title": "Ghost Campaign Uses 7 npm Packages to Steal Crypto Wallets and Credentials",
-            "description": "[FEEDS.FEEDBURNER.COM] Cybersecurity researchers have uncovered a new set of malicious npm packages that are designed to steal cryptocurrency wallets and sensitive data. The activity is being tracked by ReversingLabs as...",
-            "url": "https://thehackernews.com/2026/03/ghost-campaign-uses-7-npm-packages-to.html"
         },
         {
             "title": "Firefox now has a free built-in VPN with 50GB monthly data limit",
@@ -75,6 +75,11 @@
             "title": "CISA Adds Five Known Exploited Vulnerabilities to Catalog",
             "description": "[CISA.GOV] CISA has added five new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-31277 Apple Multiple Products Buffer Overflow...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/03/20/cisa-adds-five-known-exploited-vulnerabilities-catalog"
+        },
+        {
+            "title": "US bans new foreign-made Internet routers over cybersecurity risks, targets China-linked devices",
+            "description": "[TELEGRAPH INDIA] Routers \u2014 used in homes and businesses to connect computers, phones, TVs and other devices to the internet \u2014 are a critical part of digital infrastructure. China is estimated to account for at least...",
+            "url": "https://www.telegraphindia.com/world/us-bans-new-foreign-made-internet-routers-over-cybersecurity-risks-targets-china-linked-devices/cid/2152884"
         },
         {
             "title": "U.S. Sentences Russian Hacker to 6.75 Years for Role in $9M Ransomware Damage",
@@ -120,11 +125,6 @@
             "title": "Hackers said they breached 6.8M Crunchyroll users\u2019 personal data - Anime giant responds",
             "description": "[THE FINANCIAL EXPRESS] Popular anime streaming platform Crunchyroll has announced a potential data breach affecting 6.8 million users. Cybersecurity experts are investigating the incident, which may have been caused by a...",
             "url": "https://www.financialexpress.com/shorts/trending/hackers-said-they-breached-6-8m-crunchyroll-users-personal-data-anime-giant-cybersecurity-experts-launch-probe-4182065/"
-        },
-        {
-            "title": "Hackers said they breached 6.8M Crunchyroll users\u2019 personal data \u2013 Anime giant & cybersecurity experts launch probe",
-            "description": "[THE FINANCIAL EXPRESS] Crunchyroll is investigating a potential major breach after hackers claimed they stole near 6.8 million users' data.",
-            "url": "https://www.financialexpress.com/trending/hackers-said-they-breached-6-8m-crunchyroll-users-personal-data-anime-giant-amp-cybersecurity-experts-launch-probe/4182065/"
         }
     ]
 }
