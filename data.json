@@ -1,5 +1,5 @@
 {
-    "updated": "2026-03-25 18:43:50 UTC",
+    "updated": "2026-03-25 20:30:02 UTC",
     "news": [
         {
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
@@ -32,6 +32,11 @@
             "url": "https://thehackernews.com/2026/03/device-code-phishing-hits-340-microsoft.html"
         },
         {
+            "title": "Bubble AI app builder abused to steal Microsoft account credentials",
+            "description": "[BLEEPINGCOMPUTER.COM] Threat actors are evading phishing detection in campaigns targeting Microsoft accounts by abusing the no-code app-building platform Bubble to generate and host malicious web apps. [...]",
+            "url": "https://www.bleepingcomputer.com/news/security/bubble-ai-app-builder-abused-to-steal-microsoft-account-credentials/"
+        },
+        {
             "title": "New Torg Grabber infostealer malware targets 728 crypto wallets",
             "description": "[BLEEPINGCOMPUTER.COM] A new info-stealing malware called Torg Grabber is stealing sensitive data from 850 browser extensions, more than 700 of them for cryptocurrency wallets. [...]",
             "url": "https://www.bleepingcomputer.com/news/security/new-torg-grabber-infostealer-malware-targets-728-crypto-wallets/"
@@ -52,11 +57,6 @@
             "url": "https://www.bleepingcomputer.com/news/linux/kali-linux-20261-released-with-8-new-tools-new-backtrack-mode/"
         },
         {
-            "title": "TP-Link warns users to patch critical router auth bypass flaw",
-            "description": "[BLEEPINGCOMPUTER.COM] TP-Link has patched several vulnerabilities in its Archer NX router series, including a critical-severity flaw that may allow attackers to bypass authentication and upload new firmware. [...]",
-            "url": "https://www.bleepingcomputer.com/news/security/tp-link-warns-users-to-patch-critical-router-auth-bypass-flaw/"
-        },
-        {
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
             "description": "[CISA.GOV] CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-20963 Microsoft SharePoint Deserialization of Untrusted...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/03/18/cisa-adds-one-known-exploited-vulnerability-catalog-0"
@@ -75,6 +75,11 @@
             "title": "CISA Adds Five Known Exploited Vulnerabilities to Catalog",
             "description": "[CISA.GOV] CISA has added five new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-31277 Apple Multiple Products Buffer Overflow...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/03/20/cisa-adds-five-known-exploited-vulnerabilities-catalog"
+        },
+        {
+            "title": "Smart meters are vulnerable gateways to cyberattacks",
+            "description": "[PV MAGAZINE] Researchers found that widely deployed smart meters pose a \u201cmassive\u201d cybersecurity risk, potentially enabling data manipulation, energy theft, and service disruption. They propose a new detection...",
+            "url": "https://www.pv-magazine.com/2026/03/25/smart-meters-are-vulnerable-gateways-to-cyberattacks/"
         },
         {
             "title": "Iconsys launches dedicated cybersecurity service",
@@ -120,11 +125,6 @@
             "title": "Russian Hacker Jailed for 81 Months Over $9M Ransomware Attacks",
             "description": "[DECRYPT] Aleksei Volkov facilitated dozens of attacks across the U.S. as an \"initial access broker,\" causing over $9 million in actual losses.",
             "url": "https://decrypt.co/362217/russian-hacker-jailed-for-81-months-over-9m-ransomware-attacks"
-        },
-        {
-            "title": "The FBI Says You Should Do This To Protect Yourself Against Ransomware Attacks",
-            "description": "[SLASHGEAR] To avoid ransomware attacks, the FBI says not to open unverified files or visit unknown websites. It also says not to pay any ransom if you do get infected.",
-            "url": "https://www.slashgear.com/2127176/ransomware-attack-fbi-warning-how-protect-yourself/"
         }
     ]
 }
