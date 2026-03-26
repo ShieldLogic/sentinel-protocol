@@ -1,35 +1,10 @@
 {
-    "updated": "2026-03-26 12:53:02 UTC",
+    "updated": "2026-03-26 14:56:26 UTC",
     "news": [
         {
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
             "description": "[CISA.GOV] CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-33017 Langflow Code Injection Vulnerability This type of...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/03/25/cisa-adds-one-known-exploited-vulnerability-catalog"
-        },
-        {
-            "title": "LeakBase Admin Arrested in Russia Over Massive Stolen Credential Marketplace",
-            "description": "[FEEDS.FEEDBURNER.COM] The alleged administrator of the LeakBase cybercrime forum has been arrested by Russian law enforcement authorities, state media reported Thursday. According to TASS and MVD Media, a news website...",
-            "url": "https://thehackernews.com/2026/03/leakbase-admin-arrested-in-russia-over.html"
-        },
-        {
-            "title": "GlassWorm Malware Uses Solana Dead Drops to Deliver RAT and Steal Browser, Crypto Data",
-            "description": "[FEEDS.FEEDBURNER.COM] Cybersecurity researchers have flagged a new evolution of the GlassWorm campaign that delivers a multi-stage framework capable of comprehensive data theft and installing a remote access trojan (RAT),...",
-            "url": "https://thehackernews.com/2026/03/glassworm-malware-uses-solana-dead.html"
-        },
-        {
-            "title": "GitHub adds AI-powered bug detection to expand security coverage",
-            "description": "[BLEEPINGCOMPUTER.COM] GitHub is adopting AI-based scanning for its Code Security tool to expand vulnerability detections beyond the CodeQL static analysis and cover more languages and frameworks. [...]",
-            "url": "https://www.bleepingcomputer.com/news/security/github-adds-ai-powered-bug-detection-to-expand-security-coverage/"
-        },
-        {
-            "title": "PolyShell attacks target 56% of all vulnerable Magento stores",
-            "description": "[BLEEPINGCOMPUTER.COM] Attacks leveraging the 'PolyShell' vulnerability in version 2 of Magento Open Source and Adobe Commerce installations are underway, targeting more than half of all vulnerable stores. [...]",
-            "url": "https://www.bleepingcomputer.com/news/security/polyshell-attacks-target-56-percent-of-all-vulnerable-magento-stores/"
-        },
-        {
-            "title": "Bubble AI app builder abused to steal Microsoft account credentials",
-            "description": "[BLEEPINGCOMPUTER.COM] Threat actors are evading phishing detection in campaigns targeting Microsoft accounts by abusing the no-code app-building platform Bubble to generate and host malicious web apps. [...]",
-            "url": "https://www.bleepingcomputer.com/news/security/bubble-ai-app-builder-abused-to-steal-microsoft-account-credentials/"
         },
         {
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
@@ -47,24 +22,49 @@
             "url": "https://thehackernews.com/2026/03/webinar-stop-guessing-learn-to-validate.html"
         },
         {
+            "title": "Claude Extension Flaw Enabled Zero-Click XSS Prompt Injection via Any Website",
+            "description": "[FEEDS.FEEDBURNER.COM] Cybersecurity researchers have disclosed a vulnerability in Anthropic's Claude Google Chrome Extension that could have been exploited to trigger malicious prompts simply by visiting a web page. The...",
+            "url": "https://thehackernews.com/2026/03/claude-extension-flaw-enabled-zero.html"
+        },
+        {
+            "title": "Masters of Imitation: How Hackers and Art Forgers Perfect the Art of Deception",
+            "description": "[FEEDS.FEEDBURNER.COM] Unmasking impostors is something the art world has faced for decades, and there are valuable lessons from the works of Elmyr de Hory that can apply to the world of defensive cybersecurity. During the...",
+            "url": "https://thehackernews.com/2026/03/masters-of-imitation-how-hackers-and.html"
+        },
+        {
+            "title": "ThreatsDay Bulletin: PQC Push, AI Vuln Hunting, Pirated Traps, Phishing Kits & 20 More Stories",
+            "description": "[FEEDS.FEEDBURNER.COM] Some weeks in security feel loud. This one feels sneaky. Less big dramatic fireworks, more of that slow creeping sense that too many people are getting way too comfortable abusing things they...",
+            "url": "https://thehackernews.com/2026/03/threatsday-bulletin-pqc-push-ai-vuln.html"
+        },
+        {
             "title": "Coruna iOS Kit Reuses 2023 Triangulation Exploit Code in New Mass Attacks",
             "description": "[FEEDS.FEEDBURNER.COM] The kernel exploit for two security vulnerabilities used in the recently uncovered Apple iOS exploit kit known as Coruna is an updated version of the same exploit that was used in the Operation...",
             "url": "https://thehackernews.com/2026/03/coruna-ios-kit-reuses-2023.html"
         },
         {
-            "title": "WebRTC Skimmer Bypasses CSP to Steal Payment Data from E-Commerce Sites",
-            "description": "[FEEDS.FEEDBURNER.COM] Cybersecurity researchers have discovered a new payment skimmer that uses WebRTC data channels as a means to receive payloads and exfiltrate data, effectively bypassing security controls. \"Instead of...",
-            "url": "https://thehackernews.com/2026/03/webrtc-skimmer-bypasses-csp-to-steal.html"
+            "title": "TikTok for Business accounts targeted in new phishing campaign",
+            "description": "[BLEEPINGCOMPUTER.COM] Threat actors are targeting TikTok for Business accounts in a phishing campaign that prevents security bots from analyzing malicious pages. [...]",
+            "url": "https://www.bleepingcomputer.com/news/security/tiktok-for-business-accounts-targeted-in-new-phishing-campaign/"
+        },
+        {
+            "title": "WhatsApp rolls out more AI features, iOS multi-account support",
+            "description": "[BLEEPINGCOMPUTER.COM] WhatsApp is rolling out multiple features designed to make the app easier to use, including AI-powered message replies and photo retouching, support for two accounts on iOS, and chat history transfer...",
+            "url": "https://www.bleepingcomputer.com/news/software/whatsapp-rolls-out-more-ai-features-ios-multi-account-support/"
+        },
+        {
+            "title": "Inside a Modern Fraud Attack: From Bot Signups to Account Takeovers",
+            "description": "[BLEEPINGCOMPUTER.COM] Multi-stage fraud attacks chain bots, proxies, and stolen credentials from signup to takeover. IPQS shows why correlating IP, device, identity, and behavior is critical to stop it. [...]",
+            "url": "https://www.bleepingcomputer.com/news/security/inside-a-modern-fraud-attack-from-bot-signups-to-account-takeovers/"
+        },
+        {
+            "title": "Coruna iOS exploit framework linked to Triangulation attacks",
+            "description": "[BLEEPINGCOMPUTER.COM] The Coruna exploit kit is an evolution of the framework used in the Operation Triangulation espionage campaign, which in 2023 targeted iPhones via zero-click iMessage exploits. [...]",
+            "url": "https://www.bleepingcomputer.com/news/security/coruna-ios-exploit-framework-linked-to-triangulation-attacks/"
         },
         {
             "title": "Russia arrests suspected owner of LeakBase cybercrime forum",
             "description": "[BLEEPINGCOMPUTER.COM] Russian police arrested a Taganrog resident believed to be the owner of LeakBase, a major online forum used by cybercriminals to buy and sell stolen data and hacking tools. [...]",
             "url": "https://www.bleepingcomputer.com/news/security/russia-arrests-suspected-owner-and-admin-of-leakbase-cybercrime-forum/"
-        },
-        {
-            "title": "Suspected RedLine infostealer malware admin extradited to US",
-            "description": "[BLEEPINGCOMPUTER.COM] An Armenian suspect was extradited to the United States to face criminal charges for allegedly helping manage RedLine, one of the most prolific infostealer malware operations in recent years. [...]",
-            "url": "https://www.bleepingcomputer.com/news/security/suspected-redline-infostealer-administrator-extradited-to-us/"
         },
         {
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
@@ -75,6 +75,11 @@
             "title": "CISA Adds Five Known Exploited Vulnerabilities to Catalog",
             "description": "[CISA.GOV] CISA has added five new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-31277 Apple Multiple Products Buffer Overflow...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/03/20/cisa-adds-five-known-exploited-vulnerabilities-catalog"
+        },
+        {
+            "title": "Government entities in Queensland unaware of cybersecurity vulnerabilities, audit office report finds",
+            "description": "[ABC (AUSTRALIAN BROADCASTING CORPORATION)] The report found increasing frequency and sophistication of cyber attacks could expose government entities that had weak cybersecurity.",
+            "url": "https://www.abc.net.au/news/2026-03-26/queensland-cybersecurity-audit-highights-gaps/106497032"
         },
         {
             "title": "Deep fake demonstration shows sophistication of AI editing tools scammers use to commit identity theft",
@@ -120,11 +125,6 @@
             "title": "Onit Security raises $11M to fix vulnerability backlogs after Iranian cyberattack exposed a broken security system",
             "description": "[TECHSTARTUPS.COM] A single missed vulnerability can sit quietly in a backlog for weeks. That\u2019s all it takes. In one case, it gave attackers an open door. That moment is what led to the creation of Onit Security. The...",
             "url": "https://techstartups.com/2026/03/25/onit-security-raises-11m-to-fix-vulnerability-backlogs-after-iranian-cyberattack-exposed-a-broken-security-system/"
-        },
-        {
-            "title": "This Norton Deal Makes Premium Cybersecurity Worth It",
-            "description": "[GIZMODO] Discover Norton\u2019s latest premium deal. Learn more about its advanced cybersecurity features like real-time protection, a password manager, and a VPN, now available at a lower price.",
-            "url": "https://gizmodo.com/this-norton-deal-makes-premium-cybersecurity-worth-it-2000738067"
         }
     ]
 }
