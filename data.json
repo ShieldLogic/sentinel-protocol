@@ -1,5 +1,5 @@
 {
-    "updated": "2026-03-25 22:26:13 UTC",
+    "updated": "2026-03-26 01:23:34 UTC",
     "news": [
         {
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
@@ -15,6 +15,11 @@
             "title": "GlassWorm Malware Uses Solana Dead Drops to Deliver RAT and Steal Browser, Crypto Data",
             "description": "[FEEDS.FEEDBURNER.COM] Cybersecurity researchers have flagged a new evolution of the GlassWorm campaign that delivers a multi-stage framework capable of comprehensive data theft and installing a remote access trojan (RAT),...",
             "url": "https://thehackernews.com/2026/03/glassworm-malware-uses-solana-dead.html"
+        },
+        {
+            "title": "GitHub adds AI-powered bug detection to expand security coverage",
+            "description": "[BLEEPINGCOMPUTER.COM] GitHub is adopting AI-based scanning for its Code Security tool to expand vulnerability detections beyond the CodeQL static analysis and cover more languages and frameworks. [...]",
+            "url": "https://www.bleepingcomputer.com/news/security/github-adds-ai-powered-bug-detection-to-expand-security-coverage/"
         },
         {
             "title": "PolyShell attacks target 56% of all vulnerable Magento stores",
@@ -52,11 +57,6 @@
             "url": "https://www.bleepingcomputer.com/news/security/citrix-urges-admins-to-patch-netscaler-flaws-as-soon-as-possible/"
         },
         {
-            "title": "Paid AI Accounts Are Now a Hot Underground Commodity",
-            "description": "[BLEEPINGCOMPUTER.COM] AI accounts are becoming part of the cybercrime supply chain, sold like email accounts or VPS access. Flare Systems shows how underground markets bundle and resell premium AI access at scale. [...]",
-            "url": "https://www.bleepingcomputer.com/news/security/paid-ai-accounts-are-now-a-hot-underground-commodity/"
-        },
-        {
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
             "description": "[CISA.GOV] CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-20963 Microsoft SharePoint Deserialization of Untrusted...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/03/18/cisa-adds-one-known-exploited-vulnerability-catalog-0"
@@ -77,6 +77,46 @@
             "url": "https://www.cisa.gov/news-events/alerts/2026/03/20/cisa-adds-five-known-exploited-vulnerabilities-catalog"
         },
         {
+            "title": "Can You Leave An External Hard Drive Plugged In All The Time?",
+            "description": "[BGR] Is it safe to leave an external hard drive plugged in all the time? The ransomware risk is real, but unplugging has its own drawbacks.",
+            "url": "https://www.bgr.com/2128003/can-you-leave-external-hard-drive-plugged-in-all-the-time/"
+        },
+        {
+            "title": "US bans foreign-made consumer routers over cybersecurity concerns",
+            "description": "[FOX BUSINESS] The FCC announced that it is banning the import of all new foreign-made consumer routers due to cybersecurity concerns over vulnerabilities that could be exploited.",
+            "url": "https://www.foxbusiness.com/technology/us-bans-new-foreign-made-consumer-internet-routers-over-security-concerns"
+        },
+        {
+            "title": "2026 Cybersecurity Excellence Awards Winners Announced during RSA Conference as AI Security Dominates",
+            "description": "[NEXTBIGFUTURE.COM] San Francisco, USA, 25th March 2026, CyberNewswire",
+            "url": "https://www.nextbigfuture.com/2026/03/2026-cybersecurity-excellence-awards-winners-announced-during-rsa-conference-as-ai-security-dominates.html"
+        },
+        {
+            "title": "2026 Cybersecurity Excellence Awards Winners Announced during RSA Conference as AI Security Dominates",
+            "description": "[TECHSTARTUPS.COM] San Francisco, USA, 25th March 2026, CyberNewswire",
+            "url": "https://techstartups.com/2026/03/25/2026-cybersecurity-excellence-awards-winners-announced-during-rsa-conference-as-ai-security-dominates/"
+        },
+        {
+            "title": "2026 Cybersecurity Excellence Awards Winners Announced during RSA Conference as AI Security Dominates",
+            "description": "[MARKETS INSIDER] San Francisco, USA, March 25th, 2026, CyberNewswireCybersecurity Insiders today announced the winners of the 2026 Cybersecuri...",
+            "url": "https://markets.businessinsider.com/news/currencies/2026-cybersecurity-excellence-awards-winners-announced-during-rsa-conference-as-ai-security-dominates-1035962034"
+        },
+        {
+            "title": "Russian Hacker Sentenced to 2 Years for TA551 Botnet-Driven Ransomware Attacks",
+            "description": "[THE HACKER NEWS] TA551 botnet infected 72 U.S. firms via spam malware, enabling $14.17M ransomware extortion, leading to prison sentences.",
+            "url": "https://thehackernews.com/2026/03/russian-hacker-sentenced-to-2-years-for.html"
+        },
+        {
+            "title": "AI-Generated X-rays: A New Frontier in Medical Imaging Deception",
+            "description": "[DEVDISCOURSE] A recent study highlights the potential for AI-generated X-ray images to mislead experienced radiologists and AI detection tools. The study emphasizes the risk of fraudulent activity and...",
+            "url": "https://www.devdiscourse.com/article/health/3850120-ai-generated-x-rays-a-new-frontier-in-medical-imaging-deception"
+        },
+        {
+            "title": "Does Trump really have news about aliens and UFOs? That would be the first sign of intelligent life",
+            "description": "[THE GUARDIAN] The president promised to spill the beans about little green men. Is that why the US Cybersecurity and Infrastructure Security Agency registered the domains alien.gov and aliens.gov, asks Arwa Mahdawi",
+            "url": "https://www.theguardian.com/commentisfree/2026/mar/25/trump-news-aliens-ufos-first-sign-of-intelligent-life"
+        },
+        {
             "title": "Digital Sovereignty Push by Congress MP",
             "description": "[DECCAN HERALD] Congress MP Push: Congress MP Neeraj Dangi urges India to create its own search engine, citing privacy and cybersecurity risks. He highlights digital sovereignty, noting countries like China and...",
             "url": "https://www.deccanherald.com/india/india-should-develop-own-internet-search-engine-for-digital-sovereignty-congress-mp-neeraj-dangi-3943984"
@@ -85,46 +125,6 @@
             "title": "What is Quantum computing? How will it redefine future of technology, where does India stand in this race?",
             "description": "[ZEE NEWS] Quantum computers are emerging as one of the most transformative technologies of the 21st century, with the potential to reshape industries ranging from healthcare to cybersecurity.",
             "url": "https://zeenews.india.com/technology/what-is-quantum-computing-how-will-it-redefine-future-of-technology-where-does-india-stand-in-this-race-3030371.html"
-        },
-        {
-            "title": "India's Call for Digital Independence: Neeraj Dangi Advocates for Indigenous Search Engine",
-            "description": "[DEVDISCOURSE] Congress MP Neeraj Dangi advocates for India's development of an indigenous search engine to enhance digital sovereignty and reduce dependence on foreign companies like Google, citing privacy and...",
-            "url": "https://www.devdiscourse.com/article/technology/3849900-indias-call-for-digital-independence-neeraj-dangi-advocates-for-indigenous-search-engine"
-        },
-        {
-            "title": "Smart meters are vulnerable gateways to cyberattacks",
-            "description": "[PV MAGAZINE] Researchers found that widely deployed smart meters pose a \u201cmassive\u201d cybersecurity risk, potentially enabling data manipulation, energy theft, and service disruption. They propose a new detection...",
-            "url": "https://www.pv-magazine.com/2026/03/25/smart-meters-are-vulnerable-gateways-to-cyberattacks/"
-        },
-        {
-            "title": "Iconsys launches dedicated cybersecurity service",
-            "description": "[SHROPSHIRE STAR] An automation firm has launched a new cybersecurity service and won deals with leading businesses in the sector.",
-            "url": "https://www.shropshirestar.com/news/business/2026/03/25/iconsys-launches-dedicated-cybersecurity-service/"
-        },
-        {
-            "title": "Pentagon calls cybersecurity, digital networks a war weapon",
-            "description": "[LOKMAT TIMES] Pentagon calls cybersecurity, digital networks a war weapon - Washington, March 25, The Pentagon declared cybersecurity and digital networks as central to modern warfare, telling lawmakers that ......",
-            "url": "https://www.lokmattimes.com/international/pentagon-calls-cybersecurity-digital-networks-a-war-weapon/"
-        },
-        {
-            "title": "Fire at Kuwait airport after drones hit fuel tank: aviation agency",
-            "description": "[MALAYALA MANORAMA] No casualties were reported..Kuwait airport drone attack, drone hits fuel tank Kuwait, Kuwait International Airport incident, airport security drone threat, aviation safety Kuwait, Middle East...",
-            "url": "https://www.onmanorama.com/news/world/2026/03/25/kuwait-airport-hit-by-iran-drones-fuel-tank-damaged.html"
-        },
-        {
-            "title": "Trend Micro\u2019s enterprise business is now TrendAI",
-            "description": "[ITWIRE] New identity for solving enterprise challenges reflects company\u2019s evolution and AI leadership The global leader in AI cybersecurity has adopted a name...",
-            "url": "https://itwire.com/business-it-news/security/trend-micro%e2%80%99s-enterprise-business-is-now-trendai-202603250111.html"
-        },
-        {
-            "title": "ZachXBT Reports Russian OTC Broker Allegedly Laundered $4.7M+ in Crypto",
-            "description": "[COINGAPE] ZachXBT reports a Russian OTC broker allegedly laundered $4.7M+ via cross-chain crypto flows and ransomware links.",
-            "url": "https://coingape.com/zachxbt-reports-russian-otc-broker-allegedly-laundered-4-7m-in-crypto/"
-        },
-        {
-            "title": "Databricks introduces Lakewatch SIEM, acquires two cybersecurity startups",
-            "description": "[SILICONANGLE NEWS] Databricks introduces Lakewatch SIEM, acquires two cybersecurity startups - SiliconANGLE",
-            "url": "https://siliconangle.com/2026/03/24/databricks-introduces-lakewatch-siem-acquires-two-cybersecurity-startups/"
         }
     ]
 }
