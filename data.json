@@ -1,5 +1,5 @@
 {
-    "updated": "2026-03-27 16:43:06 UTC",
+    "updated": "2026-03-27 18:43:34 UTC",
     "news": [
         {
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
@@ -22,6 +22,16 @@
             "url": "https://www.cisa.gov/news-events/alerts/2026/03/19/cisa-adds-one-known-exploited-vulnerability-catalog"
         },
         {
+            "title": "Apple Sends Lock Screen Alerts to Outdated iPhones Over Active Web-Based Exploits",
+            "description": "[FEEDS.FEEDBURNER.COM] Apple is now sending Lock Screen notifications to iPhones and iPads running older versions of iOS and iPadOS to alert users of web-based attacks and urge them to install the update. The development...",
+            "url": "https://thehackernews.com/2026/03/apple-sends-lock-screen-alerts-to.html"
+        },
+        {
+            "title": "TeamPCP Pushes Malicious Telnyx Versions to PyPI, Hides Stealer in WAV Files",
+            "description": "[FEEDS.FEEDBURNER.COM] TeamPCP, the threat actor behind the supply chain attack targeting Trivy, KICS, and litellm, has now compromised the telnyx Python package by pushing two malicious versions to steal sensitive data....",
+            "url": "https://thehackernews.com/2026/03/teampcp-pushes-malicious-telnyx.html"
+        },
+        {
             "title": "Open VSX Bug Let Malicious VS Code Extensions Bypass Pre-Publish Security Checks",
             "description": "[FEEDS.FEEDBURNER.COM] Cybersecurity researchers have disclosed details of a now-patched bug impacting Open VSX's pre-publish scanning pipeline to cause the tool to allow a malicious Microsoft Visual Studio Code (VS Code)...",
             "url": "https://thehackernews.com/2026/03/open-vsx-bug-let-malicious-vs-code.html"
@@ -37,14 +47,9 @@
             "url": "https://thehackernews.com/2026/03/we-are-at-war.html"
         },
         {
-            "title": "Bearlyfy Hits Russian Firms with Custom GenieLocker Ransomware",
-            "description": "[FEEDS.FEEDBURNER.COM] A pro-Ukrainian group called Bearlyfy has been attributed to more than 70 cyber attacks targeting Russian companies since it first surfaced in the threat landscape in January 2025, with recent...",
-            "url": "https://thehackernews.com/2026/03/bearlyfy-hits-70-russian-firms-with.html"
-        },
-        {
-            "title": "LangChain, LangGraph Flaws Expose Files, Secrets, Databases in Widely Used AI Frameworks",
-            "description": "[FEEDS.FEEDBURNER.COM] Cybersecurity researchers have disclosed three security vulnerabilities impacting LangChain and LangGraph that, if successfully exploited, could expose filesystem data, environment secrets, and...",
-            "url": "https://thehackernews.com/2026/03/langchain-langgraph-flaws-expose-files.html"
+            "title": "Fake VS Code alerts on GitHub spread malware to developers",
+            "description": "[BLEEPINGCOMPUTER.COM] A large-scale campaign is targeting developers on GitHub with fake Visual Studio Code (VS Code) security alerts posted in the Discussions section of various projects, to trick users into downloading...",
+            "url": "https://www.bleepingcomputer.com/news/security/fake-vs-code-alerts-on-github-spread-malware-to-developers/"
         },
         {
             "title": "Agentic GRC: Teams Get the Tech. The Mindset Shift Is What's Missing.",
@@ -53,7 +58,7 @@
         },
         {
             "title": "European Commission investigating breach after Amazon cloud account hack",
-            "description": "[BLEEPINGCOMPUTER.COM] The European Commission, the European Union's main executive body, is investigating a security breach after a threat actor gained access to its Amazon cloud infrastructure. [...]",
+            "description": "[BLEEPINGCOMPUTER.COM] The European Commission, the European Union's main executive body, is investigating a security breach after a threat actor gained access to the Commission's Amazon cloud environment. [...]",
             "url": "https://www.bleepingcomputer.com/news/security/european-commission-investigating-breach-after-amazon-cloud-account-hack/"
         },
         {
@@ -67,14 +72,34 @@
             "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5079391-update-rolls-out-smart-app-control-improvements/"
         },
         {
-            "title": "Dutch Police discloses security breach after phishing attack",
-            "description": "[BLEEPINGCOMPUTER.COM] The Dutch National Police (Politie) says a security breach resulting from a successful phishing attack has had a limited impact and hasn't affected citizens' data. [...]",
-            "url": "https://www.bleepingcomputer.com/news/security/dutch-police-discloses-security-breach-after-phishing-attack/"
-        },
-        {
             "title": "CISA Adds Five Known Exploited Vulnerabilities to Catalog",
             "description": "[CISA.GOV] CISA has added five new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-31277 Apple Multiple Products Buffer Overflow...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/03/20/cisa-adds-five-known-exploited-vulnerabilities-catalog"
+        },
+        {
+            "title": "Cyble Triumphs in Cybersecurity Awards with AI-Powered Innovations",
+            "description": "[DEVDISCOURSE] Cyble, an AI-driven cybersecurity firm, received prestigious recognitions at the Cybersecurity Excellence Awards and Global InfoSec Awards 2026, highlighting its innovation in threat intelligence....",
+            "url": "https://www.devdiscourse.com/article/technology/3852474-cyble-triumphs-in-cybersecurity-awards-with-ai-powered-innovations"
+        },
+        {
+            "title": "Cyble Secures Dual Industry Honors with Major Wins at Global InfoSec Awards 2026 and Cybersecurity Excellence Awards",
+            "description": "[THE TRIBUNE] CUPERTINO, Calif., March 26, 2026 /PRNewswire/ -- Cyble, a global leader in AI-powered cybersecurity solutions, announced major recognition across two of the industry's most prestigious award...",
+            "url": "https://www.tribuneindia.com/news/business/cyble-secures-dual-industry-honors-with-major-wins-at-global-infosec-awards-2026-and-cybersecurity-excellence-awards-2-2/"
+        },
+        {
+            "title": "Anthropic confirms testing most powerful AI yet after data leak",
+            "description": "[INDIA TODAY] Anthropic has confirmed that it is testing \u201cClaude Mythos\u201d, its most powerful AI model yet, after a data leak revealed a blog post stating that the new model could open a pandora\u2019s box for...",
+            "url": "https://www.indiatoday.in/technology/news/story/anthropic-confirms-testing-most-powerful-ai-yet-after-data-leak-2887746-2026-03-27"
+        },
+        {
+            "title": "Anthropic\u2019s \u2018Claude Mythos\u2019 leak reveals powerful new AI model with serious cyber risks, report finds",
+            "description": "[FIRSTPOST] A data leak reviewed by Fortune has revealed Anthropic\u2019s most powerful AI model yet, raising concerns over cybersecurity threats and the potential misuse of advanced systems.",
+            "url": "https://www.firstpost.com/tech/anthropics-claude-mythos-leak-reveals-powerful-new-ai-model-with-serious-cyber-risks-report-finds-13993692.html"
+        },
+        {
+            "title": "Cyble Secures Dual Industry Honors with Major Wins at Global InfoSec Awards 2026 and Cybersecurity Excellence Awards",
+            "description": "[THE TRIBUNE] Cupertino (California) [US], March 27: Cyble, a global leader in AI-powered cybersecurity solutions, announced major recognition across two of the industry's most prestigious award programs. The...",
+            "url": "https://www.tribuneindia.com/news/business/cyble-secures-dual-industry-honors-with-major-wins-at-global-infosec-awards-2026-and-cybersecurity-excellence-awards/"
         },
         {
             "title": "Why cybersecurity certifications are now a business imperative",
@@ -100,31 +125,6 @@
             "title": "Apple made strides with iOS 26 security, but leaked hacking tools still leave millions exposed to spyware attacks",
             "description": "[TECHCRUNCH] Leaked hacking tools threaten the security of millions of older iPhones. Cybersecurity experts weigh in.",
             "url": "https://techcrunch.com/2026/03/26/apple-made-strides-with-ios-26-security-but-leaked-hacking-tools-still-leave-millions-exposed-to-spyware-attacks/"
-        },
-        {
-            "title": "driven than human? Report reveals the way forward",
-            "description": "[THE ECONOMIC TIMES] Per a report by cybersecurity firm HUMAN Security, in 2025, automated internet traffic grew 23.51% YoY, almost eight times faster than the 3.10% of human traffic. This follows the rise of GenAI...",
-            "url": "https://economictimes.indiatimes.com/tech/technology/is-internet-more-ai-driven-than-human-report-reveals-the-way-forward/articleshow/129830286.cms"
-        },
-        {
-            "title": "Accenture, Anthropic launch AI-powered cybersecurity",
-            "description": "[THE FINANCIAL EXPRESS] Accenture has introduced Cyber.AI, a cybersecurity solution utilizing Anthropic\u2019s Claude AI model, to aid in the shift towards AI-based security operations. The solution features exclusive AI agents,...",
-            "url": "https://www.financialexpress.com/shorts/technology/accenture-anthropic-launch-ai-powered-cybersecurity-4185276/"
-        },
-        {
-            "title": "Accenture, Anthropic launch AI-powered cybersecurity",
-            "description": "[THE FINANCIAL EXPRESS] Accenture has unveiled Cyber.AI, a revolutionary cybersecurity solution built on Anthropic\u2019s Claude AI.",
-            "url": "https://www.financialexpress.com/life/technology/accenture-anthropic-launch-ai-powered-cybersecuritynbsp/4185276/"
-        },
-        {
-            "title": "Germany classifies cybersecurity threats for energy infrastructure",
-            "description": "[PV MAGAZINE] Germany\u2019s Federal Network Agency will use a new, structured framework developed by Fraunhofer IOSB-AST to classify cybersecurity incidents in the energy sector. The methodology enables comprehensive...",
-            "url": "https://www.pv-magazine.com/2026/03/26/germany-classifies-cybersecurity-threats-for-energy-infrastructure/"
-        },
-        {
-            "title": "New smartphone setup guide: Turn on these safety features to protect your data",
-            "description": "[INDIA TV NEWS] Before using your new smartphone, it's important to enable key security features to protect your data and track your device in case of theft or loss. The government's cybersecurity body I4C has...",
-            "url": "https://www.indiatvnews.com/technology/news/new-smartphone-setup-guide-turn-on-these-safety-features-to-protect-your-data-2026-03-26-1035203"
         }
     ]
 }
