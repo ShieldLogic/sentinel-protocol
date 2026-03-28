@@ -1,5 +1,5 @@
 {
-    "updated": "2026-03-28 08:28:23 UTC",
+    "updated": "2026-03-28 10:22:50 UTC",
     "news": [
         {
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
@@ -17,14 +17,19 @@
             "url": "https://www.cisa.gov/news-events/alerts/2026/03/19/cisa-adds-one-known-exploited-vulnerability-catalog"
         },
         {
-            "title": "TA446 Deploys Leaked DarkSword iOS Exploit Kit in Targeted Spear-Phishing Campaign",
-            "description": "[FEEDS.FEEDBURNER.COM] Proofpoint has disclosed details of a targeted email campaign in which threat actors with ties to Russia are leveraging the recently disclosed DarkSword exploit kit to target iOS devices. The...",
-            "url": "https://thehackernews.com/2026/03/ta446-deploys-leaked-darksword-ios.html"
+            "title": "Citrix NetScaler Under Active Recon for CVE-2026-3055 (CVSS 9.3) Memory Overread Bug",
+            "description": "[FEEDS.FEEDBURNER.COM] A recently disclosed critical security flaw impacting Citrix NetScaler ADC and NetScaler Gateway is witnessing active reconnaissance activity, according to Defused Cyber and watchTowr. The...",
+            "url": "https://thehackernews.com/2026/03/citrix-netscaler-under-active-recon-for.html"
         },
         {
             "title": "CISA Adds CVE-2025-53521 to KEV After Active F5 BIG-IP APM Exploitation",
             "description": "[FEEDS.FEEDBURNER.COM] The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a critical security flaw impacting F5 BIG-IP Access Policy Manager (APM) to its Known Exploited Vulnerabilities (KEV)...",
             "url": "https://thehackernews.com/2026/03/cisa-adds-cve-2025-53521-to-kev-after.html"
+        },
+        {
+            "title": "TA446 Deploys DarkSword iOS Exploit Kit in Targeted Spear-Phishing Campaign",
+            "description": "[FEEDS.FEEDBURNER.COM] Proofpoint has disclosed details of a targeted email campaign in which threat actors with ties to Russia are leveraging the recently disclosed DarkSword exploit kit to target iOS devices. The...",
+            "url": "https://thehackernews.com/2026/03/ta446-deploys-leaked-darksword-ios.html"
         },
         {
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
@@ -40,11 +45,6 @@
             "title": "TeamPCP Pushes Malicious Telnyx Versions to PyPI, Hides Stealer in WAV Files",
             "description": "[FEEDS.FEEDBURNER.COM] TeamPCP, the threat actor behind the supply chain attack targeting Trivy, KICS, and litellm, has now compromised the telnyx Python package by pushing two malicious versions to steal sensitive data....",
             "url": "https://thehackernews.com/2026/03/teampcp-pushes-malicious-telnyx.html"
-        },
-        {
-            "title": "Open VSX Bug Let Malicious VS Code Extensions Bypass Pre-Publish Security Checks",
-            "description": "[FEEDS.FEEDBURNER.COM] Cybersecurity researchers have disclosed details of a now-patched bug impacting Open VSX's pre-publish scanning pipeline to cause the tool to allow a malicious Microsoft Visual Studio Code (VS Code)...",
-            "url": "https://thehackernews.com/2026/03/open-vsx-bug-let-malicious-vs-code.html"
         },
         {
             "title": "Backdoored Telnyx PyPI package pushes malware hidden in WAV audio",
