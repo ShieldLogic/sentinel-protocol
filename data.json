@@ -1,5 +1,5 @@
 {
-    "updated": "2026-03-30 20:35:42 UTC",
+    "updated": "2026-03-30 22:25:39 UTC",
     "news": [
         {
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
@@ -42,6 +42,16 @@
             "url": "https://thehackernews.com/2026/03/russian-ctrl-toolkit-delivered-via.html"
         },
         {
+            "title": "Healthcare tech firm CareCloud says hackers stole patient data",
+            "description": "[BLEEPINGCOMPUTER.COM] Healthcare IT firm CareCloud has disclosed a data breach incident that exposed sensitive data and caused a network disruption lasting approximately eight hours. [...]",
+            "url": "https://www.bleepingcomputer.com/news/security/healthcare-tech-firm-carecloud-says-hackers-stole-patient-data/"
+        },
+        {
+            "title": "New RoadK1ll WebSocket implant used to pivot on breached networks",
+            "description": "[BLEEPINGCOMPUTER.COM] A newly identified malicious implant named RoadK1ll is enabling threat actors to quietly move from a compromised host to other systems on the network. [...]",
+            "url": "https://www.bleepingcomputer.com/news/security/new-roadk1ll-websocket-implant-used-to-pivot-on-breached-networks/"
+        },
+        {
             "title": "Critical Citrix NetScaler memory flaw actively exploited in attacks",
             "description": "[BLEEPINGCOMPUTER.COM] Hackers are exploiting a critical severity vulnerability, tracked as CVE-2026-3055, in Citrix NetScaler ADC and NetScaler Gateway appliances to obtain sensitive data. [...]",
             "url": "https://www.bleepingcomputer.com/news/security/critical-citrix-netscaler-memory-flaw-actively-exploited-in-attacks/"
@@ -57,16 +67,6 @@
             "url": "https://www.bleepingcomputer.com/news/security/how-to-evaluate-ai-soc-agents-7-questions-gartner-says-you-should-be-asking/"
         },
         {
-            "title": "Hackers now exploit critical F5 BIG-IP flaw in attacks, patch now",
-            "description": "[BLEEPINGCOMPUTER.COM] F5 has reclassified a BIG-IP APM denial-of-service (DoS) vulnerability as a critical-severity remote code execution (RCE) flaw, warning that attackers are exploiting it to deploy webshells on...",
-            "url": "https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-f5-big-ip-flaw-in-attacks-patch-now/"
-        },
-        {
-            "title": "Microsoft pulls KB5079391 Windows update over install issues",
-            "description": "[BLEEPINGCOMPUTER.COM] Microsoft has pulled a buggy Windows 11 non-security preview update to investigate a known issue that triggers 0x80073712 errors during installation. [...]",
-            "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-pulls-windows-kb5079391-update-over-0x80073712-install-errors/"
-        },
-        {
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
             "description": "[CISA.GOV] CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-53521 F5 BIG-IP Remote Code Execution Vulnerability This...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/03/27/cisa-adds-one-known-exploited-vulnerability-catalog"
@@ -75,6 +75,11 @@
             "title": "CISA Adds Five Known Exploited Vulnerabilities to Catalog",
             "description": "[CISA.GOV] CISA has added five new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-31277 Apple Multiple Products Buffer Overflow...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/03/20/cisa-adds-five-known-exploited-vulnerabilities-catalog"
+        },
+        {
+            "title": "India Bans Chinese CCTV Makers Amid Security Concern; Move To Aid Domestic Industry",
+            "description": "[NDTV PROFIT] India has banned several Chinese CCTV makers from April 2026, enforcing strict certification rules to boost cybersecurity and oversight. The move favours domestic firms but may raise prices and cause...",
+            "url": "https://www.ndtvprofit.com/business/india-bans-chinese-cctv-makers-to-boost-security-and-domestic-industry-11285293"
         },
         {
             "title": "What Is Anthropic\u2019s Claude Mythos & Why Is It Raising Cyber Risk Concerns? Read Here",
@@ -120,11 +125,6 @@
             "title": "New study finds work-based learning key to closing the cybersecurity skills gap",
             "description": "[PHYS.ORG] As the demand for cybersecurity professionals continues to rise, new research from the University of South Florida identified a growing interest among higher education institutions to incorporate...",
             "url": "https://phys.org/news/2026-03-based-key-cybersecurity-skills-gap.html"
-        },
-        {
-            "title": "What is Anthropic Claude Mythos? Everything to know about viral leaked AI model that set alarms in cybersecurity",
-            "description": "[THE FINANCIAL EXPRESS] In an official statement, Anthropic confirmed that the exposure was unintentional and attributed it to a misconfiguration rather than a sophisticated breach.",
-            "url": "https://www.financialexpress.com/life/technology-what-is-anthropic-claude-mythos-everything-to-know-about-viral-leaked-ai-model-that-set-alarms-in-cybersecurity-4187074/"
         }
     ]
 }
