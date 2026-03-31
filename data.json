@@ -1,5 +1,5 @@
 {
-    "updated": "2026-03-31 12:55:18 UTC",
+    "updated": "2026-03-31 14:54:46 UTC",
     "news": [
         {
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
@@ -7,9 +7,9 @@
             "url": "https://www.cisa.gov/news-events/alerts/2026/03/25/cisa-adds-one-known-exploited-vulnerability-catalog"
         },
         {
-            "title": "Silver Fox Expands Asia Cyber Campaign with AtlasCross RAT and Fake Domains",
-            "description": "[FEEDS.FEEDBURNER.COM] Chinese-speaking users are the target of an active campaign that uses typosquatted domains impersonating trusted software brands to deliver a previously undocumented remote access trojan named...",
-            "url": "https://thehackernews.com/2026/03/silver-fox-expands-asia-cyber-campaign.html"
+            "title": "Vertex AI Vulnerability Exposes Google Cloud Data and Private Artifacts",
+            "description": "[FEEDS.FEEDBURNER.COM] Cybersecurity researchers have disclosed a security \"blind spot\" in Google Cloud's Vertex AI platform that could allow artificial intelligence (AI) agents to be weaponized by an attacker to gain...",
+            "url": "https://thehackernews.com/2026/03/vertex-ai-vulnerability-exposes-google.html"
         },
         {
             "title": "The AI Arms Race \u2013 Why Unified Exposure Management Is Becoming a Boardroom Priority",
@@ -17,9 +17,24 @@
             "url": "https://thehackernews.com/2026/03/the-ai-arms-race-why-unified-exposure.html"
         },
         {
+            "title": "Silver Fox Expands Asia Cyber Campaign with AtlasCross RAT and Fake Domains",
+            "description": "[FEEDS.FEEDBURNER.COM] Chinese-speaking users are the target of an active campaign that uses typosquatted domains impersonating trusted software brands to deliver a previously undocumented remote access trojan named...",
+            "url": "https://thehackernews.com/2026/03/silver-fox-expands-asia-cyber-campaign.html"
+        },
+        {
             "title": "Axios Supply Chain Attack Pushes Cross-Platform RAT via Compromised npm Account",
             "description": "[FEEDS.FEEDBURNER.COM] The popular HTTP client known as Axios has suffered a supply chain attack after two newly published versions of the npm package introduced a malicious dependency that delivers a trojan capable of...",
             "url": "https://thehackernews.com/2026/03/axios-supply-chain-attack-pushes-cross.html"
+        },
+        {
+            "title": "How to Categorize AI Agents and Prioritize Risk",
+            "description": "[BLEEPINGCOMPUTER.COM] AI agent risk isn't equal, it scales with access to systems and level of autonomy. Token Security explains how CISOs should categorize agents and prioritize what to secure first. [...]",
+            "url": "https://www.bleepingcomputer.com/news/security/how-to-categorize-ai-agents-and-prioritize-risk/"
+        },
+        {
+            "title": "Hackers compromise Axios npm package to drop cross-platform malware",
+            "description": "[BLEEPINGCOMPUTER.COM] Hackers hijacked the npm account of the Axios package, a JavaScript HTTP client with 100M+ weekly downloads, to deliver remote access trojans to Linux, Windows, and macOS systems. [...]",
+            "url": "https://www.bleepingcomputer.com/news/security/hackers-compromise-axios-npm-package-to-drop-cross-platform-malware/"
         },
         {
             "title": "Microsoft fixes Outlook Classic crashes caused by Teams Meeting add-in",
@@ -37,11 +52,6 @@
             "url": "https://www.bleepingcomputer.com/news/security/dutch-finance-ministry-takes-treasury-banking-portal-offline-after-breach/"
         },
         {
-            "title": "CISA orders feds to patch actively exploited Citrix flaw by Thursday",
-            "description": "[BLEEPINGCOMPUTER.COM] The U.S. Cybersecurity and Infrastructure Security Agency (CISA) ordered government agencies to patch their Citrix NetScaler appliances against an actively exploited vulnerability by Thursday. [...]",
-            "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-citrix-flaw-by-thursday/"
-        },
-        {
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
             "description": "[CISA.GOV] CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-33634 Aqua Security Trivy Embedded Malicious Code...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/03/26/cisa-adds-one-known-exploited-vulnerability-catalog"
@@ -57,16 +67,6 @@
             "url": "https://thehackernews.com/2026/03/openai-patches-chatgpt-data.html"
         },
         {
-            "title": "DeepLoad Malware Uses ClickFix and WMI Persistence to Steal Browser Credentials",
-            "description": "[FEEDS.FEEDBURNER.COM] A new campaign has leveraged the ClickFix social engineering tactic as a way to distribute a previously undocumented malware loader referred to as DeepLoad. \"It likely uses AI-assisted obfuscation...",
-            "url": "https://thehackernews.com/2026/03/deepload-malware-uses-clickfix-and-wmi.html"
-        },
-        {
-            "title": "Healthcare tech firm CareCloud says hackers stole patient data",
-            "description": "[BLEEPINGCOMPUTER.COM] Healthcare IT firm CareCloud has disclosed a data breach incident that exposed sensitive data and caused a network disruption lasting approximately eight hours. [...]",
-            "url": "https://www.bleepingcomputer.com/news/security/healthcare-tech-firm-carecloud-says-hackers-stole-patient-data/"
-        },
-        {
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
             "description": "[CISA.GOV] CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-53521 F5 BIG-IP Remote Code Execution Vulnerability This...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/03/27/cisa-adds-one-known-exploited-vulnerability-catalog"
@@ -75,6 +75,16 @@
             "title": "CISA Adds Five Known Exploited Vulnerabilities to Catalog",
             "description": "[CISA.GOV] CISA has added five new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-31277 Apple Multiple Products Buffer Overflow...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/03/20/cisa-adds-five-known-exploited-vulnerabilities-catalog"
+        },
+        {
+            "title": "Fact Check Team: Kash Patel's email hack highlights larger cybersecurity risks",
+            "description": "[WJLA] An Iran-linked hacking group claims it breached the personal email of FBI Director Kash Patel and released some of the material online.",
+            "url": "https://wjla.com/news/nation-world/fact-check-team-kash-patels-email-hack-highlights-larger-cybersecurity-risks-fbi-officials"
+        },
+        {
+            "title": "Fact Check Team: Kash Patel's email hack highlights larger cybersecurity risks",
+            "description": "[BALTIMORE NEWS] An Iran-linked hacking group claims it breached the personal email of FBI Director Kash Patel and released some of the material online.",
+            "url": "https://foxbaltimore.com/news/nation-world/fact-check-team-kash-patels-email-hack-highlights-larger-cybersecurity-risks-fbi-officials"
         },
         {
             "title": "Google Drive has some new tricks to help deal with ransomware",
@@ -115,16 +125,6 @@
             "title": "Palo Alto stock pops as CEO Arora buys stock for first time in years",
             "description": "[CNBC] Cybersecurity stocks have plunged this year on worries that AI will disrupt their business models.",
             "url": "https://www.cnbc.com/2026/03/30/palo-alto-stock-nikesh-arora-buys-shares.html"
-        },
-        {
-            "title": "Hacker takes over Upstate NY school's Facebook page, posts \u2018inappropriate\u2019 sitcom videos",
-            "description": "[SYRACUSE.COM] The FBI and Troop G Cybersecurity Crime units are investigating the breach.",
-            "url": "https://www.syracuse.com/news/2026/03/hacker-takes-over-upstate-ny-schools-facebook-page-posts-inappropriate-videos-from-2000s-sitcom.html"
-        },
-        {
-            "title": "Why our cybersecurity stocks are rebounding after getting hammered last week",
-            "description": "[CNBC] The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
-            "url": "https://www.cnbc.com/2026/03/30/why-our-cybersecurity-stocks-are-rebounding-after-getting-hammered-last-week-.html"
         }
     ]
 }
