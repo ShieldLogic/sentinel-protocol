@@ -1,5 +1,5 @@
 {
-    "updated": "2026-04-01 12:56:36 UTC",
+    "updated": "2026-04-01 14:57:16 UTC",
     "news": [
         {
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
@@ -7,19 +7,34 @@
             "url": "https://www.cisa.gov/news-events/alerts/2026/03/25/cisa-adds-one-known-exploited-vulnerability-catalog"
         },
         {
+            "title": "Microsoft Warns of WhatsApp-Delivered VBS Malware Hijacking Windows via UAC Bypass",
+            "description": "[FEEDS.FEEDBURNER.COM] Microsoft is calling attention to a new campaign that has leveraged WhatsApp messages to distribute malicious Visual Basic Script (VBS) files. The activity, beginning in late February 2026, leverages...",
+            "url": "https://thehackernews.com/2026/04/microsoft-warns-of-whatsapp-delivered.html"
+        },
+        {
+            "title": "Block the Prompt, Not the Work: The End of \"Doctor No\"",
+            "description": "[FEEDS.FEEDBURNER.COM] There is a character that keeps appearing in enterprise security departments, and most CISOs know exactly who that is. It doesn&rsquo;t build. It doesn&rsquo;t enable. Its entire function is to say...",
+            "url": "https://thehackernews.com/2026/04/block-prompt-not-work-end-of-doctor-no.html"
+        },
+        {
+            "title": "Casbaneiro Phishing Targets Latin America and Europe Using Dynamic PDF Lures",
+            "description": "[FEEDS.FEEDBURNER.COM] A multi-pronged phishing campaign is targeting Spanish-speaking users in organizations across Latin America and Europe to deliver Windows banking trojans like Casbaneiro (aka Metamorfo) via another...",
+            "url": "https://thehackernews.com/2026/04/casbaneiro-phishing-targets-latin.html"
+        },
+        {
+            "title": "New Chrome Zero-Day CVE-2026-5281 Under Active Exploitation \u2014 Patch Released",
+            "description": "[FEEDS.FEEDBURNER.COM] Google on Thursday released security updates for its Chrome web browser to address 21 vulnerabilities, including a zero-day flaw that it said has been exploited in the wild. The high-severity...",
+            "url": "https://thehackernews.com/2026/04/new-chrome-zero-day-cve-2026-5281-under.html"
+        },
+        {
             "title": "3 Reasons Attackers Are Using Your Trusted Tools Against You (And Why You Don\u2019t See It Coming)",
             "description": "[FEEDS.FEEDBURNER.COM] For years, cybersecurity has followed a familiar model: block malware, stop the attack. Now, attackers are moving on to what\u2019s next. Threat actors now use malware less frequently in favor of what\u2019s...",
             "url": "https://thehackernews.com/2026/04/3-reasons-attackers-are-using-your.html"
         },
         {
-            "title": "Google Attributes Axios npm Supply Chain Attack to North Korean Group UNC1069",
-            "description": "[FEEDS.FEEDBURNER.COM] Google has formally attributed the supply chain compromise of the popular Axios npm package to a financially motivated North Korean threat activity cluster tracked as UNC1069. \"We have attributed the...",
-            "url": "https://thehackernews.com/2026/04/google-attributes-axios-npm-supply.html"
-        },
-        {
-            "title": "Claude Code Source Leaked via npm Packaging Error, Anthropic Confirms",
-            "description": "[FEEDS.FEEDBURNER.COM] Anthropic on Tuesday confirmed that internal code for its popular artificial intelligence (AI) coding assistant, Claude Code, had been inadvertently released due to a human error. \"No sensitive...",
-            "url": "https://thehackernews.com/2026/04/claude-code-tleaked-via-npm-packaging.html"
+            "title": "Routine Access Is Powering Modern Intrusions, a New Threat Report Finds",
+            "description": "[BLEEPINGCOMPUTER.COM] Modern intrusions increasingly start with valid credentials and routine access, not exploits. Blackpoint Cyber's upcoming threat report shows how VPN abuse, RMM tools, and social engineering drive...",
+            "url": "https://www.bleepingcomputer.com/news/security/routine-access-is-powering-modern-intrusions-a-new-threat-report-finds/"
         },
         {
             "title": "FBI warns against using Chinese mobile apps due to privacy risks",
@@ -42,21 +57,6 @@
             "url": "https://www.bleepingcomputer.com/news/microsoft/new-windows-11-kb5086672-emergency-update-fixes-install-issues/"
         },
         {
-            "title": "Android Developer Verification Rollout Begins Ahead of September Enforcement",
-            "description": "[FEEDS.FEEDBURNER.COM] Google on Monday said it's officially rolling out Android developer verification to all developers to combat the problem of bad actors distributing harmful apps while \"hiding behind anonymity.\" The...",
-            "url": "https://thehackernews.com/2026/03/android-developer-verification-rollout.html"
-        },
-        {
-            "title": "TrueConf Zero-Day Exploited in Attacks on Southeast Asian Government Networks",
-            "description": "[FEEDS.FEEDBURNER.COM] A high-severity security flaw in the TrueConf client video conferencing software has been exploited in the wild as a zero-day as part of a campaign targeting government entities in Southeast Asia...",
-            "url": "https://thehackernews.com/2026/03/trueconf-zero-day-exploited-in-attacks.html"
-        },
-        {
-            "title": "Claude Code source code accidentally leaked in NPM package",
-            "description": "[BLEEPINGCOMPUTER.COM] Anthropic says it accidentally leaked the source code for Claude Code, which is closed source, but the company says no customer data or credentials were exposed. [...]",
-            "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-code-source-code-accidentally-leaked-in-npm-package/"
-        },
-        {
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
             "description": "[CISA.GOV] CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-33634 Aqua Security Trivy Embedded Malicious Code...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/03/26/cisa-adds-one-known-exploited-vulnerability-catalog"
@@ -75,6 +75,11 @@
             "title": "CISA Adds Five Known Exploited Vulnerabilities to Catalog",
             "description": "[CISA.GOV] CISA has added five new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-31277 Apple Multiple Products Buffer Overflow...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/03/20/cisa-adds-five-known-exploited-vulnerabilities-catalog"
+        },
+        {
+            "title": "Toyota's Woven Capital appoints new CIO and COO in push for finding the 'future of mobility'",
+            "description": "[TECHCRUNCH] Woven Capital is the growth-stage venture capital arm of Toyota, focused on backing founders building in space, cybersecurity, and autonomous driving.",
+            "url": "https://techcrunch.com/2026/03/31/toyotas-woven-capital-appoints-new-cio-and-coo-in-push-for-finding-the-future-of-mobility/"
         },
         {
             "title": "Cyber resilience turns a boardroom priority: Rubrik CTO Arvind Nithrakashyap",
@@ -120,11 +125,6 @@
             "title": "Cato Networks Unveils Modular Adoption Model for AI-Native Cybersecurity Platform",
             "description": "[PR NEWSWIRE UK] /PRNewswire/ -- Cato Networks, delivering the leading converged cybersecurity platform for the AI era, today announced a new modular adoption model for the...",
             "url": "https://www.prnewswire.co.uk/news-releases/cato-networks-unveils-modular-adoption-model-for-ai-native-cybersecurity-platform-302729267.html"
-        },
-        {
-            "title": "Google Drive just rolled out new tools to protect you from ransomware - here's how they work",
-            "description": "[TOM'S GUIDE] Google Drive has just rolled out free ransomware protection for desktop users, keeping you alerted to potential attacks and making sure you can get your files back.",
-            "url": "https://www.tomsguide.com/computing/malware-adware/google-drive-just-rolled-out-new-tools-to-protect-you-from-ransomware-heres-how-they-work"
         }
     ]
 }
