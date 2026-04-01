@@ -1,5 +1,5 @@
 {
-    "updated": "2026-03-31 22:25:19 UTC",
+    "updated": "2026-04-01 01:44:59 UTC",
     "news": [
         {
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
@@ -17,9 +17,29 @@
             "url": "https://thehackernews.com/2026/03/trueconf-zero-day-exploited-in-attacks.html"
         },
         {
+            "title": "Claude Code source code accidentally leaked in NPM package",
+            "description": "[BLEEPINGCOMPUTER.COM] Anthropic says it accidentally leaked the source code for Claude Code, which is closed source, but the company says no customer data or credentials were exposed. [...]",
+            "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-code-source-code-accidentally-leaked-in-npm-package/"
+        },
+        {
+            "title": "Google now allows you to change your @gmail.com address",
+            "description": "[BLEEPINGCOMPUTER.COM] Google is rolling out a new feature in the U.S. that allows users to change their @gmail address or create a new alias. [...]",
+            "url": "https://www.bleepingcomputer.com/news/google/google-now-allows-you-to-change-your-gmailcom-address/"
+        },
+        {
+            "title": "Proton launches new \"Meet\" privacy-focused conferencing platform",
+            "description": "[BLEEPINGCOMPUTER.COM] Proton has announced a new video conferencing service named Meet and positioned it as a privacy-focused alternative to mainstream services like Google Meet, Zoom, and Microsoft Teams. [...]",
+            "url": "https://www.bleepingcomputer.com/news/security/proton-launches-new-meet-privacy-focused-conferencing-platform/"
+        },
+        {
             "title": "Vertex AI Vulnerability Exposes Google Cloud Data and Private Artifacts",
             "description": "[FEEDS.FEEDBURNER.COM] Cybersecurity researchers have disclosed a security \"blind spot\" in Google Cloud's Vertex AI platform that could allow artificial intelligence (AI) agents to be weaponized by an attacker to gain...",
             "url": "https://thehackernews.com/2026/03/vertex-ai-vulnerability-exposes-google.html"
+        },
+        {
+            "title": "GIGABYTE Control Center vulnerable to arbitrary file write flaw",
+            "description": "[BLEEPINGCOMPUTER.COM] The GIGABYTE Control Center is vulnerable to an arbitrary file-write flaw that could allow a remote, unauthenticated attacker to access files on vulnerable hosts. [...]",
+            "url": "https://www.bleepingcomputer.com/news/security/gigabyte-control-center-vulnerable-to-arbitrary-file-write-flaw/"
         },
         {
             "title": "Claude AI finds Vim, Emacs RCE bugs that trigger on file open",
@@ -35,26 +55,6 @@
             "title": "Silver Fox Expands Asia Cyber Campaign with AtlasCross RAT and Fake Domains",
             "description": "[FEEDS.FEEDBURNER.COM] Chinese-speaking users are the target of an active campaign that uses typosquatted domains impersonating trusted software brands to deliver a previously undocumented remote access trojan named...",
             "url": "https://thehackernews.com/2026/03/silver-fox-expands-asia-cyber-campaign.html"
-        },
-        {
-            "title": "Cisco source code stolen in Trivy-linked dev environment breach",
-            "description": "[BLEEPINGCOMPUTER.COM] Cisco has suffered a cyberattack after threat actors used stolen credentials from the recent Trivy supply chain attack to breach its internal development environment and steal source code belonging...",
-            "url": "https://www.bleepingcomputer.com/news/security/cisco-source-code-stolen-in-trivy-linked-dev-environment-breach/"
-        },
-        {
-            "title": "How to Categorize AI Agents and Prioritize Risk",
-            "description": "[BLEEPINGCOMPUTER.COM] AI agent risk isn't equal, it scales with access to systems and level of autonomy. Token Security explains how CISOs should categorize agents and prioritize what to secure first. [...]",
-            "url": "https://www.bleepingcomputer.com/news/security/how-to-categorize-ai-agents-and-prioritize-risk/"
-        },
-        {
-            "title": "Hackers compromise Axios npm package to drop cross-platform malware",
-            "description": "[BLEEPINGCOMPUTER.COM] Hackers hijacked the npm account of the Axios package, a JavaScript HTTP client with 100M+ weekly downloads, to deliver remote access trojans to Linux, Windows, and macOS systems. [...]",
-            "url": "https://www.bleepingcomputer.com/news/security/hackers-compromise-axios-npm-package-to-drop-cross-platform-malware/"
-        },
-        {
-            "title": "Microsoft fixes Outlook Classic crashes caused by Teams Meeting add-in",
-            "description": "[BLEEPINGCOMPUTER.COM] \u200bMicrosoft has resolved a known issue that rendered the classic Outlook email client unusable for users who enabled the Microsoft Teams Meeting Add-in. [...]",
-            "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-outlook-classic-crashes-caused-by-teams-meeting-add-in/"
         },
         {
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
@@ -75,6 +75,31 @@
             "title": "CISA Adds Five Known Exploited Vulnerabilities to Catalog",
             "description": "[CISA.GOV] CISA has added five new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-31277 Apple Multiple Products Buffer Overflow...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/03/20/cisa-adds-five-known-exploited-vulnerabilities-catalog"
+        },
+        {
+            "title": "Cato Networks Unveils Modular Adoption Model for AI-Native Cybersecurity Platform",
+            "description": "[PR NEWSWIRE UK] /PRNewswire/ -- Cato Networks, delivering the leading converged cybersecurity platform for the AI era, today announced a new modular adoption model for the...",
+            "url": "https://www.prnewswire.co.uk/news-releases/cato-networks-unveils-modular-adoption-model-for-ai-native-cybersecurity-platform-302729267.html"
+        },
+        {
+            "title": "Google Drive just rolled out new tools to protect you from ransomware - here's how they work",
+            "description": "[TOM'S GUIDE] Google Drive has just rolled out free ransomware protection for desktop users, keeping you alerted to potential attacks and making sure you can get your files back.",
+            "url": "https://www.tomsguide.com/computing/malware-adware/google-drive-just-rolled-out-new-tools-to-protect-you-from-ransomware-heres-how-they-work"
+        },
+        {
+            "title": "Google Partner Tenex Raises $250 Million for AI Security Tools",
+            "description": "[BLOOMBERG] The funding round values the cybersecurity startup at more than $1 billion.",
+            "url": "https://www.bloomberg.com/news/articles/2026-03-31/google-partner-tenex-raises-250-million-for-ai-security-tools"
+        },
+        {
+            "title": "Why AI Risk Management Is Becoming a Core Priority for Enterprise Cybersecurity",
+            "description": "[TECHBULLION] Enterprise technology has entered a period of rapid transformation. Cloud platforms, data-driven applications, and artificial intelligence systems now power many of the services organizations rely on...",
+            "url": "https://techbullion.com/why-ai-risk-management-is-becoming-a-core-priority-for-enterprise-cybersecurity/"
+        },
+        {
+            "title": "Palo Alto CEO Nikesh Arora Warns OpenAI, Anthropic Models Could Boost Cyberattacks Within Six Months- 'Th",
+            "description": "[BENZINGA] Palo Alto CEO Nikesh Arora warns OpenAI, Anthropic AI could enable cyberattacks within six months, amid wider cybersecurity stocks sell-off.",
+            "url": "https://www.benzinga.com/markets/tech/26/03/51561985/palo-alto-nikesh-arora-warns-ai-may-slash-cyberattack-time-to-25-minutes-fight-ai-with-ai"
         },
         {
             "title": "AI, Cybersecurity, digital and data skills emerge as India\u2019s most critical future capabilities: NIIT India Skills Gap Report",
@@ -100,31 +125,6 @@
             "title": "AI, Cybersecurity, digital and data skills emerge as India\u2019s most critical future capabilities",
             "description": "[THE ECONOMIC TIMES] The study highlights a growing preference for certifications over degrees and emphasizes diversity-led skilling to address talent gaps. Organizations are boosting learning budgets and embracing...",
             "url": "https://economictimes.indiatimes.com/small-biz/entrepreneurship/ai-cybersecurity-digital-and-data-skills-emerge-as-indias-most-critical-future-capabilities/articleshow/129918585.cms"
-        },
-        {
-            "title": "U.S. national laboratories lead multi-agency push for solar cybersecurity standards",
-            "description": "[PV MAGAZINE] The U.S. Department of Energy is deploying a research framework across four national laboratories to harden the domestic power grid against digital vulnerabilities as solar deployment accelerates.",
-            "url": "https://www.pv-magazine.com/2026/03/31/u-s-national-laboratories-lead-multi-agency-push-for-solar-cybersecurity-standards/"
-        },
-        {
-            "title": "Will AI eliminate most tech jobs? Here are the 4 roles that will last and why",
-            "description": "[THE FINANCIAL EXPRESS] AI is reshaping the tech industry, leaving only four key roles in demand: product engineers, security experts, people-focused professionals, and legal-finance leaders. As automation rises, skills...",
-            "url": "https://www.financialexpress.com/life/technology-will-ai-eliminate-most-tech-jobs-here-are-the-4-roles-that-will-last-and-why-4190105/"
-        },
-        {
-            "title": "linked hackers breach FBI Director Kash Patel\u2019s personal emails, release decade",
-            "description": "[NATURAL NEWS] Pro-Palestinian hacking group Handala Hack Team successfully infiltrated Federal Bureau of Investigation (FBI) Director Kash Patel\u2019s personal Gmail account, leaking decade-old private photos and...",
-            "url": "https://www.naturalnews.com/2026-03-31-iran-linked-hackers-breach-patel-personal-emails.html"
-        },
-        {
-            "title": "Cyber Risks and Digital Fraud Emerge as Major Threats to Global Financial Stability",
-            "description": "[DEVDISCOURSE] Cyberattacks and digital fraud in the financial sector have surged with rapid digitalization, increasingly targeting banks, data systems, and payment networks while exposing systemic vulnerabilities....",
-            "url": "https://www.devdiscourse.com/article/other/3854655-cyber-risks-and-digital-fraud-emerge-as-major-threats-to-global-financial-stability"
-        },
-        {
-            "title": "Fact Check Team: Kash Patel's email hack highlights larger cybersecurity risks",
-            "description": "[BALTIMORE NEWS] An Iran-linked hacking group claims it breached the personal email of FBI Director Kash Patel and released some of the material online.",
-            "url": "https://foxbaltimore.com/news/nation-world/fact-check-team-kash-patels-email-hack-highlights-larger-cybersecurity-risks-fbi-officials"
         }
     ]
 }
