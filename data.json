@@ -1,137 +1,130 @@
 {
-    "title": "Sentinel Protocol",
-    "tagline": "Perimeter Intelligence Sync",
-    "updated": "2026-04-01 11:51 UTC",
+    "updated": "2026-04-01 12:56:36 UTC",
     "news": [
         {
-            "source": {
-                "id": null,
-                "name": "Internet"
-            },
-            "author": "info@thehackernews.com (The Hacker News)",
-            "title": "Silver Fox Expands Asia Cyber Campaign with AtlasCross RAT and Fake Domains",
-            "description": "Chinese-speaking users are the target of an active campaign that uses typosquatted domains impersonating trusted software brands to deliver a previously undocumented remote access trojan named AtlasCross RAT.\n\"The operation covers VPN clients, encrypted messe\u2026",
-            "url": "https://thehackernews.com/2026/03/silver-fox-expands-asia-cyber-campaign.html",
-            "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgQmoJ2iwUTLR-DicdD0xa7_oYXgpGalL3L_-4LyX9YMApiotQC-omFlhdcQByUQat1YJdd7ElMqhp8FDYpoaljcvVmCFPXS4yRRh0_KnKa6FgqoEpiaKHJhoecKKap1MgoPWw1a6H7LfJrYo9m_YXqh3BaoES1tPEmuCbgO3snV34jtkrK7j8t4Qk30jj/s1700-e365/cyberattacks-asia.jpg",
-            "publishedAt": "2026-03-31T11:46:00Z",
-            "content": "Chinese-speaking users are the target of an active campaign that uses typosquatted domains impersonating trusted software brands to deliver a previously undocumented remote access trojan named AtlasC\u2026 [+6167 chars]"
+            "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+            "description": "[CISA.GOV] CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-33017 Langflow Code Injection Vulnerability This type of...",
+            "url": "https://www.cisa.gov/news-events/alerts/2026/03/25/cisa-adds-one-known-exploited-vulnerability-catalog"
         },
         {
-            "source": {
-                "id": null,
-                "name": "Cointelegraph"
-            },
-            "author": "Cointelegraph by Ezra Reguerra",
-            "title": "Supply chain attack hits Axios npm releases, users urged to rotate keys",
-            "description": "Security firm Socket advised developers to check dependencies for affected Axios versions and remove or roll back compromised packages immediately.",
-            "url": "https://cointelegraph.com/news/axios-npm-supply-chain-attack-malicious-dependency",
-            "urlToImage": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-01/019b7fcf-3e52-7aee-8d7a-12ffe055e39a.jpg",
-            "publishedAt": "2026-03-31T11:45:58Z",
-            "content": "Two malicious Axios npm releases have prompted warnings for developers to rotate credentials and treat affected systems as compromised after a supply chain attack poisoned the popular JavaScript HTTP\u2026 [+2492 chars]"
+            "title": "3 Reasons Attackers Are Using Your Trusted Tools Against You (And Why You Don\u2019t See It Coming)",
+            "description": "[FEEDS.FEEDBURNER.COM] For years, cybersecurity has followed a familiar model: block malware, stop the attack. Now, attackers are moving on to what\u2019s next. Threat actors now use malware less frequently in favor of what\u2019s...",
+            "url": "https://thehackernews.com/2026/04/3-reasons-attackers-are-using-your.html"
         },
         {
-            "source": {
-                "id": null,
-                "name": "HackRead"
-            },
-            "author": "Deeba Ahmed",
-            "title": "Critical F5 BIG-IP Flaw Upgraded to 9.8 RCE, Exploited in the Wild",
-            "description": "F5 BIG-IP APM flaw CVE-2025-53521 escalates to critical 9.8 RCE, actively exploited. Patch now, check IoCs, and secure vulnerable systems immediately.",
-            "url": "https://hackread.com/critical-f5-big-ip-flaw-upgrad-to-9-8-rce-exploited/",
-            "urlToImage": "https://hackread.com/wp-content/uploads/2026/03/critical-f5-big-ip-flaw-upgrad-to-9-8-rce-exploited.jpg",
-            "publishedAt": "2026-03-31T11:36:21Z",
-            "content": "Cybersecurity researchers at F5 have issued an urgent warning regarding a severe security flaw affecting their BIG-IP APM systems. Originally, the issue was dismissed as a minor technical glitch, but\u2026 [+3976 chars]"
+            "title": "Google Attributes Axios npm Supply Chain Attack to North Korean Group UNC1069",
+            "description": "[FEEDS.FEEDBURNER.COM] Google has formally attributed the supply chain compromise of the popular Axios npm package to a financially motivated North Korean threat activity cluster tracked as UNC1069. \"We have attributed the...",
+            "url": "https://thehackernews.com/2026/04/google-attributes-axios-npm-supply.html"
         },
         {
-            "source": {
-                "id": null,
-                "name": "Securityaffairs.com"
-            },
-            "author": "Pierluigi Paganini",
-            "title": "Dutch Ministry of Finance takes treasury systems offline amid cyber incident investigation",
-            "description": "The Dutch Ministry of Finance took treasury banking portal offline after a cyberattack; core tax systems were not affected. The Dutch Ministry of Finance took parts of its infrastructure offline, including the treasury banking portal, after detecting a cybera\u2026",
-            "url": "https://securityaffairs.com/190204/hacking/dutch-ministry-of-finance-takes-treasury-systems-offline-amid-cyber-incident-investigation.html",
-            "urlToImage": "https://securityaffairs.com/wp-content/uploads/2021/10/dutch-police-ddos.png",
-            "publishedAt": "2026-03-31T11:34:19Z",
-            "content": "Dutch Ministry of Finance takes treasury systems offline amid cyber incident investigation\r\nThe Dutch Ministry of Finance took parts of its infrastructure offline, including the treasury banking port\u2026 [+3692 chars]"
+            "title": "Claude Code Source Leaked via npm Packaging Error, Anthropic Confirms",
+            "description": "[FEEDS.FEEDBURNER.COM] Anthropic on Tuesday confirmed that internal code for its popular artificial intelligence (AI) coding assistant, Claude Code, had been inadvertently released due to a human error. \"No sensitive...",
+            "url": "https://thehackernews.com/2026/04/claude-code-tleaked-via-npm-packaging.html"
         },
         {
-            "source": {
-                "id": null,
-                "name": "Foreign Policy"
-            },
-            "author": "Christian Caryl",
-            "title": "A Complacent America Shrugs Off New War Technologies",
-            "description": "From the president on down, many Americans still do not grasp the implications of drones and other threats.",
-            "url": "http://foreignpolicy.com/2026/03/31/drones-cyberwar-technology-china-russia-united-states-security-threat-counterdrone-cyberdefense/",
-            "urlToImage": "https://foreignpolicy.com/wp-content/uploads/2026/03/shahed-drones-iran-russia-GettyImages-2172512422-e1774956439734.jpg",
-            "publishedAt": "2026-03-31T11:34:17Z",
-            "content": "In early March, Barksdale Air Force Base in Louisiana was visited by a swarm of mysterious drones\r\n. The drones proved resistant\r\n to electronic warfare measures. They artfully evaded attempts to app\u2026 [+8641 chars]"
+            "title": "FBI warns against using Chinese mobile apps due to privacy risks",
+            "description": "[BLEEPINGCOMPUTER.COM] The U.S. Federal Bureau of Investigation (FBI) warned Americans against using foreign-developed mobile applications, particularly those created by Chinese developers. [...]",
+            "url": "https://www.bleepingcomputer.com/news/security/fbi-warns-against-using-chinese-mobile-apps-over-to-data-security-risks/"
         },
         {
-            "source": {
-                "id": null,
-                "name": "Internet"
-            },
-            "author": "info@thehackernews.com (The Hacker News)",
-            "title": "The AI Arms Race \u2013 Why Unified Exposure Management Is Becoming a Boardroom Priority",
-            "description": "The cybersecurity landscape is accelerating at an unprecedented rate. What is emerging is not simply a rise in the number of vulnerabilities or tools, but a dramatic increase in speed. Speed of attack, speed of exploitation, and speed of change across modern \u2026",
-            "url": "https://thehackernews.com/2026/03/the-ai-arms-race-why-unified-exposure.html",
-            "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1pgefAVGqPo1F0pVFtbxdewmfgaNvrqH-R-BydTTpenzbOZGvoJMA7wwiXzhDBcxvhEm91tK9CsPBiB24g7WHylYCzuO8XI9tCraDla-ePrNFsli1YYrtjQr6dxN7mQHbuw57EtS1mrUeS3GfNYCuM-7s1MDbW5oUS2tY0kkV8_TNP3jDKPPgUXSJTr8/s1700-e365/ai-power.jpg",
-            "publishedAt": "2026-03-31T11:30:00Z",
-            "content": "The cybersecurity landscape is accelerating at an unprecedented rate. What is emerging is not simply a rise in the number of vulnerabilities or tools, but a dramatic increase in speed. Speed of attac\u2026 [+8366 chars]"
+            "title": "Google fixes fourth Chrome zero-day exploited in attacks in 2026",
+            "description": "[BLEEPINGCOMPUTER.COM] Google has fixed the fourth Chrome vulnerability exploited in zero-day attacks since the start of the year. [...]",
+            "url": "https://www.bleepingcomputer.com/news/security/google-fixes-fourth-chrome-zero-day-exploited-in-attacks-in-2026/"
         },
         {
-            "source": {
-                "id": null,
-                "name": "Oreilly.com"
-            },
-            "author": "Heiko Hotz",
-            "title": "When AI Breaks the Systems Meant to Hear Us",
-            "description": "On February 10, 2026, Scott Shambaugh\u2014a volunteer maintainer for Matplotlib, one of the world\u2019s most popular open source software libraries\u2014rejected a proposed code change. Why? Because an AI agent wrote it. Standard policy. What happened next wasn\u2019t standard\u2026",
-            "url": "https://www.oreilly.com/radar/when-ai-breaks-the-systems-meant-to-hear-us/#BlogPosting",
-            "urlToImage": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2026/03/A-robot-breaking-headphones-1600x1244.jpg",
-            "publishedAt": "2026-03-31T11:28:36Z",
-            "content": "On February 10, 2026, Scott Shambaugha volunteer maintainer for Matplotlib, one of the world\u2019s most popular open source software librariesrejected a proposed code change. Why? Because an AI agent wro\u2026 [+7139 chars]"
+            "title": "Google Drive ransomware detection now on by default for paying users",
+            "description": "[BLEEPINGCOMPUTER.COM] Google announced that the AI-powered Google Drive ransomware detection feature has reached general availability and is now enabled by default for all paying users. [...]",
+            "url": "https://www.bleepingcomputer.com/news/security/google-drive-ransomware-detection-now-on-by-default-for-paying-users/"
         },
         {
-            "source": {
-                "id": "fortune",
-                "name": "Fortune"
-            },
-            "author": "Sheryl Estrada",
-            "title": "She was a customer before she was the CFO. Now she\u2019s steering Workiva to $1 billion in revenue",
-            "description": "Barbara Larson, an alum of Workday and VMware, says trusted data is the foundation on which everything else is built.",
-            "url": "https://fortune.com/2026/03/31/cfo-shes-steering-workiva-1-billion-revenue/",
-            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/03/CFO-Daily-Barbara-Larson-Workiva.jpg?resize=1200,600",
-            "publishedAt": "2026-03-31T11:20:07Z",
-            "content": "Good morning. When Barbara Larson stepped into the role of EVP and CFO at Workiva in January, she wasnt entering unfamiliar territory. She had used the companys financial reporting platform at Workda\u2026 [+6168 chars]"
+            "title": "New Windows 11 emergency update fixes preview update install issues",
+            "description": "[BLEEPINGCOMPUTER.COM] Microsoft released an emergency update to fix the March 2026 KB5079391 non-security preview update, which was pulled over the weekend due to installation issues. [...]",
+            "url": "https://www.bleepingcomputer.com/news/microsoft/new-windows-11-kb5086672-emergency-update-fixes-install-issues/"
         },
         {
-            "source": {
-                "id": "techradar",
-                "name": "TechRadar"
-            },
-            "author": "Rene Millman",
-            "title": "Proton VPN expands its server network to five new countries following user demand",
-            "description": "Proton VPN is expanding its global footprint by launching new servers in five underserved countries across South America and the Caribbean, making it easier to bypass censorship and stay secure online.",
-            "url": "https://www.techradar.com/vpn/vpn-services/proton-vpn-expands-its-server-network-to-five-new-countries-following-user-demand",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/wYZjT2CMEhMRLCQ3hrDRp5-1193-80.png",
-            "publishedAt": "2026-03-31T11:15:46Z",
-            "content": "<ul><li>Proton VPN added exit nodes in Bolivia, Haiti, Jamaica, Paraguay, Uruguay</li><li>The network expansion was driven directly by users' requests</li><li>The move brings localized, secure browsi\u2026 [+3614 chars]"
+            "title": "Android Developer Verification Rollout Begins Ahead of September Enforcement",
+            "description": "[FEEDS.FEEDBURNER.COM] Google on Monday said it's officially rolling out Android developer verification to all developers to combat the problem of bad actors distributing harmful apps while \"hiding behind anonymity.\" The...",
+            "url": "https://thehackernews.com/2026/03/android-developer-verification-rollout.html"
         },
         {
-            "source": {
-                "id": null,
-                "name": "GlobeNewswire"
-            },
-            "author": "Odysight.ai Inc.",
-            "title": "Odysight.ai\u00ae Announces Dual Listing on the Tel Aviv Stock Exchange",
-            "description": "Ramat Gan, Israel, March 31, 2026 (GLOBE NEWSWIRE) -- Odysight.ai Inc. (NASDAQ: ODYS) (\u201cOdysight.ai\u201d or the \u201cCompany\u201d), a developer of AI-based visual sensing solutions for predictive maintenance and condition-based monitoring, today announced that its common\u2026",
-            "url": "https://www.globenewswire.com/news-release/2026/03/31/3265332/0/en/Odysight-ai-Announces-Dual-Listing-on-the-Tel-Aviv-Stock-Exchange.html",
-            "urlToImage": "https://ml.globenewswire.com/Resource/Download/fe840a3d-d94f-4b27-ba22-45a8615ddcfb",
-            "publishedAt": "2026-03-31T11:05:00Z",
-            "content": "Ramat Gan, Israel, March 31, 2026 (GLOBE NEWSWIRE) -- Odysight.ai Inc. (NASDAQ: ODYS) (Odysight.ai or the Company), a developer of AI-based visual sensing solutions for predictive maintenance and con\u2026 [+7142 chars]"
+            "title": "TrueConf Zero-Day Exploited in Attacks on Southeast Asian Government Networks",
+            "description": "[FEEDS.FEEDBURNER.COM] A high-severity security flaw in the TrueConf client video conferencing software has been exploited in the wild as a zero-day as part of a campaign targeting government entities in Southeast Asia...",
+            "url": "https://thehackernews.com/2026/03/trueconf-zero-day-exploited-in-attacks.html"
+        },
+        {
+            "title": "Claude Code source code accidentally leaked in NPM package",
+            "description": "[BLEEPINGCOMPUTER.COM] Anthropic says it accidentally leaked the source code for Claude Code, which is closed source, but the company says no customer data or credentials were exposed. [...]",
+            "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-code-source-code-accidentally-leaked-in-npm-package/"
+        },
+        {
+            "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+            "description": "[CISA.GOV] CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-33634 Aqua Security Trivy Embedded Malicious Code...",
+            "url": "https://www.cisa.gov/news-events/alerts/2026/03/26/cisa-adds-one-known-exploited-vulnerability-catalog"
+        },
+        {
+            "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+            "description": "[CISA.GOV] CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-3055 Citrix NetScaler Out-of-Bounds Read Vulnerability...",
+            "url": "https://www.cisa.gov/news-events/alerts/2026/03/30/cisa-adds-one-known-exploited-vulnerability-catalog"
+        },
+        {
+            "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+            "description": "[CISA.GOV] CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-53521 F5 BIG-IP Remote Code Execution Vulnerability This...",
+            "url": "https://www.cisa.gov/news-events/alerts/2026/03/27/cisa-adds-one-known-exploited-vulnerability-catalog"
+        },
+        {
+            "title": "CISA Adds Five Known Exploited Vulnerabilities to Catalog",
+            "description": "[CISA.GOV] CISA has added five new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-31277 Apple Multiple Products Buffer Overflow...",
+            "url": "https://www.cisa.gov/news-events/alerts/2026/03/20/cisa-adds-five-known-exploited-vulnerabilities-catalog"
+        },
+        {
+            "title": "Cyber resilience turns a boardroom priority: Rubrik CTO Arvind Nithrakashyap",
+            "description": "[THE ECONOMIC TIMES] Chennai-born Arvind Nithrakashyap believes Palo Alto-headquartered Rubrik is in the right spot to serve some of India\u2019s cybersecurity needs at a time of rapid digitisation. This means a lot of...",
+            "url": "https://economictimes.indiatimes.com/tech/technology/cyber-resilience-turns-a-boardroom-priority-rubrik-cto-arvind-nithrakashyap/articleshow/129933696.cms"
+        },
+        {
+            "title": "Google Drive's new ransomware protection could save your files, or not",
+            "description": "[PHONEARENA] A major ransomware defense is live, with one frustrating limitation..",
+            "url": "https://www.phonearena.com/news/google-drives-new-ransomware-protection-could-save-your-files-or-not_id179339"
+        },
+        {
+            "title": "Dragos Appoints Kaori Nieda as Country Manager to Drive Expansion in Japan",
+            "description": "[THE MANILA TIMES] HANOVER, Md., April 1, 2026 /PRNewswire/ -- Dragos Inc., a global leader in operational technology (OT) cybersecurity headquartered in Hanover, Maryland, USA, today announced the appointment of Kaori...",
+            "url": "https://www.manilatimes.net/2026/04/01/tmt-newswire/pr-newswire/dragos-appoints-kaori-nieda-as-country-manager-to-drive-expansion-in-japan/2312113"
+        },
+        {
+            "title": "Google Drive's AI Security Upgrade Detects Ransomware And Prevents File Corruption",
+            "description": "[HOT HARDWARE] Google Drive ransomware detection seems ready for prime time, boasting a 14x detection rate with Google's latest AI model.",
+            "url": "https://hothardware.com/news/google-drives-ai-security-upgrade-detects-ransomware-and-prevents-file-corruption"
+        },
+        {
+            "title": "Spirit Electronics Achieves CMMC Level 2 Certification, Demonstrating Unwavering Commitment to Defense Supply Chain Security",
+            "description": "[THE MANILA TIMES] PHOENIX, March 31, 2026 (GLOBE NEWSWIRE) -- Spirit Electronics, a CUI and ITAR-certified electronics supplier serving the Military-Aerospace markets, announced it has achieved Cybersecurity Maturity...",
+            "url": "https://www.manilatimes.net/2026/04/01/tmt-newswire/globenewswire/spirit-electronics-achieves-cmmc-level-2-certification-demonstrating-unwavering-commitment-to-defense-supply-chain-security/2311900"
+        },
+        {
+            "title": "Iran Expands Cyber War Targeting US, Israel",
+            "description": "[NEWSMAX] As tensions escalate alongside military strikes in the Middle East, cybersecurity experts warn that Tehran is deploying a multilayered digital offensive \u2014 ranging from state-backed operatives to...",
+            "url": "https://www.newsmax.com/world/globaltalk/iran-hackers-us/2026/03/31/id/1251390/"
+        },
+        {
+            "title": "NIIT Report Identifies AI, Cybersecurity and Digital Skills as India's Most Critical Future Capabilities",
+            "description": "[SCANX.TRADE] NIIT Ltd.'s India Skills Gap Report 2026, conducted with YouGov across 3,500 respondents, identifies AI, cybersecurity and digital skills as India's most critical future workforce capabilities. The...",
+            "url": "https://scanx.trade/stock-market-news/companies/niit-report-identifies-ai-cybersecurity-and-digital-skills-as-india-s-most-critical-future-capabilities/36514147"
+        },
+        {
+            "title": "Leaked DarkSword iPhone Hack Is 'Extremely Worrisome.' How to Secure Your Phone Now",
+            "description": "[CNET] This is what Apple, cybersecurity professionals and CNET's iOS experts recommend you do to keep your data safe.",
+            "url": "https://www.cnet.com/tech/services-and-software/darksword-iphone-hack-spyware-safety-news/"
+        },
+        {
+            "title": "Cato Networks Unveils Modular Adoption Model for AI-Native Cybersecurity Platform",
+            "description": "[PR NEWSWIRE UK] /PRNewswire/ -- Cato Networks, delivering the leading converged cybersecurity platform for the AI era, today announced a new modular adoption model for the...",
+            "url": "https://www.prnewswire.co.uk/news-releases/cato-networks-unveils-modular-adoption-model-for-ai-native-cybersecurity-platform-302729267.html"
+        },
+        {
+            "title": "Google Drive just rolled out new tools to protect you from ransomware - here's how they work",
+            "description": "[TOM'S GUIDE] Google Drive has just rolled out free ransomware protection for desktop users, keeping you alerted to potential attacks and making sure you can get your files back.",
+            "url": "https://www.tomsguide.com/computing/malware-adware/google-drive-just-rolled-out-new-tools-to-protect-you-from-ransomware-heres-how-they-work"
         }
     ]
 }
