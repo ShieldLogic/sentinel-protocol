@@ -1,5 +1,5 @@
 {
-    "updated": "2026-04-02 12:51:09 UTC",
+    "updated": "2026-04-02 14:47:03 UTC",
     "news": [
         {
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
@@ -12,24 +12,14 @@
             "url": "https://www.cisa.gov/news-events/alerts/2026/04/01/cisa-adds-one-known-exploited-vulnerability-catalog"
         },
         {
-            "title": "CERT-UA Impersonation Campaign Spread AGEWHEEZE Malware to 1 Million Emails",
-            "description": "[FEEDS.FEEDBURNER.COM] The Computer Emergency Response Team of Ukraine (CERT-UA) has disclosed details of a new phishing campaign in which the cybersecurity agency itself was impersonated to distribute a remote...",
-            "url": "https://thehackernews.com/2026/04/cert-ua-impersonation-campaign-spread.html"
-        },
-        {
-            "title": "New CrystalRAT malware adds RAT, stealer and prankware features",
-            "description": "[BLEEPINGCOMPUTER.COM] A new malware-as-a-service called CrystalRAT is being promoted on Telegram, offering remote access, data theft, keylogging, and clipboard hijacking capabilities. [...]",
-            "url": "https://www.bleepingcomputer.com/news/security/new-crystalrat-malware-adds-rat-stealer-and-prankware-features/"
-        },
-        {
-            "title": "Apple expands iOS 18 updates to more iPhones to block DarkSword attacks",
-            "description": "[BLEEPINGCOMPUTER.COM] Apple has now made it possible for more iPhones still running iOS 18 to receive security updates that protect against the actively exploited DarkSword exploit kit. [...]",
-            "url": "https://www.bleepingcomputer.com/news/security/apple-expands-ios-18-updates-to-more-iphones-to-block-darksword-attacks/"
-        },
-        {
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
             "description": "[CISA.GOV] CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-33634 Aqua Security Trivy Embedded Malicious Code...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/03/26/cisa-adds-one-known-exploited-vulnerability-catalog"
+        },
+        {
+            "title": "ThreatsDay Bulletin: Pre-Auth Chains, Android Rootkits, CloudTrail Evasion & 10 More Stories",
+            "description": "[FEEDS.FEEDBURNER.COM] The&nbsp;latest ThreatsDay Bulletin is basically a cheat sheet for everything breaking on the internet right now. No&nbsp;corporate fluff or boring lectures here, just a quick and honest look at the...",
+            "url": "https://thehackernews.com/2026/04/threatsday-bulletin-pre-auth-chains.html"
         },
         {
             "title": "Researchers Uncover Mining Operation Using ISO Lures to Spread RATs and Crypto Miners",
@@ -52,6 +42,21 @@
             "url": "https://thehackernews.com/2026/04/apple-expands-ios-1877-update-to-more.html"
         },
         {
+            "title": "Adversaries Exploit Vacant Homes to Intercept Mail in Hybrid Cybercrime",
+            "description": "[BLEEPINGCOMPUTER.COM] Threat actors are exploiting vacant homes as \"drop addresses\" to intercept mail and enable fraud. Flare shows how postal services and fake identities are abused to turn mail into a fraud vector. [...]",
+            "url": "https://www.bleepingcomputer.com/news/security/adversaries-exploit-vacant-homes-to-intercept-mail-in-hybrid-cybercrime/"
+        },
+        {
+            "title": "New Progress ShareFile flaws can be chained in pre-auth RCE attacks",
+            "description": "[BLEEPINGCOMPUTER.COM] Two vulnerabilities in Progress ShareFile, an enterprise-grade secure file transfer solution, can be chained to enable unauthenticated file exfiltration from affected environments. [...]",
+            "url": "https://www.bleepingcomputer.com/news/security/new-progress-sharefile-flaws-can-be-chained-in-pre-auth-rce-attacks/"
+        },
+        {
+            "title": "Medtech giant Stryker fully operational after data-wiping attack",
+            "description": "[BLEEPINGCOMPUTER.COM] Stryker Corporation, one of the world's leading medical technology companies, says it's fully operational three weeks after many of its systems were wiped out in a cyberattack claimed by the...",
+            "url": "https://www.bleepingcomputer.com/news/security/medtech-giant-stryker-fully-operational-after-data-wiping-attack/"
+        },
+        {
             "title": "Critical Cisco IMC auth bypass gives attackers Admin access",
             "description": "[BLEEPINGCOMPUTER.COM] Cisco has patched several critical and high-severity vulnerabilities, including an Integrated Management Controller (IMC) authentication bypass that enables attackers to gain Admin access. [...]",
             "url": "https://www.bleepingcomputer.com/news/security/critical-cisco-imc-auth-bypass-gives-attackers-admin-access/"
@@ -62,11 +67,6 @@
             "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-links-classic-outlook-bug-to-email-delivery-issues/"
         },
         {
-            "title": "Over 14,000 F5 BIG-IP APM instances still exposed to RCE attacks",
-            "description": "[BLEEPINGCOMPUTER.COM] Internet security watchdog Shadowserver has found over 14,000 BIG-IP APM instances exposed online amid ongoing attacks exploiting a critical-severity remote code execution (RCE) vulnerability. [...]",
-            "url": "https://www.bleepingcomputer.com/news/security/over-14-000-f5-big-ip-apm-instances-still-exposed-to-rce-attacks/"
-        },
-        {
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
             "description": "[CISA.GOV] CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-3055 Citrix NetScaler Out-of-Bounds Read Vulnerability...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/03/30/cisa-adds-one-known-exploited-vulnerability-catalog"
@@ -75,6 +75,11 @@
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
             "description": "[CISA.GOV] CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-53521 F5 BIG-IP Remote Code Execution Vulnerability This...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/03/27/cisa-adds-one-known-exploited-vulnerability-catalog"
+        },
+        {
+            "title": "efex acquires IT solutions provider Priority 1 IT, \u2018strengthening regional presence and healthcare capability\u2019",
+            "description": "[ITWIRE] efex, one of Australia\u2019s leading providers of managed IT services, cybersecurity, technology solutions, and business optimisation. has acquired Priori...",
+            "url": "https://itwire.com/it-industry-news/deals/efex-acquires-it-solutions-provider-priority-1-it,-%e2%80%98strengthening-regional-presence-and-healthcare-capability%e2%80%99.html"
         },
         {
             "title": "63SATS, CyberSec India Expo 2026 join hands amid rising cyber threats",
@@ -120,11 +125,6 @@
             "title": "ThreatLocker named lead sponsor for Cyber Florida\u2019s CyberLaunch cybersecurity competition for grades 6-12",
             "description": "[THE MANILA TIMES] CyberLaunch, presented by ThreatLocker, expands access to Florida students for the nation\u2019s largest state-sponsored cybersecurity competition",
             "url": "https://www.manilatimes.net/2026/04/01/tmt-newswire/globenewswire/threatlocker-named-lead-sponsor-for-cyber-floridas-cyberlaunch-cybersecurity-competition-for-grades-6-12/2312764"
-        },
-        {
-            "title": "Down 37% in 2026, Dan Ives Says You Should Buy the Dip in Zscaler Stock",
-            "description": "[BARCHART] Tech stocks are shaky amid global tensions. But beneath the noise, analyst Dan Ives sees a potential buying opportunity emerging in beaten-down cybersecurity player Zscaler.",
-            "url": "https://www.barchart.com/story/news/1092662/down-37-in-2026-dan-ives-says-you-should-buy-the-dip-in-zscaler-stock"
         }
     ]
 }
