@@ -1,10 +1,15 @@
 {
-    "updated": "2026-04-06 18:43:16 UTC",
+    "updated": "2026-04-06 20:29:18 UTC",
     "news": [
         {
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
             "description": "[CISA.GOV] CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-5281 Google Dawn Use-After-Free Vulnerability This type...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/04/01/cisa-adds-one-known-exploited-vulnerability-catalog"
+        },
+        {
+            "title": "Iran-Linked Password-Spraying Campaign Targets 300+ Israeli Microsoft 365 Organizations",
+            "description": "[FEEDS.FEEDBURNER.COM] An&nbsp;Iran-nexus threat actor is suspected to be behind a password-spraying campaign targeting Microsoft 365 environments in Israel and the U.A.E. amid&nbsp;ongoing conflict in the...",
+            "url": "https://thehackernews.com/2026/04/iran-linked-password-spraying-campaign.html"
         },
         {
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
@@ -42,9 +47,14 @@
             "url": "https://thehackernews.com/2026/04/how-litellm-turned-developer-machines.html"
         },
         {
-            "title": "Qilin and Warlock Ransomware Use Vulnerable Drivers to Disable 300+ EDR Tools",
-            "description": "[FEEDS.FEEDBURNER.COM] Threat actors associated&nbsp;with Qilin&nbsp;and Warlock ransomware operations&nbsp;have been&nbsp;observed using the bring your own vulnerable driver&nbsp;(BYOVD) technique to silence security...",
-            "url": "https://thehackernews.com/2026/04/qilin-and-warlock-ransomware-use.html"
+            "title": "Disgruntled researcher leaks \u201cBlueHammer\u201d Windows zero-day exploit",
+            "description": "[BLEEPINGCOMPUTER.COM] Exploit code has been released for an unpatched Windows privilege escalation flaw reported privately to Microsoft, allowing attackers to gain SYSTEM or elevated administrator permissions. [...]",
+            "url": "https://www.bleepingcomputer.com/news/security/disgruntled-researcher-leaks-bluehammer-windows-zero-day-exploit/"
+        },
+        {
+            "title": "Microsoft fixes Classic Outlook bug causing email delivery issues",
+            "description": "[BLEEPINGCOMPUTER.COM] Microsoft has resolved a known issue that was preventing some Classic Outlook users from sending emails via Outlook.com. [...]",
+            "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-classic-outlook-bug-causing-email-delivery-issues/"
         },
         {
             "title": "Microsoft removes Support and Recovery Assistant from Windows",
@@ -62,19 +72,24 @@
             "url": "https://www.bleepingcomputer.com/news/security/drift-280m-crypto-theft-linked-to-6-month-in-person-operation/"
         },
         {
-            "title": "CISA orders feds to patch exploited Fortinet EMS flaw by Friday",
-            "description": "[BLEEPINGCOMPUTER.COM] The U.S. Cybersecurity and Infrastructure Security Agency (CISA) ordered federal agencies to secure FortiClient Enterprise Management Server (EMS) instances against an actively exploited...",
-            "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-fortinet-flaw-exploited-in-attacks-by-friday/"
-        },
-        {
-            "title": "Why Simple Breach Monitoring is No Longer Enough",
-            "description": "[BLEEPINGCOMPUTER.COM] Infostealers are harvesting credentials and session cookies at scale, bypassing traditional defenses. Lunar explains why simple breach monitoring alone can't keep up with modern credential-based...",
-            "url": "https://www.bleepingcomputer.com/news/security/why-simple-breach-monitoring-is-no-longer-enough/"
-        },
-        {
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
             "description": "[CISA.GOV] CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-53521 F5 BIG-IP Remote Code Execution Vulnerability This...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/03/27/cisa-adds-one-known-exploited-vulnerability-catalog"
+        },
+        {
+            "title": "AI Will Change Cybersecurity. Humans Will Define Its Success. A Lesson No Algorithm Can Teach",
+            "description": "[THE HACKER NEWS] AI matured detection capabilities, but over 100 engagements show human leadership drives cyber resilience and action.",
+            "url": "https://thehackernews.com/expert-insights/2026/04/ai-will-change-cybersecurity-humans.html"
+        },
+        {
+            "title": "All emerging cyber threats targeting power infrastructure at a glance",
+            "description": "[PV MAGAZINE] Researchers in Moroco analyzed cybersecurity challenges in smart grids, highlighting AI-driven detection and defense strategies against threats like distributed denial-of-service, false data...",
+            "url": "https://www.pv-magazine.com/2026/04/06/all-emerging-cyber-threats-targeting-power-infrastructure-at-a-glance/"
+        },
+        {
+            "title": "BKA Identifies REvil Leaders Behind 130 German Ransomware Attacks",
+            "description": "[THE HACKER NEWS] BKA identified REvil leaders tied to 130 German attacks causing \u20ac35.4M damage, exposing key ransomware figures.",
+            "url": "https://thehackernews.com/2026/04/bka-identifies-revil-leaders-behind-130.html"
         },
         {
             "title": "Can AGILE boost the EU\u2019s defence readiness? Ask the Euronews chatbot",
@@ -110,21 +125,6 @@
             "title": "After 35 Years Fighting Hackers, This Cybersecurity Legend Is Now Hacking Drones",
             "description": "[NDTV.COM] Veteran cybersecurity expert Mikko Hypponen has moved from fighting malware to countering drone threats, citing rising risks highlighted by modern warfare and evolving technology.",
             "url": "https://www.ndtv.com/feature/after-35-years-fighting-hackers-this-cybersecurity-legend-is-now-hacking-drones-11314300"
-        },
-        {
-            "title": "The Hack That Exposed Syria\u2019s Sweeping Security Failures",
-            "description": "[WIRED] When Syrian government accounts were hijacked in March, the breach looked chaotic. But it revealed something more troubling: a state struggling with the most basic layer of cybersecurity.",
-            "url": "https://www.wired.com/story/inside-the-hack-that-exposed-syrias-security-failures/"
-        },
-        {
-            "title": "Data Security Revolution: DPDP Framework Implementation",
-            "description": "[DEVDISCOURSE] The Digital Personal Data Protection (DPDP) framework's implementation will heighten accountability and compliance standards in organizations, according to Neehar Pathare of 63SATS Cybertech....",
-            "url": "https://www.devdiscourse.com/article/technology/3862852-data-security-revolution-dpdp-framework-implementation"
-        },
-        {
-            "title": "Google Drive adds AI shield to crush ransomware threats",
-            "description": "[BANGKOK POST] Google has introduced a new ransomware detection and file recovery feature for Google Drive, aiming to strengthen data security as more users increasingly rely on cloud storage for important files.",
-            "url": "https://www.bangkokpost.com/life/tech/3231000/google-drive-adds-ai-shield-to-crush-ransomware-threats"
         }
     ]
 }
