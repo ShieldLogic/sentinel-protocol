@@ -1,10 +1,15 @@
 {
-    "updated": "2026-04-07 04:26:13 UTC",
+    "updated": "2026-04-07 07:05:08 UTC",
     "news": [
         {
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
             "description": "[CISA.GOV] CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-5281 Google Dawn Use-After-Free Vulnerability This type...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/04/01/cisa-adds-one-known-exploited-vulnerability-catalog"
+        },
+        {
+            "title": "Flowise AI Agent Builder Under Active CVSS 10.0 RCE Exploitation; 12,000+ Instances Exposed",
+            "description": "[FEEDS.FEEDBURNER.COM] Threat actors are exploiting a maximum-severity security flaw in Flowise, an open-source artificial intelligence (AI) platform, according to new findings from VulnCheck. The vulnerability in...",
+            "url": "https://thehackernews.com/2026/04/flowise-ai-agent-builder-under-active.html"
         },
         {
             "title": "Iran-Linked Password-Spraying Campaign Targets 300+ Israeli Microsoft 365 Organizations",
@@ -34,7 +39,7 @@
         {
             "title": "German authorities identify REvil and GandCrab ransomware bosses",
             "description": "[BLEEPINGCOMPUTER.COM] The Federal Police in Germany (BKA) has identified two Russian nationals as the leaders of GandCrab and REvil ransomware operations between 2019 and 2021. [...]",
-            "url": "https://www.bleepingcomputer.com/news/security/german-authorities-identify-revil-and-gandcrab-ransomware-bosses/"
+            "url": "https://www.bleepingcomputer.com/news/security/german-authorities-identify-revil-and-gangcrab-ransomware-bosses/"
         },
         {
             "title": "Multi-OS Cyberattacks: How SOCs Close a Critical Risk in 3 Steps",
@@ -50,11 +55,6 @@
             "title": "New GPUBreach attack enables system takeover via GPU rowhammer",
             "description": "[BLEEPINGCOMPUTER.COM] A new attack, dubbed GPUBreach, can induce Rowhammer bit-flips on GPU GDDR6 memories to escalate privileges and lead to a full system compromise. [...]",
             "url": "https://www.bleepingcomputer.com/news/security/new-gpubreach-attack-enables-system-takeover-via-gpu-rowhammer/"
-        },
-        {
-            "title": "How LiteLLM Turned Developer Machines Into Credential Vaults for Attackers",
-            "description": "[FEEDS.FEEDBURNER.COM] The&nbsp;most active piece of enterprise infrastructure in the company is the developer workstation. That&nbsp;laptop is where credentials are created, tested, cached, copied, and reused across...",
-            "url": "https://thehackernews.com/2026/04/how-litellm-turned-developer-machines.html"
         },
         {
             "title": "Disgruntled researcher leaks \u201cBlueHammer\u201d Windows zero-day exploit",
@@ -75,6 +75,11 @@
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
             "description": "[CISA.GOV] CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-53521 F5 BIG-IP Remote Code Execution Vulnerability This...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/03/27/cisa-adds-one-known-exploited-vulnerability-catalog"
+        },
+        {
+            "title": "Iran-Linked Password-Spraying Campaign Targets 300+ Israeli Microsoft 365 Organizations",
+            "description": "[THE HACKER NEWS] Iran-linked attacks hit 300+ Israeli M365 orgs in March 2026, reviving ransomware campaigns and escalating regional cyber risks.",
+            "url": "https://thehackernews.com/2026/04/iran-linked-password-spraying-campaign.html"
         },
         {
             "title": "OpenAI CEO urges U.S. to prepare for AI \u2018superintelligence\u2019 risks and gains",
@@ -120,11 +125,6 @@
             "title": "AI Will Change Cybersecurity. Humans Will Define Its Success. A Lesson No Algorithm Can Teach",
             "description": "[THE HACKER NEWS] AI matured detection capabilities, but over 100 engagements show human leadership drives cyber resilience and action.",
             "url": "https://thehackernews.com/expert-insights/2026/04/ai-will-change-cybersecurity-humans.html"
-        },
-        {
-            "title": "All emerging cyber threats targeting power infrastructure at a glance",
-            "description": "[PV MAGAZINE] Researchers in Moroco analyzed cybersecurity challenges in smart grids, highlighting AI-driven detection and defense strategies against threats like distributed denial-of-service, false data...",
-            "url": "https://www.pv-magazine.com/2026/04/06/all-emerging-cyber-threats-targeting-power-infrastructure-at-a-glance/"
         }
     ]
 }
