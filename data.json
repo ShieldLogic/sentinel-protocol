@@ -1,10 +1,20 @@
 {
-    "updated": "2026-04-07 16:45:53 UTC",
+    "updated": "2026-04-07 18:50:21 UTC",
     "news": [
         {
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
             "description": "[CISA.GOV] CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-5281 Google Dawn Use-After-Free Vulnerability This type...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/04/01/cisa-adds-one-known-exploited-vulnerability-catalog"
+        },
+        {
+            "title": "Russian State-Linked APT28 Exploits SOHO Routers in Global DNS Hijacking Campaign",
+            "description": "[FEEDS.FEEDBURNER.COM] The Russia-linked threat actor known&nbsp;as APT28 (aka Forest Blizzard) has been linked to a new campaign that has compromised insecure MikroTik and TP-Link routers and modified their settings to...",
+            "url": "https://thehackernews.com/2026/04/russian-state-linked-apt28-exploits.html"
+        },
+        {
+            "title": "[Webinar] How to Close Identity Gaps in 2026 Before AI Exploits Enterprise Risk",
+            "description": "[FEEDS.FEEDBURNER.COM] In&nbsp;the rapid evolution of&nbsp;the 2026 threat landscape, a frustrating paradox has emerged for CISOs and security&nbsp;leaders: Identity programs are maturing, yet the risk is actually...",
+            "url": "https://thehackernews.com/2026/04/webinar-how-to-close-identity-gaps-in.html"
         },
         {
             "title": "Docker CVE-2026-34040 Lets Attackers Bypass Authorization and Gain Host Access",
@@ -17,19 +27,19 @@
             "url": "https://thehackernews.com/2026/04/over-1000-exposed-comfyui-instances.html"
         },
         {
-            "title": "[Webinar] How to Close Identity Gaps in 2026 Before AI Exploits Enterprise Risk",
-            "description": "[FEEDS.FEEDBURNER.COM] In&nbsp;the rapid evolution of&nbsp;the 2026 threat landscape, a frustrating paradox has emerged for CISOs and security&nbsp;leaders: Identity programs are maturing, yet the risk is actually...",
-            "url": "https://thehackernews.com/2026/04/webinar-how-to-close-identity-gaps-in.html"
-        },
-        {
             "title": "The Hidden Cost of Recurring Credential Incidents",
             "description": "[FEEDS.FEEDBURNER.COM] When talking about credential security, the focus usually lands on breach prevention. This&nbsp;makes sense&nbsp;when IBM\u2019s 2025 Cost of a Data Breach&nbsp;Report puts the average cost of a breach at...",
             "url": "https://thehackernews.com/2026/04/the-hidden-cost-of-recurring-credential.html"
         },
         {
-            "title": "New GPUBreach Attack Enables Full CPU Privilege Escalation via GDDR6 Bit-Flips",
-            "description": "[FEEDS.FEEDBURNER.COM] New academic research has identified multiple RowHammer attacks against high-performance graphics processing units (GPUs) that could be exploited to escalate privileges and, in some cases, even take...",
-            "url": "https://thehackernews.com/2026/04/new-gpubreach-attack-enables-full-cpu.html"
+            "title": "US warns of Iranian hackers targeting critical infrastructure",
+            "description": "[BLEEPINGCOMPUTER.COM] Iranian-linked hackers are targeting Internet-exposed Rockwell/Allen-Bradley programmable logic controllers (PLCs) on the networks of U.S. critical infrastructure organizations. [...]",
+            "url": "https://www.bleepingcomputer.com/news/security/us-warns-of-iranian-hackers-targeting-critical-infrastructure/"
+        },
+        {
+            "title": "Max severity Flowise RCE vulnerability now exploited in attacks",
+            "description": "[BLEEPINGCOMPUTER.COM] Hackers are exploiting a maximum-severity vulnerability, tracked as CVE-2025-59528, in the open-source platform Flowise for building custom LLM apps and agentic systems to execute arbitrary code....",
+            "url": "https://www.bleepingcomputer.com/news/security/max-severity-flowise-rce-vulnerability-now-exploited-in-attacks/"
         },
         {
             "title": "Authorities disrupt router DNS hijacks used to steal Microsoft 365 logins",
@@ -62,19 +72,24 @@
             "url": "https://www.bleepingcomputer.com/news/security/german-authorities-identify-revil-and-gangcrab-ransomware-bosses/"
         },
         {
-            "title": "New GPUBreach attack enables system takeover via GPU rowhammer",
-            "description": "[BLEEPINGCOMPUTER.COM] A new attack, dubbed GPUBreach, can induce Rowhammer bit-flips on GPU GDDR6 memories to escalate privileges and lead to a full system compromise. [...]",
-            "url": "https://www.bleepingcomputer.com/news/security/new-gpubreach-attack-enables-system-takeover-via-gpu-rowhammer/"
-        },
-        {
-            "title": "Disgruntled researcher leaks \u201cBlueHammer\u201d Windows zero-day exploit",
-            "description": "[BLEEPINGCOMPUTER.COM] Exploit code has been released for an unpatched Windows privilege escalation flaw reported privately to Microsoft, allowing attackers to gain SYSTEM or elevated administrator permissions. [...]",
-            "url": "https://www.bleepingcomputer.com/news/security/disgruntled-researcher-leaks-bluehammer-windows-zero-day-exploit/"
-        },
-        {
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
             "description": "[CISA.GOV] CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-53521 F5 BIG-IP Remote Code Execution Vulnerability This...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/03/27/cisa-adds-one-known-exploited-vulnerability-catalog"
+        },
+        {
+            "title": "China-Linked Storm-1175 Exploits Zero-Days to Rapidly Deploy Medusa Ransomware",
+            "description": "[THE HACKER NEWS] Storm-1175 exploits 16+ CVEs since 2023, including zero-days, enabling rapid Medusa ransomware attacks within 24 hours.",
+            "url": "https://thehackernews.com/2026/04/china-linked-storm-1175-exploits-zero.html"
+        },
+        {
+            "title": "Secret Russian Satellite Operations Aid Iranian Military Strikes",
+            "description": "[DEVDISCOURSE] An intelligence assessment reveals that Russian satellites conducted detailed imagery surveys of military sites in the Middle East to aid Iran in targeting U.S. forces. Russian and Iranian hackers...",
+            "url": "https://www.devdiscourse.com/article/law-order/3864695-secret-russian-satellite-operations-aid-iranian-military-strikes"
+        },
+        {
+            "title": "Rajasthan judges turn teachers to raise cybersecurity awareness in schools",
+            "description": "[LOKMAT TIMES] Rajasthan judges turn teachers to raise cybersecurity awareness in schools - Jaipur, April 7 In a unique initiative, judges across Rajasthan stepped into classrooms on Tuesday to educate students ......",
+            "url": "https://www.lokmattimes.com/national/rajasthan-judges-turn-teachers-to-raise-cybersecurity-awareness-in-schools/"
         },
         {
             "title": "That Old Smartphone Sitting In A Drawer Could Be A Disaster Waiting To Happen",
@@ -110,21 +125,6 @@
             "title": "Three Times the US Government Already Failed at Tech",
             "description": "[CRYPTO NEWS] investigative report draws on years of federal cybersecurity coverage to warn that US government is repeating old mistakes as it rushes into AI",
             "url": "https://crypto.news/three-times-the-us-government-already-failed-at-tech/"
-        },
-        {
-            "title": "Data, cybersecurity skills shaping hiring: NIIT report",
-            "description": "[THE HINDU] Digital, data and cybersecurity skills are emerging as foundational capabilities for employability and workforce growth, a nationwide study has concluded.",
-            "url": "https://www.thehindu.com/news/national/telangana/data-cybersecurity-skills-shaping-hiring-niit-report/article70830668.ece"
-        },
-        {
-            "title": "Iran-Linked Password-Spraying Campaign Targets 300+ Israeli Microsoft 365 Organizations",
-            "description": "[THE HACKER NEWS] Iran-linked attacks hit 300+ Israeli M365 orgs in March 2026, reviving ransomware campaigns and escalating regional cyber risks.",
-            "url": "https://thehackernews.com/2026/04/iran-linked-password-spraying-campaign.html"
-        },
-        {
-            "title": "OpenAI CEO urges U.S. to prepare for AI \u2018superintelligence\u2019 risks and gains",
-            "description": "[COINDESK] The crypto industry faces growing cybersecurity risks as AI tools lower the cost and skill needed to exploit software flaws, with over $1.4 billion in assets stolen last year.",
-            "url": "https://www.coindesk.com/tech/2026/04/06/openai-ceo-urges-u-s-to-prepare-for-ai-superintelligence-risks-and-gains"
         }
     ]
 }
