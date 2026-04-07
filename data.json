@@ -1,10 +1,15 @@
 {
-    "updated": "2026-04-07 08:52:29 UTC",
+    "updated": "2026-04-07 10:47:15 UTC",
     "news": [
         {
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
             "description": "[CISA.GOV] CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-5281 Google Dawn Use-After-Free Vulnerability This type...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/04/01/cisa-adds-one-known-exploited-vulnerability-catalog"
+        },
+        {
+            "title": "New GPUBreach Attack Enables Full CPU Privilege Escalation via GDDR6 Bit-Flips",
+            "description": "[FEEDS.FEEDBURNER.COM] New academic research has identified multiple RowHammer attacks against high-performance graphics processing units (GPUs) that could be exploited to escalate privileges and, in some cases, even take...",
+            "url": "https://thehackernews.com/2026/04/new-gpubreach-attack-enables-full-cpu.html"
         },
         {
             "title": "China-Linked Storm-1175 Exploits Zero-Days to Rapidly Deploy Medusa Ransomware",
@@ -47,11 +52,6 @@
             "url": "https://www.bleepingcomputer.com/news/security/german-authorities-identify-revil-and-gangcrab-ransomware-bosses/"
         },
         {
-            "title": "Multi-OS Cyberattacks: How SOCs Close a Critical Risk in 3 Steps",
-            "description": "[FEEDS.FEEDBURNER.COM] Your attack surface no&nbsp;longer lives&nbsp;on one operating system, and neither do the campaigns targeting&nbsp;it. In enterprise environments, attackers move across Windows endpoints, executive...",
-            "url": "https://thehackernews.com/2026/04/multi-os-cyberattacks-how-socs-close.html"
-        },
-        {
             "title": "New GPUBreach attack enables system takeover via GPU rowhammer",
             "description": "[BLEEPINGCOMPUTER.COM] A new attack, dubbed GPUBreach, can induce Rowhammer bit-flips on GPU GDDR6 memories to escalate privileges and lead to a full system compromise. [...]",
             "url": "https://www.bleepingcomputer.com/news/security/new-gpubreach-attack-enables-system-takeover-via-gpu-rowhammer/"
@@ -75,6 +75,11 @@
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
             "description": "[CISA.GOV] CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-53521 F5 BIG-IP Remote Code Execution Vulnerability This...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/03/27/cisa-adds-one-known-exploited-vulnerability-catalog"
+        },
+        {
+            "title": "Google\u2019s quantum warning suggests Bitcoin encryption may fail sooner as reduced qubit requirements shift assumptions about future cybersecurity risks",
+            "description": "[TECHRADAR] New quantum estimates reveal Bitcoin encryption may be more vulnerable soon",
+            "url": "https://www.techradar.com/pro/we-want-to-raise-awareness-on-this-issue-google-warns-quantum-computers-could-break-bitcoin-encryption-much-sooner-than-expected"
         },
         {
             "title": "Three Times the US Government Already Failed at Tech",
@@ -120,11 +125,6 @@
             "title": "Qilin and Warlock Ransomware Use Vulnerable Drivers to Disable 300+ EDR Tools",
             "description": "[THE HACKER NEWS] Qilin disables 300+ EDR drivers using BYOVD in 2025 attacks, delaying encryption six days, increasing breach impact.",
             "url": "https://thehackernews.com/2026/04/qilin-and-warlock-ransomware-use.html"
-        },
-        {
-            "title": "\u2018Photovoltaics are, first and foremost, about energy security\u2019",
-            "description": "[PV MAGAZINE] In an interview with pv magazine, Carolina Novac, Secretary of State at Moldova\u2019s Ministry of Energy explains how the country raised its solar capacity to 1 GW while advancing wind, storage, and...",
-            "url": "https://www.pv-magazine.com/2026/04/06/photovoltaics-are-first-and-foremost-about-energy-security/"
         }
     ]
 }
