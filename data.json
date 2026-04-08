@@ -1,6 +1,21 @@
 {
-    "updated": "2026-04-08 16:51:25 UTC",
+    "updated": "2026-04-08 19:03:09 UTC",
     "news": [
+        {
+            "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+            "description": "[CISA.GOV] CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-1340 Ivanti Endpoint Manager Mobile (EPMM) Code Injection...",
+            "url": "https://www.cisa.gov/news-events/alerts/2026/04/08/cisa-adds-one-known-exploited-vulnerability-catalog"
+        },
+        {
+            "title": "New Chaos Variant Targets Misconfigured Cloud Deployments, Adds SOCKS Proxy",
+            "description": "[FEEDS.FEEDBURNER.COM] Cybersecurity researchers have flagged a new variant&nbsp;ofmalware&nbsp;called Chaosthat'scapable of&nbsp;hitting misconfigured cloud deployments, marking an expansion of the botnet's targeting...",
+            "url": "https://thehackernews.com/2026/04/new-chaos-variant-targets-misconfigured.html"
+        },
+        {
+            "title": "Masjesu Botnet Emerges as DDoS-for-Hire Service Targeting Global IoT Devices",
+            "description": "[FEEDS.FEEDBURNER.COM] Cybersecurity researchers have lifted the curtain on a stealthy botnet that's designed for distributed denial-of-service (DDoS)&nbsp;attacks. Called Masjesu, the botnet has been advertised via...",
+            "url": "https://thehackernews.com/2026/04/masjesu-botnet-emerges-as-ddos-for-hire.html"
+        },
         {
             "title": "APT28 Deploys PRISMEX Malware in Campaign Targeting Ukraine and NATO Allies",
             "description": "[FEEDS.FEEDBURNER.COM] The Russian threat actor known&nbsp;as APT28 (aka Forest Blizzard and Pawn Storm) has been linked to a fresh spear-phishing campaign targeting Ukraine and its allies to deploy a previously...",
@@ -12,24 +27,29 @@
             "url": "https://thehackernews.com/2026/04/shrinking-iam-attack-surface-through.html"
         },
         {
+            "title": "New macOS stealer campaign uses Script Editor in ClickFix attack",
+            "description": "[BLEEPINGCOMPUTER.COM] A new campaign delivering the Atomic Stealer malware to macOS users abuses the Script Editor in a variation of the ClickFix attack that tricked users into executing commands in Terminal. [...]",
+            "url": "https://www.bleepingcomputer.com/news/security/new-macos-stealer-campaign-uses-script-editor-in-clickfix-attack/"
+        },
+        {
             "title": "Anthropic's Claude Mythos Finds Thousands of Zero-Day Flaws Across Major Systems",
             "description": "[FEEDS.FEEDBURNER.COM] Artificial Intelligence (AI) company Anthropic announced a new cybersecurity initiative&nbsp;called Project&nbsp;Glasswing&nbsp;that&nbsp;will use a preview version of its new frontier model, Claude...",
             "url": "https://thehackernews.com/2026/04/anthropics-claude-mythos-finds.html"
         },
         {
-            "title": "N. Korean Hackers Spread 1,700 Malicious Packages Across npm, PyPI, Go, Rust",
-            "description": "[FEEDS.FEEDBURNER.COM] The North Korea-linked persistent campaign known&nbsp;as Contagious&nbsp;Interview has spread its tentacles by publishing malicious packages targeting the Go, Rust, and PHP ecosystems. \"The threat...",
-            "url": "https://thehackernews.com/2026/04/n-korean-hackers-spread-1700-malicious.html"
+            "title": "CISA orders feds to patch exploited Ivanti EPMM flaw by Sunday",
+            "description": "[BLEEPINGCOMPUTER.COM] CISA has given U.S. government agencies four days to secure their systems against a critical-severity vulnerability in Ivanti Endpoint Manager Mobile (EPMM) that has been exploited in attacks since...",
+            "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-exploited-ivanti-epmm-flaw-by-sunday/"
+        },
+        {
+            "title": "13-year-old bug in ActiveMQ lets hackers remotely execute commands",
+            "description": "[BLEEPINGCOMPUTER.COM] Security researchers discovered a remote code execution (RCE) vulnerability in Apache ActiveMQ Classic that has gone undetected for 13 years and could be exploited to execute arbitrary commands. [...]",
+            "url": "https://www.bleepingcomputer.com/news/security/13-year-old-bug-in-activemq-lets-hackers-remotely-execute-commands/"
         },
         {
             "title": "Is a $30,000 GPU Good at Password Cracking?",
             "description": "[BLEEPINGCOMPUTER.COM] A $30,000 AI GPU doesn't outperform consumer GPUs at password cracking. Specops explains why attackers don't need exotic hardware to break weak passwords. [...]",
             "url": "https://www.bleepingcomputer.com/news/security/is-a-30-000-gpu-good-at-password-cracking/"
-        },
-        {
-            "title": "Iran-Linked Hackers Disrupt U.S. Critical Infrastructure by Targeting Internet-Exposed PLCs",
-            "description": "[FEEDS.FEEDBURNER.COM] Iran-affiliated cyber actors are targeting internet-facing operational technology (OT) devices across critical infrastructures in the U.S., including programmable logic controllers (PLCs),...",
-            "url": "https://thehackernews.com/2026/04/iran-linked-hackers-disrupt-us-critical.html"
         },
         {
             "title": "Microsoft rolls out fix for broken Windows Start Menu search",
@@ -40,21 +60,6 @@
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
             "description": "[CISA.GOV] CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-5281 Google Dawn Use-After-Free Vulnerability This type...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/04/01/cisa-adds-one-known-exploited-vulnerability-catalog"
-        },
-        {
-            "title": "Hackers exploit critical flaw in Ninja Forms WordPress plugin",
-            "description": "[BLEEPINGCOMPUTER.COM] A critical vulnerability in the Ninja Forms File Uploads premium add-on for WordPress allows uploading arbitrary files without authentication, which can lead to remote code execution. [...]",
-            "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-flaw-in-ninja-forms-wordpress-plugin/"
-        },
-        {
-            "title": "FBI: Americans lost a record $21 billion to cybercrime last year",
-            "description": "[BLEEPINGCOMPUTER.COM] U.S. victims lost nearly $21 billion to cyber-enabled crimes last year, driven primarily by investment scams, business email compromise, tech support fraud, and data breaches, the Federal Bureau of...",
-            "url": "https://www.bleepingcomputer.com/news/security/fbi-americans-lost-a-record-21-billion-to-cybercrime-last-year/"
-        },
-        {
-            "title": "Snowflake customers hit in data theft attacks after SaaS integrator breach",
-            "description": "[BLEEPINGCOMPUTER.COM] Over a dozen companies have suffered data theft attacks after a SaaS integration provider was breached and authentication tokens stolen. [...]",
-            "url": "https://www.bleepingcomputer.com/news/security/snowflake-customers-hit-in-data-theft-attacks-after-saas-integrator-breach/"
         },
         {
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
@@ -72,9 +77,19 @@
             "url": "https://www.cisa.gov/news-events/alerts/2026/04/06/cisa-adds-one-known-exploited-vulnerability-catalog"
         },
         {
-            "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-            "description": "[CISA.GOV] CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-53521 F5 BIG-IP Remote Code Execution Vulnerability This...",
-            "url": "https://www.cisa.gov/news-events/alerts/2026/03/27/cisa-adds-one-known-exploited-vulnerability-catalog"
+            "title": "Anthropic launches Project Glasswing to test advanced AI for cybersecurity",
+            "description": "[THE INDIAN EXPRESS] Anthropic has launched Project Glasswing, a cybersecurity initiative that brings together major tech firms to test a powerful, unreleased AI model capable of identifying and addressing software...",
+            "url": "https://indianexpress.com/article/technology/artificial-intelligence/anthropic-launches-project-glasswing-to-test-advanced-ai-for-cybersecurity-10625076/"
+        },
+        {
+            "title": "Iranian hackers' targeting of US critical infrastructure has escalated since start of war, U.S. says",
+            "description": "[THE HINDU] Iranian hacking campaigns targeting equipment used across multiple \u200bU.S. critical infrastructure sectors are escalating in response \u200cto hostilities, U.S. cybersecurity, law enforcement \u200band...",
+            "url": "https://www.thehindu.com/sci-tech/technology/iranian-hackers-targeting-of-us-critical-infrastructure-has-escalated-since-start-of-war-us-says/article70836926.ece"
+        },
+        {
+            "title": "Anthropic not releasing Claude Mythos and reason is alarming: Here\u2019s why you can\u2019t use it yet",
+            "description": "[THE FINANCIAL EXPRESS] The model will only be available to a small group of trusted partners, including Google, Microsoft, Amazon Web Services, Nvidia, and JPMorgan Chase, as part of a defensive cybersecurity initiative...",
+            "url": "https://www.financialexpress.com/life/technology-anthropic-not-releasing-claude-mythos-and-reason-is-alarming-heres-why-you-cant-use-it-yet-4199476/"
         },
         {
             "title": "Why 24/7 Threat Monitoring Has Become Essential for Modern Businesses",
@@ -110,21 +125,6 @@
             "title": "LRQA Amplifies Industrial and Cyber Resilience in APAC at CS4CA Summit 2026",
             "description": "[PR NEWSWIRE UK] /PRNewswire/ -- LRQA brought its cybersecurity expertise to the APAC Cyber Summit 2026 in Singapore, joining senior leaders from across the region to address...",
             "url": "https://www.prnewswire.co.uk/news-releases/lrqa-amplifies-industrial-and-cyber-resilience-in-apac-at-cs4ca-summit-2026-302735586.html"
-        },
-        {
-            "title": "Microsoft flags China-based hackers using vicious new 'rapid attack' zero-days to launch ransomware at targets across the world",
-            "description": "[TECHRADAR] The window to patch known flaws is shrinking, Microsoft warns",
-            "url": "https://www.techradar.com/pro/security/microsoft-flags-china-based-hackers-using-vicious-new-rapid-attack-zero-days-to-launch-ransomware-at-targets-across-the-world"
-        },
-        {
-            "title": "Anthropic claims its new AI model, Mythos, is a cybersecurity \u2018reckoning\u2019",
-            "description": "[THE BOSTON GLOBE] Stories you may have missed from the world of business.",
-            "url": "https://www.bostonglobe.com/2026/04/07/business/anthropic-claims-its-new-ai-model-mythos-is-cybersecurity-reckoning/"
-        },
-        {
-            "title": "Anthropic touts AI cybersecurity project with Big Tech partners",
-            "description": "[THE STAR] April 7 (Reuters) - Anthropic on Tuesday \u2060announced an initiative with major technology companies, including Amazon.com, Microsoft and \u2060Apple, that lets partners preview an advanced model with...",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/04/08/anthropic-touts-ai-cybersecurity-project-with-big-tech-partners"
         }
     ]
 }
