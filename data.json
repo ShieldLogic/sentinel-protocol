@@ -1,5 +1,5 @@
 {
-    "updated": "2026-04-08 22:30:12 UTC",
+    "updated": "2026-04-09 01:17:27 UTC",
     "news": [
         {
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
@@ -20,6 +20,11 @@
             "title": "APT28 Deploys PRISMEX Malware in Campaign Targeting Ukraine and NATO Allies",
             "description": "[FEEDS.FEEDBURNER.COM] The Russian threat actor known&nbsp;as APT28 (aka Forest Blizzard and Pawn Storm) has been linked to a fresh spear-phishing campaign targeting Ukraine and its allies to deploy a previously...",
             "url": "https://thehackernews.com/2026/04/apt28-deploys-prismex-malware-in.html"
+        },
+        {
+            "title": "Hackers use pixel-large SVG trick to hide credit card stealer",
+            "description": "[BLEEPINGCOMPUTER.COM] A massive campaign impacting nearly 100 online stores using the Magento e-commerce platform hides credit card-stealing code in a pixel-sized Scalable Vector Graphics (SVG) image. [...]",
+            "url": "https://www.bleepingcomputer.com/news/security/hackers-use-pixel-large-svg-trick-to-hide-credit-card-stealer/"
         },
         {
             "title": "Google: New UNC6783 hackers steal corporate Zendesk support tickets",
@@ -52,11 +57,6 @@
             "url": "https://www.bleepingcomputer.com/news/security/13-year-old-bug-in-activemq-lets-hackers-remotely-execute-commands/"
         },
         {
-            "title": "Is a $30,000 GPU Good at Password Cracking?",
-            "description": "[BLEEPINGCOMPUTER.COM] A $30,000 AI GPU doesn't outperform consumer GPUs at password cracking. Specops explains why attackers don't need exotic hardware to break weak passwords. [...]",
-            "url": "https://www.bleepingcomputer.com/news/security/is-a-30-000-gpu-good-at-password-cracking/"
-        },
-        {
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
             "description": "[CISA.GOV] CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-5281 Google Dawn Use-After-Free Vulnerability This type...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/04/01/cisa-adds-one-known-exploited-vulnerability-catalog"
@@ -75,6 +75,31 @@
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
             "description": "[CISA.GOV] CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-35616 - Fortinet FortiClient EMS Improper Access Control...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/04/06/cisa-adds-one-known-exploited-vulnerability-catalog"
+        },
+        {
+            "title": "New security vulnerability detected in Android devices, update them now: CERT-In",
+            "description": "[DECCAN HERALD] Android Security Update: CERT-In warns of a new vulnerability in Android 14-16 and Chrome, urging immediate updates. Google's patch addresses code execution risks and data breaches. Drive now...",
+            "url": "https://www.deccanherald.com/technology/new-security-vulnerability-detected-in-android-devices-update-them-now-cert-in-3960584"
+        },
+        {
+            "title": "Anthropic's Project Glasswing: AI Cybersecurity Initiative Involving Microsoft, Apple, AWS, Nvidia Explained",
+            "description": "[NDTV PROFIT] The most notable aspect of Claude's AI cybersecurity model was discovering undetected vulnerabilities that remained 27 years after these systems were launched.",
+            "url": "https://www.ndtvprofit.com/technology/anthropics-project-glasswing-ai-cybersecurity-initiative-involving-microsoft-apple-aws-and-nvidia-explained-11328847"
+        },
+        {
+            "title": "FBI says cyber fraud cost Americans $21B last year",
+            "description": "[9TO5MAC] The FBI says that a sharp rise in scams saw cybersecurity crime cost US victims a total of almost $21...",
+            "url": "https://9to5mac.com/2026/04/08/fbi-says-cyber-fraud-cost-americans-21b-last-year-heres-what-you-need-to-know/"
+        },
+        {
+            "title": "Here's what was found during testing",
+            "description": "[MONEYCONTROL] Anthropic said that the model was too effective at uncovering high-severity cybersecurity flaws in major operating systems and web browsers.",
+            "url": "https://www.moneycontrol.com/world/an-ai-model-so-powerful-anthropic-didn-t-release-it-for-public-here-s-what-it-found-during-testing-article-13883378.html"
+        },
+        {
+            "title": "Cybersecurity Stocks Climb Amid Anthropic's Project Glasswing Launch",
+            "description": "[INVESTOR'S BUSINESS DAILY] Cybersecurity stocks climbed after artificial intelligence model maker Anthropic announced its Project Glasswing.",
+            "url": "https://www.investors.com/news/technology/cybersecuity-stocks-anthropic-mythos-project-glasswing/"
         },
         {
             "title": "'A new frontier model trained by Anthropic that we believe could reshape cybersecurity': Project Glasswing wants to use AI to prevent AI cyberattacks \u2014 but will 'overeager' Claude Mythos do more damag",
@@ -100,31 +125,6 @@
             "title": "Cyber War Boom: How US-Israel-Iran tensions are driving IT services growth",
             "description": "[ZEE NEWS] Global Conflict Drives Cybersecurity Growth: War-driven geopolitical tensions are expanding cyber warfare beyond borders, targeting critical infrastructure and economies. Rising threats are...",
             "url": "https://zeenews.india.com/technology/cyber-war-boom-how-us-israel-iran-tensions-are-driving-it-services-growth-3034869.html"
-        },
-        {
-            "title": "Anthropic launches Project Glasswing to test advanced AI for cybersecurity",
-            "description": "[THE INDIAN EXPRESS] Anthropic has launched Project Glasswing, a cybersecurity initiative that brings together major tech firms to test a powerful, unreleased AI model capable of identifying and addressing software...",
-            "url": "https://indianexpress.com/article/technology/artificial-intelligence/anthropic-launches-project-glasswing-to-test-advanced-ai-for-cybersecurity-10625076/"
-        },
-        {
-            "title": "Iranian hackers' targeting of US critical infrastructure has escalated since start of war, U.S. says",
-            "description": "[THE HINDU] Iranian hacking campaigns targeting equipment used across multiple \u200bU.S. critical infrastructure sectors are escalating in response \u200cto hostilities, U.S. cybersecurity, law enforcement \u200band...",
-            "url": "https://www.thehindu.com/sci-tech/technology/iranian-hackers-targeting-of-us-critical-infrastructure-has-escalated-since-start-of-war-us-says/article70836926.ece"
-        },
-        {
-            "title": "Anthropic not releasing Claude Mythos and reason is alarming: Here\u2019s why you can\u2019t use it yet",
-            "description": "[THE FINANCIAL EXPRESS] The model will only be available to a small group of trusted partners, including Google, Microsoft, Amazon Web Services, Nvidia, and JPMorgan Chase, as part of a defensive cybersecurity initiative...",
-            "url": "https://www.financialexpress.com/life/technology-anthropic-not-releasing-claude-mythos-and-reason-is-alarming-heres-why-you-cant-use-it-yet-4199476/"
-        },
-        {
-            "title": "Why 24/7 Threat Monitoring Has Become Essential for Modern Businesses",
-            "description": "[ITWIRE] GUEST OPINION - Cybersecurity used to be treated like a perimeter problem. Put up a firewall, install antivirus, enforce a few password rules, and hop...",
-            "url": "https://itwire.com/business-it-news/outsourcing/why-24-7-threat-monitoring-has-become-essential-for-modern-businesses.html"
-        },
-        {
-            "title": "Anthropic touts AI cybersecurity project with Big Tech partners",
-            "description": "[THE HINDU] Anthropic on Tuesday announced an initiative with major technology companies, including Amazon.com, Microsoft and \u200bApple",
-            "url": "https://www.thehindu.com/sci-tech/technology/anthropic-touts-ai-cybersecurity-project-with-big-tech-partners/article70836902.ece"
         }
     ]
 }
