@@ -1,5 +1,5 @@
 {
-    "updated": "2026-04-10 12:46:57 UTC",
+    "updated": "2026-04-10 14:41:55 UTC",
     "news": [
         {
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
@@ -12,24 +12,9 @@
             "url": "https://www.cisa.gov/news-events/alerts/2026/04/01/cisa-adds-one-known-exploited-vulnerability-catalog"
         },
         {
-            "title": "EngageLab SDK Flaw Exposed 50M Android Users, Including 30M Crypto Wallet Installs",
-            "description": "[FEEDS.FEEDBURNER.COM] Details have emerged about a now-patched security vulnerability in a widely used third-party Android software development kit&nbsp;(SDK) called&nbsp;EngageLab&nbsp;SDK that could have put millions of...",
-            "url": "https://thehackernews.com/2026/04/engagelab-sdk-flaw-exposed-50m-android.html"
-        },
-        {
             "title": "New \u2018LucidRook\u2019 malware used in targeted attacks on NGOs, universities",
             "description": "[BLEEPINGCOMPUTER.COM] A new Lua-based malware, called LucidRook, is being used in spear-phishing campaigns targeting non-governmental organizations and universities in Taiwan. [...]",
             "url": "https://www.bleepingcomputer.com/news/security/new-lucidrook-malware-used-in-targeted-attacks-on-ngos-universities/"
-        },
-        {
-            "title": "New VENOM phishing attacks steal senior executives' Microsoft logins",
-            "description": "[BLEEPINGCOMPUTER.COM] Threat actors using a previously undocumented phishing-as-a-service (PhaaS) platform called \"VENOM\" are targeting credentials of C-suite executives across multiple industries. [...]",
-            "url": "https://www.bleepingcomputer.com/news/security/new-venom-phishing-attacks-steal-senior-executives-microsoft-logins/"
-        },
-        {
-            "title": "Healthcare IT solutions provider ChipSoft hit by ransomware attack",
-            "description": "[BLEEPINGCOMPUTER.COM] Dutch healthcare software vendor ChipSoft has been impacted by a ransomware attack that forced the company to take offline its website and digital services for patients and healthcare providers. [...]",
-            "url": "https://www.bleepingcomputer.com/news/security/healthcare-it-solutions-provider-chipsoft-hit-by-ransomware-attack/"
         },
         {
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
@@ -45,6 +30,11 @@
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
             "description": "[CISA.GOV] CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-35616 - Fortinet FortiClient EMS Improper Access Control...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/04/06/cisa-adds-one-known-exploited-vulnerability-catalog"
+        },
+        {
+            "title": "GlassWorm Campaign Uses Zig Dropper to Infect Multiple Developer IDEs",
+            "description": "[FEEDS.FEEDBURNER.COM] Cybersecurity researchers have flagged yet another evolution of the&nbsp;ongoing GlassWorm campaign, which employs a new Zig dropper that's designed to stealthily infect all integrated development...",
+            "url": "https://thehackernews.com/2026/04/glassworm-campaign-uses-zig-dropper-to.html"
         },
         {
             "title": "Browser Extensions Are the New AI Consumption Channel That No One Is Talking About",
@@ -67,6 +57,16 @@
             "url": "https://thehackernews.com/2026/04/backdoored-smart-slider-3-pro-update.html"
         },
         {
+            "title": "Analysis of one billion CISA KEV remediation records exposes limits of human-scale security",
+            "description": "[BLEEPINGCOMPUTER.COM] Analysis of 1 billion CISA KEV remediation records reveal a breaking point for human-scale security. Qualys shows most critical flaws are exploited before defenders can patch them. [...]",
+            "url": "https://www.bleepingcomputer.com/news/security/analysis-of-one-billion-cisa-kev-remediation-records-exposes-limits-of-human-scale-security/"
+        },
+        {
+            "title": "Supply chain attack at CPUID pushes malware with CPU-Z/HWMonitor",
+            "description": "[BLEEPINGCOMPUTER.COM] Hackers gained access to an API for the CPUID project and changed the download links on the official website to serve malicious executables for the popular CPU-Z and HWMonitor tools. [...]",
+            "url": "https://www.bleepingcomputer.com/news/security/supply-chain-attack-at-cpuid-pushes-malware-with-cpu-z-hwmonitor/"
+        },
+        {
             "title": "Microsoft: Canadian employees targeted in payroll pirate attacks",
             "description": "[BLEEPINGCOMPUTER.COM] A financially motivated threat actor tracked as Storm-2755 is stealing Canadian employees' salary payments after hijacking their accounts in payroll pirate attacks. [...]",
             "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-canadian-employees-targeted-in-payroll-pirate-attacks/"
@@ -75,6 +75,11 @@
             "title": "Google rolls out Gmail end-to-end encryption on mobile devices",
             "description": "[BLEEPINGCOMPUTER.COM] Google says Gmail end-to-end encryption (E2EE) is now available on all Android and iOS devices, allowing enterprise users to read and compose emails without additional tools. [...]",
             "url": "https://www.bleepingcomputer.com/news/google/google-rolls-out-gmail-end-to-end-encryption-on-mobile-devices/"
+        },
+        {
+            "title": "AI Cyber Threat Warning Sparks High-Level Banking Summit",
+            "description": "[DEVDISCOURSE] Top U.S. financial leaders met to address the cybersecurity risks posed by Anthropic's new AI model, Mythos. The meeting aimed to alert banks of potential vulnerabilities and coordinate defenses...",
+            "url": "https://www.devdiscourse.com/article/technology/3868741-ai-cyber-threat-warning-sparks-high-level-banking-summit"
         },
         {
             "title": "South China Morning Post",
@@ -120,11 +125,6 @@
             "title": "Is Anthropic limiting the release of Mythos to protect the internet - or Anthropic?",
             "description": "[TECHCRUNCH] Are real cybersecurity concerns a cover for a bigger problem at the frontier lab?",
             "url": "https://techcrunch.com/2026/04/09/is-anthropic-limiting-the-release-of-mythos-to-protect-the-internet-or-anthropic/"
-        },
-        {
-            "title": "US cybersecurity software stocks \u200btumble after Anthropic announces it is 'scared' of launching new, powerful AI model",
-            "description": "[TIMES OF INDIA] Tech News News: Anthropic\u2019s newly announced AI model, Mythos, has sent shockwaves through financial markets, triggering a fresh sell-off in US software stocks and rei.",
-            "url": "https://timesofindia.indiatimes.com/technology/tech-news/us-cybersecurity-software-stocks-tumble-after-anthropic-announces-it-is-scared-of-launching-new-powerful-ai-model/articleshow/130151645.cms"
         }
     ]
 }
