@@ -1,5 +1,5 @@
 {
-    "updated": "2026-04-12 12:39:34 UTC",
+    "updated": "2026-04-12 14:34:16 UTC",
     "news": [
         {
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
@@ -20,6 +20,11 @@
             "title": "CPUID Breach Distributes STX RAT via Trojanized CPU-Z and HWMonitor Downloads",
             "description": "[FEEDS.FEEDBURNER.COM] Unknown threat actors compromised CPUID (\"cpuid[.]com\"), a website&nbsp;that hosts popular hardware monitoring tools like CPU-Z, HWMonitor, HWMonitor Pro, and PerfMonitor, for less than 24 hours to...",
             "url": "https://thehackernews.com/2026/04/cpuid-breach-distributes-stx-rat-via.html"
+        },
+        {
+            "title": "Critical Marimo pre-auth RCE flaw now under active exploitation",
+            "description": "[BLEEPINGCOMPUTER.COM] A critical pre-authentication remote code execution (RCE) vulnerability in Marimo is now under active exploitation, leveraged for credential theft. [...]",
+            "url": "https://www.bleepingcomputer.com/news/security/critical-marimo-pre-auth-rce-flaw-now-under-active-exploitation/"
         },
         {
             "title": "Adobe Patches Actively Exploited Acrobat Reader Flaw CVE-2026-34621",
@@ -70,11 +75,6 @@
             "title": "Analysis of one billion CISA KEV remediation records exposes limits of human-scale security",
             "description": "[BLEEPINGCOMPUTER.COM] Analysis of 1 billion CISA KEV remediation records reveal a breaking point for human-scale security. Qualys shows most critical flaws are exploited before defenders can patch them. [...]",
             "url": "https://www.bleepingcomputer.com/news/security/analysis-of-one-billion-cisa-kev-remediation-records-exposes-limits-of-human-scale-security/"
-        },
-        {
-            "title": "CPUID hacked to deliver malware via CPU-Z, HWMonitor downloads",
-            "description": "[BLEEPINGCOMPUTER.COM] Hackers gained access to an API for the CPUID project and changed the download links on the official website to serve malicious executables for the popular CPU-Z and HWMonitor tools. [...]",
-            "url": "https://www.bleepingcomputer.com/news/security/supply-chain-attack-at-cpuid-pushes-malware-with-cpu-z-hwmonitor/"
         },
         {
             "title": "What is Anthropic\u2019s Claude Mythos model?",
