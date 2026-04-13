@@ -1,5 +1,5 @@
 {
-    "updated": "2026-04-13 19:01:59 UTC",
+    "updated": "2026-04-13 20:43:07 UTC",
     "news": [
         {
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
@@ -22,6 +22,11 @@
             "url": "https://www.cisa.gov/news-events/alerts/2026/04/13/cisa-adds-seven-known-exploited-vulnerabilities-catalog"
         },
         {
+            "title": "JanelaRAT Malware Targets Latin American Banks with 14,739 Attacks in Brazil in 2025",
+            "description": "[FEEDS.FEEDBURNER.COM] Banks and financial institutions in Latin American countries like Brazil and Mexico have continued to be the target of a malware family called JanelaRAT. A modified version of BX RAT, JanelaRAT is...",
+            "url": "https://thehackernews.com/2026/04/janelarat-malware-targets-latin.html"
+        },
+        {
             "title": "FBI and Indonesian Police Dismantle W3LL Phishing Network Behind $20M Fraud Attempts",
             "description": "[FEEDS.FEEDBURNER.COM] The U.S. Federal Bureau of Investigation (FBI), in partnership with the Indonesian National Police, has dismantled the infrastructure associated with a global phishing operation that leveraged an...",
             "url": "https://thehackernews.com/2026/04/fbi-and-indonesian-police-dismantle.html"
@@ -35,6 +40,16 @@
             "title": "Your MTTD Looks Great. Your Post-Alert Gap Doesn't",
             "description": "[FEEDS.FEEDBURNER.COM] Anthropic restricted its Mythos Preview model last week after it autonomously found and exploited zero-day vulnerabilities in every major operating system and browser. Palo&nbsp;Alto Networks'...",
             "url": "https://thehackernews.com/2026/04/your-mttd-looks-great-your-post-alert.html"
+        },
+        {
+            "title": "Stolen Rockstar Games analytics data leaked by extortion gang",
+            "description": "[BLEEPINGCOMPUTER.COM] Rockstar Games has suffered a data breach linked to a recent security incident at Anodot, with the ShinyHunters extortion gang now leaking the stolen data on its data leak site. [...]",
+            "url": "https://www.bleepingcomputer.com/news/security/stolen-rockstar-games-analytics-data-leaked-by-extortion-gang/"
+        },
+        {
+            "title": "Critical flaw in wolfSSL library enables forged certificate use",
+            "description": "[BLEEPINGCOMPUTER.COM] A critical vulnerability in the wolfSSL SSL/TLS library can weaken security via improper verification of the hash algorithm or its size when checking Elliptic Curve Digital Signature Algorithm...",
+            "url": "https://www.bleepingcomputer.com/news/security/critical-flaw-in-wolfssl-library-enables-forged-certificate-use/"
         },
         {
             "title": "FBI takedown of W3LL phishing service leads to developer arrest",
@@ -57,24 +72,24 @@
             "url": "https://www.bleepingcomputer.com/news/security/new-bookingcom-data-breach-forces-reservation-pin-resets/"
         },
         {
-            "title": "OpenAI Revokes macOS App Certificate After Malicious Axios Supply Chain Incident",
-            "description": "[FEEDS.FEEDBURNER.COM] OpenAI revealed a GitHub Actions workflow used to sign its macOS apps led to the download of the malicious Axios library on March 31, but noted that no user data or internal system was compromised....",
-            "url": "https://thehackernews.com/2026/04/openai-revokes-macos-app-certificate.html"
-        },
-        {
-            "title": "Adobe rolls out emergency fix for Acrobat, Reader zero-day flaw",
-            "description": "[BLEEPINGCOMPUTER.COM] Adobe has released an emergency security update for Acrobat Reader to fix a vulnerability, tracked as CVE-2026-34621, that has been exploited in zero-day attacks since at least December. [...]",
-            "url": "https://www.bleepingcomputer.com/news/security/adobe-rolls-out-emergency-fix-for-acrobat-reader-zero-day-flaw/"
-        },
-        {
-            "title": "The silent \u201cStorm\u201d: New infostealer hijacks sessions, decrypts server-side",
-            "description": "[BLEEPINGCOMPUTER.COM] New \"Storm\" infostealer skips local decryption, sending browser data to attacker servers. Varonis shows how server-side decryption enables session hijacking, bypassing passwords and MFA. [...]",
-            "url": "https://www.bleepingcomputer.com/news/security/the-silent-storm-new-infostealer-hijacks-sessions-decrypts-server-side/"
-        },
-        {
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
             "description": "[CISA.GOV] CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-35616 - Fortinet FortiClient EMS Improper Access Control...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/04/06/cisa-adds-one-known-exploited-vulnerability-catalog"
+        },
+        {
+            "title": "Mythos testing begins as governments raise cyber concerns",
+            "description": "[SILICONREPUBLIC.COM] Wall Street banks begin testing Anthropic\u2019s new AI model Mythos as authorities worldwide signal cybersecurity concerns.",
+            "url": "https://www.siliconrepublic.com/enterprise/anthropic-claude-mythos-preview-us-canada-uk-banks-cybersecurity"
+        },
+        {
+            "title": "Anthropic's Claude Mythos triggers sell-off in cybersecurity stocks",
+            "description": "[MARKETSCREENER] Investors punished cybersecurity specialists amid fears that AI will accelerate vulnerability discovery and undermine traditional defense tools.",
+            "url": "https://www.marketscreener.com/news/anthropic-s-claude-mythos-triggers-sell-off-in-cybersecurity-stocks-ce7e50d9d08af323"
+        },
+        {
+            "title": "ZUPPA Empowers Indian Army with Cyber-Secure 'Ajeet' Drones",
+            "description": "[DEVDISCOURSE] Chennai-based ZUPPA Geo Navigation Technologies has strengthened India's defense with the delivery of over 500 STQC Certified 'Ajeet' drones to the Indian Army. Focused on cybersecurity and...",
+            "url": "https://www.devdiscourse.com/article/headlines/3871952-zuppa-empowers-indian-army-with-cyber-secure-ajeet-drones"
         },
         {
             "title": "DigiFortex: Achieving CREST Accreditation in Record Time",
@@ -110,21 +125,6 @@
             "title": "Spring Lake Park schools cancels classes due to suspected ransomware attack",
             "description": "[FOX 9] Spring Lake Park Schools has canceled classes for Monday after a suspected ransomware attack which has impacted all tech systems.",
             "url": "https://www.fox9.com/news/spring-lake-park-schools-cancels-classes-due-suspected-ransomware-attack"
-        },
-        {
-            "title": "Hong Kong\u2019s AI push draws global innovators",
-            "description": "[CNA] Hong Kong Cyberport is supporting technology innovation across AI, big data, blockchain and cybersecurity, while building links with ASEAN, the Middle East and mainland China.",
-            "url": "https://www.channelnewsasia.com/advertorial/hong-kongs-ai-driven-push-draws-global-innovators-6012666"
-        },
-        {
-            "title": "CrowdStrike: A Wing And A Prayer",
-            "description": "[SEEKING ALPHA] CrowdStrike faces valuation headwinds despite AI-driven cybersecurity demand and direct collaboration with Anthropic's Claude Mythos. See why CRWD is a Strong Sell.",
-            "url": "https://seekingalpha.com/article/4890076-crowdstrike-wing-and-a-prayer"
-        },
-        {
-            "title": "IMF chief warns global monetary system not ready for AI cyber threats",
-            "description": "[THE STRAITS TIMES] Her comments came the latest AI model from Anthropic raises urgent cybersecurity concerns. Read more at straitstimes.com.",
-            "url": "https://www.straitstimes.com/business/imf-chief-warns-global-monetary-system-not-ready-for-ai-cyber-threats"
         }
     ]
 }
