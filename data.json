@@ -1,5 +1,5 @@
 {
-    "updated": "2026-04-13 15:08:13 UTC",
+    "updated": "2026-04-13 16:54:18 UTC",
     "news": [
         {
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
@@ -17,11 +17,6 @@
             "url": "https://www.cisa.gov/news-events/alerts/2026/04/02/cisa-adds-one-known-exploited-vulnerability-catalog"
         },
         {
-            "title": "CPUID Breach Distributes STX RAT via Trojanized CPU-Z and HWMonitor Downloads",
-            "description": "[FEEDS.FEEDBURNER.COM] Unknown threat actors compromised CPUID (\"cpuid[.]com\"), a website&nbsp;that hosts popular hardware monitoring tools like CPU-Z, HWMonitor, HWMonitor Pro, and PerfMonitor, for less than 24 hours to...",
-            "url": "https://thehackernews.com/2026/04/cpuid-breach-distributes-stx-rat-via.html"
-        },
-        {
             "title": "Critical Marimo pre-auth RCE flaw now under active exploitation",
             "description": "[BLEEPINGCOMPUTER.COM] A critical pre-authentication remote code execution (RCE) vulnerability in Marimo is now under active exploitation, leveraged for credential theft. [...]",
             "url": "https://www.bleepingcomputer.com/news/security/critical-marimo-pre-auth-rce-flaw-now-under-active-exploitation/"
@@ -35,6 +30,11 @@
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
             "description": "[CISA.GOV] CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-3055 Citrix NetScaler Out-of-Bounds Read Vulnerability...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/03/30/cisa-adds-one-known-exploited-vulnerability-catalog"
+        },
+        {
+            "title": "FBI and Indonesian Police Dismantle W3LL Phishing Network Behind $20M Fraud Attempts",
+            "description": "[FEEDS.FEEDBURNER.COM] The U.S. Federal Bureau of Investigation (FBI), in partnership with the Indonesian National Police, has dismantled the infrastructure associated with a global phishing operation that leveraged an...",
+            "url": "https://thehackernews.com/2026/04/fbi-and-indonesian-police-dismantle.html"
         },
         {
             "title": "\u26a1 Weekly Recap: Fiber Optic Spying, Windows Rootkit, AI Vulnerability Hunting and More",
@@ -57,6 +57,11 @@
             "url": "https://thehackernews.com/2026/04/openai-revokes-macos-app-certificate.html"
         },
         {
+            "title": "Adobe rolls out emergency fix for Acrobat, Reader zero-day flaw",
+            "description": "[BLEEPINGCOMPUTER.COM] Adobe has released an emergency security update for Acrobat Reader to fix a vulnerability, tracked as CVE-2026-34621, that has been exploited in zero-day attacks since at least December. [...]",
+            "url": "https://www.bleepingcomputer.com/news/security/adobe-rolls-out-emergency-fix-for-acrobat-reader-zero-day-flaw/"
+        },
+        {
             "title": "The silent \u201cStorm\u201d: New infostealer hijacks sessions, decrypts server-side",
             "description": "[BLEEPINGCOMPUTER.COM] New \"Storm\" infostealer skips local decryption, sending browser data to attacker servers. Varonis shows how server-side decryption enables session hijacking, bypassing passwords and MFA. [...]",
             "url": "https://www.bleepingcomputer.com/news/security/the-silent-storm-new-infostealer-hijacks-sessions-decrypts-server-side/"
@@ -72,9 +77,14 @@
             "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-rolls-out-new-100-pro-subscription-to-challenge-claude/"
         },
         {
-            "title": "Nearly 4,000 US industrial devices exposed to Iranian cyberattacks",
-            "description": "[BLEEPINGCOMPUTER.COM] The attack surface targeted by Iranian-linked hackers in cyberattacks against U.S. critical infrastructure networks includes thousands of Internet-exposed programmable logic controllers (PLCs)...",
-            "url": "https://www.bleepingcomputer.com/news/security/nearly-4-000-us-industrial-devices-exposed-to-iranian-cyberattacks/"
+            "title": "US Banks Reportedly Testing Anthropic\u2019s Mythos Model For Security Risks: What We Know",
+            "description": "[TIMES NOW] A significant transition is occurring in the AI and banking sectors, as major US officials have urged banks to test Anthropic's Mythos model for identifying vulnerabilities. Although Mythos isn't...",
+            "url": "https://www.timesnownews.com/technology-science/us-banks-reportedly-testing-anthropics-mythos-model-for-security-risks-what-we-know-article-154064170"
+        },
+        {
+            "title": "Hackers breach GTA 6 developer Rockstar Games, demand ransom payment by tomorrow",
+            "description": "[LIVEMINT] Rockstar Games confirmed a data breach linked to a third-party provider. The ransomware group ShinyHunter has demanded a ransom by April 14 and have threatened to leak stolen data otherwise.",
+            "url": "https://www.livemint.com/technology/tech-news/hackers-breach-gta-6-developer-rockstar-games-demand-ransom-payment-by-tomorrow-11776046194736.html"
         },
         {
             "title": "IMF chief warns global monetary system not ready for AI cyber threats",
@@ -115,16 +125,6 @@
             "title": "DITO Telecommunity honored for AI, Cybersecurity Excellence at Asian Telecom Awards 2026",
             "description": "[THE MANILA TIMES] DITO Telecommunity continues to strengthen its position as a leading telecommunications provider, taking home two major honors at the prestigious Asian Telecom Awards 2026: AI Initiative of the...",
             "url": "https://www.manilatimes.net/2026/04/13/tmt-newswire/dito-telecommunity-honored-for-ai-cybersecurityexcellence-at-asian-telecom-awards-2026/2318599"
-        },
-        {
-            "title": "Women leaders shine at Israel-Philippines cybersecurity event",
-            "description": "[THE MANILA TIMES] WOMEN leaders from across technology, cybersecurity, business, medicine and media gathered for \u201cInnovateHer: Israel-Philippines Cybersecurity Brunch,\u201d an event that underscored collaboration,...",
-            "url": "https://www.manilatimes.net/2026/04/13/expats-diplomats/women-leaders-shine-at-israel-philippines-cybersecurity-event/2318571"
-        },
-        {
-            "title": "From AI to everything: How Anthropic is taking on tech\u2019s old guard",
-            "description": "[THE ECONOMIC TIMES] AI firm Anthropic is disrupting the software market. It launched tools for legal, financial, and HR tasks, impacting partner companies. Anthropic also introduced a cybersecurity tool that scans code...",
-            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/from-ai-to-everything-how-anthropic-is-taking-on-techs-old-guard/articleshow/130210267.cms"
         }
     ]
 }
