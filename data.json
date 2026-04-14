@@ -1,5 +1,5 @@
 {
-    "updated": "2026-04-14 04:38:34 UTC",
+    "updated": "2026-04-14 07:18:10 UTC",
     "news": [
         {
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
@@ -10,6 +10,16 @@
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
             "description": "[CISA.GOV] CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-5281 Google Dawn Use-After-Free Vulnerability This type...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/04/01/cisa-adds-one-known-exploited-vulnerability-catalog"
+        },
+        {
+            "title": "ShowDoc RCE Flaw CVE-2025-0520 Actively Exploited on Unpatched Servers",
+            "description": "[FEEDS.FEEDBURNER.COM] A critical security vulnerability&nbsp;impacting ShowDoc, a document management and collaboration service popular in China, has come under active exploitation in the&nbsp;wild. The vulnerability in...",
+            "url": "https://thehackernews.com/2026/04/showdoc-rce-flaw-cve-2025-0520-actively.html"
+        },
+        {
+            "title": "CISA Adds 6 Known Exploited Flaws in Fortinet, Microsoft, and Adobe Software",
+            "description": "[FEEDS.FEEDBURNER.COM] The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added half a dozen security flaws to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active...",
+            "url": "https://thehackernews.com/2026/04/cisa-adds-6-known-exploited-flaws-in.html"
         },
         {
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
@@ -42,11 +52,6 @@
             "url": "https://www.bleepingcomputer.com/news/security/european-gym-giant-basic-fit-data-breach-affects-1-million-members/"
         },
         {
-            "title": "Your MTTD Looks Great. Your Post-Alert Gap Doesn't",
-            "description": "[FEEDS.FEEDBURNER.COM] Anthropic restricted its Mythos Preview model last week after it autonomously found and exploited zero-day vulnerabilities in every major operating system and browser. Palo&nbsp;Alto Networks'...",
-            "url": "https://thehackernews.com/2026/04/your-mttd-looks-great-your-post-alert.html"
-        },
-        {
             "title": "Stolen Rockstar Games analytics data leaked by extortion gang",
             "description": "[BLEEPINGCOMPUTER.COM] Rockstar Games has suffered a data breach linked to a recent security incident at Anodot, with the ShinyHunters extortion gang now leaking the stolen data on its data leak site. [...]",
             "url": "https://www.bleepingcomputer.com/news/security/stolen-rockstar-games-analytics-data-leaked-by-extortion-gang/"
@@ -62,11 +67,6 @@
             "url": "https://www.bleepingcomputer.com/news/security/fbi-takedown-of-w3ll-phishing-service-leads-to-developer-arrest/"
         },
         {
-            "title": "North Korea's APT37 Uses Facebook Social Engineering to Deliver RokRAT Malware",
-            "description": "[FEEDS.FEEDBURNER.COM] The North Korean hacking group tracked&nbsp;as APT37 (aka ScarCruft) has been attributed to a fresh multi-stage, social engineering campaign in which threat actors approached targets on Facebook and...",
-            "url": "https://thehackernews.com/2026/04/north-koreas-apt37-uses-facebook-social.html"
-        },
-        {
             "title": "OpenAI rotates macOS certs after Axios attack hit code-signing workflow",
             "description": "[BLEEPINGCOMPUTER.COM] OpenAI is rotating potentially exposed macOS code-signing certificates after a GitHub Actions workflow executed a malicious Axios package during a recent supply chain attack. [...]",
             "url": "https://www.bleepingcomputer.com/news/security/openai-rotates-macos-certs-after-axios-attack-hit-code-signing-workflow/"
@@ -77,6 +77,46 @@
             "url": "https://www.cisa.gov/news-events/alerts/2026/04/06/cisa-adds-one-known-exploited-vulnerability-catalog"
         },
         {
+            "title": "Cybersecurity veteran on Anthropic\u2019s Mythos: \u2018We\u2019ve never had a problem finding vulnerabilities\u2019",
+            "description": "[FORTUNE] \u201cWe\u2019ve never had a problem finding vulnerabilities. We find them every day. We actually have a pile of them that we just don\u2019t fix.\u201d",
+            "url": "https://fortune.com/2026/04/13/cybersecurity-anthropic-claude-mythos-dario-amodei-tech-ceo/"
+        },
+        {
+            "title": "Anthropic Shock Hits Cybersecurity ETFs-Shift Toward Quantum Defense",
+            "description": "[BENZINGA] Anthropic-triggered shock sent cybersecurity ETFs lower; data reveals a growing shift toward AI-native security and quantum-safe encryption strategies.",
+            "url": "https://www.benzinga.com/etfs/sector-etfs/26/04/51789699/anthropic-shock-sends-cybersecurity-etfs-lower-but-data-signals-a-shift-toward-quantum-safe-defense"
+        },
+        {
+            "title": "Mythos AI: A New Threat to Banking Cybersecurity",
+            "description": "[DEVDISCOURSE] Anthropic's Mythos, an AI model announced on April 7, has the potential to revolutionize complex cyberattacks, posing a threat to the banking industry. Experts warn that its advanced coding...",
+            "url": "https://www.devdiscourse.com/article/technology/3872973-mythos-ai-a-new-threat-to-banking-cybersecurity"
+        },
+        {
+            "title": "AI-boosted hacks with Anthropic\u2019s Mythos could have dire consequences for banks",
+            "description": "[REUTERS] Anthropic's Mythos, a new AI model the company and cybersecurity experts warn could supercharge complex cyberattacks, \u200bposes significant challenges to the banking industry with its legacy technology...",
+            "url": "https://www.reuters.com/legal/litigation/ai-boosted-hacks-with-anthropics-mythos-could-have-dire-consequences-banks-2026-04-13/"
+        },
+        {
+            "title": "AI-boosted hacks with Anthropic's Mythos could have dire consequences for banks",
+            "description": "[MARKETSCREENER] Anthropic's Mythos, a new AI model the company and cybersecurity experts warn could supercharge complex cyberattacks, poses significant challenges to the banking industry with its legacy technology...",
+            "url": "https://www.marketscreener.com/news/ai-boosted-hacks-with-anthropic-s-mythos-could-have-dire-consequences-for-banks-ce7e50dedc8df627"
+        },
+        {
+            "title": "Rajasthan Police issues cybersecurity advisory against fraudulent bookings ahead of Char Dham Yatra",
+            "description": "[LOKMAT TIMES] Rajasthan Police issues cybersecurity advisory against fraudulent bookings ahead of Char Dham Yatra - Jaipur, April 13 Ahead of the Char Dham Yatra season, the Cyber Crime Branch of Rajasthan Police...",
+            "url": "https://www.lokmattimes.com/national/rajasthan-police-issues-cybersecurity-advisory-against-fraudulent-bookings-ahead-of-char-dham-yatra/"
+        },
+        {
+            "title": "Anthropic Claude Mythos: Serious Threat or Overhyped? AI Security Institute Weighs In",
+            "description": "[DECRYPT] Claude Mythos could be a potentially massive cybersecurity threat, according to early testing from the UK\u2019s AI Safety Institute.",
+            "url": "https://decrypt.co/364141/anthropic-claude-mythos-serious-threat-overhyped-ai-security-institute"
+        },
+        {
+            "title": "Anthropic Crashed Cybersecurity 13%: 4 Buys and 2 Stocks to Dump",
+            "description": "[INVESTING.COM] Market Analysis by covering: Cisco Systems Inc, Palo Alto Networks Inc, First Trust NASDAQ Cybersecurity ETF, Zscaler Inc. Read 's Market Analysis on Investing.com",
+            "url": "https://www.investing.com/analysis/anthropic-crashed-cybersecurity-13-4-buys-and-2-stocks-to-dump-200678291"
+        },
+        {
             "title": "Does Paycom Address the Growing Role of Trust as a Core Security Strategy in HR and Payroll?",
             "description": "[TECHBULLION] Cybersecurity has transformed from a technical discipline into a business imperative. Today, it is a topic regularly discussed by boards of directors, a factor in recruiting decisions and an emerging...",
             "url": "https://techbullion.com/does-paycom-address-the-growing-role-of-trust-as-a-core-security-strategy-in-hr-and-payroll/"
@@ -85,46 +125,6 @@
             "title": "NCC joins hands with NIELIT to provide hands-on training to cadets on cybersecurity",
             "description": "[THEPRINT] New Delhi, Apr 13 (PTI) The NCC on Monday joined hands with the National Institute of Electronics and Information Technology (NIELIT) to provide hands-on training to a section of cadets on...",
             "url": "https://theprint.in/india/ncc-joins-hands-with-nielit-to-provide-hands-on-training-to-cadets-on-cybersecurity/2903950/"
-        },
-        {
-            "title": "Empowering Rural Women with Cybersecurity: The Launch of e-SafeHER",
-            "description": "[DEVDISCOURSE] Reliance Foundation and C-DAC Hyderabad launch e-SafeHER, a cybersecurity awareness initiative aiming to empower one million rural women across India. Through training programs and community...",
-            "url": "https://www.devdiscourse.com/article/headlines/3872589-empowering-rural-women-with-cybersecurity-the-launch-of-e-safeher"
-        },
-        {
-            "title": "Spring Lake Park Schools closed over suspected ransomware incident",
-            "description": "[ST. PAUL PIONEER PRESS] Staff 'immediately shut all systems down to prevent further access,' the school district says.",
-            "url": "https://www.twincities.com/2026/04/13/spring-lake-park-schools-closed-ransomware/"
-        },
-        {
-            "title": "Cyber Cadets: Building Digital Defenders for Tomorrow",
-            "description": "[DEVDISCOURSE] The NCC and NIELIT have partnered to launch a training program to empower cadets with cybersecurity skills. The initiative includes online courses for all NCC members and intensive offline training...",
-            "url": "https://www.devdiscourse.com/article/education/3872579-cyber-cadets-building-digital-defenders-for-tomorrow"
-        },
-        {
-            "title": "Cybersecurity Stocks & AI (Claude): Sell-Off, Valuations & Top Picks",
-            "description": "[SEEKING ALPHA] Are cybersecurity stocks under real threat from AI\u2014or is this an overreaction? Steve Cress, VP of Quantitative Strategy at Seeking Alpha, breaks down the recent sell-off driven by AI fears,",
-            "url": "https://seekingalpha.com/article/4889294-claude-ai-fears-and-cybersecurity-stocks-are-investors-overreacting-steve-cress"
-        },
-        {
-            "title": "Anthropic Sets the Right AI Standard With Mythos",
-            "description": "[BLOOMBERG] Artificial intelligence firm Anthropic PBC did something few companies would ever consider: It spent billions to develop a product significantly better than any rival in the world\u2019s hottest...",
-            "url": "https://www.bloomberg.com/opinion/articles/2026-04-13/anthropic-sets-the-right-ai-standard-with-mythos"
-        },
-        {
-            "title": "Cyble Recognized in External Threat Intelligence Service Providers Landscape, Q1 2026 Report",
-            "description": "[PR NEWSWIRE UK] /PRNewswire/ -- Cyble, a global leader in AI-native cybersecurity solutions, today announced its inclusion in Forrester's External Threat Intelligence Service...",
-            "url": "https://www.prnewswire.co.uk/news-releases/cyble-recognized-in-external-threat-intelligence-service-providers-landscape-q1-2026-report-302740343.html"
-        },
-        {
-            "title": "IT Audit Services Companies in Birmingham: Full Overview",
-            "description": "[TECHBULLION] Explore IT audit services companies in Birmingham with this practical guide. Get an overview of their expertise in cybersecurity, data protection, IT governance, and risk controls to help compare...",
-            "url": "https://techbullion.com/it-audit-services-companies-in-birmingham-full-overview/"
-        },
-        {
-            "title": "IT Audit Services Companies UK: Practical Guide to Your Options",
-            "description": "[TECHBULLION] Discover UK-based companies offering IT audit services, from cybersecurity controls and GDPR compliance to IT governance and third-party risk management. This overview helps you understand their...",
-            "url": "https://techbullion.com/it-audit-services-companies-in-the-uk-a-practical-overview-and-selection-guide/"
         }
     ]
 }
