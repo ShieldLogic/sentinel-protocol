@@ -1,6 +1,11 @@
 {
-    "updated": "2026-04-15 16:53:28 UTC",
+    "updated": "2026-04-15 19:01:20 UTC",
     "news": [
+        {
+            "title": "n8n Webhooks Abused Since October 2025 to Deliver Malware via Phishing Emails",
+            "description": "[FEEDS.FEEDBURNER.COM] Threat actors&nbsp;have been&nbsp;observed weaponizing n8n, a popular artificial intelligence (AI) workflow automation platform, to facilitate sophisticated phishing campaigns and deliver malicious...",
+            "url": "https://thehackernews.com/2026/04/n8n-webhooks-abused-since-october-2025.html"
+        },
         {
             "title": "Actively Exploited nginx-ui Flaw (CVE-2026-33032) Enables Full Nginx Server Takeover",
             "description": "[FEEDS.FEEDBURNER.COM] A recently disclosed critical security flaw impacting nginx-ui, an open-source, web-based Nginx management tool, has come under active exploitation in the&nbsp;wild. The vulnerability in question is...",
@@ -22,6 +27,11 @@
             "url": "https://thehackernews.com/2026/04/microsoft-issues-patches-for-sharepoint.html"
         },
         {
+            "title": "Signed software abused to deploy antivirus-killing scripts",
+            "description": "[BLEEPINGCOMPUTER.COM] A digitally signed adware tool has deployed payloads running with SYSTEM privileges that disabled antivirus protections on thousands of endpoints, some in the educational, utilities, government, and...",
+            "url": "https://www.bleepingcomputer.com/news/security/signed-software-abused-to-deploy-antivirus-killing-scripts/"
+        },
+        {
             "title": "Microsoft pays $2.3M for cloud and AI flaws at Zero Day Quest",
             "description": "[BLEEPINGCOMPUTER.COM] Microsoft has awarded $2.3 million to security researchers after receiving nearly 700 submissions during this year's Zero Day Quest hacking contest. [...]",
             "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-pays-23-million-for-cloud-and-ai-flaws-at-zero-day-quest/"
@@ -37,19 +47,9 @@
             "url": "https://www.bleepingcomputer.com/news/security/rolling-networks-securing-the-transportation-sector/"
         },
         {
-            "title": "OpenAI Launches GPT-5.4-Cyber with Expanded Access for Security Teams",
-            "description": "[FEEDS.FEEDBURNER.COM] OpenAI on Tuesday&nbsp;unveiled GPT-5.4-Cyber, a variant of its latest flagship&nbsp;model, GPT\u20115.4, that's specifically optimized for defensive cybersecurity use cases, days after rival Anthropic...",
-            "url": "https://thehackernews.com/2026/04/openai-launches-gpt-54-cyber-with.html"
-        },
-        {
             "title": "Microsoft: April updates trigger BitLocker key prompts on some servers",
             "description": "[BLEEPINGCOMPUTER.COM] Microsoft confirmed on Tuesday that some Windows Server 2025 devices will boot into BitLocker recovery after installing the April 2026 KB5082063 Windows security update. [...]",
             "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-some-windows-servers-ask-for-bitlocker-key-after-april-updates/"
-        },
-        {
-            "title": "Microsoft fixes bug behind Windows Server 2025 automatic upgrades",
-            "description": "[BLEEPINGCOMPUTER.COM] Microsoft has finally fixed a known issue that was causing systems running Windows Server 2019 and 2022 to \"unexpectedly\" upgrade to Windows Server 2025. [...]",
-            "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-behind-windows-server-2025-automatic-upgrades/"
         },
         {
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
@@ -77,6 +77,41 @@
             "url": "https://www.cisa.gov/news-events/alerts/2026/04/06/cisa-adds-one-known-exploited-vulnerability-catalog"
         },
         {
+            "title": "Crypto Exchanges Brace for Extremely Powerful AI",
+            "description": "[U.TODAY] Major cryptocurrency exchanges, including Coinbase and Binance, are scrambling to fortify their cybersecurity defenses ahead of the release of Anthropic\u2019s \"Claude Mythos.\"",
+            "url": "https://u.today/crypto-exchanges-brace-for-extremely-powerful-ai"
+        },
+        {
+            "title": "Over 100 Chrome extensions caught stealing Google and Telegram data: How to stay safe?",
+            "description": "[LIVEMINT] Cybersecurity experts have reported a coordinated attack involving 108 Google Chrome extensions that steal user data and hijack Telegram sessions. Researchers say these extensions have been installed...",
+            "url": "https://www.livemint.com/technology/tech-news/over-100-chrome-extensions-caught-stealing-google-and-telegram-data-how-to-stay-safe-11776233272916.html"
+        },
+        {
+            "title": "JISA Softech Partners with MIT Group of Institutions to Bridge Industry",
+            "description": "[THE TRIBUNE] Pune, India \u2013 14th April 2026: JISA Softech Private Limited, a leading cybersecurity and technology solutions provider, has entered into a strategic Memorandum of Understanding (MoU) with MIT Group...",
+            "url": "https://www.tribuneindia.com/news/business/jisa-softech-partners-with-mit-group-of-institutions-to-bridge-industry-academia-gap-2-2/"
+        },
+        {
+            "title": "OpenAI Unveils GPT-5.4 Cyber To Rival Claude Mythos: What's Different?",
+            "description": "[FREE PRESS JOURNAL] OpenAI has launched GPT-5.4-Cyber, a specialised variant of its GPT-5.4 model designed for cybersecurity defence. With fewer restrictions, it can analyse malware, reverse engineer binaries and detect...",
+            "url": "https://www.freepressjournal.in/tech/openai-unveils-gpt-54-cyber-to-rival-claude-mythos-whats-different"
+        },
+        {
+            "title": "OpenAI unveils GPT-5.4-Cyber a week after rival\u2019s announcement of AI model",
+            "description": "[THE INDIAN EXPRESS] OpenAI has unveiled GPT-5.4-Cyber, a specialized model for defensive cybersecurity work. This comes after Anthropic\u2019s announcement of their AI model Mythos, which has already identified thousands of...",
+            "url": "https://indianexpress.com/shorts/technology/openai-unveils-gpt-5-4-cyber-a-week-after-rivals-announcement-of-ai-model-10637249/"
+        },
+        {
+            "title": "GIGABYTE Announces Exclusive ANZ Bundle: 12 Months of Surfshark One with Select Gaming Laptops",
+            "description": "[ITWIRE] GIGABYTE, the world\u2019s leading computer brand, today announced a strategic partnership with Surfshark, a global pioneer in cybersecurity. Starting toda...",
+            "url": "https://itwire.com/business-it-news/hardware-and-storage/resellers/gigabyte-announces-exclusive-anz-bundle-12-months-of-surfshark-one-with-select-gaming-laptops.html"
+        },
+        {
+            "title": "OpenAI launches GPT 5.4 Cyber to boost AI powered cybersecurity, eyes lead over Claude Mythos",
+            "description": "[BUSINESS TODAY] OpenAI's GPT 5.4 Cyber is a tailored version of GPT\u20115.4, which is willing to respond to cybersecurity-related requests when they are legitimate.",
+            "url": "https://www.businesstoday.in/technology/story/openai-launches-gpt-54-cyber-to-boost-ai-powered-cybersecurity-eyes-lead-over-claude-mythos-525688-2026-04-15"
+        },
+        {
             "title": "OpenAI Launches GPT-5.4-Cyber with Expanded Access for Security Teams",
             "description": "[THE HACKER NEWS] GPT-5.4-Cyber launch expands defender access and helped fix 3,000+ vulnerabilities, strengthening proactive cybersecurity defenses.",
             "url": "https://thehackernews.com/2026/04/openai-launches-gpt-54-cyber-with.html"
@@ -90,41 +125,6 @@
             "title": "OpenAI unveils GPT-5.4-Cyber a week after rival\u2019s announcement of AI model",
             "description": "[THE INDIAN EXPRESS] GPT-5.4-Cyber: OpenAI\u2019s bold push to arm defenders in the AI cybersecurity race",
             "url": "https://indianexpress.com/article/technology/tech-news-technology/openai-unveils-gpt-5-4-cyber-a-week-after-rivals-announcement-of-ai-model-10637249/"
-        },
-        {
-            "title": "OpenAI\u2019s GPT-5.4-Cyber is not for everyone, just like Anthropic\u2019s Claude Mythos: Here\u2019s how it compares",
-            "description": "[THE FINANCIAL EXPRESS] Access to GPT-5.4-Cyber is granted exclusively to vetted cybersecurity professionals, researchers, and organisations participating in OpenAI's Trusted Access for Cyber program.",
-            "url": "https://www.financialexpress.com/life/technology-openais-gpt-5-4-cyber-is-not-for-everyone-just-like-anthropics-claude-mythos-how-it-compares-4207605/"
-        },
-        {
-            "title": "OpenAI just announced its Claude Mythos challenger, it is called GPT 5.4 Cyber",
-            "description": "[INDIA TODAY] OpenAI has announced that it will give access to its latest AI model to a select group of companies and users, days after Anthropic released Claude Mythos in a similar manner. According to the AI...",
-            "url": "https://www.indiatoday.in/technology/news/story/openai-just-announced-its-claude-mythos-challenger-it-is-called-gpt-54-cyber-2896351-2026-04-15"
-        },
-        {
-            "title": "OpenAI Brings GPT-5.4-Cyber, AI That Stops Cyberattacks Before They Happen",
-            "description": "[TIMES NOW] OpenAI has launched GPT-5.4-Cyber, a specialised AI model designed to help cybersecurity experts detect threats, analyse vulnerabilities, and strengthen digital defenses, with access limited to...",
-            "url": "https://www.timesnownews.com/technology-science/openai-brings-gpt-5-4-cyber-ai-that-stops-cyberattacks-before-they-happen-article-154079837"
-        },
-        {
-            "title": "OpenAI unveils GPT-5.4-Cyber in restricted rollout, a direct challenge to Claude Mythos",
-            "description": "[FIRSTPOST] OpenAI is quietly testing a new cybersecurity-focused AI model, but it will not be publicly available just yet. Instead, the company is handing early access to vetted experts to probe its strengths...",
-            "url": "https://www.firstpost.com/tech/openai-unveils-gpt-5-4-cyber-in-restricted-rollout-a-direct-challenge-to-claude-mythos-14000543.html"
-        },
-        {
-            "title": "OpenAI launches a less restricted GPT-5.4 Cyber model, but you won't find it on ChatGPT",
-            "description": "[LIVEMINT] OpenAI has introduced the GPT-5.4 Cyber model its new model tailored for defensive cybersecurity tasks. The model is designed to assist security professionals and will be available to vetted vendors,...",
-            "url": "https://www.livemint.com/technology/tech-news/openai-launches-a-less-restricted-gpt-5-4-cyber-model-but-you-wont-find-it-on-chatgpt-11776214141205.html"
-        },
-        {
-            "title": "Cyber a week after rival's announcement of AI model",
-            "description": "[THE ECONOMIC TIMES] ChatGPT-maket OpenAI, said \u200bthat GPT-5.4-Cyber will initially be rolled \u2060out on a limited basis to \u200bvetted security vendors, organisations and researchers \u200bbecause of its more permissive design....",
-            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-unveils-gpt-5-4-cyber-a-week-after-rivals-announcement-of-ai-model/articleshow/130270931.cms"
-        },
-        {
-            "title": "OpenAI unveils GPT-5.4-Cyber a week after rival's announcement of AI model",
-            "description": "[THE STAR] April 14 (Reuters) - OpenAI \u2060on Tuesday unveiled GPT-5.4-Cyber, a variant of \u2060its latest flagship model fine-tuned specifically for defensive \u200ccybersecurity work, following rival Anthropic's...",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/04/15/openai-unveils-gpt-54-cyber-a-week-after-rival039s-announcement-of-ai-model"
         }
     ]
 }
