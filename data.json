@@ -1,10 +1,15 @@
 {
-    "updated": "2026-04-15 22:33:55 UTC",
+    "updated": "2026-04-16 01:48:33 UTC",
     "news": [
         {
             "title": "n8n Webhooks Abused Since October 2025 to Deliver Malware via Phishing Emails",
             "description": "[FEEDS.FEEDBURNER.COM] Threat actors&nbsp;have been&nbsp;observed weaponizing n8n, a popular artificial intelligence (AI) workflow automation platform, to facilitate sophisticated phishing campaigns and deliver malicious...",
             "url": "https://thehackernews.com/2026/04/n8n-webhooks-abused-since-october-2025.html"
+        },
+        {
+            "title": "Critical Nginx UI auth bypass flaw now actively exploited in the wild",
+            "description": "[BLEEPINGCOMPUTER.COM] A critical vulnerability in Nginx UI with Model Context Protocol (MCP) support is now being exploited in the wild for full server takeover without authentication. [...]",
+            "url": "https://www.bleepingcomputer.com/news/security/critical-nginx-ui-auth-bypass-flaw-now-actively-exploited-in-the-wild/"
         },
         {
             "title": "Actively Exploited nginx-ui Flaw (CVE-2026-33032) Enables Full Nginx Server Takeover",
@@ -47,11 +52,6 @@
             "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-pays-23-million-for-cloud-and-ai-flaws-at-zero-day-quest/"
         },
         {
-            "title": "CISA flags Windows Task Host vulnerability as exploited in attacks",
-            "description": "[BLEEPINGCOMPUTER.COM] CISA warned U.S. government agencies to secure their systems against a Windows Task Host privilege escalation vulnerability that could allow attackers to gain SYSTEM privileges. [...]",
-            "url": "https://www.bleepingcomputer.com/news/security/cisa-flags-windows-task-host-vulnerability-as-exploited-in-attacks/"
-        },
-        {
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
             "description": "[CISA.GOV] CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-1340 Ivanti Endpoint Manager Mobile (EPMM) Code Injection...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/04/08/cisa-adds-one-known-exploited-vulnerability-catalog"
@@ -77,6 +77,36 @@
             "url": "https://www.cisa.gov/news-events/alerts/2026/04/06/cisa-adds-one-known-exploited-vulnerability-catalog"
         },
         {
+            "title": "Two Words That Changed Cybersecurity: Find Evil! 1,100 Builders Answer the Call To Defend U.S. Infrastructure",
+            "description": "[THE MANILA TIMES] SANS Institute launches Find Evil!, the first hackathon for autonomous AI incident response, with $22,000+ in prizes and a single mission: close the gap between AI-driven attacks and the humans...",
+            "url": "https://www.manilatimes.net/2026/04/15/tmt-newswire/globenewswire/two-words-that-changed-cybersecurity-find-evil-1100-builders-answer-the-call-to-defend-us-infrastructure/2321115"
+        },
+        {
+            "title": "Gorakhpur's AI Awareness Triumph: Guinness World Record Achieved",
+            "description": "[DEVDISCOURSE] Gorakhpur achieved a Guinness World Record for its 'AI for All Awareness Programme' by recording over 7.64 lakh registrations. The initiative, guided by Chief Minister Yogi Adityanath, offers free...",
+            "url": "https://www.devdiscourse.com/article/education/3875079-gorakhpurs-ai-awareness-triumph-guinness-world-record-achieved"
+        },
+        {
+            "title": "Cybersecurity boss says worker\u2019s fears about Israeli military hacking his firm \u2018James Bond stuff\u2019",
+            "description": "[THE IRISH TIMES] Edgescan CEO Eoin Keary told the WRC he formed the view that worker Cian \u00d3 Laoi was an \u2018insider threat\u2019 to the business",
+            "url": "https://www.irishtimes.com/business/2026/04/15/cybersecurity-boss-says-workers-fears-about-israeli-military-hacking-his-firm-james-bond-stuff/"
+        },
+        {
+            "title": "OpenAI unveils restricted cybersecurity AI model after Anthropic Mythos-Who gets access?",
+            "description": "[THE NEWS INTERNATIONAL] OpenAI has recently unveiled its latest cybersecurity model, following the release of Anthropic\u2019s powerful Claude Mythos model, capable of identifying the critical vulnerabilities in operating...",
+            "url": "https://www.thenews.com.pk/latest/1399042-openai-unveils-restricted-cybersecurity-ai-model-after-anthropic-mythoswho-gets-access"
+        },
+        {
+            "title": "Why Palo Alto and Zscaler Stocks Are 2 Top Buys Amid the Iran War According to Wedbush",
+            "description": "[BARCHART] Palo Alto and Zscaler have been named as top cybersecurity picks by Wedbush analyst Dan Ives.",
+            "url": "https://www.barchart.com/story/news/1316030/why-palo-alto-and-zscaler-stocks-are-2-top-buys-amid-the-iran-war-according-to-wedbush"
+        },
+        {
+            "title": "Gorakhpur Sets World Record with AI Awareness Mega Campaign",
+            "description": "[DEVDISCOURSE] Gorakhpur achieved a Guinness World Record with an AI awareness campaign, registering over 7.6 lakh participants in a week. The 'AI for All Awareness Programme' surpassed its target, offering free...",
+            "url": "https://www.devdiscourse.com/article/technology/3874864-gorakhpur-sets-world-record-with-ai-awareness-mega-campaign"
+        },
+        {
             "title": "EU Invests \u20ac1.07 Billion in Defence Innovation Projects",
             "description": "[DEVDISCOURSE] The European Commission announced a \u20ac1.07 billion investment in 57 key defence projects focusing on AI, cybersecurity, drones, and anti-drone systems, part of a \u20ac7.3 billion fund spanning 2021-2027....",
             "url": "https://www.devdiscourse.com/article/technology/3874773-eu-invests-107-billion-in-defence-innovation-projects"
@@ -95,36 +125,6 @@
             "title": "More Than 100 Chrome Extensions Accused Of Data Theft On Google And Telegram, Here's The Full List",
             "description": "[TIMES NOW] Recent cybersecurity research has uncovered that over 108 Google Chrome extensions are maliciously crafted to steal user data, inject harmful code, and hijack Telegram sessions, amassing around...",
             "url": "https://www.timesnownews.com/technology-science/more-than-100-chrome-extensions-accused-of-data-theft-on-google-and-telegram-heres-the-full-list-article-154083320"
-        },
-        {
-            "title": "After Anthropic, OpenAI launches cyber-specific AI model",
-            "description": "[SILICONREPUBLIC.COM] Purpose-built for security operations, the new GPT-5.4 version will be accessible to those that verify themselves as cybersecurity defenders.",
-            "url": "https://www.siliconrepublic.com/enterprise/after-anthropic-openai-launches-cyber-specific-ai-model"
-        },
-        {
-            "title": "Crypto Exchanges Brace for Extremely Powerful AI",
-            "description": "[U.TODAY] Major cryptocurrency exchanges, including Coinbase and Binance, are scrambling to fortify their cybersecurity defenses ahead of the release of Anthropic\u2019s \"Claude Mythos.\"",
-            "url": "https://u.today/crypto-exchanges-brace-for-extremely-powerful-ai"
-        },
-        {
-            "title": "Over 100 Chrome extensions caught stealing Google and Telegram data: How to stay safe?",
-            "description": "[LIVEMINT] Cybersecurity experts have reported a coordinated attack involving 108 Google Chrome extensions that steal user data and hijack Telegram sessions. Researchers say these extensions have been installed...",
-            "url": "https://www.livemint.com/technology/tech-news/over-100-chrome-extensions-caught-stealing-google-and-telegram-data-how-to-stay-safe-11776233272916.html"
-        },
-        {
-            "title": "JISA Softech Partners with MIT Group of Institutions to Bridge Industry",
-            "description": "[THE TRIBUNE] Pune, India \u2013 14th April 2026: JISA Softech Private Limited, a leading cybersecurity and technology solutions provider, has entered into a strategic Memorandum of Understanding (MoU) with MIT Group...",
-            "url": "https://www.tribuneindia.com/news/business/jisa-softech-partners-with-mit-group-of-institutions-to-bridge-industry-academia-gap-2-2/"
-        },
-        {
-            "title": "OpenAI Unveils GPT-5.4 Cyber To Rival Claude Mythos: What's Different?",
-            "description": "[FREE PRESS JOURNAL] OpenAI has launched GPT-5.4-Cyber, a specialised variant of its GPT-5.4 model designed for cybersecurity defence. With fewer restrictions, it can analyse malware, reverse engineer binaries and detect...",
-            "url": "https://www.freepressjournal.in/tech/openai-unveils-gpt-54-cyber-to-rival-claude-mythos-whats-different"
-        },
-        {
-            "title": "OpenAI unveils GPT-5.4-Cyber a week after rival\u2019s announcement of AI model",
-            "description": "[THE INDIAN EXPRESS] OpenAI has unveiled GPT-5.4-Cyber, a specialized model for defensive cybersecurity work. This comes after Anthropic\u2019s announcement of their AI model Mythos, which has already identified thousands of...",
-            "url": "https://indianexpress.com/shorts/technology/openai-unveils-gpt-5-4-cyber-a-week-after-rivals-announcement-of-ai-model-10637249/"
         }
     ]
 }
