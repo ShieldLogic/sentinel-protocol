@@ -1,11 +1,6 @@
 {
-    "updated": "2026-04-16 13:07:36 UTC",
+    "updated": "2026-04-16 15:19:06 UTC",
     "news": [
-        {
-            "title": "Critical Nginx UI auth bypass flaw now actively exploited in the wild",
-            "description": "[BLEEPINGCOMPUTER.COM] A critical vulnerability in Nginx UI with Model Context Protocol (MCP) support is now being exploited in the wild for full server takeover without authentication. [...]",
-            "url": "https://www.bleepingcomputer.com/news/security/critical-nginx-ui-auth-bypass-flaw-now-actively-exploited-in-the-wild/"
-        },
         {
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
             "description": "[CISA.GOV] CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-1340 Ivanti Endpoint Manager Mobile (EPMM) Code Injection...",
@@ -15,6 +10,11 @@
             "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
             "description": "[CISA.GOV] CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2009-0238 Microsoft Office Remote Code Execution...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/04/14/cisa-adds-two-known-exploited-vulnerabilities-catalog"
+        },
+        {
+            "title": "ThreatsDay Bulletin: Defender 0-Day,\u00a0SonicWall Brute-Force, 17-Year-Old Excel RCE and 15 More Stories",
+            "description": "[FEEDS.FEEDBURNER.COM] You know that feeling when you open your feed on a Thursday morning and it's just... a lot? Yeah. This week delivered. We've got hackers getting creative in ways that are almost impressive if you...",
+            "url": "https://thehackernews.com/2026/04/threatsday-bulletin-17-year-old-excel.html"
         },
         {
             "title": "[Webinar] Find and Eliminate Orphaned Non-Human Identities in Your Environment",
@@ -27,19 +27,24 @@
             "url": "https://thehackernews.com/2026/04/cisco-patches-four-critical-identity.html"
         },
         {
-            "title": "Obsidian Plugin Abuse Delivers PHANTOMPULSE RAT in Targeted Finance, Crypto Attacks",
-            "description": "[FEEDS.FEEDBURNER.COM] A \"novel\" social engineering campaign has been observed abusing Obsidian, a cross-platform note-taking application, as an initial access vector to distribute a previously undocumented Windows remote...",
-            "url": "https://thehackernews.com/2026/04/obsidian-plugin-abuse-delivers.html"
-        },
-        {
             "title": "Hidden Passenger? How Taboola Routes Logged-In Banking Sessions to Temu",
             "description": "[FEEDS.FEEDBURNER.COM] A&nbsp;bank approved a Taboola pixel. That&nbsp;pixel quietly redirected logged-in users to a Temu tracking endpoint. This&nbsp;occurred without the bank\u2019s knowledge, without user consent, and...",
             "url": "https://thehackernews.com/2026/04/hidden-passenger-how-taboola-routes.html"
         },
         {
-            "title": "UAC-0247 Targets Ukrainian Clinics and Government in Data-Theft Malware Campaign",
-            "description": "[FEEDS.FEEDBURNER.COM] The Computer Emergencies Response Team of Ukraine (CERT-UA)&nbsp;has disclosed details of a new&nbsp;campaign that has&nbsp;targeted governments and municipal healthcare institutions, mainly clinics...",
-            "url": "https://thehackernews.com/2026/04/uac-0247-targets-ukrainian-clinics-and.html"
+            "title": "Obsidian Plugin Abuse Delivers PHANTOMPULSE RAT in Targeted Finance, Crypto Attacks",
+            "description": "[FEEDS.FEEDBURNER.COM] A \"novel\" social engineering campaign has been observed abusing Obsidian, a cross-platform note-taking application, as an initial access vector to distribute a previously undocumented Windows remote...",
+            "url": "https://thehackernews.com/2026/04/obsidian-plugin-abuse-delivers.html"
+        },
+        {
+            "title": "New ATHR vishing platform uses AI voice agents for automated attacks",
+            "description": "[BLEEPINGCOMPUTER.COM] A new cybercrime platform called ATHR can harvest credentials via fully automated voice phishing attacks that use both human operators and AI agents for the social engineering phase. [...]",
+            "url": "https://www.bleepingcomputer.com/news/security/new-athr-vishing-platform-uses-ai-voice-agents-for-automated-attacks/"
+        },
+        {
+            "title": "Most \"AI SOCs\" Are Just Faster Triage. That's Not Enough.",
+            "description": "[BLEEPINGCOMPUTER.COM] AI-powered SOC tools promise automation, but most only speed up triage instead of reducing real workload. Tines shows how real gains come from end-to-end workflows that execute actions across...",
+            "url": "https://www.bleepingcomputer.com/news/security/most-ai-socs-are-just-faster-triage-thats-not-enough/"
         },
         {
             "title": "Cisco says critical Webex Services flaw requires customer action",
@@ -57,11 +62,6 @@
             "url": "https://www.bleepingcomputer.com/news/security/us-nationals-behind-north-korean-it-worker-laptop-farm-sent-to-prison/"
         },
         {
-            "title": "Microsoft: April Windows Server 2025 update may fail to install",
-            "description": "[BLEEPINGCOMPUTER.COM] Microsoft is investigating an issue causing this month's KB5082063 security update to fail to install on some Windows Server 2025 systems. [...]",
-            "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-april-windows-server-2025-update-may-fail-to-install/"
-        },
-        {
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
             "description": "[CISA.GOV] CISA has added&nbsp;one&nbsp;new&nbsp;vulnerability&nbsp;to its&nbsp;Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation.&nbsp;...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/04/02/cisa-adds-one-known-exploited-vulnerability-catalog"
@@ -77,9 +77,24 @@
             "url": "https://www.cisa.gov/news-events/alerts/2026/04/06/cisa-adds-one-known-exploited-vulnerability-catalog"
         },
         {
+            "title": "AI That Can Hack? Anthropic Tested Mythos - Here\u2019s What It Found",
+            "description": "[TIMES NOW] Anthropic\u2019s new AI model Mythos, can independently find and exploit system vulnerabilities, raising global cybersecurity concerns. Here's how the Anthropic team found out the potential risks of the...",
+            "url": "https://www.timesnownews.com/technology-science/ai-that-can-hack-anthropic-tested-mythos-heres-what-it-found-article-154089055"
+        },
+        {
+            "title": "Brockton Hospital takes patients via ambulance again - 9 days after cybersecurity incident",
+            "description": "[MASSLIVE] A Massachusetts hospital began accepting patients via ambulance again on Wednesday, more than a week after a cybersecurity incident led to the shutdown of some of its services.",
+            "url": "https://www.masslive.com/news/2026/04/brockton-hospital-takes-patients-via-ambulance-again-9-days-after-cybersecurity-incident.html"
+        },
+        {
             "title": "Services at Brockton hospital return to normal after cybersecurity incident",
             "description": "[BOSTON.COM] The cybersecurity incident prompted the hospital to declare a \u201ccode black,\u201d resulting in diverted ambulances and paused operations.",
             "url": "https://www.boston.com/news/local-news/2026/04/15/services-at-brockton-hospital-return-to-normal-more-than-a-week-after-cyberattack/"
+        },
+        {
+            "title": "School board reviews 4R cybersecurity system",
+            "description": "[AURORA NEWS-REGISTER] Four years after helping launch a Next Gen Technology program at Aurora Public Schools, Rob Nachtigal explained to the board Monday changes made in recent years to strengthen the district\u2019s...",
+            "url": "https://www.auroranewsregister.com/index.php/news/school-board-reviews-4r-cybersecurity-system"
         },
         {
             "title": "Opinion | After Mythos, the Future of the Internet Is At a Crossroads",
@@ -110,21 +125,6 @@
             "title": "Get Ahead of Cybersecurity Concerns With This Training Bundle for $20",
             "description": "[ENTREPRENEUR] Get more than 85 hours of coursework with the 2026 AI Security & Cybersecurity Expert Bundle.",
             "url": "https://www.entrepreneur.com/science-technology/get-ahead-of-cybersecurity-concerns-with-this-training/504028"
-        },
-        {
-            "title": "India: Epicentre of Ransomware in Asia-Pacific 2025",
-            "description": "[DEVDISCOURSE] Indian firms have become a key target for ransomware attacks, with 65% paying substantial ransoms in 2025. Such attacks have surged in the manufacturing sector, positioning India as an epicentre for...",
-            "url": "https://www.devdiscourse.com/article/technology/3875282-india-epicentre-of-ransomware-in-asia-pacific-2025"
-        },
-        {
-            "title": "Russian cyber attack on thermal power plant",
-            "description": "[THE ECONOMIC TIMES] Sweden stopped a Russian-linked cyber attack on a power plant in mid-2025. The Swedish Security Service identified the group. The attack aimed to disrupt heating supplies. This highlights Russia's...",
-            "url": "https://economictimes.indiatimes.com/tech/technology/sweden-thwarted-2025-pro-russian-cyber-attack-on-thermal-power-plant/articleshow/130285927.cms"
-        },
-        {
-            "title": "Two Words That Changed Cybersecurity: Find Evil! 1,100 Builders Answer the Call To Defend U.S. Infrastructure",
-            "description": "[THE MANILA TIMES] SANS Institute launches Find Evil!, the first hackathon for autonomous AI incident response, with $22,000+ in prizes and a single mission: close the gap between AI-driven attacks and the humans...",
-            "url": "https://www.manilatimes.net/2026/04/15/tmt-newswire/globenewswire/two-words-that-changed-cybersecurity-find-evil-1100-builders-answer-the-call-to-defend-us-infrastructure/2321115"
         }
     ]
 }
