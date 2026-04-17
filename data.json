@@ -1,5 +1,5 @@
 {
-    "updated": "2026-04-17 04:42:04 UTC",
+    "updated": "2026-04-17 07:20:01 UTC",
     "news": [
         {
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
@@ -42,24 +42,9 @@
             "url": "https://thehackernews.com/2026/04/webinar-find-and-eliminate-orphaned-non.html"
         },
         {
-            "title": "Cisco Patches Four Critical Identity Services, Webex Flaws Enabling Code Execution",
-            "description": "[FEEDS.FEEDBURNER.COM] Cisco has announced patches to address four critical security flaws impacting Identity Services and Webex Services that could result in arbitrary code execution and allow an attacker to impersonate...",
-            "url": "https://thehackernews.com/2026/04/cisco-patches-four-critical-identity.html"
-        },
-        {
             "title": "New Microsoft Defender \u201cRedSun\u201d zero-day PoC grants SYSTEM privileges",
             "description": "[BLEEPINGCOMPUTER.COM] A researcher known as \"Chaotic Eclipse\" has published a proof-of-concept exploit for a second Microsoft Defender zero-day, dubbed \"RedSun,\" in the past two weeks, protesting how the company works...",
             "url": "https://www.bleepingcomputer.com/news/microsoft/new-microsoft-defender-redsun-zero-day-poc-grants-system-privileges/"
-        },
-        {
-            "title": "Hackers exploit Marimo flaw to deploy NKAbuse malware from Hugging Face",
-            "description": "[BLEEPINGCOMPUTER.COM] Hackers are exploiting a critical vulnerability in Marimo reactive Python notebook to deploy a new variant of NKAbuse malware hosted on Hugging Face Spaces. [...]",
-            "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-marimo-flaw-to-deploy-nkabuse-malware-from-hugging-face/"
-        },
-        {
-            "title": "Google expands Gemini AI use to fight malicious ads on its platform",
-            "description": "[BLEEPINGCOMPUTER.COM] Google says it is increasingly using its Gemini AI models to detect and block harmful ads on its advertising platforms, as scammers and threat actors continue to evolve their tactics to evade...",
-            "url": "https://www.bleepingcomputer.com/news/google/google-expands-gemini-ai-use-to-fight-malicious-ads-on-its-platform/"
         },
         {
             "title": "CISA Adds Seven Known Exploited Vulnerabilities to Catalog",
@@ -72,9 +57,49 @@
             "url": "https://www.cisa.gov/news-events/alerts/2026/04/06/cisa-adds-one-known-exploited-vulnerability-catalog"
         },
         {
+            "title": "Operation PowerOFF Seizes 53 DDoS Domains, Exposes 3 Million Criminal Accounts",
+            "description": "[FEEDS.FEEDBURNER.COM] An international law enforcement operation has taken down 53 domains and arrested four people in connection with commercial distributed denial-of-service (DDoS) operations that were used by more than...",
+            "url": "https://thehackernews.com/2026/04/operation-poweroff-seizes-53-ddos.html"
+        },
+        {
             "title": "Apache ActiveMQ CVE-2026-34197 Added to CISA KEV Amid Active Exploitation",
             "description": "[FEEDS.FEEDBURNER.COM] A recently disclosed high-severity security flaw in Apache ActiveMQ&nbsp;Classic has come under active exploitation in the wild, per the U.S. Cybersecurity and Infrastructure Security...",
             "url": "https://thehackernews.com/2026/04/apache-activemq-cve-2026-34197-added-to.html"
+        },
+        {
+            "title": "Man gets 30 months for selling thousands of hacked DraftKings accounts",
+            "description": "[BLEEPINGCOMPUTER.COM] 23-year-old Kamerin Stokes of Memphis, Tennessee, was sentenced to 30 months in prison for selling access to tens of thousands of hacked DraftKings accounts. [...]",
+            "url": "https://www.bleepingcomputer.com/news/security/man-gets-30-months-for-selling-thousands-of-hacked-draftkings-accounts/"
+        },
+        {
+            "title": "Recently leaked Windows zero-days now exploited in attacks",
+            "description": "[BLEEPINGCOMPUTER.COM] Threat actors are exploiting three recently disclosed Windows security vulnerabilities in attacks aimed at gaining SYSTEM or elevated administrator permissions. [...]",
+            "url": "https://www.bleepingcomputer.com/news/security/recently-leaked-windows-zero-days-now-exploited-in-attacks/"
+        },
+        {
+            "title": "Software stocks in focus as AI raises cybersecurity stakes",
+            "description": "[BNN BLOOMBERG] AI adoption and rising cyber threats boost outlook for software stocks focused on security, data and infrastructure growth.",
+            "url": "https://www.bnnbloomberg.ca/investing/hot-picks/2026/04/16/hot-picks-cybersecurity-and-ai-trends-highlight-software-stocks-to-watch/"
+        },
+        {
+            "title": "I went on Today Explained to chat about Mythos Preview.",
+            "description": "[THE VERGE] Anthropic\u2019s private cybersecurity-focused model, which is being used by a handful of large companies including Nvidia, Apple, and JPMorgan Chase to plug high-stakes vulnerabilities in their systems,...",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/913508/i-went-on-today-explained-to-chat-about-mythos-preview"
+        },
+        {
+            "title": "White House to give US agencies Anthropic Mythos access, Bloomberg News reports",
+            "description": "[REUTERS] The U.S. government is planning to make a version of Anthropic's frontier AI model Mythos available to major federal \u200bagencies amid concerns that the tool could sharply increase cybersecurity risk,...",
+            "url": "https://www.reuters.com/technology/white-house-give-us-agencies-anthropic-mythos-access-bloomberg-news-reports-2026-04-16/"
+        },
+        {
+            "title": "White House Works to Give US Agencies Anthropic Mythos AI",
+            "description": "[BLOOMBERG] The US government is preparing to make a version of Anthropic PBC\u2019s powerful new artificial intelligence model available to major federal agencies amid concerns that the tool could sharply increase...",
+            "url": "https://www.bloomberg.com/news/articles/2026-04-16/white-house-moves-to-give-us-agencies-anthropic-mythos-access"
+        },
+        {
+            "title": "Dead Los Alamos chief's secret UFO files revealed in stunning drop: '100% proof'",
+            "description": "[DAILY MAIL ONLINE] A senior cybersecurity official at one of America's most secretive nuclear laboratories died several years ago, leaving behind files that have now been released.",
+            "url": "https://www.dailymail.co.uk/sciencetech/article-15738961/los-alamos-cyber-chief-secret-ufo-files.html"
         },
         {
             "title": "ESET launches AI-powered MDR service in Asia-Pacific region",
@@ -100,31 +125,6 @@
             "title": "ThreatsDay Bulletin: 17-Year-Old Excel RCE, Defender 0-Day, SonicWall Brute-Force and 15 More Stories",
             "description": "[THE HACKER NEWS] This week's biggest hacks, zero-days, supply chain attacks, crypto theft, ransomware hits, and critical patches \u2014 all in one place.",
             "url": "https://thehackernews.com/2026/04/threatsday-bulletin-17-year-old-excel.html"
-        },
-        {
-            "title": "Stellantis, Microsoft Sign 5-Year Collaboration Deal to Accelerates AI Strategies",
-            "description": "[MARKETSCREENER] Stellantis and Microsoft said Thursday that they have signed a five-year strategic collaboration deal to co-develop advanced artificial intelligence, cybersecurity, and engineering capabilities...",
-            "url": "https://www.marketscreener.com/news/stellantis-microsoft-sign-5-year-collaboration-deal-to-accelerates-ai-strategies-ce7e50ddde8af120"
-        },
-        {
-            "title": "Stellantis, Microsoft sign five",
-            "description": "[THE ECONOMIC TIMES] Automaker Stellantis partners with Microsoft for five years. They will jointly develop artificial intelligence and cybersecurity. This collaboration aims to boost Stellantis' technology efforts. The...",
-            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/stellantis-microsoft-sign-five-year-partnership-for-ai-push/articleshow/130307614.cms"
-        },
-        {
-            "title": "Agentic AI growth will give this cybersecurity stock a big boost, Raymond James says",
-            "description": "[CNBC TV18] The investment bank upgraded the identity and access management stock to outperform from market perform.",
-            "url": "https://www.cnbctv18.com/market/agentic-ai-growth-will-give-this-cybersecurity-stock-a-big-boost-raymond-james-says-ws-l-19888082.htm"
-        },
-        {
-            "title": "Stellantis, Microsoft sign five-year partnership for AI push",
-            "description": "[REUTERS] Stellantis and \u200bMicrosoft said on Thursday they agreed to a five\u2011year strategic partnership to \u200cco-develop artificial intelligence (AI), cybersecurity and engineering capabilities, as the automaker...",
-            "url": "https://www.reuters.com/business/autos-transportation/stellantis-microsoft-sign-five-year-partnership-ai-push-2026-04-16/"
-        },
-        {
-            "title": "Stellantis, Microsoft sign five-year partnership for AI push",
-            "description": "[MARKETSCREENER] Stellantis and Microsoft said on Thursday they agreed to a five-year strategic partnership to co-develop artificial intelligence , cybersecurity and engineering capabilities, as the automaker races...",
-            "url": "https://www.marketscreener.com/news/stellantis-microsoft-sign-five-year-partnership-for-ai-push-ce7e50dddf8cf224"
         }
     ]
 }
