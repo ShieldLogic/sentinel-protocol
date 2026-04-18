@@ -1,5 +1,5 @@
 {
-    "updated": "2026-04-18 04:24:35 UTC",
+    "updated": "2026-04-18 06:56:44 UTC",
     "news": [
         {
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
@@ -15,6 +15,11 @@
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
             "description": "[CISA.GOV] CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-34197 Apache ActiveMQ Improper Input Validation...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/04/16/cisa-adds-one-known-exploited-vulnerability-catalog"
+        },
+        {
+            "title": "Mirai Variant Nexcorium Exploits CVE-2024-3721 to Hijack TBK DVRs for DDoS Botnet",
+            "description": "[FEEDS.FEEDBURNER.COM] Threat actors are exploiting security flaws in TBK DVR and end\u2011of\u2011life (EoL) TP-Link Wi-Fi routers to deploy Mirai-botnet variants on compromised devices, according to findings from Fortinet...",
+            "url": "https://thehackernews.com/2026/04/mirai-variant-nexcorium-exploits-cve.html"
         },
         {
             "title": "CISA Adds Seven Known Exploited Vulnerabilities to Catalog",
@@ -62,11 +67,6 @@
             "url": "https://www.bleepingcomputer.com/news/security/inside-an-underground-guide-how-threat-actors-vet-stolen-credit-card-shops/"
         },
         {
-            "title": "Apache ActiveMQ CVE-2026-34197 Added to CISA KEV Amid Active Exploitation",
-            "description": "[FEEDS.FEEDBURNER.COM] A recently disclosed high-severity security flaw in Apache ActiveMQ&nbsp;Classic has come under active exploitation in the wild, per the U.S. Cybersecurity and Infrastructure Security...",
-            "url": "https://thehackernews.com/2026/04/apache-activemq-cve-2026-34197-added-to.html"
-        },
-        {
             "title": "Webinar: From phishing to fallout \u2014 Why MSPs must rethink both security and recovery",
             "description": "[BLEEPINGCOMPUTER.COM] Cyberattacks are evolving faster than many MSP and corporate defenses can keep up, with phishing driving much of today's cybercrime. Join our upcoming webinar to learn how to combine security and...",
             "url": "https://www.bleepingcomputer.com/news/security/webinar-from-phishing-to-fallout-why-msps-must-rethink-both-security-and-recovery/"
@@ -75,6 +75,36 @@
             "title": "CISA flags Apache ActiveMQ flaw as actively exploited in attacks",
             "description": "[BLEEPINGCOMPUTER.COM] CISA warned that attackers are now exploiting a high-severity Apache ActiveMQ vulnerability, which was patched earlier this month after going undetected for 13 years. [...]",
             "url": "https://www.bleepingcomputer.com/news/security/cisa-flags-apache-activemq-flaw-as-actively-exploited-in-attacks/"
+        },
+        {
+            "title": "A Key Cybersecurity CEO Says \u2018We Must Fight AI With AI\u2019 as Software Stocks Keep Selling Off. Are We Missing the Bigger Picture With Cyber Stocks?",
+            "description": "[BARCHART] Palo Alto Networks CEO Nikesh Arora believes cybersecurity is only growing in importance as AI advancements continue.",
+            "url": "https://www.barchart.com/story/news/1373180/a-key-cybersecurity-ceo-says-we-must-fight-ai-with-ai-as-software-stocks-keep-selling-off-are-we-missing-the-bigger-picture-with-cyber-stocks"
+        },
+        {
+            "title": "Nervous Indian fintech firms push Anthropic for early access to Mythos",
+            "description": "[BUSINESS STANDARD] Regulators, central bankers and executives have been on high alert after it emerged that Mythos can discover cybersecurity vulnerabilities that have gone undetected for years",
+            "url": "https://www.business-standard.com/technology/tech-news/nervous-indian-fintech-firms-push-anthropic-for-early-access-to-mythos-126041701498_1.html"
+        },
+        {
+            "title": "Anthropic CEO to meet White House chief of staff amid Pentagon dispute: Report",
+            "description": "[MONEYCONTROL] The potential meeting comes as Trump's administration acknowledges the advanced capabilities of Anthropic's new AI model, Mythos, for its sophisticated cybersecurity defense breaching abilities",
+            "url": "https://www.moneycontrol.com/artificial-intelligence/anthropic-ceo-to-meet-white-house-chief-of-staff-amid-pentagon-dispute-report-article-13892398.html"
+        },
+        {
+            "title": "Hackers are abusing unpatched Windows security flaws to hack into organizations",
+            "description": "[TECHCRUNCH] A security researcher published details of three security vulnerabilities in Windows Defender, and the code used to exploit them. Now, hackers are taking advantage of the vulnerabilities in real-life...",
+            "url": "https://techcrunch.com/2026/04/17/hackers-are-abusing-unpatched-windows-security-flaws-to-hack-into-organizations/"
+        },
+        {
+            "title": "Exein establishes APAC headquarters and Taipei office",
+            "description": "[THE MANILA TIMES] Partnering with Taiwan's ecosystem to set new global runtime cybersecurity standards",
+            "url": "https://www.manilatimes.net/2026/04/18/tmt-newswire/pr-newswire/exein-establishes-apac-headquarters-and-taipei-office/2322978"
+        },
+        {
+            "title": "A Full Cybersecurity Suite That Won't Break the Bank",
+            "description": "[GIZMODO] Norton 360 Standard offers antivirus, VPN, and multi-device protection \u2014 here\u2019s what you get, how it performs, and whether it\u2019s worth the price.",
+            "url": "https://gizmodo.com/norton-360-a-full-cybersecurity-suite-that-wont-break-the-bank-2000747941"
         },
         {
             "title": "Expert: Youths should treat job offers with caution",
@@ -95,36 +125,6 @@
             "title": "What is Mythos and why are experts worried about Anthropic\u2019s AI model",
             "description": "[SCIENTIFIC AMERICAN] The company says Mythos is too dangerous to release publicly. Cybersecurity experts agree the model's capabilities matter, but not all of them are buying the most alarming claims",
             "url": "https://www.scientificamerican.com/article/what-is-mythos-and-why-are-experts-worried-about-anthropics-ai-model/"
-        },
-        {
-            "title": "Is Anthropic's Mythos AI too powerful? Bankers and ministers get into a huddle and raise concerns - key points to know",
-            "description": "[THE ECONOMIC TIMES] Anthropic Mythos financial system risk: Discover why global financial leaders are worried about Anthropic's powerful Mythos AI model, exploring its potential risks to financial systems and...",
-            "url": "https://economictimes.indiatimes.com/news/international/us/is-anthropics-mythos-ai-too-powerful-bankers-and-ministers-get-into-a-huddle-and-raise-concerns-key-points-to-know/articleshow/130333801.cms"
-        },
-        {
-            "title": "Murcia Students Reach National Final of Guardia Civil Cybersecurity League",
-            "description": "[THE LEADER NEWSPAPER] Murcia Students Reach National Final of Guardia Civil Cybersecurity League - Eight students from the San Vicente de Pa\u00fal School in Cartagena and Infanta Elena Secondary School in Jumilla have...",
-            "url": "https://theleader.info/2026/04/17/murcia-students-reach-national-final-of-guardia-civil-cybersecurity-league/"
-        },
-        {
-            "title": "EU in high stakes talks with Anthropic to address cybersecurity concerns: Here\u2019s what to expect",
-            "description": "[THE NEWS INTERNATIONAL] Anthropic is currently in talks with the European Commission regarding various models, such as its cybersecurity tools which are not yet available in the EU. This is in line with remarks made by...",
-            "url": "https://www.thenews.com.pk/latest/1399345-eu-in-high-stakes-talks-with-anthropic-to-address-cybersecurity-concerns-heres-what-to-expect"
-        },
-        {
-            "title": "Health care\u2019s biggest cybersecurity vulnerability is structural",
-            "description": "[STAT] The health care security reckoning that experts have warned about for years is finally coming.",
-            "url": "https://www.statnews.com/2026/04/17/health-care-cybersecurity-ransomware-project-glasswing/"
-        },
-        {
-            "title": "It Is Time to Ban the Sale of Precise Geolocation",
-            "description": "[LAWFARE] The latest edition of the Seriously Risky Business cybersecurity newsletter, now on Lawfare.",
-            "url": "https://www.lawfaremedia.org/article/it-is-time-to-ban-the-sale-of-precise-geolocation"
-        },
-        {
-            "title": "Hardware Security Modules Market Outlook 2026-2031: 10.02% CAGR Growth Driven by Increasing Cybersecurity Investments and Secure Key Management Needs, Reports Mordor Intelligence",
-            "description": "[PR NEWSWIRE UK] /PRNewswire/ -- According to Mordor Intelligence latest report, the hardware security modules market was valued at USD 1.98 billion in 2025 and is projected to...",
-            "url": "https://www.prnewswire.co.uk/news-releases/hardware-security-modules-market-outlook-20262031-10-02-cagr-growth-driven-by-increasing-cybersecurity-investments-and-secure-key-management-needs-reports-mordor-intelligence-302745662.html"
         }
     ]
 }
