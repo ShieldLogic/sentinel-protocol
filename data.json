@@ -1,5 +1,5 @@
 {
-    "updated": "2026-04-20 16:55:28 UTC",
+    "updated": "2026-04-20 18:52:31 UTC",
     "news": [
         {
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
@@ -17,6 +17,16 @@
             "url": "https://www.cisa.gov/news-events/alerts/2026/04/16/cisa-adds-one-known-exploited-vulnerability-catalog"
         },
         {
+            "title": "\u200b\u200bSupply Chain Compromise Impacts Axios Node Package Manager\u200b",
+            "description": "[CISA.GOV] The Cybersecurity and Infrastructure Security Agency (CISA) is releasing this alert to provide guidance in response to the software supply chain compromise of the Axios node package manager (npm).1...",
+            "url": "https://www.cisa.gov/news-events/alerts/2026/04/20/supply-chain-compromise-impacts-axios-node-package-manager"
+        },
+        {
+            "title": "SGLang CVE-2026-5760 (CVSS 9.8) Enables RCE via Malicious GGUF Model Files",
+            "description": "[FEEDS.FEEDBURNER.COM] A critical security vulnerability has been disclosed in SGLang that, if successfully exploited, could result in remote code execution on susceptible systems. The vulnerability, tracked as...",
+            "url": "https://thehackernews.com/2026/04/sglang-cve-2026-5760-cvss-98-enables.html"
+        },
+        {
             "title": "\u26a1 Weekly Recap: Vercel Hack, Push Fraud, QEMU Abused, New Android RATs Emerge & More",
             "description": "[FEEDS.FEEDBURNER.COM] Monday\u2019s recap shows the same pattern in different places. A third-party tool becomes a way in, then leads to internal access. A trusted download path is briefly swapped to deliver malware. Browser...",
             "url": "https://thehackernews.com/2026/04/weekly-recap-vercel-hack-push-fraud.html"
@@ -30,6 +40,11 @@
             "title": "Anthropic MCP Design Vulnerability Enables RCE, Threatening AI Supply Chain",
             "description": "[FEEDS.FEEDBURNER.COM] Cybersecurity researchers have discovered a critical \"by design\" weakness in the Model Context Protocol's (MCP) architecture that could pave the way for remote code execution and have a cascading...",
             "url": "https://thehackernews.com/2026/04/anthropic-mcp-design-vulnerability.html"
+        },
+        {
+            "title": "Seiko USA website defaced as hacker claims customer data theft",
+            "description": "[BLEEPINGCOMPUTER.COM] The Seiko USA website was defaced over the weekend, displaying a message from attackers claiming they stole its Shopify customer database and threatening to leak it unless a ransom is paid. [...]",
+            "url": "https://www.bleepingcomputer.com/news/security/seiko-usa-website-defaced-as-hacker-claims-customer-data-theft/"
         },
         {
             "title": "Researchers Detect ZionSiphon Malware Targeting Israeli Water, Desalination OT Systems",
@@ -52,19 +67,9 @@
             "url": "https://www.bleepingcomputer.com/news/security/british-scattered-spider-hacker-pleads-guilty-to-crypto-theft-charges/"
         },
         {
-            "title": "Vercel Breach Tied to Context AI Hack Exposes Limited Customer Credentials",
-            "description": "[FEEDS.FEEDBURNER.COM] Web infrastructure provider Vercel has disclosed a security breach that allows bad actors to gain unauthorized access to \"certain\" internal Vercel systems. The incident stemmed from the compromise of...",
-            "url": "https://thehackernews.com/2026/04/vercel-breach-tied-to-context-ai-hack.html"
-        },
-        {
             "title": "Microsoft tests Windows Explorer speed, performance improvements",
             "description": "[BLEEPINGCOMPUTER.COM] Microsoft is rolling out multiple File Explorer changes to Windows 11 users in the Insider program, including improvements to launch speed and performance. [...]",
             "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-file-explorer-speed-performance-improvements/"
-        },
-        {
-            "title": "Microsoft pulls service update causing Teams launch failures",
-            "description": "[BLEEPINGCOMPUTER.COM] Microsoft has reverted a recent service update that was preventing some customers from launching the Microsoft Teams desktop client. [...]",
-            "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-teams-client-launch-failures-caused-by-service-update/"
         },
         {
             "title": "CISA Adds Seven Known Exploited Vulnerabilities to Catalog",
@@ -72,9 +77,9 @@
             "url": "https://www.cisa.gov/news-events/alerts/2026/04/13/cisa-adds-seven-known-exploited-vulnerabilities-catalog"
         },
         {
-            "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-            "description": "[CISA.GOV] CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-35616 - Fortinet FortiClient EMS Improper Access Control...",
-            "url": "https://www.cisa.gov/news-events/alerts/2026/04/06/cisa-adds-one-known-exploited-vulnerability-catalog"
+            "title": "Cybersecurity in 2026: What Has Changed and Why It Matters",
+            "description": "[TECHBULLION] The internet is no longer just a place for social media and emails. It runs businesses, hospitals, schools, banks, and even homes.",
+            "url": "https://techbullion.com/cybersecurity-in-2026-what-has-changed-and-why-it-matters/"
         },
         {
             "title": "Over 200 Japanese firms paid ransomware attackers, 60% fail to recover data",
@@ -120,11 +125,6 @@
             "title": "New AI platforms hand hackers powerful new tools for cracking cybersecurity",
             "description": "[CHICAGO SUN-TIMES] Anthropic released its new Mythos AI to 40 top tech companies so they can debug their systems before the bad guys get a chance.",
             "url": "https://chicago.suntimes.com/columnists/2026/04/19/new-ai-platforms-hackers-tools-cybersecurity-column"
-        },
-        {
-            "title": "India's Banking Sector Resilient; 11-13% Credit Growth For January-June Likely: Survey",
-            "description": "[NDTV PROFIT] While AI is perceived as the most disruptive development likely to reshape banking operations, cybersecurity risk is seen as most pressing challenge confronting banks.",
-            "url": "https://www.ndtvprofit.com/markets/indias-banking-sector-resilient-11-13-credit-growth-for-january-june-likely-survey-11379248"
         }
     ]
 }
