@@ -1,6 +1,11 @@
 {
-    "updated": "2026-04-22 09:11:49 UTC",
+    "updated": "2026-04-22 10:57:18 UTC",
     "news": [
+        {
+            "title": "Microsoft Patches Critical ASP.NET Core CVE-2026-40372 Privilege Escalation Bug",
+            "description": "[FEEDS.FEEDBURNER.COM] Microsoft has released out-of-band updates to address a security vulnerability in ASP.NET Core that could allow an attacker to escalate privileges. The vulnerability, tracked as CVE-2026-40372,...",
+            "url": "https://thehackernews.com/2026/04/microsoft-patches-critical-aspnet-core.html"
+        },
         {
             "title": "Mustang Panda\u2019s New LOTUSLITE Variant Targets India Banks, South Korea Policy Circles",
             "description": "[FEEDS.FEEDBURNER.COM] Cybersecurity researchers have discovered a new variant of a known malware called LOTUSLITE that's distributed via a theme related to India's banking sector. \"The backdoor communicates with a dynamic...",
@@ -10,6 +15,16 @@
             "title": "Cohere AI Terrarium Sandbox Flaw Enables Root Code Execution, Container Escape",
             "description": "[FEEDS.FEEDBURNER.COM] A critical security vulnerability has been disclosed in a Python-based sandbox called Terrarium that could result in arbitrary code execution. The vulnerability, tracked as CVE-2026-5752, is rated...",
             "url": "https://thehackernews.com/2026/04/cohere-ai-terrarium-sandbox-flaw.html"
+        },
+        {
+            "title": "Microsoft traces Universal Print issues to Graph API code change",
+            "description": "[BLEEPINGCOMPUTER.COM] Microsoft says that an ongoing Universal Print sharing issue that prevents users from creating some printer shares is due to a Microsoft Graph API code change. [...]",
+            "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-graph-api-code-change-causes-universal-print-share-issues/"
+        },
+        {
+            "title": "New GoGra malware for Linux uses Microsoft Graph API for comms",
+            "description": "[BLEEPINGCOMPUTER.COM] A Linux variant of the GoGra backdoor uses legitimate Microsoft infrastructure, relying on an Outlook inbox for stealthy payload delivery. [...]",
+            "url": "https://www.bleepingcomputer.com/news/security/new-gogra-malware-for-linux-uses-microsoft-graph-api-for-comms/"
         },
         {
             "title": "Microsoft releases emergency patches for critical ASP.NET flaw",
@@ -32,24 +47,9 @@
             "url": "https://thehackernews.com/2026/04/22-bridgebreak-flaws-expose-20000.html"
         },
         {
-            "title": "Ransomware Negotiator Pleads Guilty to Aiding BlackCat Attacks in 2023",
-            "description": "[FEEDS.FEEDBURNER.COM] A third individual who was employed as a ransomware negotiator has pleaded guilty to conducting ransomware attacks against U.S. companies in 2023. Angelo Martino, 41, of Land O'Lakes, Florida, teamed...",
-            "url": "https://thehackernews.com/2026/04/ransomware-negotiator-pleads-guilty-to.html"
-        },
-        {
             "title": "French govt agency confirms breach as hacker offers to sell data",
             "description": "[BLEEPINGCOMPUTER.COM] France Titres, the government agency in France for issuing and managince administrative documents has disclosed a data breach after a threat actor claimed the attack and stealing citizen data. [...]",
             "url": "https://www.bleepingcomputer.com/news/security/french-govt-agency-confirms-breach-as-hacker-offers-to-sell-data/"
-        },
-        {
-            "title": "New Lotus data wiper used against Venezuelan energy, utility firms",
-            "description": "[BLEEPINGCOMPUTER.COM] A previously undocumented data-wiping malware dubbed Lotus was used last year in targeted attacks against energy and utilities organizations in Venezuela. [...]",
-            "url": "https://www.bleepingcomputer.com/news/security/new-lotus-data-wiper-used-against-venezuelan-energy-utility-firms/"
-        },
-        {
-            "title": "Stopping Fraud at Each Stage of the Customer Journey Without Adding Friction",
-            "description": "[BLEEPINGCOMPUTER.COM] Fraud prevention and user experience don't have to be a tradeoff. IPQS shows how combining identity, device, and network signals stops fraud without adding friction. [...]",
-            "url": "https://www.bleepingcomputer.com/news/security/stopping-fraud-at-each-stage-of-the-customer-journey-without-adding-friction/"
         },
         {
             "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
