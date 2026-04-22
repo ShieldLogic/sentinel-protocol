@@ -1,6 +1,11 @@
 {
-    "updated": "2026-04-22 18:59:03 UTC",
+    "updated": "2026-04-22 20:42:41 UTC",
     "news": [
+        {
+            "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+            "description": "[CISA.GOV] CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-33825 Microsoft Defender Insufficient Granularity of...",
+            "url": "https://www.cisa.gov/news-events/alerts/2026/04/22/cisa-adds-one-known-exploited-vulnerability-catalog"
+        },
         {
             "title": "Malicious KICS Docker Images and VS Code Extensions Hit Checkmarx Supply Chain",
             "description": "[FEEDS.FEEDBURNER.COM] Cybersecurity researchers have warned of malicious images pushed to the official \"checkmarx/kics\" Docker Hub repository. In an alert published today, software supply chain security company Socket...",
@@ -27,6 +32,11 @@
             "url": "https://thehackernews.com/2026/04/toxic-combinations-when-cross-app.html"
         },
         {
+            "title": "New Mirai campaign exploits RCE flaw in EoL D-Link routers",
+            "description": "[BLEEPINGCOMPUTER.COM] A new Mirai-based malware campaign is actively exploiting CVE-2025-29635, a high-severity command-injection vulnerability affecting D-Link DIR-823X routers, to enlist devices into the botnet. [...]",
+            "url": "https://www.bleepingcomputer.com/news/security/new-mirai-campaign-exploits-rce-flaw-in-eol-d-link-routers/"
+        },
+        {
             "title": "Kyber ransomware gang toys with post-quantum encryption on Windows",
             "description": "[BLEEPINGCOMPUTER.COM] A new Kyber ransomware operation is targeting Windows systems and VMware ESXi endpoints in recent attacks, with one variant implementing Kyber1024 post-quantum encryption. [...]",
             "url": "https://www.bleepingcomputer.com/news/security/kyber-ransomware-gang-toys-with-post-quantum-encryption-on-windows/"
@@ -45,11 +55,6 @@
             "title": "New npm supply-chain attack self-spreads to steal auth tokens",
             "description": "[BLEEPINGCOMPUTER.COM] A new supply chain attack targeting the Node Package Manager (npm) ecosystem is stealing developer credentials and attempting to spread through packages published from compromised accounts. [...]",
             "url": "https://www.bleepingcomputer.com/news/security/new-npm-supply-chain-attack-self-spreads-to-steal-auth-tokens/"
-        },
-        {
-            "title": "Microsoft Teams to get efficiency mode on PCs with limited resources",
-            "description": "[BLEEPINGCOMPUTER.COM] Microsoft is preparing to roll out a new Efficiency Mode for Microsoft Teams for systems with limited CPU and memory resources to improve app responsiveness. [...]",
-            "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-gets-efficiency-mode-for-hardware-constrained-devices/"
         },
         {
             "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
@@ -72,9 +77,34 @@
             "url": "https://www.cisa.gov/news-events/alerts/2026/04/20/supply-chain-compromise-impacts-axios-node-package-manager"
         },
         {
-            "title": "CISA Adds Seven Known Exploited Vulnerabilities to Catalog",
-            "description": "[CISA.GOV] CISA has added seven new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2012-1854 Microsoft Visual Basic for Applications Insecure...",
-            "url": "https://www.cisa.gov/news-events/alerts/2026/04/13/cisa-adds-seven-known-exploited-vulnerabilities-catalog"
+            "title": "Australia and New Zealand central banks monitoring Anthropic's Mythos release",
+            "description": "[REUTERS] The central banks of Australia and New Zealand said on Wednesday they were monitoring the release \u200bof Anthropic's advanced Mythos artificial intelligence model, joining authorities around \u200cthe world...",
+            "url": "https://www.reuters.com/world/asia-pacific/australia-new-zealand-central-banks-monitoring-anthropics-mythos-release-2026-04-22/"
+        },
+        {
+            "title": "Mythos: A Cybersecurity Game-Changer or Threat?",
+            "description": "[DEVDISCOURSE] Anthropic's advanced AI model, Mythos, is being monitored by central banks in Australia and New Zealand due to concerns about its potential cybersecurity risks. Experts warn it could quickly identify...",
+            "url": "https://www.devdiscourse.com/article/technology/3882767-mythos-a-cybersecurity-game-changer-or-threat"
+        },
+        {
+            "title": "Anthropic\u2019s Mythos is stoking cybersecurity fears. What does it mean for China?",
+            "description": "[SOUTH CHINA MORNING POST] Given cybersecurity risks in critical software, Mythos has sparked debate about whether its capabilities should be shared with China.",
+            "url": "https://www.scmp.com/tech/tech-trends/article/3350987/anthropics-mythos-stoking-cybersecurity-fears-what-does-it-mean-china"
+        },
+        {
+            "title": "U.S. military commander flags Bitcoin\u2019s cybersecurity role in Senate hearing",
+            "description": "[CRYPTO NEWS] Bitcoin\u2019s use in cybersecurity came into focus at a Senate hearing, where a U.S. commander said the network can help strengthen national defense systems.",
+            "url": "https://crypto.news/u-s-military-commander-flags-bitcoins-cybersecurity-role-in-senate-hearing/"
+        },
+        {
+            "title": "Vodafone Business launches new AI & cybersecurity solutions in partnership with Google Cloud",
+            "description": "[MARKETSCREENER] Vodafone Group PLC: Vodafone Business launch new AI and cybersecurity solutions to accelerate small business digital transformation in partnership with Google Cloud Vodafone Business launch new...",
+            "url": "https://www.marketscreener.com/news/vodafone-business-launches-new-ai-cybersecurity-solutions-in-partnership-with-google-cloud-ce7f59d8d88aff2d"
+        },
+        {
+            "title": "Australia asks 'Roblox,' 'Minecraft' to detail child safety measures",
+            "description": "[RAPPLER] The eSafety Commissioner issues legally enforceable transparency notices to 'Roblox,' 'Minecraft,' Epic Games' 'Fortnite,' and Valve's Steam, seeking details on their safety systems, staffing and...",
+            "url": "https://www.rappler.com/technology/australia-asks-roblox-minecraft-detail-child-safety-measures/"
         },
         {
             "title": "Anthropic's Mythos model accessed by unauthorised users: Bloomberg",
@@ -95,36 +125,6 @@
             "title": "82% Of Indian Firms Warn AI Agents May Outgrow Cyber Security Controls In India By 2027",
             "description": "[FREE PRESS JOURNAL] A report by Rubrik reveals 82% of Indian firms fear AI agents will outpace security controls within a year. Limited visibility, rising non-human identities, and lack of rollback capabilities expose...",
             "url": "https://www.freepressjournal.in/india/82-of-indian-firms-warn-ai-agents-may-outgrow-cyber-security-controls-in-india-by-2027"
-        },
-        {
-            "title": "Anthropic\u2019s Mythos AI reportedly accessed by outsiders days after launch - here\u2019s what happened",
-            "description": "[FIRSTPOST] A reported breach involving Anthropic\u2019s Mythos highlights a growing paradox in AI, tools built to strengthen cybersecurity may themselves become targets. As companies race to develop powerful models,...",
-            "url": "https://www.firstpost.com/tech/anthropics-mythos-ai-reportedly-accessed-by-outsiders-days-after-launch-heres-what-happened-14002992.html"
-        },
-        {
-            "title": "Iran and China drive regular significant cyberattacks, U.K. says",
-            "description": "[THE JAPAN TIMES ] The U.K. is facing four consequential cyberattacks every week, the country's top cybersecurity official is set to say in a speech, with China, Iran and Russia key adversaries.",
-            "url": "https://www.japantimes.co.jp/news/2026/04/22/world/politics/uk-iran-china-cyberattacks/"
-        },
-        {
-            "title": "US Admiral Touts Bitcoin a Tool For US Power Projection",
-            "description": "[COINTELEGRAPH] US Navy Admiral Samuel Paparo said Bitcoin is a tool for \u201cpower projection,\u201d arguing that the US can use it as a tool to strengthen cybersecurity.",
-            "url": "https://cointelegraph.com/news/us-admiral-calls-bitcoin-instrument-us-power-projection"
-        },
-        {
-            "title": "Anthropic's Claude Mythos AI Finds 271 Vulnerabilities in Firefox-Yes, It's Seriously Powerful",
-            "description": "[DECRYPT] Anthropic\u2019s powerful Claude Mythos AI model found hundreds of vulnerabilities in Mozilla Firefox, highlighting its cybersecurity potential.",
-            "url": "https://decrypt.co/365099/anthropic-claude-mythos-ai-271-vulnerabilities-firefox-seriously-powerful"
-        },
-        {
-            "title": "Vodafone offers small businesses cybersecurity, AI capability with Google tie",
-            "description": "[THE ECONOMIC TIMES] Vodafone is partnering with Google Cloud to bring advanced cybersecurity and AI to small businesses. It will launch in Germany, in compliance with \u200bthe region's stringent data protection \u2060standards,...",
-            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/vodafone-offers-small-businesses-cybersecurity-ai-capability-with-google-tie-up/articleshow/130429695.cms"
-        },
-        {
-            "title": "Vodafone offers small businesses cybersecurity, AI capability with Google tie-up",
-            "description": "[THE STAR] LONDON, April 22 (Reuters) - \u2060European mobile and broadband operator Vodafone said it \u2060would offer its small business customers advanced \u200ccybersecurity and agentic AI through its $1 billion strategic...",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/04/22/vodafone-offers-small-businesses-cybersecurity-ai-capability-with-google-tie-up"
         }
     ]
 }
