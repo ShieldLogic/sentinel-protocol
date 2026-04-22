@@ -1,5 +1,5 @@
 {
-    "updated": "2026-04-22 20:42:41 UTC",
+    "updated": "2026-04-22 22:38:59 UTC",
     "news": [
         {
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
@@ -20,6 +20,11 @@
             "title": "Harvester Deploys Linux GoGra Backdoor in South Asia Using Microsoft Graph API",
             "description": "[FEEDS.FEEDBURNER.COM] The threat actor known as Harvester has been attributed to a new Linux version of its GoGra backdoor deployed as part of attacks likely targeting entities in South Asia. \"The malware uses the...",
             "url": "https://thehackernews.com/2026/04/harvester-deploys-linux-gogra-backdoor.html"
+        },
+        {
+            "title": "Apple fixes iOS bug that retained deleted notification data",
+            "description": "[BLEEPINGCOMPUTER.COM] Apple has released out-of-band security updates for iPhone and iPad devices to fix a Notification Services flaw that could allow notifications marked for deletion to remain stored on the device. [...]",
+            "url": "https://www.bleepingcomputer.com/news/security/apple-fixes-ios-bug-that-retained-deleted-notification-data/"
         },
         {
             "title": "Lotus Wiper Malware Targets Venezuelan Energy Systems in Destructive Attack",
@@ -52,11 +57,6 @@
             "url": "https://www.bleepingcomputer.com/news/security/inside-caller-as-a-service-fraud-the-scam-economy-has-a-hiring-process/"
         },
         {
-            "title": "New npm supply-chain attack self-spreads to steal auth tokens",
-            "description": "[BLEEPINGCOMPUTER.COM] A new supply chain attack targeting the Node Package Manager (npm) ecosystem is stealing developer credentials and attempting to spread through packages published from compromised accounts. [...]",
-            "url": "https://www.bleepingcomputer.com/news/security/new-npm-supply-chain-attack-self-spreads-to-steal-auth-tokens/"
-        },
-        {
             "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
             "description": "[CISA.GOV] CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2009-0238 Microsoft Office Remote Code Execution...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/04/14/cisa-adds-two-known-exploited-vulnerabilities-catalog"
@@ -77,54 +77,54 @@
             "url": "https://www.cisa.gov/news-events/alerts/2026/04/20/supply-chain-compromise-impacts-axios-node-package-manager"
         },
         {
-            "title": "Australia and New Zealand central banks monitoring Anthropic's Mythos release",
-            "description": "[REUTERS] The central banks of Australia and New Zealand said on Wednesday they were monitoring the release \u200bof Anthropic's advanced Mythos artificial intelligence model, joining authorities around \u200cthe world...",
-            "url": "https://www.reuters.com/world/asia-pacific/australia-new-zealand-central-banks-monitoring-anthropics-mythos-release-2026-04-22/"
+            "title": "UK must brace for rise in state-backed cyberattacks, security chief says",
+            "description": "[REUTERS] Britain should brace for a rise in cyberattacks linked to hostile states, the head of the country's cybersecurity agency said on Wednesday, as the government urged \u200btech firms to help build defences...",
+            "url": "https://www.reuters.com/legal/government/uk-must-brace-rise-state-backed-cyberattacks-security-chief-says-2026-04-22/"
         },
         {
-            "title": "Mythos: A Cybersecurity Game-Changer or Threat?",
-            "description": "[DEVDISCOURSE] Anthropic's advanced AI model, Mythos, is being monitored by central banks in Australia and New Zealand due to concerns about its potential cybersecurity risks. Experts warn it could quickly identify...",
-            "url": "https://www.devdiscourse.com/article/technology/3882767-mythos-a-cybersecurity-game-changer-or-threat"
+            "title": "RBI in talks with global regulators, banks to review Mythos risks, sources say",
+            "description": "[THE ECONOMIC TIMES] India's central bank is actively engaging with global counterparts and local institutions to assess potential cybersecurity threats from Anthropic's new AI model, Mythos. The Reserve Bank of India is...",
+            "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/rbi-in-talks-with-global-regulators-banks-to-review-claude-mythos-risks-sources-say-anhropic-new-tool/articleshow/130438588.cms"
         },
         {
-            "title": "Anthropic\u2019s Mythos is stoking cybersecurity fears. What does it mean for China?",
-            "description": "[SOUTH CHINA MORNING POST] Given cybersecurity risks in critical software, Mythos has sparked debate about whether its capabilities should be shared with China.",
-            "url": "https://www.scmp.com/tech/tech-trends/article/3350987/anthropics-mythos-stoking-cybersecurity-fears-what-does-it-mean-china"
+            "title": "CYBX Version 2: Elevating Mobile Security Through Intelligent Cyber Shield",
+            "description": "[DEVDISCOURSE] 63SATS Cybertech introduces CYBX Version 2, a cybersecurity superapp enhancing mobile safety with advanced features like secure group calling and proactive gamified user experience. The app supports...",
+            "url": "https://www.devdiscourse.com/article/technology/3882897-cybx-version-2-elevating-mobile-security-through-intelligent-cyber-shield"
         },
         {
-            "title": "U.S. military commander flags Bitcoin\u2019s cybersecurity role in Senate hearing",
-            "description": "[CRYPTO NEWS] Bitcoin\u2019s use in cybersecurity came into focus at a Senate hearing, where a U.S. commander said the network can help strengthen national defense systems.",
-            "url": "https://crypto.news/u-s-military-commander-flags-bitcoins-cybersecurity-role-in-senate-hearing/"
+            "title": "Anthropic Investigates Unauthorized Access to Powerful 'Claude Mythos' Model",
+            "description": "[BREITBART NEWS NETWORK] AI startup Anthropic is investigating reports that a group of users gained unauthorized access to its Claude Mythos model, a powerful AI system that was deliberately released to only a small circle...",
+            "url": "https://www.breitbart.com/tech/2026/04/22/ai-security-breach-anthropic-investigates-unauthorized-access-to-powerful-claude-mythos-model/"
         },
         {
-            "title": "Vodafone Business launches new AI & cybersecurity solutions in partnership with Google Cloud",
-            "description": "[MARKETSCREENER] Vodafone Group PLC: Vodafone Business launch new AI and cybersecurity solutions to accelerate small business digital transformation in partnership with Google Cloud Vodafone Business launch new...",
-            "url": "https://www.marketscreener.com/news/vodafone-business-launches-new-ai-cybersecurity-solutions-in-partnership-with-google-cloud-ce7f59d8d88aff2d"
+            "title": "Hackers breach Anthropic's 'too dangerous to release' Mythos AI model, report",
+            "description": "[EURONEWS] Hackers have gained access to Anthropic's Mythos, an AI the company considers too cybersecurity-sensitive to release publicly.",
+            "url": "https://www.euronews.com/next/2026/04/22/hackers-breach-anthropics-too-dangerous-to-release-mythos-ai-model-report"
         },
         {
-            "title": "Australia asks 'Roblox,' 'Minecraft' to detail child safety measures",
-            "description": "[RAPPLER] The eSafety Commissioner issues legally enforceable transparency notices to 'Roblox,' 'Minecraft,' Epic Games' 'Fortnite,' and Valve's Steam, seeking details on their safety systems, staffing and...",
-            "url": "https://www.rappler.com/technology/australia-asks-roblox-minecraft-detail-child-safety-measures/"
+            "title": "Anthropic is investigating 'unauthorized access' of its Mythos cybersecurity tool",
+            "description": "[ENGADGET] Anthropic is investigating potential \"unauthorized access\" to its Claude Mythos model that has been touted for its ability to find cybersecurity flaws.",
+            "url": "https://www.engadget.com/ai/anthropic-is-investigating-unauthorized-access-of-its-mythos-cybersecurity-tool-091017168.html"
         },
         {
-            "title": "Anthropic's Mythos model accessed by unauthorised users: Bloomberg",
-            "description": "[THE ECONOMIC TIMES] Unauthorized users reportedly gained access to Anthropic's new Mythos AI model via a private online forum on the same day the company announced plans for limited testing. Anthropic is investigating...",
-            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropics-mythos-model-accessed-by-unauthorised-users-bloomberg/articleshow/130433765.cms"
+            "title": "Ransomware: The cyber experts who allegedly broke bad and worked with criminals",
+            "description": "[CABLE NEWS NETWORK] US companies in the retail, hospitality and medical sectors trusted Angelo Martino to negotiate with hackers who were trying to extort them. Instead, he made the extortion worse, federal prosecutors...",
+            "url": "https://edition.cnn.com/2026/04/22/politics/ransomware-expert-worked-with-criminals"
         },
         {
-            "title": "TrendAI partners with Anthropic to extend leadership in AI security",
-            "description": "[ITWIRE] Trend Micro\u2019s enterprise business accelerates its transformation as AI security category leader TrendAI, the enterprise cybersecurity business from Tr...",
-            "url": "https://itwire.com/it-industry-news/deals/trendai-partners-with-anthropic-to-extend-leadership-in-ai-security.html"
+            "title": "A Ransomware Negotiator Pleads Guilty to Being a Double Agent",
+            "description": "[GIZMODO] The Florida man helped BlackCat/ALPHV operators maximize their payouts.",
+            "url": "https://gizmodo.com/a-ransomware-negotiator-pleads-guilty-to-being-a-double-agent-2000749234"
         },
         {
-            "title": "UK could face \u2018hacktivist attacks at scale\u2019, says head of security agency",
-            "description": "[THE GUARDIAN] Officials warn a conflict situation could cause disruption similar to recent major ransomware incidents",
-            "url": "https://www.theguardian.com/technology/2026/apr/22/uk-hacktivist-attacks-at-scale-security-agency"
+            "title": "Anthropic investigates report of rogue access to hack-enabling Mythos AI",
+            "description": "[THE GUARDIAN] \u2018Handful\u2019 of people allegedly gain unauthorised access to model adept at detecting cybersecurity vulnerabilities",
+            "url": "https://www.theguardian.com/technology/2026/apr/22/anthropic-investigates-report-of-rogue-access-to-hack-enabling-mythos-ai"
         },
         {
-            "title": "82% Of Indian Firms Warn AI Agents May Outgrow Cyber Security Controls In India By 2027",
-            "description": "[FREE PRESS JOURNAL] A report by Rubrik reveals 82% of Indian firms fear AI agents will outpace security controls within a year. Limited visibility, rising non-human identities, and lack of rollback capabilities expose...",
-            "url": "https://www.freepressjournal.in/india/82-of-indian-firms-warn-ai-agents-may-outgrow-cyber-security-controls-in-india-by-2027"
+            "title": "Japan's financial watchdog to meet top banks to discuss Mythos AI model",
+            "description": "[THE ECONOMIC TIMES] Japan's financial regulator will meet with major banks on Friday. The discussion will focus on Anthropic's advanced AI model, Mythos. This AI is designed for cybersecurity. Concerns exist about its...",
+            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/japans-financial-watchdog-to-meet-top-banks-to-discuss-mythos-ai-model/articleshow/130436716.cms"
         }
     ]
 }
