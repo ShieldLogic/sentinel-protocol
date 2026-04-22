@@ -1,130 +1,124 @@
 {
-    "updated": "2026-04-22 10:57:18 UTC",
+    "title": "Sentinel Protocol",
+    "tagline": "Perimeter Intelligence Sync",
+    "updated": "2026-04-22 11:58 UTC",
     "news": [
         {
-            "title": "Microsoft Patches Critical ASP.NET Core CVE-2026-40372 Privilege Escalation Bug",
-            "description": "[FEEDS.FEEDBURNER.COM] Microsoft has released out-of-band updates to address a security vulnerability in ASP.NET Core that could allow an attacker to escalate privileges. The vulnerability, tracked as CVE-2026-40372,...",
-            "url": "https://thehackernews.com/2026/04/microsoft-patches-critical-aspnet-core.html"
+            "source": {
+                "id": null,
+                "name": "HackRead"
+            },
+            "author": "Owais Sultan",
+            "title": "Threat Intel Scraping Without Burning Your Cover or Your Stack",
+            "description": "Threat Intel Scraping sounds simple until it isn\u2019t, here\u2019s how cybersecurity teams avoid blocks, bad data, and unnecessary risk.",
+            "url": "https://hackread.com/threat-intel-scraping-without-burning-stack/",
+            "urlToImage": "https://hackread.com/wp-content/uploads/2026/04/threat-intel-scraping-without-burning-stack.jpg",
+            "publishedAt": "2026-04-21T11:43:05Z",
+            "content": "Cybersecurity teams track breach dumps, new malware runs, and fresh exploit chains. Many teams now scrape open web pages, paste sites, and dark web mirrors to feed alerts. That work sounds simple unt\u2026 [+3755 chars]"
         },
         {
-            "title": "Mustang Panda\u2019s New LOTUSLITE Variant Targets India Banks, South Korea Policy Circles",
-            "description": "[FEEDS.FEEDBURNER.COM] Cybersecurity researchers have discovered a new variant of a known malware called LOTUSLITE that's distributed via a theme related to India's banking sector. \"The backdoor communicates with a dynamic...",
-            "url": "https://thehackernews.com/2026/04/mustang-pandas-new-lotuslite-variant.html"
+            "source": {
+                "id": null,
+                "name": "BusinessLine"
+            },
+            "author": null,
+            "title": "Loylty Rewardz Achieves Prestigious PCI DSS v4.0.1 Certification, Setting a New Security Benchmark for India\u2019s Loyalty Industry",
+            "description": "First loyalty management company in India to attain this certification, moving beyond basic compliance to build preventive control frameworks",
+            "url": "https://www.thehindubusinessline.com/brandhub/pr-release/loylty-rewardz-achieves-prestigious-pci-dss-v401-certification-setting-a-new-security-benchmark-for-indias-loyalty-industry/article70887984.ece",
+            "urlToImage": "https://th-i.thgim.com/public/incoming/dahyu3/article70887982.ece/alternates/LANDSCAPE_1200/Screenshot%202026-04-21%20144604.png",
+            "publishedAt": "2026-04-21T11:42:03Z",
+            "content": "Mumbai, Maharashtra, India Business Wire India\r\nLoylty Rewardz\r\n, a leading provider of customer engagement and loyalty solutions, today announced it has successfully achieved the Payment Card Indust\u2026 [+5262 chars]"
         },
         {
-            "title": "Cohere AI Terrarium Sandbox Flaw Enables Root Code Execution, Container Escape",
-            "description": "[FEEDS.FEEDBURNER.COM] A critical security vulnerability has been disclosed in a Python-based sandbox called Terrarium that could result in arbitrary code execution. The vulnerability, tracked as CVE-2026-5752, is rated...",
-            "url": "https://thehackernews.com/2026/04/cohere-ai-terrarium-sandbox-flaw.html"
+            "source": {
+                "id": null,
+                "name": "Theregister.com"
+            },
+            "author": "Connor Jones",
+            "title": "Crook claims to leak 'video surveillance footage' of companies",
+            "description": "Mexican IT services firm admits it was hacked, but says client operations weren't affected A Mexican IT infrastructure and digital transformation biz is on clean-up duty after a criminal posted screenshots of what they claimed was company video surveillance f\u2026",
+            "url": "https://www.theregister.com/2026/04/21/be_prime_cctv_leak/",
+            "urlToImage": "https://regmedia.co.uk/2015/08/11/watching-cctv.jpg",
+            "publishedAt": "2026-04-21T11:30:15Z",
+            "content": "A Mexican IT infrastructure and digital transformation biz is on clean-up duty after a criminal posted screenshots of what they claimed was company video surveillance footage to a cybercrime forum.\r\n\u2026 [+4364 chars]"
         },
         {
-            "title": "Microsoft traces Universal Print issues to Graph API code change",
-            "description": "[BLEEPINGCOMPUTER.COM] Microsoft says that an ongoing Universal Print sharing issue that prevents users from creating some printer shares is due to a Microsoft Graph API code change. [...]",
-            "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-graph-api-code-change-causes-universal-print-share-issues/"
+            "source": {
+                "id": null,
+                "name": "Internet"
+            },
+            "author": "info@thehackernews.com (The Hacker News)",
+            "title": "No Exploit Needed: How Attackers Walk Through the Front Door via Identity-Based Attacks",
+            "description": "The cybersecurity industry has spent the last several years chasing sophisticated threats like zero-days, supply chain compromises, and AI-generated exploits. However, the most reliable entry point for attackers still hasn't changed: stolen credentials.\nIdent\u2026",
+            "url": "https://thehackernews.com/2026/04/no-exploit-needed-how-attackers-walk.html",
+            "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEin_RithPNlLYdgxg906-M63Q0-Kv83Kl-WNjK8x5OjKiSgcDMaljvqb7XkLPoEeUDEMRdi4Cqh9DH-pv9QP1ViNjUi3q3qn5r_Lig04a3zO9TgkgiQqSLC50mE6q-6hr94bo4UnXnP5QksLGeAgSOemxUOZaXIw9Z2UHpZuinm7pqF9N0xtJNVovfojx0/s1700-e365/door.jpg",
+            "publishedAt": "2026-04-21T11:30:00Z",
+            "content": "The cybersecurity industry has spent the last several years chasing sophisticated threats like zero-days, supply chain compromises, and AI-generated exploits. However, the most reliable entry point f\u2026 [+5955 chars]"
         },
         {
-            "title": "New GoGra malware for Linux uses Microsoft Graph API for comms",
-            "description": "[BLEEPINGCOMPUTER.COM] A Linux variant of the GoGra backdoor uses legitimate Microsoft infrastructure, relying on an Outlook inbox for stealthy payload delivery. [...]",
-            "url": "https://www.bleepingcomputer.com/news/security/new-gogra-malware-for-linux-uses-microsoft-graph-api-for-comms/"
+            "source": {
+                "id": null,
+                "name": "YLE News"
+            },
+            "author": null,
+            "title": "Finnish police suspect espionage in major state data breach",
+            "description": "The violation targeted the central government's ICT service provider, Valtori, in late January.",
+            "url": "https://yle.fi/a/74-20221844",
+            "urlToImage": "https://images.cdn.yle.fi/image/upload/c_crop,x_0,y_0,w_1600,h_901/w_1200,h_628,ar_1.91,c_fill/q_auto:eco,f_auto,fl_lossy/v1656996567/14-svyle-30945657fe1feeef6f4",
+            "publishedAt": "2026-04-21T11:28:00Z",
+            "content": "Police suspect that espionage played a role in a major data breach that targeted the central government's ICT services provider Valtori in late January.\r\nThe National Bureau of Investigation began in\u2026 [+1507 chars]"
         },
         {
-            "title": "Microsoft releases emergency patches for critical ASP.NET flaw",
-            "description": "[BLEEPINGCOMPUTER.COM] Microsoft has released out-of-band (OOB) security updates to patch a critical ASP.NET Core privilege escalation vulnerability. [...]",
-            "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-security-updates-for-critical-aspnet-flaw/"
+            "source": {
+                "id": null,
+                "name": "Help Net Security"
+            },
+            "author": "Zeljka Zorz",
+            "title": "CISA flags another Cisco Catalyst SD-WAN Manager bug as exploited (CVE-2026-20133)",
+            "description": "CISA added eight new vulnerabilities to its Known Exploited Vulnerabilities (KEV) catalog, including a Cisco Catalyst SD-WAN Manager vulnerability (CVE-2026-20133) that Cisco has yet to flag as exploited. Three Cisco Catalyst SD-WAN Manager vulnerabilities Al\u2026",
+            "url": "https://www.helpnetsecurity.com/2026/04/21/cisa-flags-another-cisco-catalyst-sd-wan-manager-bug-as-exploited-cve-2026-20133/",
+            "urlToImage": "https://img.helpnetsecurity.com/wp-content/uploads/2025/11/06151815/cisco-1500-hands.webp",
+            "publishedAt": "2026-04-21T11:26:38Z",
+            "content": "CISA added eight new vulnerabilities to its Known Exploited Vulnerabilities (KEV) catalog, including a Cisco Catalyst SD-WAN Manager vulnerability (CVE-2026-20133) that Cisco has yet to flag as explo\u2026 [+1781 chars]"
         },
         {
-            "title": "Over 1,300 Microsoft SharePoint servers vulnerable to spoofing attacks",
-            "description": "[BLEEPINGCOMPUTER.COM] Over 1,300 Microsoft SharePoint servers exposed online remain unpatched against a spoofing vulnerability that was exploited as a zero-day and is still being abused in ongoing attacks. [...]",
-            "url": "https://www.bleepingcomputer.com/news/security/over-1-300-microsoft-sharepoint-servers-vulnerable-to-ongoing-attacks/"
+            "source": {
+                "id": null,
+                "name": "Crypto Briefing"
+            },
+            "author": "Estefano Gomez",
+            "title": "Anthropic\u2019s AI raises fears of $100M+ crypto hack by year-end",
+            "description": "The potential weaponization of AI in crypto markets underscores urgent cybersecurity upgrades and highlights geopolitical tensions.\nThe post Anthropic\u2019s AI raises fears of $100M+ crypto hack by year-end appeared first on Crypto Briefing.",
+            "url": "https://cryptobriefing.com/anthropics-ai-raises-fears-of-100m-crypto-hack-by-year-end/",
+            "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/04/21072242/major-crypto-exchange-hack-in-2025-ORGzX0UPEKc1-3-800x450.jpg",
+            "publishedAt": "2026-04-21T11:22:47Z",
+            "content": "Anthropic\u2019s release of Claude Mythos Preview has pushed traders to price the likelihood of another $100M+ crypto hack by December 31 at 100%\r\n YES.\r\nMarket reaction\r\nThe Mythos Preview model can iden\u2026 [+1355 chars]"
         },
         {
-            "title": "SystemBC C2 Server Reveals 1,570+ Victims in The Gentlemen Ransomware Operation",
-            "description": "[FEEDS.FEEDBURNER.COM] Threat actors associated with The Gentlemen ransomware\u2011as\u2011a\u2011service (RaaS) operation have been observed attempting to deploy a known proxy malware called SystemBC. According to new research published...",
-            "url": "https://thehackernews.com/2026/04/systembc-c2-server-reveals-1570-victims.html"
+            "source": {
+                "id": null,
+                "name": "Pypi.org"
+            },
+            "author": "iamloli@foxmail.com",
+            "title": "vulnclaw 0.1.9",
+            "description": " AI-powered penetration testing CLI tool for cybersecurity professionals",
+            "url": "https://pypi.org/project/vulnclaw/0.1.9/",
+            "urlToImage": null,
+            "publishedAt": "2026-04-21T11:19:22Z",
+            "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe\u2026 [+12 chars]"
         },
         {
-            "title": "22 BRIDGE:BREAK Flaws Expose Thousands of Lantronix and Silex Serial-to-IP Converters",
-            "description": "[FEEDS.FEEDBURNER.COM] Cybersecurity researchers have identified 22 new vulnerabilities in popular models of serial-to-IP converters from Lantronix and Silex that could be exploited to hijack susceptible devices and tamper...",
-            "url": "https://thehackernews.com/2026/04/22-bridgebreak-flaws-expose-20000.html"
-        },
-        {
-            "title": "French govt agency confirms breach as hacker offers to sell data",
-            "description": "[BLEEPINGCOMPUTER.COM] France Titres, the government agency in France for issuing and managince administrative documents has disclosed a data breach after a threat actor claimed the attack and stealing citizen data. [...]",
-            "url": "https://www.bleepingcomputer.com/news/security/french-govt-agency-confirms-breach-as-hacker-offers-to-sell-data/"
-        },
-        {
-            "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
-            "description": "[CISA.GOV] CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2009-0238 Microsoft Office Remote Code Execution...",
-            "url": "https://www.cisa.gov/news-events/alerts/2026/04/14/cisa-adds-two-known-exploited-vulnerabilities-catalog"
-        },
-        {
-            "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-            "description": "[CISA.GOV] CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-34197 Apache ActiveMQ Improper Input Validation...",
-            "url": "https://www.cisa.gov/news-events/alerts/2026/04/16/cisa-adds-one-known-exploited-vulnerability-catalog"
-        },
-        {
-            "title": "CISA Adds Eight Known Exploited Vulnerabilities to Catalog",
-            "description": "[CISA.GOV] CISA has added eight new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation.&nbsp; CVE-2023-27351 PaperCut NG/MF Improper Authentication...",
-            "url": "https://www.cisa.gov/news-events/alerts/2026/04/20/cisa-adds-eight-known-exploited-vulnerabilities-catalog"
-        },
-        {
-            "title": "\u200b\u200bSupply Chain Compromise Impacts Axios Node Package Manager\u200b",
-            "description": "[CISA.GOV] The Cybersecurity and Infrastructure Security Agency (CISA) is releasing this alert to provide guidance in response to the software supply chain compromise of the Axios node package manager (npm).1...",
-            "url": "https://www.cisa.gov/news-events/alerts/2026/04/20/supply-chain-compromise-impacts-axios-node-package-manager"
-        },
-        {
-            "title": "CISA Adds Seven Known Exploited Vulnerabilities to Catalog",
-            "description": "[CISA.GOV] CISA has added seven new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2012-1854 Microsoft Visual Basic for Applications Insecure...",
-            "url": "https://www.cisa.gov/news-events/alerts/2026/04/13/cisa-adds-seven-known-exploited-vulnerabilities-catalog"
-        },
-        {
-            "title": "Anthropic's Path to Redemption: Trump Signals AI Firm's Comeback Potential",
-            "description": "[DEVDISCOURSE] Anthropic may see a reversal in its Pentagon blacklisting as President Trump acknowledges positive developments with the AI firm. After a productive meeting at the White House, the possibility of...",
-            "url": "https://www.devdiscourse.com/article/technology/3882409-anthropics-path-to-redemption-trump-signals-ai-firms-comeback-potential"
-        },
-        {
-            "title": "Mozilla Used Anthropic\u2019s Mythos to Find and Fix 151 Bugs in Firefox",
-            "description": "[WIRED] The Firefox team doesn\u2019t think emerging AI capabilities will upend cybersecurity long term, but they warn that software developers are likely in for a rocky transition.",
-            "url": "https://www.wired.com/story/mozilla-used-anthropics-mythos-to-find-271-bugs-in-firefox/"
-        },
-        {
-            "title": "SystemBC C2 Server Reveals 1,570+ Victims in The Gentlemen Ransomware Operation",
-            "description": "[THE HACKER NEWS] SystemBC C2 exposed 1,570+ victims tied to The Gentlemen since July 2025, revealing expanding ransomware scale.",
-            "url": "https://thehackernews.com/2026/04/systembc-c2-server-reveals-1570-victims.html"
-        },
-        {
-            "title": "Banking industry scrambles for Anthropic's Mythos as global regulators review risks",
-            "description": "[THE MANILA TIMES] FRANKFURT/NEW YORK \u2014 The emergence of Anthropic\u2019s Mythos is setting up a scramble from the banking industry to gain access and test the technology as regulators rush to examine the cybersecurity...",
-            "url": "https://www.manilatimes.net/2026/04/22/business/foreign-business/banking-industry-scrambles-for-anthropics-mythos-as-global-regulators-review-risks/2324879"
-        },
-        {
-            "title": "Anthropic's latest AI model is sparking fears from cybersecurity experts and the banking sector. Here's why.",
-            "description": "[CBC.CA] Mythos, Anthropic's most advanced AI model to date, has sparked fears about the threat to traditional software security after the AI \u200cstartup said the preview had uncovered \"thousands\" of major...",
-            "url": "https://www.cbc.ca/news/business/mythos-anthropic-ai-explainer-9.7171597"
-        },
-        {
-            "title": "Ransomware negotiator pleads guilty to helping ransomware gang",
-            "description": "[TECHCRUNCH] A former employee of a cybersecurity firm pleaded guilty to aiding ransomware criminals to maximize their profits, with the goal of taking a cut of the ransom.",
-            "url": "https://techcrunch.com/2026/04/21/ransomware-negotiator-pleads-guilty-to-helping-ransomware-gang/"
-        },
-        {
-            "title": "Anthropic's Mythos Preview Model: Limited Access Sparks Concerns",
-            "description": "[DEVDISCOURSE] The U.S. Cybersecurity and Infrastructure Security Agency (CISA) does not have access to Anthropic's powerful new Mythos Preview model, according to Axios. The lack of access prompts questions about...",
-            "url": "https://www.devdiscourse.com/article/headlines/3882144-anthropics-mythos-preview-model-limited-access-sparks-concerns"
-        },
-        {
-            "title": "Trump Signals Potential Reconciliation with AI Firm Anthropic",
-            "description": "[DEVDISCOURSE] U.S. President Donald Trump signaled a potential reconciliation with the AI company Anthropic, which was previously blacklisted by the Pentagon due to supply-chain risks. After recent constructive...",
-            "url": "https://www.devdiscourse.com/article/technology/3882100-trump-signals-potential-reconciliation-with-ai-firm-anthropic"
-        },
-        {
-            "title": "Ransomware Negotiator Pleads Guilty to Aiding BlackCat Attacks in 2023",
-            "description": "[THE HACKER NEWS] Ransomware negotiator pleads guilty to aiding BlackCat in 2023; leaked victim data enabled $1.2M extortion and $10M seizure.",
-            "url": "https://thehackernews.com/2026/04/ransomware-negotiator-pleads-guilty-to.html"
-        },
-        {
-            "title": "MIVD Calls for European Security Responsibility Amid Global Tensions",
-            "description": "[DEVDISCOURSE] The Dutch military intelligence agency MIVD urges Europe to take greater security responsibility due to pressures on Western alliances and China's support for Russia. The agency highlights threats...",
-            "url": "https://www.devdiscourse.com/article/law-order/3882054-mivd-calls-for-european-security-responsibility-amid-global-tensions"
+            "source": {
+                "id": null,
+                "name": "BleepingComputer"
+            },
+            "author": "Sergiu Gatlan",
+            "title": "Actively exploited Apache ActiveMQ flaw impacts 6,400 servers",
+            "description": "Nonprofit security organization Shadowserver found that over 6,400 Apache ActiveMQ servers exposed online are vulnerable to ongoing attacks exploiting a high-severity code injection vulnerability. [...]",
+            "url": "https://www.bleepingcomputer.com/news/security/actively-exploited-apache-activemq-flaw-impacts-6-400-servers/",
+            "urlToImage": "https://www.bleepstatic.com/content/hl-images/2026/04/21/Apache_ActiveMQ_binary.jpg",
+            "publishedAt": "2026-04-21T11:17:51Z",
+            "content": "Nonprofit security organization Shadowserver found that over 6,400 Apache ActiveMQ servers exposed online are vulnerable to ongoing attacks exploiting a high-severity code injection vulnerability.\r\nA\u2026 [+2492 chars]"
         }
     ]
 }
