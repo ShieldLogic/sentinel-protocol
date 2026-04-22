@@ -1,6 +1,16 @@
 {
-    "updated": "2026-04-22 16:49:38 UTC",
+    "updated": "2026-04-22 18:59:03 UTC",
     "news": [
+        {
+            "title": "Malicious KICS Docker Images and VS Code Extensions Hit Checkmarx Supply Chain",
+            "description": "[FEEDS.FEEDBURNER.COM] Cybersecurity researchers have warned of malicious images pushed to the official \"checkmarx/kics\" Docker Hub repository. In an alert published today, software supply chain security company Socket...",
+            "url": "https://thehackernews.com/2026/04/malicious-kics-docker-images-and-vs.html"
+        },
+        {
+            "title": "Self-Propagating Supply Chain Worm Hijacks npm Packages to Steal Developer Tokens",
+            "description": "[FEEDS.FEEDBURNER.COM] Cybersecurity researchers have flagged a fresh set of packages that have been compromised by bad actors to deliver a self-propagating worm that spreads through stolen developer npm tokens. The supply...",
+            "url": "https://thehackernews.com/2026/04/self-propagating-supply-chain-worm.html"
+        },
         {
             "title": "Harvester Deploys Linux GoGra Backdoor in South Asia Using Microsoft Graph API",
             "description": "[FEEDS.FEEDBURNER.COM] The threat actor known as Harvester has been attributed to a new Linux version of its GoGra backdoor deployed as part of attacks likely targeting entities in South Asia. \"The malware uses the...",
@@ -17,14 +27,9 @@
             "url": "https://thehackernews.com/2026/04/toxic-combinations-when-cross-app.html"
         },
         {
-            "title": "Microsoft Patches Critical ASP.NET Core CVE-2026-40372 Privilege Escalation Bug",
-            "description": "[FEEDS.FEEDBURNER.COM] Microsoft has released out-of-band updates to address a security vulnerability in ASP.NET Core that could allow an attacker to escalate privileges. The vulnerability, tracked as CVE-2026-40372,...",
-            "url": "https://thehackernews.com/2026/04/microsoft-patches-critical-aspnet-core.html"
-        },
-        {
-            "title": "Mustang Panda\u2019s New LOTUSLITE Variant Targets India Banks, South Korea Policy Circles",
-            "description": "[FEEDS.FEEDBURNER.COM] Cybersecurity researchers have discovered a new variant of a known malware called LOTUSLITE that's distributed via a theme related to India's banking sector. \"The backdoor communicates with a dynamic...",
-            "url": "https://thehackernews.com/2026/04/mustang-pandas-new-lotuslite-variant.html"
+            "title": "Kyber ransomware gang toys with post-quantum encryption on Windows",
+            "description": "[BLEEPINGCOMPUTER.COM] A new Kyber ransomware operation is targeting Windows systems and VMware ESXi endpoints in recent attacks, with one variant implementing Kyber1024 post-quantum encryption. [...]",
+            "url": "https://www.bleepingcomputer.com/news/security/kyber-ransomware-gang-toys-with-post-quantum-encryption-on-windows/"
         },
         {
             "title": "Spain dismantles major $4.7M manga piracy platform, arrests four",
@@ -45,11 +50,6 @@
             "title": "Microsoft Teams to get efficiency mode on PCs with limited resources",
             "description": "[BLEEPINGCOMPUTER.COM] Microsoft is preparing to roll out a new Efficiency Mode for Microsoft Teams for systems with limited CPU and memory resources to improve app responsiveness. [...]",
             "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-gets-efficiency-mode-for-hardware-constrained-devices/"
-        },
-        {
-            "title": "Microsoft traces Universal Print issues to Graph API code change",
-            "description": "[BLEEPINGCOMPUTER.COM] Microsoft says that an ongoing Universal Print sharing issue that prevents users from creating some printer shares is due to a Microsoft Graph API code change. [...]",
-            "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-graph-api-code-change-causes-universal-print-share-issues/"
         },
         {
             "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
@@ -75,6 +75,26 @@
             "title": "CISA Adds Seven Known Exploited Vulnerabilities to Catalog",
             "description": "[CISA.GOV] CISA has added seven new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2012-1854 Microsoft Visual Basic for Applications Insecure...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/04/13/cisa-adds-seven-known-exploited-vulnerabilities-catalog"
+        },
+        {
+            "title": "Anthropic's Mythos model accessed by unauthorised users: Bloomberg",
+            "description": "[THE ECONOMIC TIMES] Unauthorized users reportedly gained access to Anthropic's new Mythos AI model via a private online forum on the same day the company announced plans for limited testing. Anthropic is investigating...",
+            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropics-mythos-model-accessed-by-unauthorised-users-bloomberg/articleshow/130433765.cms"
+        },
+        {
+            "title": "TrendAI partners with Anthropic to extend leadership in AI security",
+            "description": "[ITWIRE] Trend Micro\u2019s enterprise business accelerates its transformation as AI security category leader TrendAI, the enterprise cybersecurity business from Tr...",
+            "url": "https://itwire.com/it-industry-news/deals/trendai-partners-with-anthropic-to-extend-leadership-in-ai-security.html"
+        },
+        {
+            "title": "UK could face \u2018hacktivist attacks at scale\u2019, says head of security agency",
+            "description": "[THE GUARDIAN] Officials warn a conflict situation could cause disruption similar to recent major ransomware incidents",
+            "url": "https://www.theguardian.com/technology/2026/apr/22/uk-hacktivist-attacks-at-scale-security-agency"
+        },
+        {
+            "title": "82% Of Indian Firms Warn AI Agents May Outgrow Cyber Security Controls In India By 2027",
+            "description": "[FREE PRESS JOURNAL] A report by Rubrik reveals 82% of Indian firms fear AI agents will outpace security controls within a year. Limited visibility, rising non-human identities, and lack of rollback capabilities expose...",
+            "url": "https://www.freepressjournal.in/india/82-of-indian-firms-warn-ai-agents-may-outgrow-cyber-security-controls-in-india-by-2027"
         },
         {
             "title": "Anthropic\u2019s Mythos AI reportedly accessed by outsiders days after launch - here\u2019s what happened",
@@ -105,26 +125,6 @@
             "title": "Vodafone offers small businesses cybersecurity, AI capability with Google tie-up",
             "description": "[THE STAR] LONDON, April 22 (Reuters) - \u2060European mobile and broadband operator Vodafone said it \u2060would offer its small business customers advanced \u200ccybersecurity and agentic AI through its $1 billion strategic...",
             "url": "https://www.thestar.com.my/tech/tech-news/2026/04/22/vodafone-offers-small-businesses-cybersecurity-ai-capability-with-google-tie-up"
-        },
-        {
-            "title": "Most serious cyberattacks against the UK now from Russia, Iran and China, cyber chief will say",
-            "description": "[THE ATLANTA JOURNAL-CONSTITUTION] The head of the U.K.'s National Cyber Security Centre warns that hostile nations like Russia, Iran and China are behind the most serious cyberattacks in the U.K. In a speech Wednesday, Richard Horne...",
-            "url": "https://www.ajc.com/news/2026/04/most-serious-cyberattacks-against-the-uk-now-from-russia-iran-and-china-cyber-chief-will-say/"
-        },
-        {
-            "title": "Anthropic's Mythos AI model accessed by unauthorised users, Bloomberg News reports",
-            "description": "[THE STRAITS TIMES] The group has been using Mythos regularly since then, though not for cybersecurity purposes, according to the report. Read more at straitstimes.com.",
-            "url": "https://www.straitstimes.com/business/companies-markets/anthropics-mythos-ai-model-accessed-by-unauthorised-users-bloomberg-news-reports"
-        },
-        {
-            "title": "Vodafone offers small businesses cybersecurity, AI capability with Google tie-up",
-            "description": "[REUTERS] European mobile and broadband operator Vodafone said it would offer its small business customers \u200badvanced cybersecurity and agentic AI through its $1 \u200cbillion strategic tie-up with Google Cloud...",
-            "url": "https://www.reuters.com/business/media-telecom/vodafone-offers-small-businesses-cybersecurity-ai-capability-with-google-tie-up-2026-04-21/"
-        },
-        {
-            "title": "UK Says Iran, China Drive Regular Significant Cyberattacks",
-            "description": "[BLOOMBERG] Hackers linked to foreign governments are now behind the majority of \u201cnationally significant\u201d cyberattacks targeting the UK, the country\u2019s top cybersecurity official is set to warn.",
-            "url": "https://www.bloomberg.com/news/articles/2026-04-21/uk-says-iran-china-drive-regular-significant-cyberattacks"
         }
     ]
 }
