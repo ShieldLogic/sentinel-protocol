@@ -1,5 +1,5 @@
 {
-    "updated": "2026-04-23 18:59:03 UTC",
+    "updated": "2026-04-23 20:43:14 UTC",
     "news": [
         {
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
@@ -37,6 +37,16 @@
             "url": "https://thehackernews.com/2026/04/project-glasswing-proved-ai-can-find.html"
         },
         {
+            "title": "Bitwarden CLI npm package compromised to steal developer credentials",
+            "description": "[BLEEPINGCOMPUTER.COM] The Bitwarden CLI was briefly compromised after attackers uploaded a malicious @bitwarden/cli package to npm containing a credential-stealing payload capable of spreading to other projects. [...]",
+            "url": "https://www.bleepingcomputer.com/news/security/bitwarden-cli-npm-package-compromised-to-steal-developer-credentials/"
+        },
+        {
+            "title": "Trigona ransomware attacks use custom exfiltration tool to steal data",
+            "description": "[BLEEPINGCOMPUTER.COM] Recently observed Trigona ransomware attacks are using a custom, command-line tool to steal data from compromised environments faster and more efficiently. [...]",
+            "url": "https://www.bleepingcomputer.com/news/security/trigona-ransomware-attacks-use-custom-exfiltration-tool-to-steal-data/"
+        },
+        {
             "title": "New Checkmarx supply-chain breach affects KICS analysis tool",
             "description": "[BLEEPINGCOMPUTER.COM] Hackers have compromised Docker images, VSCode and Open VSX extensions for the Checkmarx KICS analysis tool to harvest sensitive data from developer environments. [...]",
             "url": "https://www.bleepingcomputer.com/news/security/new-checkmarx-supply-chain-breach-affects-kics-analysis-tool/"
@@ -52,16 +62,6 @@
             "url": "https://www.bleepingcomputer.com/news/security/regular-password-resets-arent-as-safe-as-you-think/"
         },
         {
-            "title": "Microsoft: Some Teams users can\u2019t join meetings after Edge update",
-            "description": "[BLEEPINGCOMPUTER.COM] Microsoft confirmed that a recent Microsoft Edge browser update introduced a bug that prevents Windows users from joining Teams meetings. [...]",
-            "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-some-teams-users-cant-join-meetings-after-edge-update/"
-        },
-        {
-            "title": "UK warns of Chinese hackers using proxy networks to evade detection",
-            "description": "[BLEEPINGCOMPUTER.COM] The United Kingdom's National Cyber Security Centre (NCSC-UK) and international partners warned that China-nexus hackers are increasingly using large-scale proxy networks of hijacked consumer devices...",
-            "url": "https://www.bleepingcomputer.com/news/security/uk-warns-of-chinese-hackers-using-botnets-of-hijacked-consumer-devices-to-evade-detection/"
-        },
-        {
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
             "description": "[CISA.GOV] CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-34197 Apache ActiveMQ Improper Input Validation...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/04/16/cisa-adds-one-known-exploited-vulnerability-catalog"
@@ -75,6 +75,26 @@
             "title": "\u200b\u200bSupply Chain Compromise Impacts Axios Node Package Manager\u200b",
             "description": "[CISA.GOV] The Cybersecurity and Infrastructure Security Agency (CISA) is releasing this alert to provide guidance in response to the software supply chain compromise of the Axios node package manager (npm).1...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/04/20/supply-chain-compromise-impacts-axios-node-package-manager"
+        },
+        {
+            "title": "Personal info of 9,045 people compromised in Hong Kong private club data breach",
+            "description": "[SOUTH CHINA MORNING POST] Yau Yat Chuen Garden City Club\u2019s management system rendered inoperable due to ransomware attack that encrypted information system files.",
+            "url": "https://www.scmp.com/news/hong-kong/society/article/3351143/personal-info-9045-people-compromised-hong-kong-private-club-data-breach"
+        },
+        {
+            "title": "Attackers Favor Widely Trusted Platforms While Adapting to Detection Methods, VIPRE's Q1 2026 Email Threat Trends Report Reveals",
+            "description": "[PR NEWSWIRE UK] /PRNewswire/ -- VIPRE Security Group, a global leader and award-winning cybersecurity, privacy, and data protection company, releases its Q1 2026 Email Threat...",
+            "url": "https://www.prnewswire.co.uk/news-releases/attackers-favor-widely-trusted-platforms-while-adapting-to-detection-methods-vipres-q1-2026-email-threat-trends-report-reveals-302750156.html"
+        },
+        {
+            "title": "AI to reshape next phase of financial market infrastructure: SBI Chairman CS Setty",
+            "description": "[THE ECONOMIC TIMES] State Bank of India Chairman CS Setty foresees artificial intelligence revolutionizing financial markets. AI will enhance risk management and operational efficiency. Institutions like Clearing Corp...",
+            "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/ai-to-reshape-next-phase-of-financial-market-infrastructure-sbi-chairman-cs-setty/articleshow/130461165.cms"
+        },
+        {
+            "title": "Deep Algorithms raises \u20b916 cr in Pre-Series A round",
+            "description": "[THE HINDU BUSINESS LINE] Deep Algorithms secures \u20b916 crore in Pre-Series A funding to enhance global operations and develop AI-driven cybersecurity solutions.",
+            "url": "https://www.thehindubusinessline.com/info-tech/deep-algorithms-raises-16-cr-in-pre-series-a-round/article70896402.ece"
         },
         {
             "title": "New AI tool reshapes the cybersecurity landscape",
@@ -105,26 +125,6 @@
             "title": "Australia Joins Forces with Anthropic to Tackle Cybersecurity Challenges",
             "description": "[DEVDISCOURSE] Australia collaborates with software providers, including Anthropic, to address possible cybersecurity weaknesses. This follows the release of Anthropic's Mythos AI model, designed for defensive...",
             "url": "https://www.devdiscourse.com/article/law-order/3883929-australia-joins-forces-with-anthropic-to-tackle-cybersecurity-challenges"
-        },
-        {
-            "title": "Australia working with Anthropic over cybersecurity vulnerabilities",
-            "description": "[REUTERS] Australia is working with software providers including Anthropic over potential cybersecurity vulnerabilities, \u200ba spokesperson for Home Affairs minister Tony Burke said on \u200cThursday, following the...",
-            "url": "https://www.reuters.com/world/asia-pacific/australia-government-working-with-anthropic-over-cybersecurity-vulnerabilities-2026-04-23/"
-        },
-        {
-            "title": "Constant student Raul Ochoa finds joy in learning",
-            "description": "[LINCOLN JOURNAL STAR] Security engineer Raul Ochoa embraces constant learning, from cybersecurity and Linux to staff senate service, finding joy in problem-solving and community in Nebraska.",
-            "url": "https://journalstar.com/news/community/article_7bce1eee-da8d-5350-aaa8-e7d484425f35.html"
-        },
-        {
-            "title": "Vodafone Business Launch New AI and Cybersecurity Solutions to Accelerate Small Business Digital Transformation in Partnership with Google Cloud",
-            "description": "[ITWIRE] New managed security and AI concierge services mark the latest milestone in $1billion strategic partnership Today Vodafone Business and Google Cloud a...",
-            "url": "https://itwire.com/business-it-news/business-technology/vodafone-business-launch-new-ai-and-cybersecurity-solutions-to-accelerate-small-business-digital-transformation-in-partnership-with-google-cloud.html"
-        },
-        {
-            "title": "Microsoft bets big on AI in Australia with $18 billion investment",
-            "description": "[THE ECONOMIC TIMES] Microsoft is injecting $17.9 billion into Australia by 2029, significantly boosting AI and cloud computing. This major investment aims to expand supercomputing, enhance cybersecurity, and foster AI...",
-            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/microsoft-bets-big-on-ai-in-australia-with-18-billion-investment/articleshow/130455341.cms"
         }
     ]
 }
