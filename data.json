@@ -1,5 +1,5 @@
 {
-    "updated": "2026-04-23 20:43:14 UTC",
+    "updated": "2026-04-23 22:35:14 UTC",
     "news": [
         {
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
@@ -25,6 +25,11 @@
             "title": "ThreatsDay Bulletin: $290M DeFi Hack, macOS LotL Abuse, ProxySmart SIM Farms +25 New Stories",
             "description": "[FEEDS.FEEDBURNER.COM] You scroll past one incident and see another that feels familiar, like it should have been fixed years ago, but it still works with small changes. Same bugs. Same mistakes. The supply chain is messy....",
             "url": "https://thehackernews.com/2026/04/threatsday-bulletin-290m-defi-hack.html"
+        },
+        {
+            "title": "Hackers exploit file upload bug in Breeze Cache WordPress plugin",
+            "description": "[BLEEPINGCOMPUTER.COM] Hackers are actively exploiting a critical vulnerability in the Breeze Cache plugin for WordPress that allows uploading arbitrary files on the server without authentication. [...]",
+            "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-file-upload-bug-in-breeze-cache-wordpress-plugin/"
         },
         {
             "title": "[Webinar] Mythos Reality Check: Beating Automated Exploitation at AI Speed",
@@ -57,11 +62,6 @@
             "url": "https://www.bleepingcomputer.com/news/security/cosmetics-giant-rituals-discloses-data-breach-affecting-customers/"
         },
         {
-            "title": "Regular Password Resets Aren\u2019t as Safe as You Think",
-            "description": "[BLEEPINGCOMPUTER.COM] Password resets are one of the easiest ways for attackers to bypass security controls. Specops Software shows how helpdesk social engineering turns a seemingly legitimate reset request into full...",
-            "url": "https://www.bleepingcomputer.com/news/security/regular-password-resets-arent-as-safe-as-you-think/"
-        },
-        {
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
             "description": "[CISA.GOV] CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-34197 Apache ActiveMQ Improper Input Validation...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/04/16/cisa-adds-one-known-exploited-vulnerability-catalog"
@@ -75,6 +75,21 @@
             "title": "\u200b\u200bSupply Chain Compromise Impacts Axios Node Package Manager\u200b",
             "description": "[CISA.GOV] The Cybersecurity and Infrastructure Security Agency (CISA) is releasing this alert to provide guidance in response to the software supply chain compromise of the Axios node package manager (npm).1...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/04/20/supply-chain-compromise-impacts-axios-node-package-manager"
+        },
+        {
+            "title": "Why the U.S. military is testing a Bitcoin node now",
+            "description": "[CRYPTO NEWS] The U.S. military is testing a Bitcoin node for cybersecurity, with Admiral Paparo saying the effort does not involve mining BTC right now.",
+            "url": "https://crypto.news/why-the-u-s-military-is-testing-a-bitcoin-node-now/"
+        },
+        {
+            "title": "Mozilla says Anthropic\u2019s Mythos is \u2018every bit as capable\u2019 as \u2018the world\u2019s best security researchers\u2019 after Firefox experiment \u2014 and says the \u2018zero-days are numbered\u2019",
+            "description": "[TECHRADAR] New AI tools could shift the balance of power in cybersecurity",
+            "url": "https://www.techradar.com/pro/mozilla-says-anthropics-mythos-is-every-bit-as-capable-as-the-worlds-best-security-researchers-after-firefox-experiment-and-says-the-zero-days-are-numbered"
+        },
+        {
+            "title": "Pitsilis: The contribution of artificial intelligence in the fight against tax evasion is decisive",
+            "description": "[PROTO THEMA] George Pitsilis underlined the importance of financial literacy and Artificial Intelligence in access to knowledge, tax evasion, subsidies and cybersecurity",
+            "url": "https://en.protothema.gr/2026/04/23/pitsilis-the-contribution-of-artificial-intelligence-in-the-fight-against-tax-evasion-is-decisive/"
         },
         {
             "title": "Personal info of 9,045 people compromised in Hong Kong private club data breach",
@@ -110,21 +125,6 @@
             "title": "Microsoft expands AI footprint in Australia with $18 billion investment",
             "description": "[CNBC] Microsoft announced a new A$25 billion ($18 billion) investment into Australia's digital infrastructure on Thursday, spanning cybersecurity and AI development.",
             "url": "https://www.cnbc.com/2026/04/23/microsoft-expands-ai-footprint-in-australia-with-18-billion-investment.html"
-        },
-        {
-            "title": "Mythos AI: A Multinational Cybersecurity Challenge",
-            "description": "[DEVDISCOURSE] Australia collaborates with software providers, including Anthropic, to address potential cybersecurity vulnerabilities from Mythos AI. Designed for defensive tasks, Mythos discovers many...",
-            "url": "https://www.devdiscourse.com/article/technology/3883961-mythos-ai-a-multinational-cybersecurity-challenge"
-        },
-        {
-            "title": "Australia working with Anthropic over cybersecurity vulnerabilities",
-            "description": "[MARKETSCREENER] Australia is working with software providers including Anthropic over potential cybersecurity vulnerabilities, a spokesperson for Home Affairs minister Tony Burke said on Thursday, following the...",
-            "url": "https://www.marketscreener.com/news/australia-government-working-with-anthropic-over-cybersecurity-vulnerabilities-ce7f59d9da8ef227"
-        },
-        {
-            "title": "Australia Joins Forces with Anthropic to Tackle Cybersecurity Challenges",
-            "description": "[DEVDISCOURSE] Australia collaborates with software providers, including Anthropic, to address possible cybersecurity weaknesses. This follows the release of Anthropic's Mythos AI model, designed for defensive...",
-            "url": "https://www.devdiscourse.com/article/law-order/3883929-australia-joins-forces-with-anthropic-to-tackle-cybersecurity-challenges"
         }
     ]
 }
