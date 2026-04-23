@@ -1,5 +1,5 @@
 {
-    "updated": "2026-04-23 15:30:01 UTC",
+    "updated": "2026-04-23 17:10:11 UTC",
     "news": [
         {
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
@@ -13,7 +13,7 @@
         },
         {
             "title": "Bitwarden CLI Compromised in Ongoing Checkmarx Supply Chain Campaign",
-            "description": "[FEEDS.FEEDBURNER.COM] Bitwarden CLI has been compromised as part of the newly discovered and ongoing Checkmarx supply chain campaign, according to new findings from Socket. \"The affected package version appears to be...",
+            "description": "[FEEDS.FEEDBURNER.COM] Bitwarden CLI has been compromised as part of the newly discovered and ongoing Checkmarx supply chain campaign, according to new findings from JFrog and Socket. \"The affected package version appears...",
             "url": "https://thehackernews.com/2026/04/bitwarden-cli-compromised-in-ongoing.html"
         },
         {
@@ -37,6 +37,11 @@
             "url": "https://thehackernews.com/2026/04/china-linked-gopherwhisper-infects-12.html"
         },
         {
+            "title": "New Checkmarx supply-chain breach affects KICS analysis tool",
+            "description": "[BLEEPINGCOMPUTER.COM] Hackers have compromised Docker images, VSCode and Open VSX extensions for the Checkmarx KICS analysis tool to harvest sensitive data from developer environments. [...]",
+            "url": "https://www.bleepingcomputer.com/news/security/new-checkmarx-supply-chain-breach-affects-kics-analysis-tool/"
+        },
+        {
             "title": "Cosmetics giant Rituals discloses data breach affecting customers",
             "description": "[BLEEPINGCOMPUTER.COM] Dutch cosmetics giant Rituals disclosed a data breach after attackers stole the personal information of an undisclosed number of customers from its \"My Rituals\" membership database. [...]",
             "url": "https://www.bleepingcomputer.com/news/security/cosmetics-giant-rituals-discloses-data-breach-affecting-customers/"
@@ -57,11 +62,6 @@
             "url": "https://www.bleepingcomputer.com/news/security/uk-warns-of-chinese-hackers-using-botnets-of-hijacked-consumer-devices-to-evade-detection/"
         },
         {
-            "title": "New GopherWhisper APT group abuses Outlook, Slack, Discord for comms",
-            "description": "[BLEEPINGCOMPUTER.COM] A previously undocumented state-backed threat actor named GopherWhisper is using a Go-based custom toolkit and legitimate services like Microsoft 365 Outlook, Slack, and Discord in attacks against...",
-            "url": "https://www.bleepingcomputer.com/news/security/new-gopherwhisper-apt-group-abuses-outlook-slack-discord-for-comms/"
-        },
-        {
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
             "description": "[CISA.GOV] CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-34197 Apache ActiveMQ Improper Input Validation...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/04/16/cisa-adds-one-known-exploited-vulnerability-catalog"
@@ -75,6 +75,16 @@
             "title": "\u200b\u200bSupply Chain Compromise Impacts Axios Node Package Manager\u200b",
             "description": "[CISA.GOV] The Cybersecurity and Infrastructure Security Agency (CISA) is releasing this alert to provide guidance in response to the software supply chain compromise of the Axios node package manager (npm).1...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/04/20/supply-chain-compromise-impacts-axios-node-package-manager"
+        },
+        {
+            "title": "Constant student Raul Ochoa finds joy in learning",
+            "description": "[LINCOLN JOURNAL STAR] Security engineer Raul Ochoa embraces constant learning, from cybersecurity and Linux to staff senate service, finding joy in problem-solving and community in Nebraska.",
+            "url": "https://journalstar.com/news/community/article_7bce1eee-da8d-5350-aaa8-e7d484425f35.html"
+        },
+        {
+            "title": "Vodafone Business Launch New AI and Cybersecurity Solutions to Accelerate Small Business Digital Transformation in Partnership with Google Cloud",
+            "description": "[ITWIRE] New managed security and AI concierge services mark the latest milestone in $1billion strategic partnership Today Vodafone Business and Google Cloud a...",
+            "url": "https://itwire.com/business-it-news/business-technology/vodafone-business-launch-new-ai-and-cybersecurity-solutions-to-accelerate-small-business-digital-transformation-in-partnership-with-google-cloud.html"
         },
         {
             "title": "Microsoft bets big on AI in Australia with $18 billion investment",
@@ -115,16 +125,6 @@
             "title": "Ransomware negotiator recruited by BlackCat ransomware gang pleads guilty to 2023 attacks, faces 20 years in prison",
             "description": "[TECHRADAR] The third co-conspirator pleads guilty",
             "url": "https://www.techradar.com/pro/security/ransomware-negotiator-recruited-by-blackcat-ransomware-gang-pleads-guilty-to-2023-attacks-faces-20-years-in-prison"
-        },
-        {
-            "title": "Major US firms granted access to Anthropic's Mythos to prepare against AI cyber threat, as Australian firms left on outer",
-            "description": "[ABC (AUSTRALIAN BROADCASTING CORPORATION)] Local banks, power providers and infrastructure firms do not have access to test their systems against a powerful new AI cybersecurity risk, Anthropic's Mythos, which has not been made public.",
-            "url": "https://www.abc.net.au/news/2026-04-23/powerful-ai-tools-posing-cybersecurity-risks-australia-lagging/106584436"
-        },
-        {
-            "title": "UK Banks \u2018Prepared\u2019 for Mythos Risk, Industry Group Says",
-            "description": "[BLOOMBERG] Major UK financial institutions including the Bank of England have concluded they are \u201cprepared\u201d for emerging cybersecurity risk stemming from developments in artificial intelligence, after holding a...",
-            "url": "https://www.bloomberg.com/news/articles/2026-04-22/uk-banks-prepared-for-mythos-risk-industry-group-says"
         }
     ]
 }
