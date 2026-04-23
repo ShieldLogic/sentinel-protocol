@@ -1,5 +1,5 @@
 {
-    "updated": "2026-04-23 17:10:11 UTC",
+    "updated": "2026-04-23 18:59:03 UTC",
     "news": [
         {
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
@@ -7,9 +7,14 @@
             "url": "https://www.cisa.gov/news-events/alerts/2026/04/22/cisa-adds-one-known-exploited-vulnerability-catalog"
         },
         {
-            "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
-            "description": "[CISA.GOV] CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2009-0238 Microsoft Office Remote Code Execution...",
-            "url": "https://www.cisa.gov/news-events/alerts/2026/04/14/cisa-adds-two-known-exploited-vulnerabilities-catalog"
+            "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+            "description": "[CISA.GOV] CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-39987 Marimo Remote Code Execution Vulnerability This...",
+            "url": "https://www.cisa.gov/news-events/alerts/2026/04/23/cisa-adds-one-known-exploited-vulnerability-catalog"
+        },
+        {
+            "title": "UNC6692 Impersonates IT Helpdesk via Microsoft Teams to Deploy SNOW Malware",
+            "description": "[FEEDS.FEEDBURNER.COM] A previously undocumented threat activity cluster known as UNC6692 has been observed leveraging social engineering tactics via Microsoft Teams to deploy a custom malware suite on compromised hosts....",
+            "url": "https://thehackernews.com/2026/04/unc6692-impersonates-it-helpdesk-via.html"
         },
         {
             "title": "Bitwarden CLI Compromised in Ongoing Checkmarx Supply Chain Campaign",
@@ -30,11 +35,6 @@
             "title": "Project Glasswing Proved AI Can Find the Bugs. Who's Going to Fix Them?",
             "description": "[FEEDS.FEEDBURNER.COM] Last week, Anthropic announced Project Glasswing, an AI model so effective at discovering software vulnerabilities that they took the extraordinary step of postponing its public release. Instead, the...",
             "url": "https://thehackernews.com/2026/04/project-glasswing-proved-ai-can-find.html"
-        },
-        {
-            "title": "China-Linked GopherWhisper Infects 12 Mongolian Government Systems with Go Backdoors",
-            "description": "[FEEDS.FEEDBURNER.COM] Mongolian governmental institutions have emerged as the target of a previously undocumented China-aligned advanced persistent threat (APT) group tracked as GopherWhisper. \"The group wields a wide...",
-            "url": "https://thehackernews.com/2026/04/china-linked-gopherwhisper-infects-12.html"
         },
         {
             "title": "New Checkmarx supply-chain breach affects KICS analysis tool",
@@ -77,6 +77,41 @@
             "url": "https://www.cisa.gov/news-events/alerts/2026/04/20/supply-chain-compromise-impacts-axios-node-package-manager"
         },
         {
+            "title": "New AI tool reshapes the cybersecurity landscape",
+            "description": "[THE JAPAN TIMES ] There appears to be consensus that Mythos represents a 'step change' in capability and is a taste of the new digital world that we now inhabit.",
+            "url": "https://www.japantimes.co.jp/commentary/2026/04/23/japan/ai-disruption-destroys-deterrence/"
+        },
+        {
+            "title": "Microsoft bets big on AI in Australia with $18 billion investment",
+            "description": "[THE INDIAN EXPRESS] Microsoft is investing $17.9 billion in Australia to enhance AI and computing capabilities, making it a key growth market. This will expand Azure AI supercomputing and cloud infrastructure, improve...",
+            "url": "https://indianexpress.com/shorts/technology/microsoft-bets-big-on-ai-in-australia-with-18-billion-investment-10651397/"
+        },
+        {
+            "title": "Microsoft expands AI footprint in Australia with $18 billion investment",
+            "description": "[CNBC] Microsoft announced a new A$25 billion ($18 billion) investment into Australia's digital infrastructure on Thursday, spanning cybersecurity and AI development.",
+            "url": "https://www.cnbc.com/2026/04/23/microsoft-expands-ai-footprint-in-australia-with-18-billion-investment.html"
+        },
+        {
+            "title": "Mythos AI: A Multinational Cybersecurity Challenge",
+            "description": "[DEVDISCOURSE] Australia collaborates with software providers, including Anthropic, to address potential cybersecurity vulnerabilities from Mythos AI. Designed for defensive tasks, Mythos discovers many...",
+            "url": "https://www.devdiscourse.com/article/technology/3883961-mythos-ai-a-multinational-cybersecurity-challenge"
+        },
+        {
+            "title": "Australia working with Anthropic over cybersecurity vulnerabilities",
+            "description": "[MARKETSCREENER] Australia is working with software providers including Anthropic over potential cybersecurity vulnerabilities, a spokesperson for Home Affairs minister Tony Burke said on Thursday, following the...",
+            "url": "https://www.marketscreener.com/news/australia-government-working-with-anthropic-over-cybersecurity-vulnerabilities-ce7f59d9da8ef227"
+        },
+        {
+            "title": "Australia Joins Forces with Anthropic to Tackle Cybersecurity Challenges",
+            "description": "[DEVDISCOURSE] Australia collaborates with software providers, including Anthropic, to address possible cybersecurity weaknesses. This follows the release of Anthropic's Mythos AI model, designed for defensive...",
+            "url": "https://www.devdiscourse.com/article/law-order/3883929-australia-joins-forces-with-anthropic-to-tackle-cybersecurity-challenges"
+        },
+        {
+            "title": "Australia working with Anthropic over cybersecurity vulnerabilities",
+            "description": "[REUTERS] Australia is working with software providers including Anthropic over potential cybersecurity vulnerabilities, \u200ba spokesperson for Home Affairs minister Tony Burke said on \u200cThursday, following the...",
+            "url": "https://www.reuters.com/world/asia-pacific/australia-government-working-with-anthropic-over-cybersecurity-vulnerabilities-2026-04-23/"
+        },
+        {
             "title": "Constant student Raul Ochoa finds joy in learning",
             "description": "[LINCOLN JOURNAL STAR] Security engineer Raul Ochoa embraces constant learning, from cybersecurity and Linux to staff senate service, finding joy in problem-solving and community in Nebraska.",
             "url": "https://journalstar.com/news/community/article_7bce1eee-da8d-5350-aaa8-e7d484425f35.html"
@@ -90,41 +125,6 @@
             "title": "Microsoft bets big on AI in Australia with $18 billion investment",
             "description": "[THE ECONOMIC TIMES] Microsoft is injecting $17.9 billion into Australia by 2029, significantly boosting AI and cloud computing. This major investment aims to expand supercomputing, enhance cybersecurity, and foster AI...",
             "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/microsoft-bets-big-on-ai-in-australia-with-18-billion-investment/articleshow/130455341.cms"
-        },
-        {
-            "title": "Kaseya Discusses MSP Challenges And Evolving Cybersecurity Scams",
-            "description": "[ITWIRE] iTWire TV: Dan Garcia, Vice President and General Manager for APAC at Kaseya, spoke to iTWire TV about the struggles of MSPs and clients'...",
-            "url": "https://itwire.com/it-industry-news/strategy/kaseya-discusses-msp-challenges-and-evolving-cybersecurity-scams.html"
-        },
-        {
-            "title": "Sean Plankey, Trump\u2019s Pick to Lead Cybersecurity Agency, Withdraws His Nomination",
-            "description": "[THE NEW YORK TIMES] Confirmation for the nominee, Sean Plankey, had been pending in the Senate for over a year.",
-            "url": "https://www.nytimes.com/2026/04/22/us/politics/plankey-cisa-trump-withdraws.html"
-        },
-        {
-            "title": "UPSIFS hosts quantum computing workshop",
-            "description": "[TIMES OF INDIA] UPSIFS held a quantum computing workshop in Lucknow, highlighting quantum\u2019s role in cybersecurity and deep tech, with NQM chief urging indigenous tech.",
-            "url": "https://timesofindia.indiatimes.com/city/lucknow/upsifs-hosts-quantum-computing-workshop/articleshow/130451528.cms"
-        },
-        {
-            "title": "A ransomware group is now threatening to expose another group\u2019s members in a bizarre cybercrime feud that is spiraling fast",
-            "description": "[TECHRADAR] 0APT vs Krybit: Why victims should avoid this cybercriminal conflict",
-            "url": "https://www.techradar.com/pro/security/we-will-reveal-their-identity-photos-names-location-and-other-experts-reveal-extraordinary-battle-between-rival-ransomware-gangs-and-how-victims-can-get-their-data-back"
-        },
-        {
-            "title": "AI to reshape financial market infrastructure, says State Bank of India chairman CS Setty",
-            "description": "[THE ECONOMIC TIMES] State Bank of India chairman CS Setty foresees artificial intelligence revolutionizing financial markets. AI will enhance risk management and operational efficiency. Institutions like Clearing Corp...",
-            "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/ai-to-reshape-financial-market-infrastructure-says-state-bank-of-india-chairman-cs-setty/articleshow/130450982.cms"
-        },
-        {
-            "title": "Claude Mythos a \"warning shot\" about AI risks, says top cybersecurity chief",
-            "description": "[LBC] Mr Horne said AI did not yet constitute a national security threat in his view because the new models were \"not finding new attacks, they're just exposing more security vulnerabilities\".",
-            "url": "https://www.lbc.co.uk/article/cybersecurity-chief-warns-ai-dangers-5HjdY96_2/"
-        },
-        {
-            "title": "Ransomware negotiator recruited by BlackCat ransomware gang pleads guilty to 2023 attacks, faces 20 years in prison",
-            "description": "[TECHRADAR] The third co-conspirator pleads guilty",
-            "url": "https://www.techradar.com/pro/security/ransomware-negotiator-recruited-by-blackcat-ransomware-gang-pleads-guilty-to-2023-attacks-faces-20-years-in-prison"
         }
     ]
 }
