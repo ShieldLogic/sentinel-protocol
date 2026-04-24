@@ -1,5 +1,5 @@
 {
-    "updated": "2026-04-24 18:37:23 UTC",
+    "updated": "2026-04-24 20:36:36 UTC",
     "news": [
         {
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
@@ -47,6 +47,16 @@
             "url": "https://thehackernews.com/2026/04/26-fakewallet-apps-found-on-apple-app.html"
         },
         {
+            "title": "Firestarter malware survives Cisco firewall updates, security patches",
+            "description": "[BLEEPINGCOMPUTER.COM] Cybersecurity agencies in the U.S. and U.K. are warning about a custom malware called Firestarter persisting on Cisco Firepower and Secure Firewall devices running Adaptive Security Appliance (ASA)...",
+            "url": "https://www.bleepingcomputer.com/news/security/firestarter-malware-survives-cisco-firewall-updates-security-patches/"
+        },
+        {
+            "title": "Windows Update gets new controls to reduce forced restarts",
+            "description": "[BLEEPINGCOMPUTER.COM] Microsoft is rolling out Windows Update improvements that give users more control over how updates are installed while reducing disruption from frequent or poorly timed restarts. [...]",
+            "url": "https://www.bleepingcomputer.com/news/microsoft/windows-update-gets-new-controls-to-reduce-forced-restarts/"
+        },
+        {
             "title": "Tropic Trooper Uses Trojanized SumatraPDF and GitHub to Deploy AdaptixC2",
             "description": "[FEEDS.FEEDBURNER.COM] Chinese-speaking individuals are the target of a new campaign that uses a trojanized version of SumatraPDF reader to deploy the AdaptixC2 Beacon post-exploitation agent and ultimately facilitate the...",
             "url": "https://thehackernews.com/2026/04/tropic-trooper-uses-trojanized.html"
@@ -67,64 +77,54 @@
             "url": "https://www.bleepingcomputer.com/news/security/new-pack2theroot-flaw-gives-hackers-root-linux-access/"
         },
         {
-            "title": "DORA and operational resilience: Credential management as a financial risk control",
-            "description": "[BLEEPINGCOMPUTER.COM] Article 9 of DORA makes authentication and access control a legal obligation for EU financial entities. Here is what the regulation requires, and what a breach looks like when those controls are...",
-            "url": "https://www.bleepingcomputer.com/news/security/dora-and-operational-resilience-credential-management-as-a-financial-risk-control/"
+            "title": "FM Nirmala Sitharaman calls for proactive cybersecurity push amid rising AI threats",
+            "description": "[THE NEW INDIAN EXPRESS] On the broader economic front, Sitharaman acknowledged the impact of geopolitical tensions in West Asia, particularly disruptions in the Strait of Hormuz, which",
+            "url": "https://www.newindianexpress.com/business/2026/Apr/24/fm-nirmala-sitharaman-calls-for-proactive-cybersecurity-push-amid-rising-ai-threats"
         },
         {
-            "title": "Over 10,000 Zimbra servers vulnerable to ongoing XSS attacks",
-            "description": "[BLEEPINGCOMPUTER.COM] Over 10,000 Zimbra Collaboration Suite (ZCS) instances exposed online are vulnerable to ongoing attacks exploiting a cross-site scripting (XSS) security flaw. [...]",
-            "url": "https://www.bleepingcomputer.com/news/security/cisa-says-zimbra-flaw-now-exploited-over-10k-servers-vulnerable/"
+            "title": "Sitharaman directs Indian banks to build new AI cybersecurity defences after high",
+            "description": "[MONEYCONTROL] Finance Minister flags that decades of strong cybersecurity may be insufficient against AI-driven threats, directs banks to work under an IBA-led mechanism to identify vulnerabilities and invest in...",
+            "url": "https://www.moneycontrol.com/news/business/banks/may-not-be-sufficient-fm-sitharaman-sounds-alarm-on-ai-threats-to-indian-banks-13898545.html"
+        },
+        {
+            "title": "Top 20 Technology and AI Facts You Didn\u2019t Know | General Knowledge Quiz with Answers",
+            "description": "[TIMES NOW] Test your knowledge of AI and technology with 20 fun questions covering key concepts, tools, and innovations shaping the digital world, from chatbots and machine learning to cybersecurity and smart...",
+            "url": "https://www.timesnownews.com/education/top-20-technology-and-ai-facts-you-didnt-know-general-knowledge-quiz-with-answers-article-154143858"
+        },
+        {
+            "title": "63SATS and PDA Launch Revolutionary Cyber Defence Platform for Comprehensive Protection",
+            "description": "[TIMES OF INDIA] India News: 63SATS Cybertech partners with Pavan Duggal Associates to create a groundbreaking cybersecurity solution aimed at protecting enterprises, governments, and consumers across India.",
+            "url": "https://timesofindia.indiatimes.com/india/63sats-ties-up-with-pda-to-build-cyber-defence-platform/articleshow/130487863.cms"
+        },
+        {
+            "title": "FM Sitharaman says Indian banks must build new defences as AI threats grow, West Asia crisis watched closely",
+            "description": "[THE ECONOMIC TIMES] Indian banks face new artificial intelligence cyber threats. Finance Minister Nirmala Sitharaman urged a proactive approach. Banks will collaborate to identify vulnerabilities and adopt new...",
+            "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/fm-sitharaman-says-indian-banks-must-build-new-defences-as-ai-threats-grow-west-asia-crisis-watched-closely/articleshow/130487865.cms"
+        },
+        {
+            "title": "Bharti Airtel in talks with telecom tech vendor partners as Anthropic's Mythos flags new cybersecurity risks: CTO",
+            "description": "[MONEYCONTROL] Chief Technology Officer Randeep Sekhon told Moneycontrol that the telco is actively coordinating with vendors to address vulnerabilities that advanced AI models may be able to detect more...",
+            "url": "https://www.moneycontrol.com/news/business/bharti-airtel-in-talks-with-telecom-tech-vendor-partners-as-anthropic-s-mythos-flags-new-cybersecurity-risks-cto-13898518.html"
+        },
+        {
+            "title": "AI threat review: FM Nirmala Sitharaman meets banks, orders cybersecurity steps amid Anthropic Mythos concerns",
+            "description": "[FIRSTPOST] Finance Minister Nirmala Sitharaman has chaired a high-level meeting with heads of scheduled commercial banks and key stakeholders to assess the potential impact of emerging threats linked to recent...",
+            "url": "https://www.firstpost.com/tech/ai-threat-review-fm-nirmala-sitharaman-meets-banks-orders-cybersecurity-steps-amid-anthropic-mythos-concerns-14003911.html"
+        },
+        {
+            "title": "Nirmala Sitharaman flags Mythos cyber risk, urges Indian banks to boost AI driven security, announces high level panel on future banking structure under India@2047",
+            "description": "[CNBC TV18] Nirmala Sitharaman urges Indian banks to boost tech and cybersecurity against risks like Mythos, announces high level panel on future banking under India@2047.",
+            "url": "https://www.cnbctv18.com/technology/fm-flags-mythos-as-emerging-challenge-says-banks-prepared-for-tech-risks-ws-l-19892711.htm"
+        },
+        {
+            "title": "AI Threat Review: FM Nirmala Sitharaman Meets Banks, Orders Cybersecurity Steps Amid Anthropic Mythos Concerns",
+            "description": "[NEWS18] The meeting assumes significance amid concerns around the Claude Mythos AI model by Anthropic, which has claimed it has found vulnerabilities in many major operating systems.",
+            "url": "https://www.news18.com/business/banking-finance/ai-threat-review-fm-nirmala-sitharaman-meets-banks-orders-cybersecurity-steps-amid-anthropic-mythos-concerns-ws-l-10053952.html"
         },
         {
             "title": "Japan launches financial task force amid AI security fears",
             "description": "[REUTERS] Japan will set up a task force to address cybersecurity risks in its financial \u200bsystem following concerns about potential vulnerabilities linked to \u200cAnthropic's Mythos AI model, Finance Minister...",
             "url": "https://www.reuters.com/sustainability/boards-policy-regulation/japan-launches-financial-task-force-amid-ai-security-fears-2026-04-24/"
-        },
-        {
-            "title": "Why Governments, India Are Taking Precautions",
-            "description": "[THE INDIAN EXPRESS] Anthropic\u2019s Mythos AI shows advanced hacking and defence abilities, raising global cybersecurity concerns. India and US officials review risks after limited leak.",
-            "url": "https://indianexpress.com/article/explained/explained-sci-tech/anthropic-mythos-ai-cybersecurity-risks-india-alert-10653169/"
-        },
-        {
-            "title": "Japan launches financial task force amid AI security fears",
-            "description": "[MARKETSCREENER] Japan will set up a task force to address cybersecurity risks in its financial system following concerns about potential vulnerabilities linked to Anthropic's Mythos AI model, Finance Minister...",
-            "url": "https://www.marketscreener.com/news/japan-launches-financial-task-force-amid-ai-security-fears-ce7f59ded089f224"
-        },
-        {
-            "title": "Technophiles India hosts Dine with AlphaSec III in Mumbai, bringing together India\u2019s cybersecurity leaders to address emerging digital risks",
-            "description": "[THE ECONOMIC TIMES] Technophiles India hosts Dine with AlphaSec III in Mumbai, uniting top cybersecurity leaders to discuss AI risks, enterprise security, and digital resilience in India\u2019s evolving threat landscape.",
-            "url": "https://economictimes.indiatimes.com/tech/ites/technophiles-india-hosts-dine-with-alphasec-iii-in-mumbai-bringing-together-indias-cybersecurity-leaders-to-address-emerging-digital-risks/articleshow/130484653.cms"
-        },
-        {
-            "title": "AI cyber risk alarm: Bain and Co urges firms to act as Claude Mythos raises global security fears",
-            "description": "[FIRSTPOST] A new generation of AI models is reshaping cybersecurity at unprecedented speed. As Anthropic\u2019s Claude Mythos draws both praise and concern, Bain & Company and global regulators warn organisations to...",
-            "url": "https://www.firstpost.com/tech/ai-cyber-risk-alarm-bain-and-co-urges-firms-to-act-as-anthropic-claude-mythos-raises-global-security-fears-14003855.html"
-        },
-        {
-            "title": "Canada Life cybersecurity data breach under investigation as thousands may be impacted",
-            "description": "[THE NEWS INTERNATIONAL] Canada Life says it is investigating a cybersecurity breach that may have exposed the personal data of some customers. In a statement posted on its website on Monday, the company said: \u201cCanada...",
-            "url": "https://www.thenews.com.pk/latest/1400161-canada-life-cybersecurity-data-breach-under-investigation-as-thousands-may-be-impacted"
-        },
-        {
-            "title": "India faces cyber fraud surge: Experts call for robust identity security and AI solutions",
-            "description": "[THE NEW INDIAN EXPRESS] India\u2019s cybersecurity market is projected to reach $15.06B by 2031, growing at 18% CAGR, driven by enterprise investment and 400+ firms.",
-            "url": "https://www.newindianexpress.com/nation/2026/Apr/24/india-faces-cyber-fraud-surge-experts-call-for-robust-identity-security-and-ai-solutions"
-        },
-        {
-            "title": "63SATS Cybertech, law firm PDA join hands to offer cybersecurity solutions",
-            "description": "[THE HINDU BUSINESS LINE] 63SATS Cybertech and PDA partner to deliver comprehensive cybersecurity solutions, ensuring legal protection and compliance for clients.",
-            "url": "https://www.thehindubusinessline.com/companies/63sats-cybertech-law-firm-pda-join-hands-to-offer-cybersecurity-solutions/article70898278.ece"
-        },
-        {
-            "title": "Nirmala Sitharaman Holds Meeting On AI Cybersecurity Threats For Banks",
-            "description": "[NDTV.COM] Nirmala Sitharaman urged the Indian Banks' Association (IBA) to develop a coordinated institutional mechanism to respond swiftly and effectively to any such threats.",
-            "url": "https://www.ndtv.com/india-news/nirmala-sitharaman-holds-meeting-on-ai-cybersecurity-threats-for-banks-11401446"
-        },
-        {
-            "title": "Has Anthropic\u2019s Mythos made the cure worse than the disease?",
-            "description": "[THE HINDU] In the world of cybersecurity, defenders are, to put it crudely, your anti-virus sellers, helping you fix security vulnerabilities and keep data safe. But that simple business model is being...",
-            "url": "https://www.thehindu.com/sci-tech/technology/has-anthropics-mythos-made-the-cure-worse-than-the-disease/article70896095.ece"
         }
     ]
 }
