@@ -1,5 +1,5 @@
 {
-    "updated": "2026-04-24 16:44:31 UTC",
+    "updated": "2026-04-24 18:37:23 UTC",
     "news": [
         {
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
@@ -12,21 +12,6 @@
             "url": "https://www.cisa.gov/news-events/alerts/2026/04/23/cisa-adds-one-known-exploited-vulnerability-catalog"
         },
         {
-            "title": "Hackers exploit file upload bug in Breeze Cache WordPress plugin",
-            "description": "[BLEEPINGCOMPUTER.COM] Hackers are actively exploiting a critical vulnerability in the Breeze Cache plugin for WordPress that allows uploading arbitrary files on the server without authentication. [...]",
-            "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-file-upload-bug-in-breeze-cache-wordpress-plugin/"
-        },
-        {
-            "title": "Bitwarden CLI npm package compromised to steal developer credentials",
-            "description": "[BLEEPINGCOMPUTER.COM] The Bitwarden CLI was briefly compromised after attackers uploaded a malicious @bitwarden/cli package to npm containing a credential-stealing payload capable of spreading to other projects. [...]",
-            "url": "https://www.bleepingcomputer.com/news/security/bitwarden-cli-npm-package-compromised-to-steal-developer-credentials/"
-        },
-        {
-            "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-            "description": "[CISA.GOV] CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-34197 Apache ActiveMQ Improper Input Validation...",
-            "url": "https://www.cisa.gov/news-events/alerts/2026/04/16/cisa-adds-one-known-exploited-vulnerability-catalog"
-        },
-        {
             "title": "CISA Adds Eight Known Exploited Vulnerabilities to Catalog",
             "description": "[CISA.GOV] CISA has added eight new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation.&nbsp; CVE-2023-27351 PaperCut NG/MF Improper Authentication...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/04/20/cisa-adds-eight-known-exploited-vulnerabilities-catalog"
@@ -35,6 +20,16 @@
             "title": "\u200b\u200bSupply Chain Compromise Impacts Axios Node Package Manager\u200b",
             "description": "[CISA.GOV] The Cybersecurity and Infrastructure Security Agency (CISA) is releasing this alert to provide guidance in response to the software supply chain compromise of the Axios node package manager (npm).1...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/04/20/supply-chain-compromise-impacts-axios-node-package-manager"
+        },
+        {
+            "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
+            "description": "[CISA.GOV] CISA has added four new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2024-7399&nbsp;Samsung&nbsp;MagicINFO&nbsp;9 Server Path...",
+            "url": "https://www.cisa.gov/news-events/alerts/2026/04/24/cisa-adds-four-known-exploited-vulnerabilities-catalog"
+        },
+        {
+            "title": "FIRESTARTER Backdoor Hit Federal Cisco Firepower Device, Survives Security Patches",
+            "description": "[FEEDS.FEEDBURNER.COM] The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has revealed that an unnamed federal civilian agency's Cisco Firepower device running Adaptive Security Appliance (ASA) software was...",
+            "url": "https://thehackernews.com/2026/04/firestarter-backdoor-hit-federal-cisco.html"
         },
         {
             "title": "NASA Employees Duped in Chinese Phishing Scheme Targeting U.S. Defense Software",
@@ -57,9 +52,19 @@
             "url": "https://thehackernews.com/2026/04/tropic-trooper-uses-trojanized.html"
         },
         {
-            "title": "LMDeploy CVE-2026-33626 Flaw Exploited Within 13 Hours of Disclosure",
-            "description": "[FEEDS.FEEDBURNER.COM] A high-severity security flaw in LMDeploy, an open-source toolkit for compressing, deploying, and serving LLMs, has come under active exploitation in the wild less than 13 hours after its public...",
-            "url": "https://thehackernews.com/2026/04/lmdeploy-cve-2026-33626-flaw-exploited.html"
+            "title": "New BlackFile extortion group linked to surge of vishing attacks",
+            "description": "[BLEEPINGCOMPUTER.COM] A new financially motivated hacking group tracked as BlackFile has been linked to a wave of data theft and extortion attacks against retail and hospitality organizations since February 2026. [...]",
+            "url": "https://www.bleepingcomputer.com/news/security/new-blackfile-extortion-gang-targets-retail-and-hospitality-orgs/"
+        },
+        {
+            "title": "Microsoft to roll out Entra passkeys on Windows in late April",
+            "description": "[BLEEPINGCOMPUTER.COM] Microsoft will roll out passkey support for phishing-resistant passwordless authentication to Microsoft Entra\u2011protected resources from Windows devices starting late April. [...]",
+            "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-roll-out-entra-passkeys-on-windows-in-late-april/"
+        },
+        {
+            "title": "New \u2018Pack2TheRoot\u2019 flaw gives hackers root Linux access",
+            "description": "[BLEEPINGCOMPUTER.COM] A new vulnerability dubbed Pack2TheRoot could be exploited in the PackageKit daemon to allow local Linux users to install or remove system packages and gain root permissions. [...]",
+            "url": "https://www.bleepingcomputer.com/news/security/new-pack2theroot-flaw-gives-hackers-root-linux-access/"
         },
         {
             "title": "DORA and operational resilience: Credential management as a financial risk control",
@@ -72,9 +77,34 @@
             "url": "https://www.bleepingcomputer.com/news/security/cisa-says-zimbra-flaw-now-exploited-over-10k-servers-vulnerable/"
         },
         {
-            "title": "Microsoft now lets admins uninstall Copilot on enterprise devices",
-            "description": "[BLEEPINGCOMPUTER.COM] Microsoft says IT administrators can now uninstall the AI-powered Copilot digital assistant from enterprise devices using a new policy setting, which has become broadly available after the April 2026...",
-            "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-now-lets-admins-uninstall-copilot-on-enterprise-devices/"
+            "title": "Japan launches financial task force amid AI security fears",
+            "description": "[REUTERS] Japan will set up a task force to address cybersecurity risks in its financial \u200bsystem following concerns about potential vulnerabilities linked to \u200cAnthropic's Mythos AI model, Finance Minister...",
+            "url": "https://www.reuters.com/sustainability/boards-policy-regulation/japan-launches-financial-task-force-amid-ai-security-fears-2026-04-24/"
+        },
+        {
+            "title": "Why Governments, India Are Taking Precautions",
+            "description": "[THE INDIAN EXPRESS] Anthropic\u2019s Mythos AI shows advanced hacking and defence abilities, raising global cybersecurity concerns. India and US officials review risks after limited leak.",
+            "url": "https://indianexpress.com/article/explained/explained-sci-tech/anthropic-mythos-ai-cybersecurity-risks-india-alert-10653169/"
+        },
+        {
+            "title": "Japan launches financial task force amid AI security fears",
+            "description": "[MARKETSCREENER] Japan will set up a task force to address cybersecurity risks in its financial system following concerns about potential vulnerabilities linked to Anthropic's Mythos AI model, Finance Minister...",
+            "url": "https://www.marketscreener.com/news/japan-launches-financial-task-force-amid-ai-security-fears-ce7f59ded089f224"
+        },
+        {
+            "title": "Technophiles India hosts Dine with AlphaSec III in Mumbai, bringing together India\u2019s cybersecurity leaders to address emerging digital risks",
+            "description": "[THE ECONOMIC TIMES] Technophiles India hosts Dine with AlphaSec III in Mumbai, uniting top cybersecurity leaders to discuss AI risks, enterprise security, and digital resilience in India\u2019s evolving threat landscape.",
+            "url": "https://economictimes.indiatimes.com/tech/ites/technophiles-india-hosts-dine-with-alphasec-iii-in-mumbai-bringing-together-indias-cybersecurity-leaders-to-address-emerging-digital-risks/articleshow/130484653.cms"
+        },
+        {
+            "title": "AI cyber risk alarm: Bain and Co urges firms to act as Claude Mythos raises global security fears",
+            "description": "[FIRSTPOST] A new generation of AI models is reshaping cybersecurity at unprecedented speed. As Anthropic\u2019s Claude Mythos draws both praise and concern, Bain & Company and global regulators warn organisations to...",
+            "url": "https://www.firstpost.com/tech/ai-cyber-risk-alarm-bain-and-co-urges-firms-to-act-as-anthropic-claude-mythos-raises-global-security-fears-14003855.html"
+        },
+        {
+            "title": "Canada Life cybersecurity data breach under investigation as thousands may be impacted",
+            "description": "[THE NEWS INTERNATIONAL] Canada Life says it is investigating a cybersecurity breach that may have exposed the personal data of some customers. In a statement posted on its website on Monday, the company said: \u201cCanada...",
+            "url": "https://www.thenews.com.pk/latest/1400161-canada-life-cybersecurity-data-breach-under-investigation-as-thousands-may-be-impacted"
         },
         {
             "title": "India faces cyber fraud surge: Experts call for robust identity security and AI solutions",
@@ -95,36 +125,6 @@
             "title": "Has Anthropic\u2019s Mythos made the cure worse than the disease?",
             "description": "[THE HINDU] In the world of cybersecurity, defenders are, to put it crudely, your anti-virus sellers, helping you fix security vulnerabilities and keep data safe. But that simple business model is being...",
             "url": "https://www.thehindu.com/sci-tech/technology/has-anthropics-mythos-made-the-cure-worse-than-the-disease/article70896095.ece"
-        },
-        {
-            "title": "Infosys sees AI cybersecurity demand boost from Anthropic Claude Mythos",
-            "description": "[TELEGRAPH INDIA] Regulators flag risks as advanced models expose software flaws faster while company positions services to help banks and enterprises strengthen defences",
-            "url": "https://www.telegraphindia.com/business/infosys-sees-ai-cybersecurity-demand-boost-from-anthropic-claude-mythos-model-prnt/cid/2157516"
-        },
-        {
-            "title": "Bill Curnow launches campaign for Lubbock District 4 Special Election",
-            "description": "[LUBBOCK AVALANCHE-JOURNAL] Bill Curnow, a cybersecurity professional and longtime community volunteer, officially announced his candidacy for Lubbock's District 4 City Council seat in the upcoming June special election.",
-            "url": "https://www.lubbockonline.com/story/news/politics/elections/2026/04/23/bill-curnow-launches-campaign-in-lubbocks-district-4-special-election/89760342007/"
-        },
-        {
-            "title": "Now, even ransomware is using post-quantum cryptography",
-            "description": "[ARS TECHNICA] Technically speaking, there's no practical benefit to use PQC. So why is it being used?",
-            "url": "https://arstechnica.com/security/2026/04/now-even-ransomware-is-using-post-quantum-cryptography/"
-        },
-        {
-            "title": "Trump's pick to run US cyber agency CISA asks to drop out",
-            "description": "[TECHCRUNCH] Sean Plankey has requested to withdraw his name to run the U.S. cybersecurity agency after a tumultuous year of chaotic temporary leadership.",
-            "url": "https://techcrunch.com/2026/04/23/trumps-pick-to-run-us-cyber-agency-cisa-asks-to-drop-out/"
-        },
-        {
-            "title": "Indian media giant hacked by Afghan group, raising cybersecurity concerns",
-            "description": "[THE NATION] ISLAMABAD - In a humiliating breach that has sent shockwaves through India\u2019s digital security landscape, the prominent media network, OneIndia, was",
-            "url": "https://www.nation.com.pk/24-Apr-2026/indian-media-giant-hacked-afghan-group-raising-cybersecurity-concerns"
-        },
-        {
-            "title": "Your IT helpdesk is getting weird calls from people pretending to be your boss using LinkedIn data",
-            "description": "[TECHRADAR] Simple phone calls are now becoming the most dangerous cybersecurity threat",
-            "url": "https://www.techradar.com/pro/security/identity-is-the-new-battleground-why-your-it-helpdesk-is-suddenly-getting-a-lot-of-bizarre-calls"
         }
     ]
 }
