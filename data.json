@@ -1,10 +1,35 @@
 {
-    "updated": "2026-04-28 06:24:21 UTC",
+    "updated": "2026-04-28 10:06:30 UTC",
     "news": [
         {
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
             "description": "[CISA.GOV] CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-33825 Microsoft Defender Insufficient Granularity of...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/04/22/cisa-adds-one-known-exploited-vulnerability-catalog"
+        },
+        {
+            "title": "Chinese Silk Typhoon Hacker Extradited to U.S. Over COVID Research Cyberattacks",
+            "description": "[FEEDS.FEEDBURNER.COM] A Chinese national accused of being a member of the Silk Typhoon hacking group has been extradited to the U.S. from Italy.&nbsp; Xu Zewei, 34, was arrested in July 2025 by Italian authorities for his...",
+            "url": "https://thehackernews.com/2026/04/chinese-silk-typhoon-hacker-extradited.html"
+        },
+        {
+            "title": "Microsoft Patches Entra ID Role Flaw That Enabled Service Principal Takeover",
+            "description": "[FEEDS.FEEDBURNER.COM] An administrative role meant for artificial intelligence (AI) agents within Microsoft Entra ID could enable privilege escalation and identity takeover attacks, according to new findings from...",
+            "url": "https://thehackernews.com/2026/04/microsoft-patches-entra-id-role-flaw.html"
+        },
+        {
+            "title": "Microsoft Confirms Active Exploitation of Windows Shell CVE-2026-32202",
+            "description": "[FEEDS.FEEDBURNER.COM] Microsoft on Monday revised its advisory for a now-patched, high-severity security flaw impacting Windows Shell to acknowledge that it has been actively exploited in the wild. The vulnerability in...",
+            "url": "https://thehackernews.com/2026/04/microsoft-confirms-active-exploitation.html"
+        },
+        {
+            "title": "Microsoft: New Remote Desktop warnings may display incorrectly",
+            "description": "[BLEEPINGCOMPUTER.COM] Microsoft has confirmed a new issue causing newly introduced Windows security warnings to display incorrectly when opening Remote Desktop (.rdp) files. [...]",
+            "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-new-remote-desktop-warnings-may-display-incorrectly/"
+        },
+        {
+            "title": "Microsoft asks iPhone users to reauthenticate after Outlook outage",
+            "description": "[BLEEPINGCOMPUTER.COM] After addressing a widespread outage that affected Outlook.com users worldwide on Monday, Microsoft has asked iPhone users to re-enter their credentials to regain access to their Outlook and Hotmail...",
+            "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-asks-iphone-users-to-re-enter-credentials-after-outlook-outage/"
         },
         {
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
@@ -32,34 +57,9 @@
             "url": "https://www.bleepingcomputer.com/news/security/glassworm-malware-attacks-return-via-73-openvsx-sleeper-extensions/"
         },
         {
-            "title": "Mythos Changed the Math on Vulnerability Discovery. Most Teams Aren't Ready for the Remediation Side",
-            "description": "[FEEDS.FEEDBURNER.COM] Anthropic\u2019s Claude Mythos Preview has dominated security discussions since its April 7 announcement. Early reporting describes a powerful cybersecurity-focused AI system capable of identifying...",
-            "url": "https://thehackernews.com/2026/04/mythos-changed-math-on-vulnerability.html"
-        },
-        {
-            "title": "PhantomCore Exploits TrueConf Vulnerabilities to Breach Russian Networks",
-            "description": "[FEEDS.FEEDBURNER.COM] A pro-Ukrainian hacktivist group called PhantomCore has been attributed to attacks actively targeting servers running TrueConf video conferencing software in Russia since September 2025. That's...",
-            "url": "https://thehackernews.com/2026/04/phantomcore-exploits-trueconf.html"
-        },
-        {
-            "title": "Researchers Uncover 73 Fake VS Code Extensions Delivering GlassWorm v2 Malware",
-            "description": "[FEEDS.FEEDBURNER.COM] Cybersecurity researchers have flagged dozens of Microsoft Visual Studio Code (VS Code) extensions on the Open VSX repository that are linked to a persistent information-stealing campaign dubbed...",
-            "url": "https://thehackernews.com/2026/04/researchers-uncover-73-fake-vs-code.html"
-        },
-        {
             "title": "Canada arrests three for operating \u201cSMS blaster\u201d device in Toronto",
             "description": "[BLEEPINGCOMPUTER.COM] Canadian authorities have arrested three men for operating an \"SMS blaster\" device that pretends to be a cellular tower to send phishing texts to nearby phones. [...]",
             "url": "https://www.bleepingcomputer.com/news/security/canada-arrests-three-for-operating-sms-blaster-device-in-toronto/"
-        },
-        {
-            "title": "Alleged Silk Typhoon hacker extradited to US for cyberespionage",
-            "description": "[BLEEPINGCOMPUTER.COM] A Chinese national accused of carrying out cyberespionage operations for China's intelligence services has been extradited from Italy to the United States to face criminal charges. [...]",
-            "url": "https://www.bleepingcomputer.com/news/security/alleged-silk-typhoon-hacker-extradited-to-us-for-cyberespionage/"
-        },
-        {
-            "title": "FTC: Americans lost over $2.1 billion to social media scams in 2025",
-            "description": "[BLEEPINGCOMPUTER.COM] The U.S. Federal Trade Commission (FTC) warned of a massive increase in losses from social media scams since 2020, exceeding $2.1 billion in 2025. [...]",
-            "url": "https://www.bleepingcomputer.com/news/security/ftc-americans-lost-over-21-billion-to-social-media-scams-in-2025/"
         },
         {
             "title": "\u200b\u200bSupply Chain Compromise Impacts Axios Node Package Manager\u200b",
@@ -75,6 +75,11 @@
             "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
             "description": "[CISA.GOV] CISA has added four new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2024-7399&nbsp;Samsung&nbsp;MagicINFO&nbsp;9 Server Path...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/04/24/cisa-adds-four-known-exploited-vulnerabilities-catalog"
+        },
+        {
+            "title": "WA digital drivers licence trial sparks cybersecurity concerns from expert",
+            "description": "[ABC (AUSTRALIAN BROADCASTING CORPORATION)] A cybersecurity expert warns people's privacy and security could be at risk once the state government rolls out its new digital drivers licence initiative.",
+            "url": "https://www.abc.net.au/news/2026-04-28/wa-digital-drivers-trial-sparks-warning-over-cyber-security/106606044"
         },
         {
             "title": "Street research adopts our long-held view on AI and cybersecurity stocks",
@@ -120,11 +125,6 @@
             "title": "Cybersecurity incident at contractor building JRL stations and NEWater factory",
             "description": "[THE STRAITS TIMES] Project data was compromised at Shanghai Tunnel Engineering Co (Singapore). Read more at straitstimes.com.",
             "url": "https://www.straitstimes.com/singapore/contractor-building-jrl-stations-and-newater-factory-hit-by-data-breach"
-        },
-        {
-            "title": "Starving Russian soldiers 'ate comrades' on Ukraine front line, Kyiv claims",
-            "description": "[LBC] Cybersecurity specialists in Kyiv say they have evidence of five separate instances where Russian troops have reported eating their comrades",
-            "url": "https://www.lbc.co.uk/article/starving-russian-soldiers-ate-comrades-ukraine-5HjdYKc_2/"
         }
     ]
 }
