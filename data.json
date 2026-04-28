@@ -1,5 +1,5 @@
 {
-    "updated": "2026-04-28 20:59:05 UTC",
+    "updated": "2026-04-28 22:46:26 UTC",
     "news": [
         {
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
@@ -32,6 +32,16 @@
             "url": "https://thehackernews.com/2026/04/why-secure-data-movement-is-zero-trust.html"
         },
         {
+            "title": "Broken VECT 2.0 ransomware acts as a data wiper for large files",
+            "description": "[BLEEPINGCOMPUTER.COM] Researchers are warning that the VECT 2.0 ransomware has a problem in the way it handles encryption nonces that leads to permanently destroying larger files rather than encrypt them. [...]",
+            "url": "https://www.bleepingcomputer.com/news/security/broken-vect-20-ransomware-acts-as-a-data-wiper-for-large-files/"
+        },
+        {
+            "title": "Hackers are exploiting a critical LiteLLM pre-auth SQLi flaw",
+            "description": "[BLEEPINGCOMPUTER.COM] Hackers are targeting sensitive information stored in the LiteLLM open-source large-language model (LLM) gateway by exploiting a critical vulnerability tracked as CVE-2026-42208. [...]",
+            "url": "https://www.bleepingcomputer.com/news/security/hackers-are-exploiting-a-critical-litellm-pre-auth-sqli-flaw/"
+        },
+        {
             "title": "Critical Unpatched Flaw Leaves Hugging Face LeRobot Open to Unauthenticated RCE",
             "description": "[FEEDS.FEEDBURNER.COM] Cybersecurity researchers have disclosed details of a critical security flaw impacting LeRobot, Hugging Face's open-source robotics platform with nearly 24,000 GitHub stars, that could be exploited...",
             "url": "https://thehackernews.com/2026/04/critical-cve-2026-25874-leaves-hugging.html"
@@ -52,16 +62,6 @@
             "url": "https://www.bleepingcomputer.com/news/security/checkmarx-confirms-lapsus-hackers-leaked-its-stolen-github-data/"
         },
         {
-            "title": "Microsoft to deprecate legacy TLS in Exchange Online starting July",
-            "description": "[BLEEPINGCOMPUTER.COM] Microsoft says it will start blocking legacy TLS connections for POP and IMAP email clients in Exchange Online starting in July 2026. [...]",
-            "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-deprecate-legacy-tls-in-exchange-online-starting-july/"
-        },
-        {
-            "title": "Inside an OPSEC Playbook: How Threat Actors Evade Detection",
-            "description": "[BLEEPINGCOMPUTER.COM] Threat actors are now publishing structured OPSEC playbooks to stay undetected. Flare reveals how these guides outline layered infrastructure, identity separation, and long-term evasion strategies....",
-            "url": "https://www.bleepingcomputer.com/news/security/inside-an-opsec-playbook-how-threat-actors-evade-detection/"
-        },
-        {
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
             "description": "[CISA.GOV] CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-39987 Marimo Remote Code Execution Vulnerability This...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/04/23/cisa-adds-one-known-exploited-vulnerability-catalog"
@@ -75,6 +75,16 @@
             "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
             "description": "[CISA.GOV] CISA has added four new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2024-7399&nbsp;Samsung&nbsp;MagicINFO&nbsp;9 Server Path...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/04/24/cisa-adds-four-known-exploited-vulnerabilities-catalog"
+        },
+        {
+            "title": "In warns MSMEs about Anthropic's Mythos and other AI models that can drive cybercrime risks",
+            "description": "[TIMES OF INDIA] Tech News News: CERT-In has issued a high-severity advisory to Indian MSMEs on cybersecurity risks posed by advanced AI systems, such as Anthropic\u2019s Mythos and simila.",
+            "url": "https://timesofindia.indiatimes.com/technology/tech-news/cert-in-warns-msmes-about-anthropics-mythos-and-other-ai-models-that-can-drive-cybercrime-risks/articleshow/130577143.cms"
+        },
+        {
+            "title": "Opinion | After Mythos, Nobody Is Safe From Cybersecurity Threats",
+            "description": "[THE NEW YORK TIMES] Nobody can afford to be relaxed about their digital security anymore.",
+            "url": "https://www.nytimes.com/2026/04/28/opinion/cybersecurity-mythos.html"
         },
         {
             "title": "AI Cyber Risks Surge: CERT-In Flags Key Threats You Must Know",
@@ -115,16 +125,6 @@
             "title": "Blueprint for youth online safety",
             "description": "[THE STAR] FROM THULASY SUPPIAH Kuala Lumpur The writer is a senior lawyer focusing on artificial intelligence, data centres, and cybersecurity.",
             "url": "https://www.thestar.com.my/opinion/letters/2026/04/28/blueprint-for-youth-online-safety"
-        },
-        {
-            "title": "driven cyber threats amid \u2018Mythos\u2019 concerns",
-            "description": "[LOKMAT TIMES] CERT-In warns of rising AI-driven cyber threats amid \u2018Mythos\u2019 concerns - New Delhi, April 27 India\u2019s nodal cybersecurity agency, the Indian Computer Emergency Response Team (CERT-In), has issued a...",
-            "url": "https://www.lokmattimes.com/technology/cert-in-warns-of-rising-ai-driven-cyber-threats-amid-mythos-concerns-1/"
-        },
-        {
-            "title": "driven cyber threats amid \u2018Mythos\u2019 concerns",
-            "description": "[LOKMAT TIMES] CERT-In warns of rising AI-driven cyber threats amid \u2018Mythos\u2019 concerns - New Delhi, April 27 India\u2019s nodal cybersecurity agency, the Indian Computer Emergency Response Team (CERT-In), has issued a...",
-            "url": "https://www.lokmattimes.com/business/cert-in-warns-of-rising-ai-driven-cyber-threats-amid-mythos-concerns/"
         }
     ]
 }
