@@ -1,10 +1,25 @@
 {
-    "updated": "2026-04-28 16:03:17 UTC",
+    "updated": "2026-04-28 19:20:17 UTC",
     "news": [
         {
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
             "description": "[CISA.GOV] CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-33825 Microsoft Defender Insufficient Granularity of...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/04/22/cisa-adds-one-known-exploited-vulnerability-catalog"
+        },
+        {
+            "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+            "description": "[CISA.GOV] CISA has added&nbsp;two&nbsp;new&nbsp;vulnerabilities&nbsp;to its&nbsp;Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation....",
+            "url": "https://www.cisa.gov/news-events/alerts/2026/04/28/cisa-adds-two-known-exploited-vulnerabilities-catalog"
+        },
+        {
+            "title": "Researchers Discover Critical GitHub CVE-2026-3854 RCE Flaw Exploitable via Single Git Push",
+            "description": "[FEEDS.FEEDBURNER.COM] Cybersecurity researchers have disclosed details of a critical security vulnerability impacting GitHub.com and GitHub Enterprise Server that could allow an authenticated user to obtain remote code...",
+            "url": "https://thehackernews.com/2026/04/researchers-discover-critical-github.html"
+        },
+        {
+            "title": "Brazilian LofyGang Resurfaces After Three Years With Minecraft LofyStealer Campaign",
+            "description": "[FEEDS.FEEDBURNER.COM] A cybercrime group of Brazilian origin has resurfaced after more than three years to orchestrate a campaign that targets Minecraft players with a new stealer called LofyStealer (aka GrabBot). \"The...",
+            "url": "https://thehackernews.com/2026/04/brazilian-lofygang-resurfaces-after.html"
         },
         {
             "title": "VECT 2.0 Ransomware Irreversibly Destroys Files Over 131KB on Windows, Linux, ESXi",
@@ -22,14 +37,9 @@
             "url": "https://thehackernews.com/2026/04/critical-cve-2026-25874-leaves-hugging.html"
         },
         {
-            "title": "After Mythos: New Playbooks For a Zero-Window Era",
-            "description": "[FEEDS.FEEDBURNER.COM] When patching isn\u2019t fast enough, NDR helps contain the next era of threats. If you\u2019ve been tracking advancements in AI, you know the exploit window, the short buffer that organizations relied on to...",
-            "url": "https://thehackernews.com/2026/04/after-mythos-new-playbooks-for-zero.html"
-        },
-        {
-            "title": "Chinese Silk Typhoon Hacker Extradited to U.S. Over COVID Research Cyberattacks",
-            "description": "[FEEDS.FEEDBURNER.COM] A Chinese national accused of being a member of the Silk Typhoon hacking group has been extradited to the U.S. from Italy.&nbsp; Xu Zewei, 34, was arrested in July 2025 by Italian authorities for his...",
-            "url": "https://thehackernews.com/2026/04/chinese-silk-typhoon-hacker-extradited.html"
+            "title": "Video service Vimeo confirms Anodot breach exposed user data",
+            "description": "[BLEEPINGCOMPUTER.COM] Vimeo has disclosed that data belonging to some of its customers and users has been accessed without authorization following the recent breach at the Anodot data anomaly detection company. [...]",
+            "url": "https://www.bleepingcomputer.com/news/security/video-service-vimeo-confirms-anodot-breach-exposed-user-data/"
         },
         {
             "title": "US reportedly charges Scattered Spider hacker arrested in Finland",
@@ -52,11 +62,6 @@
             "url": "https://www.bleepingcomputer.com/news/security/inside-an-opsec-playbook-how-threat-actors-evade-detection/"
         },
         {
-            "title": "Microsoft: New Remote Desktop warnings may display incorrectly",
-            "description": "[BLEEPINGCOMPUTER.COM] Microsoft has confirmed a new issue causing newly introduced Windows security warnings to display incorrectly when opening Remote Desktop (.rdp) files. [...]",
-            "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-new-remote-desktop-warnings-may-display-incorrectly/"
-        },
-        {
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
             "description": "[CISA.GOV] CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-39987 Marimo Remote Code Execution Vulnerability This...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/04/23/cisa-adds-one-known-exploited-vulnerability-catalog"
@@ -67,14 +72,19 @@
             "url": "https://www.cisa.gov/news-events/alerts/2026/04/20/supply-chain-compromise-impacts-axios-node-package-manager"
         },
         {
-            "title": "CISA Adds Eight Known Exploited Vulnerabilities to Catalog",
-            "description": "[CISA.GOV] CISA has added eight new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation.&nbsp; CVE-2023-27351 PaperCut NG/MF Improper Authentication...",
-            "url": "https://www.cisa.gov/news-events/alerts/2026/04/20/cisa-adds-eight-known-exploited-vulnerabilities-catalog"
-        },
-        {
             "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
             "description": "[CISA.GOV] CISA has added four new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2024-7399&nbsp;Samsung&nbsp;MagicINFO&nbsp;9 Server Path...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/04/24/cisa-adds-four-known-exploited-vulnerabilities-catalog"
+        },
+        {
+            "title": "Lawfare Daily: The Shadowy World of Ransomware with Professor Anja Shortland",
+            "description": "[LAWFARE] How did ransomware become perhaps the most important form of cyber crime?",
+            "url": "https://www.lawfaremedia.org/article/lawfare-daily--the-shadowy-world-of-ransomware-with-professor-anja-shortland"
+        },
+        {
+            "title": "CERT-In Flags High-Risk AI Threats Reshaping Cybersecurity Landscape",
+            "description": "[FREE PRESS JOURNAL] CERT-In has issued a high-severity alert warning that advanced AI is transforming cyber threats, enabling faster, autonomous & large-scale attacks. Modern AI tools can detect vulnerabilities and...",
+            "url": "https://www.freepressjournal.in/tech/cert-in-flags-high-risk-ai-threats-reshaping-cybersecurity-landscape"
         },
         {
             "title": "In warns MSMEs on new AI risks",
@@ -115,16 +125,6 @@
             "title": "CrowdStrike to rally as Anthropic's Project Glasswing spotlights AI cybersecurity risks, Mizuho says",
             "description": "[CNBC TV18] CrowdStrike should see its shares rise as Project Glasswing calls attention to cybersecurity threats posed by the growing use of AI, per Mizuho.",
             "url": "https://www.cnbctv18.com/market/crowdstrike-to-rally-as-anthropics-project-glasswing-spotlights-ai-cybersecurity-risks-mizuho-says-ws-l-19894299.htm"
-        },
-        {
-            "title": "Nearly half of governments to deploy AI at scale, but face execution hurdles: KPMG report",
-            "description": "[THE ECONOMIC TIMES] Governments globally are gearing up to use AI extensively in the coming year. However, many are finding it difficult to move beyond initial tests. This is due to issues with data integration, a lack...",
-            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/nearly-half-of-governments-to-deploy-ai-at-scale-but-face-execution-hurdles-kpmg-report/articleshow/130555685.cms"
-        },
-        {
-            "title": "CrowdStrike to rally as Anthropic spotlights AI cybersecurity threats, Mizuho says",
-            "description": "[CNBC] CrowdStrike should see its shares rise as Project Glasswing calls attention to cybersecurity threats posed by the growing use of AI, per Mizuho.",
-            "url": "https://www.cnbc.com/2026/04/27/crowdstrike-to-rally-as-anthropic-spotlights-ai-cybersecurity-threats-mizuho-says-.html"
         }
     ]
 }
