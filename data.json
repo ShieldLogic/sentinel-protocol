@@ -1,5 +1,5 @@
 {
-    "updated": "2026-04-27 22:40:38 UTC",
+    "updated": "2026-04-28 02:01:11 UTC",
     "news": [
         {
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
@@ -15,6 +15,11 @@
             "title": "Checkmarx Confirms GitHub Repository Data Posted on Dark Web After March 23 Attack",
             "description": "[FEEDS.FEEDBURNER.COM] Checkmarx has disclosed that its ongoing investigation tied to the supply chain security incident has revealed that a cybercriminal group published data related to the company on the dark web. \"Based...",
             "url": "https://thehackernews.com/2026/04/checkmarx-confirms-github-repository.html"
+        },
+        {
+            "title": "Robinhood account creation flaw abused to send phishing emails",
+            "description": "[BLEEPINGCOMPUTER.COM] Online trading platform Robinhood's account creation process was exploited by threat actors to inject phishing messages into legitimate emails, tricking users into believing their accounts had...",
+            "url": "https://www.bleepingcomputer.com/news/security/robinhood-account-creation-flaw-abused-to-send-phishing-emails/"
         },
         {
             "title": "\u26a1 Weekly Recap: Fast16 Malware, XChat Launch, Federal Backdoor, AI Employee Tracking & More",
@@ -57,11 +62,6 @@
             "url": "https://www.bleepingcomputer.com/news/security/ftc-americans-lost-over-21-billion-to-social-media-scams-in-2025/"
         },
         {
-            "title": "PyPI package with 1.1M monthly downloads hacked to push infostealer",
-            "description": "[BLEEPINGCOMPUTER.COM] An attacker pushed a malicious version of the popular elementary-data package Python Package Index (PyPI) to steal sensitive developer data and cryptocurrency wallets. [...]",
-            "url": "https://www.bleepingcomputer.com/news/security/pypi-package-with-11m-monthly-downloads-hacked-to-push-infostealer/"
-        },
-        {
             "title": "\u200b\u200bSupply Chain Compromise Impacts Axios Node Package Manager\u200b",
             "description": "[CISA.GOV] The Cybersecurity and Infrastructure Security Agency (CISA) is releasing this alert to provide guidance in response to the software supply chain compromise of the Axios node package manager (npm).1...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/04/20/supply-chain-compromise-impacts-axios-node-package-manager"
@@ -77,6 +77,46 @@
             "url": "https://www.cisa.gov/news-events/alerts/2026/04/24/cisa-adds-four-known-exploited-vulnerabilities-catalog"
         },
         {
+            "title": "CrowdStrike to rally as Anthropic's Project Glasswing spotlights AI cybersecurity risks, Mizuho says",
+            "description": "[CNBC TV18] CrowdStrike should see its shares rise as Project Glasswing calls attention to cybersecurity threats posed by the growing use of AI, per Mizuho.",
+            "url": "https://www.cnbctv18.com/market/crowdstrike-to-rally-as-anthropics-project-glasswing-spotlights-ai-cybersecurity-risks-mizuho-says-ws-l-19894299.htm"
+        },
+        {
+            "title": "Nearly half of governments to deploy AI at scale, but face execution hurdles: KPMG report",
+            "description": "[THE ECONOMIC TIMES] Governments globally are gearing up to use AI extensively in the coming year. However, many are finding it difficult to move beyond initial tests. This is due to issues with data integration, a lack...",
+            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/nearly-half-of-governments-to-deploy-ai-at-scale-but-face-execution-hurdles-kpmg-report/articleshow/130555685.cms"
+        },
+        {
+            "title": "CrowdStrike to rally as Anthropic spotlights AI cybersecurity threats, Mizuho says",
+            "description": "[CNBC] CrowdStrike should see its shares rise as Project Glasswing calls attention to cybersecurity threats posed by the growing use of AI, per Mizuho.",
+            "url": "https://www.cnbc.com/2026/04/27/crowdstrike-to-rally-as-anthropic-spotlights-ai-cybersecurity-threats-mizuho-says-.html"
+        },
+        {
+            "title": "Cybersecurity incident at contractor building JRL stations and NEWater factory",
+            "description": "[THE STRAITS TIMES] Project data was compromised at Shanghai Tunnel Engineering Co (Singapore). Read more at straitstimes.com.",
+            "url": "https://www.straitstimes.com/singapore/contractor-building-jrl-stations-and-newater-factory-hit-by-data-breach"
+        },
+        {
+            "title": "Starving Russian soldiers 'ate comrades' on Ukraine front line, Kyiv claims",
+            "description": "[LBC] Cybersecurity specialists in Kyiv say they have evidence of five separate instances where Russian troops have reported eating their comrades",
+            "url": "https://www.lbc.co.uk/article/starving-russian-soldiers-ate-comrades-ukraine-5HjdYKc_2/"
+        },
+        {
+            "title": "\u2018They took 87,000 without permission\u2019: Archana Puran Singh\u2019s son Aayushmaan Sethi provides an update after falling for a \u2018free trial\u2019 trap; a cybersecurity expert shares what to watch out for",
+            "description": "[THE INDIAN EXPRESS] Archana Puran Singh\u2019s son, Aayushmaan, loses Rs 87,000 to an online subscription error. Learn how 'free trials' can lead to unexpected and significant credit card charges.",
+            "url": "https://indianexpress.com/article/lifestyle/archana-puran-singh-son-aayushmaan-sethi-87000-online-subscription-trap-10658040/"
+        },
+        {
+            "title": "What Is Anthropic Mythos? The AI Cybersecurity Model That Has Concerned FM Nirmala Sitharaman",
+            "description": "[NEWS18] 'No one would have imagined a couple of weeks ago that there is a new threat which is as big as a threat of war,' says FM Nirmala Sitharaman on Anthorpic Mythos.",
+            "url": "https://www.news18.com/business/banking-finance/what-is-anthropic-mythos-the-ai-cybersecurity-model-that-has-concerned-fm-nirmala-sitharaman-ws-l-10060216.html"
+        },
+        {
+            "title": "This cybersecurity stock is down sharply in 2026. Jefferies sees a buying opportunity",
+            "description": "[CNBC] The investment firm assigned the stock a buy rating.",
+            "url": "https://www.cnbc.com/2026/04/27/this-cybersecurity-stock-is-down-sharply-in-2026-jefferies-sees-a-buying-opportunity.html"
+        },
+        {
             "title": "Authorities investigating cybersecurity incident at firm involved in MRT and NEWater projects",
             "description": "[CNA] Construction of the Jurong Region Line has not been affected, said LTA, while PUB said no sensitive data from Changi NEWater Factory 3 was compromised after the incident involving Shanghai Tunnel...",
             "url": "https://www.channelnewsasia.com/singapore/cybersecurity-incident-lta-pub-shanghai-tunnel-engineering-6083346"
@@ -85,46 +125,6 @@
             "title": "Govt Warns Indian Firms And MSMEs To Stay Alert As Mythos AI Cyber Risk Grows",
             "description": "[TIMES NOW] India\u2019s cybersecurity agency has issued a warning regarding the rise of sophisticated cyber attacks using advanced AI systems like Claude Mythos., Technology & Science, Times Now",
             "url": "https://www.timesnownews.com/technology-science/govt-warns-indian-firms-and-msmes-to-stay-alert-as-mythos-ai-cyber-risk-grows-article-154179352"
-        },
-        {
-            "title": "Want To Stay Away From Cyber Fraud & Scams? Here's A Fullproof Cybersecurity Checklist Every Indian Must Follow Right Now",
-            "description": "[FREE PRESS JOURNAL] In a Free Press Journal exclusive, the CEO of a leading Indian identity security firm shares the lesser-known practices that can protect ordinary users from phishing, scams and account takeovers",
-            "url": "https://www.freepressjournal.in/tech/want-to-stay-away-from-cyber-fraud-scams-heres-a-fullproof-cybersecurity-checklist-every-indian-must-follow-right-now"
-        },
-        {
-            "title": "Why Indian govt is warning banks against Anthropic's Claude Mythos AI",
-            "description": "[BUSINESS STANDARD] Government asks banks to strengthen cybersecurity amid concerns over Anthropic's Claude Mythos AI and its potential to accelerate cyber threats at scale",
-            "url": "https://www.business-standard.com/technology/tech-news/indian-banks-govt-anthropic-threat-claude-mythos-ai-cybersecurity-risks-126042700436_1.html"
-        },
-        {
-            "title": "CERT-In outlines safeguards for Indian orgs, MSMEs amid Mythos AI cybersecurity risk concerns",
-            "description": "[THE INDIAN EXPRESS] Anthropic\u2019s new AI model \u2018Mythos\u2019 \u2013 considered too risky to be released widely to the public \u2013 has become a wake-up call for regulators in India and globally.",
-            "url": "https://indianexpress.com/article/technology/artificial-intelligence/cert-in-safeguards-msmes-mythos-ai-cybersecurity-risk-10657982/"
-        },
-        {
-            "title": "FPJ Exclusive | Mumbai Lost \u20b91,031 Crore To Cyber Fraud In 2025, Recovered Less Than 11%: Expert Warns Financial Capital Is Prime Target",
-            "description": "[FREE PRESS JOURNAL] In an exclusive interview with Free Press Journal, Anirban Mukherjee, Founder and CEO of Pune-based cybersecurity firm miniOrange, sounded a sharp alarm about Mumbai",
-            "url": "https://www.freepressjournal.in/tech/fpj-exclusive-mumbai-lost-1031-crore-to-cyber-fraud-in-2025-recovered-less-than-11-expert-warns-financial-capital-is-prime-target"
-        },
-        {
-            "title": "USG Tech Solutions Board Meeting Scheduled for May 11, 2026 to Approve Q4FY26 Results and Strategic Initiatives",
-            "description": "[SCANX.TRADE] USG Tech Solutions Limited has scheduled a board meeting for May 11, 2026, to approve Q4FY26 financial results and consider strategic initiatives including AI certification course launch, cyber...",
-            "url": "https://scanx.trade/stock-market-news/companies/usg-tech-solutions-board-meeting-scheduled-for-may-11-2026-to-approve-q4fy26-results-and-strategic-initiatives/38820468"
-        },
-        {
-            "title": "ET Awards: Sitharaman flags AI threat and global risks, says reforms on the way to support India Inc growth",
-            "description": "[THE ECONOMIC TIMES] Finance Minister Nirmala Sitharaman is preparing new reforms to ease business compliance. She believes strong domestic consumption will help India overcome global challenges. The government is also...",
-            "url": "https://economictimes.indiatimes.com/news/economy/policy/et-awards-sitharaman-flags-ai-threat-and-global-risks-says-reforms-on-the-way-to-support-india-inc-growth/articleshow/130541686.cms"
-        },
-        {
-            "title": "Mythos shows that in age of AI, no system is safe",
-            "description": "[THE INDIAN EXPRESS] What Mythos and Glasswing together announce is a new epoch. Cybersecurity, AI governance, and crisis management no longer exist as separate disciplines",
-            "url": "https://indianexpress.com/article/opinion/columns/mythos-shows-that-in-age-of-ai-no-system-is-safe-10657202/"
-        },
-        {
-            "title": "Under cover of trade truce with Trump, China expands economic pressure toolkit",
-            "description": "[THE JAPAN TIMES ] Beijing is punishing those who shift supply chains from China, tightening rare \u200bearth licensing, banning foreign AI and cybersecurity tech and weighing curbs on its solar gear.",
-            "url": "https://www.japantimes.co.jp/business/2026/04/27/markets/china-trade-truce-economic-pressure/"
         }
     ]
 }
