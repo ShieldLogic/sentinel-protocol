@@ -1,10 +1,15 @@
 {
-    "updated": "2026-04-28 13:29:24 UTC",
+    "updated": "2026-04-28 16:03:17 UTC",
     "news": [
         {
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
             "description": "[CISA.GOV] CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-33825 Microsoft Defender Insufficient Granularity of...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/04/22/cisa-adds-one-known-exploited-vulnerability-catalog"
+        },
+        {
+            "title": "VECT 2.0 Ransomware Irreversibly Destroys Files Over 131KB on Windows, Linux, ESXi",
+            "description": "[FEEDS.FEEDBURNER.COM] Threat hunters are warning that the cybercriminal operation known as VECT 2.0 acts more like a wiper than a ransomware due to a critical flaw in its encryption implementation across Windows, Linux,...",
+            "url": "https://thehackernews.com/2026/04/vect-20-ransomware-irreversibly.html"
         },
         {
             "title": "Why Secure Data Movement Is the Zero Trust Bottleneck Nobody Talks About",
@@ -27,9 +32,14 @@
             "url": "https://thehackernews.com/2026/04/chinese-silk-typhoon-hacker-extradited.html"
         },
         {
-            "title": "Microsoft Patches Entra ID Role Flaw That Enabled Service Principal Takeover",
-            "description": "[FEEDS.FEEDBURNER.COM] An administrative role meant for artificial intelligence (AI) agents within Microsoft Entra ID could enable privilege escalation and identity takeover attacks, according to new findings from...",
-            "url": "https://thehackernews.com/2026/04/microsoft-patches-entra-id-role-flaw.html"
+            "title": "US reportedly charges Scattered Spider hacker arrested in Finland",
+            "description": "[BLEEPINGCOMPUTER.COM] A 19-year-old dual United States and Estonian citizen arrested in Finland earlier this month faces federal charges in the U.S. alleging he was a prolific member of the notorious Scattered Spider...",
+            "url": "https://www.bleepingcomputer.com/news/security/us-reportedly-charges-scattered-spider-hacker-arrested-in-finland/"
+        },
+        {
+            "title": "Checkmarx confirms LAPSUS$ hackers leaked its stolen GitHub data",
+            "description": "[BLEEPINGCOMPUTER.COM] Application security company Checkmarx has confirmed that the LAPSUS$ threat group leaked data stolen from its private GitHub repository. [...]",
+            "url": "https://www.bleepingcomputer.com/news/security/checkmarx-confirms-lapsus-hackers-leaked-its-stolen-github-data/"
         },
         {
             "title": "Microsoft to deprecate legacy TLS in Exchange Online starting July",
@@ -47,19 +57,9 @@
             "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-new-remote-desktop-warnings-may-display-incorrectly/"
         },
         {
-            "title": "Microsoft asks iPhone users to reauthenticate after Outlook outage",
-            "description": "[BLEEPINGCOMPUTER.COM] After addressing a widespread outage that affected Outlook.com users worldwide on Monday, Microsoft has asked iPhone users to re-enter their credentials to regain access to their Outlook and Hotmail...",
-            "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-asks-iphone-users-to-re-enter-credentials-after-outlook-outage/"
-        },
-        {
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
             "description": "[CISA.GOV] CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-39987 Marimo Remote Code Execution Vulnerability This...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/04/23/cisa-adds-one-known-exploited-vulnerability-catalog"
-        },
-        {
-            "title": "Robinhood account creation flaw abused to send phishing emails",
-            "description": "[BLEEPINGCOMPUTER.COM] Online trading platform Robinhood's account creation process was exploited by threat actors to inject phishing messages into legitimate emails, tricking users into believing their accounts had...",
-            "url": "https://www.bleepingcomputer.com/news/security/robinhood-account-creation-flaw-abused-to-send-phishing-emails/"
         },
         {
             "title": "\u200b\u200bSupply Chain Compromise Impacts Axios Node Package Manager\u200b",
