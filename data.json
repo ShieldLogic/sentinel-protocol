@@ -1,10 +1,20 @@
 {
-    "updated": "2026-04-29 06:17:22 UTC",
+    "updated": "2026-04-29 09:57:11 UTC",
     "news": [
+        {
+            "title": "CISA Adds Actively Exploited ConnectWise and Windows Flaws to KEV",
+            "description": "[FEEDS.FEEDBURNER.COM] The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added two security flaws impacting ConnectWise ScreenConnect and Microsoft Windows to its Known Exploited Vulnerabilities...",
+            "url": "https://thehackernews.com/2026/04/cisa-adds-actively-exploited.html"
+        },
         {
             "title": "LiteLLM CVE-2026-42208 SQL Injection Exploited within 36 Hours of Disclosure",
             "description": "[FEEDS.FEEDBURNER.COM] In yet another instance of threat actors quickly jumping on the exploitation bandwagon, a newly disclosed critical security flaw in BerriAI's LiteLLM Python package has come under active exploitation...",
             "url": "https://thehackernews.com/2026/04/litellm-cve-2026-42208-sql-injection.html"
+        },
+        {
+            "title": "Microsoft says backend change broke Teams Free chat and calls",
+            "description": "[BLEEPINGCOMPUTER.COM] Microsoft is working to resolve a known issue that prevents some Microsoft Teams Free users from chatting and calling others. [...]",
+            "url": "https://www.bleepingcomputer.com/news/security/microsoft-says-backend-change-broke-teams-free-chat-and-calls/"
         },
         {
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
@@ -32,11 +42,6 @@
             "url": "https://thehackernews.com/2026/04/vect-20-ransomware-irreversibly.html"
         },
         {
-            "title": "Why Secure Data Movement Is the Zero Trust Bottleneck Nobody Talks About",
-            "description": "[FEEDS.FEEDBURNER.COM] Every security program is betting on the same assumption: once a system is connected, the problem is solved. Open a ticket, stand up a gateway, push the data through. Done. That assumption is wrong....",
-            "url": "https://thehackernews.com/2026/04/why-secure-data-movement-is-zero-trust.html"
-        },
-        {
             "title": "Broken VECT 2.0 ransomware acts as a data wiper for large files",
             "description": "[BLEEPINGCOMPUTER.COM] Researchers are warning that the VECT 2.0 ransomware has a problem in the way it handles encryption nonces that leads to permanently destroying larger files rather than encrypt them. [...]",
             "url": "https://www.bleepingcomputer.com/news/security/broken-vect-20-ransomware-acts-as-a-data-wiper-for-large-files/"
@@ -57,11 +62,6 @@
             "url": "https://www.bleepingcomputer.com/news/security/us-reportedly-charges-scattered-spider-hacker-arrested-in-finland/"
         },
         {
-            "title": "Checkmarx confirms LAPSUS$ hackers leaked its stolen GitHub data",
-            "description": "[BLEEPINGCOMPUTER.COM] Application security company Checkmarx has confirmed that the LAPSUS$ threat group leaked data stolen from its private GitHub repository. [...]",
-            "url": "https://www.bleepingcomputer.com/news/security/checkmarx-confirms-lapsus-hackers-leaked-its-stolen-github-data/"
-        },
-        {
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
             "description": "[CISA.GOV] CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-39987 Marimo Remote Code Execution Vulnerability This...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/04/23/cisa-adds-one-known-exploited-vulnerability-catalog"
@@ -75,6 +75,26 @@
             "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
             "description": "[CISA.GOV] CISA has added four new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2024-7399&nbsp;Samsung&nbsp;MagicINFO&nbsp;9 Server Path...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/04/24/cisa-adds-four-known-exploited-vulnerabilities-catalog"
+        },
+        {
+            "title": "F5 raises annual revenue growth forecast on strong security spending",
+            "description": "[REUTERS] Cybersecurity firm F5 raised its annual revenue growth forecast on \u200bTuesday, betting on strong demand \u200cfor its application and cloud security products as enterprises shore up digital \u200bprotection...",
+            "url": "https://www.reuters.com/technology/f5-raises-annual-revenue-growth-forecast-strong-security-spending-2026-04-28/"
+        },
+        {
+            "title": "White House meets with tech, cyber firms over Mythos concerns",
+            "description": "[POLITICO] National Cyber Director Sean Cairncross is expected to chair the discussion, which will also focus broadly on cybersecurity and AI-related topics.",
+            "url": "https://www.politico.com/news/2026/04/28/white-house-huddle-cyber-mythos-00896589"
+        },
+        {
+            "title": "ExcelMindCyber Institute Highlights AI Governance Gap as 2026 Enterprise Spending Surges",
+            "description": "[THE MANILA TIMES] DALLAS, April 28, 2026 (GLOBE NEWSWIRE) -- As global enterprise spending on artificial intelligence is projected to reach $665 billion in 2026, ExcelMindCyber Institute today announced new insights...",
+            "url": "https://www.manilatimes.net/2026/04/29/tmt-newswire/globenewswire/excelmindcyber-institute-highlights-ai-governance-gap-as-2026-enterprise-spending-surges/2330886"
+        },
+        {
+            "title": "Building resilience against Mythos brahmastra",
+            "description": "[THE NEW INDIAN EXPRESS] Anthropic considers Claude Mythos so dangerous for cybersecurity that CEO Dario Amodei decided against its general release. Only a handful of US and UK organisa",
+            "url": "https://www.newindianexpress.com/opinion/2026/Apr/28/building-resilience-against-mythos-brahmastra"
         },
         {
             "title": "How IT asset recovery services support cybersecurity and compliance in Augusta County",
@@ -105,26 +125,6 @@
             "title": "Union government speaking to Anthropic about concerns over Mythos: top MeitY official",
             "description": "[THE HINDU] India's government addresses AI cybersecurity threats, engaging with Anthropic over concerns regarding its Mythos release, says MeitY official.",
             "url": "https://www.thehindu.com/sci-tech/technology/union-government-speaking-to-anthropic-about-concerns-over-mythos-topmeityofficial/article70915651.ece"
-        },
-        {
-            "title": "Indian cyberwatchdog warns MSMEs are facing higher AI-driven cyber attack threats",
-            "description": "[THE ECONOMIC TIMES] Indias cybersecurity watchdog, CERT-In, has issued a stark warning regarding the evolution of AI-driven cyber threats. By automating the identification of software vulnerabilities and launching...",
-            "url": "https://economictimes.indiatimes.com/news/new-updates/indian-cyberwatchdog-warns-msmes-are-facing-higher-ai-driven-cyber-attack-threats/articleshow/130580004.cms"
-        },
-        {
-            "title": "In warns MSMEs about Anthropic's Mythos and other AI models that can drive cybercrime risks",
-            "description": "[TIMES OF INDIA] Tech News News: CERT-In has issued a high-severity advisory to Indian MSMEs on cybersecurity risks posed by advanced AI systems, such as Anthropic\u2019s Mythos and simila.",
-            "url": "https://timesofindia.indiatimes.com/technology/tech-news/cert-in-warns-msmes-about-anthropics-mythos-and-other-ai-models-that-can-drive-cybercrime-risks/articleshow/130577143.cms"
-        },
-        {
-            "title": "Opinion | After Mythos, Nobody Is Safe From Cybersecurity Threats",
-            "description": "[THE NEW YORK TIMES] Nobody can afford to be relaxed about their digital security anymore.",
-            "url": "https://www.nytimes.com/2026/04/28/opinion/cybersecurity-mythos.html"
-        },
-        {
-            "title": "AI Cyber Risks Surge: CERT-In Flags Key Threats You Must Know",
-            "description": "[OUTLOOK BUSINESS] CERT-In warns of rising AI-driven cyber threats, highlighting risks for organisations, MSMEs and individuals while outlining key steps to strengthen cybersecurity and prevent advanced attacks.",
-            "url": "https://www.outlookbusiness.com/ampstories/deeptech/ai-cyber-risks-surge-cert-in-flags-key-threats-you-must-know"
         }
     ]
 }
