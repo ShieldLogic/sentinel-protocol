@@ -1,6 +1,11 @@
 {
-    "updated": "2026-04-29 02:03:02 UTC",
+    "updated": "2026-04-29 06:17:22 UTC",
     "news": [
+        {
+            "title": "LiteLLM CVE-2026-42208 SQL Injection Exploited within 36 Hours of Disclosure",
+            "description": "[FEEDS.FEEDBURNER.COM] In yet another instance of threat actors quickly jumping on the exploitation bandwagon, a newly disclosed critical security flaw in BerriAI's LiteLLM Python package has come under active exploitation...",
+            "url": "https://thehackernews.com/2026/04/litellm-cve-2026-42208-sql-injection.html"
+        },
         {
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
             "description": "[CISA.GOV] CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-33825 Microsoft Defender Insufficient Granularity of...",
@@ -42,11 +47,6 @@
             "url": "https://www.bleepingcomputer.com/news/security/hackers-are-exploiting-a-critical-litellm-pre-auth-sqli-flaw/"
         },
         {
-            "title": "Critical Unpatched Flaw Leaves Hugging Face LeRobot Open to Unauthenticated RCE",
-            "description": "[FEEDS.FEEDBURNER.COM] Cybersecurity researchers have disclosed details of a critical security flaw impacting LeRobot, Hugging Face's open-source robotics platform with nearly 24,000 GitHub stars, that could be exploited...",
-            "url": "https://thehackernews.com/2026/04/critical-cve-2026-25874-leaves-hugging.html"
-        },
-        {
             "title": "Video service Vimeo confirms Anodot breach exposed user data",
             "description": "[BLEEPINGCOMPUTER.COM] Vimeo has disclosed that data belonging to some of its customers and users has been accessed without authorization following the recent breach at the Anodot data anomaly detection company. [...]",
             "url": "https://www.bleepingcomputer.com/news/security/video-service-vimeo-confirms-anodot-breach-exposed-user-data/"
@@ -77,6 +77,26 @@
             "url": "https://www.cisa.gov/news-events/alerts/2026/04/24/cisa-adds-four-known-exploited-vulnerabilities-catalog"
         },
         {
+            "title": "How IT asset recovery services support cybersecurity and compliance in Augusta County",
+            "description": "[AUGUSTA FREE PRESS] In Augusta County, old laptops, servers, and storage drives often hold fragments of information long after they leave daily use.",
+            "url": "https://augustafreepress.com/commercial/how-it-asset-recovery-services-support-cybersecurity-and-compliance-in-augusta-county/"
+        },
+        {
+            "title": "'The data should be a wake-up call': Report finds cybersecurity workers feel underpaid, undervalued and overstressed \u2014 and that's putting everyone at risk",
+            "description": "[TECHRADAR] Job satisfaction is systemic issue that needs addressing at the roots",
+            "url": "https://www.techradar.com/pro/the-data-should-be-a-wake-up-call-report-finds-cybersecurity-workers-feel-underpaid-undervalued-and-overstressed-and-thats-putting-everyone-at-risk"
+        },
+        {
+            "title": "IAPH: Ports fast-track decarbonization shift",
+            "description": "[THE MANILA TIMES] THE International Association of Ports and Harbors (IAPH) said the global port industry is accelerating its decarbonization efforts and digital adoption despite heightening cybersecurity threats and...",
+            "url": "https://www.manilatimes.net/2026/04/29/business/maritime/iaph-ports-fast-track-decarbonization-shift/2330164"
+        },
+        {
+            "title": "US lawmakers take on AI chatbots, fraud in new bills",
+            "description": "[THE ECONOMIC TIMES] American lawmakers are collaborating on new artificial intelligence legislation. The proposals aim to enhance safety for children and workers while supporting innovation. One bill seeks parental...",
+            "url": "https://economictimes.indiatimes.com/tech/technology/us-lawmakers-take-on-ai-chatbots-fraud-in-new-bills/articleshow/130584603.cms"
+        },
+        {
             "title": "VECT 2.0 Ransomware Irreversibly Destroys Files Over 131KB on Windows, Linux, ESXi",
             "description": "[THE HACKER NEWS] VECT 2.0 destroys files over 131KB due to nonce flaw, launched December 2025, making ransom payments useless.",
             "url": "https://thehackernews.com/2026/04/vect-20-ransomware-irreversibly.html"
@@ -105,26 +125,6 @@
             "title": "AI Cyber Risks Surge: CERT-In Flags Key Threats You Must Know",
             "description": "[OUTLOOK BUSINESS] CERT-In warns of rising AI-driven cyber threats, highlighting risks for organisations, MSMEs and individuals while outlining key steps to strengthen cybersecurity and prevent advanced attacks.",
             "url": "https://www.outlookbusiness.com/ampstories/deeptech/ai-cyber-risks-surge-cert-in-flags-key-threats-you-must-know"
-        },
-        {
-            "title": "Lawfare Daily: The Shadowy World of Ransomware with Professor Anja Shortland",
-            "description": "[LAWFARE] How did ransomware become perhaps the most important form of cyber crime?",
-            "url": "https://www.lawfaremedia.org/article/lawfare-daily--the-shadowy-world-of-ransomware-with-professor-anja-shortland"
-        },
-        {
-            "title": "CERT-In Flags High-Risk AI Threats Reshaping Cybersecurity Landscape",
-            "description": "[FREE PRESS JOURNAL] CERT-In has issued a high-severity alert warning that advanced AI is transforming cyber threats, enabling faster, autonomous & large-scale attacks. Modern AI tools can detect vulnerabilities and...",
-            "url": "https://www.freepressjournal.in/tech/cert-in-flags-high-risk-ai-threats-reshaping-cybersecurity-landscape"
-        },
-        {
-            "title": "In warns MSMEs on new AI risks",
-            "description": "[TIMES OF INDIA] India Business News: New Delhi: India's cybersecurity agency, the Indian Computer Emergency Response Team (CERT-In) has warned that advances in artificial intelligence are.",
-            "url": "https://timesofindia.indiatimes.com/business/india-business/cert-in-warns-msmes-on-new-ai-risks/articleshow/130567065.cms"
-        },
-        {
-            "title": "WA digital drivers licence trial sparks cybersecurity concerns from expert",
-            "description": "[ABC (AUSTRALIAN BROADCASTING CORPORATION)] A cybersecurity expert warns people's privacy and security could be at risk once the state government rolls out its new digital drivers licence initiative.",
-            "url": "https://www.abc.net.au/news/2026-04-28/wa-digital-drivers-trial-sparks-warning-over-cyber-security/106606044"
         }
     ]
 }
