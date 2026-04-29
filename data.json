@@ -1,6 +1,11 @@
 {
-    "updated": "2026-04-29 15:51:42 UTC",
+    "updated": "2026-04-29 17:17:57 UTC",
     "news": [
+        {
+            "title": "SAP npm Packages Compromised by \u201cMini Shai-Hulud\u201d Credential-Stealing Malware",
+            "description": "[FEEDS.FEEDBURNER.COM] Cybersecurity researchers are sounding the alarm about a new supply chain attack campaign targeting SAP-related npm Packages with credential-stealing malware. According to reports from Aikido...",
+            "url": "https://thehackernews.com/2026/04/sap-npm-packages-compromised-by-mini.html"
+        },
         {
             "title": "New Wave of DPRK Attacks Uses AI-Inserted npm Malware, Fake Firms, and RATs",
             "description": "[FEEDS.FEEDBURNER.COM] Cybersecurity researchers have discovered malicious code in an npm package after a malicious package as a dependency to the project by Anthropic's Claude Opus large language model (LLM). The package...",
@@ -22,9 +27,9 @@
             "url": "https://thehackernews.com/2026/04/critical-cpanel-authentication.html"
         },
         {
-            "title": "CISA Adds Actively Exploited ConnectWise and Windows Flaws to KEV",
-            "description": "[FEEDS.FEEDBURNER.COM] The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added two security flaws impacting ConnectWise ScreenConnect and Microsoft Windows to its Known Exploited Vulnerabilities...",
-            "url": "https://thehackernews.com/2026/04/cisa-adds-actively-exploited.html"
+            "title": "cPanel, WHM emergency update fixes critical auth bypass bug",
+            "description": "[BLEEPINGCOMPUTER.COM] A critical vulnerability affecting all but the latest versions of cPanel and the WebHost Manager (WHM) dashboard could be exploited to obtain access to the control panel without authentication. [...]",
+            "url": "https://www.bleepingcomputer.com/news/security/cpanel-whm-emergency-update-fixes-critical-auth-bypass-bug/"
         },
         {
             "title": "European police dismantles \u20ac50 million crypto investment fraud ring",
@@ -45,11 +50,6 @@
             "title": "CISA orders feds to patch Windows flaw exploited as zero-day",
             "description": "[BLEEPINGCOMPUTER.COM] The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has ordered federal agencies to secure their Windows systems against a vulnerability exploited in zero-day attacks. [...]",
             "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-windows-flaw-exploited-in-zero-day-attacks/"
-        },
-        {
-            "title": "Microsoft says backend change broke Teams Free chat and calls",
-            "description": "[BLEEPINGCOMPUTER.COM] Microsoft is working to resolve a known issue that prevents some Microsoft Teams Free users from chatting and calling others. [...]",
-            "url": "https://www.bleepingcomputer.com/news/security/microsoft-says-backend-change-broke-teams-free-chat-and-calls/"
         },
         {
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
@@ -75,6 +75,11 @@
             "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
             "description": "[CISA.GOV] CISA has added four new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2024-7399&nbsp;Samsung&nbsp;MagicINFO&nbsp;9 Server Path...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/04/24/cisa-adds-four-known-exploited-vulnerabilities-catalog"
+        },
+        {
+            "title": "Certis and Ensign InfoSecurity Partner to Strengthen Cybersecurity and Governance in AI-Driven Robotics",
+            "description": "[THE MANILA TIMES] Collaboration strengthens governance and cyber resilience as autonomous AI",
+            "url": "https://www.manilatimes.net/2026/04/29/tmt-newswire/pr-newswire/certis-and-ensign-infosecurity-partner-to-strengthen-cybersecurity-and-governance-in-ai-driven-robotics/2331082"
         },
         {
             "title": "GCash CISO joins PNP-ACG advisory group to advance national cybersecurity efforts",
@@ -120,11 +125,6 @@
             "title": "IAPH: Ports fast-track decarbonization shift",
             "description": "[THE MANILA TIMES] THE International Association of Ports and Harbors (IAPH) said the global port industry is accelerating its decarbonization efforts and digital adoption despite heightening cybersecurity threats and...",
             "url": "https://www.manilatimes.net/2026/04/29/business/maritime/iaph-ports-fast-track-decarbonization-shift/2330164"
-        },
-        {
-            "title": "US lawmakers take on AI chatbots, fraud in new bills",
-            "description": "[THE ECONOMIC TIMES] American lawmakers are collaborating on new artificial intelligence legislation. The proposals aim to enhance safety for children and workers while supporting innovation. One bill seeks parental...",
-            "url": "https://economictimes.indiatimes.com/tech/technology/us-lawmakers-take-on-ai-chatbots-fraud-in-new-bills/articleshow/130584603.cms"
         }
     ]
 }
