@@ -1,6 +1,11 @@
 {
-    "updated": "2026-04-29 09:57:11 UTC",
+    "updated": "2026-04-29 11:25:52 UTC",
     "news": [
+        {
+            "title": "Critical cPanel Authentication Vulnerability Identified \u2014 Update Your Server Immediately",
+            "description": "[FEEDS.FEEDBURNER.COM] cPanel has released security updates to address a security issue impacting various authentication paths that could allow an attacker to obtain access to the control panel software. The problem...",
+            "url": "https://thehackernews.com/2026/04/critical-cpanel-authentication.html"
+        },
         {
             "title": "CISA Adds Actively Exploited ConnectWise and Windows Flaws to KEV",
             "description": "[FEEDS.FEEDBURNER.COM] The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added two security flaws impacting ConnectWise ScreenConnect and Microsoft Windows to its Known Exploited Vulnerabilities...",
@@ -10,6 +15,11 @@
             "title": "LiteLLM CVE-2026-42208 SQL Injection Exploited within 36 Hours of Disclosure",
             "description": "[FEEDS.FEEDBURNER.COM] In yet another instance of threat actors quickly jumping on the exploitation bandwagon, a newly disclosed critical security flaw in BerriAI's LiteLLM Python package has come under active exploitation...",
             "url": "https://thehackernews.com/2026/04/litellm-cve-2026-42208-sql-injection.html"
+        },
+        {
+            "title": "CISA orders feds to patch Windows flaw exploited as zero-day",
+            "description": "[BLEEPINGCOMPUTER.COM] The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has ordered federal agencies to secure their Windows systems against a vulnerability exploited in zero-day attacks. [...]",
+            "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-windows-flaw-exploited-in-zero-day-attacks/"
         },
         {
             "title": "Microsoft says backend change broke Teams Free chat and calls",
@@ -37,11 +47,6 @@
             "url": "https://thehackernews.com/2026/04/brazilian-lofygang-resurfaces-after.html"
         },
         {
-            "title": "VECT 2.0 Ransomware Irreversibly Destroys Files Over 131KB on Windows, Linux, ESXi",
-            "description": "[FEEDS.FEEDBURNER.COM] Threat hunters are warning that the cybercriminal operation known as VECT 2.0 acts more like a wiper than a ransomware due to a critical flaw in its encryption implementation across Windows, Linux,...",
-            "url": "https://thehackernews.com/2026/04/vect-20-ransomware-irreversibly.html"
-        },
-        {
             "title": "Broken VECT 2.0 ransomware acts as a data wiper for large files",
             "description": "[BLEEPINGCOMPUTER.COM] Researchers are warning that the VECT 2.0 ransomware has a problem in the way it handles encryption nonces that leads to permanently destroying larger files rather than encrypt them. [...]",
             "url": "https://www.bleepingcomputer.com/news/security/broken-vect-20-ransomware-acts-as-a-data-wiper-for-large-files/"
@@ -55,11 +60,6 @@
             "title": "Video service Vimeo confirms Anodot breach exposed user data",
             "description": "[BLEEPINGCOMPUTER.COM] Vimeo has disclosed that data belonging to some of its customers and users has been accessed without authorization following the recent breach at the Anodot data anomaly detection company. [...]",
             "url": "https://www.bleepingcomputer.com/news/security/video-service-vimeo-confirms-anodot-breach-exposed-user-data/"
-        },
-        {
-            "title": "US reportedly charges Scattered Spider hacker arrested in Finland",
-            "description": "[BLEEPINGCOMPUTER.COM] A 19-year-old dual United States and Estonian citizen arrested in Finland earlier this month faces federal charges in the U.S. alleging he was a prolific member of the notorious Scattered Spider...",
-            "url": "https://www.bleepingcomputer.com/news/security/us-reportedly-charges-scattered-spider-hacker-arrested-in-finland/"
         },
         {
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
