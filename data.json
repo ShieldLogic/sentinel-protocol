@@ -1,5 +1,5 @@
 {
-    "updated": "2026-04-30 17:09:05 UTC",
+    "updated": "2026-04-30 19:05:46 UTC",
     "news": [
         {
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
@@ -10,6 +10,16 @@
             "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
             "description": "[CISA.GOV] CISA has added&nbsp;two&nbsp;new&nbsp;vulnerabilities&nbsp;to its&nbsp;Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation....",
             "url": "https://www.cisa.gov/news-events/alerts/2026/04/28/cisa-adds-two-known-exploited-vulnerabilities-catalog"
+        },
+        {
+            "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+            "description": "[CISA.GOV] CISA has added&nbsp;one&nbsp;new&nbsp;vulnerability&nbsp;to its&nbsp;Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation.&nbsp; CVE-2026-41940&nbsp;WebPros cPanel...",
+            "url": "https://www.cisa.gov/news-events/alerts/2026/04/30/cisa-adds-one-known-exploited-vulnerability-catalog"
+        },
+        {
+            "title": "PyTorch Lightning Compromised in PyPI Supply Chain Attack to Steal Credentials",
+            "description": "[FEEDS.FEEDBURNER.COM] In yet another software supply chain attack, threat actors have managed to compromise the popular Python package Lightning to push two malicious versions to conduct credential theft. According to...",
+            "url": "https://thehackernews.com/2026/04/pytorch-lightning-compromised-in-pypi.html"
         },
         {
             "title": "ThreatsDay Bulletin: SMS Blaster Busts, OpenEMR Flaws, 600K Roblox Hacks and 25 More Stories",
@@ -27,14 +37,19 @@
             "url": "https://thehackernews.com/2026/04/etherrat-distribution-spoofing.html"
         },
         {
+            "title": "New Bluekit phishing service includes an AI assistant, 40 templates",
+            "description": "[BLEEPINGCOMPUTER.COM] A new phishing kit named Bluekit offers more than 40 templates targeting popular services and includes basic AI features for generating campaign drafts. [...]",
+            "url": "https://www.bleepingcomputer.com/news/security/new-bluekit-phishing-service-includes-an-ai-assistant-40-templates/"
+        },
+        {
             "title": "New Linux 'Copy Fail' Vulnerability Enables Root Access on Major Distributions",
             "description": "[FEEDS.FEEDBURNER.COM] Cybersecurity researchers have disclosed details of a Linux local privilege escalation (LPE) flaw that could allow an unprivileged local user to obtain root. The high-severity vulnerability tracked...",
             "url": "https://thehackernews.com/2026/04/new-linux-copy-fail-vulnerability.html"
         },
         {
-            "title": "Google Fixes CVSS 10 Gemini CLI CI RCE and Cursor Flaws Enable Code Execution",
-            "description": "[FEEDS.FEEDBURNER.COM] Google has addressed a maximum severity security flaw in Gemini CLI -- the \"@google/gemini-cli\" npm package and the \"google-github-actions/run-gemini-cli\" GitHub Actions workflow -- that could have...",
-            "url": "https://thehackernews.com/2026/04/google-fixes-cvss-10-gemini-cli-ci-rce.html"
+            "title": "Romanian leader of online swatting ring gets 4 years in prison",
+            "description": "[BLEEPINGCOMPUTER.COM] A Romanian national who led an online swatting ring that targeted more than 75 public officials, multiple journalists, and four religious institutions was sentenced to 4 years in federal prison. [...]",
+            "url": "https://www.bleepingcomputer.com/news/security/romanian-leader-of-online-swatting-ring-gets-4-years-in-prison/"
         },
         {
             "title": "FBI links cybercriminals to sharp surge in cargo theft attacks",
@@ -52,29 +67,24 @@
             "url": "https://www.bleepingcomputer.com/news/security/what-happens-in-the-first-24-hours-after-a-new-asset-goes-live/"
         },
         {
-            "title": "New Linux \u2018Copy Fail\u2019 flaw gives hackers root on major distros",
-            "description": "[BLEEPINGCOMPUTER.COM] An exploit has been published for a local privilege escalation vulnerability dubbed \"Copy Fail\" that impacts Linux kernels released since 2017, allowing an unprivileged local attacker to gain root...",
-            "url": "https://www.bleepingcomputer.com/news/security/new-linux-copy-fail-flaw-gives-hackers-root-on-major-distros/"
-        },
-        {
-            "title": "Critical cPanel and WHM bug exploited as a zero-day, PoC now available",
-            "description": "[BLEEPINGCOMPUTER.COM] The critical CVE-2026-41940 authentication bypass vulnerability in cPanel, WHM, and WP Squared is being actively exploited in the wild and has been leveraged in attempts since late February. [...]",
-            "url": "https://www.bleepingcomputer.com/news/security/critical-cpanel-and-whm-bug-exploited-as-a-zero-day-poc-now-available/"
-        },
-        {
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
             "description": "[CISA.GOV] CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-39987 Marimo Remote Code Execution Vulnerability This...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/04/23/cisa-adds-one-known-exploited-vulnerability-catalog"
         },
         {
-            "title": "\u200b\u200bSupply Chain Compromise Impacts Axios Node Package Manager\u200b",
-            "description": "[CISA.GOV] The Cybersecurity and Infrastructure Security Agency (CISA) is releasing this alert to provide guidance in response to the software supply chain compromise of the Axios node package manager (npm).1...",
-            "url": "https://www.cisa.gov/news-events/alerts/2026/04/20/supply-chain-compromise-impacts-axios-node-package-manager"
-        },
-        {
             "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
             "description": "[CISA.GOV] CISA has added four new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2024-7399&nbsp;Samsung&nbsp;MagicINFO&nbsp;9 Server Path...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/04/24/cisa-adds-four-known-exploited-vulnerabilities-catalog"
+        },
+        {
+            "title": "Sam Altman reveals GPT-5.5-Cyber model launch with new AI defence strategy",
+            "description": "[THE NEWS INTERNATIONAL] The artificial intelligence landscape is changing rapidly. First, the tech companies compete for efficient AI models, then comes the race to build agentic AI systems. Now AI-powered cybersecurity...",
+            "url": "https://www.thenews.com.pk/latest/1400892-sam-altman-reveals-gpt-55-cyber-model-launch-with-new-ai-defence-strategy"
+        },
+        {
+            "title": "Sam Altman teases GPT-5.5 Cyber rollout as OpenAI doubles down on AI-led defence",
+            "description": "[FIRSTPOST] OpenAI is preparing to roll out GPT-5.5 Cyber, a new AI model aimed at strengthening cybersecurity defences. The move builds on its earlier GPT-5.4 Cyber launch and reflects growing competition in...",
+            "url": "https://www.firstpost.com/tech/sam-altman-teases-gpt-5-5-cyber-rollout-as-openai-doubles-down-on-ai-led-defence-14006003.html"
         },
         {
             "title": "Anti\u2011Ransomware Awareness Day (12 May): Why Australian businesses must shift from prevention to cyber resilience",
@@ -115,16 +125,6 @@
             "title": "Hackers challenged to break into police equipment and drones during DEF CON",
             "description": "[CNA] Police robots, drones and electronic car systems are at the mercy of hackers at the first DEF CON convention in Singapore. The event aims to get more people ethically hacking, to make systems more...",
             "url": "https://www.channelnewsasia.com/watch/hackers-challenged-break-police-equipment-and-drones-during-def-con-6089796"
-        },
-        {
-            "title": "Hackers challenged to break into police equipment and drones at DEF CON",
-            "description": "[CNA] Police robots, drones and electronic car systems are at the mercy of hackers at the first DEF CON convention in Singapore. The event aims to get more people ethically hacking, to make systems more...",
-            "url": "https://www.channelnewsasia.com/watch/hackers-challenged-break-police-equipment-and-drones-def-con-6089796"
-        },
-        {
-            "title": "India buckles up for Mythos AI\u2019s double-edged weapon",
-            "description": "[THE HINDU BUSINESS LINE] India faces potential cybersecurity threats from Mythos AI, prompting cautious evaluations from experts across various sectors.",
-            "url": "https://www.thehindubusinessline.com/info-tech/india-buckles-up-for-mythos-ais-double-edged-weapon/article70921080.ece"
         }
     ]
 }
