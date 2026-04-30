@@ -1,5 +1,5 @@
 {
-    "updated": "2026-04-30 06:21:50 UTC",
+    "updated": "2026-04-30 09:58:09 UTC",
     "news": [
         {
             "title": "SAP-Related npm Packages Compromised in Credential-Stealing Supply Chain Attack",
@@ -27,19 +27,9 @@
             "url": "https://thehackernews.com/2026/04/webinar-how-to-automate-exposure.html"
         },
         {
-            "title": "What to Look for in an Exposure Management Platform (And What Most of Them Get Wrong)",
-            "description": "[FEEDS.FEEDBURNER.COM] Every security team has a version of the same story. The quarter ends with hundreds of vulnerabilities closed. The dashboards are bursting with green. Then someone in a leadership meeting asks: \"So,...",
-            "url": "https://thehackernews.com/2026/04/what-to-look-for-in-exposure-management.html"
-        },
-        {
             "title": "Hackers exploit RCE flaws in Qinglong task scheduler for cryptomining",
             "description": "[BLEEPINGCOMPUTER.COM] Hackers are exploiting two authentication bypass vulnerabilities in the Qinglong open-source task scheduling tool to deploy cryptominers on developers' servers. [...]",
             "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-rce-flaws-in-qinglong-task-scheduler-for-cryptomining/"
-        },
-        {
-            "title": "Critical cPanel Authentication Vulnerability Identified \u2014 Update Your Server Immediately",
-            "description": "[FEEDS.FEEDBURNER.COM] cPanel has released security updates to address a security issue impacting various authentication paths that could allow an attacker to obtain access to the control panel software. The problem...",
-            "url": "https://thehackernews.com/2026/04/critical-cpanel-authentication.html"
         },
         {
             "title": "Hackers arrested for hijacking and selling 610,000 Roblox accounts",
@@ -62,6 +52,16 @@
             "url": "https://www.cisa.gov/news-events/alerts/2026/04/28/cisa-adds-two-known-exploited-vulnerabilities-catalog"
         },
         {
+            "title": "New Linux 'Copy Fail' Vulnerability Enables Root Access on Major Distributions",
+            "description": "[FEEDS.FEEDBURNER.COM] Cybersecurity researchers have disclosed details of a Linux local privilege escalation (LPE) flaw that could allow an unprivileged local user to obtain root. The high-severity vulnerability tracked...",
+            "url": "https://thehackernews.com/2026/04/new-linux-copy-fail-vulnerability.html"
+        },
+        {
+            "title": "Google Fixes CVSS 10 Gemini CLI CI RCE and Cursor Flaws Enable Code Execution",
+            "description": "[FEEDS.FEEDBURNER.COM] Google has addressed a maximum severity security flaw in Gemini CLI -- the \"@google/gemini-cli\" npm package and the \"google-github-actions/run-gemini-cli\" GitHub Actions workflow -- that could have...",
+            "url": "https://thehackernews.com/2026/04/google-fixes-cvss-10-gemini-cli-ci-rce.html"
+        },
+        {
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
             "description": "[CISA.GOV] CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-39987 Marimo Remote Code Execution Vulnerability This...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/04/23/cisa-adds-one-known-exploited-vulnerability-catalog"
@@ -75,6 +75,26 @@
             "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
             "description": "[CISA.GOV] CISA has added four new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2024-7399&nbsp;Samsung&nbsp;MagicINFO&nbsp;9 Server Path...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/04/24/cisa-adds-four-known-exploited-vulnerabilities-catalog"
+        },
+        {
+            "title": "IBM will bring innovation hub, 750 new jobs to Chicago\u2019s quantum park",
+            "description": "[SHAW LOCAL ENEWSPAPERS] From Capitol News Illinois: JB Pritzker announced Wednesday that IBM will bring its FutureNow innovation and delivery hub to Chicago\u2019s South Side, bringing an estimated 750 new full-time jobs in...",
+            "url": "https://www.shawlocal.com/news/2026/04/29/ibm-will-bring-innovation-hub-750-new-jobs-to-chicagos-quantum-park/"
+        },
+        {
+            "title": "OpenAI wants to put its most powerful model at all levels of government to fight hackers",
+            "description": "[THE MERCURY NEWS] OpenAI is expanding access to its most advanced AI models to help businesses and governments shore up their cyber defenses, a sharp contrast to rival Anthropic, which says controlling access to its...",
+            "url": "https://www.mercurynews.com/2026/04/29/openai-wants-to-put-its-most-powerful-model-at-all-levels-of-government-to-fight-hackers/"
+        },
+        {
+            "title": "Cyberattacks surge across UAE amid Iran conflict, businesses face disruptions and rising risks",
+            "description": "[THE ECONOMIC TIMES] Cyberattacks are surging across the UAE and Gulf. Financial services, government platforms, and utilities face a sustained wave of breaches. Cyberattack attempts have tripled, disrupting business...",
+            "url": "https://economictimes.indiatimes.com/news/international/world-news/cyberattacks-surge-across-uae-amid-iran-conflict-businesses-face-disruptions-and-rising-risks/articleshow/130616907.cms"
+        },
+        {
+            "title": "This New Ransomware Is So Broken It Permanently Destroys Your Files Instead of Encrypting Them",
+            "description": "[HOT HARDWARE] The VECT 2.0 ransomware unintentionally destroys rather than encrypts files.",
+            "url": "https://hothardware.com/news/this-new-ransomware-is-so-broken-it-permanently-destroys-your-files-instead-of-encrypting-them"
         },
         {
             "title": "Josh O'Connor says working with Spielberg on 'Disclosure Day' surreal",
@@ -105,26 +125,6 @@
             "title": "VersaBank Starts Pilot Program With FinanceIt For New Real-Time Structured Receivable Program",
             "description": "[MARKETSCREENER] VersaBank , a North American player in business-to-business digital banking and technology solutions for cybersecurity, commenced a pilot program with one of its major structured receivable program...",
             "url": "https://www.marketscreener.com/news/versabank-starts-pilot-program-with-financeit-for-new-real-time-structured-receivable-program-ce7f58dad88df622"
-        },
-        {
-            "title": "Josh O\u2019Connor usually hates watching his movies for the first time. \u2018Disclosure Day\u2019 was different",
-            "description": "[THE ATLANTA JOURNAL-CONSTITUTION] Josh O\u2019Connor says working with Steven Spielberg on \u201cDisclosure Day\u201d was surreal. The British actor, known for playing Prince Charles in \u201cThe Crown,\u201d felt like he was living a dream on set. The film,...",
-            "url": "https://www.ajc.com/news/2026/04/josh-oconnor-usually-hates-watching-his-movies-for-the-first-time-disclosure-day-was-different/"
-        },
-        {
-            "title": "Cybersecurity expert urges more accountability and transparency in the use of AI",
-            "description": "[THE STRAITS TIMES] He said lack of transparency can lead to opportunities for criminals or nation states to misuse AI. Read more at straitstimes.com.",
-            "url": "https://www.straitstimes.com/singapore/politics/cybersecurity-expert-urges-more-accountability-and-transparency-in-the-use-of-ai"
-        },
-        {
-            "title": "China to take countermeasures against EU if cybersecurity act revision is approved",
-            "description": "[DEVDISCOURSE] Read more about China to take countermeasures against EU if cybersecurity act revision is approved on Devdiscourse",
-            "url": "https://www.devdiscourse.com/article/law-order/3891008-china-to-take-countermeasures-against-eu-if-cybersecurity-act-revision-is-approved"
-        },
-        {
-            "title": "Sri Lanka discloses another missing payment, days after hackers stole $2.5M from its finance ministry",
-            "description": "[TECHCRUNCH] The government of Sri Lanka has lost more than $3 million in two recent, separate cybersecurity incidents as the country continues to recover from its 2022 debt crisis.",
-            "url": "https://techcrunch.com/2026/04/29/sri-lanka-discloses-another-missing-payment-days-after-hackers-stole-2-5m-from-its-finance-ministry/"
         }
     ]
 }
