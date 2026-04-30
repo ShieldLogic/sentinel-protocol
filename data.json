@@ -1,137 +1,130 @@
 {
-    "title": "Sentinel Protocol",
-    "tagline": "Perimeter Intelligence Sync",
-    "updated": "2026-04-30 12:12 UTC",
+    "updated": "2026-04-30 13:21:11 UTC",
     "news": [
         {
-            "source": {
-                "id": "techradar",
-                "name": "TechRadar"
-            },
-            "author": "Sead Fadilpa\u0161i\u0107",
-            "title": "'An unauthorized actor accessed certain Vimeo user and customer data': Vimeo confirms security incident, blames attack on Anodot breach",
-            "description": "Vimeo did not say how many people were affected, but confirmed that payment data is secure.",
-            "url": "https://www.techradar.com/pro/security/an-unauthorized-actor-accessed-certain-vimeo-user-and-customer-data-vimeo-confirms-security-incident-blames-attack-on-anodot-breach",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/SEXM8ah9EKKpBKB22d7Ak3-1600-80.jpg",
-            "publishedAt": "2026-04-29T12:10:00Z",
-            "content": "<ul><li>A third\u2011party breach exposed certain Vimeo user and customer data</li><li>The accessed information included metadata and some email addresses, but not video content or payment details</li><li\u2026 [+2504 chars]"
+            "title": "SAP-Related npm Packages Compromised in Credential-Stealing Supply Chain Attack",
+            "description": "[FEEDS.FEEDBURNER.COM] Cybersecurity researchers are sounding the alarm about a new supply chain attack campaign targeting SAP-related npm Packages with credential-stealing malware. According to reports from Aikido...",
+            "url": "https://thehackernews.com/2026/04/sap-npm-packages-compromised-by-mini.html"
         },
         {
-            "source": {
-                "id": null,
-                "name": "Securityweek.com"
-            },
-            "author": "Eduard Kovacs",
-            "title": "Hundreds of Internet-Facing VNC Servers Expose ICS/OT",
-            "description": "Forescout has identified tens of thousands of exposed RDP and VNC servers that can be mapped to specific industries.\nThe post Hundreds of Internet-Facing VNC Servers Expose ICS/OT appeared first on SecurityWeek.",
-            "url": "https://www.securityweek.com/hundreds-of-internet-facing-vnc-servers-expose-ics-ot/",
-            "urlToImage": "https://www.securityweek.com/wp-content/uploads/2024/03/Industrial-Network.jpeg",
-            "publishedAt": "2026-04-29T12:03:40Z",
-            "content": "Millions of remote access RDP and VNC servers are exposed to the internet, and hundreds of them may provide access to industrial control systems (ICS) and other operational technology (OT), according\u2026 [+2797 chars]"
+            "title": "Official SAP npm packages compromised to steal credentials",
+            "description": "[BLEEPINGCOMPUTER.COM] Multiple official SAP npm packages were compromised in what is believed to be a TeamPCP supply-chain attack to steal credentials and authentication tokens from developers' systems. [...]",
+            "url": "https://www.bleepingcomputer.com/news/security/official-sap-npm-packages-compromised-to-steal-credentials/"
         },
         {
-            "source": {
-                "id": null,
-                "name": "Alltoc.com"
-            },
-            "author": "AllToc",
-            "title": "How does the VECT ransomware data-wipe work? #tech",
-            "description": "VECT ransomware reportedly wipes data instead of traditional encryption Security experts warn about a ransomware variant called VECT that, while marketed like ransomware, appears to operate more like a data destruction (wiper) tool . The reported mechanism ce\u2026",
-            "url": "https://alltoc.com/tech/how-does-the-vect-ransomware-data-wipe-work",
-            "urlToImage": "https://alltoc.com/cdn/1046/og.png",
-            "publishedAt": "2026-04-29T12:03:04Z",
-            "content": "Security experts warn about a ransomware variant called VECT that, while marketed like ransomware, appears to operate more like a data destruction (wiper) tool.\r\nThe reported mechanism centers on fla\u2026 [+1486 chars]"
+            "title": "Popular WordPress redirect plugin hid dormant backdoor for years",
+            "description": "[BLEEPINGCOMPUTER.COM] The Quick Page/Post Redirect plugin, installed on more than 70,000 WordPress sites, had a backdoor added five years ago that allows injecting arbitrary code into users' sites. [...]",
+            "url": "https://www.bleepingcomputer.com/news/security/popular-wordpress-redirect-plugin-hid-dormant-backdoor-for-years/"
         },
         {
-            "source": {
-                "id": null,
-                "name": "Internet"
-            },
-            "author": "info@thehackernews.com (The Hacker News)",
-            "title": "Webinar: How to Automate Exposure Validation to Match the Speed of AI Attacks",
-            "description": "In February 2026, researchers uncovered a shift that completely changed the game: threat actors are now using custom AI setups to automate attacks directly into the kill chain.\nWe aren't just talking about AI writing better phishing emails anymore. We\u2019re talk\u2026",
-            "url": "https://thehackernews.com/2026/04/webinar-how-to-automate-exposure.html",
-            "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8vcicU2DANrmyA4GRttWV5sb4GPYdppuZax9v279s90O_uXz10MvgxpTyOR9s-tZoccR96ph-c7hZOwXORyLBYdWEsn3zCkrT_ivf6ZVApdMY6TL6jarUO4rNjR9nfc7XPTnmc6ttcKs_9aGOsOK4RoEnliEqVYrcOtL_d7Zys-51KZosLtWtlsOX4mo/s1700-e365/thn.jpg",
-            "publishedAt": "2026-04-29T12:02:00Z",
-            "content": "In February 2026, researchers uncovered a shift that completely changed the game: threat actors are now using custom AI setups to automate attacks directly into the kill chain.\r\nWe aren't just talkin\u2026 [+2152 chars]"
+            "title": "Hackers exploit RCE flaws in Qinglong task scheduler for cryptomining",
+            "description": "[BLEEPINGCOMPUTER.COM] Hackers are exploiting two authentication bypass vulnerabilities in the Qinglong open-source task scheduling tool to deploy cryptominers on developers' servers. [...]",
+            "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-rce-flaws-in-qinglong-task-scheduler-for-cryptomining/"
         },
         {
-            "source": {
-                "id": null,
-                "name": "GlobeNewswire"
-            },
-            "author": "Scality",
-            "title": "Scality delivers first to market, complete high-availability solution for customers using Veeam\u2019s new appliance capabilities, bringing enterprise-class cyber resilience to mid-size organizations",
-            "description": "New multi-node ARTESCA+ Veeam HA unified appliance delivers triple high availability, \nS3 immutable storage with $100,000 cyber guarantee....",
-            "url": "https://www.globenewswire.com/news-release/2026/04/29/3283728/0/en/Scality-delivers-first-to-market-complete-high-availability-solution-for-customers-using-Veeam-s-new-appliance-capabilities-bringing-enterprise-class-cyber-resilience-to-mid-size-o.html",
-            "urlToImage": "https://ml.globenewswire.com/Resource/Download/861fce33-59c5-4b5e-a806-b43d0ed56ed4",
-            "publishedAt": "2026-04-29T12:02:00Z",
-            "content": "SAN FRANCISCO, April 29, 2026 (GLOBE NEWSWIRE) -- Scality, a global leader in cyber-resilient storage software for the AI era, today announced ARTESCA+ Veeam HA, a major evolution of its unified soft\u2026 [+6164 chars]"
+            "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+            "description": "[CISA.GOV] CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-33825 Microsoft Defender Insufficient Granularity of...",
+            "url": "https://www.cisa.gov/news-events/alerts/2026/04/22/cisa-adds-one-known-exploited-vulnerability-catalog"
         },
         {
-            "source": {
-                "id": null,
-                "name": "Researchbuzz.me"
-            },
-            "author": "ResearchBuzz",
-            "title": "USGS National Water Availability Assessment, Canadian Peace Museum, Video Game History Foundation, More: Wednesday ResearchBuzz, April 29, 2026",
-            "description": "NEW RESOURCES USGS: New Nationwide Tool Helps Answer: Do We Have Enough Water?. \u201cThe USGS National Water Availability Assessment Data Companion provides water managers, agricultural communities and researchers with detailed information about [\u2026]",
-            "url": "https://researchbuzz.me/2026/04/29/usgs-national-water-availability-assessment-canadian-peace-museum-video-game-history-foundation-more-wednesday-researchbuzz-april-29-2026/",
-            "urlToImage": "https://s0.wp.com/_si/?t=eyJpbWciOiJodHRwczpcL1wvczAud3AuY29tXC9pXC9ibGFuay5qcGciLCJ0eHQiOiJSZXNlYXJjaEJ1enoiLCJ0ZW1wbGF0ZSI6ImhpZ2h3YXkiLCJmb250IjoiIiwiYmxvZ19pZCI6NDMyODc1Nn0.BjdcPIDlw4ZG0Ki13B-quwxnrzAxn9iB5rJXagRMNlcMQ",
-            "publishedAt": "2026-04-29T12:01:38Z",
-            "content": "NEW RESOURCES \r\nUSGS: New Nationwide Tool Helps Answer: Do We Have Enough Water?. \u201cThe USGS National Water Availability Assessment Data Companion provides water managers, agricultural communities and\u2026 [+5859 chars]"
+            "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+            "description": "[CISA.GOV] CISA has added&nbsp;two&nbsp;new&nbsp;vulnerabilities&nbsp;to its&nbsp;Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation....",
+            "url": "https://www.cisa.gov/news-events/alerts/2026/04/28/cisa-adds-two-known-exploited-vulnerabilities-catalog"
         },
         {
-            "source": {
-                "id": null,
-                "name": "SiliconANGLE News"
-            },
-            "author": "Kyt Dotson",
-            "title": "Salesforce introduces Agentforce Operations to automate outdated back-office tasks",
-            "description": "Salesforce Inc. today launched Agentforce Operations, an artificial intelligence system designed to extend specialized AI agents into the back office to automate manual work.\u00a0 Workflow automation tools have existed for a long time \u2014 not because office workers\u2026",
-            "url": "https://siliconangle.com/2026/04/29/salesforce-introduces-agentforce-operations-automate-outdated-back-office-tasks/",
-            "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/09/A-digital-AI-agent-depicted-as-a-guiding-presence-in-a-software-project-environment-connecting-line.jpeg",
-            "publishedAt": "2026-04-29T12:00:21Z",
-            "content": "Salesforce Inc. today launched Agentforce Operations, an artificial intelligence system designed to extend specialized AI agents into the back office to automate manual work.\u00a0\r\nWorkflow automation to\u2026 [+4858 chars]"
+            "title": "New Python Backdoor Uses Tunneling Service to Steal Browser and Cloud Credentials",
+            "description": "[FEEDS.FEEDBURNER.COM] Cybersecurity researchers have disclosed details of a stealthy Python-based backdoor framework called DEEP#DOOR that comes with capabilities to establish persistent access and harvest a wide range of...",
+            "url": "https://thehackernews.com/2026/04/new-python-backdoor-uses-tunneling.html"
         },
         {
-            "source": {
-                "id": null,
-                "name": "SiliconANGLE News"
-            },
-            "author": "Duncan Riley",
-            "title": "Lookout launches mobile-native tool to expose shadow AI on enterprise devices",
-            "description": "Cybersecurity company\u00a0Lookout Inc.\u00a0today announced the launch of Lookout AI Visibility & Governance, a new mobile-native solution designed to provide organizations with the visibility needed to discover, govern and secure artificial intelligence adoption acro\u2026",
-            "url": "https://siliconangle.com/2026/04/29/lookout-launches-mobile-native-tool-expose-shadow-ai-enterprise-devices/",
-            "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/04/lookoutshadowai.png",
-            "publishedAt": "2026-04-29T12:00:18Z",
-            "content": "Cybersecurity company\u00a0Lookout Inc.\u00a0today announced the launch of Lookout AI Visibility &amp; Governance, a new mobile-native solution designed to provide organizations with the visibility needed to d\u2026 [+4114 chars]"
+            "title": "EtherRAT Distribution Spoofing Administrative Tools via GitHub Facades",
+            "description": "[FEEDS.FEEDBURNER.COM] Intro A sophisticated, high-resilience malicious campaign was identified by Atos Threat Research Center (TRC) in March 2026. This operation specifically targets the high-privilege professional...",
+            "url": "https://thehackernews.com/2026/04/etherrat-distribution-spoofing.html"
         },
         {
-            "source": {
-                "id": null,
-                "name": "Globalsecurity.org"
-            },
-            "author": "John Pike",
-            "title": "Professionalism of Azerbaijan Army's cybersecurity specialists enhanced",
-            "description": "The \"Strategy of the Republic of Azerbaijan on Information Security and Cybersecurity for 2023-2027,\" approved by the relevant Order of President Ilham Aliyev, identifies strengthening personnel training in information security and cybersecurity, along with s\u2026",
-            "url": "https://www.globalsecurity.org/military/library/news/2026/04/mil-260429-azertac01.htm",
-            "urlToImage": null,
-            "publishedAt": "2026-04-29T12:00:00Z",
-            "content": "Azerbaijan State News Agency - (AZERTAC)\r\n29.04.2026 [18:19]Baku, April 29, AZERTAC\r\nThe \"Strategy of the Republic of Azerbaijan on Information Security and Cybersecurity for 2023-2027,\" approved by \u2026 [+1499 chars]"
+            "title": "New Linux 'Copy Fail' Vulnerability Enables Root Access on Major Distributions",
+            "description": "[FEEDS.FEEDBURNER.COM] Cybersecurity researchers have disclosed details of a Linux local privilege escalation (LPE) flaw that could allow an unprivileged local user to obtain root. The high-severity vulnerability tracked...",
+            "url": "https://thehackernews.com/2026/04/new-linux-copy-fail-vulnerability.html"
         },
         {
-            "source": {
-                "id": null,
-                "name": "SiliconANGLE News"
-            },
-            "author": "Kyt Dotson",
-            "title": "Certifyde\u00a0raises $2M to help guide businesses in adopting\u00a0and scaling\u00a0AI",
-            "description": "Certifyde\u00a0Inc.\u00a0today announced it has raised $2 million to help businesses\u00a0turn investment in artificial intelligence into broader adoption and fluency\u00a0among\u00a0rank and file.\u00a0 According\u00a0to\u00a0a\u00a02025 report\u00a0from McKinsey & Co., although 88% of companies surveyed sa\u2026",
-            "url": "https://siliconangle.com/2026/04/29/certifyde-raises-2m-help-guide-businesses-adopting-scaling-ai/",
-            "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/10/Human-office-workers-sitting-at-desks-across-from-mostly-human-ghostly-AI-agents-working-together-th-1.jpeg",
-            "publishedAt": "2026-04-29T12:00:00Z",
-            "content": "Certifyde\u00a0Inc.\u00a0today announced it has raised $2 million to help businesses\u00a0turn investment in artificial intelligence into broader adoption and fluency\u00a0among\u00a0rank and file.\u00a0\r\nAccording\u00a0to\u00a0a\u00a02025 repo\u2026 [+4362 chars]"
+            "title": "Google Fixes CVSS 10 Gemini CLI CI RCE and Cursor Flaws Enable Code Execution",
+            "description": "[FEEDS.FEEDBURNER.COM] Google has addressed a maximum severity security flaw in Gemini CLI -- the \"@google/gemini-cli\" npm package and the \"google-github-actions/run-gemini-cli\" GitHub Actions workflow -- that could have...",
+            "url": "https://thehackernews.com/2026/04/google-fixes-cvss-10-gemini-cli-ci-rce.html"
+        },
+        {
+            "title": "Critical cPanel and WHM bug exploited as a zero-day, PoC now available",
+            "description": "[BLEEPINGCOMPUTER.COM] The critical CVE-2026-41940 authentication bypass vulnerability in cPanel, WHM, and WP Squared is being actively exploited in the wild and has been leveraged in attempts since late February. [...]",
+            "url": "https://www.bleepingcomputer.com/news/security/critical-cpanel-and-whm-bug-exploited-as-a-zero-day-poc-now-available/"
+        },
+        {
+            "title": "Police dismantles 9 crypto scam centers, arrests 276 suspects",
+            "description": "[BLEEPINGCOMPUTER.COM] A joint international operation involving U.S. and Chinese authorities arrested at least 276 suspects and shut down nine cryptocurrency investment fraud centers. [...]",
+            "url": "https://www.bleepingcomputer.com/news/security/police-dismantles-9-crypto-investment-scam-centers-arrests-276-suspects/"
+        },
+        {
+            "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+            "description": "[CISA.GOV] CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-39987 Marimo Remote Code Execution Vulnerability This...",
+            "url": "https://www.cisa.gov/news-events/alerts/2026/04/23/cisa-adds-one-known-exploited-vulnerability-catalog"
+        },
+        {
+            "title": "\u200b\u200bSupply Chain Compromise Impacts Axios Node Package Manager\u200b",
+            "description": "[CISA.GOV] The Cybersecurity and Infrastructure Security Agency (CISA) is releasing this alert to provide guidance in response to the software supply chain compromise of the Axios node package manager (npm).1...",
+            "url": "https://www.cisa.gov/news-events/alerts/2026/04/20/supply-chain-compromise-impacts-axios-node-package-manager"
+        },
+        {
+            "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
+            "description": "[CISA.GOV] CISA has added four new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2024-7399&nbsp;Samsung&nbsp;MagicINFO&nbsp;9 Server Path...",
+            "url": "https://www.cisa.gov/news-events/alerts/2026/04/24/cisa-adds-four-known-exploited-vulnerabilities-catalog"
+        },
+        {
+            "title": "IBM will bring innovation hub, 750 new jobs to Chicago\u2019s quantum park",
+            "description": "[SHAW LOCAL ENEWSPAPERS] From Capitol News Illinois: JB Pritzker announced Wednesday that IBM will bring its FutureNow innovation and delivery hub to Chicago\u2019s South Side, bringing an estimated 750 new full-time jobs in...",
+            "url": "https://www.shawlocal.com/news/2026/04/29/ibm-will-bring-innovation-hub-750-new-jobs-to-chicagos-quantum-park/"
+        },
+        {
+            "title": "OpenAI wants to put its most powerful model at all levels of government to fight hackers",
+            "description": "[THE MERCURY NEWS] OpenAI is expanding access to its most advanced AI models to help businesses and governments shore up their cyber defenses, a sharp contrast to rival Anthropic, which says controlling access to its...",
+            "url": "https://www.mercurynews.com/2026/04/29/openai-wants-to-put-its-most-powerful-model-at-all-levels-of-government-to-fight-hackers/"
+        },
+        {
+            "title": "Cyberattacks surge across UAE amid Iran conflict, businesses face disruptions and rising risks",
+            "description": "[THE ECONOMIC TIMES] Cyberattacks are surging across the UAE and Gulf. Financial services, government platforms, and utilities face a sustained wave of breaches. Cyberattack attempts have tripled, disrupting business...",
+            "url": "https://economictimes.indiatimes.com/news/international/world-news/cyberattacks-surge-across-uae-amid-iran-conflict-businesses-face-disruptions-and-rising-risks/articleshow/130616907.cms"
+        },
+        {
+            "title": "This New Ransomware Is So Broken It Permanently Destroys Your Files Instead of Encrypting Them",
+            "description": "[HOT HARDWARE] The VECT 2.0 ransomware unintentionally destroys rather than encrypts files.",
+            "url": "https://hothardware.com/news/this-new-ransomware-is-so-broken-it-permanently-destroys-your-files-instead-of-encrypting-them"
+        },
+        {
+            "title": "Josh O'Connor says working with Spielberg on 'Disclosure Day' surreal",
+            "description": "[HARTFORD COURANT] Josh O\u2019Connor plays a cybersecurity expert with a mysterious connection to Emily Blunt\u2019s character in Steven Spielberg's \"Disclosure Day.\"",
+            "url": "https://www.courant.com/2026/04/29/josh-oconnor-disclosure-day/"
+        },
+        {
+            "title": "Hackers challenged to break into police equipment and drones during DEF CON",
+            "description": "[CNA] Police robots, drones and electronic car systems are at the mercy of hackers at the first DEF CON convention in Singapore. The event aims to get more people ethically hacking, to make systems more...",
+            "url": "https://www.channelnewsasia.com/watch/hackers-challenged-break-police-equipment-and-drones-during-def-con-6089796"
+        },
+        {
+            "title": "Hackers challenged to break into police equipment and drones at DEF CON",
+            "description": "[CNA] Police robots, drones and electronic car systems are at the mercy of hackers at the first DEF CON convention in Singapore. The event aims to get more people ethically hacking, to make systems more...",
+            "url": "https://www.channelnewsasia.com/watch/hackers-challenged-break-police-equipment-and-drones-def-con-6089796"
+        },
+        {
+            "title": "India buckles up for Mythos AI\u2019s double-edged weapon",
+            "description": "[THE HINDU BUSINESS LINE] India faces potential cybersecurity threats from Mythos AI, prompting cautious evaluations from experts across various sectors.",
+            "url": "https://www.thehindubusinessline.com/info-tech/india-buckles-up-for-mythos-ais-double-edged-weapon/article70921080.ece"
+        },
+        {
+            "title": "INE Releases 2026 Training Roadmap for Building",
+            "description": "[GLOBENEWSWIRE] New roadmap provides role-based guidance to help organizations develop, retain, and scale modern cybersecurity talent...",
+            "url": "https://www.globenewswire.com/news-release/2026/04/29/3283943/0/en/ine-releases-2026-training-roadmap-for-building-ai-augmented-security-teams.html"
+        },
+        {
+            "title": "VersaBank Starts Pilot Program With FinanceIt For New Real-Time Structured Receivable Program",
+            "description": "[MARKETSCREENER] VersaBank , a North American player in business-to-business digital banking and technology solutions for cybersecurity, commenced a pilot program with one of its major structured receivable program...",
+            "url": "https://www.marketscreener.com/news/versabank-starts-pilot-program-with-financeit-for-new-real-time-structured-receivable-program-ce7f58dad88df622"
         }
     ]
 }
