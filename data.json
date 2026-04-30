@@ -1,26 +1,6 @@
 {
-    "updated": "2026-04-30 13:21:11 UTC",
+    "updated": "2026-04-30 15:43:41 UTC",
     "news": [
-        {
-            "title": "SAP-Related npm Packages Compromised in Credential-Stealing Supply Chain Attack",
-            "description": "[FEEDS.FEEDBURNER.COM] Cybersecurity researchers are sounding the alarm about a new supply chain attack campaign targeting SAP-related npm Packages with credential-stealing malware. According to reports from Aikido...",
-            "url": "https://thehackernews.com/2026/04/sap-npm-packages-compromised-by-mini.html"
-        },
-        {
-            "title": "Official SAP npm packages compromised to steal credentials",
-            "description": "[BLEEPINGCOMPUTER.COM] Multiple official SAP npm packages were compromised in what is believed to be a TeamPCP supply-chain attack to steal credentials and authentication tokens from developers' systems. [...]",
-            "url": "https://www.bleepingcomputer.com/news/security/official-sap-npm-packages-compromised-to-steal-credentials/"
-        },
-        {
-            "title": "Popular WordPress redirect plugin hid dormant backdoor for years",
-            "description": "[BLEEPINGCOMPUTER.COM] The Quick Page/Post Redirect plugin, installed on more than 70,000 WordPress sites, had a backdoor added five years ago that allows injecting arbitrary code into users' sites. [...]",
-            "url": "https://www.bleepingcomputer.com/news/security/popular-wordpress-redirect-plugin-hid-dormant-backdoor-for-years/"
-        },
-        {
-            "title": "Hackers exploit RCE flaws in Qinglong task scheduler for cryptomining",
-            "description": "[BLEEPINGCOMPUTER.COM] Hackers are exploiting two authentication bypass vulnerabilities in the Qinglong open-source task scheduling tool to deploy cryptominers on developers' servers. [...]",
-            "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-rce-flaws-in-qinglong-task-scheduler-for-cryptomining/"
-        },
         {
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
             "description": "[CISA.GOV] CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-33825 Microsoft Defender Insufficient Granularity of...",
@@ -30,6 +10,11 @@
             "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
             "description": "[CISA.GOV] CISA has added&nbsp;two&nbsp;new&nbsp;vulnerabilities&nbsp;to its&nbsp;Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation....",
             "url": "https://www.cisa.gov/news-events/alerts/2026/04/28/cisa-adds-two-known-exploited-vulnerabilities-catalog"
+        },
+        {
+            "title": "ThreatsDay Bulletin: SMS Blaster Busts, OpenEMR Flaws, 600K Roblox Hacks and 25 More Stories",
+            "description": "[FEEDS.FEEDBURNER.COM] The internet is noisy this week. We are seeing some wild new tactics, like people using fake cell towers to send scam texts, while some developers are accidentally downloading tools that peek into...",
+            "url": "https://thehackernews.com/2026/04/threatsday-bulletin-sms-blaster-busts.html"
         },
         {
             "title": "New Python Backdoor Uses Tunneling Service to Steal Browser and Cloud Credentials",
@@ -50,6 +35,21 @@
             "title": "Google Fixes CVSS 10 Gemini CLI CI RCE and Cursor Flaws Enable Code Execution",
             "description": "[FEEDS.FEEDBURNER.COM] Google has addressed a maximum severity security flaw in Gemini CLI -- the \"@google/gemini-cli\" npm package and the \"google-github-actions/run-gemini-cli\" GitHub Actions workflow -- that could have...",
             "url": "https://thehackernews.com/2026/04/google-fixes-cvss-10-gemini-cli-ci-rce.html"
+        },
+        {
+            "title": "April KB5083769 Windows 11 update causes backup software failures",
+            "description": "[BLEEPINGCOMPUTER.COM] The April 2026 KB5083769 security update breaks third-party backup applications from multiple vendors on systems running Windows 11 24H2 and 25H2. [...]",
+            "url": "https://www.bleepingcomputer.com/news/microsoft/april-kb5083769-windows-11-update-causes-backup-software-failures/"
+        },
+        {
+            "title": "What Happens in the First 24 Hours After a New Asset Goes Live",
+            "description": "[BLEEPINGCOMPUTER.COM] When a new asset goes live, attackers start scanning within minutes. Sprocket Security shows how automated attacks move from discovery to compromise in under 24 hours. [...]",
+            "url": "https://www.bleepingcomputer.com/news/security/what-happens-in-the-first-24-hours-after-a-new-asset-goes-live/"
+        },
+        {
+            "title": "New Linux \u2018Copy Fail\u2019 flaw gives hackers root on major distros",
+            "description": "[BLEEPINGCOMPUTER.COM] An exploit has been published for a local privilege escalation vulnerability dubbed \"Copy Fail\" that impacts Linux kernels released since 2017, allowing an unprivileged local attacker to gain root...",
+            "url": "https://www.bleepingcomputer.com/news/security/new-linux-copy-fail-flaw-gives-hackers-root-on-major-distros/"
         },
         {
             "title": "Critical cPanel and WHM bug exploited as a zero-day, PoC now available",
@@ -75,6 +75,16 @@
             "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
             "description": "[CISA.GOV] CISA has added four new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2024-7399&nbsp;Samsung&nbsp;MagicINFO&nbsp;9 Server Path...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/04/24/cisa-adds-four-known-exploited-vulnerabilities-catalog"
+        },
+        {
+            "title": "Anti\u2011Ransomware Awareness Day (12 May): Why Australian businesses must shift from prevention to cyber resilience",
+            "description": "[ITWIRE] As organisations become reliant on data to operate reliably and effectively, Anti-Ransomware Awareness Day (12 May) invites businesses...",
+            "url": "https://itwire.com/opinion-and-analysis/anti%E2%80%91ransomware-awareness-day-12-may-why-australian-businesses-must-shift-from-prevention-to-cyber-resilience.html"
+        },
+        {
+            "title": "Australian banks warned frontier AI could create larger, faster cyber attacks",
+            "description": "[THE ECONOMIC TIMES] Australia's banking regulators, APRA, are sounding the alarm over escalating cyber threats. Advanced AI tools like Anthropic's Claude Mythos may equip hackers with unprecedented capabilities. Current...",
+            "url": "https://economictimes.indiatimes.com/tech/technology/australian-banks-warned-frontier-ai-could-create-larger-faster-cyber-attacks/articleshow/130621679.cms"
         },
         {
             "title": "IBM will bring innovation hub, 750 new jobs to Chicago\u2019s quantum park",
@@ -115,16 +125,6 @@
             "title": "India buckles up for Mythos AI\u2019s double-edged weapon",
             "description": "[THE HINDU BUSINESS LINE] India faces potential cybersecurity threats from Mythos AI, prompting cautious evaluations from experts across various sectors.",
             "url": "https://www.thehindubusinessline.com/info-tech/india-buckles-up-for-mythos-ais-double-edged-weapon/article70921080.ece"
-        },
-        {
-            "title": "INE Releases 2026 Training Roadmap for Building",
-            "description": "[GLOBENEWSWIRE] New roadmap provides role-based guidance to help organizations develop, retain, and scale modern cybersecurity talent...",
-            "url": "https://www.globenewswire.com/news-release/2026/04/29/3283943/0/en/ine-releases-2026-training-roadmap-for-building-ai-augmented-security-teams.html"
-        },
-        {
-            "title": "VersaBank Starts Pilot Program With FinanceIt For New Real-Time Structured Receivable Program",
-            "description": "[MARKETSCREENER] VersaBank , a North American player in business-to-business digital banking and technology solutions for cybersecurity, commenced a pilot program with one of its major structured receivable program...",
-            "url": "https://www.marketscreener.com/news/versabank-starts-pilot-program-with-financeit-for-new-real-time-structured-receivable-program-ce7f58dad88df622"
         }
     ]
 }
