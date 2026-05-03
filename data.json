@@ -1,5 +1,5 @@
 {
-    "updated": "2026-05-03 16:37:34 UTC",
+    "updated": "2026-05-03 18:43:37 UTC",
     "news": [
         {
             "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
@@ -15,6 +15,11 @@
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
             "description": "[CISA.GOV] CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-39987 Marimo Remote Code Execution Vulnerability This...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/04/23/cisa-adds-one-known-exploited-vulnerability-catalog"
+        },
+        {
+            "title": "Microsoft Defender wrongly flags DigiCert certs as Trojan:Win32/Cerdigent.A!dha",
+            "description": "[BLEEPINGCOMPUTER.COM] Microsoft Defender is detecting legitimate DigiCert root certificates as Trojan:Win32/Cerdigent.A!dha, resulting in widespread false-positive alerts, and in some cases, removing certificates from...",
+            "url": "https://www.bleepingcomputer.com/news/security/microsoft-defender-wrongly-flags-digicert-certs-as-trojan-win32-cerdigentadha/"
         },
         {
             "title": "CISA Adds Actively Exploited Linux Root Access Bug CVE-2026-31431 to KEV",
@@ -67,14 +72,19 @@
             "url": "https://thehackernews.com/2026/05/cybercrime-groups-using-vishing-and-sso.html"
         },
         {
-            "title": "Edu tech firm Instructure discloses cyber incident, probes impact",
-            "description": "[BLEEPINGCOMPUTER.COM] Instructure, the company behind the widely used Canvas learning platform, has disclosed that it recently suffered a cybersecurity incident and is now investigating its impact. [...]",
-            "url": "https://www.bleepingcomputer.com/news/security/edu-tech-firm-instructure-discloses-cyber-incident-probes-impact/"
-        },
-        {
             "title": "China-Linked Hackers Target Asian Governments, NATO State, Journalists, and Activists",
             "description": "[FEEDS.FEEDBURNER.COM] Cybersecurity researchers have disclosed details of a new China-aligned espionage campaign targeting government and defense sectors across South, East, and Southeast Asia, along with one European...",
             "url": "https://thehackernews.com/2026/05/china-linked-hackers-target-asian.html"
+        },
+        {
+            "title": "Public sector banks looks to scale up IT spend in view of cyber threat posed by Anthropic Mythos",
+            "description": "[THE HINDU BUSINESS LINE] Public sector banks are increasing IT spending to combat cybersecurity threats posed by Anthropic's Claude Mythos AI tool.",
+            "url": "https://www.thehindubusinessline.com/money-and-banking/public-sector-banks-looks-to-scale-up-it-spend-in-view-of-cyber-threat-posed-by-anthropic-mythos/article70934575.ece"
+        },
+        {
+            "title": "Banks Fortify Cybersecurity Amid Mythos AI Concerns",
+            "description": "[DEVDISCOURSE] Public sector banks are ramping up IT expenditure to bolster cybersecurity, driven by concerns over Anthropic\u2019s Mythos AI capabilities. The AI\u2019s potential to exploit vulnerabilities has prompted...",
+            "url": "https://www.devdiscourse.com/article/headlines/3894785-banks-fortify-cybersecurity-amid-mythos-ai-concerns"
         },
         {
             "title": "U.S. military runs Bitcoin node, sees crypto as power projection versus China",
@@ -115,16 +125,6 @@
             "title": "up to AI cyber wargame with industry: Officials",
             "description": "[BREAKING DEFENSE] After exploring a Pacific-war scenario with cybersecurity executives from 14 tech firms, the Army wants to fast-track new AI tools \u2014 and thrash out new policy to allow more autonomy for AI \u201cagents.\u201d",
             "url": "https://breakingdefense.com/2026/05/army-plans-fast-follow-up-to-ai-cyber-wargame-with-industry-officials/"
-        },
-        {
-            "title": "Italian Defence Minister Crosetto\u2019s bilateral visit strengthens the Indo-Mediterranean",
-            "description": "[THE ECONOMIC TIMES] Rising conflicts in the Indo-Mediterranean, especially after the October 7 attack on Israel and disruptions like the Strait of Hormuz closure, have underscored the importance of maritime security and...",
-            "url": "https://economictimes.indiatimes.com/news/defence/italian-defence-minister-crosettos-bilateral-visit-strengthens-the-indo-mediterranean/articleshow/130682099.cms"
-        },
-        {
-            "title": "Amid Mythos' hyped cybersecurity prowess, researchers find GPT-5.5 is just as good",
-            "description": "[ARS TECHNICA] New results suggest Mythos' cyber threat isn't \"a breakthrough specific to one model.\"",
-            "url": "https://arstechnica.com/ai/2026/05/amid-mythos-hyped-cybersecurity-prowess-researchers-find-gpt-5-5-is-just-as-good/"
         }
     ]
 }
