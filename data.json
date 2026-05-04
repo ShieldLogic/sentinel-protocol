@@ -1,5 +1,5 @@
 {
-    "updated": "2026-05-04 19:14:30 UTC",
+    "updated": "2026-05-04 20:58:37 UTC",
     "news": [
         {
             "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
@@ -42,6 +42,11 @@
             "url": "https://thehackernews.com/2026/05/silver-fox-deploys-abcdoor-malware-via.html"
         },
         {
+            "title": "Amazon SES increasingly abused in phishing to evade detection",
+            "description": "[BLEEPINGCOMPUTER.COM] The Amazon Simple Email Service (SES) is being increasingly abused to send convincing phishing emails that can bypass standard security filters and render reputation-based blocks ineffective. [...]",
+            "url": "https://www.bleepingcomputer.com/news/security/amazon-ses-increasingly-abused-in-phishing-to-evade-detection/"
+        },
+        {
             "title": "Backdoored PyTorch Lightning package drops credential stealer",
             "description": "[BLEEPINGCOMPUTER.COM] A malicious version of the PyTorch Lightning package published on the Python Package Index (PyPI) delivers a credential-stealing payload targeting browsers, environment files, and cloud services....",
             "url": "https://www.bleepingcomputer.com/news/security/backdoored-pytorch-lightning-package-drops-credential-stealer/"
@@ -62,11 +67,6 @@
             "url": "https://www.bleepingcomputer.com/news/security/moveit-automation-customers-warned-to-patch-critical-auth-bypass-flaw/"
         },
         {
-            "title": "Webinar: Why MSPs must rethink security and backup strategies",
-            "description": "[BLEEPINGCOMPUTER.COM] Security breaches don't just test your defenses\u2014they test your recovery. Join Kaseya in our upcoming webinar to learn how MSPs strengthen resilience with SaaS backups and BCDR to stay operational...",
-            "url": "https://www.bleepingcomputer.com/news/security/webinar-why-msps-must-rethink-security-and-backup-strategies/"
-        },
-        {
             "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
             "description": "[CISA.GOV] CISA has added four new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2024-7399&nbsp;Samsung&nbsp;MagicINFO&nbsp;9 Server Path...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/04/24/cisa-adds-four-known-exploited-vulnerabilities-catalog"
@@ -75,6 +75,11 @@
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
             "description": "[CISA.GOV] CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-31431 Linux Kernel Incorrect Resource Transfer Between...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/05/01/cisa-adds-one-known-exploited-vulnerability-catalog"
+        },
+        {
+            "title": "From Phishing to Recovery: Breaking the Ransomware Attack Chain",
+            "description": "[THE HACKER NEWS] AI-driven phishing enables ransomware entry, with 60% breaches linked to human error, leading to $813M payments in 2024.",
+            "url": "https://thehackernews.com/expert-insights/2026/05/from-phishing-to-recovery-breaking.html"
         },
         {
             "title": "Sattrix Information Security Hires UAE IT Distributor for NewEvol Sales; Agreement Lasts 3 Years",
@@ -120,11 +125,6 @@
             "title": "Anthropic\u2019s Mythos Triggers Cybersecurity Concerns Over AI-Driven Attacks on Banks",
             "description": "[FIRSTPOST] Anthropic\u2019s \u201cMythos\u201d AI model has raised global cybersecurity concerns due to its advanced capability to identify and potentially exploit system vulnerabilities, prompting governments and financial...",
             "url": "https://www.firstpost.com/tech/anthropics-mythos-triggers-cybersecurity-concerns-over-ai-driven-attacks-on-banks-14007094.html"
-        },
-        {
-            "title": "As Claude Mythos raises stakes, banks shift to continuous security model",
-            "description": "[THE FINANCIAL EXPRESS] As advanced AI models like Claude Mythos accelerate software vulnerability discovery, Indian banks are overhauling their cybersecurity architecture.",
-            "url": "https://www.financialexpress.com/business/banking-finance/as-claude-mythos-raises-stakes-banks-shift-to-continuous-security-model/4226285/"
         }
     ]
 }
