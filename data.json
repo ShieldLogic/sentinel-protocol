@@ -1,5 +1,5 @@
 {
-    "updated": "2026-05-04 15:54:41 UTC",
+    "updated": "2026-05-04 17:22:23 UTC",
     "news": [
         {
             "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
@@ -15,6 +15,11 @@
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
             "description": "[CISA.GOV] CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-39987 Marimo Remote Code Execution Vulnerability This...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/04/23/cisa-adds-one-known-exploited-vulnerability-catalog"
+        },
+        {
+            "title": "Progress Patches Critical MOVEit Automation Bug Enabling Authentication Bypass",
+            "description": "[FEEDS.FEEDBURNER.COM] Progress Software has released updates to address two security flaws in MOVEit Automation, including a critical bug that could result in an authentication bypass. MOVEit Automation (formerly Central)...",
+            "url": "https://thehackernews.com/2026/05/progress-patches-critical-moveit.html"
         },
         {
             "title": "\u26a1 Weekly Recap: AI-Powered Phishing, Android Spying Tool, Linux Exploit, GitHub RCE & More",
@@ -37,9 +42,14 @@
             "url": "https://thehackernews.com/2026/05/critical-cpanel-vulnerability.html"
         },
         {
-            "title": "Global Crackdown Arrests 276, Shuts 9 Crypto Scam Centers, Seizes $701M",
-            "description": "[FEEDS.FEEDBURNER.COM] A coordinated international operation involving U.S. and Chinese authorities has arrested at least 276 suspects and shut down nine scam centers used for cryptocurrency investment fraud schemes...",
-            "url": "https://thehackernews.com/2026/05/global-crackdown-arrests-276-shuts-9.html"
+            "title": "Backdoored PyTorch Lightning package drops credential stealer",
+            "description": "[BLEEPINGCOMPUTER.COM] A malicious version of the PyTorch Lightning package published on the Python Package Index (PyPI) delivers a credential-stealing payload targeting browsers, environment files, and cloud services....",
+            "url": "https://www.bleepingcomputer.com/news/security/backdoored-pytorch-lightning-package-drops-credential-stealer/"
+        },
+        {
+            "title": "Trellix discloses data breach after source code repository hack",
+            "description": "[BLEEPINGCOMPUTER.COM] Cybersecurity firm Trellix disclosed a data breach after attackers gained access to \"a portion\" of its source code repository. [...]",
+            "url": "https://www.bleepingcomputer.com/news/security/trellix-discloses-data-breach-after-source-code-repository-hack/"
         },
         {
             "title": "They don\u2019t hack, they borrow: How fraudsters target credit unions",
@@ -57,16 +67,6 @@
             "url": "https://www.bleepingcomputer.com/news/security/webinar-why-msps-must-rethink-security-and-backup-strategies/"
         },
         {
-            "title": "CISA says \u2018Copy Fail\u2019 flaw now exploited to root Linux systems",
-            "description": "[BLEEPINGCOMPUTER.COM] CISA has warned that threat actors have started exploiting the \"Copy Fail\" Linux security vulnerability in the wild, one day after Theori researchers disclosed it and shared a proof-of-concept (PoC)...",
-            "url": "https://www.bleepingcomputer.com/news/security/cisa-says-copy-fail-flaw-now-exploited-to-root-linux-systems/"
-        },
-        {
-            "title": "Microsoft confirms April Windows updates cause backup failures",
-            "description": "[BLEEPINGCOMPUTER.COM] Microsoft has confirmed that the April 2026 security updates are causing failures in third-party backup applications using the psmounterex.sys driver. [...]",
-            "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-backup-failures-caused-by-vulnerable-driver-block/"
-        },
-        {
             "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
             "description": "[CISA.GOV] CISA has added four new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2024-7399&nbsp;Samsung&nbsp;MagicINFO&nbsp;9 Server Path...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/04/24/cisa-adds-four-known-exploited-vulnerabilities-catalog"
@@ -75,6 +75,16 @@
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
             "description": "[CISA.GOV] CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-31431 Linux Kernel Incorrect Resource Transfer Between...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/05/01/cisa-adds-one-known-exploited-vulnerability-catalog"
+        },
+        {
+            "title": "Cancer and ambulance services among HSE websites shut down after cybersecurity incident",
+            "description": "[THE IRISH TIMES] Affected pages providing information on various services taken offline after \u2018unexpected\u2019 server activity",
+            "url": "https://www.irishtimes.com/health/2026/05/04/cancer-and-ambulance-services-among-hse-websites-shut-down-after-cybersecurity-incident/"
+        },
+        {
+            "title": "Anthropic Mythos risks force public banks in India to revamp IT investments: Report",
+            "description": "[BUSINESS TODAY] Amid growing concerns around Anthropic Mythos, banks in India are planning to expand their spending on cybersecurity defences to strengthen their systems and reduce vulnerabilities.",
+            "url": "https://www.businesstoday.in/technology/story/anthropic-mythos-risks-forces-public-banks-in-india-to-revamp-it-investments-report-529504-2026-05-04"
         },
         {
             "title": "Mythos AI is a cybersecurity threat, but it doesn\u2019t rewrite the rules of the game",
@@ -115,16 +125,6 @@
             "title": "Public sector banks to scale up IT spend amid Anthropic Mythos cyber threat",
             "description": "[BUSINESS STANDARD] Mythos' advanced coding capabilities give it an unprecedented potential to detect cybersecurity weaknesses and develop methods to exploit them, sparking concerns",
             "url": "https://www.business-standard.com/industry/banking/public-sector-banks-to-scale-up-it-spend-amid-anthropic-mythos-cyber-threat-126050300187_1.html"
-        },
-        {
-            "title": "Public sector banks looks to scale up IT spend in view of cyber threat posed by Anthropic Mythos",
-            "description": "[THE HINDU BUSINESS LINE] Public sector banks are increasing IT spending to combat cybersecurity threats posed by Anthropic's Claude Mythos AI tool.",
-            "url": "https://www.thehindubusinessline.com/money-and-banking/public-sector-banks-looks-to-scale-up-it-spend-in-view-of-cyber-threat-posed-by-anthropic-mythos/article70934575.ece"
-        },
-        {
-            "title": "Banks Fortify Cybersecurity Amid Mythos AI Concerns",
-            "description": "[DEVDISCOURSE] Public sector banks are ramping up IT expenditure to bolster cybersecurity, driven by concerns over Anthropic\u2019s Mythos AI capabilities. The AI\u2019s potential to exploit vulnerabilities has prompted...",
-            "url": "https://www.devdiscourse.com/article/headlines/3894785-banks-fortify-cybersecurity-amid-mythos-ai-concerns"
         }
     ]
 }
