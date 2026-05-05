@@ -1,10 +1,20 @@
 {
-    "updated": "2026-05-05 15:37:25 UTC",
+    "updated": "2026-05-05 17:14:09 UTC",
     "news": [
         {
             "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
             "description": "[CISA.GOV] CISA has added&nbsp;two&nbsp;new&nbsp;vulnerabilities&nbsp;to its&nbsp;Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation....",
             "url": "https://www.cisa.gov/news-events/alerts/2026/04/28/cisa-adds-two-known-exploited-vulnerabilities-catalog"
+        },
+        {
+            "title": "Critical Apache HTTP/2 Flaw (CVE-2026-23918) Enables DoS and Potential RCE",
+            "description": "[FEEDS.FEEDBURNER.COM] The Apache Software Foundation (ASF) has released security updates to address several security vulnerabilities in the HTTP Server, including a severe vulnerability that could potentially lead to...",
+            "url": "https://thehackernews.com/2026/05/critical-apache-http2-flaw-cve-2026.html"
+        },
+        {
+            "title": "DAEMON Tools Supply Chain Attack Compromises Official Installers with Malware",
+            "description": "[FEEDS.FEEDBURNER.COM] A newly identified supply chain attack targeting DAEMON Tools software has compromised its installers to serve a malicious payload, according to findings from Kaspersky. \"These installers are...",
+            "url": "https://thehackernews.com/2026/05/daemon-tools-supply-chain-attack.html"
         },
         {
             "title": "China-Linked UAT-8302 Targets Governments Using Shared APT Malware Across Regions",
@@ -20,16 +30,6 @@
             "title": "MetInfo CMS CVE-2026-29014 Exploited for Remote Code Execution Attacks",
             "description": "[FEEDS.FEEDBURNER.COM] Threat actors are actively exploiting a critical security flaw impacting an open-source content management system (CMS) known as MetInfo, according to new findings from VulnCheck. The vulnerability...",
             "url": "https://thehackernews.com/2026/05/metinfo-cms-cve-2026-29014-exploited.html"
-        },
-        {
-            "title": "We Scanned 1 Million Exposed AI Services. Here's How Bad the Security Actually Is",
-            "description": "[FEEDS.FEEDBURNER.COM] While the software industry has made genuine strides over the past few decades to deliver products securely, the furious pace of AI adoption is putting that progress at risk. Businesses are moving...",
-            "url": "https://thehackernews.com/2026/05/we-scanned-1-million-exposed-ai.html"
-        },
-        {
-            "title": "ScarCruft Hacks Gaming Platform to Deploy BirdCall Malware on Android and Windows",
-            "description": "[FEEDS.FEEDBURNER.COM] The North Korea-aligned state-sponsored hacking group known as ScarCruft has compromised a video game platform in a supply chain espionage attack, trojanizing its components with a backdoor called...",
-            "url": "https://thehackernews.com/2026/05/scarcruft-hacks-gaming-platform-to.html"
         },
         {
             "title": "FTC to ban data broker Kochava from selling Americans\u2019 location data",
@@ -77,6 +77,11 @@
             "url": "https://www.cisa.gov/news-events/alerts/2026/05/01/cisa-adds-one-known-exploited-vulnerability-catalog"
         },
         {
+            "title": "Amid Mythos Fears, Donald Trump May Bring Review System For New AI Models",
+            "description": "[TIMES NOW] The Trump government could consider an oversight for advanced AI models amid rising cybersecurity concerns, marking a potential shift from his earlier hands-off approach to regulation., Technology &...",
+            "url": "https://www.timesnownews.com/technology-science/amid-mythos-fears-donald-trump-may-bring-review-system-for-new-ai-models-article-154248085"
+        },
+        {
             "title": "Brussels bans Chinese inverters from EU-funded power projects connected to European grid",
             "description": "[SOUTH CHINA MORNING POST] EU official says Brussels has identified cybersecurity and dependency risks in foreign inverters.",
             "url": "https://www.scmp.com/economy/china-economy/article/3352435/brussels-bans-chinese-inverters-eu-funded-power-projects-connected-european-grid"
@@ -120,11 +125,6 @@
             "title": "\u26a1 Weekly Recap: AI-Powered Phishing, Android Spying Tool, Linux Exploit, GitHub RCE & More",
             "description": "[THE HACKER NEWS] Weekly cybersecurity news: Critical cPanel flaw under attack, Copy Fail Linux privilege escalation, TeamPCP supply chain campaign, GitHub RCE & major",
             "url": "https://thehackernews.com/2026/05/weekly-recap-ai-powered-phishing.html"
-        },
-        {
-            "title": "EU moves to ban high-risk inverters from China over cybersecurity threats",
-            "description": "[EURONEWS] An EU official stated that 'serious' economic and cybersecurity threats had been identified, adding that the Commission\u2019s evaluation was based on both classified and publicly available information...",
-            "url": "https://www.euronews.com/my-europe/2026/05/04/eu-moves-to-ban-high-risk-inverters-from-china-over-cybersecurity-threats"
         }
     ]
 }
