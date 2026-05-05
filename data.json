@@ -1,10 +1,15 @@
 {
-    "updated": "2026-05-05 09:53:31 UTC",
+    "updated": "2026-05-05 11:11:01 UTC",
     "news": [
         {
             "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
             "description": "[CISA.GOV] CISA has added&nbsp;two&nbsp;new&nbsp;vulnerabilities&nbsp;to its&nbsp;Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation....",
             "url": "https://www.cisa.gov/news-events/alerts/2026/04/28/cisa-adds-two-known-exploited-vulnerabilities-catalog"
+        },
+        {
+            "title": "We Scanned 1 Million Exposed AI Services. Here's How Bad the Security Actually Is",
+            "description": "[FEEDS.FEEDBURNER.COM] While the software industry has made genuine strides over the past few decades to deliver products securely, the furious pace of AI adoption is putting that progress at risk. Businesses are moving...",
+            "url": "https://thehackernews.com/2026/05/we-scanned-1-million-exposed-ai.html"
         },
         {
             "title": "ScarCruft Hacks Gaming Platform to Deploy BirdCall Malware on Android and Windows",
@@ -20,6 +25,16 @@
             "title": "Microsoft Details Phishing Campaign Targeting 35,000 Users Across 26 Countries",
             "description": "[FEEDS.FEEDBURNER.COM] Microsoft has disclosed details of a large-scale credential theft campaign that has leveraged a combination of code of conduct-themed lures and legitimate email services to direct users to...",
             "url": "https://thehackernews.com/2026/05/microsoft-details-phishing-campaign.html"
+        },
+        {
+            "title": "Karakurt extortion gang \u2018cold case\u2019 negotiator gets 8.5 years in prison",
+            "description": "[BLEEPINGCOMPUTER.COM] A Latvian national extradited to the United States was sentenced to 8.5 years in prison for his \"cold case\" negotiator role in the Russian Karakurt ransomware group. [...]",
+            "url": "https://www.bleepingcomputer.com/news/security/karakurt-extortion-gang-negotiator-sentenced-to-85-years-in-prison/"
+        },
+        {
+            "title": "CloudZ malware abuses Microsoft Phone Link to steal SMS and OTPs",
+            "description": "[BLEEPINGCOMPUTER.COM] A new version of the CloudZ remote access tool (RAT) is deploying a previously unseen malicious plugin called Pheno that hijacks the Microsoft Phone Link connection to steal sensitive codes from...",
+            "url": "https://www.bleepingcomputer.com/news/security/cloudz-malware-abuses-microsoft-phone-link-to-steal-sms-and-otps/"
         },
         {
             "title": "ScarCruft hackers push BirdCall Android malware via game platform",
@@ -42,11 +57,6 @@
             "url": "https://thehackernews.com/2026/05/phishing-campaign-hits-80-orgs-using.html"
         },
         {
-            "title": "Progress Patches Critical MOVEit Automation Bug Enabling Authentication Bypass",
-            "description": "[FEEDS.FEEDBURNER.COM] Progress Software has released updates to address two security flaws in MOVEit Automation, including a critical bug that could result in an authentication bypass. MOVEit Automation (formerly Central)...",
-            "url": "https://thehackernews.com/2026/05/progress-patches-critical-moveit.html"
-        },
-        {
             "title": "Weaver E-cology critical bug exploited in attacks since March",
             "description": "[BLEEPINGCOMPUTER.COM] Hackers have been exploiting a critical vulnerability (CVE-2026-22679) in the Weaver E-cology office automation since mid-March to run discovery commands. [...]",
             "url": "https://www.bleepingcomputer.com/news/security/weaver-e-cology-critical-bug-exploited-in-attacks-since-march/"
@@ -57,16 +67,6 @@
             "url": "https://www.bleepingcomputer.com/news/security/amazon-ses-increasingly-abused-in-phishing-to-evade-detection/"
         },
         {
-            "title": "Backdoored PyTorch Lightning package drops credential stealer",
-            "description": "[BLEEPINGCOMPUTER.COM] A malicious version of the PyTorch Lightning package published on the Python Package Index (PyPI) delivers a credential-stealing payload targeting browsers, environment files, and cloud services....",
-            "url": "https://www.bleepingcomputer.com/news/security/backdoored-pytorch-lightning-package-drops-credential-stealer/"
-        },
-        {
-            "title": "Trellix discloses data breach after source code repository hack",
-            "description": "[BLEEPINGCOMPUTER.COM] Cybersecurity firm Trellix disclosed a data breach after attackers gained access to \"a portion\" of its source code repository. [...]",
-            "url": "https://www.bleepingcomputer.com/news/security/trellix-discloses-data-breach-after-source-code-repository-hack/"
-        },
-        {
             "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
             "description": "[CISA.GOV] CISA has added four new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2024-7399&nbsp;Samsung&nbsp;MagicINFO&nbsp;9 Server Path...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/04/24/cisa-adds-four-known-exploited-vulnerabilities-catalog"
@@ -75,6 +75,21 @@
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
             "description": "[CISA.GOV] CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-31431 Linux Kernel Incorrect Resource Transfer Between...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/05/01/cisa-adds-one-known-exploited-vulnerability-catalog"
+        },
+        {
+            "title": "LRQA highlights shift from compliance-led security to continuous assurance at BrisSEC AISA 2026",
+            "description": "[PR NEWSWIRE UK] /PRNewswire/ -- BrisSEC AISA 2026 highlighted growing strain on Australia's cybersecurity model, as organisations face overlapping pressures from rising threat...",
+            "url": "https://www.prnewswire.co.uk/news-releases/lrqa-highlights-shift-from-compliance-led-security-to-continuous-assurance-at-brissec-aisa-2026-302761487.html"
+        },
+        {
+            "title": "Man from Russian group sentenced in $56 million ransomware scheme",
+            "description": "[CINCINNATI CINCINNATI ENQUIRER] A Russian ransomware organization extorted from more than 53 companies, including several in the southern half of Ohio, officials said.",
+            "url": "https://www.cincinnati.com/story/news/crime/2026/05/04/man-in-russian-ransomware-group-sentenced-for-targeting-ohio-companies/89935873007/"
+        },
+        {
+            "title": "U.S. government warns of severe CopyFail bug affecting major versions of Linux",
+            "description": "[TECHCRUNCH] U.S. cybersecurity agency CISA says the CopyFail bug is being actively used in hacking campaigns, and poses a major risk to servers and datacenters that rely on Linux.",
+            "url": "https://techcrunch.com/2026/05/04/u-s-government-warns-of-severe-copyfail-bug-affecting-major-versions-of-linux/"
         },
         {
             "title": "UA Little Rock Secures $12.75 Million in Federal Funding to Advance Veterans Services, Nanotechnology, Cybersecurity, National Defense Research",
@@ -110,21 +125,6 @@
             "title": "Sattrix Information Security Hires UAE IT Distributor for NewEvol Sales; Agreement Lasts 3 Years",
             "description": "[SCANX.TRADE] Sattrix Information Security Limited, through its wholly owned subsidiary Sattrix Software Solutions Private Limited, has appointed a leading UAE-based IT value-added distributor for the...",
             "url": "https://scanx.trade/stock-market-news/companies/sattrix-information-security-appoints-uae-based-authorized-distributor-for-newevol/39422576"
-        },
-        {
-            "title": "Japan, Australia pivot to \"resilient\" supply chains to counter China, Middle East volatility",
-            "description": "[THE TRIBUNE] Japanese and Australian leaders pledged to secure energy and critical mineral supplies to counter China's market dominance and Middle East instability. Prime Minister Takaichi and Anthony Albanese...",
-            "url": "https://www.tribuneindia.com/news/world/japan-australia-pivot-to-resilient-supply-chains-to-counter-china-middle-east-volatility/"
-        },
-        {
-            "title": "Japan and Australia Unite to Challenge China's Resource Dominance",
-            "description": "[DEVDISCOURSE] In a strategic alliance, Japan and Australia vow to enhance their partnership in securing energy and critical minerals, addressing China\u2019s rare earth dominance. The agreement also emphasizes...",
-            "url": "https://www.devdiscourse.com/article/international/3895335-japan-and-australia-unite-to-challenge-chinas-resource-dominance"
-        },
-        {
-            "title": "Cancer and ambulance services among HSE websites shut down after cybersecurity incident",
-            "description": "[THE IRISH TIMES] Affected pages providing information on various services taken offline after \u2018unexpected\u2019 server activity",
-            "url": "https://www.irishtimes.com/health/2026/05/04/cancer-and-ambulance-services-among-hse-websites-shut-down-after-cybersecurity-incident/"
         }
     ]
 }
