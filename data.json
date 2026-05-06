@@ -1,6 +1,11 @@
 {
-    "updated": "2026-05-06 17:26:03 UTC",
+    "updated": "2026-05-06 19:23:08 UTC",
     "news": [
+        {
+            "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+            "description": "[CISA.GOV] CISA has added one new vulnerability to its&nbsp;Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation.&nbsp; CVE-2026-0300&nbsp;Palo Alto Networks PAN-OS...",
+            "url": "https://www.cisa.gov/news-events/alerts/2026/05/06/cisa-adds-one-known-exploited-vulnerability-catalog"
+        },
         {
             "title": "MuddyWater Uses Microsoft Teams to Steal Credentials in False Flag Ransomware Attack",
             "description": "[FEEDS.FEEDBURNER.COM] The Iranian state-sponsored hacking group known as MuddyWater (aka Mango Sandstorm, Seedworm, and Static Kitten) has been attributed to a ransomware attack in what has been described as a \"false...",
@@ -20,6 +25,16 @@
             "title": "Google's Android Apps Get Public Verification to Stop Supply Chain Attacks",
             "description": "[FEEDS.FEEDBURNER.COM] Google has announced expanded Binary Transparency for Android as a way to safeguard the ecosystem from supply chain attacks. \"This new public ledger ensures the Google apps on your device are exactly...",
             "url": "https://thehackernews.com/2026/05/android-apps-get-public-verification.html"
+        },
+        {
+            "title": "Critical vm2 sandbox bug lets attackers execute code on hosts",
+            "description": "[BLEEPINGCOMPUTER.COM] A critical vulnerability in the popular Node.js sandboxing library vm2 allows escaping the sandbox and executing arbitrary code on the host system. [...]",
+            "url": "https://www.bleepingcomputer.com/news/security/critical-vm2-sandbox-bug-lets-attackers-execute-code-on-hosts/"
+        },
+        {
+            "title": "New Cisco DoS flaw requires manual reboot to revive devices",
+            "description": "[BLEEPINGCOMPUTER.COM] Cisco patched a Crosswork Network Controller and Network Services Orchestrator denial-of-service vulnerability that requires manually rebooting targeted systems for recovery. [...]",
+            "url": "https://www.bleepingcomputer.com/news/security/new-cisco-dos-flaw-requires-manual-reboot-to-revive-devices/"
         },
         {
             "title": "Windows Phone Link Exploited by CloudZ RAT to Steal Credentials and OTPs",
@@ -42,16 +57,6 @@
             "url": "https://www.bleepingcomputer.com/news/security/muddywater-hackers-use-chaos-ransomware-as-a-decoy-in-attacks/"
         },
         {
-            "title": "Webinar: Why network incidents escalate and how to fix response gaps",
-            "description": "[BLEEPINGCOMPUTER.COM] Most network incidents don't escalate due to a lack of alerts; they escalate when response breaks down. This webinar explores how to fix gaps in triage, enrichment, and coordination. [...]",
-            "url": "https://www.bleepingcomputer.com/news/security/webinar-why-network-incidents-escalate-and-how-to-fix-response-gaps/"
-        },
-        {
-            "title": "Palo Alto Networks warns of firewall RCE zero-day exploited in attacks",
-            "description": "[BLEEPINGCOMPUTER.COM] Palo Alto Networks warned customers today that a critical-severity unpatched vulnerability in the PAN-OS User-ID Authentication Portal is being exploited in attacks. [...]",
-            "url": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-actively-exploited-firewall-zero-day/"
-        },
-        {
             "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
             "description": "[CISA.GOV] CISA has added&nbsp;two&nbsp;new&nbsp;vulnerabilities&nbsp;to its&nbsp;Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation....",
             "url": "https://www.cisa.gov/news-events/alerts/2026/04/28/cisa-adds-two-known-exploited-vulnerabilities-catalog"
@@ -62,11 +67,6 @@
             "url": "https://www.cisa.gov/news-events/alerts/2026/04/30/cisa-adds-one-known-exploited-vulnerability-catalog"
         },
         {
-            "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-            "description": "[CISA.GOV] CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-39987 Marimo Remote Code Execution Vulnerability This...",
-            "url": "https://www.cisa.gov/news-events/alerts/2026/04/23/cisa-adds-one-known-exploited-vulnerability-catalog"
-        },
-        {
             "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
             "description": "[CISA.GOV] CISA has added four new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2024-7399&nbsp;Samsung&nbsp;MagicINFO&nbsp;9 Server Path...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/04/24/cisa-adds-four-known-exploited-vulnerabilities-catalog"
@@ -75,6 +75,11 @@
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
             "description": "[CISA.GOV] CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-31431 Linux Kernel Incorrect Resource Transfer Between...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/05/01/cisa-adds-one-known-exploited-vulnerability-catalog"
+        },
+        {
+            "title": "Punjab National Bank boosts cybersecurity spending amid rising AI threats",
+            "description": "[THE HINDU BUSINESS LINE] PNB raises cybersecurity spend to \u20b98,000 crore, boosts tech upgrades to tackle AI threats, while reporting strong profit growth and steady loan outlook.",
+            "url": "https://www.thehindubusinessline.com/money-and-banking/pnb-allocates-up-to-8000-crore-for-cybersecurity-ramps-up-tech-procurement/article70945483.ece"
         },
         {
             "title": "\u2018No compromise\u2019: PNB earmarks up to Rs 800 crore for cybersecurity in FY27",
@@ -120,11 +125,6 @@
             "title": "U.S. Expands AI Model Testing to Boost Cybersecurity",
             "description": "[DEVDISCOURSE] The U.S. government has extended its program to assess unreleased AI models, including those from Google\u2019s DeepMind, xAI, and Microsoft, to mitigate risks such as cyberattacks. OpenAI and Anthropic...",
             "url": "https://www.devdiscourse.com/article/technology/3898005-us-expands-ai-model-testing-to-boost-cybersecurity"
-        },
-        {
-            "title": "Microsoft, Google and xAI will let the government test their AI models before launch",
-            "description": "[ABC17NEWS.COM] By Hadas Gold, CNN (CNN) \u2014 Google, Microsoft and xAI will share unreleased versions of their AI models with the government to curb cybersecurity threats, the National Institute of Standards and...",
-            "url": "https://abc17news.com/money/cnn-business-consumer/2026/05/05/microsoft-google-and-xai-will-let-the-government-test-their-ai-models-before-launch/"
         }
     ]
 }
