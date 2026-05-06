@@ -1,10 +1,25 @@
 {
-    "updated": "2026-05-06 08:08:07 UTC",
+    "updated": "2026-05-06 11:43:19 UTC",
     "news": [
+        {
+            "title": "Google's Android Apps Get Public Verification to Stop Supply Chain Attacks",
+            "description": "[FEEDS.FEEDBURNER.COM] Google has announced expanded Binary Transparency for Android as a way to safeguard the ecosystem from supply chain attacks. \"This new public ledger ensures the Google apps on your device are exactly...",
+            "url": "https://thehackernews.com/2026/05/android-apps-get-public-verification.html"
+        },
+        {
+            "title": "Windows Phone Link Exploited by CloudZ RAT to Steal Credentials and OTPs",
+            "description": "[FEEDS.FEEDBURNER.COM] Cybersecurity researchers have disclosed details of an intrusion that involved the use of a CloudZ remote access tool (RAT) and a previous undocumented plugin dubbed Pheno with the aim of...",
+            "url": "https://thehackernews.com/2026/05/windows-phone-link-exploited-by-cloudz.html"
+        },
         {
             "title": "Palo Alto PAN-OS Flaw Under Active Exploitation Enables Remote Code Execution",
             "description": "[FEEDS.FEEDBURNER.COM] Palo Alto Networks has released an advisory warning that a critical buffer overflow vulnerability in its PAN-OS software has been exploited in the wild. The vulnerability, tracked as CVE-2026-0300,...",
             "url": "https://thehackernews.com/2026/05/palo-alto-pan-os-flaw-under-active.html"
+        },
+        {
+            "title": "Palo Alto Networks warns of firewall RCE zero-day exploited in attacks",
+            "description": "[BLEEPINGCOMPUTER.COM] Palo Alto Networks warned customers today that a critical-severity unpatched vulnerability in the PAN-OS User-ID Authentication Portal is being exploited in attacks. [...]",
+            "url": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-actively-exploited-firewall-zero-day/"
         },
         {
             "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
@@ -22,19 +37,9 @@
             "url": "https://thehackernews.com/2026/05/daemon-tools-supply-chain-attack.html"
         },
         {
-            "title": "China-Linked UAT-8302 Targets Governments Using Shared APT Malware Across Regions",
-            "description": "[FEEDS.FEEDBURNER.COM] A sophisticated China-nexus advanced persistent threat (APT) group has been attributed to attacks targeting government entities in South America since at least late 2024 and government agencies in...",
-            "url": "https://thehackernews.com/2026/05/china-linked-uat-8302-targets.html"
-        },
-        {
             "title": "New stealthy Quasar Linux malware targets software developers",
             "description": "[BLEEPINGCOMPUTER.COM] A previously undocumented Linux implant named Quasar Linux (QLNX) is targeting developers' systems with a mix of rootkit, backdoor, and credential-stealing capabilities. [...]",
             "url": "https://www.bleepingcomputer.com/news/security/new-stealthy-quasar-linux-malware-targets-software-developers/"
-        },
-        {
-            "title": "The Back Door Attackers Know About \u2014 and Most Security Teams Still Haven\u2019t Closed",
-            "description": "[FEEDS.FEEDBURNER.COM] Every AI tool, workflow automation, and productivity app your employees connected to Google or Microsoft this year left something behind: a persistent OAuth token with no expiration date, no...",
-            "url": "https://thehackernews.com/2026/05/the-back-door-attackers-know-about-and.html"
         },
         {
             "title": "Instructure hacker claims data theft from 8,800 schools, universities",
@@ -50,11 +55,6 @@
             "title": "Student hacked Taiwan high-speed rail to trigger emergency brakes",
             "description": "[BLEEPINGCOMPUTER.COM] A 23-year-old university student in Taiwan was arrested for interfering with the TETRA communication system used by the country's high-speed railway network (THSR). [...]",
             "url": "https://www.bleepingcomputer.com/news/security/student-hacked-taiwan-high-speed-rail-to-trigger-emergency-brakes/"
-        },
-        {
-            "title": "FTC to ban data broker Kochava from selling Americans\u2019 location data",
-            "description": "[BLEEPINGCOMPUTER.COM] The FTC will ban data broker Kochava and its subsidiary, Collective Data Solutions (CDS), from selling location data without consumers' explicit consent to settle charges alleging that it sold...",
-            "url": "https://www.bleepingcomputer.com/news/security/ftc-to-ban-data-broker-kochava-from-selling-americans-location-data/"
         },
         {
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
@@ -75,6 +75,26 @@
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
             "description": "[CISA.GOV] CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-31431 Linux Kernel Incorrect Resource Transfer Between...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/05/01/cisa-adds-one-known-exploited-vulnerability-catalog"
+        },
+        {
+            "title": "U.S. Expands AI Model Testing to Boost Cybersecurity",
+            "description": "[DEVDISCOURSE] The U.S. government has extended its program to assess unreleased AI models, including those from Google\u2019s DeepMind, xAI, and Microsoft, to mitigate risks such as cyberattacks. OpenAI and Anthropic...",
+            "url": "https://www.devdiscourse.com/article/technology/3898005-us-expands-ai-model-testing-to-boost-cybersecurity"
+        },
+        {
+            "title": "Microsoft, Google and xAI will let the government test their AI models before launch",
+            "description": "[ABC17NEWS.COM] By Hadas Gold, CNN (CNN) \u2014 Google, Microsoft and xAI will share unreleased versions of their AI models with the government to curb cybersecurity threats, the National Institute of Standards and...",
+            "url": "https://abc17news.com/money/cnn-business-consumer/2026/05/05/microsoft-google-and-xai-will-let-the-government-test-their-ai-models-before-launch/"
+        },
+        {
+            "title": "Microsoft, Google and xAI will let the government test their AI models before launch",
+            "description": "[CABLE NEWS NETWORK] Google, Microsoft and xAI will share unreleased versions of their AI models with the government to curb cybersecurity threats, the National Institute of Standards and Technology announced on Tuesday.",
+            "url": "https://edition.cnn.com/2026/05/05/tech/microsoft-google-xai-government-test-ai-models"
+        },
+        {
+            "title": "[Latest] Global Smart Grid Cybersecurity Market Size/Share",
+            "description": "[GLOBENEWSWIRE] [220+ Pages Latest Report] According to a market research study published by Custom Market Insights, the demand analysis of Global Smart Grid Cybersecurity...",
+            "url": "https://www.globenewswire.com/news-release/2026/05/05/3288391/0/en/latest-global-smart-grid-cybersecurity-market-size-share-worth-usd-67-02-billion-by-2035-at-a-28-2-cagr-custom-market-insights-analysis-outlook-leaders-report-trends-forecast-segme.html"
         },
         {
             "title": "Jamie Dimon and Dario Amodei sidestep question about whether the AI cyber 'freakout' is warranted",
@@ -105,26 +125,6 @@
             "title": "U.S. military runs Bitcoin node, sees crypto as power projection versus China",
             "description": "[ACTIVIST POST] Understand the significance of the Bitcoin military node in U.S. cybersecurity strategy and its impact on global competition.",
             "url": "https://www.activistpost.com/u-s-military-runs-bitcoin-node-sees-crypto-as-power-projection-versus-china/"
-        },
-        {
-            "title": "India's markets regulator sets up task force to tackle AI",
-            "description": "[THE ECONOMIC TIMES] India's market regulator, SEBI, has issued a new advisory. It warns about emerging AI tools for detecting vulnerabilities. These tools could create new cybersecurity risks for regulated entities....",
-            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/indias-markets-regulator-sets-up-task-force-to-tackle-ai-driven-cyber-threats/articleshow/130833315.cms"
-        },
-        {
-            "title": "Sebi flags risks on Mythos-like AI tools; forms task force, issues advisory",
-            "description": "[BUSINESS STANDARD] Market regulator warns of AI-driven cybersecurity risks, sets up task force and issues advisory urging regulated entities to strengthen safeguards, monitoring and coordination",
-            "url": "https://www.business-standard.com/markets/news/sebi-flags-ai-led-cyber-risks-sets-up-task-force-for-market-safeguards-126050501495_1.html"
-        },
-        {
-            "title": "Kaspersky suspects Chinese hackers planted a backdoor into Daemon Tools in 'widespread' attack",
-            "description": "[TECHCRUNCH] The cybersecurity company says it's seen thousands of infection attempts, and at least a dozen successful hacks after users installed malicious versions of the popular Windows software.",
-            "url": "https://techcrunch.com/2026/05/05/kaspersky-suspects-chinese-hackers-planted-a-backdoor-into-daemon-tools-in-widespread-attack/"
-        },
-        {
-            "title": "Artificial intelligence and the modern cybersecurity landscape",
-            "description": "[SILICONREPUBLIC.COM] Experts from TCS and Rent the Runway discuss how artificial intelligence is having an effect on the modern cybersecurity ecosystem.",
-            "url": "https://www.siliconrepublic.com/careers/artificial-intelligence-modern-cybersecurity-landscape-skills-tcs-rent-the-runway"
         }
     ]
 }
