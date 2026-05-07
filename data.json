@@ -1,5 +1,5 @@
 {
-    "updated": "2026-05-07 08:15:45 UTC",
+    "updated": "2026-05-07 11:42:08 UTC",
     "news": [
         {
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
@@ -22,11 +22,6 @@
             "url": "https://thehackernews.com/2026/05/the-hacker-news-launches-cybersecurity.html"
         },
         {
-            "title": "Your AI Agents Are Already Inside the Perimeter. Do You Know What They're Doing?",
-            "description": "[FEEDS.FEEDBURNER.COM] Analysts recently confirmed what identity security teams have quietly feared: AI agents are being deployed faster than enterprises can govern them. In their inaugural Market Guide for Guardian...",
-            "url": "https://thehackernews.com/2026/05/your-ai-agents-are-already-inside.html"
-        },
-        {
             "title": "Critical vm2 sandbox bug lets attackers execute code on hosts",
             "description": "[BLEEPINGCOMPUTER.COM] A critical vulnerability in the popular Node.js sandboxing library vm2 allows escaping the sandbox and executing arbitrary code on the host system. [...]",
             "url": "https://www.bleepingcomputer.com/news/security/critical-vm2-sandbox-bug-lets-attackers-execute-code-on-hosts/"
@@ -35,16 +30,6 @@
             "title": "New Cisco DoS flaw requires manual reboot to revive devices",
             "description": "[BLEEPINGCOMPUTER.COM] Cisco patched a Crosswork Network Controller and Network Services Orchestrator denial-of-service vulnerability that requires manually rebooting targeted systems for recovery. [...]",
             "url": "https://www.bleepingcomputer.com/news/security/new-cisco-dos-flaw-requires-manual-reboot-to-revive-devices/"
-        },
-        {
-            "title": "DAEMON Tools devs confirm breach, release malware-free version",
-            "description": "[BLEEPINGCOMPUTER.COM] Disc Soft Limited, the maker of DAEMON Tools Lite, confirmed that the software had been trojanized in a supply chain attack and released a new, malware-free version. [...]",
-            "url": "https://www.bleepingcomputer.com/news/security/daemon-tools-devs-confirm-breach-release-malware-free-version/"
-        },
-        {
-            "title": "Why ransomware attacks succeed even when backups exist",
-            "description": "[BLEEPINGCOMPUTER.COM] Backups don't fail because they're missing, they fail because attackers destroy them first. Acronis explains how ransomware targets backup systems before encryption, leaving no path to recovery. [...]",
-            "url": "https://www.bleepingcomputer.com/news/security/why-ransomware-attacks-succeed-even-when-backups-exist/"
         },
         {
             "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
@@ -57,9 +42,24 @@
             "url": "https://www.cisa.gov/news-events/alerts/2026/04/30/cisa-adds-one-known-exploited-vulnerability-catalog"
         },
         {
+            "title": "PyPI Packages Deliver ZiChatBot Malware via Zulip APIs on Windows and Linux",
+            "description": "[FEEDS.FEEDBURNER.COM] Cybersecurity researchers have discovered three packages on the Python Package Index (PyPI) repository that are designed to stealthily deliver a previously unknown malware family...",
+            "url": "https://thehackernews.com/2026/05/pypi-packages-deliver-zichatbot-malware.html"
+        },
+        {
             "title": "vm2 Node.js Library Vulnerabilities Enable Sandbox Escape and Arbitrary Code Execution",
             "description": "[FEEDS.FEEDBURNER.COM] A dozen critical security vulnerabilities have been disclosed in the vm2 Node.js library that could be exploited by bad actors to break out of the sandbox and execute arbitrary code on susceptible...",
             "url": "https://thehackernews.com/2026/05/vm2-nodejs-library-vulnerabilities.html"
+        },
+        {
+            "title": "Palo Alto Networks firewall zero-day exploited for nearly a month",
+            "description": "[BLEEPINGCOMPUTER.COM] Palo Alto Networks warned customers that suspected state-sponsored hackers have been exploiting a critical-severity PAN-OS firewall zero-day vulnerability for nearly a month. [...]",
+            "url": "https://www.bleepingcomputer.com/news/security/pan-os-firewall-rce-zero-day-exploited-in-attacks-since-april-9/"
+        },
+        {
+            "title": "Fake Claude AI website delivers new 'Beagle' Windows malware",
+            "description": "[BLEEPINGCOMPUTER.COM] A fake version for the Claude AI website offers a malicious Claude-Pro Relay download that pushes a previously undocumented backdoor for Windows named Beagle. [...]",
+            "url": "https://www.bleepingcomputer.com/news/security/fake-claude-ai-website-delivers-new-beagle-windows-malware/"
         },
         {
             "title": "Mirai-Based xlabs_v1 Botnet Exploits ADB to Hijack IoT Devices for DDoS Attacks",
@@ -75,6 +75,26 @@
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
             "description": "[CISA.GOV] CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-31431 Linux Kernel Incorrect Resource Transfer Between...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/05/01/cisa-adds-one-known-exploited-vulnerability-catalog"
+        },
+        {
+            "title": "Commentary: Anthropic\u2019s Mythos AI marks a cybersecurity moment Singapore cannot ignore",
+            "description": "[CNA] Even if Anthropic\u2019s claims about its new AI model are overstated, the deeper challenge Mythos represents is very real, say NCS cybersecurity chief Foo Siang-tse and strategic adviser Shashi Jayakumar.",
+            "url": "https://www.channelnewsasia.com/commentary/ai-anthropic-mythos-threat-cybersecurity-singapore-csa-6103386"
+        },
+        {
+            "title": "CNA Explains: What is frontier AI and how Anthropic's Mythos is reshaping cybersecurity",
+            "description": "[CNA] Anthropic\u2019s Mythos AI model has demonstrated advanced capabilities in coding and system analysis, raising fears over how such tools could be misused.",
+            "url": "https://www.channelnewsasia.com/world/frontier-ai-anthropic-mythos-cybersecurity-risks-cna-explains-6103406"
+        },
+        {
+            "title": "eMudhra FY26: 35% Revenue Growth, PAT at Rs. 1,100 Mn; Dividend Declared",
+            "description": "[SCANX.TRADE] eMudhra Limited reported strong FY26 consolidated results with revenue from operations rising to INR 7,015.80 million and net profit at INR 1,100.38 million, up from INR 872.34 million in FY25. The...",
+            "url": "https://scanx.trade/stock-market-news/companies/emudhra-reports-35-08-revenue-growth-in-fy26-board-recommends-rs-1-25-per-share-final-dividend/39635488"
+        },
+        {
+            "title": "What Is The 3-2-1-1-0 Rule For Your PC Data Backups?",
+            "description": "[BGR] If you want to fully protect your PC's data, use the 3-2-1-1-0 rule, which introduces redundancies to guard against natural disasters and ransomware attacks.",
+            "url": "https://www.bgr.com/2160911/3-2-1-1-0-rule-pc-backup-what-is-it/"
         },
         {
             "title": "Hexaware Technologies Reports Q1CY26 Revenue of USD 388.5 Mn, Up 4.6% YoY; PAT Rises 7.5% to INR 3,516 Mn",
@@ -105,26 +125,6 @@
             "title": "ECINET: Revolutionizing India's Election Cybersecurity and Efficiency",
             "description": "[DEVDISCOURSE] The Election Commission of India's IT platform, ECINET, played a pivotal role in the 2026 General Elections by streamlining operations and bolstering cybersecurity. It effectively countered millions...",
             "url": "https://www.devdiscourse.com/article/politics/3899172-ecinet-revolutionizing-indias-election-cybersecurity-and-efficiency"
-        },
-        {
-            "title": "Palo Alto Is Buying Portkey. That Makes PANW Stock Even More of a Bet on AI Agents.",
-            "description": "[BARCHART] Cybersecurity giant Palo Alto Networks is eyeing AI gateway startup Portkey. But will this acquisition meaningfully lift PANW stock, or take time to show results?",
-            "url": "https://www.barchart.com/story/news/1745108/palo-alto-is-buying-portkey-that-makes-panw-stock-even-more-of-a-bet-on-ai-agents"
-        },
-        {
-            "title": "KPIT to acquire Israeli auto cybersecurity firm Cymotive for up to $120 million",
-            "description": "[BUSINESS TODAY] Founded jointly by senior Israeli cybersecurity leaders and CARIAD, the automotive software company of the Volkswagen Group, Cymotive specializes in end\u2011to\u2011end vehicle lifecycle cybersecurity.",
-            "url": "https://www.businesstoday.in/technology/story/kpit-to-acquire-israeli-auto-cybersecurity-firm-cymotive-for-up-to-120-million-530176-2026-05-06"
-        },
-        {
-            "title": "Why investors love companies they do not understand",
-            "description": "[MARKETSCREENER] The harder a company is to understand, the more room it leaves for the imagination. Artificial intelligence, biotechnology, semiconductors, cybersecurity, quantum computing: markets love sectors...",
-            "url": "https://www.marketscreener.com/news/why-investors-love-companies-they-do-not-understand-ce7f58d2db8afe27"
-        },
-        {
-            "title": "ECINET's Cyber Fortification: Safeguarding India's Election Integrity",
-            "description": "[DEVDISCOURSE] On May 4, the Election Commission reported more than 68 lakh cyber-attacks targeting its election platforms, which were countered by its ECINET cybersecurity protocols. The ECINET platform, launched...",
-            "url": "https://www.devdiscourse.com/article/law-order/3898979-ecinets-cyber-fortification-safeguarding-indias-election-integrity"
         }
     ]
 }
