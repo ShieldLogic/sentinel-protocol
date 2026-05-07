@@ -1,15 +1,10 @@
 {
-    "updated": "2026-05-07 13:28:46 UTC",
+    "updated": "2026-05-07 15:59:03 UTC",
     "news": [
         {
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
             "description": "[CISA.GOV] CISA has added one new vulnerability to its&nbsp;Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation.&nbsp; CVE-2026-0300&nbsp;Palo Alto Networks PAN-OS...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/05/06/cisa-adds-one-known-exploited-vulnerability-catalog"
-        },
-        {
-            "title": "Hackers abuse Google ads for GoDaddy ManageWP login phishing",
-            "description": "[BLEEPINGCOMPUTER.COM] A phishing campaign delivered through Google sponsored search results is targeting credentials for ManageWP, GoDaddy's platform for managing fleets of WordPress websites. [...]",
-            "url": "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-for-godaddy-managewp-login-phishing/"
         },
         {
             "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
@@ -20,6 +15,16 @@
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
             "description": "[CISA.GOV] CISA has added&nbsp;one&nbsp;new&nbsp;vulnerability&nbsp;to its&nbsp;Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation.&nbsp; CVE-2026-41940&nbsp;WebPros cPanel...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/04/30/cisa-adds-one-known-exploited-vulnerability-catalog"
+        },
+        {
+            "title": "One Click, Total Shutdown: The \"Patient Zero\" Webinar on Killing Stealth Breaches",
+            "description": "[FEEDS.FEEDBURNER.COM] The hardest part of cybersecurity isn't the technology, it\u2019s the people. Every major breach you\u2019ve read about lately usually starts the same way: one employee, one clever email, and one \"Patient...",
+            "url": "https://thehackernews.com/2026/05/one-click-total-shutdown-patient-zero.html"
+        },
+        {
+            "title": "PAN-OS RCE Exploit Under Active Use Enabling Root Access and Espionage",
+            "description": "[FEEDS.FEEDBURNER.COM] Palo Alto Networks has disclosed that threat actors may have attempted to unsuccessfully exploit a recently disclosed critical security flaw as early as April 9, 2026. The vulnerability in question...",
+            "url": "https://thehackernews.com/2026/05/pan-os-rce-exploit-under-active-use.html"
         },
         {
             "title": "ThreatsDay Bulletin: Edge Plaintext Passwords, ICS 0-Days, Patch-or-Die Alerts and 25+ New Stories",
@@ -37,9 +42,19 @@
             "url": "https://thehackernews.com/2026/05/pypi-packages-deliver-zichatbot-malware.html"
         },
         {
-            "title": "vm2 Node.js Library Vulnerabilities Enable Sandbox Escape and Arbitrary Code Execution",
-            "description": "[FEEDS.FEEDBURNER.COM] A dozen critical security vulnerabilities have been disclosed in the vm2 Node.js library that could be exploited by bad actors to break out of the sandbox and execute arbitrary code on susceptible...",
-            "url": "https://thehackernews.com/2026/05/vm2-nodejs-library-vulnerabilities.html"
+            "title": "Ivanti warns of new EPMM flaw exploited in zero-day attacks",
+            "description": "[BLEEPINGCOMPUTER.COM] Ivanti warned customers today to patch a high-severity remote code execution vulnerability in Endpoint Manager Mobile (EPMM) exploited in zero-day attacks. [...]",
+            "url": "https://www.bleepingcomputer.com/news/security/ivanti-warns-of-new-epmm-flaw-exploited-in-zero-day-attacks/"
+        },
+        {
+            "title": "The Browser Is Breaking Your DLP: How Data Slips Past Modern Controls",
+            "description": "[BLEEPINGCOMPUTER.COM] Your security controls aren't failing, they're missing where most of today's work actually happens. Keep Aware shows how browser activity like copy/paste and AI prompts bypass traditional...",
+            "url": "https://www.bleepingcomputer.com/news/security/the-browser-is-breaking-your-dlp-how-data-slips-past-modern-controls/"
+        },
+        {
+            "title": "Americans sentenced for running 'laptop farms' for North Korea",
+            "description": "[BLEEPINGCOMPUTER.COM] Two U.S. nationals were sentenced to 18 months in prison each for operating so-called laptop farms that helped North Korean IT workers fraudulently obtain remote employment at nearly 70 American...",
+            "url": "https://www.bleepingcomputer.com/news/security/americans-sentenced-for-running-laptop-farms-for-north-korea/"
         },
         {
             "title": "Crypto gang member gets 6.5 years for role in $230 million heist",
@@ -52,21 +67,6 @@
             "url": "https://www.bleepingcomputer.com/news/security/webinar-why-modern-attacks-require-both-security-and-recovery/"
         },
         {
-            "title": "Palo Alto Networks firewall zero-day exploited for nearly a month",
-            "description": "[BLEEPINGCOMPUTER.COM] Palo Alto Networks warned customers that suspected state-sponsored hackers have been exploiting a critical-severity PAN-OS firewall zero-day vulnerability for nearly a month. [...]",
-            "url": "https://www.bleepingcomputer.com/news/security/pan-os-firewall-rce-zero-day-exploited-in-attacks-since-april-9/"
-        },
-        {
-            "title": "Fake Claude AI website delivers new 'Beagle' Windows malware",
-            "description": "[BLEEPINGCOMPUTER.COM] A fake version for the Claude AI website offers a malicious Claude-Pro Relay download that pushes a previously undocumented backdoor for Windows named Beagle. [...]",
-            "url": "https://www.bleepingcomputer.com/news/security/fake-claude-ai-website-delivers-new-beagle-windows-malware/"
-        },
-        {
-            "title": "Mirai-Based xlabs_v1 Botnet Exploits ADB to Hijack IoT Devices for DDoS Attacks",
-            "description": "[FEEDS.FEEDBURNER.COM] Cybersecurity researchers have exposed a new Mirai-derived botnet that self-identifies as xlabs_v1 and targets internet-exposed devices running Android Debug Bridge (ADB) to enlist them in a network...",
-            "url": "https://thehackernews.com/2026/05/mirai-based-xlabsv1-botnet-exploits-adb.html"
-        },
-        {
             "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
             "description": "[CISA.GOV] CISA has added four new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2024-7399&nbsp;Samsung&nbsp;MagicINFO&nbsp;9 Server Path...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/04/24/cisa-adds-four-known-exploited-vulnerabilities-catalog"
@@ -75,6 +75,31 @@
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
             "description": "[CISA.GOV] CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-31431 Linux Kernel Incorrect Resource Transfer Between...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/05/01/cisa-adds-one-known-exploited-vulnerability-catalog"
+        },
+        {
+            "title": "KPIT Technologies\u2019 Q4 net profit slips to Rs 163 crore",
+            "description": "[THE ECONOMIC TIMES] KPIT Technologies reported a 33.4% year-on-year drop in Q4 FY26 net profit to Rs. 162.9 crore, impacted by geopolitical uncertainties, despite an 11.9% revenue increase. The company also announced a...",
+            "url": "https://economictimes.indiatimes.com/tech/technology/kpit-technologies-q4-net-profit-slips-to-rs-163-crore/articleshow/130877174.cms"
+        },
+        {
+            "title": "What Makes Anthropic\u2019s Mythos So Powerful And Why Are Experts Worried",
+            "description": "[TIMES NOW] Mythos AI Explained: Top US Experts on Timesnownews.com \u2014 From geopolitics to AI to lifestyle\u2026Get the views from the best in the world. Discover how Anthropic\u2019s powerful AI is reshaping...",
+            "url": "https://www.timesnownews.com/technology-science/what-makes-anthropics-mythos-so-powerful-and-why-are-experts-worried-article-154260894"
+        },
+        {
+            "title": "NEXCOM Delivers Optimized Edge Security for Post-Quantum Workloads",
+            "description": "[THE MANILA TIMES] TAIPEI, May 7, 2026 /PRNewswire/ -- As quantum computing advances, it introduces cybersecurity risks capable of compromising today's encryption methods. This is accelerating the adoption of...",
+            "url": "https://www.manilatimes.net/2026/05/07/tmt-newswire/pr-newswire/nexcom-delivers-optimized-edge-security-for-post-quantum-workloads/2337892"
+        },
+        {
+            "title": "U.S. Admiral Highlights Bitcoin\u2019s Cybersecurity Applications in Senate Testimony",
+            "description": "[ACTIVIST POST] Admiral Samuel Paparo discusses the Bitcoin cybersecurity role during a Senate hearing, highlighting its importance for national security.",
+            "url": "https://www.activistpost.com/u-s-admiral-highlights-bitcoins-cybersecurity-applications-in-senate-testimony/"
+        },
+        {
+            "title": "NEXCOM Delivers Optimized Edge Security for Post-Quantum Workloads",
+            "description": "[PR NEWSWIRE UK] /PRNewswire/ -- As quantum computing advances, it introduces cybersecurity risks capable of compromising today's encryption methods. This is accelerating the...",
+            "url": "https://www.prnewswire.co.uk/news-releases/nexcom-delivers-optimized-edge-security-for-post-quantum-workloads-302764828.html"
         },
         {
             "title": "Inspira Enterprise expands its Security Copilot Agent Portfolio: Now Live with Two Agents on the Microsoft Security Store",
@@ -100,31 +125,6 @@
             "title": "CNA Explains: What is frontier AI and how Anthropic's Mythos is reshaping cybersecurity",
             "description": "[CNA] Anthropic\u2019s Mythos AI model has demonstrated advanced capabilities in coding and system analysis, raising fears over how such tools could be misused.",
             "url": "https://www.channelnewsasia.com/world/frontier-ai-anthropic-mythos-cybersecurity-risks-cna-explains-6103406"
-        },
-        {
-            "title": "eMudhra FY26: 35% Revenue Growth, PAT at Rs. 1,100 Mn; Dividend Declared",
-            "description": "[SCANX.TRADE] eMudhra Limited reported strong FY26 consolidated results with revenue from operations rising to INR 7,015.80 million and net profit at INR 1,100.38 million, up from INR 872.34 million in FY25. The...",
-            "url": "https://scanx.trade/stock-market-news/companies/emudhra-reports-35-08-revenue-growth-in-fy26-board-recommends-rs-1-25-per-share-final-dividend/39635488"
-        },
-        {
-            "title": "What Is The 3-2-1-1-0 Rule For Your PC Data Backups?",
-            "description": "[BGR] If you want to fully protect your PC's data, use the 3-2-1-1-0 rule, which introduces redundancies to guard against natural disasters and ransomware attacks.",
-            "url": "https://www.bgr.com/2160911/3-2-1-1-0-rule-pc-backup-what-is-it/"
-        },
-        {
-            "title": "Hexaware Technologies Reports Q1CY26 Revenue of USD 388.5 Mn, Up 4.6% YoY; PAT Rises 7.5% to INR 3,516 Mn",
-            "description": "[SCANX.TRADE] Hexaware Technologies reported Q1CY26 consolidated revenue of USD 388.5 Mn (INR 36,130 Mn), up 4.6% YoY in USD terms, with PAT rising 7.5% YoY to INR 3,516 Mn and Basic EPS at INR 5.77. The Board...",
-            "url": "https://scanx.trade/stock-market-news/companies/hexaware-technologies-reports-q1cy26-revenue-of-usd-388-5-mn-up-4-6-yoy-pat-rises-7-5-to-inr-3-516-mn/39640213"
-        },
-        {
-            "title": "Review cyber risks in 2 months: RBI to banks",
-            "description": "[THE FINANCIAL EXPRESS] Reserve Bank of India asks banks to review cybersecurity readiness within two months amid rising AI-driven threats and system vulnerabilities.",
-            "url": "https://www.financialexpress.com/business/news-review-cyber-risks-in-2-moths-rbi-to-banks-4233706/"
-        },
-        {
-            "title": "DOJ says ransomware gang tapped into Russian government databases",
-            "description": "[TECHCRUNCH] U.S. prosecutors said a ransomware gang fueled Russian government corruption, and allowed the gang's leaders to avoid paying taxes and dodge the country's military draft.",
-            "url": "https://techcrunch.com/2026/05/06/doj-says-ransomware-gang-tapped-into-russian-government-databases/"
         }
     ]
 }
