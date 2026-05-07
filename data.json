@@ -1,5 +1,5 @@
 {
-    "updated": "2026-05-07 17:48:27 UTC",
+    "updated": "2026-05-07 19:26:08 UTC",
     "news": [
         {
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
@@ -22,6 +22,16 @@
             "url": "https://www.cisa.gov/news-events/alerts/2026/05/07/cisa-adds-one-known-exploited-vulnerability-catalog"
         },
         {
+            "title": "Ivanti EPMM CVE-2026-6973 RCE Under Active Exploitation Grants Admin-Level Access",
+            "description": "[FEEDS.FEEDBURNER.COM] Ivanti is warning that a new security flaw impacting Endpoint Manager Mobile (EPMM) has been explored in limited attacks in the wild. The high-severity vulnerability, CVE-2026-6973 (CVSS score: 7.2),...",
+            "url": "https://thehackernews.com/2026/05/ivanti-epmm-cve-2026-6973-rce-under.html"
+        },
+        {
+            "title": "PCPJack Credential Stealer Exploits 5 CVEs to Spread Worm-Like Across Cloud Systems",
+            "description": "[FEEDS.FEEDBURNER.COM] Cybersecurity researchers have disclosed details of a new credential theft framework dubbed PCPJack that targets exposed cloud infrastructure and ousts any artifacts linked to TeamPCP from the...",
+            "url": "https://thehackernews.com/2026/05/pcpjack-credential-stealer-exploits-5.html"
+        },
+        {
             "title": "One Click, Total Shutdown: The \"Patient Zero\" Webinar on Killing Stealth Breaches",
             "description": "[FEEDS.FEEDBURNER.COM] The hardest part of cybersecurity isn't the technology, it\u2019s the people. Every major breach you\u2019ve read about lately usually starts the same way: one employee, one clever email, and one \"Patient...",
             "url": "https://thehackernews.com/2026/05/one-click-total-shutdown-patient-zero.html"
@@ -37,14 +47,14 @@
             "url": "https://thehackernews.com/2026/05/threatsday-bulletin-edge-plaintext.html"
         },
         {
-            "title": "Day Zero Readiness: The Operational Gaps That Break Incident Response",
-            "description": "[FEEDS.FEEDBURNER.COM] Having an incident response retainer, or even a pre-approved external incident response firm, is not the same as being ready for an incident. A retainer means someone will answer the phone....",
-            "url": "https://thehackernews.com/2026/05/day-zero-readiness-operational-gaps.html"
+            "title": "New PCPJack worm steals credentials, cleans TeamPCP infections",
+            "description": "[BLEEPINGCOMPUTER.COM] A new malware framework called PCPJack is stealing credentials from exposed cloud infrastructure while actively removing TeamPCP's access to the systems. [...]",
+            "url": "https://www.bleepingcomputer.com/news/security/new-pcpjack-worm-steals-credentials-cleans-teampcp-infections/"
         },
         {
-            "title": "PyPI Packages Deliver ZiChatBot Malware via Zulip APIs on Windows and Linux",
-            "description": "[FEEDS.FEEDBURNER.COM] Cybersecurity researchers have discovered three packages on the Python Package Index (PyPI) repository that are designed to stealthily deliver a previously unknown malware family...",
-            "url": "https://thehackernews.com/2026/05/pypi-packages-deliver-zichatbot-malware.html"
+            "title": "Australia warns of ClickFix attacks pushing Vidar Stealer malware",
+            "description": "[BLEEPINGCOMPUTER.COM] The Australian Cyber Security Center (ACSC) is warning organizations of an ongoing malware campaign using the ClickFix social engineering technique to distribute the Vidar Stealer info-stealing...",
+            "url": "https://www.bleepingcomputer.com/news/security/australia-warns-of-clickfix-attacks-pushing-vidar-stealer-malware/"
         },
         {
             "title": "Ivanti warns of new EPMM flaw exploited in zero-day attacks",
@@ -62,19 +72,14 @@
             "url": "https://www.bleepingcomputer.com/news/security/americans-sentenced-for-running-laptop-farms-for-north-korea/"
         },
         {
-            "title": "Crypto gang member gets 6.5 years for role in $230 million heist",
-            "description": "[BLEEPINGCOMPUTER.COM] A 20-year-old California man was sentenced to 78 months in prison for serving as a home invader and money launderer in a criminal ring that stole over $250 million in cryptocurrency. [...]",
-            "url": "https://www.bleepingcomputer.com/news/security/crypto-gang-member-gets-65-years-for-role-in-230-million-heist/"
-        },
-        {
-            "title": "Webinar: Why modern attacks require both security and recovery",
-            "description": "[BLEEPINGCOMPUTER.COM] Modern attacks don't stop at initial compromise. This webinar explores why security and recovery must work together to reduce downtime and improve resilience. [...]",
-            "url": "https://www.bleepingcomputer.com/news/security/webinar-why-modern-attacks-require-both-security-and-recovery/"
-        },
-        {
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
             "description": "[CISA.GOV] CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-31431 Linux Kernel Incorrect Resource Transfer Between...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/05/01/cisa-adds-one-known-exploited-vulnerability-catalog"
+        },
+        {
+            "title": "AI Alert: Cybersecurity Concerns Raised by New Model",
+            "description": "[DEVDISCOURSE] India's Financial Services Secretary has indicated that Anthropic's new AI model has amplified global cybersecurity concerns. This development has caught the attention of banking regulators...",
+            "url": "https://www.devdiscourse.com/article/headlines/3899577-ai-alert-cybersecurity-concerns-raised-by-new-model"
         },
         {
             "title": "Australian schools, universities left scrambling after personal data of students compromised in massive breach",
@@ -120,11 +125,6 @@
             "title": "Inspira Enterprise expands its Security Copilot Agent Portfolio: Now Live with Two Agents on the Microsoft Security Store",
             "description": "[PR NEWSWIRE UK] /PRNewswire/ -- Inspira Enterprise, a global leader in cybersecurity, data, and AI solutions, digital resilience, and platform-driven transformation, today...",
             "url": "https://www.prnewswire.co.uk/news-releases/inspira-enterprise-expands-its-security-copilot-agent-portfolio-now-live-with-two-agents-on-the-microsoft-security-store-302764224.html"
-        },
-        {
-            "title": "CNA Explains: What is frontier AI and how Anthropic's Mythos is reshaping cybersecurity",
-            "description": "[CNA] Anthropic\u2019s Mythos AI model has demonstrated advanced capabilities in coding and system analysis, raising fears over how such tools could be misused.",
-            "url": "https://www.channelnewsasia.com/world/frontier-ai-anthropic-mythos-cybersecurity-risks-cna-explains-6103406"
         }
     ]
 }
