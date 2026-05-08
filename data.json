@@ -1,5 +1,5 @@
 {
-    "updated": "2026-05-08 09:05:58 UTC",
+    "updated": "2026-05-08 11:02:56 UTC",
     "news": [
         {
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
@@ -32,16 +32,6 @@
             "url": "https://thehackernews.com/2026/05/pcpjack-credential-stealer-exploits-5.html"
         },
         {
-            "title": "One Click, Total Shutdown: The \"Patient Zero\" Webinar on Killing Stealth Breaches",
-            "description": "[FEEDS.FEEDBURNER.COM] The hardest part of cybersecurity isn't the technology, it\u2019s the people. Every major breach you\u2019ve read about lately usually starts the same way: one employee, one clever email, and one \"Patient...",
-            "url": "https://thehackernews.com/2026/05/one-click-total-shutdown-patient-zero.html"
-        },
-        {
-            "title": "PAN-OS RCE Exploit Under Active Use Enabling Root Access and Espionage",
-            "description": "[FEEDS.FEEDBURNER.COM] Palo Alto Networks has disclosed that threat actors may have attempted to unsuccessfully exploit a recently disclosed critical security flaw as early as April 9, 2026. The vulnerability in question...",
-            "url": "https://thehackernews.com/2026/05/pan-os-rce-exploit-under-active-use.html"
-        },
-        {
             "title": "Canvas login portals hacked in mass ShinyHunters extortion campaign",
             "description": "[BLEEPINGCOMPUTER.COM] The ShinyHunters extortion gang has breached education technology giant Instructure again, this time exploiting another vulnerability to deface Canvas login portals for hundreds of colleges and...",
             "url": "https://www.bleepingcomputer.com/news/security/canvas-login-portals-hacked-in-mass-shinyhunters-extortion-campaign/"
@@ -52,14 +42,24 @@
             "url": "https://www.bleepingcomputer.com/news/security/new-tclbanker-malware-self-spreads-over-whatsapp-and-outlook/"
         },
         {
-            "title": "New PCPJack worm steals credentials, cleans TeamPCP infections",
-            "description": "[BLEEPINGCOMPUTER.COM] A new malware framework called PCPJack is stealing credentials from exposed cloud infrastructure while actively removing TeamPCP's access to the systems. [...]",
-            "url": "https://www.bleepingcomputer.com/news/security/new-pcpjack-worm-steals-credentials-cleans-teampcp-infections/"
+            "title": "One Missed Threat Per Week: What 25M Alerts Reveal About Low-Severity Risk",
+            "description": "[FEEDS.FEEDBURNER.COM] The dark secret of enterprise security operations is that defenders have quietly institutionalized the practice of not looking. This is not just anecdotal, but rather backed by a recent report...",
+            "url": "https://thehackernews.com/2026/05/one-missed-threat-per-week-what-25m.html"
+        },
+        {
+            "title": "New Linux PamDOORa Backdoor Uses PAM Modules to Steal SSH Credentials",
+            "description": "[FEEDS.FEEDBURNER.COM] Cybersecurity researchers have disclosed details of a new Linux backdoor named PamDOORa that's being advertised on the Rehub Russian cybercrime forum for $1,600 by a threat actor called \"darkworm.\"...",
+            "url": "https://thehackernews.com/2026/05/new-linux-pamdoora-backdoor-uses-pam.html"
         },
         {
             "title": "Linux Kernel Dirty Frag LPE Exploit Enables Root Access Across Major Distributions",
             "description": "[FEEDS.FEEDBURNER.COM] Details have emerged about a new, unpatched local privilege escalation (LPE) vulnerability impacting the Linux kernel. Dubbed Dirty Frag, it has been described as a successor to Copy Fail...",
             "url": "https://thehackernews.com/2026/05/linux-kernel-dirty-frag-lpe-exploit.html"
+        },
+        {
+            "title": "Zara data breach exposed personal information of 197,000 people",
+            "description": "[BLEEPINGCOMPUTER.COM] Hackers who gained access to the databases of Spanish fast-fashion retailer Zara stole data belonging to more than 197,000 customers, according to data breach notification service Have I Been Pwned....",
+            "url": "https://www.bleepingcomputer.com/news/security/zara-data-breach-exposed-personal-information-of-197-000-people/"
         },
         {
             "title": "Former govt contractor convicted for wiping dozens of federal databases",
@@ -77,6 +77,41 @@
             "url": "https://www.cisa.gov/news-events/alerts/2026/05/01/cisa-adds-one-known-exploited-vulnerability-catalog"
         },
         {
+            "title": "Canvas Has Been Hacked, and Is Being Held for Ransom",
+            "description": "[LIFEHACKER] Canvas parent company Instructure is facing a massive ransomware threat from ShinyHunters. Here is what we know about the outage, the data breach, and how to secure your student account.",
+            "url": "https://lifehacker.com/tech/canvas-hack-shuts-down-college-computers-across-nation"
+        },
+        {
+            "title": "Cyberattack locks Virginia Tech students out of Canvas",
+            "description": "[ROANOKE TIMES] The hacking group ShinyHunters targeted a coursework website used by colleges in a cybersecurity breach threatening to leak data from thousands of schools, including Virginia Tech, unless a ransom is",
+            "url": "https://roanoke.com/news/local/education/higher-education/virginia-tech/article_30ed4865-790d-4480-8285-45bf313a7ec9.html"
+        },
+        {
+            "title": "OpenAI rolls out new GPT-5.5-Cyber to vetted cybersecurity teams",
+            "description": "[CNBC] OpenAI said GPT-5.5-Cyber, a variation of its latest AI model, is rolling out in a limited preview capacity to vetted cybersecurity teams.",
+            "url": "https://www.cnbc.com/2026/05/07/openai-rolls-out-new-gpt-5point5-cyber-to-vetted-cybersecurity-teams.html"
+        },
+        {
+            "title": "OpenAI rolls out advanced AI cyber model to challenge Anthropic\u2019s Mythos",
+            "description": "[POLITICO] GPT-5.5-Cyber scales up the latest model released by OpenAI two weeks ago and will only be available initially to vetted cybersecurity professionals.",
+            "url": "https://www.politico.com/news/2026/05/07/openai-chatgpt-cyber-ai-model-00910704"
+        },
+        {
+            "title": "Cybercriminal group reportedly breaches Canvas, exposing student information",
+            "description": "[WIS10] A ransomware group has claimed to have breached the learning management system Canvas, possibly exposing millions of personal information of students, teachers and staff across the country.",
+            "url": "https://www.wistv.com/2026/05/07/cybercriminal-group-reportedly-breaches-canvas-exposing-student-information/"
+        },
+        {
+            "title": "Cybercriminal group reportedly breaches Canvas, exposing student information",
+            "description": "[LIVE 5 NEWS WCSC] A ransomware group has claimed to have breached the learning management system Canvas, possibly exposing millions of personal information of students, teachers and staff across the country.",
+            "url": "https://www.live5news.com/2026/05/07/cybercriminal-group-reportedly-breaches-canvas-exposing-student-information/"
+        },
+        {
+            "title": "Cybercriminal group reportedly breaches Canvas, exposing student information",
+            "description": "[WEAU] A ransomware group has claimed to have breached the learning management system Canvas, possibly exposing millions of personal information of students, teachers and staff across the country.",
+            "url": "https://www.weau.com/2026/05/07/cybercriminal-group-reportedly-breaches-canvas-exposing-student-information/"
+        },
+        {
             "title": "Land O\u2019Lakes ransomware negotiator admits to working with cybercriminals to extort victims",
             "description": "[WEAU] A man who once worked as a ransomware negotiator for Land O\u2019Lakes pleaded guilty to conspiring to commit ransomware attacks against various companies in the United States.",
             "url": "https://www.weau.com/2026/05/07/land-olakes-ransomware-negotiator-admits-working-with-cybercriminals-extort-victims/"
@@ -90,41 +125,6 @@
             "title": "Land O\u2019Lakes ransomware negotiator admits to working with cybercriminals to extort victims",
             "description": "[LIVE 5 NEWS WCSC] A man who once worked as a ransomware negotiator for Land O\u2019Lakes pleaded guilty to conspiring to commit ransomware attacks against various companies in the United States.",
             "url": "https://www.live5news.com/2026/05/07/land-olakes-ransomware-negotiator-admits-working-with-cybercriminals-extort-victims/"
-        },
-        {
-            "title": "IMF Warns AI Will Supercharge Cyberattacks on Global Financial System",
-            "description": "[DECRYPT] The IMF called for treating cybersecurity as a core stability issue as new AI tools let even unskilled attackers breach critical infrastructure.",
-            "url": "https://decrypt.co/367178/imf-warns-ai-supercharge-cyberattacks-global-financial-system"
-        },
-        {
-            "title": "California tech company Cloudflare to lay off more than 1,000 workers, cites AI",
-            "description": "[SPOKANE SPOKESMAN-REVIEW] Cloudflare is laying off 20% of its staff, the latest technology company to announce big cuts as it uses more artificial intelligence-powered tools. The San Francisco web performance and...",
-            "url": "https://www.spokesman.com/stories/2026/may/07/california-tech-company-cloudflare-to-lay-off-more/"
-        },
-        {
-            "title": "Snowflake Stock Rallies On Datadog, Fortinet's Strong Q1 Results",
-            "description": "[BENZINGA] Snowflake shares are jumping Thursday as investors pile into cloud and cybersecurity names following upbeat results from Datadog and Fortinet.",
-            "url": "https://www.benzinga.com/trading-ideas/movers/26/05/52383122/snowflake-stock-rallies-on-datadog-fortinets-strong-q1-results"
-        },
-        {
-            "title": "CrowdStrike Stock Gains On New AI Cybersecurity Push, Partner App Launch",
-            "description": "[BENZINGA] CrowdStrike shares rose after the company unveiled new AI cybersecurity initiatives, launched its Jet partner app.",
-            "url": "https://www.benzinga.com/trading-ideas/movers/26/05/52382626/crowdstrike-stock-gains-on-new-ai-cybersecurity-push-partner-app-launch"
-        },
-        {
-            "title": "Airtel Business launches Secure Workforce zero trust cybersecurity platform for enterprises",
-            "description": "[THE HINDU BUSINESS LINE] Airtel Business launches Secure Workforce, India\u2019s first unified zero trust security platform, offering enterprise protection and up to 30% cost savings.",
-            "url": "https://www.thehindubusinessline.com/info-tech/airtel-business-launches-indias-first-unified-zero-trust-security-platform/article70952515.ece"
-        },
-        {
-            "title": "CrowdStrike Selects Presidio for 2026 Americas Specialized Solutions Partner of the Year",
-            "description": "[THE MANILA TIMES] AUSTIN, Texas and MIAMI, May 07, 2026 (GLOBE NEWSWIRE) -- AMER Partner Symposium -- Presidio, a leading global technology services and solutions provider, today announced that it has been named the...",
-            "url": "https://www.manilatimes.net/2026/05/08/tmt-newswire/globenewswire/crowdstrike-selects-presidio-for-2026-americas-specialized-solutions-partner-of-the-year/2338783"
-        },
-        {
-            "title": "FatPipe Networks: Buy Rating of FatPipe Inc., at $8.00 Price Target Reiterated by Jason Kolbert, Head of Equity Research at D. Boral Capital",
-            "description": "[FINANZNACHRICHTEN] SALT LAKE CITY, UT / ACCESS Newswire / May 7, 2026 / FatPipe, Inc., a multiple patents holder and pioneer in secure software-defined wide area networking (SD-WAN) and cybersecurity solutions, today...",
-            "url": "https://www.finanznachrichten.de/nachrichten-2026-05/68428537-fatpipe-networks-buy-rating-of-fatpipe-inc-at-dollar-8-00-price-target-reiterated-by-jason-kolbert-head-of-equity-research-at-d-boral-capital-200.htm"
         }
     ]
 }
