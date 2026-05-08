@@ -1,5 +1,5 @@
 {
-    "updated": "2026-05-08 15:13:30 UTC",
+    "updated": "2026-05-08 17:02:32 UTC",
     "news": [
         {
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
@@ -22,6 +22,11 @@
             "url": "https://www.cisa.gov/news-events/alerts/2026/05/07/cisa-adds-one-known-exploited-vulnerability-catalog"
         },
         {
+            "title": "Fake Call History Apps Stole Payments From Users After 7.3 Million Play Store Downloads",
+            "description": "[FEEDS.FEEDBURNER.COM] Cybersecurity researchers have discovered fraudulent apps on the official Google Play Store for Android that falsely claimed to offer access to call histories for any phone number, only to trick...",
+            "url": "https://thehackernews.com/2026/05/fake-call-history-apps-stole-payments.html"
+        },
+        {
             "title": "One Click, Total Shutdown: The \"Patient Zero\" Webinar on Killing Stealth Breaches",
             "description": "[FEEDS.FEEDBURNER.COM] The hardest part of cybersecurity isn't the technology, it\u2019s the people. Every major breach you\u2019ve read about lately usually starts the same way: one employee, one clever email, and one \"Patient...",
             "url": "https://thehackernews.com/2026/05/one-click-total-shutdown-patient-zero.html"
@@ -42,9 +47,9 @@
             "url": "https://thehackernews.com/2026/05/new-linux-pamdoora-backdoor-uses-pam.html"
         },
         {
-            "title": "Linux Kernel Dirty Frag LPE Exploit Enables Root Access Across Major Distributions",
-            "description": "[FEEDS.FEEDBURNER.COM] Details have emerged about a new, unpatched local privilege escalation (LPE) vulnerability impacting the Linux kernel. Dubbed Dirty Frag, it has been described as a successor to Copy Fail...",
-            "url": "https://thehackernews.com/2026/05/linux-kernel-dirty-frag-lpe-exploit.html"
+            "title": "NVIDIA confirms GeForce NOW data breach affecting Armenian users",
+            "description": "[BLEEPINGCOMPUTER.COM] NVIDIA has confirmed in a statement for BleepingComputer that GeForce NOW user information has been exposed in a data breach. [...]",
+            "url": "https://www.bleepingcomputer.com/news/security/nvidia-confirms-geforce-now-data-breach-affecting-armenian-users/"
         },
         {
             "title": "Why More Analysts Won\u2019t Solve Your SOC\u2019s Alert Problem",
@@ -67,14 +72,49 @@
             "url": "https://www.bleepingcomputer.com/news/security/zara-data-breach-exposed-personal-information-of-197-000-people/"
         },
         {
-            "title": "Former govt contractor convicted for wiping dozens of federal databases",
-            "description": "[BLEEPINGCOMPUTER.COM] A 34-year-old Virginia man was found guilty of conspiring to destroy dozens of government databases after getting fired from his job as a federal contractor. [...]",
-            "url": "https://www.bleepingcomputer.com/news/security/former-govt-contractor-convicted-for-wiping-dozens-of-federal-databases/"
-        },
-        {
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
             "description": "[CISA.GOV] CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-31431 Linux Kernel Incorrect Resource Transfer Between...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/05/01/cisa-adds-one-known-exploited-vulnerability-catalog"
+        },
+        {
+            "title": "Google, Microsoft and xAI agree to US government AI testing programme",
+            "description": "[EURONEWS] The US Centre for AI Standards and Innovation will evaluate models for cybersecurity, biosecurity and chemical weapons-related risks before they are released to the public.\u200b",
+            "url": "https://www.euronews.com/next/2026/05/08/tech-giants-agree-to-us-government-ai-testing"
+        },
+        {
+            "title": "Universities around the world scramble after cyberattack disrupts student portals",
+            "description": "[THE ECONOMIC TIMES] A significant cyberattack on the Canvas learning platform has disrupted academic operations at numerous universities across the US, Australia, and Europe. Institutions like Stanford and Yale reported...",
+            "url": "https://economictimes.indiatimes.com/nri/study/universities-around-the-world-scramble-after-cyberattack-disrupts-student-portals/articleshow/130948723.cms"
+        },
+        {
+            "title": "\u2018Canvas is now available for most users\u2019: Instructure places the learning platform in maintenance mode after outage disrupts schools nationwide",
+            "description": "[THE ECONOMIC TIMES] Canvas service update: Instructure, the developer of the Canvas learning platform, has placed it into maintenance mode following a cybersecurity incident that disrupted access for numerous schools...",
+            "url": "https://economictimes.indiatimes.com/us/news/canvas-is-now-available-for-most-users-instructure-places-the-learning-platform-in-maintenance-mode-after-outage-disrupts-schools-nationwide/articleshow/130948343.cms"
+        },
+        {
+            "title": "Colleges around the world report web outages after vendor hack",
+            "description": "[THE HINDU BUSINESS LINE] Instructure Inc., which runs the Canvas online learning portal, first disclosed \u201ca cybersecurity incident perpetrated by a criminal threat actor\u201d on May 1, according to a post on the company\u2019s website",
+            "url": "https://www.thehindubusinessline.com/info-tech/colleges-around-the-world-report-web-outages-after-vendor-hack/article70953846.ece"
+        },
+        {
+            "title": "Cloudflare to cut about 20% workforce as AI adoption reshapes operations",
+            "description": "[RAPPLER] Internet infrastructure and cybersecurity company Cloudflare plans to cut more than 1,100 jobs globally",
+            "url": "https://www.rappler.com/technology/cloudflare-job-cuts-ai-adoption-reshapes-operations/"
+        },
+        {
+            "title": "Cloudflare Layoffs: Cybersecurity Firm Cuts Over 1,100 Jobs as AI Reshapes Operations",
+            "description": "[TIMES NOW] The affected employees will receive severance packages that include full base pay through the end of 2026., Companies, Times Now",
+            "url": "https://www.timesnownews.com/business-economy/companies/cloudflare-layoffs-cybersecurity-firm-cuts-over-1100-jobs-as-ai-reshapes-operations-article-154273191"
+        },
+        {
+            "title": "OpenAI introduces GPT-5.5-Cyber, Sam Altman stresses the need to secure companies quickly",
+            "description": "[FIRSTPOST] OpenAI has finally unveiled GPT-5.5-Cyber, a specialised version of its latest AI model aimed at vetted cybersecurity teams. The limited preview focuses on helping organisations detect...",
+            "url": "https://www.firstpost.com/tech/openai-introduces-gpt-5-5-cyber-sam-altman-stresses-the-need-to-secure-companies-quickly-14008810.html"
+        },
+        {
+            "title": "Australia regulator calls for urgent cybersecurity action to counter Mythos",
+            "description": "[THE ECONOMIC TIMES] Australia's corporate regulator warns financial firms about new cyber threats from advanced AI systems. These powerful AI models can find security weaknesses quickly. Regulators stress the need for...",
+            "url": "https://economictimes.indiatimes.com/tech/technology/australia-regulator-calls-for-urgent-cybersecurity-action-to-counter-mythos/articleshow/130946561.cms"
         },
         {
             "title": "U.S. military runs Bitcoin node, sees crypto as power projection versus China",
@@ -82,49 +122,9 @@
             "url": "https://www.activistpost.com/u-s-military-runs-bitcoin-node-sees-crypto-as-power-projection-versus-china/"
         },
         {
-            "title": "UPDATE 3-Cloudflare to cut about 20% workforce as AI adoption reshapes operations",
-            "description": "[DEVDISCOURSE] Cloudflare said on Thursday it would cut about 20% of its workforce as the company restructures operations around the rapid adoption of artificial intelligence tools, and \u200cforecast second-quarter...",
-            "url": "https://www.devdiscourse.com/article/technology/3900733-update-3-cloudflare-to-cut-about-20-workforce-as-ai-adoption-reshapes-operations"
-        },
-        {
-            "title": "U of T affected by Canvas \u2018cybersecurity incident\u2019",
-            "description": "[CP24 TORONTO] The University of Toronto says its online learning system is unavailable until further notice due to a \u201ccybersecurity incident\u201d that is affecting multiple schools in North America.",
-            "url": "https://www.cp24.com/local/toronto/2026/05/08/u-of-t-impacted-by-canvas-cybersecurity-incident/"
-        },
-        {
-            "title": "Canvas hack impacts Cincinnati-area schools",
-            "description": "[CINCINNATI CINCINNATI ENQUIRER] A cybersecurity breach has targeted Canvas, a learning management system used by schools nationwide. The breach is impacting NKU, UC and OSU.",
-            "url": "https://www.cincinnati.com/story/news/2026/05/07/canvas-hack-impacts-cincinnati-area-schools/89985924007/"
-        },
-        {
-            "title": "Havard, Columbia among schools reporting online cyber outage",
-            "description": "[THE BOSTON GLOBE] Universities across the US reported widespread outages on Thursday after a cybersecurity incident affected the Canvas online learning platform used by colleges nationwide.",
-            "url": "https://www.bostonglobe.com/2026/05/07/business/harvard-canvas-cyber-attack/"
-        },
-        {
-            "title": "Australia regulator calls for urgent cybersecurity action to counter Mythos",
-            "description": "[REUTERS] Australia's corporate regulator has urged the country's financial sector to take urgent action on tackling potential cyber \u200brisks from frontier AI systems such as Mythos.",
-            "url": "https://www.reuters.com/world/australia-regulator-calls-urgent-cybersecurity-action-counter-mythos-2026-05-08/"
-        },
-        {
-            "title": "Australia regulator calls for urgent cybersecurity action to counter Mythos",
-            "description": "[MARKETSCREENER] Australia's corporate regulator has urged the country's financial sector to take urgent action on tackling potential cyber risks from frontier AI systems such as Mythos. The Australian...",
-            "url": "https://www.marketscreener.com/news/australia-regulator-calls-for-urgent-cybersecurity-action-to-counter-mythos-ce7f5bdadf8afe22"
-        },
-        {
-            "title": "Canvas outage tied to hacking incident",
-            "description": "[AKRON BEACON JOURNAL] A cybersecurity hack has made Canvas unavailable for Ohio State and Kent State students. A hacker group is demanding a ransom.",
-            "url": "https://www.beaconjournal.com/story/news/local/2026/05/07/canvas-hack-incident-maintenance/89985358007/"
-        },
-        {
-            "title": "Massive Canvas data breach impacting several schools across Southern California",
-            "description": "[KABC-TV] Several Southern California schools have been impacted by a massive cybersecurity breach involving education software Canvas.",
-            "url": "https://abc7.com/post/massive-canvas-data-breach-impacting-several-schools-southern-california/19060128/"
-        },
-        {
-            "title": "Canvas outage hits students at multiple universities during finals",
-            "description": "[FOX NEWS] Canvas, the learning platform used by thousands of U.S. colleges, experienced a major outage during finals week amid an alleged cybersecurity incident affecting multiple institutions.",
-            "url": "https://www.foxnews.com/us/hackers-threaten-leak-data-275m-users-breaching-major-college-platform-used-nationwide"
+            "title": "U.S. Admiral Highlights Bitcoin\u2019s Cybersecurity Applications in Senate Testimony",
+            "description": "[ACTIVIST POST] Admiral Samuel Paparo discusses the Bitcoin cybersecurity role during a Senate hearing, highlighting its importance for national security.",
+            "url": "https://www.activistpost.com/u-s-admiral-highlights-bitcoins-cybersecurity-applications-in-senate-testimony/"
         }
     ]
 }
