@@ -1,5 +1,5 @@
 {
-    "updated": "2026-05-11 21:10:34 UTC",
+    "updated": "2026-05-11 22:45:06 UTC",
     "news": [
         {
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
@@ -32,9 +32,24 @@
             "url": "https://thehackernews.com/2026/05/hackers-used-ai-to-develop-first-known.html"
         },
         {
+            "title": "GM agrees to $12.75M California settlement over sale of drivers\u2019 data",
+            "description": "[BLEEPINGCOMPUTER.COM] California Attorney General Rob Bonta announced a proposed $12.75 million settlement agreement with General Motors (GM) over allegations that the company violated the California Consumer Privacy Act...",
+            "url": "https://www.bleepingcomputer.com/news/legal/gm-agrees-to-1275m-california-settlement-over-sale-of-drivers-data/"
+        },
+        {
             "title": "\u26a1 Weekly Recap: Linux Rootkit, macOS Crypto Stealer, WebSocket Skimmers and More",
             "description": "[FEEDS.FEEDBURNER.COM] Rough Monday. Somebody poisoned a trusted download again, somebody else turned cloud servers into public housing, and a few crews are still getting into boxes with bugs that should\u2019ve died years ago...",
             "url": "https://thehackernews.com/2026/05/weekly-recap-linux-rootkit-macos-crypto.html"
+        },
+        {
+            "title": "Official CheckMarx Jenkins package compromised with infostealer",
+            "description": "[BLEEPINGCOMPUTER.COM] Checkmarx warned over the weekend that a rogue version of its Jenkins Application Security Testing (AST) plugin had been published on the Jenkins Marketplace. [...]",
+            "url": "https://www.bleepingcomputer.com/news/security/official-checkmarx-jenkins-package-compromised-with-infostealer/"
+        },
+        {
+            "title": "New GhostLock tool abuses Windows API to block file access",
+            "description": "[BLEEPINGCOMPUTER.COM] A security researcher has released a proof-of-concept tool named GhostLock that demonstrates how a legitimate Windows file API can be abused in attacks to block access to files stored locally or on...",
+            "url": "https://www.bleepingcomputer.com/news/security/new-ghostlock-tool-abuses-windows-api-to-block-file-access/"
         },
         {
             "title": "Your Purple Team Isn't Purple \u2014 It's Just Red and Blue in the Same Room",
@@ -52,21 +67,6 @@
             "url": "https://www.bleepingcomputer.com/news/security/why-changing-passwords-doesnt-end-an-active-directory-breach/"
         },
         {
-            "title": "Google: Hackers used AI to develop zero-day exploit for web admin tool",
-            "description": "[BLEEPINGCOMPUTER.COM] Researchers at Google Threat Intelligence Group (GTIG) say that a zero-day exploit targeting a popular open-source web administration tool was likely generated using AI. [...]",
-            "url": "https://www.bleepingcomputer.com/news/security/google-hackers-used-ai-to-develop-zero-day-exploit-for-web-admin-tool/"
-        },
-        {
-            "title": "Webinar this week: Prevention alone is not enough against modern attacks",
-            "description": "[BLEEPINGCOMPUTER.COM] This upcoming webinar explores how organizations need to combine security, backups, and recovery planning to reduce the impact of modern cyberattacks. [...]",
-            "url": "https://www.bleepingcomputer.com/news/security/webinar-this-week-prevention-alone-is-not-enough-against-modern-attacks/"
-        },
-        {
-            "title": "TrickMo Android banker adopts TON blockchain for covert comms",
-            "description": "[BLEEPINGCOMPUTER.COM] A new variant of the TrickMo Android banking malware, delivered in campaigns targeting users across Europe, introduces new commands and uses The Open Network (TON) for stealthy command-and-control...",
-            "url": "https://www.bleepingcomputer.com/news/security/trickmo-android-banker-adopts-ton-blockchain-for-covert-comms/"
-        },
-        {
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
             "description": "[CISA.GOV] CISA has added&nbsp;one&nbsp;new vulnerability&nbsp;to its&nbsp;Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation....",
             "url": "https://www.cisa.gov/news-events/alerts/2026/05/08/cisa-adds-one-known-exploited-vulnerability-catalog"
@@ -75,6 +75,16 @@
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
             "description": "[CISA.GOV] CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-31431 Linux Kernel Incorrect Resource Transfer Between...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/05/01/cisa-adds-one-known-exploited-vulnerability-catalog"
+        },
+        {
+            "title": "AnySearch Launches as Search Infrastructure Built for AI Agents",
+            "description": "[DEVDISCOURSE] But AI agents need far more than webpages - they require secure, reliable, structured, and real-time information that can support reliable reasoning and execution. To address this challenge,...",
+            "url": "https://www.devdiscourse.com/article/technology/3903782-anysearch-launches-as-search-infrastructure-built-for-ai-agents"
+        },
+        {
+            "title": "Exclusive: Index Ventures backs Frame\u2019s $50 million bet that employees are cybersecurity\u2019s weakness",
+            "description": "[FORTUNE] The startup uses AI-generated simulations to train employees against the fast-growing wave of deepfake and impersonation attacks targeting enterprises.",
+            "url": "https://fortune.com/2026/05/11/exclusive-frame-index-ventures-phishing-deepfakes-cyber-security/"
         },
         {
             "title": "Claude Mythos Vs GPT 5.5 Cyber: Core Difference Between OpenAI And Anthropic's Cybersecurity AI Models",
@@ -115,16 +125,6 @@
             "title": "From BBM to Threema: How messaging apps fuel JK terror networks",
             "description": "[THE ECONOMIC TIMES] Terrorists in Jammu and Kashmir are using encrypted apps for communication. Interrogation of a Lashkar-e-Taiba operative revealed the use of BBM, Element, Threema, and Dust. These apps bypass...",
             "url": "https://economictimes.indiatimes.com/news/india/from-bbm-to-threema-how-messaging-apps-fuel-jk-terror-networks/articleshow/130990392.cms"
-        },
-        {
-            "title": "Beware, OpenAI: China Is Building World\u2019s Fastest-Growing AI Cybersecurity Powerhouse",
-            "description": "[SPUTNIK NEWS] Backed by double\u2011digit market growth and the State Council's Artificial Intelligence+ action plan, China\u2019s AI security models are evolving at breakneck speed.",
-            "url": "https://sputnikglobe.com/20260510/beware-openai-china-is-building-worlds-fastest-growing-ai-cybersecurity-powerhouse-1124107005.html"
-        },
-        {
-            "title": "Why India Wants Mythos AI Hosted Locally Amid Rising Global Fear| Explained",
-            "description": "[TIMES NOW] India is pushing for sovereign hosting of Anthropic\u2019s AI amid fears over Mythos\u2019 powerful vulnerability-finding abilities and rising cybersecurity risks., Technology & Science, Times Now",
-            "url": "https://www.timesnownews.com/technology-science/why-india-wants-mythos-ai-hosted-locally-amid-rising-global-fear-explained-article-154286870"
         }
     ]
 }
