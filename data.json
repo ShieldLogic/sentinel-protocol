@@ -1,10 +1,20 @@
 {
-    "updated": "2026-05-12 16:14:19 UTC",
+    "updated": "2026-05-12 19:28:01 UTC",
     "news": [
         {
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
             "description": "[CISA.GOV] CISA has added one new vulnerability to its&nbsp;Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation.&nbsp; CVE-2026-0300&nbsp;Palo Alto Networks PAN-OS...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/05/06/cisa-adds-one-known-exploited-vulnerability-catalog"
+        },
+        {
+            "title": "New Exim BDAT Vulnerability Exposes GnuTLS Builds to Potential Code Execution",
+            "description": "[FEEDS.FEEDBURNER.COM] Exim has released security updates to address a severe security issue affecting certain configurations that could enable memory corruption and potential code execution. Exim is an open-source Mail...",
+            "url": "https://thehackernews.com/2026/05/new-exim-bdat-vulnerability-exposes.html"
+        },
+        {
+            "title": "RubyGems Suspends New Signups After Hundreds of Malicious Packages Are Uploaded",
+            "description": "[FEEDS.FEEDBURNER.COM] RubyGems, the standard package manager for the Ruby programming language, has temporarily paused account sign ups following what has been described as a \"major malicious attack.\" \"We're dealing with...",
+            "url": "https://thehackernews.com/2026/05/rubygems-suspends-new-signups-after.html"
         },
         {
             "title": "New TrickMo Variant Uses TON C2 and SOCKS5 to Create Android Network Pivots",
@@ -18,33 +28,33 @@
         },
         {
             "title": "Mini Shai-Hulud Worm Compromises TanStack, Mistral AI, Guardrails AI & More Packages",
-            "description": "[FEEDS.FEEDBURNER.COM] TeamPCP, the threat actor behind the recent&nbsp;supply chain attack spree, has been linked to the compromise of the npm and PyPI packages from TanStack, UiPath, Mistral AI, OpenSearch, and...",
+            "description": "[FEEDS.FEEDBURNER.COM] TeamPCP, the threat actor behind the recentsupply chain attack spree, has been linked to the compromise of the npm and PyPI packages from TanStack, UiPath, Mistral AI, OpenSearch, and Guardrails AI...",
             "url": "https://thehackernews.com/2026/05/mini-shai-hulud-worm-compromises.html"
         },
         {
-            "title": "Why Agentic AI Is Security's Next Blind Spot",
-            "description": "[FEEDS.FEEDBURNER.COM] Agentic AI is already running in production environments across many organizations today. It is executing tasks, consuming data, and taking actions \u2014 most likely without meaningful involvement from...",
-            "url": "https://thehackernews.com/2026/05/why-agentic-ai-is-securitys-next-blind.html"
+            "title": "Microsoft releases Windows 10 KB5087544 extended security update",
+            "description": "[BLEEPINGCOMPUTER.COM] Microsoft has released the Windows 10 KB5087544 extended security update to fix the May 2026 Patch Tuesday vulnerabilities and resolve an issue with the new Remote Desktop warnings. [...]",
+            "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5087544-extended-security-update/"
         },
         {
-            "title": "Instructure Reaches Ransom Agreement with ShinyHunters to Stop 3.65TB Canvas Leak",
-            "description": "[FEEDS.FEEDBURNER.COM] American educational technology company Instructure, the parent company of Canvas, said it reached an \"agreement\" with a decentralized cybercrime extortion group after it breached its network and...",
-            "url": "https://thehackernews.com/2026/05/instructure-reaches-ransom-agreement.html"
+            "title": "Fortinet warns of critical RCE flaws in FortiSandbox and FortiAuthenticator",
+            "description": "[BLEEPINGCOMPUTER.COM] Fortinet has released security patches for two critical vulnerabilities in FortiSandbox and FortiAuthenticator that could enable attackers to run commands or arbitrary code. [...]",
+            "url": "https://www.bleepingcomputer.com/news/security/fortinet-warns-of-critical-rce-flaws-in-fortisandbox-and-fortiauthenticator/"
         },
         {
-            "title": "Shai Hulud attack ships signed malicious TanStack, Mistral npm packages",
-            "description": "[BLEEPINGCOMPUTER.COM] Hundreds of packages across npm and PyPI have been compromised in a new Shai-Hulud supply-chain campaign delivering credential-stealing malware targeting developers. [...]",
-            "url": "https://www.bleepingcomputer.com/news/security/shai-hulud-attack-ships-signed-malicious-tanstack-mistral-npm-packages/"
+            "title": "Windows 11 KB5089549 & KB5087420 cumulative updates released",
+            "description": "[BLEEPINGCOMPUTER.COM] Microsoft has released Windows 11 KB5089549 and KB5087420 cumulative updates for versions 25H2/24H2 and 23H2 to fix security vulnerabilities, bugs, and add new features. [...]",
+            "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5089549-and-kb5087420-cumulative-updates-released/"
         },
         {
-            "title": "SAP fixes critical vulnerabilities in Commerce Cloud and S/4HANA",
-            "description": "[BLEEPINGCOMPUTER.COM] SAP has released the May 2026 security updates addressing 15 vulnerabilities across multiple products, including two critical flaws in the Commerce Cloud enterprise-grade e-commerce platform and the...",
-            "url": "https://www.bleepingcomputer.com/news/security/sap-fixes-critical-vulnerabilities-in-commerce-cloud-and-s-4hana/"
+            "title": "Microsoft May 2026 Patch Tuesday fixes 120 flaws, no zero-days",
+            "description": "[BLEEPINGCOMPUTER.COM] Today is Microsoft's May 2026 Patch Tuesday, with security updates for 120 flaws and no zero-days disclosed this month. [...]",
+            "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-may-2026-patch-tuesday-fixes-120-flaws-no-zero-days/"
         },
         {
-            "title": "Instructure reaches 'agreement' with ShinyHunters to stop data leak",
-            "description": "[BLEEPINGCOMPUTER.COM] Instructure, the edtech giant behind the widely popular Canvas learning management system (LMS), has reached an \"agreement\" with the ShinyHunters extortion group to prevent the data stolen in a...",
-            "url": "https://www.bleepingcomputer.com/news/security/instructure-reaches-agreement-with-shinyhunters-to-stop-data-leak/"
+            "title": "\u0160koda warns of customer data breach after online shop hack",
+            "description": "[BLEEPINGCOMPUTER.COM] \u0160koda Auto, a wholly owned subsidiary of the Volkswagen Group, has disclosed a data breach after attackers hacked its online shop and stole the personal information of an undisclosed number of...",
+            "url": "https://www.bleepingcomputer.com/news/security/skoda-warns-of-customer-data-breach-after-online-shop-hack/"
         },
         {
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
@@ -57,16 +67,6 @@
             "url": "https://www.cisa.gov/news-events/alerts/2026/05/07/cisa-adds-one-known-exploited-vulnerability-catalog"
         },
         {
-            "title": "GM agrees to $12.75M California settlement over sale of drivers\u2019 data",
-            "description": "[BLEEPINGCOMPUTER.COM] California Attorney General Rob Bonta announced a proposed $12.75 million settlement agreement with General Motors (GM) over allegations that the company violated the California Consumer Privacy Act...",
-            "url": "https://www.bleepingcomputer.com/news/legal/gm-agrees-to-1275m-california-settlement-over-sale-of-drivers-data/"
-        },
-        {
-            "title": "Official CheckMarx Jenkins package compromised with infostealer",
-            "description": "[BLEEPINGCOMPUTER.COM] Checkmarx warned over the weekend that a rogue version of its Jenkins Application Security Testing (AST) plugin had been published on the Jenkins Marketplace. [...]",
-            "url": "https://www.bleepingcomputer.com/news/security/official-checkmarx-jenkins-package-compromised-with-infostealer/"
-        },
-        {
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
             "description": "[CISA.GOV] CISA has added&nbsp;one&nbsp;new vulnerability&nbsp;to its&nbsp;Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation....",
             "url": "https://www.cisa.gov/news-events/alerts/2026/05/08/cisa-adds-one-known-exploited-vulnerability-catalog"
@@ -77,54 +77,54 @@
             "url": "https://www.cisa.gov/news-events/alerts/2026/05/01/cisa-adds-one-known-exploited-vulnerability-catalog"
         },
         {
-            "title": "OpenAI launches Daybreak to turn AI into a frontline cyber defence platform",
-            "description": "[FIRSTPOST] OpenAI has unveiled Daybreak, a cybersecurity initiative designed to help developers, enterprises and government-linked defenders identify and patch vulnerabilities faster using AI. Built around...",
-            "url": "https://www.firstpost.com/tech/openai-launches-daybreak-to-turn-ai-into-a-frontline-cyber-defence-platform-14010166.html"
+            "title": "SBI Chief Warns Of Risks From Digital Finance Growth",
+            "description": "[OUTLOOK MONEY] Rapid expansion in digital finance and AI-led lending is increasing risks for banks, making stronger governance and cybersecurity systems necessary, the SBI Chairman said",
+            "url": "https://www.outlookmoney.com/banking/sbi-chief-warns-of-risks-from-digital-finance-growth"
         },
         {
-            "title": "OpenAI announces Daybreak, its answer to Claude Mythos",
-            "description": "[INDIA TODAY] OpenAI has launched Daybreak, its most advanced AI initiative for cybersecurity. This move comes just weeks after Anthropic announced Claude Mythos, an AI model that has raised alarms over global...",
-            "url": "https://www.indiatoday.in/technology/news/story/openai-announces-daybreak-its-answer-to-claude-mythos-2910246-2026-05-12"
+            "title": "Some Galaxy S26 models just received a root exploit (and Magisk)",
+            "description": "[ANDROID AUTHORITY] Samsung has locked down its phones in a big way, but a cybersecurity group has apparently gained root access to some Galaxy S26 models.",
+            "url": "https://www.androidauthority.com/samsung-galaxy-s26-root-exploit-3665778/"
         },
         {
-            "title": "Smaller teams, fewer replacements guiding GCC 2.0 ops playbook",
-            "description": "[THE ECONOMIC TIMES] Global Capability Centres in India are starting smaller and using AI to boost output. Companies are no longer replacing every departing employee. This shift prioritizes high-skill talent over large...",
-            "url": "https://economictimes.indiatimes.com/tech/technology/smaller-teams-fewer-replacements-guiding-gcc-2-0-ops-playbook/articleshow/131020009.cms"
+            "title": "India\u2019s digital growth outpaces cybersecurity preparedness: Report",
+            "description": "[LOKMAT TIMES] India\u2019s digital growth outpaces cybersecurity preparedness: Report - New Delhi, May 12 India's rapid digital expansion outpaced its cybersecurity readiness, a report has said, citing a ... Get Latest...",
+            "url": "https://www.lokmattimes.com/business/indias-digital-growth-outpaces-cybersecurity-preparedness-report/"
         },
         {
-            "title": "National Technology Day: Youth innovators turn everyday problems into tech solutions",
-            "description": "[HINDUSTAN TIMES] Entrepreneurs at incubation centre, AKTU, showcase ventures ranging from AI-powered cybersecurity to smart health wearables.",
-            "url": "https://www.hindustantimes.com/cities/lucknow-news/national-technology-day-youth-innovators-turn-everyday-problems-into-tech-solutions-101778525594228.html"
+            "title": "India\u2019s digital growth outpaces cybersecurity preparedness: Report",
+            "description": "[LOKMAT TIMES] India\u2019s digital growth outpaces cybersecurity preparedness: Report - New Delhi, May 12 India's rapid digital expansion outpaced its cybersecurity readiness, a report has said, citing a ... Get Latest...",
+            "url": "https://www.lokmattimes.com/technology/indias-digital-growth-outpaces-cybersecurity-preparedness-report-1/"
         },
         {
-            "title": "OpenAI Launches Daybreak as AI Firms Expand Into Cybersecurity",
-            "description": "[DECRYPT] OpenAI said its new Daybreak initiative uses AI to help companies identify software vulnerabilities and speed up cyber defense.",
-            "url": "https://decrypt.co/367506/openai-launches-daybreak-ai-cybersecurity"
+            "title": "Infosys Launches Dedicated Global Security Operations Center in Australia; Expands Cybersecurity Capabilities across ANZ",
+            "description": "[ITWIRE] Infosys has launched its first dedicated Global Security Operations Center GSOC in Australia, at its North Sydney office. The GSOC will bring together specialist security...",
+            "url": "https://itwire.com/business-it-news/security/infosys-launches-dedicated-global-security-operations-center-in-australia-expands-cybersecurity-capabilities-across-anz"
         },
         {
-            "title": "Students criticise Adelaide University's communication over Canvas cybersecurity breach",
-            "description": "[ABC (AUSTRALIAN BROADCASTING CORPORATION)] Adelaide University says access to the cloud-based learning platform Canvas is back online after a data breach last week, but some students have criticised the institution's communication about the...",
-            "url": "https://www.abc.net.au/news/2026-05-12/adelaide-university-students-canvas-breach/106667722"
+            "title": "Darktrace Commentary on Canvas Ransomware Attack",
+            "description": "[ITWIRE] \"The ransomware attack that is currently underway on the Canvas platform is indicative of the scale of potential impacts that data breaches can have today. Nearly 9,000 schools and",
+            "url": "https://itwire.com/guest-articles/guest-opinion/darktrace-commentary-on-canvas-ransomware-attack"
         },
         {
-            "title": "Google disrupts hackers using AI to exploit an unknown weakness in a company\u2019s digital defense",
-            "description": "[NBC NEWS] Google said Monday that it had disrupted a criminal group\u2019s attempt to use artificial intelligence to exploit another company\u2019s previously unknown digital vulnerability, adding to heightened worries...",
-            "url": "https://www.nbcnews.com/tech/security/google-disrupts-hackers-using-ai-exploit-unknown-weakness-companys-dig-rcna344624"
+            "title": "Thales and ArianeGroup say first firing of new French long-range rocket launcher successful",
+            "description": "[THE STRAITS TIMES] May 12 - Defence and cybersecurity company Thales and ArianeGroup said they had successfully carried out the first firing of a new long-range French rocket launcher, the FLP-t 150, this month. Read...",
+            "url": "https://www.straitstimes.com/world/europe/thales-and-arianegroup-say-first-firing-of-new-french-long-range-rocket-launcher-successful"
         },
         {
-            "title": "Google disrupts hackers using AI to exploit an unknown weakness in a company's digital defense",
-            "description": "[JAPAN TODAY] Google said Monday that it had disrupted a criminal group's attempt to use artificial intelligence to exploit another company's previously unknown digital vulnerability, adding to heightened worries...",
-            "url": "https://japantoday.com/category/tech/google-disrupts-hackers-using-ai-to-exploit-an-unknown-weakness-in-a-company's-digital-defense"
+            "title": "North Korean hackers using AI to find cybersecurity blind spots: Google",
+            "description": "[ZEE NEWS] State-sponsored hackers from North Korea and China have demonstrated significant interest in leveraging artificial intelligence (AI) to detect previously unknown cybersecurity vulnerabilities,...",
+            "url": "https://zeenews.india.com/technology/north-korean-hackers-using-ai-to-find-cybersecurity-blind-spots-google-3046701.html"
         },
         {
-            "title": "Google disrupts hackers using AI to exploit an unknown weakness in a company's digital defense",
-            "description": "[JAPAN TODAY] Google said Monday that it had disrupted a criminal group's attempt to use artificial intelligence to exploit another company's previously unknown digital vulnerability, adding to heightened worries...",
-            "url": "https://japantoday.com/category/tech/google-disrupts-hackers-using-ai-to-exploit-an-unknown-weakness-in-a-company%27s-digital-defense"
+            "title": "North Korean hackers using AI to find cybersecurity blind spots: Google",
+            "description": "[LOKMAT TIMES] North Korean hackers using AI to find cybersecurity blind spots: Google - Seoul, May 12 State-sponsored hackers from North Korea and China have demonstrated \"significant interest\" in leveraging...",
+            "url": "https://www.lokmattimes.com/business/north-korean-hackers-using-ai-to-find-cybersecurity-blind-spots-google/"
         },
         {
-            "title": "Google disrupts hackers using AI to exploit an unknown weakness in a company's digital defense",
-            "description": "[THE PHILADELPHIA INQUIRER] Google said Monday that it had disrupted a criminal group\u2019s attempt to use artificial intelligence to exploit another company\u2019s previously unknown digital vulnerability, adding to heightened worries...",
-            "url": "https://www.inquirer.com/business/google-ai-hackers-cybersecurity-risk-anthropic-mythos-claude-regulation-20260511.html"
+            "title": "North Korean hackers using AI to find cybersecurity blind spots: Google",
+            "description": "[LOKMAT TIMES] North Korean hackers using AI to find cybersecurity blind spots: Google - Seoul, May 12 State-sponsored hackers from North Korea and China have demonstrated \"significant interest\" in leveraging...",
+            "url": "https://www.lokmattimes.com/technology/north-korean-hackers-using-ai-to-find-cybersecurity-blind-spots-google-1/"
         }
     ]
 }
