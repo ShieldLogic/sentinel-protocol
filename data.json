@@ -1,5 +1,5 @@
 {
-    "updated": "2026-05-12 06:31:35 UTC",
+    "updated": "2026-05-12 10:23:50 UTC",
     "news": [
         {
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
@@ -7,9 +7,29 @@
             "url": "https://www.cisa.gov/news-events/alerts/2026/05/06/cisa-adds-one-known-exploited-vulnerability-catalog"
         },
         {
+            "title": "Mini Shai-Hulud Worm Compromises TanStack, Mistral AI, Guardrails AI & More Packages",
+            "description": "[FEEDS.FEEDBURNER.COM] TeamPCP, the threat actor behind the recent&nbsp;supply chain attack spree, has been linked to the compromise of the npm and PyPI packages from TanStack, UiPath, Mistral AI, OpenSearch, and...",
+            "url": "https://thehackernews.com/2026/05/mini-shai-hulud-worm-compromises.html"
+        },
+        {
+            "title": "Instructure Reaches Ransom Agreement with ShinyHunters to Stop 3.65TB Canvas Leak",
+            "description": "[FEEDS.FEEDBURNER.COM] American educational technology company Instructure, the parent company of Canvas, said it reached an \"agreement\" with a decentralized cybercrime extortion group after it breached its network and...",
+            "url": "https://thehackernews.com/2026/05/instructure-reaches-ransom-agreement.html"
+        },
+        {
+            "title": "OpenAI Launches Daybreak for AI-Powered Vulnerability Detection and Patch Validation",
+            "description": "[FEEDS.FEEDBURNER.COM] OpenAI has launched Daybreak, a new cybersecurity initiative that brings together frontier artificial intelligence (AI) model capabilities and Codex Security to help organizations identify and patch...",
+            "url": "https://thehackernews.com/2026/05/openai-launches-daybreak-for-ai-powered.html"
+        },
+        {
             "title": "iOS 26.5 Brings Default End-to-End Encrypted RCS Messaging Between iPhone and Android",
             "description": "[FEEDS.FEEDBURNER.COM] Apple on Monday officially released iOS 26.5 with support for end-to-end encryption (E2EE) to Rich Communication Services (RCS) in beta as part of a \"cross-industry effort\" to replace traditional SMS...",
             "url": "https://thehackernews.com/2026/05/ios-265-brings-default-end-to-end.html"
+        },
+        {
+            "title": "Instructure reaches 'agreement' with ShinyHunters to stop data leak",
+            "description": "[BLEEPINGCOMPUTER.COM] Instructure, the edtech giant behind the widely popular Canvas learning management system (LMS), has reached an \"agreement\" with the ShinyHunters extortion group to prevent the data stolen in a...",
+            "url": "https://www.bleepingcomputer.com/news/security/instructure-reaches-agreement-with-shinyhunters-to-stop-data-leak/"
         },
         {
             "title": "TeamPCP Compromises Checkmarx Jenkins AST Plugin Weeks After KICS Supply Chain Attack",
@@ -27,24 +47,9 @@
             "url": "https://www.cisa.gov/news-events/alerts/2026/05/07/cisa-adds-one-known-exploited-vulnerability-catalog"
         },
         {
-            "title": "cPanel CVE-2026-41940 Under Active Exploitation to Deploy Filemanager Backdoor",
-            "description": "[FEEDS.FEEDBURNER.COM] A threat actor named Mr_Rot13 has been attributed to the exploitation of a recently disclosed critical cPanel flaw to deploy a backdoor codenamed Filemanager on compromised environments. The attack...",
-            "url": "https://thehackernews.com/2026/05/cpanel-cve-2026-41940-under-active.html"
-        },
-        {
-            "title": "Hackers Used AI to Develop First Known Zero-Day 2FA Bypass for Mass Exploitation",
-            "description": "[FEEDS.FEEDBURNER.COM] Google on Monday disclosed that it identified an unknown threat actor using a zero-day exploit that it said was likely developed with an artificial intelligence (AI) system, marking the first time...",
-            "url": "https://thehackernews.com/2026/05/hackers-used-ai-to-develop-first-known.html"
-        },
-        {
             "title": "GM agrees to $12.75M California settlement over sale of drivers\u2019 data",
             "description": "[BLEEPINGCOMPUTER.COM] California Attorney General Rob Bonta announced a proposed $12.75 million settlement agreement with General Motors (GM) over allegations that the company violated the California Consumer Privacy Act...",
             "url": "https://www.bleepingcomputer.com/news/legal/gm-agrees-to-1275m-california-settlement-over-sale-of-drivers-data/"
-        },
-        {
-            "title": "\u26a1 Weekly Recap: Linux Rootkit, macOS Crypto Stealer, WebSocket Skimmers and More",
-            "description": "[FEEDS.FEEDBURNER.COM] Rough Monday. Somebody poisoned a trusted download again, somebody else turned cloud servers into public housing, and a few crews are still getting into boxes with bugs that should\u2019ve died years ago...",
-            "url": "https://thehackernews.com/2026/05/weekly-recap-linux-rootkit-macos-crypto.html"
         },
         {
             "title": "Official CheckMarx Jenkins package compromised with infostealer",
@@ -62,11 +67,6 @@
             "url": "https://www.bleepingcomputer.com/news/security/instructure-confirms-hackers-used-canvas-flaw-to-deface-portals/"
         },
         {
-            "title": "Why Changing Passwords Doesn\u2019t End an Active Directory Breach",
-            "description": "[BLEEPINGCOMPUTER.COM] Resetting a password doesn't always remove attackers from Active Directory. Specops Software explains how cached credentials and Kerberos tickets can keep attackers authenticated after a reset. [...]",
-            "url": "https://www.bleepingcomputer.com/news/security/why-changing-passwords-doesnt-end-an-active-directory-breach/"
-        },
-        {
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
             "description": "[CISA.GOV] CISA has added&nbsp;one&nbsp;new vulnerability&nbsp;to its&nbsp;Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation....",
             "url": "https://www.cisa.gov/news-events/alerts/2026/05/08/cisa-adds-one-known-exploited-vulnerability-catalog"
@@ -75,6 +75,36 @@
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
             "description": "[CISA.GOV] CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-31431 Linux Kernel Incorrect Resource Transfer Between...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/05/01/cisa-adds-one-known-exploited-vulnerability-catalog"
+        },
+        {
+            "title": "Students criticise Adelaide University's communication over Canvas cybersecurity breach",
+            "description": "[ABC (AUSTRALIAN BROADCASTING CORPORATION)] Adelaide University says access to the cloud-based learning platform Canvas is back online after a data breach last week, but some students have criticised the institution's communication about the...",
+            "url": "https://www.abc.net.au/news/2026-05-12/adelaide-university-students-canvas-breach/106667722"
+        },
+        {
+            "title": "Google disrupts hackers using AI to exploit an unknown weakness in a company\u2019s digital defense",
+            "description": "[NBC NEWS] Google said Monday that it had disrupted a criminal group\u2019s attempt to use artificial intelligence to exploit another company\u2019s previously unknown digital vulnerability, adding to heightened worries...",
+            "url": "https://www.nbcnews.com/tech/security/google-disrupts-hackers-using-ai-exploit-unknown-weakness-companys-dig-rcna344624"
+        },
+        {
+            "title": "Google disrupts hackers using AI to exploit an unknown weakness in a company's digital defense",
+            "description": "[JAPAN TODAY] Google said Monday that it had disrupted a criminal group's attempt to use artificial intelligence to exploit another company's previously unknown digital vulnerability, adding to heightened worries...",
+            "url": "https://japantoday.com/category/tech/google-disrupts-hackers-using-ai-to-exploit-an-unknown-weakness-in-a-company's-digital-defense"
+        },
+        {
+            "title": "Google disrupts hackers using AI to exploit an unknown weakness in a company's digital defense",
+            "description": "[JAPAN TODAY] Google said Monday that it had disrupted a criminal group's attempt to use artificial intelligence to exploit another company's previously unknown digital vulnerability, adding to heightened worries...",
+            "url": "https://japantoday.com/category/tech/google-disrupts-hackers-using-ai-to-exploit-an-unknown-weakness-in-a-company%27s-digital-defense"
+        },
+        {
+            "title": "Google disrupts hackers using AI to exploit an unknown weakness in a company's digital defense",
+            "description": "[THE PHILADELPHIA INQUIRER] Google said Monday that it had disrupted a criminal group\u2019s attempt to use artificial intelligence to exploit another company\u2019s previously unknown digital vulnerability, adding to heightened worries...",
+            "url": "https://www.inquirer.com/business/google-ai-hackers-cybersecurity-risk-anthropic-mythos-claude-regulation-20260511.html"
+        },
+        {
+            "title": "NCLT Approves Merger Of Persistent Systems' Wholly-Owned Subsidiary Arrka Infosec To Simplify Corporate Structure",
+            "description": "[FREE PRESS JOURNAL] IT services firm Persistent Systems on Monday said the National Company Law Tribunal has approved the merger of its wholly-owned subsidiary Arrka Infosec with the parent company. Persistent stated...",
+            "url": "https://www.freepressjournal.in/business/nclt-approves-merger-of-persistent-systems-wholly-owned-subsidiary-arrka-infosec-to-simplify-corporate-structure"
         },
         {
             "title": "OpenAI's Bold Move: Opening Cybersecurity Gates to Europe",
@@ -95,36 +125,6 @@
             "title": "School app Canvas breach hits during finals",
             "description": "[FOX NEWS] Instructure says Canvas is back online after a cybersecurity incident exposed student names, emails, IDs and messages. Here's how to stay safe after the breach.",
             "url": "https://www.foxnews.com/tech/school-app-canvas-breach-hits-during-finals"
-        },
-        {
-            "title": "'It's here': Google issues dire warning after catching hackers using AI to break into computers",
-            "description": "[FORTUNE] The cybersecurity threat experts feared for years just happened and \"the world might actually be more dangerous.\"",
-            "url": "https://fortune.com/2026/05/11/google-catches-hackers-cybersecurity-warning-ai-anthropic-mythos/"
-        },
-        {
-            "title": "ISS sign MoU to build AI governance and digital leadership capacity for Indian enterprises",
-            "description": "[THE TRIBUNE] The partnership aims to strengthen India's digital transformation ecosystem by equipping board members, CXOs and senior decision-makers with strategic and practical insights into AI, digital...",
-            "url": "https://www.tribuneindia.com/news/business/cii-nus-iss-sign-mou-to-build-ai-governance-and-digital-leadership-capacity-for-indian-enterprises/"
-        },
-        {
-            "title": "Balgopal Commercial Limited Discloses Cybersecurity Incident at Third-Party Service Provider Under Regulation 30",
-            "description": "[SCANX.TRADE] Balgopal Commercial Limited disclosed a cybersecurity incident on 11 May 2026 at its third-party hosting and email service provider, caused by a critical zero-day vulnerability CVE-2026-41940 in...",
-            "url": "https://scanx.trade/stock-market-news/companies/balgopal-commercial-limited-discloses-cybersecurity-incident-at-third-party-service-provider-under-regulation-30/40055469"
-        },
-        {
-            "title": "Andhra launches deep-tech skilling push, targets 10 lakh learners in five years",
-            "description": "[THEPRINT] Amaravati, May 11 (PTI) Andhra Pradesh Chief Minister N Chandrababu Naidu on Monday announced a statewide deep-tech skilling initiative in collaboration with IBM SkillsBuild. The programme will cover...",
-            "url": "https://theprint.in/india/andhra-launches-deep-tech-skilling-push-targets-10-lakh-learners-in-five-years/2928210/"
-        },
-        {
-            "title": "NCLT approves merger of Arrka Infosec with parent firm Persistent Systems",
-            "description": "[NEWS18] NCLT approves merger of Arrka Infosec with parent firm Persistent Systems",
-            "url": "https://www.news18.com/agency-feeds/nclt-approves-merger-of-arrka-infosec-with-parent-firm-persistent-systems-10085782.html"
-        },
-        {
-            "title": "Google says it found evidence of AI helping in cyberattack",
-            "description": "[BNN BLOOMBERG] Google said Monday that it had disrupted a criminal group\u2019s attempt to use artificial intelligence to exploit another company\u2019s previously unknown digital vulnerability, adding to heightened worries...",
-            "url": "https://www.bnnbloomberg.ca/business/artificial-intelligence/2026/05/11/google-disrupts-hackers-using-ai-to-exploit-an-unknown-weakness-in-a-companys-digital-defence/"
         }
     ]
 }
