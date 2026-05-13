@@ -1,5 +1,5 @@
 {
-    "updated": "2026-05-13 14:07:08 UTC",
+    "updated": "2026-05-13 17:57:24 UTC",
     "news": [
         {
             "title": "Microsoft's MDASH AI System Finds 16 Windows Flaws Fixed in Patch Tuesday",
@@ -12,8 +12,8 @@
             "url": "https://thehackernews.com/2026/05/azerbaijani-energy-firm-hit-by-repeated.html"
         },
         {
-            "title": "[Webinar] Why Your AppSec Tools Miss the \"Lethal Path\" (and How to Fix It)",
-            "description": "[FEEDS.FEEDBURNER.COM] TL;DR: Stop chasing thousands of \"toast\" alerts. Join experts from Wiz and Okta/GitLab to learn how hackers connect tiny flaws to build a \"Lethal Chain\" to your data\u2014and how to break it. Register for...",
+            "title": "[Webinar] How Modern Attack Paths Cross Code, Pipelines, and Cloud",
+            "description": "[FEEDS.FEEDBURNER.COM] TL;DR: Stop chasing thousands of \"toast\" alerts. Join experts from Wiz to learn how hackers connect tiny flaws to build a \"Lethal Chain\" to your data\u2014and how to break it. Register for the Strategic...",
             "url": "https://thehackernews.com/2026/05/webinar-why-your-appsec-tools-miss.html"
         },
         {
@@ -27,34 +27,34 @@
             "url": "https://thehackernews.com/2026/05/microsoft-patches-138-vulnerabilities.html"
         },
         {
+            "title": "Windows BitLocker zero-day gives access to protected drives, PoC released",
+            "description": "[BLEEPINGCOMPUTER.COM] A cybersecurity researcher has published proof-of-concept (PoC) exploits for two unpatched Microsoft Windows vulnerabilities named YellowKey and GreenPlasma, which are a BitLocker bypass and a...",
+            "url": "https://www.bleepingcomputer.com/news/security/windows-bitlocker-zero-day-gives-access-to-protected-drives-poc-released/"
+        },
+        {
+            "title": "Webinar tomorrow: Why security alone won't stop modern attacks",
+            "description": "[BLEEPINGCOMPUTER.COM] Tomorrow's webinar examines why prevention alone is no longer enough against modern cyberattacks. The session explores how organizations combine security, backups, and recovery planning to improve...",
+            "url": "https://www.bleepingcomputer.com/news/security/webinar-tomorrow-why-security-alone-wont-stop-modern-attacks/"
+        },
+        {
+            "title": "Microsoft fixes BitLocker recovery issue only for Windows 11 users",
+            "description": "[BLEEPINGCOMPUTER.COM] Microsoft has addressed a known issue causing some Windows 11 systems to boot into BitLocker recovery after installing the April 2026 Windows security updates. [...]",
+            "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bitlocker-recovery-issue-only-for-windows-11-users/"
+        },
+        {
+            "title": "Microsoft fixes Windows Autopatch bug installing restricted drivers",
+            "description": "[BLEEPINGCOMPUTER.COM] Microsoft has fixed a Windows Autopatch bug that caused driver updates restricted by administrative policies to be deployed on some Autopatch-managed Windows devices in the European Union. [...]",
+            "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-autopatch-bug-installing-restricted-drivers/"
+        },
+        {
             "title": "Foxconn confirms cyberattack claimed by Nitrogen ransomware gang",
             "description": "[BLEEPINGCOMPUTER.COM] Foxconn, the world's largest electronics manufacturer, says some of its North American factories are now working to resume normal operations after a cyberattack. [...]",
             "url": "https://www.bleepingcomputer.com/news/security/electronics-giant-foxconn-confirms-cyberattack-on-north-american-factories/"
         },
         {
-            "title": "73 Seconds to Breach, 24 Hours to Patch: The Case for Autonomous Validation",
-            "description": "[BLEEPINGCOMPUTER.COM] Attackers can compromise systems in minutes while patching and response still take hours or days. Picus Security breaks down why autonomous validation is becoming critical for modern defense...",
-            "url": "https://www.bleepingcomputer.com/news/security/73-seconds-to-breach-24-hours-to-patch-the-case-for-autonomous-validation/"
-        },
-        {
-            "title": "Microsoft says some users can't install Office on Windows 365 devices",
-            "description": "[BLEEPINGCOMPUTER.COM] Microsoft says some customers are experiencing issues downloading and installing Office on their Windows 365 devices. [...]",
-            "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-some-users-cant-install-office-on-windows-365-devices/"
-        },
-        {
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
             "description": "[CISA.GOV] CISA has added one new vulnerability to its&nbsp;Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation.&nbsp; CVE-2026-0300&nbsp;Palo Alto Networks PAN-OS...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/05/06/cisa-adds-one-known-exploited-vulnerability-catalog"
-        },
-        {
-            "title": "US govt seeks Instructure testimony on massive Canvas cyberattack",
-            "description": "[BLEEPINGCOMPUTER.COM] The U.S. House Committee on Homeland Security is calling on Instructure executives to testify about two cyberattacks by the ShinyHunters extortion group that targeted the company's Canvas platform,...",
-            "url": "https://www.bleepingcomputer.com/news/security/us-govt-seeks-instructure-testimony-on-massive-canvas-cyberattack/"
-        },
-        {
-            "title": "UK fines water supplier $1.3M for exposing data of 664k customers",
-            "description": "[BLEEPINGCOMPUTER.COM] The Information Commissioner's Office has fined South Staffordshire Water Plc and parent company South Staffordshire Plc \u00a3963,900 ($1.3 million) over a cyberattack that exposed the personal data of...",
-            "url": "https://www.bleepingcomputer.com/news/security/uk-fines-water-supplier-13m-for-exposing-data-of-664k-customers/"
         },
         {
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
@@ -77,6 +77,46 @@
             "url": "https://www.cisa.gov/news-events/alerts/2026/05/01/cisa-adds-one-known-exploited-vulnerability-catalog"
         },
         {
+            "title": "Pentagon deploys Anthropic's Mythos to patch cyber gaps while planning to ditch firm",
+            "description": "[FIRSTPOST] The United States Department of Defense is rolling out Anthropic\u2019s Mythos AI cybersecurity model to detect and fix software vulnerabilities across government systems, even as the Pentagon works to...",
+            "url": "https://www.firstpost.com/tech/pentagon-deploys-anthropics-mythos-to-patch-cyber-gaps-while-planning-to-ditch-firm-14010643.html"
+        },
+        {
+            "title": "Black Box Limited Completes Acquisition of Brazil's 2S Inova\u00e7\u00f5es Tecnol\u00f3gicas S.A.",
+            "description": "[SCANX.TRADE] Black Box Limited has completed the 100% acquisition of 2S Inova\u00e7\u00f5es Tecnol\u00f3gicas S.A., a S\u00e3o Paulo-based digital infrastructure firm founded in 1992, through its step-down subsidiary BLACK BOX DO...",
+            "url": "https://scanx.trade/stock-market-news/companies/black-box-limited-completes-acquisition-of-brazilian-solutions-integrator-2s-inova-es-tecnol-gicas/40196372"
+        },
+        {
+            "title": "Black Box completes acquisition of Brazilian company 2S Inova\u00e7\u00f5es Tecnol\u00f3gicas S.A.",
+            "description": "[THE HINDU BUSINESS LINE] Black Box acquires 2S Inova\u00e7\u00f5es Tecnol\u00f3gicas, enhancing its Latin American market presence in digital infrastructure and cybersecurity solutions.",
+            "url": "https://www.thehindubusinessline.com/companies/black-box-completes-acquisition-of-brazilian-company-2s-inovacoes-tecnologicas-sa/article70972703.ece"
+        },
+        {
+            "title": "Is Anthropic\u2019s new AI really that scary? It depends whom you ask.",
+            "description": "[THE STAR] Anthropic said that Claude Mythos was too dangerous to release to the public. That claim has reopened an old debate over cybersecurity.",
+            "url": "https://www.thestar.com.my/tech/tech-news/2026/05/13/is-anthropics-new-ai-really-that-scary-it-depends-whom-you-ask"
+        },
+        {
+            "title": "U.S. Pentagon deploys Anthropic\u2019s Mythos to patch cyber gaps while planning to ditch firm",
+            "description": "[THE HINDU] The Pentagon is deploying Anthropic\u2019s Mythos \u200ccybersecurity model to find and patch software \u200bvulnerabilities across the U.S. government",
+            "url": "https://www.thehindu.com/sci-tech/technology/us-pentagon-deploys-anthropics-mythos-to-patch-cyber-gaps-while-planning-to-ditch-firm/article70972463.ece"
+        },
+        {
+            "title": "Trump-Xi summit: Chips may be off the table but AI warfare will likely feature in China",
+            "description": "[EURONEWS] As Trump heads to Beijing for a summit with Xi Jinping, AI-enabled warfare, cybersecurity and the deepening US-China tech rivalry are set to dominate talks, even as a breakthrough deal on...",
+            "url": "https://www.euronews.com/next/2026/05/13/trump-xi-summit-chips-may-be-off-the-table-but-ai-warfare-will-likely-feature-in-china"
+        },
+        {
+            "title": "Japan to urgently develop cybersecurity measures due to threats from advanced AI models",
+            "description": "[THE STAR] TOKYO: Japanese Prime Minister Sanae Takaichi has instructed responsible agencies to urgently develop a package of measures to protect the country's critical infrastructure amid growing cyberthreats...",
+            "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/05/13/japan-to-urgently-develop-cybersecurity-measures-due-to-threats-from-advanced-ai-models"
+        },
+        {
+            "title": "CDNetworks Cloud Security 2.0 Strengthens Enterprise Security Amid the Evolving AI Threat Landscape",
+            "description": "[THE MANILA TIMES] **media[1054421]**SINGAPORE, May 13, 2026 /PRNewswire/ -- CDNetworks, the APAC-leading network to deliver edge as a service, today reinforced its commitment to helping enterprises combat...",
+            "url": "https://www.manilatimes.net/2026/05/13/tmt-newswire/pr-newswire/cdnetworks-cloud-security-20-strengthens-enterprise-security-amid-the-evolving-ai-threat-landscape/2342451"
+        },
+        {
             "title": "Apple supplier Foxconn confirms ransomware atack affected North American factories",
             "description": "[9TO5MAC] WIRED reports that Foxconn acknowledged that some of its North American factories \u201csuffered a cyberattack\u201d in recent days. Here are the details.",
             "url": "https://9to5mac.com/2026/05/12/apple-supplier-foxconn-confirms-ransomware-attack-affected-north-american-factories/"
@@ -85,46 +125,6 @@
             "title": "Day Cyberattack Just Happened",
             "description": "[TECHSTARTUPS.COM] For years, cybersecurity experts warned that artificial intelligence would eventually help hackers discover software flaws faster than humans could stop them. Most of those warnings lived in research...",
             "url": "https://techstartups.com/2026/05/12/the-first-ai-powered-zero-day-cyberattack-just-happened/"
-        },
-        {
-            "title": "Nozomi Networks Platform Now Available on Google Cloud Marketplace",
-            "description": "[ITWIRE] Nozomi Guardian and Central Management Council are now available on Google Cloud Marketplace, providing a new offering for Operational Technology cybersecurity",
-            "url": "https://itwire.com/it-industry-news/enterprise-cloud/nozomi-networks-platform-now-available-on-google-cloud-marketplace"
-        },
-        {
-            "title": "South Korea to expand AI cybersecurity efforts after Anthropic warning",
-            "description": "[UPI NEWS] South Korea is preparing new measures to counter AI-powered cyberattacks after Anthropic's Claude Mythos Preview demonstrated advanced ability.",
-            "url": "https://www.upi.com/Top_News/World-News/2026/05/12/preparing-new-measures-counter-ai-powered-cyberattacks/9361778629487/"
-        },
-        {
-            "title": "Top Startup and Tech Funding News - May 12, 2025",
-            "description": "[TECHSTARTUPS.COM] It\u2019s Tuesday, May 12, 2026, and we\u2019re back with today\u2019s top startup and tech funding news. Today\u2019s funding rounds highlight where investors believe the next wave of technological leverage will...",
-            "url": "https://techstartups.com/2026/05/12/top-startup-and-tech-funding-news-may-12-2025/"
-        },
-        {
-            "title": "Plurilock Announces Closing of Final Tranche of Non-Brokered Private Placement",
-            "description": "[WALLSTREET ONLINE] 13.05.2026 - Vancouver, British Columbia--(Newsfile Corp. - May 12, 2026) - Plurilock Security Inc. (TSXV: PLUR) (OTCQB: PLCKF) ('Plurilock' or the 'Company'), a global cybersecurity systems...",
-            "url": "https://www.wallstreet-online.de/nachricht/20866899-plurilock-announces-closing-of-final-tranche-of-non-brokered-private-placement"
-        },
-        {
-            "title": "Foxconn Ransomware Attack Shows Nothing Is Safe Forever",
-            "description": "[WIRED] Famous for helping build Apple's iPhones, Foxconn just suffered another cyberattack, highlighting the perils of warehousing some of the world's most valuable data.",
-            "url": "https://www.wired.com/story/foxconn-ransomware-attack-shows-nothing-is-safe-forever/"
-        },
-        {
-            "title": "Ransomware Is Targeting US Banks: 3 Stocks With 60-Day Catalysts",
-            "description": "[BENZINGA] Ransomware attacks on U.S. financial institutions - For investors, what matters is where the money flows next as banks scramble to close the gaps these attacks keep exposing.",
-            "url": "https://www.benzinga.com/Opinion/26/05/52505583/ransomware-is-targeting-us-banks-3-stocks-with-60-day-catalysts"
-        },
-        {
-            "title": "OpenAI launches Daybreak as response to Anthropic's Claude Mythos",
-            "description": "[MOBILESYRUP] OpenAI has launched Daybreak, a new Cybersecurity initiative using GPT-5.5-Cyber, in a response to Anthropic's Project Daybreak that uses Claude Mythos.",
-            "url": "https://mobilesyrup.com/2026/05/12/openai-launches-daybreak-as-response-to-anthropics-claude-mythos/"
-        },
-        {
-            "title": "Commerce Department Quietly Removes Microsoft, Google, xAI Security Test Details From Its Website",
-            "description": "[BENZINGA] The U.S. Commerce Department webpage erased details regarding a deal with Google, xAI, and Microsoft to examine AI models for cybersecurity.",
-            "url": "https://www.benzinga.com/markets/private-markets/26/05/52500525/commerce-department-quietly-removes-microsoft-google-xai-security-test-details-from-its-website"
         }
     ]
 }
