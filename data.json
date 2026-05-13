@@ -1,6 +1,16 @@
 {
-    "updated": "2026-05-13 06:42:14 UTC",
+    "updated": "2026-05-13 10:13:17 UTC",
     "news": [
+        {
+            "title": "GemStuffer Abuses 150+ RubyGems to Exfiltrate Scraped U.K. Council Portal Data",
+            "description": "[FEEDS.FEEDBURNER.COM] Cybersecurity researchers are calling attention to a new campaign dubbed GemStuffer that has targeted the RubyGems repository with more than 150 gems that use the registry as a data exfiltration...",
+            "url": "https://thehackernews.com/2026/05/gemstuffer-abuses-150-rubygems-to.html"
+        },
+        {
+            "title": "Android Adds Intrusion Logging for Sophisticated Spyware Forensics",
+            "description": "[FEEDS.FEEDBURNER.COM] Google on Tuesday unveiled a new opt-in Android feature called Intrusion Logging for storing forensic logs to better analyze sophisticated spyware attacks. Intrusion Logging, available as part of...",
+            "url": "https://thehackernews.com/2026/05/android-adds-intrusion-logging-for.html"
+        },
         {
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
             "description": "[CISA.GOV] CISA has added one new vulnerability to its&nbsp;Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation.&nbsp; CVE-2026-0300&nbsp;Palo Alto Networks PAN-OS...",
@@ -25,16 +35,6 @@
             "title": "New TrickMo Variant Uses TON C2 and SOCKS5 to Create Android Network Pivots",
             "description": "[FEEDS.FEEDBURNER.COM] Cybersecurity researchers have flagged a new version of the TrickMo Android banking trojan that uses The Open Network (TON) for command-and-control (C2). The new variant, observed by ThreatFabric...",
             "url": "https://thehackernews.com/2026/05/new-trickmo-variant-uses-ton-c2-and.html"
-        },
-        {
-            "title": "Webinar: What the Riskiest SOC Alerts Go Unanswered - and How Radiant Security Can Help",
-            "description": "[FEEDS.FEEDBURNER.COM] Why do the Riskiest SOC Alerts Go Unanswered? Security operations teams are drowning in alerts. But the real problem isn't always alert volume; it's the blind spots. The most dangerous alerts are the...",
-            "url": "https://thehackernews.com/2026/05/webinar-what-riskiest-soc-alerts-go.html"
-        },
-        {
-            "title": "Mini Shai-Hulud Worm Compromises TanStack, Mistral AI, Guardrails AI & More Packages",
-            "description": "[FEEDS.FEEDBURNER.COM] TeamPCP, the threat actor behind the recentsupply chain attack spree, has been linked to the compromise of the npm and PyPI packages from TanStack, UiPath, Mistral AI, OpenSearch, and Guardrails AI...",
-            "url": "https://thehackernews.com/2026/05/mini-shai-hulud-worm-compromises.html"
         },
         {
             "title": "UK fines water supplier $1.3M for exposing data of 664k customers",
@@ -77,6 +77,21 @@
             "url": "https://www.cisa.gov/news-events/alerts/2026/05/01/cisa-adds-one-known-exploited-vulnerability-catalog"
         },
         {
+            "title": "Plurilock Announces Closing of Final Tranche of Non-Brokered Private Placement",
+            "description": "[WALLSTREET ONLINE] 13.05.2026 - Vancouver, British Columbia--(Newsfile Corp. - May 12, 2026) - Plurilock Security Inc. (TSXV: PLUR) (OTCQB: PLCKF) ('Plurilock' or the 'Company'), a global cybersecurity systems...",
+            "url": "https://www.wallstreet-online.de/nachricht/20866899-plurilock-announces-closing-of-final-tranche-of-non-brokered-private-placement"
+        },
+        {
+            "title": "Foxconn Ransomware Attack Shows Nothing Is Safe Forever",
+            "description": "[WIRED] Famous for helping build Apple's iPhones, Foxconn just suffered another cyberattack, highlighting the perils of warehousing some of the world's most valuable data.",
+            "url": "https://www.wired.com/story/foxconn-ransomware-attack-shows-nothing-is-safe-forever/"
+        },
+        {
+            "title": "Ransomware Is Targeting US Banks: 3 Stocks With 60-Day Catalysts",
+            "description": "[BENZINGA] Ransomware attacks on U.S. financial institutions - For investors, what matters is where the money flows next as banks scramble to close the gaps these attacks keep exposing.",
+            "url": "https://www.benzinga.com/Opinion/26/05/52505583/ransomware-is-targeting-us-banks-3-stocks-with-60-day-catalysts"
+        },
+        {
             "title": "OpenAI launches Daybreak as response to Anthropic's Claude Mythos",
             "description": "[MOBILESYRUP] OpenAI has launched Daybreak, a new Cybersecurity initiative using GPT-5.5-Cyber, in a response to Anthropic's Project Daybreak that uses Claude Mythos.",
             "url": "https://mobilesyrup.com/2026/05/12/openai-launches-daybreak-as-response-to-anthropics-claude-mythos/"
@@ -110,21 +125,6 @@
             "title": "Pentagon's Strategic Deployment of Anthropic's Mythos Amid Cybersecurity Challenges",
             "description": "[DEVDISCOURSE] The Pentagon is deploying Anthropic's Mythos cybersecurity model to tackle software vulnerabilities across government networks. Despite transitioning from Anthropic, Mythos plays a crucial role in...",
             "url": "https://www.devdiscourse.com/article/technology/3905658-pentagons-strategic-deployment-of-anthropics-mythos-amid-cybersecurity-challenges"
-        },
-        {
-            "title": "Is Anthropic\u2019s Claude Mythos Really a Cybersecurity Risk?",
-            "description": "[THE NEW YORK TIMES] Anthropic said that Claude Mythos was too dangerous to release to the public. That claim has reopened an old debate over cybersecurity.",
-            "url": "https://www.nytimes.com/2026/05/12/technology/anthropic-claude-mythos.html"
-        },
-        {
-            "title": "A.I. and Humans Battle It Out in a Cybersecurity Showdown",
-            "description": "[THE NEW YORK TIMES] Experts and college students used A.I. agents to try to break into and defend computer networks in a national competition. The agents did all right on their own, too.",
-            "url": "https://www.nytimes.com/2026/05/12/technology/ai-cybersecurity-competition.html"
-        },
-        {
-            "title": "Anthropic's Mythos sends US banks rushing to plug cyber holes",
-            "description": "[THE ECONOMIC TIMES] America's top banks are racing to patch IT system flaws identified by Anthropic's powerful Mythos AI tool. This advanced technology is uncovering numerous vulnerabilities, forcing urgent repairs and...",
-            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropics-mythos-sends-us-banks-rushing-to-plug-cyber-holes/articleshow/131043668.cms"
         }
     ]
 }
