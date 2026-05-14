@@ -1,5 +1,5 @@
 {
-    "updated": "2026-05-14 16:04:45 UTC",
+    "updated": "2026-05-14 19:27:51 UTC",
     "news": [
         {
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
@@ -8,8 +8,23 @@
         },
         {
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-            "description": "[CISA.GOV] CISA has added&nbsp;one&nbsp;new&nbsp;vulnerability&nbsp;to its&nbsp;Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation.&nbsp; CVE-2026-41940&nbsp;WebPros cPanel...",
-            "url": "https://www.cisa.gov/news-events/alerts/2026/04/30/cisa-adds-one-known-exploited-vulnerability-catalog"
+            "description": "[CISA.GOV] CISA has added&nbsp;one&nbsp;new vulnerability&nbsp;to its&nbsp;Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation.&nbsp; CVE-2026-20182&nbsp;Cisco Catalyst...",
+            "url": "https://www.cisa.gov/news-events/alerts/2026/05/14/cisa-adds-one-known-exploited-vulnerability-catalog"
+        },
+        {
+            "title": "Cisco Catalyst SD-WAN Controller Auth Bypass Actively Exploited to Gain Admin Access",
+            "description": "[FEEDS.FEEDBURNER.COM] Cisco has released updates to address a maximum-severity authentication bypass flaw in Catalyst SD-WAN Controller that it said has been exploited in limited attacks. The vulnerability, tracked as...",
+            "url": "https://thehackernews.com/2026/05/cisco-catalyst-sd-wan-controller-auth.html"
+        },
+        {
+            "title": "Stealer Backdoor Found in 3 Node-IPC Versions Targeting Developer Secrets",
+            "description": "[FEEDS.FEEDBURNER.COM] Cybersecurity researchers are sounding the alarm about what has been described as \"malicious activity\" in newly published versions of node-ipc. According to Socket and StepSecurity, three different...",
+            "url": "https://thehackernews.com/2026/05/stealer-backdoor-found-in-3-node-ipc.html"
+        },
+        {
+            "title": "ThreatsDay Bulletin: PAN-OS RCE, Mythos cURL Bug, AI Tokenizer Attacks, and 10+ Stories",
+            "description": "[FEEDS.FEEDBURNER.COM] Everything is still on fire. This week feels dumb in the worst way \u2014 bad links, weak checks, fake help desks, shady forum posts, and people turning supply chain attacks into some cursed little game...",
+            "url": "https://thehackernews.com/2026/05/threatsday-bulletin-pan-os-rce-mythos.html"
         },
         {
             "title": "Ghostwriter Targets Ukrainian Government With Geofenced PDF Phishing, Cobalt Strike",
@@ -22,19 +37,14 @@
             "url": "https://thehackernews.com/2026/05/praisonai-cve-2026-44338-auth-bypass.html"
         },
         {
-            "title": "How AI Hallucinations Are Creating Real Security Risks",
-            "description": "[FEEDS.FEEDBURNER.COM] AI hallucinations are introducing serious security risks into critical infrastructure decision-making by exploiting human trust through highly confident yet incorrect outputs. When an AI model lacks...",
-            "url": "https://thehackernews.com/2026/05/how-ai-hallucinations-are-creating-real.html"
+            "title": "OpenAI confirms security breach in TanStack supply chain attack",
+            "description": "[BLEEPINGCOMPUTER.COM] OpenAI says two employees' devices were breached in the recent TanStack supply chain attack that impacted hundreds of npm and PyPI packages, causing the company to rotate code-signing certificates...",
+            "url": "https://www.bleepingcomputer.com/news/security/openai-confirms-security-breach-in-tanstack-supply-chain-attack/"
         },
         {
-            "title": "Windows Zero-Days Expose BitLocker Bypasses And CTFMON Privilege Escalation",
-            "description": "[FEEDS.FEEDBURNER.COM] An anonymous cybersecurity researcher who disclosed three Microsoft Defender vulnerabilities has returned with two more zero-days involving a BitLocker bypass and a privilege escalation impacting...",
-            "url": "https://thehackernews.com/2026/05/windows-zero-days-expose-bitlocker.html"
-        },
-        {
-            "title": "New Fragnesia Linux Kernel LPE Grants Root Access via Page Cache Corruption",
-            "description": "[FEEDS.FEEDBURNER.COM] Details have emerged about a new variant of the recent Dirty Frag Linux local privilege escalation (LPE) vulnerability that allows local attackers to gain root access, making it the third such bug to...",
-            "url": "https://thehackernews.com/2026/05/new-fragnesia-linux-kernel-lpe-grants.html"
+            "title": "Windows 11 and Microsoft Edge hacked at Pwn2Own Berlin 2026",
+            "description": "[BLEEPINGCOMPUTER.COM] On the first day of Pwn2Own Berlin 2026, security researchers collected $523,000 in cash awards after exploiting 24 unique zero-days. [...]",
+            "url": "https://www.bleepingcomputer.com/news/security/windows-11-and-microsoft-edge-hacked-on-first-day-of-pwn2own-berlin-2026/"
         },
         {
             "title": "18-year-old NGINX vulnerability allows DoS, potential RCE",
@@ -52,16 +62,6 @@
             "url": "https://www.bleepingcomputer.com/news/security/kongtuke-hackers-now-use-microsoft-teams-for-corporate-breaches/"
         },
         {
-            "title": "Dell confirms its SupportAssist software causes Windows BSOD crashes",
-            "description": "[BLEEPINGCOMPUTER.COM] Dell confirmed that its SupportAssist software is causing blue-screen crashes on some Windows systems following a wave of user reports about random reboots affecting Dell devices since Friday. [...]",
-            "url": "https://www.bleepingcomputer.com/news/software/dell-confirms-its-supportassist-software-causes-windows-bsod-crashes/"
-        },
-        {
-            "title": "US charges suspected Dream Market admin arrested in Germany",
-            "description": "[BLEEPINGCOMPUTER.COM] The alleged main administrator of Dream Market Incognito Market, one of the largest dark web marketplaces before its shutdown, has been indicted in the United States on money laundering charges. [...]",
-            "url": "https://www.bleepingcomputer.com/news/security/us-charges-suspected-dream-market-admin-arrested-in-germany/"
-        },
-        {
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
             "description": "[CISA.GOV] CISA has added one new vulnerability to its&nbsp;Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-6973&nbsp;Ivanti Endpoint Manager Mobile (EPMM)...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/05/07/cisa-adds-one-known-exploited-vulnerability-catalog"
@@ -75,6 +75,36 @@
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
             "description": "[CISA.GOV] CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-31431 Linux Kernel Incorrect Resource Transfer Between...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/05/01/cisa-adds-one-known-exploited-vulnerability-catalog"
+        },
+        {
+            "title": "Why More Indian Homes and Offices Are Choosing NAS Devices",
+            "description": "[DEVDISCOURSE] Faced with recurring cloud storage fees, more Indian families and small businesses are turning to Network Attached Storage (NAS) devices. These personal servers offer local storage without monthly...",
+            "url": "https://www.devdiscourse.com/article/technology/3907771-why-more-indian-homes-and-offices-are-choosing-nas-devices"
+        },
+        {
+            "title": "Silicon Surge: Cisco\u2019s AI strategy sparks market optimism",
+            "description": "[THE ECONOMIC TIMES] Cisco announced plans to cut thousands of jobs as the company redirects spending toward artificial intelligence, cybersecurity, networking silicon and cloud infrastructure. The restructuring reflects...",
+            "url": "https://economictimes.indiatimes.com/markets/stocks/news/silicon-surge-ciscos-ai-strategy-sparks-market-optimism/slideshow/131084077.cms"
+        },
+        {
+            "title": "Year MoU with Warana University for AI CoE",
+            "description": "[SCANX.TRADE] TechD Cybersecurity Limited has entered into a 3-year MoU with Warana University to establish a Centre of Excellence in Cybersecurity and AI at TKIET. The collaboration involves deploying...",
+            "url": "https://scanx.trade/stock-market-news/companies/techd-cybersecurity-limited-signs-three-year-mou-with-warana-university-to-advance-cybersecurity-and-ai-education/40283071"
+        },
+        {
+            "title": "Anthropic's Claude helped recover password to a Bitcoin wallet locked for more than 11 years",
+            "description": "[INDIA TODAY] Anthropic\u2019s Claude reportedly helped an X user recover access to a Bitcoin wallet locked for more than 11 years, sparking debate over AI\u2019s role in password recovery and cybersecurity.",
+            "url": "https://www.indiatoday.in/technology/news/story/anthropics-claude-helped-recover-password-to-a-bitcoin-wallet-locked-for-more-than-11-years-2911505-2026-05-14"
+        },
+        {
+            "title": "2 States, Million Complaints: How Delhi, Rajasthan Became North India's Cybercrime Hubs | Exclusive",
+            "description": "[NEWS18] Cybersecurity officials warn that Delhi's dense population, high UPI transaction volume & concentration of financially active users make it an almost perfect target for scammers",
+            "url": "https://www.news18.com/india/2-states-million-complaints-how-delhi-rajasthan-became-north-indias-cybercrime-hubs-exclusive-ws-l-10090583.html"
+        },
+        {
+            "title": "OpenAI proposes global AI watchdog with China ahead of Trump-Xi summit",
+            "description": "[FIRSTPOST] OpenAI says the world may need an international AI governance body involving both the US and China as concerns grow around advanced artificial intelligence systems. The proposal emerged ahead of...",
+            "url": "https://www.firstpost.com/tech/openai-proposes-global-ai-watchdog-with-china-ahead-of-trump-xi-summit-14011021.html"
         },
         {
             "title": "Microsoft debuts MDASH, an AI cyber system that beats Claude Mythos on security tests",
@@ -95,36 +125,6 @@
             "title": "Cybersecurity and Compliance in Healthcare Software Development: What IT Leaders Need to Know",
             "description": "[ITWIRE] When I look at the state of healthcare cybersecurity today, I am struck by a sharp contradiction: the industry that handles the most sensitive human data is also the most...",
             "url": "https://itwire.com/business-it-news/security/cybersecurity-and-compliance-in-healthcare-software-development-what-it-leaders-need-to-know"
-        },
-        {
-            "title": "AI cybersecurity updates for MDASH, Mythos, and GPT-5.5.",
-            "description": "[THE VERGE] On Wednesday, the AISI, which evaluates AI models for the British government, said both Anthropic\u2019s Claude Mythos Preview and OpenAI\u2019s GPT-5.5 showed progress well above previous trends on...",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/930236/ai-cybersecurity-updates-for-mdash-mythos-and-gpt-5-5"
-        },
-        {
-            "title": "Hong Kong tech crimes are dropping. So why is hacking becoming more lucrative?",
-            "description": "[SOUTH CHINA MORNING POST] Senior police officer says hacking and ransomware cases can \u2018cause serious impact on organisations affected\u2019.",
-            "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3353474/hong-kong-tech-crimes-are-dropping-so-why-hacking-becoming-more-lucrative"
-        },
-        {
-            "title": "day tracking as AI agents emerge as the next cybersecurity battleground",
-            "description": "[TECHSTARTUPS.COM] For years, cybersecurity teams worried about phishing emails, ransomware gangs, and cloud breaches. Now a new concern is coming into focus: autonomous AI agents that can read email, write code,...",
-            "url": "https://techstartups.com/2026/05/13/lyrie-ai-launches-real-time-zero-day-tracking-as-ai-agents-emerge-as-the-next-cybersecurity-battleground/"
-        },
-        {
-            "title": "Instructure dealing with Canvas cyberhackers a dangerous tactic, say experts",
-            "description": "[ABC (AUSTRALIAN BROADCASTING CORPORATION)] The company that runs Canvas has painted a target on its back for future extortion attempts by making a deal with hackers, according to cybersecurity experts.",
-            "url": "https://www.abc.net.au/news/2026-05-14/instructure-dealing-with-canvas-cyberhackers-dangerous-tactic/106674686"
-        },
-        {
-            "title": "Sattrix Information Security's Subsidiary Enters Strategic Technology Alliance with US-Based IT Automation and Cybersecurity Firm",
-            "description": "[SCANX.TRADE] Sattrix Information Security Limited's wholly owned subsidiary, Sattrix Software Solutions Private Limited, has entered into a strategic technology alliance with a leading IT automation and...",
-            "url": "https://scanx.trade/stock-market-news/companies/sattrix-information-security-s-subsidiary-enters-strategic-technology-alliance-with-us-based-it-automation-and-cybersecurity-firm/40243077"
-        },
-        {
-            "title": "AI-driven cyberattacks will be the 'new norm' in months",
-            "description": "[CNBC] The rise of increasingly sophisticated AI models is putting pressure on cybersecurity teams to step up their defenses for newer and faster cyberattacks.",
-            "url": "https://www.cnbc.com/2026/05/13/palo-alto-ai-cyberattacks-mythos-gpt.html"
         }
     ]
 }
