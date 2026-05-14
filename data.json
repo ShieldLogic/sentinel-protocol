@@ -1,11 +1,6 @@
 {
-    "updated": "2026-05-14 13:45:13 UTC",
+    "updated": "2026-05-14 16:04:45 UTC",
     "news": [
-        {
-            "title": "West Pharmaceutical says hackers stole data, encrypted systems",
-            "description": "[BLEEPINGCOMPUTER.COM] West Pharmaceutical Services disclosed that it was the target of a cyberattack that resulted in data exfiltration and system encryption. [...]",
-            "url": "https://www.bleepingcomputer.com/news/security/west-pharmaceutical-says-hackers-stole-data-encrypted-systems/"
-        },
         {
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
             "description": "[CISA.GOV] CISA has added one new vulnerability to its&nbsp;Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation.&nbsp; CVE-2026-0300&nbsp;Palo Alto Networks PAN-OS...",
@@ -15,6 +10,11 @@
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
             "description": "[CISA.GOV] CISA has added&nbsp;one&nbsp;new&nbsp;vulnerability&nbsp;to its&nbsp;Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation.&nbsp; CVE-2026-41940&nbsp;WebPros cPanel...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/04/30/cisa-adds-one-known-exploited-vulnerability-catalog"
+        },
+        {
+            "title": "Ghostwriter Targets Ukrainian Government With Geofenced PDF Phishing, Cobalt Strike",
+            "description": "[FEEDS.FEEDBURNER.COM] The Belarus-aligned threat group known as Ghostwriter has been attributed to a fresh set of attacks targeting governmental organizations in Ukraine. Active since at least 2016, Ghostwriter has been...",
+            "url": "https://thehackernews.com/2026/05/ghostwriter-targets-ukrainian.html"
         },
         {
             "title": "PraisonAI CVE-2026-44338 Auth Bypass Targeted Within Hours of Disclosure",
@@ -37,9 +37,14 @@
             "url": "https://thehackernews.com/2026/05/new-fragnesia-linux-kernel-lpe-grants.html"
         },
         {
-            "title": "18-Year-Old NGINX Rewrite Module Flaw Enables Unauthenticated RCE",
-            "description": "[FEEDS.FEEDBURNER.COM] Cybersecurity researchers have disclosed multiple security vulnerabilities impacting NGINX Plus and NGINX Open, including a critical flaw that remained undetected for 18 years. The vulnerability,...",
-            "url": "https://thehackernews.com/2026/05/18-year-old-nginx-rewrite-module-flaw.html"
+            "title": "18-year-old NGINX vulnerability allows DoS, potential RCE",
+            "description": "[BLEEPINGCOMPUTER.COM] An 18-year-old flaw in the NGINX open-source web server, discovered using an autonomous scanning system, can be exploited for denial of service and, under certain conditions, remote code execution....",
+            "url": "https://www.bleepingcomputer.com/news/security/18-year-old-nginx-vulnerability-allows-dos-potential-rce/"
+        },
+        {
+            "title": "Cyber-Enabled Cargo Crime: How Cybercrime Tradecraft is Used to Steal Freight",
+            "description": "[BLEEPINGCOMPUTER.COM] Cargo theft now starts with phishing emails and stolen credentials, not hijackings, to reroute and steal freight from supply chains. NMFTA outlines how cyber-enabled cargo crime is changing...",
+            "url": "https://www.bleepingcomputer.com/news/security/cyber-enabled-cargo-crime-how-cybercrime-tradecraft-is-used-to-steal-freight/"
         },
         {
             "title": "KongTuke hackers now use Microsoft Teams for corporate breaches",
@@ -57,11 +62,6 @@
             "url": "https://www.bleepingcomputer.com/news/security/us-charges-suspected-dream-market-admin-arrested-in-germany/"
         },
         {
-            "title": "New Fragnesia Linux flaw lets attackers gain root privileges",
-            "description": "[BLEEPINGCOMPUTER.COM] Linux distros are rolling out patches for a new high-severity kernel privilege escalation vulnerability (known as Fragnasia and tracked as CVE-2026-46300) that allows attackers to run malicious code...",
-            "url": "https://www.bleepingcomputer.com/news/security/new-fragnesia-linux-flaw-lets-attackers-gain-root-privileges/"
-        },
-        {
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
             "description": "[CISA.GOV] CISA has added one new vulnerability to its&nbsp;Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-6973&nbsp;Ivanti Endpoint Manager Mobile (EPMM)...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/05/07/cisa-adds-one-known-exploited-vulnerability-catalog"
@@ -75,6 +75,11 @@
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
             "description": "[CISA.GOV] CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-31431 Linux Kernel Incorrect Resource Transfer Between...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/05/01/cisa-adds-one-known-exploited-vulnerability-catalog"
+        },
+        {
+            "title": "Microsoft debuts MDASH, an AI cyber system that beats Claude Mythos on security tests",
+            "description": "[FIRSTPOST] Microsoft has unveiled MDASH, a cybersecurity system powered by more than 100 AI agents that work together to uncover software vulnerabilities. The company says the platform discovered 16 previously...",
+            "url": "https://www.firstpost.com/tech/microsoft-debuts-mdash-an-ai-cyber-system-that-beat-claude-mythos-on-security-tests-14010959.html"
         },
         {
             "title": "Firms nudged to go for Anthropic\u2019s Opus 4.7 as Mythos AI stays elusive",
@@ -120,11 +125,6 @@
             "title": "AI-driven cyberattacks will be the 'new norm' in months",
             "description": "[CNBC] The rise of increasingly sophisticated AI models is putting pressure on cybersecurity teams to step up their defenses for newer and faster cyberattacks.",
             "url": "https://www.cnbc.com/2026/05/13/palo-alto-ai-cyberattacks-mythos-gpt.html"
-        },
-        {
-            "title": "Redington Q4 net profit tanks 41% despite rise in revenue; declares \u20b96 dividend",
-            "description": "[CNBC TV18] Redington Ltd reported a 41.3% year-on-year decline in Q4 consolidated net profit to \u20b9391 crore, while revenue rose 25.6% to \u20b933,213 crore. Net profit excluding exceptional items stood at \u20b9467 crore....",
-            "url": "https://www.cnbctv18.com/market/stocks/redington-share-price-q4-net-profit-tanks-41-despite-rise-in-revenue-declares-rs-6-dividend-ws-l-19905284.htm"
         }
     ]
 }
