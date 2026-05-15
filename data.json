@@ -1,5 +1,5 @@
 {
-    "updated": "2026-05-15 15:56:42 UTC",
+    "updated": "2026-05-15 17:23:36 UTC",
     "news": [
         {
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
@@ -12,14 +12,14 @@
             "url": "https://www.cisa.gov/news-events/alerts/2026/05/14/cisa-adds-one-known-exploited-vulnerability-catalog"
         },
         {
-            "title": "TeamPCP hackers advertise Mistral AI code repos for sale",
-            "description": "[BLEEPINGCOMPUTER.COM] The TeamPCP hacker group is threatening to leak source code from the Mistral AI project unless a buyer is found for the data. [...]",
-            "url": "https://www.bleepingcomputer.com/news/security/teampcp-hackers-advertise-mistral-ai-code-repos-for-sale/"
-        },
-        {
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
             "description": "[CISA.GOV] CISA has added one new vulnerability to its&nbsp;Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-6973&nbsp;Ivanti Endpoint Manager Mobile (EPMM)...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/05/07/cisa-adds-one-known-exploited-vulnerability-catalog"
+        },
+        {
+            "title": "Turla Turns Kazuar Backdoor Into Modular P2P Botnet for Persistent Access",
+            "description": "[FEEDS.FEEDBURNER.COM] The Russian state-sponsored hacking group known as Turla has transformed its custom backdoor Kazuar into a modular peer-to-peer (P2P) botnet that's engineered for stealth and persistent access to...",
+            "url": "https://thehackernews.com/2026/05/turla-turns-kazuar-backdoor-into.html"
         },
         {
             "title": "Four OpenClaw Flaws Enable Data Theft, Privilege Escalation, and Persistence",
@@ -37,14 +37,19 @@
             "url": "https://thehackernews.com/2026/05/tanstack-supply-chain-attack-hits-two.html"
         },
         {
+            "title": "Popular node-ipc npm package compromised to steal credentials",
+            "description": "[BLEEPINGCOMPUTER.COM] Hackers have injected credential-stealing malware into newly published versions of node-ipc, a popular inter-process communication package, in a new supply chain attack targeting npm. [...]",
+            "url": "https://www.bleepingcomputer.com/news/security/popular-node-ipc-npm-package-compromised-to-steal-credentials/"
+        },
+        {
+            "title": "Avada Builder WordPress plugin flaws allow site credential theft",
+            "description": "[BLEEPINGCOMPUTER.COM] Two vulnerabilities in the Avada Builder plugin for WordPress, with an estimated one million active installations, allow hackers to read arbitrary files and extract sensitive information from the...",
+            "url": "https://www.bleepingcomputer.com/news/security/avada-builder-wordpress-plugin-flaws-allow-site-credential-theft/"
+        },
+        {
             "title": "On-Prem Microsoft Exchange Server CVE-2026-42897 Exploited via Crafted Email",
             "description": "[FEEDS.FEEDBURNER.COM] Microsoft has disclosed a new security vulnerability impacting on-premise versions of Exchange Server that it said has come under active exploitation in the wild. The vulnerability, tracked as...",
             "url": "https://thehackernews.com/2026/05/on-prem-microsoft-exchange-server-cve.html"
-        },
-        {
-            "title": "CISA Adds Cisco SD-WAN CVE-2026-20182 to KEV After Admin Access Exploits",
-            "description": "[FEEDS.FEEDBURNER.COM] The U.S.Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a newly disclosed vulnerability impacting Cisco Catalyst SD-WAN Controller to its Known Exploited Vulnerabilities...",
-            "url": "https://thehackernews.com/2026/05/cisa-adds-cisco-sd-wan-cve-2026-20182.html"
         },
         {
             "title": "Microsoft backpedals: Edge to stop loading passwords into memory",
@@ -62,11 +67,6 @@
             "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-automatically-roll-back-faulty-windows-drivers/"
         },
         {
-            "title": "Microsoft warns of Exchange zero-day flaw exploited in attacks",
-            "description": "[BLEEPINGCOMPUTER.COM] On Thursday, Microsoft shared mitigations for a high-severity Exchange Server vulnerability exploited in attacks that allow threat actors to execute arbitrary code via cross-site scripting (XSS)...",
-            "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-exchange-zero-day-flaw-exploited-in-attacks/"
-        },
-        {
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
             "description": "[CISA.GOV] CISA has added&nbsp;one&nbsp;new vulnerability&nbsp;to its&nbsp;Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation....",
             "url": "https://www.cisa.gov/news-events/alerts/2026/05/08/cisa-adds-one-known-exploited-vulnerability-catalog"
@@ -75,6 +75,26 @@
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
             "description": "[CISA.GOV] CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-31431 Linux Kernel Incorrect Resource Transfer Between...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/05/01/cisa-adds-one-known-exploited-vulnerability-catalog"
+        },
+        {
+            "title": "Anthropic Mythos cracks Apple's new M5 security in days, claim researchers",
+            "description": "[INDIA TODAY] A cybersecurity startup claims it used Anthropic\u2019s Claude Mythos AI model to build a working exploit against Apple\u2019s new M5 chip protections in less than a week, raising fresh concerns about...",
+            "url": "https://www.indiatoday.in/technology/news/story/anthropic-mythos-cracks-apples-new-m5-security-in-days-claim-researchers-2912096-2026-05-15"
+        },
+        {
+            "title": "Movate Partners with Beacon Mobility to Drive AI",
+            "description": "[THE TRIBUNE] Plano (Texas) [US], May 15: Movate, a global Applied AI services company, today announced a strategic partnership with Beacon Mobility, a leading provider of school transportation and para-transit...",
+            "url": "https://www.tribuneindia.com/news/business/movate-partners-with-beacon-mobility-to-drive-ai-led-cloud-and-cybersecurity-transformation/"
+        },
+        {
+            "title": "CERT-In issues fresh security alert for iPhone, Mac and iPad users over Apple software flaws",
+            "description": "[FIRSTPOST] India\u2019s cybersecurity watchdog has warned Apple users to urgently update their devices after multiple security vulnerabilities were discovered across iPhones, iPads, Macs and other Apple products....",
+            "url": "https://www.firstpost.com/tech/cert-in-issues-fresh-security-alert-for-iphone-mac-and-ipad-users-over-apple-software-flaws-14011441.html"
+        },
+        {
+            "title": "Beyond Mobile Phones: Keypasco Digital helps Australian schools build banking\u2011grade campus cybersecurity protection",
+            "description": "[PR NEWSWIRE UK] /PRNewswire/ -- Lydsec Keypasco Digital Technology Company recently announced a successful partnership with its Australian distributor, Auspac One. Together,...",
+            "url": "https://www.prnewswire.co.uk/news-releases/beyond-mobile-phones-keypasco-digital-helps-australian-schools-build-bankinggrade-campus-cybersecurity-protection-302772344.html"
         },
         {
             "title": "Hong Kong privacy watchdog slams Canvas owner for paying ransom to hackers",
@@ -105,26 +125,6 @@
             "title": "Apple Alerted to macOS Security Vulnerability Uncovered With AI Tool",
             "description": "[MACRUMORS] Anthropic recently announced Project Glasswing, an initiative that enables tech companies like Apple to use its new frontier AI model Claude Mythos Preview to find security vulnerabilities across...",
             "url": "https://www.macrumors.com/2026/05/14/macos-security-vulnerability-found-with-ai/"
-        },
-        {
-            "title": "QNu Labs is Recognized as a Star Player in the MarketsandMarkets 360Quadrants for the Quantum Key Distribution (QKD) Market",
-            "description": "[PR NEWSWIRE UK] /PRNewswire/ -- QNu Labs, one of the leading providers of quantum cybersecurity and cryptographic solutions, has been recognized as a 'Star Company' in the...",
-            "url": "https://www.prnewswire.co.uk/news-releases/qnu-labs-is-recognized-as-a-star-player-in-the-marketsandmarkets-360quadrants-for-the-quantum-key-distribution-qkd-market-302772118.html"
-        },
-        {
-            "title": "You could get a $10,000 payout this July from Comcast's $117.5m settlement",
-            "description": "[THE SUN U.S EDITION] COMCAST has agreed to pay $117.5 million in settlement fees following a 2023 cybersecurity attack. Millions of Americans can receive up to...",
-            "url": "https://www.the-sun.com/money/16360546/comcast-data-breach-class-action-settlement/"
-        },
-        {
-            "title": "Why digital devices and online accounts need spring cleaning",
-            "description": "[NORFOLK VIRGINIAN-PILOT] Spring cleaning isn't just for homes. Carrying out the digital equivalent can help protect your personal data, cybersecurity experts say.",
-            "url": "https://www.pilotonline.com/2026/05/14/spring-cleaning-digital-devices-online-accounts/"
-        },
-        {
-            "title": "Why digital devices and online accounts need spring cleaning",
-            "description": "[READING EAGLE] Spring cleaning isn't just for homes. Carrying out the digital equivalent can help protect your personal data, cybersecurity experts say.",
-            "url": "https://www.readingeagle.com/2026/05/14/spring-cleaning-digital-devices-online-accounts/"
         }
     ]
 }
