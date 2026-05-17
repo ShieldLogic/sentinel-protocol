@@ -1,130 +1,124 @@
 {
-    "updated": "2026-05-17 10:58:39 UTC",
+    "title": "Sentinel Protocol",
+    "tagline": "Perimeter Intelligence Sync",
+    "updated": "2026-05-17 11:57 UTC",
     "news": [
         {
-            "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-            "description": "[CISA.GOV] CISA has added one new vulnerability to its&nbsp;Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation.&nbsp; CVE-2026-0300&nbsp;Palo Alto Networks PAN-OS...",
-            "url": "https://www.cisa.gov/news-events/alerts/2026/05/06/cisa-adds-one-known-exploited-vulnerability-catalog"
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "insider@insider.com (Adam Marshall)",
+            "title": "Where to watch FA Cup Final: Live stream Chelsea vs. Man City free from anywhere",
+            "description": "Chelsea and Man City face off in a can't-miss match. We'll show you where to watch the FA Cup Final.",
+            "url": "https://www.businessinsider.com/guides/streaming/where-to-watch-fa-cup-final-chelsea-man-city-2026",
+            "urlToImage": "https://i.insider.com/6a077ba4ecd7cc1332bb0486?width=1200&format=jpeg",
+            "publishedAt": "2026-05-16T11:00:01Z",
+            "content": "Two of the FA Cup's most successful teams Man City and Chelsea meet at Wembley on Saturday to decide the 145th playing of the competition. And, if you want to know where to watch the FA Cup Final, we\u2026 [+5959 chars]"
         },
         {
-            "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-            "description": "[CISA.GOV] CISA has added&nbsp;one&nbsp;new vulnerability&nbsp;to its&nbsp;Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation.&nbsp; CVE-2026-20182&nbsp;Cisco Catalyst...",
-            "url": "https://www.cisa.gov/news-events/alerts/2026/05/14/cisa-adds-one-known-exploited-vulnerability-catalog"
+            "source": {
+                "id": null,
+                "name": "Tom's Hardware UK"
+            },
+            "author": "editors@tomshardware.com (Bruno Ferreira) , Bruno Ferreira",
+            "title": "First Apple M5 memory exploit discovered using Anthropic AI, gives root access on MacOS \u2014 Claude Mythos helps security researchers bypass Memory Integrity Enforcement",
+            "description": "AI-assisted security research is producing exploits at a frightening rate.",
+            "url": "https://www.tomshardware.com/tech-industry/cyber-security/apple-m5-architecture-suffers-first-privilege-escalation-exploit-anthropics-claude-mythos-helps-researchers-bypass-memory-integrity-enforcement",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/7nJebNFNWuydWZGUNQ2N6Y-2108-80.jpg",
+            "publishedAt": "2026-05-16T11:00:00Z",
+            "content": "Thanks to AI-assisted security research, hackers with hats of various colors are finding exploits everywhere. Linux has had its worst week in years with theCopyFail\r\n and Dirty Frag root-gaining vuln\u2026 [+2809 chars]"
         },
         {
-            "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-            "description": "[CISA.GOV] CISA has added one new vulnerability to its&nbsp;Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-6973&nbsp;Ivanti Endpoint Manager Mobile (EPMM)...",
-            "url": "https://www.cisa.gov/news-events/alerts/2026/05/07/cisa-adds-one-known-exploited-vulnerability-catalog"
+            "source": {
+                "id": null,
+                "name": "BleepingComputer"
+            },
+            "author": "",
+            "title": "PolyVice/Rancoz-based ransomware ([random 8-8].God8Damn)",
+            "description": "PolyVice/Rancoz-based ransomware ([random 8-8].God8Damn) - posted in Ransomware Help & Tech Support: Hello, I was infected with\u00a0ransomware but i dont know yet what is the type of the ransomware on 10/05/2026 .\n\u00a0\nExtensions found: .God8Damn\n[1CAAA6F2-2B17B6E6]\u2026",
+            "url": "https://www.bleepingcomputer.com/forums/t/816017/polyvicerancoz-based-ransomware-random-8-8god8damn/",
+            "urlToImage": "https://www.bleepingcomputer.com/forums/public/style_images/master/meta_image.png",
+            "publishedAt": "2026-05-16T10:51:29Z",
+            "content": "Did you find any ransom notes? If so, what is the actual name of the ransom note?Can you provide (copy &amp; paste or attach) the full ransom note contents in your next reply?In addition to coping &a\u2026 [+695 chars]"
         },
         {
-            "title": "Grafana GitHub Token Breach Led to Codebase Download and Extortion Attempt",
-            "description": "[FEEDS.FEEDBURNER.COM] Grafana has disclosed that an \"unauthorized party\" obtained a token that granted them the ability to access the company's GitHub environment and download its codebase. \"Our investigation has...",
-            "url": "https://thehackernews.com/2026/05/grafana-github-token-breach-led-to.html"
-        },
-        {
-            "title": "Funnel Builder Flaw Under Active Exploitation Enables WooCommerce Checkout Skimming",
-            "description": "[FEEDS.FEEDBURNER.COM] A critical security vulnerability impacting the Funnel Builder plugin for WordPress has come under active exploitation in the wild to inject malicious JavaScript code into WooCommerce checkout pages...",
-            "url": "https://thehackernews.com/2026/05/funnel-builder-flaw-under-active.html"
-        },
-        {
-            "title": "Microsoft rejects critical Azure vulnerability report, no CVE issued",
-            "description": "[BLEEPINGCOMPUTER.COM] A security researcher claims Microsoft quietly fixed an Azure Backup for AKS vulnerability after rejecting his report, and without issuing a CVE. Microsoft disputes the claim, telling...",
-            "url": "https://www.bleepingcomputer.com/news/security/microsoft-rejects-critical-azure-vulnerability-report-no-cve-issued/"
-        },
-        {
-            "title": "Russian hackers turn Kazuar backdoor into modular P2P botnet",
-            "description": "[BLEEPINGCOMPUTER.COM] The Russian hacker group Secret Blizzard has developed its long-running Kazuar backdoor into a modular peer-to-peer (P2P) botnet designed for long-term persistence, stealth, and data collection. [...]",
-            "url": "https://www.bleepingcomputer.com/news/security/russian-hackers-turn-kazuar-backdoor-into-modular-p2p-botnet/"
-        },
-        {
-            "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-            "description": "[CISA.GOV] CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-42897 Microsoft Exchange Server Cross-Site Scripting...",
-            "url": "https://www.cisa.gov/news-events/alerts/2026/05/15/cisa-adds-one-known-exploited-vulnerability-catalog"
-        },
-        {
-            "title": "Turla Turns Kazuar Backdoor Into Modular P2P Botnet for Persistent Access",
-            "description": "[FEEDS.FEEDBURNER.COM] The Russian state-sponsored hacking group known as Turla has transformed its custom backdoor Kazuar into a modular peer-to-peer (P2P) botnet that's engineered for stealth and persistent access to...",
-            "url": "https://thehackernews.com/2026/05/turla-turns-kazuar-backdoor-into.html"
-        },
-        {
-            "title": "Four OpenClaw Flaws Enable Data Theft, Privilege Escalation, and Persistence",
-            "description": "[FEEDS.FEEDBURNER.COM] Cybersecurity researchers have disclosed a set of four security flaws in OpenClaw that could be chained to achieve data theft, privilege escalation, and persistence. The vulnerabilities, collectively...",
-            "url": "https://thehackernews.com/2026/05/four-openclaw-flaws-enable-data-theft.html"
-        },
-        {
-            "title": "What 45 Days of Watching Your Own Tools Will Tell You About Your Real Attack Surface",
-            "description": "[FEEDS.FEEDBURNER.COM] In Your Biggest Security Risk Isn't Malware \u2014 It's What You Already Trust, we made a simple argument: the most dangerous activity inside most organizations no longer looks like an attack. It looks...",
-            "url": "https://thehackernews.com/2026/05/what-45-days-of-watching-your-own-tools.html"
-        },
-        {
-            "title": "Funnel Builder WordPress plugin bug exploited to steal credit cards",
-            "description": "[BLEEPINGCOMPUTER.COM] A critical vulnerability in the Funnel Builder plugin for WordPress is being actively exploited to inject malicious JavaScript snippets into WooCommerce checkout pages. [...]",
-            "url": "https://www.bleepingcomputer.com/news/security/funnel-builder-wordpress-plugin-bug-exploited-to-steal-credit-cards/"
-        },
-        {
-            "title": "Microsoft Exchange, Windows 11 hacked on second day of Pwn2Own",
-            "description": "[BLEEPINGCOMPUTER.COM] \u200bDuring the second day of Pwn2Own Berlin 2026, competitors collected $385,750 in cash awards after exploiting 15 unique zero-day vulnerabilities in multiple products, including Windows 11, Microsoft...",
-            "url": "https://www.bleepingcomputer.com/news/security/pwn2own-day-two-hackers-demo-microsoft-exchange-windows-11-red-had-enterprise-linux-zero-days/"
-        },
-        {
-            "title": "Popular node-ipc npm package compromised to steal credentials",
-            "description": "[BLEEPINGCOMPUTER.COM] Hackers have injected credential-stealing malware into newly published versions of node-ipc, a popular inter-process communication package, in a new supply chain attack targeting npm. [...]",
-            "url": "https://www.bleepingcomputer.com/news/security/popular-node-ipc-npm-package-compromised-to-steal-credentials/"
-        },
-        {
-            "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-            "description": "[CISA.GOV] CISA has added&nbsp;one&nbsp;new vulnerability&nbsp;to its&nbsp;Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation....",
-            "url": "https://www.cisa.gov/news-events/alerts/2026/05/08/cisa-adds-one-known-exploited-vulnerability-catalog"
-        },
-        {
-            "title": "Apple @ Work: How AI is going to change cybersecurity training for Mac admins",
-            "description": "[9TO5MAC] Calendar-driven security training is no longer enough. A new integration from Dashlane and KnowBe4 highlights how AI and real-time coaching will shape the future of enterprise security.",
-            "url": "https://9to5mac.com/2026/05/16/apple-work-how-ai-is-going-to-change-cybersecurity-training-for-mac-admins/"
-        },
-        {
-            "title": "Why Donald Trump\u2019s team threw every single object handed by Chinese officials into trash bin before boarding Air Force One",
-            "description": "[THE INDIAN EXPRESS] US staff travelling with Donald Trump\u2019s delegation in Beijing reportedly discarded Chinese-issued phones, credentials and pins amid strict cybersecurity precautions.",
-            "url": "https://indianexpress.com/article/world/us-news/trump-china-visit-cybersecurity-measures-air-force-one-10692790/"
-        },
-        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Andy Greenberg, Maddy Varner, Dell Cameron, Andrew Couts",
             "title": "Cybercriminal Twins Caught After They Forgot to Turn Off Microsoft Teams Recording",
-            "description": "[WIRED] Plus: Instructure\u2019s Canvas ransomware debacle comes to a close, an alleged dark net market kingpin gets arrested, OpenAI workers fall victim to a supply chain attack, and more.",
-            "url": "https://www.wired.com/story/security-news-this-week-cybercriminal-twins-caught-after-they-forgot-to-turn-off-microsoft-teams-recording/"
+            "description": "Plus: Instructure\u2019s Canvas ransomware debacle comes to a close, an alleged dark net market kingpin gets arrested, OpenAI workers fall victim to a supply chain attack, and more.",
+            "url": "https://www.wired.com/story/security-news-this-week-cybercriminal-twins-caught-after-they-forgot-to-turn-off-microsoft-teams-recording/",
+            "urlToImage": "",
+            "publishedAt": "2026-05-16T10:30:00Z",
+            "content": "The worst part of your iPhone getting stolen may not be the theft itself. Instead, its the phishing attacks waged against people in your contacts. New research this week shows that theres a thriving \u2026 [+5832 chars]"
         },
         {
-            "title": "United Doctors Front Moves Supreme Court Seeking Replacement Of NTA With Statutory Exam Authority",
-            "description": "[FREE PRESS JOURNAL] The United Doctors Front (UDF) has filed a petition in the Supreme Court demanding major reforms in the national examination system, including replacing the National Testing Agency with a statutory...",
-            "url": "https://www.freepressjournal.in/education/united-doctors-front-moves-supreme-court-seeking-replacement-of-nta-with-statutory-exam-authority"
+            "source": {
+                "id": null,
+                "name": "Theregister.com"
+            },
+            "author": "Kim Loohuis",
+            "title": "Europe built sovereign clouds to escape US control. Then forgot about the processors",
+            "description": "Intel ME and AMD PSP: The silicon layer nobody certifies",
+            "url": "https://www.theregister.com/systems/2026/05/16/europe-built-sovereign-clouds-to-escape-us-control-then-forgot-about-the-processors/5237735",
+            "urlToImage": "https://image.theregister.com/5237766.jpg?imageId=5237766&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+            "publishedAt": "2026-05-16T10:30:00Z",
+            "content": "FEATURE Can digital sovereignty exist on American silicon?\u00a0\r\nEurope is pouring more than 2 billion into sovereign cloud initiatives designed to reduce exposure to US legal reach. The EU's IPCEI-CIS p\u2026 [+21511 chars]"
         },
         {
-            "title": "AI Can Now Extract Fingerprints From Photos, Here\u2019s Why Experts Are Concerned",
-            "description": "[TIMES NOW] Cybersecurity experts are alerting the public that the peace sign pose in selfies could inadvertently expose fingerprints. With advancements in AI, hackers can extract fingerprint details from...",
-            "url": "https://www.timesnownews.com/technology-science/ai-can-now-extract-fingerprints-from-photos-heres-why-experts-are-concerned-article-154331382"
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "Ana Maria Constantin",
+            "title": "Four OpenClaw flaws let attackers steal data, escalate privileges, and plant backdoors through the agent\u2019s own sandbox",
+            "description": "Cybersecurity researchers at Cyera have disclosed four vulnerabilities in OpenClaw that, when chained together, allow an attacker to steal sensitive data, escalate privileges, and establish persistent control over a compromised host. The flaws, collectively d\u2026",
+            "url": "https://thenextweb.com/news/openclaw-claw-chain-vulnerabilities-sandbox-escape/",
+            "urlToImage": "https://media.thenextweb.com/2026/05/openclaw-claw-chain-vulnerabilities-sandbox-escape.avif",
+            "publishedAt": "2026-05-16T10:15:12Z",
+            "content": "TL;DR\r\nFour chainable OpenClaw flaws dubbed Claw Chain let attackers weaponise the agents own sandbox. Patches are live.\r\nCybersecurity researchers at Cyera have disclosed four vulnerabilities in Ope\u2026 [+5053 chars]"
         },
         {
-            "title": "'Nothing from China allowed on the plane': Trump team dumps Chinese-issued phones, badges and gifts before boarding Air Force One",
-            "description": "[THE ECONOMIC TIMES] US officials and press accompanying President Trump reportedly discarded all Chinese-provided items, including phones and badges, before departing Beijing. This move underscores deep mistrust and...",
-            "url": "https://economictimes.indiatimes.com/news/new-updates/donald-trump-xi-jinping-meeting-trump-team-dumps-chinese-issued-phones-badges-and-gifts-before-boarding-air-force-one/articleshow/131131093.cms"
+            "source": {
+                "id": "rt",
+                "name": "RT"
+            },
+            "author": "RT",
+            "title": "The EU\u2019s sanctions fever: From Russia to China, a crisis expands",
+            "description": "What was once an instrument of discipline is becoming fuel on the fire of a continent-scale conflagration Read Full Article at RT.com",
+            "url": "https://www.rt.com/news/640063-eu-sanctions-russia-china/",
+            "urlToImage": "https://mf.b37mrtl.ru/files/2026.05/article/6a08313185f5407f90534c30.jpg",
+            "publishedAt": "2026-05-16T08:56:42Z",
+            "content": "The European Union has taken yet another step in its long-running confrontation with Russia. But what now stands out is not only the scale \u2013 it is the restless, almost reflexive expansion of sanction\u2026 [+6369 chars]"
         },
         {
-            "title": "Canada ranks second globally in ransomware attacks: report",
-            "description": "[MOBILESYRUP] Cybersecurity giant Fortinet has outlined how cybercriminals are using AI to ramp up their attacks while companies lack key talent to combat them.",
-            "url": "https://mobilesyrup.com/2026/05/15/canada-ransomware-attacks-fortinet-report/"
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "PTI",
+            "title": "AI becoming infrastructure of intelligence: TCS chairman N Chandrasekaran",
+            "description": "Artificial intelligence is now the core operating system for businesses worldwide. TCS Chairman N Chandrasekaran stated AI services are generating billions in revenue. The company is building secure AI infrastructure and an AI operating system for industries.\u2026",
+            "url": "https://economictimes.indiatimes.com/tech/information-tech/ai-becoming-infrastructure-of-intelligence-tcs-chairman-n-chandrasekaran/articleshow/131133922.cms",
+            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-64052,resizemode-75,msid-131133922/tech/information-tech/ai-becoming-infrastructure-of-intelligence-tcs-chairman-n-chandrasekaran.jpg",
+            "publishedAt": "2026-05-16T08:09:11Z",
+            "content": "Artificial intelligence is no longer just a technological layer but is rapidly becoming the operating foundation and \"infrastructure of intelligence\" for enterprises globally, Tata Consultancy Servic\u2026 [+2072 chars]"
         },
         {
-            "title": "Cybersecurity and AI: How Microsoft Meets a Changing Tech Landscape",
-            "description": "[FINANCIAL POST] Upgrade your computer with Windows 11 Pro, on sale now for just $18.",
-            "url": "https://financialpost.com/personal-finance/business-essentials/cybersecurity-and-ai-how-microsoft-meets-a-changing-tech-landscape"
-        },
-        {
-            "title": "The UK's richest family worth \u00a338bn - owns a 25-bedroom home and companies in 48 countries",
-            "description": "[DAILY EXPRESS] The family's vast empire covers over a dozen sectors, including oil, banking, cybersecurity and real estate.",
-            "url": "https://www.express.co.uk/news/uk/2206145/uk-richest-family-38bn-25-bed-home"
-        },
-        {
-            "title": "Trump Delegation Threw Away Gifts, Credentials, Burner Phones Before Leaving China: Report",
-            "description": "[NEWS18] Trump delegation in China reportedly used burner phones, destroyed them after return, discarded China gifts, highlighting deep US China cybersecurity mistrust and espionage fears.",
-            "url": "https://www.news18.com/world/trump-delegation-threw-away-gifts-credentials-burner-phones-before-leaving-china-report-ws-l-10094157.html"
+            "source": {
+                "id": null,
+                "name": "Kabir.au"
+            },
+            "author": null,
+            "title": "The CTF scene is dead",
+            "description": "Why frontier AI has broken the open CTF format, hollowed out the scoreboard, and made competitive CTF performance a weaker signal than it used to be.",
+            "url": "https://kabir.au/blog/the-ctf-scene-is-dead",
+            "urlToImage": null,
+            "publishedAt": "2026-05-16T07:01:55Z",
+            "content": "The scene that grew my love for CTFs is emptying out. The CTFTime leaderboard has almost no semblance of history or human skill anymore. The 2026 scoreboard is unrecognisable compared to every year b\u2026 [+1398 chars]"
         }
     ]
 }
