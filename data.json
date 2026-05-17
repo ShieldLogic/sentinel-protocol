@@ -1,5 +1,5 @@
 {
-    "updated": "2026-05-17 12:57:13 UTC",
+    "updated": "2026-05-17 14:48:31 UTC",
     "news": [
         {
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
@@ -20,6 +20,11 @@
             "title": "Grafana GitHub Token Breach Led to Codebase Download and Extortion Attempt",
             "description": "[FEEDS.FEEDBURNER.COM] Grafana has disclosed that an \"unauthorized party\" obtained a token that granted them the ability to access the company's GitHub environment and download its codebase. \"Our investigation has...",
             "url": "https://thehackernews.com/2026/05/grafana-github-token-breach-led-to.html"
+        },
+        {
+            "title": "Tycoon2FA hijacks Microsoft 365 accounts via device-code phishing",
+            "description": "[BLEEPINGCOMPUTER.COM] The Tycoon2FA phishing kit now supports device-code phishing attacks and abuses Trustifi click-tracking URLs to hijack Microsoft 365 accounts. [...]",
+            "url": "https://www.bleepingcomputer.com/news/security/tycoon2fa-hijacks-microsoft-365-accounts-via-device-code-phishing/"
         },
         {
             "title": "Funnel Builder Flaw Under Active Exploitation Enables WooCommerce Checkout Skimming",
@@ -65,11 +70,6 @@
             "title": "Microsoft Exchange, Windows 11 hacked on second day of Pwn2Own",
             "description": "[BLEEPINGCOMPUTER.COM] \u200bDuring the second day of Pwn2Own Berlin 2026, competitors collected $385,750 in cash awards after exploiting 15 unique zero-day vulnerabilities in multiple products, including Windows 11, Microsoft...",
             "url": "https://www.bleepingcomputer.com/news/security/pwn2own-day-two-hackers-demo-microsoft-exchange-windows-11-red-had-enterprise-linux-zero-days/"
-        },
-        {
-            "title": "Popular node-ipc npm package compromised to steal credentials",
-            "description": "[BLEEPINGCOMPUTER.COM] Hackers have injected credential-stealing malware into newly published versions of node-ipc, a popular inter-process communication package, in a new supply chain attack targeting npm. [...]",
-            "url": "https://www.bleepingcomputer.com/news/security/popular-node-ipc-npm-package-compromised-to-steal-credentials/"
         },
         {
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
