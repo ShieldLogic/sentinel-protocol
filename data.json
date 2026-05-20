@@ -1,6 +1,21 @@
 {
-    "updated": "2026-05-20 14:36:25 UTC",
+    "updated": "2026-05-20 18:09:15 UTC",
     "news": [
+        {
+            "title": "CISA Adds Seven Known Exploited Vulnerabilities to Catalog",
+            "description": "[CISA.GOV] CISA has added seven new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2008-4250 Microsoft Windows Buffer Overflow Vulnerability...",
+            "url": "https://www.cisa.gov/news-events/alerts/2026/05/20/cisa-adds-seven-known-exploited-vulnerabilities-catalog"
+        },
+        {
+            "title": "Microsoft Open-Sources RAMPART and Clarity to Secure AI Agents During Development",
+            "description": "[FEEDS.FEEDBURNER.COM] Microsoft has unveiled two new open-source tools called RAMPART and Clarity to assist developers in better testing the security of artificial intelligence (AI) agents. RAMPART, short for Risk...",
+            "url": "https://thehackernews.com/2026/05/microsoft-open-sources-rampart-and.html"
+        },
+        {
+            "title": "Microsoft Takes Down Malware-Signing Service Behind Ransomware Attacks",
+            "description": "[FEEDS.FEEDBURNER.COM] Microsoft on Tuesday said it disrupted a malware-signing-as-a-service (MSaaS) operation that weaponized the company's Artifact Signing system to deliver malicious code and conduct ransomware and...",
+            "url": "https://thehackernews.com/2026/05/microsoft-takes-down-malware-signing.html"
+        },
         {
             "title": "Webworm Deploys EchoCreep and GraphWorm Backdoors Using Discord and MS Graph API",
             "description": "[FEEDS.FEEDBURNER.COM] Cybersecurity researchers have flagged fresh activity from a China-aligned threat actor known as Webworm in 2025, deploying custom backdoors that employ Discord and Microsoft Graph API for...",
@@ -17,14 +32,9 @@
             "url": "https://thehackernews.com/2026/05/github-investigating-teampcp-claimed.html"
         },
         {
-            "title": "Typosquatting Is No Longer a User Problem. It's a Supply Chain Problem",
-            "description": "[FEEDS.FEEDBURNER.COM] AI-generated lookalike domains are now embedded inside the third-party scripts running on your web properties. Here's why your current stack can't see them, and what detection actually requires....",
-            "url": "https://thehackernews.com/2026/05/typosquatting-is-no-longer-user-problem.html"
-        },
-        {
-            "title": "Microsoft Releases Mitigation for YellowKey BitLocker Bypass CVE-2026-45585 Exploit",
-            "description": "[FEEDS.FEEDBURNER.COM] Microsoft on Tuesday released a mitigation for a BitLocker bypass vulnerability named YellowKey following its public disclosure last week. The zero-day flaw, now tracked as CVE-2026-45585, carries a...",
-            "url": "https://thehackernews.com/2026/05/microsoft-releases-mitigation-for.html"
+            "title": "Grafana breach caused by missed token rotation after TanStack attack",
+            "description": "[BLEEPINGCOMPUTER.COM] The Grafana data breach was caused by a single GitHub workflow token that slipped through the rotation process following the TanStack npm supply-chain attack last week. [...]",
+            "url": "https://www.bleepingcomputer.com/news/security/grafana-breach-caused-by-missed-token-rotation-after-tanstack-attack/"
         },
         {
             "title": "Identity Alone Isn't Enough: Why Device Security Has to Share the Load",
@@ -47,16 +57,6 @@
             "url": "https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/"
         },
         {
-            "title": "Microsoft shares mitigation for YellowKey Windows zero-day",
-            "description": "[BLEEPINGCOMPUTER.COM] Microsoft has shared mitigations for YellowKey, a recently disclosed Windows BitLocker zero-day vulnerability that grants access to protected drives. [...]",
-            "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-mitigation-for-yellowkey-windows-zero-day/"
-        },
-        {
-            "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-            "description": "[CISA.GOV] CISA has added one new vulnerability to its&nbsp;Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation.&nbsp; CVE-2026-0300&nbsp;Palo Alto Networks PAN-OS...",
-            "url": "https://www.cisa.gov/news-events/alerts/2026/05/06/cisa-adds-one-known-exploited-vulnerability-catalog"
-        },
-        {
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
             "description": "[CISA.GOV] CISA has added&nbsp;one&nbsp;new vulnerability&nbsp;to its&nbsp;Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation.&nbsp; CVE-2026-20182&nbsp;Cisco Catalyst...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/05/14/cisa-adds-one-known-exploited-vulnerability-catalog"
@@ -77,6 +77,46 @@
             "url": "https://www.cisa.gov/news-events/alerts/2026/05/08/cisa-adds-one-known-exploited-vulnerability-catalog"
         },
         {
+            "title": "Exclusive-Sen. Rick Scott & Rep. Andy Ogles: America\u2019s Cybersecurity Cannot Be an Easy Target for Communist China",
+            "description": "[BREITBART NEWS NETWORK] We cannot allow Americans to be at the mercy of Chinese hackers. That\u2019s why Congress must pass the Strengthening Cyber Resilience Against State-Sponsored Threats Act.",
+            "url": "https://www.breitbart.com/politics/2026/05/20/exclusive-sen-rick-scott-rep-andy-ogles-americas-cybersecurity-cannot-be-an-easy-target-for-communist-china/"
+        },
+        {
+            "title": "Recovery Expectations Clash With Reality as ANZ Firms Reassess Ransomware Strategy",
+            "description": "[ITWIRE] Businesses across Australia and New Zealand expect to recover from cyber breaches within days, but new research shows the reality is far more severe, with average recovery...",
+            "url": "https://itwire.com/guest-articles/guest-opinion/recovery-expectations-clash-with-reality-as-anz-firms-reassess-ransomware-strategy"
+        },
+        {
+            "title": "India-South Korea seal strategic defence MoU on cybersecurity, information sharing, during Rajnath Singh's Seoul visit",
+            "description": "[DEVDISCOURSE] The agreement was signed during Union Defence Minister Rajnath Singh's official visit to Seoul, in the presence of his South Korean counterpart, Defence Minister Ahn Gyu-Back.",
+            "url": "https://www.devdiscourse.com/article/international/3914758-india-south-korea-seal-strategic-defence-mou-on-cybersecurity-information-sharing-during-rajnath-singhs-seoul-visit"
+        },
+        {
+            "title": "AI-related data breaches surging, Verizon report says",
+            "description": "[FIRSTPOST] Verizon said using software flaws in data surpassed stolen credentials for the first time. It said in a review of more than 31,000 incidents, 31% of all breaches started with vulnerability...",
+            "url": "https://www.firstpost.com/tech/ai-related-data-breaches-surging-verizon-report-says-14013098.html"
+        },
+        {
+            "title": "India-South Korea seal strategic defence MoU on cybersecurity, information sharing, during Rajnath Singh's Seoul visit",
+            "description": "[THE HINDU BUSINESS LINE] India and South Korea sign a strategic MoU on cybersecurity and defense cooperation during Rajnath Singh's visit to Seoul.",
+            "url": "https://www.thehindubusinessline.com/news/india-south-korea-seal-strategic-defence-mou-on-cybersecurity-information-sharing-during-rajnath-singhs-seoul-visit/article71000672.ece"
+        },
+        {
+            "title": "South Korea seal strategic defence MoU on cybersecurity, information sharing, during Rajnath Singh's Seoul visit",
+            "description": "[THE TRIBUNE] The agreement was signed during Union Defence Minister Rajnath Singh's official visit to Seoul, in the presence of his South Korean counterpart, Defence Minister Ahn Gyu-Back.",
+            "url": "https://www.tribuneindia.com/news/world/india-south-korea-seal-strategic-defence-mou-on-cybersecurity-information-sharing-during-rajnath-singhs-seoul-visit/"
+        },
+        {
+            "title": "SMBs Hit a Cybersecurity Breaking Point as 91% Fear AI-Driven Attacks, Driving Shift to MSP-Led Security Models, WatchGuard Finds",
+            "description": "[THE MANILA TIMES] New global research shows internal teams can\u2019t keep pace, fueling demand for always-on, outcome-driven security services",
+            "url": "https://www.manilatimes.net/2026/05/20/tmt-newswire/globenewswire/smbs-hit-a-cybersecurity-breaking-point-as-91-fear-ai-driven-attacks-driving-shift-to-msp-led-security-models-watchguard-finds/2347804"
+        },
+        {
+            "title": "Affordable cybersecurity wins: High-impact steps for small businesses",
+            "description": "[ITWIRE] Strong cybersecurity doesn't require an enterprise budget.",
+            "url": "https://itwire.com/business-it-news/security/affordable-cybersecurity-wins-high-impact-steps-for-small-businesses"
+        },
+        {
             "title": "Big Donald Trump order on AI, cybersecurity coming soon as White House begins crackdown on deepfakes",
             "description": "[THE ECONOMIC TIMES] Donald Trump on AI: This comes as the United States on Tuesday began enforcing a law requiring tech platforms to remove deepfakes and other non-consensual intimate imagery.",
             "url": "https://economictimes.indiatimes.com/news/international/us/big-donald-trump-order-on-ai-cybersecurity-coming-soon-as-white-house-begins-crackdown-on-deepfakes/articleshow/131213967.cms"
@@ -85,46 +125,6 @@
             "title": "Barracuda collaborates with CyberCert on simpler compliance certification for Australian businesses",
             "description": "[ITWIRE] New relationship will reduce cost and complexity of cybersecurity compliance certification for small-to-medium businesses in A/NZ",
             "url": "https://itwire.com/it-industry-news/strategy/barracuda-collaborates-with-cybercert-on-simpler-compliance-certification-for-australian-businesses"
-        },
-        {
-            "title": "G H Raisoni Education launches AI-oriented programmes",
-            "description": "[THE HITAVADA] g h raisoni education has introduced a diversified range of ai-oriented programmes across btech, bca, and mca streams. the initiative aims to equip students with future-ready technical skills and...",
-            "url": "https://www.thehitavada.com/Encyc/2026/5/20/g-h-raisoni-education-launches-ai-oriented-programmes.html"
-        },
-        {
-            "title": "G H Raisoni Education launches AI-oriented programmes",
-            "description": "[THE HITAVADA] g h raisoni education has introduced a diversified range of ai-oriented programmes across btech, bca, and mca streams. the initiative aims to equip students with future-ready technical skills and...",
-            "url": "https://www.thehitavada.com//Encyc/2026/5/20/g-h-raisoni-education-launches-ai-oriented-programmes.html"
-        },
-        {
-            "title": "UpGuard's ASX 200 Cybersecurity Report: 1 in 10 ASX 200 Companies Already Infected by Dark Web Infostealers",
-            "description": "[THE MANILA TIMES] **media[1064107]**Although there was a slight improvement in the ASX 200's security rating, it was driven by post-incident security fixes, not proactive strategy",
-            "url": "https://www.manilatimes.net/2026/05/20/tmt-newswire/pr-newswire/upguards-asx-200-cybersecurity-report-1-in-10-asx-200-companies-already-infected-by-dark-web-infostealers/2347736"
-        },
-        {
-            "title": "Liberty Mutual sued over ransomware data breach",
-            "description": "[AL.COM] The data breach exposed personal and medical records to criminals, with the lawsuit alleging the company failed to safeguard the information.",
-            "url": "https://www.al.com/news/2026/05/major-insurance-company-faces-class-action-lawsuit-after-hackers-posted-health-information-online.html"
-        },
-        {
-            "title": "Major banks use OpenAI\u2019s Daybreak for cybersecurity defence",
-            "description": "[AUSTRALIAN FINANCIAL REVIEW] Australian banks are using Open AI\u2019s most powerful AI model to test for vulnerabilities in their cybersecurity systems, while rival Anthropic engages with the RBA.",
-            "url": "https://www.afr.com/companies/financial-services/major-banks-use-openai-s-daybreak-for-cybersecurity-defence-20260519-p5zyn9"
-        },
-        {
-            "title": "AI-driven cyberattacks now exceed ID theft, Verizon says",
-            "description": "[MARKETSCREENER] Security breaches exploited via artificial intelligence became the leading cause of data violations last year, overtaking ID theft, according to Verizon's annual cybersecurity report. The US...",
-            "url": "https://www.marketscreener.com/news/ai-driven-cyberattacks-now-exceed-id-theft-verizon-says-ce7f5ad8d880f023"
-        },
-        {
-            "title": "Palo Alto Networks CEO Says AI Won't Reduce His Need for Engineers",
-            "description": "[BUSINESS INSIDER] Nikesh Arora says AI changed is changing hiring plans, but the cybersecurity CEO says he needs more engineers.",
-            "url": "https://www.businessinsider.com/palo-alto-networks-ceo-nikesh-arora-ai-reduce-engineers-2026-5"
-        },
-        {
-            "title": "What's Going On With Meiwu Technology Stock Today?",
-            "description": "[BENZINGA] Meiwu Technology shares surged after the company raised $15.65 million to expand an AI-powered skincare platform despite regulatory and cybersecurity risks.",
-            "url": "https://www.benzinga.com/trading-ideas/movers/26/05/52671148/whats-going-on-with-meiwu-technology-stock-today"
         }
     ]
 }
