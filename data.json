@@ -1,15 +1,25 @@
 {
-    "updated": "2026-05-20 07:35:09 UTC",
+    "updated": "2026-05-20 10:41:41 UTC",
     "news": [
+        {
+            "title": "Microsoft Releases Mitigation for YellowKey BitLocker Bypass CVE-2026-45585 Exploit",
+            "description": "[FEEDS.FEEDBURNER.COM] Microsoft on Tuesday released a mitigation for a BitLocker bypass vulnerability named YellowKey following its public disclosure last week. The zero-day flaw, now tracked as CVE-2026-45585, carries a...",
+            "url": "https://thehackernews.com/2026/05/microsoft-releases-mitigation-for.html"
+        },
         {
             "title": "Grafana GitHub Breach Exposes Source Code via TanStack npm Attack",
             "description": "[FEEDS.FEEDBURNER.COM] Grafana Labs, on May 19, 2026, said an investigation into its recent breach found no evidence of customer production systems or operations being compromised. It said the scope of the incident is...",
             "url": "https://thehackernews.com/2026/05/grafana-github-breach-exposes-source.html"
         },
         {
-            "title": "GitHub Investigating TeamPCP Claimed Breach of ~4,000 Internal Repositories",
+            "title": "GitHub Breached \u2014 Employee Device Hack Led to Exfiltration of 3,800+ Internal Repos",
             "description": "[FEEDS.FEEDBURNER.COM] GitHub on Tuesday said it's investigating unauthorized access to its internal repositories after the notorious threat actor known as TeamPCP listed the platform's source code and internal...",
             "url": "https://thehackernews.com/2026/05/github-investigating-teampcp-claimed.html"
+        },
+        {
+            "title": "GitHub confirms breach of 3,800 repos via malicious VSCode extension",
+            "description": "[BLEEPINGCOMPUTER.COM] GitHub has confirmed that roughly 3,800 internal repositories were breached after one of its employees installed a malicious VS Code extension. [...]",
+            "url": "https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/"
         },
         {
             "title": "Microsoft shares mitigation for YellowKey Windows zero-day",
@@ -47,16 +57,6 @@
             "url": "https://www.bleepingcomputer.com/news/security/cybercrime-service-disrupted-for-abusing-microsoft-platform-to-sign-malware/"
         },
         {
-            "title": "The New Phishing Click: How OAuth Consent Bypasses MFA",
-            "description": "[FEEDS.FEEDBURNER.COM] In February 2026, a phishing-as-a-service (PhaaS) platform called EvilTokens went live. Within five weeks, it had compromised more than 340 Microsoft 365 organizations across five countries.&nbsp;...",
-            "url": "https://thehackernews.com/2026/05/the-new-phishing-click-how-oauth.html"
-        },
-        {
-            "title": "Discord rolls out end-to-end encryption on voice, video calls",
-            "description": "[BLEEPINGCOMPUTER.COM] Discord announced that all voice and video calls through the communication platform are now protected by default with end-to-end encryption (E2EE). [...]",
-            "url": "https://www.bleepingcomputer.com/news/security/discord-rolls-out-end-to-end-encryption-on-voice-video-calls/"
-        },
-        {
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
             "description": "[CISA.GOV] CISA has added&nbsp;one&nbsp;new vulnerability&nbsp;to its&nbsp;Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation.&nbsp; CVE-2026-20182&nbsp;Cisco Catalyst...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/05/14/cisa-adds-one-known-exploited-vulnerability-catalog"
@@ -75,6 +75,11 @@
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
             "description": "[CISA.GOV] CISA has added&nbsp;one&nbsp;new vulnerability&nbsp;to its&nbsp;Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation....",
             "url": "https://www.cisa.gov/news-events/alerts/2026/05/08/cisa-adds-one-known-exploited-vulnerability-catalog"
+        },
+        {
+            "title": "Liberty Mutual sued over ransomware data breach",
+            "description": "[AL.COM] The data breach exposed personal and medical records to criminals, with the lawsuit alleging the company failed to safeguard the information.",
+            "url": "https://www.al.com/news/2026/05/major-insurance-company-faces-class-action-lawsuit-after-hackers-posted-health-information-online.html"
         },
         {
             "title": "Major banks use OpenAI\u2019s Daybreak for cybersecurity defence",
@@ -120,11 +125,6 @@
             "title": "Tired of targeted ads following you everywhere? Grab Surfshark One to mask your digital footprint and block malicious links",
             "description": "[TOM'S GUIDE] Mask your digital footprint and say goodbye to ads and trackers with Surfshark One. It's a complete cybersecurity package and costs less than $2.50 per month.",
             "url": "https://www.tomsguide.com/computing/vpns/tired-of-targeted-ads-following-you-everywhere-grab-surfshark-one-to-mask-your-digital-footprint-and-block-malicious-links"
-        },
-        {
-            "title": "Automation is changing cybersecurity workflows, not replacing human expertise",
-            "description": "[DEVDISCOURSE] Read more about Automation is changing cybersecurity workflows, not replacing human expertise on Devdiscourse",
-            "url": "https://www.devdiscourse.com/article/technology/3912727-automation-is-changing-cybersecurity-workflows-not-replacing-human-expertise"
         }
     ]
 }
