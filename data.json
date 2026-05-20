@@ -1,5 +1,5 @@
 {
-    "updated": "2026-05-20 18:09:15 UTC",
+    "updated": "2026-05-20 21:42:41 UTC",
     "news": [
         {
             "title": "CISA Adds Seven Known Exploited Vulnerabilities to Catalog",
@@ -22,9 +22,19 @@
             "url": "https://thehackernews.com/2026/05/webworm-deploys-echocreep-and-graphworm.html"
         },
         {
+            "title": "Ukraine identifies infostealer operator tied to 28,000 stolen accounts",
+            "description": "[BLEEPINGCOMPUTER.COM] The Ukrainian cyberpolice, working in conjunction with U.S. law enforcement, has identified an 18-year-old man from Odesa suspected of running an infostealer malware operation targeting users of an...",
+            "url": "https://www.bleepingcomputer.com/news/security/ukraine-identifies-infostealer-operator-tied-to-28-000-stolen-accounts/"
+        },
+        {
             "title": "Agent AI is Coming. Are You Ready?",
             "description": "[FEEDS.FEEDBURNER.COM] New Industry Data Just Released Suggests Not. On May 19th, 2026, Orchid Security released the results of our Identity Gap: Snapshot 2026. Among the findings, \"identity dark matter\" (the unseen,...",
             "url": "https://thehackernews.com/2026/05/agent-ai-is-coming-are-you-ready.html"
+        },
+        {
+            "title": "Hackers bypass SonicWall VPN MFA due to incomplete patching",
+            "description": "[BLEEPINGCOMPUTER.COM] Threat actors brute-forced VPN credentials and bypassed multi-factor authentication (MFA) on SonicWall Gen6 SSL-VPN appliances to deploy tools used in ransomware attacks. [...]",
+            "url": "https://www.bleepingcomputer.com/news/security/hackers-bypass-sonicwall-vpn-mfa-due-to-incomplete-patching/"
         },
         {
             "title": "GitHub Breached \u2014 Employee Device Hack Led to Exfiltration of 3,800+ Internal Repos",
@@ -47,16 +57,6 @@
             "url": "https://www.bleepingcomputer.com/news/security/drupal-critical-update-to-fix-bug-with-high-exploitation-risk/"
         },
         {
-            "title": "Exploit released for new PinTheft Arch Linux root escalation flaw",
-            "description": "[BLEEPINGCOMPUTER.COM] PinTheft, a recently patched Linux privilege escalation vulnerability, now has a publicly available proof-of-concept (PoC) exploit that allows local attackers to gain root privileges on Arch Linux...",
-            "url": "https://www.bleepingcomputer.com/news/linux/exploit-released-for-new-pintheft-arch-linux-root-escalation-flaw/"
-        },
-        {
-            "title": "GitHub confirms breach of 3,800 repos via malicious VSCode extension",
-            "description": "[BLEEPINGCOMPUTER.COM] GitHub has confirmed that roughly 3,800 internal repositories were breached after one of its employees installed a malicious VS Code extension. [...]",
-            "url": "https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/"
-        },
-        {
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
             "description": "[CISA.GOV] CISA has added&nbsp;one&nbsp;new vulnerability&nbsp;to its&nbsp;Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation.&nbsp; CVE-2026-20182&nbsp;Cisco Catalyst...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/05/14/cisa-adds-one-known-exploited-vulnerability-catalog"
@@ -75,6 +75,26 @@
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
             "description": "[CISA.GOV] CISA has added&nbsp;one&nbsp;new vulnerability&nbsp;to its&nbsp;Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation....",
             "url": "https://www.cisa.gov/news-events/alerts/2026/05/08/cisa-adds-one-known-exploited-vulnerability-catalog"
+        },
+        {
+            "title": "CrowdStrike, SVA Partner for Cybersecurity Services in Germany",
+            "description": "[MARKETSCREENER] CrowdStrike and SVA System Vertrieb Alexander have formed a partnership to provide cybersecurity software to organizations in Germany, the companies said Wednesday. SVA will add the Falcon...",
+            "url": "https://www.marketscreener.com/news/crowdstrike-sva-partner-for-cybersecurity-services-in-germany-ce7f5ad8d08af626"
+        },
+        {
+            "title": "Industry-govt collaboration, real-time cyber threat info sharing key to India's cyber resilience framework: National Cybersecurity Coordinator",
+            "description": "[DEVDISCOURSE] Greater collaboration between industry and government, along with real-time cyber threat information sharing mechanisms, will play a critical role in shaping India's future cyber resilience framework...",
+            "url": "https://www.devdiscourse.com/article/business/3915083-industry-govt-collaboration-real-time-cyber-threat-info-sharing-key-to-indias-cyber-resilience-framework-national-cybersec"
+        },
+        {
+            "title": "time cyber threat info sharing key to India's cyber resilience framework: National Cybersecurity Coordinator",
+            "description": "[THE TRIBUNE] Greater collaboration between industry and government, along with real-time cyber threat information sharing mechanisms, will play a critical role in shaping India's future cyber resilience framework...",
+            "url": "https://www.tribuneindia.com/news/business/industry-govt-collaboration-real-time-cyber-threat-info-sharing-key-to-indias-cyber-resilience-framework-national-cybersecurity-coordinator/"
+        },
+        {
+            "title": "Maritime Ports Face Mounting Cybersecurity Risks in Rapidly Digitalizing Economy",
+            "description": "[DEVDISCOURSE] A new World Bank report warns that growing digitalization has made global ports highly vulnerable to cyberattacks capable of disrupting trade, supply chains, and national economies. The study urges...",
+            "url": "https://www.devdiscourse.com/article/other/3911497-maritime-ports-face-mounting-cybersecurity-risks-in-rapidly-digitalizing-economy"
         },
         {
             "title": "Exclusive-Sen. Rick Scott & Rep. Andy Ogles: America\u2019s Cybersecurity Cannot Be an Easy Target for Communist China",
@@ -105,26 +125,6 @@
             "title": "South Korea seal strategic defence MoU on cybersecurity, information sharing, during Rajnath Singh's Seoul visit",
             "description": "[THE TRIBUNE] The agreement was signed during Union Defence Minister Rajnath Singh's official visit to Seoul, in the presence of his South Korean counterpart, Defence Minister Ahn Gyu-Back.",
             "url": "https://www.tribuneindia.com/news/world/india-south-korea-seal-strategic-defence-mou-on-cybersecurity-information-sharing-during-rajnath-singhs-seoul-visit/"
-        },
-        {
-            "title": "SMBs Hit a Cybersecurity Breaking Point as 91% Fear AI-Driven Attacks, Driving Shift to MSP-Led Security Models, WatchGuard Finds",
-            "description": "[THE MANILA TIMES] New global research shows internal teams can\u2019t keep pace, fueling demand for always-on, outcome-driven security services",
-            "url": "https://www.manilatimes.net/2026/05/20/tmt-newswire/globenewswire/smbs-hit-a-cybersecurity-breaking-point-as-91-fear-ai-driven-attacks-driving-shift-to-msp-led-security-models-watchguard-finds/2347804"
-        },
-        {
-            "title": "Affordable cybersecurity wins: High-impact steps for small businesses",
-            "description": "[ITWIRE] Strong cybersecurity doesn't require an enterprise budget.",
-            "url": "https://itwire.com/business-it-news/security/affordable-cybersecurity-wins-high-impact-steps-for-small-businesses"
-        },
-        {
-            "title": "Big Donald Trump order on AI, cybersecurity coming soon as White House begins crackdown on deepfakes",
-            "description": "[THE ECONOMIC TIMES] Donald Trump on AI: This comes as the United States on Tuesday began enforcing a law requiring tech platforms to remove deepfakes and other non-consensual intimate imagery.",
-            "url": "https://economictimes.indiatimes.com/news/international/us/big-donald-trump-order-on-ai-cybersecurity-coming-soon-as-white-house-begins-crackdown-on-deepfakes/articleshow/131213967.cms"
-        },
-        {
-            "title": "Barracuda collaborates with CyberCert on simpler compliance certification for Australian businesses",
-            "description": "[ITWIRE] New relationship will reduce cost and complexity of cybersecurity compliance certification for small-to-medium businesses in A/NZ",
-            "url": "https://itwire.com/it-industry-news/strategy/barracuda-collaborates-with-cybercert-on-simpler-compliance-certification-for-australian-businesses"
         }
     ]
 }
