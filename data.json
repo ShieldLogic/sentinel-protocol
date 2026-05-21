@@ -1,130 +1,137 @@
 {
-    "updated": "2026-05-21 10:58:30 UTC",
+    "title": "Sentinel Protocol",
+    "tagline": "Perimeter Intelligence Sync",
+    "updated": "2026-05-21 14:12 UTC",
     "news": [
         {
-            "title": "CISA Adds Seven Known Exploited Vulnerabilities to Catalog",
-            "description": "[CISA.GOV] CISA has added seven new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2008-4250 Microsoft Windows Buffer Overflow Vulnerability...",
-            "url": "https://www.cisa.gov/news-events/alerts/2026/05/20/cisa-adds-seven-known-exploited-vulnerabilities-catalog"
+            "source": {
+                "id": null,
+                "name": "Help Net Security"
+            },
+            "author": "Zeljka Zorz",
+            "title": "Verizon DBIR: Vulnerability exploitation is the dominant initial access vector",
+            "description": "Vulnerability exploitation has overtaken stolen credentials as the most common way attackers gain initial access to target networks, according to the 2026 Verizon Data Breach Investigations Report. This is the first time credential theft has been knocked off \u2026",
+            "url": "https://www.helpnetsecurity.com/2026/05/20/verizon-2026-dbir-findings/",
+            "urlToImage": "https://img.helpnetsecurity.com/wp-content/uploads/2026/05/19182742/verizon-dbir-2026.webp",
+            "publishedAt": "2026-05-20T14:10:13Z",
+            "content": "Vulnerability exploitation has overtaken stolen credentials as the most common way attackers gain initial access to target networks, according to the 2026 Verizon Data Breach Investigations Report.\r\n\u2026 [+5312 chars]"
         },
         {
-            "title": "Microsoft Open-Sources RAMPART and Clarity to Secure AI Agents During Development",
-            "description": "[FEEDS.FEEDBURNER.COM] Microsoft has unveiled two new open-source tools called RAMPART and Clarity to assist developers in better testing the security of artificial intelligence (AI) agents. RAMPART, short for Risk...",
-            "url": "https://thehackernews.com/2026/05/microsoft-open-sources-rampart-and.html"
+            "source": {
+                "id": null,
+                "name": "BleepingComputer"
+            },
+            "author": "Sponsored by Specops Software",
+            "title": "Identity Alone Isn't Enough: Why Device Security Has to Share the Load",
+            "description": "Identity checks alone can't stop attackers using stolen session tokens and compromised devices. Specops Software outlines why Zero Trust strategies increasingly depend on continuous device verification. [...]",
+            "url": "https://www.bleepingcomputer.com/news/security/identity-alone-isnt-enough-why-device-security-has-to-share-the-load/",
+            "urlToImage": "https://www.bleepstatic.com/content/posts/2026/05/18/identity-alone-isnt-enough-why-device-security-has-to-share-the-load.png",
+            "publishedAt": "2026-05-20T14:02:12Z",
+            "content": "Identity has long been the load-bearing wall of cybersecurity. The logic was simple: verify the employee, secure the access. But as professionalized threat actors weaponize AI and sophisticated phish\u2026 [+5750 chars]"
         },
         {
-            "title": "Ukraine identifies infostealer operator tied to 28,000 stolen accounts",
-            "description": "[BLEEPINGCOMPUTER.COM] The Ukrainian cyberpolice, working in conjunction with U.S. law enforcement, has identified an 18-year-old man from Odesa suspected of running an infostealer malware operation targeting users of an...",
-            "url": "https://www.bleepingcomputer.com/news/security/ukraine-identifies-infostealer-operator-tied-to-28-000-stolen-accounts/"
+            "source": {
+                "id": null,
+                "name": "SiliconANGLE News"
+            },
+            "author": "Mike Wheatley",
+            "title": "NanoCo raises $12M to accelerate NanoClaw, a secure, enterprise-grade agentic AI assistant for every office worker",
+            "description": "NanoCo, the startup behind NanoClaw, a fast-growing open-source artificial intelligent agent that\u2019s secure by design, said today it has raised $12 million in seed funding. The oversubscribed round was led by Valley Capital Partners and saw participation from \u2026",
+            "url": "https://siliconangle.com/2026/05/20/nanoco-raises-12m-accelerate-nanoclaw-secure-enterprise-grade-agentic-ai-assistant-every-office-worker/",
+            "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/05/Screenshot-from-2026-05-19-10-36-36.png",
+            "publishedAt": "2026-05-20T14:00:55Z",
+            "content": "NanoCo, the startup behind NanoClaw, a fast-growing open-source artificial intelligent agent thats secure by design, said today it has raised $12 million in seed funding.\r\nThe oversubscribed round wa\u2026 [+5181 chars]"
         },
         {
-            "title": "Hackers bypass SonicWall VPN MFA due to incomplete patching",
-            "description": "[BLEEPINGCOMPUTER.COM] Threat actors brute-forced VPN credentials and bypassed multi-factor authentication (MFA) on SonicWall Gen6 SSL-VPN appliances to deploy tools used in ransomware attacks. [...]",
-            "url": "https://www.bleepingcomputer.com/news/security/hackers-bypass-sonicwall-vpn-mfa-due-to-incomplete-patching/"
+            "source": {
+                "id": null,
+                "name": "PRNewswire"
+            },
+            "author": null,
+            "title": "Plume Secures Bermuda Digital Asset Licence Launching the World's First Regulated Vaults",
+            "description": "Plume's subsidiary, Kimber Digital Asset Bermuda, leads open finance with the first scalable asset management product available permissionlessly to anyone in the world. HAMILTON, Bermuda, May 20, 2026 /PRNewswire/ -- Kimber Labs Inc, the builder of Plume, the\u2026",
+            "url": "https://www.prnewswire.com/news-releases/plume-secures-bermuda-digital-asset-licence-launching-the-worlds-first-regulated-vaults-302777465.html",
+            "urlToImage": "https://mma.prnewswire.com/media/2564992/Full_Logo_ID_3d3934e75632_Logo.jpg?p=facebook",
+            "publishedAt": "2026-05-20T14:00:00Z",
+            "content": "Plume's subsidiary, Kimber Digital Asset Bermuda, leads open finance with the first scalable asset management product available permissionlessly to anyone in the world.\r\nHAMILTON, Bermuda, May 20, 20\u2026 [+7839 chars]"
         },
         {
-            "title": "Grafana breach caused by missed token rotation after TanStack attack",
-            "description": "[BLEEPINGCOMPUTER.COM] The Grafana data breach was caused by a single GitHub workflow token that slipped through the rotation process following the TanStack npm supply-chain attack last week. [...]",
-            "url": "https://www.bleepingcomputer.com/news/security/grafana-breach-caused-by-missed-token-rotation-after-tanstack-attack/"
+            "source": {
+                "id": null,
+                "name": "PRNewswire"
+            },
+            "author": null,
+            "title": "Arcfield awarded $75M follow-on contract to continue work on the U.S. Navy Combat Control Systems Program",
+            "description": "Award ensures delivery of cutting-edge capabilities in undersea warfare operations. CHANTILLY, Va., May 20, 2026 /PRNewswire/ -- Arcfield, a leading government services and mission support provider, announced today that it has been awarded a $75 million follo\u2026",
+            "url": "https://www.prnewswire.com/news-releases/arcfield-awarded-75m-follow-on-contract-to-continue-work-on-the-us-navy-combat-control-systems-program-302777794.html",
+            "urlToImage": "https://mmx.prnewswire.com/media/MS1330666/Arcfield-RGB-TealBlue-TM-Trademark-Logo_Logo.jpg?id=OA2638790&p=facebook",
+            "publishedAt": "2026-05-20T14:00:00Z",
+            "content": "Award ensures delivery of cutting-edge capabilities in undersea warfare operations. \r\nCHANTILLY, Va., May 20, 2026 /PRNewswire/ -- Arcfield, a leading government services and mission support provider\u2026 [+3357 chars]"
         },
         {
-            "title": "When Identity is the Attack Path",
-            "description": "[FEEDS.FEEDBURNER.COM] Consider a cached access key on a single Windows machine. It got there the way most cached credentials do - a user logged in, and the key stored itself automatically. Standard AWS behavior. No one...",
-            "url": "https://thehackernews.com/2026/05/when-identity-is-attack-path.html"
+            "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            "author": "Christopher Fielder",
+            "title": "Cyber resilience defines SME competitiveness",
+            "description": "Cybercriminals are more professional and profit-driven; SMEs must treat cybersecurity strategically.",
+            "url": "https://www.techradar.com/pro/cyber-resilience-defines-sme-competitiveness",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/mfPaYGQmks2VALWFFBnSej-2000-80.jpg",
+            "publishedAt": "2026-05-20T13:59:25Z",
+            "content": "The threat landscape is escalating.\r\nCyber gangs are increasingly operating as profit-driven enterprises, offering structured affiliate programs, tiered revenue models and operational support to attr\u2026 [+7014 chars]"
         },
         {
-            "title": "9-Year-Old Linux Kernel Flaw Enables Root Command Execution on Major Distros",
-            "description": "[FEEDS.FEEDBURNER.COM] Cybersecurity researchers have disclosed details of a vulnerability in the Linux kernel that remained undetected for nine years. The vulnerability, tracked as CVE-2026-46333 (CVSS score: 5.5), is a...",
-            "url": "https://thehackernews.com/2026/05/9-year-old-linux-kernel-flaw-enables.html"
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "ANI",
+            "title": "India-Estonia ties growing stronger in tech, startups, global diplomacy: Foreign Minister Tsahkna",
+            "description": "Estonia's Foreign Minister Margus Tsahkna sees strong potential in India-Estonia digital cooperation. He noted advancements in technology, AI, and cybersecurity. Tsahkna also urged India to increase diplomatic pressure on Russia. This could help bring peace t\u2026",
+            "url": "https://economictimes.indiatimes.com/tech/information-tech/india-estonia-ties-growing-stronger-in-tech-startups-global-diplomacy-foreign-minister-tsahkna/articleshow/131228637.cms",
+            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-39354,resizemode-75,msid-131228637/tech/information-tech/india-estonia-ties-growing-stronger-in-tech-startups-global-diplomacy-foreign-minister-tsahkna.jpg",
+            "publishedAt": "2026-05-20T13:58:36Z",
+            "content": "Estonia's Foreign Minister Margus Tsahkna on Wednesday highlighted the growing India-Estonia cooperation in technology, AI, cybersecurity and digital governance, while noting that New Delhi can play \u2026 [+3563 chars]"
         },
         {
-            "title": "GitHub Internal Repositories Breached via Malicious Nx Console VS Code Extension",
-            "description": "[FEEDS.FEEDBURNER.COM] GitHub on Wednesday officially confirmed that the breach of its internal repositories was the result of a compromise of an employee device involving a poisoned version of the Nx Console Microsoft...",
-            "url": "https://thehackernews.com/2026/05/github-internal-repositories-breached.html"
+            "source": {
+                "id": null,
+                "name": "HackRead"
+            },
+            "author": "Deeba Ahmed",
+            "title": "GitHub Breach: TeamPCP Steals 3,800 Repositories via VS Code Extension",
+            "description": "GitHub Breach: TeamPCP stole 3,800 internal repositories through a malicious VS Code extension and is now selling the data online for $95,000.",
+            "url": "https://hackread.com/github-breach-teampcp-repositories-vs-code-extension/",
+            "urlToImage": "https://hackread.com/wp-content/uploads/2026/05/github-data-breach-team-pcp-1.png",
+            "publishedAt": "2026-05-20T13:55:51Z",
+            "content": "GitHub is the newest target of a data breach in which hackers from the infamous TeamPCP hackersbypassed its security to gain access to internal systems and steal proprietary source code. This widely \u2026 [+4700 chars]"
         },
         {
-            "title": "Highly Critical Drupal Core Flaw Exposes PostgreSQL Sites to RCE Attacks",
-            "description": "[FEEDS.FEEDBURNER.COM] Drupal has released security updates for a \"highly critical\" security vulnerability in Drupal Core that could be exploited by attackers to achieve remote code execution, privilege escalation, or...",
-            "url": "https://thehackernews.com/2026/05/highly-critical-drupal-core-flaw.html"
+            "source": {
+                "id": null,
+                "name": "DevOps.com"
+            },
+            "author": "Steven J. Vaughan-Nichols",
+            "title": "OpenSSF\u2019s CRob: \u2018The Runway Is Rapidly Running Out\u2019 on EU CRA Readiness",
+            "description": "The EU\u2019s Cyber Resilience Act kicks into high gear this September, and companies are still clueless about how they must obey its strictures. MINNEAPOLIS \u2014 At Open Source Summit North America, Christopher \u201cCRob\u201d Robinson, Chief Security Architect for the Open \u2026",
+            "url": "https://devops.com/openssfs-crob-the-runway-is-rapidly-running-out-on-eu-cra-readiness/",
+            "urlToImage": "https://devops.com/wp-content/uploads/2026/05/cra_cyber_resilience_act_770x330.jpg",
+            "publishedAt": "2026-05-20T13:50:38Z",
+            "content": "The EU\u2019s Cyber Resilience Act kicks into high gear this September, and companies are still clueless about how they must obey its strictures.\r\nMINNEAPOLIS At Open Source Summit North America, Christop\u2026 [+6179 chars]"
         },
         {
-            "title": "Microsoft warns of new Defender zero-days exploited in attacks",
-            "description": "[BLEEPINGCOMPUTER.COM] On Wednesday, Microsoft started rolling out security patches for two Defender vulnerabilities that have been exploited in zero-day attacks. [...]",
-            "url": "https://www.bleepingcomputer.com/news/security/microsoft-warns-of-new-defender-zero-days-exploited-in-attacks/"
-        },
-        {
-            "title": "GitHub links repo breach to TanStack npm supply-chain attack",
-            "description": "[BLEEPINGCOMPUTER.COM] GitHub says the hackers who breached 3,800 internal repositories gained access via a malicious version of the Nx Console VS Code extension, compromised in last week's TanStack npm supply-chain...",
-            "url": "https://www.bleepingcomputer.com/news/security/github-links-repo-breach-to-tanstack-npm-supply-chain-attack/"
-        },
-        {
-            "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-            "description": "[CISA.GOV] CISA has added&nbsp;one&nbsp;new vulnerability&nbsp;to its&nbsp;Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation.&nbsp; CVE-2026-20182&nbsp;Cisco Catalyst...",
-            "url": "https://www.cisa.gov/news-events/alerts/2026/05/14/cisa-adds-one-known-exploited-vulnerability-catalog"
-        },
-        {
-            "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-            "description": "[CISA.GOV] CISA has added one new vulnerability to its&nbsp;Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-6973&nbsp;Ivanti Endpoint Manager Mobile (EPMM)...",
-            "url": "https://www.cisa.gov/news-events/alerts/2026/05/07/cisa-adds-one-known-exploited-vulnerability-catalog"
-        },
-        {
-            "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-            "description": "[CISA.GOV] CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-42897 Microsoft Exchange Server Cross-Site Scripting...",
-            "url": "https://www.cisa.gov/news-events/alerts/2026/05/15/cisa-adds-one-known-exploited-vulnerability-catalog"
-        },
-        {
-            "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-            "description": "[CISA.GOV] CISA has added&nbsp;one&nbsp;new vulnerability&nbsp;to its&nbsp;Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation....",
-            "url": "https://www.cisa.gov/news-events/alerts/2026/05/08/cisa-adds-one-known-exploited-vulnerability-catalog"
-        },
-        {
-            "title": "Trump to sign order on AI oversight as security fears mount among supporters",
-            "description": "[MARKETSCREENER] U.S. President Donald Trump is expected to sign an executive order on AI and cybersecurity as soon as Thursday, two sources familiar with the matter told Reuters, as pressure grows from parts of...",
-            "url": "https://www.marketscreener.com/news/trump-to-sign-order-on-ai-oversight-as-security-fears-mount-among-supporters-ce7f5ad9de8cf623"
-        },
-        {
-            "title": "Trump to sign order on AI oversight as security fears mount among supporters",
-            "description": "[DEVDISCOURSE] Advocates for the tech industry told Reuters they want to see the U.S. Department of Commerce's Center for AI Standards and Innovation play a leading role in the Trump administration\u2019s response to...",
-            "url": "https://www.devdiscourse.com/article/technology/3916197-trump-to-sign-order-on-ai-oversight-as-security-fears-mount-among-supporters"
-        },
-        {
-            "title": "Student hackers take on 'ethical battle' beyond cyber attacks and exploits",
-            "description": "[ABC (AUSTRALIAN BROADCASTING CORPORATION)] Student hackers compete in the International Cybersecurity Challenge 2026, an ethical hacking contest simulating real cyber attacks and defences with real-world consequences.",
-            "url": "https://www.abc.net.au/news/2026-05-21/2026-international-cybersecurity-challenge-on-the-gold-coast/106696754"
-        },
-        {
-            "title": "Quantum computing to eviscerate modern cybersecurity",
-            "description": "[AUSTRALIAN FINANCIAL REVIEW] Because it can easily break traditional encryption methods, the powerful technology could quickly make current cybersecurity methods useless.",
-            "url": "https://www.afr.com/technology/quantum-computing-to-eviscerate-modern-cybersecurity-20260513-p5zwfi"
-        },
-        {
-            "title": "Microsoft Open-Sources RAMPART and Clarity to Secure AI Agents During Development",
-            "description": "[THE HACKER NEWS] Microsoft Open-Sources RAMPART and Clarity to Secure AI Agents During Development | Read more hacking news on The Hacker News cybersecurity news website and learn how to protect against cyberattacks...",
-            "url": "https://thehackernews.com/2026/05/microsoft-open-sources-rampart-and.html"
-        },
-        {
-            "title": "Jim Cramer: Wall Street is waking up to how wrong it got this cybersecurity stock",
-            "description": "[CNBC] The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
-            "url": "https://www.cnbc.com/2026/05/20/jim-cramer-wall-street-is-waking-up-to-how-wrong-it-got-this-cybersecurity-stock.html"
-        },
-        {
-            "title": "Mythos AI can weaponise minor bugs into major cyberattacks, warns Cloudflare",
-            "description": "[THE HINDU BUSINESS LINE] Cloudflare warns that Mythos AI can autonomously weaponise minor bugs into severe cyberattacks, posing significant cybersecurity risks.",
-            "url": "https://www.thehindubusinessline.com/info-tech/mythos-ai-can-weaponise-minor-bugs-into-major-cyberattacks-warns-cloudflare/article71002993.ece"
-        },
-        {
-            "title": "WH Prepares AI Cybersecurity Order Amid Rising Alarm Over Frontier Models",
-            "description": "[NEWSMAX] The White House is preparing to unveil an executive order on cybersecurity and artificial intelligence safety as early as this week, according to sources familiar with the matter, marking the Trump...",
-            "url": "https://www.newsmax.com/us/white-house-artificial-intelligence-cybersecurity/2026/05/20/id/1256929/"
-        },
-        {
-            "title": "Microsoft Takes Down Malware-Signing Service Behind Ransomware Attacks",
-            "description": "[THE HACKER NEWS] Microsoft disrupted Fox Tempest\u2019s MSaaS using 72-hour certificates, cutting signed malware delivery worldwide.",
-            "url": "https://thehackernews.com/2026/05/microsoft-takes-down-malware-signing.html"
-        },
-        {
-            "title": "Southwest Airlines opens first GIC outside US in Hyderabad with plans to hire 1000 techies",
-            "description": "[TIMES OF INDIA] Southwest Airlines opens its first global innovation centre outside the US in Hyderabad, planning to hire 1,000 tech professionals for AI, analytics and cybersecurity.",
-            "url": "https://timesofindia.indiatimes.com/city/hyderabad/southwest-airlines-opens-first-gic-outside-us-in-hyderabad-with-plans-to-hire-1000-techies/articleshow/131230202.cms"
+            "source": {
+                "id": null,
+                "name": "The Indian Express"
+            },
+            "author": "Karan Mahadik",
+            "title": "Bharat Digital Samvad: \u2018Anyone can switch it off,\u2019 warn panelists against big tech cloud and AI systems",
+            "description": "The risk of foreign-controlled digital infrastructure vulnerable to potential \u2018kill switch\u2019 mechanisms was one of many concerns raised at a policy forum on national digital sovereignty.",
+            "url": "https://indianexpress.com/article/technology/tech-news-technology/bharat-digital-samvad-foreign-cloud-ai-systems-panel-discussions-10699911/",
+            "urlToImage": "https://images.indianexpress.com/2026/05/Tech-featured-image240.jpg",
+            "publishedAt": "2026-05-20T13:46:56Z",
+            "content": "India cannot be a guinea pig for foreign AI companies and must reduce its dependence on digital infrastructure controlled by Big Tech, current and former government officials as well as various tech \u2026 [+5803 chars]"
         }
     ]
 }
