@@ -1,130 +1,137 @@
 {
-    "updated": "2026-05-22 10:41:31 UTC",
+    "title": "Sentinel Protocol",
+    "tagline": "Perimeter Intelligence Sync",
+    "updated": "2026-05-22 13:28 UTC",
     "news": [
         {
-            "title": "CISA Adds Seven Known Exploited Vulnerabilities to Catalog",
-            "description": "[CISA.GOV] CISA has added seven new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2008-4250 Microsoft Windows Buffer Overflow Vulnerability...",
-            "url": "https://www.cisa.gov/news-events/alerts/2026/05/20/cisa-adds-seven-known-exploited-vulnerabilities-catalog"
+            "source": {
+                "id": null,
+                "name": "Tenable.com"
+            },
+            "author": "Satnam Narang",
+            "title": "CVE-2026-9082: Highly Critical SQL Injection Vulnerability in Drupal Core (SA-CORE-2026-004)",
+            "description": "A highly critical SQL injection vulnerability in Drupal core's database abstraction layer affects sites running PostgreSQL.Key Takeaways<ol><li>CVE-2026-9082 is a highly critical SQL injection vulnerability in Drupal core's database abstraction API that can b\u2026",
+            "url": "https://www.tenable.com/blog/cve-2026-9082-highly-critical-sql-injection-vulnerability-in-drupal-core-sa-core-2026-004",
+            "urlToImage": "https://www.tenable.com/sites/default/files/styles/640x360/public/images/articles/Drupal-2026.png?itok=16RR4lv5",
+            "publishedAt": "2026-05-21T13:25:37Z",
+            "content": "A highly critical SQL injection vulnerability in Drupal core's database abstraction layer affects sites running PostgreSQL.\r\nKey Takeaways\r\n<ol><li>CVE-2026-9082 is a highly critical SQL injection vu\u2026 [+5812 chars]"
         },
         {
-            "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
-            "description": "[CISA.GOV] CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-34291 Langflow Origin Validation Error Vulnerability...",
-            "url": "https://www.cisa.gov/news-events/alerts/2026/05/21/cisa-adds-two-known-exploited-vulnerabilities-catalog"
+            "source": {
+                "id": null,
+                "name": "Techtarget.com"
+            },
+            "author": "Laurence Hart",
+            "title": "Top records management certifications to consider",
+            "description": "Records management certifications can help professionals build expertise in information governance, privacy, security, compliance and records lifecycle management.",
+            "url": "https://www.techtarget.com/searchcontentmanagement/tip/Top-records-management-certifications-to-consider",
+            "urlToImage": "https://www.techtarget.com/rms/onlineimages/certification_g1172642339.jpg",
+            "publishedAt": "2026-05-21T13:24:00Z",
+            "content": "Records and information governance professionals come from a wide variety of backgrounds. Some enter the field through legal, compliance, privacy or cybersecurity work. Others come from document mana\u2026 [+9223 chars]"
         },
         {
-            "title": "Showboat Linux Malware Hits Middle East Telecom with SOCKS5 Proxy Backdoor",
-            "description": "[FEEDS.FEEDBURNER.COM] Cybersecurity researchers have disclosed details of a new Linux malware dubbed Showboat that has been put to use in a campaign targeting a telecommunications provider in the Middle East since at...",
-            "url": "https://thehackernews.com/2026/05/showboat-linux-malware-hits-middle-east.html"
+            "source": {
+                "id": null,
+                "name": "GlobeNewswire"
+            },
+            "author": "Parker-Hannifin Corporation",
+            "title": "Parker to Acquire CIRCOR\u2019s Commercial and Defense Aerospace Business",
+            "description": "CLEVELAND, May 21, 2026 (GLOBE NEWSWIRE) -- Parker Hannifin Corporation (NYSE:PH), the global leader in motion and control technologies, today announced that it has entered into a definitive agreement to acquire the Commercial and Defense Aerospace business o\u2026",
+            "url": "https://www.globenewswire.com/news-release/2026/05/21/3299438/0/en/Parker-to-Acquire-CIRCOR-s-Commercial-and-Defense-Aerospace-Business.html",
+            "urlToImage": "https://ml.globenewswire.com/Resource/Download/c60e5343-aebc-4d3a-a968-8f329a7e0590",
+            "publishedAt": "2026-05-21T13:20:00Z",
+            "content": "<ul><li>Adds complementary flight-critical motion and flow control capabilities</li><li>Proprietary technologies for current and next generation commercial and defense platforms</li><li>$270M in expe\u2026 [+10190 chars]"
         },
         {
-            "title": "ThreatsDay Bulletin: Linux Rootkits, Router 0-Day, AI Intrusions, Scam Kits and 25 New Stories",
-            "description": "[FEEDS.FEEDBURNER.COM] This week starts small. A token leaks. A bad package slips in. A login trick works. An old tool shows up again. At first, it feels like the usual mess. Then you see the pattern: attackers are not...",
-            "url": "https://thehackernews.com/2026/05/threatsday-bulletin-linux-rootkits.html"
+            "source": {
+                "id": null,
+                "name": "GlobeNewswire"
+            },
+            "author": "Intuitive Surgical, Inc.",
+            "title": "Intuitive Announces Innovations to Advance Quintuple Aim",
+            "description": "Latest innovations include enhanced telecollaboration capabilities, extended uses for Force Feedback technology, and advancements in product and instrument reliability and security Latest innovations include enhanced telecollaboration capabilities, extended u\u2026",
+            "url": "https://www.globenewswire.com/news-release/2026/05/21/3299429/7637/en/Intuitive-Announces-Innovations-to-Advance-Quintuple-Aim.html",
+            "urlToImage": "https://ml.globenewswire.com/Resource/Download/db89f2a9-76ed-4743-84d3-a7ac75605b6c",
+            "publishedAt": "2026-05-21T13:15:00Z",
+            "content": "SUNNYVALE, Calif., May 21, 2026 (GLOBE NEWSWIRE) -- Intuitive (Nasdaq: ISRG), a global technology leader in minimally invasive care and the pioneer of robotic-assisted surgery, today announced severa\u2026 [+10607 chars]"
         },
         {
-            "title": "Google accidentally exposed details of unfixed Chromium flaw",
-            "description": "[BLEEPINGCOMPUTER.COM] Google has accidentally leaked details about an unfixed issue in Chromium that keeps JavaScript running in the background even when the browser is closed, allowing remote code execution on the...",
-            "url": "https://www.bleepingcomputer.com/news/security/google-accidentally-exposed-details-of-unfixed-chromium-flaw/"
+            "source": {
+                "id": null,
+                "name": "BleepingComputer"
+            },
+            "author": "Bill Toulas",
+            "title": "Police seize \u201cFirst VPN\u201d service used in ransomware, data theft attacks",
+            "description": "A virtual private network service called 'First VPN,' used in ransomware and data theft attacks, has been taken offline in a joint international law enforcement operation. [...]",
+            "url": "https://www.bleepingcomputer.com/news/security/police-seize-first-vpn-service-used-in-ransomware-data-theft-attacks/",
+            "urlToImage": "https://www.bleepstatic.com/content/hl-images/2026/03/27/Dutch-National-Police.jpg",
+            "publishedAt": "2026-05-21T13:09:51Z",
+            "content": "A virtual private network service called 'First VPN,' used in ransomware and data theft attacks, has been taken offline in a joint international law enforcement operation.\r\nAuthorities have seized do\u2026 [+2951 chars]"
         },
         {
-            "title": "Apple blocked over $11 billion in App Store fraud in 6 years",
-            "description": "[BLEEPINGCOMPUTER.COM] Apple revealed that it blocked over $11 billion in fraudulent App Store transactions over the last six years, more than $2.2 billion in potentially fraudulent App Store transactions in 2025 alone....",
-            "url": "https://www.bleepingcomputer.com/news/apple/apple-blocked-22-billion-in-fraudulent-app-store-transactions-in-2025/"
+            "source": {
+                "id": null,
+                "name": "Theregister.com"
+            },
+            "author": "Carly Page",
+            "title": "Gemini accused of 30,000-line code purge and fake recovery report",
+            "description": "Developer: AI coding agent broke production and generated fictitious post-mortem paperwork after the rollback",
+            "url": "https://www.theregister.com/ai-ml/2026/05/21/gemini-accused-of-30000-line-code-purge-and-fake-recovery-report/5244219",
+            "urlToImage": "https://image.theregister.com/223620.jpg?imageId=223620&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+            "publishedAt": "2026-05-21T13:01:00Z",
+            "content": "A developer claims Googles Gemini coding assistant deleted nearly 30,000 lines of working production code while making changes to a live application the sort of productivity boost usually associated \u2026 [+3467 chars]"
         },
         {
-            "title": "Inside a Crypto Drainer: How to Spot it Before it Empties Your Wallet",
-            "description": "[BLEEPINGCOMPUTER.COM] Modern crypto drainers don't hack wallets. They trick users into approving malicious transactions. Flare explores how the Lucifer DaaS platform scales wallet theft through phishing and automation....",
-            "url": "https://www.bleepingcomputer.com/news/security/inside-a-crypto-drainer-how-to-spot-it-before-it-empties-your-wallet/"
+            "source": {
+                "id": null,
+                "name": "SiliconANGLE News"
+            },
+            "author": "Duncan Riley",
+            "title": "Versa applies zero-trust controls to AI agent actions with new MCP architecture",
+            "description": "Secure access service edge firm\u00a0Versa Networks Inc. today introduced a zero-trust architecture for the Model Context Protocol that validates every action an artificial intelligence agent takes inside its network operations co-pilot before that action executes\u2026",
+            "url": "https://siliconangle.com/2026/05/21/versa-applies-zero-trust-controls-ai-agent-actions-new-mcp-architecture/",
+            "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/05/versa.png",
+            "publishedAt": "2026-05-21T13:00:27Z",
+            "content": "Secure access service edge firm\u00a0Versa Networks Inc. today introduced a zero-trust architecture for the Model Context Protocol that validates every action an artificial intelligence agent takes inside\u2026 [+4290 chars]"
         },
         {
-            "title": "Chinese hackers target telcos with new Linux, Windows malware",
-            "description": "[BLEEPINGCOMPUTER.COM] A Chinese cyber-espionage campaign has been targeting telecommunications providers with newly discovered Linux and Windows malware dubbed Showboat and JFMBackdoor, respectively. [...]",
-            "url": "https://www.bleepingcomputer.com/news/security/chinese-hackers-target-telcos-with-new-linux-windows-malware/"
+            "source": {
+                "id": null,
+                "name": "GlobeNewswire"
+            },
+            "author": "INE",
+            "title": "As GCC Smart Infrastructure Accelerates, Cybersecurity Readiness Becomes Critical to Operational Resilience",
+            "description": "Massive investments in AI-enabled infrastructure, smart cities, and connected operational systems are increasing demand for OT and ICS cybersecurity readiness across the GCC. Massive investments in AI-enabled infrastructure, smart cities, and connected operat\u2026",
+            "url": "https://www.globenewswire.com/news-release/2026/05/21/3299349/0/en/As-GCC-Smart-Infrastructure-Accelerates-Cybersecurity-Readiness-Becomes-Critical-to-Operational-Resilience.html",
+            "urlToImage": "https://ml.globenewswire.com/Resource/Download/df03d302-2d99-4d23-a056-5fc8567c480c",
+            "publishedAt": "2026-05-21T13:00:00Z",
+            "content": "Cary, NC, May 21, 2026 (GLOBE NEWSWIRE) -- As GCC nations accelerate investments in smart infrastructure, AI-enabled operations, and connected digital ecosystems, cybersecurity readiness is becoming \u2026 [+4812 chars]"
         },
         {
-            "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-            "description": "[CISA.GOV] CISA has added&nbsp;one&nbsp;new vulnerability&nbsp;to its&nbsp;Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation.&nbsp; CVE-2026-20182&nbsp;Cisco Catalyst...",
-            "url": "https://www.cisa.gov/news-events/alerts/2026/05/14/cisa-adds-one-known-exploited-vulnerability-catalog"
+            "source": {
+                "id": null,
+                "name": "PRNewswire"
+            },
+            "author": null,
+            "title": "CoreView Achieves GovRAMP Premier Membership to Strengthen Microsoft 365 Resilience Across the U.S. Public Sector",
+            "description": "WASHINGTON, May 21, 2026 /PRNewswire/ -- CoreView, the leading SaaS platform for Microsoft 365 Tenant Resilience, announced that it is now officially a GovRAMP Premier Member, reinforcing its commitment to helping public sector organizations strengthen securi\u2026",
+            "url": "https://www.prnewswire.com/news-releases/coreview-achieves-govramp-premier-membership-to-strengthen-microsoft-365-resilience-across-the-us-public-sector-302777827.html",
+            "urlToImage": "https://mma.prnewswire.com/media/2983151/CoreView__Logo.jpg?p=facebook",
+            "publishedAt": "2026-05-21T13:00:00Z",
+            "content": "WASHINGTON, May 21, 2026 /PRNewswire/ --\u00a0CoreView, the leading SaaS platform for Microsoft 365 Tenant Resilience, announced that it is now officially a GovRAMP Premier Member, reinforcing its commitm\u2026 [+4765 chars]"
         },
         {
-            "title": "Kimwolf DDoS Botnet Operator Arrested in Canada Over DDoS-for-Hire Attacks",
-            "description": "[FEEDS.FEEDBURNER.COM] The U.S. Department of Justice (DoJ) on Thursday announced the arrest of a Canadian man in connection with allegedly operating a distributed denial-of-service (DDoS) botnet known as Kimwolf. In...",
-            "url": "https://thehackernews.com/2026/05/kimwolf-ddos-botnet-operator-arrested.html"
-        },
-        {
-            "title": "CISA Adds Exploited Langflow and Trend Micro Apex One Vulnerabilities to KEV",
-            "description": "[FEEDS.FEEDBURNER.COM] The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added two security flaws impacting Langflow and Trend Micro Apex One to its Known Exploited Vulnerabilities (KEV) catalog,...",
-            "url": "https://thehackernews.com/2026/05/cisa-adds-exploited-langflow-and-trend.html"
-        },
-        {
-            "title": "Cisco Patches CVSS 10.0 Secure Workload REST API Flaw Enabling Data Access",
-            "description": "[FEEDS.FEEDBURNER.COM] Cisco has rolled out updates for a maximum-severity security flaw impacting Secure Workload that could allow an unauthenticated, remote attacker to access sensitive data. Tracked as CVE-2026-20223...",
-            "url": "https://thehackernews.com/2026/05/cisco-patches-cvss-100-secure-workload.html"
-        },
-        {
-            "title": "US and Canada arrest and charge suspected Kimwolf botnet admin",
-            "description": "[BLEEPINGCOMPUTER.COM] U.S. and Canadian authorities arrested and charged a Canadian man with operating the KimWolf distributed denial-of-service (DDoS) botnet, which infected nearly two million devices worldwide. [...]",
-            "url": "https://www.bleepingcomputer.com/news/security/us-and-canada-arrest-and-charge-suspected-kimwolf-botnet-admin/"
-        },
-        {
-            "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-            "description": "[CISA.GOV] CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-42897 Microsoft Exchange Server Cross-Site Scripting...",
-            "url": "https://www.cisa.gov/news-events/alerts/2026/05/15/cisa-adds-one-known-exploited-vulnerability-catalog"
-        },
-        {
-            "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-            "description": "[CISA.GOV] CISA has added&nbsp;one&nbsp;new vulnerability&nbsp;to its&nbsp;Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation....",
-            "url": "https://www.cisa.gov/news-events/alerts/2026/05/08/cisa-adds-one-known-exploited-vulnerability-catalog"
-        },
-        {
-            "title": "OpenAI to provide Japan gov't with advanced cybersecurity AI model",
-            "description": "[JAPAN TODAY] OpenAI, the U.S. developer of the artificial intelligence chatbot ChatGPT, said Thursday it will provide the Japanese government and some companies with an AI model featuring advanced cybersecurity...",
-            "url": "https://japantoday.com/category/tech/openai-to-provide-japan-gov't-with-advanced-cybersecurity-ai-model"
-        },
-        {
-            "title": "OpenAI to provide Japan gov't with advanced cybersecurity AI model",
-            "description": "[JAPAN TODAY] OpenAI, the U.S. developer of the artificial intelligence chatbot ChatGPT, said Thursday it will provide the Japanese government and some companies with an AI model featuring advanced cybersecurity...",
-            "url": "https://japantoday.com/category/tech/openai-to-provide-japan-gov%27t-with-advanced-cybersecurity-ai-model"
-        },
-        {
-            "title": "Trump calls off AI executive order over concern it could weaken US tech edge",
-            "description": "[THE ATLANTA JOURNAL-CONSTITUTION] President Donald Trump has called off plans to sign a new executive order on artificial intelligence hours before an expected White House ceremony. He says he's worried the measure could dull...",
-            "url": "https://www.ajc.com/news/2026/05/trump-calls-off-ai-executive-order-over-concern-it-could-weaken-us-tech-edge/"
-        },
-        {
-            "title": "Law enforcement shuts down VPN service used by two dozen ransomware gangs",
-            "description": "[TECHCRUNCH] First VPN promised hackers complete anonymity for their cyberattacks. But Europol said it was able to notify the service\u2019s users that they have now been identified.",
-            "url": "https://techcrunch.com/2026/05/21/law-enforcement-shuts-down-vpn-service-used-by-two-dozen-ransomware-gangs/"
-        },
-        {
-            "title": "Trump calls off AI executive order over concern it could weaken US tech edge",
-            "description": "[THE ATLANTA JOURNAL-CONSTITUTION] President Donald Trump has called off plans to sign a new executive order on artificial intelligence hours before an expected White House ceremony. He says he's worried the measure could dull...",
-            "url": "https://www.ajc.com/news/2026/05/trump-calls-off-plan-to-sign-artificial-intelligence-order-due-to-concern-it-could-hurt-the-industry/"
-        },
-        {
-            "title": "Texas Tech Critical Infrastructure Security Institute breaks ground",
-            "description": "[LUBBOCK AVALANCHE-JOURNAL] Work on Texas Tech's Critical Infrastructure Security Institute in Lubbock is moving forward. Here's what to know about the cybersecurity facility.",
-            "url": "https://www.lubbockonline.com/story/business/2026/05/21/texas-tech-critical-infrastructure-security-institute-breaks-ground-reese-air-force-base-lubbock/90144714007/"
-        },
-        {
-            "title": "Texas Tech Critical Infrastructure Security Institute breaks ground",
-            "description": "[AMARILLO GLOBE-NEWS] Work on Texas Tech's Critical Infrastructure Security Institute in Lubbock is moving forward. Here's what to know about the cybersecurity facility.",
-            "url": "https://www.amarillo.com/story/business/2026/05/21/texas-tech-critical-infrastructure-security-institute-breaks-ground-reese-air-force-base-lubbock/90144714007/"
-        },
-        {
-            "title": "UPDATE 5-Trump postpones AI executive order, cites need to compete with China",
-            "description": "[DEVDISCOURSE] Tech industry advocates fear that the order's provisions could hurt the industry's profits if they slow the rollout of new \u2060models or prompt companies to change how those models perform in order to...",
-            "url": "https://www.devdiscourse.com/article/technology/3917392-update-5-trump-postpones-ai-executive-order-cites-need-to-compete-with-china"
-        },
-        {
-            "title": "What's Going On With FuelCell Energy Stock Thursday?",
-            "description": "[BENZINGA] FuelCell Energy (NASDAQ: FCEL) stock surges as tech and cybersecurity veteran John Livingston joins the board of directors.",
-            "url": "https://www.benzinga.com/trading-ideas/movers/26/05/52726808/whats-going-on-with-fuelcell-energy-stock-thursday-2"
-        },
-        {
-            "title": "Fake Geek Squad billing scam email: Red flags and how to avoid",
-            "description": "[FOX NEWS] Cybersecurity experts warn that fake Geek Squad invoices are designed to create panic and trick victims into calling scammers or visiting phishing websites.",
-            "url": "https://www.foxnews.com/tech/fake-geek-squad-billing-scam-email-red-flags-how-avoid"
+            "source": {
+                "id": null,
+                "name": "Fortinet.com"
+            },
+            "author": "Carl Windsor, Aasef Iqbal",
+            "title": "Defending Critical Infrastructure: Why OT Security Demands a Threat-Informed Approach",
+            "description": "As OT environments face more targeted cyberattacks, CISOs need a threat-informed security strategy built for industrial risk.\u2026",
+            "url": "https://www.fortinet.com/blog/ciso-collective/defending-critical-infrastructure-why-ot-security-demands-threat-informed-approach",
+            "urlToImage": null,
+            "publishedAt": "2026-05-21T13:00:00Z",
+            "content": "Operational technology (OT) has become one of the most critical areas of cyber risk management for enterprise security leaders. Manufacturing lines, power systems, transportation networks, healthcare\u2026 [+15257 chars]"
         }
     ]
 }
