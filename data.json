@@ -1,5 +1,5 @@
 {
-    "updated": "2026-05-22 14:16:33 UTC",
+    "updated": "2026-05-22 17:44:37 UTC",
     "news": [
         {
             "title": "CISA Adds Seven Known Exploited Vulnerabilities to Catalog",
@@ -17,6 +17,11 @@
             "url": "https://www.cisa.gov/news-events/alerts/2026/05/14/cisa-adds-one-known-exploited-vulnerability-catalog"
         },
         {
+            "title": "Ghostwriter Targets Ukraine Government Entities with Prometheus Phishing Malware",
+            "description": "[FEEDS.FEEDBURNER.COM] The Belarus-aligned threat actor known as Ghostwriter (aka UAC-0057 and UNC1151Ukraine's National Security and Defense Council) has been observed using lures related to Prometheus, a Ukrainian online...",
+            "url": "https://thehackernews.com/2026/05/ghostwriter-targets-ukraine-government.html"
+        },
+        {
             "title": "Megalodon GitHub Attack Targets 5,561 Repos with Malicious CI/CD Workflows",
             "description": "[FEEDS.FEEDBURNER.COM] Cybersecurity researchers have disclosed details of a new automated campaign called Megalodon that has pushed 5,718 malicious commits to 5,561 GitHub repositories within a six-hour window. \"Using...",
             "url": "https://thehackernews.com/2026/05/megalodon-github-attack-targets-5561.html"
@@ -32,14 +37,19 @@
             "url": "https://thehackernews.com/2026/05/kimwolf-ddos-botnet-operator-arrested.html"
         },
         {
+            "title": "Netherlands seizes 800 servers of hosting firm enabling cyberattacks",
+            "description": "[BLEEPINGCOMPUTER.COM] Financial crime investigators in the Netherlands (FIOD) arrested two men and seized 800 servers linked to a web hosting company that enabled cyberattacks, interference operations, and disinformation...",
+            "url": "https://www.bleepingcomputer.com/news/security/netherlands-seizes-800-servers-of-hosting-firm-enabling-cyberattacks/"
+        },
+        {
+            "title": "Former US execs plead guilty to aiding tech support scammers",
+            "description": "[BLEEPINGCOMPUTER.COM] Two former executives of a call-tracking and analytics company pleaded guilty to concealing a years-long tech support fraud scheme that victimized individuals worldwide. [...]",
+            "url": "https://www.bleepingcomputer.com/news/security/former-us-execs-plead-guilty-to-aiding-tech-support-scammers/"
+        },
+        {
             "title": "CISA Adds Exploited Langflow and Trend Micro Apex One Vulnerabilities to KEV",
             "description": "[FEEDS.FEEDBURNER.COM] The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added two security flaws impacting Langflow and Trend Micro Apex One to its Known Exploited Vulnerabilities (KEV) catalog,...",
             "url": "https://thehackernews.com/2026/05/cisa-adds-exploited-langflow-and-trend.html"
-        },
-        {
-            "title": "Cisco Patches CVSS 10.0 Secure Workload REST API Flaw Enabling Data Access",
-            "description": "[FEEDS.FEEDBURNER.COM] Cisco has rolled out updates for a maximum-severity security flaw impacting Secure Workload that could allow an unauthenticated, remote attacker to access sensitive data. Tracked as CVE-2026-20223...",
-            "url": "https://thehackernews.com/2026/05/cisco-patches-cvss-100-secure-workload.html"
         },
         {
             "title": "Trend Micro warns of Apex One zero-day exploited in the wild",
@@ -57,16 +67,6 @@
             "url": "https://www.bleepingcomputer.com/news/security/why-chargebacks-are-just-one-piece-of-the-fraud-puzzle/"
         },
         {
-            "title": "Ubiquiti patches three max severity UniFi OS vulnerabilities",
-            "description": "[BLEEPINGCOMPUTER.COM] Ubiquiti has released security updates to patch three maximum severity vulnerabilities in UniFi OS that can be exploited by remote attackers without privileges. [...]",
-            "url": "https://www.bleepingcomputer.com/news/security/ubiquiti-patches-three-max-severity-unifi-os-vulnerabilities/"
-        },
-        {
-            "title": "US and Canada arrest and charge suspected Kimwolf botnet admin",
-            "description": "[BLEEPINGCOMPUTER.COM] U.S. and Canadian authorities arrested and charged a Canadian man with operating the KimWolf distributed denial-of-service (DDoS) botnet, which infected nearly two million devices worldwide. [...]",
-            "url": "https://www.bleepingcomputer.com/news/security/us-and-canada-arrest-and-charge-suspected-kimwolf-botnet-admin/"
-        },
-        {
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
             "description": "[CISA.GOV] CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-42897 Microsoft Exchange Server Cross-Site Scripting...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/05/15/cisa-adds-one-known-exploited-vulnerability-catalog"
@@ -75,6 +75,31 @@
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
             "description": "[CISA.GOV] CISA has added&nbsp;one&nbsp;new vulnerability&nbsp;to its&nbsp;Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation....",
             "url": "https://www.cisa.gov/news-events/alerts/2026/05/08/cisa-adds-one-known-exploited-vulnerability-catalog"
+        },
+        {
+            "title": "TechD Cybersecurity Launches TECHD ONE: AI-Native Unified Cybersecurity Platform",
+            "description": "[NEWS18] TechD Cybersecurity Launches TECHD ONE: AI-Native Unified Cybersecurity Platform",
+            "url": "https://www.news18.com/agency-feeds/techd-cybersecurity-launches-techd-one-ai-native-unified-cybersecurity-platform-10105316.html"
+        },
+        {
+            "title": "TechD Cybersecurity Launches TECHD ONE: AI",
+            "description": "[THE TRIBUNE] Ahmedabad (Gujarat) [India], May 22: TechD Cybersecurity Limited (NSE SME: TECHD), a CERT-In empaneled MSSP serving over 500 enterprise clients, today announced the launch of TECHD ONE, AI-native...",
+            "url": "https://www.tribuneindia.com/news/business/techd-cybersecurity-launches-techd-one-ai-native-unified-cybersecurity-platform/"
+        },
+        {
+            "title": "Trump postpones signing AI security order over parts he disliked",
+            "description": "[THE STAR] President Donald Trump said he called off the signing of an executive order that would address cybersecurity concerns raised by powerful new artificial intelligence models because he objected to...",
+            "url": "https://www.thestar.com.my/tech/tech-news/2026/05/22/trump-postpones-signing-ai-security-order-over-parts-he-disliked"
+        },
+        {
+            "title": "Zero Day Timeline: The Viral Cybersecurity Game That Goes Back as far as the 1900s",
+            "description": "[TECHBULLION] It turns the gaps in sequential knowledge into a visible, measurable, shareable experience. That is what makes it work for a security",
+            "url": "https://techbullion.com/zero-day-timeline-the-viral-cybersecurity-game-that-goes-back-as-far-as-the-1900s/"
+        },
+        {
+            "title": "Trump calls off AI executive order over concern it could weaken US tech edge",
+            "description": "[THE ECONOMIC TIMES] President Trump halted an AI executive order. He feared it would slow America's technological progress. The order aimed to review AI's national security risks. This move comes amid concerns about...",
+            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/trump-calls-off-ai-executive-order-over-concern-it-could-weaken-us-tech-edge/articleshow/131256168.cms"
         },
         {
             "title": "Rapid7 Q1 2026 Threat Landscape Report Finds Vulnerability Exploitation Overtakes Social Engineering as the Top Initial Access Vector",
@@ -100,31 +125,6 @@
             "title": "Trump calls off AI executive order over concern it could weaken US tech edge",
             "description": "[THE ATLANTA JOURNAL-CONSTITUTION] President Donald Trump has called off plans to sign a new executive order on artificial intelligence hours before an expected White House ceremony. He says he's worried the measure could dull...",
             "url": "https://www.ajc.com/news/2026/05/trump-calls-off-ai-executive-order-over-concern-it-could-weaken-us-tech-edge/"
-        },
-        {
-            "title": "Law enforcement shuts down VPN service used by two dozen ransomware gangs",
-            "description": "[TECHCRUNCH] First VPN promised hackers complete anonymity for their cyberattacks. But Europol said it was able to notify the service\u2019s users that they have now been identified.",
-            "url": "https://techcrunch.com/2026/05/21/law-enforcement-shuts-down-vpn-service-used-by-two-dozen-ransomware-gangs/"
-        },
-        {
-            "title": "Trump calls off AI executive order over concern it could weaken US tech edge",
-            "description": "[THE ATLANTA JOURNAL-CONSTITUTION] President Donald Trump has called off plans to sign a new executive order on artificial intelligence hours before an expected White House ceremony. He says he's worried the measure could dull...",
-            "url": "https://www.ajc.com/news/2026/05/trump-calls-off-plan-to-sign-artificial-intelligence-order-due-to-concern-it-could-hurt-the-industry/"
-        },
-        {
-            "title": "Texas Tech Critical Infrastructure Security Institute breaks ground",
-            "description": "[LUBBOCK AVALANCHE-JOURNAL] Work on Texas Tech's Critical Infrastructure Security Institute in Lubbock is moving forward. Here's what to know about the cybersecurity facility.",
-            "url": "https://www.lubbockonline.com/story/business/2026/05/21/texas-tech-critical-infrastructure-security-institute-breaks-ground-reese-air-force-base-lubbock/90144714007/"
-        },
-        {
-            "title": "Texas Tech Critical Infrastructure Security Institute breaks ground",
-            "description": "[AMARILLO GLOBE-NEWS] Work on Texas Tech's Critical Infrastructure Security Institute in Lubbock is moving forward. Here's what to know about the cybersecurity facility.",
-            "url": "https://www.amarillo.com/story/business/2026/05/21/texas-tech-critical-infrastructure-security-institute-breaks-ground-reese-air-force-base-lubbock/90144714007/"
-        },
-        {
-            "title": "UPDATE 5-Trump postpones AI executive order, cites need to compete with China",
-            "description": "[DEVDISCOURSE] Tech industry advocates fear that the order's provisions could hurt the industry's profits if they slow the rollout of new \u2060models or prompt companies to change how those models perform in order to...",
-            "url": "https://www.devdiscourse.com/article/technology/3917392-update-5-trump-postpones-ai-executive-order-cites-need-to-compete-with-china"
         }
     ]
 }
