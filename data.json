@@ -1,5 +1,5 @@
 {
-    "updated": "2026-05-22 07:36:05 UTC",
+    "updated": "2026-05-22 10:41:31 UTC",
     "news": [
         {
             "title": "CISA Adds Seven Known Exploited Vulnerabilities to Catalog",
@@ -22,11 +22,6 @@
             "url": "https://thehackernews.com/2026/05/threatsday-bulletin-linux-rootkits.html"
         },
         {
-            "title": "Microsoft Warns of Two Actively Exploited Defender Vulnerabilities",
-            "description": "[FEEDS.FEEDBURNER.COM] Microsoft has disclosed that a privilege escalation and a denial-of-service flaw in Defender has come under active exploitation in the wild. The former, tracked as CVE-2026-41091, is rated 7.8 on the...",
-            "url": "https://thehackernews.com/2026/05/microsoft-warns-of-two-actively.html"
-        },
-        {
             "title": "Google accidentally exposed details of unfixed Chromium flaw",
             "description": "[BLEEPINGCOMPUTER.COM] Google has accidentally leaked details about an unfixed issue in Chromium that keeps JavaScript running in the background even when the browser is closed, allowing remote code execution on the...",
             "url": "https://www.bleepingcomputer.com/news/security/google-accidentally-exposed-details-of-unfixed-chromium-flaw/"
@@ -47,14 +42,14 @@
             "url": "https://www.bleepingcomputer.com/news/security/chinese-hackers-target-telcos-with-new-linux-windows-malware/"
         },
         {
-            "title": "Max severity Cisco Secure Workload flaw gives Site Admin privileges",
-            "description": "[BLEEPINGCOMPUTER.COM] Cisco has released security updates to address a maximum-severity vulnerability in Secure Workload that allows attackers to gain Site Admin privileges. [...]",
-            "url": "https://www.bleepingcomputer.com/news/security/cisco-max-severity-secure-workload-flaw-gives-hackers-site-admin-privileges/"
-        },
-        {
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
             "description": "[CISA.GOV] CISA has added&nbsp;one&nbsp;new vulnerability&nbsp;to its&nbsp;Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation.&nbsp; CVE-2026-20182&nbsp;Cisco Catalyst...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/05/14/cisa-adds-one-known-exploited-vulnerability-catalog"
+        },
+        {
+            "title": "Kimwolf DDoS Botnet Operator Arrested in Canada Over DDoS-for-Hire Attacks",
+            "description": "[FEEDS.FEEDBURNER.COM] The U.S. Department of Justice (DoJ) on Thursday announced the arrest of a Canadian man in connection with allegedly operating a distributed denial-of-service (DDoS) botnet known as Kimwolf. In...",
+            "url": "https://thehackernews.com/2026/05/kimwolf-ddos-botnet-operator-arrested.html"
         },
         {
             "title": "CISA Adds Exploited Langflow and Trend Micro Apex One Vulnerabilities to KEV",
@@ -67,6 +62,11 @@
             "url": "https://thehackernews.com/2026/05/cisco-patches-cvss-100-secure-workload.html"
         },
         {
+            "title": "US and Canada arrest and charge suspected Kimwolf botnet admin",
+            "description": "[BLEEPINGCOMPUTER.COM] U.S. and Canadian authorities arrested and charged a Canadian man with operating the KimWolf distributed denial-of-service (DDoS) botnet, which infected nearly two million devices worldwide. [...]",
+            "url": "https://www.bleepingcomputer.com/news/security/us-and-canada-arrest-and-charge-suspected-kimwolf-botnet-admin/"
+        },
+        {
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
             "description": "[CISA.GOV] CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-42897 Microsoft Exchange Server Cross-Site Scripting...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/05/15/cisa-adds-one-known-exploited-vulnerability-catalog"
@@ -75,6 +75,21 @@
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
             "description": "[CISA.GOV] CISA has added&nbsp;one&nbsp;new vulnerability&nbsp;to its&nbsp;Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation....",
             "url": "https://www.cisa.gov/news-events/alerts/2026/05/08/cisa-adds-one-known-exploited-vulnerability-catalog"
+        },
+        {
+            "title": "OpenAI to provide Japan gov't with advanced cybersecurity AI model",
+            "description": "[JAPAN TODAY] OpenAI, the U.S. developer of the artificial intelligence chatbot ChatGPT, said Thursday it will provide the Japanese government and some companies with an AI model featuring advanced cybersecurity...",
+            "url": "https://japantoday.com/category/tech/openai-to-provide-japan-gov't-with-advanced-cybersecurity-ai-model"
+        },
+        {
+            "title": "OpenAI to provide Japan gov't with advanced cybersecurity AI model",
+            "description": "[JAPAN TODAY] OpenAI, the U.S. developer of the artificial intelligence chatbot ChatGPT, said Thursday it will provide the Japanese government and some companies with an AI model featuring advanced cybersecurity...",
+            "url": "https://japantoday.com/category/tech/openai-to-provide-japan-gov%27t-with-advanced-cybersecurity-ai-model"
+        },
+        {
+            "title": "Trump calls off AI executive order over concern it could weaken US tech edge",
+            "description": "[THE ATLANTA JOURNAL-CONSTITUTION] President Donald Trump has called off plans to sign a new executive order on artificial intelligence hours before an expected White House ceremony. He says he's worried the measure could dull...",
+            "url": "https://www.ajc.com/news/2026/05/trump-calls-off-ai-executive-order-over-concern-it-could-weaken-us-tech-edge/"
         },
         {
             "title": "Law enforcement shuts down VPN service used by two dozen ransomware gangs",
@@ -110,21 +125,6 @@
             "title": "Fake Geek Squad billing scam email: Red flags and how to avoid",
             "description": "[FOX NEWS] Cybersecurity experts warn that fake Geek Squad invoices are designed to create panic and trick victims into calling scammers or visiting phishing websites.",
             "url": "https://www.foxnews.com/tech/fake-geek-squad-billing-scam-email-red-flags-how-avoid"
-        },
-        {
-            "title": "UPDATE 1-White House postpones Trump's AI signing ceremony, says Axios",
-            "description": "[DEVDISCOURSE] The White \u200cHouse has postponed its planned Thursday ceremony for President Donald \u200cTrump to sign a new \u200cexecutive order on AI and cybersecurity, Axios said. Axios, citing \u2060an \u200binternal \u2060note, said...",
-            "url": "https://www.devdiscourse.com/article/politics/3917218-update-1-white-house-postpones-trumps-ai-signing-ceremony-says-axios"
-        },
-        {
-            "title": "AI security startup Socket hits $1B valuation after $60M raise to stop software supply chain attacks",
-            "description": "[TECHSTARTUPS.COM] AI-generated code is flooding into enterprise software faster than security teams can review it, and investors are betting that startups capable of spotting threats before they reach production could...",
-            "url": "https://techstartups.com/2026/05/21/ai-security-startup-socket-hits-1b-valuation-after-60m-raise-to-stop-software-supply-chain-attacks/"
-        },
-        {
-            "title": "Bigger Threat Than Mythos? This Startup Found Bugs Even Anthropic's AI Missed",
-            "description": "[TIMES NOW] AI startup Depthfirst claims its model found critical internet flaws that Anthropic\u2019s Mythos missed, raising fresh concerns over how AI could reshape cybersecurity and banking risks., Technology &...",
-            "url": "https://www.timesnownews.com/technology-science/bigger-threat-than-mythos-this-startup-found-bugs-even-anthropics-ai-missed-article-154367923"
         }
     ]
 }
