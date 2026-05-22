@@ -1,5 +1,5 @@
 {
-    "updated": "2026-05-22 02:30:01 UTC",
+    "updated": "2026-05-22 07:36:05 UTC",
     "news": [
         {
             "title": "CISA Adds Seven Known Exploited Vulnerabilities to Catalog",
@@ -27,19 +27,9 @@
             "url": "https://thehackernews.com/2026/05/microsoft-warns-of-two-actively.html"
         },
         {
-            "title": "When Identity is the Attack Path",
-            "description": "[FEEDS.FEEDBURNER.COM] Consider a cached access key on a single Windows machine. It got there the way most cached credentials do - a user logged in, and the key stored itself automatically. Standard AWS behavior. No one...",
-            "url": "https://thehackernews.com/2026/05/when-identity-is-attack-path.html"
-        },
-        {
             "title": "Google accidentally exposed details of unfixed Chromium flaw",
             "description": "[BLEEPINGCOMPUTER.COM] Google has accidentally leaked details about an unfixed issue in Chromium that keeps JavaScript running in the background even when the browser is closed, allowing remote code execution on the...",
             "url": "https://www.bleepingcomputer.com/news/security/google-accidentally-exposed-details-of-unfixed-chromium-flaw/"
-        },
-        {
-            "title": "9-Year-Old Linux Kernel Flaw Enables Root Command Execution on Major Distros",
-            "description": "[FEEDS.FEEDBURNER.COM] Cybersecurity researchers have disclosed details of a vulnerability in the Linux kernel that remained undetected for nine years. The vulnerability, tracked as CVE-2026-46333 (CVSS score: 5.5), is a...",
-            "url": "https://thehackernews.com/2026/05/9-year-old-linux-kernel-flaw-enables.html"
         },
         {
             "title": "Apple blocked over $11 billion in App Store fraud in 6 years",
@@ -67,6 +57,16 @@
             "url": "https://www.cisa.gov/news-events/alerts/2026/05/14/cisa-adds-one-known-exploited-vulnerability-catalog"
         },
         {
+            "title": "CISA Adds Exploited Langflow and Trend Micro Apex One Vulnerabilities to KEV",
+            "description": "[FEEDS.FEEDBURNER.COM] The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added two security flaws impacting Langflow and Trend Micro Apex One to its Known Exploited Vulnerabilities (KEV) catalog,...",
+            "url": "https://thehackernews.com/2026/05/cisa-adds-exploited-langflow-and-trend.html"
+        },
+        {
+            "title": "Cisco Patches CVSS 10.0 Secure Workload REST API Flaw Enabling Data Access",
+            "description": "[FEEDS.FEEDBURNER.COM] Cisco has rolled out updates for a maximum-severity security flaw impacting Secure Workload that could allow an unauthenticated, remote attacker to access sensitive data. Tracked as CVE-2026-20223...",
+            "url": "https://thehackernews.com/2026/05/cisco-patches-cvss-100-secure-workload.html"
+        },
+        {
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
             "description": "[CISA.GOV] CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-42897 Microsoft Exchange Server Cross-Site Scripting...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/05/15/cisa-adds-one-known-exploited-vulnerability-catalog"
@@ -77,54 +77,54 @@
             "url": "https://www.cisa.gov/news-events/alerts/2026/05/08/cisa-adds-one-known-exploited-vulnerability-catalog"
         },
         {
+            "title": "Law enforcement shuts down VPN service used by two dozen ransomware gangs",
+            "description": "[TECHCRUNCH] First VPN promised hackers complete anonymity for their cyberattacks. But Europol said it was able to notify the service\u2019s users that they have now been identified.",
+            "url": "https://techcrunch.com/2026/05/21/law-enforcement-shuts-down-vpn-service-used-by-two-dozen-ransomware-gangs/"
+        },
+        {
+            "title": "Trump calls off AI executive order over concern it could weaken US tech edge",
+            "description": "[THE ATLANTA JOURNAL-CONSTITUTION] President Donald Trump has called off plans to sign a new executive order on artificial intelligence hours before an expected White House ceremony. He says he's worried the measure could dull...",
+            "url": "https://www.ajc.com/news/2026/05/trump-calls-off-plan-to-sign-artificial-intelligence-order-due-to-concern-it-could-hurt-the-industry/"
+        },
+        {
+            "title": "Texas Tech Critical Infrastructure Security Institute breaks ground",
+            "description": "[LUBBOCK AVALANCHE-JOURNAL] Work on Texas Tech's Critical Infrastructure Security Institute in Lubbock is moving forward. Here's what to know about the cybersecurity facility.",
+            "url": "https://www.lubbockonline.com/story/business/2026/05/21/texas-tech-critical-infrastructure-security-institute-breaks-ground-reese-air-force-base-lubbock/90144714007/"
+        },
+        {
+            "title": "Texas Tech Critical Infrastructure Security Institute breaks ground",
+            "description": "[AMARILLO GLOBE-NEWS] Work on Texas Tech's Critical Infrastructure Security Institute in Lubbock is moving forward. Here's what to know about the cybersecurity facility.",
+            "url": "https://www.amarillo.com/story/business/2026/05/21/texas-tech-critical-infrastructure-security-institute-breaks-ground-reese-air-force-base-lubbock/90144714007/"
+        },
+        {
+            "title": "UPDATE 5-Trump postpones AI executive order, cites need to compete with China",
+            "description": "[DEVDISCOURSE] Tech industry advocates fear that the order's provisions could hurt the industry's profits if they slow the rollout of new \u2060models or prompt companies to change how those models perform in order to...",
+            "url": "https://www.devdiscourse.com/article/technology/3917392-update-5-trump-postpones-ai-executive-order-cites-need-to-compete-with-china"
+        },
+        {
+            "title": "What's Going On With FuelCell Energy Stock Thursday?",
+            "description": "[BENZINGA] FuelCell Energy (NASDAQ: FCEL) stock surges as tech and cybersecurity veteran John Livingston joins the board of directors.",
+            "url": "https://www.benzinga.com/trading-ideas/movers/26/05/52726808/whats-going-on-with-fuelcell-energy-stock-thursday-2"
+        },
+        {
+            "title": "Fake Geek Squad billing scam email: Red flags and how to avoid",
+            "description": "[FOX NEWS] Cybersecurity experts warn that fake Geek Squad invoices are designed to create panic and trick victims into calling scammers or visiting phishing websites.",
+            "url": "https://www.foxnews.com/tech/fake-geek-squad-billing-scam-email-red-flags-how-avoid"
+        },
+        {
+            "title": "UPDATE 1-White House postpones Trump's AI signing ceremony, says Axios",
+            "description": "[DEVDISCOURSE] The White \u200cHouse has postponed its planned Thursday ceremony for President Donald \u200cTrump to sign a new \u200cexecutive order on AI and cybersecurity, Axios said. Axios, citing \u2060an \u200binternal \u2060note, said...",
+            "url": "https://www.devdiscourse.com/article/politics/3917218-update-1-white-house-postpones-trumps-ai-signing-ceremony-says-axios"
+        },
+        {
+            "title": "AI security startup Socket hits $1B valuation after $60M raise to stop software supply chain attacks",
+            "description": "[TECHSTARTUPS.COM] AI-generated code is flooding into enterprise software faster than security teams can review it, and investors are betting that startups capable of spotting threats before they reach production could...",
+            "url": "https://techstartups.com/2026/05/21/ai-security-startup-socket-hits-1b-valuation-after-60m-raise-to-stop-software-supply-chain-attacks/"
+        },
+        {
             "title": "Bigger Threat Than Mythos? This Startup Found Bugs Even Anthropic's AI Missed",
             "description": "[TIMES NOW] AI startup Depthfirst claims its model found critical internet flaws that Anthropic\u2019s Mythos missed, raising fresh concerns over how AI could reshape cybersecurity and banking risks., Technology &...",
             "url": "https://www.timesnownews.com/technology-science/bigger-threat-than-mythos-this-startup-found-bugs-even-anthropics-ai-missed-article-154367923"
-        },
-        {
-            "title": "India hiring tilts toward contracts as AI prompts workforce rethink, TeamLease says",
-            "description": "[THE ECONOMIC TIMES] Indian firms are shifting to contract and outsourced hiring. This change comes as companies reassess their workforce needs due to AI automation. Many organizations expect AI-related roles to dominate...",
-            "url": "https://economictimes.indiatimes.com/jobs/hr-policies-trends/india-hiring-tilts-toward-contracts-as-ai-prompts-workforce-rethink-teamlease-says/articleshow/131245399.cms"
-        },
-        {
-            "title": "Report: White House Postpones AI Executive Order Signing to Be Attended by Tech Titans",
-            "description": "[BREITBART NEWS NETWORK] The White House has reported postponed President Donald Trump's signing of an executive order addressing AI and cybersecurity concerns planned for today that was to be attended by the leading lights...",
-            "url": "https://www.breitbart.com/tech/2026/05/21/report-white-house-postpones-ai-executive-order-signing-to-be-attended-by-tech-titans/"
-        },
-        {
-            "title": "Report: White House Postpones AI Executive Order Signing to Be Attended by Tech Titans",
-            "description": "[BREITBART NEWS NETWORK] The White House has reportedly postponed President Donald Trump's signing of an executive order addressing AI and cybersecurity concerns planned for today that was to be attended by the leading...",
-            "url": "https://www.breitbart.com/politics/2026/05/21/report-white-house-postpones-ai-executive-order-signing-to-be-attended-by-tech-titans/"
-        },
-        {
-            "title": "Grab, consultancy RSM to launch AI and cybersecurity initiatives for 12,000 SMEs",
-            "description": "[THE STRAITS TIMES] Grab and RSM launch AI and cybersecurity programmes to digitally transform 12,000 SMEs as part of a national initiative. Read more at straitstimes.com.",
-            "url": "https://www.straitstimes.com/tech/grab-rsm-to-launch-ai-and-cybersecurity-initiatives-for-12000-smes"
-        },
-        {
-            "title": "Trump set to sign AI cybersecurity directive as soon as Thursday",
-            "description": "[THE STAR] President Donald Trump is poised to issue an executive order as soon as Thursday aimed at bolstering artificial intelligence cybersecurity and has asked tech industry leaders to join for the event,...",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/05/21/trump-set-to-sign-ai-cybersecurity-directive-as-soon-as-thursday"
-        },
-        {
-            "title": "Trump administration working on AI safety rules for advanced models, may roll out executive order this week: Report",
-            "description": "[TIMES OF INDIA] Tech News News: The Trump administration is expected to release a new executive order focused on cybersecurity and artificial intelligence safety as early as this wee.",
-            "url": "https://timesofindia.indiatimes.com/technology/tech-news/trump-administration-working-on-ai-safety-rules-for-advanced-models-may-roll-out-executive-order-this-week-report/articleshow/131241554.cms"
-        },
-        {
-            "title": "India has entered a new era of risks, current defences no longer enough, warns top cybersecurity guy",
-            "description": "[THE ECONOMIC TIMES] In the midst of India's burgeoning digital revolution, new cyber threats are emerging that challenge established security measures. Navin Kumar Singh, the National Cyber Security Coordinator, has...",
-            "url": "https://economictimes.indiatimes.com/ai/ai-insights/india-has-entered-a-new-era-of-risks-current-defences-no-longer-enough-warns-top-cybersecurity-guy/articleshow/131241252.cms"
-        },
-        {
-            "title": "Trump to sign order on AI oversight as security fears mount among supporters, Reuters reports",
-            "description": "[SEEKING ALPHA] Trump plans an AI & cybersecurity executive order creating a voluntary framework for pre-release model access.",
-            "url": "https://seekingalpha.com/news/4595542-trump-to-sign-order-on-ai-oversight-as-security-fears-mount-among-supporters-reuters-reports"
-        },
-        {
-            "title": "Anthropic And OpenAI Under Watch: US Plans Review System Amid Mythos AI Risks",
-            "description": "[TIMES NOW] US considers voluntary pre-release review of advanced AI models as powerful tools like Mythos and GPT-5.5 Cyber raise cybersecurity and national security concerns., Technology & Science, Times Now",
-            "url": "https://www.timesnownews.com/technology-science/anthropic-and-openai-under-watch-us-plans-review-system-amid-mythos-ai-risks-article-154365108"
         }
     ]
 }
