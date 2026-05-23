@@ -1,5 +1,5 @@
 {
-    "updated": "2026-05-23 13:01:32 UTC",
+    "updated": "2026-05-23 18:56:14 UTC",
     "news": [
         {
             "title": "CISA Adds Seven Known Exploited Vulnerabilities to Catalog",
@@ -17,6 +17,16 @@
             "url": "https://www.cisa.gov/news-events/alerts/2026/05/14/cisa-adds-one-known-exploited-vulnerability-catalog"
         },
         {
+            "title": "npm Adds 2FA-Gated Publishing and Package Install Controls Against Supply Chain Attacks",
+            "description": "[FEEDS.FEEDBURNER.COM] GitHub has rolled out new controls for npm to improve the security of the software supply chain, giving maintainers the ability to explicitly approve a release prior to the packages becoming publicly...",
+            "url": "https://thehackernews.com/2026/05/npm-adds-2fa-gated-publishing-and.html"
+        },
+        {
+            "title": "Packagist Supply Chain Attack Infects 8 Packages Using GitHub-Hosted Linux Malware",
+            "description": "[FEEDS.FEEDBURNER.COM] A new \"coordinated\" supply chain attack campaign has impacted eight packages on Packagist including malicious code designed to run a Linux binary retrieved from a GitHub Releases URL. \"Although the...",
+            "url": "https://thehackernews.com/2026/05/packagist-supply-chain-attack-infects-8.html"
+        },
+        {
             "title": "Claude Mythos AI Finds 10,000 High-Severity Flaws in Widely Used Software",
             "description": "[FEEDS.FEEDBURNER.COM] Anthropic on Friday disclosed that Project Glasswing has helped uncover more than 10,000 high- or critical-severity vulnerabilities across some of the most \"systemically\" important software across...",
             "url": "https://thehackernews.com/2026/05/claude-mythos-ai-finds-10000-high.html"
@@ -32,19 +42,14 @@
             "url": "https://thehackernews.com/2026/05/litespeed-cpanel-plugin-cve-2026-48172.html"
         },
         {
-            "title": "Drupal Core SQL Injection Bug Actively Exploited, Added to CISA KEV",
-            "description": "[FEEDS.FEEDBURNER.COM] The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a recently patched critical security flaw impacting Drupal Core to its Known Exploited Vulnerabilities (KEV) catalog, based...",
-            "url": "https://thehackernews.com/2026/05/drupal-core-sql-injection-bug-actively.html"
+            "title": "Italy disrupts CINEMAGOAL piracy app that stole streaming auth codes",
+            "description": "[BLEEPINGCOMPUTER.COM] Italian authorities have dismantled a piracy ecosystem centered around the CINEMAGOAL app that provided access to various streaming platforms, including Netflix, Disney+, and Spotify. [...]",
+            "url": "https://www.bleepingcomputer.com/news/legal/italy-disrupts-cinemagoal-piracy-app-that-stole-streaming-auth-codes/"
         },
         {
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
             "description": "[CISA.GOV] CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-9082 Drupal Core SQL Injection Vulnerability This type of...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/05/22/cisa-adds-one-known-exploited-vulnerability-catalog"
-        },
-        {
-            "title": "First VPN Dismantled in Global Takedown Over Use by 25 Ransomware Groups",
-            "description": "[FEEDS.FEEDBURNER.COM] Authorities in Europe and North America have announced the dismantling of a criminal virtual private network (VPN) service used by criminal actors to obscure the origins of ransomware attacks, data...",
-            "url": "https://thehackernews.com/2026/05/first-vpn-dismantled-in-global-takedown.html"
         },
         {
             "title": "Netherlands seizes 800 servers of hosting firm enabling cyberattacks",
@@ -67,14 +72,29 @@
             "url": "https://www.bleepingcomputer.com/news/security/drupal-critical-sql-injection-flaw-now-targeted-in-attacks/"
         },
         {
-            "title": "Why Chargebacks are Just One Piece of the Fraud Puzzle",
-            "description": "[BLEEPINGCOMPUTER.COM] Fraud losses don't stop at chargebacks. False declines, account takeovers, and abuse also damage revenue and trust. IPQS breaks down why fraud teams need broader visibility into risk and customer...",
-            "url": "https://www.bleepingcomputer.com/news/security/why-chargebacks-are-just-one-piece-of-the-fraud-puzzle/"
-        },
-        {
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
             "description": "[CISA.GOV] CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-42897 Microsoft Exchange Server Cross-Site Scripting...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/05/15/cisa-adds-one-known-exploited-vulnerability-catalog"
+        },
+        {
+            "title": "Anthropic says Claude Mythos found 10,000 major software flaws in a month",
+            "description": "[THE INDIAN EXPRESS] Frontier AI lab, Anthropic, claimed that AI cybersecurity model Claude Mythos has uncovered thousands of high- or critical-severity software vulnerabilities in just a month. The claim underpins how...",
+            "url": "https://indianexpress.com/article/technology/artificial-intelligence/anthropic-claude-mythos-security-bugs-10703971/"
+        },
+        {
+            "title": "Claude Mythos caught more than 10,000 bugs in 1 month, Anthropic says more access coming",
+            "description": "[INDIA TODAY] Anthropic said Claude Mythos found more than 10,000 high- or critical-severity vulnerabilities through Project Glasswing in its first month. The update showed that patching and disclosure, rather...",
+            "url": "https://www.indiatoday.in/technology/news/story/claude-mythos-caught-more-than-10000-bugs-in-1-month-anthropic-says-more-access-coming-2915870-2026-05-23"
+        },
+        {
+            "title": "Who killed US President Donald Trump's AI order? Musk says it wasn't him",
+            "description": "[THE ECONOMIC TIMES] President Donald Trump's executive order on powerful AI models has collapsed. Allies in Silicon Valley reportedly convinced the president to pull the plug. The order aimed to implement new AI...",
+            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/who-killed-us-president-donald-trumps-ai-order-musk-says-it-wasnt-him/articleshow/131272180.cms"
+        },
+        {
+            "title": "Who killed Trump\u2019s AI order? Musk says it wasn\u2019t him",
+            "description": "[THE STRAITS TIMES] The White House had prepared new AI cybersecurity measures before he pulled the plug on May 21. Read more at straitstimes.com.",
+            "url": "https://www.straitstimes.com/world/united-states/who-killed-trumps-ai-order-musk-says-it-wasnt-him"
         },
         {
             "title": "PANW, NET: Anthropic\u2019s Project Glasswing Update Casts Spotlight on Cybersecurity Stocks",
@@ -105,26 +125,6 @@
             "title": "Iranian hackers are targeting aviation, oil and gas companies in espionage scheme, researchers say",
             "description": "[ABC17NEWS.COM] By Sean Lyngaas, CNN (CNN) \u2014 Iranian hackers have posed as job recruiters to target software engineers in the aviation sector as part of an elaborate espionage scheme during the US and Israeli war...",
             "url": "https://abc17news.com/politics/national-politics/cnn-us-politics/2026/05/22/iranian-hackers-are-targeting-aviation-oil-and-gas-companies-in-espionage-scheme-researchers-say/"
-        },
-        {
-            "title": "Iranian hackers are targeting airlines, oil and gas companies in espionage scheme, researchers say",
-            "description": "[CABLE NEWS NETWORK] Iranian hackers have posed as job recruiters to target software engineers in the aviation sector as part of an elaborate espionage scheme during the US and Israeli war with Iran, cybersecurity...",
-            "url": "https://edition.cnn.com/2026/05/22/politics/iran-hackers-airlines-oil-gas-companies"
-        },
-        {
-            "title": "Indian Railways to improve passenger safety by using AI, CCTV cameras, and drones across stations and trains",
-            "description": "[THE FINANCIAL EXPRESS] Indian Railways plans to improve passenger safety using AI-powered CCTV cameras and drones to detect unusual activities, manage crowds, prevent accidents, and strengthen cybersecurity across stations...",
-            "url": "https://www.financialexpress.com/business/railways-indian-railways-to-improve-passenger-safety-by-using-ai-cctv-cameras-and-drones-across-stations-and-trains-4248291/"
-        },
-        {
-            "title": "Threat Protection Pro: all you need to know about IPVanish's anti-malware tool",
-            "description": "[TECHRADAR] The VPN provider's cybersecurity tool comprehensively targets a range of security risks",
-            "url": "https://www.techradar.com/vpn/vpn-services/threat-protection-pro-all-you-need-to-know-about-ipvanishs-anti-malware-tool"
-        },
-        {
-            "title": "Politicians to Ditch Signal for Homegrown Apps",
-            "description": "[LAWFARE] The latest edition of the Seriously Risky Business cybersecurity newsletter, now on Lawfare.",
-            "url": "https://www.lawfaremedia.org/article/politicians-to-ditch-signal-for-homegrown-apps"
         }
     ]
 }
