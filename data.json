@@ -1,5 +1,5 @@
 {
-    "updated": "2026-05-23 06:28:11 UTC",
+    "updated": "2026-05-23 09:43:19 UTC",
     "news": [
         {
             "title": "CISA Adds Seven Known Exploited Vulnerabilities to Catalog",
@@ -17,6 +17,16 @@
             "url": "https://www.cisa.gov/news-events/alerts/2026/05/14/cisa-adds-one-known-exploited-vulnerability-catalog"
         },
         {
+            "title": "LiteSpeed cPanel Plugin CVE-2026-48172 Exploited to Run Scripts as Root",
+            "description": "[FEEDS.FEEDBURNER.COM] A maximum-severity security vulnerability impacting LiteSpeed User-End cPanel Plugin has come under active exploitation in the wild. The flaw, tracked as CVE-2026-48172 (CVSS score: 10.0), relates to...",
+            "url": "https://thehackernews.com/2026/05/litespeed-cpanel-plugin-cve-2026-48172.html"
+        },
+        {
+            "title": "Drupal Core SQL Injection Bug Actively Exploited, Added to CISA KEV",
+            "description": "[FEEDS.FEEDBURNER.COM] The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a recently patched critical security flaw impacting Drupal Core to its Known Exploited Vulnerabilities (KEV) catalog, based...",
+            "url": "https://thehackernews.com/2026/05/drupal-core-sql-injection-bug-actively.html"
+        },
+        {
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
             "description": "[CISA.GOV] CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-9082 Drupal Core SQL Injection Vulnerability This type of...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/05/22/cisa-adds-one-known-exploited-vulnerability-catalog"
@@ -28,23 +38,13 @@
         },
         {
             "title": "Ghostwriter Targets Ukraine Government Entities with Prometheus Phishing Malware",
-            "description": "[FEEDS.FEEDBURNER.COM] The Belarus-aligned threat actor known as Ghostwriter (aka UAC-0057 and UNC1151Ukraine's National Security and Defense Council) has been observed using lures related to Prometheus, a Ukrainian online...",
+            "description": "[FEEDS.FEEDBURNER.COM] The Belarus-aligned threat actor known as Ghostwriter (aka UAC-0057 and UNC1151) has been observed using lures related to Prometheus, a Ukrainian online learning platform, to target government...",
             "url": "https://thehackernews.com/2026/05/ghostwriter-targets-ukraine-government.html"
         },
         {
             "title": "Megalodon GitHub Attack Targets 5,561 Repos with Malicious CI/CD Workflows",
             "description": "[FEEDS.FEEDBURNER.COM] Cybersecurity researchers have disclosed details of a new automated campaign called Megalodon that has pushed 5,718 malicious commits to 5,561 GitHub repositories within a six-hour window. \"Using...",
             "url": "https://thehackernews.com/2026/05/megalodon-github-attack-targets-5561.html"
-        },
-        {
-            "title": "Making Vulnerable Drivers Exploitable Without Hardware - The BYOVD Perspective",
-            "description": "[FEEDS.FEEDBURNER.COM] 1 Introduction This article provides a technical analysis of how many Windows kernel mode drivers can be interacted with from user mode without the hardware they were developed for. This work was...",
-            "url": "https://thehackernews.com/2026/05/making-vulnerable-drivers-exploitable.html"
-        },
-        {
-            "title": "Kimwolf DDoS Botnet Operator Arrested in Canada Over DDoS-for-Hire Attacks",
-            "description": "[FEEDS.FEEDBURNER.COM] The U.S. Department of Justice (DoJ) on Thursday announced the arrest of a Canadian man in connection with allegedly operating a distributed denial-of-service (DDoS) botnet known as Kimwolf. In...",
-            "url": "https://thehackernews.com/2026/05/kimwolf-ddos-botnet-operator-arrested.html"
         },
         {
             "title": "Netherlands seizes 800 servers of hosting firm enabling cyberattacks",
@@ -75,6 +75,11 @@
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
             "description": "[CISA.GOV] CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-42897 Microsoft Exchange Server Cross-Site Scripting...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/05/15/cisa-adds-one-known-exploited-vulnerability-catalog"
+        },
+        {
+            "title": "PANW, NET: Anthropic\u2019s Project Glasswing Update Casts Spotlight on Cybersecurity Stocks",
+            "description": "[MARKETS INSIDER] Anthropic, in an initial update published on Friday, spotlighted the roles Palo Alto Networks (PAWN) and Cloudflare (NET) have played over the p...",
+            "url": "https://markets.businessinsider.com/news/stocks/panw-net-anthropic-s-project-glasswing-update-casts-spotlight-on-cybersecurity-stocks-1036189840"
         },
         {
             "title": "First VPN Dismantled in Global Takedown Over Use by 25 Ransomware Groups",
@@ -120,11 +125,6 @@
             "title": "Politicians to Ditch Signal for Homegrown Apps",
             "description": "[LAWFARE] The latest edition of the Seriously Risky Business cybersecurity newsletter, now on Lawfare.",
             "url": "https://www.lawfaremedia.org/article/politicians-to-ditch-signal-for-homegrown-apps"
-        },
-        {
-            "title": "Invitation to presentation of Sectra's year-end report 2025/2026",
-            "description": "[PR NEWSWIRE UK] /PRNewswire/ -- International medical imaging IT and cybersecurity company Sectra (STO: SECT B) invites investors, analysts, and the media to a presentation of...",
-            "url": "https://www.prnewswire.co.uk/news-releases/invitation-to-presentation-of-sectras-year-end-report-20252026-302779924.html"
         }
     ]
 }
