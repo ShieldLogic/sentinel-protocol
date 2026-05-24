@@ -1,130 +1,124 @@
 {
-    "updated": "2026-05-24 11:07:27 UTC",
+    "title": "Sentinel Protocol",
+    "tagline": "Perimeter Intelligence Sync",
+    "updated": "2026-05-24 11:58 UTC",
     "news": [
         {
-            "title": "CISA Adds Seven Known Exploited Vulnerabilities to Catalog",
-            "description": "[CISA.GOV] CISA has added seven new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2008-4250 Microsoft Windows Buffer Overflow Vulnerability...",
-            "url": "https://www.cisa.gov/news-events/alerts/2026/05/20/cisa-adds-seven-known-exploited-vulnerabilities-catalog"
-        },
-        {
-            "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
-            "description": "[CISA.GOV] CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-34291 Langflow Origin Validation Error Vulnerability...",
-            "url": "https://www.cisa.gov/news-events/alerts/2026/05/21/cisa-adds-two-known-exploited-vulnerabilities-catalog"
-        },
-        {
-            "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-            "description": "[CISA.GOV] CISA has added&nbsp;one&nbsp;new vulnerability&nbsp;to its&nbsp;Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation.&nbsp; CVE-2026-20182&nbsp;Cisco Catalyst...",
-            "url": "https://www.cisa.gov/news-events/alerts/2026/05/14/cisa-adds-one-known-exploited-vulnerability-catalog"
-        },
-        {
-            "title": "npm Adds 2FA-Gated Publishing and Package Install Controls Against Supply Chain Attacks",
-            "description": "[FEEDS.FEEDBURNER.COM] GitHub has rolled out new controls for npm to improve the security of the software supply chain, giving maintainers the ability to explicitly approve a release prior to the packages becoming publicly...",
-            "url": "https://thehackernews.com/2026/05/npm-adds-2fa-gated-publishing-and.html"
-        },
-        {
-            "title": "Packagist Supply Chain Attack Infects 8 Packages Using GitHub-Hosted Linux Malware",
-            "description": "[FEEDS.FEEDBURNER.COM] A new \"coordinated\" supply chain attack campaign has impacted eight packages on Packagist including malicious code designed to run a Linux binary retrieved from a GitHub Releases URL. \"Although the...",
-            "url": "https://thehackernews.com/2026/05/packagist-supply-chain-attack-infects-8.html"
-        },
-        {
+            "source": {
+                "id": null,
+                "name": "Internet"
+            },
+            "author": "info@thehackernews.com (The Hacker News)",
             "title": "Claude Mythos AI Finds 10,000 High-Severity Flaws in Widely Used Software",
-            "description": "[FEEDS.FEEDBURNER.COM] Anthropic on Friday disclosed that Project Glasswing has helped uncover more than 10,000 high- or critical-severity vulnerabilities across some of the most \"systemically\" important software across...",
-            "url": "https://thehackernews.com/2026/05/claude-mythos-ai-finds-10000-high.html"
+            "description": "Anthropic on Friday disclosed that Project Glasswing has helped uncover more than 10,000 high- or critical-severity vulnerabilities across some of the most \"systemically\" important software across the world since the cybersecurity initiative went live last mo\u2026",
+            "url": "https://thehackernews.com/2026/05/claude-mythos-ai-finds-10000-high.html",
+            "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOPcHXcMRS-BJNvy9aeoCz5H2Mmdh6mO6Kl3kM-l216B-3Wc0Iy5wayPkxJ79KtkHx2CGBwDVPMMeuB9E3jQlPXsa-vKqALoAuTwmEwsbH5sK0xs9xb_XWgk4uaGazYAcswrLxdX0QL74k7e85WXfL03rHFQStuxqpJFsJBcAQLOvNXSuX2YNBAScQStvj/s1700-e365/claude-mythos-flaws.jpg",
+            "publishedAt": "2026-05-23T11:55:35Z",
+            "content": "Anthropic on Friday disclosed that Project Glasswing has helped uncover more than 10,000 high- or critical-severity vulnerabilities across some of the most \"systemically\" important software across th\u2026 [+3698 chars]"
         },
         {
-            "title": "Laravel Lang packages hijacked to deploy credential-stealing malware",
-            "description": "[BLEEPINGCOMPUTER.COM] A supply chain attack targeting the Laravel Lang localization packages has exposed developers to a sophisticated credential-stealing malware campaign after attackers abused GitHub version tags to...",
-            "url": "https://www.bleepingcomputer.com/news/security/laravel-lang-packages-hijacked-to-deploy-credential-stealing-malware/"
+            "source": {
+                "id": null,
+                "name": "HackRead"
+            },
+            "author": "Deeba Ahmed",
+            "title": "RondoDox Botnet Exploits Critical 2018 Vulnerability to Hijack ASUS Routers",
+            "description": "Cybersecurity firm VulnCheck reveals hackers are using a critical 2018 vulnerability to bypass authentication and hack over a million ASUS routers.",
+            "url": "https://hackread.com/rondodox-botnet-2018-vulnerability-hijack-asus-routers/",
+            "urlToImage": "https://hackread.com/wp-content/uploads/2026/05/rondodox-botnet-2018-vulnerability-hijack-asus-routers-2.jpg",
+            "publishedAt": "2026-05-23T11:16:40Z",
+            "content": "Cybersecurity firm VulnChecks latest research reveals that cybercriminals are now targeting old models of ASUS routers by exploiting a software vulnerability from 2018, tracked as CVE-2018-5999. This\u2026 [+2878 chars]"
         },
         {
+            "source": {
+                "id": null,
+                "name": "Tom's Hardware UK"
+            },
+            "author": "Mark Tyson",
+            "title": "Wi-Fi controlled hacking USB cable stealthily packs in a microcontroller, microSD storage, and more \u2014 cable executes remote payload execution, keystroke injection, and more, but is 'built for makers, developers, enthusiasts, and cybersecurity learners'",
+            "description": "A device that 'looks like a normal USB cable' but packs in an ESP32-S3 microcontroller, micro SD card storage, and Wi-Fi capabilities has enjoyed great success on Kickstarter.",
+            "url": "https://www.tomshardware.com/maker-stem/microcontrollers-projects/wi-fi-controlled-hacking-usb-cable-stealthily-packs-in-an-esp32-s3-microsd-storage-and-more-cable-can-execute-remote-payload-execution-keystroke-injection-and-more-but-is-built-for-makers-developers-enthusiasts-and-cybersecurity-learners",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/HxNXpwsdkKRCeS2U2DffbW-1920-80.jpg",
+            "publishedAt": "2026-05-23T11:00:00Z",
+            "content": "A device that \u201clooks like a normal USB cable\u201d but is far more powerful has been a rip-roaring success on Kickstarter, with three weeks still to go. The Hacknect project by Little Gadgets packs an ESP\u2026 [+3730 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Pypi.org"
+            },
+            "author": null,
+            "title": "aigov-redact added to PyPI",
+            "description": "PII Redactor for LLM Data \u2014 Library + CLI. Redact sensitive data before sending to LLM APIs.",
+            "url": "https://pypi.org/project/aigov-redact/",
+            "urlToImage": "https://pypi.org/static/images/twitter.abaf4b19.webp",
+            "publishedAt": "2026-05-23T10:59:22Z",
+            "content": "Governance-ready PII redaction for AI/GenAI. A lightweight, local-first Python library and CLI tool for detecting, redacting, and auditing personally identifiable information (PII) before it reaches \u2026 [+28558 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Tom's Hardware UK"
+            },
+            "author": "Zhiye Liu",
+            "title": "Valorant anti-cheat update soft-bricks $6,000 cheating hardware, company then trolls cheaters on social media \u2014 studio tweets 'congrats to the owners of a brand new $6k paperweight'",
+            "description": "Riot Games has updated its Vanguard anti-cheat software in Valorant to block cheaters using DMA devices that cost up to $6,000.",
+            "url": "https://www.tomshardware.com/software/valorant-dev-bans-players-who-spent-usd6-000-on-cheats-then-trolls-them-on-social-media-studio-tweets-congrats-to-the-owners-of-a-brand-new-usd6k-paperweight",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/JQbDgmWrkNcEdv6jbXipqk-2560-80.jpg",
+            "publishedAt": "2026-05-23T10:30:00Z",
+            "content": "Valorant cheaters have watched their $6,000 investment turned into paperweights overnight as Riot Games updated the Vanguard anti-cheat software to block DMA (Direct Memory Access) cheating devices. \u2026 [+4518 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Matt Burgess, Dell Cameron, Andrew Couts",
+            "title": "The FBI Wants \u2018Near Real-Time\u2019 Access to US License Plate Readers",
+            "description": "Plus: Google publishes a live exploit for an unpatched flaw, the feds arrest two men accused of creating thousands of nonconsensual deepfake nudes, and more.",
+            "url": "https://www.wired.com/story/security-news-this-week-fbi-license-plate-reader-real-time-access/",
+            "urlToImage": "",
+            "publishedAt": "2026-05-23T10:30:00Z",
+            "content": "A WIRED investigation this week found that a former Phoenix police officer who owns a company that offers firearms training to Immigration and Customs enforcement was involved in six shootings, four \u2026 [+3890 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Internet"
+            },
+            "author": "info@thehackernews.com (The Hacker News)",
             "title": "Laravel-Lang PHP Packages Compromised to Deliver Cross-Platform Credential Stealer",
-            "description": "[FEEDS.FEEDBURNER.COM] Cybersecurity researchers have flagged a fresh software supply chain attack campaign that has targeted multiple PHP packages belonging to Laravel-Lang to deliver a comprehensive credential-stealing...",
-            "url": "https://thehackernews.com/2026/05/laravel-lang-php-packages-compromised.html"
+            "description": "Cybersecurity researchers have flagged a fresh software supply chain attack campaign that has targeted multiple PHP packages belonging to Laravel-Lang to deliver a comprehensive credential-stealing framework.\n\nThe affected packages include -\n\n\n laravel-lang/l\u2026",
+            "url": "https://thehackernews.com/2026/05/laravel-lang-php-packages-compromised.html",
+            "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkqwlAgmL-HrE2pSx8xqfY4-AyYZ59wK4x5AWtnCXSHRoBO1wcYTpWw42Fe6VRoAT77e914MSqZW56fKX95IueHTCrk10XNn2Yxh7CU8iCdX5lzFowGeVkolW-4E3po81w9pFMsaLR_r85abtUv3bwvQMa6pP1BAiSj4DrmapTiYr1twfV61tvGdWJRgs8/s1700-e365/lang-hack.jpg",
+            "publishedAt": "2026-05-23T09:51:13Z",
+            "content": "Cybersecurity researchers have flagged a fresh software supply chain attack campaign that has targeted multiple PHP packages belonging to Laravel-Lang to deliver a comprehensive credential-stealing f\u2026 [+4230 chars]"
         },
         {
-            "title": "LiteSpeed cPanel Plugin CVE-2026-48172 Exploited to Run Scripts as Root",
-            "description": "[FEEDS.FEEDBURNER.COM] A maximum-severity security vulnerability impacting LiteSpeed User-End cPanel Plugin has come under active exploitation in the wild. The flaw, tracked as CVE-2026-48172 (CVSS score: 10.0), relates to...",
-            "url": "https://thehackernews.com/2026/05/litespeed-cpanel-plugin-cve-2026-48172.html"
+            "source": {
+                "id": null,
+                "name": "BGR"
+            },
+            "author": "staff@bgr.com (Chifundo Kasiya)",
+            "title": "5 Easy Ways To Make Your Router More Secure",
+            "description": "Hackers will often use phishing scams and malware to get into your system, but if they have just some info, they can also get in through your Wi-Fi router.",
+            "url": "https://www.bgr.com/2175525/how-to-make-home-router-secure/",
+            "urlToImage": "https://www.bgr.com/img/gallery/5-easy-ways-to-make-your-router-more-secure/l-intro-1779118753.jpg",
+            "publishedAt": "2026-05-23T09:17:00Z",
+            "content": "When you set up a router, you're not just bringing the internet into your home. That small networking device can be a gateway for nefarious individuals to access your digital life if you don't take t\u2026 [+1194 chars]"
         },
         {
-            "title": "Italy disrupts CINEMAGOAL piracy app that stole streaming auth codes",
-            "description": "[BLEEPINGCOMPUTER.COM] Italian authorities have dismantled a piracy ecosystem centered around the CINEMAGOAL app that provided access to various streaming platforms, including Netflix, Disney+, and Spotify. [...]",
-            "url": "https://www.bleepingcomputer.com/news/legal/italy-disrupts-cinemagoal-piracy-app-that-stole-streaming-auth-codes/"
-        },
-        {
-            "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-            "description": "[CISA.GOV] CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-9082 Drupal Core SQL Injection Vulnerability This type of...",
-            "url": "https://www.cisa.gov/news-events/alerts/2026/05/22/cisa-adds-one-known-exploited-vulnerability-catalog"
-        },
-        {
-            "title": "Netherlands seizes 800 servers of hosting firm enabling cyberattacks",
-            "description": "[BLEEPINGCOMPUTER.COM] Financial crime investigators in the Netherlands (FIOD) arrested two men and seized 800 servers linked to a web hosting company that enabled cyberattacks, interference operations, and disinformation...",
-            "url": "https://www.bleepingcomputer.com/news/security/netherlands-seizes-800-servers-of-hosting-firm-enabling-cyberattacks/"
-        },
-        {
-            "title": "Former US execs plead guilty to aiding tech support scammers",
-            "description": "[BLEEPINGCOMPUTER.COM] Two former executives of a call-tracking and analytics company pleaded guilty to concealing a years-long tech support fraud scheme that victimized individuals worldwide. [...]",
-            "url": "https://www.bleepingcomputer.com/news/security/former-us-execs-plead-guilty-to-aiding-tech-support-scammers/"
-        },
-        {
-            "title": "Trend Micro warns of Apex One zero-day exploited in the wild",
-            "description": "[BLEEPINGCOMPUTER.COM] Japanese cybersecurity software company Trend Micro has addressed an Apex One zero-day vulnerability exploited in attacks targeting Windows systems. [...]",
-            "url": "https://www.bleepingcomputer.com/news/security/trend-micro-warns-of-apex-one-zero-day-exploited-in-attacks/"
-        },
-        {
-            "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-            "description": "[CISA.GOV] CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-42897 Microsoft Exchange Server Cross-Site Scripting...",
-            "url": "https://www.cisa.gov/news-events/alerts/2026/05/15/cisa-adds-one-known-exploited-vulnerability-catalog"
-        },
-        {
-            "title": "India, Cyprus draw up roadmap as Nicosia eyes military purchases",
-            "description": "[THE ECONOMIC TIMES] Cyprus plans to buy defence equipment from India. A new cooperation roadmap for 2026 to 2031 will boost defence and security ties. Companies from both nations will explore partnerships. This includes...",
-            "url": "https://economictimes.indiatimes.com/news/defence/india-cyprus-draw-up-roadmap-as-nicosia-eyes-military-purchases/articleshow/131285060.cms"
-        },
-        {
-            "title": "From the frontline: The cybersecurity challenges amid rising AI adoption",
-            "description": "[THE MANILA TIMES] AS AI starts to shape what people buy, how platforms run, and how decisions are made, gaps in accuracy, consistency, and accountability become harder to control.",
-            "url": "https://www.manilatimes.net/2026/05/24/business/sunday-business-it/from-the-frontline-the-cybersecurity-challenges-amid-rising-ai-adoption/2350483"
-        },
-        {
-            "title": "TechD Cybersecurity Q4 profit jumps 67%, revenue rises to \u20b953 cr in FY26",
-            "description": "[THE HINDU BUSINESS LINE] TechD Cybersecurity reports 67% profit increase and 76% revenue growth, reaching \u20b953 crore in FY26 amid strong demand.",
-            "url": "https://www.thehindubusinessline.com/info-tech/techd-cybersecurity-q4-profit-jumps-67-revenue-rises-to-53-cr-in-fy26/article71015392.ece"
-        },
-        {
-            "title": "TechD Cybersecurity Q4 profit jumps 67%, revenue rises to Rs 53 cr in FY26",
-            "description": "[NEWS18] TechD Cybersecurity Q4 profit jumps 67%, revenue rises to Rs 53 cr in FY26",
-            "url": "https://www.news18.com/agency-feeds/techd-cybersecurity-q4-profit-jumps-67-revenue-rises-to-rs-53-cr-in-fy26-10108597.html"
-        },
-        {
-            "title": "New Chinese surveillance leaves foreigners nowhere to hide",
-            "description": "[THE INDIAN EXPRESS] A Chinese cybersecurity expert has revealed to DW details of China's new high-tech policing. From ski resort facial recognition to seats on a train, the system can track anyone and compile a...",
-            "url": "https://indianexpress.com/article/world/new-chinese-surveillance-leaves-foreigners-nowhere-to-hide-10704620/"
-        },
-        {
-            "title": "TechD Cybersecurity Reports Robust FY26 Performance; Revenue Surges 74% YoY to INR 51.8 Crore",
-            "description": "[DEVDISCOURSE] The company also relaunched its digital platform, www.techdefence.ai, strengthening its positioning across enterprise cybersecurity, managed security services, compliance, and AI-led threat...",
-            "url": "https://www.devdiscourse.com/article/technology/3919368-techd-cybersecurity-reports-robust-fy26-performance-revenue-surges-74-yoy-to-inr-518-crore"
-        },
-        {
-            "title": "TechD Cybersecurity Reports Robust FY26 Performance; Revenue Surges 74% YoY to INR 51.8 Crore",
-            "description": "[THE TRIBUNE] Accelerating transition toward an AI-native cybersecurity platform company with strong profitability, improving cash flows, and expanding global opportunities. Ahmedabad, Gujarat, India \u2013 Business...",
-            "url": "https://www.tribuneindia.com/news/business/techd-cybersecurity-reports-robust-fy26-performance-revenue-surges-74-yoy-to-inr-51-8-crore/"
-        },
-        {
-            "title": "Anthropic says unreleased AI model helped companies find over 10,000 cybersecurity vulnerabilities in one month",
-            "description": "[THE FINANCIAL EXPRESS] Anthropic says an unreleased AI model helped partner companies uncover more than 10,000 cybersecurity vulnerabilities in just one month, highlighting its use in large-scale software security testing.",
-            "url": "https://www.financialexpress.com/life/technology-anthropic-says-unreleased-ai-model-helped-companies-find-over-10000-cybersecurity-vulnerabilities-in-one-month-4249030/"
-        },
-        {
-            "title": "Modern IT Support Is the Backbone of Scalable Tech Infrastructure",
-            "description": "[TECHBULLION] Discover how modern IT support powers scalable tech infrastructure through proactive monitoring, cloud management, cybersecurity, automation, and business continuity strategies for growing...",
-            "url": "https://techbullion.com/modern-it-support-is-the-backbone-of-scalable-tech-infrastructure/"
-        },
-        {
-            "title": "TechD Cybersecurity Limited Announces Record Breaking H2 FY26 & FY26 Results",
-            "description": "[NEWS18] TechD Cybersecurity Limited Announces Record Breaking H2 FY26 & FY26 Results",
-            "url": "https://www.news18.com/agency-feeds/techd-cybersecurity-limited-announces-record-breaking-h2-fy26-fy26-results-10107853.html"
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Stephen Council",
+            "title": "OpenAI will pay up to $445,000 for a researcher who can prepare for a world where AI trains itself",
+            "description": "OpenAI and Sam Altman aim to automate AI research. They are now hiring for a role to prepare the company for self-training AI.",
+            "url": "https://www.businessinsider.com/openai-safety-team-ai-self-improvement-challenge-job-2026-5",
+            "urlToImage": "https://i.insider.com/6a10d3c851ede568c7e17dd4?width=1200&format=jpeg",
+            "publishedAt": "2026-05-23T09:00:01Z",
+            "content": "OpenAI CEO Sam Altman.Bloomberg/Getty Images\r\n<ul><li>OpenAI and its CEO, Sam Altman, have set the goal of automating AI research.</li><li>The AI lab has a job post for its Preparedness safety team, \u2026 [+4554 chars]"
         }
     ]
 }
