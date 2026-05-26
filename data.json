@@ -1,5 +1,5 @@
 {
-    "updated": "2026-05-26 18:16:48 UTC",
+    "updated": "2026-05-26 21:28:12 UTC",
     "news": [
         {
             "title": "CISA Adds Seven Known Exploited Vulnerabilities to Catalog",
@@ -27,9 +27,19 @@
             "url": "https://thehackernews.com/2026/05/microsoft-patches-sharepoint-rce-flaw.html"
         },
         {
+            "title": "KnowledgeDeliver flaw exploited as a zero-day to install web shells",
+            "description": "[BLEEPINGCOMPUTER.COM] Hackers exploited a critical zero-day vulnerability in a server running the KnowledgeDeliver learning management system (LMS) to deploy the Godzilla web shell. [...]",
+            "url": "https://www.bleepingcomputer.com/news/security/knowledgedeliver-flaw-exploited-as-a-zero-day-to-install-web-shells/"
+        },
+        {
             "title": "MFA Prompt Bombing: Why Your Second Factor Isn't Saving You",
             "description": "[FEEDS.FEEDBURNER.COM] Multi-factor authentication (MFA) was supposed to close a critical gap in identity security. It meant that, even if an attacker possessed the account credentials, they couldn't log in without the...",
             "url": "https://thehackernews.com/2026/05/mfa-prompt-bombing-why-your-second.html"
+        },
+        {
+            "title": "Charter confirms data breach after ShinyHunters extortion threat",
+            "description": "[BLEEPINGCOMPUTER.COM] U.S. telecommunications giant Charter Communications has confirmed it suffered a data breach after the ShinyHunters extortion group threatened to leak stolen data unless a ransom is paid. [...]",
+            "url": "https://www.bleepingcomputer.com/news/security/charter-confirms-data-breach-after-shinyhunters-extortion-threat/"
         },
         {
             "title": "CERT-In Recommends 12-Hour Patching for Internet-Facing Flaws Amid AI-Assisted Attacks",
@@ -52,16 +62,6 @@
             "url": "https://www.bleepingcomputer.com/news/security/webinar-too-many-tools-are-slowing-network-incident-response/"
         },
         {
-            "title": "CISA orders feds to patch actively exploited Drupal vulnerability",
-            "description": "[BLEEPINGCOMPUTER.COM] CISA has given U.S. government agencies until Wednesday evening to secure their servers against an SQL injection vulnerability in the Drupal content management system (CMS) that it flagged as...",
-            "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-drupal-vulnerability/"
-        },
-        {
-            "title": "Microsoft: Domain Controller lookup may fail on Windows Server 2016",
-            "description": "[BLEEPINGCOMPUTER.COM] Microsoft has confirmed a new known issue affecting Windows Server 2016 systems that causes domain controller lookups to fail after installing the KB5087537 May 2026 security update. [...]",
-            "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-domain-controller-lookup-may-fail-on-windows-server-2016/"
-        },
-        {
             "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
             "description": "[CISA.GOV] CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-34291 Langflow Origin Validation Error Vulnerability...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/05/21/cisa-adds-two-known-exploited-vulnerabilities-catalog"
@@ -77,6 +77,41 @@
             "url": "https://www.cisa.gov/news-events/alerts/2026/05/15/cisa-adds-one-known-exploited-vulnerability-catalog"
         },
         {
+            "title": "INR 3 Crore Funding Grabbed by Galgotias University Student",
+            "description": "[THE TRIBUNE] Greater Noida, Uttar Pradesh, India (NewsVoir) Two students from Galgotias University have secured an investment of INR 3 crore for their Artificial Intelligence and cybersecurity startup, Cybergenix...",
+            "url": "https://www.tribuneindia.com/news/business/inr-3-crore-funding-grabbed-by-galgotias-university-student-led-startup-cybergenix-security-pvt-ltd-2-2/"
+        },
+        {
+            "title": "Memorial Day Warning: Ohio Veterans Targeted in Surge of Fraud Schemes, Identity Theft Scams Raise Alarm",
+            "description": "[USA HERALD] COLUMBUS, Ohio - A growing wave of scams is putting Ohio veterans in the crosshairs this Memorial Day, with criminals increasingly targeting military benefits, VA accounts, and personal identities in...",
+            "url": "https://usaherald.com/memorial-day-warning-ohio-veterans-targeted-in-surge-of-fraud-schemes-identity-theft-scams-raise-alarm/"
+        },
+        {
+            "title": "Hornetsecurity by Proofpoint launches new MSP Playbook to help businesses navigate critical AI and cybersecurity challenges",
+            "description": "[PR NEWSWIRE UK] /PRNewswire/ -- Leading global cybersecurity company, Hornetsecurity by Proofpoint, has launched a new playbook that provides Managed Service Providers (MSPs)...",
+            "url": "https://www.prnewswire.co.uk/news-releases/hornetsecurity-by-proofpoint-launches-new-msp-playbook-to-help-businesses-navigate-critical-ai-and-cybersecurity-challenges-302780015.html"
+        },
+        {
+            "title": "Exclusive - Sen. Tom Cotton Targets Cybersecurity Risks of Medical Devices Made in China",
+            "description": "[BREITBART NEWS NETWORK] Sen. Tom Cotton (R-AR) voiced concerns to the Food and Drug Administration (FDA) on Tuesday about cybersecurity issues with networked medical devices made in China.",
+            "url": "https://www.breitbart.com/politics/2026/05/26/exclusive-sen-tom-cotton-targets-cybersecurity-risks-of-medical-devices-made-in-china/"
+        },
+        {
+            "title": "Conservatives look to limit government powers in Liberals' controversial lawful access bill",
+            "description": "[CBC.CA] Conservatives say they'll push to amend the Liberals' controversial lawful access bill, which would force tech companies to adjust their systems to aid police and security investigations, amid fears...",
+            "url": "https://www.cbc.ca/news/politics/lawful-access-c-22-committee-9.7211701"
+        },
+        {
+            "title": "If You Use This Wifi CCTV Camera At Home Or Office, Your Personal Data Is Not Safe",
+            "description": "[TIMES NOW] A cybersecurity alert has been issued regarding a vulnerability in several CP Plus Wi-Fi CCTV camera models, potentially compromising sensitive data such as Wi-Fi passwords., Technology & Science,...",
+            "url": "https://www.timesnownews.com/technology-science/if-you-use-this-wifi-cctv-camera-at-home-or-office-your-personal-data-is-not-safe-article-154400285"
+        },
+        {
+            "title": "Hacker Nisarga claims he broke into CBSE OSM portal, warned board months ago",
+            "description": "[INDIA TODAY] A teen cybersecurity researcher\u2019s blog post alleging serious flaws in CBSE\u2019s On-Screen Marking portal has triggered concern online after entrepreneur Deedy Das amplified the issue on X. The...",
+            "url": "https://www.indiatoday.in/education-today/news/story/cbse-osm-portal-vulnerability-claims-surface-with-teens-detailed-blog-post-2917243-2026-05-26"
+        },
+        {
             "title": "How AI is reshaping UAV cybersecurity and where it falls short",
             "description": "[DEVDISCOURSE] Read more about How AI is reshaping UAV cybersecurity and where it falls short on Devdiscourse",
             "url": "https://www.devdiscourse.com/article/technology/3919045-how-ai-is-reshaping-uav-cybersecurity-and-where-it-falls-short"
@@ -90,41 +125,6 @@
             "title": "Python in the grass: IT freshers must speak \u2018AI\u2019 to stay on par",
             "description": "[THE ECONOMIC TIMES] The share of entry-level hiring in the sector has fallen to around 15% in 2025 from 28% in 2024 as companies focus more on AI, cloud, cybersecurity and automation-focused roles. Emerging technology...",
             "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/python-in-the-grass-it-freshers-must-speak-ai-to-stay-on-par/articleshow/131314611.cms"
-        },
-        {
-            "title": "Ransomware Attacks on Automotive and Smart Mobility More Than Doubled in 2025, According to New Research by Upstream Security",
-            "description": "[THE MANILA TIMES] Upstream's report finds that the rapid adoption of Physical AI, with autonomous vehicles among the first production-ready systems in real-world operation, is expanding attack surfaces and...",
-            "url": "https://www.manilatimes.net/2026/05/26/tmt-newswire/pr-newswire/ransomware-attacks-on-automotive-and-smart-mobility-more-than-doubled-in-2025-according-to-new-research-by-upstream-security/2351233"
-        },
-        {
-            "title": "Ransomware Attacks on Automotive and Smart Mobility More Than Doubled in 2025, According to New Research by Upstream Security",
-            "description": "[PR NEWSWIRE UK] /PRNewswire/ -- Upstream, the leading AI-powered cybersecurity detection and response platform (XDR) purpose-built for connected vehicles, physical AI, and...",
-            "url": "https://www.prnewswire.co.uk/news-releases/ransomware-attacks-on-automotive-and-smart-mobility-more-than-doubled-in-2025-according-to-new-research-by-upstream-security-302781196.html"
-        },
-        {
-            "title": "Over 200 Fake Android Apps Are Quietly Stealing Money From Phone Bills",
-            "description": "[BGR] Cybersecurity group Zimperium discovered a new malware scam that silently used nearly 250 Android apps to impersonate popular games and social media sites.",
-            "url": "https://www.bgr.com/2180707/fake-android-apps-are-stealing-money-from-phone-bill/"
-        },
-        {
-            "title": "'This is a sales tactic': Experts warn ransomware hackers will often lower their prices - with some giving discounts up to 96%",
-            "description": "[TECHRADAR] Ransomware actors use a whole range of different tactics",
-            "url": "https://www.techradar.com/pro/security/this-is-a-sales-tactic-experts-warn-ransomware-hackers-will-often-lower-their-prices-with-some-giving-discounts-up-to-96-percent"
-        },
-        {
-            "title": "\u2018Cybersecurity is not going away,\u2019 says defence advisor",
-            "description": "[SOOTODAY] Jonathan Clow urges Northern Ontario companies to jump on security certification process if serious about chasing defence contracts",
-            "url": "https://www.sootoday.com/local-news/cybersecurity-is-not-going-away-says-defence-advisor-12324579"
-        },
-        {
-            "title": "ECB Calls Emergency Bank Meeting After Mythos AI Uncovers Thousands of Zero-Day Flaws",
-            "description": "[MARKETS INSIDER] The European Central Bank (ECB) has called for an urgent meeting with lenders on May 26 over cybersecurity risks exposed by Anthropic\u2019s Mythos m...",
-            "url": "https://markets.businessinsider.com/news/stocks/ecb-calls-emergency-bank-meeting-after-mythos-ai-uncovers-thousands-of-zero-day-flaws-1036192484"
-        },
-        {
-            "title": "Network Nightmares: America\u2019s printers carry hidden hacker risks",
-            "description": "[LIVE 5 NEWS WCSC] Cybersecurity experts warn outdated, poorly secured office printers can give hackers an easy path into government and business networks.",
-            "url": "https://www.live5news.com/2026/05/25/network-nightmares-americas-printers-carry-hidden-hacker-risks/"
         }
     ]
 }
