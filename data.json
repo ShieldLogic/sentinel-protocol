@@ -1,10 +1,20 @@
 {
-    "updated": "2026-05-26 02:13:47 UTC",
+    "updated": "2026-05-26 07:36:00 UTC",
     "news": [
         {
             "title": "CISA Adds Seven Known Exploited Vulnerabilities to Catalog",
             "description": "[CISA.GOV] CISA has added seven new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2008-4250 Microsoft Windows Buffer Overflow Vulnerability...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/05/20/cisa-adds-seven-known-exploited-vulnerabilities-catalog"
+        },
+        {
+            "title": "KnowledgeDeliver LMS Flaw Exploited to Deploy Godzilla and Cobalt Strike",
+            "description": "[FEEDS.FEEDBURNER.COM] A now-patched high-severity security flaw affecting Digital Knowledge KnowledgeDeliver, a Learning Management System (LMS) popular in Japan, was exploited as a zero-day to deliver the Godzilla web...",
+            "url": "https://thehackernews.com/2026/05/knowledgedeliver-lms-flaw-exploited-to.html"
+        },
+        {
+            "title": "7-Eleven data breach exposes personal information of 185,000 people",
+            "description": "[BLEEPINGCOMPUTER.COM] The ShinyHunters extortion gang stole the personal information of over 183,000 people after hacking the systems of convenience store chain giant 7-Eleven in April, according to data breach...",
+            "url": "https://www.bleepingcomputer.com/news/security/7-eleven-data-breach-exposes-personal-information-of-185-000-people/"
         },
         {
             "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
@@ -25,11 +35,6 @@
             "title": "Laravel Lang packages hijacked to deploy credential-stealing malware",
             "description": "[BLEEPINGCOMPUTER.COM] A supply chain attack targeting the Laravel Lang localization packages has exposed developers to a sophisticated credential-stealing malware campaign after attackers abused GitHub version tags to...",
             "url": "https://www.bleepingcomputer.com/news/security/laravel-lang-packages-hijacked-to-deploy-credential-stealing-malware/"
-        },
-        {
-            "title": "Italy disrupts CINEMAGOAL piracy app that stole streaming auth codes",
-            "description": "[BLEEPINGCOMPUTER.COM] Italian authorities have dismantled a piracy ecosystem centered around the CINEMAGOAL app that provided access to various streaming platforms, including Netflix, Disney+, and Spotify. [...]",
-            "url": "https://www.bleepingcomputer.com/news/legal/italy-disrupts-cinemagoal-piracy-app-that-stole-streaming-auth-codes/"
         },
         {
             "title": "\u26a1 Weekly Recap: Linux Flaws, Defender 0-Days, Router Botnets, and Supply Chain Chaos",
@@ -57,11 +62,6 @@
             "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropics-restricted-claude-mythos-model-may-be-coming-to-claude-code/"
         },
         {
-            "title": "TrapDoor Supply Chain Attack Spreads Credential-Stealing Malware via npm, PyPI, and CratesIO",
-            "description": "[FEEDS.FEEDBURNER.COM] A new coordinated cross-ecosystem software supply chain attack campaign has targeted npm, PyPI, and Crates.io to distribute credential-stealing malware. The campaign, codenamed TrapDoor, spans more...",
-            "url": "https://thehackernews.com/2026/05/trapdoor-supply-chain-attack-spreads.html"
-        },
-        {
             "title": "FBI warns of Kali365 phishing service targeting Microsoft 365 accounts",
             "description": "[BLEEPINGCOMPUTER.COM] The FBI is warning about the Kali365 phishing-as-a-service platform (PhaaS) that is used to hijack Microsoft 365 accounts by abusing OAuth device code authentication to steal session tokens and...",
             "url": "https://www.bleepingcomputer.com/news/security/fbi-warns-of-kali365-phishing-service-targeting-microsoft-365-accounts/"
@@ -77,54 +77,54 @@
             "url": "https://www.cisa.gov/news-events/alerts/2026/05/15/cisa-adds-one-known-exploited-vulnerability-catalog"
         },
         {
+            "title": "Over 200 Fake Android Apps Are Quietly Stealing Money From Phone Bills",
+            "description": "[BGR] Cybersecurity group Zimperium discovered a new malware scam that silently used nearly 250 Android apps to impersonate popular games and social media sites.",
+            "url": "https://www.bgr.com/2180707/fake-android-apps-are-stealing-money-from-phone-bill/"
+        },
+        {
+            "title": "'This is a sales tactic': Experts warn ransomware hackers will often lower their prices - with some giving discounts up to 96%",
+            "description": "[TECHRADAR] Ransomware actors use a whole range of different tactics",
+            "url": "https://www.techradar.com/pro/security/this-is-a-sales-tactic-experts-warn-ransomware-hackers-will-often-lower-their-prices-with-some-giving-discounts-up-to-96-percent"
+        },
+        {
+            "title": "\u2018Cybersecurity is not going away,\u2019 says defence advisor",
+            "description": "[SOOTODAY] Jonathan Clow urges Northern Ontario companies to jump on security certification process if serious about chasing defence contracts",
+            "url": "https://www.sootoday.com/local-news/cybersecurity-is-not-going-away-says-defence-advisor-12324579"
+        },
+        {
+            "title": "ECB Calls Emergency Bank Meeting After Mythos AI Uncovers Thousands of Zero-Day Flaws",
+            "description": "[MARKETS INSIDER] The European Central Bank (ECB) has called for an urgent meeting with lenders on May 26 over cybersecurity risks exposed by Anthropic\u2019s Mythos m...",
+            "url": "https://markets.businessinsider.com/news/stocks/ecb-calls-emergency-bank-meeting-after-mythos-ai-uncovers-thousands-of-zero-day-flaws-1036192484"
+        },
+        {
+            "title": "Network Nightmares: America\u2019s printers carry hidden hacker risks",
+            "description": "[WEAU] Cybersecurity experts warn outdated, poorly secured office printers can give hackers an easy path into government and business networks.",
+            "url": "https://www.weau.com/2026/05/25/network-nightmares-americas-printers-carry-hidden-hacker-risks/"
+        },
+        {
+            "title": "Network Nightmares: America\u2019s printers carry hidden hacker risks",
+            "description": "[LIVE 5 NEWS WCSC] Cybersecurity experts warn outdated, poorly secured office printers can give hackers an easy path into government and business networks.",
+            "url": "https://www.live5news.com/2026/05/25/network-nightmares-americas-printers-carry-hidden-hacker-risks/"
+        },
+        {
+            "title": "Network Nightmares: America\u2019s printers carry hidden hacker risks",
+            "description": "[WIS10] Cybersecurity experts warn outdated, poorly secured office printers can give hackers an easy path into government and business networks.",
+            "url": "https://www.wistv.com/2026/05/25/network-nightmares-americas-printers-carry-hidden-hacker-risks/"
+        },
+        {
+            "title": "Insurers Flag Mythos' AI As Major Cyber Threat Ahead Of IRDAI Deadline",
+            "description": "[NDTV PROFIT] IRDAI seeks AI cybersecurity assessment as insurers warn digitisation is racing ahead of cyber preparedness",
+            "url": "https://www.ndtvprofit.com/business/insurers-flag-mythos-ai-as-major-cyber-threat-ahead-of-irdai-deadline-11545672"
+        },
+        {
+            "title": "Zscaler Is About to Report Q3 Earnings Tomorrow. Options Traders Expect a 13% Move in ZS Stock",
+            "description": "[MARKETS INSIDER] Cybersecurity firm Zscaler (ZS) is scheduled to announce its results for the third quarter of Fiscal 2026 on Tuesday, May 26. ZS stock...",
+            "url": "https://markets.businessinsider.com/news/stocks/zscaler-is-about-to-report-q3-earnings-tomorrow-options-traders-expect-a-13-move-in-zs-stock-1036191714"
+        },
+        {
             "title": "Global firms rethink GCC hiring in India as AI shifts skill demand",
             "description": "[THE ECONOMIC TIMES] Global firms in India are hiring cautiously. Artificial intelligence is changing job roles, making it harder to find talent with advanced tech skills. Companies seek specialized expertise in AI and...",
             "url": "https://economictimes.indiatimes.com/tech/information-tech/global-firms-rethink-gcc-hiring-in-india-as-ai-shifts-skill-demand/articleshow/131311381.cms"
-        },
-        {
-            "title": "Job Listings For Cybersecurity Advisors Up 11% Due To Threats Identified By Claude Mythos, GPT 5.4-Cyber",
-            "description": "[NDTV PROFIT] Besides cybersecurity, the 'AI Engineer' job role is also gaining prominence with it being named the 'fastest growing job title' for college graduates by LinkedIn.",
-            "url": "https://www.ndtvprofit.com/technology/job-listings-for-cybersecurity-advisors-up-11-due-to-threats-identified-by-claude-mythos-gpt-5-4-cyber-11545322"
-        },
-        {
-            "title": "Why More Professionals Are Investing in Cybersecurity Courses for Career Growth",
-            "description": "[TECHBULLION] Discover why more professionals are investing in cybersecurity courses for career growth. Enhance your skills and stay ahead in today's digital landscape.",
-            "url": "https://techbullion.com/why-more-professionals-are-investing-in-cybersecurity-courses-for-career-growth/"
-        },
-        {
-            "title": "INR 3 Crore Funding Grabbed by Galgotias University Student",
-            "description": "[THE TRIBUNE] Greater Noida (Uttar Pradesh) [India], May 25: Two students from Galgotias University have secured an investment of INR 3 crore for their Artificial Intelligence and cybersecurity startup, Cybergenix...",
-            "url": "https://www.tribuneindia.com/news/business/inr-3-crore-funding-grabbed-by-galgotias-university-student-led-startup-cybergenix-security-pvt-ltd/"
-        },
-        {
-            "title": "The Surprising Tactic Your Company Should Use If It\u2019s the Victim of a Ransomware Attack",
-            "description": "[INC. MAGAZINE] Ransomware attacks increased last year. But you may have more options than you think if you're hit by one.",
-            "url": "https://www.inc.com/chris-morris/the-surprising-tactic-your-company-should-use-if-its-the-victim-of-a-ransomware-attack/91348991"
-        },
-        {
-            "title": "ECB convenes banks over AI cybersecurity risks from Mythos",
-            "description": "[TNW] The ECB is pressing banks to patch vulnerabilities faster as Anthropic's Mythos finds thousands of zero-day flaws and European lenders remain locked out of testing.",
-            "url": "https://thenextweb.com/news/ecb-banks-cybersecurity-ai-mythos-elderson"
-        },
-        {
-            "title": "Trump administration plans wider White House app rollout across federal work devices: Report",
-            "description": "[FIRSTPOST] The Trump administration is reportedly preparing to automatically install its official White House app on government-issued phones used by federal employees. While officials describe the app as a...",
-            "url": "https://www.firstpost.com/tech/trump-administration-plans-wider-white-house-app-rollout-across-federal-work-devices-report-14014869.html"
-        },
-        {
-            "title": "Pakistan\u2019s central bank plans cybersecurity overhaul to protect digital assets",
-            "description": "[BOL NEWS] State Bank of Pakistan implements comprehensive digital brand protection solution and centralized threat intelligence platform to safeguard financial sector from cyber-attacks, phishing, and data...",
-            "url": "https://www.bolnews.com/technology/pakistans-central-bank-plans-comprehensive-cybersecurity-overhaul-to-protect-digital-assets/"
-        },
-        {
-            "title": "How to Test Ransomware Recovery Without Reinfecting Your Environment",
-            "description": "[THE HACKER NEWS] Clean backups can restore dormant malware; MSPs now require isolated, telemetry-driven ransomware recovery testing under NIS 2.",
-            "url": "https://thehackernews.com/expert-insights/2026/05/how-to-test-ransomware-recovery-without.html"
-        },
-        {
-            "title": "One job that is growing in the AI era? Cybersecurity experts.",
-            "description": "[THE STAR] Demand for security engineers has surged as artificial intelligence generates a glut of new code and models like Anthropic's Mythos create new concerns.",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/05/25/one-job-that-is-growing-in-the-ai-era-cybersecurity-experts"
         }
     ]
 }
