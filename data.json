@@ -1,15 +1,10 @@
 {
-    "updated": "2026-05-28 15:28:17 UTC",
+    "updated": "2026-05-28 18:30:15 UTC",
     "news": [
         {
             "title": "CISA Adds Three Known Exploited Vulnerabilities to Catalog",
             "description": "[CISA.GOV] CISA has added&nbsp;three&nbsp;new vulnerabilities&nbsp;to its&nbsp;Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-8398&nbsp;Daemon Tools Lite...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/05/27/cisa-adds-three-known-exploited-vulnerabilities-catalog"
-        },
-        {
-            "title": "Grandoreiro Malware and BTMOB RAT Campaigns Target Windows and Android Users",
-            "description": "[FEEDS.FEEDBURNER.COM] Latin America and Europe become the target of two banking trojan campaigns that are designed to infect Windows and Android devices with Grandoreiro and BTMOB malware, respectively. That's according...",
-            "url": "https://thehackernews.com/2026/05/grandoreiro-malware-and-btmob-rat.html"
         },
         {
             "title": "CISA Adds Seven Known Exploited Vulnerabilities to Catalog",
@@ -20,6 +15,16 @@
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
             "description": "[CISA.GOV] CISA has added&nbsp;one&nbsp;new vulnerability&nbsp;to its&nbsp;Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation.&nbsp;...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/05/26/cisa-adds-one-known-exploited-vulnerability-catalog"
+        },
+        {
+            "title": "Critical Gogs RCE Vulnerability Lets Any Authenticated User Execute Arbitrary Code",
+            "description": "[FEEDS.FEEDBURNER.COM] A critical security vulnerability has been disclosed in Gogs, a popular open-source self-hosted Git service, that allows an authenticated user to execute arbitrary code under certain conditions. The...",
+            "url": "https://thehackernews.com/2026/05/critical-gogs-rce-vulnerability-lets.html"
+        },
+        {
+            "title": "Threat Actors Exploit Critical FortiClient EMS Flaw to Deploy Credential Stealer",
+            "description": "[FEEDS.FEEDBURNER.COM] Threat actors are continuing to exploit a critical, now-patched security flaw impacting FortiClient Endpoint Management Server (EMS) deployments to deliver credential-stealing malware. \"The campaign...",
+            "url": "https://thehackernews.com/2026/05/threat-actors-exploit-critical.html"
         },
         {
             "title": "Microsoft Slams Public Zero-Day Disclosures Amid GitHub Researcher Account Removal",
@@ -37,9 +42,9 @@
             "url": "https://thehackernews.com/2026/05/new-ai-usage-report-enterprise-ai-risk.html"
         },
         {
-            "title": "JINX-0164 Targets Cryptocurrency Firms with Fake Recruiter Lures and macOS Malware",
-            "description": "[FEEDS.FEEDBURNER.COM] A new campaign orchestrated by a previously undocumented threat actor has targeted cryptocurrency organizations with an aim to facilitate digital asset theft using recruitment-themed social...",
-            "url": "https://thehackernews.com/2026/05/jinx-0164-targets-cryptocurrency-firms.html"
+            "title": "Hackers exploit FortiClient EMS flaw to push infostealer malware",
+            "description": "[BLEEPINGCOMPUTER.COM] Hackers are exploiting an authentication bypass vulnerability (CVE-2026-35616) in FortiClient Enterprise Management Server (EMS) to deliver an undocumented credential stealer called EKZ. [...]",
+            "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-forticlient-ems-flaw-to-push-infostealer-malware/"
         },
         {
             "title": "New Gogs zero-day flaw lets hackers get remote code execution",
@@ -62,11 +67,6 @@
             "url": "https://www.bleepingcomputer.com/news/security/webinar-why-network-incidents-take-too-long-to-resolve/"
         },
         {
-            "title": "Carnival Cruise confirms data breach affecting nearly 6 million people",
-            "description": "[BLEEPINGCOMPUTER.COM] Carnival Corporation, the world's largest cruise line operator, has confirmed a data breach affecting nearly 6 million people claimed by the ShinyHunters extortion gang in April 2026. [...]",
-            "url": "https://www.bleepingcomputer.com/news/security/carnival-cruise-confirms-data-breach-affecting-nearly-6-million-people/"
-        },
-        {
             "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
             "description": "[CISA.GOV] CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-34291 Langflow Origin Validation Error Vulnerability...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/05/21/cisa-adds-two-known-exploited-vulnerabilities-catalog"
@@ -75,6 +75,11 @@
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
             "description": "[CISA.GOV] CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-9082 Drupal Core SQL Injection Vulnerability This type of...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/05/22/cisa-adds-one-known-exploited-vulnerability-catalog"
+        },
+        {
+            "title": "Google Cloud introduces AI-driven threat defense for enterprise security",
+            "description": "[THE INDIAN EXPRESS] Google has expanded its cybersecurity offerings with a new AI-focused defense framework that aims to help companies monitor, detect, and respond to AI-powered attacks in real time.",
+            "url": "https://indianexpress.com/article/technology/artificial-intelligence/google-cloud-introduces-ai-driven-threat-defense-for-enterprise-security-10711679/"
         },
         {
             "title": "India\u2019s cybersecurity agency sounds alarm on AI-powered attacks, urges firms to patch flaws within hours",
@@ -120,11 +125,6 @@
             "title": "Area Catholic leaders, experts praise Pope Leo's AI encyclical",
             "description": "[CHICAGO TRIBUNE] Local Catholic leaders and cybersecurity experts praised Pope Leo XIV\u2019s first major writing addressing artificial intelligence and humanity.",
             "url": "https://www.chicagotribune.com/2026/05/27/area-catholic-leaders-experts-praise-pope-leos-ai-encyclical/"
-        },
-        {
-            "title": "Liberals to amend police data interception bill following searing criticism",
-            "description": "[CBC.CA] The Liberal government says it will amend its hot-button lawful access legislation \u2014 which would make it easier for police and spies to tap private communications \u2014 as it faces blowback from critics...",
-            "url": "https://www.cbc.ca/news/politics/bill-c-22-encryption-cybersecurity-9.7213776"
         }
     ]
 }
