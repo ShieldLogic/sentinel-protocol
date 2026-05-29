@@ -1,5 +1,5 @@
 {
-    "updated": "2026-05-28 23:07:08 UTC",
+    "updated": "2026-05-29 02:12:52 UTC",
     "news": [
         {
             "title": "CISA Adds Three Known Exploited Vulnerabilities to Catalog",
@@ -25,6 +25,11 @@
             "title": "Threat Actors Exploit Critical FortiClient EMS Flaw to Deploy Credential Stealer",
             "description": "[FEEDS.FEEDBURNER.COM] Threat actors are continuing to exploit a critical, now-patched security flaw impacting FortiClient Endpoint Management Server (EMS) deployments to deliver credential-stealing malware. \"The campaign...",
             "url": "https://thehackernews.com/2026/05/threat-actors-exploit-critical.html"
+        },
+        {
+            "title": "Anthropic confirms Claude Mythos-class models will roll out to the public",
+            "description": "[BLEEPINGCOMPUTER.COM] Anthropic has confirmed that it plans to bring Mythos-class models to the general public after delaying the rollout due to security risks to public and private software. [...]",
+            "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-mythos-class-models-will-roll-out-to-the-public/"
         },
         {
             "title": "Microsoft Slams Public Zero-Day Disclosures Amid GitHub Researcher Account Removal",
@@ -62,11 +67,6 @@
             "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-forticlient-ems-flaw-to-push-infostealer-malware/"
         },
         {
-            "title": "New Gogs zero-day flaw lets hackers get remote code execution",
-            "description": "[BLEEPINGCOMPUTER.COM] An unpatched zero-day vulnerability in the Gogs self-hosted Git service can allow attackers to gain remote code execution (RCE) on Internet-facing instances. [...]",
-            "url": "https://www.bleepingcomputer.com/news/security/new-gogs-zero-day-flaw-lets-hackers-get-remote-code-execution/"
-        },
-        {
             "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
             "description": "[CISA.GOV] CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-34291 Langflow Origin Validation Error Vulnerability...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/05/21/cisa-adds-two-known-exploited-vulnerabilities-catalog"
@@ -77,54 +77,54 @@
             "url": "https://www.cisa.gov/news-events/alerts/2026/05/22/cisa-adds-one-known-exploited-vulnerability-catalog"
         },
         {
+            "title": "Bajaj Finserv to back research, startups in AI, deep-tech, commits Rs 2,000 crore",
+            "description": "[THE FINANCIAL EXPRESS] Bajaj Finserv partners with IIT Bombay to launch Finserv Intelligence, committing \u20b91,500-2,000 crore to early-stage deep-tech, AI, and cybersecurity startups.",
+            "url": "https://www.financialexpress.com/business/news/bajaj-finserv-to-back-research-startups-in-ai-deep-tech-commits-rs-2000-crore/4253584/"
+        },
+        {
+            "title": "Harpswell loses $190K to cybersecurity fraud",
+            "description": "[BANGOR DAILY NEWS] Harpswell lost nearly $190,000 after a cyber scammer posed as a legitimate vendor. An investigation is underway.",
+            "url": "https://www.bangordailynews.com/2026/05/28/midcoast/midcoast-government/harpswell-maine-cyber-fraud-scam-190k/"
+        },
+        {
+            "title": "SEBI Explores Forming Working Group For Blockchain-Based Bond Tokenisation Framework",
+            "description": "[NDTV PROFIT] SEBI Chairman had recently said the regulator is already running a pilot around tokenisation of corporate bonds, while flagging concerns around regulatory oversight, cybersecurity safeguards and...",
+            "url": "https://www.ndtvprofit.com/markets/sebi-explores-forming-working-group-for-blockchain-based-bond-tokenisation-framework-11560086"
+        },
+        {
+            "title": "Cycurion Executes Seamless Chief Financial Officer Transition with Appointment of Ana Garcia",
+            "description": "[THE MANILA TIMES] MCLEAN, Va., May 28, 2026 (GLOBE NEWSWIRE) -- Cycurion, Inc. (NASDAQ: CYCU) ('Cycurion\u201d or the 'Company\u201d), a pioneering AI-driven cybersecurity and government technology solutions provider, today...",
+            "url": "https://www.manilatimes.net/2026/05/28/tmt-newswire/globenewswire/cycurion-executes-seamless-chief-financial-officer-transition-with-appointment-of-ana-garcia/2353742"
+        },
+        {
+            "title": "The MyPillow Guy Is Getting Dragged Back Into Cyber Warfare",
+            "description": "[GIZMODO] Trump ally Mike Lindell denies claims that his company was hacked by a ransomware gang, saying the allegations are politically motivated.",
+            "url": "https://gizmodo.com/the-mypillow-guy-is-getting-dragged-back-into-cyber-warfare-2000764233"
+        },
+        {
+            "title": "OpenAI to step up cyber defenses, anti-misinformation efforts ahead of global elections in 2026",
+            "description": "[THE INDIAN EXPRESS] OpenAI is offering US election authorities access to its cybersecurity products while registered voting system manufacturers in the US have been included in its Trusted Access for Cyber programme.",
+            "url": "https://indianexpress.com/article/technology/artificial-intelligence/openai-cyber-defenses-anti-misinformation-efforts-global-elections-2026-10712541/"
+        },
+        {
+            "title": "Bajaj Finserv commits \u20b91,500 cr-2,000 cr over 5 years to AI innovation startups to bridge private R&D funding gap",
+            "description": "[LIVEMINT] The plan to invest in AI startups will focus on early-stage companies. The initiative, Finserv Intelligence, aims to enhance India's private sector R&D and will collaborate with IIT Bombay for...",
+            "url": "https://www.livemint.com/companies/news/bajaj-finserv-ai-innovation-startups-private-r-d-funding-cybersecurity-quantum-technology-fintech-consumer-tech-11779955576265.html"
+        },
+        {
+            "title": "House GOPs Urge FBI to Keep Pressure on Ransomware Gangs Targeting Hospitals",
+            "description": "[BREITBART NEWS NETWORK] Rep. Troy Nehls is leading House Republicans in pressing FBI Director Kash Patel to maintain aggressive action against ransomware gangs targeting hospitals.",
+            "url": "https://www.breitbart.com/national-security/2026/05/28/exclusive-house-republicans-urge-fbi-director-patel-keep-pressure-ransomware-gangs-targeting-hospitals/"
+        },
+        {
+            "title": "House GOPs Urge FBI to Keep Pressure on Ransomware Gangs Targeting Hospitals",
+            "description": "[BREITBART NEWS NETWORK] Rep. Troy Nehls is leading House Republicans in pressing FBI Director Kash Patel to maintain aggressive action against ransomware gangs targeting hospitals.",
+            "url": "https://www.breitbart.com/tech/2026/05/28/exclusive-house-republicans-urge-fbi-director-patel-keep-pressure-ransomware-gangs-targeting-hospitals/"
+        },
+        {
             "title": "CERT-In issues critical severity warning for Google Chrome on desktop users",
             "description": "[BUSINESS STANDARD] India's cybersecurity agency CERT-In has issued a critical advisory for Google Chrome users on Windows, Mac, and Linux systems. Google will soon be releasing an update to fix these issues",
             "url": "https://www.business-standard.com/technology/tech-news/cert-in-critical-severity-warning-google-chrome-desktop-users-126052800937_1.html"
-        },
-        {
-            "title": "Bajaj Finserv to invest \u20b91,500-2,000 crore in AI innovation startups over 5 yrs",
-            "description": "[THE HINDU BUSINESS LINE] Group partners IIT Bombay for research in AI, cybersecurity and quantum technologies with focus on early-stage companies",
-            "url": "https://www.thehindubusinessline.com/money-and-banking/bajaj-finserv-to-invest-1500-2000-crore-in-ai-innovation-startups-over-5-yrs/article71032648.ece"
-        },
-        {
-            "title": "Bajaj Finserv Plans Rs 2,000 Crore Investment in AI and Tech Startups",
-            "description": "[DEVDISCOURSE] Bajaj Finserv announced a significant investment of up to Rs 2,000 crore in technology-oriented startups over five years. With its 'Finserv Intelligence' initiative, the company aims to foster...",
-            "url": "https://www.devdiscourse.com/article/business/3924524-bajaj-finserv-plans-rs-2000-crore-investment-in-ai-and-tech-startups"
-        },
-        {
-            "title": "Central Bank of India well-positioned to surpass Rs 5,000 cr profit in FY27: MD Kalyan Kumar",
-            "description": "[THE ECONOMIC TIMES] Central Bank of India targets Rs 5,000 crore annual profit during this fiscal year. A new tax regime offers a significant boost. The bank plans 150 new branches and hiring 1,400 employees. Customer...",
-            "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/central-bank-of-india-well-positioned-to-surpass-rs-5000-cr-profit-in-fy27-md-kalyan-kumar/articleshow/131366310.cms"
-        },
-        {
-            "title": "Report: Irish firms cut cybersecurity spend despite rising risks",
-            "description": "[SILICONREPUBLIC.COM] Irish businesses show a split approach to security, with only half of the surveyed IT leaders admittedly increasing their cybersecurity budget.",
-            "url": "https://www.siliconrepublic.com/enterprise/report-irish-firms-cut-cybersecurity-spend-despite-rising-risks"
-        },
-        {
-            "title": "Bajaj Finserv launches Finserv Intelligence, plans up to \u20b92,000 crore investment over five years",
-            "description": "[CNBC TV18] Bajaj Finserv launches Finserv Intelligence with IIT Bombay, investing in AI, cybersecurity, quantum tech and retail innovation to build scalable digital soluti",
-            "url": "https://www.cnbctv18.com/technology/bajaj-finserv-launches-finserv-intelligence-rs-2000-crore-investment-5-years-ws-el-19914976.htm"
-        },
-        {
-            "title": "Grady Health System goes live with Sectra Amplifier Services to enable smooth implementation of AI--enhancing diagnostic workflows across sites",
-            "description": "[PR NEWSWIRE UK] /PRNewswire/ -- International medical technology and cybersecurity company Sectra (STO: SECT B) announces that Grady Health System, one of the largest health...",
-            "url": "https://www.prnewswire.co.uk/news-releases/grady-health-system-goes-live-with-sectra-amplifier-services-to-enable-smooth-implementation-of-aienhancing-diagnostic-workflows-across-sites-302784168.html"
-        },
-        {
-            "title": "Wipro expands ServiceNow partnership to embed Agentic AI workflows",
-            "description": "[SCANX.TRADE] Wipro Limited expanded its partnership with ServiceNow on May 28, 2026, to integrate Wipro Intelligence with the ServiceNow AI Platform. The collaboration aims to scale agentic AI workflows across...",
-            "url": "https://scanx.trade/stock-market-news/companies/wipro-expands-servicenow-partnership-to-embed-agentic-ai-workflows/41499624"
-        },
-        {
-            "title": "Exclusive: Geordie AI, cybersecurity startup for AI agents, raises $30 million Series A round",
-            "description": "[FORTUNE] The company is taking on security and governance platforms from the likes of Microsoft, ServiceNow, and OpenAI",
-            "url": "https://fortune.com/2026/05/28/geordie-security-governance-ai-agents/"
-        },
-        {
-            "title": "Google Cloud introduces AI-driven threat defense for enterprise security",
-            "description": "[THE INDIAN EXPRESS] Google has expanded its cybersecurity offerings with a new AI-focused defense framework that aims to help companies monitor, detect, and respond to AI-powered attacks in real time.",
-            "url": "https://indianexpress.com/article/technology/artificial-intelligence/google-cloud-introduces-ai-driven-threat-defense-for-enterprise-security-10711679/"
         }
     ]
 }
