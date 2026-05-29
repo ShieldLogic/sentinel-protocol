@@ -1,5 +1,5 @@
 {
-    "updated": "2026-05-29 14:39:38 UTC",
+    "updated": "2026-05-29 18:26:16 UTC",
     "news": [
         {
             "title": "CISA Adds Three Known Exploited Vulnerabilities to Catalog",
@@ -17,14 +17,19 @@
             "url": "https://www.cisa.gov/news-events/alerts/2026/05/28/supply-chain-compromises-impact-nx-console-and-github-repositories"
         },
         {
-            "title": "Critical Gogs RCE Vulnerability Lets Any Authenticated User Execute Arbitrary Code",
-            "description": "[FEEDS.FEEDBURNER.COM] A critical security vulnerability has been disclosed in Gogs, a popular open-source self-hosted Git service, that allows an authenticated user to execute arbitrary code under certain conditions. The...",
-            "url": "https://thehackernews.com/2026/05/critical-gogs-rce-vulnerability-lets.html"
-        },
-        {
             "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
             "description": "[CISA.GOV] CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-34291 Langflow Origin Validation Error Vulnerability...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/05/21/cisa-adds-two-known-exploited-vulnerabilities-catalog"
+        },
+        {
+            "title": "ChatGPhish Vulnerability Turns ChatGPT Web Summaries Into a Phishing Surface",
+            "description": "[FEEDS.FEEDBURNER.COM] Cybersecurity researchers have disclosed details of a vulnerability in OpenAI ChatGPT that leverages the artificial intelligence (AI) assistant's implicit trust in Markdown links and images to...",
+            "url": "https://thehackernews.com/2026/05/chatgphish-vulnerability-turns-chatgpt.html"
+        },
+        {
+            "title": "Attackers Use LLM Agent for Post-Exploitation After Marimo CVE-2026-39987 Exploit",
+            "description": "[FEEDS.FEEDBURNER.COM] An unknown threat actor has been observed using a large language model (LLM) agent to conduct post-compromise actions after obtaining initial access following the exploitation of a...",
+            "url": "https://thehackernews.com/2026/05/attackers-use-llm-agent-for-post.html"
         },
         {
             "title": "New Russian-Linked GREYVIBE Targets Ukraine with AI-Powered Cyberattacks",
@@ -42,9 +47,14 @@
             "url": "https://thehackernews.com/2026/05/malicious-sicoob-nuget-steals-banking.html"
         },
         {
-            "title": "Kimsuky Deploys HTTPSpy, Expands Arsenal with HelloDoor and VS Code Tunnels",
-            "description": "[FEEDS.FEEDBURNER.COM] The North Korean state-sponsored threat actor known as Kimsuky (aka Velvet Chollima) has been attributed to a fresh set of cyber attacks targeting South Korean military and corporate entities through...",
-            "url": "https://thehackernews.com/2026/05/kimsuky-deploys-httpspy-expands-arsenal.html"
+            "title": "ChatGPT share links abused to host fake outage pages to deliver malware",
+            "description": "[BLEEPINGCOMPUTER.COM] Threat actors are abusing ChatGPT's content-sharing feature to display fake OpenAI outage pages that direct users to download malware disguised as the ChatGPT desktop application. [...]",
+            "url": "https://www.bleepingcomputer.com/news/security/chatgpt-share-links-abused-to-host-fake-outage-pages-to-deliver-malware/"
+        },
+        {
+            "title": "California AG sues 23andMe over 2023 breach exposing health data",
+            "description": "[BLEEPINGCOMPUTER.COM] California Attorney General Rob Bonta filed a lawsuit against 23andMe, now Chrome Holding Co., over the company's failure to protect sensitive customer genetic and personal information. [...]",
+            "url": "https://www.bleepingcomputer.com/news/security/california-ag-sues-23andme-over-2023-breach-exposing-health-data/"
         },
         {
             "title": "From $5 Attacks to Botnet-Powered Platforms: Inside the DDoS-as-a- Service Market",
@@ -62,19 +72,19 @@
             "url": "https://www.bleepingcomputer.com/news/security/google-chrome-adds-session-cookie-theft-protection-for-all-users/"
         },
         {
-            "title": "Man sent to prison for selling data of 7 millions elderly Americans",
-            "description": "[BLEEPINGCOMPUTER.COM] A North Carolina man was sentenced to more than 10 years in prison for selling the personal information of over 7 million elderly Americans to Jamaican scammers. [...]",
-            "url": "https://www.bleepingcomputer.com/news/security/man-sent-to-prison-for-selling-data-of-7-millions-elderly-americans/"
-        },
-        {
-            "title": "US charges Google security engineer with Polymarket insider trading",
-            "description": "[BLEEPINGCOMPUTER.COM] A Google security engineer was charged with insider trading after winning $1.2 million using confidential company data to place bets on the cryptocurrency-based Polymarket decentralized prediction...",
-            "url": "https://www.bleepingcomputer.com/news/security/us-charges-google-security-engineer-with-polymarket-insider-trading/"
-        },
-        {
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
             "description": "[CISA.GOV] CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-9082 Drupal Core SQL Injection Vulnerability This type of...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/05/22/cisa-adds-one-known-exploited-vulnerability-catalog"
+        },
+        {
+            "title": "Wipro shares could rally 18% if ADR is an indicator. Here\u2019s why IT major is in focus",
+            "description": "[THE ECONOMIC TIMES] Wipro ADRs surged up to 18.5% after the IT major announced an expanded partnership with ServiceNow to scale agentic AI workflows across enterprise functions. The collaboration strengthens automation...",
+            "url": "https://economictimes.indiatimes.com/markets/stocks/news/wipro-shares-could-rally-18-if-adr-is-an-indicator-heres-why-it-major-is-in-focus/articleshow/131380918.cms"
+        },
+        {
+            "title": "IBM invests $5 billion to protect open-source software from AI threats, CEO Arvind Krishna says it was due to Anthropic\u2019s Mythos that \u2026",
+            "description": "[TIMES OF INDIA] Tech News News: International Business Machines (IBM) has announced a $5 billion cybersecurity initiative called Project Lightwell, aimed at protecting open-source so.",
+            "url": "https://timesofindia.indiatimes.com/technology/tech-news/ibm-invests-5-billion-to-protect-open-source-software-from-ai-ceo-arvind-krishna-says-it-was-due-to-anthropics-mythos-that-/articleshow/131377536.cms"
         },
         {
             "title": "Wipro ADR Soars 18% On NYSE After AI Partnership With ServiceNow",
@@ -115,16 +125,6 @@
             "title": "Anthropic's Claude Mythos AI Model Nearing Release After Raising Cybersecurity Alarms",
             "description": "[DECRYPT] Anthropic signaled that broader access to its controversial Claude Mythos AI models may arrive \"in the coming weeks\" after limited testing.",
             "url": "https://decrypt.co/369383/anthropic-claude-mythos-ai-model-nearing-release-cybersecurity-alarms"
-        },
-        {
-            "title": "Mythos was critical to open-source cybersecurity push",
-            "description": "[CNBC] IBM has signed Goldman Sachs, Morgan Stanley, JP Morgan and Bank of America onto its open-source cybersecurity effort called Project Lightwell.",
-            "url": "https://www.cnbc.com/2026/05/28/ibm-mythos-open-source-cybersecurity.html"
-        },
-        {
-            "title": "Global Economy on Cusp of AI-Fueled Cybersecurity Spending Cycle, Canada's Carney Says",
-            "description": "[MARKETSCREENER] By Paul Vieira OTTAWA--Canadian Prime Minister Mark Carney said the global economy is on the cusp of a major spending spree by companies and organizations to bolster cybersecurity gaps exposed by...",
-            "url": "https://www.marketscreener.com/news/global-economy-on-cusp-of-ai-fueled-cybersecurity-spending-cycle-canada-s-carney-says-ce7f5ddadf80f726"
         }
     ]
 }
