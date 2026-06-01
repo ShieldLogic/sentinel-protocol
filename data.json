@@ -1,5 +1,5 @@
 {
-    "updated": "2026-06-01 09:12:24 UTC",
+    "updated": "2026-06-01 15:47:48 UTC",
     "news": [
         {
             "title": "CISA Adds Three Known Exploited Vulnerabilities to Catalog",
@@ -17,29 +17,54 @@
             "url": "https://www.cisa.gov/news-events/alerts/2026/05/28/supply-chain-compromises-impact-nx-console-and-github-repositories"
         },
         {
-            "title": "Dutch Authorities Dismantle Botnet Linked to 17 Million Infected Devices",
-            "description": "[FEEDS.FEEDBURNER.COM] Dutch authorities have announced the takedown of a botnet that enslaved millions of infected devices, including computers, tablets, smartphones, and IoT devices, to carry out malicious attacks. The...",
-            "url": "https://thehackernews.com/2026/05/dutch-authorities-dismantle-botnet.html"
+            "title": "\u26a1 Weekly Recap: New Linux Flaw, PAN-OS Exploit, AI-Powered Attacks, OAuth Phishing and More",
+            "description": "[FEEDS.FEEDBURNER.COM] Monday hit like a cron job with anger issues. A busted auth path here, a repo-side faceplant there, some \"patched-ish\" thing already getting chewed on in the wild, and then the usual bonus round:...",
+            "url": "https://thehackernews.com/2026/06/weekly-recap-new-linux-flaw-pan-os.html"
         },
         {
-            "title": "WP Maps Pro bug exploited to create admin accounts on WordPress sites",
-            "description": "[BLEEPINGCOMPUTER.COM] Hackers are targeting WordPress websites running a vulnerable version of the WP Maps Pro plugin, which allows creating rogue administrator accounts without authentication. [...]",
-            "url": "https://www.bleepingcomputer.com/news/security/wp-maps-pro-bug-exploited-to-create-admin-accounts-on-wordpress-sites/"
+            "title": "China-Aligned Groups Ramp Up Attacks: Dragon Weave Hits Czech Republic & Taiwan",
+            "description": "[FEEDS.FEEDBURNER.COM] A new cyber espionage campaign codenamed Operation Dragon Weave has been observed targeting officials and citizens in the Czech Republic and Taiwan to deliver an AdaptixC2 agent. According to Seqrite...",
+            "url": "https://thehackernews.com/2026/06/china-aligned-groups-ramp-up-attacks.html"
         },
         {
-            "title": "Palo Alto GlobalProtect VPN auth bypass flaw now exploited in attacks",
-            "description": "[BLEEPINGCOMPUTER.COM] Palo Alto Networks is warning that hackers are now exploiting a PAN-OS GlobalProtect authentication bypass flaw, tracked as CVE-2026-0257, in attacks attempting to breach corporate networks. [...]",
-            "url": "https://www.bleepingcomputer.com/news/security/palo-alto-globalprotect-vpn-auth-bypass-flaw-now-exploited-in-attacks/"
+            "title": "The Security Growth Platform: Why MSPs Are Moving Beyond vCISO Tools",
+            "description": "[FEEDS.FEEDBURNER.COM] Three years ago, the practical question for an MSP building a cybersecurity practice was which \"vCISO platform\" to buy. The term was good shorthand for the work at the time: assessments, advisory,...",
+            "url": "https://thehackernews.com/2026/06/the-security-growth-platform-why-msps.html"
         },
         {
-            "title": "PAN-OS GlobalProtect Authentication Bypass (CVE-2026-0257) Under Active Exploitation",
-            "description": "[FEEDS.FEEDBURNER.COM] Palo Alto Networks has warned that a recently disclosed medium-severity security flaw impacting PAN-OS and Prisma Access has come under active exploitation in the wild. The vulnerability, tracked as...",
-            "url": "https://thehackernews.com/2026/05/pan-os-globalprotect-authentication.html"
+            "title": "OpenAI Codex Authentication Tokens Stolen in codexui-android npm Supply Chain Attack",
+            "description": "[FEEDS.FEEDBURNER.COM] Cybersecurity researchers have disclosed details of a new malicious supply chain campaign that's targeting developers using OpenAI Codex through a legitimate-looking remote web UI. The tool, named...",
+            "url": "https://thehackernews.com/2026/06/openai-codex-authentication-tokens.html"
         },
         {
-            "title": "New CIFSwitch Linux flaw gives root on multiple distributions",
-            "description": "[BLEEPINGCOMPUTER.COM] A newly discovered local privilege escalation vulnerability dubbed 'CIFSwitch' in the Linux kernel could allow attackers to forge CIFS authentication key descriptions, abuse the kernel's key request...",
-            "url": "https://www.bleepingcomputer.com/news/security/new-cifswitch-linux-flaw-gives-root-on-multiple-distributions/"
+            "title": "Critical WP Maps Pro Flaw Actively Exploited to Create Admin Accounts",
+            "description": "[FEEDS.FEEDBURNER.COM] Threat actors are attempting to actively exploit a critical security flaw impacting WP Maps Pro, a WordPress plugin that has had over 15,000 sales on the Envato Market, to create malicious...",
+            "url": "https://thehackernews.com/2026/06/critical-wp-maps-pro-flaw-actively.html"
+        },
+        {
+            "title": "Microsoft investigates Office Apps, Teams file access issues",
+            "description": "[BLEEPINGCOMPUTER.COM] Microsoft says an ongoing incident is preventing users of its Teams collaboration platform and Office for the web cloud-based productivity suite from opening files. [...]",
+            "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-office-apps-teams-file-access-issues/"
+        },
+        {
+            "title": "Race Against Time: Why Faster Vulnerability Alerts Matter",
+            "description": "[BLEEPINGCOMPUTER.COM] Attackers are exploiting vulnerabilities faster than many organizations can identify and patch them. SecAlerts explains why faster vulnerability alerts can help reduce exposure and improve response...",
+            "url": "https://www.bleepingcomputer.com/news/security/race-against-time-why-faster-vulnerability-alerts-matter/"
+        },
+        {
+            "title": "Critical Windows Netlogon RCE flaw now exploited in attacks",
+            "description": "[BLEEPINGCOMPUTER.COM] The Centre for Cybersecurity Belgium (CCB), the country's national authority for cybersecurity, warned on Friday that threat actors are now exploiting a recently patched critical Windows Netlogon...",
+            "url": "https://www.bleepingcomputer.com/news/microsoft/critical-windows-netlogon-remote-code-execution-flaw-now-exploited-in-attacks/"
+        },
+        {
+            "title": "Webinar tomorrow: From alert to resolution in network incident response",
+            "description": "[BLEEPINGCOMPUTER.COM] Network incidents are often detected quickly, but investigations and coordination can delay resolution. Join our webinar tomorrow to learn how automation and AI-assisted workflows can help IT teams...",
+            "url": "https://www.bleepingcomputer.com/news/security/webinar-tomorrow-from-alert-to-resolution-in-network-incident-response/"
+        },
+        {
+            "title": "Microsoft fixes outage affecting MFA setup, MySignIn service",
+            "description": "[BLEEPINGCOMPUTER.COM] Microsoft is working to address an ongoing incident preventing customers from setting up multi-factor authentication (MFA) or accessing the My Sign-Ins platform. [...]",
+            "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-outage-affecting-mfa-setup-mysignin-service/"
         },
         {
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
@@ -47,34 +72,44 @@
             "url": "https://www.cisa.gov/news-events/alerts/2026/05/29/cisa-adds-one-known-exploited-vulnerability-catalog"
         },
         {
-            "title": "ChatGPhish Vulnerability Turns ChatGPT Web Summaries Into a Phishing Surface",
-            "description": "[FEEDS.FEEDBURNER.COM] Cybersecurity researchers have disclosed details of a vulnerability in OpenAI ChatGPT that leverages the artificial intelligence (AI) assistant's implicit trust in Markdown links and images to...",
-            "url": "https://thehackernews.com/2026/05/chatgphish-vulnerability-turns-chatgpt.html"
-        },
-        {
-            "title": "Attackers Use LLM Agent for Post-Exploitation After Marimo CVE-2026-39987 Exploit",
-            "description": "[FEEDS.FEEDBURNER.COM] An unknown threat actor has been observed using a large language model (LLM) agent to conduct post-compromise actions after obtaining initial access following the exploitation of a...",
-            "url": "https://thehackernews.com/2026/05/attackers-use-llm-agent-for-post.html"
-        },
-        {
-            "title": "New Russia-Linked GREYVIBE Targets Ukraine with AI-Powered Cyberattacks",
-            "description": "[FEEDS.FEEDBURNER.COM] A previously undocumented threat actor dubbed GREYVIBE has been attributed to ongoing and persistent attacks targeting Ukraine and Ukraine-related entities since at least August 2025. GREYVIBE, per...",
-            "url": "https://thehackernews.com/2026/05/new-russian-linked-greyvibe-targets.html"
-        },
-        {
-            "title": "ChatGPT share links abused to host fake outage pages to deliver malware",
-            "description": "[BLEEPINGCOMPUTER.COM] Threat actors are abusing ChatGPT's content-sharing feature to display fake OpenAI outage pages that direct users to download malware disguised as the ChatGPT desktop application. [...]",
-            "url": "https://www.bleepingcomputer.com/news/security/chatgpt-share-links-abused-to-host-fake-outage-pages-to-deliver-malware/"
-        },
-        {
-            "title": "California AG sues 23andMe over 2023 breach exposing health data",
-            "description": "[BLEEPINGCOMPUTER.COM] California Attorney General Rob Bonta filed a lawsuit against 23andMe, now Chrome Holding Co., over the company's failure to protect sensitive customer genetic and personal information. [...]",
-            "url": "https://www.bleepingcomputer.com/news/security/california-ag-sues-23andme-over-2023-breach-exposing-health-data/"
-        },
-        {
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
             "description": "[CISA.GOV] CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-9082 Drupal Core SQL Injection Vulnerability This type of...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/05/22/cisa-adds-one-known-exploited-vulnerability-catalog"
+        },
+        {
+            "title": "Indian exam board admits to cybersecurity holes found by teen",
+            "description": "[THE STRAITS TIMES] The board said it is monitoring and has contained vulnerabilities in its online grading portal. Read more at straitstimes.com.",
+            "url": "https://www.straitstimes.com/asia/south-asia/indian-exam-board-admits-to-cybersecurity-holes-found-by-teen"
+        },
+        {
+            "title": "OSM row: Can CBSE blacklist vendor over portal lapses?",
+            "description": "[THE WEEK] CBSE has deployed cybersecurity experts to fortify its systems, contained the identified vulnerabilities, and is investigating other potential weaknesses, confirming a data breach of student...",
+            "url": "https://www.theweek.in/news/india/2026/06/01/osm-row-can-cbse-blacklist-vendor-over-portal-lapses.html"
+        },
+        {
+            "title": "CBSE crisis deepens: Student data exposed, say cyber activists",
+            "description": "[TIMES OF INDIA] News News: NEW DELHI: Fresh allegations of massive cybersecurity lapses, data exposure and administrative failures have deepened the controversy surrounding CBSE.",
+            "url": "https://timesofindia.indiatimes.com/education/news/cbse-crisis-deepens-student-data-exposed-say-cyber-activists/articleshow/131431427.cms"
+        },
+        {
+            "title": "Why visibility is the new frontline of cybersecurity",
+            "description": "[AUSTRALIAN FINANCIAL REVIEW] In an era of machine-speed cyberattacks, Agentic AI is the key to neutralising cybersecurity threats which can escalate in just minutes.",
+            "url": "https://www.afr.com/technology/why-visibility-is-the-new-frontline-of-cybersecurity-20260528-p601r0"
+        },
+        {
+            "title": "HC grants urgent relief to HDFC AMC over alleged 680 GB cyber theft",
+            "description": "[HINDUSTAN TIMES] The Bombay High Court granted HDFC AMC urgent relief after a ransomware group stole over 680 GB of sensitive data, restraining hackers from disclosing it. | Mumbai news",
+            "url": "https://www.hindustantimes.com/cities/mumbai-news/hc-grants-urgent-relief-to-hdfc-amc-over-alleged-680-gb-cyber-theft-101780254420152.html"
+        },
+        {
+            "title": "Estonian startups keen to partner India, tap into its huge market",
+            "description": "[DAILY EXCELSIOR] TALLINN, May 31: Several Estonian tech startups from diverse sectors such as AI, cybersecurity, defence and medicine have evinced interest in collaborating with India and tapping its huge market as...",
+            "url": "https://www.dailyexcelsior.com/estonian-startups-keen-to-partner-india-tap-into-its-huge-market/"
+        },
+        {
+            "title": "Cybersecurity: Tracing a macOS Malware Infection",
+            "description": "[TECHBULLION] Explore the world of cybersecurity and uncover the hidden threats within macOS, including the XCSSET malware and its impacts.",
+            "url": "https://techbullion.com/what-adex-found-inside-an-active-xcsset-attack-on-apple-developer-tools/"
         },
         {
             "title": "Orrstown discloses cybersecurity incident at third-party vendor",
@@ -90,41 +125,6 @@
             "title": "Indian Exam Board Fixes Online Grading Portal Flaws Flagged by Teen Researcher",
             "description": "[BLOOMBERG] A national school exam board in India said it has been monitoring and has contained vulnerabilities in its online grading portal for one of the country\u2019s most important school-leaving exams that were...",
             "url": "https://www.bloomberg.com/news/articles/2026-05-31/indian-exam-board-fixes-cybersecurity-flaws-found-by-teen"
-        },
-        {
-            "title": "CBSE Says OnMark Portal Vulnerabilities Contained Amid Security Concerns",
-            "description": "[NDTV PROFIT] An expert team of cybersecurity professionals has been deployed over the last few days from across various arms of the government as well as the IITs to fortify these systems, including taking them...",
-            "url": "https://www.ndtvprofit.com/india/cbse-says-onmark-portal-vulnerabilities-contained-amid-security-concerns-11571981"
-        },
-        {
-            "title": "Carnival data breach impacting nearly 6 million travelers announced",
-            "description": "[WEAU] Carnival Cruise Line said it has detected a cybersecurity incident where certain travelers\u2019 personal information may have been leaked.",
-            "url": "https://www.weau.com/2026/05/31/carnival-data-breach-impacting-nearly-6-million-travelers-announced/"
-        },
-        {
-            "title": "Carnival data breach impacting nearly 6 million travelers announced",
-            "description": "[WIS10] Carnival Cruise Line said it has detected a cybersecurity incident where certain travelers\u2019 personal information may have been leaked.",
-            "url": "https://www.wistv.com/2026/05/31/carnival-data-breach-impacting-nearly-6-million-travelers-announced/"
-        },
-        {
-            "title": "Carnival data breach impacting nearly 6 million travelers announced",
-            "description": "[LIVE 5 NEWS WCSC] Carnival Cruise Line said it has detected a cybersecurity incident where certain travelers\u2019 personal information may have been leaked.",
-            "url": "https://www.live5news.com/2026/05/31/carnival-data-breach-impacting-nearly-6-million-travelers-announced/"
-        },
-        {
-            "title": "World has a thousand problems; computer science, engineering graduates are paid to solve them",
-            "description": "[HINDUSTAN TIMES] Chitkara University redefines computer science and engineering education, offering specialisations like cybersecurity and AI",
-            "url": "https://www.hindustantimes.com/htcity/world-has-a-thousand-problems-computer-science-engineering-graduates-are-paid-to-solve-them-101780225040212.html"
-        },
-        {
-            "title": "CBSE addresses OnMark portal security concerns, says flaws have been contained",
-            "description": "[CNBC TV18] CBSE has said vulnerabilities identified in the OnMark portal of its service provider have been contained. The board has deployed cybersecurity experts and IIT professionals to strengthen systems and...",
-            "url": "https://www.cnbctv18.com/education/cbse-addresses-onmark-portal-security-concerns-says-flaws-have-been-contained-ws-l-19916436.htm"
-        },
-        {
-            "title": "CBSE says cybersecurity teams strengthening OnMark portal amid concerns over evaluation system",
-            "description": "[LOKMAT TIMES] CBSE says cybersecurity teams strengthening OnMark portal amid concerns over evaluation system - New Delhi, May 31 The Central Board of Secondary Education (CBSE) said on Sunday that it is monitoring...",
-            "url": "https://www.lokmattimes.com/national/cbse-says-cybersecurity-teams-strengthening-onmark-portal-amid-concerns-over-evaluation-system/"
         }
     ]
 }
