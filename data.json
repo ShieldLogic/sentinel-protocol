@@ -1,5 +1,5 @@
 {
-    "updated": "2026-06-01 20:10:13 UTC",
+    "updated": "2026-06-01 23:21:13 UTC",
     "news": [
         {
             "title": "CISA Adds Three Known Exploited Vulnerabilities to Catalog",
@@ -32,6 +32,21 @@
             "url": "https://thehackernews.com/2026/06/weekly-recap-new-linux-flaw-pan-os.html"
         },
         {
+            "title": "Hackers hijack thousands of sites for ClickFix and FakeUpdate attacks",
+            "description": "[BLEEPINGCOMPUTER.COM] A threat actor tracked as DriveSurge has been operating large-scale malware distribution campaigns using ClickFix and FakeUpdates techniques on compromised sites. [...]",
+            "url": "https://www.bleepingcomputer.com/news/security/hackers-hijack-thousands-of-sites-for-clickfix-and-fakeupdate-attacks/"
+        },
+        {
+            "title": "Red Hat npm packages compromised to steal developer credentials",
+            "description": "[BLEEPINGCOMPUTER.COM] More than 30 npm packages under Red Hat's '@redhat-cloud-services' namespace were compromised in a supply-chain attack that distributed a new variant of the Shai-Hulud credential-stealing malware,...",
+            "url": "https://www.bleepingcomputer.com/news/security/red-hat-npm-packages-compromised-to-steal-developer-credentials/"
+        },
+        {
+            "title": "Spain arrests doxer leaking sensitive data of govt employees",
+            "description": "[BLEEPINGCOMPUTER.COM] The Spanish National Police has arrested an individual for leaking sensitive information related to members of various key state organizations, including the National Cybersecurity Institute...",
+            "url": "https://www.bleepingcomputer.com/news/security/spain-arrests-doxer-leaking-sensitive-data-of-govt-employees/"
+        },
+        {
             "title": "China-Aligned Groups Ramp Up Attacks: Dragon Weave Hits Czech Republic & Taiwan",
             "description": "[FEEDS.FEEDBURNER.COM] A new cyber espionage campaign codenamed Operation Dragon Weave has been observed targeting officials and citizens in the Czech Republic and Taiwan to deliver an AdaptixC2 agent. According to Seqrite...",
             "url": "https://thehackernews.com/2026/06/china-aligned-groups-ramp-up-attacks.html"
@@ -57,24 +72,49 @@
             "url": "https://www.bleepingcomputer.com/news/security/wordpress-malware-campaign-hides-payloads-in-steam-profiles/"
         },
         {
-            "title": "Microsoft investigates Office Apps, Teams file access issues",
-            "description": "[BLEEPINGCOMPUTER.COM] Microsoft says an ongoing incident is preventing users of its Teams collaboration platform and Office for the web cloud-based productivity suite from opening files. [...]",
-            "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-office-apps-teams-file-access-issues/"
-        },
-        {
-            "title": "Race Against Time: Why Faster Vulnerability Alerts Matter",
-            "description": "[BLEEPINGCOMPUTER.COM] Attackers are exploiting vulnerabilities faster than many organizations can identify and patch them. SecAlerts explains why faster vulnerability alerts can help reduce exposure and improve response...",
-            "url": "https://www.bleepingcomputer.com/news/security/race-against-time-why-faster-vulnerability-alerts-matter/"
-        },
-        {
-            "title": "Critical Windows Netlogon RCE flaw now exploited in attacks",
-            "description": "[BLEEPINGCOMPUTER.COM] The Centre for Cybersecurity Belgium (CCB), the country's national authority for cybersecurity, warned on Friday that threat actors are now exploiting a recently patched critical Windows Netlogon...",
-            "url": "https://www.bleepingcomputer.com/news/microsoft/critical-windows-netlogon-remote-code-execution-flaw-now-exploited-in-attacks/"
-        },
-        {
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
             "description": "[CISA.GOV] CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-0257 Palo Alto Networks PAN-OS Authentication Bypass...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/05/29/cisa-adds-one-known-exploited-vulnerability-catalog"
+        },
+        {
+            "title": "Anthropic to grant EU cybersecurity agency ENISA access to Mythos AI: Report",
+            "description": "[THE NEWS INTERNATIONAL] Anthropic is set to give its latest Claude Mythos Preview access to EU\u2019s cybersecurity agency ENISA, a powerful tool with unprecedented capabilities to find vulnerabilities in software and web...",
+            "url": "https://www.thenews.com.pk/latest/1404391-anthropic-to-grant-eu-cybersecurity-agency-enisa-access-to-mythos-ai-report"
+        },
+        {
+            "title": "Anthropic To Give EU's Cybersecurity Agency Access To Mythos",
+            "description": "[NDTV PROFIT] Anthropic has said the new model is extraordinarily adept at finding network vulnerabilities and could pose a major cybersecurity risk to critical systems.",
+            "url": "https://www.ndtvprofit.com/business/anthropic-to-give-eus-cybersecurity-agency-access-to-mythos-11575462"
+        },
+        {
+            "title": "Sir Earl Toon and AQE Unite Legacy and Real-World Asset Innovation",
+            "description": "[TECHBULLION] Ameritec IPS is a technology company focused on post-quantum cybersecurity, blockchain infrastructure and digital innovation solutions.",
+            "url": "https://techbullion.com/sir-earl-toon-and-aqe-unite-legacy-and-real-world-asset-innovation/"
+        },
+        {
+            "title": "When students audit the system",
+            "description": "[THE HINDU] CBSE addresses vulnerabilities in its OnMark platform after ethical hackers expose flaws, prompting enhanced cybersecurity measures and student concerns.",
+            "url": "https://www.thehindu.com/newsletter/thedge/when-students-audit-the-system/article71047794.ece"
+        },
+        {
+            "title": "Cyber Resilience: The Strategic Shift in AI Transformations",
+            "description": "[DEVDISCOURSE] CP Gurnani emphasizes cyber resilience amid AI growth, advocating for advanced data protection strategies. He distinguishes AIONOS' approach from traditional cybersecurity, highlighting India's...",
+            "url": "https://www.devdiscourse.com/article/business/3928198-cyber-resilience-the-strategic-shift-in-ai-transformations"
+        },
+        {
+            "title": "From Leeds to Australia and beyond: Cognisys takes cybersecurity worldwide",
+            "description": "[PR NEWSWIRE UK] /PRNewswire/ -- Leeds, UK, based Cyber Security and Compliance consultancy, Cognisys, expands to Australia, reflecting continued strong global growth. Founded...",
+            "url": "https://www.prnewswire.co.uk/news-releases/from-leeds-to-australia-and-beyond-cognisys-takes-cybersecurity-worldwide-302786942.html"
+        },
+        {
+            "title": "Uyghur Community Faces Rising Challenges Amid Global Advocacy Efforts",
+            "description": "[DEVDISCOURSE] The World Uyghur Congress's recent report highlights mounting challenges for the Uyghur community, including criticism of China's diplomatic outreach in Turkey, cybersecurity threats, and policies...",
+            "url": "https://www.devdiscourse.com/article/international/3928156-uyghur-community-faces-rising-challenges-amid-global-advocacy-efforts"
+        },
+        {
+            "title": "CBSE Reinforces Cybersecurity Amid Post-Result Portal Delays",
+            "description": "[DEVDISCOURSE] The launch of the CBSE Class 12 post-result verification portal has been delayed due to technical issues. Now scheduled for June 1, 2026, the board aims to provide a transparent process. Meanwhile,...",
+            "url": "https://www.devdiscourse.com/article/headlines/3928143-cbse-reinforces-cybersecurity-amid-post-result-portal-delays"
         },
         {
             "title": "Govt plans 'AI-against-AI' approach to strengthen digital public infra",
@@ -85,46 +125,6 @@
             "title": "Rahul Gandhi Criticizes CBSE: 'Education Turned Business Burdens Students'",
             "description": "[DEVDISCOURSE] Rahul Gandhi arrived in Rajasthan for Congress' 10-day 'Chintan Shivir'. He attacked CBSE for its expensive re-evaluation process, claiming students are unfairly penalized. Gandhi engaged with...",
             "url": "https://www.devdiscourse.com/article/headlines/3928044-rahul-gandhi-criticizes-cbse-education-turned-business-burdens-students"
-        },
-        {
-            "title": "ManageEngine Tees Up ITCON 2026 Across Australia and New Zealand",
-            "description": "[ITWIRE] Conference To Focus on AI-Driven Operations, Cybersecurity, and Enterprise Resilience",
-            "url": "https://itwire.com/guest-articles/guest-events/manageengine-tees-up-itcon-2026-across-australia-and-new-zealand"
-        },
-        {
-            "title": "CBSE May Impose Penalty On OSM Service Provider Over Evaluation Portal Vulnerabilities: Reports",
-            "description": "[FREE PRESS JOURNAL] CBSE is expected to take contractual action, including financial penalties, against Hyderabad-based Coempt Edu Teck after vulnerabilities were reported in the OnMark portal used for Class 12...",
-            "url": "https://www.freepressjournal.in/education/cbse-may-impose-penalty-on-osm-service-provider-over-evaluation-portal-vulnerabilities-reports"
-        },
-        {
-            "title": "Cybersecurity Preparedness Emerges as a Key Driver of Digital Economy Growth",
-            "description": "[DEVDISCOURSE] A World Bank and University of Turku study finds that countries with stronger cybersecurity preparedness achieve significantly faster growth in digitally exposed sectors, showing that cybersecurity...",
-            "url": "https://www.devdiscourse.com/article/technology/3927330-cybersecurity-preparedness-emerges-as-a-key-driver-of-digital-economy-growth"
-        },
-        {
-            "title": "Indian exam board admits to cybersecurity holes found by teen",
-            "description": "[THE STRAITS TIMES] The board said it is monitoring and has contained vulnerabilities in its online grading portal. Read more at straitstimes.com.",
-            "url": "https://www.straitstimes.com/asia/south-asia/indian-exam-board-admits-to-cybersecurity-holes-found-by-teen"
-        },
-        {
-            "title": "OSM row: Can CBSE blacklist vendor over portal lapses?",
-            "description": "[THE WEEK] CBSE has deployed cybersecurity experts to fortify its systems, contained the identified vulnerabilities, and is investigating other potential weaknesses, confirming a data breach of student...",
-            "url": "https://www.theweek.in/news/india/2026/06/01/osm-row-can-cbse-blacklist-vendor-over-portal-lapses.html"
-        },
-        {
-            "title": "CBSE crisis deepens: Student data exposed, say cyber activists",
-            "description": "[TIMES OF INDIA] News News: NEW DELHI: Fresh allegations of massive cybersecurity lapses, data exposure and administrative failures have deepened the controversy surrounding CBSE.",
-            "url": "https://timesofindia.indiatimes.com/education/news/cbse-crisis-deepens-student-data-exposed-say-cyber-activists/articleshow/131431427.cms"
-        },
-        {
-            "title": "Why visibility is the new frontline of cybersecurity",
-            "description": "[AUSTRALIAN FINANCIAL REVIEW] In an era of machine-speed cyberattacks, Agentic AI is the key to neutralising cybersecurity threats which can escalate in just minutes.",
-            "url": "https://www.afr.com/technology/why-visibility-is-the-new-frontline-of-cybersecurity-20260528-p601r0"
-        },
-        {
-            "title": "HC grants urgent relief to HDFC AMC over alleged 680 GB cyber theft",
-            "description": "[HINDUSTAN TIMES] The Bombay High Court granted HDFC AMC urgent relief after a ransomware group stole over 680 GB of sensitive data, restraining hackers from disclosing it. | Mumbai news",
-            "url": "https://www.hindustantimes.com/cities/mumbai-news/hc-grants-urgent-relief-to-hdfc-amc-over-alleged-680-gb-cyber-theft-101780254420152.html"
         }
     ]
 }
