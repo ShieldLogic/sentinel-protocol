@@ -1,5 +1,5 @@
 {
-    "updated": "2026-06-02 08:20:49 UTC",
+    "updated": "2026-06-02 13:51:18 UTC",
     "news": [
         {
             "title": "CISA Adds Three Known Exploited Vulnerabilities to Catalog",
@@ -12,9 +12,34 @@
             "url": "https://www.cisa.gov/news-events/alerts/2026/05/26/cisa-adds-one-known-exploited-vulnerability-catalog"
         },
         {
+            "title": "AI-Driven Exploitation is Destroying Vulnerability Management. Here\u2019s How to Handle It.",
+            "description": "[FEEDS.FEEDBURNER.COM] AI-driven exploitation timelines are rapidly shrinking, and they are not going to stop shrinking. Vulnerabilities are being discovered, reproduced, and weaponized faster than ever in the history of...",
+            "url": "https://thehackernews.com/2026/06/ai-driven-exploitation-is-destroying.html"
+        },
+        {
+            "title": "How Leading Organizations Are Turning EDR Into Operational Resilience",
+            "description": "[FEEDS.FEEDBURNER.COM] Most organizations now recognize that endpoint protection alone is no longer sufficient. That's why adoption of endpoint detection and response (EDR) has accelerated rapidly in recent years....",
+            "url": "https://thehackernews.com/2026/06/how-leading-organizations-are-turning.html"
+        },
+        {
+            "title": "Pakistan-Linked SideCopy Targets Afghanistan Finance Ministry with Xeno RAT",
+            "description": "[FEEDS.FEEDBURNER.COM] Cybersecurity researchers have disclosed details of a spear-phishing campaign likely undertaken by the Pakistan-aligned SideCopy group targeting Afghanistan's Ministry of Finance with an open-source...",
+            "url": "https://thehackernews.com/2026/06/pakistan-linked-sidecopy-targets.html"
+        },
+        {
             "title": "Dashlane Discloses Brute-Force Attack, Encrypted Vaults of Fewer Than 20 Users Downloaded",
             "description": "[FEEDS.FEEDBURNER.COM] Password manager Dashlane has disclosed that \"fewer than\" 20 users on the personal subscription plan had their encrypted vaults downloaded following a brute-force attack launched by an unknown party....",
             "url": "https://thehackernews.com/2026/06/dashlane-discloses-brute-force-attack.html"
+        },
+        {
+            "title": "CISA flags two-year-old Oracle flaw as actively exploited in attacks",
+            "description": "[BLEEPINGCOMPUTER.COM] CISA has ordered government agencies to secure their systems against a high-severity Oracle WebLogic Server vulnerability that was patched two years ago and is now actively exploited in attacks. [...]",
+            "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-oracle-weblogic-flaw/"
+        },
+        {
+            "title": "Google fixes one actively exploited Android zero-day, 124 flaws",
+            "description": "[BLEEPINGCOMPUTER.COM] Google has released the June 2026 Android security patches to address 124 vulnerabilities, including one zero-day flaw exploited in targeted attacks. [...]",
+            "url": "https://www.bleepingcomputer.com/news/security/google-fixes-one-actively-exploited-android-zero-day-124-flaws/"
         },
         {
             "title": "Supply Chain Compromises Impact Nx Console and GitHub Repositories",
@@ -32,24 +57,49 @@
             "url": "https://thehackernews.com/2026/06/miasma-supply-chain-attack-compromises.html"
         },
         {
-            "title": "\u26a1 Weekly Recap: New Linux Flaw, PAN-OS Exploit, AI-Powered Attacks, OAuth Phishing and More",
-            "description": "[FEEDS.FEEDBURNER.COM] Monday hit like a cron job with anger issues. A busted auth path here, a repo-side faceplant there, some \"patched-ish\" thing already getting chewed on in the wild, and then the usual bonus round:...",
-            "url": "https://thehackernews.com/2026/06/weekly-recap-new-linux-flaw-pan-os.html"
+            "title": "Hackers hijack thousands of sites for ClickFix and FakeUpdate attacks",
+            "description": "[BLEEPINGCOMPUTER.COM] A threat actor tracked as DriveSurge has been operating large-scale malware distribution campaigns using ClickFix and FakeUpdates techniques on compromised sites. [...]",
+            "url": "https://www.bleepingcomputer.com/news/security/hackers-hijack-thousands-of-sites-for-clickfix-and-fakeupdate-attacks/"
         },
         {
-            "title": "China-Aligned Groups Ramp Up Attacks: Dragon Weave Hits Czech Republic & Taiwan",
-            "description": "[FEEDS.FEEDBURNER.COM] A new cyber espionage campaign codenamed Operation Dragon Weave has been observed targeting officials and citizens in the Czech Republic and Taiwan to deliver an AdaptixC2 agent. According to Seqrite...",
-            "url": "https://thehackernews.com/2026/06/china-aligned-groups-ramp-up-attacks.html"
+            "title": "Red Hat npm packages compromised to steal developer credentials",
+            "description": "[BLEEPINGCOMPUTER.COM] More than 30 npm packages under Red Hat's '@redhat-cloud-services' namespace were compromised in a supply-chain attack that distributed a new variant of the Shai-Hulud credential-stealing malware,...",
+            "url": "https://www.bleepingcomputer.com/news/security/red-hat-npm-packages-compromised-to-steal-developer-credentials/"
         },
         {
-            "title": "The Security Growth Platform: Why MSPs Are Moving Beyond vCISO Tools",
-            "description": "[FEEDS.FEEDBURNER.COM] Three years ago, the practical question for an MSP building a cybersecurity practice was which \"vCISO platform\" to buy. The term was good shorthand for the work at the time: assessments, advisory,...",
-            "url": "https://thehackernews.com/2026/06/the-security-growth-platform-why-msps.html"
+            "title": "Spain arrests doxer leaking sensitive data of govt employees",
+            "description": "[BLEEPINGCOMPUTER.COM] The Spanish National Police has arrested an individual for leaking sensitive information related to members of various key state organizations, including the National Cybersecurity Institute...",
+            "url": "https://www.bleepingcomputer.com/news/security/spain-arrests-doxer-leaking-sensitive-data-of-govt-employees/"
         },
         {
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
             "description": "[CISA.GOV] CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-0257 Palo Alto Networks PAN-OS Authentication Bypass...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/05/29/cisa-adds-one-known-exploited-vulnerability-catalog"
+        },
+        {
+            "title": "Dragos Acquires Phosphorus to Bring OT-Native Cybersecurity to the Full xOT Environment",
+            "description": "[ITWIRE] Dragos expands to protect xOT including OT systems and the billions of connected devices that have reshaped how critical infrastructure operates",
+            "url": "https://itwire.com/it-industry-news/deals/dragos-acquires-phosphorus-to-bring-ot-native-cybersecurity-to-the-full-xot-environment"
+        },
+        {
+            "title": "CBSE crisis deepens: Student data exposed, say cyber activists",
+            "description": "[TIMES OF INDIA] India News: NEW DELHI: Fresh allegations of massive cybersecurity lapses, data exposure and administrative failures have deepened the controversy surrounding CBSE.",
+            "url": "https://timesofindia.indiatimes.com/india/cbse-crisis-deepens-student-data-exposed-say-cyber-activists/articleshow/131452325.cms"
+        },
+        {
+            "title": "Boeing gains $750 million in Pentagon contracts for support, R&D, cybersecurity",
+            "description": "[AL.COM] The Pentagon announced the three contracts on May 29 and June 1.",
+            "url": "https://www.al.com/news/2026/06/boeing-gains-750-million-in-pentagon-contracts-for-support-rd-cybersecurity.html"
+        },
+        {
+            "title": "Dragos Acquires Phosphorus to Bring OT-Native Cybersecurity to the Full xOT Environment",
+            "description": "[THE MANILA TIMES] Dragos expands to protect xOT including OT systems and the billions of connected devices that have reshaped how critical infrastructure operates",
+            "url": "https://www.manilatimes.net/2026/06/02/tmt-newswire/pr-newswire/dragos-acquires-phosphorus-to-bring-ot-native-cybersecurity-to-the-full-xot-environment/2356313"
+        },
+        {
+            "title": "PANW Stock Gains as NATO Selects Palo Alto Networks for Cybersecurity Partnership",
+            "description": "[BARCHART] Palo Alto Networks stock rallies on a strategic non-commercial deal with NATO. Here\u2019s why PANW shares are worth owning heading into earnings on Jun. 2.",
+            "url": "https://www.barchart.com/story/news/2244552/panw-stock-gains-as-nato-selects-palo-alto-networks-for-cybersecurity-partnership"
         },
         {
             "title": "Threats to midterm votes",
@@ -75,31 +125,6 @@
             "title": "Carahsoft Partner Pavilion Showcases Cybersecurity Solutions at TechNet Cyber 2026 in Baltimore, Maryland, June 2-4",
             "description": "[THE MANILA TIMES] RESTON, Va., June 01, 2026 (GLOBE NEWSWIRE) -- Carahsoft Technology Corp., The Trusted Government IT Solutions Provider\u00ae, will be joined by more than 100 of its technology partners at TechNet Cyber,...",
             "url": "https://www.manilatimes.net/2026/06/02/tmt-newswire/globenewswire/carahsoft-partner-pavilion-showcases-cybersecurity-solutions-at-technet-cyber-2026-in-baltimore-maryland-june-2-4/2356199"
-        },
-        {
-            "title": "POWERGRID Promotes Sunil Kumar to Executive Director Level in Senior Management Change",
-            "description": "[SCANX.TRADE] Power Grid Corporation of India announced the promotion of Shri Sunil Kumar from Chief General Manager to Executive Director, effective June 1, 2026, as disclosed under SEBI Regulation 30. The...",
-            "url": "https://scanx.trade/stock-market-news/companies/powergrid-promotes-sunil-kumar-to-executive-director-level-in-senior-management-change/41884012"
-        },
-        {
-            "title": "Anthropic gives EU cybersecurity agency ENISA access to Mythos AI",
-            "description": "[TNW] ENISA becomes the first EU agency to join Anthropic's Project Glasswing, gaining access to the Mythos AI model that found 10,000+ zero-day vulnerabilities in critical software.",
-            "url": "https://thenextweb.com/news/anthropic-mythos-eu-enisa-cybersecurity-access"
-        },
-        {
-            "title": "AI helped researchers bypass Apple M5 defenses",
-            "description": "[FOX NEWS] Security startup Calif claims researchers used AI to build a macOS kernel exploit bypassing Apple's M5 chip memory protections in less than a week, raising new cybersecurity concerns.",
-            "url": "https://www.foxnews.com/tech/ai-helped-researchers-bypass-apple-m5-defenses"
-        },
-        {
-            "title": "CBSE\u2019s re-evaluvation site launch hit with delay on Monday",
-            "description": "[THE HINDU BUSINESS LINE] CBSE's re-evaluation portal for Class 12 faces delays due to technical glitches and cybersecurity concerns, impacting student access.",
-            "url": "https://www.thehindubusinessline.com/economy/cbses-re-evaluvation-site-hit-with-delay-on-monday/article71049622.ece"
-        },
-        {
-            "title": "CBSE\u2019s re-evaluvation site launch hit with delay on Monday",
-            "description": "[THE HINDU BUSINESS LINE] CBSE's re-evaluation portal for Class 12 faces delays due to technical glitches and cybersecurity concerns, impacting student access.",
-            "url": "https://www.thehindubusinessline.com/news/cbses-re-evaluvation-site-hit-with-delay-on-monday/article71049622.ece"
         }
     ]
 }
