@@ -1,5 +1,5 @@
 {
-    "updated": "2026-06-02 02:41:49 UTC",
+    "updated": "2026-06-02 08:20:49 UTC",
     "news": [
         {
             "title": "CISA Adds Three Known Exploited Vulnerabilities to Catalog",
@@ -10,6 +10,11 @@
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
             "description": "[CISA.GOV] CISA has added&nbsp;one&nbsp;new vulnerability&nbsp;to its&nbsp;Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation.&nbsp;...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/05/26/cisa-adds-one-known-exploited-vulnerability-catalog"
+        },
+        {
+            "title": "Dashlane Discloses Brute-Force Attack, Encrypted Vaults of Fewer Than 20 Users Downloaded",
+            "description": "[FEEDS.FEEDBURNER.COM] Password manager Dashlane has disclosed that \"fewer than\" 20 users on the personal subscription plan had their encrypted vaults downloaded following a brute-force attack launched by an unknown party....",
+            "url": "https://thehackernews.com/2026/06/dashlane-discloses-brute-force-attack.html"
         },
         {
             "title": "Supply Chain Compromises Impact Nx Console and GitHub Repositories",
@@ -32,21 +37,6 @@
             "url": "https://thehackernews.com/2026/06/weekly-recap-new-linux-flaw-pan-os.html"
         },
         {
-            "title": "Hackers hijack thousands of sites for ClickFix and FakeUpdate attacks",
-            "description": "[BLEEPINGCOMPUTER.COM] A threat actor tracked as DriveSurge has been operating large-scale malware distribution campaigns using ClickFix and FakeUpdates techniques on compromised sites. [...]",
-            "url": "https://www.bleepingcomputer.com/news/security/hackers-hijack-thousands-of-sites-for-clickfix-and-fakeupdate-attacks/"
-        },
-        {
-            "title": "Red Hat npm packages compromised to steal developer credentials",
-            "description": "[BLEEPINGCOMPUTER.COM] More than 30 npm packages under Red Hat's '@redhat-cloud-services' namespace were compromised in a supply-chain attack that distributed a new variant of the Shai-Hulud credential-stealing malware,...",
-            "url": "https://www.bleepingcomputer.com/news/security/red-hat-npm-packages-compromised-to-steal-developer-credentials/"
-        },
-        {
-            "title": "Spain arrests doxer leaking sensitive data of govt employees",
-            "description": "[BLEEPINGCOMPUTER.COM] The Spanish National Police has arrested an individual for leaking sensitive information related to members of various key state organizations, including the National Cybersecurity Institute...",
-            "url": "https://www.bleepingcomputer.com/news/security/spain-arrests-doxer-leaking-sensitive-data-of-govt-employees/"
-        },
-        {
             "title": "China-Aligned Groups Ramp Up Attacks: Dragon Weave Hits Czech Republic & Taiwan",
             "description": "[FEEDS.FEEDBURNER.COM] A new cyber espionage campaign codenamed Operation Dragon Weave has been observed targeting officials and citizens in the Czech Republic and Taiwan to deliver an AdaptixC2 agent. According to Seqrite...",
             "url": "https://thehackernews.com/2026/06/china-aligned-groups-ramp-up-attacks.html"
@@ -57,74 +47,59 @@
             "url": "https://thehackernews.com/2026/06/the-security-growth-platform-why-msps.html"
         },
         {
-            "title": "OpenAI Codex Authentication Tokens Stolen in codexui-android npm Supply Chain Attack",
-            "description": "[FEEDS.FEEDBURNER.COM] Cybersecurity researchers have disclosed details of a new malicious supply chain campaign that's targeting developers using OpenAI Codex through a legitimate-looking remote web UI. The tool, named...",
-            "url": "https://thehackernews.com/2026/06/openai-codex-authentication-tokens.html"
-        },
-        {
-            "title": "Dashlane password manager users locked out by brute force attacks",
-            "description": "[BLEEPINGCOMPUTER.COM] Multiple Dashlane users have been locked out of their accounts following brute-force attacks that attempted logins from distant locations and unknown devices. [...]",
-            "url": "https://www.bleepingcomputer.com/news/security/dashlane-password-manager-users-locked-out-by-brute-force-attacks/"
-        },
-        {
-            "title": "WordPress malware campaign hides payloads in Steam profiles",
-            "description": "[BLEEPINGCOMPUTER.COM] Nearly 2,000 WordPress websites were infected with malware that relies on Steam Community profile comments to hide command-and-control (C2) data. [...]",
-            "url": "https://www.bleepingcomputer.com/news/security/wordpress-malware-campaign-hides-payloads-in-steam-profiles/"
-        },
-        {
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
             "description": "[CISA.GOV] CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-0257 Palo Alto Networks PAN-OS Authentication Bypass...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/05/29/cisa-adds-one-known-exploited-vulnerability-catalog"
         },
         {
-            "title": "EU has had productive meetings with Anthropic over possible future access to Mythos",
-            "description": "[THE ECONOMIC TIMES] The European Commission has held productive discussions with Anthropic concerning future access to its Mythos AI product. The EU's cybersecurity agency, ENISA, is expected to gain access to Mythos....",
-            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/eu-has-had-productive-meetings-with-anthropic-over-possible-future-access-to-mythos/articleshow/131444996.cms"
+            "title": "Threats to midterm votes",
+            "description": "[WEAU] Cybersecurity group Check Point warns hackers are trying to hack voters' minds and thus their choices, with new data from their 2026 Midterm Election Threat Outlook.",
+            "url": "https://www.weau.com/2026/06/01/threats-midterm-votes/"
         },
         {
-            "title": "\u26a1 Weekly Recap: New Linux Flaw, PAN-OS Exploit, AI-Powered Attacks, OAuth Phishing and More",
-            "description": "[THE HACKER NEWS] Your Monday cybersecurity recap covers the latest digital threats, exposed weaknesses, active attacks, and security stories defenders need to know thi",
-            "url": "https://thehackernews.com/2026/06/weekly-recap-new-linux-flaw-pan-os.html"
+            "title": "Threats to midterm votes",
+            "description": "[WIS10] Cybersecurity group Check Point warns hackers are trying to hack voters' minds and thus their choices, with new data from their 2026 Midterm Election Threat Outlook.",
+            "url": "https://www.wistv.com/2026/06/01/threats-midterm-votes/"
         },
         {
-            "title": "LifeMD appoints Umesh Sripad as CTO",
-            "description": "[SEEKING ALPHA] LifeMD appoints Umesh Sripad as CTO to drive AI enablement, cybersecurity, and platform transformation.",
-            "url": "https://seekingalpha.com/news/4598890-lifemd-appoints-umesh-sripad-as-cto"
+            "title": "Threats to midterm votes",
+            "description": "[LIVE 5 NEWS WCSC] Cybersecurity group Check Point warns hackers are trying to hack voters' minds and thus their choices, with new data from their 2026 Midterm Election Threat Outlook.",
+            "url": "https://www.live5news.com/2026/06/01/threats-midterm-votes/"
         },
         {
-            "title": "Reliance Global Group Positions ENQUANTUM to Help Secure the Post-Quantum Economy Before \"Q-Day\u201d",
-            "description": "[THE MANILA TIMES] Company Targets Multi-Billion-Dollar Cybersecurity Upgrade Cycle as Governments, Financial Institutions, AI Infrastructure Operators and Critical Networks Prepare for Emerging Quantum Threats to...",
-            "url": "https://www.manilatimes.net/2026/06/01/tmt-newswire/globenewswire/reliance-global-group-positions-enquantum-to-help-secure-the-post-quantum-economy-before-q-day/2355922"
+            "title": "Cybersecurity in 2026: Why Reactive IT Support Is Officially Dead",
+            "description": "[TECHBULLION] For years, many businesses approached cybersecurity the same way they approached IT support: wait for something to break, then fix it.",
+            "url": "https://techbullion.com/cybersecurity-in-2026-why-reactive-it-support-is-officially-dead/"
         },
         {
-            "title": "Rapid7 Appoints Wael Mohamed Chief Executive Officer; Corey Thomas to Become Executive Chairman",
-            "description": "[THE MANILA TIMES] Mohamed brings proven track record of operational and cybersecurity leadership experience; Thomas to focus on technology vision, AI strategy, and policy initiatives; Reaffirms guidance",
-            "url": "https://www.manilatimes.net/2026/06/01/tmt-newswire/globenewswire/rapid7-appoints-wael-mohamed-chief-executive-officer-corey-thomas-to-become-executive-chairman/2355717"
+            "title": "Carahsoft Partner Pavilion Showcases Cybersecurity Solutions at TechNet Cyber 2026 in Baltimore, Maryland, June 2-4",
+            "description": "[THE MANILA TIMES] RESTON, Va., June 01, 2026 (GLOBE NEWSWIRE) -- Carahsoft Technology Corp., The Trusted Government IT Solutions Provider\u00ae, will be joined by more than 100 of its technology partners at TechNet Cyber,...",
+            "url": "https://www.manilatimes.net/2026/06/02/tmt-newswire/globenewswire/carahsoft-partner-pavilion-showcases-cybersecurity-solutions-at-technet-cyber-2026-in-baltimore-maryland-june-2-4/2356199"
         },
         {
-            "title": "Anthropic to grant EU cybersecurity agency ENISA access to Mythos AI: Report",
-            "description": "[THE NEWS INTERNATIONAL] Anthropic is set to give its latest Claude Mythos Preview access to EU\u2019s cybersecurity agency ENISA, a powerful tool with unprecedented capabilities to find vulnerabilities in software and web...",
-            "url": "https://www.thenews.com.pk/latest/1404391-anthropic-to-grant-eu-cybersecurity-agency-enisa-access-to-mythos-ai-report"
+            "title": "POWERGRID Promotes Sunil Kumar to Executive Director Level in Senior Management Change",
+            "description": "[SCANX.TRADE] Power Grid Corporation of India announced the promotion of Shri Sunil Kumar from Chief General Manager to Executive Director, effective June 1, 2026, as disclosed under SEBI Regulation 30. The...",
+            "url": "https://scanx.trade/stock-market-news/companies/powergrid-promotes-sunil-kumar-to-executive-director-level-in-senior-management-change/41884012"
         },
         {
-            "title": "Anthropic To Give EU's Cybersecurity Agency Access To Mythos",
-            "description": "[NDTV PROFIT] Anthropic has said the new model is extraordinarily adept at finding network vulnerabilities and could pose a major cybersecurity risk to critical systems.",
-            "url": "https://www.ndtvprofit.com/business/anthropic-to-give-eus-cybersecurity-agency-access-to-mythos-11575462"
+            "title": "Anthropic gives EU cybersecurity agency ENISA access to Mythos AI",
+            "description": "[TNW] ENISA becomes the first EU agency to join Anthropic's Project Glasswing, gaining access to the Mythos AI model that found 10,000+ zero-day vulnerabilities in critical software.",
+            "url": "https://thenextweb.com/news/anthropic-mythos-eu-enisa-cybersecurity-access"
         },
         {
-            "title": "Sir Earl Toon and AQE Unite Legacy and Real-World Asset Innovation",
-            "description": "[TECHBULLION] Ameritec IPS is a technology company focused on post-quantum cybersecurity, blockchain infrastructure and digital innovation solutions.",
-            "url": "https://techbullion.com/sir-earl-toon-and-aqe-unite-legacy-and-real-world-asset-innovation/"
+            "title": "AI helped researchers bypass Apple M5 defenses",
+            "description": "[FOX NEWS] Security startup Calif claims researchers used AI to build a macOS kernel exploit bypassing Apple's M5 chip memory protections in less than a week, raising new cybersecurity concerns.",
+            "url": "https://www.foxnews.com/tech/ai-helped-researchers-bypass-apple-m5-defenses"
         },
         {
-            "title": "When students audit the system",
-            "description": "[THE HINDU] CBSE addresses vulnerabilities in its OnMark platform after ethical hackers expose flaws, prompting enhanced cybersecurity measures and student concerns.",
-            "url": "https://www.thehindu.com/newsletter/thedge/when-students-audit-the-system/article71047794.ece"
+            "title": "CBSE\u2019s re-evaluvation site launch hit with delay on Monday",
+            "description": "[THE HINDU BUSINESS LINE] CBSE's re-evaluation portal for Class 12 faces delays due to technical glitches and cybersecurity concerns, impacting student access.",
+            "url": "https://www.thehindubusinessline.com/economy/cbses-re-evaluvation-site-hit-with-delay-on-monday/article71049622.ece"
         },
         {
-            "title": "Cyber Resilience: The Strategic Shift in AI Transformations",
-            "description": "[DEVDISCOURSE] CP Gurnani emphasizes cyber resilience amid AI growth, advocating for advanced data protection strategies. He distinguishes AIONOS' approach from traditional cybersecurity, highlighting India's...",
-            "url": "https://www.devdiscourse.com/article/business/3928198-cyber-resilience-the-strategic-shift-in-ai-transformations"
+            "title": "CBSE\u2019s re-evaluvation site launch hit with delay on Monday",
+            "description": "[THE HINDU BUSINESS LINE] CBSE's re-evaluation portal for Class 12 faces delays due to technical glitches and cybersecurity concerns, impacting student access.",
+            "url": "https://www.thehindubusinessline.com/news/cbses-re-evaluvation-site-hit-with-delay-on-monday/article71049622.ece"
         }
     ]
 }
