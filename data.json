@@ -1,5 +1,5 @@
 {
-    "updated": "2026-06-02 17:58:57 UTC",
+    "updated": "2026-06-02 20:50:04 UTC",
     "news": [
         {
             "title": "CISA Adds Three Known Exploited Vulnerabilities to Catalog",
@@ -7,9 +7,24 @@
             "url": "https://www.cisa.gov/news-events/alerts/2026/05/27/cisa-adds-three-known-exploited-vulnerabilities-catalog"
         },
         {
-            "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-            "description": "[CISA.GOV] CISA has added&nbsp;one&nbsp;new vulnerability&nbsp;to its&nbsp;Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation.&nbsp;...",
-            "url": "https://www.cisa.gov/news-events/alerts/2026/05/26/cisa-adds-one-known-exploited-vulnerability-catalog"
+            "title": "Google June 2026 Android Update Patches 124 Flaws, One Actively Exploited",
+            "description": "[FEEDS.FEEDBURNER.COM] Google on Monday released patches for 124 security vulnerabilities impacting its Android operating system for the month of June 2026, including one high-severity flaw in the Framework component that...",
+            "url": "https://thehackernews.com/2026/06/google-june-2026-android-update-patches.html"
+        },
+        {
+            "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+            "description": "[CISA.GOV] CISA has added two new vulnerabilities to its&nbsp;Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2022-0492 Linux Kernel Improper Authentication...",
+            "url": "https://www.cisa.gov/news-events/alerts/2026/06/02/cisa-adds-two-known-exploited-vulnerabilities-catalog"
+        },
+        {
+            "title": "Gamaredon Exploits WinRAR to Deliver GammaWorm and GammaSteel Against Ukraine",
+            "description": "[FEEDS.FEEDBURNER.COM] The Russian hacking group known as Gamaredon has been attributed to the continued exploitation of a WinRAR vulnerability to deliver multiple malware families aimed at data theft and propagation. Per...",
+            "url": "https://thehackernews.com/2026/06/gamaredon-exploits-winrar-to-deliver.html"
+        },
+        {
+            "title": "Oracle WebLogic CVE-2024-21182 Added to KEV Catalog After Active Exploitation",
+            "description": "[FEEDS.FEEDBURNER.COM] The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a high-severity security flaw impacting Oracle WebLogic Server to its Known Exploited Vulnerabilities (KEV) Catalog,...",
+            "url": "https://thehackernews.com/2026/06/oracle-weblogic-cve-2024-21182-added-to.html"
         },
         {
             "title": "AI-Driven Exploitation is Destroying Vulnerability Management. Here\u2019s How to Handle It.",
@@ -17,14 +32,14 @@
             "url": "https://thehackernews.com/2026/06/ai-driven-exploitation-is-destroying.html"
         },
         {
+            "title": "AI-built ransomware toolkit automates EDR evasion, AD discovery",
+            "description": "[BLEEPINGCOMPUTER.COM] A threat actor is using an AI-built ransomware attack toolkit that automates Active Directory discovery and helps evade endpoint detection and response (EDR) solutions. [...]",
+            "url": "https://www.bleepingcomputer.com/news/security/ai-built-ransomware-toolkit-automates-edr-evasion-ad-discovery/"
+        },
+        {
             "title": "How Leading Organizations Are Turning EDR Into Operational Resilience",
             "description": "[FEEDS.FEEDBURNER.COM] Most organizations now recognize that endpoint protection alone is no longer sufficient. That's why adoption of endpoint detection and response (EDR) has accelerated rapidly in recent years....",
             "url": "https://thehackernews.com/2026/06/how-leading-organizations-are-turning.html"
-        },
-        {
-            "title": "Pakistan-Linked SideCopy Targets Afghanistan Finance Ministry with Xeno RAT",
-            "description": "[FEEDS.FEEDBURNER.COM] Cybersecurity researchers have disclosed details of a spear-phishing campaign likely undertaken by the Pakistan-aligned SideCopy group targeting Afghanistan's Ministry of Finance with an open-source...",
-            "url": "https://thehackernews.com/2026/06/pakistan-linked-sidecopy-targets.html"
         },
         {
             "title": "Microsoft Exchange Online outage causes email delays, failures",
@@ -42,19 +57,9 @@
             "url": "https://www.bleepingcomputer.com/news/security/why-the-browser-is-now-the-front-line-for-ai-security/"
         },
         {
-            "title": "Dashlane Discloses Brute-Force Attack, Encrypted Vaults of Fewer Than 20 Users Downloaded",
-            "description": "[FEEDS.FEEDBURNER.COM] Password manager Dashlane has disclosed that \"fewer than\" 20 users on the personal subscription plan had their encrypted vaults downloaded following a brute-force attack launched by an unknown party....",
-            "url": "https://thehackernews.com/2026/06/dashlane-discloses-brute-force-attack.html"
-        },
-        {
             "title": "CISA flags two-year-old Oracle flaw as actively exploited in attacks",
             "description": "[BLEEPINGCOMPUTER.COM] CISA has ordered government agencies to secure their systems against a high-severity Oracle WebLogic Server vulnerability that was patched two years ago and is now actively exploited in attacks. [...]",
             "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-oracle-weblogic-flaw/"
-        },
-        {
-            "title": "Google fixes one actively exploited Android zero-day, 124 flaws",
-            "description": "[BLEEPINGCOMPUTER.COM] Google has released the June 2026 Android security patches to address 124 vulnerabilities, including one zero-day flaw exploited in targeted attacks. [...]",
-            "url": "https://www.bleepingcomputer.com/news/security/google-fixes-one-actively-exploited-android-zero-day-124-flaws/"
         },
         {
             "title": "Supply Chain Compromises Impact Nx Console and GitHub Repositories",
@@ -67,14 +72,19 @@
             "url": "https://www.cisa.gov/news-events/alerts/2026/06/01/cisa-adds-one-known-exploited-vulnerability-catalog"
         },
         {
-            "title": "Miasma Supply Chain Attack Compromises Red Hat npm Packages with Credential-Stealing Worm",
-            "description": "[FEEDS.FEEDBURNER.COM] A new Mini Shai-Hulud supply chain attack campaign, codenamed Miasma, has compromised @redhat-cloud-services packages to steal credentials and secrets from developer machines and deliver a...",
-            "url": "https://thehackernews.com/2026/06/miasma-supply-chain-attack-compromises.html"
-        },
-        {
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
             "description": "[CISA.GOV] CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-0257 Palo Alto Networks PAN-OS Authentication Bypass...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/05/29/cisa-adds-one-known-exploited-vulnerability-catalog"
+        },
+        {
+            "title": "Instagram security alert: Hackers exploit Meta AI chatbot to steal passwords, hijack accounts",
+            "description": "[THE NEWS INTERNATIONAL] Cybersecurity experts have issued warnings to Instagram users related to a new kind of AI-powered cyber threat, invading the privacy of users. According to the researchers, AI models and large...",
+            "url": "https://www.thenews.com.pk/latest/1404487-instagram-security-alert-hackers-exploit-meta-ai-chatbot-to-steal-passwords-hijack-accounts"
+        },
+        {
+            "title": "Data Leak, Admin Access Flaws: NTA Portal Faces Cybersecurity Concerns After CBSE \u2018Hacking\u2019 Allegations",
+            "description": "[NEWS18] A 16-year-old cybersecurity researcher claimed to have identified vulnerabilities in NTA\u2019s re-examination portal. After allegations surfaced, portal link was returning a 404 error.",
+            "url": "https://www.news18.com/india/data-leak-admin-access-flaws-nta-portal-faces-cybersecurity-concerns-after-cbse-hacking-allegations-ws-l-10125721.html"
         },
         {
             "title": "CBSE's Post-Result Portal Triumphs Over Tech Hurdles",
@@ -115,16 +125,6 @@
             "title": "Indian exam board admits to cybersecurity holes found by teen",
             "description": "[THE STAR] A national school exam board in India said it has been monitoring and has contained vulnerabilities in its online grading portal for one of the country's most important school-leaving exams that were...",
             "url": "https://www.thestar.com.my/tech/tech-news/2026/06/02/indian-exam-board-admits-to-cybersecurity-holes-found-by-teen"
-        },
-        {
-            "title": "CBSE Class 12 verification and re-evaluation portal goes live after technical delay",
-            "description": "[THE HINDU BUSINESS LINE] CBSE has launched the Class 12 verification and re-evaluation portal after resolving technical and cybersecurity issues. Students can apply online.",
-            "url": "https://www.thehindubusinessline.com/news/education/cbse-class-12-verification-and-re-evaluation-portal-goes-live-after-delay/article71051001.ece"
-        },
-        {
-            "title": "evaluation portal a day late after cybersecurity fix",
-            "description": "[CNBC TV18] CBSE has activated the Class 12 verification and re-evaluation portal after a day-long delay linked to technical issues, allowing students to apply online for post-result review.",
-            "url": "https://www.cnbctv18.com/education/cbse-class-12-post-result-verification-re-evaluation-portal-delay-security-concerns-ws-el-19917411.htm"
         }
     ]
 }
