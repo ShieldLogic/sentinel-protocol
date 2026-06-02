@@ -1,5 +1,5 @@
 {
-    "updated": "2026-06-02 20:50:04 UTC",
+    "updated": "2026-06-02 23:27:17 UTC",
     "news": [
         {
             "title": "CISA Adds Three Known Exploited Vulnerabilities to Catalog",
@@ -27,6 +27,26 @@
             "url": "https://thehackernews.com/2026/06/oracle-weblogic-cve-2024-21182-added-to.html"
         },
         {
+            "title": "Microsoft's Coreutils project brings Linux commands to Windows",
+            "description": "[BLEEPINGCOMPUTER.COM] Microsoft announced today at its Build 2026 developer conference the release of Coreutils for Windows, bringing many commonly used Linux command-line utilities to Windows as native applications. [...]",
+            "url": "https://www.bleepingcomputer.com/news/microsoft/microsofts-coreutils-project-brings-linux-commands-to-windows/"
+        },
+        {
+            "title": "OpenAI upgrades GPT-5.5, as it plans to retire legacy ChatGPT models",
+            "description": "[BLEEPINGCOMPUTER.COM] OpenAI says it's rolling out a new update that improves the existing GPT-5.5 Instant model, and this move comes ahead of the scheduled retirement of multiple legacy models, including o3. [...]",
+            "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-upgrades-gpt-55-as-it-plans-to-retire-legacy-chatgpt-models/"
+        },
+        {
+            "title": "Critical Kirki flaw exploited to hijack WordPress admin accounts",
+            "description": "[BLEEPINGCOMPUTER.COM] Hackers are exploiting a critical privilege escalation vulnerability (CVE-2026-8206) in the Kirki plugin for WordPress to take over any user account, including those belonging to administrators. [...]",
+            "url": "https://www.bleepingcomputer.com/news/security/critical-kirki-flaw-exploited-to-hijack-wordpress-admin-accounts/"
+        },
+        {
+            "title": "Over 116,000 Mincraft systems infected in WeedHack malware campaign",
+            "description": "[BLEEPINGCOMPUTER.COM] A large-scale malware campaign dubbed WeedHack is targeting Minecraft players and has infected more than 116,000 systems since January. [...]",
+            "url": "https://www.bleepingcomputer.com/news/security/over-116-000-mincraft-systems-infected-in-weedhack-malware-campaign/"
+        },
+        {
             "title": "AI-Driven Exploitation is Destroying Vulnerability Management. Here\u2019s How to Handle It.",
             "description": "[FEEDS.FEEDBURNER.COM] AI-driven exploitation timelines are rapidly shrinking, and they are not going to stop shrinking. Vulnerabilities are being discovered, reproduced, and weaponized faster than ever in the history of...",
             "url": "https://thehackernews.com/2026/06/ai-driven-exploitation-is-destroying.html"
@@ -42,26 +62,6 @@
             "url": "https://thehackernews.com/2026/06/how-leading-organizations-are-turning.html"
         },
         {
-            "title": "Microsoft Exchange Online outage causes email delays, failures",
-            "description": "[BLEEPINGCOMPUTER.COM] Microsoft is working to address a widespread service issue affecting the mail flow pipeline for Exchange Online customers across North America and Germany. [...]",
-            "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-online-outage-causes-email-delays-failures/"
-        },
-        {
-            "title": "Instagram users locked out after Meta AI abused to steal accounts",
-            "description": "[BLEEPINGCOMPUTER.COM] Multiple Instagram users had their accounts hijacked after attackers convinced Meta's AI-powered support tools that they were the legitimate owners. [...]",
-            "url": "https://www.bleepingcomputer.com/news/security/instagram-users-locked-out-after-meta-ai-abused-to-steal-accounts/"
-        },
-        {
-            "title": "Why the browser is now the front line for AI security",
-            "description": "[BLEEPINGCOMPUTER.COM] AI-powered attacks and shadow AI adoption are creating new security risks inside the browser. Push Security explains why browser visibility is becoming critical for both threat detection and AI...",
-            "url": "https://www.bleepingcomputer.com/news/security/why-the-browser-is-now-the-front-line-for-ai-security/"
-        },
-        {
-            "title": "CISA flags two-year-old Oracle flaw as actively exploited in attacks",
-            "description": "[BLEEPINGCOMPUTER.COM] CISA has ordered government agencies to secure their systems against a high-severity Oracle WebLogic Server vulnerability that was patched two years ago and is now actively exploited in attacks. [...]",
-            "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-oracle-weblogic-flaw/"
-        },
-        {
             "title": "Supply Chain Compromises Impact Nx Console and GitHub Repositories",
             "description": "[CISA.GOV] CISA is prioritizing the response to multiple emerging software supply chain intrusion campaigns targeting developer ecosystems Continuous Integration/Continuous Development (CI/CD) pipelines. These...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/05/28/supply-chain-compromises-impact-nx-console-and-github-repositories"
@@ -75,6 +75,26 @@
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
             "description": "[CISA.GOV] CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-0257 Palo Alto Networks PAN-OS Authentication Bypass...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/05/29/cisa-adds-one-known-exploited-vulnerability-catalog"
+        },
+        {
+            "title": "AI Fuels $280 Billion Cybersecurity Rally as Earnings Test Looms",
+            "description": "[BLOOMBERG] Investors are about to get a read on the durability of the soaring rally in cybersecurity stocks when two of the industry\u2019s major players report earnings in the coming days.",
+            "url": "https://www.bloomberg.com/news/articles/2026-06-02/palo-alto-crowdstrike-earnings-to-put-37-cyber-rally-to-test"
+        },
+        {
+            "title": "Parliament must not allow Bill C-22 to break encryption",
+            "description": "[NATIONAL POST] The legislation is sorely needed, but it must not be allowed to weaken privacy protections and cybersecurity",
+            "url": "https://nationalpost.com/opinion/parliament-must-not-allow-bill-c-22-to-break-encryption"
+        },
+        {
+            "title": "Nancy Guthrie case may hinge on new FBI tech, cybersecurity expert says",
+            "description": "[FOX NEWS] The FBI is considering new tech tools in the Nancy Guthrie investigation, sources say. An expert suggests video forensics, signals analysis, or blockchain could solve the case.",
+            "url": "https://www.foxnews.com/us/fbi-next-move-nancy-guthrie-case-could-finally-expose-suspect-expert-predicts"
+        },
+        {
+            "title": "DICT 7 boosts connectivity, cybersecurity efforts",
+            "description": "[SUNSTAR PHILIPPINES] CEBU\u2019S information and communications technology (ICT) sector continues to expand, with the Department of Information and Communications Technology in...",
+            "url": "https://www.sunstar.com.ph/cebu/dict-7-boosts-connectivity-cybersecurity-efforts"
         },
         {
             "title": "Instagram security alert: Hackers exploit Meta AI chatbot to steal passwords, hijack accounts",
@@ -105,26 +125,6 @@
             "title": "After CBSE controversy, NTA re-exam portal under scanner over alleged data vulnerabilities and system weaknesses",
             "description": "[THE ECONOMIC TIMES] Cybersecurity researchers have raised concerns about potential vulnerabilities in the National Testing Agency's re-examination portal, alleging a \"superadmin login bypass\" that could expose sensitive...",
             "url": "https://economictimes.indiatimes.com/news/new-updates/after-cbse-controversy-nta-re-exam-portal-under-scanner-over-alleged-data-vulnerabilities-and-system-weaknesses/articleshow/131454987.cms"
-        },
-        {
-            "title": "Amid Mythos Fears, Anthropic To Let EU Test Its Powerful New AI Before Launch",
-            "description": "[TIMES NOW] Anthropic will give the EU early access to its powerful Mythos AI model, allowing cybersecurity experts to test potential risks before a wider rollout., Technology & Science, Times Now",
-            "url": "https://www.timesnownews.com/technology-science/amid-mythos-fears-anthropic-to-let-eu-test-its-powerful-new-ai-before-launch-article-154445147"
-        },
-        {
-            "title": "EU finally secures access to Anthropic\u2019s Mythos AI after months of pressure and negotiations",
-            "description": "[FIRSTPOST] After months of lobbying and negotiations, the European Union is set to gain access to Anthropic\u2019s highly restricted Mythos AI model. The breakthrough follows discussions with both Anthropic and US...",
-            "url": "https://www.firstpost.com/tech/eu-finally-secures-access-to-anthropics-mythos-ai-after-months-of-pressure-and-negotiations-14017791.html"
-        },
-        {
-            "title": "Govt plans unified cyber incident reporting mechanism for financial sector in FY27",
-            "description": "[MONEYCONTROL] The proposal is part of a wider cybersecurity strategy under preparation. Officials warn cyber disruptions in one segment could spill into banking, markets and payment systems.",
-            "url": "https://www.moneycontrol.com/news/business/economy/govt-plans-unified-cyber-incident-reporting-mechanism-for-financial-sector-in-fy27-13938184.html"
-        },
-        {
-            "title": "Indian exam board admits to cybersecurity holes found by teen",
-            "description": "[THE STAR] A national school exam board in India said it has been monitoring and has contained vulnerabilities in its online grading portal for one of the country's most important school-leaving exams that were...",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/06/02/indian-exam-board-admits-to-cybersecurity-holes-found-by-teen"
         }
     ]
 }
