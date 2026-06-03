@@ -1,5 +1,5 @@
 {
-    "updated": "2026-06-03 19:41:20 UTC",
+    "updated": "2026-06-03 22:23:25 UTC",
     "news": [
         {
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
@@ -7,14 +7,9 @@
             "url": "https://www.cisa.gov/news-events/alerts/2026/06/03/cisa-adds-one-known-exploited-vulnerability-catalog"
         },
         {
-            "title": "One-Click GitHub Dev Attack Lets Attackers Steal Full GitHub OAuth Tokens",
-            "description": "[FEEDS.FEEDBURNER.COM] Cybersecurity researchers have disclosed a one-click attack via Microsoft Visual Studio Code (VS Code) that makes it possible to steal a user's GitHub token. \"Just by clicking a link, it's possible...",
-            "url": "https://thehackernews.com/2026/06/one-click-github-dev-attack-lets.html"
-        },
-        {
-            "title": "Shrinking the IAM Attack Surface through Identity Visibility and Intelligence Platforms (IVIP)",
-            "description": "[FEEDS.FEEDBURNER.COM] The Fragmented State of Modern Enterprise Identity Enterprise IAM is approaching a breaking point. As organizations scale, identity becomes increasingly fragmented across thousands of applications,...",
-            "url": "https://thehackernews.com/2026/06/shrinking-iam-attack-surface-through.html"
+            "title": "Google DoubleClick Abused in New Malspam Campaign to Deliver DesckVB RAT",
+            "description": "[FEEDS.FEEDBURNER.COM] Cybersecurity researchers have flagged a new malspam campaign that makes use of Google's DoubleClick domain as a way to evade detection and ultimately deliver a remote access trojan (RAT) named...",
+            "url": "https://thehackernews.com/2026/06/google-doubleclick-abused-in-new.html"
         },
         {
             "title": "Beyond the Zero-Day: See Your Network Like an Attacker | Webinar with HD Moore",
@@ -22,9 +17,29 @@
             "url": "https://thehackernews.com/2026/06/beyond-zero-day-see-your-network-like.html"
         },
         {
-            "title": "Unpatched Windows Search URI Vulnerability Lets Attackers Steal NTLMv2 Hashes",
-            "description": "[FEEDS.FEEDBURNER.COM] Cybersecurity researchers have disclosed details of an unpatched issue that could be exploited to disclose a user's NTLMv2 hash to the attacker. Like in the case of CVE-2026-33829, which impacted the...",
-            "url": "https://thehackernews.com/2026/06/unpatched-windows-search-uri.html"
+            "title": "Microsoft 365 Android Apps Let Any App Steal Account Tokens via Leftover Debug Flag",
+            "description": "[FEEDS.FEEDBURNER.COM] A development flag left switched on in production builds of several Microsoft 365 Android apps disabled the check that limits account-token sharing to trusted Microsoft apps. Any other app on the...",
+            "url": "https://thehackernews.com/2026/06/microsoft-365-android-apps-let-any-app.html"
+        },
+        {
+            "title": "Autonomous AI Tool Finds 2-Year-Old RCE Flaw in Redis (CVE-2026-23479)",
+            "description": "[FEEDS.FEEDBURNER.COM] Redis has patched a use-after-free in its blocking-client code that lets an authenticated user run arbitrary OS commands on the machine hosting the database. The flaw was found by an autonomous AI...",
+            "url": "https://thehackernews.com/2026/06/autonomous-ai-tool-finds-2-year-old-rce.html"
+        },
+        {
+            "title": "Chinese hackers use new Atlas RAT malware in European cyberattacks",
+            "description": "[BLEEPINGCOMPUTER.COM] A Chinese-speaking cybercrime group has expanded its targeting to the European space, deploying previously undocumented malware and the Atlas backdoor. [...]",
+            "url": "https://www.bleepingcomputer.com/news/security/chinese-hackers-use-new-atlas-rat-malware-in-european-cyberattacks/"
+        },
+        {
+            "title": "The U.S. sanctions Nobitex crypto exchange used by ransomware",
+            "description": "[BLEEPINGCOMPUTER.COM] The U.S. Treasury's Office of Foreign Assets Control (OFAC) has announced sanctions against Nobitex, Iran's largest cryptocurrency exchange, for facilitating payments related to terrorist activities....",
+            "url": "https://www.bleepingcomputer.com/news/security/the-us-sanctions-nobitex-crypto-exchange-used-by-ransomware/"
+        },
+        {
+            "title": "CISA warns of cyberattacks targeting fuel tank monitoring systems",
+            "description": "[BLEEPINGCOMPUTER.COM] CISA, the FBI, the NSA, the Department of Energy, and other US government partners are warning that hackers are targeting internet-exposed automatic tank gauge (ATG) systems used to monitor fuel and...",
+            "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-cyberattacks-targeting-fuel-tank-monitoring-systems/"
         },
         {
             "title": "New 'HTTP/2 Bomb' DoS attack crashes web servers in under a minute",
@@ -32,29 +47,9 @@
             "url": "https://www.bleepingcomputer.com/news/security/new-http-2-bomb-dos-attack-crashes-web-servers-in-under-a-minute/"
         },
         {
-            "title": "New HTTP/2 Bomb Vulnerability Allows Remote DoS on NGINX, Apache, IIS, Envoy & Cloudflare",
-            "description": "[FEEDS.FEEDBURNER.COM] Cybersecurity researchers have discovered a remote denial-of-service exploit that affects major web servers, including NGINX, Apache HTTPD, Microsoft IIS, Envoy, and Cloudflare Pingora. The...",
-            "url": "https://thehackernews.com/2026/06/new-http2-bomb-vulnerability-allows.html"
-        },
-        {
             "title": "CISA warns of active attacks exploiting Android, Linux bugs",
             "description": "[BLEEPINGCOMPUTER.COM] The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning that hackers are exploiting vulnerabilities in the Linux kernel and Android operating system. [...]",
             "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-active-attacks-exploiting-android-linux-bugs/"
-        },
-        {
-            "title": "What 345 Days of Untested Exposure Looks Like at a Bank",
-            "description": "[BLEEPINGCOMPUTER.COM] A two-week penetration test can leave roughly 345 days of real-world exposure unvalidated. Sprocket Security explores why continuous testing is becoming critical as attack surfaces constantly change....",
-            "url": "https://www.bleepingcomputer.com/news/security/what-345-days-of-untested-exposure-looks-like-at-a-bank/"
-        },
-        {
-            "title": "Acer working to patch max severity zero-days in Wave 7 routers",
-            "description": "[BLEEPINGCOMPUTER.COM] Acer is working to address two maximum-severity zero-day vulnerabilities affecting its Wave 7 mesh routers. [...]",
-            "url": "https://www.bleepingcomputer.com/news/security/acer-warns-of-max-severity-zero-days-affecting-wave-7-routers/"
-        },
-        {
-            "title": "Police dismantles 9 crime groups in illegal streaming crackdown",
-            "description": "[BLEEPINGCOMPUTER.COM] European and international law enforcement agencies have dismantled nine organized crime groups and arrested 29 suspects in a major crackdown on illegal streaming operations. [...]",
-            "url": "https://www.bleepingcomputer.com/news/security/police-dismantles-9-crime-groups-in-illegal-streaming-crackdown/"
         },
         {
             "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
@@ -67,6 +62,11 @@
             "url": "https://www.cisa.gov/news-events/alerts/2026/05/28/supply-chain-compromises-impact-nx-console-and-github-repositories"
         },
         {
+            "title": "WhatsApp, Slack Notifications Could Hijack Google Gemini on Android",
+            "description": "[FEEDS.FEEDBURNER.COM] A single poisoned notification from WhatsApp, Slack, SMS, Signal, Instagram, or Messenger could have hijacked Google Gemini's voice assistant on Android and made it open a victim's connected windows,...",
+            "url": "https://thehackernews.com/2026/06/whatsapp-slack-notifications-could.html"
+        },
+        {
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
             "description": "[CISA.GOV] CISA has added one new vulnerability to its&nbsp;Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2024-21182 Oracle WebLogic Server Unspecified...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/06/01/cisa-adds-one-known-exploited-vulnerability-catalog"
@@ -77,54 +77,54 @@
             "url": "https://www.cisa.gov/news-events/alerts/2026/05/29/cisa-adds-one-known-exploited-vulnerability-catalog"
         },
         {
-            "title": "India removes exam chief over marking fiasco",
-            "description": "[CNA] NEW DELHI: Indian authorities have removed top education bosses from the exam board after marking failures in tests taken by nearly two million high school students sparked outrage and calls for...",
-            "url": "https://www.channelnewsasia.com/asia/india-removes-exam-chief-high-school-marking-failure-6159036"
+            "title": "CCPA slaps fines on PhysicsWallah, McAfee for 'Dark Pattern' practices",
+            "description": "[THE ECONOMIC TIMES] India's consumer watchdog has fined edtech firm PhysicsWallah and cybersecurity company McAfee. They were found using deceptive interface designs, known as dark patterns. These tricks manipulated...",
+            "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/ccpa-slaps-fines-on-physicswallah-mcafee-for-dark-pattern-practices/articleshow/131481440.cms"
         },
         {
-            "title": "Gov't, banks given access to latest Anthropic AI model for security",
-            "description": "[JAPAN TODAY] Japan's government and some banks have been given access to U.S. startup Anthropic's new Claude Mythos artificial intelligence model with advanced cybersecurity capabilities, the government said...",
-            "url": "https://japantoday.com/category/tech/japan-gov%27t-banks-given-access-to-latest-anthropic-ai-model-for-security"
+            "title": "After CBSE and NTA row, JEE Advanced 2026 data exposure claim by a Dubai-based researcher sparks security debate, institute responds",
+            "description": "[THE ECONOMIC TIMES] JEE Advanced 2026: A cybersecurity researcher flagged a publicly accessible cloud storage linked to JEE Advanced 2026 results, potentially exposing candidate names, dates of birth, and mobile...",
+            "url": "https://economictimes.indiatimes.com/news/new-updates/after-cbse-and-nta-row-jee-advanced-2026-data-exposure-claim-by-a-dubai-based-researcher-sparks-security-debate-institute-responds/articleshow/131481279.cms"
         },
         {
-            "title": "Gov't, banks given access to latest Anthropic AI model for security",
-            "description": "[JAPAN TODAY] Japan's government and some banks have been given access to U.S. startup Anthropic's new Claude Mythos artificial intelligence model with advanced cybersecurity capabilities, the government said...",
-            "url": "https://japantoday.com/category/tech/japan-gov't-banks-given-access-to-latest-anthropic-ai-model-for-security"
+            "title": "PhysicsWallah And McAfee Fined Over 'Deceptive' Online Tricks Used On Customers",
+            "description": "[NDTV.COM] The Central Consumer Protection Authority (CCPA) has penalised edtech firm PhysicsWallah five lakh rupees and cybersecurity company McAfee one lakh rupees for using manipulative digital designs known...",
+            "url": "https://www.ndtv.com/education/physicswallah-and-mcafee-fined-over-deceptive-online-tricks-used-on-customers-11585323"
         },
         {
-            "title": "Why US President Donald Trump has issued order seeking oversight of AI models",
-            "description": "[THE INDIAN EXPRESS] Trump AI executive order introduces a voluntary 30-day review mechanism for advanced AI models, balancing cybersecurity concerns with innovation goals.",
-            "url": "https://indianexpress.com/shorts/explained/trump-ai-executive-order-frontier-model-review-10721582/"
+            "title": "Claude Mythos Arrives in India as Anthropic Expands Cybersecurity Initiative",
+            "description": "[REPUBLIC WORLD] Unlike Anthropic's general-purpose Claude chatbot, Mythos has been built specifically for cybersecurity tasks such as vulnerability discovery, code analysis, and security testing.",
+            "url": "https://www.republicworld.com/tech/claude-mythos-arrives-in-india-as-anthropic-expands-cybersecurity-initiative-2026-06-03-126775"
         },
         {
-            "title": "Why US President Donald Trump has issued order seeking oversight of AI models",
-            "description": "[THE INDIAN EXPRESS] Trump AI executive order introduces a voluntary 30-day review mechanism for advanced AI models, balancing cybersecurity concerns with innovation goals.",
-            "url": "https://indianexpress.com/article/explained/explained-ai/trump-ai-executive-order-frontier-model-review-10721582/"
+            "title": "Anthropic brings Project Glasswing to India and 14 more countries with access to controversial Mythos AI model",
+            "description": "[MONEYCONTROL] Anthropic has expanded Project Glasswing to India and 14 other countries, giving selected organisations access to Claude Mythos Preview, a cybersecurity-focused AI model designed to identify...",
+            "url": "https://www.moneycontrol.com/technology/anthropic-brings-project-glasswing-to-india-and-14-more-countries-with-access-to-controversial-mythos-ai-model-article-13940096.html"
         },
         {
-            "title": "India gets access to Anthropic\u2019s restricted Mythos Claude under Project Glasswing",
-            "description": "[THE FINANCIAL EXPRESS] Mythos had sparked global concern following its launch in April, and financial institutions in India remain wary about its powerful cybersecurity skills.",
-            "url": "https://www.financialexpress.com/life/technology-india-gets-access-to-anthropics-restricted-mythos-claude-under-project-glasswing-4257660/"
+            "title": "Stockholm-born Holm Security receives European Cybersecurity Sovereignty Labels",
+            "description": "[THE MANILA TIMES] STOCKHOLM, June 03, 2026 (GLOBE NEWSWIRE) -- Holm Security, the Stockholm-headquartered vulnerability and exposure management company, has received two European digital sovereignty recognitions: the...",
+            "url": "https://www.manilatimes.net/2026/06/03/tmt-newswire/globenewswire/stockholm-born-holm-security-receives-european-cybersecurity-sovereignty-labels/2357560"
         },
         {
-            "title": "Microsoft Warns of Crypto",
-            "description": "[U.TODAY] Microsoft's cybersecurity division has issued a warning regarding a new malware campaign that targets cryptocurrency investors by hiding malicious code within widely used public npm open-source...",
-            "url": "https://u.today/microsoft-warns-of-crypto-stealing-trojan"
+            "title": "Anthropic\u2019s Project Glasswing goes global: India among countries to get Mythos AI access",
+            "description": "[CNBC TV18] Anthropic expands Mythos cybersecurity AI via Project Glasswing, giving over 150 global organisations access to protect critical infrastructure and systems",
+            "url": "https://www.cnbctv18.com/technology/anthropic-project-glasswing-goes-global-india-among-countries-to-get-mythos-ai-access-ws-el-19918583.htm"
         },
         {
-            "title": "Anthropic offers Mythos model access to 150 additional groups",
-            "description": "[THE STAR] Anthropic PBC is allowing 150 additional organisations around the world to access Mythos, an artificial intelligence model aimed at finding cybersecurity vulnerabilities that the company has said was...",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/06/03/anthropic-offers-mythos-model-access-to-150-additional-groups"
+            "title": "An Autonomous Security Intelligence Workspace for Continuous Exposure Management",
+            "description": "[THE TRIBUNE] Dutch [Netherlands], June 3: Gambit Cyber B.V, a Netherlands-headquartered cybersecurity company specialising in AI-native, risk-centric Continuous Threat Exposure Management (CTEM), today announced...",
+            "url": "https://www.tribuneindia.com/news/business/gambit-cyber-launches-vizier-ai-an-autonomous-security-intelligence-workspace-for-continuous-exposure-management/"
         },
         {
-            "title": "Anthropic Brings Its Most Powerful Mythos AI Model to India; Expands Project Glasswing To 14 Other Countries",
-            "description": "[FREE PRESS JOURNAL] Anthropic has expanded Project Glasswing, its restricted cybersecurity initiative, to around 150 organisations across 15+ countries, including India. The programme uses its advanced Claude Mythos...",
-            "url": "https://www.freepressjournal.in/tech/anthropic-brings-its-most-powerful-mythos-ai-model-to-india-expands-project-glasswing-to-14-other-countries"
+            "title": "Why CBSE Ignored Early Warnings About Its Digital Evaluation Portal",
+            "description": "[THE INDIAN EXPRESS] A look at the failure of the CBSE On-Screen Marking system, ignored warnings, and cybersecurity lapses that affected millions of students.",
+            "url": "https://indianexpress.com/article/opinion/columns/cbse-osm-digital-evaluation-failure-investigation-2026-10721775/"
         },
         {
-            "title": "These ASX ETFs just hit record highs, is there more to come?",
-            "description": "[THE MOTLEY FOOL AUSTRALIA] iShares Global 100 ETF (ASX: IOO) and Betashares Global Cybersecurity ETF (ASX: HACK) have hit record highs, but I still rate them as buys.",
-            "url": "https://www.fool.com.au/2026/06/03/these-asx-etfs-just-hit-record-highs-is-there-more-to-come/"
+            "title": "Corrata Reimagines Mobile Device Security for the AI Era",
+            "description": "[PR NEWSWIRE UK] /PRNewswire/ -- Infosec Europe, ExCeL London -- Corrata, the mobile endpoint security company, today announced a comprehensive reimagining of its approach to...",
+            "url": "https://www.prnewswire.co.uk/news-releases/corrata-reimagines-mobile-device-security-for-the-ai-era-302785866.html"
         }
     ]
 }
