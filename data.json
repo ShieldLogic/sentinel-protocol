@@ -1,5 +1,5 @@
 {
-    "updated": "2026-06-04 16:44:37 UTC",
+    "updated": "2026-06-04 19:54:09 UTC",
     "news": [
         {
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
@@ -17,9 +17,19 @@
             "url": "https://www.cisa.gov/news-events/alerts/2026/05/28/supply-chain-compromises-impact-nx-console-and-github-repositories"
         },
         {
+            "title": "Cisco Patches CVE-2026-20230 in Unified CM as Exploit Code Goes Public",
+            "description": "[FEEDS.FEEDBURNER.COM] Cisco has patched a bug in Unified Communications Manager that lets an unauthenticated attacker on the network write files to the box and, from there, climb to root. It is tracked as CVE-2026-20230,...",
+            "url": "https://thehackernews.com/2026/06/cisco-patches-cve-2026-20230-in-unified.html"
+        },
+        {
             "title": "Claude Code GitHub Action Flaw Let One Malicious Issue Hijack Repositories",
             "description": "[FEEDS.FEEDBURNER.COM] A security researcher found a flaw in Anthropic's Claude Code GitHub Action that let an attacker take over vulnerable public repositories running it, with nothing more than a single opened GitHub...",
             "url": "https://thehackernews.com/2026/06/claude-code-github-action-flaw-let-one.html"
+        },
+        {
+            "title": "Agentic AI Is Transforming Defense, But Only Secure IT Infrastructure Will Maximize It",
+            "description": "[FEEDS.FEEDBURNER.COM] Over the past several weeks, the cybersecurity community has been reminded how quickly frontier and agentic AI in defense networks can challenge our assumptions. When Anthropic's Claude Mythos model...",
+            "url": "https://thehackernews.com/2026/06/agentic-ai-is-transforming-defense-but.html"
         },
         {
             "title": "ThreatsDay Bulletin: AI Agents Gone Wrong, Sketchy C2 Tools, ClickFix Tricks, JS Backdoors & 20+ New Stories",
@@ -27,19 +37,14 @@
             "url": "https://thehackernews.com/2026/06/threatsday-bulletin-ai-agents-gone.html"
         },
         {
-            "title": "China-Linked TA4922 Expands Phishing Attacks to UK, Germany, Italy, and South Africa",
+            "title": "China-Linked TA4922 Expands Phishing Attacks to U.K., Germany, Italy, and South Africa",
             "description": "[FEEDS.FEEDBURNER.COM] A new China-linked cybercrime group known as TA4922 has expanded its targeting focus to target European organizations in the U.K., Germany, Italy, and South Africa. These efforts have been...",
             "url": "https://thehackernews.com/2026/06/china-linked-ta4922-expands-phishing.html"
         },
         {
-            "title": "FlutterShell Backdoor Spreads to macOS via Malicious Google and YouTube Ads",
-            "description": "[FEEDS.FEEDBURNER.COM] Cybersecurity researchers have shed light on a macOS malvertising campaign codenamed Operation FlutterBridge that spreads a new backdoor called FlutterShell. According to Palo Alto Networks Unit 42,...",
-            "url": "https://thehackernews.com/2026/06/fluttershell-backdoor-spreads-to-macos.html"
-        },
-        {
-            "title": "Fake Sites Mimicking Open-Source Tools Rank High on Google to Deliver Malware via TDS",
-            "description": "[FEEDS.FEEDBURNER.COM] Cybersecurity researchers have flagged a large-scale operation that impersonates open-source and freeware projects to funnel unsuspecting users through a Traffic Distribution System (TDS) and deliver...",
-            "url": "https://thehackernews.com/2026/06/fake-sites-mimicking-open-source-tools.html"
+            "title": "DentaQuest data breach  exposed info of 2.6 million accounts",
+            "description": "[BLEEPINGCOMPUTER.COM] A data breach at the dental benefits administrator DentaQuest has reportedly exposed the sensitive data of 2.6 million accounts. [...]",
+            "url": "https://www.bleepingcomputer.com/news/security/dentaquest-data-breach-exposed-info-of-26-million-accounts/"
         },
         {
             "title": "UN food agency discloses breach affecting 600,000 Gaza households",
@@ -62,11 +67,6 @@
             "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-unexpected-windows-driver-updates-on-caching-issue/"
         },
         {
-            "title": "Police dismantles fake ID marketplace used by migrant smugglers",
-            "description": "[BLEEPINGCOMPUTER.COM] French and Spanish authorities took down an online marketplace selling fake identity documents to migrant smuggling rings operating within the European Union. [...]",
-            "url": "https://www.bleepingcomputer.com/news/security/police-dismantles-fake-id-marketplace-used-by-migrant-smugglers/"
-        },
-        {
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
             "description": "[CISA.GOV] CISA has added one new vulnerability to its&nbsp;Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2024-21182 Oracle WebLogic Server Unspecified...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/06/01/cisa-adds-one-known-exploited-vulnerability-catalog"
@@ -75,6 +75,21 @@
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
             "description": "[CISA.GOV] CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-0257 Palo Alto Networks PAN-OS Authentication Bypass...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/05/29/cisa-adds-one-known-exploited-vulnerability-catalog"
+        },
+        {
+            "title": "T-Mobile opens global technology centre in Hyderabad to expand engineering and innovation capabilities",
+            "description": "[THE HINDU BUSINESS LINE] T-Mobile US opens Global Technology Centre in Hyderabad via TMUS Global Solutions, boosting India footprint with focus on AI, DevOps and cybersecurity.",
+            "url": "https://www.thehindubusinessline.com/info-tech/t-mobile-us-opens-global-technology-centre-in-hyderabad-expands-india-footprint/article71060173.ece"
+        },
+        {
+            "title": "AI in media: Kalli Purie backs human-led newsroom model at SPIEF 2026",
+            "description": "[INDIA TODAY] At SPIEF 2026, India Today Group vice-chairperson Kalli Purie underlined that AI must support, not replace, newsroom judgement. Other speakers from Russia and China echoed concerns over conscience,...",
+            "url": "https://www.indiatoday.in/india/story/artificial-intelligence-media-kalli-purie-human-led-newsroom-model-spief-2921659-2026-06-04"
+        },
+        {
+            "title": "Anthropic offers Mythos to 150 additional groups; India to get AI model access",
+            "description": "[LIVEMINT] Anthropic broadens access to cybersecurity AI model Mythos via Project Glasswing for over 150 firms globally to address critical software vulnerabilities. The initiative includes countries from Five...",
+            "url": "https://www.livemint.com/market/anthropic-offers-mythos-to-150-additional-groups-india-to-get-ai-model-access-11780548130055.html"
         },
         {
             "title": "Cybersecurity Company Drags Down S&P 500",
@@ -110,21 +125,6 @@
             "title": "As India gets Claude Mythos, attention turns to AI economics",
             "description": "[TIMES OF INDIA] Tech News News: Bengaluru: India's inclusion in Anthropic's Project Glasswing initiative marks a significant step for the country's cybersecurity and AI ecosystem. Ac.",
             "url": "https://timesofindia.indiatimes.com/technology/tech-news/as-india-gets-claude-mythos-attention-turns-to-ai-economics/articleshow/131491791.cms"
-        },
-        {
-            "title": "Krispy Kreme ransomware attack: what data was stolen and who is affected",
-            "description": "[MECHANICSBURG PATRIOT NEWS ] Claimants with documented fraud or identity theft losses may qualify for up to $3,500, plus one year of free credit monitoring.",
-            "url": "https://www.pennlive.com/life/2026/06/well-known-donut-chain-to-pay-up-to-3500-per-person-after-2024-data-breach-heres-what-to-know.html"
-        },
-        {
-            "title": "A new AI-powered computer worm could prove to be the stuff of cybersecurity nightmares",
-            "description": "[FORTUNE] University of Toronto researchers built a worm powered by open-weight AI that adapts to its targets. Experts say it changes the math on cybersecurity defense",
-            "url": "https://fortune.com/2026/06/03/a-new-ai-powered-computer-worm-could-prove-to-be-the-stuff-of-cybersecurity-nightmares/"
-        },
-        {
-            "title": "IRCTC sets new records in online ticket booking, blocks 3 crore suspicious IDs in 2025-26",
-            "description": "[THE ECONOMIC TIMES] IRCTC intensified anti-fraud measures in 2025, deactivating 3.03 crore suspicious user IDs and blocking 13,343 email domains. The corporation also recorded record online ticket bookings, averaging...",
-            "url": "https://economictimes.indiatimes.com/industry/transportation/railways/irctc-sets-new-records-in-online-ticket-booking-blocks-3-crore-suspicious-ids-in-2025-26/articleshow/131488466.cms"
         }
     ]
 }
