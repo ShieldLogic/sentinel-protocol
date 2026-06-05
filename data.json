@@ -1,5 +1,5 @@
 {
-    "updated": "2026-06-05 17:47:07 UTC",
+    "updated": "2026-06-05 19:41:38 UTC",
     "news": [
         {
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
@@ -12,21 +12,6 @@
             "url": "https://www.cisa.gov/news-events/alerts/2026/06/02/cisa-adds-two-known-exploited-vulnerabilities-catalog"
         },
         {
-            "title": "Supply Chain Compromises Impact Nx Console and GitHub Repositories",
-            "description": "[CISA.GOV] CISA is prioritizing the response to multiple emerging software supply chain intrusion campaigns targeting developer ecosystems Continuous Integration/Continuous Development (CI/CD) pipelines. These...",
-            "url": "https://www.cisa.gov/news-events/alerts/2026/05/28/supply-chain-compromises-impact-nx-console-and-github-repositories"
-        },
-        {
-            "title": "Brave Software releases Origin for a paid, bloat-free browsing experience",
-            "description": "[BLEEPINGCOMPUTER.COM] Brave has announced the public release of Brave Origin, a paid minimalist version of its browser that strips out cryptocurrency, AI, rewards, and other monetization-focused features. [...]",
-            "url": "https://www.bleepingcomputer.com/news/software/brave-software-releases-origin-for-a-paid-bloat-free-browsing-experience/"
-        },
-        {
-            "title": "Hola Browser for Windows compromised to deliver cryptominer",
-            "description": "[BLEEPINGCOMPUTER.COM] The Windows version of the Hola Browser has been compromised in a supply chain attack that delivered an undeclared executable identified by researchers as a cryptocurrency miner. [...]",
-            "url": "https://www.bleepingcomputer.com/news/security/hola-browser-for-windows-compromised-to-deliver-cryptominer/"
-        },
-        {
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
             "description": "[CISA.GOV] CISA has added one new vulnerability to its&nbsp;Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2024-21182 Oracle WebLogic Server Unspecified...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/06/01/cisa-adds-one-known-exploited-vulnerability-catalog"
@@ -35,6 +20,16 @@
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
             "description": "[CISA.GOV] CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-0257 Palo Alto Networks PAN-OS Authentication Bypass...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/05/29/cisa-adds-one-known-exploited-vulnerability-catalog"
+        },
+        {
+            "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+            "description": "[CISA.GOV] CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-28318 SolarWinds Serv-U Uncontrolled Resource Consumption...",
+            "url": "https://www.cisa.gov/news-events/alerts/2026/06/05/cisa-adds-one-known-exploited-vulnerability-catalog"
+        },
+        {
+            "title": "IronWorm and New Miasma Worm Variant Hit npm in Supply Chain Attacks",
+            "description": "[FEEDS.FEEDBURNER.COM] Multiple software supply chain attacks have hit the npm ecosystem, with threat actors using both malicious and poisoned versions of over 50 legitimate packages to distribute a Rust-based information...",
+            "url": "https://thehackernews.com/2026/06/ironworm-and-new-miasma-worm-variant.html"
         },
         {
             "title": "Android Spyware Asin Targets Arabic Users via Fake News, PDF and War Map Apps",
@@ -52,14 +47,24 @@
             "url": "https://thehackernews.com/2026/06/only-10-of-socs-say-theyre-getting.html"
         },
         {
+            "title": "CISA: Hackers now exploit SolarWinds Serv-U flaw to crash servers",
+            "description": "[BLEEPINGCOMPUTER.COM] CISA warned today that hackers are now actively exploiting a recently patched high-severity SolarWinds Serv-U flaw to crash servers. [...]",
+            "url": "https://www.bleepingcomputer.com/news/security/cisa-hackers-now-exploit-solarwinds-serv-u-flaw-to-crash-servers/"
+        },
+        {
+            "title": "Chinese APT deploys new malware to keep access to hacked networks",
+            "description": "[BLEEPINGCOMPUTER.COM] A Chinese espionage group tracked as UNC5221 has been accessing Microsoft 365 environments using the Brickstorm backdoor and previously undocumented malware named Plenet and AgentPSD. [...]",
+            "url": "https://www.bleepingcomputer.com/news/security/chinese-apt-deploys-new-malware-to-keep-access-to-hacked-networks/"
+        },
+        {
             "title": "Hackers Exploit Critical Everest Forms Pro WordPress Plugin Flaw to Take Over Sites",
             "description": "[FEEDS.FEEDBURNER.COM] Threat actors are actively exploiting a critical security flaw in Everest Forms Pro, a WordPress plugin with about 4,000 active installations, to execute arbitrary code, leading to a complete site...",
             "url": "https://thehackernews.com/2026/06/hackers-exploit-critical-everest-forms.html"
         },
         {
-            "title": "FIFA World Cup 2026 Scams Are Already Live: Fake Sites, Banking Malware, and Stolen Logins",
-            "description": "[FEEDS.FEEDBURNER.COM] Security researchers and the FBI are warning that a wave of FIFA-themed fraud is already hitting World Cup 2026 fans, days before the June 11 kickoff. Recent reports describe thousands of lookalike...",
-            "url": "https://thehackernews.com/2026/06/fifa-world-cup-2026-scams-are-already.html"
+            "title": "Dark web Nemesis Market vendor gets 26 years for selling drugs",
+            "description": "[BLEEPINGCOMPUTER.COM] A California man was sentenced to more than 26 years in federal prison for trafficking fentanyl and methamphetamine through Nemesis Market, one of the world's largest dark web marketplaces. [...]",
+            "url": "https://www.bleepingcomputer.com/news/security/dark-web-nemesis-market-vendor-gets-26-years-for-selling-drugs/"
         },
         {
             "title": "Over 900 US gas station tank gauge systems exposed to attacks",
@@ -72,9 +77,39 @@
             "url": "https://www.bleepingcomputer.com/news/security/what-2026-dbir-confirms-attacks-are-living-in-the-browser/"
         },
         {
-            "title": "Cisco warns of unpatched SD-WAN zero-day exploited in attacks",
-            "description": "[BLEEPINGCOMPUTER.COM] On Thursday, Cisco warned of a high-severity, unpatched zero-day in the Cisco Catalyst SD-WAN Manager (tracked as CVE-2026-20245) actively exploited in attacks enabling root privilege escalation....",
-            "url": "https://www.bleepingcomputer.com/news/security/new-cisco-sd-wan-flaw-exploited-in-zero-day-attacks-to-gain-root/"
+            "title": "Synology launches DSM agent, expands cybersecurity capabilities",
+            "description": "[THE HINDU BUSINESS LINE] Synology enhances cybersecurity with DSM Agent and ActiveProtect Manager 2.0, boosting AI capabilities and data protection features.",
+            "url": "https://www.thehindubusinessline.com/info-tech/synology-launches-dsm-agent-expands-cybersecurity-capabilities/article71056315.ece"
+        },
+        {
+            "title": "CBSE Received Over 70,000 Re-Evaluation And Verification Requests, Says Education Ministry",
+            "description": "[FREE PRESS JOURNAL] CBSE received 70,433 applications under its post-result grievance redressal process, including 7,314 for verification of marks and 63,119 for re-evaluation. The Education Ministry said the portal...",
+            "url": "https://www.freepressjournal.in/education/cbse-received-over-70000-re-evaluation-and-verification-requests-says-education-ministry"
+        },
+        {
+            "title": "Sectra's year-end report 2025/2026: Long-term investments drive growth and profit",
+            "description": "[PR NEWSWIRE UK] /PRNewswire/ -- International medical imaging IT and cybersecurity company Sectra (STO: SECT B) is continuing to take important steps in medical imaging IT and...",
+            "url": "https://www.prnewswire.co.uk/news-releases/sectras-year-end-report-20252026-long-term-investments-drive-growth-and-profit-302792432.html"
+        },
+        {
+            "title": "Anthropic embeds engineers at US security agency to deploy Mythos AI: Report",
+            "description": "[FIRSTPOST] Anthropic is reportedly working closely with the US National Security Agency to deploy its powerful Mythos cybersecurity model, even as the AI company remains locked in a legal dispute with the...",
+            "url": "https://www.firstpost.com/tech/anthropic-embeds-engineers-at-us-security-agency-to-deploy-mythos-ai-report-14019152.html"
+        },
+        {
+            "title": "Google layoffs: Company quietly trims workforce, Cloud and cybersecurity teams hit",
+            "description": "[FIRSTPOST] Google has reportedly laid off employees across its Cloud division, including staff from its renowned Threat Intelligence Group and Mandiant. The move reflects a wider trend sweeping through Big...",
+            "url": "https://www.firstpost.com/tech/google-layoffs-company-quietly-trims-workforce-cloud-and-cybersecurity-teams-hit-ws-e-14019111.html"
+        },
+        {
+            "title": "Tech Layoffs: Google Is Cutting Jobs Again-Here\u2019s Which Teams Were Affected This Time",
+            "description": "[TIMES NOW] Google Cloud has reportedly cut jobs across cybersecurity and cloud teams as the tech giant shifts resources toward AI-focused growth., Companies, Times Now",
+            "url": "https://www.timesnownews.com/business-economy/companies/tech-layoffs-google-is-cutting-jobs-againheres-which-teams-were-affected-this-time-article-154462748"
+        },
+        {
+            "title": "AI Agents Are Already Doing the Work--The Real Challenge is Redesigning It",
+            "description": "[THE MANILA TIMES] **media[1086706]**Agentic AI adoption is already taking shape, with 15% of business leaders strongly agreeing that tasks within their organisations are already supported by AI agents. Yet formal job...",
+            "url": "https://www.manilatimes.net/2026/06/05/tmt-newswire/pr-newswire/ai-agents-are-already-doing-the-work-the-real-challenge-is-redesigning-it/2359336"
         },
         {
             "title": "As Google lays off employees in Cloud division, company says: We regularly evaluate our internal structures to ensure we are best positioned to ...",
@@ -90,41 +125,6 @@
             "title": "Google Cloud cuts jobs across cybersecurity division: All details",
             "description": "[BUSINESS TODAY] Google\u2019s cybersecurity teams, the Google Threat Intelligence Group (GTIG), were affected by a recent round of layoffs.",
             "url": "https://www.businesstoday.in/technology/news/story/google-cloud-cuts-jobs-across-cybersecurity-division-all-details-535037-2026-06-05"
-        },
-        {
-            "title": "Google Layoffs: Threat Intelligence, Mandiant Teams Hit By Fresh Job Cuts Amid AI Shift",
-            "description": "[NDTV PROFIT] Staff at Mandiant, the cybersecurity firm Google acquired for $5.4 billion in 2022, were also impacted, along with other teams within Google Cloud more broadly, said report.",
-            "url": "https://www.ndtvprofit.com/business/google-hits-cloud-and-security-teams-with-fresh-layoffs-amid-ai-pivot-report-11593585"
-        },
-        {
-            "title": "Google Cloud's Quiet Layoffs Hit Cybersecurity Teams",
-            "description": "[BUSINESS INSIDER] Google has laid off employees across parts of its Cloud business, including at an elite cybersecurity intelligence unit.",
-            "url": "https://www.businessinsider.com/google-clouds-quiet-layoffs-hit-cybersecurity-teams-2026-6"
-        },
-        {
-            "title": "Report: How to launch the U.S. Cyber Force",
-            "description": "[SALT LAKE CITY DESERET NEWS] Commission of experts across several sectors craft report exploring optimal methods of launching an independent military service for cybersecurity.",
-            "url": "https://www.deseret.com/utah/2026/06/04/cyber-force-report/"
-        },
-        {
-            "title": "AI security training bundle covers ethical hacking and more",
-            "description": "[CULT OF MAC] The 2026 AI Security & Cybersecurity Expert Bundle delivers 88 hours of training on AI, ethical hacking and real-world defense skills.",
-            "url": "https://www.cultofmac.com/deals/ai-security-cybersecurity-expert-bundle"
-        },
-        {
-            "title": "GCCs shifting towards contract hiring for AI talent as demand for specialised skills rises",
-            "description": "[THE NEW INDIAN EXPRESS] Industry executives say the shift has become more pronounced, particularly across AI, cloud, cybersecurity, data engineering and product engineering roles",
-            "url": "https://www.newindianexpress.com/business/2026/Jun/04/gccs-shifting-towards-contract-hiring-for-ai-talent-as-demand-for-specialised-skills-rises"
-        },
-        {
-            "title": "CyberNX Launches End-to-End DPDP Compliance Program for Indian Businesses",
-            "description": "[MARKETS INSIDER] Mumbai, India, June 4th, 2026, FinanceWireCyberNX, a leading cybersecurity and compliance consulting firm, today announced th...",
-            "url": "https://markets.businessinsider.com/news/currencies/cybernx-launches-end-to-end-dpdp-compliance-program-for-indian-businesses-1036226423"
-        },
-        {
-            "title": "era tactic now used to test cybersecurity defenses",
-            "description": "[WTOP] Learn how red teaming, a cybersecurity tactic rooted in Cold War military strategy, helps organizations test defenses, uncover weaknesses and improve cyber resilience against real-world threats.",
-            "url": "https://wtop.com/250-years-of-america/2026/06/america-250-red-teaming-the-cold-war-era-tactic-now-used-to-test-cybersecurity-defenses/"
         }
     ]
 }
