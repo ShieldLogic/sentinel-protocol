@@ -1,5 +1,5 @@
 {
-    "updated": "2026-06-08 20:01:15 UTC",
+    "updated": "2026-06-08 23:07:42 UTC",
     "news": [
         {
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
@@ -7,9 +7,19 @@
             "url": "https://www.cisa.gov/news-events/alerts/2026/06/03/cisa-adds-one-known-exploited-vulnerability-catalog"
         },
         {
+            "title": "One-Character Linux Kernel Flaw Enables Local Root Access, Exploits Now Public",
+            "description": "[FEEDS.FEEDBURNER.COM] Security researchers have published a detailed, working exploit for a Linux kernel use-after-free that lets an unprivileged local user escalate to root and break out of a container. The flaw,...",
+            "url": "https://thehackernews.com/2026/06/one-character-linux-kernel-flaw-enables.html"
+        },
+        {
             "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
             "description": "[CISA.GOV] CISA has added two new vulnerabilities to its&nbsp;Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2022-0492 Linux Kernel Improper Authentication...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/06/02/cisa-adds-two-known-exploited-vulnerabilities-catalog"
+        },
+        {
+            "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+            "description": "[CISA.GOV] CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-42271 BerriAI LiteLLM Command Injection Vulnerability...",
+            "url": "https://www.cisa.gov/news-events/alerts/2026/06/08/cisa-adds-two-known-exploited-vulnerabilities-catalog"
         },
         {
             "title": "Meta Blocks NSO Group's New WhatsApp Phishing Attack, Files Contempt Order",
@@ -32,34 +42,29 @@
             "url": "https://thehackernews.com/2026/06/weekly-recap-instagram-account-hacks.html"
         },
         {
-            "title": "The Hardest Fork",
-            "description": "[FEEDS.FEEDBURNER.COM] Mythos is real. I know a big chunk of the industry thinks it's a marketing stunt, and I get why. I get it. But I've seen the findings, and they're bad. These aren't \"whoops, this line right here is...",
-            "url": "https://thehackernews.com/2026/06/the-hardest-fork.html"
+            "title": "NFCShare Android malware spreads via fake banking app updates on GitHub",
+            "description": "[BLEEPINGCOMPUTER.COM] New variants of the NFCShare Android malware are being distributed as fake updates for legitimate banking apps hosted on GitHub. [...]",
+            "url": "https://www.bleepingcomputer.com/news/security/nfcshare-android-malware-spreads-via-fake-banking-app-updates-on-github/"
+        },
+        {
+            "title": "SoFi confirms third-party data breach at Hong Kong subsidiary",
+            "description": "[BLEEPINGCOMPUTER.COM] SoFi Hong Kong is warning that it suffered a data breach after hackers gained access to a database at a third-party vendor containing customer information. [...]",
+            "url": "https://www.bleepingcomputer.com/news/security/sofi-confirms-third-party-data-breach-at-hong-kong-subsidiary/"
+        },
+        {
+            "title": "New Apple feature automatically changes your compromised passwords",
+            "description": "[BLEEPINGCOMPUTER.COM] At WWDC 26, Apple announced an Apple Intelligence-powered feature that can automatically fix weak and compromised passwords. This works in Safari, and it's rolling out with iOS 27. [...]",
+            "url": "https://www.bleepingcomputer.com/news/apple/new-apple-feature-automatically-changes-your-compromised-passwords/"
+        },
+        {
+            "title": "New Shai-Hulud attack trojanizes 19 science-focused PyPI packages",
+            "description": "[BLEEPINGCOMPUTER.COM] Hackers compromised 19 packages on the PyPI, collectively downloaded hundreds of thousands of times, in a new Shai-Hulud supply-chain attack that delivered malware designed to steal developer...",
+            "url": "https://www.bleepingcomputer.com/news/security/new-shai-hulud-attack-trojanizes-19-science-focused-pypi-packages/"
         },
         {
             "title": "WhatsApp says it disrupted new NSO spyware phishing attacks",
             "description": "[BLEEPINGCOMPUTER.COM] WhatsApp has detected and stopped spear-phishing campaigns allegedly conducted by the NSO Group after investigating user reports of social engineering attacks. [...]",
             "url": "https://www.bleepingcomputer.com/news/security/whatsapp-says-it-disrupted-new-nso-spyware-phishing-attacks/"
-        },
-        {
-            "title": "Gogs patches critical zero-day enabling remote code execution",
-            "description": "[BLEEPINGCOMPUTER.COM] Gogs has patched a critical security zero-day flaw that can allow attackers to compromise Internet-facing instances and access any repositories (including private ones). [...]",
-            "url": "https://www.bleepingcomputer.com/news/security/gogs-patches-critical-zero-day-enabling-remote-code-execution/"
-        },
-        {
-            "title": "Critical UniFi OS bug lets hackers gain root without authentication",
-            "description": "[BLEEPINGCOMPUTER.COM] Attackers can chain three already fixed vulnerabilities in the Ubiquiti UniFi OS server to execute remote code with root privileges and without authentication. [...]",
-            "url": "https://www.bleepingcomputer.com/news/security/critical-unifi-os-bug-lets-hackers-gain-root-without-authentication/"
-        },
-        {
-            "title": "Reducing security operations complexity with Wazuh Cloud",
-            "description": "[BLEEPINGCOMPUTER.COM] Security teams are increasingly overwhelmed by alert fatigue, infrastructure maintenance, and complex hybrid environments. This article explores how Wazuh Cloud helps simplify SIEM/XDR operations...",
-            "url": "https://www.bleepingcomputer.com/news/security/reducing-security-operations-complexity-with-wazuh-cloud/"
-        },
-        {
-            "title": "Check Point links VPN zero-day attacks to Qilin ransomware gang",
-            "description": "[BLEEPINGCOMPUTER.COM] Israeli cybersecurity company Check Point has released security updates to patch a critical flaw affecting Remote Access VPN and Mobile Access deployments, which was exploited in zero-day attacks....",
-            "url": "https://www.bleepingcomputer.com/news/security/check-point-links-vpn-zero-day-attacks-to-qilin-ransomware-gang/"
         },
         {
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
@@ -68,13 +73,38 @@
         },
         {
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-            "description": "[CISA.GOV] CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-0257 Palo Alto Networks PAN-OS Authentication Bypass...",
-            "url": "https://www.cisa.gov/news-events/alerts/2026/05/29/cisa-adds-one-known-exploited-vulnerability-catalog"
-        },
-        {
-            "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
             "description": "[CISA.GOV] CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-28318 SolarWinds Serv-U Uncontrolled Resource Consumption...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/06/05/cisa-adds-one-known-exploited-vulnerability-catalog"
+        },
+        {
+            "title": "India, Fiji discuss strengthening cooperation in digital resilience, cybersecurity",
+            "description": "[LOKMAT TIMES] India, Fiji discuss strengthening cooperation in digital resilience, cybersecurity - Suva, June 8 India's High Commissioner to Fiji Suneet Mehta held a meeting with the Pacific island nation's ......",
+            "url": "https://www.lokmattimes.com/technology/india-fiji-discuss-strengthening-cooperation-in-digital-resilience-cybersecurity/"
+        },
+        {
+            "title": "India, Fiji discuss strengthening cooperation in digital resilience, cybersecurity",
+            "description": "[LOKMAT TIMES] India, Fiji discuss strengthening cooperation in digital resilience, cybersecurity - Suva, June 8 India's High Commissioner to Fiji Suneet Mehta held a meeting with the Pacific island nation's ......",
+            "url": "https://www.lokmattimes.com/international/india-fiji-discuss-strengthening-cooperation-in-digital-resilience-cybersecurity-1/"
+        },
+        {
+            "title": "AI-powered worm raises global cybersecurity alarm as university of Toronto study reveals self-spreading threat",
+            "description": "[MONEYCONTROL] Researchers demonstrate malware that adapts to targets, spreads autonomously and operates at near-zero cost to attackers.",
+            "url": "https://www.moneycontrol.com/news/trends/ai-powered-worm-raises-global-cybersecurity-alarm-as-university-of-toronto-study-reveals-self-spreading-threat-13943774.html"
+        },
+        {
+            "title": "Over 1.6 lakh candidates applied for post-result services: CBSE",
+            "description": "[THE ECONOMIC TIMES] The Central Board of Secondary Education has confirmed its post-result services portal operated smoothly. Over 1.6 lakh students submitted requests for more than 3.8 lakh answer books. The board...",
+            "url": "https://economictimes.indiatimes.com/jobs/exams-results/over-1-6-lakh-candidates-applied-for-post-result-services-cbse/articleshow/131582990.cms"
+        },
+        {
+            "title": "Over 1.6 lakh candidates applied for post-result services: CBSE",
+            "description": "[THE NEW INDIAN EXPRESS] The Central Board of Secondary Education said the system remained under monitoring by cybersecurity teams throughout the operational period to prevent malicious",
+            "url": "https://www.newindianexpress.com/india/2026/Jun/08/over-16-lakh-candidates-applied-for-post-result-services-cbse"
+        },
+        {
+            "title": "TCS vs Wipro: Nomura bets on AI deals to protect 2026 Margins; sees up to 33% upside",
+            "description": "[THE FINANCIAL EXPRESS] Nomura remains bullish on TCS and Wipro, seeing up to 33% upside potential. Here's why the brokerage believes Artificial Intelligence, cloud computing and cybersecurity spending could drive future...",
+            "url": "https://www.financialexpress.com/market/tcs-vs-wipro-nomura-bets-on-ai-deals-to-protect-2026-margins-sees-up-to-33-upside-4261992/"
         },
         {
             "title": "WISeKey, The Hashgraph Group, Hedera Launch Quantum Cybersecurity Platform",
@@ -95,36 +125,6 @@
             "title": "Softcell Secures Zscaler Authorization to Enhance Cybersecurity Solutions",
             "description": "[DEVDISCOURSE] Softcell Technologies Global Private Limited achieves Zscaler Delivery Services Authorization, strengthening their partnership to bolster zero trust security solutions. This collaboration allows...",
             "url": "https://www.devdiscourse.com/article/business/3931747-softcell-secures-zscaler-authorization-to-enhance-cybersecurity-solutions"
-        },
-        {
-            "title": "IT hiring falls to 28 month low, but demand for AI talent remains strong",
-            "description": "[BUSINESS TODAY] Active tech job openings fall to a 28-month low as IT services firms rethink hiring strategies, while demand for AI, cloud and cybersecurity talent remains resilient.",
-            "url": "https://www.businesstoday.in/technology/story/it-hiring-falls-to-28-month-low-but-demand-for-ai-talent-remains-strong-535469-2026-06-08"
-        },
-        {
-            "title": "Few Indian Entities Get Access To Anthropic's Mythos AI Model: All You Need To Know",
-            "description": "[FREE PRESS JOURNAL] India has gained access to Anthropic\u2019s highly restricted Claude Mythos Preview AI through its Project Glasswing initiative. A small number of undisclosed Indian organisations will use the model to...",
-            "url": "https://www.freepressjournal.in/tech/few-indian-entities-get-access-to-anthropics-mythos-ai-model-all-you-need-to-know"
-        },
-        {
-            "title": "Can Hackers Control Your Mind? China Approves Brain Implant Chip For Public Use",
-            "description": "[TIMES NOW] China's NEO brain implant has entered mass production, beating Neuralink to commercial approval. Experts say it could transform healthcare while creating new cybersecurity risks., Technology &...",
-            "url": "https://www.timesnownews.com/technology-science/can-hackers-control-your-mind-china-approves-brain-implant-chip-for-public-use-article-154510630"
-        },
-        {
-            "title": "Summer classes canceled at Evanston Township HS after ransomware attack",
-            "description": "[NBC 5 CHICAGO] Evanston Township High School has canceled summer school classes on Monday and Tuesday following a ransomware attack.",
-            "url": "https://www.nbcchicago.com/news/local/evanston-township-high-school-cancels-summer-classes-following-ransomware-attack/3945286/"
-        },
-        {
-            "title": "CBSE gets final cybersecurity clearance for re-evaluation portal after IIT review",
-            "description": "[THE FINANCIAL EXPRESS] The clearance comes days after concerns were raised over the security of the Board\u2019s digital examination systems.",
-            "url": "https://www.financialexpress.com/india-news/cbse-gets-final-cybersecurity-clearance-for-re-evaluation-portal-after-iit-review/4261769/"
-        },
-        {
-            "title": "Telangana's DOST phase 3 admissions open access to newly approved undergrad programmes",
-            "description": "[THE NEW INDIAN EXPRESS] New UG programmes including Cybersecurity, Airport and Hospital Administration are being uploaded to the DOST 2026\u201327 portal in Telangana after delays due to ap",
-            "url": "https://www.newindianexpress.com/cities/hyderabad/2026/Jun/08/telanganas-dost-phase-3-admissions-open-access-to-newly-approved-undergrad-programmes"
         }
     ]
 }
