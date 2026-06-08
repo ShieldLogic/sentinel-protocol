@@ -1,130 +1,137 @@
 {
-    "updated": "2026-06-08 13:58:48 UTC",
+    "title": "Sentinel Protocol",
+    "tagline": "Perimeter Intelligence Sync",
+    "updated": "2026-06-08 14:45 UTC",
     "news": [
         {
-            "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-            "description": "[CISA.GOV] CISA has added one new vulnerability to its&nbsp;Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-45247&nbsp;Mirasvit Full Page Cache Warmer...",
-            "url": "https://www.cisa.gov/news-events/alerts/2026/06/03/cisa-adds-one-known-exploited-vulnerability-catalog"
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Open: This is \"Face the Nation with Margaret Brennan,\" June 7, 2026",
+            "description": "This week on \"Face the Nation with Margaret Brennan,\" Reps. Ro Khanna, Don Bacon and Jim Himes join. Plus, a panel on artificial intelligence with cybersecurity expert Chris Krebs, a CBS News contributor, and Ben Buchanan, a former special adviser for AI duri\u2026",
+            "url": "https://www.cbsnews.com/video/open-this-is-face-the-nation-with-margaret-brennan-june-6-2026/",
+            "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/06/07/608fc4d0-a5ef-4bc4-b27b-207578a5c43b/thumbnail/1200x630/afe603b40fb1b41c804ff0df0d8f2c46/cbsn-fusion-open-this-is-face-the-nation-with-margaret-brennan-june-6-2026-thumbnail.jpg",
+            "publishedAt": "2026-06-07T14:40:17Z",
+            "content": "Copyright \u00a92026 CBS Interactive Inc. All rights reserved."
         },
         {
-            "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
-            "description": "[CISA.GOV] CISA has added two new vulnerabilities to its&nbsp;Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2022-0492 Linux Kernel Improper Authentication...",
-            "url": "https://www.cisa.gov/news-events/alerts/2026/06/02/cisa-adds-two-known-exploited-vulnerabilities-catalog"
+            "source": {
+                "id": null,
+                "name": "Securityaffairs.com"
+            },
+            "author": "Pierluigi Paganini",
+            "title": "Security Affairs newsletter Round 580 by Pierluigi Paganini \u2013 INTERNATIONAL EDITION",
+            "description": "A new round of the weekly Security Affairs newsletter has arrived! Every week, the best security articles from Security Affairs are free in your email box. Enjoy a new round of the weekly SecurityAffairs newsletter, including the international press. U.S. CIS\u2026",
+            "url": "https://securityaffairs.com/193260/breaking-news/security-affairs-newsletter-round-580-by-pierluigi-paganini-international-edition.html",
+            "urlToImage": "https://securityaffairs.com/wp-content/uploads/2015/03/newsletter.png",
+            "publishedAt": "2026-06-07T14:39:23Z",
+            "content": "Security Affairs newsletter Round 580 by Pierluigi Paganini INTERNATIONAL EDITION\r\nEnjoy a new round of the weekly SecurityAffairs newsletter, including the international press.\r\nInternational Press \u2026 [+3825 chars]"
         },
         {
-            "title": "Hands on with Intelligent Terminal, an AI-powered Windows Terminal",
-            "description": "[BLEEPINGCOMPUTER.COM] Microsoft has created an open-source fork of Windows Terminal called \"Intelligent Terminal,\" and it allows you to use AI directly inside Terminal without interfering with the regular session. [...]",
-            "url": "https://www.bleepingcomputer.com/news/microsoft/hands-on-with-intelligent-terminal-an-ai-powered-windows-terminal/"
+            "source": {
+                "id": null,
+                "name": "Bitcoinfoundation.org"
+            },
+            "author": "Ingrid Wolf",
+            "title": "What Is a Seed Phrase? Why Sharing It Can Cost You Entire Crypto Wallet",
+            "description": "Picture a single line of words that unlocks everything digital you own. That is what a seed phrase does. Anyone holding it gains power to...\nThe post What Is a Seed Phrase? Why Sharing It Can Cost You Entire Crypto Wallet appeared first on Bitcoin Foundation.",
+            "url": "https://bitcoinfoundation.org/news/crimes-and-fraud-news/what-is-a-seed-phrase-why-sharing-it-can-cost-you-entire-crypto-wallet/",
+            "urlToImage": "https://bitcoinfoundation.org/wp-content/uploads/2026/06/seed-1.webp",
+            "publishedAt": "2026-06-07T14:31:34Z",
+            "content": "Picture a single line of words that unlocks everything digital you own. That is what a seed phrase does. Anyone holding it gains power to bring back your wallet whenever they choose. Moving money bec\u2026 [+13621 chars]"
         },
         {
-            "title": "C0XMO botnet spreads via DD-WRT router flaw, kills rival malware",
-            "description": "[BLEEPINGCOMPUTER.COM] A new variant of the Gafgyt botnet called C0XMO is targeting DD-WRT router firmware and can move to other device types with various CPU architectures. [...]",
-            "url": "https://www.bleepingcomputer.com/news/security/c0xmo-botnet-spreads-via-dd-wrt-router-flaw-kills-rival-malware/"
+            "source": {
+                "id": null,
+                "name": "TheStreet"
+            },
+            "author": "Jeffrey H. Snyder",
+            "title": "Retirement vs. Crypto: Bet or Bust?",
+            "description": "Alexander Browder of the Henry Jackson Society explains how state actors and criminal networks are exploiting cryptocurrency to fund military programs, skirt...",
+            "url": "https://www.thestreet.com/retirement/retirement-vs-crypto-bet-or-bust",
+            "urlToImage": "https://s.yimg.com/os/en/thestreet_881/29c66a47e98ad722a58e243bb1bd5f40",
+            "publishedAt": "2026-06-07T14:30:00Z",
+            "content": "Alexander Browder of the Henry Jackson Society explains how state actors and criminal networks are exploiting cryptocurrency to fund military programs, skirt sanctions, and target ordinary investors \u2026 [+11573 chars]"
         },
         {
-            "title": "AI Phishing Is Crushing SOCs with Alert Volume: How to Reduce Tier 1 Overload",
-            "description": "[FEEDS.FEEDBURNER.COM] Phishing has always been a numbers game. AI has turned it into a volume machine. Attackers can now create convincing emails, fake login pages, and tailored lures in minutes. Every polished message...",
-            "url": "https://thehackernews.com/2026/06/ai-phishing-is-crushing-socs-with-alert.html"
+            "source": {
+                "id": null,
+                "name": "BleepingComputer"
+            },
+            "author": "Lawrence Abrams",
+            "title": "Silent Ransom Group targets law firms with fake IT support calls",
+            "description": "The Silent Ransom Group extortion gang is actively targeting U.S. law firms and professional services organizations in social engineering attacks that often lead to data theft within hours of initial contact, according to a new report by cybersecurity firm Ma\u2026",
+            "url": "https://www.bleepingcomputer.com/news/security/silent-ransom-group-targets-law-firms-with-fake-it-support-calls/",
+            "urlToImage": "https://www.bleepstatic.com/content/hl-images/2021/12/28/hacker.jpg",
+            "publishedAt": "2026-06-07T14:09:19Z",
+            "content": "The Silent Ransom Group extortion gang is actively targeting U.S. law firms and professional services organizations in social engineering attacks that often lead to data theft within hours of initial\u2026 [+6654 chars]"
         },
         {
-            "title": "The Hardest Fork",
-            "description": "[FEEDS.FEEDBURNER.COM] Mythos is real. I know a big chunk of the industry thinks it's a marketing stunt, and I get why. I get it. But I've seen the findings, and they're bad. These aren't \"whoops, this line right here is...",
-            "url": "https://thehackernews.com/2026/06/the-hardest-fork.html"
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Zack Whittaker",
+            "title": "Hacked, leaked, and held for ransom: the worst breaches of 2026 so far | TechCrunch",
+            "description": "From a massive DOGE data breach and the hacking of critical energy and water systems to the hack of an FBI surveillance system, here are the most damaging security incidents and data breaches of 2026.",
+            "url": "https://techcrunch.com/2026/06/07/the-worst-hacks-and-breaches-of-2026-so-far/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/06/water-dam-spill-2263108794.jpg?resize=1200,801",
+            "publishedAt": "2026-06-07T14:01:51Z",
+            "content": "If anything, 2026 has made clear that cybersecurity is no longer a background concern it\u2019s front and center, woven into almost every major story of the year. Yes, wars are still raging, the climate k\u2026 [+9364 chars]"
         },
         {
-            "title": "VerdantBamboo Deploys BSD Variant of BRICKSTORM on Linux Appliances",
-            "description": "[FEEDS.FEEDBURNER.COM] A China-nexus cyber espionage group has been observed deploying a BSD variant of a known backdoor called BRICKSTORM, as well as two other malware families codenamed PLENET (aka GRIMBOLT) and AGENTPSD...",
-            "url": "https://thehackernews.com/2026/06/verdantbamboo-deploys-bsd-variant-of.html"
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": "Geoff Williams",
+            "title": "The Delivery You Didn't Order: Breaking Down the 'Free Phone' Scam",
+            "description": "If a phone you didn't order arrives on your doorstep, there's a good chance someone's trying to scam you. Here's how to recognize this scam and make sure you don't get tricked.",
+            "url": "https://www.cnet.com/tech/services-and-software/how-to-spot-the-free-phone-identity-theft-scam/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/c82c2334554c066dac1b858fa88d8f2252743699/hub/2026/06/02/21d1c073-840a-4cf1-ba7c-600de5f6cdaa/screenshot-2026-06-02-154810.png?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2026-06-07T14:00:00Z",
+            "content": "You probably already know you need to worry about thieves stealing packages from your porch, but now you also need to be wary of criminals leaving packages there. This is the surprising first step in\u2026 [+11381 chars]"
         },
         {
-            "title": "UNC3753 Used Vishing and Physical Intrusions in U.S. Data Theft Extortion Campaign",
-            "description": "[FEEDS.FEEDBURNER.COM] Cybersecurity researchers have disclosed details of a financially motivated data theft extortion campaign that has targeted dozens of organizations across professional, legal, and financial services...",
-            "url": "https://thehackernews.com/2026/06/unc3753-used-vishing-and-physical.html"
+            "source": {
+                "id": null,
+                "name": "The Daily Caller"
+            },
+            "author": "Francis Kapper",
+            "title": "The Pentagon Gears Up For An Internet-Based War",
+            "description": "The Pentagon is consolidating an entirely new chain of command for this form of warfare.",
+            "url": "https://dailycaller.com/2026/06/07/pentagon-internet-cybersecurity-war-defense/",
+            "urlToImage": "https://images.dailycaller.com/image/width=1280,height=549,fit=cover,format=webp,f=auto/https://cdn01.dailycaller.com/wp-content/uploads/2026/06/GettyImages-2278420358-scaled-e1780606676294.jpg",
+            "publishedAt": "2026-06-07T13:58:47Z",
+            "content": "As the world moves deeper into the digital age, the Pentagon is building a new command structure to handle cybersecurity.\r\nThe Defense Cyber Defense Command (DCDC) is one of the newest agencies in th\u2026 [+5463 chars]"
         },
         {
-            "title": "VS Code Adds 2-Hour Extension Auto-Update Delay to Limit Supply Chain Attacks",
-            "description": "[FEEDS.FEEDBURNER.COM] Microsoft has announced that Visual Studio Code (VS Code) will apply a two-hour delay before extensions for the integrated development environment (IDE) are updated automatically to a newer version...",
-            "url": "https://thehackernews.com/2026/06/vs-code-adds-2-hour-extension-auto.html"
+            "source": {
+                "id": null,
+                "name": "Betalist.com"
+            },
+            "author": "BetaList",
+            "title": "DFW IT Jobs \u2013 The only job board for IT and tech roles in Dallas and Fort Worth",
+            "description": "The only job board for IT and tech roles in Dallas and Fort Worth",
+            "url": "https://betalist.com/startups/dfw-it-jobs",
+            "urlToImage": "https://resize.imagekit.co/5CAsFRSx6nqxzFRWPSJmnQAyrAuvFRNJnnvNDLgZrQs/plain/s3://betalist-production/l8zjy5ab0wh24erzlwtpvpa8s2t2",
+            "publishedAt": "2026-06-07T13:55:00Z",
+            "content": "DFW IT Jobs is a free job board exclusively for technology and IT roles in the Dallas\u2013Fort Worth metro. Employers post directly\u2014software developers, network engineers, cybersecurity analysts, DevOps,\u2026 [+335 chars]"
         },
         {
-            "title": "Check Point links VPN zero-day attacks to Qilin ransomware gang",
-            "description": "[BLEEPINGCOMPUTER.COM] Israeli cybersecurity company Check Point has released security updates to patch a critical flaw affecting Remote Access VPN and Mobile Access deployments, which was exploited in zero-day attacks....",
-            "url": "https://www.bleepingcomputer.com/news/security/check-point-links-vpn-zero-day-attacks-to-qilin-ransomware-gang/"
-        },
-        {
-            "title": "Oxford University discloses data breach after careers platform hack",
-            "description": "[BLEEPINGCOMPUTER.COM] The University of Oxford disclosed a new data breach last week after being informed by its third-party provider, Group GTI, that its CareerConnect career services platform had been compromised. [...]",
-            "url": "https://www.bleepingcomputer.com/news/security/oxford-university-discloses-data-breach-after-careerconnect-platform-hack/"
-        },
-        {
-            "title": "Over 20,000 Instagram accounts stolen in Meta AI support hack",
-            "description": "[BLEEPINGCOMPUTER.COM] Meta has revealed that 20,225 Instagram users had their accounts hijacked in a recent incident where attackers used Meta's AI-powered support system to reset passwords. [...]",
-            "url": "https://www.bleepingcomputer.com/news/security/meta-ai-support-data-breach-affects-20-000-instagram-accounts/"
-        },
-        {
-            "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-            "description": "[CISA.GOV] CISA has added one new vulnerability to its&nbsp;Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2024-21182 Oracle WebLogic Server Unspecified...",
-            "url": "https://www.cisa.gov/news-events/alerts/2026/06/01/cisa-adds-one-known-exploited-vulnerability-catalog"
-        },
-        {
-            "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-            "description": "[CISA.GOV] CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-0257 Palo Alto Networks PAN-OS Authentication Bypass...",
-            "url": "https://www.cisa.gov/news-events/alerts/2026/05/29/cisa-adds-one-known-exploited-vulnerability-catalog"
-        },
-        {
-            "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-            "description": "[CISA.GOV] CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-28318 SolarWinds Serv-U Uncontrolled Resource Consumption...",
-            "url": "https://www.cisa.gov/news-events/alerts/2026/06/05/cisa-adds-one-known-exploited-vulnerability-catalog"
-        },
-        {
-            "title": "Germany\u2019s security tech Giesecke+Devrient bets Rs 1,100cr on India, eyes acquisition",
-            "description": "[TIMES OF INDIA] India Business News: MUMBAI: Giesecke+Devrient (G+D), the German security technology group spanning currency, digital payments and cybersecurity, is stepping up its India .",
-            "url": "https://timesofindia.indiatimes.com/business/india-business/germanys-security-tech-gieseckedevrient-bets-rs-1100cr-on-india-eyes-acquisition/articleshow/131576340.cms"
-        },
-        {
-            "title": "India's cybersecurity talent gap grows as skills prove hard to find",
-            "description": "[THE ECONOMIC TIMES] India faces a critical cybersecurity talent shortage, with nearly 39,000 unfilled positions, especially in emerging fields like IoT and blockchain. High attrition rates and increasing cyberattacks...",
-            "url": "https://economictimes.indiatimes.com/tech/technology/indias-cybersecurity-talent-gap-grows-as-skills-prove-hard-to-find/articleshow/131573297.cms"
-        },
-        {
-            "title": "Shadow AI sparks new cybersecurity race",
-            "description": "[THE FINANCIAL EXPRESS] The rapid, unauthorized workplace adoption of public AI tools like ChatGPT\u2014known as \"Shadow AI\"\u2014is creating a massive cybersecurity blind spot.",
-            "url": "https://www.financialexpress.com/life/technology/shadow-ai-sparks-new-cybersecurity-race/4261574/"
-        },
-        {
-            "title": "Beyond Traditional Engineering: Latest IIT Courses Every Student Should Know About",
-            "description": "[TIMES NOW] \u200bAI, space technology, cybersecurity, digital agriculture, and biomedical engineering are among the newly introduced programmes by IITs across the country. Check the emerging IIT\u2019s that are offering...",
-            "url": "https://www.timesnownews.com/education/beyond-traditional-engineering-latest-iit-courses-every-student-should-know-about-photo-gallery-154496133"
-        },
-        {
-            "title": "No call, no link, no Clue: This Bengaluru youth loses \u20b97.2 lakh in SIM swap fraud",
-            "description": "[BUSINESS TODAY] According to cybersecurity experts, the fraudsters managed to transfer the victim's mobile number to another SIM card without his knowledge.",
-            "url": "https://www.businesstoday.in/latest/trends/story/no-call-no-link-no-clue-this-bengaluru-youth-loses-rs7-2-lakh-in-sim-swap-fraud-535428-2026-06-07"
-        },
-        {
-            "title": "Anthropic\u2019s Project Glasswing: Inside the AI Powered Cybersecurity Initiative Transforming Global Defense",
-            "description": "[NEWSX] Anthropic\u2019s Project Glasswing is a 2026 AI cybersecurity initiative that uses the restricted Claude Mythos model to help trusted organizations detect and fix critical software vulnerabilities before...",
-            "url": "https://www.newsx.com/tech-and-auto/anthropics-project-glasswing-inside-the-ai-powered-cybersecurity-initiative-transforming-global-defense-231369/"
-        },
-        {
-            "title": "CBSE OSM Crisis: The Hidden Risks of Digitising Exam Evaluation",
-            "description": "[THE QUINT] The controversy is an example of the risks that can arise when a large examination system digitises the entire chain of education artefacts without visibly mature frameworks for data privacy,...",
-            "url": "https://www.thequint.com/opinion/cbse-osm-education-controversy-is-a-public-trust-crisis"
-        },
-        {
-            "title": "5 Key Facts About Anthropic's Project Glasswing To Secure 'World's Most Important Software'",
-            "description": "[NEWS18] Anthropic has extended access to its closely guarded cybersecurity initiative called Project Glasswing to more than 15 countries, including India.",
-            "url": "https://www.news18.com/tech/key-facts-about-anthropics-project-glasswing-to-secure-worlds-most-important-software-ws-l-10134744.html"
-        },
-        {
-            "title": "Govt Agencies, Private Companies Among Indian Entities To Gain Access To Anthropic's Mythos",
-            "description": "[NEWS18] Anthropic has granted a few Indian organisations access to its AI-powered cybersecurity programme while warning that future AI systems may begin improving themselves.",
-            "url": "https://www.news18.com/india/anthropic-project-glasswing-india-access-claude-mythos-preview-ai-cybersecurity-model-government-private-organisations-ai-self-improvement-warning-ws-l-10134675.html"
-        },
-        {
-            "title": "AI cyber risks, China concerns dominate US hearing",
-            "description": "[LOKMAT TIMES] AI cyber risks, China concerns dominate US hearing - Washington, June 7 Artificial intelligence is dramatically changing the cybersecurity landscape, creating powerful new tools for defence while ......",
-            "url": "https://www.lokmattimes.com/international/ai-cyber-risks-china-concerns-dominate-us-hearing/"
+            "source": {
+                "id": null,
+                "name": "Crypto Briefing"
+            },
+            "author": "Editorial Team",
+            "title": "Trump directs US national security agencies to engage multiple AI providers",
+            "description": "The directive fosters competition, diversifies AI innovation in national security, and enhances cybersecurity by integrating varied tech solutions.\nThe post Trump directs US national security agencies to engage multiple AI providers appeared first on Crypto B\u2026",
+            "url": "https://cryptobriefing.com/trump-nspm-11-ai-national-security-multi-vendor/",
+            "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/07090744/trump-signs-an-executive-order-to-vet-top-ai-models-for-nati-1-800x420.jpeg",
+            "publishedAt": "2026-06-07T13:07:45Z",
+            "content": "NSPM-11 forces the Pentagon and intelligence community to ditch single-vendor AI contracts, with a 120-day deadline to overhaul procurement. President Trump signed a national security directive on Ju\u2026 [+2245 chars]"
         }
     ]
 }
