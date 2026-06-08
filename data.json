@@ -1,5 +1,5 @@
 {
-    "updated": "2026-06-08 08:45:19 UTC",
+    "updated": "2026-06-08 13:58:48 UTC",
     "news": [
         {
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
@@ -22,29 +22,19 @@
             "url": "https://www.bleepingcomputer.com/news/security/c0xmo-botnet-spreads-via-dd-wrt-router-flaw-kills-rival-malware/"
         },
         {
-            "title": "Silent Ransom Group targets law firms with fake IT support calls",
-            "description": "[BLEEPINGCOMPUTER.COM] The Silent Ransom Group extortion gang is actively targeting U.S. law firms and professional services organizations in social engineering attacks that often lead to data theft within hours of initial...",
-            "url": "https://www.bleepingcomputer.com/news/security/silent-ransom-group-targets-law-firms-with-fake-it-support-calls/"
+            "title": "AI Phishing Is Crushing SOCs with Alert Volume: How to Reduce Tier 1 Overload",
+            "description": "[FEEDS.FEEDBURNER.COM] Phishing has always been a numbers game. AI has turned it into a volume machine. Attackers can now create convincing emails, fake login pages, and tailored lures in minutes. Every polished message...",
+            "url": "https://thehackernews.com/2026/06/ai-phishing-is-crushing-socs-with-alert.html"
         },
         {
-            "title": "New ChatGPT Lockdown Mode Limits Tools That Could Enable Data Exfiltration",
-            "description": "[FEEDS.FEEDBURNER.COM] OpenAI has begun rolling out a new Lockdown Mode to ChatGPT for eligible personal accounts to reduce the risk of data exfiltration arising from prompt injection attacks. The feature is primarily...",
-            "url": "https://thehackernews.com/2026/06/new-chatgpt-lockdown-mode-limits-tools.html"
+            "title": "The Hardest Fork",
+            "description": "[FEEDS.FEEDBURNER.COM] Mythos is real. I know a big chunk of the industry thinks it's a marketing stunt, and I get why. I get it. But I've seen the findings, and they're bad. These aren't \"whoops, this line right here is...",
+            "url": "https://thehackernews.com/2026/06/the-hardest-fork.html"
         },
         {
-            "title": "Free Apps Are Quietly Turning Smart TVs Into Web-Scraping Proxies for AI",
-            "description": "[FEEDS.FEEDBURNER.COM] A researcher has reverse-engineered the iOS SDK that Bright Data embeds in consumer apps and documented how it turns devices, including always-on smart TVs, into exit nodes that relay web-scraping...",
-            "url": "https://thehackernews.com/2026/06/free-apps-are-quietly-turning-smart-tvs.html"
-        },
-        {
-            "title": "CISA Adds Actively Exploited SolarWinds Serv-U DoS Flaw to KEV Catalog",
-            "description": "[FEEDS.FEEDBURNER.COM] The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a high-severity security flaw impacting SolarWinds Serv-U multi-protocol file server software to its Known Exploited...",
-            "url": "https://thehackernews.com/2026/06/cisa-adds-actively-exploited-solarwinds.html"
-        },
-        {
-            "title": "Critical Everest Forms Pro flaw exploited to take over WordPress sites",
-            "description": "[BLEEPINGCOMPUTER.COM] Hackers are actively exploiting a critical vulnerability (CVE-2026-3300) in the Everest Forms Pro plugin, which lets them take complete control of a WordPress website. [...]",
-            "url": "https://www.bleepingcomputer.com/news/security/critical-everest-forms-pro-flaw-exploited-to-take-over-wordpress-sites/"
+            "title": "VerdantBamboo Deploys BSD Variant of BRICKSTORM on Linux Appliances",
+            "description": "[FEEDS.FEEDBURNER.COM] A China-nexus cyber espionage group has been observed deploying a BSD variant of a known backdoor called BRICKSTORM, as well as two other malware families codenamed PLENET (aka GRIMBOLT) and AGENTPSD...",
+            "url": "https://thehackernews.com/2026/06/verdantbamboo-deploys-bsd-variant-of.html"
         },
         {
             "title": "UNC3753 Used Vishing and Physical Intrusions in U.S. Data Theft Extortion Campaign",
@@ -57,8 +47,18 @@
             "url": "https://thehackernews.com/2026/06/vs-code-adds-2-hour-extension-auto.html"
         },
         {
+            "title": "Check Point links VPN zero-day attacks to Qilin ransomware gang",
+            "description": "[BLEEPINGCOMPUTER.COM] Israeli cybersecurity company Check Point has released security updates to patch a critical flaw affecting Remote Access VPN and Mobile Access deployments, which was exploited in zero-day attacks....",
+            "url": "https://www.bleepingcomputer.com/news/security/check-point-links-vpn-zero-day-attacks-to-qilin-ransomware-gang/"
+        },
+        {
+            "title": "Oxford University discloses data breach after careers platform hack",
+            "description": "[BLEEPINGCOMPUTER.COM] The University of Oxford disclosed a new data breach last week after being informed by its third-party provider, Group GTI, that its CareerConnect career services platform had been compromised. [...]",
+            "url": "https://www.bleepingcomputer.com/news/security/oxford-university-discloses-data-breach-after-careerconnect-platform-hack/"
+        },
+        {
             "title": "Over 20,000 Instagram accounts stolen in Meta AI support hack",
-            "description": "[BLEEPINGCOMPUTER.COM] Meta has revealed that over 20,000 Instagram users had their accounts hijacked in a recent incident where attackers used Meta's AI-powered support system to reset passwords. [...]",
+            "description": "[BLEEPINGCOMPUTER.COM] Meta has revealed that 20,225 Instagram users had their accounts hijacked in a recent incident where attackers used Meta's AI-powered support system to reset passwords. [...]",
             "url": "https://www.bleepingcomputer.com/news/security/meta-ai-support-data-breach-affects-20-000-instagram-accounts/"
         },
         {
@@ -75,6 +75,16 @@
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
             "description": "[CISA.GOV] CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-28318 SolarWinds Serv-U Uncontrolled Resource Consumption...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/06/05/cisa-adds-one-known-exploited-vulnerability-catalog"
+        },
+        {
+            "title": "Germany\u2019s security tech Giesecke+Devrient bets Rs 1,100cr on India, eyes acquisition",
+            "description": "[TIMES OF INDIA] India Business News: MUMBAI: Giesecke+Devrient (G+D), the German security technology group spanning currency, digital payments and cybersecurity, is stepping up its India .",
+            "url": "https://timesofindia.indiatimes.com/business/india-business/germanys-security-tech-gieseckedevrient-bets-rs-1100cr-on-india-eyes-acquisition/articleshow/131576340.cms"
+        },
+        {
+            "title": "India's cybersecurity talent gap grows as skills prove hard to find",
+            "description": "[THE ECONOMIC TIMES] India faces a critical cybersecurity talent shortage, with nearly 39,000 unfilled positions, especially in emerging fields like IoT and blockchain. High attrition rates and increasing cyberattacks...",
+            "url": "https://economictimes.indiatimes.com/tech/technology/indias-cybersecurity-talent-gap-grows-as-skills-prove-hard-to-find/articleshow/131573297.cms"
         },
         {
             "title": "Shadow AI sparks new cybersecurity race",
@@ -115,16 +125,6 @@
             "title": "AI cyber risks, China concerns dominate US hearing",
             "description": "[LOKMAT TIMES] AI cyber risks, China concerns dominate US hearing - Washington, June 7 Artificial intelligence is dramatically changing the cybersecurity landscape, creating powerful new tools for defence while ......",
             "url": "https://www.lokmattimes.com/international/ai-cyber-risks-china-concerns-dominate-us-hearing/"
-        },
-        {
-            "title": "Project Glasswing: Key cybersecurity agencies set to get access to Anthropic\u2019s Mythos",
-            "description": "[THE INDIAN EXPRESS] Discussions on to provide AI model to largest IT services companies, too",
-            "url": "https://indianexpress.com/article/business/companies/project-glasswing-key-cybersecurity-agencies-set-to-get-access-to-anthropics-mythos-10727692/"
-        },
-        {
-            "title": "Trump's AI policy adviser Sriram Krishnan to step down",
-            "description": "[INDIA TODAY] Sriram Krishnan said he will leave his White House artificial intelligence policy role at the end of June. His departure comes as Washington pushes a national AI framework and voluntary cybersecurity...",
-            "url": "https://www.indiatoday.in/world/us-news/story/sriram-krishnan-white-house-ai-adviser-leaves-june-us-ai-security-testing-2923049-2026-06-06"
         }
     ]
 }
