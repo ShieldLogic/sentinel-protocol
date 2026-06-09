@@ -1,10 +1,20 @@
 {
-    "updated": "2026-06-09 02:08:08 UTC",
+    "updated": "2026-06-09 07:37:07 UTC",
     "news": [
         {
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
             "description": "[CISA.GOV] CISA has added one new vulnerability to its&nbsp;Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-45247&nbsp;Mirasvit Full Page Cache Warmer...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/06/03/cisa-adds-one-known-exploited-vulnerability-catalog"
+        },
+        {
+            "title": "LiteLLM Flaw CVE-2026-42271 Exploited in the Wild, Chains to Unauthenticated RCE",
+            "description": "[FEEDS.FEEDBURNER.COM] The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a high-severity flaw impacting BerriAI LiteLLM to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence...",
+            "url": "https://thehackernews.com/2026/06/litellm-flaw-cve-2026-42271-exploited.html"
+        },
+        {
+            "title": "Google patches new Chrome zero-day flaw exploited in the wild",
+            "description": "[BLEEPINGCOMPUTER.COM] Google has released emergency updates to patch another Chrome zero-day vulnerability that has been exploited in the wild, the fifth such flaw patched since the start of the year. [...]",
+            "url": "https://www.bleepingcomputer.com/news/security/google-patches-fifth-chrome-zero-day-bug-exploited-in-attacks-this-year/"
         },
         {
             "title": "One-Character Linux Kernel Flaw Enables Local Root Access, Exploits Now Public",
@@ -37,11 +47,6 @@
             "url": "https://thehackernews.com/2026/06/ai-phishing-is-crushing-socs-with-alert.html"
         },
         {
-            "title": "\u26a1 Weekly Recap: Instagram Account Hacks, Android Zero-Day, GitHub Worm and More",
-            "description": "[FEEDS.FEEDBURNER.COM] Monday again. The weekend was meant to be quiet. It wasn't. Last week had poisoned packages, a broken AI helper, and a worm tearing through repos. The ugly part: basic tricks still worked. A chatbot...",
-            "url": "https://thehackernews.com/2026/06/weekly-recap-instagram-account-hacks.html"
-        },
-        {
             "title": "NFCShare Android malware spreads via fake banking app updates on GitHub",
             "description": "[BLEEPINGCOMPUTER.COM] New variants of the NFCShare Android malware are being distributed as fake updates for legitimate banking apps hosted on GitHub. [...]",
             "url": "https://www.bleepingcomputer.com/news/security/nfcshare-android-malware-spreads-via-fake-banking-app-updates-on-github/"
@@ -62,11 +67,6 @@
             "url": "https://www.bleepingcomputer.com/news/security/new-shai-hulud-attack-trojanizes-19-science-focused-pypi-packages/"
         },
         {
-            "title": "WhatsApp says it disrupted new NSO spyware phishing attacks",
-            "description": "[BLEEPINGCOMPUTER.COM] WhatsApp has detected and stopped spear-phishing campaigns allegedly conducted by the NSO Group after investigating user reports of social engineering attacks. [...]",
-            "url": "https://www.bleepingcomputer.com/news/security/whatsapp-says-it-disrupted-new-nso-spyware-phishing-attacks/"
-        },
-        {
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
             "description": "[CISA.GOV] CISA has added one new vulnerability to its&nbsp;Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2024-21182 Oracle WebLogic Server Unspecified...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/06/01/cisa-adds-one-known-exploited-vulnerability-catalog"
@@ -75,6 +75,41 @@
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
             "description": "[CISA.GOV] CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-28318 SolarWinds Serv-U Uncontrolled Resource Consumption...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/06/05/cisa-adds-one-known-exploited-vulnerability-catalog"
+        },
+        {
+            "title": "Even your physical offices aren't safe from hackers \u2014 experts warn of Silent Ransom Group breaking into businesses to launch ransomware and extortion campaign",
+            "description": "[TECHRADAR] Google is warning about hackers walking into offices",
+            "url": "https://www.techradar.com/pro/security/silent-ransom-group-breaks-into-businesses-to-launch-ransomware-and-extortion-campaign"
+        },
+        {
+            "title": "57K cybersecurity pros switch jobs annually amid talent crunch : Report",
+            "description": "[TIMES OF INDIA] India\u2019s cybersecurity talent crunch intensifies as 18.9% switch jobs yearly (~57,000), with CERT-In incidents rising to 1.5M in 2023 and ~3M projected by 2025.",
+            "url": "https://timesofindia.indiatimes.com/city/bengaluru/57k-cybersecurity-pros-switch-jobs-annually-amid-talent-crunch-report/articleshow/131595121.cms"
+        },
+        {
+            "title": "A Qilin ransomware affiliate exploited a Check Point VPN zero-day for a month before a patch existed",
+            "description": "[TNW] Check Point patched CVE-2026-50751, a critical VPN auth bypass exploited since May 7. A Qilin ransomware affiliate used it to hit dozens of organisations.",
+            "url": "https://thenextweb.com/news/check-point-vpn-zero-day-qilin-ransomware-ikev1"
+        },
+        {
+            "title": "Redwood AI (CSE: AIRX) (OTCQB: RDWCF) Emerging as Mission-Critical AI and Cybersecurity Platform Amid Expanding Government, Defense Opportunities",
+            "description": "[MARKETS INSIDER] Austin, Texas, June 8th, 2026, FinanceWireThis article has been disseminated on behalf of Redwood AI Corp. and may ...",
+            "url": "https://markets.businessinsider.com/news/currencies/redwood-ai-cse-airx-otcqb-rdwcf-emerging-as-mission-critical-ai-and-cybersecurity-platform-amid-expanding-government-defense-opportunities-1036232962"
+        },
+        {
+            "title": "States brace for AI-driven cyber attacks",
+            "description": "[ARIZONA CAPITOL TIMES] Rapid advancements in artificial intelligence are pressing state and local governments to shore up their cybersecurity operations to protect against hacks.",
+            "url": "https://azcapitoltimes.com/news/2026/06/08/states-brace-for-ai-driven-cyber-attacks/"
+        },
+        {
+            "title": "Ransomware attack shuts down Evanston Township High School",
+            "description": "[CHICAGO TRIBUNE] A ransomware attack on Evanston Township High School's computer infrastructure has led to the school's temporary closure.",
+            "url": "https://www.chicagotribune.com/2026/06/08/ransomware-evanston-high-school-closed-attack/"
+        },
+        {
+            "title": "Messaging Security Gateway Market to Reach USD 11.52 Billion by 2031, Driven by Rising Cybersecurity Threats and Cloud Adoption | Valuates Reports",
+            "description": "[PR NEWSWIRE UK] /PRNewswire/ -- What is the Market Size of Messaging Security Gateway (MSG)? The global market for Messaging Security Gateway (MSG) was valued at USD 6860...",
+            "url": "https://www.prnewswire.co.uk/news-releases/messaging-security-gateway-market-to-reach-usd-11-52-billion-by-2031--driven-by-rising-cybersecurity-threats-and-cloud-adoption--valuates-reports-302793943.html"
         },
         {
             "title": "Dabur India announces global capability centres for IT, digital marketing",
@@ -90,41 +125,6 @@
             "title": "How Is Fortinet's Stock Performance Compared to Other Cybersecurity Stocks?",
             "description": "[BARCHART] Fortinet has notably outperformed the Cybersecurity industry over the past year, but analysts are cautious about the stock\u2019s prospects.",
             "url": "https://www.barchart.com/story/news/2358035/how-is-fortinet-s-stock-performance-compared-to-other-cybersecurity-stocks"
-        },
-        {
-            "title": "\u26a1 Weekly Recap: Instagram Account Hacks, Android Zero-Day, GitHub Worm and More",
-            "description": "[THE HACKER NEWS] Your weekly cybersecurity recap: a GitHub supply chain worm, an exploited Android flaw, Instagram account takeovers, and a five-month mailbox spy.",
-            "url": "https://thehackernews.com/2026/06/weekly-recap-instagram-account-hacks.html"
-        },
-        {
-            "title": "DC Infotech FY26 net profit rises 46% to \u20b921.21 crore",
-            "description": "[SCANX.TRADE] DC Infotech reported a 46% rise in FY26 net profit to \u20b921.21 crore, with revenue increasing 32% to \u20b973.70 crore. The company is focusing on AI, cybersecurity, and cloud infrastructure, while its UAE...",
-            "url": "https://scanx.trade/stock-market-news/companies/dc-infotech-board-meets-on-may-30-to-consider-q4fy26-results/41268502"
-        },
-        {
-            "title": "Top 15 Cybersecurity PR & AI SEO Agencies in 2026",
-            "description": "[TECHBULLION] The Cybersecurity PR firms here stand out for different reasons; category nativeness, sector heritage, regulated-market credibility, modern discoverability, policy and public-affairs reach, global...",
-            "url": "https://techbullion.com/top-15-cybersecurity-pr-ai-seo-agencies-in-2026/"
-        },
-        {
-            "title": "India, Fiji discuss strengthening cooperation in digital resilience, cybersecurity",
-            "description": "[LOKMAT TIMES] India, Fiji discuss strengthening cooperation in digital resilience, cybersecurity - Suva, June 8 India's High Commissioner to Fiji Suneet Mehta held a meeting with the Pacific island nation's ......",
-            "url": "https://www.lokmattimes.com/technology/india-fiji-discuss-strengthening-cooperation-in-digital-resilience-cybersecurity/"
-        },
-        {
-            "title": "India, Fiji discuss strengthening cooperation in digital resilience, cybersecurity",
-            "description": "[LOKMAT TIMES] India, Fiji discuss strengthening cooperation in digital resilience, cybersecurity - Suva, June 8 India's High Commissioner to Fiji Suneet Mehta held a meeting with the Pacific island nation's ......",
-            "url": "https://www.lokmattimes.com/international/india-fiji-discuss-strengthening-cooperation-in-digital-resilience-cybersecurity-1/"
-        },
-        {
-            "title": "AI-powered worm raises global cybersecurity alarm as university of Toronto study reveals self-spreading threat",
-            "description": "[MONEYCONTROL] Researchers demonstrate malware that adapts to targets, spreads autonomously and operates at near-zero cost to attackers.",
-            "url": "https://www.moneycontrol.com/news/trends/ai-powered-worm-raises-global-cybersecurity-alarm-as-university-of-toronto-study-reveals-self-spreading-threat-13943774.html"
-        },
-        {
-            "title": "Over 1.6 lakh candidates applied for post-result services: CBSE",
-            "description": "[THE ECONOMIC TIMES] The Central Board of Secondary Education has confirmed its post-result services portal operated smoothly. Over 1.6 lakh students submitted requests for more than 3.8 lakh answer books. The board...",
-            "url": "https://economictimes.indiatimes.com/jobs/exams-results/over-1-6-lakh-candidates-applied-for-post-result-services-cbse/articleshow/131582990.cms"
         }
     ]
 }
