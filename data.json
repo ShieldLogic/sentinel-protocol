@@ -1,10 +1,15 @@
 {
-    "updated": "2026-06-09 14:26:38 UTC",
+    "updated": "2026-06-09 17:52:33 UTC",
     "news": [
         {
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
             "description": "[CISA.GOV] CISA has added one new vulnerability to its&nbsp;Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-45247&nbsp;Mirasvit Full Page Cache Warmer...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/06/03/cisa-adds-one-known-exploited-vulnerability-catalog"
+        },
+        {
+            "title": "Microsoft Restores Some GitHub Repos, Keeps Others Offline as Miasma Probe Continues",
+            "description": "[FEEDS.FEEDBURNER.COM] Microsoft on Monday confirmed that it temporarily removed some GitHub repositories in response to a recent security incident that led to 73 of its open-source projects being compromised to inject an...",
+            "url": "https://thehackernews.com/2026/06/microsoft-restores-some-github-repos.html"
         },
         {
             "title": "WinRAR Flaw Exploited by Russia-Aligned Groups to Deploy Stealers in Ukraine",
@@ -27,24 +32,29 @@
             "url": "https://thehackernews.com/2026/06/the-hidden-security-risk-in-modern.html"
         },
         {
-            "title": "New FROST Attack Lets Websites Track What Sites and Apps You Open via SSD Timing",
-            "description": "[FEEDS.FEEDBURNER.COM] A malicious website can work out which sites you visit and which apps you open, using nothing but JavaScript and the timing of your SSD. The attack, called FROST, needs no native code, no extension,...",
-            "url": "https://thehackernews.com/2026/06/new-frost-attack-lets-websites-track.html"
+            "title": "Windows 11 KB5094126 & KB5093998 cumulative updates released",
+            "description": "[BLEEPINGCOMPUTER.COM] Microsoft has released Windows 11 KB5094126 and KB5093998 cumulative updates for versions 25H2/24H2 and 23H2 to fix security vulnerabilities, bugs, and add new features. [...]",
+            "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5094126-and-kb5093998-cumulative-updates-released/"
+        },
+        {
+            "title": "XBOW tests Anthropic's Mythos Preview for offensive security",
+            "description": "[BLEEPINGCOMPUTER.COM] Anthropic's Mythos Preview was highly effective at finding vulnerability candidates, especially when analyzing source code. XBOW explores how the model performed across exploit discovery, reverse...",
+            "url": "https://www.bleepingcomputer.com/news/security/xbow-tests-anthropics-mythos-preview-for-offensive-security/"
+        },
+        {
+            "title": "GitHub disables Microsoft repos pushing password-stealing malware",
+            "description": "[BLEEPINGCOMPUTER.COM] Microsoft removed 73 repositories across its Azure, microsoft, Azure-Samples, and MicrosoftDocs organizations on GitHub, disrupting continuous integration pipelines. [...]",
+            "url": "https://www.bleepingcomputer.com/news/security/github-disables-microsoft-repos-pushing-password-stealing-malware/"
+        },
+        {
+            "title": "New Veeam vulnerability exposes backup servers to RCE attacks",
+            "description": "[BLEEPINGCOMPUTER.COM] Veeam has released security updates to patch a critical Backup & Replication security flaw that can be exploited to gain remote code execution (RCE) on domain-joined backup servers. [...]",
+            "url": "https://www.bleepingcomputer.com/news/security/new-veeam-vulnerability-exposes-backup-servers-to-rce-attacks/"
         },
         {
             "title": "French govt messaging service breached in account hijacking attack",
             "description": "[BLEEPINGCOMPUTER.COM] DINUM, the digital affairs directorate of the French government, warned that hackers used a hijacked user account to breach Tchap, the French government's encrypted messaging platform. [...]",
             "url": "https://www.bleepingcomputer.com/news/security/french-govt-messaging-service-breached-in-account-hijacking-attack/"
-        },
-        {
-            "title": "CISA gives feds 3 days to patch Check Point VPN bug exploited as zero-day",
-            "description": "[BLEEPINGCOMPUTER.COM] CISA has ordered U.S. government agencies to secure their Check Point Remote Access VPN and Mobile Access deployments against a critical vulnerability exploited in zero-day attacks by Qilin...",
-            "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-check-point-flaw-exploited-by-ransomware-gangs/"
-        },
-        {
-            "title": "Google patches new Chrome zero-day flaw exploited in the wild",
-            "description": "[BLEEPINGCOMPUTER.COM] Google has released emergency updates to patch another Chrome zero-day vulnerability that has been exploited in the wild, the fifth such flaw patched since the start of the year. [...]",
-            "url": "https://www.bleepingcomputer.com/news/security/google-patches-fifth-chrome-zero-day-bug-exploited-in-attacks-this-year/"
         },
         {
             "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
@@ -57,16 +67,6 @@
             "url": "https://www.cisa.gov/news-events/alerts/2026/06/08/cisa-adds-two-known-exploited-vulnerabilities-catalog"
         },
         {
-            "title": "NFCShare Android malware spreads via fake banking app updates on GitHub",
-            "description": "[BLEEPINGCOMPUTER.COM] New variants of the NFCShare Android malware are being distributed as fake updates for legitimate banking apps hosted on GitHub. [...]",
-            "url": "https://www.bleepingcomputer.com/news/security/nfcshare-android-malware-spreads-via-fake-banking-app-updates-on-github/"
-        },
-        {
-            "title": "SoFi confirms third-party data breach at Hong Kong subsidiary",
-            "description": "[BLEEPINGCOMPUTER.COM] SoFi Hong Kong is warning that it suffered a data breach after hackers gained access to a database at a third-party vendor containing customer information. [...]",
-            "url": "https://www.bleepingcomputer.com/news/security/sofi-confirms-third-party-data-breach-at-hong-kong-subsidiary/"
-        },
-        {
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
             "description": "[CISA.GOV] CISA has added one new vulnerability to its&nbsp;Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2024-21182 Oracle WebLogic Server Unspecified...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/06/01/cisa-adds-one-known-exploited-vulnerability-catalog"
@@ -75,6 +75,16 @@
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
             "description": "[CISA.GOV] CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-28318 SolarWinds Serv-U Uncontrolled Resource Consumption...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/06/05/cisa-adds-one-known-exploited-vulnerability-catalog"
+        },
+        {
+            "title": "Healthcare data has become one of cybercrime\u2019s most valuable commodities",
+            "description": "[ITWIRE] New TrendAI\u2122 research uncovers a global underground economy built around stolen patient data, ransomware extortion and healthcare access trading",
+            "url": "https://itwire.com/guest-articles/guest-research/healthcare-data-has-become-one-of-cybercrime-s-most-valuable-commodities"
+        },
+        {
+            "title": "WatchGuard Named a Champion in the Omdia Global Cybersecurity MSP Ecosystems Leadership Matrix for Fourth Consecutive Year",
+            "description": "[ITWIRE] Recognition highlights WatchGuard\u2019s continued innovation in helping MSPs scale through its Unified Security Platform\u00ae, agentic AI, and expanded cloud security capabilities",
+            "url": "https://itwire.com/guest-articles/company-news/watchguard-named-a-champion-in-the-omdia-global-cybersecurity-msp-ecosystems-leadership-matrix-for-fourth-consecutive-year"
         },
         {
             "title": "Hitachi Expands Google Cloud Alliance to Advance Physical AI and Cybersecurity",
@@ -115,16 +125,6 @@
             "title": "States brace for AI-driven cyber attacks",
             "description": "[ARIZONA CAPITOL TIMES] Rapid advancements in artificial intelligence are pressing state and local governments to shore up their cybersecurity operations to protect against hacks.",
             "url": "https://azcapitoltimes.com/news/2026/06/08/states-brace-for-ai-driven-cyber-attacks/"
-        },
-        {
-            "title": "Ransomware attack shuts down Evanston Township High School",
-            "description": "[CHICAGO TRIBUNE] A ransomware attack on Evanston Township High School's computer infrastructure has led to the school's temporary closure.",
-            "url": "https://www.chicagotribune.com/2026/06/08/ransomware-evanston-high-school-closed-attack/"
-        },
-        {
-            "title": "Messaging Security Gateway Market to Reach USD 11.52 Billion by 2031, Driven by Rising Cybersecurity Threats and Cloud Adoption | Valuates Reports",
-            "description": "[PR NEWSWIRE UK] /PRNewswire/ -- What is the Market Size of Messaging Security Gateway (MSG)? The global market for Messaging Security Gateway (MSG) was valued at USD 6860...",
-            "url": "https://www.prnewswire.co.uk/news-releases/messaging-security-gateway-market-to-reach-usd-11-52-billion-by-2031--driven-by-rising-cybersecurity-threats-and-cloud-adoption--valuates-reports-302793943.html"
         }
     ]
 }
