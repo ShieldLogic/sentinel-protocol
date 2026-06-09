@@ -1,5 +1,5 @@
 {
-    "updated": "2026-06-09 07:37:07 UTC",
+    "updated": "2026-06-09 10:51:49 UTC",
     "news": [
         {
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
@@ -7,9 +7,24 @@
             "url": "https://www.cisa.gov/news-events/alerts/2026/06/03/cisa-adds-one-known-exploited-vulnerability-catalog"
         },
         {
+            "title": "New FROST Attack Lets Websites Track What Sites and Apps You Open via SSD Timing",
+            "description": "[FEEDS.FEEDBURNER.COM] A malicious website can work out which sites you visit and which apps you open, using nothing but JavaScript and the timing of your SSD. The attack, called FROST, needs no native code, no extension,...",
+            "url": "https://thehackernews.com/2026/06/new-frost-attack-lets-websites-track.html"
+        },
+        {
+            "title": "Hades PyPI Attack: 19 Packages Poisoned to Auto-Run Bun Credential Stealer",
+            "description": "[FEEDS.FEEDBURNER.COM] The Miasma supply chain campaign has sparked a fresh attack wave called Hades, this time involving 37 malicious wheel artifacts across 19 packages in the Python Package Index (PyPI) registry, as the...",
+            "url": "https://thehackernews.com/2026/06/hades-pypi-attack-19-packages-poisoned.html"
+        },
+        {
             "title": "LiteLLM Flaw CVE-2026-42271 Exploited in the Wild, Chains to Unauthenticated RCE",
             "description": "[FEEDS.FEEDBURNER.COM] The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a high-severity flaw impacting BerriAI LiteLLM to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence...",
             "url": "https://thehackernews.com/2026/06/litellm-flaw-cve-2026-42271-exploited.html"
+        },
+        {
+            "title": "CISA gives feds 3 days to patch Check Point VPN bug exploited as zero-day",
+            "description": "[BLEEPINGCOMPUTER.COM] CISA has ordered U.S. government agencies to secure their Check Point Remote Access VPN and Mobile Access deployments against a critical vulnerability exploited in zero-day attacks by Qilin...",
+            "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-check-point-flaw-exploited-by-ransomware-gangs/"
         },
         {
             "title": "Google patches new Chrome zero-day flaw exploited in the wild",
@@ -37,16 +52,6 @@
             "url": "https://thehackernews.com/2026/06/meta-blocks-nso-groups-new-whatsapp.html"
         },
         {
-            "title": "Critical Check Point VPN Flaw Exploited to Bypass Passwords in IKEv1 Setups",
-            "description": "[FEEDS.FEEDBURNER.COM] Check Point has warned of active exploitation of a critical vulnerability impacting Remote Access VPN and Mobile Access deployments that are configured to use the deprecated IKEv1 key exchange...",
-            "url": "https://thehackernews.com/2026/06/critical-check-point-vpn-flaw-exploited.html"
-        },
-        {
-            "title": "AI Phishing Is Crushing SOCs with Alert Volume: How to Reduce Tier 1 Overload",
-            "description": "[FEEDS.FEEDBURNER.COM] Phishing has always been a numbers game. AI has turned it into a volume machine. Attackers can now create convincing emails, fake login pages, and tailored lures in minutes. Every polished message...",
-            "url": "https://thehackernews.com/2026/06/ai-phishing-is-crushing-socs-with-alert.html"
-        },
-        {
             "title": "NFCShare Android malware spreads via fake banking app updates on GitHub",
             "description": "[BLEEPINGCOMPUTER.COM] New variants of the NFCShare Android malware are being distributed as fake updates for legitimate banking apps hosted on GitHub. [...]",
             "url": "https://www.bleepingcomputer.com/news/security/nfcshare-android-malware-spreads-via-fake-banking-app-updates-on-github/"
@@ -62,11 +67,6 @@
             "url": "https://www.bleepingcomputer.com/news/apple/new-apple-feature-automatically-changes-your-compromised-passwords/"
         },
         {
-            "title": "New Shai-Hulud attack trojanizes 19 science-focused PyPI packages",
-            "description": "[BLEEPINGCOMPUTER.COM] Hackers compromised 19 packages on the PyPI, collectively downloaded hundreds of thousands of times, in a new Shai-Hulud supply-chain attack that delivered malware designed to steal developer...",
-            "url": "https://www.bleepingcomputer.com/news/security/new-shai-hulud-attack-trojanizes-19-science-focused-pypi-packages/"
-        },
-        {
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
             "description": "[CISA.GOV] CISA has added one new vulnerability to its&nbsp;Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2024-21182 Oracle WebLogic Server Unspecified...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/06/01/cisa-adds-one-known-exploited-vulnerability-catalog"
@@ -75,6 +75,11 @@
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
             "description": "[CISA.GOV] CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-28318 SolarWinds Serv-U Uncontrolled Resource Consumption...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/06/05/cisa-adds-one-known-exploited-vulnerability-catalog"
+        },
+        {
+            "title": "Former Queensland ALP government awarded $15m contract to politically connected company despite 'red flags'",
+            "description": "[ABC (AUSTRALIAN BROADCASTING CORPORATION)] A cybersecurity company with financial red flags received a $15m state contract in the dying days of the Miles government.",
+            "url": "https://www.abc.net.au/news/2026-06-09/cryptoloc-contract-financial-red-flags/106761304"
         },
         {
             "title": "Even your physical offices aren't safe from hackers \u2014 experts warn of Silent Ransom Group breaking into businesses to launch ransomware and extortion campaign",
@@ -120,11 +125,6 @@
             "title": "Dabur India announces global capability centres for IT, digital marketing",
             "description": "[THE HINDU BUSINESS LINE] Dabur India announces global capability centres to enhance IT, cybersecurity, and digital marketing, driving innovation and consumer engagement.",
             "url": "https://www.thehindubusinessline.com/companies/dabur-india-announces-global-capability-centres-for-it-digital-marketing/article71077077.ece"
-        },
-        {
-            "title": "How Is Fortinet's Stock Performance Compared to Other Cybersecurity Stocks?",
-            "description": "[BARCHART] Fortinet has notably outperformed the Cybersecurity industry over the past year, but analysts are cautious about the stock\u2019s prospects.",
-            "url": "https://www.barchart.com/story/news/2358035/how-is-fortinet-s-stock-performance-compared-to-other-cybersecurity-stocks"
         }
     ]
 }
