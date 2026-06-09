@@ -1,5 +1,5 @@
 {
-    "updated": "2026-06-09 19:55:58 UTC",
+    "updated": "2026-06-09 21:46:04 UTC",
     "news": [
         {
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
@@ -32,9 +32,19 @@
             "url": "https://thehackernews.com/2026/06/winrar-flaw-exploited-by-russia-aligned.html"
         },
         {
+            "title": "ServiceNow discloses security incident exposing customer data",
+            "description": "[BLEEPINGCOMPUTER.COM] ServiceNow is warning about a security incident after attackers exploited an unauthenticated access flaw through a vulnerable API endpoint, allowing them to query data from customer instances. [...]",
+            "url": "https://www.bleepingcomputer.com/news/security/servicenow-discloses-security-incident-exposing-customer-data/"
+        },
+        {
             "title": "Researchers Build Self-Replicating AI Worm That Operates Entirely on Local, Open-Weight Models",
             "description": "[FEEDS.FEEDBURNER.COM] University of Toronto researchers have built and tested a proof-of-concept AI-driven computer worm that uses a locally hosted open-weight large language model to reason its way through a network,...",
             "url": "https://thehackernews.com/2026/06/researchers-build-self-replicating-ai.html"
+        },
+        {
+            "title": "OpenClaw AI agent found falling for phishing attacks, spills user data",
+            "description": "[BLEEPINGCOMPUTER.COM] Phishing simulation on an OpenClaw email agent with various configuration profiles showed that it was susceptible to tactics commonly used to compromise human users. [...]",
+            "url": "https://www.bleepingcomputer.com/news/security/openclaw-ai-agent-found-falling-for-phishing-attacks-spills-user-data/"
         },
         {
             "title": "SAP fixes critical flaws in NetWeaver and Commerce Cloud",
@@ -52,16 +62,6 @@
             "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-june-2026-patch-tuesday-fixes-3-zero-day-200-flaws/"
         },
         {
-            "title": "Windows 11 KB5094126 & KB5093998 cumulative updates released",
-            "description": "[BLEEPINGCOMPUTER.COM] Microsoft has released Windows 11 KB5094126 and KB5093998 cumulative updates for versions 25H2/24H2 and 23H2 to fix security vulnerabilities, bugs, and add new features. [...]",
-            "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5094126-and-kb5093998-cumulative-updates-released/"
-        },
-        {
-            "title": "XBOW tests Anthropic's Mythos Preview for offensive security",
-            "description": "[BLEEPINGCOMPUTER.COM] Anthropic's Mythos Preview was highly effective at finding vulnerability candidates, especially when analyzing source code. XBOW explores how the model performed across exploit discovery, reverse...",
-            "url": "https://www.bleepingcomputer.com/news/security/xbow-tests-anthropics-mythos-preview-for-offensive-security/"
-        },
-        {
             "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
             "description": "[CISA.GOV] CISA has added two new vulnerabilities to its&nbsp;Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2022-0492 Linux Kernel Improper Authentication...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/06/02/cisa-adds-two-known-exploited-vulnerabilities-catalog"
@@ -75,6 +75,11 @@
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
             "description": "[CISA.GOV] CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-28318 SolarWinds Serv-U Uncontrolled Resource Consumption...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/06/05/cisa-adds-one-known-exploited-vulnerability-catalog"
+        },
+        {
+            "title": "JEE Counselling 2026: Which Engineering Branch Could Earn You The Highest Package?",
+            "description": "[NDTV.COM] Computer Science Engineering remains the most popular branch due to strong placements and high demand in AI, cloud computing, and cybersecurity.",
+            "url": "https://www.ndtv.com/education/jee-counselling-2026-which-engineering-branch-could-earn-you-the-highest-package-11611569"
         },
         {
             "title": "Four leading Canadian healthcare providers unite on Sectra's cloud solution to enhance city-wide radiology collaboration and patient care",
@@ -120,11 +125,6 @@
             "title": "57K cybersecurity pros switch jobs annually amid talent crunch : Report",
             "description": "[TIMES OF INDIA] India\u2019s cybersecurity talent crunch intensifies as 18.9% switch jobs yearly (~57,000), with CERT-In incidents rising to 1.5M in 2023 and ~3M projected by 2025.",
             "url": "https://timesofindia.indiatimes.com/city/bengaluru/57k-cybersecurity-pros-switch-jobs-annually-amid-talent-crunch-report/articleshow/131595121.cms"
-        },
-        {
-            "title": "A Qilin ransomware affiliate exploited a Check Point VPN zero-day for a month before a patch existed",
-            "description": "[TNW] Check Point patched CVE-2026-50751, a critical VPN auth bypass exploited since May 7. A Qilin ransomware affiliate used it to hit dozens of organisations.",
-            "url": "https://thenextweb.com/news/check-point-vpn-zero-day-qilin-ransomware-ikev1"
         }
     ]
 }
