@@ -1,30 +1,35 @@
 {
-    "updated": "2026-06-10 14:53:41 UTC",
+    "updated": "2026-06-10 18:24:05 UTC",
     "news": [
+        {
+            "title": "China-Linked JDY Botnet Expands to 1,500+ Devices for Cyber Reconnaissance",
+            "description": "[FEEDS.FEEDBURNER.COM] Cybersecurity researchers have warned of a \"resurgence and expansion\" of JDY, a covert network associated with China-nexus state-sponsored threat actors. \"The JDY botnet comprises over 1,500 SOHO...",
+            "url": "https://thehackernews.com/2026/06/china-linked-jdy-botnet-expands-to-1500.html"
+        },
+        {
+            "title": "Ivanti, Fortinet, and SAP Release Patches for Multiple Critical Vulnerabilities",
+            "description": "[FEEDS.FEEDBURNER.COM] Fortinet, Ivanti, and SAP have released security updates to address multiple critical security vulnerabilities that could result in arbitrary code execution and information disclosure. The security...",
+            "url": "https://thehackernews.com/2026/06/ivanti-fortinet-and-sap-release-patches.html"
+        },
+        {
+            "title": "Unpatched Langflow Flaw CVE-2026-5027 Exploited for Unauthenticated RCE",
+            "description": "[FEEDS.FEEDBURNER.COM] A high-severity unpatched security flaw in Langflow, an open-source low-code platform to build artificial intelligence (AI) applications, has come under active exploitation in the wild, according to...",
+            "url": "https://thehackernews.com/2026/06/unpatched-langflow-flaw-cve-2026-5027.html"
+        },
+        {
+            "title": "CISA Adds Cisco, Chrome, and Arista Flaws to KEV Catalog Amid Active Exploitation",
+            "description": "[FEEDS.FEEDBURNER.COM] The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added three new vulnerabilities to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active...",
+            "url": "https://thehackernews.com/2026/06/cisa-adds-cisco-chrome-and-arista-flaws.html"
+        },
         {
             "title": "Your Automated Pentest Looks Clean. See What It Missed in This Expert Webinar",
             "description": "[FEEDS.FEEDBURNER.COM] Your pentest report looks clean. That might be the problem. Run automated pentesting long enough, and the new findings start to dry up. By the third or fourth run, fewer issues appear. The report...",
             "url": "https://thehackernews.com/2026/06/your-automated-pentest-looks-clean-see.html"
         },
         {
-            "title": "Microsoft Patches Record 206 Flaws, Including Three Zero-Days and Critical RCE Bugs",
-            "description": "[FEEDS.FEEDBURNER.COM] Microsoft on Tuesday released fixes for a record 206 security vulnerabilities impacting its software portfolio, including three flaws that have been publicly disclosed at the time of release. Of the...",
-            "url": "https://thehackernews.com/2026/06/microsoft-patches-record-206-flaws.html"
-        },
-        {
-            "title": "Anthropic Releases Claude Fable 5, Its Most Powerful AI Yet, With Cyber Safeguards",
-            "description": "[FEEDS.FEEDBURNER.COM] On June 9, Anthropic released Claude Fable 5, the most capable model it has ever made, generally available. It also did something unusual: it shipped one model as two products, split not by...",
-            "url": "https://thehackernews.com/2026/06/anthropic-releases-claude-fable-5-its.html"
-        },
-        {
-            "title": "ServiceNow Flaw Exploited to Gain Unauthorized Access to Customer Instances",
-            "description": "[FEEDS.FEEDBURNER.COM] ServiceNow has warned about a security incident in which unknown threat actors exploited a flaw to obtain deeper unauthorized access to susceptible instances. \"On June 5, 2026, ServiceNow applied a...",
-            "url": "https://thehackernews.com/2026/06/servicenow-flaw-exploited-to-gain.html"
-        },
-        {
-            "title": "Microsoft Defender RoguePlanet Zero-Day Grants SYSTEM Access on Updated Windows",
-            "description": "[FEEDS.FEEDBURNER.COM] The anonymous security researcher going by the name Chaotic Eclipse (aka Nightmare-Eclipse) has released a proof-of-concept (PoC) exploit for yet another Microsoft Defender zero-day named...",
-            "url": "https://thehackernews.com/2026/06/microsoft-defender-rogueplanet-zero-day.html"
+            "title": "China-linked JDY botnet expands targeting of U.S. military networks",
+            "description": "[BLEEPINGCOMPUTER.COM] The JDY botnet, a malware network previously associated with Chinese threat actors like Volt Typhoon, has significantly expanded its targeting scope and reconnaissance efforts. [...]",
+            "url": "https://www.bleepingcomputer.com/news/security/china-linked-jdy-botnet-expands-targeting-of-us-military-networks/"
         },
         {
             "title": "The 5 Best Practices for Secure Identity Verification",
@@ -45,11 +50,6 @@
             "title": "Microsoft patches YellowKey, GreenPlasma, MiniPlasma zero-days",
             "description": "[BLEEPINGCOMPUTER.COM] On Tuesday, Microsoft patched two zero-day vulnerabilities that let attackers gain SYSTEM privileges on fully patched Windows systems, and a third one that grants access to BitLocker-protected...",
             "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-yellowkey-greenplasma-miniplasma-zero-days/"
-        },
-        {
-            "title": "Ivanti: Max severity Sentry flaw allows code execution as root",
-            "description": "[BLEEPINGCOMPUTER.COM] Ivanti has patched two critical vulnerabilities in its Sentry secure mobile gateway solution, including a maximum-severity flaw that enables remote attackers to execute code with root privileges....",
-            "url": "https://www.bleepingcomputer.com/news/security/new-max-severity-ivanti-sentry-flaw-allows-code-execution-as-root/"
         },
         {
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
@@ -77,6 +77,46 @@
             "url": "https://www.cisa.gov/news-events/alerts/2026/06/05/cisa-adds-one-known-exploited-vulnerability-catalog"
         },
         {
+            "title": "Anthropic releases \u2018safe\u2019 version of its Mythos AI technology",
+            "description": "[THE STRAITS TIMES] The safer version is designed to block responses related to areas such as cybersecurity and biology. Read more at straitstimes.com.",
+            "url": "https://www.straitstimes.com/world/anthropic-releases-safe-version-of-its-mythos-ai-technology"
+        },
+        {
+            "title": "ManageEngine Strengthens OpManager Nexus and Log360 Platforms With Real-Time Network Observability and Native SOAR Capabilities",
+            "description": "[ITWIRE] ManageEngine, a division of Zoho Corporation and a leading provider of enterprise IT management solutions, today announced major updates to its IT operations and cybersecurity...",
+            "url": "https://itwire.com/business-it-news/security/manageengine-strengthens-opmanager-nexus-and-log360-platforms-with-real-time-network-observability-and-native-soar-capabilities"
+        },
+        {
+            "title": "Anthropic expands AI cybersecurity models with Claude Fable 5 and Mythos 5",
+            "description": "[BUSINESS TODAY] Anthropic claims that Claude Fable 5 is \u201cMythos-level model built for your most ambitious, long-running projects.\u201d",
+            "url": "https://www.businesstoday.in/technology/artificial-intelligence/story/anthropic-expands-ai-cybersecurity-models-with-claude-fable-5-and-mythos-5-535971-2026-06-10"
+        },
+        {
+            "title": "\u2018AI is changing cyber security fast': BT becomes first UK firm to join Anthropic Project Glasswing",
+            "description": "[TECHRADAR] BT becomes the first UK firm to publicly join Anthropic\u2019s major cybersecurity project",
+            "url": "https://www.techradar.com/pro/ai-is-changing-cyber-security-fast-bt-becomes-first-uk-firm-to-join-anthropic-project-glasswing"
+        },
+        {
+            "title": "CrowdStrike warns of increasing Chinese AI cyberattacks on U.S. tech",
+            "description": "[CNBC] U.S. cybersecurity giant CrowdStrike said China-based entities made over half of state-sponsored cyberattacks on tech firms for artificial intelligence assets.",
+            "url": "https://www.cnbc.com/2026/06/10/crowdstrike-warns-of-increasing-chinese-ai-cyberattacks-on-us-tech.html"
+        },
+        {
+            "title": "Anthropic releases Mythos-like model without cyber capabilities",
+            "description": "[THE HINDU BUSINESS LINE] The new model, called Fable 5, is set to be rolled out on Tuesday with guardrails that prevent it from responding to certain types of queries, including those related to cybersecurity and biology",
+            "url": "https://www.thehindubusinessline.com/info-tech/anthropic-releases-mythos-like-model-without-cyber-capabilities/article71083431.ece"
+        },
+        {
+            "title": "Anthropic releases Mythos-like model without cyber capabilities",
+            "description": "[THE STAR] Anthropic PBC is widely releasing a version of Mythos that will be blocked from carrying out cybersecurity tasks, months after warning that the powerful artificial intelligence model could spot and...",
+            "url": "https://www.thestar.com.my/tech/tech-news/2026/06/10/anthropic-releases-mythos-like-model-without-cyber-capabilities"
+        },
+        {
+            "title": "Anthropic Claude Fable 5 Safeguards Block Requests on Cybersecurity",
+            "description": "[BUSINESS INSIDER] The broad safeguards built into Anthropic's Claude Fable 5, a Mythos-class AI model, blocks some mundane requests on cybersecurity and biology.",
+            "url": "https://www.businessinsider.com/anthropic-claude-fable-5-safeguards-block-requests-cybersecurity-biology-2026-6"
+        },
+        {
             "title": "Anthropic Brings Claude Fable 5, A Public Version Of Its Once-Restricted Mythos AI",
             "description": "[TIMES NOW] Anthropic launches Claude Fable 5, a public version of its powerful Mythos AI, claiming that it comes with safety guardrails for cybersecurity, biology and other sensitive areas., Technology &...",
             "url": "https://www.timesnownews.com/technology-science/anthropic-brings-claude-fable-5-a-public-version-of-its-once-restricted-mythos-ai-article-154544991"
@@ -85,46 +125,6 @@
             "title": "What is Claude Fable 5",
             "description": "[THE FINANCIAL EXPRESS] Anthropic releases Claude Fable 5, a safer AI model with strict safeguards against misuse in cybersecurity and other sensitive fields. It offers improved performance and controlled access compared to...",
             "url": "https://www.financialexpress.com/business/news/what-is-claude-fable-5-anthropic-releases-safe-version-of-mythos-ai-with-heavy-guardrails/4263477/"
-        },
-        {
-            "title": "CyberScope partners with VC.FUN to secure Web3 launches",
-            "description": "[SCANX.TRADE] CyberScope, a subsidiary of TAC InfoSec, has partnered with VC.FUN to provide smart contract auditing and security solutions for blockchain projects. The collaboration aims to strengthen trust and...",
-            "url": "https://scanx.trade/stock-market-news/companies/cyberscope-partners-with-vc-fun-to-secure-web3-launches/42598869"
-        },
-        {
-            "title": "Anthropic launches Claude Fable 5, first Mythos class model that you can use",
-            "description": "[INDIA TODAY] Anthropic has announced the launch of Claude Fable 5, the first Mythos-class AI model that can be used by the general public. The company says that Fable 5 can do exceptionally well in tasks like in...",
-            "url": "https://www.indiatoday.in/technology/news/story/anthropic-launches-claude-fable-5-first-mythos-class-model-that-you-can-use-2924357-2026-06-10"
-        },
-        {
-            "title": "Anthropic rolls out public version of Mythos without cybersecurity capability",
-            "description": "[THE STAR] June 9 (Reuters) - Anthropic is rolling out a public version of its Mythos \u2060AI model, but with guardrails barring its use in risky areas such \u200cas cybersecurity, after a preview earlier this year sent...",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/06/10/anthropic-rolls-out-public-version-of-mythos-without-cybersecurity-capability"
-        },
-        {
-            "title": "Conan O'Brien Is Hosting Educational Videos For An AI Cybersecurity Company",
-            "description": "[ENGADGET] At long last, a corporate training you might actually enjoy.",
-            "url": "https://www.engadget.com/2191051/conan-o-brien-is-hosting-educational-videos-for-an-ai-cybersecurity-company/"
-        },
-        {
-            "title": "Anthropic releases \u2018safe\u2019 version of Claude Mythos AI model to public",
-            "description": "[THE GUARDIAN] AI company restricted access to Fable 5, its most powerful Mythos model, for months over cybersecurity concerns",
-            "url": "https://www.theguardian.com/technology/2026/jun/09/anthropic-claude-mythos-ai-model"
-        },
-        {
-            "title": "Anthropic opens powerful Mythos AI model to public - with some safeguards",
-            "description": "[SOUTH CHINA MORNING POST] Access was previously limited to organisations like the US government due to the model\u2019s ability to unearth cybersecurity vulnerabilities.",
-            "url": "https://www.scmp.com/news/world/united-states-canada/article/3356555/anthropic-opens-powerful-mythos-ai-model-public-some-safeguards"
-        },
-        {
-            "title": "HCLTech launches Cybersecurity Fusion Center in Mississauga to strengthen Canada's digital resilience",
-            "description": "[SCANX.TRADE] HCLTech has launched a Cybersecurity Fusion Center in Mississauga, Ontario, expanding its global network to 10 CSFCs. The center provides AI-driven security operations and real-time threat...",
-            "url": "https://scanx.trade/stock-market-news/companies/hcl-technologies-opens-cybersecurity-fusion-center-in-mississauga-expanding-global-security-presence/42556260"
-        },
-        {
-            "title": "Anthropic says these topics are too dangerous to let its Fable 5 model talk about",
-            "description": "[ARS TECHNICA] New frontier model refuses cybersecurity, biology, and chemistry queries.",
-            "url": "https://arstechnica.com/ai/2026/06/anthropic-says-these-topics-are-too-dangerous-to-let-its-fable-5-model-talk-about/"
         }
     ]
 }
