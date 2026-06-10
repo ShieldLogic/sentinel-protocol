@@ -1,5 +1,5 @@
 {
-    "updated": "2026-06-10 18:24:05 UTC",
+    "updated": "2026-06-10 21:50:49 UTC",
     "news": [
         {
             "title": "China-Linked JDY Botnet Expands to 1,500+ Devices for Cyber Reconnaissance",
@@ -22,34 +22,34 @@
             "url": "https://thehackernews.com/2026/06/cisa-adds-cisco-chrome-and-arista-flaws.html"
         },
         {
+            "title": "Path traversal flaw in AI dev platform Langflow exploited in attacks",
+            "description": "[BLEEPINGCOMPUTER.COM] Attackers are actively exploiting CVE-2026-5027, a high-severity path traversal vulnerability in the AI development platform Langflow, to write arbitrary files on exposed servers. [...]",
+            "url": "https://www.bleepingcomputer.com/news/security/path-traversal-flaw-in-ai-dev-platform-langflow-exploited-in-attacks/"
+        },
+        {
+            "title": "The \u2018Miasma\u2019 worm source code briefly leaked on GitHub",
+            "description": "[BLEEPINGCOMPUTER.COM] The Miasma credential-stealing attack framework, which has recently targeted open-source ecosystems through supply-chain attacks, was briefly open-sourced on GitHub. [...]",
+            "url": "https://www.bleepingcomputer.com/news/security/the-miasma-worm-source-code-briefly-leaked-on-github/"
+        },
+        {
             "title": "Your Automated Pentest Looks Clean. See What It Missed in This Expert Webinar",
             "description": "[FEEDS.FEEDBURNER.COM] Your pentest report looks clean. That might be the problem. Run automated pentesting long enough, and the new findings start to dry up. By the third or fourth run, fewer issues appear. The report...",
             "url": "https://thehackernews.com/2026/06/your-automated-pentest-looks-clean-see.html"
         },
         {
+            "title": "GitHub announces npm security changes to tackle supply-chain attacks",
+            "description": "[BLEEPINGCOMPUTER.COM] GitHub has announced that npm v12, expected next month, will introduce several security-focused changes aimed at blocking supply-chain attacks abusing behaviors triggered by the 'npm install'...",
+            "url": "https://www.bleepingcomputer.com/news/security/github-announces-npm-security-changes-to-tackle-supply-chain-attacks/"
+        },
+        {
+            "title": "Oracle PeopleSoft servers hacked in ShinyHunters data theft attacks",
+            "description": "[BLEEPINGCOMPUTER.COM] Oracle PeopleSoft servers are being targeted in ongoing data theft attacks by the ShinyHunters extortion gang, which claims to have stolen data from over 100 organizations. [...]",
+            "url": "https://www.bleepingcomputer.com/news/security/oracle-peoplesoft-servers-hacked-in-shinyhunters-data-theft-attacks/"
+        },
+        {
             "title": "China-linked JDY botnet expands targeting of U.S. military networks",
             "description": "[BLEEPINGCOMPUTER.COM] The JDY botnet, a malware network previously associated with Chinese threat actors like Volt Typhoon, has significantly expanded its targeting scope and reconnaissance efforts. [...]",
             "url": "https://www.bleepingcomputer.com/news/security/china-linked-jdy-botnet-expands-targeting-of-us-military-networks/"
-        },
-        {
-            "title": "The 5 Best Practices for Secure Identity Verification",
-            "description": "[BLEEPINGCOMPUTER.COM] Attackers are increasingly bypassing weak authentication through phishing, MFA fatigue, and service desk social engineering. Specops Software breaks down five best practices for stronger identity...",
-            "url": "https://www.bleepingcomputer.com/news/security/the-5-best-practices-for-secure-identity-verification/"
-        },
-        {
-            "title": "Microsoft patches Exchange Server zero-day exploited in attacks",
-            "description": "[BLEEPINGCOMPUTER.COM] Microsoft has patched an actively exploited Exchange Server vulnerability that allows threat actors to execute arbitrary JavaScript code in cross-site scripting (XSS) attacks targeting Outlook Web...",
-            "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-exchange-server-zero-day-exploited-in-attacks/"
-        },
-        {
-            "title": "Microsoft: Some Windows PCs fail to install latest monthly updates",
-            "description": "[BLEEPINGCOMPUTER.COM] Microsoft warned customers on Tuesday that they may have issues installing the latest monthly updates on some Windows devices that were upgraded to Windows 11 24H2 or 25H2. [...]",
-            "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-some-upgraded-windows-pcs-fail-to-install-monthly-updates/"
-        },
-        {
-            "title": "Microsoft patches YellowKey, GreenPlasma, MiniPlasma zero-days",
-            "description": "[BLEEPINGCOMPUTER.COM] On Tuesday, Microsoft patched two zero-day vulnerabilities that let attackers gain SYSTEM privileges on fully patched Windows systems, and a third one that grants access to BitLocker-protected...",
-            "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-yellowkey-greenplasma-miniplasma-zero-days/"
         },
         {
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
@@ -75,6 +75,21 @@
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
             "description": "[CISA.GOV] CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-28318 SolarWinds Serv-U Uncontrolled Resource Consumption...",
             "url": "https://www.cisa.gov/news-events/alerts/2026/06/05/cisa-adds-one-known-exploited-vulnerability-catalog"
+        },
+        {
+            "title": "Arkansas Uniform Money Services Act Virtual Currency Amendments",
+            "description": "[CRYPTOSLATE] Arkansas Act 532 amended the Uniform Money Services Act to define virtual currency and add transmission, cybersecurity, records, and reserve rules.",
+            "url": "https://cryptoslate.com/crypto-laws/arkansas-uniform-money-services-act-virtual-currency-amendments/"
+        },
+        {
+            "title": "US cybersecurity agency CISA to Homeland Security, Department of State, Treasury and several other government agencies: You have less than 24 hours to fix ...",
+            "description": "[TIMES OF INDIA] Tech News News: The US Cybersecurity and Infrastructure Security Agency (CISA) has ordered federal government agencies to urgently secure systems affected by a critic.",
+            "url": "https://timesofindia.indiatimes.com/technology/tech-news/us-cybersecurity-agency-cisa-to-homeland-security-department-of-state-treasury-and-several-other-government-agencies-you-have-less-than-24-hours-to-fix-/articleshow/131630443.cms"
+        },
+        {
+            "title": "From cybersecurity to biology and chemistry, all the things Claude Fable 5 AI can't do for you",
+            "description": "[INDIA TODAY] Anthropic has launched Claude Fable 5 for general use with a new safety system. The model blocks or reroutes risky cyber, biology and distillation requests as capacity limits shape access.",
+            "url": "https://www.indiatoday.in/technology/news/story/from-cybersecurity-to-biology-and-chemistry-all-the-things-claude-fable-5-ai-cant-do-for-you-2924481-2026-06-10"
         },
         {
             "title": "Anthropic releases \u2018safe\u2019 version of its Mythos AI technology",
@@ -110,21 +125,6 @@
             "title": "Anthropic releases Mythos-like model without cyber capabilities",
             "description": "[THE STAR] Anthropic PBC is widely releasing a version of Mythos that will be blocked from carrying out cybersecurity tasks, months after warning that the powerful artificial intelligence model could spot and...",
             "url": "https://www.thestar.com.my/tech/tech-news/2026/06/10/anthropic-releases-mythos-like-model-without-cyber-capabilities"
-        },
-        {
-            "title": "Anthropic Claude Fable 5 Safeguards Block Requests on Cybersecurity",
-            "description": "[BUSINESS INSIDER] The broad safeguards built into Anthropic's Claude Fable 5, a Mythos-class AI model, blocks some mundane requests on cybersecurity and biology.",
-            "url": "https://www.businessinsider.com/anthropic-claude-fable-5-safeguards-block-requests-cybersecurity-biology-2026-6"
-        },
-        {
-            "title": "Anthropic Brings Claude Fable 5, A Public Version Of Its Once-Restricted Mythos AI",
-            "description": "[TIMES NOW] Anthropic launches Claude Fable 5, a public version of its powerful Mythos AI, claiming that it comes with safety guardrails for cybersecurity, biology and other sensitive areas., Technology &...",
-            "url": "https://www.timesnownews.com/technology-science/anthropic-brings-claude-fable-5-a-public-version-of-its-once-restricted-mythos-ai-article-154544991"
-        },
-        {
-            "title": "What is Claude Fable 5",
-            "description": "[THE FINANCIAL EXPRESS] Anthropic releases Claude Fable 5, a safer AI model with strict safeguards against misuse in cybersecurity and other sensitive fields. It offers improved performance and controlled access compared to...",
-            "url": "https://www.financialexpress.com/business/news/what-is-claude-fable-5-anthropic-releases-safe-version-of-mythos-ai-with-heavy-guardrails/4263477/"
         }
     ]
 }
