@@ -1,6 +1,26 @@
 {
-    "updated": "2026-06-10 02:32:20 UTC",
+    "updated": "2026-06-10 07:59:50 UTC",
     "news": [
+        {
+            "title": "ServiceNow Flaw Exploited to Gain Unauthorized Access to Customer Instances",
+            "description": "[FEEDS.FEEDBURNER.COM] ServiceNow has warned about a security incident in which unknown threat actors exploited a flaw to obtain deeper unauthorized access to susceptible instances. \"On June 5, 2026, ServiceNow applied a...",
+            "url": "https://thehackernews.com/2026/06/servicenow-flaw-exploited-to-gain.html"
+        },
+        {
+            "title": "Microsoft Defender RoguePlanet Zero-Day Grants SYSTEM Access on Updated Windows",
+            "description": "[FEEDS.FEEDBURNER.COM] The anonymous security researcher going by the name Chaotic Eclipse (aka Nightmare-Eclipse) has released a proof-of-concept (PoC) exploit for yet another Microsoft Defender zero-day named...",
+            "url": "https://thehackernews.com/2026/06/microsoft-defender-rogueplanet-zero-day.html"
+        },
+        {
+            "title": "Six Proto6 Vulnerabilities in protobuf.js Expose Node.js Apps to RCE and DoS",
+            "description": "[FEEDS.FEEDBURNER.COM] Cybersecurity researchers have flagged half a dozen vulnerabilities in protobuf.js, a JavaScript and TypeScript implementation of Protocol Buffers (Protobuf), that, if successfully exploited, could...",
+            "url": "https://thehackernews.com/2026/06/six-proto6-vulnerabilities-in.html"
+        },
+        {
+            "title": "Ivanti: Max severity Sentry flaw allows code execution as root",
+            "description": "[BLEEPINGCOMPUTER.COM] Ivanti has patched two critical vulnerabilities in its Sentry secure mobile gateway solution, including a maximum-severity flaw that enables remote attackers to execute code with root privileges....",
+            "url": "https://www.bleepingcomputer.com/news/security/new-max-severity-ivanti-sentry-flaw-allows-code-execution-as-root/"
+        },
         {
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
             "description": "[CISA.GOV] CISA has added one new vulnerability to its&nbsp;Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-45247&nbsp;Mirasvit Full Page Cache Warmer...",
@@ -22,24 +42,14 @@
             "url": "https://thehackernews.com/2026/06/veeam-backup-replication-rce-flaw-lets.html"
         },
         {
-            "title": "Microsoft Restores Some GitHub Repos, Keeps Others Offline as Miasma Probe Continues",
-            "description": "[FEEDS.FEEDBURNER.COM] Microsoft on Monday confirmed that it temporarily removed some GitHub repositories in response to a recent security incident that led to 73 of its open-source projects being compromised to inject an...",
-            "url": "https://thehackernews.com/2026/06/microsoft-restores-some-github-repos.html"
-        },
-        {
             "title": "Anthropic rolls out Claude Fable 5, but it's available for a limited time",
             "description": "[BLEEPINGCOMPUTER.COM] Anthropic has begun rolling out a new model called \"Fable,\" which is based on the same underlying model as Mythos, its most powerful AI model class. [...]",
             "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-rolls-out-claude-fable-5-but-its-available-for-a-limited-time/"
         },
         {
             "title": "Microsoft Defender 'RoguePlanet' zero-day grants SYSTEM privileges",
-            "description": "[BLEEPINGCOMPUTER.COM] [...]",
+            "description": "[BLEEPINGCOMPUTER.COM] A security researcher has released a new Microsoft Defender zero-day exploit named \"RoguePlanet\" just hours after Microsoft fixed two previously disclosed flaws during June 2026 Patch Tuesday. [...]",
             "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-rogueplanet-zero-day-grants-system-privileges/"
-        },
-        {
-            "title": "WinRAR Flaw Exploited by Russia-Aligned Groups to Deploy Stealers in Ukraine",
-            "description": "[FEEDS.FEEDBURNER.COM] Two Russia-aligned cyber attack campaigns have continued to exploit a security flaw in WinRAR to target Ukrainian organisations, almost a year after patches for the vulnerability were released. The...",
-            "url": "https://thehackernews.com/2026/06/winrar-flaw-exploited-by-russia-aligned.html"
         },
         {
             "title": "ServiceNow discloses security incident exposing customer data",
@@ -47,19 +57,9 @@
             "url": "https://www.bleepingcomputer.com/news/security/servicenow-discloses-security-incident-exposing-customer-data/"
         },
         {
-            "title": "Researchers Build Self-Replicating AI Worm That Operates Entirely on Local, Open-Weight Models",
-            "description": "[FEEDS.FEEDBURNER.COM] University of Toronto researchers have built and tested a proof-of-concept AI-driven computer worm that uses a locally hosted open-weight large language model to reason its way through a network,...",
-            "url": "https://thehackernews.com/2026/06/researchers-build-self-replicating-ai.html"
-        },
-        {
             "title": "OpenClaw AI agent found falling for phishing attacks, spills user data",
             "description": "[BLEEPINGCOMPUTER.COM] Phishing simulation on an OpenClaw email agent with various configuration profiles showed that it was susceptible to tactics commonly used to compromise human users. [...]",
             "url": "https://www.bleepingcomputer.com/news/security/openclaw-ai-agent-found-falling-for-phishing-attacks-spills-user-data/"
-        },
-        {
-            "title": "SAP fixes critical flaws in NetWeaver and Commerce Cloud",
-            "description": "[BLEEPINGCOMPUTER.COM] SAP has released fixes for 15 vulnerabilities as part of its June 2026 Security Patch package, including four critical-severity flaws affecting SAP NetWeaver and SAP Commerce Cloud. [...]",
-            "url": "https://www.bleepingcomputer.com/news/security/sap-fixes-critical-flaws-in-netweaver-and-commerce-cloud/"
         },
         {
             "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
@@ -77,54 +77,54 @@
             "url": "https://www.cisa.gov/news-events/alerts/2026/06/05/cisa-adds-one-known-exploited-vulnerability-catalog"
         },
         {
-            "title": "US stocks: CrowdStrike shares fall as 'Mythos moment' fails to cheer investors",
-            "description": "[THE ECONOMIC TIMES] CrowdStrike experienced a stark decline in its share prices on Thursday, largely attributed to its quarterly guidance that failed to impress investors. Nevertheless, the cybersecurity software...",
-            "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/crowdstrike-shares-fall-as-mythos-moment-fails-to-cheer-investors/articleshow/131613291.cms"
+            "title": "Anthropic says these topics are too dangerous to let its Fable 5 model talk about",
+            "description": "[ARS TECHNICA] New frontier model refuses cybersecurity, biology, and chemistry queries.",
+            "url": "https://arstechnica.com/ai/2026/06/anthropic-says-these-topics-are-too-dangerous-to-let-its-fable-5-model-talk-about/"
         },
         {
-            "title": "HCLTech launches Cybersecurity Fusion Center in Mississauga to strengthen Canada's digital resilience",
-            "description": "[PR NEWSWIRE UK] /PRNewswire/ -- HCLTech (NSE: HCLTECH) (BSE: HCLTECH), a leading global technology company, today announced the launch of its Cybersecurity Fusion Center...",
-            "url": "https://www.prnewswire.co.uk/news-releases/hcltech-launches-cybersecurity-fusion-center-in-mississauga-to-strengthen-canadas-digital-resilience-302795405.html"
+            "title": "Anthropic rolls out Mythos like AI mode without cyber security",
+            "description": "[THE NEWS INTERNATIONAL] Anthropic just unveiled its Mythos AI-like version of a new model without cybersecurity. The newly launched, popular artificial intelligence platform is rolling out a public version of its Mythos...",
+            "url": "https://www.thenews.com.pk/latest/1405356-anthropic-rolls-out-mythos-like-ai-mode-without-cyber-security"
         },
         {
-            "title": "CrowdStrike Stock Tumbles Amid Mixed Forecasts and Surging Investor Expectations",
-            "description": "[DEVDISCOURSE] CrowdStrike's shares fell 7% due to unmet investor expectations, despite strong demand from the launch of Anthropic's Mythos AI model. Analysts point to profit-taking after significant gains. The...",
-            "url": "https://www.devdiscourse.com/article/technology/3932675-crowdstrike-stock-tumbles-amid-mixed-forecasts-and-surging-investor-expectations"
+            "title": "Anthropic rolls out Mythos-like AI model 'Claude Fable 5' without cybersecurity",
+            "description": "[THE NEWS INTERNATIONAL] Anthropic just unveiled its Mythos AI-like version of a new model without cybersecurity. The newly launched, popular artificial intelligence platform is rolling out a public version of its Mythos...",
+            "url": "https://www.thenews.com.pk/latest/1405356-anthropic-rolls-out-mythos-like-ai-model-claude-fable-5-without-cybersecurity"
         },
         {
-            "title": "Conan O'Brien's Working with Adaptive Security for Training Series",
-            "description": "[VARIETY] Cybersecurity AI firm Adaptive Security enlisted Conan O'Brien to star in a 15-part training series.",
-            "url": "https://variety.com/2026/digital/news/conan-obrien-ai-cybersecurity-adaptive-security-training-1236769580/"
+            "title": "AI Malware Worm Adapts to New Targets in Real Time, Cybersecurity Experts Say",
+            "description": "[DECRYPT] Researchers demonstrated an AI-powered worm that adapts to targets, generates attack strategies, and spreads across networks without cloud services.",
+            "url": "https://decrypt.co/370557/ai-malware-worm-adapts-targets-cybersecurity"
         },
         {
-            "title": "Check Point says VPN attacks caused by Qilin ransomware group - who had a month's head start on them",
-            "description": "[TECHRADAR] A month-old VPN bug was finally fixed",
-            "url": "https://www.techradar.com/pro/security/check-point-says-vpn-attacks-caused-by-qilin-ransomware-group-who-had-a-months-head-start-on-them"
+            "title": "Anthropic Rolls Out Claude Mythos 5 AI Model-Along With the Safer Fable 5 for the Public",
+            "description": "[DECRYPT] Anthropic has released a full version of its cybersecurity-centric Claude Mythos model\u2014along with a safer version for the general public.",
+            "url": "https://decrypt.co/370556/anthropic-rolls-out-claude-mythos-5-ai-model-safer-fable-public"
         },
         {
-            "title": "Chinese hackers pose biggest espionage threat to tech firms, CrowdStrike says",
-            "description": "[BNN BLOOMBERG] China-linked hackers posed the biggest espionage threat to technology companies over the past year, CrowdStrike, a cybersecurity firm, said in a report published on Tuesday, amid surging investment...",
-            "url": "https://www.bnnbloomberg.ca/business/2026/06/09/chinese-hackers-pose-biggest-espionage-threat-to-tech-firms-crowdstrike-says/"
+            "title": "Anthropic rolls out public version of Mythos without cybersecurity capability",
+            "description": "[THE MANILA TIMES] Anthropic is rolling out a public version of its Mythos AI model, but with guardrails barring its use in risky areas such as cybersecurity, after a preview earlier this year sent shockwaves globally...",
+            "url": "https://www.manilatimes.net/2026/06/10/business/sunday-business-it/anthropic-rolls-out-public-version-of-mythos-without-cybersecurity-capability/2362099"
         },
         {
-            "title": "Chinese hackers pose biggest espionage threat to tech firms, CrowdStrike says",
-            "description": "[CP24 TORONTO] China-linked hackers posed the biggest espionage threat to technology companies over the past year, CrowdStrike, a cybersecurity firm, said in a report published on Tuesday, amid surging investment...",
-            "url": "https://www.cp24.com/news/money/2026/06/09/chinese-hackers-pose-biggest-espionage-threat-to-tech-firms-crowdstrike-says/"
+            "title": "Anthropic opens up its most powerful AI yet, but with strict safety limits",
+            "description": "[CNBC TV18] AI startup Anthropic has launched Claude Fable 5, its most advanced publicly available model to date, while imposing restrictions on sensitive topics such as cybersecurity and biology. The launch...",
+            "url": "https://www.cnbctv18.com/technology/anthropic-opens-up-its-most-powerful-ai-yet-but-with-strict-safety-limits-ws-l-19922561.htm"
         },
         {
-            "title": "Rockwell Automation Expands SecureOT Portfolio with Cybersecurity Assessment and Managed Service Capabilities",
-            "description": "[THE MANILA TIMES] **media[1091651]**Enhanced capabilities help manufacturers stay resilient, secure remote connectivity, and operationalize cybersecurity with continuous professional support",
-            "url": "https://www.manilatimes.net/2026/06/09/tmt-newswire/pr-newswire/rockwell-automation-expands-secureot-portfolio-with-cybersecurity-assessment-and-managed-service-capabilities/2361653"
+            "title": "CISA gives US federal agencies three days to fix a VPN bug under attack by a ransomware gang",
+            "description": "[TECHCRUNCH] Check Point said hackers broke into dozens of organizations by exploiting a VPN bug in several of its products used across the government.",
+            "url": "https://techcrunch.com/2026/06/09/cisa-gives-us-federal-agencies-three-days-to-fix-a-vpn-bug-under-attack-by-a-ransomware-gang/"
         },
         {
-            "title": "EXLCLUSIVE: Cycurion Acquires Secuvant To Expand Cybersecurity Platform",
-            "description": "[BENZINGA] Cycurion finalizes the Secuvant deal, enhancing its cybersecurity portfolio with threat visibility and vulnerability management solutions.",
-            "url": "https://www.benzinga.com/markets/small-cap/26/06/53082790/exlclusive-cycurion-acquires-secuvant-to-expand-cybersecurity-platform"
+            "title": "Powerful Claude Mythos Released To Public-With Limits",
+            "description": "[FORBES] Anthropic said the new version, called Claude Fable 5, will have safeguards to prevent misuse in fields like cybersecurity.",
+            "url": "https://www.forbes.com/sites/zacharyfolk/2026/06/09/anthropic-releases-first-public-version-of-claude-mythos-with-major-safeguards/"
         },
         {
-            "title": "Chinese hackers pose biggest espionage threat to tech firms, CrowdStrike says",
-            "description": "[MARKETSCREENER] China-linked hackers posed the biggest espionage threat to technology companies over the past year, CrowdStrike, a cybersecurity firm, said in a report published on Tuesday, amid surging...",
-            "url": "https://www.marketscreener.com/news/chinese-hackers-pose-biggest-espionage-threat-to-tech-firms-crowdstrike-says-ce7f5dd3d081f22d"
+            "title": "Anthropic releases Claude Fable 5, its first Mythos",
+            "description": "[TNW] Anthropic launched Claude Fable 5 on Tuesday, a Mythos-class model with safeguards blocking cybersecurity and biology queries, priced at $10 per million input tokens.",
+            "url": "https://thenextweb.com/news/anthropic-claude-fable-5-mythos-public-release-ipo"
         }
     ]
 }
