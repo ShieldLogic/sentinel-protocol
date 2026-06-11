@@ -1,137 +1,245 @@
 {
-    "title": "Sentinel Protocol",
-    "tagline": "Perimeter Intelligence Sync",
-    "updated": "2026-06-11 17:46 UTC",
-    "news": [
-        {
-            "source": {
-                "id": "fortune",
-                "name": "Fortune"
-            },
-            "author": "Sharon Goldman",
-            "title": "Anthropic accused of \u2018secret sabotage\u2019 as Claude Fable 5 silently limits capabilities for AI researchers and developers",
-            "description": "A paragraph buried in Fable 5's 319-page system card revealed the model would silently downgrade its responses for certain AI development work \u2014 without telling users.",
-            "url": "https://fortune.com/2026/06/10/anthropic-accu-claude-fable-5-limits-capabilities-ai-researchers-developers/",
-            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/06/GettyImages-2280239395.jpg?resize=1200,600",
-            "publishedAt": "2026-06-10T17:43:40Z",
-            "content": "When Anthropic made its first Mythos-tier model available to the general public yesterday, called Claude Fable 5, Fortunereported it was a considerable step for the lab, coming just over a week after\u2026 [+5306 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Sharon Goldman",
-            "title": "Anthropic accused of \u2018secret sabotage\u2019 as Claude Fable 5 silently limits capabilities for AI researchers and developers",
-            "description": "A paragraph buried in Fable 5's 319-page system card revealed the model would silently downgrade its responses for certain AI development work \u2014 without tell...",
-            "url": "https://tech.yahoo.com/ai/claude/articles/anthropic-accused-secret-sabotage-claude-174340137.html",
-            "urlToImage": "https://s.yimg.com/lo/mysterio/api/a1a5df1a70d014619a87cb0e3908609da411e254f1f560a2d680a4a4df68d5c1/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Ffortune_175%2F8efe99a99d2f0844ad37ae4667d85eb6",
-            "publishedAt": "2026-06-10T17:43:40Z",
-            "content": "When Anthropic made its first Mythos-tier model available to the general public yesterday, called Claude Fable 5, Fortunereported it was a \"considerable step\" for the lab, coming just over a week aft\u2026 [+5501 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Forrester.com"
-            },
-            "author": "Jeff Pollard",
-            "title": "How Fable 5 And Mythos 5 Change AI Security, Data Retention, And Vendor Risk",
-            "description": "Anthropic\u2019s Fable 5 and Mythos 5 is the most 2026 product launch you\u2019ll read this year. The same model can find nation-state zero days, design novel drug candidates, and play FireRed on a Gameboy Advance with nothing but screenshots. And for the gaming fans o\u2026",
-            "url": "https://www.forrester.com/blogs/how-fable-5-and-mythos-5-change-ai-security-data-retention-and-vendor-risk/",
-            "urlToImage": "https://go.forrester.com/wp-content/uploads/2026/06/Blog-Mythos-5-Fable-5.jpg",
-            "publishedAt": "2026-06-10T17:34:03Z",
-            "content": "Anthropics Fable 5 and Mythos 5 is the most 2026 product launch youll read this year. The same model can find nation-state zero days, design novel drug candidates, and play FireRed on a Gameboy Advan\u2026 [+12491 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Abdul Rahman",
-            "title": "Mastercard Inc (MA) Secures New York Crypto License",
-            "description": "Mastercard Inc (NYSE:MA) is one of the most profitable crypto-exposed stocks to buy now. On May 27, Mastercard Inc (NYSE:MA) announced that it has been...",
-            "url": "https://finance.yahoo.com/markets/crypto/articles/mastercard-inc-ma-secures-york-172447319.html",
-            "urlToImage": "https://s.yimg.com/os/en/insidermonkey.com/2f4ff15fa8092684aa24fb51c1c1fcad",
-            "publishedAt": "2026-06-10T17:24:47Z",
-            "content": "Mastercard Inc (NYSE:MA) is one of the most profitable crypto-exposed stocks to buy now. On May 27, Mastercard Inc (NYSE:MA) announced that it has been granted a BitLicense in New York. The company c\u2026 [+1941 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "How-To Geek"
-            },
-            "author": "Jon Fingas",
-            "title": "Anthropic finally releases Mythos to the public, but it's so heavily guarded it barely works",
-            "description": "Anthropic finally releases Mythos to the public, but it's so heavily guarded it barely workshowtogeek.com",
-            "url": "https://www.howtogeek.com/anthropic-finally-released-its-mythos-cybersecurity-model-and-experts-are/",
-            "urlToImage": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2026/05/an-ai-generated-image-of-a-guy-sitting-in-front-of-a-computer-working-with-claude-during-the-day.png?w=1600&h=900&fit=crop",
-            "publishedAt": "2026-06-10T17:14:49Z",
-            "content": "Anthropic has been touting the power of its Claude Mythos AI model to find and help fix security vulnerabilities, and it has finally released a public version, Fable 5. However, some cybersecurity ex\u2026 [+2477 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Pypi.org"
-            },
-            "author": "nishanm15@users.noreply.github.com",
-            "title": "deepaudits added to PyPI",
-            "description": "AI-powered smart contract security scanner with universal model support",
-            "url": "https://pypi.org/project/deepaudits/",
-            "urlToImage": "https://pypi.org/static/images/twitter.abaf4b19.webp",
-            "publishedAt": "2026-06-10T17:06:23Z",
-            "content": "Created by Nishan Mishra (@nishanm15)\r\nDeepAudits scans your Ethereum smart contracts (Solidity code) for security vulnerabilities using artificial intelligence. It uses multiple AI agents that debat\u2026 [+46452 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Crypto Briefing"
-            },
-            "author": "Editorial Team",
-            "title": "Signal president warns of potential UK exit over surveillance concerns",
-            "description": "Signal's potential UK exit highlights the global tension between privacy rights and government surveillance, impacting digital privacy norms.\nThe post Signal president warns of potential UK exit over surveillance concerns appeared first on Crypto Briefing.",
-            "url": "https://cryptobriefing.com/signal-uk-exit-surveillance-encryption/",
-            "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/10130438/signal-s-meredith-whittaker-these-are-the-people-who-could-a-800x420.jpeg",
-            "publishedAt": "2026-06-10T17:04:44Z",
-            "content": "Meredith Whittaker says Signal would '100% walk' from Britain rather than weaken encryption under Keir Starmer's proposed phone screening measures. Signal, the encrypted messaging app used by journal\u2026 [+3188 chars]"
-        },
-        {
-            "source": {
-                "id": "business-insider",
-                "name": "Business Insider"
-            },
-            "author": "insider@insider.com (Lillian Brown)",
-            "title": "Where to watch World Cup: Free live streams, schedule, venues, odds",
-            "description": "The biggest football competition in the world returns. We'll show you where to watch the World Cup online from anywhere.",
-            "url": "https://www.businessinsider.com/guides/streaming/where-to-watch-fifa-world-cup-2026",
-            "urlToImage": "https://i.insider.com/6a29726a59f798e5451f5923?width=1200&format=jpeg",
-            "publishedAt": "2026-06-10T17:03:36Z",
-            "content": "After almost four years, the FIFA World Cup returns, and Argentina will attempt to defend its title against a stacked field. We've scoured the viewing options and rounded up everything you need to kn\u2026 [+7898 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "4sysops.com"
-            },
-            "author": "IT News",
-            "title": "CISA warns of exploited flaws in Cisco, Chrome, and Arista products",
-            "description": "The Cybersecurity and Infrastructure Security Agency has expanded its Known Exploited Vulnerabilities catalog to include three new security flaws. These vulnerabilities affect Cisco Catalyst SD-WAN Manager, Google Chrome's V8 engine, and Arista Extensible Ope\u2026",
-            "url": "https://4sysops.com/archives/cisa-warns-of-exploited-flaws-in-cisco-chrome-and-arista-products/",
-            "urlToImage": "https://4sysops.com/wp-content/uploads/2026/06/cisa-warns-of-exploited-flaws-in-cisco-chrome-and-arista-products.jpg",
-            "publishedAt": "2026-06-10T16:56:19Z",
-            "content": "The Cisco vulnerability allows authenticated local attackers to execute arbitrary commands with root privileges through specially crafted files. Google Chrome's flaw involves an out-of-bounds memory \u2026 [+732 chars]"
-        },
-        {
-            "source": {
-                "id": "the-times-of-india",
-                "name": "The Times of India"
-            },
-            "author": "Reuters",
-            "title": "US shortens cyber fix window to three days as AI threats rise",
-            "description": "Government agencies are racing against a tight three-day deadline to address significant cybersecurity issues. This urgent requirement has been established in light of emerging threats from hackers employing sophisticated artificial intelligence. The Cybersec\u2026",
-            "url": "https://economictimes.indiatimes.com/tech/technology/us-shortens-cyber-fix-window-to-three-days-as-ai-threats-rise/articleshow/131640298.cms",
-            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-55870,resizemode-75,msid-131640298/tech/technology/us-shortens-cyber-fix-window-to-three-days-as-ai-threats-rise.jpg",
-            "publishedAt": "2026-06-10T16:55:08Z",
-            "content": "The US cyber defense agency said on Wednesday that government officials now have three days to deal with the most serious categories of digital vulnerabilities in their networks, a compressed timelin\u2026 [+1446 chars]"
-        }
-    ]
+  "updated": "2026-06-11 17:47:08 UTC",
+  "news": [
+    {
+      "title": "The Gentlemen Ransomware Claims 478 Victims, Can Spread Like a Worm",
+      "description": "[FEEDS] A new analysis of The Gentlemen operation has revealed that the financially motivated threat group initially operated as an affiliate responsible for conducting double extortion attacks, while leveraging resources from various...",
+      "url": "https://thehackernews.com/2026/06/the-gentlemen-ransomware-claims-478.html",
+      "date": "2026-06-11T16:50:47Z"
+    },
+    {
+      "title": "Authorities dismantle 'AudiA6' ransomware crypto-laundering service",
+      "description": "[BLEEPINGCOMPUTER] Law enforcement has dismantled the &ldquo;AudiA6&rdquo; cryptocurrency service&nbsp;allegedly used by ransomware actors and other cybercriminals to launder more than $380 million. [...]",
+      "url": "https://www.bleepingcomputer.com/news/legal/authorities-dismantle-audia6-ransomware-crypto-laundering-service/",
+      "date": "2026-06-11T15:55:41Z"
+    },
+    {
+      "title": "Why AI-driven threats are exposing the limits of MSP security stacks",
+      "description": "[BLEEPINGCOMPUTER] AI-driven attacks are exposing the limits of fragmented MSP security stacks and slow response workflows. Kaseya breaks down why integrated security, automation, and recovery are becoming essential. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/why-ai-driven-threats-are-exposing-the-limits-of-msp-security-stacks/",
+      "date": "2026-06-11T14:00:10Z"
+    },
+    {
+      "title": "Cybersecurity Stars Awards 2026: Winners Announced Across 95 Categories",
+      "description": "[FEEDS] Most good security work is invisible by design. Today is the exception. The 2026 Cybersecurity Stars Awards winners are announced across 95 subcategories in four main award categories. The reason is simple. Cybersecurity is full of work that...",
+      "url": "https://thehackernews.com/2026/06/cybersecurity-stars-awards-2026-winners.html",
+      "date": "2026-06-11T13:26:13Z"
+    },
+    {
+      "title": "ThreatsDay Bulletin: Worm Code Leaked, AI Agent Phished, Claude Code Patch + 28 New Stories",
+      "description": "[FEEDS] It's been one of those weeks. You expect the usual noise: recycled malware, sloppy attacks, another easy target getting hit. Instead, there's a supply chain attack kit in a public repo, a $5,000-a-month RAT that clones browsers, and research showing...",
+      "url": "https://thehackernews.com/2026/06/threatsday-bulletin-worm-code-leaked-ai.html",
+      "date": "2026-06-11T13:20:41Z"
+    },
+    {
+      "title": "Coupang hit with record $409 million data breach fine in Korea",
+      "description": "[BLEEPINGCOMPUTER] \u200b\u200bThe Personal Information Protection Commission (PIPC), South Korea's data protection regulator, has fined e-commerce giant Coupang a record 624.6 billion won (roughly $409 million) following a massive data breach affecting more than 37 million...",
+      "url": "https://www.bleepingcomputer.com/news/security/south-korea-hits-coupang-with-record-409-million-fine-over-data-breach/",
+      "date": "2026-06-11T12:52:41Z"
+    },
+    {
+      "title": "CISA tells govt agencies to patch critical exploited flaws in 3 days",
+      "description": "[BLEEPINGCOMPUTER] The U.S. Cybersecurity and Infrastructure Security Agency (CISA) announced a new Binding Operational Directive, 26-04, that prioritizes security updates for Federal Civilian Executive Branch (FCEB) agencies. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-tells-govt-agencies-to-patch-critical-exploited-flaws-in-3-days/",
+      "date": "2026-06-11T12:46:44Z"
+    },
+    {
+      "title": "AI Broke Vulnerability Management. That's Why CISOs Are Moving Budget to BAS.",
+      "description": "[FEEDS] For thirty years, vulnerability management ran on a buffer: the months between when a vulnerability was found and when someone could figure out how to weaponize it. The solution was straightforward enough; triage by severity, schedule the fix,...",
+      "url": "https://thehackernews.com/2026/06/ai-broke-vulnerability-management-thats.html",
+      "date": "2026-06-11T11:30:00Z"
+    },
+    {
+      "title": "Enhanced License Plate Tracking",
+      "description": "[SCHNEIER] The surveillance company Leonardo wants more data: A surveillance company plans to add sensors to automatic license plate readers (ALPRs) that would mean the devices, as well as capture the license plate of passing vehicles, would also sweep up...",
+      "url": "https://www.schneier.com/blog/archives/2026/06/enhanced-license-plate-tracking.html",
+      "date": "2026-06-11T11:01:19Z"
+    },
+    {
+      "title": "OceanLotus Hits Vietnam Investors With SPECTRALVIPER in FireAnt Attack",
+      "description": "[FEEDS] The Vietnam-aligned threat actor known as OceanLotus has been attributed to two distinct campaigns that targeted domestic entities and stock investors with a backdoor known as SPECTRALVIPER. The campaigns involve a prolonged cyber espionage...",
+      "url": "https://thehackernews.com/2026/06/oceanlotus-hits-vietnam-investors-with.html",
+      "date": "2026-06-11T09:45:58Z"
+    },
+    {
+      "title": "Microsoft fixes BitLocker recovery bug on Windows Server 2025",
+      "description": "[BLEEPINGCOMPUTER] Microsoft has resolved a known issue causing some Windows Server 2025 devices to boot into BitLocker recovery after installing the April 2026 security update. [...]",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bitlocker-recovery-bug-on-windows-server-2025/",
+      "date": "2026-06-11T08:44:22Z"
+    },
+    {
+      "title": "Nottingham University data breach affects over 450,000 students",
+      "description": "[BLEEPINGCOMPUTER] The University of Nottingham confirmed on Wednesday that a hacking group gained access to its student records system in a breach affecting both current students and alums. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/nottingham-university-data-breach-affects-over-450-000-students/",
+      "date": "2026-06-11T07:27:53Z"
+    },
+    {
+      "title": "GitHub to Disable npm Install Scripts by Default to Stop Supply Chain Attacks",
+      "description": "[FEEDS] GitHub has announced what it said are \"breaking changes\" coming to npm version 12, one of which turns off install scripts by default to combat software supply chain threats. The changes aim to combat attack techniques that abuse the \"npm install\"...",
+      "url": "https://thehackernews.com/2026/06/github-to-disable-npm-install-scripts.html",
+      "date": "2026-06-11T06:23:03Z"
+    },
+    {
+      "title": "South Korea fines Coupang $409m in country's largest data breach penalty",
+      "description": "[NIKKEI ASIA] SEOUL (Reuters) -- South Korea will fine e-commerce giant Coupang 625 billion won ($409.30 million) over a massive leak of customer information last y",
+      "url": "https://asia.nikkei.com/business/companies/south-korea-fines-coupang-409m-in-country-s-largest-data-breach-penalty",
+      "date": "2026-06-11T05:19:45Z"
+    },
+    {
+      "title": "Who is Nisarga Adhikary? IIT Kanpur Hires 19-Year-Old Cyber Expert Who Exposed CBSE OSM Portal Flaws, Check Salary Details",
+      "description": "[NEWSX] Nisarga Adhikary, a 19-year-old cybersecurity researcher, has been appointed as an OSINT and Threat Intelligence Engineer at IIT Kanpur's C3iHub. His recruitment comes weeks after he disclosed critical vulnerabilities in CBSE's On-Screen Marking...",
+      "url": "https://www.newsx.com/india/nisarga-adhikary-iit-kanpur-hires-19-year-old-cyber-expert-who-exposed-cbse-osm-portal-flaws-check-salary-details-232877/",
+      "date": "2026-06-11T05:02:01Z"
+    },
+    {
+      "title": "South Korea Fines Coupang Record 624.7 Billion Won Over Data Breach",
+      "description": "[MARKETSCREENER] South Korea's Personal Information Protection Commission imposed a record 624.7 billion won fine on Coupang over a large-scale personal data breach, Bloomberg News reported Thursday. The penalty is...",
+      "url": "https://www.marketscreener.com/news/south-korea-fines-coupang-record-624-7-billion-won-over-data-breach-ce7f5cdbde8ef324",
+      "date": "2026-06-11T04:09:16Z"
+    },
+    {
+      "title": "Coupang fined record $410 million over huge data breach, unauthorised data collection",
+      "description": "[LOKMAT TIMES] Coupang fined record $410 million over huge data breach, unauthorised data collection - Seoul, June 11 South Korea's data protection regulator on Thursday fined e-commerce company Coupang a record 624.7 billion ... Get Latest News on Business only...",
+      "url": "https://www.lokmattimes.com/business/coupang-fined-record-410-million-over-huge-data-breach-unauthorised-data-collection/",
+      "date": "2026-06-11T03:49:13Z"
+    },
+    {
+      "title": "Coupang fined record $410 million over huge data breach, unauthorised data collection",
+      "description": "[LOKMAT TIMES] Coupang fined record $410 million over huge data breach, unauthorised data collection - Seoul, June 11 South Korea's data protection regulator on Thursday fined e-commerce company Coupang a record 624.7 billion ... Get Latest News on Technology only...",
+      "url": "https://www.lokmattimes.com/technology/coupang-fined-record-410-million-over-huge-data-breach-unauthorised-data-collection-1/",
+      "date": "2026-06-11T03:49:13Z"
+    },
+    {
+      "title": "South Korea fines Coupang $409 million in country's largest data breach penalty",
+      "description": "[THE ECONOMIC TIMES] The Personal Information Protection Commission said the New York-listed company had leaked personal data of more than 33 million customers and failed to detect the breach within the 72 hours required by the law.",
+      "url": "https://economictimes.indiatimes.com/tech/technology/south-korea-fines-coupang-409-million-in-countrys-largest-data-breach-penalty/articleshow/131648401.cms",
+      "date": "2026-06-11T03:47:16Z"
+    },
+    {
+      "title": "CBSE OSM vulnerability finder Nisarga Adhikary hired by IIT Kanpur",
+      "description": "[INDIA TODAY] After flagging vulnerabilities in CBSE's OSM portal, teenager Nisarga Adhikary has joined IIT Kanpur's C3iHub as an OSINT and Threat Intelligence Engineer. The move highlights how responsible disclosure and practical cybersecurity skills are gaining...",
+      "url": "https://www.indiatoday.in/education-today/news/story/cbse-osm-vulnerability-finder-nisarga-adhikary-hired-by-iit-kanpur-2924925-2026-06-11",
+      "date": "2026-06-11T03:38:17Z"
+    },
+    {
+      "title": "South Korea hits e-commerce giant Coupang with record US$409 million fine for data breach",
+      "description": "[SOUTH CHINA MORNING POST] \u2018Inadequate basic safeguards\u2019 resulted in the personal data of around 37.5 million users being exposed, the privacy commission found.",
+      "url": "https://www.scmp.com/news/asia/east-asia/article/3356690/south-korea-hits-e-commerce-giant-coupang-record-us409-million-fine-data-breach",
+      "date": "2026-06-11T03:32:03Z"
+    },
+    {
+      "title": "South Korea fines Coupang $409 mln in country's largest data breach penalty",
+      "description": "[MARKETSCREENER] South Korea will fine e-commerce giant Coupang 625 billion won over a massive leak of customer information last year and illegal collection of personal information, in the country's largest data...",
+      "url": "https://www.marketscreener.com/news/south-korea-fines-coupang-409-mln-in-country-s-largest-data-breach-penalty-ce7f5cdbde8ff424",
+      "date": "2026-06-11T03:19:13Z"
+    },
+    {
+      "title": "Exposing CBSE\u2019s OSM System To Cybersecurity Career: IIT Kanpur Hires Nisarga Adhikary",
+      "description": "[NEWS18] The issues flagged by Adhikary formed part of a wider controversy surrounding the implementation of on-screen marking.",
+      "url": "https://www.news18.com/india/exposing-cbses-osm-system-to-cybersecurity-career-iit-kanpur-hires-nisarga-adhikary-ws-l-10142326.html",
+      "date": "2026-06-11T02:44:59Z"
+    },
+    {
+      "title": "ISC Stormcast For Thursday, June 11th, 2026 https://isc.sans.edu/podcastdetail/9968, (Thu, Jun 11th)",
+      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
+      "url": "https://isc.sans.edu/diary/rss/33070",
+      "date": "2026-06-11T02:25:21Z"
+    },
+    {
+      "title": "NSO Group Hacking WhatsApp Despite Court Order",
+      "description": "[SCHNEIER] WhatsApp has caught the NSO Group phishing its users, in violation of a court order.",
+      "url": "https://www.schneier.com/blog/archives/2026/06/nso-group-hacking-whatsapp-despite-court-order.html",
+      "date": "2026-06-10T11:08:59Z"
+    },
+    {
+      "title": "How has use of framing protection security headers changed in the past 3 years&#x3f;, (Wed, Jun 10th)",
+      "description": "[ISC] Back in 2023, I wrote a diary&#x5b;1&#x5d; discussing how commonly X-Frame-Options and CSP headers containing the frame-ancestors directive were used on 1 million most popular domains on the internet (based on the Tranco list&#x5b;2&#x5d;), and how...",
+      "url": "https://isc.sans.edu/diary/rss/33068",
+      "date": "2026-06-10T08:29:21Z"
+    },
+    {
+      "title": "ISC Stormcast For Wednesday, June 10th, 2026 https://isc.sans.edu/podcastdetail/9966, (Wed, Jun 10th)",
+      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
+      "url": "https://isc.sans.edu/diary/rss/33066",
+      "date": "2026-06-10T02:00:02Z"
+    },
+    {
+      "title": "Microsoft June 2026 Patch Tuesday, (Tue, Jun 9th)",
+      "description": "[ISC] Microsoft today released patches for 204 vulnerabilities. 38 of these vulnerabilities are considered critical, and three have been disclosed before today. Six of the vulnerabilities affect Microsoft cloud solutions and do not require any user...",
+      "url": "https://isc.sans.edu/diary/rss/33064",
+      "date": "2026-06-09T17:34:29Z"
+    },
+    {
+      "title": "GPS As a Key Distribution Platform",
+      "description": "[SCHNEIER] This is interesting: The U.S. military has likely been quietly broadcasting codes for its global encryption network using public GPS for nearly 20 years, turning each satellite into a hidden &#8220;numbers station,&#8221; according to Steven...",
+      "url": "https://www.schneier.com/blog/archives/2026/06/gps-as-a-key-distribution-platform.html",
+      "date": "2026-06-09T15:06:49Z"
+    },
+    {
+      "title": "CISA Adds Three Known Exploited Vulnerabilities to Catalog",
+      "description": "[CISA] CISA has added three new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-7473 Arista Extensible Operating System Incomplete Comparison with Missing Factors Vulnerability...",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/06/09/cisa-adds-three-known-exploited-vulnerabilities-catalog",
+      "date": "2026-06-09T12:00:00Z"
+    },
+    {
+      "title": "ISC Stormcast For Tuesday, June 9th, 2026 https://isc.sans.edu/podcastdetail/9964, (Tue, Jun 9th)",
+      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
+      "url": "https://isc.sans.edu/diary/rss/33062",
+      "date": "2026-06-09T02:00:03Z"
+    },
+    {
+      "title": "TeamPCP Supply Chain Campaign: Activity Through 2026-06-07, (Mon, Jun 8th)",
+      "description": "[ISC] This diary continues the Internet Storm Center&&#x23&#x3b;x26&#x3b;&#x23&#x3b;39&#x3b;s tracking of the TeamPCP supply chain campaign, first documented in the SANS white paper When the Security Scanner Became the Weapon and most recently in the...",
+      "url": "https://isc.sans.edu/diary/rss/33060",
+      "date": "2026-06-08T17:07:37Z"
+    },
+    {
+      "title": "Critical Zcash Vulnerability Found and Fixed",
+      "description": "[SCHNEIER] If you&#8217;re a user&#8212;owner?&#8212;of this cryptocurrency, this is important: On May 29, the security researcher Taylor Hornby found a critical vulnerability in Zcash Orchard privacy pool using Claude Opus 4.8. The Zcash team hired Hornby...",
+      "url": "https://www.schneier.com/blog/archives/2026/06/critical-zcash-vulnerability-found-and-fixed.html",
+      "date": "2026-06-08T17:06:53Z"
+    },
+    {
+      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+      "description": "[CISA] CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-42271 BerriAI LiteLLM Command Injection Vulnerability CVE-2026-50751 Check Point Security Gateway...",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/06/08/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+      "date": "2026-06-08T12:00:00Z"
+    },
+    {
+      "title": "Anthropic\u2019s Project Glasswing Update",
+      "description": "[SCHNEIER] In April, Anthropic initated Project Glasswing. The idea was to let companies use their new model to find and fix vulnerabilities in their own software. It was a fantastic PR move, and so many press outlets have uncritically parroted...",
+      "url": "https://www.schneier.com/blog/archives/2026/06/anthropics-project-glasswing-update.html",
+      "date": "2026-06-08T11:01:47Z"
+    },
+    {
+      "title": "AI Worm",
+      "description": "[SCHNEIER] Researchers have prototyped an AI-powered internet worm. The coolest thing about the prototype is that it carries its own LLM with it, and runs it on computers that have been broken into. This is the closest to John Brunner&#8217;s original 1975...",
+      "url": "https://www.schneier.com/blog/archives/2026/06/ai-worm.html",
+      "date": "2026-06-05T13:21:23Z"
+    },
+    {
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "description": "[CISA] CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-28318 SolarWinds Serv-U Uncontrolled Resource Consumption Vulnerability This type of vulnerability is a...",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/06/05/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "date": "2026-06-05T12:00:00Z"
+    },
+    {
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "description": "[CISA] CISA has added one new vulnerability to its&nbsp;Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-45247&nbsp;Mirasvit Full Page Cache Warmer Deserialization of Untrusted Data Vulnerability This type...",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/06/03/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "date": "2026-06-03T12:00:00Z"
+    },
+    {
+      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+      "description": "[CISA] CISA has added two new vulnerabilities to its&nbsp;Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2022-0492 Linux Kernel Improper Authentication Vulnerability CVE-2025-48595 Android Framework Integer...",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/06/02/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+      "date": "2026-06-02T12:00:00Z"
+    },
+    {
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "description": "[CISA] CISA has added one new vulnerability to its&nbsp;Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2024-21182 Oracle WebLogic Server Unspecified Vulnerability This type of vulnerability is a frequent attack...",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/06/01/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "date": "2026-06-01T12:00:00Z"
+    }
+  ]
 }
