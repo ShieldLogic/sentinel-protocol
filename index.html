@@ -1,155 +1,877 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Sentinel Protocol | ShieldLogic</title>
-    <style>
-        :root {
-            --glow: #00ff41;
-            --bg: #050505;
-            --card-bg: #0d0d0d;
-            --text: #d1d1d1;
-            --border: #1a1a1a;
-        }
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Sentinel Protocol | ShieldLogic</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;600&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --green: #00ff41;
+      --green-dim: #00cc33;
+      --red: #ff4444;
+      --yellow: #ffcc00;
+      --bg: #080808;
+      --surface: #0f0f0f;
+      --surface-2: #161616;
+      --border: #1f1f1f;
+      --border-bright: #2a2a2a;
+      --text: #c8c8c8;
+      --text-muted: #666;
+      --text-bright: #f0f0f0;
+      --accent: var(--green);
+    }
 
-        body {
-            background-color: var(--bg);
-            color: var(--text);
-            font-family: 'IBM Plex Mono', 'Courier New', monospace;
-            margin: 0;
-            padding: 20px;
-            line-height: 1.6;
-        }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
 
-        .container { max-width: 900px; margin: 0 auto; }
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: 'Inter', sans-serif;
+      font-size: 14px;
+      line-height: 1.6;
+      min-height: 100vh;
+    }
 
-        header {
-            border-bottom: 2px solid var(--glow);
-            padding-bottom: 20px;
-            margin-bottom: 40px;
-            transition: border-color 0.5s ease;
-        }
+    /* ── NAV ── */
+    nav {
+      background: var(--surface);
+      border-bottom: 1px solid var(--border);
+      padding: 0 24px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      height: 56px;
+      position: sticky;
+      top: 0;
+      z-index: 100;
+    }
+    .nav-brand {
+      font-family: 'IBM Plex Mono', monospace;
+      font-weight: 600;
+      font-size: 13px;
+      color: var(--green);
+      letter-spacing: 2px;
+      text-decoration: none;
+    }
+    .nav-brand span { color: var(--text-muted); }
+    .nav-links { display: flex; gap: 4px; align-items: center; }
+    .nav-links a {
+      color: var(--text-muted);
+      text-decoration: none;
+      font-size: 13px;
+      padding: 6px 12px;
+      border-radius: 4px;
+      transition: color 0.2s, background 0.2s;
+    }
+    .nav-links a:hover { color: var(--text-bright); background: var(--surface-2); }
+    .nav-links a.active { color: var(--green); }
+    .nav-pill {
+      font-family: 'IBM Plex Mono', monospace;
+      font-size: 11px;
+      color: var(--bg);
+      background: var(--green);
+      padding: 4px 10px;
+      border-radius: 3px;
+      letter-spacing: 1px;
+      font-weight: 600;
+    }
 
-        h1 {
-            color: var(--glow);
-            margin: 0;
-            font-size: 1.8rem;
-            letter-spacing: 2px;
-        }
+    /* ── HERO ── */
+    .hero {
+      border-bottom: 1px solid var(--border);
+      padding: 40px 24px 32px;
+      max-width: 1100px;
+      margin: 0 auto;
+    }
+    .hero-eyebrow {
+      font-family: 'IBM Plex Mono', monospace;
+      font-size: 11px;
+      color: var(--green);
+      letter-spacing: 3px;
+      text-transform: uppercase;
+      margin-bottom: 12px;
+    }
+    .hero h1 {
+      font-family: 'IBM Plex Mono', monospace;
+      font-size: clamp(22px, 3vw, 32px);
+      font-weight: 600;
+      color: var(--text-bright);
+      letter-spacing: 1px;
+      margin-bottom: 10px;
+    }
+    .hero h1 .cursor {
+      display: inline-block;
+      width: 3px;
+      height: 1em;
+      background: var(--green);
+      margin-left: 4px;
+      vertical-align: middle;
+      animation: blink 1s step-end infinite;
+    }
+    @keyframes blink { 0%,100%{opacity:1} 50%{opacity:0} }
+    .hero-sub {
+      color: var(--text-muted);
+      font-size: 14px;
+      max-width: 600px;
+    }
 
-        #last-updated {
-            font-size: 0.8rem;
-            font-weight: bold;
-            margin-top: 10px;
-            text-transform: uppercase;
-        }
+    /* ── THREAT BANNER ── */
+    .threat-bar {
+      max-width: 1100px;
+      margin: 0 auto;
+      padding: 0 24px;
+    }
+    .threat-inner {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      padding: 10px 16px;
+      margin: 16px 0;
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 4px;
+      font-family: 'IBM Plex Mono', monospace;
+      font-size: 11px;
+    }
+    .threat-dot {
+      width: 8px; height: 8px;
+      border-radius: 50%;
+      flex-shrink: 0;
+      animation: pulse 2s ease-in-out infinite;
+    }
+    @keyframes pulse { 0%,100%{opacity:1} 50%{opacity:0.4} }
+    .threat-label { color: var(--text-muted); }
+    .threat-value { font-weight: 600; letter-spacing: 1px; }
+    .threat-sync { color: var(--text-muted); margin-left: auto; font-size: 10px; }
 
-        .article {
-            background: var(--card-bg);
-            border: 1px solid var(--border);
-            padding: 20px;
-            margin-bottom: 20px;
-            border-left: 4px solid var(--glow);
-            transition: transform 0.2s ease;
-        }
+    /* ── CONTROLS ── */
+    .controls {
+      max-width: 1100px;
+      margin: 0 auto;
+      padding: 0 24px 20px;
+      display: flex;
+      gap: 10px;
+      flex-wrap: wrap;
+      align-items: center;
+    }
+    .search-box {
+      flex: 1;
+      min-width: 200px;
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 4px;
+      padding: 8px 14px;
+      color: var(--text);
+      font-family: 'IBM Plex Mono', monospace;
+      font-size: 12px;
+      outline: none;
+      transition: border-color 0.2s;
+    }
+    .search-box:focus { border-color: var(--green); }
+    .search-box::placeholder { color: var(--text-muted); }
+    .filter-btn {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      color: var(--text-muted);
+      padding: 8px 14px;
+      border-radius: 4px;
+      font-size: 12px;
+      font-family: 'IBM Plex Mono', monospace;
+      cursor: pointer;
+      transition: all 0.2s;
+      letter-spacing: 0.5px;
+    }
+    .filter-btn:hover, .filter-btn.active {
+      border-color: var(--green);
+      color: var(--green);
+      background: rgba(0,255,65,0.05);
+    }
+    #article-count {
+      font-family: 'IBM Plex Mono', monospace;
+      font-size: 11px;
+      color: var(--text-muted);
+      margin-left: auto;
+    }
 
-        .article:hover {
-            transform: translateX(5px);
-            background: #111;
-        }
+    /* ── MAIN LAYOUT ── */
+    .main {
+      max-width: 1100px;
+      margin: 0 auto;
+      padding: 0 24px 60px;
+      display: grid;
+      grid-template-columns: 1fr 280px;
+      gap: 24px;
+    }
 
-        .article h3 { margin: 0 0 10px 0; color: #fff; font-size: 1.2rem; }
-        .article a {
-            color: var(--glow);
-            text-decoration: none;
-            font-weight: bold;
-            border: 1px solid var(--glow);
-            padding: 5px 10px;
-            display: inline-block;
-            margin-top: 10px;
-        }
+    /* ── DATE GROUP ── */
+    .date-group { margin-bottom: 32px; }
+    .date-heading {
+      font-family: 'IBM Plex Mono', monospace;
+      font-size: 11px;
+      color: var(--text-muted);
+      letter-spacing: 2px;
+      text-transform: uppercase;
+      padding: 6px 0;
+      border-bottom: 1px solid var(--border);
+      margin-bottom: 12px;
+    }
+    .date-heading .date-today { color: var(--green); }
 
-        .status-msg {
-            padding: 40px;
-            border: 1px dashed var(--glow);
-            text-align: center;
-        }
-    </style>
+    /* ── ARTICLE CARD ── */
+    .article {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 4px;
+      padding: 16px 20px;
+      margin-bottom: 8px;
+      display: grid;
+      grid-template-columns: 1fr auto;
+      gap: 12px;
+      align-items: start;
+      transition: border-color 0.15s, background 0.15s;
+      position: relative;
+      overflow: hidden;
+    }
+    .article::before {
+      content: '';
+      position: absolute;
+      left: 0; top: 0; bottom: 0;
+      width: 3px;
+      background: var(--border-bright);
+      transition: background 0.2s;
+    }
+    .article:hover { border-color: var(--border-bright); background: var(--surface-2); }
+    .article:hover::before { background: var(--accent); }
+
+    .article-body { min-width: 0; }
+    .article-meta {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      margin-bottom: 6px;
+      flex-wrap: wrap;
+    }
+    .source-badge {
+      font-family: 'IBM Plex Mono', monospace;
+      font-size: 10px;
+      font-weight: 600;
+      color: var(--bg);
+      background: var(--green-dim);
+      padding: 2px 7px;
+      border-radius: 2px;
+      letter-spacing: 0.5px;
+      text-transform: uppercase;
+    }
+    .source-badge.critical { background: var(--red); }
+    .source-badge.elevated { background: var(--yellow); color: #111; }
+    .tag-badge {
+      font-family: 'IBM Plex Mono', monospace;
+      font-size: 10px;
+      color: var(--text-muted);
+      border: 1px solid var(--border-bright);
+      padding: 1px 6px;
+      border-radius: 2px;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+    }
+
+    .article h3 {
+      font-size: 14px;
+      font-weight: 600;
+      color: var(--text-bright);
+      line-height: 1.4;
+      margin-bottom: 6px;
+    }
+    .article p {
+      font-size: 13px;
+      color: var(--text-muted);
+      line-height: 1.55;
+      margin-bottom: 0;
+      display: -webkit-box;
+      -webkit-line-clamp: 2;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+    }
+
+    .article-actions {
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+      flex-shrink: 0;
+    }
+    .btn-read {
+      font-family: 'IBM Plex Mono', monospace;
+      font-size: 11px;
+      color: var(--green);
+      border: 1px solid var(--green);
+      background: transparent;
+      padding: 5px 10px;
+      border-radius: 3px;
+      text-decoration: none;
+      letter-spacing: 0.5px;
+      white-space: nowrap;
+      transition: all 0.15s;
+      text-align: center;
+    }
+    .btn-read:hover { background: rgba(0,255,65,0.08); }
+    .btn-draft {
+      font-family: 'IBM Plex Mono', monospace;
+      font-size: 11px;
+      color: var(--text-muted);
+      border: 1px solid var(--border-bright);
+      background: transparent;
+      padding: 5px 10px;
+      border-radius: 3px;
+      letter-spacing: 0.5px;
+      white-space: nowrap;
+      cursor: pointer;
+      transition: all 0.15s;
+      text-align: center;
+    }
+    .btn-draft:hover { color: #0a66c2; border-color: #0a66c2; background: rgba(10,102,194,0.06); }
+
+    /* ── SIDEBAR ── */
+    .sidebar { display: flex; flex-direction: column; gap: 20px; }
+    .sidebar-card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 4px;
+      padding: 16px;
+    }
+    .sidebar-label {
+      font-family: 'IBM Plex Mono', monospace;
+      font-size: 10px;
+      color: var(--green);
+      letter-spacing: 2px;
+      text-transform: uppercase;
+      margin-bottom: 12px;
+      display: block;
+    }
+    .stat-row {
+      display: flex;
+      justify-content: space-between;
+      padding: 7px 0;
+      border-bottom: 1px solid var(--border);
+      font-size: 12px;
+    }
+    .stat-row:last-child { border-bottom: none; }
+    .stat-row .label { color: var(--text-muted); }
+    .stat-row .val { font-family: 'IBM Plex Mono', monospace; color: var(--text-bright); font-weight: 600; }
+    .stat-row .val.green { color: var(--green); }
+    .stat-row .val.red { color: var(--red); }
+    .stat-row .val.yellow { color: var(--yellow); }
+
+    .nav-links-sidebar a {
+      display: block;
+      color: var(--text-muted);
+      text-decoration: none;
+      font-size: 13px;
+      padding: 6px 0;
+      border-bottom: 1px solid var(--border);
+      transition: color 0.15s;
+    }
+    .nav-links-sidebar a:last-child { border-bottom: none; }
+    .nav-links-sidebar a:hover { color: var(--green); }
+
+    .linkedin-cta {
+      background: linear-gradient(135deg, rgba(10,102,194,0.15), rgba(10,102,194,0.05));
+      border-color: rgba(10,102,194,0.3);
+    }
+    .linkedin-cta .sidebar-label { color: #4a9fd4; }
+    .linkedin-cta p { font-size: 12px; color: var(--text-muted); line-height: 1.5; margin-bottom: 12px; }
+    .linkedin-cta .cta-btn {
+      display: block;
+      background: #0a66c2;
+      color: #fff;
+      text-align: center;
+      padding: 8px;
+      border-radius: 4px;
+      font-size: 12px;
+      font-weight: 600;
+      text-decoration: none;
+      transition: background 0.2s;
+    }
+    .linkedin-cta .cta-btn:hover { background: #004182; }
+
+    /* ── STATUS ── */
+    .status-msg {
+      padding: 40px;
+      border: 1px dashed var(--border-bright);
+      text-align: center;
+      font-family: 'IBM Plex Mono', monospace;
+      font-size: 12px;
+      color: var(--text-muted);
+      border-radius: 4px;
+    }
+
+    /* ── MODAL ── */
+    .modal-overlay {
+      display: none;
+      position: fixed;
+      inset: 0;
+      background: rgba(0,0,0,0.85);
+      z-index: 999;
+      align-items: center;
+      justify-content: center;
+      padding: 20px;
+    }
+    .modal-overlay.open { display: flex; }
+    .modal {
+      background: var(--surface);
+      border: 1px solid var(--border-bright);
+      border-radius: 6px;
+      width: 100%;
+      max-width: 600px;
+      padding: 24px;
+    }
+    .modal-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 16px;
+    }
+    .modal-title {
+      font-family: 'IBM Plex Mono', monospace;
+      font-size: 12px;
+      color: var(--green);
+      letter-spacing: 1.5px;
+      text-transform: uppercase;
+    }
+    .modal-close {
+      background: none;
+      border: none;
+      color: var(--text-muted);
+      font-size: 18px;
+      cursor: pointer;
+      line-height: 1;
+    }
+    .modal-source {
+      font-size: 12px;
+      color: var(--text-muted);
+      margin-bottom: 12px;
+      font-style: italic;
+    }
+    .modal textarea {
+      width: 100%;
+      background: var(--bg);
+      border: 1px solid var(--border-bright);
+      color: var(--text-bright);
+      font-family: 'Inter', sans-serif;
+      font-size: 13px;
+      line-height: 1.6;
+      padding: 14px;
+      border-radius: 4px;
+      resize: vertical;
+      min-height: 200px;
+      outline: none;
+    }
+    .modal textarea:focus { border-color: #0a66c2; }
+    .modal-actions {
+      display: flex;
+      gap: 10px;
+      margin-top: 12px;
+      justify-content: flex-end;
+    }
+    .modal-actions button {
+      font-family: 'IBM Plex Mono', monospace;
+      font-size: 11px;
+      padding: 8px 16px;
+      border-radius: 3px;
+      cursor: pointer;
+      letter-spacing: 0.5px;
+      border: 1px solid;
+    }
+    .btn-copy { background: #0a66c2; color: #fff; border-color: #0a66c2; }
+    .btn-cancel { background: transparent; color: var(--text-muted); border-color: var(--border-bright); }
+    .generating-msg {
+      text-align: center;
+      padding: 30px;
+      font-family: 'IBM Plex Mono', monospace;
+      font-size: 12px;
+      color: var(--green);
+    }
+    .generating-msg .dots::after {
+      content: '';
+      animation: dots 1.2s steps(4,end) infinite;
+    }
+    @keyframes dots {
+      0%{content:''} 25%{content:'.'} 50%{content:'..'} 75%{content:'...'} 100%{content:''}
+    }
+
+    /* ── FOOTER ── */
+    footer {
+      border-top: 1px solid var(--border);
+      padding: 20px 24px;
+      text-align: center;
+      font-family: 'IBM Plex Mono', monospace;
+      font-size: 11px;
+      color: var(--text-muted);
+    }
+    footer a { color: var(--green); text-decoration: none; }
+
+    /* ── RESPONSIVE ── */
+    @media (max-width: 768px) {
+      .main { grid-template-columns: 1fr; }
+      .sidebar { display: none; }
+      nav { padding: 0 16px; }
+      .hero, .controls, .threat-bar { padding-left: 16px; padding-right: 16px; }
+      .main { padding: 0 16px 40px; }
+      .article { grid-template-columns: 1fr; }
+      .article-actions { flex-direction: row; }
+    }
+  </style>
 </head>
 <body>
 
-    <div class="container">
-        <header id="main-header">
-            <h1>SENTINEL_PROTOCOL</h1>
-            <div id="last-updated">STATUS: INITIALIZING_SCAN...</div>
-        </header>
+  <!-- NAV -->
+  <nav>
+    <a class="nav-brand" href="https://kennethlaroche.tech">SHIELD<span>LOGIC</span></a>
+    <div class="nav-links">
+      <a href="https://sentinel.kennethlaroche.tech" class="active">SENTINEL</a>
+      <a href="https://pulse.kennethlaroche.tech">NEURAL PULSE</a>
+      <a href="https://www.linkedin.com/in/kennethlaroche" target="_blank" class="nav-pill">LINKEDIN</a>
+    </div>
+  </nav>
 
-        <div id="news-container">
-            <div class="status-msg">[ SYSTEM_MESSAGE: ESTABLISHING_ENCRYPTED_LINK... ]</div>
-        </div>
+  <!-- HERO -->
+  <div class="hero">
+    <div class="hero-eyebrow">// SHIELDLOGIC INTELLIGENCE NETWORK</div>
+    <h1>SENTINEL_PROTOCOL<span class="cursor"></span></h1>
+    <p class="hero-sub">High-signal cybersecurity intelligence. Breaches, zero-days, CVEs, and perimeter defense — updated automatically every 6 hours.</p>
+  </div>
+
+  <!-- THREAT BAR -->
+  <div class="threat-bar">
+    <div class="threat-inner" id="threat-bar">
+      <div class="threat-dot" id="threat-dot" style="background: var(--text-muted);"></div>
+      <span class="threat-label">THREAT LEVEL:</span>
+      <span class="threat-value" id="threat-value">SCANNING...</span>
+      <span class="threat-sync" id="threat-sync">—</span>
+    </div>
+  </div>
+
+  <!-- CONTROLS -->
+  <div class="controls">
+    <input class="search-box" id="search-input" type="text" placeholder="// filter intel stream..." autocomplete="off">
+    <button class="filter-btn active" data-filter="all">ALL</button>
+    <button class="filter-btn" data-filter="breach">BREACH</button>
+    <button class="filter-btn" data-filter="vuln">VULN</button>
+    <button class="filter-btn" data-filter="ransomware">RANSOMWARE</button>
+    <span id="article-count"></span>
+  </div>
+
+  <!-- MAIN -->
+  <div class="main">
+    <div id="feed-container">
+      <div class="status-msg">[ ESTABLISHING_ENCRYPTED_LINK<span class="dots"></span> ]</div>
     </div>
 
-    <script>
-        document.addEventListener('DOMContentLoaded', () => {
-            const container = document.getElementById('news-container');
-            const header = document.getElementById('main-header');
-            const statusBadge = document.getElementById('last-updated');
+    <!-- SIDEBAR -->
+    <aside class="sidebar" id="sidebar">
+      <!-- Stats card -->
+      <div class="sidebar-card">
+        <span class="sidebar-label">// INTEL STATS</span>
+        <div class="stat-row">
+          <span class="label">Total Signals</span>
+          <span class="val green" id="stat-total">—</span>
+        </div>
+        <div class="stat-row">
+          <span class="label">Threat Level</span>
+          <span class="val" id="stat-threat">—</span>
+        </div>
+        <div class="stat-row">
+          <span class="label">Critical Hits</span>
+          <span class="val red" id="stat-critical">—</span>
+        </div>
+        <div class="stat-row">
+          <span class="label">Last Sync</span>
+          <span class="val" id="stat-sync" style="font-size:10px;">—</span>
+        </div>
+      </div>
 
-            fetch('./data.json')
-                .then(res => {
-                    if (!res.ok) throw new Error('DATA_UNREACHABLE');
-                    return res.json();
-                })
-                .then(data => {
-                    container.innerHTML = ''; 
+      <!-- LinkedIn CTA -->
+      <div class="sidebar-card linkedin-cta">
+        <span class="sidebar-label">// LINKEDIN INTEL</span>
+        <p>Turn any signal into a thought leadership post. Click "Draft Post" on any article to generate a ready-to-edit LinkedIn post.</p>
+        <a class="cta-btn" href="https://www.linkedin.com/in/kennethlaroche" target="_blank">View Profile →</a>
+      </div>
 
-                    // --- THREAT ANALYSIS ENGINE ---
-                    const headlines = data.news.map(n => (n.title + n.description).toLowerCase());
-                    const criticalTerms = ['zero-day', 'critical', 'exploit', 'ransomware', 'rce', 'breach'];
-                    
-                    let threatScore = 0;
-                    headlines.forEach(text => {
-                        criticalTerms.forEach(word => { if (text.includes(word)) threatScore++; });
-                    });
+      <!-- Nav -->
+      <div class="sidebar-card">
+        <span class="sidebar-label">// NETWORK NODES</span>
+        <div class="nav-links-sidebar">
+          <a href="https://kennethlaroche.tech">⬡ ShieldLogic Gateway</a>
+          <a href="https://sentinel.kennethlaroche.tech">⬡ Sentinel Protocol</a>
+          <a href="https://pulse.kennethlaroche.tech">⬡ Neural Pulse</a>
+          <a href="https://www.linkedin.com/in/kennethlaroche" target="_blank">⬡ LinkedIn</a>
+        </div>
+      </div>
+    </aside>
+  </div>
 
-                    let state = { label: 'LOW', color: '#00ff41' };
-                    if (threatScore > 5) state = { label: 'CRITICAL', color: '#ff4444' };
-                    else if (threatScore > 0) state = { label: 'ELEVATED', color: '#ffcc00' };
+  <!-- FOOTER -->
+  <footer>
+    <a href="https://kennethlaroche.tech">SHIELDLOGIC</a> &nbsp;·&nbsp; SENTINEL_PROTOCOL &nbsp;·&nbsp; AUTO-SYNC EVERY 6H VIA GITHUB ACTIONS
+  </footer>
 
-                    // Apply Threat UI
-                    header.style.borderColor = state.color;
-                    statusBadge.style.color = state.color;
-                    statusBadge.innerHTML = `[ THREAT_LEVEL: ${state.label} ] | SYNC: ${data.updated}`;
+  <!-- LINKEDIN DRAFT MODAL -->
+  <div class="modal-overlay" id="modal">
+    <div class="modal">
+      <div class="modal-header">
+        <span class="modal-title">// DRAFT LINKEDIN POST</span>
+        <button class="modal-close" id="modal-close">✕</button>
+      </div>
+      <div id="modal-source" class="modal-source"></div>
+      <div id="modal-body"></div>
+      <div class="modal-actions">
+        <button class="btn-cancel" id="modal-cancel">CANCEL</button>
+        <button class="btn-copy" id="modal-copy">COPY TO CLIPBOARD</button>
+      </div>
+    </div>
+  </div>
 
-                    // --- RENDER CONTENT ---
-                    if (data.news && data.news.length > 0) {
-                        data.news.forEach(art => {
-                            const div = document.createElement('div');
-                            div.className = 'article';
-                            div.style.borderLeftColor = state.color;
-                            
-                            // Basic XSS Mitigation
-                            const title = art.title.replace(/</g, "&lt;");
-                            const desc = (art.description || "No intel summary available.").replace(/</g, "&lt;");
+<script>
+// ── CONFIG ──────────────────────────────────────────────────────────────────
+const TAGS = {
+  breach:     ['breach','leaked','data exposed','records exposed','hack','compromised'],
+  vuln:       ['zero-day','cve','vulnerability','exploit','rce','patch','flaw'],
+  ransomware: ['ransomware','extortion','lockbit','cl0p','blackcat','ransom'],
+};
 
-                            div.innerHTML = `
-                                <h3>${title}</h3>
-                                <p>${desc}</p>
-                                <a href="${art.url}" target="_blank" rel="noopener noreferrer">> ACCESS_INTEL</a>
-                            `;
-                            container.appendChild(div);
-                        });
-                    } else {
-                        container.innerHTML = '<div class="status-msg">[ WARNING: NO_NEW_SIGNALS_IN_CURRENT_CYCLE ]</div>';
-                    }
-                })
-                .catch(err => {
-                    statusBadge.style.color = "#ff4444";
-                    statusBadge.innerText = "STATUS: SIGNAL_LOST";
-                    container.innerHTML = `<div class="status-msg" style="color:#ff4444; border-color:#ff4444;">[ ERROR: PERIMETER_OFFLINE ]<br>Manual Check Required in GitHub Actions.</div>`;
-                });
-        });
-    </script>
+const THREAT_TERMS = {
+  critical: ['zero-day','critical','rce','ransomware','breach','exploit','compromise'],
+  elevated: ['vulnerability','cve','patch','warning','alert','advisory'],
+};
+
+// ── HELPERS ─────────────────────────────────────────────────────────────────
+function detectTags(text) {
+  const lower = text.toLowerCase();
+  return Object.entries(TAGS)
+    .filter(([, words]) => words.some(w => lower.includes(w)))
+    .map(([tag]) => tag);
+}
+
+function computeThreat(articles) {
+  let critical = 0, elevated = 0;
+  articles.forEach(a => {
+    const t = (a.title + ' ' + a.description).toLowerCase();
+    if (THREAT_TERMS.critical.some(w => t.includes(w))) critical++;
+    else if (THREAT_TERMS.elevated.some(w => t.includes(w))) elevated++;
+  });
+  if (critical > 5) return { label: 'CRITICAL', color: '#ff4444', score: critical };
+  if (critical > 0) return { label: 'ELEVATED', color: '#ffcc00', score: critical };
+  return { label: 'LOW', color: '#00ff41', score: 0 };
+}
+
+function groupByDate(articles) {
+  const groups = {};
+  const today = new Date().toDateString();
+  articles.forEach(a => {
+    const d = a.date ? new Date(a.date).toDateString() : 'Unknown Date';
+    if (!groups[d]) groups[d] = [];
+    groups[d].push(a);
+  });
+  return groups;
+}
+
+function formatDateLabel(dateStr) {
+  if (dateStr === 'Unknown Date') return dateStr;
+  const d = new Date(dateStr);
+  const today = new Date().toDateString();
+  const yesterday = new Date(Date.now() - 86400000).toDateString();
+  if (d.toDateString() === today) return `<span class="date-today">TODAY — </span>${d.toLocaleDateString('en-US',{weekday:'long',month:'long',day:'numeric',year:'numeric'}).toUpperCase()}`;
+  if (d.toDateString() === yesterday) return `YESTERDAY — ${d.toLocaleDateString('en-US',{weekday:'long',month:'long',day:'numeric',year:'numeric'}).toUpperCase()}`;
+  return d.toLocaleDateString('en-US',{weekday:'long',month:'long',day:'numeric',year:'numeric'}).toUpperCase();
+}
+
+function extractSource(description) {
+  const m = description && description.match(/^\[([^\]]+)\]/);
+  return m ? m[1] : 'INTEL';
+}
+
+// ── RENDER ───────────────────────────────────────────────────────────────────
+function renderFeed(articles, threatState) {
+  const container = document.getElementById('feed-container');
+  if (!articles.length) {
+    container.innerHTML = '<div class="status-msg">[ NO SIGNALS MATCH CURRENT FILTER ]</div>';
+    return;
+  }
+
+  const groups = groupByDate(articles);
+  container.innerHTML = '';
+
+  Object.entries(groups).forEach(([dateKey, arts]) => {
+    const group = document.createElement('div');
+    group.className = 'date-group';
+    group.innerHTML = `<div class="date-heading">${formatDateLabel(dateKey)}</div>`;
+
+    arts.forEach(art => {
+      const tags = detectTags(art.title + ' ' + art.description);
+      const source = extractSource(art.description);
+      const isCritical = THREAT_TERMS.critical.some(w => (art.title+art.description).toLowerCase().includes(w));
+
+      const card = document.createElement('div');
+      card.className = 'article';
+      card.dataset.title = art.title.toLowerCase();
+      card.dataset.desc = (art.description||'').toLowerCase();
+      card.dataset.tags = tags.join(',');
+
+      const tagBadges = tags.map(t => `<span class="tag-badge">${t}</span>`).join('');
+      const sourceBadgeClass = isCritical ? 'critical' : '';
+
+      card.innerHTML = `
+        <div class="article-body">
+          <div class="article-meta">
+            <span class="source-badge ${sourceBadgeClass}">${source}</span>
+            ${tagBadges}
+          </div>
+          <h3>${art.title.replace(/</g,'&lt;')}</h3>
+          <p>${(art.description||'No summary available.').replace(/^\[[^\]]+\]\s*/,'').replace(/</g,'&lt;')}</p>
+        </div>
+        <div class="article-actions">
+          <a class="btn-read" href="${art.url}" target="_blank" rel="noopener noreferrer">&gt; READ</a>
+          <button class="btn-draft" data-title="${art.title.replace(/"/g,'&quot;')}" data-desc="${(art.description||'').replace(/"/g,'&quot;')}">⬡ DRAFT POST</button>
+        </div>
+      `;
+      group.appendChild(card);
+    });
+
+    container.appendChild(group);
+  });
+
+  // Bind draft buttons
+  container.querySelectorAll('.btn-draft').forEach(btn => {
+    btn.addEventListener('click', () => openDraftModal(btn.dataset.title, btn.dataset.desc));
+  });
+}
+
+// ── LINKEDIN DRAFT MODAL ─────────────────────────────────────────────────────
+function openDraftModal(title, desc) {
+  const modal = document.getElementById('modal');
+  const body = document.getElementById('modal-body');
+  const sourceEl = document.getElementById('modal-source');
+
+  sourceEl.textContent = `Source: ${title}`;
+  body.innerHTML = `<div class="generating-msg">GENERATING LINKEDIN DRAFT<span class="dots"></span></div>`;
+  modal.classList.add('open');
+
+  // Build a thoughtful draft without API (phase 1 — static template)
+  // Phase 2 will swap this for a live Claude API call
+  const cleanDesc = desc.replace(/^\[[^\]]+\]\s*/,'');
+  const draft = generateDraft(title, cleanDesc);
+
+  setTimeout(() => {
+    body.innerHTML = `<textarea id="draft-text">${draft}</textarea>`;
+  }, 900);
+}
+
+function generateDraft(title, desc) {
+  return `🔐 ${title}
+
+${desc ? desc + '\n\n' : ''}Here's what this means in practice:
+
+As someone working in federal cybersecurity and GRC, I see this pattern constantly. The gap isn't just technical — it's governance. Organizations invest in tools but skip the control frameworks that make those tools meaningful under audit.
+
+Whether you're navigating FISMA, FedRAMP, or building out a cloud security posture, the signal here is clear: threat actors are moving faster than most ATO timelines.
+
+Questions worth asking your team today:
+→ Is your POA&M current against this threat vector?
+→ Do your cloud configs reflect your current CONOPS?
+→ Are your incident response playbooks tested, not just written?
+
+The organizations that stay ahead of this aren't the ones with the biggest budgets — they're the ones with the tightest feedback loops between operations and governance.
+
+#Cybersecurity #GRC #CloudSecurity #FedRAMP #FISMA #InfoSec #RiskManagement`;
+}
+
+function copyToClipboard() {
+  const ta = document.getElementById('draft-text');
+  if (!ta) return;
+  navigator.clipboard.writeText(ta.value).then(() => {
+    const btn = document.getElementById('modal-copy');
+    btn.textContent = 'COPIED ✓';
+    setTimeout(() => btn.textContent = 'COPY TO CLIPBOARD', 2000);
+  });
+}
+
+document.getElementById('modal-close').addEventListener('click', () => document.getElementById('modal').classList.remove('open'));
+document.getElementById('modal-cancel').addEventListener('click', () => document.getElementById('modal').classList.remove('open'));
+document.getElementById('modal-copy').addEventListener('click', copyToClipboard);
+document.getElementById('modal').addEventListener('click', e => { if (e.target === e.currentTarget) e.currentTarget.classList.remove('open'); });
+
+// ── FILTERS & SEARCH ─────────────────────────────────────────────────────────
+let allArticles = [];
+let activeFilter = 'all';
+
+function applyFilters() {
+  const query = document.getElementById('search-input').value.toLowerCase().trim();
+  let filtered = allArticles;
+
+  if (activeFilter !== 'all') {
+    filtered = filtered.filter(a => {
+      const tags = detectTags(a.title + ' ' + a.description);
+      return tags.includes(activeFilter);
+    });
+  }
+
+  if (query) {
+    filtered = filtered.filter(a =>
+      a.title.toLowerCase().includes(query) ||
+      (a.description||'').toLowerCase().includes(query)
+    );
+  }
+
+  document.getElementById('article-count').textContent = `${filtered.length} SIGNALS`;
+  const threat = computeThreat(filtered);
+  renderFeed(filtered, threat);
+}
+
+document.getElementById('search-input').addEventListener('input', applyFilters);
+document.querySelectorAll('.filter-btn').forEach(btn => {
+  btn.addEventListener('click', () => {
+    document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+    btn.classList.add('active');
+    activeFilter = btn.dataset.filter;
+    applyFilters();
+  });
+});
+
+// ── INIT ─────────────────────────────────────────────────────────────────────
+document.addEventListener('DOMContentLoaded', () => {
+  fetch('./data.json')
+    .then(r => { if (!r.ok) throw new Error('DATA_UNREACHABLE'); return r.json(); })
+    .then(data => {
+      allArticles = data.news || [];
+      const threat = computeThreat(allArticles);
+
+      // Threat bar
+      const dot = document.getElementById('threat-dot');
+      const val = document.getElementById('threat-value');
+      dot.style.background = threat.color;
+      val.style.color = threat.color;
+      val.textContent = threat.label;
+      document.getElementById('threat-sync').textContent = `LAST SYNC: ${data.updated || '—'}`;
+
+      // Sidebar stats
+      document.getElementById('stat-total').textContent = allArticles.length;
+      document.getElementById('stat-threat').textContent = threat.label;
+      document.getElementById('stat-threat').style.color = threat.color;
+      document.getElementById('stat-critical').textContent = threat.score;
+      document.getElementById('stat-sync').textContent = data.updated || '—';
+
+      // Render
+      document.getElementById('article-count').textContent = `${allArticles.length} SIGNALS`;
+      renderFeed(allArticles, threat);
+    })
+    .catch(() => {
+      document.getElementById('threat-value').textContent = 'SIGNAL_LOST';
+      document.getElementById('threat-dot').style.background = '#ff4444';
+      document.getElementById('feed-container').innerHTML =
+        '<div class="status-msg" style="color:#ff4444;border-color:#ff4444;">[ ERROR: DATA_UNREACHABLE — CHECK GITHUB ACTIONS ]</div>';
+    });
+});
+</script>
 </body>
 </html>
