@@ -748,42 +748,122 @@ function renderFeed(articles, threatState) {
 }
 
 // ── LINKEDIN DRAFT MODAL ─────────────────────────────────────────────────────
-function openDraftModal(title, desc) {
+
+// ── PHASE 2: CLAUDE API DRAFT ─────────────────────────────────────────────────
+
+const SENTINEL_SYSTEM_PROMPT = `You are a ghostwriter for Kenneth LaRoche, a senior federal cybersecurity professional.
+
+Background:
+- ISSO at Centers for Medicare and Medicaid Services (CMS) since 2016, 20+ years in federal cybersecurity and IT
+- Previously at U.S. Department of Labor Office of Inspector General
+- Army veteran, trained at Ft. Sill as a 13X tracking toward the data systems side of field artillery
+- CISSP, GSLC, AWS Cloud Practitioner, AWS AI Practitioner, CySA+, PenTest+, Security+
+- Just finished an MS in Cybersecurity and Information Assurance from WGU
+- Based in Clayton, NC
+
+Voice rules:
+- Conversational, inquisitive, direct. No fluff.
+- No em-dashes. Use commas or short sentences instead.
+- No hashtags.
+- No calls to action. Never use "drop a comment", "follow me", "share this", or "let me know below".
+- Short paragraphs, 1 to 3 sentences each.
+- 150 to 220 words total maximum.
+
+Structure every post:
+1. Open with a specific moment or observation from Kenneth's actual experience. Not "I have been thinking about..." -- start in the middle of a real situation.
+2. Connect it to the article topic in 1 to 2 sentences. Be direct about the link.
+3. State the implication or insight clearly without over-explaining.
+4. End with one genuine question people will want to answer because they have an opinion, not because they were prompted.`;
+
+const PULSE_SYSTEM_PROMPT = `You are a ghostwriter for Kenneth LaRoche, a senior federal cybersecurity professional who closely tracks AI and emerging technology.
+
+Background:
+- ISSO at Centers for Medicare and Medicaid Services (CMS) since 2016, 20+ years in federal cybersecurity and IT
+- Participated in security and risk evaluations of AI-enabled platforms at CMS
+- Previously at U.S. Department of Labor Office of Inspector General
+- Army veteran, trained at Ft. Sill as a 13X tracking toward the data systems side of field artillery
+- CISSP, GSLC, AWS Cloud Practitioner, AWS AI Practitioner, CySA+, PenTest+, Security+
+- Just finished an MS in Cybersecurity and Information Assurance from WGU
+- Based in Clayton, NC
+
+Voice rules:
+- Conversational, inquisitive, direct. No fluff.
+- No em-dashes. Use commas or short sentences instead.
+- No hashtags.
+- No calls to action. Never use "drop a comment", "follow me", "share this", or "let me know below".
+- Short paragraphs, 1 to 3 sentences each.
+- 150 to 220 words total maximum.
+
+Structure every post:
+1. Open with a specific moment or observation from Kenneth's actual experience. Not "I have been thinking about..." -- start in the middle of a real situation.
+2. Connect it to the article topic in 1 to 2 sentences. Be direct about the link.
+3. State the implication or insight clearly without over-explaining.
+4. End with one genuine question people will want to answer because they have an opinion, not because they were prompted.`;
+
+function getApiKey() {
+  let key = localStorage.getItem('anthropic_api_key');
+  if (!key) {
+    key = prompt('Enter your Anthropic API key to enable AI-generated drafts:\n(Stored only in your browser, never sent anywhere except api.anthropic.com)');
+    if (key && key.trim()) localStorage.setItem('anthropic_api_key', key.trim());
+  }
+  return key ? key.trim() : null;
+}
+
+async function callClaudeAPI(systemPrompt, articleTitle, articleDesc) {
+  const apiKey = getApiKey();
+  if (!apiKey) return null;
+
+  const userMsg = articleDesc
+    ? `Article title: ${articleTitle}\n\nArticle summary: ${articleDesc}`
+    : `Article title: ${articleTitle}`;
+
+  const resp = await fetch('https://api.anthropic.com/v1/messages', {
+    method: 'POST',
+    headers: {
+      'Content-Type': 'application/json',
+      'x-api-key': apiKey,
+      'anthropic-version': '2023-06-01',
+      'anthropic-dangerous-direct-browser-access': 'true'
+    },
+    body: JSON.stringify({
+      model: 'claude-haiku-4-5-20251001',
+      max_tokens: 512,
+      system: systemPrompt,
+      messages: [{ role: 'user', content: userMsg }]
+    })
+  });
+
+  if (!resp.ok) {
+    const err = await resp.json().catch(() => ({}));
+    if (resp.status === 401) {
+      localStorage.removeItem('anthropic_api_key');
+      throw new Error('Invalid API key -- cleared. Click Draft Post again to re-enter.');
+    }
+    throw new Error(err.error?.message || `API error ${resp.status}`);
+  }
+
+  const data = await resp.json();
+  return data.content?.[0]?.text || '';
+}
+
+async function openDraftModal(title, desc) {
   const modal = document.getElementById('modal');
   const body = document.getElementById('modal-body');
   const sourceEl = document.getElementById('modal-source');
 
   sourceEl.textContent = `Source: ${title}`;
-  body.innerHTML = `<div class="generating-msg">GENERATING LINKEDIN DRAFT<span class="dots"></span></div>`;
+  body.innerHTML = '<div class="generating-msg">GENERATING LINKEDIN DRAFT<span class="dots"></span></div>';
   modal.classList.add('open');
 
-  // Build a thoughtful draft without API (phase 1 — static template)
-  // Phase 2 will swap this for a live Claude API call
-  const cleanDesc = desc.replace(/^\[[^\]]+\]\s*/,'');
-  const draft = generateDraft(title, cleanDesc);
-
-  setTimeout(() => {
-    body.innerHTML = `<textarea id="draft-text">${draft}</textarea>`;
-  }, 900);
-}
-
-function generateDraft(title, desc) {
-  return `🔐 ${title}
-
-${desc ? desc + '\n\n' : ''}Here's what this means in practice:
-
-As someone working in federal cybersecurity and GRC, I see this pattern constantly. The gap isn't just technical — it's governance. Organizations invest in tools but skip the control frameworks that make those tools meaningful under audit.
-
-Whether you're navigating FISMA, FedRAMP, or building out a cloud security posture, the signal here is clear: threat actors are moving faster than most ATO timelines.
-
-Questions worth asking your team today:
-→ Is your POA&M current against this threat vector?
-→ Do your cloud configs reflect your current CONOPS?
-→ Are your incident response playbooks tested, not just written?
-
-The organizations that stay ahead of this aren't the ones with the biggest budgets — they're the ones with the tightest feedback loops between operations and governance.
-
-#Cybersecurity #GRC #CloudSecurity #FedRAMP #FISMA #InfoSec #RiskManagement`;
+  const cleanDesc = desc.replace(/^\[[^\]]+\]\s*/, '');
+  try {
+    const draft = await callClaudeAPI(SENTINEL_SYSTEM_PROMPT, title, cleanDesc);
+    if (!draft) { modal.classList.remove('open'); return; }
+    body.innerHTML = '<textarea id="draft-text"></textarea>';
+    document.getElementById('draft-text').value = draft;
+  } catch(e) {
+    body.innerHTML = `<div class="generating-msg" style="color:#f87171">${e.message}</div>`;
+  }
 }
 
 function copyToClipboard() {
