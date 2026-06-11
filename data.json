@@ -1,6 +1,24 @@
 {
-  "updated": "2026-06-11 18:05:09 UTC",
+  "updated": "2026-06-11 20:09:49 UTC",
   "news": [
+    {
+      "title": "Oracle mitigates PeopleSoft zero-day exploited in data theft attacks",
+      "description": "[BLEEPINGCOMPUTER] Oracle is warning about a critical PeopleSoft Suite zero-day vulnerability tracked as CVE-2026-35273 that allows unauthenticated remote code execution, with the flaw actively exploited in ShinyHunter data theft attacks. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/oracle-mitigates-peoplesoft-zero-day-exploited-in-data-theft-attacks/",
+      "date": "2026-06-11T19:39:53Z"
+    },
+    {
+      "title": "New Attacks Trick OpenClaw AI Agent Into Running Code and Leaking Secrets",
+      "description": "[FEEDS] Two security teams have shown, in separate research published this week, that OpenClaw, the popular self-hosted AI agent, can be driven to run attacker-controlled code or hand over sensitive data through ordinary-looking inputs. Imperva buried...",
+      "url": "https://thehackernews.com/2026/06/new-attacks-trick-openclaw-ai-agent.html",
+      "date": "2026-06-11T17:46:32Z"
+    },
+    {
+      "title": "New GreatXML Exploit Bypasses Windows BitLocker via Recovery Partition XML Files",
+      "description": "[FEEDS] Security researcher Chaotic Eclipse (aka Nightmare-Eclipse and MSNightmare) has released a new Windows BitLocker bypass dubbed GreatXML, a day after they published an exploit for Microsoft Defender. \"This was an accidental discovery, it took a total...",
+      "url": "https://thehackernews.com/2026/06/new-greatxml-exploit-bypasses-windows.html",
+      "date": "2026-06-11T17:43:52Z"
+    },
     {
       "title": "The Gentlemen Ransomware Claims 478 Victims, Can Spread Like a Worm",
       "description": "[FEEDS] A new analysis of The Gentlemen operation has revealed that the financially motivated threat group initially operated as an affiliate responsible for conducting double extortion attacks, while leveraging resources from various...",
@@ -44,6 +62,12 @@
       "date": "2026-06-11T12:46:44Z"
     },
     {
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "description": "[CISA] CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-10520 Ivanti Sentry OS Command Injection Vulnerability This type of vulnerability is a frequent attack...",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/06/11/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "date": "2026-06-11T12:00:00Z"
+    },
+    {
       "title": "AI Broke Vulnerability Management. That's Why CISOs Are Moving Budget to BAS.",
       "description": "[FEEDS] For thirty years, vulnerability management ran on a buffer: the months between when a vulnerability was found and when someone could figure out how to weaponize it. The solution was straightforward enough; triage by severity, schedule the fix,...",
       "url": "https://thehackernews.com/2026/06/ai-broke-vulnerability-management-thats.html",
@@ -56,88 +80,70 @@
       "date": "2026-06-11T11:01:19Z"
     },
     {
-      "title": "OceanLotus Hits Vietnam Investors With SPECTRALVIPER in FireAnt Attack",
-      "description": "[FEEDS] The Vietnam-aligned threat actor known as OceanLotus has been attributed to two distinct campaigns that targeted domestic entities and stock investors with a backdoor known as SPECTRALVIPER. The campaigns involve a prolonged cyber espionage...",
-      "url": "https://thehackernews.com/2026/06/oceanlotus-hits-vietnam-investors-with.html",
-      "date": "2026-06-11T09:45:58Z"
-    },
-    {
       "title": "Microsoft fixes BitLocker recovery bug on Windows Server 2025",
       "description": "[BLEEPINGCOMPUTER] Microsoft has resolved a known issue causing some Windows Server 2025 devices to boot into BitLocker recovery after installing the April 2026 security update. [...]",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bitlocker-recovery-bug-on-windows-server-2025/",
       "date": "2026-06-11T08:44:22Z"
     },
     {
-      "title": "Nottingham University data breach affects over 450,000 students",
-      "description": "[BLEEPINGCOMPUTER] The University of Nottingham confirmed on Wednesday that a hacking group gained access to its student records system in a breach affecting both current students and alums. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/nottingham-university-data-breach-affects-over-450-000-students/",
-      "date": "2026-06-11T07:27:53Z"
+      "title": "Coupang Faces $409 Million Fine as Korean Regulator Cites Cybersecurity Failures",
+      "description": "[MARKETSCREENER] Coupang's South Korean entity was hit with a record 624.7 billion won fine for a major data breach and associated privacy violations that impacted nearly 34 million accounts, Bloomberg reported...",
+      "url": "https://www.marketscreener.com/news/coupang-faces-409-million-fine-as-korean-regulator-cites-cybersecurity-failures-ce7f5cdbd08bf12d",
+      "date": "2026-06-11T08:06:42Z"
     },
     {
-      "title": "GitHub to Disable npm Install Scripts by Default to Stop Supply Chain Attacks",
-      "description": "[FEEDS] GitHub has announced what it said are \"breaking changes\" coming to npm version 12, one of which turns off install scripts by default to combat software supply chain threats. The changes aim to combat attack techniques that abuse the \"npm install\"...",
-      "url": "https://thehackernews.com/2026/06/github-to-disable-npm-install-scripts.html",
-      "date": "2026-06-11T06:23:03Z"
+      "title": "'I Got Into Cybersecurity For Fun At 13': Nisarga Adhikary On Joining IIT Kanpur",
+      "description": "[NDTV.COM] Nisarga Adhikary has joined IIT Kanpur's C3iHub as an OSINT and threat intelligence engineer focusing on cybersecurity research.",
+      "url": "https://www.ndtv.com/education/i-got-into-cybersecurity-for-fun-at-13-nisarga-adhikary-on-joining-iit-kanpur-11621536",
+      "date": "2026-06-11T07:42:44Z"
+    },
+    {
+      "title": "At 19, he got a job at IIT Kanpur; meet hacker Nisarga Adhikary who exposed CBSE portal flaws",
+      "description": "[INDIA TV NEWS] Nisarga Adhikary has been appointed as an engineer in our cybersecurity team, he is among the youngest to get a role in the institute, IIT Kanpur director Manindra Agrawal said.",
+      "url": "https://www.indiatvnews.com/education/news/at-19-he-got-a-job-at-iit-kanpur-meet-hacker-nisarga-adhikary-who-exposed-cbse-portal-flaws-2026-06-11-1044455",
+      "date": "2026-06-11T07:32:13Z"
+    },
+    {
+      "title": "South Korea fines Coupang record $409 million for data breach",
+      "description": "[FORTUNE] Coupang has been under fire after regulators discovered a former employee improperly accessed personal information from nearly 34 million accounts.",
+      "url": "https://fortune.com/2026/06/11/south-korea-fines-coupang-record-409-million-for-data-breach/",
+      "date": "2026-06-11T07:14:37Z"
+    },
+    {
+      "title": "Microsoft patches record 206 Windows bugs in June update - and 3 are zero days",
+      "description": "[ZDNET] Among the 206 vulnerabilities are 32 critical ones and three publicly disclosed zero-day flaws, so you'll want to install this update ASAP.",
+      "url": "https://www.zdnet.com/article/microsofts-june-windows-update-fixes-198-bugs-install-patch-asap/",
+      "date": "2026-06-11T07:02:00Z"
+    },
+    {
+      "title": "Why Anthropic's \u2018Mythos-Class\u2019 Claude Fable 5 faced backlash from developers, researchers",
+      "description": "[MONEYCONTROL] Researchers, startups, and policy experts are questioning Anthropic's silent AI restrictions on frontier LLM development through Fable 5 and rejecting basic tasks in areas like biology, and cybersecurity, due to strict safety guardrails.",
+      "url": "https://www.moneycontrol.com/artificial-intelligence/why-anthropic-s-mythos-class-claude-fable-5-faced-backlash-from-developers-researchers-article-13946945.html",
+      "date": "2026-06-11T06:39:13Z"
+    },
+    {
+      "title": "'Biological Risks May Soon Follow': Anthropic CEO Dario Amodei Warns AI Could Trigger Cyberattacks, Job Losses & Authoritarian Surveillance",
+      "description": "[FREE PRESS JOURNAL] Dario Amodei has warned that AI is advancing far faster than governments can respond. In his essay, he cites Anthropic\u2019s Claude Mythos Preview as evidence that cybersecurity, employment, and national security risks are real. Amodei calls for binding...",
+      "url": "https://www.freepressjournal.in/tech/biological-risks-may-soon-follow-anthropic-ceo-dario-amodei-warns-ai-could-trigger-cyberattacks-job-losses-authoritarian-surveillance",
+      "date": "2026-06-11T06:32:23Z"
+    },
+    {
+      "title": "Coupang Fined Record $410 Million In South Korea Over Data Breach & Privacy Violations Affecting 37.5 Million Users",
+      "description": "[FREE PRESS JOURNAL] South Korea",
+      "url": "https://www.freepressjournal.in/tech/coupang-fined-record-410-million-in-south-korea-over-data-breach-privacy-violations-affecting-375-million-users",
+      "date": "2026-06-11T06:11:23Z"
+    },
+    {
+      "title": "CBSE OSM Whistleblower Nisarga Adhikary Joins IIT Kanpur's C3iHub as Threat Intelligence Engineer",
+      "description": "[TIMES NOW] Weeks after raising concerns over alleged vulnerabilities in CBSE's On-Screen Marking portal, 19-year-old cybersecurity researcher Nisarga Adhikary has been appointed as an OSINT and Threat Intelligence Engineer at IIT Kanpur's C3iHub., Education,...",
+      "url": "https://www.timesnownews.com/education/cbse-osm-whistleblower-nisarga-adhikary-joins-iit-kanpurs-c3ihub-as-threat-intelligence-engineer-article-154571744",
+      "date": "2026-06-11T06:06:55Z"
     },
     {
       "title": "One Of America\u2019s Biggest Cyberattacks Reportedly Began With A Single Weak Password",
       "description": "[NEWS18] The Colonial Pipeline ransomware attack that disrupted fuel supplies across the United States in 2021 was reportedly traced back to one compromised password.",
       "url": "https://www.news18.com/viral/one-of-americas-biggest-cyberattacks-reportedly-began-with-a-single-weak-password-ws-l-10139694.html",
       "date": "2026-06-11T06:00:39Z"
-    },
-    {
-      "title": "South Korea fines Coupang $409m in country's largest data breach penalty",
-      "description": "[NIKKEI ASIA] SEOUL (Reuters) -- South Korea will fine e-commerce giant Coupang 625 billion won ($409.30 million) over a massive leak of customer information last y",
-      "url": "https://asia.nikkei.com/business/companies/south-korea-fines-coupang-409m-in-country-s-largest-data-breach-penalty",
-      "date": "2026-06-11T05:19:45Z"
-    },
-    {
-      "title": "Who is Nisarga Adhikary? IIT Kanpur Hires 19-Year-Old Cyber Expert Who Exposed CBSE OSM Portal Flaws, Check Salary Details",
-      "description": "[NEWSX] Nisarga Adhikary, a 19-year-old cybersecurity researcher, has been appointed as an OSINT and Threat Intelligence Engineer at IIT Kanpur's C3iHub. His recruitment comes weeks after he disclosed critical vulnerabilities in CBSE's On-Screen Marking...",
-      "url": "https://www.newsx.com/india/nisarga-adhikary-iit-kanpur-hires-19-year-old-cyber-expert-who-exposed-cbse-osm-portal-flaws-check-salary-details-232877/",
-      "date": "2026-06-11T05:02:01Z"
-    },
-    {
-      "title": "South Korea Fines Coupang Record 624.7 Billion Won Over Data Breach",
-      "description": "[MARKETSCREENER] South Korea's Personal Information Protection Commission imposed a record 624.7 billion won fine on Coupang over a large-scale personal data breach, Bloomberg News reported Thursday. The penalty is...",
-      "url": "https://www.marketscreener.com/news/south-korea-fines-coupang-record-624-7-billion-won-over-data-breach-ce7f5cdbde8ef324",
-      "date": "2026-06-11T04:09:16Z"
-    },
-    {
-      "title": "Coupang fined record $410 million over huge data breach, unauthorised data collection",
-      "description": "[LOKMAT TIMES] Coupang fined record $410 million over huge data breach, unauthorised data collection - Seoul, June 11 South Korea's data protection regulator on Thursday fined e-commerce company Coupang a record 624.7 billion ... Get Latest News on Business only...",
-      "url": "https://www.lokmattimes.com/business/coupang-fined-record-410-million-over-huge-data-breach-unauthorised-data-collection/",
-      "date": "2026-06-11T03:49:13Z"
-    },
-    {
-      "title": "Coupang fined record $410 million over huge data breach, unauthorised data collection",
-      "description": "[LOKMAT TIMES] Coupang fined record $410 million over huge data breach, unauthorised data collection - Seoul, June 11 South Korea's data protection regulator on Thursday fined e-commerce company Coupang a record 624.7 billion ... Get Latest News on Technology only...",
-      "url": "https://www.lokmattimes.com/technology/coupang-fined-record-410-million-over-huge-data-breach-unauthorised-data-collection-1/",
-      "date": "2026-06-11T03:49:13Z"
-    },
-    {
-      "title": "South Korea fines Coupang $409 million in country's largest data breach penalty",
-      "description": "[THE ECONOMIC TIMES] The Personal Information Protection Commission said the New York-listed company had leaked personal data of more than 33 million customers and failed to detect the breach within the 72 hours required by the law.",
-      "url": "https://economictimes.indiatimes.com/tech/technology/south-korea-fines-coupang-409-million-in-countrys-largest-data-breach-penalty/articleshow/131648401.cms",
-      "date": "2026-06-11T03:47:16Z"
-    },
-    {
-      "title": "CBSE OSM vulnerability finder Nisarga Adhikary hired by IIT Kanpur",
-      "description": "[INDIA TODAY] After flagging vulnerabilities in CBSE's OSM portal, teenager Nisarga Adhikary has joined IIT Kanpur's C3iHub as an OSINT and Threat Intelligence Engineer. The move highlights how responsible disclosure and practical cybersecurity skills are gaining...",
-      "url": "https://www.indiatoday.in/education-today/news/story/cbse-osm-vulnerability-finder-nisarga-adhikary-hired-by-iit-kanpur-2924925-2026-06-11",
-      "date": "2026-06-11T03:38:17Z"
-    },
-    {
-      "title": "South Korea hits e-commerce giant Coupang with record US$409 million fine for data breach",
-      "description": "[SOUTH CHINA MORNING POST] \u2018Inadequate basic safeguards\u2019 resulted in the personal data of around 37.5 million users being exposed, the privacy commission found.",
-      "url": "https://www.scmp.com/news/asia/east-asia/article/3356690/south-korea-hits-e-commerce-giant-coupang-record-us409-million-fine-data-breach",
-      "date": "2026-06-11T03:32:03Z"
-    },
-    {
-      "title": "South Korea fines Coupang $409 mln in country's largest data breach penalty",
-      "description": "[MARKETSCREENER] South Korea will fine e-commerce giant Coupang 625 billion won over a massive leak of customer information last year and illegal collection of personal information, in the country's largest data...",
-      "url": "https://www.marketscreener.com/news/south-korea-fines-coupang-409-mln-in-country-s-largest-data-breach-penalty-ce7f5cdbde8ff424",
-      "date": "2026-06-11T03:19:13Z"
     },
     {
       "title": "ISC Stormcast For Thursday, June 11th, 2026 https://isc.sans.edu/podcastdetail/9968, (Thu, Jun 11th)",
@@ -234,12 +240,6 @@
       "description": "[CISA] CISA has added two new vulnerabilities to its&nbsp;Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2022-0492 Linux Kernel Improper Authentication Vulnerability CVE-2025-48595 Android Framework Integer...",
       "url": "https://www.cisa.gov/news-events/alerts/2026/06/02/cisa-adds-two-known-exploited-vulnerabilities-catalog",
       "date": "2026-06-02T12:00:00Z"
-    },
-    {
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "description": "[CISA] CISA has added one new vulnerability to its&nbsp;Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2024-21182 Oracle WebLogic Server Unspecified Vulnerability This type of vulnerability is a frequent attack...",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/06/01/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "date": "2026-06-01T12:00:00Z"
     }
   ]
 }
