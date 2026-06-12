@@ -1,6 +1,48 @@
 {
-  "updated": "2026-06-12 16:37:51 UTC",
+  "updated": "2026-06-12 19:53:13 UTC",
   "news": [
+    {
+      "title": "Maine disables data breach notification portal after fake disclosures",
+      "description": "[BLEEPINGCOMPUTER] Maine has taken its public data breach reporting portal offline after fraudulent breach disclosures were published on the state's website, prompting a review of procedures to prevent abuse in the future. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/maine-disables-data-breach-notification-portal-after-fake-disclosures/",
+      "date": "2026-06-12T19:33:32Z"
+    },
+    {
+      "title": "400+ Arch Linux AUR Packages Hijacked to Install Rust Credential Stealer",
+      "description": "[FEEDS] Attackers took over more than 400 packages in the Arch User Repository (AUR) this week and rewrote their build scripts to install a credential stealer on any machine that built them. The malware is a Rust binary built to harvest developer secrets....",
+      "url": "https://thehackernews.com/2026/06/400-arch-linux-aur-packages-hijacked-to.html",
+      "date": "2026-06-12T19:24:50Z"
+    },
+    {
+      "title": "Google Sues Chinese Smishing Network Accused of Using Gemini AI in Phishing",
+      "description": "[FEEDS] Google on Friday said it's pursuing legal action against a Chinese cybercrime network, accusing it of using its Gemini artificial intelligence (AI) agent to send phishing text messages targeting Americans. The network is said to be behind the...",
+      "url": "https://thehackernews.com/2026/06/google-sues-chinese-smishing-network.html",
+      "date": "2026-06-12T18:59:32Z"
+    },
+    {
+      "title": "phpBB forum fixes auth bypass bug lurking for a decade",
+      "description": "[BLEEPINGCOMPUTER] A 10-year-old authentication bypass vulnerability discovered in the phpBB forum software allows an attacker to log in as any user, including administrators. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/phpbb-forum-fixes-auth-bypass-bug-lurking-for-a-decade/",
+      "date": "2026-06-12T18:19:34Z"
+    },
+    {
+      "title": "China-Linked Hackers Backdoored Linux Login Software to Hide for Nearly a Decade",
+      "description": "[FEEDS] Instead of hiding on the laptops and servers defenders watch most closely, a China-nexus group spent close to a decade hidden inside the Linux login system itself. Sygnia, which tracks the group as Velvet Ant, says it backdoored the PAM and OpenSSH...",
+      "url": "https://thehackernews.com/2026/06/china-linked-hackers-backdoored-linux.html",
+      "date": "2026-06-12T18:17:55Z"
+    },
+    {
+      "title": "Ukrainian national pleads guilty to role in Conti ransomware operation",
+      "description": "[BLEEPINGCOMPUTER] A Ukrainian national extradited from Ireland to the United States last year has pleaded guilty to conspiracy charges tied to the Conti ransomware operation. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/ukrainian-national-pleads-guilty-to-role-in-conti-ransomware-operation/",
+      "date": "2026-06-12T17:54:28Z"
+    },
+    {
+      "title": "Over 400 Arch Linux packages compromised to push rootkit, infostealer",
+      "description": "[BLEEPINGCOMPUTER] More than 400 packages in the Arch User Repository (AUR) are distributing a Linux rootkit and infostealer malware targeting credentials and access tokens. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/over-400-arch-linux-packages-compromised-to-push-rootkit-infostealer/",
+      "date": "2026-06-12T17:03:55Z"
+    },
     {
       "title": "Early Warning Signs of Supply-Chain Attacks Live in the Dark Web",
       "description": "[BLEEPINGCOMPUTER] GitHub access sales, leaked repositories, and stolen API keys can all become supply-chain attack footholds. Flare explores how underground forums expose early signals tied to software supply-chain risk. [...]",
@@ -18,6 +60,12 @@
       "description": "[FEEDS] Cybersecurity researchers have described what they say is a new class of attack that can trick artificial intelligence (AI) coding agents into running arbitrary code on developer machines. Called Agentjacking by Tenet Security, the attack can be...",
       "url": "https://thehackernews.com/2026/06/agentjacking-attack-tricks-ai-coding.html",
       "date": "2026-06-12T12:04:33Z"
+    },
+    {
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "description": "[CISA] CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-35273 Oracle PeopleSoft Enterprise PeopleTools Missing Authentication for Critical Function Vulnerability...",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/06/12/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "date": "2026-06-12T12:00:00Z"
     },
     {
       "title": "Microsoft fixes Windows update failures linked to WUSA installer",
@@ -38,40 +86,46 @@
       "date": "2026-06-12T11:00:00Z"
     },
     {
-      "title": "Pharma giant Novo Nordisk discloses breach of clinical trials data",
-      "description": "[BLEEPINGCOMPUTER] Danish pharmaceutical giant Novo Nordisk, the world's largest producer of insulin, disclosed a data breach affecting patient information from some clinical trials. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/pharmaceutical-giant-novo-nordisk-discloses-security-breach/",
-      "date": "2026-06-12T10:13:19Z"
-    },
-    {
       "title": "LangGraph Flaw Chain Exposes Self-Hosted AI Agents to Remote Code Execution",
       "description": "[FEEDS] Cybersecurity researchers have disclosed details of three now-patched security flaws impacting LangGraph, including a critical vulnerability chain that could result in remote code execution. LangGraph is an open-source framework created by LangChain...",
       "url": "https://thehackernews.com/2026/06/langgraph-flaw-chain-exposes-self.html",
       "date": "2026-06-12T09:50:36Z"
     },
     {
-      "title": "INTERPOL Operation Takes Down Sniper Dz Phishing Platform, Arrests Administrator",
-      "description": "[FEEDS] An INTERPOL-led operation last month resulted in the disruption of Sniper Dz, a decade-long phishing-as-a-service (PhaaS) platform, Group-IB said Thursday. The effort, codenamed Operation Ramz, took place between October 2025 and February 2026, and...",
-      "url": "https://thehackernews.com/2026/06/interpol-takes-down-sniper-dz-phishing.html",
-      "date": "2026-06-12T08:52:55Z"
-    },
-    {
-      "title": "CISA orders feds to patch actively exploited Ivanti flaw by Sunday",
-      "description": "[BLEEPINGCOMPUTER] The U.S. Cybersecurity and Infrastructure Security Agency (CISA) ordered government agencies to patch an actively exploited Ivanti Sentry flaw within three days, as mandated by the newly issued Binding Operational Directive (BOD) 26-04. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-gives-feds-3-days-to-patch-ivanti-flaw-exploited-in-attacks/",
-      "date": "2026-06-12T08:26:55Z"
-    },
-    {
-      "title": "Over 73,000 French govt employees affected in Tchap messenger breach",
-      "description": "[BLEEPINGCOMPUTER] The French government revealed that a recent breach of its Tchap encrypted messaging platform affects the accounts of over 73,000 employees in the French public sector. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/french-govt-says-tchap-breach-affected-over-73-000-accounts/",
-      "date": "2026-06-12T07:09:11Z"
+      "title": "Why Theom Chose Hyderabad for Its India Expansion",
+      "description": "[DECCAN CHRONICLE] Theom, the AI-driven data security company has launched its India operations in Hyderabad, banking on the city\u2019s deep talent pool, cybersecurity ecosystem and growing influence in artificial intelligence.",
+      "url": "https://www.deccanchronicle.com/technology/hyderabads-talent-and-cyber-ecosystem-draw-theom-to-the-city-1963079",
+      "date": "2026-06-12T06:49:52Z"
     },
     {
       "title": "Europol Disrupts AudiA6 Crypto Laundering Service Used by Ransomware Gangs",
-      "description": "[FEEDS] Authorities in Europe have disrupted AudiA6, a cryptocurrency laundering service used by ransomware gangs and cybercriminal networks. Europol, in a statement issued Thursday, said the dismantling of AudiA6 cut off a \"key financial pipeline used to...",
+      "description": "[THE HACKER NEWS] Europol dismantled AudiA6, a crypto laundering service that washed \u20ac336M for ransomware gangs and cybercrime networks since 2021.",
       "url": "https://thehackernews.com/2026/06/europol-disrupts-audia6-crypto.html",
-      "date": "2026-06-12T06:38:41Z"
+      "date": "2026-06-12T06:38:00Z"
+    },
+    {
+      "title": "Explained: How ShinyHunters Hacked Over 100 Organisations Using An Oracle Bug",
+      "description": "[TIMES NOW] Cybersecurity experts from Google's Threat Intelligence Group have alerted that the hacking group ShinyHunters exploited a significant vulnerability in Oracle PeopleSoft to target over 100 organisations., Technology & Science, Times Now",
+      "url": "https://www.timesnownews.com/technology-science/explained-how-shinyhunters-hacked-over-100-organisations-using-an-oracle-bug-article-154580216",
+      "date": "2026-06-12T06:07:17Z"
+    },
+    {
+      "title": "Forget phishing: This dangerous hacker group is physically walking into offices to steal data",
+      "description": "[THE STAR] A sophisticated ransomware group is bypassing firewalls by physically walking into corporate offices and plugging USB drives straight into computers.",
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/06/12/forget-phishing-this-dangerous-hacker-group-is-physically-walking-into-offices-to-steal-data",
+      "date": "2026-06-12T05:30:00Z"
+    },
+    {
+      "title": "IIT Kanpur Bachelor of Cybersecurity 2026: Admission via JEE Main, hackathon",
+      "description": "[INDIA TODAY] IIT Kanpur has launched a Bachelor of Cybersecurity programme from the 2026\u201327 session. The course drops JEE Advanced and adds a skills-based admission route with a hackathon.",
+      "url": "https://www.indiatoday.in/education-today/news/story/iit-kanpur-bachelor-of-cybersecurity-2026-admission-via-jee-main-hackathon-2925523-2026-06-12",
+      "date": "2026-06-12T05:27:57Z"
+    },
+    {
+      "title": "University of Tulsa cybersecurity program moves amid AI boom",
+      "description": "[TULSA WORLD] The program \u2014 now housed at 101 E. Archer, along with the Oklahoma Center for the Humanities \u2014 is focused on developing, testing and implementing cyber research and technology.",
+      "url": "https://tulsaworld.com/news/local/education/article_1703a27b-946a-4b3a-b0dd-1fb2ec61e1be.html",
+      "date": "2026-06-12T05:00:00Z"
     },
     {
       "title": "CM Vijay\u2019s Niti push: SSA dues and youth skill plan",
@@ -96,54 +150,6 @@
       "description": "[TIMES NOW] IIT Kanpur has launched a Bachelor of Cybersecurity programme with admissions based on JEE Main, cybersecurity experience, and a hackathon-based selection process., Education, Times Now",
       "url": "https://www.timesnownews.com/education/iit-kanpur-launches-b-cyber-programme-admissions-through-jee-main-cybersecurity-portfolio-and-hackathon-article-154579340",
       "date": "2026-06-12T02:16:31Z"
-    },
-    {
-      "title": "Google warns of active Oracle PeopleSoft exploitation campaign linked to ShinyHunters",
-      "description": "[ITWIRE] Google's cybersecurity teams have uncovered an active compromise and extortion campaign targeting Oracle PeopleSoft environments, with the activity attributed to the...",
-      "url": "https://itwire.com/business-it-news/security/google-warns-of-active-oracle-peoplesoft-exploitation-campaign-linked-to-shinyhunters",
-      "date": "2026-06-12T02:00:00Z"
-    },
-    {
-      "title": "Google says ShinyHunters hackers targeting education sector via Oracle exploit",
-      "description": "[THE STAR] June 11 (Reuters) - Alphabet's \u2060cybersecurity unit Mandiant and Google Threat Intelligence Group \u2060said Thursday they had identified an active compromise \u200cand extortion campaign targeting Oracle's PeopleSoft enterprise software, which they attributed...",
-      "url": "https://www.thestar.com.my/tech/tech-news/2026/06/12/google-says-shinyhunters-hackers-targeting-education-sector-via-oracle-exploit",
-      "date": "2026-06-12T01:36:00Z"
-    },
-    {
-      "title": "The Impact of Sedentary IT Jobs on Spinal Health",
-      "description": "[TECHBULLION] In the fast-paced world of information technology, software development, and cybersecurity, professionals routinely log twelve-hour",
-      "url": "https://techbullion.com/the-impact-of-sedentary-it-jobs-on-spinal-health/",
-      "date": "2026-06-12T01:35:20Z"
-    },
-    {
-      "title": "IT Press Tour: 'Everybody's going to the cloud? I just laugh' - ExaGrid's Bill Andrews on why the data centre never left",
-      "description": "[ITWIRE] The last big independent in backup storage walked The IT Press Tour through 22 profitable quarters, a 74% win rate and an AI tripwire for ransomware. The most interesting thing...",
-      "url": "https://itwire.com/business-it-news/storage/it-press-tour-everybodys-going-to-the-cloud-i-just-laugh-exagrids-bill-andrews-on-why-the-data-centre-never-left",
-      "date": "2026-06-12T01:04:17Z"
-    },
-    {
-      "title": "Scott Alldridge Releases New Book Showing Why Most Cybersecurity Breaches Stem from Governance Failures Rather Than Technology Weaknesses",
-      "description": "[THE MANILA TIMES] VisibleOps: The Anatomy of Cybersecurity Breaches reveals how leadership decisions, governance failures, and operational breakdowns, not technology alone, have fueled some of the most significant cyber incidents in modern history.",
-      "url": "https://www.manilatimes.net/2026/06/12/tmt-newswire/globenewswire/scott-alldridge-releases-new-book-showing-why-most-cybersecurity-breaches-stem-from-governance-failures-rather-than-technology-weaknesses/2364145",
-      "date": "2026-06-12T00:19:06Z"
-    },
-    {
-      "title": "IIT Kanpur to start UG programme in cybersecurity from this session",
-      "description": "[HINDUSTAN TIMES] IIT Kanpur will launch a Bachelor of Cybersecurity in 2026, focusing on real-world training and admissions through a hackathon, not JEE Advanced. | India News",
-      "url": "https://www.hindustantimes.com/india-news/iit-kanpur-to-start-ug-programme-in-cybersecurity-from-this-session-101781204911765.html",
-      "date": "2026-06-12T00:10:13Z"
-    },
-    {
-      "title": "Japanese energy firm loses drive with data of 10.9 million clients",
-      "description": "[BLEEPINGCOMPUTER] Kyushu Electric Power Co., Inc. has disclosed a physical security incident that affects private data of more than 10 million customers. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/japanese-energy-firm-loses-drive-with-data-of-109-million-clients/",
-      "date": "2026-06-11T23:14:16Z"
-    },
-    {
-      "title": "ShinyHunters Exploits Oracle PeopleSoft Zero-Day (CVE-2026-35273) to Breach Universities",
-      "description": "[FEEDS] The ShinyHunters extortion crew exploited an unpatched flaw in Oracle PeopleSoft to break into enterprise systems, steal data, and demand payment to keep it private. The campaign hit universities hardest. Google's Mandiant attributes it to the group...",
-      "url": "https://thehackernews.com/2026/06/shinyhunters-exploits-oracle-peoplesoft.html",
-      "date": "2026-06-11T20:29:23Z"
     },
     {
       "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
@@ -234,12 +240,6 @@
       "description": "[CISA] CISA has added one new vulnerability to its&nbsp;Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-45247&nbsp;Mirasvit Full Page Cache Warmer Deserialization of Untrusted Data Vulnerability This type...",
       "url": "https://www.cisa.gov/news-events/alerts/2026/06/03/cisa-adds-one-known-exploited-vulnerability-catalog",
       "date": "2026-06-03T12:00:00Z"
-    },
-    {
-      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
-      "description": "[CISA] CISA has added two new vulnerabilities to its&nbsp;Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2022-0492 Linux Kernel Improper Authentication Vulnerability CVE-2025-48595 Android Framework Integer...",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/06/02/cisa-adds-two-known-exploited-vulnerabilities-catalog",
-      "date": "2026-06-02T12:00:00Z"
     }
   ]
 }
