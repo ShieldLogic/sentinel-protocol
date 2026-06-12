@@ -1,239 +1,137 @@
 {
-  "updated": "2026-06-12 12:49:05 UTC",
-  "news": [
-    {
-      "title": "ISC Stormcast For Friday, June 12th, 2026 https://isc.sans.edu/podcastdetail/9970, (Fri, Jun 12th)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33074",
-      "date": "2026-06-12T12:30:10Z"
-    },
-    {
-      "title": "Agentjacking Attack Tricks AI Coding Agents Into Running Malicious Code",
-      "description": "[FEEDS] Cybersecurity researchers have described what they say is a new class of attack that can trick artificial intelligence (AI) coding agents into running arbitrary code on developer machines. Called Agentjacking by Tenet Security, the attack can be...",
-      "url": "https://thehackernews.com/2026/06/agentjacking-attack-tricks-ai-coding.html",
-      "date": "2026-06-12T12:04:33Z"
-    },
-    {
-      "title": "Microsoft fixes Windows update failures linked to WUSA installer",
-      "description": "[BLEEPINGCOMPUTER] Microsoft has fixed a known issue that caused Windows updates released since May 2025 to fail when installed via the Windows Update Standalone Installer (WUSA) from a network share. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-update-failures-linked-to-wusa-installer/",
-      "date": "2026-06-12T11:44:58Z"
-    },
-    {
-      "title": "Bernie Sanders\u2019 AI Sovereign Wealth Fund Plan",
-      "description": "[SCHNEIER] Let no one accuse Bernie Sanders of ducking the big questions. Writing in the New York Times last week, the senator asked: &#8220;Will the future of humanity be determined by a handful of billionaires who have promoted and developed AI, with...",
-      "url": "https://www.schneier.com/blog/archives/2026/06/bernie-sanders-ai-sovereign-wealth-fund-plan.html",
-      "date": "2026-06-12T11:03:17Z"
-    },
-    {
-      "title": "Rethinking MDR as Attackers and Defenders Embrace AI",
-      "description": "[FEEDS] For most of the past decade, managed detection and response was the answer to a real problem. Security teams couldn't staff around the clock, couldn't hire enough analysts, and needed someone else to handle the alert queue. MDR stepped in. It worked...",
-      "url": "https://thehackernews.com/2026/06/rethinking-mdr-as-attackers-and.html",
-      "date": "2026-06-12T11:00:00Z"
-    },
-    {
-      "title": "Pharma giant Novo Nordisk discloses breach of clinical trials data",
-      "description": "[BLEEPINGCOMPUTER] Danish pharmaceutical giant Novo Nordisk, the world's largest producer of insulin, disclosed a data breach affecting patient information from some clinical trials. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/pharmaceutical-giant-novo-nordisk-discloses-security-breach/",
-      "date": "2026-06-12T10:13:19Z"
-    },
-    {
-      "title": "LangGraph Flaw Chain Exposes Self-Hosted AI Agents to Remote Code Execution",
-      "description": "[FEEDS] Cybersecurity researchers have disclosed details of three now-patched security flaws impacting LangGraph, including a critical vulnerability chain that could result in remote code execution. LangGraph is an open-source framework created by LangChain...",
-      "url": "https://thehackernews.com/2026/06/langgraph-flaw-chain-exposes-self.html",
-      "date": "2026-06-12T09:50:36Z"
-    },
-    {
-      "title": "INTERPOL Operation Takes Down Sniper Dz Phishing Platform, Arrests Administrator",
-      "description": "[FEEDS] An INTERPOL-led operation last month resulted in the disruption of Sniper Dz, a decade-long phishing-as-a-service (PhaaS) platform, Group-IB said Thursday. The effort, codenamed Operation Ramz, took place between October 2025 and February 2026, and...",
-      "url": "https://thehackernews.com/2026/06/interpol-takes-down-sniper-dz-phishing.html",
-      "date": "2026-06-12T08:52:55Z"
-    },
-    {
-      "title": "CISA orders feds to patch actively exploited Ivanti flaw by Sunday",
-      "description": "[BLEEPINGCOMPUTER] The U.S. Cybersecurity and Infrastructure Security Agency (CISA) ordered government agencies to patch an actively exploited Ivanti Sentry flaw within three days, as mandated by the newly issued Binding Operational Directive (BOD) 26-04. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-gives-feds-3-days-to-patch-ivanti-flaw-exploited-in-attacks/",
-      "date": "2026-06-12T08:26:55Z"
-    },
-    {
-      "title": "Over 73,000 French govt employees affected in Tchap messenger breach",
-      "description": "[BLEEPINGCOMPUTER] The French government revealed that a recent breach of its Tchap encrypted messaging platform affects the accounts of over 73,000 employees in the French public sector. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/french-govt-says-tchap-breach-affected-over-73-000-accounts/",
-      "date": "2026-06-12T07:09:11Z"
-    },
-    {
-      "title": "Europol Disrupts AudiA6 Crypto Laundering Service Used by Ransomware Gangs",
-      "description": "[FEEDS] Authorities in Europe have disrupted AudiA6, a cryptocurrency laundering service used by ransomware gangs and cybercriminal networks. Europol, in a statement issued Thursday, said the dismantling of AudiA6 cut off a \"key financial pipeline used to...",
-      "url": "https://thehackernews.com/2026/06/europol-disrupts-audia6-crypto.html",
-      "date": "2026-06-12T06:38:41Z"
-    },
-    {
-      "title": "Scott Alldridge Releases New Book Showing Why Most Cybersecurity Breaches Stem from Governance Failures Rather Than Technology Weaknesses",
-      "description": "[THE MANILA TIMES] VisibleOps: The Anatomy of Cybersecurity Breaches reveals how leadership decisions, governance failures, and operational breakdowns, not technology alone, have fueled some of the most significant cyber incidents in modern history.",
-      "url": "https://www.manilatimes.net/2026/06/12/tmt-newswire/globenewswire/scott-alldridge-releases-new-book-showing-why-most-cybersecurity-breaches-stem-from-governance-failures-rather-than-technology-weaknesses/2364145",
-      "date": "2026-06-12T00:19:06Z"
-    },
-    {
-      "title": "IIT Kanpur to start UG programme in cybersecurity from this session",
-      "description": "[HINDUSTAN TIMES] IIT Kanpur will launch a Bachelor of Cybersecurity in 2026, focusing on real-world training and admissions through a hackathon, not JEE Advanced. | India News",
-      "url": "https://www.hindustantimes.com/india-news/iit-kanpur-to-start-ug-programme-in-cybersecurity-from-this-session-101781204911765.html",
-      "date": "2026-06-12T00:10:13Z"
-    },
-    {
-      "title": "Japanese energy firm loses drive with data of 10.9 million clients",
-      "description": "[BLEEPINGCOMPUTER] Kyushu Electric Power Co., Inc. has disclosed a physical security incident that affects private data of more than 10 million customers. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/japanese-energy-firm-loses-drive-with-data-of-109-million-clients/",
-      "date": "2026-06-11T23:14:16Z"
-    },
-    {
-      "title": "Maine breach portal abused to publish fake data breach disclosures",
-      "description": "[BLEEPINGCOMPUTER] In an unusual misinformation campaign, fraudulent data breach disclosures were submitted to Maine's official breach portal and publicly posted before their legitimacy could be verified, prompting companies to deny the claims. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/maine-breach-portal-abused-to-publish-fake-data-breach-disclosures/",
-      "date": "2026-06-11T22:44:58Z"
-    },
-    {
-      "title": "ShinyHunters breached 100+ companies through an unpatched Oracle PeopleSoft zero-day",
-      "description": "[TNW] ShinyHunters exploited CVE-2026-35273 (CVSS 9.8) to breach 100+ organisations using Oracle PeopleSoft. Two-thirds are universities. No patch exists yet.",
-      "url": "https://thenextweb.com/news/oracle-peoplesoft-shinyhunters-zero-day-100-companies",
-      "date": "2026-06-11T21:10:46Z"
-    },
-    {
-      "title": "Google says ShinyHunters hackers targeting education sector via Oracle exploit",
-      "description": "[REUTERS] Alphabet's cybersecurity unit Mandiant and Google Threat Intelligence Group said Thursday they had identified an \u200bactive compromise and extortion campaign targeting Oracle's PeopleSoft \u200centerprise software, which they attributed to the hacking group...",
-      "url": "https://www.reuters.com/legal/government/google-says-shinyhunters-hackers-targeting-education-sector-via-oracle-exploit-2026-06-11/",
-      "date": "2026-06-11T20:36:51Z"
-    },
-    {
-      "title": "ShinyHunters Exploits Oracle PeopleSoft Zero-Day (CVE-2026-35273) to Breach Universities",
-      "description": "[FEEDS] The ShinyHunters extortion crew exploited an unpatched flaw in Oracle PeopleSoft to break into enterprise systems, steal data, and demand payment to keep it private. The campaign hit universities hardest. Google's Mandiant attributes it to the group...",
-      "url": "https://thehackernews.com/2026/06/shinyhunters-exploits-oracle-peoplesoft.html",
-      "date": "2026-06-11T20:29:23Z"
-    },
-    {
-      "title": "Global Operation Dismantles Crypto Laundering Network Handling Hundreds Of Millions In Illicit Funds",
-      "description": "[INTERNATIONAL BUSINESS TIMES] Authorities across multiple jurisdictions dismantled a cryptocurrency laundering infrastructure accused of processing over \u20ac336 million in illicit digital assets and supporting ransomware-linked",
-      "url": "https://www.ibtimes.com/global-operation-dismantles-crypto-laundering-network-handling-hundreds-millions-illicit-funds-3803977",
-      "date": "2026-06-11T19:12:51Z"
-    },
-    {
-      "title": "OpenAI Adds Cybersecurity Veteran To Lead Its Cyber Team",
-      "description": "[BENZINGA] OpenAI has added another cybersecurity veteran to its roster, as the company looks to beef up its headcount.",
-      "url": "https://www.benzinga.com/markets/private-markets/26/06/53152834/openai-adds-cybersecurity-veteran-to-lead-cyber-team",
-      "date": "2026-06-11T18:46:17Z"
-    },
-    {
-      "title": "Europol and J-CAT Help Dismantle 'AudiA6' Crypto Laundering Network Linked to 336 Million Euros",
-      "description": "[FIRSTPOST] An international law enforcement operation dismantled the Audi A6 crypto-laundering network, seizing assets and infrastructure linked to over European 336 million in illicit transactions tied to cybercrime and ransomware groups",
-      "url": "https://www.firstpost.com/tech/europol-and-j-cat-help-dismantle-audia6-crypto-laundering-network-linked-to-336-million-euros-14021496.html",
-      "date": "2026-06-11T18:24:14Z"
-    },
-    {
-      "title": "Tanium Undergoes Leadership Changes, Executive Exits",
-      "description": "[BUSINESS INSIDER] Tanium, a Seattle-based cybersecurity firm, underwent leadership changes with top executives exiting.",
-      "url": "https://www.businessinsider.com/tanium-undergoes-leadership-changes-executive-exits-2026-6",
-      "date": "2026-06-11T18:02:54Z"
-    },
-    {
-      "title": "Anthropic launches powerful Fable 5 model publicly, while keeping Mythos restricted over cybersecurity concerns",
-      "description": "[TECHSPOT] Mythos has already shown what it can do when it is not heavily restricted. Since April, when an earlier preview was sent to about 150 organizations under...",
-      "url": "https://www.techspot.com/news/112726-anthropic-launches-powerful-fable-5-model-publicly-while.html",
-      "date": "2026-06-11T17:19:00Z"
-    },
-    {
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "description": "[CISA] CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-10520 Ivanti Sentry OS Command Injection Vulnerability This type of vulnerability is a frequent attack...",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/06/11/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "date": "2026-06-11T12:00:00Z"
-    },
-    {
-      "title": "Enhanced License Plate Tracking",
-      "description": "[SCHNEIER] The surveillance company Leonardo wants more data: A surveillance company plans to add sensors to automatic license plate readers (ALPRs) that would mean the devices, as well as capture the license plate of passing vehicles, would also sweep up...",
-      "url": "https://www.schneier.com/blog/archives/2026/06/enhanced-license-plate-tracking.html",
-      "date": "2026-06-11T11:01:19Z"
-    },
-    {
-      "title": "ISC Stormcast For Thursday, June 11th, 2026 https://isc.sans.edu/podcastdetail/9968, (Thu, Jun 11th)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33070",
-      "date": "2026-06-11T02:25:21Z"
-    },
-    {
-      "title": "NSO Group Hacking WhatsApp Despite Court Order",
-      "description": "[SCHNEIER] WhatsApp has caught the NSO Group phishing its users, in violation of a court order.",
-      "url": "https://www.schneier.com/blog/archives/2026/06/nso-group-hacking-whatsapp-despite-court-order.html",
-      "date": "2026-06-10T11:08:59Z"
-    },
-    {
-      "title": "How has use of framing protection security headers changed in the past 3 years&#x3f;, (Wed, Jun 10th)",
-      "description": "[ISC] Back in 2023, I wrote a diary&#x5b;1&#x5d; discussing how commonly X-Frame-Options and CSP headers containing the frame-ancestors directive were used on 1 million most popular domains on the internet (based on the Tranco list&#x5b;2&#x5d;), and how...",
-      "url": "https://isc.sans.edu/diary/rss/33068",
-      "date": "2026-06-10T08:29:21Z"
-    },
-    {
-      "title": "ISC Stormcast For Wednesday, June 10th, 2026 https://isc.sans.edu/podcastdetail/9966, (Wed, Jun 10th)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33066",
-      "date": "2026-06-10T02:00:02Z"
-    },
-    {
-      "title": "Microsoft June 2026 Patch Tuesday, (Tue, Jun 9th)",
-      "description": "[ISC] Microsoft today released patches for 204 vulnerabilities. 38 of these vulnerabilities are considered critical, and three have been disclosed before today. Six of the vulnerabilities affect Microsoft cloud solutions and do not require any user...",
-      "url": "https://isc.sans.edu/diary/rss/33064",
-      "date": "2026-06-09T17:34:29Z"
-    },
-    {
-      "title": "GPS As a Key Distribution Platform",
-      "description": "[SCHNEIER] This is interesting: The U.S. military has likely been quietly broadcasting codes for its global encryption network using public GPS for nearly 20 years, turning each satellite into a hidden &#8220;numbers station,&#8221; according to Steven...",
-      "url": "https://www.schneier.com/blog/archives/2026/06/gps-as-a-key-distribution-platform.html",
-      "date": "2026-06-09T15:06:49Z"
-    },
-    {
-      "title": "CISA Adds Three Known Exploited Vulnerabilities to Catalog",
-      "description": "[CISA] CISA has added three new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-7473 Arista Extensible Operating System Incomplete Comparison with Missing Factors Vulnerability...",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/06/09/cisa-adds-three-known-exploited-vulnerabilities-catalog",
-      "date": "2026-06-09T12:00:00Z"
-    },
-    {
-      "title": "ISC Stormcast For Tuesday, June 9th, 2026 https://isc.sans.edu/podcastdetail/9964, (Tue, Jun 9th)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33062",
-      "date": "2026-06-09T02:00:03Z"
-    },
-    {
-      "title": "Critical Zcash Vulnerability Found and Fixed",
-      "description": "[SCHNEIER] If you&#8217;re a user&#8212;owner?&#8212;of this cryptocurrency, this is important: On May 29, the security researcher Taylor Hornby found a critical vulnerability in Zcash Orchard privacy pool using Claude Opus 4.8. The Zcash team hired Hornby...",
-      "url": "https://www.schneier.com/blog/archives/2026/06/critical-zcash-vulnerability-found-and-fixed.html",
-      "date": "2026-06-08T17:06:53Z"
-    },
-    {
-      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
-      "description": "[CISA] CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-42271 BerriAI LiteLLM Command Injection Vulnerability CVE-2026-50751 Check Point Security Gateway...",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/06/08/cisa-adds-two-known-exploited-vulnerabilities-catalog",
-      "date": "2026-06-08T12:00:00Z"
-    },
-    {
-      "title": "Anthropic\u2019s Project Glasswing Update",
-      "description": "[SCHNEIER] In April, Anthropic initated Project Glasswing. The idea was to let companies use their new model to find and fix vulnerabilities in their own software. It was a fantastic PR move, and so many press outlets have uncritically parroted...",
-      "url": "https://www.schneier.com/blog/archives/2026/06/anthropics-project-glasswing-update.html",
-      "date": "2026-06-08T11:01:47Z"
-    },
-    {
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "description": "[CISA] CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-28318 SolarWinds Serv-U Uncontrolled Resource Consumption Vulnerability This type of vulnerability is a...",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/06/05/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "date": "2026-06-05T12:00:00Z"
-    },
-    {
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "description": "[CISA] CISA has added one new vulnerability to its&nbsp;Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-45247&nbsp;Mirasvit Full Page Cache Warmer Deserialization of Untrusted Data Vulnerability This type...",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/06/03/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "date": "2026-06-03T12:00:00Z"
-    },
-    {
-      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
-      "description": "[CISA] CISA has added two new vulnerabilities to its&nbsp;Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2022-0492 Linux Kernel Improper Authentication Vulnerability CVE-2025-48595 Android Framework Integer...",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/06/02/cisa-adds-two-known-exploited-vulnerabilities-catalog",
-      "date": "2026-06-02T12:00:00Z"
-    }
-  ]
+    "title": "Sentinel Protocol",
+    "tagline": "Perimeter Intelligence Sync",
+    "updated": "2026-06-12 14:07 UTC",
+    "news": [
+        {
+            "source": {
+                "id": null,
+                "name": "MarketBeat"
+            },
+            "author": "MarketBeat",
+            "title": "Haivision Systems Q2 Earnings Call Highlights",
+            "description": "Haivision Systems (TSE:HAI) reported lower fiscal second-quarter revenue and reduced its full-year outlook, citing geopolitical uncertainty, procurement...",
+            "url": "https://www.marketbeat.com/instant-alerts/haivision-systems-q2-earnings-call-highlights-2026-06-11/?utm_source=yahoofinance&amp;utm_medium=yahoofinance",
+            "urlToImage": "https://s.yimg.com/os/en/marketbeat_955/161b605ef51c8d3c12aa97322a2daa51",
+            "publishedAt": "2026-06-11T14:05:53Z",
+            "content": "Key Points\r\n<ul><li>Interested in Haivision Systems Inc.? Here are five stocks we like better.\r\n</li><li>Haivision cut its fiscal 2026 revenue outlook to CAD 140 millionCAD 142 million after Q2 reven\u2026 [+9022 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MarketBeat"
+            },
+            "author": "MarketBeat",
+            "title": "Driven Brands Q1 Earnings Call Highlights",
+            "description": "Driven Brands (NASDAQ:DRVN) reported higher first-quarter 2026 sales and revenue while reiterating its full-year outlook, as management pointed to continued...",
+            "url": "https://www.marketbeat.com/instant-alerts/driven-brands-q1-earnings-call-highlights-2026-06-11/?utm_source=yahoofinance&amp;utm_medium=yahoofinance",
+            "urlToImage": "https://s.yimg.com/lo/mysterio/api/B0DC2BAB3B9EC88ABE0215209095F8BD865856CD6266616583F1112ECB40FF56/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmarketbeat_955%2Fb84fbc0557b992453890b848e372a55d",
+            "publishedAt": "2026-06-11T14:05:52Z",
+            "content": "Key Points\r\n<ul><li>Interested in Driven Brands Holdings Inc.? Here are five stocks we like better.\r\n</li><li>Driven Brands reported a solid Q1 with revenue up 8.2% to $484.4 million and reiterated i\u2026 [+9047 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MarketBeat"
+            },
+            "author": "MarketBeat",
+            "title": "Lovesac Q1 Earnings Call Highlights",
+            "description": "Lovesac (NASDAQ:LOVE) reported nearly flat first-quarter fiscal 2027 revenue as management said the company continued to gain share in a pressured furniture...",
+            "url": "https://www.marketbeat.com/instant-alerts/lovesac-q1-earnings-call-highlights-2026-06-11/?utm_source=yahoofinance&amp;utm_medium=yahoofinance",
+            "urlToImage": "https://s.yimg.com/lo/mysterio/api/795509314F9D752A54B3E2ACCC51F73EAC6AB1B1DA82C7B57D18C8D0EA04B45E/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmarketbeat_955%2F37ae39a656b51ec0857e223298439adb",
+            "publishedAt": "2026-06-11T14:05:52Z",
+            "content": "Key Points\r\n<ul><li>Interested in The Lovesac Company? Here are five stocks we like better.\r\n</li><li>Lovesac's first-quarter revenue was essentially flat at $138.2 million, outperforming a weak furn\u2026 [+10123 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "SiliconANGLE News"
+            },
+            "author": "Thomas Godwin",
+            "title": "AWS launches FinOps agent to bring AI cost governance to cloud spend",
+            "description": "AI cost governance is moving to the center of enterprise cloud strategies, and AWS is responding with a new autonomous agent that\u2019s designed to manage the complexity of the change. The FinOps agent, launched in feature preview at FinOps X 2026, monitors cloud\u2026",
+            "url": "https://siliconangle.com/2026/06/11/aws-launches-finops-agent-bring-ai-cost-governance-cloud-spend-finopsx/",
+            "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/06/IMG_0809.jpg",
+            "publishedAt": "2026-06-11T14:04:05Z",
+            "content": "AI cost governance is moving to the center of enterprise cloud strategies, and AWS is responding with a new autonomous agent that\u2019s designed to manage the complexity of the change.\r\nThe FinOps agent,\u2026 [+4079 chars]"
+        },
+        {
+            "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            "author": "Jonathan Neal",
+            "title": "Not all AIs are equal so CIOs need to prioritize actions when assessing risks",
+            "description": "As AI agents proliferate, CIOs need smarter identity governance and risk-based security controls.",
+            "url": "https://www.techradar.com/pro/not-all-ais-are-equal-so-cios-need-to-prioritize-actions-when-assessing-risks",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/h8ZQHernNUVpnGYX7QnxVM-2560-80.jpg",
+            "publishedAt": "2026-06-11T14:01:16Z",
+            "content": "The US Declaration of Independence states that \u201call men are created equal\u201d but a modern response may be to argue that \u201cnot all AIs are equal\u201d.\r\nSome AI tools help us with everyday rote tasks while ot\u2026 [+5414 chars]"
+        },
+        {
+            "source": {
+                "id": "next-big-future",
+                "name": "Next Big Future"
+            },
+            "author": "cybernewswire",
+            "title": "Criminal IP at Infosecurity Europe 2026: Introducing AITEM, the Next Chapter of Attack Surface Management",
+            "description": "Torrance, United States / California, 11th June 2026, CyberNewswire",
+            "url": "https://www.nextbigfuture.com/2026/06/criminal-ip-at-infosecurity-europe-2026-introducing-aitem-the-next-chapter-of-attack-surface-management.html",
+            "urlToImage": "https://nextbigfuture.s3.amazonaws.com/uploads/2026/06/Untitled_design_17810711059KKOaaIKEm.jpg",
+            "publishedAt": "2026-06-11T14:00:48Z",
+            "content": "Torrance, United States / California, June 11th, 2026, CyberNewswire\r\nCriminal IP by AI SPERA, a cyber threat intelligence platform delivering decision-ready intelligence and attack surface visibilit\u2026 [+5924 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "HackRead"
+            },
+            "author": "CyberNewswire",
+            "title": "Criminal IP at Infosecurity Europe 2026: Introducing AITEM, the Next Chapter of Attack Surface Management",
+            "description": "Torrance, United States / California, 11th June 2026, CyberNewswire",
+            "url": "https://hackread.com/criminal-ip-at-infosecurity-europe-2026-introducing-aitem-the-next-chapter-of-attack-surface-management/",
+            "urlToImage": "https://hackread.com/wp-content/uploads/2026/06/Untitled_design_17810711059KKOaaIKEm.jpg",
+            "publishedAt": "2026-06-11T14:00:25Z",
+            "content": "Torrance, United States / California, June 11th, 2026, CyberNewswire\r\nCriminal IP by AI SPERA, a cyber threat intelligence platform delivering decision-ready intelligence and attack surface visibilit\u2026 [+5897 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BleepingComputer"
+            },
+            "author": "Sponsored by Kaseya",
+            "title": "Why AI-driven threats are exposing the limits of MSP security stacks",
+            "description": "AI-driven attacks are exposing the limits of fragmented MSP security stacks and slow response workflows. Kaseya breaks down why integrated security, automation, and recovery are becoming essential. [...]",
+            "url": "https://www.bleepingcomputer.com/news/security/why-ai-driven-threats-are-exposing-the-limits-of-msp-security-stacks/",
+            "urlToImage": "https://www.bleepstatic.com/content/hl-images/2025/10/23/AI-2.jpg",
+            "publishedAt": "2026-06-11T14:00:10Z",
+            "content": "AI is transforming the speed and scale of cybercrime in ways traditional security operations were never designed to handle.\r\nGartner predicts AI agents will cut the time it takes to exploit account e\u2026 [+7750 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Infosecurity Magazine"
+            },
+            "author": "Alessandro  Mascellino",
+            "title": "Cybercriminals Use Fake AI Guides and Dev Tools to Spread AsyncRAT Malware",
+            "description": "Fake AI guides hide a multi-stage chain that drops AsyncRAT, with signs of AI-assisted coding",
+            "url": "https://www.infosecurity-magazine.com/news/fake-ai-guides-dev-tools-spread/",
+            "urlToImage": "https://assets.infosecurity-magazine.com/webpage/og/0af01d22-a21e-42e4-97de-9e3f3b6ced7a.jpg",
+            "publishedAt": "2026-06-11T14:00:00Z",
+            "content": "Threat actors have been disguising malware as AI study guides and developer resources to trick professionals into running a multi-stage attack that ends in the AsyncRAT trojan.\r\nNew analysis from For\u2026 [+2909 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Plos.org"
+            },
+            "author": "Jeremy Gordon, John Chuang, Giovanni Pezzulo",
+            "title": "Gaze dynamics prior to navigation support hierarchical planning",
+            "description": "The task of planning future actions in the context of an uncertain world results in massive state spaces that preclude exhaustive search and other strategies explored in the domains of both human decision-making and computational agents. One plausible solutio\u2026",
+            "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0351056",
+            "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0351056.g008&size=inline",
+            "publishedAt": "2026-06-11T14:00:00Z",
+            "content": "Citation: Gordon J, Chuang J, Pezzulo G (2026) Gaze dynamics prior to navigation support hierarchical planning. PLoS One 21(6):\r\n e0351056.\r\nhttps://doi.org/10.1371/journal.pone.0351056\r\nEditor: Anto\u2026 [+56739 chars]"
+        }
+    ]
 }
