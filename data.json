@@ -1,137 +1,245 @@
 {
-    "title": "Sentinel Protocol",
-    "tagline": "Perimeter Intelligence Sync",
-    "updated": "2026-06-13 12:23 UTC",
-    "news": [
-        {
-            "source": {
-                "id": null,
-                "name": "ComputerWeekly.com"
-            },
-            "author": "Alex Scroxton",
-            "title": "Oracle fixes PeopleSoft flaw exploited by ShinyHunters",
-            "description": "A zero-day vulnerability affecting Oracle's PeopleSoft products is being exploited by a ShinyHunters campaign targeting schools and universities.",
-            "url": "https://www.computerweekly.com/news/366644375/Oracle-fixes-PeopleSoft-flaw-exploited-by-ShinyHunters",
-            "urlToImage": "https://www.computerweekly.com/visuals/ComputerWeekly/HeroImages/security-breach-artbase-adobe.jpg",
-            "publishedAt": "2026-06-12T12:22:00Z",
-            "content": "Oracle has issued an out-of-band patch for a remote code execution (RCE) zero-day vulnerability affecting its PeopleSoft Enterprise PeopleTools product that is being exploited in a rapidly-spreading \u2026 [+3637 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Conversation Africa"
-            },
-            "author": "Anjana Susarla, Professor of Information Systems, Michigan State University",
-            "title": "Trump\u2019s AI security order acknowledges risks but stops short of regulating industry",
-            "description": "The executive order is voluntary for AI companies but aligns with AI safety experts on the potential for harm.",
-            "url": "https://theconversation.com/trumps-ai-security-order-acknowledges-risks-but-stops-short-of-regulating-industry-284495",
-            "urlToImage": "https://images.theconversation.com/files/741437/original/file-20260611-70-u7htwv.jpg?ixlib=rb-4.1.0&rect=0%2C311%2C3991%2C1995&q=45&auto=format&w=1356&h=668&fit=crop",
-            "publishedAt": "2026-06-12T12:21:24Z",
-            "content": "The White House addresses the need to protect against powerful AI systems. Saul Loeb/AFP via Getty Images\r\nSome technology and policy watchers were surprised when President Donald Trump signed an exe\u2026 [+6771 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "DW (English)"
-            },
-            "author": "Murali Krishnan",
-            "title": "India bets big on domestic drones for future warfare",
-            "description": "India is preparing to place its largest-ever military drone order, a procurement worth more than $2 billion that could rapidly expand the country's unmanned warfare capabilities. For decades, India's military relied primarily on troops, fighter aircraft, sate\u2026",
-            "url": "https://www.dw.com/en/india-bets-big-on-domestic-drones-for-future-warfare/a-77523962",
-            "urlToImage": "https://static.dw.com/image/74250148_6.jpg",
-            "publishedAt": "2026-06-12T12:18:00Z",
-            "content": "For decades, India's military relied primarily on troops, fighter aircraft, satellites and conventional surveillance systems to monitor its borders.\r\nThe 2020 military standoff with China in eastern \u2026 [+5978 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Help Net Security"
-            },
-            "author": "Zeljka Zorz",
-            "title": "Researchers release details, PoC for exploited Check Point VPN flaw (CVE-2026-50751)",
-            "description": "WatchTowr researchers have disclosed a technical analysis and a \u201cDetection Artefact Generator\u201d for CVE-2026-50751, an authentication bypass flaw in Check Point\u2019s Remote Access VPN and Mobile Access, which the vendor confirmed to be actively exploited. The att\u2026",
-            "url": "https://www.helpnetsecurity.com/2026/06/12/cve-2026-50751-poc-exploit/",
-            "urlToImage": "https://img.helpnetsecurity.com/wp-content/uploads/2024/05/31132654/check-point-1500.webp",
-            "publishedAt": "2026-06-12T12:14:40Z",
-            "content": "WatchTowr researchers have disclosed a technical analysis and a \u201cDetection Artefact Generator\u201d for CVE-2026-50751, an authentication bypass flaw in Check Point\u2019s Remote Access VPN and Mobile Access, \u2026 [+2732 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Internet"
-            },
-            "author": "info@thehackernews.com (The Hacker News)",
-            "title": "Agentjacking Attack Tricks AI Coding Agents Into Running Malicious Code",
-            "description": "Cybersecurity researchers have described what they say is a new class of attack that can trick artificial intelligence (AI) coding agents into running arbitrary code on developer machines.\n\nCalled Agentjacking by Tenet Security, the attack can be triggered by\u2026",
-            "url": "https://thehackernews.com/2026/06/agentjacking-attack-tricks-ai-coding.html",
-            "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhs-B-d2AZdbTGExalcZiBwa9fNa999-EQ1GrAeytHP6tpnC3WmKL4IcKV5voUs-MRq5WGVwwf2NFPyJxdJUPlgzBL8huaGFqRbXgR_qPOSh-5Ef2oZz8E2H38ZMjVipV7XyXpefY2PgDlWomgJ4RW6YJ4Z3tYMGRQh2z8xwpvOa9_LQWHT706ZCvKpaBxP/s1700-e365/Agentjacking.jpg",
-            "publishedAt": "2026-06-12T12:04:33Z",
-            "content": "Cybersecurity researchers have described what they say is a new class of attack that can trick artificial intelligence (AI) coding agents into running arbitrary code on developer machines.\r\nCalled Ag\u2026 [+3722 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Alltoc.com"
-            },
-            "author": "AllToc",
-            "title": "How is Oracle\u2019s PeopleSoft exploit spreading? #tech",
-            "description": "Oracle warned customers after ShinyHunters claimed widespread breaches Oracle issued a warning about a critical PeopleSoft vulnerability after the ransomware linked group ShinyHunters claimed it used an Oracle PeopleSoft \u201czero day\u201d to breach more than 100 org\u2026",
-            "url": "https://alltoc.com/tech/how-is-oracles-peoplesoft-exploit-spreading",
-            "urlToImage": "https://alltoc.com/cdn/1050/og.png",
-            "publishedAt": "2026-06-12T12:01:44Z",
-            "content": "Oracle warned customers after ShinyHunters claimed widespread breaches\r\nOracle issued a warning about a critical PeopleSoft vulnerability after the ransomware-linked group ShinyHunters claimed it use\u2026 [+1582 chars]"
-        },
-        {
-            "source": {
-                "id": "financial-post",
-                "name": "Financial Post"
-            },
-            "author": "GlobeNewswire",
-            "title": "Doman Building Materials Group Ltd. Announces Quarterly Dividend",
-            "description": "THIS NEWS RELEASE IS INTENDED FOR DISTRIBUTION IN CANADA ONLY AND IS NOT INTENDED FOR DISTRIBUTION TO UNITED STATES NEWSWIRE SERVICES OR DISSEMINATION IN THE UNITED STATES. VANCOUVER, British Columbia, June 12, 2026 (GLOBE NEWSWIRE) \u2014 Doman Building Materials\u2026",
-            "url": "https://financialpost.com/globe-newswire/doman-building-materials-group-ltd-announces-quarterly-dividend-20",
-            "urlToImage": null,
-            "publishedAt": "2026-06-12T12:00:32Z",
-            "content": "THIS NEWS RELEASE IS INTENDED FOR DISTRIBUTION IN CANADA ONLY AND IS NOT INTENDED FOR DISTRIBUTION TO UNITED STATES NEWSWIRE SERVICES OR DISSEMINATION IN THE UNITED STATES.\r\nVANCOUVER, British Columb\u2026 [+8430 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "GlobeNewswire"
-            },
-            "author": "Unifirst Corporation",
-            "title": "UniFirst Shareholders Approve Transaction with Cintas",
-            "description": "WILMINGTON, Mass., June 12, 2026 (GLOBE NEWSWIRE) -- UniFirst Corporation (NYSE: UNF) (\u201cUniFirst\u201d or \u201cthe Company\u201d) today announced that at its Special Meeting of Shareholders (the \u201cSpecial Meeting\u201d) held yesterday, an overwhelming majority of UniFirst shareh\u2026",
-            "url": "https://www.globenewswire.com/news-release/2026/06/12/3311010/33488/en/UniFirst-Shareholders-Approve-Transaction-with-Cintas.html",
-            "urlToImage": "https://ml.globenewswire.com/Resource/Download/191b7dd3-5a8d-4e8b-a924-d6e15a5c5d54",
-            "publishedAt": "2026-06-12T12:00:00Z",
-            "content": "WILMINGTON, Mass., June 12, 2026 (GLOBE NEWSWIRE) -- UniFirst Corporation (NYSE: UNF) (UniFirst or the Company) today announced that at its Special Meeting of Shareholders (the Special Meeting) held \u2026 [+13714 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Globalsecurity.org"
-            },
-            "author": "John Pike",
-            "title": "Ukrainian National Pleads Guilty to Wire Fraud Conspiracy in Connection with Conti Ransomware",
-            "description": "Following his extradition from Ireland, Oleksii Oleksiyovych Lytvynenko, 44, a Ukrainian national, pleaded guilty on Wednesday to conspiracy to commit wire fraud in connection with a conspiracy to deploy Conti, a ransomware variant that infected more than 1,0\u2026",
-            "url": "https://www.globalsecurity.org/security/library/news/2026/06/sec-260612-doj01.htm",
-            "urlToImage": null,
-            "publishedAt": "2026-06-12T12:00:00Z",
-            "content": "Friday, June 12, 2026\r\nFor Immediate ReleaseOffice of Public Affairs\r\nConti Attacked Over 1,000 Victims, Resulting in at least $150 Million in Ransom Payments\r\nFollowing his extradition from Ireland,\u2026 [+5747 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Abcnews.com"
-            },
-            "author": "ERIC TUCKER Associated Press",
-            "title": "A key US government surveillance program is set to expire. A look at what that means",
-            "description": "A key surveillance tool seen as vital in preventing terror attacks and catching foreign spies is set to expire after congressional efforts to temporarily extend it failed in bipartisan fashion",
-            "url": "https://abcnews.com/US/wireStory/key-us-government-surveillance-program-set-expire-means-133810648",
-            "urlToImage": "https://i.abcnewsfe.com/a/2337a281-03de-4fb4-a561-4fc4e57f6144/wirestory_063e0f03ca366eaa339f9c51755d943a_16x9.jpg?w=1600",
-            "publishedAt": "2026-06-12T11:48:59Z",
-            "content": "WASHINGTON -- WASHINGTON (AP) A key surveillance tool seen as vital in preventing terror attacks and catching foreign spies is set to expire Friday after congressional efforts to temporarily extend i\u2026 [+5661 chars]"
-        }
-    ]
+  "updated": "2026-06-13 13:26:09 UTC",
+  "news": [
+    {
+      "title": "US Gov asks Anthropic to ban 'foreign national' access to Fable, Mythos",
+      "description": "[BLEEPINGCOMPUTER] The US government has ordered Anthropic to block all foreign nationals from accessing Fable 5 and Mythos 5, forcing the company to suspend both models worldwide. Anthropic is complying but disputes the basis, calling the cited jailbreak narrow and...",
+      "url": "https://www.bleepingcomputer.com/news/security/us-gov-asks-anthropic-to-ban-foreign-national-access-to-fable-mythos/",
+      "date": "2026-06-13T10:01:32Z"
+    },
+    {
+      "title": "U.S. Orders Anthropic to Suspend Fable 5 and Mythos 5 Access for Foreign Nationals",
+      "description": "[FEEDS] Anthropic said on Friday it will \"abruptly disable\" its most advanced artificial intelligence (AI) models, Claude Fable 5 and Mythos 5, for all users after the U.S. government ordered it to suspend access to the models for foreign nationals, whether...",
+      "url": "https://thehackernews.com/2026/06/us-orders-anthropic-to-suspend-fable-5.html",
+      "date": "2026-06-13T05:42:50Z"
+    },
+    {
+      "title": "HDFC AMC data breach: Reset password, watch for SIM-swap - What you should do? What it means for your MF Investments?",
+      "description": "[LIVEMINT] HDFC AMC has confirmed a data breach. Your mutual fund investments are safe, but your personal data may be at risk. Here is what investors must do now.",
+      "url": "https://www.livemint.com/money/hdfc-amc-data-breach-password-reset-sim-swap-mutual-fund-investments-bombay-high-court-11781310620848.html",
+      "date": "2026-06-13T01:14:58Z"
+    },
+    {
+      "title": "South Korea Hits E-Commerce Giant With Record $409 Million Fine Over Data Leak Of 33 Million Users",
+      "description": "[INTERNATIONAL BUSINESS TIMES] South Korean authorities have imposed a record $408 million fine on e-commerce giant Coupang after concluding that a massive data breach exposed the personal information of more than 33 million",
+      "url": "https://www.ibtimes.com/south-korea-hits-e-commerce-giant-record-409-million-fine-over-data-leak-33-million-users-3804038",
+      "date": "2026-06-12T22:19:01Z"
+    },
+    {
+      "title": "Friday Squid Blogging: Squid-Inspired Fluid Pump",
+      "description": "[SCHNEIER] This fluid pump was inspired by the way squids propel themselves through the water. As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered. Blog moderation policy.",
+      "url": "https://www.schneier.com/blog/archives/2026/06/friday-squid-blogging-squid-inspired-fluid-pump.html",
+      "date": "2026-06-12T21:05:03Z"
+    },
+    {
+      "title": "60 St. Vrain Valley incoming seniors attend cybersecurity mini-internships",
+      "description": "[BOULDER DAILY CAMERA] About 60 St. Vrain Valley rising high school seniors are helping local businesses beef up their cybersecurity through a two-week, paid mini-internship program.",
+      "url": "https://www.dailycamera.com/2026/06/12/st-vrain-valley-ccybersecurity-internships/",
+      "date": "2026-06-12T19:38:14Z"
+    },
+    {
+      "title": "Maine disables data breach notification portal after fake disclosures",
+      "description": "[BLEEPINGCOMPUTER] Maine has taken its public data breach reporting portal offline after fraudulent breach disclosures were published on the state's website, prompting a review of procedures to prevent abuse in the future. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/maine-disables-data-breach-notification-portal-after-fake-disclosures/",
+      "date": "2026-06-12T19:33:32Z"
+    },
+    {
+      "title": "Over 400 Arch Linux AUR Packages Hijacked to Deploy Infostealer and eBPF Rootkit",
+      "description": "[FEEDS] Attackers took over more than 400 packages in the Arch User Repository (AUR) this week and rewrote their build scripts to install a credential stealer on any machine that built them. The malware is a Rust binary built to harvest developer secrets....",
+      "url": "https://thehackernews.com/2026/06/over-400-arch-linux-aur-packages.html",
+      "date": "2026-06-12T19:33:25Z"
+    },
+    {
+      "title": "Examination system in crisis: The urgent need to shift focus from cost to capability",
+      "description": "[THE ECONOMIC TIMES] Recent examination fiascos highlight a critical need to reform India's testing system. Current procurement practices favor low costs over essential capabilities. This approach compromises physical security, cybersecurity, personnel quality, and...",
+      "url": "https://economictimes.indiatimes.com/industry/services/education/examination-system-in-crisis-the-urgent-need-to-shift-focus-from-cost-to-capability/articleshow/131693268.cms",
+      "date": "2026-06-12T19:33:00Z"
+    },
+    {
+      "title": "Google Sues Chinese Smishing Network Accused of Using Gemini AI in Phishing",
+      "description": "[FEEDS] Google on Friday said it's pursuing legal action against a Chinese cybercrime network, accusing it of using its Gemini artificial intelligence (AI) agent to send phishing text messages targeting Americans. The network is said to be behind the...",
+      "url": "https://thehackernews.com/2026/06/google-sues-chinese-smishing-network.html",
+      "date": "2026-06-12T18:59:32Z"
+    },
+    {
+      "title": "phpBB forum fixes auth bypass bug lurking for a decade",
+      "description": "[BLEEPINGCOMPUTER] A 10-year-old authentication bypass vulnerability discovered in the phpBB forum software allows an attacker to log in as any user, including administrators. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/phpbb-forum-fixes-auth-bypass-bug-lurking-for-a-decade/",
+      "date": "2026-06-12T18:19:34Z"
+    },
+    {
+      "title": "China-Linked Hackers Backdoored Linux Login Software to Hide for Nearly a Decade",
+      "description": "[FEEDS] Instead of hiding on the laptops and servers defenders watch most closely, a China-nexus group spent close to a decade hidden inside the Linux login system itself. Sygnia, which tracks the group as Velvet Ant, says it backdoored the PAM and OpenSSH...",
+      "url": "https://thehackernews.com/2026/06/china-linked-hackers-backdoored-linux.html",
+      "date": "2026-06-12T18:17:55Z"
+    },
+    {
+      "title": "India's cyber talent shortage widens while AI threats rise",
+      "description": "[THE NEW INDIAN EXPRESS] Nearly 39,000 cybersecurity positions remain open despite an annual addition of 40,000-60,000 professionals, according to Careernet's India Cybersecurity Talent",
+      "url": "https://www.newindianexpress.com/business/2026/Jun/12/indias-cyber-talent-shortage-widens-while-ai-threats-rise",
+      "date": "2026-06-12T18:15:45Z"
+    },
+    {
+      "title": "Ukrainian national pleads guilty to role in Conti ransomware operation",
+      "description": "[BLEEPINGCOMPUTER] A Ukrainian national extradited from Ireland to the United States last year has pleaded guilty to conspiracy charges tied to the Conti ransomware operation. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/ukrainian-national-pleads-guilty-to-role-in-conti-ransomware-operation/",
+      "date": "2026-06-12T17:54:28Z"
+    },
+    {
+      "title": "IMF chief warns advanced AI models like Mythos \"can be used to destroy the financial system\"",
+      "description": "[TNW] IMF boss Georgieva said Mythos is \"just the beginning\" and warned the AI boom could turn into a bust. She called for urgent global cybersecurity cooperation.",
+      "url": "https://thenextweb.com/news/imf-georgieva-mythos-destroy-financial-system-ai-bubble",
+      "date": "2026-06-12T17:40:49Z"
+    },
+    {
+      "title": "Over 400 Arch Linux packages compromised to push rootkit, infostealer",
+      "description": "[BLEEPINGCOMPUTER] More than 400 packages in the Arch User Repository (AUR) are distributing a Linux rootkit and infostealer malware targeting credentials and access tokens. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/over-400-arch-linux-packages-compromised-to-push-rootkit-infostealer/",
+      "date": "2026-06-12T17:03:55Z"
+    },
+    {
+      "title": "Cybersecurity Market to Reach USD 663.2 Billion by 2033 Amid Escalating Threat Landscape and Accelerating Digital Transformation",
+      "description": "[PR NEWSWIRE UK] /PRNewswire/ -- The global cybersecurity industry is entering a new phase of accelerated expansion as enterprises, governments, and critical infrastructure...",
+      "url": "https://www.prnewswire.co.uk/news-releases/cybersecurity-market-to-reach-usd-663-2-billion-by-2033-amid-escalating-threat-landscape-and-accelerating-digital-transformation-302799049.html",
+      "date": "2026-06-12T15:36:00Z"
+    },
+    {
+      "title": "Cybersecurity and AI: How Microsoft Meets a Changing Tech Landscape",
+      "description": "[FINANCIAL POST] Upgrade your computer with Windows 11 Pro, on sale now for just $18.",
+      "url": "https://financialpost.com/personal-finance/business-essentials/cybersecurity-and-ai-how-microsoft-meets-a-changing-tech-landscape",
+      "date": "2026-06-12T15:30:20Z"
+    },
+    {
+      "title": "Early Warning Signs of Supply-Chain Attacks Live in the Dark Web",
+      "description": "[BLEEPINGCOMPUTER] GitHub access sales, leaked repositories, and stolen API keys can all become supply-chain attack footholds. Flare explores how underground forums expose early signals tied to software supply-chain risk. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/early-warning-signs-of-supply-chain-attacks-live-in-the-dark-web/",
+      "date": "2026-06-12T14:01:11Z"
+    },
+    {
+      "title": "ISC Stormcast For Friday, June 12th, 2026 https://isc.sans.edu/podcastdetail/9970, (Fri, Jun 12th)",
+      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
+      "url": "https://isc.sans.edu/diary/rss/33074",
+      "date": "2026-06-12T12:30:10Z"
+    },
+    {
+      "title": "Explained: How ShinyHunters Hacked Over 100 Organisations Using An Oracle Bug",
+      "description": "[TIMES NOW] Cybersecurity experts from Google's Threat Intelligence Group have alerted that the hacking group ShinyHunters exploited a significant vulnerability in Oracle PeopleSoft to target over 100 organisations., Technology & Science, Times Now",
+      "url": "https://www.timesnownews.com/technology-science/explained-how-shinyhunters-hacked-over-100-organisations-using-an-oracle-bug-article-154580216",
+      "date": "2026-06-12T12:28:08Z"
+    },
+    {
+      "title": "Agentjacking Attack Tricks AI Coding Agents Into Running Malicious Code",
+      "description": "[FEEDS] Cybersecurity researchers have described what they say is a new class of attack that can trick artificial intelligence (AI) coding agents into running arbitrary code on developer machines. Called Agentjacking by Tenet Security, the attack can be...",
+      "url": "https://thehackernews.com/2026/06/agentjacking-attack-tricks-ai-coding.html",
+      "date": "2026-06-12T12:04:33Z"
+    },
+    {
+      "title": "The Convergence of AI and Cybersecurity Is Creating a New Talent Imperative",
+      "description": "[THE TRIBUNE] Artificial Intelligence is rapidly transforming the cybersecurity landscape, creating a high-stakes race between attackers and defenders. While organisations are leveraging AI to automate threat detection and strengthen cyber resilience, threat...",
+      "url": "https://www.tribuneindia.com/news/business/the-convergence-of-ai-and-cybersecurity-is-creating-a-new-talent-imperative-2-2/",
+      "date": "2026-06-12T12:03:22Z"
+    },
+    {
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "description": "[CISA] CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-35273 Oracle PeopleSoft Enterprise PeopleTools Missing Authentication for Critical Function Vulnerability...",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/06/12/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "date": "2026-06-12T12:00:00Z"
+    },
+    {
+      "title": "Bernie Sanders\u2019 AI Sovereign Wealth Fund Plan",
+      "description": "[SCHNEIER] Let no one accuse Bernie Sanders of ducking the big questions. Writing in the New York Times last week, the senator asked: &#8220;Will the future of humanity be determined by a handful of billionaires who have promoted and developed AI, with...",
+      "url": "https://www.schneier.com/blog/archives/2026/06/bernie-sanders-ai-sovereign-wealth-fund-plan.html",
+      "date": "2026-06-12T11:03:17Z"
+    },
+    {
+      "title": "Rethinking MDR as Attackers and Defenders Embrace AI",
+      "description": "[FEEDS] For most of the past decade, managed detection and response was the answer to a real problem. Security teams couldn't staff around the clock, couldn't hire enough analysts, and needed someone else to handle the alert queue. MDR stepped in. It worked...",
+      "url": "https://thehackernews.com/2026/06/rethinking-mdr-as-attackers-and.html",
+      "date": "2026-06-12T11:00:00Z"
+    },
+    {
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "description": "[CISA] CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-10520 Ivanti Sentry OS Command Injection Vulnerability This type of vulnerability is a frequent attack...",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/06/11/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "date": "2026-06-11T12:00:00Z"
+    },
+    {
+      "title": "Enhanced License Plate Tracking",
+      "description": "[SCHNEIER] The surveillance company Leonardo wants more data: A surveillance company plans to add sensors to automatic license plate readers (ALPRs) that would mean the devices, as well as capture the license plate of passing vehicles, would also sweep up...",
+      "url": "https://www.schneier.com/blog/archives/2026/06/enhanced-license-plate-tracking.html",
+      "date": "2026-06-11T11:01:19Z"
+    },
+    {
+      "title": "ISC Stormcast For Thursday, June 11th, 2026 https://isc.sans.edu/podcastdetail/9968, (Thu, Jun 11th)",
+      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
+      "url": "https://isc.sans.edu/diary/rss/33070",
+      "date": "2026-06-11T02:25:21Z"
+    },
+    {
+      "title": "NSO Group Hacking WhatsApp Despite Court Order",
+      "description": "[SCHNEIER] WhatsApp has caught the NSO Group phishing its users, in violation of a court order.",
+      "url": "https://www.schneier.com/blog/archives/2026/06/nso-group-hacking-whatsapp-despite-court-order.html",
+      "date": "2026-06-10T11:08:59Z"
+    },
+    {
+      "title": "How has use of framing protection security headers changed in the past 3 years&#x3f;, (Wed, Jun 10th)",
+      "description": "[ISC] Back in 2023, I wrote a diary&#x5b;1&#x5d; discussing how commonly X-Frame-Options and CSP headers containing the frame-ancestors directive were used on 1 million most popular domains on the internet (based on the Tranco list&#x5b;2&#x5d;), and how...",
+      "url": "https://isc.sans.edu/diary/rss/33068",
+      "date": "2026-06-10T08:29:21Z"
+    },
+    {
+      "title": "ISC Stormcast For Wednesday, June 10th, 2026 https://isc.sans.edu/podcastdetail/9966, (Wed, Jun 10th)",
+      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
+      "url": "https://isc.sans.edu/diary/rss/33066",
+      "date": "2026-06-10T02:00:02Z"
+    },
+    {
+      "title": "Microsoft June 2026 Patch Tuesday, (Tue, Jun 9th)",
+      "description": "[ISC] Microsoft today released patches for 204 vulnerabilities. 38 of these vulnerabilities are considered critical, and three have been disclosed before today. Six of the vulnerabilities affect Microsoft cloud solutions and do not require any user...",
+      "url": "https://isc.sans.edu/diary/rss/33064",
+      "date": "2026-06-09T17:34:29Z"
+    },
+    {
+      "title": "GPS As a Key Distribution Platform",
+      "description": "[SCHNEIER] This is interesting: The U.S. military has likely been quietly broadcasting codes for its global encryption network using public GPS for nearly 20 years, turning each satellite into a hidden &#8220;numbers station,&#8221; according to Steven...",
+      "url": "https://www.schneier.com/blog/archives/2026/06/gps-as-a-key-distribution-platform.html",
+      "date": "2026-06-09T15:06:49Z"
+    },
+    {
+      "title": "CISA Adds Three Known Exploited Vulnerabilities to Catalog",
+      "description": "[CISA] CISA has added three new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-7473 Arista Extensible Operating System Incomplete Comparison with Missing Factors Vulnerability...",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/06/09/cisa-adds-three-known-exploited-vulnerabilities-catalog",
+      "date": "2026-06-09T12:00:00Z"
+    },
+    {
+      "title": "ISC Stormcast For Tuesday, June 9th, 2026 https://isc.sans.edu/podcastdetail/9964, (Tue, Jun 9th)",
+      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
+      "url": "https://isc.sans.edu/diary/rss/33062",
+      "date": "2026-06-09T02:00:03Z"
+    },
+    {
+      "title": "Critical Zcash Vulnerability Found and Fixed",
+      "description": "[SCHNEIER] If you&#8217;re a user&#8212;owner?&#8212;of this cryptocurrency, this is important: On May 29, the security researcher Taylor Hornby found a critical vulnerability in Zcash Orchard privacy pool using Claude Opus 4.8. The Zcash team hired Hornby...",
+      "url": "https://www.schneier.com/blog/archives/2026/06/critical-zcash-vulnerability-found-and-fixed.html",
+      "date": "2026-06-08T17:06:53Z"
+    },
+    {
+      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+      "description": "[CISA] CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-42271 BerriAI LiteLLM Command Injection Vulnerability CVE-2026-50751 Check Point Security Gateway...",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/06/08/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+      "date": "2026-06-08T12:00:00Z"
+    },
+    {
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "description": "[CISA] CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-28318 SolarWinds Serv-U Uncontrolled Resource Consumption Vulnerability This type of vulnerability is a...",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/06/05/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "date": "2026-06-05T12:00:00Z"
+    },
+    {
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "description": "[CISA] CISA has added one new vulnerability to its&nbsp;Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-45247&nbsp;Mirasvit Full Page Cache Warmer Deserialization of Untrusted Data Vulnerability This type...",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/06/03/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "date": "2026-06-03T12:00:00Z"
+    }
+  ]
 }
