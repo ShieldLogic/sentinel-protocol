@@ -1,245 +1,137 @@
 {
-  "updated": "2026-06-16 14:51:31 UTC",
-  "news": [
-    {
-      "title": "UK to require ID or face scan before you can make social media accounts",
-      "description": "[BLEEPINGCOMPUTER] Opening a new social media account in the UK will soon mean proving you're over 16 with an ID upload or a facial age scan, under a government ban on under-16s taking effect in spring 2027. Security experts warn the age checks are easy to circumvent...",
-      "url": "https://www.bleepingcomputer.com/news/security/uk-to-require-id-or-face-scan-before-you-can-make-social-media-accounts/",
-      "date": "2026-06-16T14:38:49Z"
-    },
-    {
-      "title": "GhostTree Attack Abused Recursive Windows Junctions to Hide Malware",
-      "description": "[BLEEPINGCOMPUTER] GhostTree uses recursive NTFS junctions to generate vast numbers of valid Windows file paths. Varonis explains how the technique could cause Microsoft Defender folder scans to never complete, leaving malware undetected. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/ghosttree-attack-abused-recursive-windows-junctions-to-hide-malware/",
-      "date": "2026-06-16T14:17:27Z"
-    },
-    {
-      "title": "FTC warns of record $3.5 billion losses to imposter scams in 2025",
-      "description": "[BLEEPINGCOMPUTER] The U.S. Federal Trade Commission (FTC) warned that Americans lost $3.5 billion to imposter scams in 2025, with reported losses nearly tripling since 2020. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/ftc-warns-of-record-35-billion-losses-to-imposter-scams-in-2025/",
-      "date": "2026-06-16T13:42:19Z"
-    },
-    {
-      "title": "New Rokarolla Android Malware Steals PINs, SMS Codes, and Crypto Wallet Funds",
-      "description": "[FEEDS] Security researchers at&nbsp;Zimperium's zLabs&nbsp;have documented a new Android banking trojan, Rokarolla, that targets 217 banking and cryptocurrency apps and packs 137 remote commands. Together, they give an operator near-total control of an...",
-      "url": "https://thehackernews.com/2026/06/new-rokarolla-android-malware-steals.html",
-      "date": "2026-06-16T13:10:17Z"
-    },
-    {
-      "title": "Survey: 94% of Incidents Involve Anonymized Infrastructure. Teams Are Still Reactive",
-      "description": "[FEEDS] Security teams have never had more IP data at their disposal. Every day, analysts ingest enrichment feeds, geolocation data, reputation scores, telemetry, and threat intelligence from a growing ecosystem of vendors and platforms. Yet despite this...",
-      "url": "https://thehackernews.com/2026/06/survey-94-of-incidents-involve.html",
-      "date": "2026-06-16T11:30:00Z"
-    },
-    {
-      "title": "Flock Cameras Are Being Used for Stalking",
-      "description": "[SCHNEIER] There are over a dozen cases around the country where police officers are using the Flock surveillance camera system to obsessively and illegally stalk people. Alternate link.",
-      "url": "https://www.schneier.com/blog/archives/2026/06/flock-cameras-are-being-used-for-stalking.html",
-      "date": "2026-06-16T11:03:31Z"
-    },
-    {
-      "title": "CISA warns of another cPanel plugin flaw exploited in attacks",
-      "description": "[BLEEPINGCOMPUTER] The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has given U.S. government agencies three days to secure their servers against an actively exploited vulnerability (CVE-2026-54420) in the LiteSpeed cPanel user-end plugin. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-another-actively-exploited-cpanel-plugin-flaw/",
-      "date": "2026-06-16T10:47:59Z"
-    },
-    {
-      "title": "Attackers Exploit Three Fortinet FortiSandbox Flaws, One Patched Last Week",
-      "description": "[FEEDS] Bad actors are exploiting multiple security vulnerabilities in Fortinet FortiSandbox, according to threat intelligence firm Defused Cyber. In a post shared on X, the company said it has observed exploitation of CVE-2026-39813, CVE-2026-39808, and...",
-      "url": "https://thehackernews.com/2026/06/attackers-exploit-three-fortinet.html",
-      "date": "2026-06-16T10:30:41Z"
-    },
-    {
-      "title": "Ransomware gang abuses Microsoft Teams relays to hide malicious traffic",
-      "description": "[BLEEPINGCOMPUTER] DragonForce ransomware used a custom malware named 'Backdoor.Turn' to hide command-and-control traffic inside Microsoft Teams relay infrastructure. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/ransomware-gang-abuses-microsoft-teams-relays-to-hide-malicious-traffic/",
-      "date": "2026-06-16T10:18:48Z"
-    },
-    {
-      "title": "China-Linked SprySOCKS Backdoor Expands to Windows with Driver-Based Stealth",
-      "description": "[FEEDS] Cybersecurity researchers have flagged two previously undocumented Windows variants of what was believed to be a Linux-only backdoor called SprySOCKS. \"The Windows variants discovered are internally marked as WIN_DRV and WIN_PLUS,\" ESET said in a...",
-      "url": "https://thehackernews.com/2026/06/china-linked-sprysocks-backdoor-expands.html",
-      "date": "2026-06-16T09:44:34Z"
-    },
-    {
-      "title": "Critical Fortinet FortiSandbox flaws now exploited in attacks",
-      "description": "[BLEEPINGCOMPUTER] Attackers are now exploiting several critical vulnerabilities in Fortinet's FortiSandbox cyber threat detection platform, according to threat intelligence company Defused. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/critical-fortinet-fortisandbox-flaws-now-exploited-in-attacks/",
-      "date": "2026-06-16T09:19:51Z"
-    },
-    {
-      "title": "Fake Microsoft Alerts Used to Deploy North Korean NarwhalRAT Malware",
-      "description": "[FEEDS] The North Korean state-sponsored hacking group known as ScarCruft (aka APT37) has been observed using spear-phishing messages impersonating Microsoft Account security notifications to deliver malware called NarwhalRAT. \"The attack email contained a...",
-      "url": "https://thehackernews.com/2026/06/fake-microsoft-alerts-used-to-deploy.html",
-      "date": "2026-06-16T08:14:55Z"
-    },
-    {
-      "title": "From a VHDX File to a Remcos RAT, (Tue, Jun 16th)",
-      "description": "[ISC] Yesterday, a reader reported to us a malicious ZIP archive (SHA256: a0104921a2d37ab87482ac9a9f5c3713479c118846c3e999178e75b81620c094&#x5b;1&#x5d;). Once unzipped, it contains a VHDX file that discloses a malicious JavaScript after being mounted...",
-      "url": "https://isc.sans.edu/diary/rss/33080",
-      "date": "2026-06-16T07:09:13Z"
-    },
-    {
-      "title": "Cisco Releases Security Updates for Actively Exploited SD-WAN Manager Flaw",
-      "description": "[FEEDS] Cisco has released security updates for a medium-severity security flaw in Catalyst SD-WAN Manager that has come under active exploitation in the wild. The vulnerability, tracked as CVE-2026-20262, carries a CVSS score of 6.5 out of 10.0. \"A...",
-      "url": "https://thehackernews.com/2026/06/cisco-releases-security-updates-for.html",
-      "date": "2026-06-16T06:05:58Z"
-    },
-    {
-      "title": "Cybersecurity leaders urge Trump administration to reverse Anthropic AI restrictions",
-      "description": "[FIRSTPOST] More than 50 cybersecurity leaders, including executives from Nvidia and Adobe, are pushing back against new US restrictions on Anthropic\u2019s advanced AI models. They argue the move weakens efforts to detect software flaws and comes as Chinese rivals...",
-      "url": "https://www.firstpost.com/tech/cybersecurity-leaders-urge-trump-administration-to-reverse-anthropic-ai-restrictions-14022867.html",
-      "date": "2026-06-16T02:19:17Z"
-    },
-    {
-      "title": "ISC Stormcast For Tuesday, June 16th, 2026 https://isc.sans.edu/podcastdetail/9974, (Tue, Jun 16th)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33078",
-      "date": "2026-06-16T02:00:02Z"
-    },
-    {
-      "title": "HCLTech shares in focus after \u20b91,427 crore investment in Sarvam AI for over 10% stake",
-      "description": "[CNBC TV18] HCLTech will fund Sarvam AI's research and development for training its next-gen frontier AI agentic, coding models and cybersecurity use cases, as well as access to compute at scale to expand its deployment across key industry verticals.",
-      "url": "https://www.cnbctv18.com/market/hcltech-share-price-sarvam-ai-investment-1427-crore-valuation-fy27-guidance-challenges-fall-from-highs-ws-el-19926040.htm",
-      "date": "2026-06-16T01:47:07Z"
-    },
-    {
-      "title": "Gambit Cyber Announces Strategic Partnership with BitCyber to Advance AI-Native and Risk-Centric Continuous Threat Exposure Management Across Singapore, ASEAN and Hong Kong",
-      "description": "[THE MANILA TIMES] **media[1100269]**Strategic partnership brings Continuous Threat Exposure Management (CTEM) to enterprises navigating the AI-vs-AI era of cybersecurity",
-      "url": "https://www.manilatimes.net/2026/06/16/tmt-newswire/pr-newswire/gambit-cyber-announces-strategic-partnership-with-bitcyber-to-advance-ai-native-and-risk-centric-continuous-threat-exposure-management-across-singapore-asean-and-hong-kong/2366079",
-      "date": "2026-06-16T01:22:00Z"
-    },
-    {
-      "title": "Gambit Cyber Announces Strategic Partnership with BitCyber to Advance AI-Native and Risk-Centric Continuous Threat Exposure Management Across Singapore, ASEAN and Hong Kong",
-      "description": "[PR NEWSWIRE UK] /PRNewswire/ -- Gambit Cyber, a Netherlands-headquartered cybersecurity company specialising in AI-native, Risk-Centric Continuous Threat Exposure Management...",
-      "url": "https://www.prnewswire.co.uk/news-releases/gambit-cyber-announces-strategic-partnership-with-bitcyber-to-advance-ai-native-and-risk-centric-continuous-threat-exposure-management-across-singapore-asean-and-hong-kong-302800416.html",
-      "date": "2026-06-16T01:00:00Z"
-    },
-    {
-      "title": "India, Slovakia deepen defence, cybersecurity ties",
-      "description": "[THE TRIBUNE] Prime Minister Narendra Modi and Slovak PM Robert Fico agreed to strengthen cooperation in defence, cybersecurity, critical infrastructure protection and connectivity, identifying these areas as key pillars of the growing bilateral partnership,...",
-      "url": "https://www.tribuneindia.com/news/world/india-slovakia-deepen-defence-cybersecurity-ties/",
-      "date": "2026-06-15T22:38:10Z"
-    },
-    {
-      "title": "The US government's Anthropic models ban was never about an AI jailbreak",
-      "description": "[TECHCRUNCH] The Trump administration's decision that forced Anthropic to pull its latest cybersecurity models could be reactionary, retaliatory, or both, but the message is clear: The AI industry isn't immune from U.S. government interference.",
-      "url": "https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/",
-      "date": "2026-06-15T21:50:21Z"
-    },
-    {
-      "title": "Rapid7 Reports Inducement Grant under Nasdaq Listing Rule 5635(c)(4)",
-      "description": "[THE MANILA TIMES] BOSTON, June 15, 2026 (GLOBE NEWSWIRE) -- Rapid7, Inc. (NASDAQ: RPD), a global leader in AI-powered managed cybersecurity operations, announced that the company granted an inducement award comprised of 525,000 restricted stock units ('RSUs\u201d) on June...",
-      "url": "https://www.manilatimes.net/2026/06/16/tmt-newswire/globenewswire/rapid7-reports-inducement-grant-under-nasdaq-listing-rule-5635c4/2365983",
-      "date": "2026-06-15T20:20:12Z"
-    },
-    {
-      "title": "100 cyber experts say Fable 5 ban hurts defenders",
-      "description": "[TNW] Roughly 100 cybersecurity leaders demand the US reverse the Fable 5 ban, arguing it disarms defenders while China's Zhipu AI fills the gap with GLM-5.2.",
-      "url": "https://thenextweb.com/news/fable-5-ban-cybersecurity-defenders-open-letter",
-      "date": "2026-06-15T20:16:15Z"
-    },
-    {
-      "title": "Experts urge Trump to ease restrictions on Anthropic AI models",
-      "description": "[BALTIMORE SUN] Cybersecurity leaders ask the Trump administration to remove restrictions on Anthropic's AI models, citing potential risks to U.S. defensive capabilities.",
-      "url": "https://www.baltimoresun.com/2026/06/15/cybersecurity-experts-urge-trump-anthropic-ai-restrictions/",
-      "date": "2026-06-15T20:07:24Z"
-    },
-    {
-      "title": "Experts urge Trump to ease restrictions on Anthropic AI models",
-      "description": "[SAN DIEGO UNION-TRIBUNE] Cybersecurity leaders ask the Trump administration to remove restrictions on Anthropic's AI models, citing potential risks to U.S. defensive capabilities.",
-      "url": "https://www.sandiegouniontribune.com/2026/06/15/cybersecurity-experts-urge-trump-anthropic-ai-restrictions/",
-      "date": "2026-06-15T20:07:24Z"
-    },
-    {
-      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
-      "description": "[CISA] CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-20262 Cisco Catalyst SD-WAN Manager Directory or Path Traversal Vulnerability CVE-2026-54420 LiteSpeed...",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/06/15/cisa-adds-two-known-exploited-vulnerabilities-catalog",
-      "date": "2026-06-15T12:00:00Z"
-    },
-    {
-      "title": "The FCC Wants to Eliminate Burner Phones",
-      "description": "[SCHNEIER] A proposed FCC rule would kill burner phones: phones whose accounts are not attached to a particular person. The FCC plans to do this by legally forcing the country&#8217;s telecoms to store a wealth of personal information about essentially all...",
-      "url": "https://www.schneier.com/blog/archives/2026/06/the-fcc-wants-to-eliminate-burner-phones.html",
-      "date": "2026-06-15T11:01:05Z"
-    },
-    {
-      "title": "Evil MSI Background: BASE64 Statistical Analysis, (Mon, Jun 15th)",
-      "description": "[ISC] I like it when a fellow handler posts a diary entry about images with malicious content. Last one is Xavier: \"The Evil MSI Background is Back&#x21;\".&#xd;",
-      "url": "https://isc.sans.edu/diary/rss/33072",
-      "date": "2026-06-15T07:16:00Z"
-    },
-    {
-      "title": "ISC Stormcast For Monday, June 15th, 2026 https://isc.sans.edu/podcastdetail/9972, (Mon, Jun 15th)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33076",
-      "date": "2026-06-15T02:00:02Z"
-    },
-    {
-      "title": "Upcoming Speaking Engagements",
-      "description": "[SCHNEIER] This is a current list of where and when I am scheduled to speak: I\u2019m giving a keynote at Cybernation 2026 in Berlin, Germany, on June 24, 2026. I\u2019m speaking at the Potsdam Conference on National Cybersecurity at the Hasso Plattner Institut in...",
-      "url": "https://www.schneier.com/blog/archives/2026/06/upcoming-speaking-engagements-57.html",
-      "date": "2026-06-14T16:07:31Z"
-    },
-    {
-      "title": "Friday Squid Blogging: Squid-Inspired Fluid Pump",
-      "description": "[SCHNEIER] This fluid pump was inspired by the way squids propel themselves through the water. As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered. Blog moderation policy.",
-      "url": "https://www.schneier.com/blog/archives/2026/06/friday-squid-blogging-squid-inspired-fluid-pump.html",
-      "date": "2026-06-12T21:05:03Z"
-    },
-    {
-      "title": "ISC Stormcast For Friday, June 12th, 2026 https://isc.sans.edu/podcastdetail/9970, (Fri, Jun 12th)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33074",
-      "date": "2026-06-12T12:30:10Z"
-    },
-    {
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "description": "[CISA] CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-35273 Oracle PeopleSoft Enterprise PeopleTools Missing Authentication for Critical Function Vulnerability...",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/06/12/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "date": "2026-06-12T12:00:00Z"
-    },
-    {
-      "title": "Bernie Sanders\u2019 AI Sovereign Wealth Fund Plan",
-      "description": "[SCHNEIER] Let no one accuse Bernie Sanders of ducking the big questions. Writing in the New York Times last week, the senator asked: &#8220;Will the future of humanity be determined by a handful of billionaires who have promoted and developed AI, with...",
-      "url": "https://www.schneier.com/blog/archives/2026/06/bernie-sanders-ai-sovereign-wealth-fund-plan.html",
-      "date": "2026-06-12T11:03:17Z"
-    },
-    {
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "description": "[CISA] CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-10520 Ivanti Sentry OS Command Injection Vulnerability This type of vulnerability is a frequent attack...",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/06/11/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "date": "2026-06-11T12:00:00Z"
-    },
-    {
-      "title": "Enhanced License Plate Tracking",
-      "description": "[SCHNEIER] The surveillance company Leonardo wants more data: A surveillance company plans to add sensors to automatic license plate readers (ALPRs) that would mean the devices, as well as capture the license plate of passing vehicles, would also sweep up...",
-      "url": "https://www.schneier.com/blog/archives/2026/06/enhanced-license-plate-tracking.html",
-      "date": "2026-06-11T11:01:19Z"
-    },
-    {
-      "title": "ISC Stormcast For Thursday, June 11th, 2026 https://isc.sans.edu/podcastdetail/9968, (Thu, Jun 11th)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33070",
-      "date": "2026-06-11T02:25:21Z"
-    },
-    {
-      "title": "CISA Adds Three Known Exploited Vulnerabilities to Catalog",
-      "description": "[CISA] CISA has added three new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-7473 Arista Extensible Operating System Incomplete Comparison with Missing Factors Vulnerability...",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/06/09/cisa-adds-three-known-exploited-vulnerabilities-catalog",
-      "date": "2026-06-09T12:00:00Z"
-    },
-    {
-      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
-      "description": "[CISA] CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-42271 BerriAI LiteLLM Command Injection Vulnerability CVE-2026-50751 Check Point Security Gateway...",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/06/08/cisa-adds-two-known-exploited-vulnerabilities-catalog",
-      "date": "2026-06-08T12:00:00Z"
-    },
-    {
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "description": "[CISA] CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-28318 SolarWinds Serv-U Uncontrolled Resource Consumption Vulnerability This type of vulnerability is a...",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/06/05/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "date": "2026-06-05T12:00:00Z"
-    }
-  ]
+    "title": "Sentinel Protocol",
+    "tagline": "Perimeter Intelligence Sync",
+    "updated": "2026-06-16 15:50 UTC",
+    "news": [
+        {
+            "source": {
+                "id": null,
+                "name": "Biztoc.com"
+            },
+            "author": "techcrunch.com",
+            "title": "Cybersecurity vets protest \u2018dangerous\u2019 US government ban on Anthropic\u2019s most powerful models",
+            "description": "A group made up of dozens of cybersecurity experts, including several well-known veterans of the industry, published an open letter to the U.S. government asking it to lift the export control order on Anthropic\u2019s Fable and Mythos models.\nAccording to the open\u2026",
+            "url": "https://biztoc.com/x/9685c0e8cf239b20",
+            "urlToImage": "https://biztoc.com/cdn/9685c0e8cf239b20_s.webp",
+            "publishedAt": "2026-06-15T15:45:12Z",
+            "content": "A group made up of dozens of cybersecurity experts, including several well-known veterans of the industry, published an open letter to the U.S. government asking it to lift the export control order o\u2026 [+142 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Crypto Briefing"
+            },
+            "author": "Editorial Team",
+            "title": "Cybersecurity experts urge White House to lift export controls on Anthropic models Fable and Mythos",
+            "description": "Restricting AI models may hinder cybersecurity advancements, potentially leaving defenders vulnerable and impacting tech industry dynamics.\nThe post Cybersecurity experts urge White House to lift export controls on Anthropic models Fable and Mythos appeared f\u2026",
+            "url": "https://cryptobriefing.com/cybersecurity-experts-white-house-anthropic-export-controls/",
+            "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/15114125/home-anthropic-11-800x420.jpeg",
+            "publishedAt": "2026-06-15T15:41:33Z",
+            "content": "54 security professionals warn that Commerce Department restrictions on advanced AI models will cripple defensive cyber capabilities worldwide Fifty-four cybersecurity professionals have signed an op\u2026 [+3341 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "pymnts.com"
+            },
+            "author": "PYMNTS",
+            "title": "Fiserv Names Takis Georgakopoulos CEO as Mike Lyons Moves to Truist",
+            "description": "Fiserv and Truist announced leadership transitions Monday (June 15) as Mike Lyons moves from being CEO of Fiserv to being president and CEO of Truist. Fiserv said in a Monday press release that Lyons stepped down as CEO and member of the board of directors to\u2026",
+            "url": "https://www.pymnts.com/personnel/2026/fiserv-names-takis-georgakopoulos-ceo-mike-lyons-moves-truist/",
+            "urlToImage": "https://www.pymnts.com/wp-content/uploads/2026/06/Fiserv.jpeg",
+            "publishedAt": "2026-06-15T15:38:12Z",
+            "content": "Fiserv and Truist announced leadership transitions Monday (June 15) as Mike Lyons moves from being CEO of Fiserv to being president and CEO of Truist.Fiserv said in a Monday press release that Lyons \u2026 [+2583 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Lorenzo Franceschi-bicchierai",
+            "title": "Cybersecurity vets protest 'dangerous' US government ban on Anthropic's most powerful models | TechCrunch",
+            "description": "A group made up of dozens of cybersecurity experts urged the White House to remove export control restrictions on Anthropic\u2019s models Fable and Mythos, arguing that the order is going to limit the ability of cybersecurity defenders to secure their software and\u2026",
+            "url": "https://techcrunch.com/2026/06/15/cybersecurity-vets-protest-dangerous-us-government-ban-on-anthropics-most-powerful-models/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/06/claude-mythos-logo.jpg?resize=1200,800",
+            "publishedAt": "2026-06-15T15:34:55Z",
+            "content": "A group made up of dozens of cybersecurity experts, including several well-known veterans of the industry, published an open letter to the U.S. government asking it to lift the export control order o\u2026 [+4186 chars]"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "ETtech",
+            "title": "US-based cybersecurity firm N-able opens Global Capability Centre in Bengaluru",
+            "description": "US cybersecurity firm N-able has launched a Global Capability Centre in Bengaluru, bolstering its commitment to helping businesses combat evolving cyber threats and AI advancements. This strategic expansion aims to enhance business resilience by investing in \u2026",
+            "url": "https://economictimes.indiatimes.com/tech/technology/us-based-cybersecurity-firm-n-able-opens-global-capability-centre-in-bengaluru/articleshow/131749028.cms",
+            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-100764,resizemode-75,msid-131749028/tech/technology/us-based-cybersecurity-firm-n-able-opens-global-capability-centre-in-bengaluru.jpg",
+            "publishedAt": "2026-06-15T15:31:25Z",
+            "content": "US-based cybersecurity firm N-able has opened a Global Capability Centre (GCC) in Bengaluru.As cyberthreats evolve and AI reshapes the technology landscape, the move reflects N-able's commitment to h\u2026 [+1354 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Help Net Security"
+            },
+            "author": "Zeljka Zorz",
+            "title": "China-linked spies backdoored authentication stack to stay hidden for years",
+            "description": "A China-linked cyber espionage group known as Velvet Ant spent nearly a decade inside the internal network of an unnamed organization without being detected, according to the results of a forensic investigation published by cybersecurity firm Sygnia. The grou\u2026",
+            "url": "https://www.helpnetsecurity.com/2026/06/15/velvet-ant-backdoored-authentication-persistence/",
+            "urlToImage": "https://img.helpnetsecurity.com/wp-content/uploads/2024/07/09132937/china.webp",
+            "publishedAt": "2026-06-15T15:27:11Z",
+            "content": "A China-linked cyber espionage group known as Velvet Ant spent nearly a decade inside the internal network of an unnamed organization without being detected, according to the results of a forensic in\u2026 [+4543 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PRNewswire"
+            },
+            "author": null,
+            "title": "WireX Systems and Brown & Brown Launch Executive Cyber Risk Program Focused on Quantum Exposure, AI-Generated Vulnerabilities, and Machine-Speed Exploitation",
+            "description": "The next major breach may have already happened. Adversaries are harvesting encrypted data today with the expectation that quantum computing will unlock it tomorrow. At the same time, AI is generating software faster than organizations can secure it, introduc\u2026",
+            "url": "https://www.prnewswire.com/news-releases/wirex-systems-and-brown--brown-launch-executive-cyber-risk-program-focused-on-quantum-exposure-ai-generated-vulnerabilities-and-machine-speed-exploitation-302800502.html",
+            "urlToImage": "https://mmx.prnewswire.com/media/MS1147833/WireX-Logo.jpg?id=OA2704138&p=facebook",
+            "publishedAt": "2026-06-15T15:24:00Z",
+            "content": "The next major breach may have already happened. Adversaries are harvesting encrypted data today with the expectation that quantum computing will unlock it tomorrow. At the same time, AI is generatin\u2026 [+6583 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BleepingComputer"
+            },
+            "author": "",
+            "title": "Ransomware .friends92 - Phobos/Dharma Variant - Need Help",
+            "description": "Ransomware .friends92 - Phobos/Dharma Variant - Need Help - posted in Ransomware Help & Tech Support: Hello everyone,\nOur business has been hit by a ransomware attack that encrypted our entire management software system with the .friends92 extension.\n**Attack\u2026",
+            "url": "https://www.bleepingcomputer.com/forums/t/816717/ransomware-friends92-phobosdharma-variant-need-help/",
+            "urlToImage": "https://www.bleepingcomputer.com/forums/public/style_images/master/meta_image.png",
+            "publishedAt": "2026-06-15T15:20:50Z",
+            "content": "Hello everyone,\r\nOur business has been hit by a ransomware attack that encrypted our entire management software system with the .friends92 extension.\r\n**Attack Details:**- Ransomware Extension: .frie\u2026 [+1223 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Techtarget.com"
+            },
+            "author": null,
+            "title": "Cyber insurance forces companies to rethink risk management",
+            "description": "In this edition of the Reporters' Notebook video series, our cybersecurity reporters explore why cyber insurance is forcing organizations to quantify risk.",
+            "url": "https://www.techtarget.com/searchsecurity/video/Cyber-insurance-forces-companies-to-rethink-risk-management",
+            "urlToImage": null,
+            "publishedAt": "2026-06-15T15:11:00Z",
+            "content": "Cyber insurance is a unique risk transfer product for enterprises. When a company purchases property insurance, the fire that might damage its offices isn't trying to figure out better ways to burn d\u2026 [+19988 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Crypto Briefing"
+            },
+            "author": "Editorial Team",
+            "title": "Anthropic meets with Trump administration to resolve Mythos dispute",
+            "description": "The Mythos dispute highlights AI's dual-use risks, prompting regulatory scrutiny and sparking interest in decentralized AI solutions.\nThe post Anthropic meets with Trump administration to resolve Mythos dispute appeared first on Crypto Briefing.",
+            "url": "https://cryptobriefing.com/anthropic-trump-mythos-dispute-meeting/",
+            "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/15110507/anthropic-ceo-dario-amodei-keeps-only-1-direct-report-3-800x420.jpeg",
+            "publishedAt": "2026-06-15T15:05:14Z",
+            "content": "Senior staff from the AI firm are sitting down with government officials today as tensions over its advanced Mythos models come to a head Anthropic, the AI company behind the Claude family of models,\u2026 [+2979 chars]"
+        }
+    ]
 }
