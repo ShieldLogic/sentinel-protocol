@@ -1,6 +1,24 @@
 {
-  "updated": "2026-06-16 19:27:26 UTC",
+  "updated": "2026-06-16 22:04:50 UTC",
   "news": [
+    {
+      "title": "Malicious JetBrains Marketplace plugins steal AI API keys from developers",
+      "description": "[BLEEPINGCOMPUTER] At least 15 malicious plugins found on the JetBrains Marketplace were designed to steal AI API keys from developers. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/malicious-jetbrains-marketplace-plugins-steal-ai-api-keys-from-developers/",
+      "date": "2026-06-16T21:54:50Z"
+    },
+    {
+      "title": "New Rokarolla Android malware targets 217 banking, crypto apps",
+      "description": "[BLEEPINGCOMPUTER] A new Android banking trojan named Rokarolla is targeting 217 banking and cryptocurrency applications using an extensive set of 137 commands. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/new-rokarolla-android-malware-targets-217-banking-crypto-apps/",
+      "date": "2026-06-16T20:04:11Z"
+    },
+    {
+      "title": "Google Vertex AI SDK Flaw Let Attackers Hijack Model Uploads via Bucket Squatting",
+      "description": "[FEEDS] A flaw in the Google Cloud Vertex AI SDK for Python let an attacker with no access to a victim's project hijack the victim's machine learning model upload and run code inside Google's serving infrastructure. Palo Alto Networks Unit 42, which found...",
+      "url": "https://thehackernews.com/2026/06/google-vertex-ai-sdk-flaw-let-attackers.html",
+      "date": "2026-06-16T19:05:41Z"
+    },
     {
       "title": "Steam Workshop abused to spread malware via Wallpaper Engine app",
       "description": "[BLEEPINGCOMPUTER] Threat actors are abusing Steam Workshop, Valve's community hub for downloading game-related content, to push various malware hidden in wallpaper packages. [...]",
@@ -38,6 +56,12 @@
       "date": "2026-06-16T13:10:17Z"
     },
     {
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "description": "[CISA] CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-48907 Widget Factory Joomla Content Editor Improper Access Control Vulnerability This type of vulnerability...",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/06/16/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "date": "2026-06-16T12:00:00Z"
+    },
+    {
       "title": "Survey: 94% of Incidents Involve Anonymized Infrastructure. Teams Are Still Reactive",
       "description": "[FEEDS] Security teams have never had more IP data at their disposal. Every day, analysts ingest enrichment feeds, geolocation data, reputation scores, telemetry, and threat intelligence from a growing ecosystem of vendors and platforms. Yet despite this...",
       "url": "https://thehackernews.com/2026/06/survey-94-of-incidents-involve.html",
@@ -50,22 +74,28 @@
       "date": "2026-06-16T11:03:31Z"
     },
     {
-      "title": "CISA warns of another cPanel plugin flaw exploited in attacks",
-      "description": "[BLEEPINGCOMPUTER] The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has given U.S. government agencies three days to secure their servers against an actively exploited vulnerability (CVE-2026-54420) in the LiteSpeed cPanel user-end plugin. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-another-actively-exploited-cpanel-plugin-flaw/",
-      "date": "2026-06-16T10:47:59Z"
-    },
-    {
       "title": "Attackers Exploit Three Fortinet FortiSandbox Flaws, One Patched Last Week",
       "description": "[FEEDS] Bad actors are exploiting multiple security vulnerabilities in Fortinet FortiSandbox, according to threat intelligence firm Defused Cyber. In a post shared on X, the company said it has observed exploitation of CVE-2026-39813, CVE-2026-39808, and...",
       "url": "https://thehackernews.com/2026/06/attackers-exploit-three-fortinet.html",
       "date": "2026-06-16T10:30:41Z"
     },
     {
-      "title": "Ransomware gang abuses Microsoft Teams relays to hide malicious traffic",
-      "description": "[BLEEPINGCOMPUTER] DragonForce ransomware used a custom malware named 'Backdoor.Turn' to hide command-and-control traffic inside Microsoft Teams relay infrastructure. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/ransomware-gang-abuses-microsoft-teams-relays-to-hide-malicious-traffic/",
-      "date": "2026-06-16T10:18:48Z"
+      "title": "Ford government scolded agency over cyber attack. Docs show it knew a month earlier",
+      "description": "[GLOBAL NEWS] An Ontario Liberal MPP raised the alarm about a major ransomware attack suffered by one of Ontario Health atHome's key vendors last year.",
+      "url": "https://globalnews.ca/news/11906406/ontario-health-home-inform-ministry-health/",
+      "date": "2026-06-16T10:00:23Z"
+    },
+    {
+      "title": "Trump just found the worst way to regulate AI",
+      "description": "[VOX.COM] Last week, the Trump administration forced Anthropic to shelve its new AI model Fable, due to cybersecurity concerns. But this is not the way to regulate AI.",
+      "url": "https://www.vox.com/politics/492031/anthropic-fable-claude-ban-trump-ai",
+      "date": "2026-06-16T10:00:00Z"
+    },
+    {
+      "title": "SoftBank launches cybersecurity product based on OpenAI models",
+      "description": "[THE ECONOMIC TIMES] The \"Patching as a Service\" product will be rolled out in Japan through a joint \u200cventure established \u2060last \u2060November between SoftBank's domestic telecoms arm, SoftBank Corp, and OpenAI.",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/softbank-launches-cybersecurity-product-based-on-openai-models/articleshow/131767340.cms",
+      "date": "2026-06-16T09:56:07Z"
     },
     {
       "title": "China-Linked SprySOCKS Backdoor Expands to Windows with Driver-Based Stealth",
@@ -74,76 +104,52 @@
       "date": "2026-06-16T09:44:34Z"
     },
     {
-      "title": "Fake Microsoft Alerts Used to Deploy North Korean NarwhalRAT Malware",
-      "description": "[FEEDS] The North Korean state-sponsored hacking group known as ScarCruft (aka APT37) has been observed using spear-phishing messages impersonating Microsoft Account security notifications to deliver malware called NarwhalRAT. \"The attack email contained a...",
-      "url": "https://thehackernews.com/2026/06/fake-microsoft-alerts-used-to-deploy.html",
-      "date": "2026-06-16T08:14:55Z"
+      "title": "SoftBank launches cybersecurity product based on OpenAI models",
+      "description": "[REUTERS] Japan\u2019s SoftBank Group has launched a cybersecurity product designed to counter breaches enabled \u200bby artificial intelligence, the company said on Tuesday.",
+      "url": "https://www.reuters.com/business/media-telecom/softbank-launches-cybersecurity-product-based-openai-models-2026-06-16/",
+      "date": "2026-06-16T09:36:34Z"
+    },
+    {
+      "title": "The real cybersecurity debate around chinese inverters is only just beginning",
+      "description": "[PV MAGAZINE] The European Commission\u2019s move to restrict funding for projects using high-risk inverter vendors marks a turning point for solar cybersecurity. In this article, Uri Sadot, founder of SolarDefend and a longtime renewable energy cybersecurity...",
+      "url": "https://www.pv-magazine.com/2026/06/16/the-real-cybersecurity-debate-around-chinese-inverters-is-only-just-beginning/",
+      "date": "2026-06-16T09:22:56Z"
+    },
+    {
+      "title": "Did hackers access ICAI's exam portal? Alleged data breach sparks concern days before CA Inter, Final results 2026",
+      "description": "[TIMES OF INDIA] News News: With the Chartered Accountants (CA) Final Examination results scheduled to be declared on June 18, an entirely different discussion has begun circulat.",
+      "url": "https://timesofindia.indiatimes.com/education/news/did-hackers-access-icais-exam-portal-alleged-data-breach-sparks-concern-days-before-ca-inter-final-results-2026/articleshow/131765526.cms",
+      "date": "2026-06-16T08:42:00Z"
+    },
+    {
+      "title": "\"Can't Stop Paper Leaks\": Cybersecurity Researcher Nisarga Adhikary On Telegram Ban",
+      "description": "[NDTV.COM] The NTA reiterated that no examination paper had been leaked and warned that any claims offering advance access to question papers were fraudulent.",
+      "url": "https://www.ndtv.com/education/cant-stop-paper-leaks-cybersecurity-researcher-nisarga-adhikary-on-telegram-ban-11643040",
+      "date": "2026-06-16T08:22:12Z"
+    },
+    {
+      "title": "From Google to Adobe: The Indian-origin CEOs and entrepreneurs driving Silicon Valley's AI era",
+      "description": "[FIRSTPOST] From Google, Adobe and Microsoft to cybersecurity, venture capital and artificial intelligence, Indian-origin leaders have emerged as some of the most influential figures in Silicon Valley. A new Forbes ranking highlights 26 personalities whose work...",
+      "url": "https://www.firstpost.com/tech/from-google-to-adobe-the-indian-origin-ceos-and-entrepreneurs-shaping-the-future-of-technology-in-silicon-valley-14023010.html",
+      "date": "2026-06-16T08:16:35Z"
+    },
+    {
+      "title": "NewCore raises $66 million to give AI agents digital identities, hits $300 million valuation",
+      "description": "[MONEYCONTROL] Cybersecurity startup unveils platform to help companies manage, monitor and control AI workers as enterprises expand use of autonomous systems.",
+      "url": "https://www.moneycontrol.com/news/trends/newcore-raises-66-million-to-give-ai-agents-digital-identities-hits-300-million-valuation-13950920.html",
+      "date": "2026-06-16T08:02:15Z"
+    },
+    {
+      "title": "Sectra's first US cloud migration: Emory Healthcare boosts scalability and security by moving to Sectra One Cloud",
+      "description": "[PR NEWSWIRE UK] /PRNewswire/ -- International medical imaging IT and cybersecurity company Sectra (STO: SECT B) announces that Emory Healthcare, the largest and most...",
+      "url": "https://www.prnewswire.co.uk/news-releases/sectras-first-us-cloud-migration-emory-healthcare-boosts-scalability-and-security-by-moving-to-sectra-one-cloud-302801318.html",
+      "date": "2026-06-16T07:28:00Z"
     },
     {
       "title": "From a VHDX File to a Remcos RAT, (Tue, Jun 16th)",
       "description": "[ISC] Yesterday, a reader reported to us a malicious ZIP archive (SHA256: a0104921a2d37ab87482ac9a9f5c3713479c118846c3e999178e75b81620c094&#x5b;1&#x5d;). Once unzipped, it contains a VHDX file that discloses a malicious JavaScript after being mounted...",
       "url": "https://isc.sans.edu/diary/rss/33080",
       "date": "2026-06-16T07:09:13Z"
-    },
-    {
-      "title": "UAE Cabinet Resolution 111/2022",
-      "description": "[CRYPTOSLATE] Track UAE Cabinet Resolution 111/2022, the federal virtual-assets rule covering VASP licensing, AML/CFT, custody, cybersecurity, VARA, and penalties.",
-      "url": "https://cryptoslate.com/crypto-laws/uae-cabinet-resolution-111-2022-virtual-assets/",
-      "date": "2026-06-16T06:43:15Z"
-    },
-    {
-      "title": "CISA mills\u2019 daily crude steel output up 3.8% in early June 2026, stocks also up",
-      "description": "[STEELORBIS] The China Iron and Steel Association (CISA) has announced that in early June (June 1-10) this year the average aggregate daily crude steel output of ...",
-      "url": "https://www.steelorbis.com/steel-news/latest-news/cisa-mills-daily-crude-steel-output-up-38-in-early-june-2026-stocks-also-up-1458909.htm",
-      "date": "2026-06-16T06:35:56Z"
-    },
-    {
-      "title": "Indonesia's Healthcare Leaders Gather for Exclusive Executive Forum on AI, Cybersecurity, and the Future of Secure Healthcare Communications",
-      "description": "[THE MANILA TIMES] Hosted by NetSfere, Mayapada Healthcare, and Qualitas, the forum will provide practical insights into protecting patient data, enabling secure clinical collaboration, strengthening cyber resilience, and preparing for the post-quantum era",
-      "url": "https://www.manilatimes.net/2026/06/16/tmt-newswire/globenewswire/indonesias-healthcare-leaders-gather-for-exclusive-executive-forum-on-ai-cybersecurity-and-the-future-of-secure-healthcare-communications/2366170",
-      "date": "2026-06-16T06:23:27Z"
-    },
-    {
-      "title": "Cybersecurity Company N-able Opens New Global Capability Centre In Bengaluru",
-      "description": "[NDTV PROFIT] N-able aims to strengthen business resilience and support compliance readiness for Indian enterprises.",
-      "url": "https://www.ndtvprofit.com/technology/cybersecurity-company-n-able-opens-new-global-capability-centre-in-bengaluru-11642471",
-      "date": "2026-06-16T06:00:53Z"
-    },
-    {
-      "title": "Crafting Bharat - Season 3 launches its sixth episode featuring Jaydeep Ruparelia of Infopercept.",
-      "description": "[THE TRIBUNE] Jaydeep Ruparelia, Founder & CEO of Infopercept, in conversation with host Gautam Srinivasan. Jaydeep Ruparelia, Founder & CEO of Infopercept, discusses transforming cybersecurity through platform consolidation and AWS-powered cloud capabilities....",
-      "url": "https://www.tribuneindia.com/news/business/crafting-bharat-season-3-launches-its-sixth-episode-featuring-jaydeep-ruparelia-of-infopercept-2-2/",
-      "date": "2026-06-16T05:49:34Z"
-    },
-    {
-      "title": "Sarvam AI Joins Unicorn Club, HCLTech Buys 10.5%",
-      "description": "[OUTLOOK BUSINESS] Sarvam, India\u2019s homegrown AI startup, has become the country\u2019s newest unicorn after a $234 million Series B round led by HCLTech and Bessemer, valuing it at $1.5 billion. The fresh capital will power research on next-gen agentic, coding and...",
-      "url": "https://www.outlookbusiness.com/deeptech/sarvam-ai-joins-unicorn-club-hcltech-buys-105-stake",
-      "date": "2026-06-16T05:45:53Z"
-    },
-    {
-      "title": "Season 3 launches its sixth episode featuring Jaydeep Ruparelia of Infopercept",
-      "description": "[THE TRIBUNE] New Delhi [India], June 16: The cybersecurity landscape is undergoing a rapid transformation as enterprises grapple with increasingly sophisticated and scalable threats. With cloud adoption accelerating and digital infrastructures becoming more...",
-      "url": "https://www.tribuneindia.com/news/business/crafting-bharat-season-3-launches-its-sixth-episode-featuring-jaydeep-ruparelia-of-infopercept/",
-      "date": "2026-06-16T05:43:12Z"
-    },
-    {
-      "title": "RBI Seeks Young Professionals for Cutting-Edge Roles",
-      "description": "[DEVDISCOURSE] The Reserve Bank of India is recruiting 12 Young Professionals for diverse roles in fields like AI and cybersecurity. The engagement is a three-year contract, extendable to five years, offering Rs 1,50,000 monthly. Applicants must be Indian citizens...",
-      "url": "https://www.devdiscourse.com/article/business/3935598-rbi-seeks-young-professionals-for-cutting-edge-roles",
-      "date": "2026-06-16T05:24:23Z"
-    },
-    {
-      "title": "Globals Appoints Industry Veteran Vinaydath Shivaprasad as Chief Operating Officer",
-      "description": "[THE TRIBUNE] Bengaluru (Karnataka) [India], June 16: Globals, a Bengaluru-based defence technology and cybersecurity company, today announced the appointment of Vinaydath Shivaprasad as its Chief Operating Officer (COO). The appointment marks a significant...",
-      "url": "https://www.tribuneindia.com/news/business/globals-appoints-industry-veteran-vinaydath-shivaprasad-as-chief-operating-officer/",
-      "date": "2026-06-16T05:23:18Z"
-    },
-    {
-      "title": "U.S.-led global takedown shatters $389M Bitcoin laundering empire: AudiA6\u2019s dark web crimes exposed",
-      "description": "[NATURAL NEWS] U.S. federal prosecutors dismantled AudiA6, a transnational cryptocurrency money laundering network, seizing nearly $400 million in illicit Bitcoin and arresting key figures Ruslan Tkachuk and Alexander Ledenev. AudiA6 operated a crypto mixing...",
-      "url": "https://www.naturalnews.com/2026-06-16-us-led-global-takedown-shatters-bitcoin-laundering-empire.html",
-      "date": "2026-06-16T04:27:31Z"
     },
     {
       "title": "ISC Stormcast For Tuesday, June 16th, 2026 https://isc.sans.edu/podcastdetail/9974, (Tue, Jun 16th)",
@@ -234,12 +240,6 @@
       "description": "[CISA] CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-42271 BerriAI LiteLLM Command Injection Vulnerability CVE-2026-50751 Check Point Security Gateway...",
       "url": "https://www.cisa.gov/news-events/alerts/2026/06/08/cisa-adds-two-known-exploited-vulnerabilities-catalog",
       "date": "2026-06-08T12:00:00Z"
-    },
-    {
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "description": "[CISA] CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-28318 SolarWinds Serv-U Uncontrolled Resource Consumption Vulnerability This type of vulnerability is a...",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/06/05/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "date": "2026-06-05T12:00:00Z"
     }
   ]
 }
