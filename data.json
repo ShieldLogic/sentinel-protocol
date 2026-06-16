@@ -1,6 +1,42 @@
 {
-  "updated": "2026-06-16 02:48:58 UTC",
+  "updated": "2026-06-16 09:15:22 UTC",
   "news": [
+    {
+      "title": "Windows version of SprySOCKS Linux malware used to attack govt orgs",
+      "description": "[BLEEPINGCOMPUTER] Windows variants for the SprySOCKS Linux malware have been used in attacks targeting government organizations in at least four countries. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/windows-version-of-sprysocks-linux-malware-used-to-attack-govt-orgs/",
+      "date": "2026-06-16T09:00:00Z"
+    },
+    {
+      "title": "Fake Microsoft Alerts Used to Deploy North Korean NarwhalRAT Malware",
+      "description": "[FEEDS] The North Korean state-sponsored hacking group known as ScarCruft (aka APT37) has been observed using spear-phishing messages impersonating Microsoft Account security notifications to deliver malware called NarwhalRAT. \"The attack email contained a...",
+      "url": "https://thehackernews.com/2026/06/fake-microsoft-alerts-used-to-deploy.html",
+      "date": "2026-06-16T08:14:55Z"
+    },
+    {
+      "title": "From a VHDX File to a Remcos RAT, (Tue, Jun 16th)",
+      "description": "[ISC] Yesterday, a reader reported to us a malicious ZIP archive (SHA256: a0104921a2d37ab87482ac9a9f5c3713479c118846c3e999178e75b81620c094&#x5b;1&#x5d;). Once unzipped, it contains a VHDX file that discloses a malicious JavaScript after being mounted...",
+      "url": "https://isc.sans.edu/diary/rss/33080",
+      "date": "2026-06-16T07:09:13Z"
+    },
+    {
+      "title": "iRhythm discloses data breach, says hackers stole patient info",
+      "description": "[BLEEPINGCOMPUTER] Digital healthcare company iRhythm Holdings has disclosed a data breach after hackers stole patients' personal and health information stored on third-party-hosted business applications. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/irhythm-discloses-data-breach-says-hackers-stole-patient-info/",
+      "date": "2026-06-16T06:31:59Z"
+    },
+    {
+      "title": "Cisco Releases Security Updates for Actively Exploited SD-WAN Manager Flaw",
+      "description": "[FEEDS] Cisco has released security updates for a medium-severity security flaw in Catalyst SD-WAN Manager that has come under active exploitation in the wild. The vulnerability, tracked as CVE-2026-20262, carries a CVSS score of 6.5 out of 10.0. \"A...",
+      "url": "https://thehackernews.com/2026/06/cisco-releases-security-updates-for.html",
+      "date": "2026-06-16T06:05:58Z"
+    },
+    {
+      "title": "CISA Flags LiteSpeed cPanel Plugin Flaw Exploited for Root Privilege Escalation",
+      "description": "[FEEDS] The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a security flaw impacting LiteSpeed cPanel Plugin to its Known Exploited Vulnerabilities (KEV) catalog, requiring Federal Civilian Executive Branch (FCEB) agencies to apply...",
+      "url": "https://thehackernews.com/2026/06/cisa-flags-litespeed-cpanel-plugin-flaw.html",
+      "date": "2026-06-16T05:41:52Z"
+    },
     {
       "title": "ISC Stormcast For Tuesday, June 16th, 2026 https://isc.sans.edu/podcastdetail/9974, (Tue, Jun 16th)",
       "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
@@ -12,6 +48,66 @@
       "description": "[BLEEPINGCOMPUTER] The U.S. Department of Justice announced Friday that it has seized the CFAKE.com and SOCFAKE.com websites, which allegedly hosted nonconsensual AI-generated nude images and videos of women, in what appears to be the first publicly announced domain...",
       "url": "https://www.bleepingcomputer.com/news/security/doj-seizes-cfake-socfake-deepfake-nude-sites-under-take-it-down-act/",
       "date": "2026-06-15T21:56:55Z"
+    },
+    {
+      "title": "Rapid7 Reports Inducement Grant under Nasdaq Listing Rule 5635(c)(4)",
+      "description": "[THE MANILA TIMES] BOSTON, June 15, 2026 (GLOBE NEWSWIRE) -- Rapid7, Inc. (NASDAQ: RPD), a global leader in AI-powered managed cybersecurity operations, announced that the company granted an inducement award comprised of 525,000 restricted stock units ('RSUs\u201d) on June...",
+      "url": "https://www.manilatimes.net/2026/06/16/tmt-newswire/globenewswire/rapid7-reports-inducement-grant-under-nasdaq-listing-rule-5635c4/2365983",
+      "date": "2026-06-15T20:20:12Z"
+    },
+    {
+      "title": "100 cyber experts say Fable 5 ban hurts defenders",
+      "description": "[TNW] Roughly 100 cybersecurity leaders demand the US reverse the Fable 5 ban, arguing it disarms defenders while China's Zhipu AI fills the gap with GLM-5.2.",
+      "url": "https://thenextweb.com/news/fable-5-ban-cybersecurity-defenders-open-letter",
+      "date": "2026-06-15T20:16:15Z"
+    },
+    {
+      "title": "Experts urge Trump to ease restrictions on Anthropic AI models",
+      "description": "[THE BOSTON HERALD] Cybersecurity leaders ask the Trump administration to remove restrictions on Anthropic's AI models, citing potential risks to U.S. defensive capabilities.",
+      "url": "https://www.bostonherald.com/2026/06/15/cybersecurity-experts-urge-trump-anthropic-ai-restrictions/",
+      "date": "2026-06-15T20:07:24Z"
+    },
+    {
+      "title": "Experts urge Trump to ease restrictions on Anthropic AI models",
+      "description": "[BALTIMORE SUN] Cybersecurity leaders ask the Trump administration to remove restrictions on Anthropic's AI models, citing potential risks to U.S. defensive capabilities.",
+      "url": "https://www.baltimoresun.com/2026/06/15/cybersecurity-experts-urge-trump-anthropic-ai-restrictions/",
+      "date": "2026-06-15T20:07:24Z"
+    },
+    {
+      "title": "Experts urge Trump to ease restrictions on Anthropic AI models",
+      "description": "[ST. PAUL PIONEER PRESS] Cybersecurity leaders ask the Trump administration to remove restrictions on Anthropic's AI models, citing potential risks to U.S. defensive capabilities.",
+      "url": "https://www.twincities.com/2026/06/15/cybersecurity-experts-urge-trump-anthropic-ai-restrictions/",
+      "date": "2026-06-15T20:07:24Z"
+    },
+    {
+      "title": "Experts urge Trump to ease restrictions on Anthropic AI models",
+      "description": "[SANTA ROSA PRESS DEMOCRAT] Cybersecurity leaders ask the Trump administration to remove restrictions on Anthropic's AI models, citing potential risks to U.S. defensive capabilities.",
+      "url": "https://www.pressdemocrat.com/2026/06/15/cybersecurity-experts-urge-trump-anthropic-ai-restrictions/",
+      "date": "2026-06-15T20:07:24Z"
+    },
+    {
+      "title": "Experts urge Trump to ease restrictions on Anthropic AI models",
+      "description": "[NORFOLK VIRGINIAN-PILOT] Cybersecurity leaders ask the Trump administration to remove restrictions on Anthropic's AI models, citing potential risks to U.S. defensive capabilities.",
+      "url": "https://www.pilotonline.com/2026/06/15/cybersecurity-experts-urge-trump-anthropic-ai-restrictions/",
+      "date": "2026-06-15T20:07:24Z"
+    },
+    {
+      "title": "Experts urge Trump to ease restrictions on Anthropic AI models",
+      "description": "[HARTFORD COURANT] Cybersecurity leaders ask the Trump administration to remove restrictions on Anthropic's AI models, citing potential risks to U.S. defensive capabilities.",
+      "url": "https://www.courant.com/2026/06/15/cybersecurity-experts-urge-trump-anthropic-ai-restrictions/",
+      "date": "2026-06-15T20:07:24Z"
+    },
+    {
+      "title": "Experts urge Trump to ease restrictions on Anthropic AI models",
+      "description": "[SAN DIEGO UNION-TRIBUNE] Cybersecurity leaders ask the Trump administration to remove restrictions on Anthropic's AI models, citing potential risks to U.S. defensive capabilities.",
+      "url": "https://www.sandiegouniontribune.com/2026/06/15/cybersecurity-experts-urge-trump-anthropic-ai-restrictions/",
+      "date": "2026-06-15T20:07:24Z"
+    },
+    {
+      "title": "Experts urge Trump to ease restrictions on Anthropic AI models",
+      "description": "[READING EAGLE] Cybersecurity leaders ask the Trump administration to remove restrictions on Anthropic's AI models, citing potential risks to U.S. defensive capabilities.",
+      "url": "https://www.readingeagle.com/2026/06/15/cybersecurity-experts-urge-trump-anthropic-ai-restrictions/",
+      "date": "2026-06-15T20:07:24Z"
     },
     {
       "title": "SimpleHelp bug lets hackers create rogue remote support accounts",
@@ -50,106 +146,16 @@
       "date": "2026-06-15T16:39:01Z"
     },
     {
-      "title": "Council of Europe investigates ShinyHunters data breach claims",
-      "description": "[BLEEPINGCOMPUTER] The Council of Europe, the continent's oldest intergovernmental body, is probing claims of a data breach made by the ShinyHunters extortion group over the weekend. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/council-of-europe-investigates-shinyhunters-data-breach-claims/",
-      "date": "2026-06-15T16:37:11Z"
-    },
-    {
-      "title": "FBI: Fraudsters use couriers to steal money in crypto scams",
-      "description": "[BLEEPINGCOMPUTER] The U.S. Federal Bureau of Investigation (FBI) warned that criminals are using couriers to collect money from victims of cryptocurrency investment scams, also known as pig butchering or romance baiting. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/fbi-fraudsters-use-couriers-to-steal-money-in-crypto-scams/",
-      "date": "2026-06-15T15:30:23Z"
-    },
-    {
-      "title": "One-Click Microsoft 365 Copilot Flaw Could Have Let Attackers Steal Emails, Files, and MFA Codes",
-      "description": "[FEEDS] A single click on a trusted Microsoft link could have let an attacker pull emails, calendar details, and indexed files out of Microsoft 365 Copilot Enterprise Search. Researchers at Varonis Threat Labs chained three bugs into a one-click...",
-      "url": "https://thehackernews.com/2026/06/one-click-microsoft-365-copilot-flaw.html",
-      "date": "2026-06-15T15:09:05Z"
-    },
-    {
-      "title": "Cybersecurity firm N-ABLE scales Bengaluru innovation hub",
-      "description": "[THE HINDU BUSINESS LINE] N-ABLE expands its Bengaluru hub, targeting 50% workforce growth in AI and cybersecurity while fostering innovation and partnerships.",
-      "url": "https://www.thehindubusinessline.com/info-tech/cybersecurity-firm-n-able-scales-bengaluru-innovation-hub/article71105294.ece",
-      "date": "2026-06-15T13:57:24Z"
-    },
-    {
-      "title": "\u26a1 Weekly Recap: Chrome 0-Day, UniFi Exploits, macOS Stealers, VPN Flaw and More",
-      "description": "[FEEDS] Stuff broke again. Not in a movie way. An old tool was left exposed. An abandoned package was abused. A deprecated feature was still running in prod. This week is the same lesson in a new form: phishing kits are easier to rent, AI names are useful...",
-      "url": "https://thehackernews.com/2026/06/weekly-recap-chrome-0-day-unifi.html",
-      "date": "2026-06-15T13:49:29Z"
-    },
-    {
-      "title": "Sarvam AI becomes unicorn with $234 million funding; HCLTech leads with $150 million",
-      "description": "[BUSINESS TODAY] The fresh capital will go toward training Sarvam's next frontier model, with a focus on agentic, coding, and cybersecurity use cases, and toward expanding compute access to scale its forward-deployed operations across key verticals.",
-      "url": "https://www.businesstoday.in/technology/story/sarvam-ai-becomes-unicorn-with-234-million-funding-hcltech-leads-with-150-million-537017-2026-06-15",
-      "date": "2026-06-15T13:38:18Z"
-    },
-    {
-      "title": "Cycurion Responds to Coordinated Stock Attack While Strengthening Core Business",
-      "description": "[THE MANILA TIMES] MCLEAN, Va., June 15, 2026 (GLOBE NEWSWIRE) -- Cycurion, Inc. (NASDAQ: CYCU) ('Cycurion\u201d or the 'Company\u201d), a leading AI driven, tech-enabled cybersecurity solutions provider, today releases the following Letter to Shareholders from Kevin Kelly,...",
-      "url": "https://www.manilatimes.net/2026/06/15/tmt-newswire/globenewswire/cycurion-responds-to-coordinated-stock-attack-while-strengthening-core-business/2365710",
-      "date": "2026-06-15T13:33:51Z"
-    },
-    {
-      "title": "Nvidia, Adobe urge Trump administration to lift Anthropic AI restrictions over cybersecurity risks",
-      "description": "[THE NEWS INTERNATIONAL] Major tech giants, including Nvidia and Adobe and cybersecurity leaders have urged President Donald Trump to lift restrictions on Anthropic\u2019s most powerful AI models such as Claude Fable 5 and...",
-      "url": "https://www.thenews.com.pk/latest/1406005-nvidia-adobe-urge-trump-administration-to-lift-anthropic-ai-restrictions-over-cybersecurity-risks",
-      "date": "2026-06-15T12:21:00Z"
-    },
-    {
       "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
       "description": "[CISA] CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-20262 Cisco Catalyst SD-WAN Manager Directory or Path Traversal Vulnerability CVE-2026-54420 LiteSpeed...",
       "url": "https://www.cisa.gov/news-events/alerts/2026/06/15/cisa-adds-two-known-exploited-vulnerabilities-catalog",
       "date": "2026-06-15T12:00:00Z"
     },
     {
-      "title": "Madhya Pradesh Boosts Cybersecurity with New Research Centre",
-      "description": "[DEVDISCOURSE] Madhya Pradesh's CM Mohan Yadav inaugurated a consultative workshop on strengthening cybersecurity frameworks, announcing a Cybersecurity Research Centre in Mhow. Emphasizing data protection's importance, Yadav highlighted initiatives aligning with...",
-      "url": "https://www.devdiscourse.com/article/headlines/3935174-madhya-pradesh-boosts-cybersecurity-with-new-research-centre",
-      "date": "2026-06-15T11:38:18Z"
-    },
-    {
-      "title": "Cyber leaders want the U.S. to lift curbs on Anthropic models",
-      "description": "[BNN BLOOMBERG] Cybersecurity leaders at major U.S. firms including Nvidia and Adobe have asked the Trump administration to lift restrictions on Anthropic\u2019s most powerful AI models, arguing that the bans hamper efforts to prevent the spread of digital attacks.",
-      "url": "https://www.bnnbloomberg.ca/business/technology/2026/06/15/cyber-leaders-urge-us-to-lift-curbs-on-anthropics-security-models/",
-      "date": "2026-06-15T11:38:17Z"
-    },
-    {
-      "title": "The Onboarding Password Mistake That Creates Unnecessary Risk",
-      "description": "[FEEDS] Employee onboarding is a busy time for IT teams. New starters need devices, accounts, access permissions, and passwords, all delivered within a tight timeframe. That usually means sharing a temporary \"first-day\" password so employees can access...",
-      "url": "https://thehackernews.com/2026/06/the-onboarding-password-mistake-that.html",
-      "date": "2026-06-15T11:30:00Z"
-    },
-    {
-      "title": "Cyber leaders urge US to lift curbs on Anthropic's security models",
-      "description": "[REUTERS] Cybersecurity leaders at major U.S. firms including Nvidia and Adobe have asked the Trump administration to lift restrictions on Anthropic's most powerful AI models, arguing that the \u200bbans hamper efforts to prevent the spread of digital attacks.",
-      "url": "https://www.reuters.com/legal/litigation/cyber-leaders-urge-us-lift-curbs-anthropics-security-models-2026-06-15/",
-      "date": "2026-06-15T11:27:09Z"
-    },
-    {
-      "title": "Cyber leaders urge US to lift curbs on Anthropic's security models",
-      "description": "[MARKETSCREENER] Cybersecurity leaders at major U.S. firms including Nvidia and Adobe have asked the Trump administration to lift restrictions on Anthropic's most powerful AI models, arguing that the bans hamper...",
-      "url": "https://www.marketscreener.com/news/cyber-leaders-urge-us-to-lift-curbs-on-anthropic-s-security-models-ce7f5cdeda8af421",
-      "date": "2026-06-15T11:20:25Z"
-    },
-    {
-      "title": "Real-World Threats Demand Real Results",
-      "description": "[PR NEWSWIRE UK] /PRNewswire/ -- AV-Comparatives, the world's leading independent cybersecurity testing organization, has published the results of its Real-World Protection...",
-      "url": "https://www.prnewswire.co.uk/news-releases/real-world-threats-demand-real-results-302800249.html",
-      "date": "2026-06-15T11:18:00Z"
-    },
-    {
       "title": "The FCC Wants to Eliminate Burner Phones",
       "description": "[SCHNEIER] A proposed FCC rule would kill burner phones: phones whose accounts are not attached to a particular person. The FCC plans to do this by legally forcing the country&#8217;s telecoms to store a wealth of personal information about essentially all...",
       "url": "https://www.schneier.com/blog/archives/2026/06/the-fcc-wants-to-eliminate-burner-phones.html",
       "date": "2026-06-15T11:01:05Z"
-    },
-    {
-      "title": "Anthropic downplays security risks of 'Mythos' and 'Fable' AI models after ban -- prompting scorn from White House officials",
-      "description": "[NEW YORK POST] Anthropic is downplaying risks that led the White House to ban foreign use of its powerful \u201cMythos\u201d and \u201cFable\u201d AI models \u2013 and US officials claim it\u2019s proof that CEO Dario Amodei has a one-sided, self-serving approach when it comes to cybersecurity.",
-      "url": "https://nypost.com/2026/06/15/business/anthropic-downplays-security-risks-of-mythos-and-fable-ai-models-after-ban-prompting-scorn-from-white-house-officials/",
-      "date": "2026-06-15T10:00:00Z"
     },
     {
       "title": "Evil MSI Background: BASE64 Statistical Analysis, (Mon, Jun 15th)",
@@ -216,12 +222,6 @@
       "description": "[SCHNEIER] WhatsApp has caught the NSO Group phishing its users, in violation of a court order.",
       "url": "https://www.schneier.com/blog/archives/2026/06/nso-group-hacking-whatsapp-despite-court-order.html",
       "date": "2026-06-10T11:08:59Z"
-    },
-    {
-      "title": "How has use of framing protection security headers changed in the past 3 years&#x3f;, (Wed, Jun 10th)",
-      "description": "[ISC] Back in 2023, I wrote a diary&#x5b;1&#x5d; discussing how commonly X-Frame-Options and CSP headers containing the frame-ancestors directive were used on 1 million most popular domains on the internet (based on the Tranco list&#x5b;2&#x5d;), and how...",
-      "url": "https://isc.sans.edu/diary/rss/33068",
-      "date": "2026-06-10T08:29:21Z"
     },
     {
       "title": "CISA Adds Three Known Exploited Vulnerabilities to Catalog",
