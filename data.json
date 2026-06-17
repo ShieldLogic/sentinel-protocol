@@ -1,245 +1,137 @@
 {
-  "updated": "2026-06-17 13:35:53 UTC",
-  "news": [
-    {
-      "title": "India's Telegram ban hit the UAE too. Here's how to get around it",
-      "description": "[BLEEPINGCOMPUTER] India has banned Telegram until June 22 after the app was used to circulate leaked exam papers. CEO Pavel Durov accuses telecom Reliance of BGP hijacking that disrupted the app as far away as the UAE. Here's what happened, and how to get around the...",
-      "url": "https://www.bleepingcomputer.com/news/security/indias-telegram-ban-hit-the-uae-too-heres-how-to-get-around-it/",
-      "date": "2026-06-17T13:12:45Z"
-    },
-    {
-      "title": "Adversarial Exposure Validation Turns Security Visibility into Confident Prioritization",
-      "description": "[FEEDS] For security teams, the findings never stop, but confidence in knowing which ones matter is becoming harder to maintain. The problem is no longer visibility. It's validation. Security teams must decide which findings warrant action while operating...",
-      "url": "https://thehackernews.com/2026/06/adversarial-exposure-validation-turns.html",
-      "date": "2026-06-17T11:58:00Z"
-    },
-    {
-      "title": "Microsoft confirms Office apps launch issues after June updates",
-      "description": "[BLEEPINGCOMPUTER] Microsoft is investigating a new issue preventing third-party applications from launching Microsoft Office applications or opening documents on up-to-date Windows systems. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-office-apps-launch-issues-after-june-updates/",
-      "date": "2026-06-17T11:54:21Z"
-    },
-    {
-      "title": "AI Use by the US Government",
-      "description": "[SCHNEIER] On 14 April, the Trump administration quietly acknowledged the widespread use of AI to automate government processes. The office of management and budget (OMB) disclosed a staggering 3,611 active or planned use cases for AI across the federal...",
-      "url": "https://www.schneier.com/blog/archives/2026/06/ai-use-by-the-us-government.html",
-      "date": "2026-06-17T11:04:04Z"
-    },
-    {
-      "title": "The Top 10 Attack Surface Exposures in 2026",
-      "description": "[FEEDS] Breaches don't always start with a zero-day. An exposed admin panel can get brute-forced, or credentials reused from a previous attack. But when a vulnerability does drop \u2014 like MongoBleed earlier this year, which let attackers pull credentials and...",
-      "url": "https://thehackernews.com/2026/06/the-top-10-attack-surface-exposures-in.html",
-      "date": "2026-06-17T10:30:00Z"
-    },
-    {
-      "title": "CISA orders feds to patch max severity Joomla plugin flaw by Friday",
-      "description": "[BLEEPINGCOMPUTER] The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has ordered federal agencies to patch a maximum-severity flaw in the Widget Factory Joomla Content Editor (JCE) plugin that is being actively exploited in the wild. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-max-severity-joomla-plugin-flaw-by-friday/",
-      "date": "2026-06-17T10:09:24Z"
-    },
-    {
-      "title": "Malicious JetBrains Plugins Steal AI API Keys as Chrome Extensions Capture Chatbot Chats",
-      "description": "[FEEDS] Cybersecurity researchers have flagged a \"coordinated malware campaign\" on the JetBrains Marketplace that has published no less than 15 malicious plugins capable of exfiltrating artificial intelligence (AI) provider keys. \"Every plugin poses as an...",
-      "url": "https://thehackernews.com/2026/06/malicious-jetbrains-plugins-steal-ai.html",
-      "date": "2026-06-17T09:38:46Z"
-    },
-    {
-      "title": "Microsoft working on Defender patch for RoguePlanet zero-day",
-      "description": "[BLEEPINGCOMPUTER] Microsoft confirmed that it's working on a security patch for a Defender zero-day vulnerability named \"RoguePlanet,\" disclosed one week ago. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-working-on-defender-patch-for-rogueplanet-zero-day/",
-      "date": "2026-06-17T08:32:29Z"
-    },
-    {
-      "title": "144 Mastra npm Packages Compromised via Hijacked Contributor Account",
-      "description": "[FEEDS] As many as 144 npm packages associated with the Mastra namespace (\"@mastra/*\"), a popular open-source JavaScript and TypeScript framework for building artificial intelligence (AI) applications, have been compromised as part of a software supply...",
-      "url": "https://thehackernews.com/2026/06/144-mastra-npm-packages-compromised-via.html",
-      "date": "2026-06-17T07:38:24Z"
-    },
-    {
-      "title": "Kodak confirms data breach claimed by ShinyHunters extortion gang",
-      "description": "[BLEEPINGCOMPUTER] Kodak has confirmed that it's working with external cybersecurity experts to investigate a security breach after hackers gained access to some of the company's data. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/kodak-confirms-data-breach-claimed-by-shinyhunters-extortion-gang/",
-      "date": "2026-06-17T07:07:56Z"
-    },
-    {
-      "title": "CISA Warns of Actively Exploited Joomla JCE Flaw Allowing PHP Code Execution",
-      "description": "[FEEDS] The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a maximum-severity security flaw impacting Widget Factory Joomla Content Editor (JCE) to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active...",
-      "url": "https://thehackernews.com/2026/06/cisa-warns-of-actively-exploited-joomla.html",
-      "date": "2026-06-17T05:50:46Z"
-    },
-    {
-      "title": "ISC Stormcast For Wednesday, June 17th, 2026 https://isc.sans.edu/podcastdetail/9976, (Wed, Jun 17th)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33082",
-      "date": "2026-06-17T02:00:04Z"
-    },
-    {
-      "title": "Every Algoma Steel boss has taken cybersecurity training",
-      "description": "[SOOTODAY] The steelmaker is also keeping a close eye on possible risks associated with artificial intelligence",
-      "url": "https://www.sootoday.com/local-news/every-algoma-steel-boss-has-taken-cybersecurity-training-12428361",
-      "date": "2026-06-17T01:22:28Z"
-    },
-    {
-      "title": "G7 leaders discuss \u2018trusted partners\u2019 access to cutting-edge U.S. AI models",
-      "description": "[THE JAPAN TIMES ] Such a scheme would \u200ballow G7 countries to use the models to develop stronger cybersecurity \u200bdefenses against \u200crivals such as China.",
-      "url": "https://www.japantimes.co.jp/business/2026/06/17/tech/g7-trusted-partners-us-ai-models/",
-      "date": "2026-06-17T00:28:05Z"
-    },
-    {
-      "title": "Court docs: Lawsuit filed against Columbia Orthopaedic Group after \u2018ransomware gang\u2019 takes credit for cyber attack",
-      "description": "[ABC17NEWS.COM] COLUMBIA, Mo. (KMIZ) A class action lawsuit was filed on Tuesday in Boone County against Columbia Orthopaedic Group after claiming it did not do enough to protect patients\u2019 information from a data breach. Vicki Dixon, of Laddonia, is accusing...",
-      "url": "https://abc17news.com/news/missouri/2026/06/16/court-docs-lawsuit-filed-against-columbia-orthopaedic-group-after-ransomware-gang-takes-credit-for-cyber-attack/",
-      "date": "2026-06-16T23:19:15Z"
-    },
-    {
-      "title": "CERT-In calls for AI-assisted security testing, faster patches",
-      "description": "[TIMES OF INDIA] India Business News: NEW DELHI: CERT-In has issued new cybersecurity guidelines that will require technology vendors to adopt AI-assisted security testing, disclose critic.",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/cert-in-calls-for-ai-assisted-security-testing-faster-patches/articleshow/131783503.cms",
-      "date": "2026-06-16T23:03:00Z"
-    },
-    {
-      "title": "Cybersecurity, e-governance and fencing enter UP Board curriculum",
-      "description": "[HINDUSTAN TIMES] Board officials stated that the updated syllabus familiarises students with digital services that are increasingly integral to everyday life and governance.",
-      "url": "https://www.hindustantimes.com/cities/others/cybersecurity-e-governance-and-fencing-enter-up-board-curriculum-101781633885464.html",
-      "date": "2026-06-16T22:20:14Z"
-    },
-    {
-      "title": "Malicious JetBrains Marketplace plugins steal AI API keys from developers",
-      "description": "[BLEEPINGCOMPUTER] At least 15 malicious plugins found on the JetBrains Marketplace were designed to steal AI API keys from developers. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/malicious-jetbrains-marketplace-plugins-steal-ai-api-keys-from-developers/",
-      "date": "2026-06-16T21:54:50Z"
-    },
-    {
-      "title": "This blazing ASX ETF has returned 18% per annum for a decade",
-      "description": "[THE MOTLEY FOOL AUSTRALIA] The BetaShares Global Cybersecurity ETF (ASX: HACK) has delivered an astonishing return of 18% per annum since August 2016.",
-      "url": "https://www.fool.com.au/2026/06/17/this-blazing-asx-etf-has-returned-18-per-annum-for-a-decade/",
-      "date": "2026-06-16T20:24:02Z"
-    },
-    {
-      "title": "Cybersecurity executives urge Trump administration to ease restrictions on Anthropic AI models",
-      "description": "[JAPAN TODAY] A group of cybersecurity executives and experts is asking the Trump administration to lift its directive preventing the use of Anthropic's latest artificial intelligence models by foreign nationals, saying the move could help U.S. adversaries more...",
-      "url": "https://japantoday.com/category/tech/cybersecurity-executives-urge-the-trump-administration-to-ease-restrictions-on-anthropic-ai-models",
-      "date": "2026-06-16T20:00:00Z"
-    },
-    {
-      "title": "Google Vertex AI SDK Flaw Let Attackers Hijack Model Uploads via Bucket Squatting",
-      "description": "[FEEDS] A flaw in the Google Cloud Vertex AI SDK for Python let an attacker with no access to a victim's project hijack the victim's machine learning model upload and run code inside Google's serving infrastructure. Palo Alto Networks Unit 42, which found...",
-      "url": "https://thehackernews.com/2026/06/google-vertex-ai-sdk-flaw-let-attackers.html",
-      "date": "2026-06-16T19:05:41Z"
-    },
-    {
-      "title": "Cybersecurity Professionals: Build a Cyber-Resilient Career with Cybersecurity Courses",
-      "description": "[TECHBULLION] Ready to advance your career? Build a Cyber-Resilient Career with Industry-Recognised Cybersecurity Courses and enhance your skills in this vital field.",
-      "url": "https://techbullion.com/cybersecurity-professionals-build-a-cyber-resilient-career-with-cybersecurity-courses/",
-      "date": "2026-06-16T18:47:55Z"
-    },
-    {
-      "title": "Ransomware Group Alleges To Have Stolen Nintendo's Employee Info",
-      "description": "[KOTAKU] The 'extortion as a service group' has threatened to leak Nintendo's private employee info if it's not provided with a $2 million ransom",
-      "url": "https://kotaku.com/nintendo-employee-info-data-hack-ransomware-leak-shadowbytes-tinypulse-2000707087",
-      "date": "2026-06-16T18:42:12Z"
-    },
-    {
-      "title": "Maine takes down its data breach notification portal after it is flooded by fake claims",
-      "description": "[TECHRADAR] Someone has been posting fake data breach notifications",
-      "url": "https://www.techradar.com/pro/security/maine-takes-down-its-data-breach-notification-portal-after-it-is-flooded-by-fake-claims",
-      "date": "2026-06-16T18:35:00Z"
-    },
-    {
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "description": "[CISA] CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-48907 Widget Factory Joomla Content Editor Improper Access Control Vulnerability This type of vulnerability...",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/06/16/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "date": "2026-06-16T12:00:00Z"
-    },
-    {
-      "title": "Flock Cameras Are Being Used for Stalking",
-      "description": "[SCHNEIER] There are over a dozen cases around the country where police officers are using the Flock surveillance camera system to obsessively and illegally stalk people. Alternate link.",
-      "url": "https://www.schneier.com/blog/archives/2026/06/flock-cameras-are-being-used-for-stalking.html",
-      "date": "2026-06-16T11:03:31Z"
-    },
-    {
-      "title": "From a VHDX File to a Remcos RAT, (Tue, Jun 16th)",
-      "description": "[ISC] Yesterday, a reader reported to us a malicious ZIP archive (SHA256: a0104921a2d37ab87482ac9a9f5c3713479c118846c3e999178e75b81620c094&#x5b;1&#x5d;). Once unzipped, it contains a VHDX file that discloses a malicious JavaScript after being mounted...",
-      "url": "https://isc.sans.edu/diary/rss/33080",
-      "date": "2026-06-16T07:09:13Z"
-    },
-    {
-      "title": "ISC Stormcast For Tuesday, June 16th, 2026 https://isc.sans.edu/podcastdetail/9974, (Tue, Jun 16th)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33078",
-      "date": "2026-06-16T02:00:02Z"
-    },
-    {
-      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
-      "description": "[CISA] CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-20262 Cisco Catalyst SD-WAN Manager Directory or Path Traversal Vulnerability CVE-2026-54420 LiteSpeed...",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/06/15/cisa-adds-two-known-exploited-vulnerabilities-catalog",
-      "date": "2026-06-15T12:00:00Z"
-    },
-    {
-      "title": "The FCC Wants to Eliminate Burner Phones",
-      "description": "[SCHNEIER] A proposed FCC rule would kill burner phones: phones whose accounts are not attached to a particular person. The FCC plans to do this by legally forcing the country&#8217;s telecoms to store a wealth of personal information about essentially all...",
-      "url": "https://www.schneier.com/blog/archives/2026/06/the-fcc-wants-to-eliminate-burner-phones.html",
-      "date": "2026-06-15T11:01:05Z"
-    },
-    {
-      "title": "Evil MSI Background: BASE64 Statistical Analysis, (Mon, Jun 15th)",
-      "description": "[ISC] I like it when a fellow handler posts a diary entry about images with malicious content. Last one is Xavier: \"The Evil MSI Background is Back&#x21;\".&#xd;",
-      "url": "https://isc.sans.edu/diary/rss/33072",
-      "date": "2026-06-15T07:16:00Z"
-    },
-    {
-      "title": "ISC Stormcast For Monday, June 15th, 2026 https://isc.sans.edu/podcastdetail/9972, (Mon, Jun 15th)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33076",
-      "date": "2026-06-15T02:00:02Z"
-    },
-    {
-      "title": "Upcoming Speaking Engagements",
-      "description": "[SCHNEIER] This is a current list of where and when I am scheduled to speak: I\u2019m giving a keynote at Cybernation 2026 in Berlin, Germany, on June 24, 2026. I\u2019m speaking at the Potsdam Conference on National Cybersecurity at the Hasso Plattner Institut in...",
-      "url": "https://www.schneier.com/blog/archives/2026/06/upcoming-speaking-engagements-57.html",
-      "date": "2026-06-14T16:07:31Z"
-    },
-    {
-      "title": "Friday Squid Blogging: Squid-Inspired Fluid Pump",
-      "description": "[SCHNEIER] This fluid pump was inspired by the way squids propel themselves through the water. As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered. Blog moderation policy.",
-      "url": "https://www.schneier.com/blog/archives/2026/06/friday-squid-blogging-squid-inspired-fluid-pump.html",
-      "date": "2026-06-12T21:05:03Z"
-    },
-    {
-      "title": "ISC Stormcast For Friday, June 12th, 2026 https://isc.sans.edu/podcastdetail/9970, (Fri, Jun 12th)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33074",
-      "date": "2026-06-12T12:30:10Z"
-    },
-    {
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "description": "[CISA] CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-35273 Oracle PeopleSoft Enterprise PeopleTools Missing Authentication for Critical Function Vulnerability...",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/06/12/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "date": "2026-06-12T12:00:00Z"
-    },
-    {
-      "title": "Bernie Sanders\u2019 AI Sovereign Wealth Fund Plan",
-      "description": "[SCHNEIER] Let no one accuse Bernie Sanders of ducking the big questions. Writing in the New York Times last week, the senator asked: &#8220;Will the future of humanity be determined by a handful of billionaires who have promoted and developed AI, with...",
-      "url": "https://www.schneier.com/blog/archives/2026/06/bernie-sanders-ai-sovereign-wealth-fund-plan.html",
-      "date": "2026-06-12T11:03:17Z"
-    },
-    {
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "description": "[CISA] CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-10520 Ivanti Sentry OS Command Injection Vulnerability This type of vulnerability is a frequent attack...",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/06/11/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "date": "2026-06-11T12:00:00Z"
-    },
-    {
-      "title": "CISA Adds Three Known Exploited Vulnerabilities to Catalog",
-      "description": "[CISA] CISA has added three new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-7473 Arista Extensible Operating System Incomplete Comparison with Missing Factors Vulnerability...",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/06/09/cisa-adds-three-known-exploited-vulnerabilities-catalog",
-      "date": "2026-06-09T12:00:00Z"
-    },
-    {
-      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
-      "description": "[CISA] CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-42271 BerriAI LiteLLM Command Injection Vulnerability CVE-2026-50751 Check Point Security Gateway...",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/06/08/cisa-adds-two-known-exploited-vulnerabilities-catalog",
-      "date": "2026-06-08T12:00:00Z"
-    }
-  ]
+    "title": "Sentinel Protocol",
+    "tagline": "Perimeter Intelligence Sync",
+    "updated": "2026-06-17 14:24 UTC",
+    "news": [
+        {
+            "source": {
+                "id": null,
+                "name": "Help Net Security"
+            },
+            "author": "Sinisa Markovic",
+            "title": "Cybercriminals mask malicious communications through Microsoft Teams relays",
+            "description": "The DragonForce ransomware group used a custom malware called Backdoor.Turn to hide command-and-control traffic inside Microsoft Teams relay infrastructure during an intrusion at a U.S. services company, according to Symantec. DragonForce is a ransomware-as-a\u2026",
+            "url": "https://www.helpnetsecurity.com/2026/06/16/dragonforce-microsoft-teams-malware-backdoor-turn/",
+            "urlToImage": "https://img.helpnetsecurity.com/wp-content/uploads/2023/07/10152152/ms-teams3.jpg",
+            "publishedAt": "2026-06-16T14:22:30Z",
+            "content": "The DragonForce ransomware group used a custom malware called Backdoor.Turn to hide command-and-control traffic inside Microsoft Teams relay infrastructure during an intrusion at a U.S. services comp\u2026 [+3619 chars]"
+        },
+        {
+            "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            "author": "Dr. Lyron Andrews",
+            "title": "In the age of AI-based threats, zero-trust is no longer enough",
+            "description": "The emergence of AI-based threats means zero-trust is no longer strong enough to tackle these alone.",
+            "url": "https://www.techradar.com/pro/in-the-age-of-ai-based-threats-zero-trust-is-no-longer-enough",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/JpXukHGqkZ8gapEzDQNqRW-1920-80.jpg",
+            "publishedAt": "2026-06-16T14:21:15Z",
+            "content": "As AI-based threats continue to dominate the conversation around security, it\u2019s no surprise that half (50%) of organizations are on track to adopt zero-trust data governance by 2028. In the past few \u2026 [+7515 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Securityaffairs.com"
+            },
+            "author": "Pierluigi Paganini",
+            "title": "Fortinet Warned as Three Critical FortiSandbox Bugs Come Under Attack",
+            "description": "Three FortiSandbox flaws, including one patched last week, are being actively exploited, highlighting the shrinking window for defenders. Cybersecurity firm Defused Cyber confirmed it\u2019s seen active exploitation of three vulnerabilities in Fortinet FortiSandbo\u2026",
+            "url": "https://securityaffairs.com/193709/ai/fortinet-warned-as-three-critical-fortisandbox-bugs-come-under-attack.html",
+            "urlToImage": "https://securityaffairs.com/wp-content/uploads/2019/11/fortinet-logo.jpg",
+            "publishedAt": "2026-06-16T14:21:11Z",
+            "content": "Cybersecurity firm Defused Cyber confirmed it\u2019s seen active exploitation of three vulnerabilities in Fortinet FortiSandbox within a 24-hour window. Two of them had patches sitting available since Apr\u2026 [+2356 chars]"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "TOI Education",
+            "title": "'Then how am I using it?' Nisarg Adhikary, online users claim Telegram accessible in India despite ban",
+            "description": "Despite a government ban until June 22, Telegram appears to be accessible in India, with users reporting normal app function. Cybersecurity experts suggest the platform's design, allowing proxy and VPN use, makes a complete shutdown difficult. The ban targets\u2026",
+            "url": "https://timesofindia.indiatimes.com/education/news/then-how-am-i-using-it-nisarg-adhikary-online-users-claim-telegram-accessible-in-india-despite-ban/articleshow/131774383.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-131774491,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "publishedAt": "2026-06-16T14:19:08Z",
+            "content": "<ul><li>News</li>\r\n<li>Education News</li>\r\n<li>News</li>\r\n<li>'Then how am I using it?' Nisarg Adhikary, online users claim Telegram accessible in India despite ban</li></ul>\r\nFollow Us On Social Me\u2026 [+119 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Crypto Briefing"
+            },
+            "author": "Editorial Team",
+            "title": "Anthropic restricts access to advanced models after Trump order",
+            "description": "Anthropic's compliance with the directive highlights the tension between AI innovation and national security, potentially stifling global collaboration.\nThe post Anthropic restricts access to advanced models after Trump order appeared first on Crypto Briefing.",
+            "url": "https://cryptobriefing.com/anthropic-restricts-advanced-models-trump-order/",
+            "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/16101856/https-upload-wikimedia-org-wikipedia-commons-d-d8-dario-amod-9-800x420.jpeg",
+            "publishedAt": "2026-06-16T14:19:03Z",
+            "content": "The AI company disabled its most powerful systems for all customers after a federal directive targeting foreign nationals Anthropic, one of the most prominent AI companies in the world, has shut off \u2026 [+2247 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "insider@insider.com (Lillian Brown)",
+            "title": "Where to watch France vs. Senegal live streams free from anywhere",
+            "description": "The World Cup continues. We'll show you where to watch France vs. Senegal live streams.",
+            "url": "https://www.businessinsider.com/guides/streaming/where-to-watch-france-vs-senegal-world-cup-2026#article",
+            "urlToImage": "https://i.insider.com/6a3065660b873a3c9460d0c6?width=1200&format=jpeg",
+            "publishedAt": "2026-06-16T14:18:12Z",
+            "content": "It's an absolutely packed week at the World Cup, and the next group stage match is no exception. We've compiled everything you need to know about where to watch France vs. Senegal, including free and\u2026 [+7266 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BleepingComputer"
+            },
+            "author": "Sponsored by Varonis",
+            "title": "GhostTree Attack Abused Recursive Windows Junctions to Hide Malware",
+            "description": "GhostTree uses recursive NTFS junctions to generate vast numbers of valid Windows file paths. Varonis explains how the technique could cause Microsoft Defender folder scans to never complete, leaving malware undetected. [...]",
+            "url": "https://www.bleepingcomputer.com/news/security/ghosttree-attack-abused-recursive-windows-junctions-to-hide-malware/",
+            "urlToImage": "https://www.bleepstatic.com/content/posts/2026/06/14/ghosttree-header.jpg",
+            "publishedAt": "2026-06-16T14:17:27Z",
+            "content": "Most security teams think of NTFS junctions and symbolic links as niche file system features. They let one directory point to another, like a shortcut that the OS treats as real. They exist for backw\u2026 [+6277 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": null,
+            "title": "CriticalTech.Exchange Partners With KoreInside To Launch Fully Compliant Digital Capital Markets Platform For Critical Technology Companies",
+            "description": "Powered by KoreChain, KoreOracle, KoreID, Compliance Desk, and KoreTransfer, the platform delivers end-to-end capital formation, tokenized securities, and DeFi investor access for the next generation of critical technology innovators.",
+            "url": "https://apnews.com/press-release/korewire/press-release-4453e7f4acf4167a96e0575323a71872",
+            "urlToImage": "https://dims.apnews.com/dims4/default/6b28e8e/2147483647/strip/true/crop/600x400+0+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fad%2F43%2Fcba0f11e9c09ce647f8617e75206%2F7b4bc0f1758b6e599d3c18baee8f161d",
+            "publishedAt": "2026-06-16T14:16:45Z",
+            "content": "Powered by KoreChain, KoreOracle, KoreID, Compliance Desk, and KoreTransfer, the platform delivers end-to-end capital formation, tokenized securities, and DeFi investor access for the next generation\u2026 [+7868 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Ibtimes.com.au"
+            },
+            "author": "George Anton",
+            "title": "Windows 11 Update KB5094126 Triggers Boot Failures and BitLocker Recovery on Business PCs",
+            "description": "A Windows 11 update is causing boot failures and BitLocker issues, affecting business devices from HP and Dell. Users report problems with Secure Boot and EFI partition space.",
+            "url": "https://www.ibtimes.com.au/windows-11-update-boot-failures-bitlocker-issues-1870703",
+            "urlToImage": "https://d.ibtimes.com.au/en/full/1892755/microsoft-windows-11.png",
+            "publishedAt": "2026-06-16T14:16:25Z",
+            "content": "A recent Windows 11 update is causing significant startup problems for some users, including boot failures, BitLocker recovery screens and blue screen errors, primarily affecting business devices fro\u2026 [+7620 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PRNewswire"
+            },
+            "author": null,
+            "title": "LexisNexis Special Services Achieves Cybersecurity Maturity Model Certification Level 2, Strengthening Its Ability to Protect Sensitive Government Information and Support National Security Missions",
+            "description": "Certification strengthens the ability to support defense, intelligence, public safety, and government customers with secure, mission-focused solutions. WASHINGTON, June 16, 2026 /PRNewswire/ -- LexisNexis\u00ae Special Services Inc., a leader in helping government\u2026",
+            "url": "https://www.prnewswire.com/news-releases/lexisnexis-special-services-achieves-cybersecurity-maturity-model-certification-level-2-strengthening-its-ability-to-protect-sensitive-government-information-and-support-national-security-missions-302800424.html",
+            "urlToImage": "https://mmx.prnewswire.com/media/MS1865794/LexisNexis_Special_Services_Inc_Logo.jpg?id=OA2717008&p=facebook",
+            "publishedAt": "2026-06-16T14:13:00Z",
+            "content": "Certification strengthens the ability to support defense, intelligence, public safety, and government customers with secure, mission-focused solutions.\r\nWASHINGTON, June 16, 2026 /PRNewswire/ -- Lexi\u2026 [+3598 chars]"
+        }
+    ]
 }
