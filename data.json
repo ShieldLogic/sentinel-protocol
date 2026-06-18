@@ -1,6 +1,18 @@
 {
-  "updated": "2026-06-18 16:50:50 UTC",
+  "updated": "2026-06-18 20:11:21 UTC",
   "news": [
+    {
+      "title": "Nintendo confirms data stolen in WebMD subsidiary cyberattack",
+      "description": "[BLEEPINGCOMPUTER] Nintendo of America has confirmed to BleepingComputer that threat actors stole survey data from the third-party TinyPulse service used internally, but its systems were not compromised. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/nintendo-confirms-data-stolen-in-webmd-subsidiary-cyberattack/",
+      "date": "2026-06-18T18:31:36Z"
+    },
+    {
+      "title": "F5 Patches Two Critical NGINX Open Source Flaws Enabling Remote Code Execution",
+      "description": "[FEEDS] F5 has released security updates to address two critical security flaws in NGINX Open Source that could be exploited to achieve code execution on affected systems. The vulnerabilities are listed below - CVE-2026-42530 (CVSS v4 score: 9.2) - A...",
+      "url": "https://thehackernews.com/2026/06/f5-patches-two-critical-nginx-open.html",
+      "date": "2026-06-18T17:32:14Z"
+    },
     {
       "title": "USB worm spreads crypto-stealing malware via Windows shortcut files",
       "description": "[BLEEPINGCOMPUTER] Threat actors targeting cryptocurrency wallets have been distributing clipboard-stealing malware with self-spreading capabilities and using the Tor network to conceal communication. [...]",
@@ -50,12 +62,6 @@
       "date": "2026-06-18T13:48:56Z"
     },
     {
-      "title": "DragonForce Hackers Abuse Microsoft Teams Relays to Hide Backdoor.Turn C2 Traffic",
-      "description": "[FEEDS] Threat actors associated with the DragonForce ransomware have been observed using a custom Go-based remote access trojan (RAT) called Backdoor.Turn to conceal command-and-control (C2) traffic inside Microsoft Teams relay infrastructure. According to...",
-      "url": "https://thehackernews.com/2026/06/dragonforce-hackers-abuse-microsoft.html",
-      "date": "2026-06-18T13:30:07Z"
-    },
-    {
       "title": "Police cleans nearly 15,000 SocGholish-infected sites tied to Evil Corp",
       "description": "[BLEEPINGCOMPUTER] International law enforcement agencies cleaned nearly 15,000 malware-infected WordPress websites and took down more than 100 servers linked to the SocGholish botnet and the Evil Corp Russian cybercrime group. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/law-enforcement-nukes-socgholish-malware-from-nearly-15-000-sites/",
@@ -68,16 +74,34 @@
       "date": "2026-06-18T12:55:36Z"
     },
     {
-      "title": "FortiBleed leak exposes Fortinet VPN credentials for 73,000 devices.",
-      "description": "[BLEEPINGCOMPUTER] A newly discovered data leak dubbed \"FortiBleed\" has exposed what appears to be a collection of Fortinet and FortiGate VPN credentials for 73,932 firewall URLs at organizations worldwide. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/fortibleed-leak-exposes-fortinet-vpn-credentials-for-73-000-devices/",
-      "date": "2026-06-18T12:54:39Z"
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "description": "[CISA] CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-20253 Splunk Enterprise Missing Authentication for Critical Function Vulnerability This type of...",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/06/18/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "date": "2026-06-18T12:00:00Z"
     },
     {
       "title": "Embedding Forbidden Text in Spyware to Discourage AI Analysis",
       "description": "[SCHNEIER] At least one malware developer is adding text about nuclear and biological weapons to their spyware, in an effort to stop automatic AI analysis. Details: The _index.js payload begins with a large JavaScript block comment containing fake system...",
       "url": "https://www.schneier.com/blog/archives/2026/06/embedding-forbidden-text-in-spyware-to-discourage-ai-analysis.html",
       "date": "2026-06-18T11:04:01Z"
+    },
+    {
+      "title": "Ozempic Maker Novo Nordisk Hit by Massive Cyberattack, Hackers Claim Theft of 1.3TB Clinical Trial and AI Data",
+      "description": "[REPUBLIC WORLD] Ozempic maker Novo Nordisk faces a major cyber crisis after hackers claim a 1.3TB data breach and begin leaking sensitive company files.",
+      "url": "https://www.republicworld.com/tech/ozempic-maker-novo-nordisk-hit-by-massive-cyberattack-hackers-claim-theft-of-13tb-clinical-trial-and-ai-data-2026-06-18-128879",
+      "date": "2026-06-18T07:40:00Z"
+    },
+    {
+      "title": "Wallpaper Engine is being used to spread malware via the Steam Workshop, says Kaspersky",
+      "description": "[THE STAR] A report from cybersecurity firm Kaspersky claims that the popular desktop wallpaper programme, Wallpaper Engine, is being used to spread malware via user-submitted content via the Steam Workshop.",
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/06/18/wallpaper-engine-is-being-used-to-spread-malware-via-the-steam-workshop-says-kaspersky",
+      "date": "2026-06-18T06:50:00Z"
+    },
+    {
+      "title": "PMRC Scheme 2026 explained: Eligibility, last date, funding, research areas and how to apply",
+      "description": "[BUSINESS TODAY] The programme focuses on 13 strategic sectors, including artificial intelligence, semiconductors, cybersecurity, healthcare, biotechnology, climate change and advanced manufacturing",
+      "url": "https://www.businesstoday.in/jobs/story/pmrc-scheme-2026-explained-eligibility-last-date-funding-research-areas-and-how-to-apply-537723-2026-06-18",
+      "date": "2026-06-18T06:19:29Z"
     },
     {
       "title": "Global ransomware group reportedly claim cyber attack that shut down Mackay Sugar mills",
@@ -132,24 +156,6 @@
       "description": "[THE VERGE] The Cybersecurity and Infrastructure Security Agency (CISA) gained access to the limited release cybersecurity-focused model last week, Nextgov/FCW reports. It\u2019s just a little late, since the rest of the world has mostly moved onto the drama around...",
       "url": "https://www.theverge.com/policy/951976/us-cybersecurity-coordinator-finally-got-access-to-mythos-preview-report-says",
       "date": "2026-06-17T21:52:16Z"
-    },
-    {
-      "title": "SLED cybersecurity experts investigate Spartanburg outage",
-      "description": "[CHARLESTON POST AND COURIER] The disruption started last week. After the county noticed \u201cquestionable activity,\u201d it \u201ctook the immediate precaution of initiating a protocol to isolate and protect its networks.\u201d",
-      "url": "https://www.postandcourier.com/spartanburg/news/sled-cybersecurity-spartanburg-network-outage-investigation/article_827a1df5-c119-41f1-a69e-e2430ad968f4.html",
-      "date": "2026-06-17T19:45:00Z"
-    },
-    {
-      "title": "Amazon Stock (AMZN) Slides despite Growing AWS Integration by Cybersecurity Firms",
-      "description": "[MARKETS INSIDER] Shares in retail giant Amazon (AMZN) dropped about 3% on Wednesday afternoon despite a raft of new integrations with one of its core cloud AI pl...",
-      "url": "https://markets.businessinsider.com/news/stocks/amazon-stock-amzn-slides-despite-growing-aws-integration-by-cybersecurity-firms-1036258251",
-      "date": "2026-06-17T18:51:28Z"
-    },
-    {
-      "title": "Novo Nordisk Data Breach: Hackers Claim To Have Stolen Drug Research, Trial Data And AI Models",
-      "description": "[BENZINGA] Novo Nordisk investigates claims by cyber group FulcrumSec alleging a 1.3TB data theft after a failed $25M ransom demand. Read more.",
-      "url": "https://www.benzinga.com/news/health-care/26/06/53259007/novo-nordisk-data-breach-hackers-claim-to-have-stolen-drug-research-trial-data-and-ai-models",
-      "date": "2026-06-17T17:57:43Z"
     },
     {
       "title": "The browser blind spot: Why your security tool may not be blocking what you think it is &#x5b;Guest Diary&#x5d;, (Wed, Jun 17th)",
@@ -234,12 +240,6 @@
       "description": "[CISA] CISA has added three new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-7473 Arista Extensible Operating System Incomplete Comparison with Missing Factors Vulnerability...",
       "url": "https://www.cisa.gov/news-events/alerts/2026/06/09/cisa-adds-three-known-exploited-vulnerabilities-catalog",
       "date": "2026-06-09T12:00:00Z"
-    },
-    {
-      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
-      "description": "[CISA] CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-42271 BerriAI LiteLLM Command Injection Vulnerability CVE-2026-50751 Check Point Security Gateway...",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/06/08/cisa-adds-two-known-exploited-vulnerabilities-catalog",
-      "date": "2026-06-08T12:00:00Z"
     }
   ]
 }
