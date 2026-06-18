@@ -1,245 +1,137 @@
 {
-  "updated": "2026-06-18 12:45:10 UTC",
-  "news": [
-    {
-      "title": "Apple fixes Beats Studio Buds flaw that let hackers spy on conversations",
-      "description": "[BLEEPINGCOMPUTER] Apple has released security updates to patch a high-severity flaw affecting the Beats Studio Buds wireless earbuds that could allow attackers in Bluetooth range to spy on users' conversations. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/apple-fixes-beats-studio-buds-flaw-that-let-hackers-spy-on-conversations/",
-      "date": "2026-06-18T12:23:58Z"
-    },
-    {
-      "title": "Telegram admits it couldn't police exam-leak channels, India tells court",
-      "description": "[BLEEPINGCOMPUTER] India's government has told the Delhi High Court that Telegram was warned about two weeks before it was blocked, and that the platform admitted it could not proactively detect the channels selling leaked exam papers. Telegram says it cooperated and...",
-      "url": "https://www.bleepingcomputer.com/news/security/telegram-admits-it-couldnt-police-exam-leak-channels-india-tells-court/",
-      "date": "2026-06-18T12:18:49Z"
-    },
-    {
-      "title": "Orphaned AI Agents: How to Find Hidden Access Risks Inside Your Network",
-      "description": "[FEEDS] If an autonomous AI agent interacts with your company's core intellectual property today, can your security team instantly name the person who authorized it? For most enterprises, the answer is a simple no. The rush to adopt internal AI tools has...",
-      "url": "https://thehackernews.com/2026/06/orphaned-ai-agents-how-to-find-hidden.html",
-      "date": "2026-06-18T11:58:00Z"
-    },
-    {
-      "title": "F5 issues out-of-band patches for critical NGINX vulnerabilities",
-      "description": "[BLEEPINGCOMPUTER] Cybersecurity company F5 has released out-of-band security updates to address multiple NGINX web server vulnerabilities, including two critical-severity flaws that could allow attackers to execute code on vulnerable systems. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/f5-issues-out-of-band-patches-for-critical-nginx-vulnerabilities/",
-      "date": "2026-06-18T11:33:00Z"
-    },
-    {
-      "title": "Embedding Forbidden Text in Spyware to Discourage AI Analysis",
-      "description": "[SCHNEIER] At least one malware developer is adding text about nuclear and biological weapons to their spyware, in an effort to stop automatic AI analysis. Details: The _index.js payload begins with a large JavaScript block comment containing fake system...",
-      "url": "https://www.schneier.com/blog/archives/2026/06/embedding-forbidden-text-in-spyware-to-discourage-ai-analysis.html",
-      "date": "2026-06-18T11:04:01Z"
-    },
-    {
-      "title": "The Scripts on Your Checkout Page Are Now a PCI DSS Problem",
-      "description": "[FEEDS] An independent PCI assessor tested Reflectiz against the new PCI DSS rules. Here is the verdict: See the full QSA assessment here \u2192 When a customer types their card number into your checkout, their browser is running far more than your code....",
-      "url": "https://thehackernews.com/2026/06/the-scripts-on-your-checkout-page-are.html",
-      "date": "2026-06-18T11:00:00Z"
-    },
-    {
-      "title": "Microsoft fixes Windows Server 2016 security update failures",
-      "description": "[BLEEPINGCOMPUTER] Microsoft has fixed a known issue causing the June 2026 security updates to fail on Windows Server 2016 systems that weren't up to date. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-server-2016-security-update-failures/",
-      "date": "2026-06-18T10:14:20Z"
-    },
-    {
-      "title": "ISC Stormcast For Thursday, June 18th, 2026 https://isc.sans.edu/podcastdetail/9978, (Thu, Jun 18th)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33088",
-      "date": "2026-06-18T02:00:02Z"
-    },
-    {
-      "title": "The Behavior of Coordinated SSH Brute Force Attacks over the last three months &#x5b;Guest Diary&#x5d;, (Wed, Jun 17th)",
-      "description": "[ISC] &#x5b;This is a Guest Diary by Adam Nason, an ISC intern as part of the SANS.edu BACS program&#x5d;&#xd;",
-      "url": "https://isc.sans.edu/diary/rss/33086",
-      "date": "2026-06-18T01:49:29Z"
-    },
-    {
-      "title": "Leak confirms OpenAI is testing a ChatGPT for Science subscription",
-      "description": "[BLEEPINGCOMPUTER] OpenAI appears to be testing a new subscription and experience for science use cases, but it's unclear if it'll be available to everyone regardless of their background. [...]",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/leak-confirms-openai-is-testing-a-chatgpt-for-science-subscription/",
-      "date": "2026-06-18T01:30:08Z"
-    },
-    {
-      "title": "Quantum Encryption as Bitcoin Security Concerns Grow",
-      "description": "[DECRYPT] French authorities said that government cybersecurity researchers will stop certifying security products that lack quantum-resistant encryption beginning in 2027.",
-      "url": "https://decrypt.co/371487/france-phase-out-non-quantum-encryption-bitcoin-security-concerns-grow",
-      "date": "2026-06-18T00:31:06Z"
-    },
-    {
-      "title": "EU cybersecurity agency to meet Anthropic on Thursday, EU Commission says",
-      "description": "[THE STAR] BRUSSELS, \u2060June 17 (Reuters) - The \u2060European cybersecurity agency \u200cEnisa will hold a meeting with U.S. \u200bartificial intelligence \u2060company Anthropic \u2060on Thursday in San \u2060Francisco, \u200ca European Commission \u2060spokesperson told reporters on \u200bWednesday.",
-      "url": "https://www.thestar.com.my/tech/tech-news/2026/06/18/eu-cybersecurity-agency-to-meet-anthropic-on-thursday-eu-commission-says",
-      "date": "2026-06-18T00:31:00Z"
-    },
-    {
-      "title": "Flexible cryogenic cables for dilution refrigerators could pave path to practical quantum computers",
-      "description": "[PHYS.ORG] By harnessing the unique properties of quantum mechanics, scientists and engineers worldwide seek to enable systems with extraordinary capabilities. Many of them are working on the highly anticipated development of quantum computers capable of...",
-      "url": "https://phys.org/news/2026-06-flexible-cryogenic-cables-dilution-refrigerators.html",
-      "date": "2026-06-18T00:00:01Z"
-    },
-    {
-      "title": "VRChat data breach claim sparks chaos after government notice alleges millions exposed, company strongly denies any compromise entirely",
-      "description": "[TECHRADAR] Government breach notice claims VRChat user data exposed \u2014 but it's probably false",
-      "url": "https://www.techradar.com/pro/we-have-no-reason-to-believe-that-our-data-or-systems-have-been-compromised-us-lawmakers-said-2-5-million-vrchat-users-were-at-risk-from-a-hack-but-the-company-says-its-a-fake-notice",
-      "date": "2026-06-17T23:35:00Z"
-    },
-    {
-      "title": "EU cybersecurity agency to meet Anthropic on Thursday, EU Commission says",
-      "description": "[REUTERS] The European cybersecurity \u200bagency Enisa will \u200chold a meeting with U.S. \u200bartificial intelligence \u200bcompany Anthropic on Thursday \u2060in San \u200bFrancisco, a European \u200bCommission spokesperson told reporters on Wednesday.",
-      "url": "https://www.reuters.com/technology/eu-cybersecurity-agency-meet-anthropic-thursday-eu-commission-says-2026-06-17/",
-      "date": "2026-06-17T22:31:41Z"
-    },
-    {
-      "title": "US cybersecurity coordinator finally got access to Mythos Preview, report says.",
-      "description": "[THE VERGE] The Cybersecurity and Infrastructure Security Agency (CISA) gained access to the limited release cybersecurity-focused model last week, Nextgov/FCW reports. It\u2019s just a little late, since the rest of the world has mostly moved onto the drama around...",
-      "url": "https://www.theverge.com/policy/951976/us-cybersecurity-coordinator-finally-got-access-to-mythos-preview-report-says",
-      "date": "2026-06-17T21:52:16Z"
-    },
-    {
-      "title": "Google to use UK and EU user IP addresses for ad personalization",
-      "description": "[BLEEPINGCOMPUTER] From August 3, 2026, Google will use IP addresses from UK, EEA and Switzerland users for ad measurement and personalization. It lands as the ICO weighs new consent rules, and years after Google itself called using such signals to identify devices...",
-      "url": "https://www.bleepingcomputer.com/news/security/google-to-use-uk-and-eu-user-ip-addresses-for-ad-personalization/",
-      "date": "2026-06-17T21:02:42Z"
-    },
-    {
-      "title": "SLED cybersecurity experts investigate Spartanburg outage",
-      "description": "[CHARLESTON POST AND COURIER] The disruption started last week. After the county noticed \u201cquestionable activity,\u201d it \u201ctook the immediate precaution of initiating a protocol to isolate and protect its networks.\u201d",
-      "url": "https://www.postandcourier.com/spartanburg/news/sled-cybersecurity-spartanburg-network-outage-investigation/article_827a1df5-c119-41f1-a69e-e2430ad968f4.html",
-      "date": "2026-06-17T19:45:00Z"
-    },
-    {
-      "title": "Amazon Stock (AMZN) Slides despite Growing AWS Integration by Cybersecurity Firms",
-      "description": "[MARKETS INSIDER] Shares in retail giant Amazon (AMZN) dropped about 3% on Wednesday afternoon despite a raft of new integrations with one of its core cloud AI pl...",
-      "url": "https://markets.businessinsider.com/news/stocks/amazon-stock-amzn-slides-despite-growing-aws-integration-by-cybersecurity-firms-1036258251",
-      "date": "2026-06-17T18:51:28Z"
-    },
-    {
-      "title": "Crypto Clipper Campaign Abuses Fake Reviews, AI Narrators, and VirusTotal Comments",
-      "description": "[FEEDS] An unknown threat actor has been observed leveraging paid or promoted posts on legitimate news websites to drum up buzz for their warez, according to new findings from Check Point Research. The threat actor also has at their disposal a dedicated...",
-      "url": "https://thehackernews.com/2026/06/crypto-clipper-campaign-abuses-fake.html",
-      "date": "2026-06-17T18:14:24Z"
-    },
-    {
-      "title": "Novo Nordisk Data Breach: Hackers Claim To Have Stolen Drug Research, Trial Data And AI Models",
-      "description": "[BENZINGA] Novo Nordisk investigates claims by cyber group FulcrumSec alleging a 1.3TB data theft after a failed $25M ransom demand. Read more.",
-      "url": "https://www.benzinga.com/news/health-care/26/06/53259007/novo-nordisk-data-breach-hackers-claim-to-have-stolen-drug-research-trial-data-and-ai-models",
-      "date": "2026-06-17T17:57:43Z"
-    },
-    {
-      "title": "\u2018India will be a key innovation hub for our future growth\u2019: John Pagliuca, CEO, N-ABLE",
-      "description": "[THE FINANCIAL EXPRESS] N-able Bengaluru GCC launch, John Pagliuca interview 2026, India cybersecurity market growth, MSP compliance managed services, AI endpoint protection India",
-      "url": "https://www.financialexpress.com/business/news/india-will-be-a-key-innovation-hub-for-our-future-growth-john-pagliuca-ceo-n-able/4270098/",
-      "date": "2026-06-17T17:51:30Z"
-    },
-    {
-      "title": "Microsoft Confirms RoguePlanet Defender Zero-Day, Says Patch is in Development",
-      "description": "[FEEDS] Microsoft has formally disclosed that it's working to release a patch to address a Defender zero-day codenamed RoguePlanet. The vulnerability has now been assigned the CVE identifier CVE-2026-50656 (CVSS score: 7.8), with the tech giant describing...",
-      "url": "https://thehackernews.com/2026/06/microsoft-confirms-rogueplanet-defender_02022423645.html",
-      "date": "2026-06-17T17:36:28Z"
-    },
-    {
-      "title": "The browser blind spot: Why your security tool may not be blocking what you think it is &#x5b;Guest Diary&#x5d;, (Wed, Jun 17th)",
-      "description": "[ISC] &#x5b;This is a guest diary submitted by Varun Murdula&#x5d;&#xd;",
-      "url": "https://isc.sans.edu/diary/rss/33084",
-      "date": "2026-06-17T16:01:33Z"
-    },
-    {
-      "title": "Junior Hacker Used Tailscale and OpenSSH to Keep Access After His C2 Went Offline",
-      "description": "[FEEDS] A French-speaking attacker broke into a small French automotive business, planted a keylogger, and stole banking and email credentials. Ordinary stuff, until one move near the end. Before his command-and-control server went dark, he installed...",
-      "url": "https://thehackernews.com/2026/06/junior-hacker-used-tailscale-and.html",
-      "date": "2026-06-17T16:00:56Z"
-    },
-    {
-      "title": "Adversarial Exposure Validation Turns Security Visibility into Confident Prioritization",
-      "description": "[FEEDS] For security teams, the findings never stop, but confidence in knowing which ones matter is becoming harder to maintain. The problem is no longer visibility. It's validation. Security teams must decide which findings warrant action while operating...",
-      "url": "https://thehackernews.com/2026/06/adversarial-exposure-validation-turns.html",
-      "date": "2026-06-17T14:58:00Z"
-    },
-    {
-      "title": "AI Use by the US Government",
-      "description": "[SCHNEIER] On 14 April, the Trump administration quietly acknowledged the widespread use of AI to automate government processes. The office of management and budget (OMB) disclosed a staggering 3,611 active or planned use cases for AI across the federal...",
-      "url": "https://www.schneier.com/blog/archives/2026/06/ai-use-by-the-us-government.html",
-      "date": "2026-06-17T11:04:04Z"
-    },
-    {
-      "title": "ISC Stormcast For Wednesday, June 17th, 2026 https://isc.sans.edu/podcastdetail/9976, (Wed, Jun 17th)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33082",
-      "date": "2026-06-17T02:00:04Z"
-    },
-    {
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "description": "[CISA] CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-48907 Widget Factory Joomla Content Editor Improper Access Control Vulnerability This type of vulnerability...",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/06/16/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "date": "2026-06-16T12:00:00Z"
-    },
-    {
-      "title": "Flock Cameras Are Being Used for Stalking",
-      "description": "[SCHNEIER] There are over a dozen cases around the country where police officers are using the Flock surveillance camera system to obsessively and illegally stalk people. Alternate link.",
-      "url": "https://www.schneier.com/blog/archives/2026/06/flock-cameras-are-being-used-for-stalking.html",
-      "date": "2026-06-16T11:03:31Z"
-    },
-    {
-      "title": "From a VHDX File to a Remcos RAT, (Tue, Jun 16th)",
-      "description": "[ISC] Yesterday, a reader reported to us a malicious ZIP archive (SHA256: a0104921a2d37ab87482ac9a9f5c3713479c118846c3e999178e75b81620c094&#x5b;1&#x5d;). Once unzipped, it contains a VHDX file that discloses a malicious JavaScript after being mounted...",
-      "url": "https://isc.sans.edu/diary/rss/33080",
-      "date": "2026-06-16T07:09:13Z"
-    },
-    {
-      "title": "ISC Stormcast For Tuesday, June 16th, 2026 https://isc.sans.edu/podcastdetail/9974, (Tue, Jun 16th)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33078",
-      "date": "2026-06-16T02:00:02Z"
-    },
-    {
-      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
-      "description": "[CISA] CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-20262 Cisco Catalyst SD-WAN Manager Directory or Path Traversal Vulnerability CVE-2026-54420 LiteSpeed...",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/06/15/cisa-adds-two-known-exploited-vulnerabilities-catalog",
-      "date": "2026-06-15T12:00:00Z"
-    },
-    {
-      "title": "The FCC Wants to Eliminate Burner Phones",
-      "description": "[SCHNEIER] A proposed FCC rule would kill burner phones: phones whose accounts are not attached to a particular person. The FCC plans to do this by legally forcing the country&#8217;s telecoms to store a wealth of personal information about essentially all...",
-      "url": "https://www.schneier.com/blog/archives/2026/06/the-fcc-wants-to-eliminate-burner-phones.html",
-      "date": "2026-06-15T11:01:05Z"
-    },
-    {
-      "title": "Upcoming Speaking Engagements",
-      "description": "[SCHNEIER] This is a current list of where and when I am scheduled to speak: I\u2019m giving a keynote at Cybernation 2026 in Berlin, Germany, on June 24, 2026. I\u2019m speaking at the Potsdam Conference on National Cybersecurity at the Hasso Plattner Institut in...",
-      "url": "https://www.schneier.com/blog/archives/2026/06/upcoming-speaking-engagements-57.html",
-      "date": "2026-06-14T16:07:31Z"
-    },
-    {
-      "title": "Friday Squid Blogging: Squid-Inspired Fluid Pump",
-      "description": "[SCHNEIER] This fluid pump was inspired by the way squids propel themselves through the water. As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered. Blog moderation policy.",
-      "url": "https://www.schneier.com/blog/archives/2026/06/friday-squid-blogging-squid-inspired-fluid-pump.html",
-      "date": "2026-06-12T21:05:03Z"
-    },
-    {
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "description": "[CISA] CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-35273 Oracle PeopleSoft Enterprise PeopleTools Missing Authentication for Critical Function Vulnerability...",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/06/12/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "date": "2026-06-12T12:00:00Z"
-    },
-    {
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "description": "[CISA] CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-10520 Ivanti Sentry OS Command Injection Vulnerability This type of vulnerability is a frequent attack...",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/06/11/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "date": "2026-06-11T12:00:00Z"
-    },
-    {
-      "title": "CISA Adds Three Known Exploited Vulnerabilities to Catalog",
-      "description": "[CISA] CISA has added three new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-7473 Arista Extensible Operating System Incomplete Comparison with Missing Factors Vulnerability...",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/06/09/cisa-adds-three-known-exploited-vulnerabilities-catalog",
-      "date": "2026-06-09T12:00:00Z"
-    },
-    {
-      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
-      "description": "[CISA] CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-42271 BerriAI LiteLLM Command Injection Vulnerability CVE-2026-50751 Check Point Security Gateway...",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/06/08/cisa-adds-two-known-exploited-vulnerabilities-catalog",
-      "date": "2026-06-08T12:00:00Z"
-    }
-  ]
+    "title": "Sentinel Protocol",
+    "tagline": "Perimeter Intelligence Sync",
+    "updated": "2026-06-18 14:07 UTC",
+    "news": [
+        {
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": "Katelyn Chedraoui",
+            "title": "Americans Are Increasingly Skeptical of AI, but We're Using It More Than Ever",
+            "description": "That lack of faith matters as AI becomes increasingly inescapable.",
+            "url": "https://www.cnet.com/tech/services-and-software/pew-survey-us-adults-ai-attitudes-government-regulations-2026-news/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/55221870b46df37578991262a316c3ad2ef37135/hub/2026/06/15/f748f818-e015-44e4-ad6b-9dce8d067110/adobestock-726279908.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2026-06-17T14:00:47Z",
+            "content": "It's our ongoing conundrum: Many US adults believe AI will have a negative impact on society. We're increasingly skeptical of our governments' ability to rein in the tech's more dangerous tendencies.\u2026 [+4178 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BleepingComputer"
+            },
+            "author": "Sponsored by Specops Software",
+            "title": "Why Account Takeovers Are Rising and How to Stop Them",
+            "description": "Account takeovers are rising as attackers bypass traditional defenses through phishing, session hijacking, and MFA fatigue. Specops Software explores how device trust and continuous verification help reduce account takeover risk. [...]",
+            "url": "https://www.bleepingcomputer.com/news/security/why-account-takeovers-are-rising-and-how-to-stop-them/",
+            "urlToImage": "https://www.bleepstatic.com/content/posts/2026/06/11/cyber-laptop.jpg",
+            "publishedAt": "2026-06-17T14:00:10Z",
+            "content": "Organizations now manage thousands of human and non-human identities across cloud services, software-as-a-service applications, endpoints and remote environments. \u00a0As hybrid working, Bring-Your-Own-D\u2026 [+6804 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PRNewswire"
+            },
+            "author": null,
+            "title": "Globant Launches Synthetic Operator, dedicated AI Pods for Live-Stream Monitoring",
+            "description": "The solution combines agentic AI with human experts for always-on, scalable streaming quality assurance, and provides intelligent incident management with step-by-step resolution recommendations and automated escalation NEW YORK, June 17, 2026 /PRNewswire/ --\u2026",
+            "url": "https://www.prnewswire.com/news-releases/globant-launches-synthetic-operator-dedicated-ai-pods-for-live-stream-monitoring-302802282.html",
+            "urlToImage": "https://mmx.prnewswire.com/media/MS1867331/synthetic-operator-og.jpg?id=OA2720962&p=facebook",
+            "publishedAt": "2026-06-17T14:00:00Z",
+            "content": "<ul><li>The solution combines agentic AI with human experts for always-on, scalable streaming quality assurance, and provides intelligent incident management with step-by-step resolution recommendati\u2026 [+4156 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PRNewswire"
+            },
+            "author": null,
+            "title": "Globant Launches Synthetic Operator, dedicated AI Pods for Live-Stream Monitoring",
+            "description": "The solution combines agentic AI with human experts for always-on, scalable streaming quality assurance, and provides intelligent incident management with step-by-step resolution recommendations and automated escalation NEW YORK, June 17, 2026 /PRNewswire/ --\u2026",
+            "url": "https://www.prnewswire.com/news-releases/globant-launches-synthetic-operator-dedicated-ai-pods-for-live-stream-monitoring-302802287.html",
+            "urlToImage": "https://mmx.prnewswire.com/media/MS519764/Globant-Logo.jpg?id=OA2720989&p=facebook",
+            "publishedAt": "2026-06-17T14:00:00Z",
+            "content": "<ul><li>The solution combines agentic AI with human experts for always-on, scalable streaming quality assurance, and provides intelligent incident management with step-by-step resolution recommendati\u2026 [+4140 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Slashdot.org"
+            },
+            "author": "wiredmikey",
+            "title": "Microsoft Working to Patch 'RoguePlanet' Zero-Day",
+            "description": "Microsoft on Wednesday published an advisory acknowledging the public disclosure of a vulnerability in Defender that could lead to privilege escalation. The security defect, tracked as CVE-2026-50656 (CVSS score of 7.8), was dropped last week by security rese\u2026",
+            "url": "https://slashdot.org/submission/17348256/microsoft-working-to-patch-rogueplanet-zero-day",
+            "urlToImage": null,
+            "publishedAt": "2026-06-17T13:59:14Z",
+            "content": "Microsoft on Wednesday published an advisory acknowledging the public disclosure of a vulnerability in Defender that could lead to privilege escalation. The security defect, tracked as CVE-2026-50656\u2026 [+494 chars]"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "AFP",
+            "title": "EU chases tech independence but gaps remain",
+            "description": "Europe wants more homegrown tech to cut its dependencies on the United States and China, but the EU warned Wednesday the bloc has more work to do. But to achieve this objective, the EU must bring electricity costs down relative to the United States and China \u2026",
+            "url": "https://economictimes.indiatimes.com/tech/technology/eu-chases-tech-independence-but-gaps-remain/articleshow/131802548.cms",
+            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-160946,resizemode-75,msid-131802548/tech/technology/eu-chases-tech-independence-but-gaps-remain.jpg",
+            "publishedAt": "2026-06-17T13:54:16Z",
+            "content": "Europe wants more homegrown tech to cut its dependencies on the United States and China, but the EU warned Wednesday the bloc has more work to do.The European Union worries it is vulnerable to the wh\u2026 [+1668 chars]"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "Reuters",
+            "title": "Quantum tech firm EigenQ to go public in $3 billion SPAC deal",
+            "description": "Quantum tech firm EigenQ is set to go public through a merger with Silicon Valley Acquisition. The deal values EigenQ at approximately $3 billion. EigenQ specializes in cybersecurity systems designed to protect against future quantum computer attacks. This te\u2026",
+            "url": "https://economictimes.indiatimes.com/tech/technology/quantum-tech-firm-eigenq-to-go-public-in-3-billion-spac-deal/articleshow/131802394.cms",
+            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-295022,resizemode-75,msid-131802394/tech/technology/quantum-tech-firm-eigenq-to-go-public-in-3-billion-spac-deal.jpg",
+            "publishedAt": "2026-06-17T13:48:11Z",
+            "content": "EigenQ will go public through a merger with blank-check company Silicon Valley Acquisition in a deal valuing the quantum tech firm at about $3 billion, they said on Wednesday.EigenQ's core business i\u2026 [+1357 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Maham Fatima",
+            "title": "Fortinet (FTNT) Partners with NVIDIA (NVDA) to Accelerate GPU-Powered AI Security",
+            "description": "Fortinet Inc. (NASDAQ:FTNT) is one of the 12 Best Growth Stocks Trading in Oversold Territory. On May 12, Fortinet partnered with NVIDIA (NASDAQ:NVDA) to acc...",
+            "url": "https://finance.yahoo.com/technology/ai/articles/fortinet-ftnt-partners-nvidia-nvda-134708335.html",
+            "urlToImage": "https://s.yimg.com/lo/mysterio/api/12EF5F0FE53BEE9FEDE752980D353F75F473ED7A9859BD2802E447AE3302FD70/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F924c85b195412270e0474a48e4f428f9",
+            "publishedAt": "2026-06-17T13:47:08Z",
+            "content": "Fortinet Inc. (NASDAQ:FTNT) is one of the 12 Best Growth Stocks Trading in Oversold Territory. On May 12, Fortinet partnered with NVIDIA (NASDAQ:NVDA) to accelerate the FortiAIGate solution, providin\u2026 [+1688 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PCMag.com"
+            },
+            "author": "Neil J. Rubenking",
+            "title": "The Best Personal Data Removal Services for 2026",
+            "description": "As you enter personal information on the web, data aggregators gather and sell it. Protect your privacy by using one of the top personal data removal services we've tested.\nWho Is Gathering Your Personal Data?There are two main types of sites that collect you\u2026",
+            "url": "https://uk.pcmag.com/security/150981/the-best-personal-data-removal-services",
+            "urlToImage": "https://sm.pcmag.com/t/pcmag_uk/guide/t/the-best-p/the-best-personal-data-removal-services-for-2026_cqrj.1200.jpg",
+            "publishedAt": "2026-06-17T13:45:44Z",
+            "content": "We began evaluating and reviewing antivirus software shortly after antivirus apps for PCs became available. As new types of attacks on your privacy arise, so do new defenses, such as services that cl\u2026 [+11816 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Theregister.com"
+            },
+            "author": "Connor Jones",
+            "title": "Cisco adds another SD-WAN box to max-severity bug advisory",
+            "description": "Updated at the time? No sweat. Check those logs, though",
+            "url": "https://www.theregister.com/security/2026/06/17/cisco-adds-another-sd-wan-box-to-max-severity-bug-advisory/5257621",
+            "urlToImage": "https://image.theregister.com/4094206.jpg?imageId=4094206&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+            "publishedAt": "2026-06-17T13:45:00Z",
+            "content": "Cisco has updated a February security advisory, adding another product to the list of those affected by the maximum-severity CVE-2026-20127.\r\nSwitchzilla made a small amendment to the original adviso\u2026 [+2484 chars]"
+        }
+    ]
 }
