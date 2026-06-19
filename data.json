@@ -1,11 +1,29 @@
 {
-  "updated": "2026-06-19 16:27:39 UTC",
+  "updated": "2026-06-19 19:25:42 UTC",
   "news": [
+    {
+      "title": "Unpatchable 'usbliter8' Exploit Breaks Apple A12 and A13 SecureROM Boot Chain",
+      "description": "[FEEDS] Security researchers at&nbsp;Paradigm Shift&nbsp;have published a working exploit, dubbed&nbsp;usbliter8, that achieves arbitrary code execution inside the SecureROM of Apple's A12 and A13 chips. That code is burned into the silicon at manufacture....",
+      "url": "https://thehackernews.com/2026/06/unpatchable-usbliter8-exploit-breaks.html",
+      "date": "2026-06-19T18:37:41Z"
+    },
+    {
+      "title": "The Gentlemen RaaS Uses GentleKiller EDR Framework Targeting 400 Security Processes",
+      "description": "[FEEDS] The Gentlemen ransomware-as-a-service (RaaS) operation is actively developing and maintaining a suite of endpoint detection and response (EDR) killers that it hands out to affiliates for impairing system defenses before deploying the encryptor. This...",
+      "url": "https://thehackernews.com/2026/06/the-gentlemen-raas-uses-gentlekiller.html",
+      "date": "2026-06-19T18:33:07Z"
+    },
     {
       "title": "Texas govt data breach exposes over 3 million driver\u2019s licenses",
       "description": "[BLEEPINGCOMPUTER] The Texas Parks and Wildlife Department (TPWD) disclosed a data breach at its license system vendor that exposed personal information for more than three million individuals. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/texas-govt-data-breach-exposes-over-3-million-drivers-licenses/",
       "date": "2026-06-19T16:12:41Z"
+    },
+    {
+      "title": "AutoJack Attack Lets One Web Page Hijack AI Agent for Host Code Execution",
+      "description": "[FEEDS] Microsoft researchers have detailed an exploit chain, named&nbsp;AutoJack, that turns an AI browsing agent into a delivery vehicle for remote code execution. Steer the agent to load an attacker's web page, and that page's JavaScript can reach a...",
+      "url": "https://thehackernews.com/2026/06/autojack-attack-lets-one-web-page.html",
+      "date": "2026-06-19T15:30:47Z"
     },
     {
       "title": "Operation Endgame Disrupts SocGholish Servers, Cleans 14,971 WordPress Sites",
@@ -56,18 +74,6 @@
       "date": "2026-06-19T10:39:58Z"
     },
     {
-      "title": "Forget Data Leakage: Shadow AI's Real Threat Is Access Control",
-      "description": "[FEEDS] The first wave of enterprise AI concern was straightforward. It was simply employees pasting sensitive data into public AI tools. Security teams responded with usage policies, domain blocks, and data loss prevention rules. That response made sense...",
-      "url": "https://thehackernews.com/2026/06/forget-data-leakage-shadow-ais-real.html",
-      "date": "2026-06-19T10:30:00Z"
-    },
-    {
-      "title": "Salesforce Disables Klue App Integration After OAuth Token Abuse Exposes Customer Data",
-      "description": "[FEEDS] Salesforce has revealed that it disabled the Klue Battlecards app integration within its platform in response to a security incident impacting the competitive intelligence company on June 11, 2026. To that end, organizations will be unable to...",
-      "url": "https://thehackernews.com/2026/06/salesforce-disables-klue-app.html",
-      "date": "2026-06-19T09:03:57Z"
-    },
-    {
       "title": "NY man charged after harassing college student with AI-generated nudes",
       "description": "[BLEEPINGCOMPUTER] A New York man faces cyberstalking charges after allegedly sharing AI-generated nude images and fabricated racist messages using fake social media profiles to harass a Georgia college student. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/new-york-man-faces-cyberstalking-charge-after-sharing-ai-generated-nudes-online/",
@@ -80,10 +86,16 @@
       "date": "2026-06-19T08:37:34Z"
     },
     {
-      "title": "Apple Patches Beats Studio Buds Flaw Letting Nearby Attackers Spy via Microphone",
-      "description": "[FEEDS] Apple has updated its Beats Studio Buds wireless earbuds to patch a high-severity vulnerability that could be exploited by nearby hackers to eavesdrop on users. The vulnerability, tracked as CVE-2025-20701 (CVSS score: 8.8), refers to a case of...",
-      "url": "https://thehackernews.com/2026/06/apple-patches-beats-studio-buds-flaw.html",
-      "date": "2026-06-19T06:36:09Z"
+      "title": "Anthropic's Mythos Still Accessible to Early Users Despite US Shutdown Order",
+      "description": "[OUTLOOK BUSINESS] Anthropic\u2019s powerful Mythos and Fable 5 AI models were abruptly shut down worldwide under a US export control order, yet select early Glasswing partners like Dragos and Cisco still retain access. Learn why Washington cited national security risks,...",
+      "url": "https://www.outlookbusiness.com/deeptech/anthropics-mythos-still-accessible-to-early-users-despite-us-shutdown-order",
+      "date": "2026-06-19T07:24:39Z"
+    },
+    {
+      "title": "Coempt hits back: Human error, not software failure behind CBSE OSM mess",
+      "description": "[INDIA TODAY] Weeks after complaints over answer-sheet mix-ups and blurred scans sparked controversy, Coempt Edu Teck has denied any software failure in CBSE's on-screen marking system. However, concerns over tender practices, cybersecurity and transparency...",
+      "url": "https://www.indiatoday.in/education-today/news/story/cbse-osm-row-whos-responsible-coempt-rejects-portal-glitch-tender-bias-and-hacking-claims-2929609-2026-06-19",
+      "date": "2026-06-19T05:02:28Z"
     },
     {
       "title": "Nintendo addresses cybersecurity incident after group demands millions",
@@ -132,18 +144,6 @@
       "description": "[HINDUSTAN TIMES] Accenture stock fell 14% after a $4.18 billion cybersecurity deal and weaker revenue forecast, despite expanding its fast-growing cyber business.",
       "url": "https://www.hindustantimes.com/world-news/us-news/accenture-stock-falls-14-after-4-18-billion-cybersecurity-deal-and-weak-forecast-101781791648882.html",
       "date": "2026-06-18T17:18:46Z"
-    },
-    {
-      "title": "Texas government data breach allowed hackers to steal 3 million driver's licenses and passports",
-      "description": "[TECHCRUNCH] A data breach involving government-issued ID documents affects over three million people in Texas.",
-      "url": "https://techcrunch.com/2026/06/18/texas-government-data-breach-allowed-hackers-to-steal-3-million-drivers-licenses-and-passports/",
-      "date": "2026-06-18T17:12:53Z"
-    },
-    {
-      "title": "Accenture lowers 2026 revenue outlook, expands cybersecurity business with acquisitions",
-      "description": "[THE NEW INDIAN EXPRESS] Company expects annual revenue growth of 3% to 4%, compared with its earlier forecast of 3% to 5%",
-      "url": "https://www.newindianexpress.com/business/2026/Jun/18/accenture-lowers-2026-revenue-outlook-expands-cybersecurity-business-with-acquisitions",
-      "date": "2026-06-18T17:11:34Z"
     },
     {
       "title": "Embedding Forbidden Text in Spyware to Discourage AI Analysis",
