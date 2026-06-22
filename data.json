@@ -1,209 +1,137 @@
 {
-  "updated": "2026-06-22 15:13:00 UTC",
-  "news": [
-    {
-      "title": "29-Year-Old Squid Proxy Bug 'Squidbleed' Can Leak Cleartext HTTP Requests",
-      "description": "[FEEDS] A heap over-read in the Squid web proxy can leak another user's cleartext HTTP request, including any credentials or session tokens it carries, to anyone already allowed to send traffic through the same proxy. The bug traces to a 1997 FTP-parsing...",
-      "url": "https://thehackernews.com/2026/06/29-year-old-squid-proxy-bug-squidbleed.html",
-      "date": "2026-06-22T14:29:46Z"
-    },
-    {
-      "title": "Webshells Remain Popular, (Mon, Jun 22nd)",
-      "description": "[ISC] Webshells have been popular for a long time. We already covered this topic across multiple diaries&#x5b;1&#x5d;&#x5b;2&#x5d;. I spent some time to track them&#x5b;3&#x5d; and slighly paid less attention to them but today I found another one. It...",
-      "url": "https://isc.sans.edu/diary/rss/33096",
-      "date": "2026-06-22T14:10:27Z"
-    },
-    {
-      "title": "A Glimpse into the \u201cSearch Your Target\u201d Market for Stolen Credentials",
-      "description": "[BLEEPINGCOMPUTER] Attackers no longer need to sift through massive credential dumps. They can pay others to do it for them. Flare explores how an emerging underground market searches stolen credential databases for specific companies, domains, and accounts. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/a-glimpse-into-the-search-your-target-market-for-stolen-credentials/",
-      "date": "2026-06-22T14:05:15Z"
-    },
-    {
-      "title": "New OXLOADER Loader Uses Malicious Google Ads to Deliver CastleStealer",
-      "description": "[FEEDS] Cybersecurity researchers have disclosed details of a new campaign that delivers CastleStealer by means of a previously unreported malware loader dubbed OXLOADER. According to Elastic Security Labs, the campaign leverages malicious Google Ads as a...",
-      "url": "https://thehackernews.com/2026/06/new-oxloader-loader-uses-malicious.html",
-      "date": "2026-06-22T13:20:12Z"
-    },
-    {
-      "title": "Google Sets Sept. 30 Deadline for Android Developer Verification in Four Countries",
-      "description": "[FEEDS] Google has set September 30, 2026, as the day it begins enforcing&nbsp;Android developer verification&nbsp;in the first four countries, and the major device-maker app stores are in from the start. On that date, certified Android phones in Brazil,...",
-      "url": "https://thehackernews.com/2026/06/google-sets-sept-30-deadline-for.html",
-      "date": "2026-06-22T12:45:08Z"
-    },
-    {
-      "title": "Stop Your Legacy Infrastructure from Hijacking Your AI Agents",
-      "description": "[FEEDS] Earlier this month, I spoke at the Gartner Security &amp; Risk Management Summit about a blind spot most security programs are still not accounting for - how attackers are circumventing AI security programs by using legacy infrastructure to hijack...",
-      "url": "https://thehackernews.com/2026/06/stop-your-legacy-infrastructure-from.html",
-      "date": "2026-06-22T11:58:00Z"
-    },
-    {
-      "title": "Professional Athletes and Wearables",
-      "description": "[SCHNEIER] I haven&#8217;t thought about the privacy issues surrounding professional athletes and wearables. Wearables present serious privacy issues for &#8220;Average Joe&#8221; consumers, who are entrusting tech companies to safely store and protect their...",
-      "url": "https://www.schneier.com/blog/archives/2026/06/professional-athletes-and-wearables.html",
-      "date": "2026-06-22T11:02:55Z"
-    },
-    {
-      "title": "\u26a1 Weekly Recap: Browser Bugs, EDR Killers, TV Botnet, OpenBSD Flaw, Android Trojan, and More",
-      "description": "[FEEDS] It\u2019s Monday again. This week\u2019s threat list looks painfully familiar: abused integrations, fake tools, poisoned websites, ransomware crews trying to shut down security tools, and mobile malware asking for way too much control. The annoying part is...",
-      "url": "https://thehackernews.com/2026/06/weekly-recap-browser-bugs-edr-killers.html",
-      "date": "2026-06-22T10:55:10Z"
-    },
-    {
-      "title": "Canada\u2019s Spy Agency Used First-of-Its-Kind Warrant to Clean Botnet-Infected Devices",
-      "description": "[FEEDS] Canada's spy service got a judge's permission to reach into infected servers, home routers, and IoT gear sitting on Canadian soil and neutralize two foreign-run botnets. The Federal Court&nbsp;released a public version of the ruling on June 15. It...",
-      "url": "https://thehackernews.com/2026/06/canadas-spy-agency-used-first-of-its.html",
-      "date": "2026-06-22T09:11:37Z"
-    },
-    {
-      "title": "ISC Stormcast For Monday, June 22nd, 2026 https://isc.sans.edu/podcastdetail/9980, (Mon, Jun 22nd)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33092",
-      "date": "2026-06-22T02:00:02Z"
-    },
-    {
-      "title": "At home with AI: Balancing the opportunities and challenges of tech-assisted smart living",
-      "description": "[THE STAR] As advanced technologies such as artificial intelligence and robots move into homes, experts highlight the need to strengthen cybersecurity and safeguard privacy.",
-      "url": "https://www.thestar.com.my/tech/tech-news/2026/06/22/at-home-with-ai-balancing-the-opportunities-and-challenges-of-tech-assisted-smart-living",
-      "date": "2026-06-22T02:00:00Z"
-    },
-    {
-      "title": "National security for data centres a \u2018risk to investment\u2019",
-      "description": "[AUSTRALIAN FINANCIAL REVIEW] Operators say tighter controls may deter investors, but their protests have been rebuffed amid rising geopolitical and cybersecurity tensions.",
-      "url": "https://www.afr.com/politics/federal/national-security-for-data-centres-a-risk-to-investment-20260619-p608e0",
-      "date": "2026-06-22T01:39:40Z"
-    },
-    {
-      "title": "Allegion plc : Security Everywhere",
-      "description": "[MARKETSCREENER] Allegion is a Dublin-headquartered security products company spun out of Ingersoll Rand in 2013, built around a portfolio of category-defining brands - Schlage, Von Duprin, CISA, SimonsVoss - that...",
-      "url": "https://www.marketscreener.com/news/allegion-plc-security-everywhere-ce7f5cd3d981f12d",
-      "date": "2026-06-21T23:59:58Z"
-    },
-    {
-      "title": "Acworth city systems restored after data breach, officials say",
-      "description": "[THE ATLANTA JOURNAL-CONSTITUTION] A cybersecurity breach in the city of Acworth is still under investigation, but systems and services have been fully restored, officials said.",
-      "url": "https://www.ajc.com/news/2026/06/systems-restored-after-data-breach-in-city-of-acworth-officials-say/",
-      "date": "2026-06-21T16:27:43Z"
-    },
-    {
-      "title": "These workers thought they were getting an extra day off. Turns out it was just a \u2018cruel\u2019 test",
-      "description": "[CP24 TORONTO] Health care workers in N.L. thought their employer was giving them an extra day off. \u2014 Turns out, it was just a cybersecurity test",
-      "url": "https://www.cp24.com/news/canada/2026/06/21/these-workers-thought-they-were-getting-an-extra-day-off-turns-out-it-was-just-a-cruel-test/",
-      "date": "2026-06-21T16:07:04Z"
-    },
-    {
-      "title": "London Hydro CEO confirms data breach affected customer information",
-      "description": "[THE LONDON FREE PRESS] \"Given our ongoing investigation in collaboration with local law enforcement, we cannot share more details at this time.\"",
-      "url": "https://lfpress.com/news/local-news/london-hydro-ceo-confirms-data-breach-affected-customer-information",
-      "date": "2026-06-21T14:15:48Z"
-    },
-    {
-      "title": "AryStinger botnet infected thousands of D-Link routers worldwide",
-      "description": "[BLEEPINGCOMPUTER] A previously undocumented malware botnet named AryStinger has compromised more than 4,000 outdated routers to turn them into proxies for malicious traffic. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/arystinger-botnet-infected-thousands-of-d-link-routers-worldwide/",
-      "date": "2026-06-21T14:14:22Z"
-    },
-    {
-      "title": "These workers thought they were getting an extra day off. Turns out it just a \u2018cruel\u2019 test.",
-      "description": "[CP24 TORONTO] Health care workers in N.L. thought their employer was giving them an extra day off. \u2014 Turns out, it was just a cybersecurity test",
-      "url": "https://www.cp24.com/news/canada/2026/06/21/these-workers-thought-they-were-getting-an-extra-day-off-turns-out-it-just-a-cruel-test/",
-      "date": "2026-06-21T12:57:43Z"
-    },
-    {
-      "title": "Krispy Kreme data breach settlement claim deadline is Monday, June 22",
-      "description": "[USA TODAY] Krispy Kreme will pay out a $1.6 million settlement due to a data breach discovered in November 2024.",
-      "url": "https://www.usatoday.com/story/money/personalfinance/2026/06/21/krispy-kreme-data-breach-settlement-claim-deadline/90591850007/",
-      "date": "2026-06-21T11:00:40Z"
-    },
-    {
-      "title": "Cyber Insurance for Business: 2026 Guide to Risk",
-      "description": "[LOS ANGELES TIMES] Don't let a ransomware attack bankrupt your company. Learn why cyber insurance for business is now an essential boardroom financial safeguard.",
-      "url": "https://www.latimes.com/b2b/banking-finance/story/2026-06-21/cyber-insurance-for-business-2026",
-      "date": "2026-06-21T10:49:00Z"
-    },
-    {
-      "title": "\u2018Cheap shot\u2019: N.L. officials apologize after health care cybersecurity test went horribly wrong",
-      "description": "[CP24 TORONTO] Health care workers in N.L. thought their employer was giving them an extra day off. \u2014 Turns out, it was just a cybersecurity test",
-      "url": "https://www.cp24.com/news/canada/2026/06/21/cheap-shot-nl-officials-apologize-after-health-care-cybersecurity-test-went-horribly-wrong/",
-      "date": "2026-06-21T09:00:00Z"
-    },
-    {
-      "title": "New Prinz Eugen ransomware prioritizes recent files for encryption",
-      "description": "[BLEEPINGCOMPUTER] A new ransomware operation named 'Prinz Eugen' prioritizes recently modified files for encryption and leaves no ransom note on the system. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/new-prinz-eugen-ransomware-prioritizes-recent-files-for-encryption/",
-      "date": "2026-06-20T15:23:46Z"
-    },
-    {
-      "title": "Microsoft links Mastra AI supply chain attack to North Korean hackers",
-      "description": "[BLEEPINGCOMPUTER] Microsoft has attributed a recent Mastra AI supply chain attack that compromised more than 140 npm packages to the North Korean hacking group Sapphire Sleet, also known as BlueNoroff. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/microsoft-links-mastra-ai-supply-chain-attack-to-north-korean-hackers/",
-      "date": "2026-06-20T14:09:19Z"
-    },
-    {
-      "title": "Klue OAuth breach victim list grows as Icarus hackers claim attack",
-      "description": "[BLEEPINGCOMPUTER] Market intelligence platform Klue has publicly confirmed a recent security incident that allowed threat actors to steal OAuth tokens used to connect to customers' Salesforce environments, as the new \"Icarus\" extortion group publicly claims the...",
-      "url": "https://www.bleepingcomputer.com/news/security/klue-oauth-breach-victim-list-grows-as-icarus-hackers-claim-attack/",
-      "date": "2026-06-19T22:31:04Z"
-    },
-    {
-      "title": "Friday Squid Blogging: Victims of Unregulated Squid Fishing",
-      "description": "[SCHNEIER] Dolphins, sharks, turtles, and human workers are all victims of unregulated squid fishing fleets. Another news article. As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered. Blog...",
-      "url": "https://www.schneier.com/blog/archives/2026/06/friday-squid-blogging-victims-of-unregulated-squid-fishing.html",
-      "date": "2026-06-19T21:03:48Z"
-    },
-    {
-      "title": "Hackers exploit info disclosure bug in Gravity SMTP WordPress plugin",
-      "description": "[BLEEPINGCOMPUTER] Threat actors are exploiting an unauthenticated information disclosure vulnerability in the WordPress plugin Gravity SMTP, active on 100,000 sites. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-info-disclosure-bug-in-gravity-smtp-wordpress-plugin/",
-      "date": "2026-06-19T20:25:02Z"
-    },
-    {
-      "title": "Anthropic\u2019s Fable and the State of AI",
-      "description": "[SCHNEIER] On June 9th, Anthropic released its Fable generative AI model. Three days later, the US government classified it as a dangerous munition, and used its export-control authority to prohibit any foreign nationals from accessing it. Unable to...",
-      "url": "https://www.schneier.com/blog/archives/2026/06/anthropics-fable-and-the-state-of-ai.html",
-      "date": "2026-06-19T11:03:30Z"
-    },
-    {
-      "title": "eBanking Phishing Delivered Through IPv4-Mapped IPv6 Address, (Fri, Jun 19th)",
-      "description": "[ISC] I detected an interesting phishing email this morning. It targets a major Belgian bank:&#xd;",
-      "url": "https://isc.sans.edu/diary/rss/33090",
-      "date": "2026-06-19T08:37:34Z"
-    },
-    {
-      "title": "Embedding Forbidden Text in Spyware to Discourage AI Analysis",
-      "description": "[SCHNEIER] At least one malware developer is adding text about nuclear and biological weapons to their spyware, in an effort to stop automatic AI analysis. Details: The _index.js payload begins with a large JavaScript block comment containing fake system...",
-      "url": "https://www.schneier.com/blog/archives/2026/06/embedding-forbidden-text-in-spyware-to-discourage-ai-analysis.html",
-      "date": "2026-06-18T11:04:01Z"
-    },
-    {
-      "title": "ISC Stormcast For Thursday, June 18th, 2026 https://isc.sans.edu/podcastdetail/9978, (Thu, Jun 18th)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33088",
-      "date": "2026-06-18T02:00:02Z"
-    },
-    {
-      "title": "The Behavior of Coordinated SSH Brute Force Attacks over the last three months &#x5b;Guest Diary&#x5d;, (Wed, Jun 17th)",
-      "description": "[ISC] &#x5b;This is a Guest Diary by Adam Nason, an ISC intern as part of the SANS.edu BACS program&#x5d;&#xd;",
-      "url": "https://isc.sans.edu/diary/rss/33086",
-      "date": "2026-06-18T01:49:29Z"
-    },
-    {
-      "title": "The browser blind spot: Why your security tool may not be blocking what you think it is &#x5b;Guest Diary&#x5d;, (Wed, Jun 17th)",
-      "description": "[ISC] &#x5b;This is a guest diary submitted by Varun Murdula&#x5d;&#xd;",
-      "url": "https://isc.sans.edu/diary/rss/33084",
-      "date": "2026-06-17T16:01:33Z"
-    },
-    {
-      "title": "AI Use by the US Government",
-      "description": "[SCHNEIER] On 14 April, the Trump administration quietly acknowledged the widespread use of AI to automate government processes. The office of management and budget (OMB) disclosed a staggering 3,611 active or planned use cases for AI across the federal...",
-      "url": "https://www.schneier.com/blog/archives/2026/06/ai-use-by-the-us-government.html",
-      "date": "2026-06-17T11:04:04Z"
-    },
-    {
-      "title": "Flock Cameras Are Being Used for Stalking",
-      "description": "[SCHNEIER] There are over a dozen cases around the country where police officers are using the Flock surveillance camera system to obsessively and illegally stalk people. Alternate link.",
-      "url": "https://www.schneier.com/blog/archives/2026/06/flock-cameras-are-being-used-for-stalking.html",
-      "date": "2026-06-16T11:03:31Z"
-    }
-  ]
+    "title": "Sentinel Protocol",
+    "tagline": "Perimeter Intelligence Sync",
+    "updated": "2026-06-22 15:49 UTC",
+    "news": [
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Anthony Ha",
+            "title": "When the Trump administration cracks down on Anthropic, who benefits? | TechCrunch",
+            "description": "On the new episode of Equity, we discussed what actually prompted the administration's latest moves against Anthropic, and what this might mean for the AI ecosystem.",
+            "url": "https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/06/anthropic-claude-fable.jpg?resize=1200,798",
+            "publishedAt": "2026-06-21T15:30:02Z",
+            "content": "Anthropic recently took its two newest AI models offline due to an export control order from the Trump administration, prompting broad debates about AI policy and digital sovereignty.\r\nOn the latest \u2026 [+6523 chars]"
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Eric Williams, Payam Saeedi, Stacey Watson, The Conversation",
+            "title": "Almost 4 in 10 Americans have a \u2018junk drawer\u2019 full of their old electronics. It\u2019s because of a very specific anxiety",
+            "description": "It's not laziness \u2014 NSF-funded research on 4,000 consumers finds that something kicks in precisely at the moment of disposal.",
+            "url": "https://fortune.com/2026/06/21/old-electronics-junk-drawer-data-security-anxiety-survey/",
+            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/06/GettyImages-2260126880-e1782054088216.jpg?resize=1200,600",
+            "publishedAt": "2026-06-21T15:02:02Z",
+            "content": "Think about the last smartphone, tablet or smartwatch you stopped using. Odds are it is not in a recycling bin or a new owners hands; it is sitting in a drawer.From our survey of 4,000 American consu\u2026 [+3790 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Thoughtcatalog.com"
+            },
+            "author": "Chris Lavergne",
+            "title": "Anthropic\u2019s Mythos Model Broke into Almost Every U.S. Classified System in Hours, a Senator Says",
+            "description": "Anthropic\u2019s Mythos model broke into almost all classified systems run by the NSA and U.S. Cyber Command in a matter of hours, according to testimony relayed to the Senate Intelligence Committee and reported by The Economist.",
+            "url": "https://thoughtcatalog.com/chris-lavergne/2026/06/anthropics-mythos-model-broke-into-almost-every-u-s-classified-system-in-hours-a-senator-says/",
+            "urlToImage": "https://thoughtcatalog.com/wp-content/uploads/2026/06/anthropic-s-mythos-model-broke-into-almost-every-u-s-classified-system-in-hours.png?w=1536&h=768&crop=1",
+            "publishedAt": "2026-06-21T14:44:02Z",
+            "content": "Anthropic\u2019s Mythos model broke into almost all classified systems run by the NSA and U.S. Cyber Command in a matter of hours, according to testimony relayed to the Senate Intelligence Committee and r\u2026 [+2572 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Sarah Perez",
+            "title": "Beyond Siri: Here are the practical AI features coming to your iPhone in iOS 27",
+            "description": "Siri\u2019s AI overhaul may have grabbed the headlines at WWDC, but some of Apple\u2019s most useful AI features are arriving elsewhere in iOS 27.",
+            "url": "https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/01/tim-cook-iphone-GettyImages-2234563479.jpg?w=1024",
+            "publishedAt": "2026-06-21T14:40:28Z",
+            "content": "Siri\u2019s AI overhaul may have been the headline announcement at Apple\u2019s Worldwide Developers Conference earlier this month, but Apple\u2019s broader AI strategy is taking shape through a series of smaller f\u2026 [+7646 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "Ana Maria Constantin",
+            "title": "Microsoft\u2019s June update fixed 208 security flaws and introduced a cascade of new bugs across all Windows versions",
+            "description": "Microsoft\u2019s June 2026 Patch Tuesday update is causing problems across every supported version of Windows. KB5094126, released on June 9, patched a record 208 security vulnerabilities, but the update has introduced a string of bugs that range from cosmetic ann\u2026",
+            "url": "https://thenextweb.com/news/windows-11-kb5094126-recycle-bin-bug-patch-tuesday/",
+            "urlToImage": "https://media.thenextweb.com/2026/06/windows-11-kb5094126-recycle-bin-bug-patch-tuesday.avif",
+            "publishedAt": "2026-06-21T13:59:33Z",
+            "content": "TL;DR\r\nMicrosofts June Patch Tuesday update KB5094126 fixed 208 flaws but broke the Recycle Bin, triggered BitLocker lockouts, and killed OneDrive on domain PCs.\r\nMicrosofts June 2026 Patch Tuesday u\u2026 [+5874 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Fabiana Buontempo",
+            "title": "Desperate singles beg \u2018cute men\u2019 to approach them at bars: \u2018Can y\u2019all please start going out?\u2019",
+            "description": "There's no denying that today's dating scene is wild.",
+            "url": "https://nypost.com/2026/06/21/lifestyle/desperate-singles-spark-debate-on-where-to-meet-cute-guys/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/06/crop-39744059.jpg?quality=75&strip=all&w=1200",
+            "publishedAt": "2026-06-21T13:58:42Z",
+            "content": "There\u2019s no denying that today\u2019s dating scene is wild. \r\nAs fed-up singles swipe endlessly on dating apps or hire pricey matchmakers to find their happily ever after, it\u2019s fair to say that the days of\u2026 [+2074 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "insider@insider.com (Lillian Brown)",
+            "title": "Where to watch Spain vs. Saudi Arabia free World Cup stream from anywhere",
+            "description": "The World Cup is underway. We'll show you where to watch Spain vs. Saudi Arabia.",
+            "url": "https://www.businessinsider.com/guides/streaming/where-to-watch-spain-vs-saudi-arabia-world-cup-2026#article",
+            "urlToImage": "https://i.insider.com/6a345e02c7a58f814f0d4558?width=1200&format=jpeg",
+            "publishedAt": "2026-06-21T13:00:01Z",
+            "content": "One of the most-anticipated World Cup group stage matches is here. We've rounded up everything you need to know about where to watch Spain vs. Saudi Arabia, including free and global streaming option\u2026 [+6851 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "Ana Maria Constantin",
+            "title": "Amazon says human-in-the-loop AI oversight is failing because humans stop paying attention",
+            "description": "Amazon\u2019s security leadership is arguing against one of the most widely accepted principles in AI governance. Eric Brandwine, VP and distinguished engineer at Amazon Security, told The Register that human-in-the-loop oversight is not the gold standard companie\u2026",
+            "url": "https://thenextweb.com/news/amazon-human-in-the-loop-ai-governance-normalization-deviance/",
+            "urlToImage": "https://media.thenextweb.com/2026/06/amazon-human-in-the-loop-ai-governance-normalization-deviance.avif",
+            "publishedAt": "2026-06-21T12:35:10Z",
+            "content": "TL;DR\r\nAmazons security VP says human-in-the-loop AI governance fails fast because people stop paying attention. Google, Microsoft, and IBM agree.\r\nAmazons security leadership is arguing against one \u2026 [+4894 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Intego.com"
+            },
+            "author": "Kamso Oguejiofor-Abugu",
+            "title": "What is XProtect, and how does it protect my Mac?",
+            "description": "XProtect is Apple\u2019s built-in malware protection for macOS. It works in the background to help detect, block, and remove known Mac malware, without needing you to install or open a separate app. Most Mac users never need to use XProtect directly. There\u2019s no ap\u2026",
+            "url": "https://www.intego.com/mac-security-blog/what-is-xprotect/",
+            "urlToImage": "https://www.intego.com/mac-security-blog/wp-content/uploads/2026/06/What_is_XProtect_and_how_does_it_protect_my_Mac.jpg",
+            "publishedAt": "2026-06-21T12:06:55Z",
+            "content": "Apple + Random\r\nPosted on\r\n June 21st, 2026 by\r\nKamso Oguejiofor-Abugu\r\nXProtect is Apples built-in malware protection for macOS. It works in the background to help detect, block, and remove known Ma\u2026 [+17010 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Pypi.org"
+            },
+            "author": "jeromep83@gmail.com",
+            "title": "cyvest 6.1.1",
+            "description": "Cybersecurity investigation model",
+            "url": "https://pypi.org/project/cyvest/6.1.1/",
+            "urlToImage": null,
+            "publishedAt": "2026-06-21T11:10:04Z",
+            "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe\u2026 [+12 chars]"
+        }
+    ]
 }
