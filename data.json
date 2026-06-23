@@ -1,209 +1,137 @@
 {
-  "updated": "2026-06-23 10:54:32 UTC",
-  "news": [
-    {
-      "title": "Malicious npm Packages Pose as PostCSS Tools to Deliver Windows RAT",
-      "description": "[FEEDS] Cybersecurity researchers have discovered a set of malicious npm packages that are designed to deliver a Windows-based remote access trojan (RAT). The list of identified packages, is below - aes-decode-runner-pro (145 downloads)...",
-      "url": "https://thehackernews.com/2026/06/malicious-npm-packages-pose-as-postcss.html",
-      "date": "2026-06-23T08:54:32Z"
-    },
-    {
-      "title": "WhatsApp VBScript Campaign Uses Fake Documents to Install ManageEngine RMM Tool",
-      "description": "[FEEDS] Direct messages sent via WhatsApp are being used to distribute malicious Visual Basic Script (VBScript) files that lead to the installation of legitimate Remote Monitoring and Management (RMM) software. Per findings from Kaspersky, the active...",
-      "url": "https://thehackernews.com/2026/06/whatsapp-vbscript-campaign-uses-fake.html",
-      "date": "2026-06-23T05:38:40Z"
-    },
-    {
-      "title": "OpenAI Expands Daybreak With GPT-5.5-Cyber to Help Defenders Patch Security Flaws",
-      "description": "[FEEDS] OpenAI on Monday said it's releasing an improved version of its GPT\u20115.5\u2011Cyber model to trusted defenders as part of the Daybreak initiative&nbsp;the artificial intelligence (AI) company announced last month. Calling GPT\u20115.5\u2011Cyber its \"strongest...",
-      "url": "https://thehackernews.com/2026/06/openai-expands-daybreak-with-gpt-55.html",
-      "date": "2026-06-23T03:56:58Z"
-    },
-    {
-      "title": "CVE-2024-40766: The Patch Fixed the Bug. Nobody Fixed the Configuration., (Tue, Jun 23rd)",
-      "description": "[ISC] The vulnerability&#xd;",
-      "url": "https://isc.sans.edu/diary/rss/33094",
-      "date": "2026-06-23T03:02:34Z"
-    },
-    {
-      "title": "ISC Stormcast For Tuesday, June 23rd, 2026 https://isc.sans.edu/podcastdetail/9982, (Tue, Jun 23rd)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33098",
-      "date": "2026-06-23T02:00:03Z"
-    },
-    {
-      "title": "WhatsApp phishing attack uses fake business docs to hack PCs",
-      "description": "[BLEEPINGCOMPUTER] An ongoing malware campaign is targeting WhatsApp users in multiple countries with deceptive messages that push VBScript files, leading to remote system access. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/whatsapp-phishing-attack-uses-fake-business-docs-to-hack-pcs/",
-      "date": "2026-06-22T22:42:21Z"
-    },
-    {
-      "title": "JaredFromSubway MEV bot hacked in $15 million crypto theft",
-      "description": "[BLEEPINGCOMPUTER] The JaredFromSubway Ethereum MEV (Maximal Extractable Value) bot suffered a $15 million loss after an attacker manipulated the opportunity-detection logic by creating fake cryptocurrency trading opportunities. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/jaredfromsubway-mev-bot-hacked-in-15-million-crypto-theft/",
-      "date": "2026-06-22T21:52:18Z"
-    },
-    {
-      "title": "FFmpeg fixes PixelSmash flaw in widely used video decoder",
-      "description": "[BLEEPINGCOMPUTER] A newly disclosed FFmpeg flaw dubbed 'PixelSmash' could be exploited for remote code execution on Jellyfin servers under certain conditions, and can also trigger a denial-of-service condition in applications like Kodi, Emby, Nextcloud, PhotoPrism,...",
-      "url": "https://www.bleepingcomputer.com/news/security/ffmpeg-fixes-pixelsmash-flaw-in-widely-used-video-decoder/",
-      "date": "2026-06-22T21:05:01Z"
-    },
-    {
-      "title": "Trump signs orders calling for powerful quantum computer, targeting 2028",
-      "description": "[JAPAN TODAY] U.S. President Donald Trump ordered a push on Monday \u200cto build a powerful quantum computer for scientific research and speed efforts to protect government systems from related cyber threats, bolstering U.S. \u200cefforts in its race with China for \u2060a...",
-      "url": "https://japantoday.com/category/tech/trump-signs-orders-calling-for-powerful-quantum-computer-targeting-2028",
-      "date": "2026-06-22T20:40:15Z"
-    },
-    {
-      "title": "Trump signs orders calling for powerful quantum computer, targeting 2028",
-      "description": "[REUTERS] U.S. President Donald Trump ordered a push on Monday to build a powerful quantum computer for \u200bscientific research and speed efforts to protect government systems from \u200crelated cyber threats, bolstering U.S. efforts in its race with China for a...",
-      "url": "https://www.reuters.com/legal/litigation/trump-signs-orders-calling-powerful-quantum-computer-targeting-2028-2026-06-22/",
-      "date": "2026-06-22T20:39:25Z"
-    },
-    {
-      "title": "Trump signs orders calling for powerful quantum computer, targeting 2028",
-      "description": "[THE STRAITS TIMES] This bolsters US efforts in its race with China for a technology that could upend science and cybersecurity. Read more at straitstimes.com.",
-      "url": "https://www.straitstimes.com/world/united-states/trump-signs-orders-calling-for-powerful-quantum-computer-targeting-2028",
-      "date": "2026-06-22T20:35:48Z"
-    },
-    {
-      "title": "Trump signs orders calling for powerful quantum computer, targeting 2028",
-      "description": "[THE STRAITS TIMES] WASHINGTON, June 22 - U.S. President Donald Trump ordered a push on Monday to build a powerful quantum computer for scientific research and speed efforts to protect government systems from related cyber threats, bolstering U.S. efforts in its race...",
-      "url": "https://www.straitstimes.com/world/trump-signs-orders-calling-for-powerful-quantum-computer-targeting-2028",
-      "date": "2026-06-22T20:35:48Z"
-    },
-    {
-      "title": "OpenAI Says AI Broke Cybersecurity - Now It Wants AI To Fix It",
-      "description": "[BENZINGA] OpenAI expanded its cybersecurity effort with a wider Codex Security release and the launch of GPT-5.5-Cyber for vetted defenders.",
-      "url": "https://www.benzinga.com/markets/private-markets/26/06/60029995/openai-says-ai-broke-cybersecurity-now-it-wants-ai-to-fix-it",
-      "date": "2026-06-22T20:08:12Z"
-    },
-    {
-      "title": "FortiBleed campaign used custom FortiGate sniffer to steal credentials",
-      "description": "[BLEEPINGCOMPUTER] Security firm SOCRadar says the large-scale FortiBleed campaign targeting Fortinet FortiGate devices used custom sniffers to harvest authentication secrets from compromised firewalls and steal credentials. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/fortibleed-campaign-used-custom-fortigate-sniffer-to-steal-credentials/",
-      "date": "2026-06-22T20:01:02Z"
-    },
-    {
-      "title": "Chinese AI models raise cybersecurity concerns, new report warns",
-      "description": "[BALTIMORE NEWS] Chinese artificial intelligence models are rapidly gaining popularity.",
-      "url": "https://foxbaltimore.com/news/nation-world/chinese-ai-models-raise-cybersecurity-concerns-new-report-warns-artificial-intelligence-business-government-military",
-      "date": "2026-06-22T19:52:25Z"
-    },
-    {
-      "title": "Chinese AI models raise cybersecurity concerns, new report warns",
-      "description": "[WJLA] Chinese artificial intelligence models are rapidly gaining popularity.",
-      "url": "https://wjla.com/news/nation-world/chinese-ai-models-raise-cybersecurity-concerns-new-report-warns-artificial-intelligence-business-government-military",
-      "date": "2026-06-22T19:52:25Z"
-    },
-    {
-      "title": "Tata Electronics, a major tech supplier to Apple and Tesla, confirms data breach",
-      "description": "[TECHCRUNCH] The incident comes as Tata Electronics expands its role in global technology supply chains.",
-      "url": "https://techcrunch.com/2026/06/22/tata-electronics-a-major-tech-supplier-to-apple-and-tesla-confirms-data-breach/",
-      "date": "2026-06-22T19:25:00Z"
-    },
-    {
-      "title": "Alcott HR Data Breach Exposes Personal Information: Murphy",
-      "description": "[GLOBENEWSWIRE] Murphy Law Firm investigates claims on behalf of everyone whose information was exposed in the Alcott HR data breach....",
-      "url": "https://www.globenewswire.com/news-release/2026/06/22/3315587/0/en/alcott-hr-data-breach-exposes-personal-information-murphy-law-firm-investigates-legal-claims.html",
-      "date": "2026-06-22T19:22:23Z"
-    },
-    {
-      "title": "Tata Electronics faces cybersecurity breach; says no impact on business",
-      "description": "[THE ECONOMIC TIMES] Tata Electronics has confirmed a cybersecurity incident affecting some of its systems, following reports of a ransomware group, World Leaks, leaking sensitive design and specification documents belonging to clients like Apple and Tesla. The company...",
-      "url": "https://economictimes.indiatimes.com/industry/cons-products/electronics/tata-electronics-faces-cybersecurity-breach-says-no-impact-on-business/articleshow/131919786.cms",
-      "date": "2026-06-22T19:13:00Z"
-    },
-    {
-      "title": "ShapedPlugin WordPress Pro Plugins Backdoored in Supply Chain Attack",
-      "description": "[FEEDS] Multiple WordPress plugins from ShapedPlugin were compromised in a supply chain attack after unknown threat actors managed to tamper with the official release channels and push backdoor code. \"Attackers compromised the vendor's build and...",
-      "url": "https://thehackernews.com/2026/06/shapedplugin-wordpress-pro-plugins.html",
-      "date": "2026-06-22T18:00:48Z"
-    },
-    {
-      "title": "Microsoft says Windows 11 26H2 is coming soon, details upgrade process",
-      "description": "[BLEEPINGCOMPUTER] Microsoft has confirmed that Windows 11 version 26H2 will be the next feature update and that devices running Windows 11 24H2 and 25H2 will be able to upgrade using a small enablement package. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-windows-11-26h2-is-coming-soon-details-upgrade-process/",
-      "date": "2026-06-22T17:41:31Z"
-    },
-    {
-      "title": "Microsoft fixes AutoGen Studio flaw that enabled code execution",
-      "description": "[BLEEPINGCOMPUTER] A vulnerability chain dubbed AutoJack in Microsoft's AutoGen Studio interface for prototyping AI agents could let attackers manipulate an agent into executing arbitrary commands on its host system simply by visiting a malicious webpage. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/microsoft-fixes-autogen-studio-flaw-that-enabled-code-execution/",
-      "date": "2026-06-22T17:28:57Z"
-    },
-    {
-      "title": "Researchers Detail DifyTap Flaws in Dify That Could Expose AI Chats Across Tenants",
-      "description": "[FEEDS] Cybersecurity researchers have disclosed details of four vulnerabilities in Dify, an open-source agentic workflow platform with more than 146,000 GitHub stars, that could allow attackers to stealthily read artificial intelligence (AI) conversions...",
-      "url": "https://thehackernews.com/2026/06/researchers-detail-difytap-flaws-in.html",
-      "date": "2026-06-22T16:13:28Z"
-    },
-    {
-      "title": "29-Year-Old Squid Proxy Bug 'Squidbleed' Can Leak Cleartext HTTP Requests",
-      "description": "[FEEDS] A heap over-read in the Squid web proxy can leak another user's cleartext HTTP request, including any credentials or session tokens it carries, to anyone already allowed to send traffic through the same proxy. The bug traces to a 1997 FTP-parsing...",
-      "url": "https://thehackernews.com/2026/06/29-year-old-squid-proxy-bug-squidbleed.html",
-      "date": "2026-06-22T14:29:46Z"
-    },
-    {
-      "title": "Webshells Remain Popular, (Mon, Jun 22nd)",
-      "description": "[ISC] Webshells have been popular for a long time. We already covered this topic across multiple diaries&#x5b;1&#x5d;&#x5b;2&#x5d;. I spent some time to track them&#x5b;3&#x5d; and slighly paid less attention to them but today I found another one. It...",
-      "url": "https://isc.sans.edu/diary/rss/33096",
-      "date": "2026-06-22T14:10:27Z"
-    },
-    {
-      "title": "Professional Athletes and Wearables",
-      "description": "[SCHNEIER] I haven&#8217;t thought about the privacy issues surrounding professional athletes and wearables. Wearables present serious privacy issues for &#8220;Average Joe&#8221; consumers, who are entrusting tech companies to safely store and protect their...",
-      "url": "https://www.schneier.com/blog/archives/2026/06/professional-athletes-and-wearables.html",
-      "date": "2026-06-22T11:02:55Z"
-    },
-    {
-      "title": "ISC Stormcast For Monday, June 22nd, 2026 https://isc.sans.edu/podcastdetail/9980, (Mon, Jun 22nd)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33092",
-      "date": "2026-06-22T02:00:02Z"
-    },
-    {
-      "title": "Friday Squid Blogging: Victims of Unregulated Squid Fishing",
-      "description": "[SCHNEIER] Dolphins, sharks, turtles, and human workers are all victims of unregulated squid fishing fleets. Another news article. As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered. Blog...",
-      "url": "https://www.schneier.com/blog/archives/2026/06/friday-squid-blogging-victims-of-unregulated-squid-fishing.html",
-      "date": "2026-06-19T21:03:48Z"
-    },
-    {
-      "title": "Anthropic\u2019s Fable and the State of AI",
-      "description": "[SCHNEIER] On June 9th, Anthropic released its Fable generative AI model. Three days later, the US government classified it as a dangerous munition, and used its export-control authority to prohibit any foreign nationals from accessing it. Unable to...",
-      "url": "https://www.schneier.com/blog/archives/2026/06/anthropics-fable-and-the-state-of-ai.html",
-      "date": "2026-06-19T11:03:30Z"
-    },
-    {
-      "title": "eBanking Phishing Delivered Through IPv4-Mapped IPv6 Address, (Fri, Jun 19th)",
-      "description": "[ISC] I detected an interesting phishing email this morning. It targets a major Belgian bank:&#xd;",
-      "url": "https://isc.sans.edu/diary/rss/33090",
-      "date": "2026-06-19T08:37:34Z"
-    },
-    {
-      "title": "Embedding Forbidden Text in Spyware to Discourage AI Analysis",
-      "description": "[SCHNEIER] At least one malware developer is adding text about nuclear and biological weapons to their spyware, in an effort to stop automatic AI analysis. Details: The _index.js payload begins with a large JavaScript block comment containing fake system...",
-      "url": "https://www.schneier.com/blog/archives/2026/06/embedding-forbidden-text-in-spyware-to-discourage-ai-analysis.html",
-      "date": "2026-06-18T11:04:01Z"
-    },
-    {
-      "title": "ISC Stormcast For Thursday, June 18th, 2026 https://isc.sans.edu/podcastdetail/9978, (Thu, Jun 18th)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33088",
-      "date": "2026-06-18T02:00:02Z"
-    },
-    {
-      "title": "AI Use by the US Government",
-      "description": "[SCHNEIER] On 14 April, the Trump administration quietly acknowledged the widespread use of AI to automate government processes. The office of management and budget (OMB) disclosed a staggering 3,611 active or planned use cases for AI across the federal...",
-      "url": "https://www.schneier.com/blog/archives/2026/06/ai-use-by-the-us-government.html",
-      "date": "2026-06-17T11:04:04Z"
-    },
-    {
-      "title": "Flock Cameras Are Being Used for Stalking",
-      "description": "[SCHNEIER] There are over a dozen cases around the country where police officers are using the Flock surveillance camera system to obsessively and illegally stalk people. Alternate link.",
-      "url": "https://www.schneier.com/blog/archives/2026/06/flock-cameras-are-being-used-for-stalking.html",
-      "date": "2026-06-16T11:03:31Z"
-    }
-  ]
+    "title": "Sentinel Protocol",
+    "tagline": "Perimeter Intelligence Sync",
+    "updated": "2026-06-23 13:41 UTC",
+    "news": [
+        {
+            "source": {
+                "id": null,
+                "name": "BusinessLine"
+            },
+            "author": "PTI",
+            "title": "EU awards 75 Indian students Erasmus+ scholarships; launches student ambassadors network",
+            "description": "The initiative aligns with the EU-India Strategic Agenda focusing on youth, innovation and knowledge-sharing, aiming to build a peer-to-peer community that deepens cultural and academic exchange.",
+            "url": "https://www.thehindubusinessline.com/news/education/eu-awards-75-indian-students-erasmus-scholarships-launches-student-ambassadors-network/article71133479.ece",
+            "urlToImage": "https://bl-i.thgim.com/public/incoming/gxp95x/article71133516.ece/alternates/LANDSCAPE_1200/1150889516",
+            "publishedAt": "2026-06-22T13:41:46Z",
+            "content": "The European Union has launched the EU-India Student Ambassadors Network -- which will bring together 40 student ambassadors from 20 Indian universities -- aiming to raise awareness about European ac\u2026 [+5176 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Zack Whittaker",
+            "title": "Klue hack results in data breach at several cybersecurity firms | TechCrunch",
+            "description": "Huntress, HackerOne, Jamf, Recorded Future, and Tanium are among the cybersecurity companies that had data stolen following an earlier breach at market research firm Klue.",
+            "url": "https://techcrunch.com/2026/06/22/klue-hack-results-in-data-breach-at-several-cybersecurity-firms/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/12/data-breach-2024-roundup.jpg?resize=1200,675",
+            "publishedAt": "2026-06-22T13:36:08Z",
+            "content": "A hacking group has taken credit for a breach at market intelligence provider Klue that allowed hackers to steal reams of data from the company\u2019s corporate customers, which include some of the bigges\u2026 [+3762 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PRNewswire"
+            },
+            "author": null,
+            "title": "Eric Jorgensen Named Chief Executive Officer of AstreaX, a Michael Baker International Company, Advancing the Next Era of Digital Government",
+            "description": "Proven public sector leader to accelerate innovation in secure digital identity, citizen engagement and modern government platforms PITTSBURGH, June 22, 2026 /PRNewswire/ -- AstreaX, a Michael Baker International Company, today announced the appointment of Er\u2026",
+            "url": "https://www.prnewswire.com/news-releases/eric-jorgensen-named-chief-executive-officer-of-astreax-a-michael-baker-international-company-advancing-the-next-era-of-digital-government-302806420.html",
+            "urlToImage": "https://mma.prnewswire.com/media/2949814/AstreaX__Logo_Logo.jpg?p=facebook",
+            "publishedAt": "2026-06-22T13:35:00Z",
+            "content": "Proven public sector leader to accelerate innovation in secure digital identity, citizen engagement and modern government platforms\r\nPITTSBURGH, June 22, 2026 /PRNewswire/ -- AstreaX, a Michael Baker\u2026 [+6739 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PRNewswire"
+            },
+            "author": null,
+            "title": "ManpowerGroup CEO Jonas Prising to Co-Chair World Economic Forum's Annual Meeting of the New Champions in Dalian, China",
+            "description": "ManpowerGroup delegation to bring workforce expertise and labor market insights to Summer Davos, where leaders will convene around \"Innovating at Scale\" MILWAUKEE, June 22, 2026 /PRNewswire/ -- ManpowerGroup, (NYSE: MAN) a global leader in workforce solutions\u2026",
+            "url": "https://www.prnewswire.com/news-releases/manpowergroup-ceo-jonas-prising-to-co-chair-world-economic-forums-annual-meeting-of-the-new-champions-in-dalian-china-302806048.html",
+            "urlToImage": "https://i.ytimg.com/vi/YBAE_MMfOAs/hqdefault.jpg",
+            "publishedAt": "2026-06-22T13:31:00Z",
+            "content": "\"The organizations that will lead in the AI era are not necessarily those with the most advanced technology. They will be those that can translate technological progress into human progress,\" said Pr\u2026 [+3567 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Sajjl Nooranne",
+            "title": "Is Cloudflare, Inc.\u00a0(NET)\u00a0among the Most Overvalued Quantum Computing Stocks According to Short Sellers?",
+            "description": "With a forward P/E of 141.54, Cloudflare, Inc. (NYSE:NET) is among the 10 Most Overvalued Quantum Computing Stocks According to Short Sellers. On June 10, UB...",
+            "url": "https://finance.yahoo.com/markets/stocks/articles/cloudflare-inc-net-among-most-133047261.html",
+            "urlToImage": "https://s.yimg.com/lo/mysterio/api/513EAFA6D476D584975262099B4FA0A773D711461DD9ACC250529D1C272A6B76/subgraphmysterio/resizefill_w1200_h801;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2Fb1877831e392d7ece368a105d5b585f5",
+            "publishedAt": "2026-06-22T13:30:47Z",
+            "content": "With a forward P/E of 141.54, Cloudflare, Inc.\u00a0(NYSE:NET)\u00a0is among the 10 Most Overvalued Quantum Computing Stocks According to Short Sellers.\r\nOn June 10, UBS raised its price target on Cloudflare, \u2026 [+1704 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": null,
+            "title": "Rockwell Automation Technology Supports Modernization at New Heaven Hill Distillery",
+            "description": "PlantPAx helps streamline operations at the state-of-the-art facility and enables future AI-driven optimization.",
+            "url": "https://apnews.com/press-release/pr-newswire/press-release-d50e2decafe4bd212d725638c5e7733b",
+            "urlToImage": "https://dims.apnews.com/dims4/default/d0937da/2147483647/strip/true/crop/2025x1349+149+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F0c%2F26%2Fe0df65de0b1a9bdc757987bdc0da%2F852269fc5087992fd2e6abcda73fb6a2",
+            "publishedAt": "2026-06-22T13:30:20Z",
+            "content": "PlantPAx helps streamline operations at the state-of-the-art facility and enables future AI-driven optimization.\r\nMILWAUKEE, Wis., June 22, 2026 /PRNewswire/ -- Rockwell Automation, Inc. (NYSE: ROK),\u2026 [+3882 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Internet"
+            },
+            "author": "info@thehackernews.com (The Hacker News)",
+            "title": "New OXLOADER Loader Uses Malicious Google Ads to Deliver CastleStealer",
+            "description": "Cybersecurity researchers have disclosed details of a new campaign that delivers CastleStealer by means of a previously unreported malware loader dubbed OXLOADER.\n\nAccording to Elastic Security Labs, the campaign leverages malicious Google Ads as a starting p\u2026",
+            "url": "https://thehackernews.com/2026/06/new-oxloader-loader-uses-malicious.html",
+            "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8sz7SHbQd4E8HNEKbvGGSYhPpJrUydP_gCRt_mWYYTr6QHLmChyphenhyphenca6BXhLBXA4OyKw-eS9xbqRqpKcYWFqDp4HoLBYKjVdWzhF0K1pqjX2bPtB91y1P1PZ8gh5r7Bpp-PIeUJVi_Hki91Qf6YjFAtFmf-qh7V9gNzmbEh_A2lISCvCDnNMALAuiqAlkL_/s1700-e365/loader.jpg",
+            "publishedAt": "2026-06-22T13:20:12Z",
+            "content": "Cybersecurity researchers have disclosed details of a new campaign that delivers CastleStealer by means of a previously unreported malware loader dubbed OXLOADER.\r\nAccording to Elastic Security Labs,\u2026 [+2873 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Malwarebytes.com"
+            },
+            "author": "Pieter Arntz",
+            "title": "Document delivery scams: What are they and what\u2019s their goal?",
+            "description": "A seemingly official voicemail turned out to be a scam. Learn how document delivery scams work and what to do if you receive one.",
+            "url": "https://www.malwarebytes.com/blog/scams/2026/06/document-delivery-scams-what-are-they-and-whats-their-goal",
+            "urlToImage": "https://www.malwarebytes.com/wp-content/uploads/sites/2/2026/06/voicemail-warning.jpg",
+            "publishedAt": "2026-06-22T13:19:50Z",
+            "content": "One of Malwarebytes\u2019 managers recently received a call from scammers pretending to be a document delivery service.\r\nThe voicemail sounded official:\r\nI am calling on behalf of document delivery servic\u2026 [+3949 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Techtarget.com"
+            },
+            "author": "Jill Hughes",
+            "title": "ShinyHunters threatens to leak One Medical Seniors patient data",
+            "description": "Cyber extortion group ShinyHunters claimed to have exfiltrated 8.8 terabytes of data from One Medical Seniors, threatening to publish it if the Amazon-owned company refuses to pay.",
+            "url": "https://www.techtarget.com/healthtechsecurity/news/366644917/ShinyHunters-threatens-to-leak-One-Medical-Seniors-patient-data",
+            "urlToImage": "https://www.techtarget.com/rms/onlineimages/security_a216006547.jpg",
+            "publishedAt": "2026-06-22T13:17:00Z",
+            "content": "Amazon's One Medical disclosed a cybersecurity incident last week that involved unauthorized access to certain files related to One Medical Senior Health patients. A prolific cyber extortion group kn\u2026 [+2881 chars]"
+        },
+        {
+            "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            "author": "Rene Millman",
+            "title": "Windscribe VPN CEO warns your favourite Facebook quizzes are actually stealing your bank details",
+            "description": "Think those viral social media personality tests are just harmless fun? A top cybersecurity CEO warns that they are actually highly effective phishing traps designed to steal the answers to your bank's security questions.",
+            "url": "https://www.techradar.com/vpn/vpn-privacy-security/windscribe-vpn-ceo-warns-your-favourite-facebook-quizzes-are-actually-stealing-your-bank-details",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/AnTjx7ez8GjHGejkC5gkfJ-2125-80.jpg",
+            "publishedAt": "2026-06-22T13:13:56Z",
+            "content": "<ul><li>Windscribe CEO warns social media quizzes can harvest data to bypass knowledge-based authentication</li><li>The 'fun' prompts often perfectly mirror bank security questions</li><li>Experts ad\u2026 [+3417 chars]"
+        }
+    ]
 }
