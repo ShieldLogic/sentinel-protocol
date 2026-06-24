@@ -1,6 +1,18 @@
 {
-  "updated": "2026-06-24 07:32:39 UTC",
+  "updated": "2026-06-24 10:40:38 UTC",
   "news": [
+    {
+      "title": "DoJ Seizes Huione Cloud Account Tied to Cyber Scam Money Laundering",
+      "description": "[FEEDS] The U.S. Department of Justice (DoJ) on Tuesday announced the seizure of a cloud computing account put to use by subsidiaries of Cambodia-based corporate conglomerate HuiOne Group, as the Treasury unveiled fresh sanctions against nine individuals...",
+      "url": "https://thehackernews.com/2026/06/doj-seizes-huione-cloud-account-tied-to.html",
+      "date": "2026-06-24T08:55:12Z"
+    },
+    {
+      "title": "Cisco Unified CM Flaw Exploited After PoC Reveals File-Write Path to Root",
+      "description": "[FEEDS] Threat actors have begun to exploit a recently disclosed critical security flaw impacting Cisco Unified Communications Manager (Unified CM) and Unified Communications Manager Session Management Edition (Unified CM SME). The vulnerability, tracked as...",
+      "url": "https://thehackernews.com/2026/06/cisco-unified-cm-flaw-exploited-after.html",
+      "date": "2026-06-24T06:50:38Z"
+    },
     {
       "title": "Linux Process Name Masquerading, (Wed, Jun 24th)",
       "description": "[ISC] In a previous diary, I talked about stack strings&&#x23&#x3b;x26&#x3b;&#x23&#x3b;x5b&#x3b;1&&#x23&#x3b;x26&#x3b;&#x23&#x3b;x5d&#x3b; with a practical example of them. Since my SEC670 class,...",
@@ -14,10 +26,22 @@
       "date": "2026-06-24T02:00:03Z"
     },
     {
+      "title": "LastPass notifies users of yet another data breach",
+      "description": "[9TO5MAC] LastPass users are once again being warned about stolen personal data, though this time the breach happened through one of the company\u2019s outside partners.",
+      "url": "https://9to5mac.com/2026/06/23/lastpass-notifies-users-of-yet-another-data-breach/",
+      "date": "2026-06-23T21:48:37Z"
+    },
+    {
       "title": "Cisco Unified CM flaw CVE-2026-20230 now exploited in attacks",
       "description": "[BLEEPINGCOMPUTER] A high-severity SSRF vulnerability, tracked as CVE-2026-20230, in Cisco Unified Communications Manager Server is now being exploited in attacks. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/cisco-unified-cm-sme-flaw-cve-2026-20230-now-exploited-in-attacks/",
       "date": "2026-06-23T21:48:32Z"
+    },
+    {
+      "title": "N.S.A. Lost Access to Powerful A.I. Model Amid Anthropic Dispute",
+      "description": "[THE NEW YORK TIMES] A recent episode underscored the Trump administration\u2019s increasing reliance on advanced A.I. systems for cybersecurity even as it battles a leading U.S. developer.",
+      "url": "https://www.nytimes.com/2026/06/23/us/politics/nsa-lost-access-anthropic-tool.html",
+      "date": "2026-06-23T21:15:16Z"
     },
     {
       "title": "Tata Electronics confirms cyberattack as hackers leak data",
@@ -30,6 +54,24 @@
       "description": "[BLEEPINGCOMPUTER] \u200b\u200bMicrosoft has released the KB5095093 preview cumulative update for Windows 11 24H2 and 25H2, which fixes numerous bugs and begins rolling out new features, including the new Point-in-Time restore feature. [...]",
       "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5095093-update-rolls-out-new-point-in-time-restore-feature/",
       "date": "2026-06-23T20:22:21Z"
+    },
+    {
+      "title": "Five Eyes cybersecurity agencies warn of new AI models impact on cyber risks",
+      "description": "[CBC.CA] Cutting-edge artificial intelligence technology is poised to supercharge offensive hacking capabilities, and urgent action is needed to face up to the \u200cthreat, U.S., British, Canadian, Australian and New Zealand cybersecurity agency officials said...",
+      "url": "https://www.cbc.ca/news/canada/five-eyes-ai-cyber-risk-warning-9.7245294",
+      "date": "2026-06-23T20:20:47Z"
+    },
+    {
+      "title": "KOBIL Named as a Sample Vendor in the Gartner\u00ae Hype Cycle\u2122 for Enterprise Applications, 2026",
+      "description": "[PR NEWSWIRE UK] /PRNewswire/ -- KOBIL, a technology company specializing in secure digital identity, cybersecurity, and enterprise SuperApp technologies, announced that it has...",
+      "url": "https://www.prnewswire.co.uk/news-releases/kobil-named-as-a-sample-vendor-in-the-gartner-hype-cycle-for-enterprise-applications-2026-302808296.html",
+      "date": "2026-06-23T20:11:00Z"
+    },
+    {
+      "title": "Second class action lawsuit filed against Columbia Orthopaedic Group over stolen information from ransomware attack",
+      "description": "[ABC17NEWS.COM] COLUMBIA, Mo. (KMIZ) A second class action lawsuit was filed against Columbia Orthopaedic Group on Monday in Boone County. The new lawsuit also alleges that Columbia Orthopaedic Group did not do enough to protect patients\u2019 personal information after...",
+      "url": "https://abc17news.com/news/columbia/2026/06/23/second-class-action-lawsuit-filed-against-columbia-orthopaedic-group-over-stolen-information-from-ransomware-attack/",
+      "date": "2026-06-23T20:02:45Z"
     },
     {
       "title": "Healthtech firm Xolis suffers data breach impacting 1.4 million people",
@@ -80,34 +122,10 @@
       "date": "2026-06-23T18:20:49Z"
     },
     {
-      "title": "Bull Bitcoin Secures MiCA License In France, Preserving Full Self",
-      "description": "[BITCOIN MAGAZINE] Founder Francis Pouliot announced the self-financed, three-year achievement, highlighting successful PASSI and DORA cybersecurity audits without outsourcing core infrastructure.",
-      "url": "https://bitcoinmagazine.com/business/bull-bitcoin-secures-mica-license-in-france-preserving-full-self-custody-and-privacy-features",
-      "date": "2026-06-23T17:58:57Z"
-    },
-    {
-      "title": "US healthcare AI platform Xsolis confirms data breach that affects 1.4 million individuals",
-      "description": "[TECHRADAR] Social Security numbers and health insurance information nabbed",
-      "url": "https://www.techradar.com/pro/security/us-healthcare-ai-platform-xsolis-confirms-data-breach-that-affects-1-4-million-individuals",
-      "date": "2026-06-23T17:30:00Z"
-    },
-    {
-      "title": "LastPass Discloses Theft of Customer Support Records Following Partner Breach",
-      "description": "[FIRSTPOST] LastPass customer data exposed in third-party breach as hackers steal personal records and threaten to leak data linked to multiple cybersecurity firms",
-      "url": "https://www.firstpost.com/tech/lastpass-discloses-theft-of-customer-support-records-following-partner-breach-14025519.html",
-      "date": "2026-06-23T17:26:59Z"
-    },
-    {
       "title": "Scattered Spider members plead guilty to hacking Transport for London",
       "description": "[BLEEPINGCOMPUTER] Two members of the 'Scattered Spider' cybercrime group pleaded guilty to hacking the Transport for London (TfL) systems in 2024. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/scattered-spider-members-plead-guilty-to-hacking-transport-for-london/",
       "date": "2026-06-23T15:31:59Z"
-    },
-    {
-      "title": "PM Modi hosts BRICS security chiefs; calls for deeper cooperation in \"changing global landscape\"",
-      "description": "[THE TRIBUNE] The meeting came after the 16th BRICS National Security Advisers' Meeting in New Delhi, chaired by NSA Ajit Doval. Against a backdrop of 'increasing geopolitical uncertainty,' talks focused on non-traditional threats like terrorism, cybersecurity,...",
-      "url": "https://www.tribuneindia.com/news/world/pm-modi-hosts-brics-security-chiefs-calls-for-deeper-cooperation-in-changing-global-landscape/",
-      "date": "2026-06-23T15:23:01Z"
     },
     {
       "title": "Fake AI Agent Skill Passed Security Scans and Reportedly Reached 26,000 Agents",
@@ -122,34 +140,16 @@
       "date": "2026-06-23T15:16:40Z"
     },
     {
-      "title": "Password manager maker LastPass says hackers stole customer support case data during Klue breach",
-      "description": "[TECHCRUNCH] This is the second data breach to affect LastPass customers in recent years, after one of the password manager's tech partners was recently breached.",
-      "url": "https://techcrunch.com/2026/06/23/password-manager-maker-lastpass-says-hackers-stole-customer-support-case-data-during-klue-breach/",
-      "date": "2026-06-23T15:12:37Z"
-    },
-    {
       "title": "GitHub Updates actions/checkout to Block Common Pwn Request Attack Patterns",
       "description": "[FEEDS] GitHub is moving to strengthen software supply chain security by updating \"actions/checkout\" to block pwn request attacks that exploit the risky use of the \"pull_request_target workflow\" trigger to run malicious code with the workflow's full...",
       "url": "https://thehackernews.com/2026/06/github-updates-actionscheckout-to-block.html",
       "date": "2026-06-23T14:22:03Z"
     },
     {
-      "title": "Agentic AI: The Weapon That No Longer Needs a Warrior",
-      "description": "[FEEDS] Every weapon begins as an extension of the hand that holds it. The spear lengthened the reach of the arm. The bow sent the point flying without the throw. The rifle placed a man's death a quarter mile beyond his sight, and the aircraft carried that...",
-      "url": "https://thehackernews.com/2026/06/agentic-ai-weapon-that-no-longer-needs.html",
-      "date": "2026-06-23T11:30:00Z"
-    },
-    {
       "title": "Anthropic\u2019s Fable 5 Model Jailbroken Within Days",
       "description": "[SCHNEIER] Fable 5 is the supposed safe version of Anthropic&#8217;s Mythos Preview, with guardrails to ensure that it can&#8217;t be used to create cyberattacks. Well, that restriction was bypassed within days.",
       "url": "https://www.schneier.com/blog/archives/2026/06/anthropics-fable-5-model-jailbroken-within-days.html",
       "date": "2026-06-23T11:03:07Z"
-    },
-    {
-      "title": "Malicious npm Packages Pose as PostCSS Tools to Deliver Windows RAT",
-      "description": "[FEEDS] Cybersecurity researchers have discovered a set of malicious npm packages that are designed to deliver a Windows-based remote access trojan (RAT). The list of identified packages, is below - aes-decode-runner-pro (145 downloads)...",
-      "url": "https://thehackernews.com/2026/06/malicious-npm-packages-pose-as-postcss.html",
-      "date": "2026-06-23T08:54:32Z"
     },
     {
       "title": "CVE-2024-40766: The Patch Fixed the Bug. Nobody Fixed the Configuration., (Tue, Jun 23rd)",
