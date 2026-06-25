@@ -1,6 +1,42 @@
 {
-  "updated": "2026-06-25 14:04:08 UTC",
+  "updated": "2026-06-25 18:02:54 UTC",
   "news": [
+    {
+      "title": "AI and Liability",
+      "description": "[SCHNEIER] Earlier this month, a German court ruled that Google is liable for its AI search summaries. Rejecting defenses like &#8220;users can check for themselves,&#8221; and that they generally know &#8220;that information generated with AI should not be...",
+      "url": "https://www.schneier.com/blog/archives/2026/06/ai-and-liability.html",
+      "date": "2026-06-25T17:03:15Z"
+    },
+    {
+      "title": "New macOS malware embeds fake errors to confuse AI analysis tools",
+      "description": "[BLEEPINGCOMPUTER] A newly discovered macOS malware dubbed \"Gaslight\" is designed to confuse AI-assisted malware analysis tools by hiding prompt injection strings and fake debugging data within the executable. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/new-macos-malware-embeds-fake-errors-to-confuse-ai-analysis-tools/",
+      "date": "2026-06-25T16:23:19Z"
+    },
+    {
+      "title": "PirloTV sports piracy network disrupted as 44 domains seized",
+      "description": "[BLEEPINGCOMPUTER] A major sports piracy ring linked to the illegal PirloTV streaming platform has been disrupted in an action that targeted 44 domains. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/pirlotv-sports-piracy-network-disrupted-as-44-domains-seized/",
+      "date": "2026-06-25T15:36:56Z"
+    },
+    {
+      "title": "Bluekit phishing kit adopts browser-in-the-middle for login theft",
+      "description": "[BLEEPINGCOMPUTER] The Bluekit phishing-as-a-service platform continues to evolve with nearly 70 new hostnames identified over the past week and by adding browser-in-the-middle capabilities for improved data theft. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/bluekit-phishing-kit-adopts-browser-in-the-middle-for-login-theft/",
+      "date": "2026-06-25T15:00:00Z"
+    },
+    {
+      "title": "Chrome Ad Blocker with 10M+ Installs Found with Dormant Script Injection Capability",
+      "description": "[FEEDS] An analysis of a popular Google Chrome ad block extension for YouTube has uncovered the ability to execute arbitrary JavaScript code. According to Island, the extension, named Adblock for YouTube (ID: cmedhionkhpnakcndndgjdbohmhepckk), has more than...",
+      "url": "https://thehackernews.com/2026/06/chrome-ad-blocker-with-10m-installs.html",
+      "date": "2026-06-25T14:12:52Z"
+    },
+    {
+      "title": "The Four Elevations of Effective Fraud Prevention",
+      "description": "[BLEEPINGCOMPUTER] Fraudsters don't attack just one transaction. They target accounts, platforms, and entire ecosystems. IPQS explains the four elevations of fraud prevention and why broader visibility improves fraud detection. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/the-four-elevations-of-effective-fraud-prevention/",
+      "date": "2026-06-25T14:01:11Z"
+    },
     {
       "title": "ThreatsDay Bulletin: Smart TV Proxyware, 24-Year curl Bug, AI Crime Forums + 13 More Stories",
       "description": "[FEEDS] It\u2019s dumb out there again. This week has the usual smell of prod on fire and nobody wanting to admit who left the door open \u2014 old creds still working, trusted apps doing sketchy crap, browser tricks jumping the fence, and \u201cnormal\u201d workflows turning...",
@@ -50,6 +86,24 @@
       "date": "2026-06-25T05:46:54Z"
     },
     {
+      "title": "Cybersecurity to blacksmithing: Ireland\u2019s most unusual and intriguing third-level courses",
+      "description": "[THE IRISH TIMES] A selection of less conventional options for study after secondary school",
+      "url": "https://www.irishtimes.com/ireland/education/2026/06/25/cybersecurity-to-blacksmithing-irelands-most-unusual-and-intriguing-third-level-courses/",
+      "date": "2026-06-25T05:01:00Z"
+    },
+    {
+      "title": "Weapons, Drones and More: What's Inside Trump's $87.6 Bn Defence Request?",
+      "description": "[OUTLOOK BUSINESS] The Trump administration has requested $87.6 billion in supplemental funding from Congress, largely to replenish military stockpiles after the Iran conflict. The package also includes funding for agriculture, global health, cybersecurity and...",
+      "url": "https://www.outlookbusiness.com/news/weapons-drones-and-more-whats-inside-trumps-876-bn-defence-request",
+      "date": "2026-06-25T04:54:48Z"
+    },
+    {
+      "title": "Crypto\u2019s next billion-dollar hacker may move at superhuman speed",
+      "description": "[ACTIVIST POST] Anthropic's latest Artificial Intelligence model, Claude Fable 5, offers advanced tools but raises cybersecurity questions in crypto.",
+      "url": "https://www.activistpost.com/cryptos-next-billion-dollar-hacker-may-move-at-superhuman-speed/",
+      "date": "2026-06-25T02:48:00Z"
+    },
+    {
       "title": "AI creates biggest cybersecurity opportunity in years: Zscaler CEO",
       "description": "[THE ECONOMIC TIMES] Cybersecurity faces a monumental opportunity and challenge with advanced AI models now identifying software flaws at lightning speed. Zscaler CEO Jay Chaudhry highlights that vulnerabilities hidden for decades are being uncovered, demanding rapid...",
       "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-creates-biggest-cybersecurity-opportunity-in-years-zscaler-ceo/articleshow/131976758.cms",
@@ -62,18 +116,6 @@
       "date": "2026-06-24T23:46:17Z"
     },
     {
-      "title": "DraftKings hacker 'Snoopy' sentenced to 18 months in prison",
-      "description": "[BLEEPINGCOMPUTER] A 21-year-old using the alias \"Snoopy\" was sentenced to 18 months in prison for his role in hacking DraftKings accounts in the November 2022 cyberattack. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/draftkings-hacker-snoopy-sentenced-to-18-months-in-prison/",
-      "date": "2026-06-24T21:55:43Z"
-    },
-    {
-      "title": "Mandiant reveals how Cisco SD-WAN zero-day attacks gained root access",
-      "description": "[BLEEPINGCOMPUTER] New details have been revealed on how hackers exploited a Cisco Catalyst SD-WAN vulnerability tracked as CVE-2026-20245 in zero-day attacks to create rogue root accounts on targeted devices. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/mandiant-reveals-how-cisco-sd-wan-zero-day-attacks-gained-root-access/",
-      "date": "2026-06-24T21:29:10Z"
-    },
-    {
       "title": "C-DOT, IIT Hyderabad Launch Telecom Research Centre For 6G, AI and Quantum Technologies",
       "description": "[DECCAN CHRONICLE] The collaboration is intended to accelerate research, innovation and skill development in advanced communication technologies, including 5G Advanced and 6G networks, quantum communications, cybersecurity and artificial intelligence-driven telecom...",
       "url": "https://www.deccanchronicle.com/southern-states/telangana/c-dot-iit-hyderabad-launch-telecom-research-centre-for-6g-ai-and-quantum-technologies-1966067",
@@ -84,12 +126,6 @@
       "description": "[THE NATION] ISLAMABAD - Pakistan and Iran have agreed to expand cooperation in security, counterterrorism, cybersecurity, and immigration, as Interior Minister Mohsin Naqvi held",
       "url": "https://www.nation.com.pk/25-Jun-2026/pakistan-iran-pledge-deeper-security-cooperation-regional-tensions-ease",
       "date": "2026-06-24T21:10:00Z"
-    },
-    {
-      "title": "Malicious Edge extension abuses Native Messaging as bridge to malware",
-      "description": "[BLEEPINGCOMPUTER] A malicious Microsoft Edge extension dubbed 'Edgecution' has been used in a ransomware attack to escape the browser sandbox and deploy a Python-based backdoor. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/malicious-edge-extension-abuses-native-messaging-as-bridge-to-malware/",
-      "date": "2026-06-24T20:58:22Z"
     },
     {
       "title": "IBM and OpenAI Just Partnered on Cybersecurity. Here Is How to Play IBM Stock.",
@@ -105,39 +141,9 @@
     },
     {
       "title": "CISA Warns Critical Lantronix EDS5000 Flaw Is Being Actively Exploited",
-      "description": "[FEEDS] The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday warned of active exploitation of a critical security flaw impacting Lantronix EDS5000 Series devices, urging Federal Civilian Executive Branch (FCEB) agencies to apply the...",
+      "description": "[THE HACKER NEWS] CISA says CVE-2025-67038 in Lantronix EDS5000 devices is under active exploitation and urges federal agencies to patch by June 26, 2026.",
       "url": "https://thehackernews.com/2026/06/cisa-warns-critical-lantronix-eds5000.html",
-      "date": "2026-06-24T17:19:18Z"
-    },
-    {
-      "title": "Five Eyes Warns: AI Cyber Attacks Could Cripple Governments \u201cWithin Months\u201d",
-      "description": "[NATURAL NEWS] Cyber agencies from the Five Eyes intelligence alliance \u2013 Australia, the United States, the United Kingdom, Canada and New Zealand \u2013 issued a rare joint statement on Monday, June 22, warning that frontier artificial intelligence (AI) models could...",
-      "url": "https://www.naturalnews.com/2026-06-24-five-eyes-ai-cyber-attacks-cripple-governments.html",
-      "date": "2026-06-24T17:09:53Z"
-    },
-    {
-      "title": "LastPass customer info leaked again after third-party data breach",
-      "description": "[PROTOS] LastPass users have been warned to look out for social engineering and phishing attacks that may attempt to swindle them out of their funds.",
-      "url": "https://protos.com/lastpass-customer-info-leaked-again-after-third-party-data-breach/",
-      "date": "2026-06-24T16:04:06Z"
-    },
-    {
-      "title": "RBI proposes guidelines for banks to manage AI risks",
-      "description": "[CNBC TV18] Reserve Bank of India proposes new rules for banks to manage AI and machine learning risks, requiring stronger oversight, validation and cybersecurity controls",
-      "url": "https://www.cnbctv18.com/world/rbi-proposes-guidelines-for-banks-to-manage-ai-risks-19931775.htm",
-      "date": "2026-06-24T14:39:13Z"
-    },
-    {
-      "title": "CISA warns of max severity Ubiquiti flaws exploited in attacks",
-      "description": "[BLEEPINGCOMPUTER] The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning of hackers actively exploiting flaws in Ubiquity UniFi OS and Lantronix serial-to-ethernet servers. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-max-severity-ubiquiti-flaws-exploited-in-attacks/",
-      "date": "2026-06-24T14:35:15Z"
-    },
-    {
-      "title": "China Has The Answer To Mythos? Local Firm Claims Matching Top Anthropic AI Model",
-      "description": "[NDTV PROFIT] Cybersecurity experts have cautioned that Mythos, a software vulnerability detection technology that was previewed in April, could intensify intrusions.",
-      "url": "https://www.ndtvprofit.com/technology/china-has-the-answer-to-mythos-local-firm-claims-matching-top-anthropic-ai-model-11681933",
-      "date": "2026-06-24T14:18:42Z"
+      "date": "2026-06-24T17:19:00Z"
     },
     {
       "title": "Embedding Forbidden Text in Spyware to Discourage AI Analysis",
@@ -192,12 +198,6 @@
       "description": "[SCHNEIER] Dolphins, sharks, turtles, and human workers are all victims of unregulated squid fishing fleets. Another news article. As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered. Blog...",
       "url": "https://www.schneier.com/blog/archives/2026/06/friday-squid-blogging-victims-of-unregulated-squid-fishing.html",
       "date": "2026-06-19T21:03:48Z"
-    },
-    {
-      "title": "Anthropic\u2019s Fable and the State of AI",
-      "description": "[SCHNEIER] On June 9th, Anthropic released its Fable generative AI model. Three days later, the US government classified it as a dangerous munition, and used its export-control authority to prohibit any foreign nationals from accessing it. Unable to...",
-      "url": "https://www.schneier.com/blog/archives/2026/06/anthropics-fable-and-the-state-of-ai.html",
-      "date": "2026-06-19T11:03:30Z"
     }
   ]
 }
