@@ -1,11 +1,35 @@
 {
-  "updated": "2026-06-26 14:03:32 UTC",
+  "updated": "2026-06-26 17:29:25 UTC",
   "news": [
+    {
+      "title": "Meta Is Testing Facial Recognition for Police and Military",
+      "description": "[SCHNEIER] We know that ICE wants to deploy eyeglasses with facial recognition that can identify people in real time. Turns out Meta is prototyping the feature with a Pentagon supplier. (Alternate news story.)",
+      "url": "https://www.schneier.com/blog/archives/2026/06/meta-is-testing-facial-recognition-for-police-and-military.html",
+      "date": "2026-06-26T16:40:56Z"
+    },
+    {
+      "title": "Chinese-Speaking APT Deploys New TinyRCT Backdoor in Southeast Asia Campaign",
+      "description": "[FEEDS] A Chinese-speaking advanced persistent threat (APT) actor has been linked to a new custom backdoor called TinyRCT as part of cyber attacks aimed at government entities and critical infrastructure in Southeast Asia. The activity, particularly aimed...",
+      "url": "https://thehackernews.com/2026/06/chinese-speaking-apt-deploys-new.html",
+      "date": "2026-06-26T16:21:25Z"
+    },
+    {
+      "title": "Your First GRC Agent: A Red Teamer's Walkthrough",
+      "description": "[BLEEPINGCOMPUTER] AI won't replace GRC analysts, but it can eliminate much of the repetitive work they do. Anecdotes walks through building an agent that continuously monitors controls, identifies evidence gaps, and opens remediation tasks. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/your-first-grc-agent-a-red-teamers-walkthrough/",
+      "date": "2026-06-26T14:01:11Z"
+    },
     {
       "title": "New Linux pedit COW Exploit Enables Root Access by Poisoning Cached Binaries",
       "description": "[FEEDS] A flaw in the Linux kernel's traffic-control subsystem can let a local unprivileged user gain root on affected systems. CVE-2026-46331, nicknamed \"pedit COW,\" is an out-of-bounds write in the packet-editing action (act_pedit) that corrupts shared...",
       "url": "https://thehackernews.com/2026/06/new-linux-pedit-cow-exploit-enables.html",
-      "date": "2026-06-26T13:00:41Z"
+      "date": "2026-06-26T13:57:55Z"
+    },
+    {
+      "title": "Amazon Q Developer Flaw Could Let Malicious Repos Run Code via MCP Configs",
+      "description": "[FEEDS] A high-severity flaw in Amazon Q Developer let a malicious repository run commands and steal a developer's cloud credentials. The path was short: a developer opens the repo, trusts the workspace, and Amazon Q does the rest. Amazon has patched it....",
+      "url": "https://thehackernews.com/2026/06/amazon-q-developer-flaw-could-let.html",
+      "date": "2026-06-26T13:53:00Z"
     },
     {
       "title": "CISA Adds Exploited PTC Windchill RCE Flaw to KEV as Web Shell Attacks Continue",
@@ -26,22 +50,28 @@
       "date": "2026-06-26T11:30:00Z"
     },
     {
-      "title": "Miasma Malware Targets npm Packages and GitHub Actions in Supply Chain Attack",
-      "description": "[FEEDS] Cybersecurity researchers have flagged yet another evolution of the supply chain attack linked to the Mini Shai-Hulud, Miasma, and Hades malware family that has compromised a new set of npm packages, even as it has propagated to the Go ecosystem....",
-      "url": "https://thehackernews.com/2026/06/miasma-malware-targets-npm-packages-and.html",
-      "date": "2026-06-26T11:05:45Z"
-    },
-    {
       "title": "One Million Passports Leaked Online",
       "description": "[SCHNEIER] A database of almost a million passports from around the world was leaked online. Note what happened. A high-value credential&#8212;a passport&#8212;was used in an ancillary low-value authentication system: ID verification for cannabis dispensaries....",
       "url": "https://www.schneier.com/blog/archives/2026/06/one-million-passports-leaked-online.html",
       "date": "2026-06-26T11:03:21Z"
     },
     {
-      "title": "Microsoft Warns of Photo ZIP Phishing Campaign Targeting Hotels with Node.js Implant",
-      "description": "[FEEDS] An active phishing campaign has been targeting hotel and other hospitality organizations across Europe and Asia since April 2026, using photo-themed ZIP files to drop a Node.js implant and dig into front-desk machines, Microsoft says. The company...",
-      "url": "https://thehackernews.com/2026/06/microsoft-warns-of-photo-zip-phishing.html",
-      "date": "2026-06-26T09:27:12Z"
+      "title": "Chainguard eyes India growth, US cybersecurity startup valued at 3.5 billion expands hiring, partnerships and Athena open source security push",
+      "description": "[CNBC TV18] Chainguard said its business is approximately 80% US-driven, with around 10% from Europe and the remaining 10% from the rest of the world \u2014 a split the company is actively working to change through its Latin America and Asia Pacific expansion. The...",
+      "url": "https://www.cnbctv18.com/business/us-cybersecurity-company-chainguard-expands-india-presence-biggest-global-markets-bets-on-partner-led-strategy-to-tap-gcc-boom-19932843.htm",
+      "date": "2026-06-26T04:37:06Z"
+    },
+    {
+      "title": "A $2.5 Billion Whodunit: The Hack That Dented the U.K. Economy",
+      "description": "[THE NEW YORK TIMES] A loose collective of cybercriminals initially took credit for crippling Jaguar Land Rover last year. Investigators now see Russian hands behind the ransomware attack.",
+      "url": "https://www.nytimes.com/2026/06/26/world/europe/jaguar-russia-hack.html",
+      "date": "2026-06-26T04:01:08Z"
+    },
+    {
+      "title": "White House wants OpenAI to restrict GPT-5.6's initial release: Report",
+      "description": "[FIRSTPOST] OpenAI's upcoming GPT-5.6 may not be released like its predecessors. A report claims the White House wants the company to limit early access to a handful of approved partners, underscoring growing concerns in Washington over powerful AI models with...",
+      "url": "https://www.firstpost.com/tech/white-house-wants-openai-to-restrict-gpt-5-6s-initial-release-report-14026309.html",
+      "date": "2026-06-26T02:22:43Z"
     },
     {
       "title": "Trenitalia hacker attack on some customer data",
@@ -110,40 +140,16 @@
       "date": "2026-06-25T18:00:48Z"
     },
     {
-      "title": "From sniper rifles to AI forensics: International Police Expo showcases future of security",
-      "description": "[TIMES OF INDIA] International Police Expo 2026 in New Delhi showcases AI forensics, cybersecurity, drones, sniper rifles, rescue radars and bike ambulances for faster response.",
-      "url": "https://timesofindia.indiatimes.com/city/delhi/from-sniper-rifles-to-ai-forensics-international-police-expo-showcases-future-of-security/articleshow/132000686.cms",
-      "date": "2026-06-25T17:58:00Z"
-    },
-    {
-      "title": "Chinese cybersecurity company 360 unveils \u201cChina's version of Mythos\u201d, and Yitianzhen, to automate cyber defense",
-      "description": "[TECHRADAR] China \"cannot afford to wait\", the company says",
-      "url": "https://www.techradar.com/pro/security/chinese-cybersecurity-company-360-unveils-chinas-version-of-mythos-and-yitianzhen-to-automate-cyber-defense",
-      "date": "2026-06-25T17:15:00Z"
-    },
-    {
       "title": "AI and Liability",
       "description": "[SCHNEIER] Earlier this month, a German court ruled that Google is liable for its AI search summaries. Rejecting defenses like &#8220;users can check for themselves,&#8221; and that they generally know &#8220;that information generated with AI should not be...",
       "url": "https://www.schneier.com/blog/archives/2026/06/ai-and-liability.html",
       "date": "2026-06-25T17:03:15Z"
     },
     {
-      "title": "Global Aerospace Provides Insights on Understanding the Modern Cybersecurity Threat Landscape, Common Vulnerabilities, and Aviation Cybersecurity Best Practices",
-      "description": "[THE MANILA TIMES] Cybersecurity in Aviation: Protecting Against Digital Threats According to Global Aerospace",
-      "url": "https://www.manilatimes.net/2026/06/26/tmt-newswire/globenewswire/global-aerospace-provides-insights-on-understanding-the-modern-cybersecurity-threat-landscape-common-vulnerabilities-and-aviation-cybersecurity-best-practices/2373242",
-      "date": "2026-06-25T16:37:55Z"
-    },
-    {
       "title": "New macOS malware embeds fake errors to confuse AI analysis tools",
       "description": "[BLEEPINGCOMPUTER] A newly discovered macOS malware dubbed \"Gaslight\" is designed to confuse AI-assisted malware analysis tools by hiding prompt injection strings and fake debugging data within the executable. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/new-macos-malware-embeds-fake-errors-to-confuse-ai-analysis-tools/",
       "date": "2026-06-25T16:23:19Z"
-    },
-    {
-      "title": "PirloTV sports piracy network disrupted as 44 domains seized",
-      "description": "[BLEEPINGCOMPUTER] A major sports piracy ring linked to the illegal PirloTV streaming platform has been disrupted in an action that targeted 44 domains. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/pirlotv-sports-piracy-network-disrupted-as-44-domains-seized/",
-      "date": "2026-06-25T15:36:56Z"
     },
     {
       "title": "Interesting Paper Exploring Prompt Injection",
@@ -198,12 +204,6 @@
       "description": "[ISC] Webshells have been popular for a long time. We already covered this topic across multiple diaries&#x5b;1&#x5d;&#x5b;2&#x5d;. I spent some time to track them&#x5b;3&#x5d; and slighly paid less attention to them but today I found another one. It...",
       "url": "https://isc.sans.edu/diary/rss/33096",
       "date": "2026-06-22T14:10:27Z"
-    },
-    {
-      "title": "Professional Athletes and Wearables",
-      "description": "[SCHNEIER] I haven&#8217;t thought about the privacy issues surrounding professional athletes and wearables. Wearables present serious privacy issues for &#8220;Average Joe&#8221; consumers, who are entrusting tech companies to safely store and protect their...",
-      "url": "https://www.schneier.com/blog/archives/2026/06/professional-athletes-and-wearables.html",
-      "date": "2026-06-22T11:02:55Z"
     }
   ]
 }
