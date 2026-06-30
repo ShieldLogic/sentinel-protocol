@@ -1,209 +1,137 @@
 {
-  "updated": "2026-06-30 10:48:14 UTC",
-  "news": [
-    {
-      "title": "Kali Linux 2026.2 released with 9 new tools, NetHunter updates",
-      "description": "[BLEEPINGCOMPUTER] Kali Linux 2026.2, the second release of the year, is now available for download, featuring 9 new tools and numerous Kali NetHunter improvements. [...]",
-      "url": "https://www.bleepingcomputer.com/news/linux/kali-linux-20262-released-with-9-new-tools-nethunter-updates/",
-      "date": "2026-06-30T09:46:39Z"
-    },
-    {
-      "title": "Blackfield ransomware asks Nidec Corporation for $2 million ransom",
-      "description": "[BLEEPINGCOMPUTER] The Blackfield ransomware gang is asking for a $2 million ransom from Nidec Corporation, a large Japanese manufacturer of electronic components for automotive and computing applications. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/blackfield-ransomware-asks-nidec-corporation-for-2-million-ransom/",
-      "date": "2026-06-30T09:41:05Z"
-    },
-    {
-      "title": "June 2026 Apple Updates, (Tue, Jun 30th)",
-      "description": "[ISC] Apple released updates for iOS/iPadOS, macOS, and Safari on Monday. There have been no updates for other Apple operating systems (visionOS, watchOS, tvOS). Usually, Apple updates all products at the same time.&#xd;",
-      "url": "https://isc.sans.edu/diary/rss/33114",
-      "date": "2026-06-30T09:31:27Z"
-    },
-    {
-      "title": "AirDrop and Quick Share Flaws Let Nearby Attackers Trigger Crashes and Bypass Checks",
-      "description": "[FEEDS] Two researchers have found six security flaws in AirDrop and Quick Share, the wireless features that beam files between nearby devices with no cables or shared network. An attacker within wireless range, with just a laptop and no prior connection,...",
-      "url": "https://thehackernews.com/2026/06/airdrop-and-quick-share-flaws-let.html",
-      "date": "2026-06-30T09:27:58Z"
-    },
-    {
-      "title": "CISA: Windows BlueHammer flaw now exploited by ransomware gangs",
-      "description": "[BLEEPINGCOMPUTER] CISA confirmed on Monday that ransomware gangs are now exploiting a Microsoft Defender privilege escalation vulnerability, dubbed BlueHammer, that has previously been abused in zero-day attacks. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-windows-bluehammer-flaw-now-exploited-by-ransomware-gangs/",
-      "date": "2026-06-30T08:53:13Z"
-    },
-    {
-      "title": "New BioShocking Attack Tricks AI Browsers Into Leaking User Credentials",
-      "description": "[FEEDS] Convince an AI browser that it is playing a game, and it can hand over your login details. That is the finding behind&nbsp;BioShocking, a technique from security firm LayerX that tricked six AI browsers and assistants into copying a user's...",
-      "url": "https://thehackernews.com/2026/06/new-bioshocking-attack-tricks-ai.html",
-      "date": "2026-06-30T08:37:19Z"
-    },
-    {
-      "title": "Progress Kemp LoadMaster Flaw Could Let Attackers Run Root Commands Pre-Auth",
-      "description": "[FEEDS] A critical vulnerability in Progress Kemp LoadMaster can let an unauthenticated attacker execute arbitrary commands as root on the appliance by sending a crafted request to its API. The flaw, tracked as&nbsp;CVE-2026-8037, carries a CVSS score...",
-      "url": "https://thehackernews.com/2026/06/progress-kemp-loadmaster-flaw-could-let.html",
-      "date": "2026-06-30T07:38:07Z"
-    },
-    {
-      "title": "Apple Patches 30+ iOS, macOS, Safari Flaws, Including AI-Discovered WebKit Bugs",
-      "description": "[FEEDS] Apple on Monday released security updates for iOS, macOS, and the Safari web browser to address over three dozen flaws, including four vulnerabilities in WebKit that were discovered using artificial intelligence (AI) tools like Anthropic Claude and...",
-      "url": "https://thehackernews.com/2026/06/apple-patches-30-ios-macos-safari-flaws.html",
-      "date": "2026-06-30T07:15:07Z"
-    },
-    {
-      "title": "Oracle E-Business Suite Flaw CVE-2026-46817 Actively Exploited in the Wild",
-      "description": "[FEEDS] A critical security flaw impacting Oracle E-Business Suite has come under active exploitation in the wild, according to Defused Cyber. The vulnerability, tracked as CVE-2026-46817 (CVSS score: 9.8), refers to an improper privilege management and...",
-      "url": "https://thehackernews.com/2026/06/oracle-e-business-suite-flaw-cve-2026.html",
-      "date": "2026-06-30T05:04:06Z"
-    },
-    {
-      "title": "ISC Stormcast For Tuesday, June 30th, 2026 https://isc.sans.edu/podcastdetail/9988, (Tue, Jun 30th)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33112",
-      "date": "2026-06-30T02:25:12Z"
-    },
-    {
-      "title": "Nissan discloses employee data breach linked to Oracle zero-day attacks",
-      "description": "[BLEEPINGCOMPUTER] Nissan is warning that it suffered a data breach affecting current and former employees after threat actors exploited an Oracle PeopleSoft vulnerability in data theft attacks previously linked to the ShinyHunters extortion group. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/nissan-discloses-employee-data-breach-linked-to-oracle-zero-day-attacks/",
-      "date": "2026-06-29T20:40:44Z"
-    },
-    {
-      "title": "NAIC says public data stolen in ShinyHunters' PeopleSoft breach",
-      "description": "[BLEEPINGCOMPUTER] The National Association of Insurance Commissioners (NAIC) says the ShinyHunters extortion group stole only publicly available data, outdated logs, and configuration files after breaching its systems by exploiting a zero-day vulnerability in an...",
-      "url": "https://www.bleepingcomputer.com/news/security/naic-says-public-data-stolen-in-shinyhunters-peoplesoft-breach/",
-      "date": "2026-06-29T20:30:28Z"
-    },
-    {
-      "title": "OpenAI becomes latest AI firm to delay model rollout",
-      "description": "[WJLA] OpenAI is limiting GPT-5.6 access to Trump-approved partners during White House cybersecurity reviews. Like Anthropic\u2019s delays, it sparks debate over whether oversight slows the US in the AI race with China.",
-      "url": "https://wjla.com/news/nation-world/openai-becomes-latest-ai-firm-to-delay-model-rollout-gpt-56-anthropic-cybersecurity-china",
-      "date": "2026-06-29T19:47:37Z"
-    },
-    {
-      "title": "OpenAI becomes latest AI firm to delay model rollout",
-      "description": "[BALTIMORE NEWS] OpenAI is limiting GPT-5.6 access to Trump-approved partners during White House cybersecurity reviews. Like Anthropic\u2019s delays, it sparks debate over whether oversight slows the US in the AI race with China.",
-      "url": "https://foxbaltimore.com/news/nation-world/openai-becomes-latest-ai-firm-to-delay-model-rollout-gpt-56-anthropic-cybersecurity-china",
-      "date": "2026-06-29T19:47:37Z"
-    },
-    {
-      "title": "iPhone 18 Pro supplier list and photos reportedly leaked following Tata Electronics ransomware breach",
-      "description": "[FIRSTPOST] Dark web leak ends up revealing iPhone 18 Pro supplier details stolen from Tata Electronics.",
-      "url": "https://www.firstpost.com/tech/apple-iphone-18-pro-tata-electronics-ransomware-leak14027583-14027583.html",
-      "date": "2026-06-29T19:03:23Z"
-    },
-    {
-      "title": "Apple says it is releasing updates early in response to AI cybersecurity concerns",
-      "description": "[REUTERS] Apple said it is pushing forward a series of software updates that would previously have been \u200bbundled with a new version of its iOS operating \u200csystem, making them available earlier than in previous cycles in response to AI-driven security concerns.",
-      "url": "https://www.reuters.com/business/apple-says-it-is-releasing-updates-early-response-ai-cybersecurity-concerns-2026-06-29/",
-      "date": "2026-06-29T18:52:50Z"
-    },
-    {
-      "title": "Apple Says It Is Releasing Updates Early in Response to AI Cybersecurity Concerns",
-      "description": "[U.S. NEWS & WORLD REPORT] US News is a recognized leader in college, grad school, hospital, mutual fund, and car rankings. Track elected officials, research health conditions, and find news you can use in politics, business, health, and education.",
-      "url": "https://www.usnews.com/news/top-news/articles/2026-06-29/apple-says-it-is-releasing-updates-early-in-response-to-ai-cybersecurity-concerns",
-      "date": "2026-06-29T18:52:00Z"
-    },
-    {
-      "title": "Apple says it is releasing updates early in response to AI cybersecurity concerns",
-      "description": "[MARKETSCREENER] Apple said it is pushing forward a series of software updates that would previously have been bundled with a new version of its iOS operating system, making them available earlier than in previous...",
-      "url": "https://www.marketscreener.com/news/apple-says-it-is-releasing-updates-early-in-response-to-ai-cybersecurity-concerns-ce7f5fdfda8cf22c",
-      "date": "2026-06-29T18:51:21Z"
-    },
-    {
-      "title": "Photos of iPhone 18 Pro drop tests and other sensitive info hits the dark web",
-      "description": "[9TO5MAC] Last week, it transpired that Apple supplier Tata Electronics had been the subject of a data breach, with hundreds of...",
-      "url": "https://9to5mac.com/2026/06/29/iphone-18-pro-drop-tests-dark-web/",
-      "date": "2026-06-29T18:46:39Z"
-    },
-    {
-      "title": "Malicious Perplexity Chrome Extension Intercepted Searches and Address Bar Input",
-      "description": "[FEEDS] Microsoft has found a malicious Chrome extension that posed as the AI search engine Perplexity and quietly logged what people searched for. It routed every query and every character typed into the address bar through an attacker-controlled server...",
-      "url": "https://thehackernews.com/2026/06/malicious-perplexity-chrome-extension.html",
-      "date": "2026-06-29T18:40:09Z"
-    },
-    {
-      "title": "India tops APAC ransomware target list",
-      "description": "[THE FINANCIAL EXPRESS] India leads Asia-Pacific in ransomware attacks, facing nearly 700 daily assaults amid vulnerabilities in legacy systems and rising use of ransomware-as-a-service, posing major cyber resilience challenges for enterprises.",
-      "url": "https://www.financialexpress.com/business/news/india-tops-apac-ransomware-target-list/4279485/",
-      "date": "2026-06-29T18:38:40Z"
-    },
-    {
-      "title": "Apple iPhone 18 Pro supplier list, parts and photos exposed in Tata data leak",
-      "description": "[REUTERS] Sensitive lists of components and suppliers, \u200band photos of Apple's upcoming iPhone 18 Pro models are part of files posted on the dark web by the ransomware group that stole \u200cdata from the U.S. firm's Indian supplier Tata Electronics, according to...",
-      "url": "https://www.reuters.com/business/media-telecom/apple-iphone-18-pro-supplier-list-parts-photos-exposed-tata-data-leak-2026-06-29/",
-      "date": "2026-06-29T18:29:01Z"
-    },
-    {
-      "title": "Apple iPhone 18 Pro supplier list, parts and photos exposed in Tata data leak",
-      "description": "[MARKETSCREENER] Sensitive lists of components and suppliers, and photos of Apple's upcoming iPhone 18 Pro models are part of files posted on the dark web by the ransomware group that stole data from the U.S. firm's...",
-      "url": "https://www.marketscreener.com/news/apple-iphone-18-pro-supplier-list-parts-and-photos-exposed-in-tata-data-leak-ce7f5fdfda8af227",
-      "date": "2026-06-29T18:27:18Z"
-    },
-    {
-      "title": "WhatsApp rolls out usernames to help users hide their phone number",
-      "description": "[BLEEPINGCOMPUTER] WhatsApp is finally allowing users to reserve usernames, a privacy feature that lets them hide their phone numbers from people not in their contact list. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/whatsapp-rolls-out-usernames-to-help-users-hide-their-phone-number/",
-      "date": "2026-06-29T17:48:28Z"
-    },
-    {
-      "title": "Factoring RSA Keys with Many Zeros",
-      "description": "[SCHNEIER] Interesting research on a new class of weak RSA keys: keys with lots of zeros. It turns out that these keys are out in the wild. The badkeys project is an open-source service that checks public keys for known vulnerabilities. While developing this...",
-      "url": "https://www.schneier.com/blog/archives/2026/06/factoring-rsa-keys-with-many-zeros.html",
-      "date": "2026-06-29T16:05:18Z"
-    },
-    {
-      "title": "Adding some Automation to the favicon.ico method of Host Recon, (Mon, Jun 29th)",
-      "description": "[ISC] I&&#x23&#x3b;x26&#x3b;&#x23&#x3b;39&#x3b;m in the throes of target host recon for another pentest, and thought I&&#x23&#x3b;x26&#x3b;&#x23&#x3b;39&#x3b;d share some workflow / automation stuff.&#xd; In the past,...",
-      "url": "https://isc.sans.edu/diary/rss/33110",
-      "date": "2026-06-29T12:00:54Z"
-    },
-    {
-      "title": "Robot Police Officers",
-      "description": "[SCHNEIER] We&#8217;ve taken one small step towards robot police officers: a drone capable of disarming a suspect: In a June 22 video posted on the Sacramento County Sheriff\u2019s Office\u2019s Instagram page, an officer wearing goggles can be seen operating a drone to...",
-      "url": "https://www.schneier.com/blog/archives/2026/06/robot-police-officers.html",
-      "date": "2026-06-29T10:55:33Z"
-    },
-    {
-      "title": "ISC Stormcast For Monday, June 29th, 2026 https://isc.sans.edu/podcastdetail/9986, (Mon, Jun 29th)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33108",
-      "date": "2026-06-29T02:00:02Z"
-    },
-    {
-      "title": "YARA-X 1.18.0 and 1.19.0 Release, (Sun, Jun 28th)",
-      "description": "[ISC] YARA-X&&#x23&#x3b;x26&#x3b;&#x23&#x3b;39&#x3b;s 1.18.0 release brings 3 improvements and 2 bugfixes.&#xd;",
-      "url": "https://isc.sans.edu/diary/rss/33106",
-      "date": "2026-06-28T07:56:44Z"
-    },
-    {
-      "title": "The Chinese Control the Majority of Argentina\u2019s Squid Fleet",
-      "description": "[SCHNEIER] Chinese companies control nearly two-thirds of Argentina\u2019s own squid fleet.",
-      "url": "https://www.schneier.com/blog/archives/2026/06/the-chinese-control-the-majority-of-argentinas-squid-fleet.html",
-      "date": "2026-06-26T20:57:04Z"
-    },
-    {
-      "title": "Meta Is Testing Facial Recognition for Police and Military",
-      "description": "[SCHNEIER] We know that ICE wants to deploy eyeglasses with facial recognition that can identify people in real time. Turns out Meta is prototyping the feature with a Pentagon supplier. (Alternate news story.)",
-      "url": "https://www.schneier.com/blog/archives/2026/06/meta-is-testing-facial-recognition-for-police-and-military.html",
-      "date": "2026-06-26T16:40:56Z"
-    },
-    {
-      "title": "One Million Passports Leaked Online",
-      "description": "[SCHNEIER] A database of almost a million passports from around the world was leaked online. Note what happened. A high-value credential&#8212;a passport&#8212;was used in an ancillary low-value authentication system: ID verification for cannabis dispensaries....",
-      "url": "https://www.schneier.com/blog/archives/2026/06/one-million-passports-leaked-online.html",
-      "date": "2026-06-26T11:03:21Z"
-    },
-    {
-      "title": "AI and Liability",
-      "description": "[SCHNEIER] Earlier this month, a German court ruled that Google is liable for its AI search summaries. Rejecting defenses like &#8220;users can check for themselves,&#8221; and that they generally know &#8220;that information generated with AI should not be...",
-      "url": "https://www.schneier.com/blog/archives/2026/06/ai-and-liability.html",
-      "date": "2026-06-25T17:03:15Z"
-    },
-    {
-      "title": "What do Ports Hear When Nobody's Listening&#x3f; An Assessment of Automated Cybercrime &#x5b;Guest Diary&#x5d;, (Wed, Jun 24th)",
-      "description": "[ISC] &#x5b;This is a Guest Diary by Nicole Phillips, an ISC intern as part of the SANS.edu BACS program&#x5d;&#xd;",
-      "url": "https://isc.sans.edu/diary/rss/33104",
-      "date": "2026-06-25T10:01:19Z"
-    }
-  ]
+    "title": "Sentinel Protocol",
+    "tagline": "Perimeter Intelligence Sync",
+    "updated": "2026-06-30 13:07 UTC",
+    "news": [
+        {
+            "source": {
+                "id": null,
+                "name": "PRNewswire"
+            },
+            "author": null,
+            "title": "eMazzanti Technologies Partners with Plurall AI to Deliver Full-Spectrum Cybersecurity and Synthetic Media Defense",
+            "description": "Partnership fuses Plurall AI's advanced deepfake detection platform with eMazzanti's robust managed IT infrastructure and proactive security ecosystem. HOBOKEN, N.J., June 29, 2026 /PRNewswire/ -- eMazzanti Technologies, a Hoboken-based Microsoft managed serv\u2026",
+            "url": "https://www.prnewswire.com/news-releases/emazzanti-technologies-partners-with-plurall-ai-to-deliver-full-spectrum-cybersecurity-and-synthetic-media-defense-302812725.html",
+            "urlToImage": "https://mmx.prnewswire.com/media/MS1874226/Plurall_AI_Founder_Sandra_Cai.jpg?id=OA2742112&p=facebook",
+            "publishedAt": "2026-06-29T13:05:00Z",
+            "content": "Partnership fuses Plurall AI's advanced deepfake detection platform with eMazzanti's robust managed IT infrastructure and proactive security ecosystem.\r\nHOBOKEN, N.J., June 29, 2026 /PRNewswire/ -- e\u2026 [+3866 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "SiliconANGLE News"
+            },
+            "author": "Duncan Riley",
+            "title": "Groundcover lets AI agents work in Slack, Linear and GitHub with new connectors",
+            "description": "Application observability startup groundcover Ltd. today announced a major expansion of Agent Mode that lets artificial intelligence agents act on a team\u2019s observability data across the development tools they already use. The update allows engineers to direct\u2026",
+            "url": "https://siliconangle.com/2026/06/29/groundcover-lets-ai-agents-work-slack-linear-github-new-connectors/",
+            "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/06/groundcover2.png",
+            "publishedAt": "2026-06-29T13:00:54Z",
+            "content": "Application observability startup groundcover Ltd. today announced a major expansion of Agent Mode that lets artificial intelligence agents act on a team\u2019s observability data across the development t\u2026 [+4051 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "SiliconANGLE News"
+            },
+            "author": "Duncan Riley",
+            "title": "Arcova promises to strip 18 months and up to $200M from AI data center builds",
+            "description": "Cybersecurity and artificial intelligence consulting firm Arcova today launched an end-to-end data center development offering that brings engineering, cybersecurity, regulatory compliance and grid-planning coordination under one team. The offering is designe\u2026",
+            "url": "https://siliconangle.com/2026/06/29/arcova-promises-strip-18-months-200m-ai-data-center-builds/",
+            "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/06/arcova.png",
+            "publishedAt": "2026-06-29T13:00:21Z",
+            "content": "Cybersecurity and artificial intelligence consulting firm Arcova today launched an end-to-end data center development offering that brings engineering, cybersecurity, regulatory compliance and grid-p\u2026 [+4531 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "GlobeNewswire"
+            },
+            "author": "AvePoint, Inc.",
+            "title": "AvePoint Research Reveals AI Visibility Gaps Have Nearly Tripled as AI Agents Scale and Almost Half of Enterprise Employees Now Rely on Agents Daily or Weekly",
+            "description": "Third annual State of AI Report finds organizations lack the trust layer required to scale AI safely, as governance gaps, deployment delays, and AI-generated data are compounding the challenge Third annual State of AI Report finds organizations lack the trust\u2026",
+            "url": "https://www.globenewswire.com/news-release/2026/06/29/3318982/0/en/AvePoint-Research-Reveals-AI-Visibility-Gaps-Have-Nearly-Tripled-as-AI-Agents-Scale-and-Almost-Half-of-Enterprise-Employees-Now-Rely-on-Agents-Daily-or-Weekly.html",
+            "urlToImage": "https://ml.globenewswire.com/Resource/Download/eac3b932-e8a0-46f0-b5b5-747a258b0661",
+            "publishedAt": "2026-06-29T13:00:00Z",
+            "content": "Key Findings:\r\n<ul><li>Up to 1 in 5 organizations don't know whether employees are using unsanctioned AI tools, a visibility gap that has nearly tripled since 2025 for generative AI (6.3% to 17.6%) a\u2026 [+12615 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PRNewswire"
+            },
+            "author": null,
+            "title": "SK shieldus Receives Frost & Sullivan's 2026 APAC Customer Value Leadership Recognition for Excellence in Cybersecurity Services",
+            "description": "The company is recognized for delivering customer-centric managed security services, professional security services, advanced MDR capabilities, and measurable cybersecurity outcomes across APAC. SAN ANTONIO, June 29, 2026 /PRNewswire/ -- Frost & Sullivan is p\u2026",
+            "url": "https://www.prnewswire.com/news-releases/sk-shieldus-receives-frost--sullivans-2026-apac-customer-value-leadership-recognition-for-excellence-in-cybersecurity-services-302811796.html",
+            "urlToImage": null,
+            "publishedAt": "2026-06-29T13:00:00Z",
+            "content": "The company is recognized for delivering customer-centric managed security services, professional security services, advanced MDR capabilities, and measurable cybersecurity outcomes across APAC.\r\nSAN\u2026 [+5431 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PRNewswire"
+            },
+            "author": null,
+            "title": "Abacus Ranked No. Three on 2026 MSP 501 List of Global Managed Service Providers",
+            "description": "Annual MSP 501 Identifies Best of the Best in the Managed Services Industry NEW YORK, June 29, 2026 /PRNewswire/ -- Abacus, a global managed IT and cybersecurity service provider built for highly regulated industries, announced it has been ranked No. 3 on the\u2026",
+            "url": "https://www.prnewswire.com/news-releases/abacus-ranked-no-three-on-2026-msp-501-list-of-global-managed-service-providers-302812015.html",
+            "urlToImage": "https://mma.prnewswire.com/media/2938326/Abacus_Logo.jpg?p=facebook",
+            "publishedAt": "2026-06-29T13:00:00Z",
+            "content": "Annual MSP 501 Identifies Best of the Best in the Managed Services Industry\r\nNEW YORK, June 29, 2026 /PRNewswire/ -- Abacus, a global managed IT and cybersecurity service provider built for highly re\u2026 [+4097 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Tenable.com"
+            },
+            "author": "Shannon O'Dowd",
+            "title": "Tenable Achieves FedRAMP High and Impact Level 5 Authorization",
+            "description": "Tenable\u00ae Holdings, Inc. (NASDAQ: TENB), the exposure management company, today announced that Tenable One Cloud Exposure has achieved FedRAMP\u00ae High and Impact Level (IL) 5 authorization, one of the U.S. government\u2019s most stringent security certifications. Par\u2026",
+            "url": "https://www.tenable.com/press-releases/tenable-achieves-fedramp-high-and-impact-level-5-authorization",
+            "urlToImage": "https://www.tenable.com/sites/default/files/styles/640x360/public/images/press-releases/Tenable%20One%20Cloud%20Exposure%20Stacked%20Pure%20Black%20PMS.png?itok=J7wht3Ut",
+            "publishedAt": "2026-06-29T13:00:00Z",
+            "content": "Tenable\u00ae Holdings, Inc. (NASDAQ: TENB), the exposure management company, today announced that Tenable One Cloud Exposure has achieved FedRAMP\u00ae High and Impact Level (IL) 5 authorization, one of the U\u2026 [+3250 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PRNewswire"
+            },
+            "author": null,
+            "title": "HaystackID Advances to Band 2 in the 2026 Chambers Crisis & Risk Management Guide for Cyber Investigations and Global Advisory Services",
+            "description": "Recognition two years running reaffirms HaystackID as a trusted advisor in cyber investigations; company also maintains Band 2 ranking in the 2026 Chambers Litigation Support Guide CHICAGO, June 29, 2026 /PRNewswire/ -- HaystackID, a trusted partner focused o\u2026",
+            "url": "https://www.prnewswire.com/news-releases/haystackid-advances-to-band-2-in-the-2026-chambers-crisis--risk-management-guide-for-cyber-investigations-and-global-advisory-services-302812393.html",
+            "urlToImage": "https://mma.prnewswire.com/media/1813072/HaystackID__Logo.jpg?p=facebook",
+            "publishedAt": "2026-06-29T13:00:00Z",
+            "content": "Recognition two years running reaffirms HaystackID as a trusted advisor in cyber investigations; company also maintains Band 2 ranking in the 2026 Chambers Litigation Support Guide\r\nCHICAGO, June 29,\u2026 [+5174 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Fortinet.com"
+            },
+            "author": "Fortinet",
+            "title": "Fortinet Supports INTERPOL Operation CyberProtect III Targeting Online Exploitation",
+            "description": "Fortinet highlights its Cybercrime Atlas leadership and support for INTERPOL Operation CyberProtect III, targeting online sexual exploitation networks.\u2026",
+            "url": "https://www.fortinet.com/blog/industry-trends/fortinet-supports-interpol-operation-cyberprotect-iii-targeting-online-exploitation",
+            "urlToImage": null,
+            "publishedAt": "2026-06-29T13:00:00Z",
+            "content": "Cybercrime continues to expand beyond traditional malware, fraud, and ransomware operations. Criminal groups increasingly use mainstream digital platforms, encrypted messaging services, social media,\u2026 [+6967 chars]"
+        },
+        {
+            "source": {
+                "id": "financial-post",
+                "name": "Financial Post"
+            },
+            "author": "GlobeNewswire",
+            "title": "Cycurion, Inc. Enters into Asset Purchase Agreement to Acquire Kustom Entertainment\u2019s Legacy Video Solutions Segment, Delivering Non-Dilutive Scale, Access to Approximately 1,000 New Clients and a Robust Portfolio of Approximately 58 Patents",
+            "description": "MCLEAN, Va., June 29, 2026 (GLOBE NEWSWIRE) \u2014 Cycurion, Inc. (NASDAQ: CYCU) (\u201cCycurion\u201d or the \u201cCompany\u201d), a leading provider of AI-driven cybersecurity, IT security solutions, and managed services, today announced that it has entered into an Asset Purchase A\u2026",
+            "url": "https://financialpost.com/globe-newswire/cycurion-inc-enters-into-asset-purchase-agreement-to-acquire-kustom-entertainments-legacy-video-solutions-segment-delivering-non-dilutive-scale-access-to-approximately-1000-new-clients-and-a-ro",
+            "urlToImage": null,
+            "publishedAt": "2026-06-29T12:34:43Z",
+            "content": "About Kustom Entertainment, Inc.\r\nKustom produces live music events and festivals across North America. The company focuses on creating memorable fan experiences through live entertainment, festival \u2026 [+3299 chars]"
+        }
+    ]
 }
