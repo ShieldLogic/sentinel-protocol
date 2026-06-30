@@ -1,6 +1,18 @@
 {
-  "updated": "2026-06-30 02:29:42 UTC",
+  "updated": "2026-06-30 07:41:44 UTC",
   "news": [
+    {
+      "title": "Apple Patches 30+ iOS, macOS, Safari Flaws, Including AI-Discovered WebKit Bugs",
+      "description": "[FEEDS] Apple on Monday released security updates for iOS, macOS, and the Safari web browser to address over three dozen flaws, including four vulnerabilities in WebKit that were discovered using artificial intelligence (AI) tools like Anthropic Claude and...",
+      "url": "https://thehackernews.com/2026/06/apple-patches-30-ios-macos-safari-flaws.html",
+      "date": "2026-06-30T07:15:07Z"
+    },
+    {
+      "title": "Oracle E-Business Suite Flaw CVE-2026-46817 Actively Exploited in the Wild",
+      "description": "[FEEDS] A critical security flaw impacting Oracle E-Business Suite has come under active exploitation in the wild, according to Defused Cyber. The vulnerability, tracked as CVE-2026-46817 (CVSS score: 9.8), refers to an improper privilege management and...",
+      "url": "https://thehackernews.com/2026/06/oracle-e-business-suite-flaw-cve-2026.html",
+      "date": "2026-06-30T05:04:06Z"
+    },
     {
       "title": "ISC Stormcast For Tuesday, June 30th, 2026 https://isc.sans.edu/podcastdetail/9988, (Tue, Jun 30th)",
       "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
@@ -20,16 +32,76 @@
       "date": "2026-06-29T20:30:28Z"
     },
     {
+      "title": "iPhone 18 Pro supplier list and photos reportedly leaked following Tata Electronics ransomware breach",
+      "description": "[FIRSTPOST] Dark web leak ends up revealing iPhone 18 Pro supplier details stolen from Tata Electronics.",
+      "url": "https://www.firstpost.com/tech/apple-iphone-18-pro-tata-electronics-ransomware-leak14027583-14027583.html",
+      "date": "2026-06-29T19:03:23Z"
+    },
+    {
+      "title": "Apple says it is releasing updates early in response to AI cybersecurity concerns",
+      "description": "[REUTERS] Apple said it is pushing forward a series of software updates that would previously have been \u200bbundled with a new version of its iOS operating \u200csystem, making them available earlier than in previous cycles in response to AI-driven security concerns.",
+      "url": "https://www.reuters.com/business/apple-says-it-is-releasing-updates-early-response-ai-cybersecurity-concerns-2026-06-29/",
+      "date": "2026-06-29T18:52:50Z"
+    },
+    {
+      "title": "Apple Says It Is Releasing Updates Early in Response to AI Cybersecurity Concerns",
+      "description": "[U.S. NEWS & WORLD REPORT] US News is a recognized leader in college, grad school, hospital, mutual fund, and car rankings. Track elected officials, research health conditions, and find news you can use in politics, business, health, and education.",
+      "url": "https://www.usnews.com/news/top-news/articles/2026-06-29/apple-says-it-is-releasing-updates-early-in-response-to-ai-cybersecurity-concerns",
+      "date": "2026-06-29T18:52:00Z"
+    },
+    {
+      "title": "Apple says it is releasing updates early in response to AI cybersecurity concerns",
+      "description": "[MARKETSCREENER] Apple said it is pushing forward a series of software updates that would previously have been bundled with a new version of its iOS operating system, making them available earlier than in previous...",
+      "url": "https://www.marketscreener.com/news/apple-says-it-is-releasing-updates-early-in-response-to-ai-cybersecurity-concerns-ce7f5fdfda8cf22c",
+      "date": "2026-06-29T18:51:21Z"
+    },
+    {
+      "title": "Photos of iPhone 18 Pro drop tests and other sensitive info hits the dark web",
+      "description": "[9TO5MAC] Last week, it transpired that Apple supplier Tata Electronics had been the subject of a data breach, with hundreds of...",
+      "url": "https://9to5mac.com/2026/06/29/iphone-18-pro-drop-tests-dark-web/",
+      "date": "2026-06-29T18:46:39Z"
+    },
+    {
       "title": "Malicious Perplexity Chrome Extension Intercepted Searches and Address Bar Input",
       "description": "[FEEDS] Microsoft has found a malicious Chrome extension that posed as the AI search engine Perplexity and quietly logged what people searched for. It routed every query and every character typed into the address bar through an attacker-controlled server...",
       "url": "https://thehackernews.com/2026/06/malicious-perplexity-chrome-extension.html",
       "date": "2026-06-29T18:40:09Z"
     },
     {
+      "title": "India tops APAC ransomware target list",
+      "description": "[THE FINANCIAL EXPRESS] India leads Asia-Pacific in ransomware attacks, facing nearly 700 daily assaults amid vulnerabilities in legacy systems and rising use of ransomware-as-a-service, posing major cyber resilience challenges for enterprises.",
+      "url": "https://www.financialexpress.com/business/news/india-tops-apac-ransomware-target-list/4279485/",
+      "date": "2026-06-29T18:38:40Z"
+    },
+    {
+      "title": "Apple iPhone 18 Pro supplier list, parts and photos exposed in Tata data leak",
+      "description": "[REUTERS] Sensitive lists of components and suppliers, \u200band photos of Apple's upcoming iPhone 18 Pro models are part of files posted on the dark web by the ransomware group that stole \u200cdata from the U.S. firm's Indian supplier Tata Electronics, according to...",
+      "url": "https://www.reuters.com/business/media-telecom/apple-iphone-18-pro-supplier-list-parts-photos-exposed-tata-data-leak-2026-06-29/",
+      "date": "2026-06-29T18:29:01Z"
+    },
+    {
+      "title": "Apple iPhone 18 Pro supplier list, parts and photos exposed in Tata data leak",
+      "description": "[MARKETSCREENER] Sensitive lists of components and suppliers, and photos of Apple's upcoming iPhone 18 Pro models are part of files posted on the dark web by the ransomware group that stole data from the U.S. firm's...",
+      "url": "https://www.marketscreener.com/news/apple-iphone-18-pro-supplier-list-parts-and-photos-exposed-in-tata-data-leak-ce7f5fdfda8af227",
+      "date": "2026-06-29T18:27:18Z"
+    },
+    {
+      "title": "Dark Web Breach Exposes Secret Apple Supplier Data",
+      "description": "[DEVDISCOURSE] Sensitive details about Apple's iPhone 18 Pro models, stolen by a ransomware group from Tata Electronics, surfaced on the dark web. The leak poses a risk to Apple's global supplier relationships and may impact pricing. The breach occurs as Apple...",
+      "url": "https://www.devdiscourse.com/article/technology/3942555-dark-web-breach-exposes-secret-apple-supplier-data",
+      "date": "2026-06-29T18:26:49Z"
+    },
+    {
       "title": "WhatsApp rolls out usernames to help users hide their phone number",
       "description": "[BLEEPINGCOMPUTER] WhatsApp is finally allowing users to reserve usernames, a privacy feature that lets them hide their phone numbers from people not in their contact list. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/whatsapp-rolls-out-usernames-to-help-users-hide-their-phone-number/",
       "date": "2026-06-29T17:48:28Z"
+    },
+    {
+      "title": "Indian-origin CEOs shaping Corporate America (",
+      "description": "[THE INDIAN EXPRESS] From Silicon Valley to Wall Street, Indian-origin executives have left an outsized imprint on some of America's most influential corporations, leading transformations in cloud computing, artificial intelligence, cybersecurity, digital payments and...",
+      "url": "https://indianexpress.com/article/world/us-news/corporate-america-indian-origin-ceos-microsoft-google-adobe-success-story-10763372/",
+      "date": "2026-06-29T17:47:53Z"
     },
     {
       "title": "Microsoft extends Windows Server 2022 hotpatching until October 2027",
@@ -74,88 +146,16 @@
       "date": "2026-06-29T14:01:11Z"
     },
     {
-      "title": "CyberFOX Acquires Timus Networks, Adding SASE with Zero",
-      "description": "[GLOBENEWSWIRE] Acquisition extends CyberFOX proactive cybersecurity portfolio with always-on secure connectivity, secure access, secure web gateway, and adaptive policy...",
-      "url": "https://www.globenewswire.com/news-release/2026/06/29/3319058/0/en/cyberfox-acquires-timus-networks-adding-sase-with-zero-trust-network-access-to-its-cybersecurity-platform.html",
-      "date": "2026-06-29T14:00:00Z"
-    },
-    {
-      "title": "Cyber Talent Gap Widens as Hybrid Skill Demand Outpaces Supply",
-      "description": "[DECCAN CHRONICLE] The report titled 'Reinventing the cyber workforce' revealed that 46 per cent of cybersecurity positions are currently vacant.",
-      "url": "https://www.deccanchronicle.com/business/cyber-talent-gap-widens-as-hybrid-skill-demand-outpaces-supply-1967091",
-      "date": "2026-06-29T13:58:50Z"
-    },
-    {
-      "title": "No Ceasefire? Iranian Cyber-Attacks on Israel Increase 3-Fold Amid Ongoing Conflict",
-      "description": "[REPUBLIC WORLD] Israeli authorities say they have so far managed to prevent successful attacks against critical infrastructure, although some private companies with weaker cybersecurity reportedly had their computer systems completely wiped following successful...",
-      "url": "https://www.republicworld.com/tech/no-ceasefire-iranian-cyber-attacks-on-israel-increase-3-fold-amid-ongoing-conflict-2026-06-29-130480",
-      "date": "2026-06-29T13:52:06Z"
-    },
-    {
-      "title": "SK shieldus Receives Frost & Sullivan's 2026 APAC Customer Value Leadership Recognition for Excellence in Cybersecurity Services",
-      "description": "[PR NEWSWIRE UK] /PRNewswire/ -- Frost & Sullivan is pleased to announce that SK shieldus has been awarded the 2026 APAC Customer Value Leadership Recognition in the...",
-      "url": "https://www.prnewswire.co.uk/news-releases/sk-shieldus-receives-frost--sullivans-2026-apac-customer-value-leadership-recognition-for-excellence-in-cybersecurity-services-302811804.html",
-      "date": "2026-06-29T13:00:00Z"
-    },
-    {
-      "title": "Abacus Ranked No. Three on 2026 MSP 501 List of Global Managed Service Providers",
-      "description": "[PR NEWSWIRE UK] /PRNewswire/ -- Abacus, a global managed IT and cybersecurity service provider built for highly regulated industries, announced it has been ranked No. 3 on the...",
-      "url": "https://www.prnewswire.co.uk/news-releases/abacus-ranked-no-three-on-2026-msp-501-list-of-global-managed-service-providers-302812034.html",
-      "date": "2026-06-29T13:00:00Z"
-    },
-    {
-      "title": "Top Tech News Today, June 29, 2026",
-      "description": "[TECHSTARTUPS.COM] It\u2019s Monday, June 29, 2026, and the global tech race is no longer moving in one direction. It is unfolding across AI chips, satellites, data centers, cybersecurity, robotics, regulation, and next-generation consumer hardware. Today\u2019s biggest...",
-      "url": "https://techstartups.com/2026/06/29/top-tech-news-today-june-29-2026/",
-      "date": "2026-06-29T12:59:31Z"
-    },
-    {
-      "title": "IIT Kanpur B.Cyber admission 2026 shortlist released at iitk.ac.in; entrance test on July 5",
-      "description": "[TIMES OF INDIA] News News: The Indian Institute of Technology (IIT) Kanpur has released the list of shortlisted candidates for admission to its Bachelor of Cybersecurity (B.Cybe.",
-      "url": "https://timesofindia.indiatimes.com/education/news/iit-kanpur-b-cyber-admission-2026-shortlist-released-at-iitk-ac-in-entrance-test-on-july-5/articleshow/132070843.cms",
-      "date": "2026-06-29T12:02:00Z"
-    },
-    {
       "title": "Adding some Automation to the favicon.ico method of Host Recon, (Mon, Jun 29th)",
       "description": "[ISC] I&&#x23&#x3b;x26&#x3b;&#x23&#x3b;39&#x3b;m in the throes of target host recon for another pentest, and thought I&&#x23&#x3b;x26&#x3b;&#x23&#x3b;39&#x3b;d share some workflow / automation stuff.&#xd; In the past,...",
       "url": "https://isc.sans.edu/diary/rss/33110",
       "date": "2026-06-29T12:00:54Z"
     },
     {
-      "title": "236,000 DCloud Uni-App Sites Used in Crypto Scams, Phishing, and Wallet Drainers",
-      "description": "[FEEDS] New findings unearthed by Infoblox show that more than 236,000 websites are using investment scam templates built using a legitimate Chinese open-source, cross-platform application development framework called DCloud Uni-App. The templates power...",
-      "url": "https://thehackernews.com/2026/06/236000-dcloud-uni-app-sites-used-in.html",
-      "date": "2026-06-29T11:57:40Z"
-    },
-    {
-      "title": "Why Post-Quantum Cryptography Starts With Credentials",
-      "description": "[FEEDS] Today\u2019s encrypted data, such as credentials, may no longer remain confidential in the future because the public-key cryptography protecting it will soon be broken by quantum computers. Although no machine today can break elliptic curve cryptography...",
-      "url": "https://thehackernews.com/2026/06/why-post-quantum-cryptography-starts.html",
-      "date": "2026-06-29T11:42:16Z"
-    },
-    {
-      "title": "Modi Concludes Seychelles State Visit With Defence, Technology Agreements",
-      "description": "[OUTLOOK INDIA] Prime Minister Narendra Modi\u2019s state visit to Seychelles strengthens defence, maritime security and digital ties, with India deploying four military advisers, handing over the fast patrol vessel PS LESPWAR, and sealing key agreements on UPI-based...",
-      "url": "https://www.outlookindia.com/national/modi-concludes-seychelles-state-visit-with-defence-technology-agreements",
-      "date": "2026-06-29T11:05:28Z"
-    },
-    {
       "title": "Robot Police Officers",
       "description": "[SCHNEIER] We&#8217;ve taken one small step towards robot police officers: a drone capable of disarming a suspect: In a June 22 video posted on the Sacramento County Sheriff\u2019s Office\u2019s Instagram page, an officer wearing goggles can be seen operating a drone to...",
       "url": "https://www.schneier.com/blog/archives/2026/06/robot-police-officers.html",
       "date": "2026-06-29T10:55:33Z"
-    },
-    {
-      "title": "Aaron Levie Says 'It Should Be 100% Obvious' AI Cybersecurity Models Will Be Widely Available, Questions",
-      "description": "[BENZINGA] Box CEO Aaron Levie warns that U.S. restrictions on AI model releases could harm American competitiveness in the global race with China.",
-      "url": "https://www.benzinga.com/markets/tech/26/06/60150446/aaron-levie-says-it-should-be-100-obvious-ai-cybersecurity-models-will-be-widely-available-questions-us-restrictions",
-      "date": "2026-06-29T10:16:55Z"
-    },
-    {
-      "title": "Prompt injection to deepfakes: How AI rewrites rules of enterprise security",
-      "description": "[BUSINESS STANDARD] Enterprise Cybersecurity: From AI agents and deepfakes to prompt injection, cybersecurity teams are confronting risks that traditional defences were not designed to handle",
-      "url": "https://www.business-standard.com/technology/artificial-intelligence/prompt-injection-to-deepfakes-how-ai-rewrites-rules-of-enterprise-security-126062900556_1.html",
-      "date": "2026-06-29T10:08:48Z"
     },
     {
       "title": "ISC Stormcast For Monday, June 29th, 2026 https://isc.sans.edu/podcastdetail/9986, (Mon, Jun 29th)",
