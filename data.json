@@ -1,6 +1,18 @@
 {
-  "updated": "2026-06-30 19:42:24 UTC",
+  "updated": "2026-06-30 21:21:51 UTC",
   "news": [
+    {
+      "title": "Microsoft accelerates quantum-safe roadmap as risks grow",
+      "description": "[BLEEPINGCOMPUTER] Microsoft announced today that it is accelerating its quantum-safe security roadmap, saying advances in quantum computing are bringing the need to replace today's encryption standards sooner than previously expected. [...]",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-accelerates-quantum-safe-roadmap-as-risks-grow/",
+      "date": "2026-06-30T21:20:06Z"
+    },
+    {
+      "title": "Malicious PyPI packages give hackers control of Telegram bot servers",
+      "description": "[BLEEPINGCOMPUTER] A campaign active since last November has been targeting Python developers building Telegram bots with trojanized Pyrogram forks that allow attackers to read arbitrary files on compromised servers. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/malicious-pypi-packages-give-hackers-control-of-telegram-bot-servers/",
+      "date": "2026-06-30T21:02:55Z"
+    },
     {
       "title": "Microsoft Warns Poisoned MCP Tool Descriptions Can Make AI Agents Leak Data",
       "description": "[FEEDS] New Microsoft&nbsp;research&nbsp;shows how attackers can hijack AI agents that act on a user's behalf, using nothing more than a poisoned tool description to make the agent quietly hand over company data to an outsider. The trick is that the agent...",
@@ -68,22 +80,34 @@
       "date": "2026-06-30T10:52:26Z"
     },
     {
-      "title": "Kali Linux 2026.2 released with 9 new tools, NetHunter updates",
-      "description": "[BLEEPINGCOMPUTER] Kali Linux 2026.2, the second release of the year, is now available for download, featuring 9 new tools and numerous Kali NetHunter improvements. [...]",
-      "url": "https://www.bleepingcomputer.com/news/linux/kali-linux-20262-released-with-9-new-tools-nethunter-updates/",
-      "date": "2026-06-30T09:46:39Z"
-    },
-    {
-      "title": "Blackfield ransomware asks Nidec Corporation for $2 million ransom",
-      "description": "[BLEEPINGCOMPUTER] The Blackfield ransomware gang is asking for a $2 million ransom from Nidec Corporation, a large Japanese manufacturer of electronic components for automotive and computing applications. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/blackfield-ransomware-asks-nidec-corporation-for-2-million-ransom/",
-      "date": "2026-06-30T09:41:05Z"
-    },
-    {
       "title": "June 2026 Apple Updates, (Tue, Jun 30th)",
       "description": "[ISC] Apple released updates for iOS/iPadOS, macOS, and Safari on Monday. There have been no updates for other Apple operating systems (visionOS, watchOS, tvOS). Usually, Apple updates all products at the same time.&#xd;",
       "url": "https://isc.sans.edu/diary/rss/33114",
       "date": "2026-06-30T09:31:27Z"
+    },
+    {
+      "title": "iPhone 18 Pro supplier list and parts exposed in Tata data leak",
+      "description": "[TNW] A ransomware group has posted files mapping iPhone 18 Pro parts to Apple\u2019s suppliers, stolen from Tata Electronics in India.",
+      "url": "https://thenextweb.com/news/iphone-18-pro-supplier-leak-tata",
+      "date": "2026-06-30T08:50:53Z"
+    },
+    {
+      "title": "Ransomware is exploiting factory VPNs: Manufacturers should rethink OT remote access governance, says Secomea",
+      "description": "[PR NEWSWIRE UK] /PRNewswire/ -- Following a recent increase in publicly reported ransomware and extortion incidents affecting manufacturers and industrial suppliers, Secomea...",
+      "url": "https://www.prnewswire.co.uk/news-releases/ransomware-is-exploiting-factory-vpns-manufacturers-should-rethink-ot-remote-access-governance-says-secomea-302814296.html",
+      "date": "2026-06-30T08:43:00Z"
+    },
+    {
+      "title": "Intrusion Acquires VigilAigent to Boost Cybersecurity Offering",
+      "description": "[MARKETSCREENER] Intrusion has closed the acquisition of cybersecurity service provider VigilAigent from Tego Cyber, the company said late Monday. The deal integrates VigilAigent's agentic artificial intelligence...",
+      "url": "https://www.marketscreener.com/news/intrusion-acquires-vigilaigent-to-boost-cybersecurity-offering-ce7f5fdcd88cf425",
+      "date": "2026-06-30T08:26:29Z"
+    },
+    {
+      "title": "Kratikal Tech Limited raised Rs 11.22 Crore via Anchor Investors Prior to IPO Launch",
+      "description": "[THE TRIBUNE] Mumbai (Maharashtra) [India], June 30: Kratikal Tech Limited is an India-based, AI-driven Software-as-a-Service (SaaS) cybersecurity company operating across People Security Management and Technology & Process Security Services, has successfully...",
+      "url": "https://www.tribuneindia.com/news/business/kratikal-tech-limited-raised-rs-11-22-crore-via-anchor-investors-prior-to-ipo-launch/",
+      "date": "2026-06-30T07:53:23Z"
     },
     {
       "title": "Tata data leak: Apple iPhone 18 Pro parts, suppliers reportedly exposed",
@@ -120,30 +144,6 @@
       "description": "[OUTLOOK BUSINESS] Sensitive documents from Tata Electronics, leaked by ransomware group World Leaks, reportedly reveal iPhone 18 Pro components, suppliers and photos on the dark web. Reuters says the files map chips, battery and camera parts to key Apple partners,...",
       "url": "https://www.outlookbusiness.com/corporate/iphone-18-pro-components-suppliers-and-photos-leaked-in-tata-breach",
       "date": "2026-06-30T05:41:08Z"
-    },
-    {
-      "title": "Apple says it is releasing updates early in response to AI cybersecurity concerns",
-      "description": "[THE HINDU] Apple said it is pushing forward a series of \u200bsoftware updates that would previously have been bundled \u200cwith a new version of its \u200biOS operating system",
-      "url": "https://www.thehindu.com/sci-tech/technology/apple-says-it-is-releasing-updates-early-in-response-to-ai-cybersecurity-concerns/article71164270.ece",
-      "date": "2026-06-30T04:37:02Z"
-    },
-    {
-      "title": "Apple says it is releasing updates early in response to AI cybersecurity concerns",
-      "description": "[FIRSTPOST] Apple is changing the way it delivers software updates as AI-powered cyber threats become more sophisticated. Instead of waiting for major iOS releases, the company will roll out key security and feature updates sooner, aiming to better protect...",
-      "url": "https://www.firstpost.com/tech/apple-says-it-is-releasing-updates-early-in-response-to-ai-cybersecurity-concerns-14027647.html",
-      "date": "2026-06-30T04:31:52Z"
-    },
-    {
-      "title": "Apple iPhone 18 Pro supplier list, parts and photos exposed in Tata data leak",
-      "description": "[THE HINDU] Sensitive lists of components and suppliers, and photos of Apple\u2019s upcoming iPhone 18 Pro \u200bmodels are part of files posted on the dark web by the ransomware group that stole \u2060data from the U.S. firm\u2019s Indian supplier Tata Electronics, according to...",
-      "url": "https://www.thehindu.com/sci-tech/technology/apple-iphone-18-pro-supplier-list-parts-and-photos-exposed-in-tata-data-leak/article71164268.ece",
-      "date": "2026-06-30T04:23:10Z"
-    },
-    {
-      "title": "Tata Electronics Breach Exposes Upcoming iPhone 18 Pro Photos, Apple's Supplier List: What we know",
-      "description": "[FREE PRESS JOURNAL] A ransomware attack on Tata Electronics, Apple\u2019s key iPhone assembler in India, has exposed sensitive supplier lists, component details and images of unreleased iPhone 18 Pro models on the dark web. The breach, linked to the group World Leaks, is...",
-      "url": "https://www.freepressjournal.in/tech/tata-electronics-breach-exposes-upcoming-iphone-18-pro-photos-apples-supplier-list-what-we-know",
-      "date": "2026-06-30T04:20:03Z"
     },
     {
       "title": "ISC Stormcast For Tuesday, June 30th, 2026 https://isc.sans.edu/podcastdetail/9988, (Tue, Jun 30th)",
