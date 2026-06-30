@@ -1,6 +1,24 @@
 {
-  "updated": "2026-06-30 16:18:38 UTC",
+  "updated": "2026-06-30 19:42:24 UTC",
   "news": [
+    {
+      "title": "Microsoft Warns Poisoned MCP Tool Descriptions Can Make AI Agents Leak Data",
+      "description": "[FEEDS] New Microsoft&nbsp;research&nbsp;shows how attackers can hijack AI agents that act on a user's behalf, using nothing more than a poisoned tool description to make the agent quietly hand over company data to an outsider. The trick is that the agent...",
+      "url": "https://thehackernews.com/2026/06/microsoft-warns-poisoned-mcp-tool.html",
+      "date": "2026-06-30T17:46:07Z"
+    },
+    {
+      "title": "RustDuck Botnet Rebuilds in Rust to Hijack Routers and Servers for DDoS",
+      "description": "[FEEDS] A new two-stage malware family called RustDuck is hijacking home routers, IP cameras, Android boxes, and poorly secured servers, then stitching them into a network built to knock websites and online services offline. Researchers at...",
+      "url": "https://thehackernews.com/2026/06/rustduck-botnet-rebuilds-in-rust-to.html",
+      "date": "2026-06-30T17:45:25Z"
+    },
+    {
+      "title": "Langflow RCE Exploited to Deploy Monero Miner on Exposed AI App Endpoints",
+      "description": "[FEEDS] Threat actors are continuing to exploit a critical Langflow vulnerability as part of fresh attacks designed to deliver a Monero cryptocurrency miner. The activity has been found to weaponize CVE-2026-33017 (CVSS score: 9.3), an unauthenticated...",
+      "url": "https://thehackernews.com/2026/06/langflow-rce-exploited-to-deploy-monero.html",
+      "date": "2026-06-30T15:47:20Z"
+    },
     {
       "title": "Fake Perplexity extension on Chrome Web Store tracked searches",
       "description": "[BLEEPINGCOMPUTER] A malicious extension in the Chrome Web Store is masquerading as the Perplexity AI answer engine, intercepting search traffic and collecting browsing information. [...]",
@@ -38,18 +56,6 @@
       "date": "2026-06-30T12:05:57Z"
     },
     {
-      "title": "What the Numbers Say About FIFA 2026 Cyber Risk",
-      "description": "[FEEDS] The FIFA World Cup 2026 opened on June 11. By that date, according to Check Point Research, the fraud infrastructure targeting it had already been built, staged, and partially deployed. Threat actor activity was pre-planned, months out, across three...",
-      "url": "https://thehackernews.com/2026/06/what-numbers-say-about-fifa-2026-cyber.html",
-      "date": "2026-06-30T11:30:00Z"
-    },
-    {
-      "title": "Attackers Exploit SimpleHelp CVE-2026-48558 to Deploy TaskWeaver and Djinn Stealer",
-      "description": "[FEEDS] An unknown threat actor has been observed exploiting a recently disclosed maximum-severity security flaw in SimpleHelp to deliver two previously unreported malware families, TaskWeaver and Djinn Stealer. The intrusion involves the exploitation of...",
-      "url": "https://thehackernews.com/2026/06/attackers-exploit-simplehelp-cve-2026.html",
-      "date": "2026-06-30T11:18:47Z"
-    },
-    {
       "title": "Insurance giant Aflac discloses data breach after subsidiary hack",
       "description": "[BLEEPINGCOMPUTER] American insurance giant Aflac has disclosed a new data breach after attackers breached its Japan subsidiary's systems and stole personal and bank account information. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/insurance-giant-aflac-discloses-data-breach-after-subsidiary-hack/",
@@ -80,76 +86,70 @@
       "date": "2026-06-30T09:31:27Z"
     },
     {
-      "title": "AirDrop and Quick Share Flaws Let Nearby Attackers Trigger Crashes and Bypass Checks",
-      "description": "[FEEDS] Two researchers have found six security flaws in AirDrop and Quick Share, the wireless features that beam files between nearby devices with no cables or shared network. An attacker within wireless range, with just a laptop and no prior connection,...",
-      "url": "https://thehackernews.com/2026/06/airdrop-and-quick-share-flaws-let.html",
-      "date": "2026-06-30T09:27:58Z"
+      "title": "Tata data leak: Apple iPhone 18 Pro parts, suppliers reportedly exposed",
+      "description": "[SEEKING ALPHA] Ransomware group leaks 200,000 files from Tata Electronics, revealing sensitive Apple iPhone 18 Pro details. Read more.",
+      "url": "https://seekingalpha.com/news/4608314-tata-electronics-data-leak-apple-iphone-18-pro-details",
+      "date": "2026-06-30T07:38:14Z"
     },
     {
-      "title": "Apple speeds up software updates in response to AI cybersecurity concerns",
-      "description": "[BUSINESS STANDARD] Apple acknowledged that artificial intelligence is reducing the time hackers need to exploit vulnerabilities, prompting a faster update cycle",
-      "url": "https://www.business-standard.com/technology/tech-news/apple-speeds-up-software-updates-in-response-to-ai-cybersecurity-concerns-126063000190_1.html",
-      "date": "2026-06-30T04:03:51Z"
+      "title": "iPhone 18 Pro leaks are dropping in.",
+      "description": "[THE VERGE] Yesterday we reported that images showing an iPhone 18 Pro drop test had leaked online following a data breach at one of Apple\u2019s manufacturing partners \u2014 and now some video footage has appeared too. These clips, originally posted on X by EvLeaks,...",
+      "url": "https://www.theverge.com/tech/959357/iphone-18-pro-leaks-are-dropping-in",
+      "date": "2026-06-30T07:37:11Z"
     },
     {
-      "title": "Data Breach Scandal: EY Employees Access Top Politician's Banking Details",
-      "description": "[DEVDISCOURSE] Two Ernst & Young employees allegedly accessed Prime Minister Anthony Albanese's banking details, sparking concerns over data privacy. The employees faced criminal charges, while EY refrained from commenting. The incident adds pressure on the Big...",
-      "url": "https://www.devdiscourse.com/article/law-order/3942663-data-breach-scandal-ey-employees-access-top-politicians-banking-details",
-      "date": "2026-06-30T03:26:06Z"
+      "title": "Gravitee and Lexington Soft Announce Strategic Partnership To Advance API Management and AI Governance Across North America and India",
+      "description": "[THE TRIBUNE] Denver (Boston) [US] / Chennai (Tamil Nadu) [India], June 30: Gravitee, a leading AI Agent Management company whose recently launched Gamma platform helps organizations manage, secure, and govern AI agents, APIs, and events, today announced a...",
+      "url": "https://www.tribuneindia.com/news/business/gravitee-and-lexington-soft-announce-strategic-partnership-to-advance-api-management-and-ai-governance-across-north-america-and-india/",
+      "date": "2026-06-30T06:38:25Z"
     },
     {
-      "title": "China's GLM-5.2 AI model is winning over US firms, Sridhar Vembu explains why",
-      "description": "[FIRSTPOST] Chinese AI model GLM-5.2 is rapidly gaining attention beyond its home market, with major US technology companies beginning to adopt it for enterprise use. Zoho co-founder Sridhar Vembu says the shift is being driven by economics, flexibility and...",
-      "url": "https://www.firstpost.com/tech/chinas-glm-5-2-ai-model-is-winning-over-us-firms-sridhar-vembu-explains-why-14027622.html",
-      "date": "2026-06-30T03:26:05Z"
+      "title": "Apple's iPhone 18 Pro supplier data leaked after Tata Electronics data breach: Report",
+      "description": "[CNBC TV18] Tata Electronics plays an increasingly important role in Apple's India manufacturing strategy, supplying components as well as assembling iPhones as the company expands production beyond China.",
+      "url": "https://www.cnbctv18.com/technology/apples-iphone-18-pro-supplier-data-leaked-after-tata-electronics-data-breach-report-19935259.htm",
+      "date": "2026-06-30T06:30:41Z"
     },
     {
-      "title": "Apple iPhone 18 Pro supplier list, component details leaked in Tata data breach",
-      "description": "[THE INDIAN EXPRESS] Leaked files from Apple's Indian supplier Tata Electronics reportedly reveal sensitive iPhone 18 Pro supplier details and internal test images, raising concerns over security and supply chain confidentiality.",
-      "url": "https://indianexpress.com/article/technology/tech-news-technology/apple-iphone-18-pro-supplier-list-component-details-leaked-in-tata-data-breach-10763767/",
-      "date": "2026-06-30T03:21:15Z"
+      "title": "iPhone 18 photos 'leaked on dark web' after data breach involving 20,000 files",
+      "description": "[DAILY EXPRESS] Photos that have surfaced on the underbelly of the internet come a week after Tata Electronics, who manufacture parts for Apple, confirmed it suffered a breach.",
+      "url": "https://www.express.co.uk/life-style/science-technology/2223331/new-iphone-leaked-huge-change",
+      "date": "2026-06-30T06:03:00Z"
     },
     {
-      "title": "Apple iPhone 18 Pro supplier list, parts leaked in Tata Electronics ransomware attack",
-      "description": "[THE HINDU BUSINESS LINE] Sensitive lists of components and \u200csuppliers, and photos of Apple\u2019s upcoming iPhone 18 Pro models are part of files posted on \u200bthe dark web by the ransomware group that stole data from the U.S. firm\u2019s Indian supplier Tata \u2060Electronics, according to...",
-      "url": "https://www.thehindubusinessline.com/companies/apple-iphone-18-pro-supplier-list-parts-leaked-in-tata-electronics-ransomware-attack/article71164230.ece",
-      "date": "2026-06-30T03:17:15Z"
+      "title": "iPhone 18 Pro Components, Suppliers and Photos Leaked in Tata Breach",
+      "description": "[OUTLOOK BUSINESS] Sensitive documents from Tata Electronics, leaked by ransomware group World Leaks, reportedly reveal iPhone 18 Pro components, suppliers and photos on the dark web. Reuters says the files map chips, battery and camera parts to key Apple partners,...",
+      "url": "https://www.outlookbusiness.com/corporate/iphone-18-pro-components-suppliers-and-photos-leaked-in-tata-breach",
+      "date": "2026-06-30T05:41:08Z"
     },
     {
-      "title": "Apple releases early iOS updates over fears of AI cybersecurity tools",
-      "description": "[INDIA TODAY] Apple has brought forward security fixes in iOS, iPadOS and macOS updates amid concerns over AI-assisted hacking. The move shortens the window between public disclosure of flaws and protection reaching users.",
-      "url": "https://www.indiatoday.in/technology/news/story/apple-releases-early-ios-updates-over-fears-of-ai-cybersecurity-tools-2937112-2026-06-30",
-      "date": "2026-06-30T03:06:29Z"
+      "title": "Apple says it is releasing updates early in response to AI cybersecurity concerns",
+      "description": "[THE HINDU] Apple said it is pushing forward a series of \u200bsoftware updates that would previously have been bundled \u200cwith a new version of its \u200biOS operating system",
+      "url": "https://www.thehindu.com/sci-tech/technology/apple-says-it-is-releasing-updates-early-in-response-to-ai-cybersecurity-concerns/article71164270.ece",
+      "date": "2026-06-30T04:37:02Z"
     },
     {
-      "title": "Apple iPhone 18 Pro data leak: Tata Electronics breach exposes key components - What we know",
-      "description": "[TIMES OF INDIA] International Business News: A ransomware attack on Tata Electronics has left Apple\u2019s sensitive supply chain data exposed on the dark web. The leaked files reportedly include deta.",
-      "url": "https://timesofindia.indiatimes.com/business/international-business/apple-iphone-18-pro-data-leak-tata-electronics-breach-exposes-key-components-what-we-know/articleshow/132082261.cms",
-      "date": "2026-06-30T02:33:00Z"
+      "title": "Apple says it is releasing updates early in response to AI cybersecurity concerns",
+      "description": "[FIRSTPOST] Apple is changing the way it delivers software updates as AI-powered cyber threats become more sophisticated. Instead of waiting for major iOS releases, the company will roll out key security and feature updates sooner, aiming to better protect...",
+      "url": "https://www.firstpost.com/tech/apple-says-it-is-releasing-updates-early-in-response-to-ai-cybersecurity-concerns-14027647.html",
+      "date": "2026-06-30T04:31:52Z"
+    },
+    {
+      "title": "Apple iPhone 18 Pro supplier list, parts and photos exposed in Tata data leak",
+      "description": "[THE HINDU] Sensitive lists of components and suppliers, and photos of Apple\u2019s upcoming iPhone 18 Pro \u200bmodels are part of files posted on the dark web by the ransomware group that stole \u2060data from the U.S. firm\u2019s Indian supplier Tata Electronics, according to...",
+      "url": "https://www.thehindu.com/sci-tech/technology/apple-iphone-18-pro-supplier-list-parts-and-photos-exposed-in-tata-data-leak/article71164268.ece",
+      "date": "2026-06-30T04:23:10Z"
+    },
+    {
+      "title": "Tata Electronics Breach Exposes Upcoming iPhone 18 Pro Photos, Apple's Supplier List: What we know",
+      "description": "[FREE PRESS JOURNAL] A ransomware attack on Tata Electronics, Apple\u2019s key iPhone assembler in India, has exposed sensitive supplier lists, component details and images of unreleased iPhone 18 Pro models on the dark web. The breach, linked to the group World Leaks, is...",
+      "url": "https://www.freepressjournal.in/tech/tata-electronics-breach-exposes-upcoming-iphone-18-pro-photos-apples-supplier-list-what-we-know",
+      "date": "2026-06-30T04:20:03Z"
     },
     {
       "title": "ISC Stormcast For Tuesday, June 30th, 2026 https://isc.sans.edu/podcastdetail/9988, (Tue, Jun 30th)",
       "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
       "url": "https://isc.sans.edu/diary/rss/33112",
       "date": "2026-06-30T02:25:12Z"
-    },
-    {
-      "title": "Cyber talent gap widens as demand for hybrid skills outpaces supply",
-      "description": "[THE ECONOMIC TIMES] \"Modern cybersecurity sits at the intersection of digital platforms, AI deployment, regulatory accountability, operational resilience and customer trust.",
-      "url": "https://economictimes.indiatimes.com/tech/technology/cyber-talent-gap-widens-as-demand-for-hybrid-skills-outpaces-supply/articleshow/132082187.cms",
-      "date": "2026-06-30T02:24:15Z"
-    },
-    {
-      "title": "Apple says it is releasing updates early in response to AI cybersecurity concerns",
-      "description": "[THE ECONOMIC TIMES] The shift marks a notable change \u2060in Apple's \u200clongstanding practice of packaging security fixes with \u200bbroader software \u200breleases, an acknowledgment that AI is compressing \u2060the window attackers need to exploit known flaws.",
-      "url": "https://economictimes.indiatimes.com/tech/technology/apple-says-it-is-releasing-updates-early-in-response-to-ai-cybersecurity-concerns/articleshow/132082069.cms",
-      "date": "2026-06-30T02:11:16Z"
-    },
-    {
-      "title": "Apple iPhone 18 Pro photos, supplier lists leaked after cyberattack on Tata",
-      "description": "[BUSINESS STANDARD] Sensitive supplier lists, component details and images of Apple's upcoming iPhone 18 Pro models were allegedly posted online by a ransomware group following a cyberattack on Tata Electronics",
-      "url": "https://www.business-standard.com/technology/tech-news/apple-iphone-18-pro-photos-supplier-lists-leaked-after-cyberattack-on-tata-126063000004_1.html",
-      "date": "2026-06-30T01:58:21Z"
     },
     {
       "title": "Factoring RSA Keys with Many Zeros",
