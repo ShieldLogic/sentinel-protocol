@@ -1,6 +1,30 @@
 {
-  "updated": "2026-07-01 19:29:54 UTC",
+  "updated": "2026-07-01 21:18:09 UTC",
   "news": [
+    {
+      "title": "Kubota says hackers had month-long access to network systems",
+      "description": "[BLEEPINGCOMPUTER] Kubota North America Corporation disclosed that hackers had access to some of its network systems for more than a month earlier this year. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/kubota-says-hackers-had-month-long-access-to-network-systems/",
+      "date": "2026-07-01T21:09:06Z"
+    },
+    {
+      "title": "New ChocoPoC malware targets researchers via trojanized PoC exploits",
+      "description": "[BLEEPINGCOMPUTER] Multiple weaponized proof-of-concept (PoC) exploits on GitHub were found delivering a Python-based remote access trojan (RAT) named ChocoPoC that can execute commands and steal sensitive data in a campaign believed to target cybersecurity...",
+      "url": "https://www.bleepingcomputer.com/news/security/new-chocopoc-malware-targets-researchers-via-trojanized-poc-exploits/",
+      "date": "2026-07-01T20:08:13Z"
+    },
+    {
+      "title": "Unpatched Argo CD Repo-Server Flaw Could Let Attackers Take Over Kubernetes Clusters",
+      "description": "[FEEDS] Argo CD, a widely used tool for deploying software to Kubernetes, has an unpatched flaw in its repo-server component that lets an unauthenticated attacker run code, provided they can reach the component's internal network port. Synacktiv, which...",
+      "url": "https://thehackernews.com/2026/07/unpatched-argo-cd-repo-server-flaw.html",
+      "date": "2026-07-01T19:40:06Z"
+    },
+    {
+      "title": "19-Year-Old Scattered Spider Suspect Extradited to Face U.S. Hacking Charges",
+      "description": "[FEEDS] A teenager accused of belonging to the hacking group Scattered Spider has been extradited from Finland to face U.S. charges of conspiracy, computer intrusion, and fraud, the U.S. Department of Justice&nbsp;announced&nbsp;on July 1. Peter Stokes, 19,...",
+      "url": "https://thehackernews.com/2026/07/19-year-old-scattered-spider-suspect.html",
+      "date": "2026-07-01T19:28:07Z"
+    },
     {
       "title": "SEO-Poisoned Software Sites Abuse ScreenConnect to Deploy AsyncRAT",
       "description": "[FEEDS] Unknown threat actors are leveraging the ScreenConnect remote access tool as a way to deploy and execute AsyncRAT. Kaspersky said the activity is part of a \"massive, multi-domain, multi-language\" campaign that distributes malicious installer...",
@@ -44,28 +68,10 @@
       "date": "2026-07-01T15:25:46Z"
     },
     {
-      "title": "Critical Cursor Flaws Could Let Prompt Injection Escape Sandbox and Run Commands",
-      "description": "[FEEDS] Two flaws in Cursor, an AI code editor, could let a single, ordinary-looking prompt break out of the editor's safety sandbox and run any command on a developer's computer. There is no click to fall for and no approval box to ignore. Cato AI...",
-      "url": "https://thehackernews.com/2026/07/critical-cursor-flaws-could-let-prompt.html",
-      "date": "2026-07-01T14:42:54Z"
-    },
-    {
       "title": "Turning Indicators into Intelligence in OpenCTI with Criminal IP",
       "description": "[BLEEPINGCOMPUTER] Threat intelligence is only as useful as the context behind it. Criminal IP explains how its integration enriches threat indicators in OpenCTI with risk scoring, infrastructure intelligence, and phishing analysis. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/turning-indicators-into-intelligence-in-opencti-with-criminal-ip/",
       "date": "2026-07-01T14:01:11Z"
-    },
-    {
-      "title": "Progress Kemp LoadMaster Pre-Auth RCE Flaw Faces Active Exploitation Attempts",
-      "description": "[FEEDS] A recently disclosed critical security flaw impacting Progress Kemp LoadMaster is seeing active exploitation attempts, according to an advisory from eSentire's Threat Response Unit (TRU). The Canadian cybersecurity company said it identified...",
-      "url": "https://thehackernews.com/2026/07/latest-progress-kemp-loadmaster-pre.html",
-      "date": "2026-07-01T13:56:18Z"
-    },
-    {
-      "title": "Over 900 Oracle E-Business instances exposed to ongoing attacks",
-      "description": "[BLEEPINGCOMPUTER] Over 900 Oracle E-Business Suite (EBS) instances have been found exposed online amid ongoing attacks exploiting a critical security flaw. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/over-900-oracle-e-business-instances-exposed-to-ongoing-attacks/",
-      "date": "2026-07-01T12:30:01Z"
     },
     {
       "title": "Papa Johns Surveillance-Based Advertising",
@@ -74,10 +80,28 @@
       "date": "2026-07-01T10:53:23Z"
     },
     {
-      "title": "Microsoft fixes GIF functionality in the Windows Emoji Panel",
-      "description": "[BLEEPINGCOMPUTER] Microsoft has fixed the GIF functionality in the Emoji Panel for Windows 11 users after the provider shut down its service. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-gif-functionality-in-the-windows-emoji-panel/",
-      "date": "2026-07-01T10:52:26Z"
+      "title": "Nirmala Sitharaman begins four-day France visit to boost India-France economic partnership",
+      "description": "[FIRSTPOST] Finance Minister Nirmala Sitharaman will co-chair the India-France Economic & Financial Dialogue, engage with global CEOs, participate in Europe's leading economic forum, and hold talks on investment, technology, clean energy and cybersecurity...",
+      "url": "https://www.firstpost.com/business/nirmala-sitharaman-begins-four-day-france-visit-to-boost-india-france-economic-partnership-14028013.html",
+      "date": "2026-07-01T08:58:13Z"
+    },
+    {
+      "title": "How will new WhatsApp user names affect your online security?",
+      "description": "[RTE.IE] WhatsApp's usernames are part of a move to make you easier to find online, but cybersecurity often encourages the opposite",
+      "url": "https://www.rte.ie/brainstorm/2026/0701/1581185-whatsapp-user-names-online-security-identity/",
+      "date": "2026-07-01T08:27:58Z"
+    },
+    {
+      "title": "Trump administration lifts restrictions on Anthropic's Claude models after cybersecurity alarm",
+      "description": "[BREITBART NEWS NETWORK] The Trump administration has lifted restrictions on artificial intelligence company Anthropic\u2019s latest versions of its Claude chatbot, ending a",
+      "url": "https://www.breitbart.com/news/trump-administration-lifts-restrictions-on-anthropics-claude-models-after-cybersecurity-alarm/",
+      "date": "2026-07-01T08:19:04Z"
+    },
+    {
+      "title": "Tripura hosts workshop to strengthen cybersecurity framework for State data",
+      "description": "[NEWS18] Tripura hosts workshop to strengthen cybersecurity framework for State data",
+      "url": "https://www.news18.com/agency-feeds/tripura-hosts-workshop-to-strengthen-cybersecurity-framework-for-state-data-10184067.html",
+      "date": "2026-07-01T08:15:03Z"
     },
     {
       "title": "Anthropic restores AI models Fable, Mythos after the U.S. lifts export controls",
@@ -122,34 +146,10 @@
       "date": "2026-07-01T05:04:26Z"
     },
     {
-      "title": "Four Indian Americans named to Carnegie's Great Immigrants list for 2026",
-      "description": "[THE ECONOMIC TIMES] Four prominent Indian Americans, including cybersecurity leader Nikesh Arora and Harvard professor Mahzarin Banaji, have been honored by the Carnegie Corporation of New York's Great Immigrants, Great Americans list for 2026. They join a...",
-      "url": "https://economictimes.indiatimes.com/nri/latest-updates/four-indian-americans-named-to-carnegies-great-immigrants-list-for-2026/articleshow/132106184.cms",
-      "date": "2026-07-01T04:52:53Z"
-    },
-    {
-      "title": "Critical Infrastructure Cybersecurity",
-      "description": "[REUTERS] An overview of US critical infrastructure essential to national security, economic security, and public health and safety, including the Cybersecurity and Infrastructure Security Agency\u2019s (CISA\u2019s) cybersecurity and incident response efforts, the 16...",
-      "url": "https://www.reuters.com/practical-law-the-journal/transactional/critical-infrastructure-cybersecurity-2026-07-01/",
-      "date": "2026-07-01T04:13:00Z"
-    },
-    {
       "title": "ISC Stormcast For Wednesday, July 1st, 2026 https://isc.sans.edu/podcastdetail/9990, (Wed, Jul 1st)",
       "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
       "url": "https://isc.sans.edu/diary/rss/33116",
       "date": "2026-07-01T02:00:03Z"
-    },
-    {
-      "title": "Alberta, Centurion Project sued over alleged data breach that affected millions of voters",
-      "description": "[THE GLOBE AND MAIL] Sweeping lawsuit stems from allegations the separatist group unlawfully obtained and distributed information contained in province\u2019s list of electors",
-      "url": "https://www.theglobeandmail.com/canada/alberta/article-alberta-lawsuit-alleged-data-breach-voters-separatism/",
-      "date": "2026-07-01T01:21:07Z"
-    },
-    {
-      "title": "Top Chinese Battery Makers Absent from Japan's Security Certification",
-      "description": "[MARKETSCREENER] None of China's major battery makers have received Japan's cybersecurity approval yet, despite an upcoming 2027 mandate requiring grid-connected storage equipment, Nikkei Asia reported on...",
-      "url": "https://www.marketscreener.com/news/top-chinese-battery-makers-absent-from-japan-s-security-certification-ce7f5fdddd8af521",
-      "date": "2026-07-01T01:10:18Z"
     },
     {
       "title": "The Realities of AI Video Surveillance",
