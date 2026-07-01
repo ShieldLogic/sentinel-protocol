@@ -1,209 +1,137 @@
 {
-  "updated": "2026-07-01 12:27:16 UTC",
-  "news": [
-    {
-      "title": "Papa Johns Surveillance-Based Advertising",
-      "description": "[SCHNEIER] Papa Johns is spying on people&#8217;s buying activities to predict when they are low on food: The pizza chain recently tapped NBCUniversal, Instacart and the dentsu-owned media agency Carat for help reaching consumers when they&#8217;re low on...",
-      "url": "https://www.schneier.com/blog/archives/2026/07/papa-johns-surveillance-based-advertising.html",
-      "date": "2026-07-01T10:53:23Z"
-    },
-    {
-      "title": "Microsoft fixes GIF functionality in the Windows Emoji Panel",
-      "description": "[BLEEPINGCOMPUTER] Microsoft has fixed the GIF functionality in the Emoji Panel for Windows 11 users after the provider shut down its service. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-gif-functionality-in-the-windows-emoji-panel/",
-      "date": "2026-07-01T10:52:26Z"
-    },
-    {
-      "title": "Microsoft Accelerates Post-Quantum Cryptography Shift to 2029",
-      "description": "[FEEDS] Microsoft on Tuesday said it's accelerating its quantum safe security roadmap, stating technology advances in quantum computing are making it essential to replace existing encryption standards sooner than previously expected. \"Advances in quantum...",
-      "url": "https://thehackernews.com/2026/07/microsoft-accelerates-post-quantum.html",
-      "date": "2026-07-01T10:41:36Z"
-    },
-    {
-      "title": "Amazon fined $2.25M for withholding evidence from fraud victims",
-      "description": "[BLEEPINGCOMPUTER] The U.S. Federal Trade Commission (FTC) says Amazon will pay a $2.25 million civil penalty to settle charges that it blocked identity theft victims' access to transaction records. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/amazon-fined-225m-for-withholding-evidence-from-fraud-victims/",
-      "date": "2026-07-01T09:43:27Z"
-    },
-    {
-      "title": "Adobe patches seven max severity ColdFusion, Campaign flaws",
-      "description": "[BLEEPINGCOMPUTER] Adobe has released security patches for seven maximum-severity vulnerabilities in the ColdFusion web app development platform and the Campaign Classic marketing automation platform. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/adobe-patches-seven-max-severity-coldfusion-campaign-flaws/",
-      "date": "2026-07-01T07:34:52Z"
-    },
-    {
-      "title": "Phantom Squatting Uses AI-Hallucinated Domains for Phishing and Malware",
-      "description": "[FEEDS] Large language models keep inventing web addresses that do not exist. Attackers have started buying those made-up domains before anyone else can, then hosting phishing pages on them to catch traffic that AI tools point their way. Palo Alto...",
-      "url": "https://thehackernews.com/2026/07/phantom-squatting-uses-ai-hallucinated.html",
-      "date": "2026-07-01T07:20:51Z"
-    },
-    {
-      "title": "Anthropic Restores Claude Fable 5 After U.S. Lifts Jailbreak-Linked Export Controls",
-      "description": "[FEEDS] Anthropic is putting Claude Fable 5 back online worldwide. On&nbsp;June 30, the U.S. Commerce Department lifted the export controls it had imposed on Fable and its more tightly controlled sibling Mythos 5 about two and a half weeks earlier. Fable 5...",
-      "url": "https://thehackernews.com/2026/07/anthropic-restores-claude-fable-5-after.html",
-      "date": "2026-07-01T06:46:17Z"
-    },
-    {
-      "title": "Azure CLI Password Spray Hits at Least 78 Microsoft Accounts in 81M+ Attempts",
-      "description": "[FEEDS] Cybersecurity researchers have warned of a \"massive, ongoing, automated password spray attack\" aimed at Microsoft's Azure command-line interface (CLI), compromising dozens of accounts in the process. The activity, per Huntress, originates from an...",
-      "url": "https://thehackernews.com/2026/07/azure-cli-password-spray-hits-at-least.html",
-      "date": "2026-07-01T05:46:03Z"
-    },
-    {
-      "title": "Researcher Analyzes 3,000 Live ClickFix Payloads, Exposing API-Driven Malware Delivery",
-      "description": "[FEEDS] ClickFix, the trick that fools people into running malware by hand, has quietly grown a back office. New research shows the malicious commands behind its fake \"prove you're human\" pages are now handed out by API-driven servers that give each visitor...",
-      "url": "https://thehackernews.com/2026/07/researcher-analyzes-3000-live-clickfix.html",
-      "date": "2026-07-01T05:32:12Z"
-    },
-    {
-      "title": "Why Ask Credentials If There Are Secret Codes&#x3f;, (Wed, Jul 1st)",
-      "description": "[ISC] This morning, an interesting phishing email hit my mailbox. It targets Metamask&#x5b;1&#x5d;, a cryptocurrency wallet, available as a browser extension and a mobile app, that lets users store, send, and receive crypto money. It&#x27s pretty popular,...",
-      "url": "https://isc.sans.edu/diary/rss/33118",
-      "date": "2026-07-01T05:10:20Z"
-    },
-    {
-      "title": "Citrix Patches Six NetScaler Flaws Allowing File Read and Denial-of-Service",
-      "description": "[FEEDS] Citrix on Tuesday released security updates to address multiple flaws in NetScaler ADC (formerly Citrix ADC) and NetScaler Gateway (formerly Citrix Gateway) that could be exploited by an attacker to facilitate arbitrary file reads or trigger a...",
-      "url": "https://thehackernews.com/2026/07/citrix-patches-six-netscaler-flaws.html",
-      "date": "2026-07-01T03:54:22Z"
-    },
-    {
-      "title": "ISC Stormcast For Wednesday, July 1st, 2026 https://isc.sans.edu/podcastdetail/9990, (Wed, Jul 1st)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33116",
-      "date": "2026-07-01T02:00:03Z"
-    },
-    {
-      "title": "Anthropic to restore Claude Fable access on Wednesday",
-      "description": "[BLEEPINGCOMPUTER] Anthropic has confirmed that the Department of Commerce has lifted export controls on Claude's two most powerful models, Fable 5 and Mythos 5. [...]",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-to-restore-claude-fable-access-on-wednesday/",
-      "date": "2026-07-01T00:35:14Z"
-    },
-    {
-      "title": "Anthropic rolls out Sonnet 5 with near-Opus 4.8 performance at a lower price",
-      "description": "[BLEEPINGCOMPUTER] Anthropic is now rolling out Sonnet 5, and it's almost as good as the Opus range, but it is designed to be cheaper than the company's flagship model. [...]",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-rolls-out-sonnet-5-with-near-opus-48-performance-at-a-lower-price/",
-      "date": "2026-06-30T23:13:07Z"
-    },
-    {
-      "title": "Quantum eMotion to Sponsor AI for Good Global Summit and Participate in Cybersecurity Panel",
-      "description": "[WALLSTREET ONLINE] 01.07.2026 - Montreal, Quebec--(Newsfile Corp. - June 30, 2026) - Quantum eMotion Corp. (TSXV: QNC) (NYSE American: QNC) (FSE: 34Q0) ('QeM' or the 'Company'), a leader in quantum-secure cybersecurity solutions, is pleased to announce its...",
-      "url": "https://www.wallstreet-online.de/nachricht/21059745-quantum-emotion-to-sponsor-ai-for-good-global-summit-and-participate-cybersecurity-panel",
-      "date": "2026-06-30T22:16:21Z"
-    },
-    {
-      "title": "New BioShocking attack manipulates AI browser into data theft",
-      "description": "[BLEEPINGCOMPUTER] A new prompt injection attack dubbed \"BioShocking\" could trick AI-powered browsers into treating real-world risky actions as part of a fictional scenario, causing them to ignore any safety guardrails. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/new-bioshocking-attack-manipulates-ai-browser-into-data-theft/",
-      "date": "2026-06-30T21:50:24Z"
-    },
-    {
-      "title": "Anthropic Wants You to Know Its New AI Model Is Definitely Not Too Dangerous to Release",
-      "description": "[GIZMODO] Claude Sonnet 5 delivers impressive agentic capabilities at a relatively low cost. It\u2019s also really bad at cybersecurity\u2014probably for the reason you\u2019d expect.",
-      "url": "https://gizmodo.com/anthropic-wants-you-to-know-its-new-ai-model-is-definitely-not-too-dangerous-to-release-2000779800",
-      "date": "2026-06-30T21:00:12Z"
-    },
-    {
-      "title": "Lawsuit filed in Alberta over data breach that affected almost three million voters",
-      "description": "[THE GLOBE AND MAIL] Names and addresses for 2.9 million registered Alberta voters were accessible on a separatist website, elections officials said",
-      "url": "https://www.theglobeandmail.com/world/article-lawsuit-alberta-voter-data-breach-separatism/",
-      "date": "2026-06-30T20:27:25Z"
-    },
-    {
-      "title": "Palo Alto, CrowdStrike wrap best quarter ever as AI bolsters demand",
-      "description": "[CNBC] The cybersecurity leaders are leaning into identity security, a critical cyber segment, as AI agents outnumber humans",
-      "url": "https://www.cnbc.com/2026/06/30/palo-alto-crowdstrike-stock-ai-mythos.html",
-      "date": "2026-06-30T20:11:37Z"
-    },
-    {
-      "title": "Cybersecurity, AI, Chinese imports dominate PM Modi\u2019s meet with secretaries",
-      "description": "[TIMES OF INDIA] India News: NEW DELHI: Concerns about cheap imports from China, including dumping of some products, at a time when its growth has slowed down found a reflection a.",
-      "url": "https://timesofindia.indiatimes.com/india/cybersecurity-ai-chinese-imports-dominate-pm-modis-meet-with-secretaries/articleshow/132101190.cms",
-      "date": "2026-06-30T19:42:00Z"
-    },
-    {
-      "title": "Don't worry, banks have shock absorbers: RBI",
-      "description": "[THE ECONOMIC TIMES] In its bi-annual Financial Stability Report, the RBI flagged concerns over customer service in the insurance sector and again cautioned that rising interconnectedness among financial institutions could act as a potential channel for contagion. The...",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/dont-worry-banks-have-shock-absorbers-rbi/articleshow/132103497.cms",
-      "date": "2026-06-30T19:39:00Z"
-    },
-    {
-      "title": "Don't worry, banks have shock absorbers: RBI",
-      "description": "[THE ECONOMIC TIMES] In its bi-annual Financial Stability Report, the RBI flagged concerns over customer service in the insurance sector and again cautioned that rising interconnectedness among financial institutions could act as a potential channel for contagion. The...",
-      "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/dont-worry-banks-have-shock-absorbers-rbi/articleshow/132101177.cms",
-      "date": "2026-06-30T19:39:00Z"
-    },
-    {
-      "title": "Download iOS 26.5.2 Now for a Smorgasbord of Security Fixes",
-      "description": "[CNET] This update includes a patch for a vulnerability found with the help of Anthropic's Claude AI model, which has been in the news for its cybersecurity implications.",
-      "url": "https://www.cnet.com/tech/services-and-software/download-ios-26-5-2-now-for-a-smorgasbord-of-security-fixes/",
-      "date": "2026-06-30T18:06:14Z"
-    },
-    {
-      "title": "Anthropic\u2019s Claude Sonnet 5 is here.",
-      "description": "[THE VERGE] The company\u2019s new mid-tier model, the successor to Sonnet 4.6, can \u201cmake plans, use tools like browsers and terminals, and run autonomously at a level that, just a few months ago, required larger and more expensive models,\u201d Anthropic wrote in a...",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/959686/anthropics-claude-sonnet-5-is-here",
-      "date": "2026-06-30T18:00:00Z"
-    },
-    {
-      "title": "Cybersecurity rules proposed for smart vehicles to prevent malware risks",
-      "description": "[TIMES OF INDIA] India News: NEW DELHI: A new era of cyber threats is coming to the roads. As vehicles become smarter, with more software driving systems, the risk of malware atta.",
-      "url": "https://timesofindia.indiatimes.com/india/cybersecurity-rules-proposed-for-smart-vehicles-to-prevent-malware-risks/articleshow/132098976.cms",
-      "date": "2026-06-30T17:50:00Z"
-    },
-    {
-      "title": "The Realities of AI Video Surveillance",
-      "description": "[SCHNEIER] The Financial Times has a good article on how AI is changing the capabilities of video surveillance, with information from both Israel/Iran and Russia. I wrote about this sort of thing a few years ago, how AI enables mass spying in the way that...",
-      "url": "https://www.schneier.com/blog/archives/2026/06/the-realities-of-ai-video-surveillance.html",
-      "date": "2026-06-30T12:05:57Z"
-    },
-    {
-      "title": "June 2026 Apple Updates, (Tue, Jun 30th)",
-      "description": "[ISC] Apple released updates for iOS/iPadOS, macOS, and Safari on Monday. There have been no updates for other Apple operating systems (visionOS, watchOS, tvOS). Usually, Apple updates all products at the same time.&#xd;",
-      "url": "https://isc.sans.edu/diary/rss/33114",
-      "date": "2026-06-30T09:31:27Z"
-    },
-    {
-      "title": "ISC Stormcast For Tuesday, June 30th, 2026 https://isc.sans.edu/podcastdetail/9988, (Tue, Jun 30th)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33112",
-      "date": "2026-06-30T02:25:12Z"
-    },
-    {
-      "title": "Factoring RSA Keys with Many Zeros",
-      "description": "[SCHNEIER] Interesting research on a new class of weak RSA keys: keys with lots of zeros. It turns out that these keys are out in the wild. The badkeys project is an open-source service that checks public keys for known vulnerabilities. While developing this...",
-      "url": "https://www.schneier.com/blog/archives/2026/06/factoring-rsa-keys-with-many-zeros.html",
-      "date": "2026-06-29T16:05:18Z"
-    },
-    {
-      "title": "Adding some Automation to the favicon.ico method of Host Recon, (Mon, Jun 29th)",
-      "description": "[ISC] I&&#x23&#x3b;x26&#x3b;&#x23&#x3b;39&#x3b;m in the throes of target host recon for another pentest, and thought I&&#x23&#x3b;x26&#x3b;&#x23&#x3b;39&#x3b;d share some workflow / automation stuff.&#xd; In the past,...",
-      "url": "https://isc.sans.edu/diary/rss/33110",
-      "date": "2026-06-29T12:00:54Z"
-    },
-    {
-      "title": "Robot Police Officers",
-      "description": "[SCHNEIER] We&#8217;ve taken one small step towards robot police officers: a drone capable of disarming a suspect: In a June 22 video posted on the Sacramento County Sheriff\u2019s Office\u2019s Instagram page, an officer wearing goggles can be seen operating a drone to...",
-      "url": "https://www.schneier.com/blog/archives/2026/06/robot-police-officers.html",
-      "date": "2026-06-29T10:55:33Z"
-    },
-    {
-      "title": "ISC Stormcast For Monday, June 29th, 2026 https://isc.sans.edu/podcastdetail/9986, (Mon, Jun 29th)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33108",
-      "date": "2026-06-29T02:00:02Z"
-    },
-    {
-      "title": "The Chinese Control the Majority of Argentina\u2019s Squid Fleet",
-      "description": "[SCHNEIER] Chinese companies control nearly two-thirds of Argentina\u2019s own squid fleet.",
-      "url": "https://www.schneier.com/blog/archives/2026/06/the-chinese-control-the-majority-of-argentinas-squid-fleet.html",
-      "date": "2026-06-26T20:57:04Z"
-    },
-    {
-      "title": "Meta Is Testing Facial Recognition for Police and Military",
-      "description": "[SCHNEIER] We know that ICE wants to deploy eyeglasses with facial recognition that can identify people in real time. Turns out Meta is prototyping the feature with a Pentagon supplier. (Alternate news story.)",
-      "url": "https://www.schneier.com/blog/archives/2026/06/meta-is-testing-facial-recognition-for-police-and-military.html",
-      "date": "2026-06-26T16:40:56Z"
-    }
-  ]
+    "title": "Sentinel Protocol",
+    "tagline": "Perimeter Intelligence Sync",
+    "updated": "2026-07-01 13:32 UTC",
+    "news": [
+        {
+            "source": {
+                "id": null,
+                "name": "Nextgov"
+            },
+            "author": "Edward Graham",
+            "title": "Pentagon launches \u2018War Force\u2019 initiative to onboard tech talent",
+            "description": "The new recruitment effort was started in partnership with the Office of Personnel Management and operates under that agency\u2019s larger Tech Force program.",
+            "url": "https://www.nextgov.com/people/2026/06/pentagon-launches-war-force-initiative-onboard-tech-talent/414519/",
+            "urlToImage": "https://cdn.nextgov.com/media/img/cd/2026/06/29/062926PentagonNG/open-graph.jpg",
+            "publishedAt": "2026-06-30T13:30:00Z",
+            "content": "The Office of Personnel Management and the Pentagon jointly announced the launch of a new initiative on Tuesday to bring top software engineering talent into the Department of Defense, part of a broa\u2026 [+2042 chars]"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "PTI",
+            "title": "India eyes open source, homegrown AI amid access curbs on frontier models",
+            "description": "India is championing open-source and homegrown AI models to counter potential access restrictions on advanced frontier technologies. The IT Ministry official highlighted a two-pronged strategy: leveraging capable open-source alternatives and fostering indigen\u2026",
+            "url": "https://economictimes.indiatimes.com/tech/technology/india-eyes-open-source-homegrown-ai-amid-access-curbs-on-frontier-models/articleshow/132094233.cms",
+            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-38468,resizemode-75,msid-132094233/tech/technology/india-eyes-open-source-homegrown-ai-amid-access-curbs-on-frontier-models.jpg",
+            "publishedAt": "2026-06-30T13:27:19Z",
+            "content": "India is pursuing a strategy of focusing on open-source artificial intelligence models as well as homegrown ones while supporting local developers to build more advanced systems, a senior IT Ministry\u2026 [+2666 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PRNewswire"
+            },
+            "author": null,
+            "title": "VANTIQ and NiSE Insight Sign Strategic Partnership to Bring Real-Time Operational AI to Malaysia",
+            "description": "KUALA LUMPUR, Malaysia, June 30, 2026 /PRNewswire/ -- VANTIQ, a global provider of real-time AI orchestration technology, and NiSE Insight Sdn. Bhd. (NiSE), a Malaysia-based data and analytics solutions provider, today announced a strategic partnership to exp\u2026",
+            "url": "https://www.prnewswire.com/news-releases/vantiq-and-nise-insight-sign-strategic-partnership-to-bring-real-time-operational-ai-to-malaysia-302814570.html",
+            "urlToImage": "https://mmx.prnewswire.com/media/MS1875510/Vantiq.jpg?id=OA2745205&p=facebook",
+            "publishedAt": "2026-06-30T13:17:00Z",
+            "content": "KUALA LUMPUR, Malaysia, June 30, 2026 /PRNewswire/ --\u00a0VANTIQ, a global provider of real-time AI orchestration technology, and\u00a0NiSE Insight Sdn. Bhd. (NiSE), a Malaysia-based data and analytics soluti\u2026 [+5034 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Freerepublic.com"
+            },
+            "author": "GuruFocus News",
+            "title": "Data Breach Hits Apple (AAPL) Supply Chain Ahead of iPhone 18 Pro Launch",
+            "description": "On June 30, 2026, a ransomware group has reportedly compromised Tata Electronics, Apple's manufacturing partner in India, leaking sensitive data including supplier lists and unreleased iPhone 18 Pro images on the dark web. This incident poses a significant th\u2026",
+            "url": "https://freerepublic.com/focus/f-bloggers/4386069/posts",
+            "urlToImage": null,
+            "publishedAt": "2026-06-30T13:16:25Z",
+            "content": "(more news links at the original)\r\napple supplier hackedhttps://search.brave.com/search?q=apple+supplier+hacked&amp;summary=1\r\nRecent reports confirm two major cyberattacks on Apples manufacturing su\u2026 [+1374 chars]"
+        },
+        {
+            "source": {
+                "id": "financial-post",
+                "name": "Financial Post"
+            },
+            "author": "Business Wire",
+            "title": "90% of IT Leaders See Gaps in AI Threat Readiness, Lenovo Brings Single Point of Accountability to Cyber Resiliency",
+            "description": "New end-to-end resilience and managed security offerings help organizations reduce security complexity, cut system downtime by up to 50%, and lower remediation costs by up to 40% by bringing devices, security technologies, expert services, and ecosystem partn\u2026",
+            "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/90-of-it-leaders-see-gaps-in-ai-threat-readiness-lenovo-brings-single-point-of-accountability-to-cyber-resiliency",
+            "urlToImage": null,
+            "publishedAt": "2026-06-30T13:06:59Z",
+            "content": "New end-to-end resilience and managed security offerings help organizations reduce security complexity, cut system downtime by up to 50%, and lower remediation costs by up to 40% by bringing devices,\u2026 [+7857 chars]"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "ANI",
+            "title": "Digital India set to power India's next trillion-dollar growth story as AI, semiconductors and digital public infrastructure take centre stage: MeitY",
+            "description": "India is poised for a digital leap, with AI, semiconductors, and indigenous manufacturing set to drive economic growth. Building on a decade of digital progress, the nation is investing heavily in advanced technologies. From affordable mobile data and a world\u2026",
+            "url": "https://economictimes.indiatimes.com/tech/technology/digital-india-to-power-indias-growth-story-with-ai-chips-and-dpi-meity/articleshow/132093849.cms",
+            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-47158,resizemode-75,msid-132093849/tech/technology/digital-india-to-power-indias-growth-story-with-ai-chips-and-dpi-meity.jpg",
+            "publishedAt": "2026-06-30T13:06:44Z",
+            "content": "India is preparing to enter the next phase of its digital transformation with artificial intelligence (AI), semiconductors, quantum technologies and indigenous electronics manufacturing expected to b\u2026 [+4330 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "GlobeNewswire"
+            },
+            "author": "Huntress Labs",
+            "title": "Huntress Announces the General Availability of Managed ISPM, Expanding its Agentic Security Platform with Proactive Controls that Strengthen Identity Resilience at Scale",
+            "description": "Huntress announces the general availability of Managed ISPM, successfully hardening more than 12,000 Microsoft 365 tenants in Early Access....",
+            "url": "https://www.globenewswire.com/news-release/2026/06/30/3319779/0/en/Huntress-Announces-the-General-Availability-of-Managed-ISPM-Expanding-its-Agentic-Security-Platform-with-Proactive-Controls-that-Strengthen-Identity-Resilience-at-Scale.html",
+            "urlToImage": "https://ml.globenewswire.com/Resource/Download/31580d79-1ffb-4122-8ae6-71e60f4cad66",
+            "publishedAt": "2026-06-30T13:05:00Z",
+            "content": "COLUMBIA, Md., June 30, 2026 (GLOBE NEWSWIRE) -- Huntress\r\n today announced the General Availability of Managed Identity Security Posture Management (ISPM)\r\n, expanding its Agentic Security Platform\r\u2026 [+6282 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "GlobeNewswire"
+            },
+            "author": "Cynomi",
+            "title": "Cynomi Releases New Report Revealing the Top AI Questions MSPs Are Asking in 2026",
+            "description": "New report analyzes Reddit's most-engaged MSP discussions, AI research trends, and community conversations to uncover how service providers are navigating AI adoption, security, and the future of managed services New report analyzes Reddit's most-engaged MSP \u2026",
+            "url": "https://www.globenewswire.com/news-release/2026/06/30/3319773/0/en/Cynomi-Releases-New-Report-Revealing-the-Top-AI-Questions-MSPs-Are-Asking-in-2026.html",
+            "urlToImage": "https://ml.globenewswire.com/Resource/Download/852b7ef7-7d40-4f43-a8c7-fe0c0f964023",
+            "publishedAt": "2026-06-30T13:02:00Z",
+            "content": "Orlando, Florida and Tel Aviv, Israel, June 30, 2026 (GLOBE NEWSWIRE) -- \u00a0Cynomi, the agentic Security Growth Platform for MSPs, MSSPs, and vCISO cyber advisory firms, today released What MSPs Are Ac\u2026 [+4894 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PRNewswire"
+            },
+            "author": null,
+            "title": "Shift5 Achieves Commercial Solutions for Classified (CSfC) Listing, Enhancing Data Protection for Defense Operations",
+            "description": "CSfC listing builds on NIAP foundation to support broader range of classified operations ARLINGTON, Va., June 30, 2026 /PRNewswire/ -- Shift5, the Operational Intelligence platform for America's defense and transportation systems, today announced it has been \u2026",
+            "url": "https://www.prnewswire.com/news-releases/shift5-achieves-commercial-solutions-for-classified-csfc-listing-enhancing-data-protection-for-defense-operations-302814439.html",
+            "urlToImage": "https://mmx.prnewswire.com/media/MS1875123/Shift5-Achieves-Commercial-Solutions-for-Classified-Listing.jpg?id=OA2744543&p=facebook",
+            "publishedAt": "2026-06-30T13:01:00Z",
+            "content": "CSfC listing builds on NIAP foundation to support broader range of classified operations\r\nARLINGTON, Va., June 30, 2026 /PRNewswire/ -- Shift5, the Operational Intelligence platform for America's def\u2026 [+2458 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "SiliconANGLE News"
+            },
+            "author": "Duncan Riley",
+            "title": "Pie launches with $19.5M to bring AI marketing to small businesses",
+            "description": "Pie Tech Inc., a startup using artificial intelligence to provide growth tools for small businesses, today officially launched with an announcement that it has raised $19.5 million in new funding to expand its platform and team. The company used the announcem\u2026",
+            "url": "https://siliconangle.com/2026/06/30/pie-launches-19-5m-bring-ai-marketing-small-businesses/",
+            "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/06/pie.png",
+            "publishedAt": "2026-06-30T13:00:58Z",
+            "content": "Pie Tech Inc., a startup using artificial intelligence to provide growth tools for small businesses, today officially launched with an announcement that it has raised $19.5 million in new funding to \u2026 [+3806 chars]"
+        }
+    ]
 }
