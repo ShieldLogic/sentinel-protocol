@@ -1,6 +1,36 @@
 {
-  "updated": "2026-07-01 16:16:20 UTC",
+  "updated": "2026-07-01 19:29:54 UTC",
   "news": [
+    {
+      "title": "SEO-Poisoned Software Sites Abuse ScreenConnect to Deploy AsyncRAT",
+      "description": "[FEEDS] Unknown threat actors are leveraging the ScreenConnect remote access tool as a way to deploy and execute AsyncRAT. Kaspersky said the activity is part of a \"massive, multi-domain, multi-language\" campaign that distributes malicious installer...",
+      "url": "https://thehackernews.com/2026/07/seo-poisoned-software-sites-abuse.html",
+      "date": "2026-07-01T17:53:06Z"
+    },
+    {
+      "title": "DHS confirms hackers breached HSIN info-sharing platform",
+      "description": "[BLEEPINGCOMPUTER] The Department of Homeland Security is investigating a cyberattack that compromised the Homeland Security Information Network (HSIN), a sensitive information-sharing platform used by federal, state, local, and private-sector partners. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/dhs-confirms-hackers-breached-hsin-info-sharing-platform/",
+      "date": "2026-07-01T17:32:22Z"
+    },
+    {
+      "title": "VEIL#DROP Malware Chain Uses Blogger Platform to Deliver PureLogs Stealer",
+      "description": "[FEEDS] Cybersecurity researchers have flagged a new multi-stage malware delivery attack chain that uses social engineering and Blogger pages to deliver an information stealer called PureLogs. The activity has been codenamed VEIL#DROP by Securonix. It's...",
+      "url": "https://thehackernews.com/2026/07/veildrop-malware-chain-uses-blogger.html",
+      "date": "2026-07-01T17:18:50Z"
+    },
+    {
+      "title": "Webinar: Why traditional email security is no longer enough",
+      "description": "[BLEEPINGCOMPUTER] Modern phishing, business email compromise, and account takeover attacks increasingly exploit trusted identities and legitimate business workflows, making them harder for traditional email defenses to detect. This webinar explores how behavioral AI...",
+      "url": "https://www.bleepingcomputer.com/news/security/webinar-why-traditional-email-security-is-no-longer-enough/",
+      "date": "2026-07-01T16:54:22Z"
+    },
+    {
+      "title": "Hackers target Microsoft 365 accounts with 81 million login attempts",
+      "description": "[BLEEPINGCOMPUTER] An aggressive password-spraying campaign targeting Microsoft 365 environments generated more than 81 million login attempts over a two-week period. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-target-microsoft-365-accounts-with-81-million-login-attempts/",
+      "date": "2026-07-01T16:38:01Z"
+    },
     {
       "title": "Ousaban Banking Trojan Targets Iberian Bank Users with Fake PDF Lures",
       "description": "[FEEDS] A Brazilian banking trojan called Ousaban is going after Windows users who bank in Spain and Portugal.&nbsp;Fortinet's FortiGuard Labs&nbsp;identified the campaign in May 2026. It opens with a phishing PDF disguised as a corrupted file, checks that...",
@@ -32,22 +62,10 @@
       "date": "2026-07-01T13:56:18Z"
     },
     {
-      "title": "AI-Generated Browser Ransomware Abuses Chromium API on Windows and Android",
-      "description": "[FEEDS] Cybersecurity researchers have flagged a new malware artifact generated using DeepSeek that constructed a novel attack path combining \"unrealistic browser-malware concepts with a real browser capability\" to turn it into a working ransomware...",
-      "url": "https://thehackernews.com/2026/07/ai-generated-browser-ransomware-abuses.html",
-      "date": "2026-07-01T12:59:19Z"
-    },
-    {
       "title": "Over 900 Oracle E-Business instances exposed to ongoing attacks",
       "description": "[BLEEPINGCOMPUTER] Over 900 Oracle E-Business Suite (EBS) instances have been found exposed online amid ongoing attacks exploiting a critical security flaw. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/over-900-oracle-e-business-instances-exposed-to-ongoing-attacks/",
       "date": "2026-07-01T12:30:01Z"
-    },
-    {
-      "title": "2026 Cybersecurity Assessment: The Gap Between Awareness and Resilience",
-      "description": "[FEEDS] Organizations have never had greater awareness of cyber risk. Yet turning that awareness into operational resilience has never been more challenging. The 2026 Bitdefender Cybersecurity Assessment confirms this is the case, as this year's findings...",
-      "url": "https://thehackernews.com/2026/07/2026-cybersecurity-assessment-gap.html",
-      "date": "2026-07-01T11:30:00Z"
     },
     {
       "title": "Papa Johns Surveillance-Based Advertising",
@@ -62,22 +80,52 @@
       "date": "2026-07-01T10:52:26Z"
     },
     {
-      "title": "Amazon fined $2.25M for withholding evidence from fraud victims",
-      "description": "[BLEEPINGCOMPUTER] The U.S. Federal Trade Commission (FTC) says Amazon will pay a $2.25 million civil penalty to settle charges that it blocked identity theft victims' access to transaction records. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/amazon-fined-225m-for-withholding-evidence-from-fraud-victims/",
-      "date": "2026-07-01T09:43:27Z"
+      "title": "Anthropic restores AI models Fable, Mythos after the U.S. lifts export controls",
+      "description": "[COINDESK] The government cleared Fable 5 and Mythos 5 on June 30, weeks after a cybersecurity finding triggered an export order that froze access for everyone.",
+      "url": "https://www.coindesk.com/tech/2026/07/01/anthropic-restores-ai-models-fable-mythos-after-the-u-s-lifts-export-controls",
+      "date": "2026-07-01T06:54:13Z"
     },
     {
-      "title": "Adobe patches seven max severity ColdFusion, Campaign flaws",
-      "description": "[BLEEPINGCOMPUTER] Adobe has released security patches for seven maximum-severity vulnerabilities in the ColdFusion web app development platform and the Campaign Classic marketing automation platform. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/adobe-patches-seven-max-severity-coldfusion-campaign-flaws/",
-      "date": "2026-07-01T07:34:52Z"
+      "title": "Enabled Cyber Attacks Emerge as Most Important Near",
+      "description": "[OUTLOOK BUSINESS] The RBI has warned that AI-enabled cyber attacks are the most important near-term threat to India\u2019s banking system, highlighting gaps in employee training, cybersecurity awareness and forensic preparedness, while also flagging AI-driven stock market...",
+      "url": "https://www.outlookbusiness.com/news/ai-enabled-cyber-attacks-emerge-as-most-important-near-term-challenge-rbi",
+      "date": "2026-07-01T06:30:32Z"
+    },
+    {
+      "title": "WhatsApp usernames could open the platform to impersonations and scams, warn cybersecurity experts: Here is how",
+      "description": "[LIVEMINT] Meta's WhatsApp is launching usernames for privacy, enabling users to interact without disclosing phone numbers. While this can protect user identity, experts warn of risks like impersonation and scams, highlighting the necessity for robust...",
+      "url": "https://www.livemint.com/technology/tech-news/whatsapp-usernames-could-open-the-platform-to-impersonations-and-scams-warn-cybersecurity-experts-11782886397673.html",
+      "date": "2026-07-01T06:28:06Z"
+    },
+    {
+      "title": "US Clears the Way for Anthropic's Top AI Models to Go Global",
+      "description": "[DECCAN CHRONICLE] Over the past couple of weeks, the Trump administration has invoked national security concerns to limit the ability of major US tech companies to release advanced models, including those from Anthropic which some researchers feared could be...",
+      "url": "https://www.deccanchronicle.com/technology/in-other-news/us-govt-lifts-restrictions-on-powerful-ai-models-anthropic-says-1967519",
+      "date": "2026-07-01T06:26:43Z"
+    },
+    {
+      "title": "Messaging platforms will be held responsible if new features create room for fraud: Govt",
+      "description": "[TIMES OF INDIA] India News: NEW DELHI : With India\u2019s public services, examinations and welfare systems moving deeper into digital platforms, the Centre has said cybersecurity is .",
+      "url": "https://timesofindia.indiatimes.com/india/messaging-platforms-will-be-held-responsible-if-new-features-create-room-for-fraud-govt/articleshow/132107006.cms",
+      "date": "2026-07-01T05:51:00Z"
     },
     {
       "title": "Why Ask Credentials If There Are Secret Codes&#x3f;, (Wed, Jul 1st)",
       "description": "[ISC] This morning, an interesting phishing email hit my mailbox. It targets Metamask&#x5b;1&#x5d;, a cryptocurrency wallet, available as a browser extension and a mobile app, that lets users store, send, and receive crypto money. It&#x27s pretty popular,...",
       "url": "https://isc.sans.edu/diary/rss/33118",
       "date": "2026-07-01T05:10:20Z"
+    },
+    {
+      "title": "Key details about iPhone 18 Pro leak online after hackers gain access to 630 GB data from Tata Electronics",
+      "description": "[LIVEMINT] Leaks from Tata Electronics reveal details about Apple's upcoming iPhone 18 Pro, including component suppliers and internal documents after a ransomware attack. This breach, involving over 200,000 files, threatens Apple's supplier relationships and...",
+      "url": "https://www.livemint.com/technology/tech-news/details-about-iphone-18-pro-leak-tata-electronics-hack-630-gb-data-dark-web-11782881167034.html",
+      "date": "2026-07-01T05:04:26Z"
+    },
+    {
+      "title": "Four Indian Americans named to Carnegie's Great Immigrants list for 2026",
+      "description": "[THE ECONOMIC TIMES] Four prominent Indian Americans, including cybersecurity leader Nikesh Arora and Harvard professor Mahzarin Banaji, have been honored by the Carnegie Corporation of New York's Great Immigrants, Great Americans list for 2026. They join a...",
+      "url": "https://economictimes.indiatimes.com/nri/latest-updates/four-indian-americans-named-to-carnegies-great-immigrants-list-for-2026/articleshow/132106184.cms",
+      "date": "2026-07-01T04:52:53Z"
     },
     {
       "title": "Critical Infrastructure Cybersecurity",
@@ -102,54 +150,6 @@
       "description": "[MARKETSCREENER] None of China's major battery makers have received Japan's cybersecurity approval yet, despite an upcoming 2027 mandate requiring grid-connected storage equipment, Nikkei Asia reported on...",
       "url": "https://www.marketscreener.com/news/top-chinese-battery-makers-absent-from-japan-s-security-certification-ce7f5fdddd8af521",
       "date": "2026-07-01T01:10:18Z"
-    },
-    {
-      "title": "CIA boss compares cutting-edge AI to nuclear weapons",
-      "description": "[THE STRAITS TIMES] He detailed a reorganisation of the CIA around cybersecurity. Read more at straitstimes.com.",
-      "url": "https://www.straitstimes.com/world/united-states/cia-boss-compares-cutting-edge-ai-to-nuclear-weapons",
-      "date": "2026-07-01T00:48:00Z"
-    },
-    {
-      "title": "Anthropic to restore Claude Fable access on Wednesday",
-      "description": "[BLEEPINGCOMPUTER] Anthropic has confirmed that the Department of Commerce has lifted export controls on Claude's two most powerful models, Fable 5 and Mythos 5. [...]",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-to-restore-claude-fable-access-on-wednesday/",
-      "date": "2026-07-01T00:35:14Z"
-    },
-    {
-      "title": "Quantum eMotion to Sponsor AI for Good Global Summit and Participate in Cybersecurity Panel",
-      "description": "[WALLSTREET ONLINE] 01.07.2026 - Montreal, Quebec--(Newsfile Corp. - June 30, 2026) - Quantum eMotion Corp. (TSXV: QNC) (NYSE American: QNC) (FSE: 34Q0) ('QeM' or the 'Company'), a leader in quantum-secure cybersecurity solutions, is pleased to announce its...",
-      "url": "https://www.wallstreet-online.de/nachricht/21059745-quantum-emotion-to-sponsor-ai-for-good-global-summit-and-participate-cybersecurity-panel",
-      "date": "2026-06-30T22:16:21Z"
-    },
-    {
-      "title": "Anthropic Wants You to Know Its New AI Model Is Definitely Not Too Dangerous to Release",
-      "description": "[GIZMODO] Claude Sonnet 5 delivers impressive agentic capabilities at a relatively low cost. It\u2019s also really bad at cybersecurity\u2014probably for the reason you\u2019d expect.",
-      "url": "https://gizmodo.com/anthropic-wants-you-to-know-its-new-ai-model-is-definitely-not-too-dangerous-to-release-2000779800",
-      "date": "2026-06-30T21:00:12Z"
-    },
-    {
-      "title": "Lawsuit filed in Alberta over data breach that affected almost three million voters",
-      "description": "[THE GLOBE AND MAIL] Names and addresses for 2.9 million registered Alberta voters were accessible on a separatist website, elections officials said",
-      "url": "https://www.theglobeandmail.com/world/article-lawsuit-alberta-voter-data-breach-separatism/",
-      "date": "2026-06-30T20:27:25Z"
-    },
-    {
-      "title": "Palo Alto, CrowdStrike wrap best quarter ever as AI bolsters demand",
-      "description": "[CNBC] The cybersecurity leaders are leaning into identity security, a critical cyber segment, as AI agents outnumber humans",
-      "url": "https://www.cnbc.com/2026/06/30/palo-alto-crowdstrike-stock-ai-mythos.html",
-      "date": "2026-06-30T20:11:37Z"
-    },
-    {
-      "title": "Cybersecurity, AI, Chinese imports dominate PM Modi\u2019s meet with secretaries",
-      "description": "[TIMES OF INDIA] India News: NEW DELHI: Concerns about cheap imports from China, including dumping of some products, at a time when its growth has slowed down found a reflection a.",
-      "url": "https://timesofindia.indiatimes.com/india/cybersecurity-ai-chinese-imports-dominate-pm-modis-meet-with-secretaries/articleshow/132101190.cms",
-      "date": "2026-06-30T19:42:00Z"
-    },
-    {
-      "title": "Don't worry, banks have shock absorbers: RBI",
-      "description": "[THE ECONOMIC TIMES] In its bi-annual Financial Stability Report, the RBI flagged concerns over customer service in the insurance sector and again cautioned that rising interconnectedness among financial institutions could act as a potential channel for contagion. The...",
-      "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/dont-worry-banks-have-shock-absorbers-rbi/articleshow/132101177.cms",
-      "date": "2026-06-30T19:39:00Z"
     },
     {
       "title": "The Realities of AI Video Surveillance",
