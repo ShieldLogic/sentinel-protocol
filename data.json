@@ -1,6 +1,30 @@
 {
-  "updated": "2026-07-02 13:29:44 UTC",
+  "updated": "2026-07-02 15:59:23 UTC",
   "news": [
+    {
+      "title": "ThreatsDay: AI Compute Hijacking, Apple Email Flaw, BlueHammer Ransomware + 14 Stories",
+      "description": "[FEEDS] This week\u2019s security news is mostly about weak spots. Browsers, bots, sandboxes, AI systems, and email flows all show the same problem in different ways. Everything looks normal until someone tests a small gap and finds a way through. This is not...",
+      "url": "https://thehackernews.com/2026/07/threatsday-ai-compute-hijacking-apple.html",
+      "date": "2026-07-02T15:24:18Z"
+    },
+    {
+      "title": "Google loses final appeal to overturn \u20ac4.1 billion EU fine",
+      "description": "[BLEEPINGCOMPUTER] Court of Justice of the European Union (CJEU) has dismissed Google's final appeal against a \u20ac4.1 billion ($4.7 billion) antitrust fine over the company's use of Android to promote its Chrome browser and search service. [...]",
+      "url": "https://www.bleepingcomputer.com/news/legal/google-loses-final-appeal-to-overturn-41-billion-eu-fine/",
+      "date": "2026-07-02T15:18:51Z"
+    },
+    {
+      "title": "ConsentFix and ClickFix: How Microsoft 365 Accounts are Hijacked in 3 Seconds",
+      "description": "[BLEEPINGCOMPUTER] ConsentFix and ClickFix attacks steal Microsoft 365 tokens in seconds using fake prompts and OAuth flows. Learn how these MFA bypass tactics work and how to defend against them. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/consentfix-and-clickfix-how-microsoft-365-accounts-are-hijacked-in-3-seconds/",
+      "date": "2026-07-02T14:00:10Z"
+    },
+    {
+      "title": "ToddyCat-Linked Umbrij Malware Abuses OAuth to Access Gmail via Google API",
+      "description": "[FEEDS] The threat actor known as ToddyCat has been attributed to a new malware called Umbrij that's designed to gain surreptitious access to a victim's email correspondence via the Google API. \"In this campaign, the attackers focused their attention on...",
+      "url": "https://thehackernews.com/2026/07/toddycat-linked-umbrij-malware-abuses.html",
+      "date": "2026-07-02T13:04:13Z"
+    },
     {
       "title": "Microsoft fixes bug that removed Copilot buttons in Outlook",
       "description": "[BLEEPINGCOMPUTER] Microsoft has fixed a known issue causing the Copilot Chat or Copilot buttons in Classic Outlook to disappear for Windows users with the Copilot Chat (Basic) license. [...]",
@@ -44,12 +68,6 @@
       "date": "2026-07-02T09:13:13Z"
     },
     {
-      "title": "Alleged Scattered Spider hacker extradited to the United States",
-      "description": "[BLEEPINGCOMPUTER] A dual United States and Estonian citizen has been extradited to the U.S. to face charges alleging he was a member of the Scattered Spider hacking collective. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/alleged-scattered-spider-hacker-extradited-to-the-united-states/",
-      "date": "2026-07-02T08:58:25Z"
-    },
-    {
       "title": "FortiBleed Credential Theft Linked to INC and Lynx Ransomware Operations",
       "description": "[FEEDS] The recently discovered financially-motivated FortiBleed campaign has been attributed to INC and Lynx ransomware operations, indicating that the verified, stolen credentials were intended for follow-on intrusions. \"An operator tied to FortiBleed's...",
       "url": "https://thehackernews.com/2026/07/fortibleed-credential-theft-linked-to.html",
@@ -62,16 +80,16 @@
       "date": "2026-07-02T07:24:23Z"
     },
     {
-      "title": "SharePoint RCE CVE-2026-45659 Added to CISA KEV After Active Exploitation",
-      "description": "[FEEDS] The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a high-severity flaw impacting Microsoft SharePoint Server to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The...",
-      "url": "https://thehackernews.com/2026/07/sharepoint-rce-cve-2026-45659-added-to.html",
-      "date": "2026-07-02T05:46:45Z"
+      "title": "Philippine school shooting shines light on global online extremist network targeting children",
+      "description": "[THE STAR] MANILA: The recent deadly school shooting in Tacloban City, central Philippines, may be linked to a global online extremist network that recruits and radicalises vulnerable children through popular video games, investigators and cybersecurity...",
+      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/07/02/philippine-school-shooting-shines-light-on-global-online-extremist-network-targeting-children",
+      "date": "2026-07-02T02:41:00Z"
     },
     {
-      "title": "Medtronic notifies customers impacted by ShinyHunters data breach",
-      "description": "[BLEEPINGCOMPUTER] Healthcare device firm Medtronic is notifying affected customers about a data breach that exposed their personal data to an unauthorized third party. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/medtronic-notifies-customers-impacted-by-shinyhunters-data-breach/",
-      "date": "2026-07-02T04:25:42Z"
+      "title": "WhatsApp is bringing usernames, what does it mean for privacy and cybersecurity?",
+      "description": "[INDIA TODAY] WhatsApp has announced that it is bringing usernames to the app. But this has sparked debate over how useful and secure usernames could be compared to phone numbers. And will usernames actually be used by people in India?",
+      "url": "https://www.indiatoday.in/technology/features/story/whatsapp-is-bringing-usernames-what-does-it-mean-for-privacy-and-cybersecurity-2938767-2026-07-02",
+      "date": "2026-07-02T02:15:49Z"
     },
     {
       "title": "ISC Stormcast For Thursday, July 2nd, 2026 https://isc.sans.edu/podcastdetail/9992, (Thu, Jul 2nd)",
@@ -104,12 +122,6 @@
       "date": "2026-07-01T20:00:34Z"
     },
     {
-      "title": "Unpatched Argo CD Repo-Server Flaw Could Let Attackers Take Over Kubernetes Clusters",
-      "description": "[FEEDS] Argo CD, a widely used tool for deploying software to Kubernetes, has an unpatched flaw in its repo-server component that lets an unauthenticated attacker run code, provided they can reach the component's internal network port. Synacktiv, which...",
-      "url": "https://thehackernews.com/2026/07/unpatched-argo-cd-repo-server-flaw.html",
-      "date": "2026-07-01T19:40:06Z"
-    },
-    {
       "title": "Old Dominion University Launches First Ph.D. in Cybersecurity in Virginia",
       "description": "[THE MANILA TIMES] The Ph.D. program will highlight the interdisciplinary nature of the rapidly evolving field of cybersecurity, with artificial intelligence and other emerging technologies.",
       "url": "https://www.manilatimes.net/2026/07/02/tmt-newswire/globenewswire/old-dominion-university-launches-first-phd-in-cybersecurity-in-virginia/2377083",
@@ -132,18 +144,6 @@
       "description": "[BANGKOK POST] Modernised network infrastructure and cybersecurity are critical foundations for business transformation in the agentic artificial intelligence (AI) era, says Cisco Systems.",
       "url": "https://www.bangkokpost.com/business/general/3279710/cisco-flags-infrastructure-gaps-in-ai-push",
       "date": "2026-07-01T17:13:00Z"
-    },
-    {
-      "title": "Here Are The Safety Concerns That Anthropic\u2019s Fable 5 and Mythos 5 Faced",
-      "description": "[FORBES] The U.S. government slapped Anthropic with export restrictions days after the Fable 5 model was released to the greater public over cybersecurity safety concerns.",
-      "url": "https://www.forbes.com/sites/zacharyfolk/2026/07/01/anthropics-fable-and-mythos-models-are-back-heres-what-the-government-was-concerned-about-in-the-first-place/",
-      "date": "2026-07-01T16:15:49Z"
-    },
-    {
-      "title": "AI-enabled cyber threats emerged as the leading perceived risk over the next 12 months: RBI survey",
-      "description": "[THE HINDU BUSINESS LINE] RBI survey reveals AI-enabled cyber threats as the top risk for financial institutions, urging enhanced cybersecurity investments and preparedness.",
-      "url": "https://www.thehindubusinessline.com/money-and-banking/ai-enabled-cyber-threats-emerged-as-the-leading-perceived-risk-over-the-next-12-months-rbi-survey/article71170978.ece",
-      "date": "2026-07-01T15:23:40Z"
     },
     {
       "title": "Papa Johns Surveillance-Based Advertising",
