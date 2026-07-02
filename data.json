@@ -1,6 +1,30 @@
 {
-  "updated": "2026-07-02 06:59:47 UTC",
+  "updated": "2026-07-02 10:28:20 UTC",
   "news": [
+    {
+      "title": "AI Agent Exploits Langflow RCE to Automate Database Ransomware Attack",
+      "description": "[FEEDS] Security firm&nbsp;Sysdig&nbsp;says it has found what it believes is the first ransomware attack run from start to finish by an AI agent. Its Threat Research Team calls the operator JADEPUFFER and says a large language model handled the whole job:...",
+      "url": "https://thehackernews.com/2026/07/ai-agent-exploits-langflow-rce-to.html",
+      "date": "2026-07-02T09:13:13Z"
+    },
+    {
+      "title": "Alleged Scattered Spider hacker extradited to the United States",
+      "description": "[BLEEPINGCOMPUTER] A dual United States and Estonian citizen has been extradited to the U.S. to face charges alleging he was a member of the Scattered Spider hacking collective. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/alleged-scattered-spider-hacker-extradited-to-the-united-states/",
+      "date": "2026-07-02T08:58:25Z"
+    },
+    {
+      "title": "FortiBleed Credential Theft Linked to INC and Lynx Ransomware Operations",
+      "description": "[FEEDS] The recently discovered financially-motivated FortiBleed campaign has been attributed to INC and Lynx ransomware operations, indicating that the verified, stolen credentials were intended for follow-on intrusions. \"An operator tied to FortiBleed's...",
+      "url": "https://thehackernews.com/2026/07/fortibleed-credential-theft-linked-to.html",
+      "date": "2026-07-02T08:00:49Z"
+    },
+    {
+      "title": "New ChocoPoC RAT Targets Vulnerability Researchers via Fake PoC Exploit Repos",
+      "description": "[FEEDS] Attackers are hiding a data-stealing trojan inside fake exploit code aimed at the people who hunt bugs for a living. The malware, called ChocoPoC, travels in Python proof-of-concept (PoC) repositories on GitHub that claim to exploit hot new CVEs....",
+      "url": "https://thehackernews.com/2026/07/new-chocopoc-rat-targets-vulnerability.html",
+      "date": "2026-07-02T07:24:23Z"
+    },
     {
       "title": "SharePoint RCE CVE-2026-45659 Added to CISA KEV After Active Exploitation",
       "description": "[FEEDS] The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a high-severity flaw impacting Microsoft SharePoint Server to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The...",
@@ -32,10 +56,28 @@
       "date": "2026-07-01T21:09:06Z"
     },
     {
+      "title": "When Cyber-Physical Risk Becomes A Life-Safety Threat",
+      "description": "[FORBES] Cyber-physical risk is reshaping cybersecurity, insurance and board oversight as connected infrastructure creates new threats to public safety and business resilience.",
+      "url": "https://www.forbes.com/sites/heatherwishartsmith/2026/07/01/when-cyber-physical-risk-becomes-a-life-safety-threat/",
+      "date": "2026-07-01T20:17:57Z"
+    },
+    {
       "title": "New ChocoPoC malware targets researchers via trojanized PoC exploits",
       "description": "[BLEEPINGCOMPUTER] Multiple weaponized proof-of-concept (PoC) exploits on GitHub were found delivering a Python-based remote access trojan (RAT) named ChocoPoC that can execute commands and steal sensitive data in a campaign believed to target cybersecurity...",
       "url": "https://www.bleepingcomputer.com/news/security/new-chocopoc-malware-targets-researchers-via-trojanized-poc-exploits/",
       "date": "2026-07-01T20:08:13Z"
+    },
+    {
+      "title": "XRP and BTC Among Coins Targeted in New Malware Campaign",
+      "description": "[U.TODAY] WARNING: Cybersecurity researchers at McAfee have uncovered \"Silent Swap,\" a highly sophisticated malware campaign that forcibly sideloads a fake \"Google Notes\" extension into Chromium browsers.",
+      "url": "https://u.today/xrp-and-btc-among-coins-targeted-in-new-malware-campaign",
+      "date": "2026-07-01T20:00:34Z"
+    },
+    {
+      "title": "Holders of XRP, ETH, BTC, and Other Tokens Targeted in New Malware Campaign",
+      "description": "[U.TODAY] Cybersecurity researchers at McAfee have uncovered \"Silent Swap,\" a highly sophisticated malware campaign that forcibly sideloads a fake \"Google Notes\" extension into Chromium browsers.",
+      "url": "https://u.today/holders-of-xrp-eth-btc-and-other-tokens-targeted-in-new-malware-campaign",
+      "date": "2026-07-01T20:00:34Z"
     },
     {
       "title": "Unpatched Argo CD Repo-Server Flaw Could Let Attackers Take Over Kubernetes Clusters",
@@ -50,6 +92,12 @@
       "date": "2026-07-01T19:28:07Z"
     },
     {
+      "title": "Old Dominion University Launches First Ph.D. in Cybersecurity in Virginia",
+      "description": "[THE MANILA TIMES] The Ph.D. program will highlight the interdisciplinary nature of the rapidly evolving field of cybersecurity, with artificial intelligence and other emerging technologies.",
+      "url": "https://www.manilatimes.net/2026/07/02/tmt-newswire/globenewswire/old-dominion-university-launches-first-phd-in-cybersecurity-in-virginia/2377083",
+      "date": "2026-07-01T19:14:07Z"
+    },
+    {
       "title": "Momentum Cyber Mid-Year 2026 Review: Cybersecurity M&A on Track for Highest Deal Count Ever Tracked",
       "description": "[THE MANILA TIMES] Fueled by a record-breaking first half, a blockbuster multi-billion-dollar June transaction, and AI Security officially maturing into an M&A reality, the market signals an aggressive shift toward transformative strategic outcomes",
       "url": "https://www.manilatimes.net/2026/07/02/tmt-newswire/globenewswire/momentum-cyber-mid-year-2026-review-cybersecurity-ma-on-track-for-highest-deal-count-ever-tracked/2377065",
@@ -62,22 +110,10 @@
       "date": "2026-07-01T18:02:48Z"
     },
     {
-      "title": "SEO-Poisoned Software Sites Abuse ScreenConnect to Deploy AsyncRAT",
-      "description": "[FEEDS] Unknown threat actors are leveraging the ScreenConnect remote access tool as a way to deploy and execute AsyncRAT. Kaspersky said the activity is part of a \"massive, multi-domain, multi-language\" campaign that distributes malicious installer...",
-      "url": "https://thehackernews.com/2026/07/seo-poisoned-software-sites-abuse.html",
-      "date": "2026-07-01T17:53:06Z"
-    },
-    {
       "title": "DHS confirms hackers breached HSIN info-sharing platform",
       "description": "[BLEEPINGCOMPUTER] The Department of Homeland Security is investigating a cyberattack that compromised the Homeland Security Information Network (HSIN), a sensitive information-sharing platform used by federal, state, local, and private-sector partners. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/dhs-confirms-hackers-breached-hsin-info-sharing-platform/",
       "date": "2026-07-01T17:32:22Z"
-    },
-    {
-      "title": "VEIL#DROP Malware Chain Uses Blogger Platform to Deliver PureLogs Stealer",
-      "description": "[FEEDS] Cybersecurity researchers have flagged a new multi-stage malware delivery attack chain that uses social engineering and Blogger pages to deliver an information stealer called PureLogs. The activity has been codenamed VEIL#DROP by Securonix. It's...",
-      "url": "https://thehackernews.com/2026/07/veildrop-malware-chain-uses-blogger.html",
-      "date": "2026-07-01T17:18:50Z"
     },
     {
       "title": "Cisco flags infrastructure gaps in AI push",
@@ -86,22 +122,10 @@
       "date": "2026-07-01T17:13:00Z"
     },
     {
-      "title": "Webinar: Why traditional email security is no longer enough",
-      "description": "[BLEEPINGCOMPUTER] Modern phishing, business email compromise, and account takeover attacks increasingly exploit trusted identities and legitimate business workflows, making them harder for traditional email defenses to detect. This webinar explores how behavioral AI...",
-      "url": "https://www.bleepingcomputer.com/news/security/webinar-why-traditional-email-security-is-no-longer-enough/",
-      "date": "2026-07-01T16:54:22Z"
-    },
-    {
       "title": "Here Are The Safety Concerns That Anthropic\u2019s Fable 5 and Mythos 5 Faced",
       "description": "[FORBES] The U.S. government slapped Anthropic with export restrictions days after the Fable 5 model was released to the greater public over cybersecurity safety concerns.",
       "url": "https://www.forbes.com/sites/zacharyfolk/2026/07/01/anthropics-fable-and-mythos-models-are-back-heres-what-the-government-was-concerned-about-in-the-first-place/",
       "date": "2026-07-01T16:15:49Z"
-    },
-    {
-      "title": "Ousaban Banking Trojan Targets Iberian Bank Users with Fake PDF Lures",
-      "description": "[FEEDS] A Brazilian banking trojan called Ousaban is going after Windows users who bank in Spain and Portugal.&nbsp;Fortinet's FortiGuard Labs&nbsp;identified the campaign in May 2026. It opens with a phishing PDF disguised as a corrupted file, checks that...",
-      "url": "https://thehackernews.com/2026/07/ousaban-banking-trojan-targets-iberian.html",
-      "date": "2026-07-01T15:26:55Z"
     },
     {
       "title": "AI-enabled cyber threats emerged as the leading perceived risk over the next 12 months: RBI survey",
@@ -111,33 +135,9 @@
     },
     {
       "title": "Cal Water says cybersecurity breach by Iranian-linked hackers was limited",
-      "description": "[THE MERCURY NEWS] Hackers infiltrated 'a small number' of customer accounts, the utility claims.",
-      "url": "https://www.mercurynews.com/2026/07/01/cal-water-confirms-limited-breach-in-cybersecurity-attack/",
-      "date": "2026-07-01T15:11:43Z"
-    },
-    {
-      "title": "Cal Water says cybersecurity breach by Iranian-linked hackers was limited",
       "description": "[SANTA ROSA PRESS DEMOCRAT] Hackers infiltrated 'a small number' of customer accounts, the utility claims.",
       "url": "https://www.pressdemocrat.com/2026/07/01/cal-water-confirms-limited-breach-in-cybersecurity-attack/",
       "date": "2026-07-01T15:11:43Z"
-    },
-    {
-      "title": "Trump administration lifts restrictions on Anthropic's Claude models",
-      "description": "[THE BOSTON HERALD] The Trump administration lifted restrictions on AI company Anthropic\u2019s Claude chatbot, ending a ban tied to cybersecurity concerns.",
-      "url": "https://www.bostonherald.com/2026/07/01/trump-administration-lifts-restrictions-anthropic-claude-models/",
-      "date": "2026-07-01T14:53:00Z"
-    },
-    {
-      "title": "Trump administration lifts restrictions on Anthropic's Claude models",
-      "description": "[HARTFORD COURANT] The Trump administration lifted restrictions on AI company Anthropic\u2019s Claude chatbot, ending a ban tied to cybersecurity concerns.",
-      "url": "https://www.courant.com/2026/07/01/trump-administration-lifts-restrictions-anthropic-claude-models/",
-      "date": "2026-07-01T14:53:00Z"
-    },
-    {
-      "title": "Trump administration lifts restrictions on Anthropic's Claude models",
-      "description": "[BOULDER DAILY CAMERA] The Trump administration lifted restrictions on AI company Anthropic\u2019s Claude chatbot, ending a ban tied to cybersecurity concerns.",
-      "url": "https://www.dailycamera.com/2026/07/01/trump-administration-lifts-restrictions-anthropic-claude-models/",
-      "date": "2026-07-01T14:53:00Z"
     },
     {
       "title": "Papa Johns Surveillance-Based Advertising",
