@@ -1,197 +1,124 @@
 {
-  "updated": "2026-07-03 12:00:02 UTC",
-  "news": [
-    {
-      "title": "Flock Cameras Can Surveil Cars Without License Plates",
-      "description": "[SCHNEIER] This is from a 2024 company presentation: Officers can also tap into data showing a car&#8217;s decals, bumper stickers, back and top racks&#8212;along with temporary and unique state tags. Flock calls it a &#8220;Vehicle Fingerprint&#8221; and...",
-      "url": "https://www.schneier.com/blog/archives/2026/07/flock-cameras-can-surveil-cars-without-license-plates.html",
-      "date": "2026-07-03T11:15:25Z"
-    },
-    {
-      "title": "European Parliament Member Investigating Spyware Was Hacked With Pegasus",
-      "description": "[FEEDS] A new report from the Citizen Lab has revealed that former Member of the European Parliament Stelios Kouloglou had his mobile device repeatedly hacked with the notorious Pegasus spyware while serving on a committee that was tasked with investigating...",
-      "url": "https://thehackernews.com/2026/07/european-parliament-member.html",
-      "date": "2026-07-03T11:05:43Z"
-    },
-    {
-      "title": "PamStealer Uses Fake Maccy Sites and PAM Checks to Steal Mac Login Passwords",
-      "description": "[FEEDS] Cybersecurity researchers have flagged a new macOS information stealer called PamStealer that employs a series of clever tricks to infect systems and siphon sensitive data. The stealer, discovered by Jamf Threat Labs, is distributed as a compiled...",
-      "url": "https://thehackernews.com/2026/07/pamstealer-uses-fake-maccy-sites-and.html",
-      "date": "2026-07-03T08:03:37Z"
-    },
-    {
-      "title": "Claude Fable 5 isn\u2019t permanently leaving subscriptions, Anthropic says",
-      "description": "[BLEEPINGCOMPUTER] Anthropic says Claude Fable 5 won't be accessible via Claude subscriptions after July 7, but it's not a permanent change, and the company expects the model to return outside the usage-based plan soon. [...]",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-fable-5-isnt-permanently-leaving-subscriptions-anthropic-says/",
-      "date": "2026-07-03T01:37:09Z"
-    },
-    {
-      "title": "Claude Fable relaunch disappoints users with nerfed performance",
-      "description": "[BLEEPINGCOMPUTER] Claude Fable, the company's most powerful model, is now available to all users, but early impressions are disappointing, as it appears to be nowhere near the original release. [...]",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-fable-relaunch-disappoints-users-with-nerfed-performance/",
-      "date": "2026-07-03T00:48:30Z"
-    },
-    {
-      "title": "VIA hosts cybersecurity event at Child & Family Center",
-      "description": "[SANTA CLARITA VALLEY SIGNAL] The Valley Industry Association\u2019s monthly luncheon focused on cybersecurity at the Child & Family Center\u2019s Education Center on Tuesday. Attendees got to enjoy lunch and mingle before the presentation, \u201cThe Cyber Threat You Don\u2019t See Coming: [\u2026]",
-      "url": "https://signalscv.com/2026/07/via-hosts-cybersecurity-event-at-child-family-center/",
-      "date": "2026-07-02T22:15:16Z"
-    },
-    {
-      "title": "Akron Public Schools investigating scope of cyber incident",
-      "description": "[AKRON BEACON JOURNAL] Akron Public Schools says officials are working with external cybersecurity experts to investigate a \"cyber incident.\"",
-      "url": "https://www.beaconjournal.com/story/news/education/2026/07/02/akron-schools-says-cyber-incident-led-to-summer-school-cancellations/90788783007/",
-      "date": "2026-07-02T21:08:01Z"
-    },
-    {
-      "title": "St. Paul data breach: 12,484 residents, employees notified after July 2025 cyberattack",
-      "description": "[FOX 9] The City of St. Paul is reaching out to thousands of people whose personal data may have been compromised in a 2025 cyberattack.",
-      "url": "https://www.fox9.com/news/st-paul-data-breach-july-2025-cyberattack-update",
-      "date": "2026-07-02T20:31:07Z"
-    },
-    {
-      "title": "Guardrails in the works to prevent tampering with EV batteries",
-      "description": "[THE ECONOMIC TIMES] Authorities are set to introduce stringent measures to prevent tampering with electric two and three-wheeler batteries. New regulations will mandate cybersecurity for imported e-rickshaws and scooters, while mobile apps capable of sabotaging...",
-      "url": "https://economictimes.indiatimes.com/industry/renewables/guardrails-in-the-works-to-prevent-tampering-with-ev-batteries/articleshow/132146835.cms",
-      "date": "2026-07-02T19:18:00Z"
-    },
-    {
-      "title": "CrowdStrike Begins Split-Adjusted Trading Following 4-for-1 Stock Split",
-      "description": "[BENZINGA] CrowdStrike Holdings shares are edging higher Thursday afternoon as traders reward large-cap cybersecurity names, despite a risk-off tape.",
-      "url": "https://www.benzinga.com/trading-ideas/movers/26/07/60256885/crowdstrike-begins-split-adjusted-trading-following-4-for-1-stock-split",
-      "date": "2026-07-02T18:54:30Z"
-    },
-    {
-      "title": "Google Disrupts NetNut Residential Proxy Network Spanning 2 Million Home Devices",
-      "description": "[FEEDS] Google has significantly degraded NetNut, one of the biggest networks that turns home devices into rented relays for other people's traffic. Working with the FBI, Lumen, and others, Google's Threat Intelligence Group (GTIG)&nbsp;said this...",
-      "url": "https://thehackernews.com/2026/07/google-disrupts-netnut-residential.html",
-      "date": "2026-07-02T18:54:06Z"
-    },
-    {
-      "title": "Ransomware Groups Turn to Citrix Bleed 2, BYOVD, and Supply Chain Credentials",
-      "description": "[FEEDS] Threat actors associated with the Anubis ransomware operation have been observed exploiting the Citrix Bleed 2 (CVE-2025-5777) vulnerability to obtain initial access. \"Although tactics differ between affiliates, common patterns emerged in tradecraft...",
-      "url": "https://thehackernews.com/2026/07/ransomware-groups-turn-to-citrix-bleed.html",
-      "date": "2026-07-02T18:30:33Z"
-    },
-    {
-      "title": "Hackers Breached A Key Homeland Security Network. The U.S. Government Is Racing To Find Out How.",
-      "description": "[INTERNATIONAL BUSINESS TIMES] The U.S. government is investigating yet another significant cybersecurity breach after hackers infiltrated a key Department of Homeland Security (DHS) information-sharing platform used by thousands",
-      "url": "https://www.ibtimes.com/hackers-breached-key-homeland-security-network-us-government-racing-find-out-how-3804839",
-      "date": "2026-07-02T17:47:28Z"
-    },
-    {
-      "title": "ThreatsDay: AI Compute Hijacking, Apple Email Flaw, BlueHammer Ransomware + 14 Stories",
-      "description": "[FEEDS] This week\u2019s security news is mostly about weak spots. Browsers, bots, sandboxes, AI systems, and email flows all show the same problem in different ways. Everything looks normal until someone tests a small gap and finds a way through. This is not...",
-      "url": "https://thehackernews.com/2026/07/threatsday-ai-compute-hijacking-apple.html",
-      "date": "2026-07-02T15:24:18Z"
-    },
-    {
-      "title": "Google loses final appeal to overturn \u20ac4.1 billion EU fine",
-      "description": "[BLEEPINGCOMPUTER] Court of Justice of the European Union (CJEU) has dismissed Google's final appeal against a \u20ac4.1 billion ($4.7 billion) antitrust fine over the company's use of Android to promote its Chrome browser and search service. [...]",
-      "url": "https://www.bleepingcomputer.com/news/legal/google-loses-final-appeal-to-overturn-41-billion-eu-fine/",
-      "date": "2026-07-02T15:18:51Z"
-    },
-    {
-      "title": "ConsentFix and ClickFix: How Microsoft 365 Accounts are Hijacked in 3 Seconds",
-      "description": "[BLEEPINGCOMPUTER] ConsentFix and ClickFix attacks steal Microsoft 365 tokens in seconds using fake prompts and OAuth flows. Learn how these MFA bypass tactics work and how to defend against them. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/consentfix-and-clickfix-how-microsoft-365-accounts-are-hijacked-in-3-seconds/",
-      "date": "2026-07-02T14:00:10Z"
-    },
-    {
-      "title": "ToddyCat-Linked Umbrij Malware Abuses OAuth to Access Gmail via Google API",
-      "description": "[FEEDS] The threat actor known as ToddyCat has been attributed to a new malware called Umbrij that's designed to gain surreptitious access to a victim's email correspondence via the Google API. \"In this campaign, the attackers focused their attention on...",
-      "url": "https://thehackernews.com/2026/07/toddycat-linked-umbrij-malware-abuses.html",
-      "date": "2026-07-02T13:04:13Z"
-    },
-    {
-      "title": "Microsoft fixes bug that removed Copilot buttons in Outlook",
-      "description": "[BLEEPINGCOMPUTER] Microsoft has fixed a known issue causing the Copilot Chat or Copilot buttons in Classic Outlook to disappear for Windows users with the Copilot Chat (Basic) license. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-that-removed-copilot-button-in-outlook/",
-      "date": "2026-07-02T12:15:47Z"
-    },
-    {
-      "title": "CERT-In issues critical warning for iPhone, iPad and Mac users: Update Apple devices immediately",
-      "description": "[INDIA TV NEWS] The Indian Computer Emergency Response Team (CERT-In) has issued a critical cybersecurity advisory for Apple users, warning of multiple security vulnerabilities affecting iPhones, iPads, Macs and Safari.",
-      "url": "https://www.indiatvnews.com/technology/news/cert-in-issues-critical-warning-for-iphone-ipad-and-mac-users-update-apple-devices-immediately-2026-07-02-1046919",
-      "date": "2026-07-02T12:12:51Z"
-    },
-    {
-      "title": "Trump Imposed Export Controls on Anthropic. Now the Company is Adding New AI Guardrails to Lift Them",
-      "description": "[INTERNATIONAL BUSINESS TIMES] Anthropic expanded an existing safety mechanism designed to prevent users from accessing particularly sensitive cybersecurity capabilities within its AI models.",
-      "url": "https://www.ibtimes.com/trump-imposed-export-controls-anthropic-now-company-adding-new-ai-guardrails-lift-them-3804813",
-      "date": "2026-07-02T12:02:11Z"
-    },
-    {
-      "title": "Cisco finally confirms attackers exploiting Unified CM flaw",
-      "description": "[BLEEPINGCOMPUTER] Cisco confirmed that attackers are now exploiting a Unified Communications Manager (Unified CM) vulnerability patched in early June. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/cisco-finally-confirms-attackers-exploiting-unified-cm-flaw/",
-      "date": "2026-07-02T11:35:25Z"
-    },
-    {
-      "title": "Cybersecurity Mission Creep in the US",
-      "description": "[SCHNEIER] Interesting paper: &#8220;Cybersecurity Mission Creep.&#8221; Abstract: Cybersecurity is experiencing mission creep. Policymakers are casting more and more problems as issues of cybersecurity. So reframed, wildly different policy issues, from...",
-      "url": "https://www.schneier.com/blog/archives/2026/07/cybersecurity-mission-creep-in-the-us.html",
-      "date": "2026-07-02T11:11:44Z"
-    },
-    {
-      "title": "ISC Stormcast For Thursday, July 2nd, 2026 https://isc.sans.edu/podcastdetail/9992, (Thu, Jul 2nd)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33120",
-      "date": "2026-07-02T02:00:02Z"
-    },
-    {
-      "title": "Papa Johns Surveillance-Based Advertising",
-      "description": "[SCHNEIER] Papa Johns is spying on people&#8217;s buying activities to predict when they are low on food: The pizza chain recently tapped NBCUniversal, Instacart and the dentsu-owned media agency Carat for help reaching consumers when they&#8217;re low on...",
-      "url": "https://www.schneier.com/blog/archives/2026/07/papa-johns-surveillance-based-advertising.html",
-      "date": "2026-07-01T10:53:23Z"
-    },
-    {
-      "title": "Why Ask Credentials If There Are Secret Codes&#x3f;, (Wed, Jul 1st)",
-      "description": "[ISC] This morning, an interesting phishing email hit my mailbox. It targets Metamask&#x5b;1&#x5d;, a cryptocurrency wallet, available as a browser extension and a mobile app, that lets users store, send, and receive crypto money. It&#x27s pretty popular,...",
-      "url": "https://isc.sans.edu/diary/rss/33118",
-      "date": "2026-07-01T05:10:20Z"
-    },
-    {
-      "title": "ISC Stormcast For Wednesday, July 1st, 2026 https://isc.sans.edu/podcastdetail/9990, (Wed, Jul 1st)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33116",
-      "date": "2026-07-01T02:00:03Z"
-    },
-    {
-      "title": "The Realities of AI Video Surveillance",
-      "description": "[SCHNEIER] The Financial Times has a good article on how AI is changing the capabilities of video surveillance, with information from both Israel/Iran and Russia. I wrote about this sort of thing a few years ago, how AI enables mass spying in the way that...",
-      "url": "https://www.schneier.com/blog/archives/2026/06/the-realities-of-ai-video-surveillance.html",
-      "date": "2026-06-30T12:05:57Z"
-    },
-    {
-      "title": "June 2026 Apple Updates, (Tue, Jun 30th)",
-      "description": "[ISC] Apple released updates for iOS/iPadOS, macOS, and Safari on Monday. There have been no updates for other Apple operating systems (visionOS, watchOS, tvOS). Usually, Apple updates all products at the same time.&#xd;",
-      "url": "https://isc.sans.edu/diary/rss/33114",
-      "date": "2026-06-30T09:31:27Z"
-    },
-    {
-      "title": "ISC Stormcast For Tuesday, June 30th, 2026 https://isc.sans.edu/podcastdetail/9988, (Tue, Jun 30th)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33112",
-      "date": "2026-06-30T02:25:12Z"
-    },
-    {
-      "title": "Factoring RSA Keys with Many Zeros",
-      "description": "[SCHNEIER] Interesting research on a new class of weak RSA keys: keys with lots of zeros. It turns out that these keys are out in the wild. The badkeys project is an open-source service that checks public keys for known vulnerabilities. While developing this...",
-      "url": "https://www.schneier.com/blog/archives/2026/06/factoring-rsa-keys-with-many-zeros.html",
-      "date": "2026-06-29T16:05:18Z"
-    },
-    {
-      "title": "Adding some Automation to the favicon.ico method of Host Recon, (Mon, Jun 29th)",
-      "description": "[ISC] I&&#x23&#x3b;x26&#x3b;&#x23&#x3b;39&#x3b;m in the throes of target host recon for another pentest, and thought I&&#x23&#x3b;x26&#x3b;&#x23&#x3b;39&#x3b;d share some workflow / automation stuff.&#xd; In the past,...",
-      "url": "https://isc.sans.edu/diary/rss/33110",
-      "date": "2026-06-29T12:00:54Z"
-    },
-    {
-      "title": "Robot Police Officers",
-      "description": "[SCHNEIER] We&#8217;ve taken one small step towards robot police officers: a drone capable of disarming a suspect: In a June 22 video posted on the Sacramento County Sheriff\u2019s Office\u2019s Instagram page, an officer wearing goggles can be seen operating a drone to...",
-      "url": "https://www.schneier.com/blog/archives/2026/06/robot-police-officers.html",
-      "date": "2026-06-29T10:55:33Z"
-    }
-  ]
+    "title": "Sentinel Protocol",
+    "tagline": "Perimeter Intelligence Sync",
+    "updated": "2026-07-03 12:54 UTC",
+    "news": [
+        {
+            "source": {
+                "id": null,
+                "name": "Infosecurity Magazine"
+            },
+            "author": "Kevin  Poireault",
+            "title": "Researcher Behind 'Exploitarium' Explains Release of Undisclosed Zero-Day Exploits",
+            "description": "Infosecurity spoke with the researcher who dumped over 30 proof-of-concept exploits without disclosing the vulnerabilities first",
+            "url": "https://www.infosecurity-magazine.com/news/researcher-exploitarium-exploits/",
+            "urlToImage": "https://assets.infosecurity-magazine.com/webpage/og/f25bd269-4211-47e1-950d-1309d80b08ac.jpg",
+            "publishedAt": "2026-07-02T12:51:00Z",
+            "content": "A pseudonymous security researcher has released over 30 proof-of-concept exploits for zero-day vulnerabilities in open-source projects without disclosing them to the maintainers first.\r\nThe dump, cal\u2026 [+8438 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Healthsystemcio.com"
+            },
+            "author": "Anthony Guerra",
+            "title": "DHS Revives Critical Infrastructure Threat Sharing, Without the Legal Shield Industry Wants",
+            "description": "The federal threat-sharing channel the health sector lost in 2025 is back under a new name. One protection CISOs relied on didn't return, and the sector's own ISAC is already asking why.\nSource: DHS Revives Critical Infrastructure Threat Sharing, Without the \u2026",
+            "url": "https://healthsystemcio.com/2026/07/02/anchor-ci-threat-sharing/",
+            "urlToImage": "https://healthsystemcio.com/wp-content/uploads/2026/05/news-200.png",
+            "publishedAt": "2026-07-02T12:44:15Z",
+            "content": "The Department of Homeland Security has stood up a successor to the critical infrastructure partnership system it dismantled 15 months ago. The move restores a formal channel for government and indus\u2026 [+3689 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MacRumors"
+            },
+            "author": "Tim Hardwick",
+            "title": "Opera Browser Gains Protection Against Malicious Clipboard Commands",
+            "description": "Opera browser has announced a new security feature called Paste Protect that aims to stop clipboard-based cyberattacks before their malicious commands can be accidentally executed.\n\n\n\n\n\nOpera says it's the first major browser to offer native protection agains\u2026",
+            "url": "https://www.macrumors.com/2026/07/02/opera-browser-clipboard-command-protection/",
+            "urlToImage": "https://images.macrumors.com/t/C_HMyBqEYTNMHPcUwuX39vg4lzE=/2560x/article-new/2026/07/Paste-Protect-opera.jpg",
+            "publishedAt": "2026-07-02T12:40:52Z",
+            "content": "Opera browser has announced a new security feature called Paste Protect that aims to stop clipboard-based cyberattacks before their malicious commands can be accidentally executed.\r\nOpera says it's t\u2026 [+2173 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BleepingComputer"
+            },
+            "author": "",
+            "title": "Sezar7/KalinkaCrypt Ransomware (.Sezar7; Contact-Note.txt) Support Topic",
+            "description": "Page 1 of 3 - Sezar7/KalinkaCrypt Ransomware (.Sezar7; Contact-Note.txt) Support Topic - posted in Ransomware Help & Tech Support: Hello,\n\u00a0\nMy Windows Server 2022 was infected with ransomware\u00a0\nthat appends .Sezar7 extension to encrypted files.\n\u00a0\nINFECTION DET\u2026",
+            "url": "https://www.bleepingcomputer.com/forums/t/816977/sezar7kalinkacrypt-ransomware-sezar7;-contact-notetxt-support-topic/",
+            "urlToImage": "https://www.bleepingcomputer.com/forums/public/style_images/master/meta_image.png",
+            "publishedAt": "2026-07-02T12:39:33Z",
+            "content": "Hi,\r\nThank you for the sample.\r\nI checked the beginning of the database file, and it appears that only the SQL Server database header page has been encrypted. The header starts with encrypted bytes s\u2026 [+860 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Malwarebytes.com"
+            },
+            "author": "Pieter Arntz",
+            "title": "WinRAR flaw could allow attackers to take control of your computer",
+            "description": "A new WinRAR update fixes a serious security flaw, but without automatic updates many users could miss the patch.",
+            "url": "https://www.malwarebytes.com/blog/news/2026/07/winrar-flaw-could-allow-attackers-to-take-control-of-your-computer",
+            "urlToImage": "https://www.malwarebytes.com/wp-content/uploads/sites/2/2025/08/WinRAR_logo.jpg",
+            "publishedAt": "2026-07-02T12:38:12Z",
+            "content": "Rarlab has released a new version of the popular WinRAR tool to patch a vulnerability that can be abused in remote code execution attacks.\r\nThe issue is fixed in WinRAR 7.23, but users must install t\u2026 [+2341 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PRNewswire"
+            },
+            "author": null,
+            "title": "Xperteks Computer Consultancy, Inc. Named to 2026 MSP 501, the Technology Industry's Most Prestigious Ranking of Global Managed Service Providers",
+            "description": "Annual MSP 501 Identifies Best of the Best in the Managed Services Industry NEW YORK, July 2, 2026 /PRNewswire/ -- Xperteks Computer Consultancy, Inc., a New York-based Apple Authorized Reseller and managed IT services provider, has earned a coveted spot on t\u2026",
+            "url": "https://www.prnewswire.com/news-releases/xperteks-computer-consultancy-inc-named-to-2026-msp-501-the-technology-industrys-most-prestigious-ranking-of-global-managed-service-providers-302816852.html",
+            "urlToImage": "https://mmx.prnewswire.com/media/MS1876526/Xperteks-Computer-Consultancy-MSP-501-2026-Winner.jpg?id=OA2747721&p=facebook",
+            "publishedAt": "2026-07-02T12:32:00Z",
+            "content": "Annual MSP 501 Identifies Best of the Best in the Managed Services Industry \r\nNEW YORK, July 2, 2026 /PRNewswire/ --\u00a0Xperteks Computer Consultancy, Inc., a New York-based Apple Authorized Reseller an\u2026 [+2973 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Geeky Gadgets"
+            },
+            "author": "Roland Hutchinson",
+            "title": "Massive Supplier Cyberattack Leaks Apple\u2019s Confidential iPhone 18 Pro Schematics",
+            "description": "A significant leak concerning the iPhone 18 Pro has emerged, reportedly resulting from a cyberattack on Tarta Electronics, one of Apple\u2019s key manufacturing partners in India. The breach has revealed critical details about the upcoming device, including subtle\u2026",
+            "url": "https://www.geeky-gadgets.com/iphone-18-pro-leak-details/",
+            "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2026/07/iphone-18-pro-leak.jpg",
+            "publishedAt": "2026-07-02T12:30:22Z",
+            "content": "A significant leak concerning the iPhone 18 Pro has emerged, reportedly resulting from a cyberattack on Tarta Electronics, one of Apples key manufacturing partners in India. The breach has revealed c\u2026 [+6513 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "GlobeNewswire"
+            },
+            "author": "Iron Dome Acquisition I Corp.",
+            "title": "Iron Dome Acquisition I Corp. Announces the Separate Trading of Its Class A Ordinary Shares and Warrants, Commencing on July 6, 2026",
+            "description": "New York, New York, July 02, 2026 (GLOBE NEWSWIRE) -- Iron Dome Acquisition I Corp. (the \u201cCompany\u201d) today announced that, commencing on July 6, 2026, holders of the units (the \u201cUnits\u201d) sold in the Company\u2019s initial public offering may elect to separately trad\u2026",
+            "url": "https://www.globenewswire.com/news-release/2026/07/02/3321308/0/en/Iron-Dome-Acquisition-I-Corp-Announces-the-Separate-Trading-of-Its-Class-A-Ordinary-Shares-and-Warrants-Commencing-on-July-6-2026.html",
+            "urlToImage": null,
+            "publishedAt": "2026-07-02T12:30:00Z",
+            "content": "New York, New York, July 02, 2026 (GLOBE NEWSWIRE) -- Iron Dome Acquisition I Corp. (the Company) today announced that, commencing on July 6, 2026, holders of the units (the Units) sold in the Compan\u2026 [+2793 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Punch"
+            },
+            "author": "Punch Newspapers",
+            "title": "Court adjourns Emeka Ike\u2019s N10bn suit against INEC, Wike\u2019s aide",
+            "description": "Federal High Court adjourns Emeka Ike\u2019s N10bn fundamental rights suit against INEC and Wike\u2019s aide over alleged voter data breach. Get the latest updates.\n\nRead More: https://punchng.com/court-adjourns-emeka-ikes-n10bn-suit-against-inec-wikes-aide/",
+            "url": "https://punchng.com/court-adjourns-emeka-ikes-n10bn-suit-against-inec-wikes-aide/",
+            "urlToImage": "https://punchng.com/wp-content/uploads/2026/06/Gavel-full.webp",
+            "publishedAt": "2026-07-02T12:22:55Z",
+            "content": "A Federal High Court in Abuja on Thursday adjourned until July 22 for further mention in the N10bn fundamental rights enforcement suit filed by Nollywood actor Emeka Ike against the Independent Natio\u2026 [+3684 chars]"
+        }
+    ]
 }
