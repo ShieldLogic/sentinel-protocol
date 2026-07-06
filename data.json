@@ -1,209 +1,137 @@
 {
-  "updated": "2026-07-06 13:37:33 UTC",
-  "news": [
-    {
-      "title": "Max severity Adobe ColdFusion flaw now exploited in attacks",
-      "description": "[BLEEPINGCOMPUTER] Attackers are now exploiting a maximum-severity Adobe ColdFusion vulnerability tracked as CVE-2026-48282, the Canadian Center for Cyber Security (CCCS) warned on Thursday. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/max-severity-adobe-coldfusion-flaw-now-exploited-in-attacks/",
-      "date": "2026-07-06T13:18:37Z"
-    },
-    {
-      "title": "\u26a1 Weekly Recap: Proxy Botnets, Browser Ransomware, AI Agent Tricks, Fake PoC Malware and More",
-      "description": "[FEEDS] A streaming box should not need a threat model. Neither should a username field, a demo repo, a reset flow, or a browser permission prompt. That is the irritating part this week: the risky pieces were ordinary. Home devices became a routing cover....",
-      "url": "https://thehackernews.com/2026/07/monday-recap-proxy-botnets-browser.html",
-      "date": "2026-07-06T13:01:14Z"
-    },
-    {
-      "title": "ISC Stormcast For Monday, July 6th, 2026 https://isc.sans.edu/podcastdetail/9994, (Mon, Jul 6th)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33122",
-      "date": "2026-07-06T11:36:06Z"
-    },
-    {
-      "title": "How to Evaluate an AI SOC Platform in 2026: 6 Capabilities That Separate Leaders from Bolt-On AI solutions",
-      "description": "[FEEDS] Building a shortlist for an AI SOC evaluation can be tough. SIEM, SOAR, and pureplay AI SOC vendors are all saying the same thing. But behind the identical label sit very different products, from chat assistants bolted onto a legacy SIEM to agent...",
-      "url": "https://thehackernews.com/2026/07/how-to-evaluate-ai-soc-platform-in-2026.html",
-      "date": "2026-07-06T11:30:02Z"
-    },
-    {
-      "title": "Suspected China-Nexus Hackers Use Fake Indian Tax Filing Utility to Deploy DcRAT",
-      "description": "[FEEDS] A suspected China-nexus threat activity cluster has been observed targeting Indian taxpayers, tax professionals, and corporate finance teams to deliver a remote access trojan designed to steal sensitive data from compromised hosts. The multi-stage...",
-      "url": "https://thehackernews.com/2026/07/suspected-china-nexus-hackers-use-fake.html",
-      "date": "2026-07-06T10:58:16Z"
-    },
-    {
-      "title": "France to Stop Certifying Non-Quantum-Safe Encryption",
-      "description": "[SCHNEIER] France is accelerating its transition to post-quantum encryption: France&#8217;s cybersecurity agency ANSSI said on Tuesday it would stop certifying security products that lack quantum-resistant encryption, a move that will force government bodies...",
-      "url": "https://www.schneier.com/blog/archives/2026/07/france-to-stop-certifying-non-quantum-safe-encryption.html",
-      "date": "2026-07-06T10:45:44Z"
-    },
-    {
-      "title": "New TrojPix Attack Leaks Data From Air-Gapped Systems via Video Cable Emissions",
-      "description": "[FEEDS] Researchers at&nbsp;Shandong University&nbsp;have shown a fast new way to pull data off computers that are cut off from every network. The technique, called&nbsp;TrojPix, tweaks on-screen pixels in ways the eye cannot see, so that the video cable...",
-      "url": "https://thehackernews.com/2026/07/new-trojpix-attack-leaks-data-from-air.html",
-      "date": "2026-07-06T08:50:54Z"
-    },
-    {
-      "title": "New Java-Based QuimaRAT MaaS Built to Run on Windows, Linux, and macOS",
-      "description": "[FEEDS] Cybersecurity researchers have flagged a novel Java-based remote access trojan (RAT) called QuimaRAT that's capable of targeting Windows, Linux, and macOS environments. According to LevelBlue, the cross-platform malware is advertised under a...",
-      "url": "https://thehackernews.com/2026/07/new-java-based-quimarat-maas-built-to.html",
-      "date": "2026-07-06T08:13:33Z"
-    },
-    {
-      "title": "Opera GX Flaw Let Malicious Sites Auto-Install Mods to Steal Data From Visited Pages",
-      "description": "[FEEDS] Researchers found a flaw in&nbsp;Opera GX, the gaming-focused version of the Opera browser, that let a malicious website silently install a browser add-on and use it to lift specific data from the pages a victim visits. In a proof of concept, they...",
-      "url": "https://thehackernews.com/2026/07/opera-gx-flaw-let-malicious-sites-auto.html",
-      "date": "2026-07-06T07:27:50Z"
-    },
-    {
-      "title": "India, Australia set to seal uranium supply pact during PM Modi\u2019s visit",
-      "description": "[THE ECONOMIC TIMES] Prime Minister Modi's Australia visit is set to feature a significant uranium supply pact, bolstering India's nuclear power ambitions. Discussions will also cover critical minerals, cybersecurity, and clean energy. This follows a decade-old...",
-      "url": "https://economictimes.indiatimes.com/industry/energy/power/india-australia-set-to-seal-uranium-supply-pact-during-pm-modis-visit/articleshow/132205236.cms",
-      "date": "2026-07-06T01:32:00Z"
-    },
-    {
-      "title": "Biz built at quantum computing speed",
-      "description": "[THE HINDU BUSINESS LINE] Indian startups leverage quantum technology for rapid advancements in disaster mapping, drug discovery, and cybersecurity, attracting significant investment.",
-      "url": "https://www.thehindubusinessline.com/specials/emerging-entrepreneurs/biz-built-at-quantum-computing-speed/article71186750.ece",
-      "date": "2026-07-06T01:13:00Z"
-    },
-    {
-      "title": "AI agent reportedly carried out an entire ransomware attack on its own",
-      "description": "[DIGITAL TRENDS] Security researchers say an autonomous AI agent carried out a complete ransomware attack, adapting to failures and executing the intrusion with minimal human intervention.",
-      "url": "https://www.digitaltrends.com/cool-tech/ai-agent-reportedly-carried-out-an-entire-ransomware-attack-on-its-own/",
-      "date": "2026-07-06T00:44:03Z"
-    },
-    {
-      "title": "Flipper Zero firmware development continues with community help",
-      "description": "[BLEEPINGCOMPUTER] Flipper Devices says development of the Flipper Zero firmware will continue, albeit with a smaller internal team and greater reliance on community contributions. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/flipper-zero-firmware-development-continues-with-community-help/",
-      "date": "2026-07-05T14:14:52Z"
-    },
-    {
-      "title": "Researchers uncover first fully autonomous AI ransomware attack",
-      "description": "[THE NEWS INTERNATIONAL] Cloud security firm Sysdig says it has documented the first ransomware operation carried out entirely by an autonomous AI agent, with no human directly steering the attack.Sysdig's Threat Research...",
-      "url": "https://www.thenews.com.pk/latest/1408157-researchers-uncover-first-fully-autonomous-ai-ransomware-attack",
-      "date": "2026-07-05T14:02:49Z"
-    },
-    {
-      "title": "Researchers may have identified first ever documented case of AI agent-led ransomware operation",
-      "description": "[TIMES OF INDIA] Tech News News: Researchers have claimed to detect what they believe is the first-ever documented ransomware attack launched and executed entirely by an autonomous ar.",
-      "url": "https://timesofindia.indiatimes.com/technology/tech-news/researchers-may-have-identified-first-ever-documented-case-of-ai-agent-led-ransomware-operation/articleshow/132195803.cms",
-      "date": "2026-07-05T13:00:00Z"
-    },
-    {
-      "title": "Top IT Companies Likely To Post Subdued Q1 FY27 Revenue Growth, Says Brokerage",
-      "description": "[OUTLOOK BUSINESS] India\u2019s top IT services firms are set for subdued Q1 FY27 revenue growth as clients prioritise cost-cutting over big tech spends, says Equirus Securities. The brokerage highlights muted constant-currency growth, resilient margins supported by rupee...",
-      "url": "https://www.outlookbusiness.com/markets/top-it-companies-likely-to-post-subdued-q1-fy27-revenue-growth-says-brokerage",
-      "date": "2026-07-05T11:53:14Z"
-    },
-    {
-      "title": "IIT Madras, IIT Kanpur Together Launch India\u2019s First B.Cyber. Programme: Check Course Details Here",
-      "description": "[TIMES NOW] IIT Madras and IIT Kanpur have launched India's first four-year Bachelor of Cybersecurity programme, combining classroom learning with two years of field deployment from July 2026., Education, Times Now",
-      "url": "https://www.timesnownews.com/education/iit-madras-iit-kanpur-together-launch-indias-first-b-cyber-programme-check-course-details-here-article-154946751",
-      "date": "2026-07-05T11:30:46Z"
-    },
-    {
-      "title": "Ministry of Road Transport and Highways will introduce new cybersecurity and software update management laws",
-      "description": "[THE ECONOMIC TIMES] India is set to mandate cybersecurity and software update management for advanced vehicles. New rules will require passenger cars, commercial vehicles, and tractors with Level-3 or higher automated driving to comply with stringent security measures....",
-      "url": "https://economictimes.indiatimes.com/industry/auto/ministry-of-road-transport-and-highways-to-bring-in-new-cybersecurity-and-software-update-management-laws/articleshow/132193606.cms",
-      "date": "2026-07-05T10:01:00Z"
-    },
-    {
-      "title": "The Kensington VeriMark NFC+ Security Keys can help you kill off your passwords",
-      "description": "[ITWIRE] Passwords have long been the weakest link in cybersecurity, but Kensington's new VeriMark NFC+ Security Keys can help you move to a passwordless, hardware-backed authentication...",
-      "url": "https://itwire.com/business-it-news/security/the-kensington-verimark-nfc-security-keys-can-help-you-kill-off-your-passwords",
-      "date": "2026-07-05T08:52:48Z"
-    },
-    {
-      "title": "If smartphones are harmless, why are we so afraid to take them away?",
-      "description": "[LBC] Technology companies have been permitted to build digital playgrounds where engagement matters more than wellbeing, writes cybersecurity expert Nikki Webb.",
-      "url": "https://www.lbc.co.uk/article/if-smartphones-are-harmless-why-are-we-afraid-to-take-them-opinion-5HjdcWW_2/",
-      "date": "2026-07-05T08:42:39Z"
-    },
-    {
-      "title": "JadePuffer ransomware used AI agent to automate entire attack",
-      "description": "[BLEEPINGCOMPUTER] Researchers identified what they believe is the first documented case of a ransomware operation, JadePuffer, conducted entirely by a large language model (LLM) agent. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/jadepuffer-ransomware-used-ai-agent-to-automate-entire-attack/",
-      "date": "2026-07-04T14:16:38Z"
-    },
-    {
-      "title": "NetNut proxy network disrupted, 2 million infected devices cut off",
-      "description": "[BLEEPINGCOMPUTER] A joint operation involving Google has disrupted NetNut, a residential proxy network that gave access to millions of compromised Android devices, including smart TVs and streaming boxes. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/netnut-proxy-network-disrupted-2-million-infected-devices-cut-off/",
-      "date": "2026-07-03T17:50:04Z"
-    },
-    {
-      "title": "ARToken PhaaS exposes EvilTokens' Microsoft 365 phishing toolkit",
-      "description": "[BLEEPINGCOMPUTER] A new phishing-as-a-service (PhaaS) platform dubbed \"ARToken\" appears to operate as an affiliate of the EvilTokens phishing platform, giving researchers a glimpse into an extensive toolkit designed to compromise Microsoft 365. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/artoken-phaas-exposes-eviltokens-microsoft-365-phishing-toolkit/",
-      "date": "2026-07-03T14:12:22Z"
-    },
-    {
-      "title": "Flock Cameras Can Surveil Cars Without License Plates",
-      "description": "[SCHNEIER] This is from a 2024 company presentation: Officers can also tap into data showing a car&#8217;s decals, bumper stickers, back and top racks&#8212;along with temporary and unique state tags. Flock calls it a &#8220;Vehicle Fingerprint&#8221; and...",
-      "url": "https://www.schneier.com/blog/archives/2026/07/flock-cameras-can-surveil-cars-without-license-plates.html",
-      "date": "2026-07-03T11:15:25Z"
-    },
-    {
-      "title": "Claude Fable 5 isn\u2019t permanently leaving subscriptions, Anthropic says",
-      "description": "[BLEEPINGCOMPUTER] Anthropic says Claude Fable 5 won't be accessible via Claude subscriptions after July 7, but it's not a permanent change, and the company expects the model to return outside the usage-based plan soon. [...]",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-fable-5-isnt-permanently-leaving-subscriptions-anthropic-says/",
-      "date": "2026-07-03T01:37:09Z"
-    },
-    {
-      "title": "Cybersecurity Mission Creep in the US",
-      "description": "[SCHNEIER] Interesting paper: &#8220;Cybersecurity Mission Creep.&#8221; Abstract: Cybersecurity is experiencing mission creep. Policymakers are casting more and more problems as issues of cybersecurity. So reframed, wildly different policy issues, from...",
-      "url": "https://www.schneier.com/blog/archives/2026/07/cybersecurity-mission-creep-in-the-us.html",
-      "date": "2026-07-02T11:11:44Z"
-    },
-    {
-      "title": "ISC Stormcast For Thursday, July 2nd, 2026 https://isc.sans.edu/podcastdetail/9992, (Thu, Jul 2nd)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33120",
-      "date": "2026-07-02T02:00:02Z"
-    },
-    {
-      "title": "Papa Johns Surveillance-Based Advertising",
-      "description": "[SCHNEIER] Papa Johns is spying on people&#8217;s buying activities to predict when they are low on food: The pizza chain recently tapped NBCUniversal, Instacart and the dentsu-owned media agency Carat for help reaching consumers when they&#8217;re low on...",
-      "url": "https://www.schneier.com/blog/archives/2026/07/papa-johns-surveillance-based-advertising.html",
-      "date": "2026-07-01T10:53:23Z"
-    },
-    {
-      "title": "Why Ask Credentials If There Are Secret Codes&#x3f;, (Wed, Jul 1st)",
-      "description": "[ISC] This morning, an interesting phishing email hit my mailbox. It targets Metamask&#x5b;1&#x5d;, a cryptocurrency wallet, available as a browser extension and a mobile app, that lets users store, send, and receive crypto money. It&#x27s pretty popular,...",
-      "url": "https://isc.sans.edu/diary/rss/33118",
-      "date": "2026-07-01T05:10:20Z"
-    },
-    {
-      "title": "ISC Stormcast For Wednesday, July 1st, 2026 https://isc.sans.edu/podcastdetail/9990, (Wed, Jul 1st)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33116",
-      "date": "2026-07-01T02:00:03Z"
-    },
-    {
-      "title": "The Realities of AI Video Surveillance",
-      "description": "[SCHNEIER] The Financial Times has a good article on how AI is changing the capabilities of video surveillance, with information from both Israel/Iran and Russia. I wrote about this sort of thing a few years ago, how AI enables mass spying in the way that...",
-      "url": "https://www.schneier.com/blog/archives/2026/06/the-realities-of-ai-video-surveillance.html",
-      "date": "2026-06-30T12:05:57Z"
-    },
-    {
-      "title": "June 2026 Apple Updates, (Tue, Jun 30th)",
-      "description": "[ISC] Apple released updates for iOS/iPadOS, macOS, and Safari on Monday. There have been no updates for other Apple operating systems (visionOS, watchOS, tvOS). Usually, Apple updates all products at the same time.&#xd;",
-      "url": "https://isc.sans.edu/diary/rss/33114",
-      "date": "2026-06-30T09:31:27Z"
-    },
-    {
-      "title": "ISC Stormcast For Tuesday, June 30th, 2026 https://isc.sans.edu/podcastdetail/9988, (Tue, Jun 30th)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33112",
-      "date": "2026-06-30T02:25:12Z"
-    },
-    {
-      "title": "Factoring RSA Keys with Many Zeros",
-      "description": "[SCHNEIER] Interesting research on a new class of weak RSA keys: keys with lots of zeros. It turns out that these keys are out in the wild. The badkeys project is an open-source service that checks public keys for known vulnerabilities. While developing this...",
-      "url": "https://www.schneier.com/blog/archives/2026/06/factoring-rsa-keys-with-many-zeros.html",
-      "date": "2026-06-29T16:05:18Z"
-    }
-  ]
+    "title": "Sentinel Protocol",
+    "tagline": "Perimeter Intelligence Sync",
+    "updated": "2026-07-06 14:21 UTC",
+    "news": [
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Dominic-madori Davis",
+            "title": "Almost 90 new unicorns have been minted so far this year \u2014 here they are | TechCrunch",
+            "description": "Almost 90 new unicorns have been minted so far this year \u2014 here they are | TechCrunchtechcrunch.com",
+            "url": "https://techcrunch.com/2026/07/05/almost-40-new-unicorns-have-been-minted-so-far-this-year-here-they-are/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/11/GettyImages-1399595760.jpg?resize=1200,675",
+            "publishedAt": "2026-07-05T12:48:45Z",
+            "content": "With AI igniting an investor frenzy, more startups are achieving unicorn status every month.\u00a0\r\nUsing data from Crunchbase and\u00a0PitchBook, TechCrunch tracked down the VC-backed startups that became uni\u2026 [+26128 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": "Dianna Gunn",
+            "title": "The Threat Landscape Has Evolved to Target Your Data, Not Just Your Devices",
+            "description": "Here\u2019s how cybercriminals are targeting your personal information -- and what you can do about it.",
+            "url": "https://www.cnet.com/tech/services-and-software/threat-landscape-evolution-target-data/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/abc976f342c719e814166480792b9cec1cefd448/hub/2024/05/23/60a972bd-e032-47bc-a9cc-8917ccc73e00/vpn-security-hacking-hackers-8501.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2026-07-05T12:00:00Z",
+            "content": "Cyberattacks used to focus on corrupting your files and crashing your computer. Now, many cybercriminals look beyond just accessing your devices to stealing your personal data. They\u2019re hunting for th\u2026 [+8062 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Dailymail.com"
+            },
+            "author": "Chris Melore",
+            "title": "The incredible and wild scientific advancements the US could make in the next 25... and 250 years!",
+            "description": "As the United States turns 250, scientists and tech experts are already looking ahead to the next 250 years, with sky-high dreams that could change the human race.",
+            "url": "https://www.dailymail.com/sciencetech/article-15938941/us-scientific-advancements-fusion-space-travel.html",
+            "urlToImage": "https://i.dailymail.com/1s/2026/07/03/23/109787043-0-image-m-17_1783116850662.jpg",
+            "publishedAt": "2026-07-05T11:40:53Z",
+            "content": "As the US celebrates its 250th birthday this year, all eyes are on the future when it comes the wild scientific breakthroughs that could be just years away from reality.\r\nFrom space travel to our nei\u2026 [+8628 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hurriyet Daily News"
+            },
+            "author": "hurriyetdailynews.com",
+            "title": "Ankara ready for NATO summit amid large-scale buildup",
+            "description": "Ankara will serve as the crucible for global diplomacy on July 7\u20138, as T\u00fcrkiye hosts one of the most consequential NATO summits in history to unite all 32 member states under a renewed strategic vision.",
+            "url": "https://www.hurriyetdailynews.com/ankara-ready-for-nato-summit-amid-large-scale-buildup-224016",
+            "urlToImage": "https://image.hurimg.com/i/hurriyet/75/200x200/6a4a396f7c43e629aa253c1a.jpg",
+            "publishedAt": "2026-07-05T11:01:07Z",
+            "content": "ANKARA\r\nAnkara will serve as the crucible for global diplomacy on July 78, as T\u00fcrkiye hosts one of the most consequential NATO summits in history to unite all 32 member states under a renewed strateg\u2026 [+2340 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Boutayna Chokrane",
+            "title": "Eight Sleep Pod 5 Review: The Smartest, Nosiest Bed You Can Buy",
+            "description": "This buzzy sleep system\u2019s temperature regulation is transformative, but the privacy trade-offs and subscription costs are frustrating.",
+            "url": "https://www.wired.com/review/eight-sleep-pod-5/",
+            "urlToImage": "https://media.wired.com/photos/6a47e7e93d5c75c63167831f/191:100/w_1280,c_limit/Eight-Sleep-Pod-5-Hub-%5Bcourtesy-of-Eight-Sleep%5D.jpg",
+            "publishedAt": "2026-07-05T10:08:00Z",
+            "content": "The Enhanced membership ($25 per month, $299 annually) extends the warranty to five years, which matters with such an investment. Even though I havent experienced hardware issues yet, the system reli\u2026 [+3594 chars]"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "ET Online",
+            "title": "Ministry of Road Transport and Highways will introduce new cybersecurity and software update management laws",
+            "description": "India is set to mandate cybersecurity and software update management for advanced vehicles. New rules will require passenger cars, commercial vehicles, and tractors with Level-3 or higher automated driving to comply with stringent security measures. Existing \u2026",
+            "url": "https://economictimes.indiatimes.com/industry/auto/ministry-of-road-transport-and-highways-to-bring-in-new-cybersecurity-and-software-update-management-laws/articleshow/132193606.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-132193797,width-1200,height-630,imgsize-148302,overlay-economictimes/articleshow.jpg",
+            "publishedAt": "2026-07-05T10:01:19Z",
+            "content": "The Ministry of Road Transport and Highways has proposed the drafting of new rules to make cybersecurity and software update management mandatory for vehicles which incorporate advanced technology.Th\u2026 [+1609 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Livemint"
+            },
+            "author": "mint",
+            "title": "Why America's AI policy mustn\u2019t be opaque\u2014we should know what the administration\u2019s Anthropic story is",
+            "description": "The US government's secrecy over what got restrictions lifted on AI company's Fable 5 and Mythos 5 models is not a good sign at all for users of American AI tools. It only heightens uncertainty. Here's what the US should consider doing instead.",
+            "url": "https://www.livemint.com/opinion/online-views/america-ai-policy-trump-administration-anthropic-fable-5-mythos-artificial-intelligence-11783188489496.html",
+            "urlToImage": "https://www.livemint.com/lm-img/img/2026/07/04/1600x900/logo/AI-MODELS-16_1783191228594_1783191238829_171b1a81-9d24-49d0-a20b-9398967703f5.jpg",
+            "publishedAt": "2026-07-05T10:00:47Z",
+            "content": "It did this via so-called classifiers, or smaller AI systems that detect when a request is about prohibited cybersecurity tasks. Anthropic has not disclosed more details about the changes it made bey\u2026 [+3768 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Soldiersystems.net"
+            },
+            "author": "Eric G",
+            "title": "TURBOVETS Names Medal of Honor Recipient and Navy SEAL MASTER Chief Britt Slabinski as President",
+            "description": "Special Operations Leader to Champion AI-Powered Platform Transforming Veterans\u2019 Benefits Access and Confronting the Veteran Suicide Crisis DALLAS, July 1, 2026 \u2014\u00a0TurboVets, Inc., the AI-powered platform dedicated to automating and accelerating veterans\u2019 full\u2026",
+            "url": "https://soldiersystems.net/2026/07/05/turbovets-names-medal-of-honor-recipient-and-navy-seal-master-chief-britt-slabinski-as-president/",
+            "urlToImage": "https://soldiersystems.net/wp-content/uploads/2026/07/image-1.jpeg",
+            "publishedAt": "2026-07-05T10:00:00Z",
+            "content": "Special Operations Leader to Champion AI-Powered Platform Transforming Veterans\u2019 Benefits Access and Confronting the Veteran Suicide Crisis\r\nDALLAS, July 1, 2026 \u2014\u00a0TurboVets, Inc., the AI-powered pla\u2026 [+5098 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The New Republic"
+            },
+            "author": "Luke Barnes",
+            "title": "This Data Center Is Everything That Everyone Hates About AI",
+            "description": "The Stratos Project was supposed to be an industrial marvel for the AI age. The proposal\u2014a massive hyperscale data center in Box Elder County, Utah\u2014was initially slated to be more than 2.5 times the size of the island of Manhattan. Once completed, it would us\u2026",
+            "url": "https://newrepublic.com/article/212169/stratos-data-center-utah-investors",
+            "urlToImage": "https://images.newrepublic.com/351d5cf29d5ff009001688127cb0011484bade0b.jpeg?w=1200&h=630&crop=faces&fit=crop&fm=jpg",
+            "publishedAt": "2026-07-05T10:00:00Z",
+            "content": "But OLearys promises have done nothing to dampen local opposition to Stratos. In fact, opposition intensified throughout the month of May until Utah Governor Spencer Coxwho had initially backed the p\u2026 [+1207 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BusinessLine"
+            },
+            "author": null,
+            "title": "From tax portal to digital public infrastructure: GSTN\u2019s nine-year transformation",
+            "description": "Explore GSTN's evolution from a tax portal to a vital digital public infrastructure, revolutionizing compliance and governance in India.",
+            "url": "https://www.thehindubusinessline.com/economy/from-tax-portal-to-digital-public-infrastructure-gstns-nine-year-transformation/article71185455.ece",
+            "urlToImage": "https://bl-i.thgim.com/public/incoming/ck62c9/article71174662.ece/alternates/LANDSCAPE_1200/iStock-1130669886.jpg",
+            "publishedAt": "2026-07-05T09:47:33Z",
+            "content": "On 1 July 2017, India embarked on one of the most ambitious economic reforms in its history with the rollout of the Goods and Services Tax (GST). While the GST subsumed a complex web of indirect taxe\u2026 [+11395 chars]"
+        }
+    ]
 }
