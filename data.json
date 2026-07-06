@@ -1,6 +1,18 @@
 {
-  "updated": "2026-07-06 02:11:32 UTC",
+  "updated": "2026-07-06 08:09:51 UTC",
   "news": [
+    {
+      "title": "Opera GX Flaw Let Malicious Sites Auto-Install Mods to Steal Data From Visited Pages",
+      "description": "[FEEDS] Researchers found a flaw in&nbsp;Opera GX, the gaming-focused version of the Opera browser, that let a malicious website silently install a browser add-on and use it to lift specific data from the pages a victim visits. In a proof of concept, they...",
+      "url": "https://thehackernews.com/2026/07/opera-gx-flaw-let-malicious-sites-auto.html",
+      "date": "2026-07-06T07:27:50Z"
+    },
+    {
+      "title": "SkillCloak Lets Malicious AI Agent Skills Evade Static Scanners with Self-Extracting Packing",
+      "description": "[FEEDS] Scanners meant to catch malicious add-on \"skills\" for AI coding agents can be fooled by a few simple changes that leave the malware working, according to a&nbsp;new study&nbsp;from researchers at the Hong Kong University of Science and Technology....",
+      "url": "https://thehackernews.com/2026/07/new-skillcloak-technique-lets-malicious.html",
+      "date": "2026-07-06T06:33:56Z"
+    },
     {
       "title": "Flipper Zero firmware development continues with community help",
       "description": "[BLEEPINGCOMPUTER] Flipper Devices says development of the Flipper Zero firmware will continue, albeit with a smaller internal team and greater reliance on community contributions. [...]",
@@ -98,22 +110,10 @@
       "date": "2026-07-03T19:40:01Z"
     },
     {
-      "title": "New Avalon Malware Framework Packs CrownX Ransomware Capabilities",
-      "description": "[FEEDS] Cybersecurity researchers have discovered a previously undocumented modular malware framework codenamed Avalon that's distributed by means of a multi-stage phishing chain capable of bypassing traditional security controls. Avalon combines credential...",
-      "url": "https://thehackernews.com/2026/07/new-avalon-malware-framework-packs.html",
-      "date": "2026-07-03T18:55:24Z"
-    },
-    {
       "title": "NetNut proxy network disrupted, 2 million infected devices cut off",
       "description": "[BLEEPINGCOMPUTER] A joint operation involving Google has disrupted NetNut, a residential proxy network that gave access to millions of compromised Android devices, including smart TVs and streaming boxes. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/netnut-proxy-network-disrupted-2-million-infected-devices-cut-off/",
       "date": "2026-07-03T17:50:04Z"
-    },
-    {
-      "title": "North Korea-Linked npm Packages Mimic Rollup Polyfills to Steal Developer Secrets",
-      "description": "[FEEDS] Threat actors with ties to North Korea have been linked to a fresh set of malicious npm packages that masquerade as Rollup polyfill tooling to facilitate remote access and data theft. According to JFrog, the packages \"rollup-packages-polyfill-core\"...",
-      "url": "https://thehackernews.com/2026/07/north-korea-linked-npm-packages-mimic.html",
-      "date": "2026-07-03T16:07:15Z"
     },
     {
       "title": "ARToken PhaaS exposes EvilTokens' Microsoft 365 phishing toolkit",
