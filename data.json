@@ -1,6 +1,30 @@
 {
-  "updated": "2026-07-06 16:47:10 UTC",
+  "updated": "2026-07-06 19:42:36 UTC",
   "news": [
+    {
+      "title": "Iran-Linked Hackers Use New Cavern C2 Framework to Target Israeli Organizations",
+      "description": "[FEEDS] An Iranian hacking group affiliated with Iran's Ministry of Intelligence and Security (MOIS) has been wielding a previously undocumented modular command-and-control (C2) framework dubbed Cavern (aka Cav3rn) targeting Israeli organizations. The...",
+      "url": "https://thehackernews.com/2026/07/iran-linked-hackers-use-new-cavern-c2.html",
+      "date": "2026-07-06T18:34:26Z"
+    },
+    {
+      "title": "Vietnam arrests suspects behind HiAnime anime piracy service",
+      "description": "[BLEEPINGCOMPUTER] \u200bVietnamese authorities have arrested and are prosecuting seven suspects believed to have run HiAnime, the largest anime piracy streaming service before its shutdown in June. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/vietnam-arrests-suspects-behind-hianime-anime-piracy-service/",
+      "date": "2026-07-06T18:25:06Z"
+    },
+    {
+      "title": "16-Year-Old Linux KVM Flaw Lets Guest VMs Escape to Host on Intel and AMD x86 Systems",
+      "description": "[FEEDS] A use-after-free bug in Linux's KVM hypervisor can be triggered from a guest virtual machine to corrupt the shadow-page state of the host kernel that runs it. Dubbed 'Januscape' and tracked as&nbsp;CVE-2026-53359, the flaw sits in the shadow MMU...",
+      "url": "https://thehackernews.com/2026/07/16-year-old-linux-kvm-flaw-lets-guest.html",
+      "date": "2026-07-06T17:37:01Z"
+    },
+    {
+      "title": "Threat Actors Probe Gitea Docker Flaw CVE-2026-20896 13 Days After Disclosure",
+      "description": "[FEEDS] Threat actors have been observed attempting to exploit a recently patched critical security flaw in Gitea Docker images, according to Sysdig. The vulnerability in question is CVE-2026-20896 (CVSS score: 9.8), a vulnerability that stems from the...",
+      "url": "https://thehackernews.com/2026/07/threat-actors-probe-gitea-docker-flaw.html",
+      "date": "2026-07-06T16:28:59Z"
+    },
     {
       "title": "Software Is Now Written at the Speed of Thought. Security Isn't.",
       "description": "[BLEEPINGCOMPUTER] Every evolution in software development has reduced the friction between an idea and a deployable application. AI may remove the final barrier, but it also removes many of the moments where security decisions have traditionally taken place. [...]",
@@ -50,22 +74,34 @@
       "date": "2026-07-06T10:45:44Z"
     },
     {
-      "title": "New TrojPix Attack Leaks Data From Air-Gapped Systems via Video Cable Emissions",
-      "description": "[FEEDS] Researchers at&nbsp;Shandong University&nbsp;have shown a fast new way to pull data off computers that are cut off from every network. The technique, called&nbsp;TrojPix, tweaks on-screen pixels in ways the eye cannot see, so that the video cable...",
-      "url": "https://thehackernews.com/2026/07/new-trojpix-attack-leaks-data-from-air.html",
-      "date": "2026-07-06T08:50:54Z"
+      "title": "LTM launches BlueVerse RightLogic to address cyber risk in AI era",
+      "description": "[SCANX.TRADE] LTM announced the launch of BlueVerse RightLogic, a cybersecurity framework designed to manage risks associated with AI adoption. The solution provides unified visibility, rapid diagnostics via a 4 to 6 week engagement, and a prioritized remediation...",
+      "url": "https://scanx.trade/stock-market-news/technology/ltm-unveils-blueversetm-rightlogic-framework-to-address-cyber-risks-in-the-ai-era/44867344",
+      "date": "2026-07-06T07:16:17Z"
     },
     {
-      "title": "New Java-Based QuimaRAT MaaS Built to Run on Windows, Linux, and macOS",
-      "description": "[FEEDS] Cybersecurity researchers have flagged a novel Java-based remote access trojan (RAT) called QuimaRAT that's capable of targeting Windows, Linux, and macOS environments. According to LevelBlue, the cross-platform malware is advertised under a...",
-      "url": "https://thehackernews.com/2026/07/new-java-based-quimarat-maas-built-to.html",
-      "date": "2026-07-06T08:13:33Z"
+      "title": "European central bank leaders call for AI guardrails to protect markets",
+      "description": "[CRYPTO NEWS] Central bankers across Europe have raised concerns that fast moving AI systems could pose financial stability and cybersecurity risks.",
+      "url": "https://crypto.news/european-central-bank-leaders-call-for-ai-guardrails-to-protect-markets/",
+      "date": "2026-07-06T06:52:40Z"
     },
     {
-      "title": "Opera GX Flaw Let Malicious Sites Auto-Install Mods to Steal Data From Visited Pages",
-      "description": "[FEEDS] Researchers found a flaw in&nbsp;Opera GX, the gaming-focused version of the Opera browser, that let a malicious website silently install a browser add-on and use it to lift specific data from the pages a victim visits. In a proof of concept, they...",
-      "url": "https://thehackernews.com/2026/07/opera-gx-flaw-let-malicious-sites-auto.html",
-      "date": "2026-07-06T07:27:50Z"
+      "title": "'No hacker needed': New AI ransomware can automate database attacks from start to finish, warns cybersecurity firm",
+      "description": "[TIMES OF INDIA] Tech News News: Security researchers have identified JadePuffer, the first ransomware attack which is filly executed by an autonomous AI agent. According to a report .",
+      "url": "https://timesofindia.indiatimes.com/technology/tech-news/no-hacker-needed-new-ai-ransomware-can-automate-database-attacks-from-start-to-finish-warns-cybersecurity-firm/articleshow/132209561.cms",
+      "date": "2026-07-06T06:39:00Z"
+    },
+    {
+      "title": "Why AI Cybersecurity Concerns Are Pushing Tech Brands to Update Faster",
+      "description": "[TECHBULLION] MET DES \u2013 Cybersecurity and safeguarding are imperative for any brand. Yet in the tech sector, AI is becoming an issue as companies",
+      "url": "https://techbullion.com/why-ai-cybersecurity-concerns-are-pushing-tech-brands-to-update-faster/",
+      "date": "2026-07-06T06:38:45Z"
+    },
+    {
+      "title": "Israel's Netanyahu claims support from India, counters US Vice President Vance",
+      "description": "[MALAYALA MANORAMA] Israeli Prime Minister Netanyahu countered US Vice President Vance's claim of sole ally status by highlighting India's significant support,.Benjamin Netanyahu, J D Vance, India Israel relations, US Israel relations, Netanyahu India support, Israeli...",
+      "url": "https://www.onmanorama.com/news/world/2026/07/06/have-support-from-india-netanyahu-counters-vance.html",
+      "date": "2026-07-06T05:30:18Z"
     },
     {
       "title": "Changer for India's Nuclear Ambitions \u2013 Outlook Business",
@@ -98,40 +134,10 @@
       "date": "2026-07-06T01:13:00Z"
     },
     {
-      "title": "AI agent reportedly carried out an entire ransomware attack on its own",
-      "description": "[DIGITAL TRENDS] Security researchers say an autonomous AI agent carried out a complete ransomware attack, adapting to failures and executing the intrusion with minimal human intervention.",
-      "url": "https://www.digitaltrends.com/cool-tech/ai-agent-reportedly-carried-out-an-entire-ransomware-attack-on-its-own/",
-      "date": "2026-07-06T00:44:03Z"
-    },
-    {
       "title": "Flipper Zero firmware development continues with community help",
       "description": "[BLEEPINGCOMPUTER] Flipper Devices says development of the Flipper Zero firmware will continue, albeit with a smaller internal team and greater reliance on community contributions. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/flipper-zero-firmware-development-continues-with-community-help/",
       "date": "2026-07-05T14:14:52Z"
-    },
-    {
-      "title": "Researchers uncover first fully autonomous AI ransomware attack",
-      "description": "[THE NEWS INTERNATIONAL] Cloud security firm Sysdig says it has documented the first ransomware operation carried out entirely by an autonomous AI agent, with no human directly steering the attack.Sysdig's Threat Research...",
-      "url": "https://www.thenews.com.pk/latest/1408157-researchers-uncover-first-fully-autonomous-ai-ransomware-attack",
-      "date": "2026-07-05T14:02:49Z"
-    },
-    {
-      "title": "Researchers may have identified first ever documented case of AI agent-led ransomware operation",
-      "description": "[TIMES OF INDIA] Tech News News: Researchers have claimed to detect what they believe is the first-ever documented ransomware attack launched and executed entirely by an autonomous ar.",
-      "url": "https://timesofindia.indiatimes.com/technology/tech-news/researchers-may-have-identified-first-ever-documented-case-of-ai-agent-led-ransomware-operation/articleshow/132195803.cms",
-      "date": "2026-07-05T13:00:00Z"
-    },
-    {
-      "title": "Top IT Companies Likely To Post Subdued Q1 FY27 Revenue Growth, Says Brokerage",
-      "description": "[OUTLOOK BUSINESS] India\u2019s top IT services firms are set for subdued Q1 FY27 revenue growth as clients prioritise cost-cutting over big tech spends, says Equirus Securities. The brokerage highlights muted constant-currency growth, resilient margins supported by rupee...",
-      "url": "https://www.outlookbusiness.com/markets/top-it-companies-likely-to-post-subdued-q1-fy27-revenue-growth-says-brokerage",
-      "date": "2026-07-05T11:53:14Z"
-    },
-    {
-      "title": "IIT Madras, IIT Kanpur Together Launch India\u2019s First B.Cyber. Programme: Check Course Details Here",
-      "description": "[TIMES NOW] IIT Madras and IIT Kanpur have launched India's first four-year Bachelor of Cybersecurity programme, combining classroom learning with two years of field deployment from July 2026., Education, Times Now",
-      "url": "https://www.timesnownews.com/education/iit-madras-iit-kanpur-together-launch-indias-first-b-cyber-programme-check-course-details-here-article-154946751",
-      "date": "2026-07-05T11:30:46Z"
     },
     {
       "title": "JadePuffer ransomware used AI agent to automate entire attack",
@@ -144,12 +150,6 @@
       "description": "[BLEEPINGCOMPUTER] A joint operation involving Google has disrupted NetNut, a residential proxy network that gave access to millions of compromised Android devices, including smart TVs and streaming boxes. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/netnut-proxy-network-disrupted-2-million-infected-devices-cut-off/",
       "date": "2026-07-03T17:50:04Z"
-    },
-    {
-      "title": "ARToken PhaaS exposes EvilTokens' Microsoft 365 phishing toolkit",
-      "description": "[BLEEPINGCOMPUTER] A new phishing-as-a-service (PhaaS) platform dubbed \"ARToken\" appears to operate as an affiliate of the EvilTokens phishing platform, giving researchers a glimpse into an extensive toolkit designed to compromise Microsoft 365. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/artoken-phaas-exposes-eviltokens-microsoft-365-phishing-toolkit/",
-      "date": "2026-07-03T14:12:22Z"
     },
     {
       "title": "Flock Cameras Can Surveil Cars Without License Plates",
