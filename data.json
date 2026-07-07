@@ -1,11 +1,35 @@
 {
-  "updated": "2026-07-07 17:51:26 UTC",
+  "updated": "2026-07-07 19:41:29 UTC",
   "news": [
+    {
+      "title": "Chinese hackers develop LONGLEASH malware to expand ORB network",
+      "description": "[BLEEPINGCOMPUTER] Chinese hackers tracked as 'UAT-7810' are actively evolving their malware to expand their Operational Relay Box (ORB) network by compromising internet-facing networking devices, primarily unpatched Ruckus routers. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/chinese-hackers-develop-longleash-malware-to-expand-orb-network/",
+      "date": "2026-07-07T18:52:19Z"
+    },
+    {
+      "title": "More Odd DNS Records: NIMLOC, (Tue, Jul 7th)",
+      "description": "[ISC] Yesterday, I talked about NAPTR records and how they are related to RCS. But there is another \"odd\" record that shows up in my DNS logs. This one isn&&#x23&#x3b;x26&#x3b;&#x23&#x3b;39&#x3b;t new, but I don&&#x23&#x3b;x26&#x3b;&#x23&#x3b;39&#x3b;t...",
+      "url": "https://isc.sans.edu/diary/rss/33128",
+      "date": "2026-07-07T18:09:04Z"
+    },
     {
       "title": "Hidden backdoor in Tenda router firmware grants admin access",
       "description": "[BLEEPINGCOMPUTER] A hidden authentication backdoor has been found in multiple Tenda router firmware versions, potentially allowing an attacker to gain administrative access to the device's web management panel. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/hidden-backdoor-in-tenda-router-firmware-grants-admin-access/",
       "date": "2026-07-07T17:27:22Z"
+    },
+    {
+      "title": "RedWing MaaS Packages Android Bank Fraud as a Telegram Rental Service",
+      "description": "[FEEDS] A new Android malware operation called RedWing is being rented out on Telegram as a ready-made bank-fraud service. It lets even low-skill criminals take over a victim's phone, steal their banking logins, and capture the one-time codes that protect...",
+      "url": "https://thehackernews.com/2026/07/redwing-maas-packages-android-bank.html",
+      "date": "2026-07-07T17:10:15Z"
+    },
+    {
+      "title": "Rogue Agent Flaw Could Have Let Attackers Hijack Google Dialogflow CX Chatbots",
+      "description": "[FEEDS] A critical flaw in Google's Dialogflow CX could have let an attacker with edit rights on one Code Block-enabled agent compromise other Code Block-enabled agents in the same Google Cloud project. From there, they could read live conversations, steal...",
+      "url": "https://thehackernews.com/2026/07/rogue-agent-flaw-could-have-let.html",
+      "date": "2026-07-07T16:37:33Z"
     },
     {
       "title": "Spain arrests suspected member of pro-Russian hacktivist groups",
@@ -56,28 +80,22 @@
       "date": "2026-07-07T12:06:09Z"
     },
     {
-      "title": "What Changes When Your Software Supply Chain Includes AI Writing Your Code?",
-      "description": "[FEEDS] Software supply chain security was hard enough. Then AI joined the build pipeline. For five years, \"software supply chain security\" meant one question: what's in your code? Which open-source packages, which versions, which transitive dependencies...",
-      "url": "https://thehackernews.com/2026/07/what-changes-when-your-software-supply.html",
-      "date": "2026-07-07T11:30:00Z"
-    },
-    {
       "title": "Google Is Suing Chinese Scammers Who Are Using Gemini",
       "description": "[SCHNEIER] Not sure this will have any effect, but I support the effort: According to Google&#8217;s legal filing, Outsider Enterprise operates through Telegram. The group offers phishing-as-a-service to individuals who may not be technically savvy enough to...",
       "url": "https://www.schneier.com/blog/archives/2026/07/google-is-suing-chinese-scammers-who-are-using-gemini.html",
       "date": "2026-07-07T10:43:40Z"
     },
     {
-      "title": "Microsoft to enable Windows settings backup by default for orgs",
-      "description": "[BLEEPINGCOMPUTER] Microsoft says the Windows settings backup and restore tool will be enabled by default on Microsoft Entra-joined or Microsoft Entra hybrid-joined enterprise systems after upgrading to Windows 11 26H2. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-enable-windows-backup-for-organizations-by-default/",
-      "date": "2026-07-07T09:41:19Z"
+      "title": "BF Investment files BRSR for FY26",
+      "description": "[SCANX.TRADE] BF Investment Limited filed its BRSR for FY26, disclosing a paid-up capital of \u20b9188,338,140 and identifying material risks such as market fluctuations and cybersecurity. The company reported fines of \u20b9713,900 each paid to BSE and NSE. With a...",
+      "url": "https://scanx.trade/stock-market-news/companies/bf-investment-files-brsr-for-fy26/44952256",
+      "date": "2026-07-07T06:44:34Z"
     },
     {
-      "title": "Suspected China-Aligned Hackers Exploit Roundcube Flaws Against Universities",
-      "description": "[FEEDS] A suspected China-aligned threat activity cluster has been observed exploiting Roundcube webmail software belonging to physics and engineering departments of U.S. and Canadian universities as part of a new campaign. The activity involves the...",
-      "url": "https://thehackernews.com/2026/07/suspected-china-aligned-hackers-exploit.html",
-      "date": "2026-07-07T09:10:51Z"
+      "title": "While Pentagon and Anthropic fight over what is right and wrong, US government is using Claude to ...",
+      "description": "[TIMES OF INDIA] Tech News News: The Cybersecurity and Infrastructure Security Agency (CISA) is reportedly deploying Anthropic\u2019s advanced AI model Mythos to scan government software .",
+      "url": "https://timesofindia.indiatimes.com/technology/tech-news/while-pentagon-and-anthropic-fight-over-what-is-right-and-wrong-us-government-is-using-claude-to-/articleshow/132231583.cms",
+      "date": "2026-07-07T05:52:00Z"
     },
     {
       "title": "US cyber agency CISA uses Anthropic\u2019s Mythos to audit government software",
@@ -134,18 +152,6 @@
       "date": "2026-07-06T23:56:14Z"
     },
     {
-      "title": "Exclusive-US cyber agency is using Anthropic's Mythos to audit government code, sources say",
-      "description": "[THE STAR] WASHINGTON, July 6 (Reuters) - The U.S. \u2060cyber defense agency CISA is using Anthropic's AI model Mythos to audit government software, three \u2060people familiar with the matter said on Monday, another sign of government enthusiasm for adopting the \u200cAI...",
-      "url": "https://www.thestar.com.my/tech/tech-news/2026/07/07/exclusive-us-cyber-agency-is-using-anthropic039s-mythos-to-audit-government-code-sources-say",
-      "date": "2026-07-06T23:44:00Z"
-    },
-    {
-      "title": "AI agent exploits Langflow in first fully autonomous ransomware attack",
-      "description": "[SILICONANGLE NEWS] AI agent exploits Langflow in first fully autonomous ransomware attack - SiliconANGLE",
-      "url": "https://siliconangle.com/2026/07/06/ai-agent-exploits-langflow-first-fully-autonomous-ransomware-attack/",
-      "date": "2026-07-06T22:58:24Z"
-    },
-    {
       "title": "RCS and DNS: The NAPTR Record, (Mon, Jul 6th)",
       "description": "[ISC] Over the last year, with recent updates to iOS and Android, RCS (Rich Communication Services) has become an increasingly used protocol &#x5b;1&#x5d;. RCS is supposed to eventually replace SMS, and in addition to richer formatting, provides added...",
       "url": "https://isc.sans.edu/diary/rss/33124",
@@ -192,12 +198,6 @@
       "description": "[ISC] This morning, an interesting phishing email hit my mailbox. It targets Metamask&#x5b;1&#x5d;, a cryptocurrency wallet, available as a browser extension and a mobile app, that lets users store, send, and receive crypto money. It&#x27s pretty popular,...",
       "url": "https://isc.sans.edu/diary/rss/33118",
       "date": "2026-07-01T05:10:20Z"
-    },
-    {
-      "title": "ISC Stormcast For Wednesday, July 1st, 2026 https://isc.sans.edu/podcastdetail/9990, (Wed, Jul 1st)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33116",
-      "date": "2026-07-01T02:00:03Z"
     },
     {
       "title": "The Realities of AI Video Surveillance",
