@@ -1,6 +1,12 @@
 {
-  "updated": "2026-07-07 02:07:01 UTC",
+  "updated": "2026-07-07 07:28:47 UTC",
   "news": [
+    {
+      "title": "BeyondTrust Patches Critical Auth Bypass Flaws in Remote Support and PRA",
+      "description": "[FEEDS] BeyondTrust has released updates to address two critical security flaws affecting Remote Support (RS) and Privileged Remote Access (PRA) products that, if successfully exploited, could allow unauthenticated attackers to take control of susceptible...",
+      "url": "https://thehackernews.com/2026/07/beyondtrust-patches-critical-auth.html",
+      "date": "2026-07-07T05:16:51Z"
+    },
     {
       "title": "ISC Stormcast For Tuesday, July 7th, 2026 https://isc.sans.edu/podcastdetail/9996, (Tue, Jul 7th)",
       "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
@@ -20,6 +26,12 @@
       "date": "2026-07-06T20:23:45Z"
     },
     {
+      "title": "Researchers Uncover First Fully Agentic AI Ransomware Attack",
+      "description": "[HOT HARDWARE] The threat research team at Sysdig have discovered a malware campaign using an LLM driven attack.",
+      "url": "https://hothardware.com/news/researchers-uncover-first-ai-ransomware",
+      "date": "2026-07-06T18:41:00Z"
+    },
+    {
       "title": "Iran-Linked Hackers Use New Cavern C2 Framework to Target Israeli Organizations",
       "description": "[FEEDS] An Iranian hacking group affiliated with Iran's Ministry of Intelligence and Security (MOIS) has been wielding a previously undocumented modular command-and-control (C2) framework dubbed Cavern (aka Cav3rn) targeting Israeli organizations. The...",
       "url": "https://thehackernews.com/2026/07/iran-linked-hackers-use-new-cavern-c2.html",
@@ -32,16 +44,70 @@
       "date": "2026-07-06T18:25:06Z"
     },
     {
+      "title": "The Deadline To Claim Part of Comcast's $117.5M Data Breach Settlement Has Been Extended",
+      "description": "[CNBC] A 2023 cybersecurity attack exposed personal information belonging to over 36 million Xfinity users.",
+      "url": "https://www.cnbc.com/select/do-you-qualify-for-comcast-117-5-million-data-breach-settlement/",
+      "date": "2026-07-06T18:22:08Z"
+    },
+    {
+      "title": "Iowa lawmaker disputes Reynolds' veto of 'earmark' for tech company",
+      "description": "[DAVENPORT QUAD-CITY TIMES] The provision Gov. Kim Reynolds rejected was part of the state education budget, allocating $500,000 for protecting K-12 schools from cybersecurity threats.",
+      "url": "https://qctimes.com/news/state-regional/government-politics/article_62e6aa44-4d81-56c6-83f5-6df31fb42a6c.html",
+      "date": "2026-07-06T18:00:00Z"
+    },
+    {
       "title": "16-Year-Old Linux KVM Flaw Lets Guest VMs Escape to Host on Intel and AMD x86 Systems",
       "description": "[FEEDS] A use-after-free bug in Linux's KVM hypervisor can be triggered from a guest virtual machine to corrupt the shadow-page state of the host kernel that runs it. Dubbed 'Januscape' and tracked as&nbsp;CVE-2026-53359, the flaw sits in the shadow MMU...",
       "url": "https://thehackernews.com/2026/07/16-year-old-linux-kvm-flaw-lets-guest.html",
       "date": "2026-07-06T17:37:01Z"
     },
     {
+      "title": "US law firm Blank Rome faces class action over data breach",
+      "description": "[REUTERS] Blank Rome is the latest U.S. law firm to face a proposed class action for allegedly failing \u200bto protect clients\u2019 sensitive personal information \u2014 including Social Security numbers \u2014 after \u200chackers targeted the firm in a May data breach.",
+      "url": "https://www.reuters.com/legal/litigation/us-law-firm-blank-rome-faces-class-action-over-data-breach-2026-07-06/",
+      "date": "2026-07-06T17:20:47Z"
+    },
+    {
+      "title": "Security Firm Finds 'First Documented' AI Agentic Ransomware Attack",
+      "description": "[BUSINESS INSIDER] Researchers at Sysdig say they found \"a warning sign\" of where ransomware attacks are heading.",
+      "url": "https://www.businessinsider.com/ai-ransomware-attack-sysdig-jade-puffer-2026-7",
+      "date": "2026-07-06T16:48:43Z"
+    },
+    {
       "title": "Threat Actors Probe Gitea Docker Flaw CVE-2026-20896 13 Days After Disclosure",
       "description": "[FEEDS] Threat actors have been observed attempting to exploit a recently patched critical security flaw in Gitea Docker images, according to Sysdig. The vulnerability in question is CVE-2026-20896 (CVSS score: 9.8), a vulnerability that stems from the...",
       "url": "https://thehackernews.com/2026/07/threat-actors-probe-gitea-docker-flaw.html",
       "date": "2026-07-06T16:28:59Z"
+    },
+    {
+      "title": "House Judiciary report alleges South Korea targeted Coupang with $410M fine",
+      "description": "[FOX NEWS] House Judiciary Committee report alleges South Korea systematically discriminated against American companies, detailing the Coupang data breach and historic $410 million fine.",
+      "url": "https://www.foxnews.com/politics/explosive-house-report-reveals-secret-operation-china-center-south-korea-fight-us-company",
+      "date": "2026-07-06T16:16:43Z"
+    },
+    {
+      "title": "Globe Business named 2025 Orca Security APJ Partner of the Year for advancing cloud security",
+      "description": "[THE MANILA TIMES] AS Philippine enterprises accelerate their shift to cloud-based operations and AI-driven services, the need for stronger and more intelligent cybersecurity continues to grow.",
+      "url": "https://www.manilatimes.net/2026/07/07/tmt-newswire/globe-business-named-2025-orca-security-apj-partner-of-the-year-for-advancing-cloud-security/2379060",
+      "date": "2026-07-06T16:07:00Z"
+    },
+    {
+      "title": "We're booking big profits in a cyber stock that's rallied back to record highs",
+      "description": "[CNBC] Our two cybersecurity stocks have been two of the stronger positions in the portfolio lately.",
+      "url": "https://www.cnbc.com/2026/07/06/were-booking-big-profits-in-a-cyber-stock-thats-rallied-back-to-record-highs.html",
+      "date": "2026-07-06T15:36:49Z"
+    },
+    {
+      "title": "Breach Transparency Remains Cybersecurity's Toughest Governance Problem",
+      "description": "[THE HACKER NEWS] Bitdefender's 2026 assessment finds 55.2% of breached respondents were told to stay quiet, exposing a governance gap in incident response.",
+      "url": "https://thehackernews.com/expert-insights/2026/07/breach-transparency-remains.html",
+      "date": "2026-07-06T15:20:00Z"
+    },
+    {
+      "title": "Canadian spy agency says it hacked drug traffickers, extremists and a ransomware gang last year",
+      "description": "[TECHCRUNCH] The hacking operations disclosed in a Canadian spy agency's annual report underscores some pressing national security threats facing the country and its top allies.",
+      "url": "https://techcrunch.com/2026/07/06/canadian-spy-agency-says-it-hacked-drug-traffickers-extremists-and-a-ransomware-gang-last-year/",
+      "date": "2026-07-06T14:43:59Z"
     },
     {
       "title": "Software Is Now Written at the Speed of Thought. Security Isn't.",
@@ -68,12 +134,6 @@
       "date": "2026-07-06T13:01:14Z"
     },
     {
-      "title": "What's Driving Palo Alto Networks Stock Higher as AI Security Spending Expands?",
-      "description": "[BENZINGA] Palo Alto Networks shares are trading higher Monday afternoon as bullish analyst commentary keeps attention on AI-driven cybersecurity demand and the company\u2019s recent CyberArk deal.",
-      "url": "https://www.benzinga.com/trading-ideas/movers/26/07/60285028/whats-driving-palo-alto-networks-stock-higher-as-ai-security-spending-expands",
-      "date": "2026-07-06T12:12:00Z"
-    },
-    {
       "title": "ISC Stormcast For Monday, July 6th, 2026 https://isc.sans.edu/podcastdetail/9994, (Mon, Jul 6th)",
       "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
       "url": "https://isc.sans.edu/diary/rss/33122",
@@ -86,64 +146,10 @@
       "date": "2026-07-06T11:30:02Z"
     },
     {
-      "title": "Anthropic restores Claude Fable 5, signalling a new phase of AI governance",
-      "description": "[THE ECONOMIC TIMES] Anthropic has restored Claude Fable 5 after strengthening cybersecurity safeguards and securing regulatory approval, marking a significant milestone in AI governance, export controls and the growing emphasis on responsible deployment of frontier AI...",
-      "url": "https://economictimes.indiatimes.com/ai/ai-insights/anthropic-restores-claude-fable-5-signalling-a-new-phase-of-ai-governance/articleshow/132215125.cms",
-      "date": "2026-07-06T11:05:00Z"
-    },
-    {
-      "title": "Suspected China-Nexus Hackers Use Fake Indian Tax Filing Utility to Deploy DcRAT",
-      "description": "[FEEDS] A suspected China-nexus threat activity cluster has been observed targeting Indian taxpayers, tax professionals, and corporate finance teams to deliver a remote access trojan designed to steal sensitive data from compromised hosts. The multi-stage...",
-      "url": "https://thehackernews.com/2026/07/suspected-china-nexus-hackers-use-fake.html",
-      "date": "2026-07-06T10:58:16Z"
-    },
-    {
       "title": "France to Stop Certifying Non-Quantum-Safe Encryption",
       "description": "[SCHNEIER] France is accelerating its transition to post-quantum encryption: France&#8217;s cybersecurity agency ANSSI said on Tuesday it would stop certifying security products that lack quantum-resistant encryption, a move that will force government bodies...",
       "url": "https://www.schneier.com/blog/archives/2026/07/france-to-stop-certifying-non-quantum-safe-encryption.html",
       "date": "2026-07-06T10:45:44Z"
-    },
-    {
-      "title": "LTM Launches BlueVerse\u2122 RightLogic to Address Cyber Risk in AI Era",
-      "description": "[THE TRIBUNE] Mumbai (Maharashtra) [India], July 6: LTM, the Business Creativity partner to the world's largest enterprises, has launched BlueVerseTM RightLogic, a cybersecurity assessment and risk assurance framework designed to help enterprises identify, assess...",
-      "url": "https://www.tribuneindia.com/news/business/ltm-launches-blueverse-rightlogic-to-address-cyber-risk-in-ai-era/",
-      "date": "2026-07-06T09:38:36Z"
-    },
-    {
-      "title": "ICAI Dismisses CA Exam Data Breach Claims, Calls Viral Notice 'False and Malicious'",
-      "description": "[TIMES NOW] The Institute of Chartered Accountants of India has clarified that there has been no breach of students' or members' records or examination data, urging stakeholders to ignore the fake notice circulating on social media., Education, Times Now",
-      "url": "https://www.timesnownews.com/education/icai-dismisses-ca-exam-data-breach-claims-calls-viral-notice-false-and-malicious-article-154950153",
-      "date": "2026-07-06T09:03:02Z"
-    },
-    {
-      "title": "ICAI dismisses claims of data breach, says members' and students' records remain secure",
-      "description": "[TIMES OF INDIA] News News: NEW DELHI: The Institute of Chartered Accountants of India (ICAI) has dismissed as \\\"false, baseless and malicious\\\" social media posts alleging a breac.",
-      "url": "https://timesofindia.indiatimes.com/education/news/icai-dismisses-claims-of-data-breach-says-members-and-students-records-remain-secure/articleshow/132212224.cms",
-      "date": "2026-07-06T08:48:00Z"
-    },
-    {
-      "title": "Meet JadePuffer: The AI Ransomware That Can Hack Systems Without Human Help",
-      "description": "[TIMES NOW] A newly identified ransomware campaign named JadePuffer represents a significant advancement in cyberattacks, as it operates almost entirely autonomously using artificial intelligence., Technology & Science, Times Now",
-      "url": "https://www.timesnownews.com/technology-science/meet-jadepuffer-the-ai-ransomware-that-can-hack-systems-without-human-help-article-154950160",
-      "date": "2026-07-06T08:41:46Z"
-    },
-    {
-      "title": "Cybersecurity training is becoming more like gaming. Here\u2019s why",
-      "description": "[SCIENCEFOCUS.COM] From scoreboards to King of the Hill challenges, modern cybersecurity training uses gaming to make learning easier and more engaging",
-      "url": "https://www.sciencefocus.com/advertisement-feature/cybersecurity-training-more-like-gaming",
-      "date": "2026-07-06T08:00:00Z"
-    },
-    {
-      "title": "LTM launches BlueVerse RightLogic to address cyber risk in AI era",
-      "description": "[SCANX.TRADE] LTM announced the launch of BlueVerse RightLogic, a cybersecurity framework designed to manage risks associated with AI adoption. The solution provides unified visibility, rapid diagnostics via a 4 to 6 week engagement, and a prioritized remediation...",
-      "url": "https://scanx.trade/stock-market-news/technology/ltm-unveils-blueversetm-rightlogic-framework-to-address-cyber-risks-in-the-ai-era/44867344",
-      "date": "2026-07-06T07:16:17Z"
-    },
-    {
-      "title": "European central bank leaders call for AI guardrails to protect markets",
-      "description": "[CRYPTO NEWS] Central bankers across Europe have raised concerns that fast moving AI systems could pose financial stability and cybersecurity risks.",
-      "url": "https://crypto.news/european-central-bank-leaders-call-for-ai-guardrails-to-protect-markets/",
-      "date": "2026-07-06T06:52:40Z"
     },
     {
       "title": "Flipper Zero firmware development continues with community help",
