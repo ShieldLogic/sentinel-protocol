@@ -1,6 +1,36 @@
 {
-  "updated": "2026-07-07 14:07:33 UTC",
+  "updated": "2026-07-07 17:51:26 UTC",
   "news": [
+    {
+      "title": "Hidden backdoor in Tenda router firmware grants admin access",
+      "description": "[BLEEPINGCOMPUTER] A hidden authentication backdoor has been found in multiple Tenda router firmware versions, potentially allowing an attacker to gain administrative access to the device's web management panel. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/hidden-backdoor-in-tenda-router-firmware-grants-admin-access/",
+      "date": "2026-07-07T17:27:22Z"
+    },
+    {
+      "title": "Spain arrests suspected member of pro-Russian hacktivist groups",
+      "description": "[BLEEPINGCOMPUTER] The National Police in Spain have arrested a man who is suspected of being an active member of the CyberArmy of Russia Reborn (CARR) and Z-Pentest, both pro-Russian hacktivist groups. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/spain-arrests-suspected-member-of-pro-russian-hacktivist-groups/",
+      "date": "2026-07-07T15:21:21Z"
+    },
+    {
+      "title": "DEBULL Tooling Abuses Microsoft Device-Code Flow to Target M365 Accounts",
+      "description": "[FEEDS] A Microsoft 365 device code phishing campaign has been observed leveraging collaboration-themed lures to take control of victim accounts between the last week of June 2026 and into early July, per findings from ZeroBEC. \"The campaign did not depend...",
+      "url": "https://thehackernews.com/2026/07/debull-tooling-abuses-microsoft-device.html",
+      "date": "2026-07-07T15:14:14Z"
+    },
+    {
+      "title": "Public GitHub Issue Could Trick GitHub Agentic Workflows Into Leaking Private Repo Data",
+      "description": "[FEEDS] A public issue can trick GitHub Agentic Workflows into leaking the contents of an organization's private repositories, researchers at Noma Security have shown. The attacker needs only to open a normal-looking issue on a public repository, with no...",
+      "url": "https://thehackernews.com/2026/07/public-github-issue-could-trick-github.html",
+      "date": "2026-07-07T14:04:50Z"
+    },
+    {
+      "title": "The GitHub Actions Attack Pattern Your CI Security Scanners Miss",
+      "description": "[BLEEPINGCOMPUTER] ActiveState explains how GitHub Actions attack chains can evade traditional CI security scanners, why passing a scan doesn't guarantee a secure pipeline, and how organizations can better govern their CI/CD workflows. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/the-github-actions-attack-pattern-your-ci-security-scanners-miss/",
+      "date": "2026-07-07T14:01:11Z"
+    },
     {
       "title": "Court Filing Reveals Windows Device ID Helped FBI Trace Alleged Scattered Spider Hacker",
       "description": "[FEEDS] U.S. prosecutors linked an alleged Scattered Spider hacker to a break-in at a luxury jewelry retailer using a persistent Windows device ID, according to a newly unsealed federal complaint. Microsoft records tied that ID first to the account the...",
@@ -50,28 +80,40 @@
       "date": "2026-07-07T09:10:51Z"
     },
     {
-      "title": "BeyondTrust warns of critical flaws in remote access software",
-      "description": "[BLEEPINGCOMPUTER] BeyondTrust warned customers to patch two critical security flaws in its Remote Support (RS) and Privileged Remote Access (PRA) software that could allow attackers to bypass authentication. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/beyondtrust-warns-of-critical-flaws-in-remote-access-software/",
-      "date": "2026-07-07T08:12:10Z"
+      "title": "US cyber agency CISA uses Anthropic\u2019s Mythos to audit government software",
+      "description": "[BUSINESS TODAY] CISA is using Mythos to examine government code repositories for vulnerabilities that could be exploited by foreign intelligence agencies and cybercriminals.",
+      "url": "https://www.businesstoday.in/technology/news/story/us-cyber-agency-cisa-uses-anthropics-mythos-to-audit-government-software-541353-2026-07-07",
+      "date": "2026-07-07T05:49:06Z"
     },
     {
-      "title": "Microsoft testing new Cloud Rebuild Windows 11 recovery feature",
-      "description": "[BLEEPINGCOMPUTER] Microsoft has begun testing the Cloud Rebuild recovery feature in the latest Windows 11 Insider Preview builds released for users in the Experimental channel. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-new-cloud-rebuild-windows-11-recovery-feature/",
-      "date": "2026-07-07T07:37:38Z"
+      "title": "US cyber agency is using Anthropic's Mythos to audit government code, sources say",
+      "description": "[RAPPLER] The Cybersecurity and Infrastructure Security Agency is using Mythos to scan government code repositories for bugs that could leave the door open for foreign spies and cybercriminals, sources say",
+      "url": "https://www.rappler.com/technology/united-states-cisa-using-anthropic-mythos-audit-government-code/",
+      "date": "2026-07-07T05:23:15Z"
     },
     {
-      "title": "CERT/CC Warns of Hidden Admin Backdoor in Tenda Router Firmware",
-      "description": "[FEEDS] Several versions of firmware released by Chinese network device manufacturer Tenda have been found to embed an undocumented authentication backdoor that enables administrative access to the devices' web management interfaces, the CERT Coordination...",
-      "url": "https://thehackernews.com/2026/07/certcc-warns-of-hidden-admin-backdoor.html",
-      "date": "2026-07-07T06:40:47Z"
+      "title": "ICAI denies data breach, calls hacking claims 'false and malicious'",
+      "description": "[INDIA TODAY] ICAI has denied viral social media claims that its websites were hacked and data leaked. The institute said the rumours caused concern and urged stakeholders to rely on official updates.",
+      "url": "https://www.indiatoday.in/education-today/news/story/icai-data-breach-claim-fake-student-member-exam-records-secure-2942215-2026-07-07",
+      "date": "2026-07-07T05:04:44Z"
     },
     {
-      "title": "BeyondTrust Patches Critical Auth Bypass Flaws in Remote Support and PRA",
-      "description": "[FEEDS] BeyondTrust has released updates to address two critical security flaws affecting Remote Support (RS) and Privileged Remote Access (PRA) products that, if successfully exploited, could allow unauthenticated attackers to take control of susceptible...",
-      "url": "https://thehackernews.com/2026/07/beyondtrust-patches-critical-auth.html",
-      "date": "2026-07-07T05:16:51Z"
+      "title": "U.S. cyber agency is using Anthropic's Mythos to audit government code, sources say",
+      "description": "[THE HINDU] The U.S. cyber defence agency CISA is using Anthropic\u2019s AI model \u200bMythos to audit government software, three people familiar with the matter \u2060said on Monday",
+      "url": "https://www.thehindu.com/sci-tech/technology/us-cyber-agency-is-using-anthropics-mythos-to-audit-government-code-sources-say/article71192086.ece",
+      "date": "2026-07-07T04:44:28Z"
+    },
+    {
+      "title": "Researchers track down world's first AI agent ransomware attack, here's what you should know",
+      "description": "[INDIA TODAY] Researchers have spotted likely the first case of a ransomware attack, called JadePuffer, led entirely by an AI agent, sparking fears over the future of cybersecurity. However, there may be a twist.",
+      "url": "https://www.indiatoday.in/technology/news/story/researchers-track-down-worlds-first-ai-agent-ransomware-attack-heres-what-you-should-know-2942178-2026-07-07",
+      "date": "2026-07-07T04:09:21Z"
+    },
+    {
+      "title": "US Once Called Anthropic A Supply Chain Risk, Now Its Mythos AI Finds Govt Software Bugs",
+      "description": "[TIMES NOW] US cyber agency CISA has reportedly deployed Anthropic's Mythos AI to detect software bugs and strengthen government cybersecurity., Technology & Science, Times Now",
+      "url": "https://www.timesnownews.com/technology-science/us-once-called-anthropic-a-supply-chain-risk-now-its-mythos-ai-finds-govt-software-bugs-article-154953212",
+      "date": "2026-07-07T02:24:21Z"
     },
     {
       "title": "ISC Stormcast For Tuesday, July 7th, 2026 https://isc.sans.edu/podcastdetail/9996, (Tue, Jul 7th)",
@@ -102,48 +144,6 @@
       "description": "[SILICONANGLE NEWS] AI agent exploits Langflow in first fully autonomous ransomware attack - SiliconANGLE",
       "url": "https://siliconangle.com/2026/07/06/ai-agent-exploits-langflow-first-fully-autonomous-ransomware-attack/",
       "date": "2026-07-06T22:58:24Z"
-    },
-    {
-      "title": "Phishing poses as big-brand job interview to steal Google accounts",
-      "description": "[BLEEPINGCOMPUTER] A phishing campaign is impersonating more than 30 well-known brands, including Adobe, Netflix, Coca-Cola, and OpenAI, in fake job interviews to steal Google account credentials from marketing professionals. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/phishing-poses-as-big-brand-job-interview-to-steal-google-accounts/",
-      "date": "2026-07-06T20:27:37Z"
-    },
-    {
-      "title": "US cyber agency is using Anthropic's Mythos to audit government code, sources say",
-      "description": "[REUTERS] The \u200bU.S. cyber defense agency CISA is using Anthropic's AI model Mythos to audit government software, \u200cthree people familiar with the matter said on Monday, another sign of government enthusiasm for adopting the AI startup's tools even as the...",
-      "url": "https://www.reuters.com/world/us-cyber-agency-is-using-anthropics-mythos-audit-government-code-sources-say-2026-07-06/",
-      "date": "2026-07-06T20:10:07Z"
-    },
-    {
-      "title": "Mythos: A New Era in Cyber Defense Amidst Government Struggles",
-      "description": "[DEVDISCOURSE] The U.S. cyber defense agency CISA uses Anthropic's AI model Mythos to audit government software, revealing vulnerabilities. This move marks the government's interest in AI tools amidst Anthropic's ongoing issues with U.S. authorities regarding AI's...",
-      "url": "https://www.devdiscourse.com/article/technology/3946113-mythos-a-new-era-in-cyber-defense-amidst-government-struggles",
-      "date": "2026-07-06T20:04:43Z"
-    },
-    {
-      "title": "Researchers Uncover First Fully Agentic AI Ransomware Attack",
-      "description": "[HOT HARDWARE] The threat research team at Sysdig have discovered a malware campaign using an LLM driven attack.",
-      "url": "https://hothardware.com/news/researchers-uncover-first-ai-ransomware",
-      "date": "2026-07-06T18:41:00Z"
-    },
-    {
-      "title": "The Deadline To Claim Part of Comcast's $117.5M Data Breach Settlement Has Been Extended",
-      "description": "[CNBC] A 2023 cybersecurity attack exposed personal information belonging to over 36 million Xfinity users.",
-      "url": "https://www.cnbc.com/select/do-you-qualify-for-comcast-117-5-million-data-breach-settlement/",
-      "date": "2026-07-06T18:22:08Z"
-    },
-    {
-      "title": "Iowa lawmaker disputes Reynolds' veto of 'earmark' for tech company",
-      "description": "[DAVENPORT QUAD-CITY TIMES] The provision Gov. Kim Reynolds rejected was part of the state education budget, allocating $500,000 for protecting K-12 schools from cybersecurity threats.",
-      "url": "https://qctimes.com/news/state-regional/government-politics/article_62e6aa44-4d81-56c6-83f5-6df31fb42a6c.html",
-      "date": "2026-07-06T18:00:00Z"
-    },
-    {
-      "title": "US law firm Blank Rome faces class action over data breach",
-      "description": "[REUTERS] Blank Rome is the latest U.S. law firm to face a proposed class action for allegedly failing \u200bto protect clients\u2019 sensitive personal information \u2014 including Social Security numbers \u2014 after \u200chackers targeted the firm in a May data breach.",
-      "url": "https://www.reuters.com/legal/litigation/us-law-firm-blank-rome-faces-class-action-over-data-breach-2026-07-06/",
-      "date": "2026-07-06T17:20:47Z"
     },
     {
       "title": "RCS and DNS: The NAPTR Record, (Mon, Jul 6th)",
