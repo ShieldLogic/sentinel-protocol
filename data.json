@@ -1,6 +1,30 @@
 {
-  "updated": "2026-07-08 13:40:46 UTC",
+  "updated": "2026-07-08 15:56:56 UTC",
   "news": [
+    {
+      "title": "Ubiquiti Patches Critical UniFi Flaws Across Connect, Talk, Access, Protect, and OS",
+      "description": "[FEEDS] Ubiquiti has shipped updates to address multiple critical security flaws impacting UniFi Connect, UniFi Talk, UniFi Access, UniFi Protect, and UniFi OS that could result in privilege escalation and arbitrary command execution. The list of...",
+      "url": "https://thehackernews.com/2026/07/ubiquiti-patches-critical-unifi-flaws.html",
+      "date": "2026-07-08T14:38:05Z"
+    },
+    {
+      "title": "3 Ways AI Powers Service Desk Attacks and How to Prevent Them",
+      "description": "[BLEEPINGCOMPUTER] Specops Software explains how AI is making service desk impersonation attacks more convincing, personalized, and scalable, along with practical steps organizations can take to strengthen onboarding and identity verification. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/3-ways-ai-powers-service-desk-attacks-and-how-to-prevent-them/",
+      "date": "2026-07-08T14:01:11Z"
+    },
+    {
+      "title": "New Ghost Phishing Wave Is Breaking Traditional Email Security",
+      "description": "[FEEDS] A recent EvilTokens campaign targeting businesses across the US and Europe is exposing a new email security blind spot. This \u201cghost phishing\u201d technique keeps the malicious page hidden until it decrypts and comes to life inside the victim\u2019s browser....",
+      "url": "https://thehackernews.com/2026/07/new-ghost-phishing-wave-is-breaking.html",
+      "date": "2026-07-08T13:00:00Z"
+    },
+    {
+      "title": "SCMBANKER Malware Uses ClickFix Lures to Target Mexican Banking Users",
+      "description": "[FEEDS] A new banking fraudulent operation is targeting customers of Mexican banks, fintech, payment processors, and cryptocurrency exchanges using ClickFix lures. The activity cluster, tracked by Elastic Security Labs under the moniker REF6045, involves...",
+      "url": "https://thehackernews.com/2026/07/scmbanker-malware-uses-clickfix-lures.html",
+      "date": "2026-07-08T12:52:15Z"
+    },
     {
       "title": "DuckDuckGo browser now blocks YouTube video ads",
       "description": "[BLEEPINGCOMPUTER] DuckDuckGo announced that its browser can now block most video ads on YouTube, including those shown before the video starts playing and during playback. [...]",
@@ -44,12 +68,6 @@
       "date": "2026-07-08T09:58:11Z"
     },
     {
-      "title": "China-Linked UAT-7810 Expands ORB Network With New LONGLEASH Malware",
-      "description": "[FEEDS] A Chinese threat actor tracked as UAT-7810 is actively refining its bespoke malware to expand its Operational Relay Box (ORB) network by breaking into internet-facing networking devices. According to findings from Cisco Talos, UAT-7810 is an...",
-      "url": "https://thehackernews.com/2026/07/china-linked-uat-7810-expands-orb.html",
-      "date": "2026-07-08T09:04:33Z"
-    },
-    {
       "title": "Ubiquiti warns of new max severity  UniFi OS vulnerability",
       "description": "[BLEEPINGCOMPUTER] Ubiquiti has released security updates to patch seven critical vulnerabilities in UniFi OS, including a maximum-severity flaw that can be exploited in command injection attacks. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/ubiquiti-warns-of-new-max-severity-unifi-os-vulnerability/",
@@ -68,22 +86,16 @@
       "date": "2026-07-08T07:16:55Z"
     },
     {
-      "title": "15-Year-Old GhostLock Flaw Enables Root and Container Escape on Most Linux Distros",
-      "description": "[FEEDS] Researchers at&nbsp;Nebula Security&nbsp;have disclosed GhostLock (CVE-2026-43499), a 15-year-old Linux kernel flaw that lets any logged-in user take full&nbsp;root&nbsp;control of a machine that has not been patched. The vulnerable code has shipped...",
-      "url": "https://thehackernews.com/2026/07/15-year-old-ghostlock-flaw-enables-root.html",
-      "date": "2026-07-08T06:16:44Z"
-    },
-    {
-      "title": "CISA Adds 4 Actively Exploited Adobe, Joomla, and Langflow Flaws to KEV",
-      "description": "[FEEDS] The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added four security flaws to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The vulnerabilities are listed below - CVE-2026-48282...",
-      "url": "https://thehackernews.com/2026/07/cisa-adds-4-actively-exploited-adobe.html",
-      "date": "2026-07-08T05:33:12Z"
-    },
-    {
       "title": "ISC Stormcast For Wednesday, July 8th, 2026 https://isc.sans.edu/podcastdetail/9998, (Wed, Jul 8th)",
       "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
       "url": "https://isc.sans.edu/diary/rss/33136",
       "date": "2026-07-08T02:00:02Z"
+    },
+    {
+      "title": "ECB presses banks on AI defence plans",
+      "description": "[THE STAR] The European Central Bank on July 7 pressed major European banks to come up with action plans to deal with cybersecurity risks posed by increasingly powerful artificial intelligence systems.",
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/07/08/ecb-presses-banks-on-ai-defence-plans",
+      "date": "2026-07-08T02:00:00Z"
     },
     {
       "title": "An AI chatbot stumbled into working ransomware while trying to please a user's impossible request",
@@ -102,12 +114,6 @@
       "description": "[BBC NEWS] 23andMe compiles genetic profiles of people through DNA testing kits, but it was heavily criticised after a 2023 hack.",
       "url": "https://www.bbc.com/news/articles/cn0vnx2192vo",
       "date": "2026-07-07T23:47:33Z"
-    },
-    {
-      "title": "Accenture confirms breach after hacker offers stolen data for sale",
-      "description": "[BLEEPINGCOMPUTER] IT services giant Accenture has confirmed it suffered a security breach after a threat actor claimed to have stolen 35 GB of source code and other data from the company. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/accenture-confirms-breach-after-hacker-offers-stolen-data-for-sale/",
-      "date": "2026-07-07T22:06:07Z"
     },
     {
       "title": "Court Approves $46 Million 23andMe Settlement For 2023 Data Breach Victims",
@@ -150,12 +156,6 @@
       "description": "[THE NEW INDIAN EXPRESS] According to officials, the government's move reflects a broader effort to embed cybersecurity into India's automotive safety framework rather than treating it",
       "url": "https://www.newindianexpress.com/business/2026/Jul/07/govt-asks-ev-makers-to-tighten-cybersecurity-audit-battery-systems",
       "date": "2026-07-07T17:53:54Z"
-    },
-    {
-      "title": "Hacked, leaked, and held for ransom: The worst breaches of 2026 so far",
-      "description": "[TECHCRUNCH] From a massive DOGE data breach and the hacking of critical energy and water systems to the hack of an FBI surveillance system, here are the most damaging security incidents and data breaches of 2026.",
-      "url": "https://techcrunch.com/2026/07/07/the-worst-hacks-and-breaches-of-2026-so-far/",
-      "date": "2026-07-07T16:45:00Z"
     },
     {
       "title": "Google Is Suing Chinese Scammers Who Are Using Gemini",
