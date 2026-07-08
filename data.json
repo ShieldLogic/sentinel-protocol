@@ -1,6 +1,42 @@
 {
-  "updated": "2026-07-08 08:08:02 UTC",
+  "updated": "2026-07-08 11:41:53 UTC",
   "news": [
+    {
+      "title": "Telco giant KDDI says data breach affects over 12 million people",
+      "description": "[BLEEPINGCOMPUTER] Japanese telecommunications giant KDDI says that millions of people had their email addresses and passwords exposed after attackers breached an email platform used by five internet service providers (ISPs) in the country. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/japanese-telecom-giant-kddi-says-data-breach-affects-12-million-people/",
+      "date": "2026-07-08T11:24:16Z"
+    },
+    {
+      "title": "Cybersecurity and the Gap Between Skill and Ability",
+      "description": "[SCHNEIER] Last week, national security agencies from the Five Eyes&#8212;that&#8217;s the rich, English-language-speaking countries club&#8212;jointly released a statement warning of the increasing cyber risks of AI models: in particular, their ability to...",
+      "url": "https://www.schneier.com/blog/archives/2026/07/cybersecurity-and-the-gap-between-skill-and-ability.html",
+      "date": "2026-07-08T11:03:04Z"
+    },
+    {
+      "title": "CISA orders feds to prioritize patching Langflow auth bypass flaw",
+      "description": "[BLEEPINGCOMPUTER] The U.S. Cybersecurity and Infrastructure Security Agency (CISA) gave federal agencies until Friday to patch an actively exploited vulnerability in the Langflow visual framework for building AI agents. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-prioritize-patching-langflow-auth-bypass-flaw/",
+      "date": "2026-07-08T09:58:11Z"
+    },
+    {
+      "title": "China-Linked UAT-7810 Expands ORB Network With New LONGLEASH Malware",
+      "description": "[FEEDS] A Chinese threat actor tracked as UAT-7810 is actively refining its bespoke malware to expand its Operational Relay Box (ORB) network by breaking into internet-facing networking devices. According to findings from Cisco Talos, UAT-7810 is an...",
+      "url": "https://thehackernews.com/2026/07/china-linked-uat-7810-expands-orb.html",
+      "date": "2026-07-08T09:04:33Z"
+    },
+    {
+      "title": "Ubiquiti warns of new max severity  UniFi OS vulnerability",
+      "description": "[BLEEPINGCOMPUTER] Ubiquiti has released security updates to patch seven critical vulnerabilities in UniFi OS, including a maximum-severity flaw that can be exploited in command injection attacks. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/ubiquiti-warns-of-new-max-severity-unifi-os-vulnerability/",
+      "date": "2026-07-08T08:15:20Z"
+    },
+    {
+      "title": "My Stack Simulator, (Wed, Jul 8th)",
+      "description": "[ISC] The stack is a memory region where a program stores temporary data -&&#x23&#x3b;x26&#x3b;&#x23&#x3b;xc2&#x3b;&&#x23&#x3b;x26&#x3b;&#x23&#x3b;xa0&#x3b;like local variables and return addresses. Think of the stack as a pile of plates in your kitchen:...",
+      "url": "https://isc.sans.edu/diary/rss/33138",
+      "date": "2026-07-08T08:09:03Z"
+    },
     {
       "title": "CISA orders feds to patch max severity ColdFusion flaw by Friday",
       "description": "[BLEEPINGCOMPUTER] The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has ordered government agencies to patch an actively exploited maximum-severity flaw in the Adobe ColdFusion commercial web app development platform by Friday. [...]",
@@ -30,6 +66,12 @@
       "description": "[BLEEPINGCOMPUTER] IT services giant Accenture has confirmed it suffered a security breach after a threat actor claimed to have stolen 35 GB of source code and other data from the company. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/accenture-confirms-breach-after-hacker-offers-stolen-data-for-sale/",
       "date": "2026-07-07T22:06:07Z"
+    },
+    {
+      "title": "Court Approves $46 Million 23andMe Settlement For 2023 Data Breach Victims",
+      "description": "[GIZMODO] Roughly half of all 23andMe customers were impacted by the breach.",
+      "url": "https://gizmodo.com/court-approves-46-million-23andme-settlement-for-2023-data-breach-victims-2000782508",
+      "date": "2026-07-07T21:15:23Z"
     },
     {
       "title": "The First Ransomware Attack Run From Start To Finish By An AI Agent",
@@ -74,12 +116,6 @@
       "date": "2026-07-07T17:53:54Z"
     },
     {
-      "title": "Hidden backdoor in Tenda router firmware grants admin access",
-      "description": "[BLEEPINGCOMPUTER] A hidden authentication backdoor has been found in multiple Tenda router firmware versions, potentially allowing an attacker to gain administrative access to the device's web management panel. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/hidden-backdoor-in-tenda-router-firmware-grants-admin-access/",
-      "date": "2026-07-07T17:27:22Z"
-    },
-    {
       "title": "RedWing MaaS Packages Android Bank Fraud as a Telegram Rental Service",
       "description": "[FEEDS] A new Android malware operation called RedWing is being rented out on Telegram as a ready-made bank-fraud service. It lets even low-skill criminals take over a victim's phone, steal their banking logins, and capture the one-time codes that protect...",
       "url": "https://thehackernews.com/2026/07/redwing-maas-packages-android-bank.html",
@@ -116,34 +152,10 @@
       "date": "2026-07-07T16:37:33Z"
     },
     {
-      "title": "Lemonade settlement: You might be owed $10K",
-      "description": "[CLEVELAND.COM] Lemonade experienced a data breach a few years ago that compromised sensitive customer information.",
-      "url": "https://www.cleveland.com/news/2026/07/insurance-company-settlement-could-mean-10k-for-victims.html",
-      "date": "2026-07-07T16:18:11Z"
-    },
-    {
-      "title": "Spain arrests suspected member of pro-Russian hacktivist groups",
-      "description": "[BLEEPINGCOMPUTER] The National Police in Spain have arrested a man who is suspected of being an active member of the CyberArmy of Russia Reborn (CARR) and Z-Pentest, both pro-Russian hacktivist groups. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/spain-arrests-suspected-member-of-pro-russian-hacktivist-groups/",
-      "date": "2026-07-07T15:21:21Z"
-    },
-    {
       "title": "DEBULL Tooling Abuses Microsoft Device-Code Flow to Target M365 Accounts",
       "description": "[FEEDS] A Microsoft 365 device code phishing campaign has been observed leveraging collaboration-themed lures to take control of victim accounts between the last week of June 2026 and into early July, per findings from ZeroBEC. \"The campaign did not depend...",
       "url": "https://thehackernews.com/2026/07/debull-tooling-abuses-microsoft-device.html",
       "date": "2026-07-07T15:14:14Z"
-    },
-    {
-      "title": "Public GitHub Issue Could Trick GitHub Agentic Workflows Into Leaking Private Repo Data",
-      "description": "[FEEDS] A public issue can trick GitHub Agentic Workflows into leaking the contents of an organization's private repositories, researchers at Noma Security have shown. The attacker needs only to open a normal-looking issue on a public repository, with no...",
-      "url": "https://thehackernews.com/2026/07/public-github-issue-could-trick-github.html",
-      "date": "2026-07-07T14:04:50Z"
-    },
-    {
-      "title": "The GitHub Actions Attack Pattern Your CI Security Scanners Miss",
-      "description": "[BLEEPINGCOMPUTER] ActiveState explains how GitHub Actions attack chains can evade traditional CI security scanners, why passing a scan doesn't guarantee a secure pipeline, and how organizations can better govern their CI/CD workflows. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/the-github-actions-attack-pattern-your-ci-security-scanners-miss/",
-      "date": "2026-07-07T14:01:11Z"
     },
     {
       "title": "Google Is Suing Chinese Scammers Who Are Using Gemini",
@@ -188,22 +200,10 @@
       "date": "2026-07-02T11:11:44Z"
     },
     {
-      "title": "ISC Stormcast For Thursday, July 2nd, 2026 https://isc.sans.edu/podcastdetail/9992, (Thu, Jul 2nd)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33120",
-      "date": "2026-07-02T02:00:02Z"
-    },
-    {
       "title": "Papa Johns Surveillance-Based Advertising",
       "description": "[SCHNEIER] Papa Johns is spying on people&#8217;s buying activities to predict when they are low on food: The pizza chain recently tapped NBCUniversal, Instacart and the dentsu-owned media agency Carat for help reaching consumers when they&#8217;re low on...",
       "url": "https://www.schneier.com/blog/archives/2026/07/papa-johns-surveillance-based-advertising.html",
       "date": "2026-07-01T10:53:23Z"
-    },
-    {
-      "title": "The Realities of AI Video Surveillance",
-      "description": "[SCHNEIER] The Financial Times has a good article on how AI is changing the capabilities of video surveillance, with information from both Israel/Iran and Russia. I wrote about this sort of thing a few years ago, how AI enables mass spying in the way that...",
-      "url": "https://www.schneier.com/blog/archives/2026/06/the-realities-of-ai-video-surveillance.html",
-      "date": "2026-06-30T12:05:57Z"
     }
   ]
 }
