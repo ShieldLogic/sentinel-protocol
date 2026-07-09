@@ -1,6 +1,18 @@
 {
-  "updated": "2026-07-09 17:47:17 UTC",
+  "updated": "2026-07-09 19:22:26 UTC",
   "news": [
+    {
+      "title": "Dormant GitHub Accounts Help Attackers Blend In While Mapping Corporate Orgs",
+      "description": "[FEEDS] Datadog Security Labs is warning of \"several overlapping campaigns\" that are systematically enumerating corporate GitHub organizations, repositories, and user accounts through the GitHub&nbsp;API. \"Operators rely on automated scraping tooling with...",
+      "url": "https://thehackernews.com/2026/07/dormant-github-accounts-help-attackers.html",
+      "date": "2026-07-09T18:38:49Z"
+    },
+    {
+      "title": "New GigaWiper Windows Backdoor Bundles Disk Wiping, Fake Ransomware, and Spyware",
+      "description": "[FEEDS] Microsoft has taken apart a destructive Windows backdoor it calls GigaWiper. What stands out is how it is built: not one tool but three older destructive programs bolted into one, offered as commands the operator can choose from. Each is a different...",
+      "url": "https://thehackernews.com/2026/07/new-gigawiper-windows-backdoor-bundles.html",
+      "date": "2026-07-09T18:08:07Z"
+    },
     {
       "title": "New Helix vishing group emerges in SharePoint data theft attacks",
       "description": "[BLEEPINGCOMPUTER] A new data-extortion group called Helix is using identity-focused tactics such as voice phishing (vishing), device code phishing, and multi-factor authentication (MFA) abuse to steal data from SharePoint environments. [...]",
@@ -62,22 +74,40 @@
       "date": "2026-07-09T11:00:00Z"
     },
     {
-      "title": "GodDamn Ransomware Uses PoisonX Driver to Disable Endpoint Defenses",
-      "description": "[FEEDS] Cybersecurity researchers have flagged a new ransomware family called GodDamn that employs the PoisonX kernel driver to neutralize security software as part of its defense evasion strategy. According to a new report published by the Threat Hunter...",
-      "url": "https://thehackernews.com/2026/07/goddamn-ransomware-uses-poisonx-driver.html",
-      "date": "2026-07-09T10:43:09Z"
-    },
-    {
       "title": "Police arrests 5,800 suspects in global anti-fraud crackdown",
       "description": "[BLEEPINGCOMPUTER] Law enforcement agencies have arrested 5,811 suspects and seized $293 million in illicit assets in a global anti-fraud operation spanning 97 countries. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/police-arrests-5-800-suspects-in-global-anti-fraud-crackdown/",
       "date": "2026-07-09T09:47:28Z"
     },
     {
-      "title": "Microsoft Patches RoguePlanet Defender Flaw That Can Grant SYSTEM Privileges",
-      "description": "[FEEDS] Microsoft has released security updates for a Defender vulnerability known as RoguePlanet, nearly a month after details of the flaw became public. The vulnerability, tracked as CVE-2026-50656 (CVSS score: 7.8), is a privilege escalation issue in the...",
-      "url": "https://thehackernews.com/2026/07/microsoft-patches-rogueplanet-defender.html",
-      "date": "2026-07-09T08:48:48Z"
+      "title": "Coro Expands into DACH Market with Distribution Partnership with QBS Software",
+      "description": "[THE MANILA TIMES] Coro selects QBS Software and its Prianto distribution brand to bring its AI-native unified cybersecurity platform to resellers across Germany, Austria, and Switzerland",
+      "url": "https://www.manilatimes.net/2026/07/09/tmt-newswire/globenewswire/coro-expands-into-dach-market-with-distribution-partnership-with-qbs-software/2381381",
+      "date": "2026-07-09T07:19:28Z"
+    },
+    {
+      "title": "Rubrik unveils $500 million UK investment, names London as European HQ",
+      "description": "[REUTERS] U.S. cybersecurity and data resilience and company Rubrik said on Thursday it would invest more than $500 million over the \u200bnext five years in Britain, one of its fastest growing \u200cmarkets, and establish its European headquarters in London.",
+      "url": "https://www.reuters.com/technology/rubrik-unveils-500-million-uk-investment-names-london-european-hq-2026-07-09/",
+      "date": "2026-07-09T07:05:12Z"
+    },
+    {
+      "title": "CISA mills\u2019 daily crude steel output down 3.6% in late June 2026, stocks also down",
+      "description": "[STEELORBIS] The China Iron and Steel Association (CISA) has announced that in late June (June 21-30) this year the average aggregate daily crude steel output of ...",
+      "url": "https://www.steelorbis.com/steel-news/latest-news/cisa-mills-daily-crude-steel-output-down-36-in-late-june-2026-stocks-also-down-1463443.htm",
+      "date": "2026-07-09T07:01:01Z"
+    },
+    {
+      "title": "Dayton Children's Hospital goes live with Sectra's ophthalmology solution to unify imaging across specialties",
+      "description": "[PR NEWSWIRE UK] /PRNewswire/ -- International medical imaging IT and cybersecurity company Sectra (STO: SECT B) announces that Dayton Children's Hospital is now live with...",
+      "url": "https://www.prnewswire.co.uk/news-releases/dayton-childrens-hospital-goes-live-with-sectras-ophthalmology-solution-to-unify-imaging-across-specialties-302821675.html",
+      "date": "2026-07-09T06:55:00Z"
+    },
+    {
+      "title": "China issues 'backdoor' security alert over Anthropic's Claude Code",
+      "description": "[THE HINDU] A \u200bcybersecurity platform operated by China\u2019s industry ministry \u200cwarned on Wednesday that it had \u200bidentified a serious security \u201cbackdoor\u201d \u2060risk in Anthropic\u2019s AI coding tool, Claude Code.",
+      "url": "https://www.thehindu.com/sci-tech/technology/china-issues-backdoor-security-alert-over-anthropics-claude-code/article71200805.ece",
+      "date": "2026-07-09T06:07:16Z"
     },
     {
       "title": "OpenAI to unveil GPT 5.6 on July 9 after US security concerns delay",
@@ -120,36 +150,6 @@
       "description": "[BARCHART] Needham raised its price target on cybersecurity giant Palo Alto Networks by over 20%. Here\u2019s what\u2019s driving the brokerage\u2019s growing confidence.",
       "url": "https://www.barchart.com/story/news/3192156/why-needham-just-raised-its-palo-alto-stock-price-target-by-more-than-20",
       "date": "2026-07-08T20:17:39Z"
-    },
-    {
-      "title": "Intelligent Automation Meets Data Security: SAP Technology Leader Puneet Khatri on AI-Driven SAP Operations and the New Rules of Data Masking",
-      "description": "[TECHBULLION] In this exclusive interview with TechBullion, Puneet Khatri discusses how artificial intelligence is transforming SAP automation, why data masking has become a frontline cybersecurity discipline, and what enterprises get wrong when they try to...",
-      "url": "https://techbullion.com/intelligent-automation-meets-data-security-sap-technology-leader-puneet-khatri-on-ai-driven-sap-operations-and-the-new-rules-of-data-masking/",
-      "date": "2026-07-08T19:57:09Z"
-    },
-    {
-      "title": "Nationwide opens first campus outside US in Hyderabad",
-      "description": "[TIMES OF INDIA] Nationwide opens its first campus outside the US in Hyderabad, launching a Global Services Center to support 24/7 operations and grow tech, AI and cybersecurity teams.",
-      "url": "https://timesofindia.indiatimes.com/city/hyderabad/nationwide-opens-first-campus-outside-us-in-hyderabad/articleshow/132271390.cms",
-      "date": "2026-07-08T18:46:00Z"
-    },
-    {
-      "title": "SpaceXAI, Cursor unveil Grok AI model for legal, finance tasks",
-      "description": "[CNBC TV18] SpaceXAI has launched Grok 4.5, a new AI model developed with AI coding startup Cursor, to expand its capabilities in finance, legal, coding and cybersecurity tasks. The release follows SpaceX's agreement to acquire Cursor in a deal valuing the...",
-      "url": "https://www.cnbctv18.com/business/companies/spacexai-cursor-unveil-grok-ai-model-for-legal-finance-tasks-19941394.htm",
-      "date": "2026-07-08T18:18:29Z"
-    },
-    {
-      "title": "Experts warn of the 'first documented case of agentic ransomware' - dangerous JADEPUFFER attack run entirely by an LLM",
-      "description": "[TECHRADAR] The AI has risen, and is targeting cloud servers",
-      "url": "https://www.techradar.com/pro/security/experts-warn-of-the-first-documented-case-of-agentic-ransomware-dangerous-jadepuffer-attack-run-entirely-by-an-llm",
-      "date": "2026-07-08T18:15:00Z"
-    },
-    {
-      "title": "Another massive data breach exposed millions of driver's license numbers",
-      "description": "[TECHCRUNCH] The cyberattack targeting a U.S. insurance giant is the largest known breach of driver's license numbers so far in 2026.",
-      "url": "https://techcrunch.com/2026/07/08/another-massive-data-breach-exposed-millions-of-drivers-license-numbers/",
-      "date": "2026-07-08T16:14:49Z"
     },
     {
       "title": "Cybersecurity and the Gap Between Skill and Ability",
