@@ -1,6 +1,42 @@
 {
-  "updated": "2026-07-10 13:59:40 UTC",
+  "updated": "2026-07-10 16:26:10 UTC",
   "news": [
+    {
+      "title": "My Stack Simulator, (Wed, Jul 8th)",
+      "description": "[ISC] The stack is a memory region where a program stores temporary data -&&#x23&#x3b;x26&#x3b;&#x23&#x3b;xc2&#x3b;&&#x23&#x3b;x26&#x3b;&#x23&#x3b;xa0&#x3b;like local variables and return addresses. Think of the stack as a pile of plates in your kitchen:...",
+      "url": "https://isc.sans.edu/diary/rss/33138",
+      "date": "2026-07-10T15:52:27Z"
+    },
+    {
+      "title": "Hackers exploit critical auth bypass in Gitea Docker image",
+      "description": "[BLEEPINGCOMPUTER] Hackers are actively exploiting a critical vulnerability in the official Docker image for the Gitea self-hosted Git service that allows attackers to impersonate any user, including administrators. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-auth-bypass-in-gitea-docker-image/",
+      "date": "2026-07-10T15:48:38Z"
+    },
+    {
+      "title": "Money launderer accused of stealing seized crypto while in prison",
+      "description": "[BLEEPINGCOMPUTER] A Bulgarian national has been charged with stealing $290,000 in government-seized cryptocurrency while serving 121 months in prison for helping launder millions stolen from American fraud victims. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/money-launderer-accused-of-stealing-seized-crypto-while-in-prison/",
+      "date": "2026-07-10T15:30:19Z"
+    },
+    {
+      "title": "Laser Attack Resets Tangem Wallet Passwords on Cards That Can't Be Patched",
+      "description": "[FEEDS] Researchers at Ledger's&nbsp;Donjon security team&nbsp;have shown that a precisely timed laser pulse, aimed at the chip inside a Tangem crypto wallet card, can reset the card's password to anything the attacker picks. No old password. No backup...",
+      "url": "https://thehackernews.com/2026/07/laser-attack-resets-tangem-wallet.html",
+      "date": "2026-07-10T14:51:49Z"
+    },
+    {
+      "title": "Researcher Details WhatsApp-to-Host Attack Chain Using Three OpenClaw Flaws",
+      "description": "[FEEDS] Details have emerged about three now-patched security flaws in the OpenClaw personal artificial intelligence (AI) assistant that, if successfully exploited, could enable credential theft, privilege escalation, and arbitrary code execution on the...",
+      "url": "https://thehackernews.com/2026/07/researcher-details-whatsapp-to-host.html",
+      "date": "2026-07-10T14:19:50Z"
+    },
+    {
+      "title": "The Replicant in Your Directory: AI Agents and the Identity Security Gap",
+      "description": "[BLEEPINGCOMPUTER] AI agents are accelerating the growth of non-human identities, making it harder for organizations to understand what exists, who owns it, and what it can access. Netwrix explains why stronger visibility and identity governance are essential as AI...",
+      "url": "https://www.bleepingcomputer.com/news/security/the-replicant-in-your-directory-ai-agents-and-the-identity-security-gap/",
+      "date": "2026-07-10T14:00:10Z"
+    },
     {
       "title": "New MODBEACON RAT Uses gRPC Streaming for Encrypted C2 Traffic",
       "description": "[FEEDS] The China-linked cybercrime group known as Silver Fox has been attributed to a new Rust-based remote access trojan (RAR) called MODBEACON. Chinese cybersecurity company QiAnXin said that while the threat cluster may appear like a low-sophistication,...",
@@ -38,18 +74,6 @@
       "date": "2026-07-10T11:02:04Z"
     },
     {
-      "title": "Study of 281 Free Android VPN Apps Finds Traffic Leaks, Unencrypted Data, and Tracking",
-      "description": "[FEEDS] Researchers ran 281 of the most popular free VPN apps on the Google Play Store through a new testing system and found that many fail at the basics people install a VPN for, i.e., keeping their traffic private and secure. The apps flagged with at...",
-      "url": "https://thehackernews.com/2026/07/study-of-281-free-android-vpn-apps.html",
-      "date": "2026-07-10T10:56:23Z"
-    },
-    {
-      "title": "Hackers Use Fake Microsoft Entra Passkey Enrollment to Gain Microsoft 365 Access",
-      "description": "[FEEDS] A threat actor has been targeting organizations spanning multiple sectors with voice-based fake security requests that prompt Microsoft 365 users to enroll a new Entra passkey with an aim to carry out data extortion attacks. The threat actor,...",
-      "url": "https://thehackernews.com/2026/07/hackers-use-fake-microsoft-entra.html",
-      "date": "2026-07-10T10:30:20Z"
-    },
-    {
       "title": "\"Comment stuffing\" in an HTML phishing attachment as a mechanism for evading AI-based detection&#x3f;, (Fri, Jul 10th)",
       "description": "[ISC] Anyone who deals with phishing messages caught by basic security filters knows that most phishing samples tend to blend into one another, since only a small set of techniques and approaches keeps reappearing in them. That is precisely why it is...",
       "url": "https://isc.sans.edu/diary/rss/33144",
@@ -66,6 +90,12 @@
       "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
       "url": "https://isc.sans.edu/diary/rss/33142",
       "date": "2026-07-10T02:00:03Z"
+    },
+    {
+      "title": "AI cyber risk in banking needs a national response",
+      "description": "[THE HINDU] Explore the urgent need for a national response to AI-driven cyber risks in India's banking sector to enhance cybersecurity preparedness.",
+      "url": "https://www.thehindu.com/business/ai-cyber-risk-in-banking-needs-a-national-response/article71201999.ece",
+      "date": "2026-07-10T02:00:00Z"
     },
     {
       "title": "Armenian citizen pleads guilty to ransomware attacks in Oregon and elsewhere",
@@ -92,12 +122,6 @@
       "date": "2026-07-09T22:14:13Z"
     },
     {
-      "title": "Injective SDK on npm infected with cryptocurrency wallet stealer",
-      "description": "[BLEEPINGCOMPUTER] Hackers compromised the Injective Labs SDK project's GitHub repository and used it to publish a malicious package on the Node Package Manager (npm) that stole cryptocurrency wallet private keys and mnemonic seed phrases. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/injective-sdk-on-npm-infected-with-cryptocurrency-wallet-stealer/",
-      "date": "2026-07-09T20:10:00Z"
-    },
-    {
       "title": "OpenAI Releases GPT-5.6 Sol, Its Most Powerful AI Model Yet",
       "description": "[THE NEW YORK TIMES] The new release was delayed after the U.S. government restricted the latest artificial intelligence models over cybersecurity concerns.",
       "url": "https://www.nytimes.com/2026/07/09/technology/openai-sol-ai.html",
@@ -116,18 +140,6 @@
       "date": "2026-07-09T18:08:00Z"
     },
     {
-      "title": "New Helix vishing group emerges in SharePoint data theft attacks",
-      "description": "[BLEEPINGCOMPUTER] A new data-extortion group called Helix is using identity-focused tactics such as voice phishing (vishing), device code phishing, and multi-factor authentication (MFA) abuse to steal data from SharePoint environments. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/new-helix-vishing-group-emerges-in-sharepoint-data-theft-attacks/",
-      "date": "2026-07-09T17:08:29Z"
-    },
-    {
-      "title": "Microsoft expects more Windows security updates from AI-discovered flaws",
-      "description": "[BLEEPINGCOMPUTER] Microsoft says Windows users should expect to see an increase in security updates as the company increasingly relies on artificial intelligence to discover vulnerabilities in its codebase. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-expects-more-windows-security-updates-from-ai-discovered-flaws/",
-      "date": "2026-07-09T17:00:00Z"
-    },
-    {
       "title": "driven cyber performance management platform",
       "description": "[THE ECONOMIC TIMES] EY India has launched its new Cyber Performance Management platform. This integrated platform quantifies cyber risk for enterprises in real-time. It uses artificial intelligence and cybersecurity on a single window. The platform helps organizations...",
       "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ey-india-launches-ai-driven-cyber-performance-management-platform/articleshow/132292096.cms",
@@ -144,12 +156,6 @@
       "description": "[TECHSTARTUPS.COM] It\u2019s Thursday, July 9, 2026, and AI\u2019s next frontier isn\u2019t arriving quietly \u2014 it\u2019s landing with billion-dollar infrastructure bets, frontier model launches, and the first real attempt at global governance all at once. While OpenAI readies its most...",
       "url": "https://techstartups.com/2026/07/09/todays-biggest-technology-news-top-tech-stories-shaping-ai-big-tech-cybersecurity-and-startups/",
       "date": "2026-07-09T13:54:17Z"
-    },
-    {
-      "title": "Evolving nature of digital payment system in India",
-      "description": "[THE ECONOMIC TIMES] India's digital payment landscape is rapidly evolving, prompting policy discussions. Experts convened to address emerging challenges and necessary institutional frameworks. Discussions focused on balancing innovation with trust and consumer...",
-      "url": "https://economictimes.indiatimes.com/industry/banking/finance/evolving-nature-of-digital-payment-system-in-india/articleshow/132288276.cms",
-      "date": "2026-07-09T13:41:00Z"
     },
     {
       "title": "The Language of AI Could Change How Humans Speak",
@@ -174,12 +180,6 @@
       "description": "[SCHNEIER] Last week, national security agencies from the Five Eyes&#8212;that&#8217;s the rich, English-language-speaking countries club&#8212;jointly released a statement warning of the increasing cyber risks of AI models: in particular, their ability to...",
       "url": "https://www.schneier.com/blog/archives/2026/07/cybersecurity-and-the-gap-between-skill-and-ability.html",
       "date": "2026-07-08T11:03:04Z"
-    },
-    {
-      "title": "My Stack Simulator, (Wed, Jul 8th)",
-      "description": "[ISC] The stack is a memory region where a program stores temporary data -&&#x23&#x3b;x26&#x3b;&#x23&#x3b;xc2&#x3b;&&#x23&#x3b;x26&#x3b;&#x23&#x3b;xa0&#x3b;like local variables and return addresses. Think of the stack as a pile of plates in your kitchen:...",
-      "url": "https://isc.sans.edu/diary/rss/33138",
-      "date": "2026-07-08T08:09:03Z"
     },
     {
       "title": "ISC Stormcast For Wednesday, July 8th, 2026 https://isc.sans.edu/podcastdetail/9998, (Wed, Jul 8th)",
