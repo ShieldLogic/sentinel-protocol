@@ -1,6 +1,18 @@
 {
-  "updated": "2026-07-10 20:59:22 UTC",
+  "updated": "2026-07-10 22:50:53 UTC",
   "news": [
+    {
+      "title": "New U-Boot flaws could enable stealthy firmware attacks",
+      "description": "[BLEEPINGCOMPUTER] Six vulnerabilities in the widely used U-Boot bootloader have been discovered that could allow attackers to execute malicious code during device boot, potentially enabling stealthy firmware attacks that compromise security protections and install...",
+      "url": "https://www.bleepingcomputer.com/news/security/new-u-boot-flaws-could-enable-stealthy-firmware-attacks/",
+      "date": "2026-07-10T21:59:02Z"
+    },
+    {
+      "title": "Friday Squid Blogging: \u201cSquidbleed\u201d Vulnerability",
+      "description": "[SCHNEIER] In a rare combined cybersecurity/squid post, a twenty-nine-year-old squid proxy bug can leak HTTP requests. As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered. Blog moderation...",
+      "url": "https://www.schneier.com/blog/archives/2026/07/friday-squid-blogging-squidbleed-vulnerability.html",
+      "date": "2026-07-10T21:07:13Z"
+    },
     {
       "title": "Ryuk ransomware member pleads guilty in the US, faces 15 years in prison",
       "description": "[BLEEPINGCOMPUTER] A 34-year-old Armenian man has pleaded guilty to hacking U.S. companies and deploying the infamous Ryuk ransomware to encrypt their systems. [...]",
@@ -68,12 +80,6 @@
       "date": "2026-07-10T14:19:50Z"
     },
     {
-      "title": "The Replicant in Your Directory: AI Agents and the Identity Security Gap",
-      "description": "[BLEEPINGCOMPUTER] AI agents are accelerating the growth of non-human identities, making it harder for organizations to understand what exists, who owns it, and what it can access. Netwrix explains why stronger visibility and identity governance are essential as AI...",
-      "url": "https://www.bleepingcomputer.com/news/security/the-replicant-in-your-directory-ai-agents-and-the-identity-security-gap/",
-      "date": "2026-07-10T14:00:10Z"
-    },
-    {
       "title": "New MODBEACON RAT Uses gRPC Streaming for Encrypted C2 Traffic",
       "description": "[FEEDS] The China-linked cybercrime group known as Silver Fox has been attributed to a new Rust-based remote access trojan (RAR) called MODBEACON. Chinese cybersecurity company QiAnXin said that while the threat cluster may appear like a low-sophistication,...",
       "url": "https://thehackernews.com/2026/07/new-modbeacon-rat-uses-grpc-streaming.html",
@@ -84,6 +90,18 @@
       "description": "[SCHNEIER] In the near future, AI-powered surveillance systems will be able to track everything we do in public, and much of what we do in private. And if we do something wrong&#8212;shoplift, litter, jaywalk, you name it&#8212;the system will notice, retain...",
       "url": "https://www.schneier.com/blog/archives/2026/07/ai-surveillance-and-social-progress.html",
       "date": "2026-07-10T11:02:04Z"
+    },
+    {
+      "title": "EU publishes draft terms of 4th hydrogen auction",
+      "description": "[PV MAGAZINE] The European Commission has published draft terms and conditions for the fourth European Hydrogen Bank auction, planned for end-2026 with a \u20ac500 million budget. The procurement exercise will maintain competitive bidding and fixed-premium support...",
+      "url": "https://www.pv-magazine.com/2026/07/10/eu-publishes-draft-terms-of-4th-hydrogen-auction/",
+      "date": "2026-07-10T09:49:15Z"
+    },
+    {
+      "title": "These online rules could protect your child from digital dangers, according to a cybersecurity experts",
+      "description": "[TIMES OF INDIA] The internet has now become a part of a child's life. Homework, entertainment, games or staying connected with friends, internet plays a big role in i.",
+      "url": "https://timesofindia.indiatimes.com/life-style/parenting/teen/these-online-rules-could-protect-your-child-from-digital-dangers-according-to-a-cybersecurity-experts/articleshow/132308151.cms",
+      "date": "2026-07-10T09:25:00Z"
     },
     {
       "title": "\"Comment stuffing\" in an HTML phishing attachment as a mechanism for evading AI-based detection&#x3f;, (Fri, Jul 10th)",
@@ -146,18 +164,6 @@
       "date": "2026-07-09T18:48:23Z"
     },
     {
-      "title": "New GigaWiper Windows Backdoor Bundles Disk Wiping, Fake Ransomware, and Spyware",
-      "description": "[THE HACKER NEWS] Microsoft details GigaWiper, a Windows backdoor that bundles disk wiping, fake ransomware, and remote control into one destructive tool.",
-      "url": "https://thehackernews.com/2026/07/new-gigawiper-windows-backdoor-bundles.html",
-      "date": "2026-07-09T18:08:00Z"
-    },
-    {
-      "title": "driven cyber performance management platform",
-      "description": "[THE ECONOMIC TIMES] EY India has launched its new Cyber Performance Management platform. This integrated platform quantifies cyber risk for enterprises in real-time. It uses artificial intelligence and cybersecurity on a single window. The platform helps organizations...",
-      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ey-india-launches-ai-driven-cyber-performance-management-platform/articleshow/132292096.cms",
-      "date": "2026-07-09T15:54:50Z"
-    },
-    {
       "title": "The Language of AI Could Change How Humans Speak",
       "description": "[SCHNEIER] Because of the way they are trained, large language models capture only a slice of human language. They&#8217;re trained on the written word, from textbooks to social media posts, and our speech as captured in movies and on television. These models...",
       "url": "https://www.schneier.com/blog/archives/2026/07/the-language-of-ai-could-change-how-humans-speak.html",
@@ -198,12 +204,6 @@
       "description": "[SCHNEIER] France is accelerating its transition to post-quantum encryption: France&#8217;s cybersecurity agency ANSSI said on Tuesday it would stop certifying security products that lack quantum-resistant encryption, a move that will force government bodies...",
       "url": "https://www.schneier.com/blog/archives/2026/07/france-to-stop-certifying-non-quantum-safe-encryption.html",
       "date": "2026-07-06T10:45:44Z"
-    },
-    {
-      "title": "Flock Cameras Can Surveil Cars Without License Plates",
-      "description": "[SCHNEIER] This is from a 2024 company presentation: Officers can also tap into data showing a car&#8217;s decals, bumper stickers, back and top racks&#8212;along with temporary and unique state tags. Flock calls it a &#8220;Vehicle Fingerprint&#8221; and...",
-      "url": "https://www.schneier.com/blog/archives/2026/07/flock-cameras-can-surveil-cars-without-license-plates.html",
-      "date": "2026-07-03T11:15:25Z"
     }
   ]
 }
