@@ -1,6 +1,42 @@
 {
-  "updated": "2026-07-10 16:26:10 UTC",
+  "updated": "2026-07-10 19:15:29 UTC",
   "news": [
+    {
+      "title": "Ryuk ransomware member pleads guilty in the US, faces 15 years in prison",
+      "description": "[BLEEPINGCOMPUTER] A 34-year-old Armenian man has pleaded guilty to hacking U.S. companies and deploying the infamous Ryuk ransomware to encrypt their systems. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/ryuk-ransomware-member-pleads-guilty-in-the-us-faces-15-years-in-prison/",
+      "date": "2026-07-10T17:46:10Z"
+    },
+    {
+      "title": "Police suspects Dutch hackers were involved in Odido breach",
+      "description": "[BLEEPINGCOMPUTER] The Dutch National Police (Politie) says it has found \"strong indications\" that Dutch hackers have been involved in a February breach at the telecommunications provider Odido. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/police-suspects-dutch-hackers-were-involved-in-odido-breach/",
+      "date": "2026-07-10T16:37:01Z"
+    },
+    {
+      "title": "URGENT - Progress Tells ShareFile Customers to Shut Down Storage Zone Controllers Over Security Threat",
+      "description": "[FEEDS] Progress Software has told ShareFile customers to shut down the Windows servers running their Storage Zone Controllers, confirming to The Hacker News that it is responding to a \"credible external security threat.\" The company has temporarily...",
+      "url": "https://thehackernews.com/2026/07/urgent-progress-tells-sharefile.html",
+      "date": "2026-07-10T16:30:00Z"
+    },
+    {
+      "title": "Injective Labs GitHub Compromise Pushes Wallet-Key-Stealing npm Packages",
+      "description": "[FEEDS] Unknown threat actors compromised the Injective Labs SDK project's GitHub repository and leveraged it to publish a malicious package on the npm registry to steal cryptocurrency wallet private keys and mnemonic seed phrases. The compromised version,...",
+      "url": "https://thehackernews.com/2026/07/injective-labs-github-compromise-pushes.html",
+      "date": "2026-07-10T16:29:00Z"
+    },
+    {
+      "title": "Progress urges ShareFile admins to shut down servers over \u201ccredible\u201d threat",
+      "description": "[BLEEPINGCOMPUTER] Progress Software is emailing ShareFile customers who use Storage Zone Controllers to immediately shut down their servers after identifying what it describes as a \"credible external security threat\" targeting the on-premises secure file-sharing...",
+      "url": "https://www.bleepingcomputer.com/news/security/progress-urges-sharefile-customers-to-shut-down-servers-over-credible-threat/",
+      "date": "2026-07-10T16:26:10Z"
+    },
+    {
+      "title": "Six New U-Boot Flaws Could Let Malicious Images Crash Devices or Run Code at Boot",
+      "description": "[FEEDS] Researchers at firmware security firm&nbsp;Binarly&nbsp;have found six new flaws in U-Boot, the small program that starts up hardware as varied as home routers, smart cameras, and the management chips inside data-center servers. Four of the bugs can...",
+      "url": "https://thehackernews.com/2026/07/six-new-u-boot-flaws-could-let.html",
+      "date": "2026-07-10T15:57:14Z"
+    },
     {
       "title": "My Stack Simulator, (Wed, Jul 8th)",
       "description": "[ISC] The stack is a memory region where a program stores temporary data -&&#x23&#x3b;x26&#x3b;&#x23&#x3b;xc2&#x3b;&&#x23&#x3b;x26&#x3b;&#x23&#x3b;xa0&#x3b;like local variables and return addresses. Think of the stack as a pile of plates in your kitchen:...",
@@ -44,30 +80,6 @@
       "date": "2026-07-10T13:15:23Z"
     },
     {
-      "title": "Unpatched XRING Flaw in XQUIC Lets Remote Clients Crash HTTP/3 Servers",
-      "description": "[FEEDS] A single wrong variable on one line in XQUIC, Alibaba's QUIC and HTTP/3 library, lets any remote client crash the server with a short burst of completely legal traffic. There is no patch. FoxIO researcher S\u00e9bastien F\u00e9ry&nbsp;disclosed the flaw on...",
-      "url": "https://thehackernews.com/2026/07/unpatched-xring-flaw-in-xquic-lets.html",
-      "date": "2026-07-10T11:47:43Z"
-    },
-    {
-      "title": "Zimbra urges customers to patch critical web client XSS flaw",
-      "description": "[BLEEPINGCOMPUTER] The Zimbra security team urged customers to patch a critical vulnerability affecting the Classic Web Client used to access the Zimbra Collaboration suite. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/zimbra-urges-customers-to-patch-critical-web-client-xss-flaw/",
-      "date": "2026-07-10T11:47:38Z"
-    },
-    {
-      "title": "From 17,000 to 1.1 Million Assets: How Lumen Technologies Rebuilt Exposure Management at Scale",
-      "description": "[FEEDS] Most enterprises assume their asset inventory is close enough to accurate. The evidence suggests otherwise. According to a survey of over 600 security leaders in the 2026 Axonius Actionability Report, only 45% of organizations consolidate their...",
-      "url": "https://thehackernews.com/2026/07/from-17000-to-11-million-assets-how.html",
-      "date": "2026-07-10T11:39:40Z"
-    },
-    {
-      "title": "Exposed Hacker Server Reveals WP-SHELLSTORM Backdooring Thousands of WordPress Sites",
-      "description": "[FEEDS] A cybercrime crew left one of its own servers wide open on the internet for three weeks, and it exposed the operation's inner workings: the hacking tools, the activity logs, and target lists naming more than 1.4 million websites. Far fewer were...",
-      "url": "https://thehackernews.com/2026/07/exposed-hacker-server-reveals-wp.html",
-      "date": "2026-07-10T11:30:02Z"
-    },
-    {
       "title": "AI Surveillance and Social Progress",
       "description": "[SCHNEIER] In the near future, AI-powered surveillance systems will be able to track everything we do in public, and much of what we do in private. And if we do something wrong&#8212;shoplift, litter, jaywalk, you name it&#8212;the system will notice, retain...",
       "url": "https://www.schneier.com/blog/archives/2026/07/ai-surveillance-and-social-progress.html",
@@ -80,10 +92,10 @@
       "date": "2026-07-10T09:09:29Z"
     },
     {
-      "title": "Former ransomware negotiator gets 4 years for BlackCat attacks",
-      "description": "[BLEEPINGCOMPUTER] A former employee of cybersecurity incident response company DigitalMint was sentenced to 70 months in prison for targeting U.S. companies in BlackCat (ALPHV) ransomware attacks. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/us-ransomware-negotiator-gets-4-years-in-prison-for-blackcat-attacks/",
-      "date": "2026-07-10T08:17:52Z"
+      "title": "China and India-linked hackers targeted the same Pakistan police force: Analysis",
+      "description": "[HINDUSTAN TIMES] Balochistan Police was hit by four separate campaigns over two years, a cybersecurity report finds, including by both China and India. | India News",
+      "url": "https://www.hindustantimes.com/india-news/china-and-india-linked-hackers-targeted-the-same-pakistan-police-force-analysis-101783657845604.html",
+      "date": "2026-07-10T05:06:47Z"
     },
     {
       "title": "ISC Stormcast For Friday, July 10th, 2026 https://isc.sans.edu/podcastdetail/10002, (Fri, Jul 10th)",
@@ -116,12 +128,6 @@
       "date": "2026-07-09T22:24:24Z"
     },
     {
-      "title": "OpenMandriva Linux says contributor tried to sabotage the project",
-      "description": "[BLEEPINGCOMPUTER] The OpenMandriva Linux project announced that it was the target of an attempted act of internal sabotage after a dispute among contributors. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/openmandriva-linux-says-contributor-tried-to-sabotage-the-project/",
-      "date": "2026-07-09T22:14:13Z"
-    },
-    {
       "title": "OpenAI Releases GPT-5.6 Sol, Its Most Powerful AI Model Yet",
       "description": "[THE NEW YORK TIMES] The new release was delayed after the U.S. government restricted the latest artificial intelligence models over cybersecurity concerns.",
       "url": "https://www.nytimes.com/2026/07/09/technology/openai-sol-ai.html",
@@ -150,12 +156,6 @@
       "description": "[THE HACKER NEWS] ThreatsDay Bulletin covers fraud arrests, supply-chain attacks, phishing, cloud hijacking, ransomware, Windows flaws, and AI-driven data exfiltration.",
       "url": "https://thehackernews.com/2026/07/threatsday-cloud-bucket-hijacking.html",
       "date": "2026-07-09T15:09:00Z"
-    },
-    {
-      "title": "Today\u2019s biggest technology news: Top tech stories shaping AI, Big Tech, cybersecurity and startups",
-      "description": "[TECHSTARTUPS.COM] It\u2019s Thursday, July 9, 2026, and AI\u2019s next frontier isn\u2019t arriving quietly \u2014 it\u2019s landing with billion-dollar infrastructure bets, frontier model launches, and the first real attempt at global governance all at once. While OpenAI readies its most...",
-      "url": "https://techstartups.com/2026/07/09/todays-biggest-technology-news-top-tech-stories-shaping-ai-big-tech-cybersecurity-and-startups/",
-      "date": "2026-07-09T13:54:17Z"
     },
     {
       "title": "The Language of AI Could Change How Humans Speak",
