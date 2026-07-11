@@ -1,6 +1,18 @@
 {
-  "updated": "2026-07-11 07:40:13 UTC",
+  "updated": "2026-07-11 09:17:13 UTC",
   "news": [
+    {
+      "title": "Wireshark 4.6.7 Released, (Sat, Jul 11th)",
+      "description": "[ISC] Wireshark release 4.6.7 fixes 12 vulnerabilities and 16 bugs.&#xd;",
+      "url": "https://isc.sans.edu/diary/rss/33146",
+      "date": "2026-07-11T09:07:06Z"
+    },
+    {
+      "title": "'Ghostcommit' hides prompt injection in images to fool AI agents, steal secrets",
+      "description": "[BLEEPINGCOMPUTER] A PNG hiding a prompt injection could steal your repo's secrets, researchers demonstrate. The technique, dubbed 'Ghostcommit,' slipped past AI code reviewers CodeRabbit and Bugbot, which never open image files at all, then convinced a coding agent...",
+      "url": "https://www.bleepingcomputer.com/news/security/ghostcommit-hides-prompt-injection-in-images-to-fool-ai-agents-steal-secrets/",
+      "date": "2026-07-11T09:03:57Z"
+    },
     {
       "title": "Critical Zimbra Flaw Could Let Crafted Emails Run Malicious Code in User Sessions",
       "description": "[FEEDS] Zimbra is urging customers to apply updates to address a critical security vulnerability impacting the Classic Web Client that could result in arbitrary code execution. The vulnerability has been described as a case of stored cross-site scripting...",
@@ -14,10 +26,34 @@
       "date": "2026-07-10T21:59:02Z"
     },
     {
+      "title": "California cannot seek damages from 23andMe successor over 2023 data breach",
+      "description": "[REUTERS] A U.S. bankruptcy judge on Friday said California cannot seek damages \u200bfrom the company formerly known as 23andMe arising from a 2023 data \u200cbreach that exposed genetic and other personal information of an estimated 6.9 million customers.",
+      "url": "https://www.reuters.com/world/california-cannot-seek-damages-23andme-successor-over-2023-data-breach-2026-07-10/",
+      "date": "2026-07-10T21:11:00Z"
+    },
+    {
       "title": "Friday Squid Blogging: \u201cSquidbleed\u201d Vulnerability",
       "description": "[SCHNEIER] In a rare combined cybersecurity/squid post, a twenty-nine-year-old squid proxy bug can leak HTTP requests. As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered. Blog moderation...",
       "url": "https://www.schneier.com/blog/archives/2026/07/friday-squid-blogging-squidbleed-vulnerability.html",
       "date": "2026-07-10T21:07:13Z"
+    },
+    {
+      "title": "'Security warning' for millions of Instagram users: Meta has just decided that anyone can generate AI images of you from your public Instagram account by typing ...",
+      "description": "[TIMES OF INDIA] Tech News News: Cybersecurity firm Malwarebytes warned the tool could be used for \u201cimpersonation, scams, or other abuse.\u201d In a blog post on its website Malwarebytes w.",
+      "url": "https://timesofindia.indiatimes.com/technology/tech-news/security-warning-for-millions-of-instagram-users-meta-has-just-decided-that-anyone-can-generate-ai-images-of-you-from-your-public-instagram-account-by-typing-/articleshow/132320490.cms",
+      "date": "2026-07-10T20:55:00Z"
+    },
+    {
+      "title": "Edisto Beach says it lost undisclosed amount of money in cyber fraud scheme",
+      "description": "[LIVE 5 NEWS WCSC] The town of Edisto Beach says it was the victim of a cybersecurity fraud scheme in January that resulted in the loss of an undisclosed amount of money.",
+      "url": "https://www.live5news.com/2026/07/10/edisto-beach-says-it-lost-undisclosed-amount-money-cyber-fraud-scheme/",
+      "date": "2026-07-10T19:51:01Z"
+    },
+    {
+      "title": "Ex-Chicago ransomware negotiator gets nearly 6 years in prison for aiding hackers",
+      "description": "[CHICAGO SUN-TIMES] Angelo Martino, 41, worked for Chicago cybersecurity company DigitalMint negotiating on behalf of companies whose computers were hacked and held with multimillion-dollar ransom payments. But he and his associates orchestrated the same hacks that he...",
+      "url": "https://chicago.suntimes.com/crime/2026/07/10/ex-chicago-ransomware-negotiator-gets-nearly-6-years-in-prison-for-aiding-hackers",
+      "date": "2026-07-10T19:44:48Z"
     },
     {
       "title": "Ransomware negotiator hired to represent victims was working for the attackers",
@@ -92,12 +128,6 @@
       "date": "2026-07-10T15:48:38Z"
     },
     {
-      "title": "Money launderer accused of stealing seized crypto while in prison",
-      "description": "[BLEEPINGCOMPUTER] A Bulgarian national has been charged with stealing $290,000 in government-seized cryptocurrency while serving 121 months in prison for helping launder millions stolen from American fraud victims. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/money-launderer-accused-of-stealing-seized-crypto-while-in-prison/",
-      "date": "2026-07-10T15:30:19Z"
-    },
-    {
       "title": "Stock Indexes Slip as Chipmakers and Cybersecurity Stocks Fall",
       "description": "[BARCHART] The S&P 500 Index ($SPX ) (SPY ) today is down -0.08%, the Dow Jones Industrial Average ($DOWI ) (DIA ) is up +0.03%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is down -0.41%. September E-mini S&P futures (ESU26 ) are down -0.06%, and Septemb...",
       "url": "https://www.barchart.com/story/news/3226140/stock-indexes-slip-as-chipmakers-and-cybersecurity-stocks-fall",
@@ -120,30 +150,6 @@
       "description": "[FEEDS] Details have emerged about three now-patched security flaws in the OpenClaw personal artificial intelligence (AI) assistant that, if successfully exploited, could enable credential theft, privilege escalation, and arbitrary code execution on the...",
       "url": "https://thehackernews.com/2026/07/researcher-details-whatsapp-to-host.html",
       "date": "2026-07-10T14:19:50Z"
-    },
-    {
-      "title": "Florida ransomware negotiator convicted for helping ransomware gang extort US companies",
-      "description": "[TECHCRUNCH] A third ransomware negotiator has been jailed for helping a notorious ransomware group to extort American victim companies into paying the hackers.",
-      "url": "https://techcrunch.com/2026/07/10/florida-ransomware-negotiator-convicted-for-helping-ransomware-gang-extort-us-companies/",
-      "date": "2026-07-10T14:11:03Z"
-    },
-    {
-      "title": "Level Cybersecurity Hackathon to Secure the Future of Banking",
-      "description": "[THE TRIBUNE] Pune (Maharashtra) [India], July 10: Bank of Maharashtra has announced the launch of FinSpark'26, a national-level cybersecurity hackathon aimed at encouraging students and dropouts across India to develop solutions for real-world cybersecurity...",
-      "url": "https://www.tribuneindia.com/news/business/bank-of-maharashtra-launches-finspark26-a-national-level-cybersecurity-hackathon-to-secure-the-future-of-banking/",
-      "date": "2026-07-10T12:18:32Z"
-    },
-    {
-      "title": "Why Cybersecurity Is Becoming a Boardroom Priority for Indian Businesses, Says Entrepreneur Afroz Fatta",
-      "description": "[LOKMAT TIMES] Why Cybersecurity Is Becoming a Boardroom Priority for Indian Businesses, Says Entrepreneur Afroz Fatta - Cybersecurity is no longer just an IT concern. As businesses become increasingly dependent on digital platforms, cloud infrastructure and ......",
-      "url": "https://www.lokmattimes.com/business/why-cybersecurity-is-becoming-a-boardroom-priority-for-indian-businesses-says-entrepreneur-afroz-fatta-a475/",
-      "date": "2026-07-10T12:13:30Z"
-    },
-    {
-      "title": "JSW Cement files BRSR for FY26 with Bureau Veritas assurance",
-      "description": "[SCANX.TRADE] JSW Cement Limited filed its Business Responsibility and Sustainability Report for FY26, disclosing ESG metrics, material risks like climate change and cybersecurity, and governance details. The report, assured by Bureau Veritas, highlights a clean...",
-      "url": "https://scanx.trade/stock-market-news/companies/jsw-cement-files-brsr-for-fy26-with-bureau-veritas-assurance/45230638",
-      "date": "2026-07-10T12:04:17Z"
     },
     {
       "title": "AI Surveillance and Social Progress",
@@ -186,12 +192,6 @@
       "description": "[SCHNEIER] Last week, national security agencies from the Five Eyes&#8212;that&#8217;s the rich, English-language-speaking countries club&#8212;jointly released a statement warning of the increasing cyber risks of AI models: in particular, their ability to...",
       "url": "https://www.schneier.com/blog/archives/2026/07/cybersecurity-and-the-gap-between-skill-and-ability.html",
       "date": "2026-07-08T11:03:04Z"
-    },
-    {
-      "title": "ISC Stormcast For Wednesday, July 8th, 2026 https://isc.sans.edu/podcastdetail/9998, (Wed, Jul 8th)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33136",
-      "date": "2026-07-08T02:00:02Z"
     },
     {
       "title": "Google Is Suing Chinese Scammers Who Are Using Gemini",
