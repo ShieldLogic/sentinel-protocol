@@ -1,6 +1,24 @@
 {
-  "updated": "2026-07-13 16:21:00 UTC",
+  "updated": "2026-07-13 19:11:50 UTC",
   "news": [
+    {
+      "title": "New CrashStealer malware poses as Apple crash reporting tool",
+      "description": "[BLEEPINGCOMPUTER] A new macOS information-stealing malware called CrashStealer pretends to be Apple's crash-reporting tool to steal credentials, keychain data, and crypto wallets. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/new-crashstealer-malware-poses-as-apple-crash-reporting-tool/",
+      "date": "2026-07-13T19:04:02Z"
+    },
+    {
+      "title": "CrashStealer macOS Malware Uses Notarized Dropper to Pass Gatekeeper Checks",
+      "description": "[FEEDS] Cybersecurity researchers have flagged a new macOS information stealer called CrashStealer that's capable of harvesting sensitive data from compromised systems. Unlike other information stealers that are built on AppleScript droppers or...",
+      "url": "https://thehackernews.com/2026/07/crashstealer-macos-malware-uses.html",
+      "date": "2026-07-13T17:36:12Z"
+    },
+    {
+      "title": "Google and Microsoft Pull ModHeader With 1.6 Million Installs After Dormant Collector Found",
+      "description": "[FEEDS] Google and Microsoft have pulled ModHeader, a popular header-editing extension with roughly 1.6 million installs across Chrome and Edge, after researchers found a hidden browsing-history collector built into its official store version. The collector...",
+      "url": "https://thehackernews.com/2026/07/google-and-microsoft-pull-modheader.html",
+      "date": "2026-07-13T17:17:24Z"
+    },
     {
       "title": "CISA warns of actively exploited RCE flaws in Joomla extensions",
       "description": "[BLEEPINGCOMPUTER] The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning that attackers are exploiting vulnerabilities in the iCagenda and Balbooa Forms extensions for Joomla to achieve remote code execution through arbitrary file uploads. [...]",
@@ -50,22 +68,10 @@
       "date": "2026-07-13T11:54:46Z"
     },
     {
-      "title": "Thinking Fast and Slow in the SOC: The Case for Combining Autonomous AI with Analyst Copilots",
-      "description": "[FEEDS] A few days ago, I was sitting with the CISO of a Fortune 50 company, walking through how his security team was thinking about AI agents in the SOC. Smart team. Serious program. They had already connected Claude to a few detection tools and were...",
-      "url": "https://thehackernews.com/2026/07/thinking-fast-and-slow-in-soc-case-for.html",
-      "date": "2026-07-13T11:37:05Z"
-    },
-    {
       "title": "EU sanctions Russian GRU military hackers over cyberattacks",
       "description": "[BLEEPINGCOMPUTER] The European Union and the United Kingdom jointly sanctioned dozens of Russian individuals and entities and accused Russia of coordinating a network of hacking groups responsible for attacks across Europe. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/eu-and-uk-hit-russia-with-first-joint-cyber-sanctions-package/",
       "date": "2026-07-13T11:19:05Z"
-    },
-    {
-      "title": "Attacker Uses Suspected AI-Generated PowerShell Script to Map Active Directory",
-      "description": "[FEEDS] Cybersecurity researchers have flagged an intrusion in which an unknown threat actor leveraged a vibe-coded PowerShell script for Active Directory (AD) enumeration. \"The script looked for the Domain Controller (DC) and mapped users, computers, and...",
-      "url": "https://thehackernews.com/2026/07/attacker-uses-suspected-ai-generated.html",
-      "date": "2026-07-13T11:02:33Z"
     },
     {
       "title": "AI Data Centers and the Concentration of Wealth",
@@ -74,10 +80,40 @@
       "date": "2026-07-13T11:01:57Z"
     },
     {
-      "title": "US and allies warn of Russian critical infrastructure attacks",
-      "description": "[BLEEPINGCOMPUTER] Cybersecurity agencies from the United States and eight other countries have issued a joint warning that Russian state hackers are targeting vulnerable and poorly configured routers to infiltrate critical infrastructure networks. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/us-and-allies-share-defense-tips-against-russian-hackers-targeting-critical-infrastructure/",
-      "date": "2026-07-13T09:32:23Z"
+      "title": "Sectra achieves the highest level of security attestation for healthcare providers adopting cloud services in Germany",
+      "description": "[PR NEWSWIRE UK] /PRNewswire/ -- International medical imaging IT and cybersecurity company Sectra (STO: SECT-B) has achieved a Cloud Computing Compliance Criteria Catalogue...",
+      "url": "https://www.prnewswire.co.uk/news-releases/sectra-achieves-the-highest-level-of-security-attestation-for-healthcare-providers-adopting-cloud-services-in-germany-302823602.html",
+      "date": "2026-07-13T07:02:00Z"
+    },
+    {
+      "title": "63 Moons shares jump 15% as subsidiary's Q1 order book reaches 82% of FY27 target",
+      "description": "[CNBC TV18] On the consumer side, the company's CYBX cybersecurity super app crossed 2 million downloads and 3.25 lakh paid subscribers during the quarter.",
+      "url": "https://www.cnbctv18.com/market/63-moons-share-price-jump-subsidiary-q1-order-book-reaches-82-percent-of-fy27-target-19943939.htm",
+      "date": "2026-07-13T06:48:15Z"
+    },
+    {
+      "title": "TCS To Hire Up To 8,900 AI Engineers, Eyes Acquisitions In Cybersecurity",
+      "description": "[OUTLOOK BUSINESS] Tata Consultancy Services is building a team of up to 8,900 forward-deployed engineers and is also looking at AI-related acquisitions. The company believes artificial intelligence will create new business opportunities rather than hurt its...",
+      "url": "https://www.outlookbusiness.com/corporate/tcs-to-hire-up-to-8900-ai-engineers-eyes-acquisitions-in-cybersecurity",
+      "date": "2026-07-13T05:38:56Z"
+    },
+    {
+      "title": "TCS Reshuffles Top Leadership, Creates New AI",
+      "description": "[OUTLOOK BUSINESS] Tata Consultancy Services (TCS) has announced a sweeping leadership reshuffle across several business units and geographies, including its banking, cybersecurity, energy and travel businesses, as it sharpens its focus on AI-driven growth.",
+      "url": "https://www.outlookbusiness.com/corporate/tcs-reshuffles-top-leadership-creates-new-ai-focused-business-units",
+      "date": "2026-07-13T05:37:31Z"
+    },
+    {
+      "title": "iCagenda and Balbooa Forms Joomla Flaws Reportedly Exploited as Zero-Days",
+      "description": "[THE HACKER NEWS] CISA adds exploited iCagenda and Balbooa Forms flaws to KEV after reported zero-day attacks enabled PHP uploads and remote code execution on sites.",
+      "url": "https://thehackernews.com/2026/07/icagenda-and-balbooa-forms-joomla-flaws.html",
+      "date": "2026-07-13T05:36:00Z"
+    },
+    {
+      "title": "TCS To Build Team Of Up To 8,900 AI Deployment Engineers; Eyes Acquisitions In AI And Cybersecurity",
+      "description": "[FREE PRESS JOURNAL] TCS plans to build a team of 5,900-8,900 forward-deployed engineers to help clients adopt AI and is exploring acquisitions in AI and cybersecurity, executives told Reuters. CEO K Krithivasan said AI will create new business opportunities rather than...",
+      "url": "https://www.freepressjournal.in/tech/tcs-to-build-team-of-up-to-8900-ai-deployment-engineers-eyes-acquisitions-in-ai-and-cybersecurity",
+      "date": "2026-07-13T04:59:11Z"
     },
     {
       "title": "Someone Is Scanning for Your MCP Servers and AI Assistant Credentials, (Mon, Jul 13th)",
@@ -114,42 +150,6 @@
       "description": "[CAIXIN] China Proposes Strict Cybersecurity Rules for Banks, Insurers - Draft rules would hold top executives accountable for severe network outages and data breaches",
       "url": "https://www.caixinglobal.com/2026-07-13/china-proposes-strict-cybersecurity-rules-for-banks-insurers-102463661.html",
       "date": "2026-07-13T00:00:00Z"
-    },
-    {
-      "title": "TechD Cybersecurity wins orders worth \u20b91.03 Cr for managed services",
-      "description": "[SCANX.TRADE] TechD Cybersecurity Limited secured three purchase orders totaling \u20b91.03 Cr from a listed partner for managed services across technology, media, and government sectors. The orders, received on July 8 and 9, 2026, are in the ordinary course of...",
-      "url": "https://scanx.trade/stock-market-news/companies/techd-cybersecurity-wins-orders-worth-1-03-cr-for-managed-services/45414934",
-      "date": "2026-07-12T15:15:53Z"
-    },
-    {
-      "title": "Ronald Reagan's Landmark Cybersecurity Policies Were Influenced By A Classic '80s Techno-Thriller",
-      "description": "[BGR] The 1983 film WarGames sparked America's first cybersecurity laws after U.S. President Ronald Reagan screened the movie at Camp David.",
-      "url": "https://www.bgr.com/2212557/ronald-reagan-cybersecurity-policies-80s-thriller-wargames/",
-      "date": "2026-07-12T14:17:00Z"
-    },
-    {
-      "title": "US Domestic Affairs: Keystone Pipeline Settlement, Political Shake-Ups, and Market Moves",
-      "description": "[DEVDISCOURSE] The U.S. is witnessing significant domestic developments, including a proposed settlement for Keystone Pipeline's Clean Water Act violations, a USPS stamp price hike, Lindsey Graham's sudden death, and policy updates from Trump's administration....",
-      "url": "https://www.devdiscourse.com/article/law-order/3949092-us-domestic-affairs-keystone-pipeline-settlement-political-shake-ups-and-market-moves",
-      "date": "2026-07-12T12:59:39Z"
-    },
-    {
-      "title": "TAC InfoSec PAT rises 137% to \u20b980 million in Q1 FY27",
-      "description": "[SCANX.TRADE] TAC InfoSec Limited reported record Q1 FY27 results with total income rising 96.8% YoY to \u20b9200 million and PAT increasing 137% to \u20b980 million. EBITDA grew 97.1% to \u20b998 million, with margins expanding due to operating leverage. The growth was driven...",
-      "url": "https://scanx.trade/stock-market-news/companies/tac-infosec-board-to-meet-on-july-10-to-consider-q1-fy27-results/45091107",
-      "date": "2026-07-12T11:59:25Z"
-    },
-    {
-      "title": "TCS Plans Up To 8,900 AI Deployment Engineers, Seeks AI Acquisitions",
-      "description": "[DECCAN CHRONICLE] TCS is evaluating acquisitions in AI, data security and cybersecurity; Quarterly annualised AI revenue growth decelerated to 13% from 28% previously.",
-      "url": "https://www.deccanchronicle.com/technology/in-other-news/tcs-plans-up-to-8900-ai-deployment-engineers-seeks-ai-acquisitions-1970333",
-      "date": "2026-07-12T11:01:28Z"
-    },
-    {
-      "title": "Florida protects city hall from hackers; not schools | Opinion",
-      "description": "[TALLAHASSEE DEMOCRAT] Florida requires state agencies and every county and city to run a real cybersecurity program. Florida never extended that requirement to schools.",
-      "url": "https://eu.tallahassee.com/story/opinion/2026/07/12/florida-protects-city-hall-from-hackers-not-schools-opinion/90869714007/",
-      "date": "2026-07-12T09:03:22Z"
     },
     {
       "title": "Wireshark 4.6.7 Released, (Sat, Jul 11th)",
