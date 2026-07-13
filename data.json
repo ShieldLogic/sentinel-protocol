@@ -1,6 +1,18 @@
 {
-  "updated": "2026-07-13 05:26:51 UTC",
+  "updated": "2026-07-13 08:48:56 UTC",
   "news": [
+    {
+      "title": "Misconfigured Server Reveals Three Evilginx Phishing Operations Targeting Microsoft 365",
+      "description": "[FEEDS] An attacker running a live Microsoft 365 phishing operation left a Python web server listening on a public port with directory listing switched on. The command that did it:&nbsp;python3 -m http.server 8080, was still sitting in the...",
+      "url": "https://thehackernews.com/2026/07/misconfigured-server-reveals-three.html",
+      "date": "2026-07-13T07:30:00Z"
+    },
+    {
+      "title": "iCagenda and Balbooa Forms Joomla Flaws Reportedly Exploited as Zero-Days",
+      "description": "[FEEDS] The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added two maximum-severity security flaws impacting iCagenda and Balbooa extensions for Joomla to its Known Exploited Vulnerabilities (KEV) catalog, following reports of zero-day...",
+      "url": "https://thehackernews.com/2026/07/icagenda-and-balbooa-forms-joomla-flaws.html",
+      "date": "2026-07-13T05:36:02Z"
+    },
     {
       "title": "Someone Is Scanning for Your MCP Servers and AI Assistant Credentials, (Mon, Jul 13th)",
       "description": "[ISC] The setup&#xd;",
@@ -144,18 +156,6 @@
       "description": "[FEEDS] Progress Software has told ShareFile customers to shut down the Windows servers running their Storage Zone Controllers, confirming to The Hacker News that it is responding to a \"credible external security threat.\" The company has temporarily...",
       "url": "https://thehackernews.com/2026/07/urgent-progress-tells-sharefile.html",
       "date": "2026-07-10T16:30:00Z"
-    },
-    {
-      "title": "Injective Labs GitHub Compromise Pushes Wallet-Key-Stealing npm Packages",
-      "description": "[FEEDS] Unknown threat actors compromised the Injective Labs SDK project's GitHub repository and leveraged it to publish a malicious package on the npm registry to steal cryptocurrency wallet private keys and mnemonic seed phrases. The compromised version,...",
-      "url": "https://thehackernews.com/2026/07/injective-labs-github-compromise-pushes.html",
-      "date": "2026-07-10T16:29:00Z"
-    },
-    {
-      "title": "Six New U-Boot Flaws Could Let Malicious Images Crash Devices or Run Code at Boot",
-      "description": "[FEEDS] Researchers at firmware security firm&nbsp;Binarly&nbsp;have found six new flaws in U-Boot, the small program that starts up hardware as varied as home routers, smart cameras, and the management chips inside data-center servers. Four of the bugs can...",
-      "url": "https://thehackernews.com/2026/07/six-new-u-boot-flaws-could-let.html",
-      "date": "2026-07-10T15:57:14Z"
     },
     {
       "title": "My Stack Simulator, (Wed, Jul 8th)",
