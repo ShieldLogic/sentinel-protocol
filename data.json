@@ -1,6 +1,42 @@
 {
-  "updated": "2026-07-13 08:48:56 UTC",
+  "updated": "2026-07-13 12:25:47 UTC",
   "news": [
+    {
+      "title": "Meta Files Patent for AI That Can Listen All Day and Track How You're Feeling",
+      "description": "[FEEDS] Meta has filed a patent application for an AI that listens to your voice throughout the day, works out how it thinks you are feeling from the way you sound, and keeps a timestamped log of every read. Each read gets pinned to the moment it happened:...",
+      "url": "https://thehackernews.com/2026/07/meta-files-patent-for-ai-that-can.html",
+      "date": "2026-07-13T11:54:46Z"
+    },
+    {
+      "title": "Thinking Fast and Slow in the SOC: The Case for Combining Autonomous AI with Analyst Copilots",
+      "description": "[FEEDS] A few days ago, I was sitting with the CISO of a Fortune 50 company, walking through how his security team was thinking about AI agents in the SOC. Smart team. Serious program. They had already connected Claude to a few detection tools and were...",
+      "url": "https://thehackernews.com/2026/07/thinking-fast-and-slow-in-soc-case-for.html",
+      "date": "2026-07-13T11:37:05Z"
+    },
+    {
+      "title": "EU sanctions Russian GRU military hackers over cyberattacks",
+      "description": "[BLEEPINGCOMPUTER] The European Union and the United Kingdom jointly sanctioned dozens of Russian individuals and entities and accused Russia of coordinating a network of hacking groups responsible for attacks across Europe. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/eu-and-uk-hit-russia-with-first-joint-cyber-sanctions-package/",
+      "date": "2026-07-13T11:19:05Z"
+    },
+    {
+      "title": "Attacker Uses Suspected AI-Generated PowerShell Script to Map Active Directory",
+      "description": "[FEEDS] Cybersecurity researchers have flagged an intrusion in which an unknown threat actor leveraged a vibe-coded PowerShell script for Active Directory (AD) enumeration. \"The script looked for the Domain Controller (DC) and mapped users, computers, and...",
+      "url": "https://thehackernews.com/2026/07/attacker-uses-suspected-ai-generated.html",
+      "date": "2026-07-13T11:02:33Z"
+    },
+    {
+      "title": "AI Data Centers and the Concentration of Wealth",
+      "description": "[SCHNEIER] This essay was written with Nathan E. Sanders, and originally appeared in The Guardian. Opposition to AI data centers has emerged as a primary theme in US politics, one that&#8212;surprisingly&#8212;doesn&#8217;t fall along party lines. We applaud...",
+      "url": "https://www.schneier.com/blog/archives/2026/07/ai-data-centers-and-the-concentration-of-wealth.html",
+      "date": "2026-07-13T11:01:57Z"
+    },
+    {
+      "title": "US and allies warn of Russian critical infrastructure attacks",
+      "description": "[BLEEPINGCOMPUTER] Cybersecurity agencies from the United States and eight other countries have issued a joint warning that Russian state hackers are targeting vulnerable and poorly configured routers to infiltrate critical infrastructure networks. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/us-and-allies-share-defense-tips-against-russian-hackers-targeting-critical-infrastructure/",
+      "date": "2026-07-13T09:32:23Z"
+    },
     {
       "title": "Misconfigured Server Reveals Three Evilginx Phishing Operations Targeting Microsoft 365",
       "description": "[FEEDS] An attacker running a live Microsoft 365 phishing operation left a Python web server listening on a public port with directory listing switched on. The command that did it:&nbsp;python3 -m http.server 8080, was still sitting in the...",
@@ -30,6 +66,12 @@
       "description": "[BLEEPINGCOMPUTER] OpenAI is temporarily relaxing GPT-5.6 Sol usage after demand for the company's most powerful model surged over the past 48 hours. [...]",
       "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-temporarily-relaxes-gpt-56-sol-usage-limits/",
       "date": "2026-07-13T00:44:44Z"
+    },
+    {
+      "title": "China Proposes Strict Cybersecurity Rules for Banks, Insurers",
+      "description": "[CAIXIN] China Proposes Strict Cybersecurity Rules for Banks, Insurers - Draft rules would hold top executives accountable for severe network outages and data breaches",
+      "url": "https://www.caixinglobal.com/2026-07-13/china-proposes-strict-cybersecurity-rules-for-banks-insurers-102463661.html",
+      "date": "2026-07-13T00:00:00Z"
     },
     {
       "title": "Claude Fable 5 stays free for paid users until July 19 as Anthropic buys more time",
@@ -104,18 +146,6 @@
       "date": "2026-07-11T17:59:26Z"
     },
     {
-      "title": "Hackers Weaponize Balochistan Police Portal in Multi-Group Espionage Campaigns",
-      "description": "[FEEDS] Cybersecurity researchers have disclosed details of sustained cyber espionage activity against several Pakistani law enforcement organizations undertaken by suspected China- and India-aligned threat actors between February 2024 and April 2026. \"At...",
-      "url": "https://thehackernews.com/2026/07/hackers-weaponize-balochistan-police.html",
-      "date": "2026-07-11T17:49:31Z"
-    },
-    {
-      "title": "HDFC Bank redeploys backend employees to customer-facing roles",
-      "description": "[THE ECONOMIC TIMES] HDFC Bank is shifting backend employees to customer roles. Technology efficiencies are enabling this strategic talent redeployment. The bank is accelerating investments in artificial intelligence and dispute resolution. Cybersecurity defenses are...",
-      "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/hdfc-bank-redeploys-backend-employees-to-customer-facing-roles/articleshow/132335364.cms",
-      "date": "2026-07-11T17:30:00Z"
-    },
-    {
       "title": "Australia warns of global campaign targeting vulnerable CMS platforms",
       "description": "[BLEEPINGCOMPUTER] The Australian Cyber Security Centre (ACSC) issued an alert about a global exploitation campaign targeting vulnerable content management systems (CMS) and plugins. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/australia-warns-of-global-campaign-targeting-vulnerable-cms-platforms/",
@@ -128,34 +158,10 @@
       "date": "2026-07-11T09:07:06Z"
     },
     {
-      "title": "'Ghostcommit' hides prompt injection in images to fool AI agents, steal secrets",
-      "description": "[BLEEPINGCOMPUTER] A PNG hiding a prompt injection could steal your repo's secrets, researchers demonstrate. The technique, dubbed 'Ghostcommit,' slipped past AI code reviewers CodeRabbit and Bugbot, which never open image files at all, then convinced a coding agent...",
-      "url": "https://www.bleepingcomputer.com/news/security/ghostcommit-hides-prompt-injection-in-images-to-fool-ai-agents-steal-secrets/",
-      "date": "2026-07-11T09:03:57Z"
-    },
-    {
-      "title": "Critical Zimbra Flaw Could Let Crafted Emails Run Malicious Code in User Sessions",
-      "description": "[FEEDS] Zimbra is urging customers to apply updates to address a critical security vulnerability impacting the Classic Web Client that could result in arbitrary code execution. The vulnerability has been described as a case of stored cross-site scripting...",
-      "url": "https://thehackernews.com/2026/07/critical-zimbra-flaw-could-let-crafted_0483473395.html",
-      "date": "2026-07-11T06:45:55Z"
-    },
-    {
-      "title": "New U-Boot flaws could enable stealthy firmware attacks",
-      "description": "[BLEEPINGCOMPUTER] Six vulnerabilities in the widely used U-Boot bootloader have been discovered that could allow attackers to execute malicious code during device boot, potentially enabling stealthy firmware attacks that compromise security protections and install...",
-      "url": "https://www.bleepingcomputer.com/news/security/new-u-boot-flaws-could-enable-stealthy-firmware-attacks/",
-      "date": "2026-07-10T21:59:02Z"
-    },
-    {
       "title": "Friday Squid Blogging: \u201cSquidbleed\u201d Vulnerability",
       "description": "[SCHNEIER] In a rare combined cybersecurity/squid post, a twenty-nine-year-old squid proxy bug can leak HTTP requests. As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered. Blog moderation...",
       "url": "https://www.schneier.com/blog/archives/2026/07/friday-squid-blogging-squidbleed-vulnerability.html",
       "date": "2026-07-10T21:07:13Z"
-    },
-    {
-      "title": "URGENT - Progress Tells ShareFile Customers to Shut Down Storage Zone Controllers Over Security Threat",
-      "description": "[FEEDS] Progress Software has told ShareFile customers to shut down the Windows servers running their Storage Zone Controllers, confirming to The Hacker News that it is responding to a \"credible external security threat.\" The company has temporarily...",
-      "url": "https://thehackernews.com/2026/07/urgent-progress-tells-sharefile.html",
-      "date": "2026-07-10T16:30:00Z"
     },
     {
       "title": "My Stack Simulator, (Wed, Jul 8th)",
@@ -198,12 +204,6 @@
       "description": "[SCHNEIER] Not sure this will have any effect, but I support the effort: According to Google&#8217;s legal filing, Outsider Enterprise operates through Telegram. The group offers phishing-as-a-service to individuals who may not be technically savvy enough to...",
       "url": "https://www.schneier.com/blog/archives/2026/07/google-is-suing-chinese-scammers-who-are-using-gemini.html",
       "date": "2026-07-07T10:43:40Z"
-    },
-    {
-      "title": "France to Stop Certifying Non-Quantum-Safe Encryption",
-      "description": "[SCHNEIER] France is accelerating its transition to post-quantum encryption: France&#8217;s cybersecurity agency ANSSI said on Tuesday it would stop certifying security products that lack quantum-resistant encryption, a move that will force government bodies...",
-      "url": "https://www.schneier.com/blog/archives/2026/07/france-to-stop-certifying-non-quantum-safe-encryption.html",
-      "date": "2026-07-06T10:45:44Z"
     }
   ]
 }
