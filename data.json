@@ -1,11 +1,35 @@
 {
-  "updated": "2026-07-14 19:02:17 UTC",
+  "updated": "2026-07-14 20:49:57 UTC",
   "news": [
+    {
+      "title": "Spanish Police take down \u20ac140 million cyber fraud ring, arrest four",
+      "description": "[BLEEPINGCOMPUTER] The Spanish Police dismantled a cybercrime and money-laundering organization that made \u20ac140 million ($160 million) from investment fraud and business email compromise (BEC) attacks. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/spanish-police-take-down-140-million-cyber-fraud-ring-arrest-four/",
+      "date": "2026-07-14T20:23:09Z"
+    },
+    {
+      "title": "Nearly 300 GitHub repos pose as legit software to push malware",
+      "description": "[BLEEPINGCOMPUTER] A threat actor has published hundreds of fake GitHub repositories impersonating legitimate software and security projects to distribute infostealer malware. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/nearly-300-github-repos-pose-as-legit-software-to-push-malware/",
+      "date": "2026-07-14T19:15:17Z"
+    },
+    {
+      "title": "Microsoft Patch Tuesday July 2026 - The AI Acopolypse is Here , (Tue, Jul 14th)",
+      "description": "[ISC] This patch Tuesday includes a staggering&&#x23&#x3b;x26&#x3b;&#x23&#x3b;xc2&#x3b;&&#x23&#x3b;x26&#x3b;&#x23&#x3b;xa0&#x3b;622 vulnerabilities, not including another 427 vulnerabilities in Chromium, affecting...",
+      "url": "https://isc.sans.edu/diary/rss/33154",
+      "date": "2026-07-14T19:14:58Z"
+    },
     {
       "title": "Microsoft releases Windows 10 KB5099539 extended security update",
       "description": "[BLEEPINGCOMPUTER] Microsoft has released the Windows 10 KB5099539 extended security update, which includes the July 2026 Patch Tuesday security updates for 570 vulnerabilities, along with additional security fixes. [...]",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5099539-extended-security-update/",
       "date": "2026-07-14T18:49:28Z"
+    },
+    {
+      "title": "SAP Patches CVSS 9.9 NetWeaver ABAP Flaw That Could Expose or Modify Data",
+      "description": "[FEEDS] SAP has rolled out updates to address multiple vulnerabilities as part of its July 2026 security updates, including a critical flaw in SAP NetWeaver Application Server ABAP. The vulnerability in question is CVE-2026-44747 (CVSS score: 9.9), an...",
+      "url": "https://thehackernews.com/2026/07/sap-patches-cvss-99-netweaver-abap-flaw.html",
+      "date": "2026-07-14T18:17:57Z"
     },
     {
       "title": "Microsoft July 2026 Patch Tuesday fixes massive 570 flaws, 3 zero-days",
@@ -18,6 +42,12 @@
       "description": "[BLEEPINGCOMPUTER] Microsoft has released Windows 11 KB5101650 and KB5099414 cumulative updates for versions 25H2/24H2 and 23H2 to fix security vulnerabilities, bugs, and add new features. [...]",
       "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5101650-and-kb5099414-cumulative-updates-released/",
       "date": "2026-07-14T17:41:16Z"
+    },
+    {
+      "title": "Researchers Say Claude for Chrome Flaw Lets Rogue Extensions Trigger Gmail Reads",
+      "description": "[FEEDS] Any other browser extension that can run a script on claude.ai can still trigger Claude for Chrome tasks aimed at your Gmail, your latest Google Doc and its comments, and your Calendar. Both this and ClaudeBleed need a rogue extension that can...",
+      "url": "https://thehackernews.com/2026/07/claude-for-chrome-flaw-lets-other.html",
+      "date": "2026-07-14T17:27:23Z"
     },
     {
       "title": "LabubaRAT Masquerades as NVIDIA Software to Control Windows Hosts",
@@ -38,18 +68,6 @@
       "date": "2026-07-14T16:04:49Z"
     },
     {
-      "title": "LastPass, Bitwarden users targeted with fake security alerts",
-      "description": "[BLEEPINGCOMPUTER] LastPass is warning users about an ongoing phishing campaign that is using fake security notices to direct them to fraudulent websites. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/lastpass-bitwarden-users-targeted-with-fake-security-alerts/",
-      "date": "2026-07-14T15:31:52Z"
-    },
-    {
-      "title": "You Don't Have to Run an Exploit to Know If You're Vulnerable",
-      "description": "[BLEEPINGCOMPUTER] Many vulnerabilities cannot be safely validated with live exploits, either because no exploit exists or the affected systems are too critical to test. Picus explains how TTP chaining helps organizations determine exploitability by validating the...",
-      "url": "https://www.bleepingcomputer.com/news/security/you-dont-have-to-run-an-exploit-to-know-if-youre-vulnerable/",
-      "date": "2026-07-14T14:00:10Z"
-    },
-    {
       "title": "RabbitMQ Flaws Could Leak OAuth Secrets and Expose Cross-Tenant Queue Metadata",
       "description": "[FEEDS] Cybersecurity researchers have disclosed details of two access control-related flaws impacting the RabbitMQ message broker service that could allow attackers to leak OAuth client secrets, expose enterprise messaging infrastructure to takeover risks,...",
       "url": "https://thehackernews.com/2026/07/rabbitmq-flaws-could-leak-oauth-secrets.html",
@@ -68,22 +86,40 @@
       "date": "2026-07-14T11:55:00Z"
     },
     {
-      "title": "How Pentera Turns AI Security Workflows into Validation Engines",
-      "description": "[FEEDS] AI security agents are starting to influence real security decisions. They summarize findings, prioritize remediation, recommend next steps, and help teams move faster. But most still rely on fragmented risk signals: scanner output, severity scores,...",
-      "url": "https://thehackernews.com/2026/07/how-pentera-turns-ai-security-workflows.html",
-      "date": "2026-07-14T11:30:00Z"
-    },
-    {
-      "title": "OAuth Client ID Spoofing Lets Attackers Validate Stolen Microsoft Entra Credentials",
-      "description": "[FEEDS] At least two distinct threat actors are weaponizing a novel evasion technique called OAuth client ID spoofing in cloud campaigns, while slipping past telemetry. The activity allows users to enumerate user accounts and validate stolen credentials in...",
-      "url": "https://thehackernews.com/2026/07/oauth-client-id-spoofing-lets-attackers.html",
-      "date": "2026-07-14T11:21:35Z"
-    },
-    {
       "title": "Vulnerability in FIFA\u2019s Network",
       "description": "[SCHNEIER] FIFA&#8217;s network was vulnerable to anyone with even minimal access.",
       "url": "https://www.schneier.com/blog/archives/2026/07/vulnerability-in-fifas-network.html",
       "date": "2026-07-14T11:06:51Z"
+    },
+    {
+      "title": "Enabled Cyber Threats Seen As Biggest Risk In The Next 12 Months: RBI",
+      "description": "[OUTLOOK MONEY] The financial institutions in India are largely dependent on third parties for cybersecurity-related functions, and a single incident affecting a single service provider could propagate to affect multiple financial institutions",
+      "url": "https://www.outlookmoney.com/personal-finance/ai-enabled-cyber-threats-seen-as-biggest-risk-in-the-next-12-months-rbi",
+      "date": "2026-07-14T08:48:14Z"
+    },
+    {
+      "title": "AuthNContext and AMR, We Remember What MFA You Provided Last Summer!",
+      "description": "[THE HACKER NEWS] AuthNContext and AMR, We Remember What MFA You Provided Last Summer! | Read more hacking news on The Hacker News cybersecurity news website and learn how to protect against cyberattacks and software vulnerabilities.",
+      "url": "https://thehackernews.com/expert-insights/2026/07/authncontext-and-amr-we-remember-what.html",
+      "date": "2026-07-14T08:32:00Z"
+    },
+    {
+      "title": "U.S. Sanctions First VPN Service and Malware Cryptor Seller Over Ransomware Support",
+      "description": "[THE HACKER NEWS] U.S. sanctions First VPN and two operators over ransomware support as the U.K. and E.U. target 24 Russian cyber actors and the FBI warns on FSB router",
+      "url": "https://thehackernews.com/2026/07/us-sanctions-first-vpn-service-and.html",
+      "date": "2026-07-14T08:02:00Z"
+    },
+    {
+      "title": "Greenhat Announces Successful Delegation at Web Summit Vancouver 2026",
+      "description": "[MARKETS INSIDER] Vancouver, Canada, July 14th, 2026, CyberNewswireCanadian Cybersecurity Leaders Celebrate Successful Web Summit Vancouver 202...",
+      "url": "https://markets.businessinsider.com/news/currencies/greenhat-announces-successful-delegation-at-web-summit-vancouver-2026-1036322015",
+      "date": "2026-07-14T07:40:19Z"
+    },
+    {
+      "title": "Hennick Humber Hospital in Canada has selected Sectra One Cloud to speed up patient diagnostics with improved radiology workflows",
+      "description": "[PR NEWSWIRE UK] /PRNewswire/ -- International medical imaging IT and cybersecurity company Sectra (STO: SECT B) will provide its fully managed, cloud enterprise imaging...",
+      "url": "https://www.prnewswire.co.uk/news-releases/hennick-humber-hospital-in-canada-has-selected-sectra-one-cloud-to-speed-up-patient-diagnostics-with-improved-radiology-workflows-302824777.html",
+      "date": "2026-07-14T07:14:00Z"
     },
     {
       "title": "Pentagon pauses the cyber audit rule that was pushing small suppliers out",
@@ -114,36 +150,6 @@
       "description": "[TIMES NOW] Pentagon pauses stricter cybersecurity rules for defence suppliers after companies warn of rising compliance costs. The move sparks debate over military data protection and supply chain security., Technology & Science, Times Now",
       "url": "https://www.timesnownews.com/technology-science/pentagon-delays-cybersecurity-checks-that-may-push-suppliers-out-of-military-work-article-155094062",
       "date": "2026-07-14T06:28:18Z"
-    },
-    {
-      "title": "TCS partners with New York's New Terminal One at JFK",
-      "description": "[SCANX.TRADE] Tata Consultancy Services has partnered with New York's New Terminal One at JFK Airport as its technology and innovation partner. The engagement involves implementing AI-driven solutions for passenger processing, baggage handling, and cybersecurity...",
-      "url": "https://scanx.trade/stock-market-news/companies/tcs-becomes-technology-and-innovation-partner-for-new-york-s-terminal-one-at-jfk-airport/45555079",
-      "date": "2026-07-14T06:13:52Z"
-    },
-    {
-      "title": "Seoul Court Halts Coupang FTC Designation in Regulatory Clash",
-      "description": "[DEVDISCOURSE] A South Korean court has temporarily suspended the Fair Trade Commission's decision to designate Kim Bom, the founder of Coupang, as the group's controlling entity. The suspension aims to prevent irreparable harm and will last until a main lawsuit...",
-      "url": "https://www.devdiscourse.com/article/law-order/3949851-seoul-court-halts-coupang-ftc-designation-in-regulatory-clash",
-      "date": "2026-07-14T05:41:47Z"
-    },
-    {
-      "title": "TVS Electronics enters strategic alliance MoU for cybersecurity",
-      "description": "[SCANX.TRADE] TVS Electronics has entered into a non-exclusive Strategic Alliance MoU with an established cybersecurity solutions provider to collaborate on cybersecurity, AI, cloud, and digital transformation opportunities. The one-year agreement, effective July...",
-      "url": "https://scanx.trade/stock-market-news/companies/tvs-electronics-forms-strategic-mou-and-partnership-with-leading-cybersecurity-provider-in-india/45551048",
-      "date": "2026-07-14T05:16:42Z"
-    },
-    {
-      "title": "Cybersecurity costs will shrink AI's profit boost",
-      "description": "[REUTERS] Bot \u200battacks on companies and \u2060critical infrastructure \u200bare surging. The push \u200bfor AI adoption inadvertently opens new back \u200bdoors to \u200bhackers and forces CEOs to \u200cbuy \u2060more tech defences from vendors like $190 bln CrowdStrike. \u200bThe \u200bspending \u2060will...",
-      "url": "https://www.reuters.com/commentary/breakingviews/cybersecurity-costs-will-shrink-ais-profit-boost-2026-07-14/",
-      "date": "2026-07-14T05:00:34Z"
-    },
-    {
-      "title": "Commvault Appoints Brian Lanigan as Chief Partner Officer",
-      "description": "[ITWIRE] Veteran cybersecurity and partner ecosystem leader to accelerate global channel growth and strengthen strategic alliances",
-      "url": "https://itwire.com/it-people-news/people-moves/commvault-appoints-brian-lanigan-as-chief-partner-officer",
-      "date": "2026-07-14T03:26:49Z"
     },
     {
       "title": "ISC Stormcast For Tuesday, July 14th, 2026 https://isc.sans.edu/podcastdetail/10006, (Tue, Jul 14th)",
@@ -192,12 +198,6 @@
       "description": "[SCHNEIER] In the near future, AI-powered surveillance systems will be able to track everything we do in public, and much of what we do in private. And if we do something wrong&#8212;shoplift, litter, jaywalk, you name it&#8212;the system will notice, retain...",
       "url": "https://www.schneier.com/blog/archives/2026/07/ai-surveillance-and-social-progress.html",
       "date": "2026-07-10T11:02:04Z"
-    },
-    {
-      "title": "\"Comment stuffing\" in an HTML phishing attachment as a mechanism for evading AI-based detection&#x3f;, (Fri, Jul 10th)",
-      "description": "[ISC] Anyone who deals with phishing messages caught by basic security filters knows that most phishing samples tend to blend into one another, since only a small set of techniques and approaches keeps reappearing in them. That is precisely why it is...",
-      "url": "https://isc.sans.edu/diary/rss/33144",
-      "date": "2026-07-10T09:09:29Z"
     },
     {
       "title": "The Language of AI Could Change How Humans Speak",
