@@ -1,8 +1,32 @@
 {
-  "updated": "2026-07-14 07:47:13 UTC",
+  "updated": "2026-07-14 09:46:43 UTC",
   "news": [
     {
-      "title": "Microsoft Maps Year-Long ShinyHunters-Linked Salesforce Data Theft Across Three Paths",
+      "title": "US sanctions VPN, malware providers for enabling ransomware attacks",
+      "description": "[BLEEPINGCOMPUTER] The U.S. Treasury Department's Office of Foreign Assets Control (OFAC) sanctioned two individuals and one entity for enabling ransomware attacks against U.S. organizations. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/us-sanctions-vpn-malware-providers-linked-to-ransomware-gangs/",
+      "date": "2026-07-14T09:40:13Z"
+    },
+    {
+      "title": "Grok Build Uploads Entire Git Repositories to xAI Storage, Not Just Files It Reads",
+      "description": "[FEEDS] xAI's Grok Build coding CLI was uploading entire Git repositories, full commit history and all, to a Google Cloud Storage bucket run by xAI, not just the files a coding task needed. A researcher publishing as cereblab, testing version 0.2.93,...",
+      "url": "https://thehackernews.com/2026/07/grok-build-uploads-entire-git.html",
+      "date": "2026-07-14T09:02:48Z"
+    },
+    {
+      "title": "U.S. Sanctions First VPN Service and Malware Cryptor Seller Over Ransomware Support",
+      "description": "[FEEDS] The U.S. Treasury Department's Office of Foreign Assets Control (OFAC) has designated two individuals and a VPN service provider for enabling ransomware actors' and other cybercriminals' malicious activities, including ransomware attacks against...",
+      "url": "https://thehackernews.com/2026/07/us-sanctions-first-vpn-service-and.html",
+      "date": "2026-07-14T08:02:33Z"
+    },
+    {
+      "title": "148 npm Packages Disguised as Student Proxies Turned Browsers Into a DDoS Botnet",
+      "description": "[FEEDS] A campaign of 148 npm packages disguised as student web proxies turned visitors' browsers into a distributed denial-of-service botnet for roughly two weeks in May, according to new research from&nbsp;JFrog. The packages did not go after the...",
+      "url": "https://thehackernews.com/2026/07/148-npm-packages-disguised-as-student.html",
+      "date": "2026-07-14T07:08:36Z"
+    },
+    {
+      "title": "Microsoft Maps Three Salesforce Attack Paths Tied to a Year of ShinyHunters Activity",
       "description": "[FEEDS] Attackers whose methods line up with the data-extortion group&nbsp;ShinyHunters&nbsp;have spent the past year walking into corporate Salesforce environments without exploiting a single flaw in the platform. The way in has been the trust the...",
       "url": "https://thehackernews.com/2026/07/microsoft-maps-year-long-shinyhunters.html",
       "date": "2026-07-14T06:19:24Z"
@@ -14,10 +38,28 @@
       "date": "2026-07-14T02:15:11Z"
     },
     {
+      "title": "3 ASX ETFs with strong long-term growth potential",
+      "description": "[THE MOTLEY FOOL AUSTRALIA] The Betashares Global Cybersecurity ETF (ASX: HACK) and these ASX ETFs could be well-placed for growth over the long term...",
+      "url": "https://www.fool.com.au/2026/07/14/3-asx-etfs-with-strong-long-term-growth-potential/",
+      "date": "2026-07-13T21:45:00Z"
+    },
+    {
+      "title": "The US government warns that Russia state hackers are coming after your router",
+      "description": "[ARS TECHNICA] With residential proxies all the rage, CISA urges router users to be vigilant.",
+      "url": "https://arstechnica.com/security/2026/07/the-us-government-warns-that-russia-state-hackers-are-coming-after-your-router/",
+      "date": "2026-07-13T21:03:07Z"
+    },
+    {
       "title": "Japan's largest taxi operator shuts systems after cyberattack",
       "description": "[BLEEPINGCOMPUTER] Japan's largest taxi operator, Nihon Kotsu, announced that its systems were compromised in a cyberattack, forcing the company to shut down part of its infrastructure. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/japans-largest-taxi-operator-shuts-systems-after-cyberattack/",
       "date": "2026-07-13T20:18:59Z"
+    },
+    {
+      "title": "A Ransomware Negotiator Who Colluded With Attackers To Scam Victims Was Sentenced To 70 Months In Prison",
+      "description": "[ENGADGET] Angelo Martino helped scam ransomware victims out of over $75 million, officials said.",
+      "url": "https://www.engadget.com/2214113/ransomware-negotiator-who-colluded-with-attackers-to-scam-victims-was-sentenced-to-70-months-in-prison/",
+      "date": "2026-07-13T19:53:26Z"
     },
     {
       "title": "AI Use in Cybersecurity Jumped From 50% to 78% in a Year. AI-Related Failures Rose Sharply Too. New SANS Institute Survey Reveals a Governance Gap.",
@@ -87,51 +129,15 @@
     },
     {
       "title": "\u26a1 Weekly Recap: ShareFile Threat, Citrix Bleed 2 Ransomware, AI Coding Attacks, and More",
-      "description": "[FEEDS] Somewhere right now, a security tool is quietly finding bugs faster than any human can fix them. That's supposed to be the good news. The catch is that the attackers have the same tools, pointed the other way, and they don't file tickets. That's the...",
+      "description": "[THE HACKER NEWS] From a rushed ShareFile shutdown to poisoned npm packages and AI assistants tricked into installing malware, here's every threat you need to know this",
       "url": "https://thehackernews.com/2026/07/weekly-recap-sharefile-threat-citrix.html",
-      "date": "2026-07-13T15:05:57Z"
-    },
-    {
-      "title": "Tripura signs MoU with Google to boost AI capabilities, cloud infra",
-      "description": "[TIMES OF INDIA] Tripura signs MoU with Google to boost AI, cloud infrastructure and modernize citizen services, with focus on governance, cybersecurity and skill development.",
-      "url": "https://timesofindia.indiatimes.com/city/kolkata/tripura-signs-mou-with-google-to-boost-ai-capabilities-cloud-infra/articleshow/132369510.cms",
-      "date": "2026-07-13T14:37:00Z"
-    },
-    {
-      "title": "India must build own AI, cybersecurity mechanism as threats increase: MeitY Secretary",
-      "description": "[THE HINDU BUSINESS LINE] India's MeitY Secretary urges urgent development of domestic AI and cybersecurity mechanisms to combat increasing cyber threats in finance.",
-      "url": "https://www.thehindubusinessline.com/info-tech/india-must-build-own-ai-cybersecurity-mechanism-as-threats-increase-meity-secretary/article71217820.ece",
-      "date": "2026-07-13T14:30:48Z"
-    },
-    {
-      "title": "India must build own AI, cybersecurity mechanism as threats increase: MeitY Secretary",
-      "description": "[THE HINDU BUSINESS LINE] India's MeitY Secretary urges urgent development of domestic AI and cybersecurity mechanisms to combat increasing cyber threats in finance.",
-      "url": "https://www.thehindubusinessline.com/news/india-must-build-own-ai-cybersecurity-mechanism-as-threats-increase-meity-secretary/article71217820.ece",
-      "date": "2026-07-13T14:30:48Z"
+      "date": "2026-07-13T15:05:00Z"
     },
     {
       "title": "Lidl discloses online shop breach after service provider hack",
       "description": "[BLEEPINGCOMPUTER] German discount supermarket chain Lidl notified customers in Germany, Belgium, and the Netherlands that attackers stole their personal information in a breach at a service provider. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/lidl-discloses-online-shop-breach-after-service-provider-hack/",
       "date": "2026-07-13T14:19:43Z"
-    },
-    {
-      "title": "Breach at the Beach: Play the Ultimate Entra ID CTF",
-      "description": "[BLEEPINGCOMPUTER] Learn how attackers abuse Entra ID through a free hands-on Capture the Flag. Varonis created the Breach at the Beach CTF to teach defenders how to investigate Entra ID attack techniques using realistic scenarios. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/breach-at-the-beach-play-the-ultimate-entra-id-ctf/",
-      "date": "2026-07-13T14:01:11Z"
-    },
-    {
-      "title": "New MemGhost Attack Plants Persistent False Memories in AI Agents Through One Email",
-      "description": "[FEEDS] Give an AI assistant a memory and access to your inbox, and you hand an attacker a way to rewrite what it thinks it knows about you. A single email can trick that agent into saving a false \"fact\" about the user, hide the change, and quietly steer...",
-      "url": "https://thehackernews.com/2026/07/new-memghost-attack-plants-persistent.html",
-      "date": "2026-07-13T13:49:48Z"
-    },
-    {
-      "title": "Forg365 PhaaS Targets Microsoft 365 with Device Code and AitM Session Theft",
-      "description": "[FEEDS] A new phishing-as-a-service (PhaaS) operation called Forg365 is using a combination of device code phishing, adversary-in-the-middle (AitM) tactics, antibot evasion, artificial intelligence (AI)-assisted lure creation, and post-compromise mailbox...",
-      "url": "https://thehackernews.com/2026/07/forg365-phaas-targets-microsoft-365.html",
-      "date": "2026-07-13T13:03:33Z"
     },
     {
       "title": "AI Data Centers and the Concentration of Wealth",
