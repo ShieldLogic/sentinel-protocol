@@ -1,6 +1,30 @@
 {
-  "updated": "2026-07-14 17:02:58 UTC",
+  "updated": "2026-07-14 19:02:17 UTC",
   "news": [
+    {
+      "title": "Microsoft releases Windows 10 KB5099539 extended security update",
+      "description": "[BLEEPINGCOMPUTER] Microsoft has released the Windows 10 KB5099539 extended security update, which includes the July 2026 Patch Tuesday security updates for 570 vulnerabilities, along with additional security fixes. [...]",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5099539-extended-security-update/",
+      "date": "2026-07-14T18:49:28Z"
+    },
+    {
+      "title": "Microsoft July 2026 Patch Tuesday fixes massive 570 flaws, 3 zero-days",
+      "description": "[BLEEPINGCOMPUTER] Today is Microsoft's July 2026 Patch Tuesday, and with it comes security updates for a record-breaking 570 flaws, including two zero-day vulnerabilities exploited in attacks and one publicly disclosed. [...]",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-july-2026-patch-tuesday-fixes-massive-570-flaws-3-zero-days/",
+      "date": "2026-07-14T18:01:36Z"
+    },
+    {
+      "title": "Windows 11 KB5101650\u00a0& KB5099414\u00a0cumulative updates released",
+      "description": "[BLEEPINGCOMPUTER] Microsoft has released Windows 11 KB5101650 and KB5099414 cumulative updates for versions 25H2/24H2 and 23H2 to fix security vulnerabilities, bugs, and add new features. [...]",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5101650-and-kb5099414-cumulative-updates-released/",
+      "date": "2026-07-14T17:41:16Z"
+    },
+    {
+      "title": "LabubaRAT Masquerades as NVIDIA Software to Control Windows Hosts",
+      "description": "[FEEDS] Cybersecurity researchers have flagged a previously undocumented Rust-based remote access trojan (RAT) codenamed LabubaRAT that masquerades as NVIDIA software to blend into target environments. \"LabubaRAT creates a reusable foothold for hands-on...",
+      "url": "https://thehackernews.com/2026/07/labubarat-masquerades-as-nvidia.html",
+      "date": "2026-07-14T16:52:37Z"
+    },
     {
       "title": "Progress confirms ShareFile zero-day flaw behind Storage Zone shutdown",
       "description": "[BLEEPINGCOMPUTER] Progress Software has confirmed that a high-severity zero-day vulnerability is behind the emergency shutdown of ShareFile Storage Zone Controllers last week and has released security updates to patch the flaw. [...]",
@@ -32,18 +56,6 @@
       "date": "2026-07-14T13:48:07Z"
     },
     {
-      "title": "Microsoft Entra ID gets passkeys default authentication starting September",
-      "description": "[BLEEPINGCOMPUTER] Microsoft has announced that passkeys will become the default authentication method for the Entra ID enterprise identity service starting September 2026. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-entra-id-gets-passkeys-default-authentication-starting-september/",
-      "date": "2026-07-14T12:49:56Z"
-    },
-    {
-      "title": "New phishing kits target Microsoft 365 accounts, evade MFA",
-      "description": "[BLEEPINGCOMPUTER] Two new phishing kits, Jalisco and OmegaLord, have been discovered in attacks targeting Microsoft 365 accounts, using techniques that defeat multi-factor authentication (MFA). [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/new-phishing-kits-target-microsoft-365-accounts-evade-mfa/",
-      "date": "2026-07-14T12:49:00Z"
-    },
-    {
       "title": "11 Old Microsoft-Signed Linux UEFI Shims Could Let Attackers Bypass Secure Boot",
       "description": "[FEEDS] Cybersecurity researchers have discovered 11 old, Microsoft-signed, Unified Extensible Firmware Interface (UEFI) applications that could be abused to bypass Secure Boot on most systems using the modern firmware standard. \"An attacker exploiting one...",
       "url": "https://thehackernews.com/2026/07/11-old-microsoft-signed-linux-uefi.html",
@@ -54,12 +66,6 @@
       "description": "[FEEDS] Researchers at KU Leuven tested 85 of the most popular crypto wallets that run as browser extensions and found that the wallets themselves leak enough to link and track the people using them. The way these wallets talk to websites and blockchain...",
       "url": "https://thehackernews.com/2026/07/study-of-85-crypto-wallet-extensions.html",
       "date": "2026-07-14T11:55:00Z"
-    },
-    {
-      "title": "SAP warns of critical flaws in NetWeaver and Commerce Cloud",
-      "description": "[BLEEPINGCOMPUTER] SAP has addressed 16 vulnerabilities across multiple products as part of its July 2026 security updates, including three critical flaws in NetWeaver, Commerce Cloud, and AppRouter. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/sap-warns-of-critical-flaws-in-netweaver-and-commerce-cloud/",
-      "date": "2026-07-14T11:42:21Z"
     },
     {
       "title": "How Pentera Turns AI Security Workflows into Validation Engines",
@@ -80,10 +86,52 @@
       "date": "2026-07-14T11:06:51Z"
     },
     {
-      "title": "Grok Build Uploaded Entire Git Repositories to xAI Storage, Not Just Files It Read",
-      "description": "[FEEDS] xAI's Grok Build coding CLI was uploading entire Git repositories, full commit history and all, to a Google Cloud Storage bucket run by xAI, not just the files a coding task needed. A researcher publishing as cereblab, testing version 0.2.93,...",
-      "url": "https://thehackernews.com/2026/07/grok-build-uploads-entire-git.html",
-      "date": "2026-07-14T09:02:48Z"
+      "title": "Pentagon pauses the cyber audit rule that was pushing small suppliers out",
+      "description": "[TNW] The Pentagon has suspended CMMC Phase 2 cybersecurity audits, citing prohibitive costs and a shortage of assessors driving small contractors out.",
+      "url": "https://thenextweb.com/news/pentagon-pauses-cmmc-cyber-audit-rule",
+      "date": "2026-07-14T07:02:17Z"
+    },
+    {
+      "title": "TCS wins technology partnership deal for JFK airport's new terminal in New York",
+      "description": "[MONEYCONTROL] The IT major will power digital infrastructure, AI-led operations and cybersecurity systems for the new international terminal as part of JFK Airport's $19-billion modernisation project",
+      "url": "https://www.moneycontrol.com/news/business/information-technology/tcs-wins-technology-partnership-deal-for-jfk-airport-s-new-terminal-in-new-york-13973412.html",
+      "date": "2026-07-14T07:00:24Z"
+    },
+    {
+      "title": "TCS wins technology partnership for New York JFK Airport's New Terminal One",
+      "description": "[THE HINDU BUSINESS LINE] TCS will power digital operations at New York's JFK New Terminal One with AI, cybersecurity and passenger systems under the airport's $19-billion overhaul.",
+      "url": "https://www.thehindubusinessline.com/markets/stock-markets/tcs-to-power-digital-operations-at-jfk-airports-new-terminal-one/article71220130.ece",
+      "date": "2026-07-14T06:37:18Z"
+    },
+    {
+      "title": "Global Fortinet breach triggers Pakistan cyber alert",
+      "description": "[BOL NEWS] ISLAMABAD: Pakistan\u2019s National CERT has issued a high-alert cybersecurity warning after a global Fortinet breach compromised nearly 74,000 devices worldwide, putting critical networks at risk.",
+      "url": "https://www.bolnews.com/technology/global-fortinet-breach-triggers-pakistan-cyber-alert/",
+      "date": "2026-07-14T06:33:31Z"
+    },
+    {
+      "title": "Pentagon Delays Cybersecurity Checks That May Push Suppliers Out Of Military Work",
+      "description": "[TIMES NOW] Pentagon pauses stricter cybersecurity rules for defence suppliers after companies warn of rising compliance costs. The move sparks debate over military data protection and supply chain security., Technology & Science, Times Now",
+      "url": "https://www.timesnownews.com/technology-science/pentagon-delays-cybersecurity-checks-that-may-push-suppliers-out-of-military-work-article-155094062",
+      "date": "2026-07-14T06:28:18Z"
+    },
+    {
+      "title": "TCS partners with New York's New Terminal One at JFK",
+      "description": "[SCANX.TRADE] Tata Consultancy Services has partnered with New York's New Terminal One at JFK Airport as its technology and innovation partner. The engagement involves implementing AI-driven solutions for passenger processing, baggage handling, and cybersecurity...",
+      "url": "https://scanx.trade/stock-market-news/companies/tcs-becomes-technology-and-innovation-partner-for-new-york-s-terminal-one-at-jfk-airport/45555079",
+      "date": "2026-07-14T06:13:52Z"
+    },
+    {
+      "title": "Seoul Court Halts Coupang FTC Designation in Regulatory Clash",
+      "description": "[DEVDISCOURSE] A South Korean court has temporarily suspended the Fair Trade Commission's decision to designate Kim Bom, the founder of Coupang, as the group's controlling entity. The suspension aims to prevent irreparable harm and will last until a main lawsuit...",
+      "url": "https://www.devdiscourse.com/article/law-order/3949851-seoul-court-halts-coupang-ftc-designation-in-regulatory-clash",
+      "date": "2026-07-14T05:41:47Z"
+    },
+    {
+      "title": "TVS Electronics enters strategic alliance MoU for cybersecurity",
+      "description": "[SCANX.TRADE] TVS Electronics has entered into a non-exclusive Strategic Alliance MoU with an established cybersecurity solutions provider to collaborate on cybersecurity, AI, cloud, and digital transformation opportunities. The one-year agreement, effective July...",
+      "url": "https://scanx.trade/stock-market-news/companies/tvs-electronics-forms-strategic-mou-and-partnership-with-leading-cybersecurity-provider-in-india/45551048",
+      "date": "2026-07-14T05:16:42Z"
     },
     {
       "title": "Cybersecurity costs will shrink AI's profit boost",
@@ -102,54 +150,6 @@
       "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
       "url": "https://isc.sans.edu/diary/rss/33152",
       "date": "2026-07-14T02:15:11Z"
-    },
-    {
-      "title": "\u2018Cybersecurity can no longer be a standalone function\u2019: Q&A with Sajit Vijayakumar, CEO, Infosys Finacle",
-      "description": "[THE FINANCIAL EXPRESS] Agentic AI is set to transform banking by automating routine work and enabling smarter decision-making, but banks must embed robust cybersecurity, governance and modern core systems to deploy it responsibly, says Infosys Finacle CEO Sajit...",
-      "url": "https://www.financialexpress.com/business/news/cybersecurity-can-no-longer-be-a-standalone-function-qampa-with-sajit-vijayakumar-ceo-infosys-finacle/4290831/",
-      "date": "2026-07-14T00:40:07Z"
-    },
-    {
-      "title": "3 ASX ETFs with strong long-term growth potential",
-      "description": "[THE MOTLEY FOOL AUSTRALIA] The Betashares Global Cybersecurity ETF (ASX: HACK) and these ASX ETFs could be well-placed for growth over the long term...",
-      "url": "https://www.fool.com.au/2026/07/14/3-asx-etfs-with-strong-long-term-growth-potential/",
-      "date": "2026-07-13T21:45:00Z"
-    },
-    {
-      "title": "The US government warns that Russia state hackers are coming after your router",
-      "description": "[ARS TECHNICA] With residential proxies all the rage, CISA urges router users to be vigilant.",
-      "url": "https://arstechnica.com/security/2026/07/the-us-government-warns-that-russia-state-hackers-are-coming-after-your-router/",
-      "date": "2026-07-13T21:03:07Z"
-    },
-    {
-      "title": "A Ransomware Negotiator Who Colluded With Attackers To Scam Victims Was Sentenced To 70 Months In Prison",
-      "description": "[ENGADGET] Angelo Martino helped scam ransomware victims out of over $75 million, officials said.",
-      "url": "https://www.engadget.com/2214113/ransomware-negotiator-who-colluded-with-attackers-to-scam-victims-was-sentenced-to-70-months-in-prison/",
-      "date": "2026-07-13T19:53:26Z"
-    },
-    {
-      "title": "AI Use in Cybersecurity Jumped From 50% to 78% in a Year. AI-Related Failures Rose Sharply Too. New SANS Institute Survey Reveals a Governance Gap.",
-      "description": "[THE MANILA TIMES] The 2026 SANS AI Survey, now in its second year, captures how cybersecurity practitioners and senior security leaders view AI adoption, governance, and offensive use across the security industry.",
-      "url": "https://www.manilatimes.net/2026/07/14/tmt-newswire/globenewswire/ai-use-in-cybersecurity-jumped-from-50-to-78-in-a-year-ai-related-failures-rose-sharply-too-new-sans-institute-survey-reveals-a-governance-gap/2383643",
-      "date": "2026-07-13T19:45:43Z"
-    },
-    {
-      "title": "Pentagon Pauses Cybersecurity Certification Program for Defense Contractors",
-      "description": "[DEVDISCOURSE] The Pentagon has suspended the next phase of a cybersecurity certification program for defense contractors. This decision comes after concerns from industry executives that the requirements were excluding small suppliers from military contracts and...",
-      "url": "https://www.devdiscourse.com/article/law-order/3949728-pentagon-pauses-cybersecurity-certification-program-for-defense-contractors",
-      "date": "2026-07-13T19:38:35Z"
-    },
-    {
-      "title": "PIB debunks report claiming Centre asked ministries to avoid OpenAI, Anthropic cybersecurity models",
-      "description": "[LIVEMINT] The Press Information Bureau urged people to rely only on official government websites and verified sources for authentic information and appealed to users to report suspicious content to PIB Fact Check to help curb misinformation.",
-      "url": "https://www.livemint.com/news/india/pib-debunks-report-claiming-centre-asked-ministries-to-avoid-openai-anthropic-cybersecurity-models-11783960351999.html",
-      "date": "2026-07-13T17:16:26Z"
-    },
-    {
-      "title": "India, Japan expand defence agenda with focus on cybersecurity, space and industrial cooperation",
-      "description": "[THE NEW INDIAN EXPRESS] The two sides also discussed the regional and global security environment and exchanged views on issues of mutual strategic interest.",
-      "url": "https://www.newindianexpress.com/india/2026/Jul/13/india-japan-expand-defence-agenda-with-focus-on-cybersecurity-space-and-industrial-cooperation",
-      "date": "2026-07-13T17:09:45Z"
     },
     {
       "title": "AI Data Centers and the Concentration of Wealth",
