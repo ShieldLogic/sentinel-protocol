@@ -1,6 +1,24 @@
 {
-  "updated": "2026-07-14 15:16:20 UTC",
+  "updated": "2026-07-14 17:02:58 UTC",
   "news": [
+    {
+      "title": "Progress confirms ShareFile zero-day flaw behind Storage Zone shutdown",
+      "description": "[BLEEPINGCOMPUTER] Progress Software has confirmed that a high-severity zero-day vulnerability is behind the emergency shutdown of ShareFile Storage Zone Controllers last week and has released security updates to patch the flaw. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/progress-confirms-sharefile-zero-day-flaw-behind-storage-zone-shutdown/",
+      "date": "2026-07-14T16:08:47Z"
+    },
+    {
+      "title": "Upcoming Speaking Engagements",
+      "description": "[SCHNEIER] This is a current list of where and when I am scheduled to speak: I\u2019m speaking (virtually) at the Policy-Relevant Privacy Research Workshop in Calgary, Canada, on Monday, July 20, 2026. I\u2019m speaking at Boston Leadership Exchange in Boston,...",
+      "url": "https://www.schneier.com/blog/archives/2026/07/upcoming-speaking-engagements-58.html",
+      "date": "2026-07-14T16:04:49Z"
+    },
+    {
+      "title": "LastPass, Bitwarden users targeted with fake security alerts",
+      "description": "[BLEEPINGCOMPUTER] LastPass is warning users about an ongoing phishing campaign that is using fake security notices to direct them to fraudulent websites. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/lastpass-bitwarden-users-targeted-with-fake-security-alerts/",
+      "date": "2026-07-14T15:31:52Z"
+    },
     {
       "title": "You Don't Have to Run an Exploit to Know If You're Vulnerable",
       "description": "[BLEEPINGCOMPUTER] Many vulnerabilities cannot be safely validated with live exploits, either because no exploit exists or the affected systems are too critical to test. Picus explains how TTP chaining helps organizations determine exploitability by validating the...",
@@ -62,22 +80,22 @@
       "date": "2026-07-14T11:06:51Z"
     },
     {
-      "title": "Microsoft starts testing cleaner Windows Search without ads",
-      "description": "[BLEEPINGCOMPUTER] Microsoft is now testing a cleaner and faster version of Windows Search that should prioritize relevant results over ads and promotional content. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-starts-testing-cleaner-windows-search-without-ads/",
-      "date": "2026-07-14T10:47:23Z"
-    },
-    {
-      "title": "US sanctions VPN, malware providers for enabling ransomware attacks",
-      "description": "[BLEEPINGCOMPUTER] The U.S. Treasury Department's Office of Foreign Assets Control (OFAC) sanctioned two individuals and one entity for enabling ransomware attacks against U.S. organizations. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/us-sanctions-vpn-malware-providers-linked-to-ransomware-gangs/",
-      "date": "2026-07-14T09:40:13Z"
-    },
-    {
       "title": "Grok Build Uploaded Entire Git Repositories to xAI Storage, Not Just Files It Read",
       "description": "[FEEDS] xAI's Grok Build coding CLI was uploading entire Git repositories, full commit history and all, to a Google Cloud Storage bucket run by xAI, not just the files a coding task needed. A researcher publishing as cereblab, testing version 0.2.93,...",
       "url": "https://thehackernews.com/2026/07/grok-build-uploads-entire-git.html",
       "date": "2026-07-14T09:02:48Z"
+    },
+    {
+      "title": "Cybersecurity costs will shrink AI's profit boost",
+      "description": "[REUTERS] Bot \u200battacks on companies and \u2060critical infrastructure \u200bare surging. The push \u200bfor AI adoption inadvertently opens new back \u200bdoors to \u200bhackers and forces CEOs to \u200cbuy \u2060more tech defences from vendors like $190 bln CrowdStrike. \u200bThe \u200bspending \u2060will...",
+      "url": "https://www.reuters.com/commentary/breakingviews/cybersecurity-costs-will-shrink-ais-profit-boost-2026-07-14/",
+      "date": "2026-07-14T05:00:34Z"
+    },
+    {
+      "title": "Commvault Appoints Brian Lanigan as Chief Partner Officer",
+      "description": "[ITWIRE] Veteran cybersecurity and partner ecosystem leader to accelerate global channel growth and strengthen strategic alliances",
+      "url": "https://itwire.com/it-people-news/people-moves/commvault-appoints-brian-lanigan-as-chief-partner-officer",
+      "date": "2026-07-14T03:26:49Z"
     },
     {
       "title": "ISC Stormcast For Tuesday, July 14th, 2026 https://isc.sans.edu/podcastdetail/10006, (Tue, Jul 14th)",
@@ -134,18 +152,6 @@
       "date": "2026-07-13T17:09:45Z"
     },
     {
-      "title": "Ransomware negotiator jailed for 70 months after he just helped infect victims with malware",
-      "description": "[TECHRADAR] He's now been served a 70-month prison sentence",
-      "url": "https://www.techradar.com/pro/security/ransomware-negotiator-hired-to-represent-victims-was-working-for-the-attackers",
-      "date": "2026-07-13T17:05:00Z"
-    },
-    {
-      "title": "Meta testing birthday reminder feature in WhatsApp",
-      "description": "[DECCAN HERALD] Meta is testing a birthday reminder feature in WhatsApp for iOS beta users in India, where over 80 crore people use the app. The feature will auto-update contacts and notify users of upcoming birthdays, eliminating manual entries. Meanwhile, Meta...",
-      "url": "https://www.deccanherald.com/technology/meta-testing-birthday-reminder-feature-in-whatsapp-4072346",
-      "date": "2026-07-13T16:04:50Z"
-    },
-    {
       "title": "AI Data Centers and the Concentration of Wealth",
       "description": "[SCHNEIER] This essay was written with Nathan E. Sanders, and originally appeared in The Guardian. Opposition to AI data centers has emerged as a primary theme in US politics, one that&#8212;surprisingly&#8212;doesn&#8217;t fall along party lines. We applaud...",
       "url": "https://www.schneier.com/blog/archives/2026/07/ai-data-centers-and-the-concentration-of-wealth.html",
@@ -198,12 +204,6 @@
       "description": "[SCHNEIER] Because of the way they are trained, large language models capture only a slice of human language. They&#8217;re trained on the written word, from textbooks to social media posts, and our speech as captured in movies and on television. These models...",
       "url": "https://www.schneier.com/blog/archives/2026/07/the-language-of-ai-could-change-how-humans-speak.html",
       "date": "2026-07-09T11:00:45Z"
-    },
-    {
-      "title": "Cybersecurity and the Gap Between Skill and Ability",
-      "description": "[SCHNEIER] Last week, national security agencies from the Five Eyes&#8212;that&#8217;s the rich, English-language-speaking countries club&#8212;jointly released a statement warning of the increasing cyber risks of AI models: in particular, their ability to...",
-      "url": "https://www.schneier.com/blog/archives/2026/07/cybersecurity-and-the-gap-between-skill-and-ability.html",
-      "date": "2026-07-08T11:03:04Z"
     }
   ]
 }
