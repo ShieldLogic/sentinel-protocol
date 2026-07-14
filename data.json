@@ -1,6 +1,18 @@
 {
-  "updated": "2026-07-14 13:08:44 UTC",
+  "updated": "2026-07-14 15:16:20 UTC",
   "news": [
+    {
+      "title": "You Don't Have to Run an Exploit to Know If You're Vulnerable",
+      "description": "[BLEEPINGCOMPUTER] Many vulnerabilities cannot be safely validated with live exploits, either because no exploit exists or the affected systems are too critical to test. Picus explains how TTP chaining helps organizations determine exploitability by validating the...",
+      "url": "https://www.bleepingcomputer.com/news/security/you-dont-have-to-run-an-exploit-to-know-if-youre-vulnerable/",
+      "date": "2026-07-14T14:00:10Z"
+    },
+    {
+      "title": "RabbitMQ Flaws Could Leak OAuth Secrets and Expose Cross-Tenant Queue Metadata",
+      "description": "[FEEDS] Cybersecurity researchers have disclosed details of two access control-related flaws impacting the RabbitMQ message broker service that could allow attackers to leak OAuth client secrets, expose enterprise messaging infrastructure to takeover risks,...",
+      "url": "https://thehackernews.com/2026/07/rabbitmq-flaws-could-leak-oauth-secrets.html",
+      "date": "2026-07-14T13:48:07Z"
+    },
     {
       "title": "Microsoft Entra ID gets passkeys default authentication starting September",
       "description": "[BLEEPINGCOMPUTER] Microsoft has announced that passkeys will become the default authentication method for the Entra ID enterprise identity service starting September 2026. [...]",
@@ -14,10 +26,34 @@
       "date": "2026-07-14T12:49:00Z"
     },
     {
+      "title": "11 Old Microsoft-Signed Linux UEFI Shims Could Let Attackers Bypass Secure Boot",
+      "description": "[FEEDS] Cybersecurity researchers have discovered 11 old, Microsoft-signed, Unified Extensible Firmware Interface (UEFI) applications that could be abused to bypass Secure Boot on most systems using the modern firmware standard. \"An attacker exploiting one...",
+      "url": "https://thehackernews.com/2026/07/11-old-microsoft-signed-linux-uefi.html",
+      "date": "2026-07-14T12:46:18Z"
+    },
+    {
+      "title": "Study of 85 Crypto Wallet Extensions Finds Address Leaks and Cross-Site Tracking Risks",
+      "description": "[FEEDS] Researchers at KU Leuven tested 85 of the most popular crypto wallets that run as browser extensions and found that the wallets themselves leak enough to link and track the people using them. The way these wallets talk to websites and blockchain...",
+      "url": "https://thehackernews.com/2026/07/study-of-85-crypto-wallet-extensions.html",
+      "date": "2026-07-14T11:55:00Z"
+    },
+    {
       "title": "SAP warns of critical flaws in NetWeaver and Commerce Cloud",
       "description": "[BLEEPINGCOMPUTER] SAP has addressed 16 vulnerabilities across multiple products as part of its July 2026 security updates, including three critical flaws in NetWeaver, Commerce Cloud, and AppRouter. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/sap-warns-of-critical-flaws-in-netweaver-and-commerce-cloud/",
       "date": "2026-07-14T11:42:21Z"
+    },
+    {
+      "title": "How Pentera Turns AI Security Workflows into Validation Engines",
+      "description": "[FEEDS] AI security agents are starting to influence real security decisions. They summarize findings, prioritize remediation, recommend next steps, and help teams move faster. But most still rely on fragmented risk signals: scanner output, severity scores,...",
+      "url": "https://thehackernews.com/2026/07/how-pentera-turns-ai-security-workflows.html",
+      "date": "2026-07-14T11:30:00Z"
+    },
+    {
+      "title": "OAuth Client ID Spoofing Lets Attackers Validate Stolen Microsoft Entra Credentials",
+      "description": "[FEEDS] At least two distinct threat actors are weaponizing a novel evasion technique called OAuth client ID spoofing in cloud campaigns, while slipping past telemetry. The activity allows users to enumerate user accounts and validate stolen credentials in...",
+      "url": "https://thehackernews.com/2026/07/oauth-client-id-spoofing-lets-attackers.html",
+      "date": "2026-07-14T11:21:35Z"
     },
     {
       "title": "Vulnerability in FIFA\u2019s Network",
@@ -44,24 +80,6 @@
       "date": "2026-07-14T09:02:48Z"
     },
     {
-      "title": "U.S. Sanctions First VPN Service and Malware Cryptor Seller Over Ransomware Support",
-      "description": "[FEEDS] The U.S. Treasury Department's Office of Foreign Assets Control (OFAC) has designated two individuals and a VPN service provider for enabling ransomware actors' and other cybercriminals' malicious activities, including ransomware attacks against...",
-      "url": "https://thehackernews.com/2026/07/us-sanctions-first-vpn-service-and.html",
-      "date": "2026-07-14T08:02:33Z"
-    },
-    {
-      "title": "148 npm Packages Disguised as Student Proxies Turned Browsers Into a DDoS Botnet",
-      "description": "[FEEDS] A campaign of 148 npm packages disguised as student web proxies turned visitors' browsers into a distributed denial-of-service botnet for roughly two weeks in May, according to new research from&nbsp;JFrog. The packages did not go after the...",
-      "url": "https://thehackernews.com/2026/07/148-npm-packages-disguised-as-student.html",
-      "date": "2026-07-14T07:08:36Z"
-    },
-    {
-      "title": "Microsoft Maps Three Salesforce Attack Paths Tied to a Year of ShinyHunters Activity",
-      "description": "[FEEDS] Attackers whose methods line up with the data-extortion group&nbsp;ShinyHunters&nbsp;have spent the past year walking into corporate Salesforce environments without exploiting a single flaw in the platform. The way in has been the trust the...",
-      "url": "https://thehackernews.com/2026/07/microsoft-maps-year-long-shinyhunters.html",
-      "date": "2026-07-14T06:19:24Z"
-    },
-    {
       "title": "ISC Stormcast For Tuesday, July 14th, 2026 https://isc.sans.edu/podcastdetail/10006, (Tue, Jul 14th)",
       "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
       "url": "https://isc.sans.edu/diary/rss/33152",
@@ -86,12 +104,6 @@
       "date": "2026-07-13T21:03:07Z"
     },
     {
-      "title": "Japan's largest taxi operator shuts systems after cyberattack",
-      "description": "[BLEEPINGCOMPUTER] Japan's largest taxi operator, Nihon Kotsu, announced that its systems were compromised in a cyberattack, forcing the company to shut down part of its infrastructure. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/japans-largest-taxi-operator-shuts-systems-after-cyberattack/",
-      "date": "2026-07-13T20:18:59Z"
-    },
-    {
       "title": "A Ransomware Negotiator Who Colluded With Attackers To Scam Victims Was Sentenced To 70 Months In Prison",
       "description": "[ENGADGET] Angelo Martino helped scam ransomware victims out of over $75 million, officials said.",
       "url": "https://www.engadget.com/2214113/ransomware-negotiator-who-colluded-with-attackers-to-scam-victims-was-sentenced-to-70-months-in-prison/",
@@ -108,18 +120,6 @@
       "description": "[DEVDISCOURSE] The Pentagon has suspended the next phase of a cybersecurity certification program for defense contractors. This decision comes after concerns from industry executives that the requirements were excluding small suppliers from military contracts and...",
       "url": "https://www.devdiscourse.com/article/law-order/3949728-pentagon-pauses-cybersecurity-certification-program-for-defense-contractors",
       "date": "2026-07-13T19:38:35Z"
-    },
-    {
-      "title": "CrashStealer macOS Malware Uses Notarized Dropper to Pass Gatekeeper Checks",
-      "description": "[FEEDS] Cybersecurity researchers have flagged a new macOS information stealer called CrashStealer that's capable of harvesting sensitive data from compromised systems. Unlike other information stealers that are built on AppleScript droppers or...",
-      "url": "https://thehackernews.com/2026/07/crashstealer-macos-malware-uses.html",
-      "date": "2026-07-13T17:36:12Z"
-    },
-    {
-      "title": "Google and Microsoft Pull ModHeader With 1.6 Million Installs After Dormant Collector Found",
-      "description": "[FEEDS] Google and Microsoft have pulled ModHeader, a popular header-editing extension with roughly 1.6 million installs across Chrome and Edge, after researchers found a hidden browsing-history collector built into its official store version. The collector...",
-      "url": "https://thehackernews.com/2026/07/google-and-microsoft-pull-modheader.html",
-      "date": "2026-07-13T17:17:24Z"
     },
     {
       "title": "PIB debunks report claiming Centre asked ministries to avoid OpenAI, Anthropic cybersecurity models",
