@@ -1,6 +1,18 @@
 {
-  "updated": "2026-07-15 15:18:04 UTC",
+  "updated": "2026-07-15 17:05:25 UTC",
   "news": [
+    {
+      "title": "\u200b    \u200bAsyncAPI npm packages infected with credential-stealing malware",
+      "description": "[BLEEPINGCOMPUTER] Five malicious versions of AsyncAPI packages were published to the Node Package Manager (npm) in a supply-chain attack that delivered a remote access trojan with info-stealing capabilities. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/-asyncapi-npm-packages-infected-with-credential-stealing-malware/",
+      "date": "2026-07-15T15:37:27Z"
+    },
+    {
+      "title": "OkoBot Malware Framework Injects Seed Phrase Phishing Into Ledger and Trezor Apps",
+      "description": "[FEEDS] A malware framework called OkoBot has been running on Windows machines since April 2025, and one of its modules is built to con hardware wallet owners out of their recovery phrase. On an infected PC, the request comes from inside the wallet's own...",
+      "url": "https://thehackernews.com/2026/07/okobot-malware-framework-injects-seed.html",
+      "date": "2026-07-15T15:30:30Z"
+    },
     {
       "title": "We built a vulnerability vending machine: AI tokens in, zero-days out",
       "description": "[BLEEPINGCOMPUTER] Intruder built an AI-powered \"vulnerability vending machine\" that combines code slicing with LLMs to automatically discover complex software vulnerabilities. The company explains how the system found and exploited a previously unknown WordPress...",
@@ -50,12 +62,6 @@
       "date": "2026-07-15T09:44:52Z"
     },
     {
-      "title": "Compromised AsyncAPI npm Packages Deliver Multi-Stage Botnet Malware",
-      "description": "[FEEDS] Four compromised npm packages in the @asyncapi namespace have been observed distributing a multi-stage botnet loader, according to findings from OX Security, SafeDep, Socket, and StepSecurity. The affected packages are listed below -...",
-      "url": "https://thehackernews.com/2026/07/compromised-asyncapi-npm-packages.html",
-      "date": "2026-07-15T09:16:13Z"
-    },
-    {
       "title": "Microsoft: Some Dell PCs shut down after recent Windows updates",
       "description": "[BLEEPINGCOMPUTER] Microsoft is blocking this month's Windows 11 security updates on some Dell devices because they are causing shutdowns and performance issues. [...]",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-some-dell-devices-shut-down-after-windows-update/",
@@ -66,6 +72,12 @@
       "description": "[BLEEPINGCOMPUTER] U.S. federal prosecutors have unsealed charges against three Russian nationals, accusing them of providing bulletproof hosting (BPH) services to ransomware gangs that caused over $62 million in damages to victims worldwide. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/us-charges-alleged-russian-bulletproof-hosting-service-operators/",
       "date": "2026-07-15T07:45:50Z"
+    },
+    {
+      "title": "IBM suffered its worst stock market crash in 60 years. Here's what went wrong",
+      "description": "[INDIA TODAY] IBM shares slumped after the company cut its revenue and earnings outlook and admitted it had faltered on execution. The setback underscored how quickly corporate technology spending is shifting towards AI infrastructure and cybersecurity.",
+      "url": "https://www.indiatoday.in/business/market/story/ibm-shares-crash-biggest-single-day-60-years-ai-infrastructure-spending-shift-missed-deals-2948141-2026-07-15",
+      "date": "2026-07-15T04:11:26Z"
     },
     {
       "title": "Why IBM stock crashed over 25% today",
@@ -134,22 +146,10 @@
       "date": "2026-07-15T01:02:49Z"
     },
     {
-      "title": "What does it mean to be \u2018quantum\u2019? A physicist explains the basics behind Einstein\u2019s spooky actions at a distance",
-      "description": "[THE CONVERSATION] Particles\u2019 properties at the quantum level could one day enable faster computing and better cybersecurity.",
-      "url": "https://theconversation.com/what-does-it-mean-to-be-quantum-a-physicist-explains-the-basics-behind-einsteins-spooky-actions-at-a-distance-281844",
-      "date": "2026-07-15T00:00:00Z"
-    },
-    {
       "title": "SonicWall warns of SMA1000 flaws exploited in zero-day attacks, patch now",
       "description": "[BLEEPINGCOMPUTER] SonicWall warns that threat actors have been exploiting two SMA1000 vulnerabilities, tracked as CVE-2026-15409 and CVE-2026-15410, in zero-day attacks and urges customers to install the newly released security updates. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-sma1000-flaws-exploited-in-zero-day-attacks-patch-now/",
       "date": "2026-07-14T21:23:24Z"
-    },
-    {
-      "title": "Spanish Police take down \u20ac140 million cyber fraud ring, arrest four",
-      "description": "[BLEEPINGCOMPUTER] The Spanish Police dismantled a cybercrime and money-laundering organization that made \u20ac140 million ($160 million) from investment fraud and business email compromise (BEC) attacks. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/spanish-police-take-down-140-million-cyber-fraud-ring-arrest-four/",
-      "date": "2026-07-14T20:23:09Z"
     },
     {
       "title": "Microsoft Patch Tuesday July 2026 - The AI Acopolypse is Here , (Tue, Jul 14th)",
