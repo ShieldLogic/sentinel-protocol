@@ -1,6 +1,30 @@
 {
-  "updated": "2026-07-16 13:20:35 UTC",
+  "updated": "2026-07-16 15:25:50 UTC",
   "news": [
+    {
+      "title": "Protecting Privacy in an AI Era",
+      "description": "[SCHNEIER] Daniel Solove argues in the Wall Street Journal (alternate link) that giving people control of their personal data is not an effective way to regulate privacy in this era. Instead, we need to hold companies accountable for their actions, similar to...",
+      "url": "https://www.schneier.com/blog/archives/2026/07/protecting-privacy-in-an-ai-era.html",
+      "date": "2026-07-16T14:34:31Z"
+    },
+    {
+      "title": "AI Agents Broke the Security Playbook. Here's What Replaces It.",
+      "description": "[BLEEPINGCOMPUTER] Traditional security workflows were built for environments that changed at human speed. Token Security explains why AI agents require a new approach: building on a live identity foundation while giving security teams the flexibility to create...",
+      "url": "https://www.bleepingcomputer.com/news/security/ai-agents-broke-the-security-playbook-heres-what-replaces-it/",
+      "date": "2026-07-16T14:00:10Z"
+    },
+    {
+      "title": "23andMe to pay $18 million in new genetics data breach settlement",
+      "description": "[BLEEPINGCOMPUTER] Genetic testing company 23andMe has agreed to pay $18 million to settle claims from a coalition of 43 attorneys general that it failed to protect customers' genetic data. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/23andme-to-pay-18-million-in-new-genetics-data-breach-settlement/",
+      "date": "2026-07-16T13:47:23Z"
+    },
+    {
+      "title": "n8n Token Exchange Flaw Could Let Attackers Log In as Users From Another Issuer",
+      "description": "[FEEDS] n8n, the workflow automation platform, handed out the wrong accounts at login. On Enterprise instances configured to trust more than one external token issuer, it matched an incoming JWT to a local user on the&nbsp;sub&nbsp;claim alone and...",
+      "url": "https://thehackernews.com/2026/07/n8n-token-exchange-flaw-could-let.html",
+      "date": "2026-07-16T13:33:25Z"
+    },
     {
       "title": "New TELEPUZ Malware Spreads via ClickFix to Steal Data and Run Commands",
       "description": "[FEEDS] Cybersecurity researchers have called attention to a new modular malware called TELEPUZ that's been spreading via websites infected with ClickFix lures since late April 2026. \"The malware is full-featured, lightweight, and modular,\" Elastic Security...",
@@ -56,28 +80,16 @@
       "date": "2026-07-16T10:19:34Z"
     },
     {
-      "title": "AI Can Find Bugs, But Human Knowledge Still Proves Them",
-      "description": "[FEEDS] Artificial intelligence (AI) is changing offensive security, but it has not changed the standard that matters most: a finding has to be proven before it becomes useful. AI-assisted tools can read code quickly, generate payloads, summarize attack...",
-      "url": "https://thehackernews.com/2026/07/ai-can-find-bugs-but-human-knowledge.html",
-      "date": "2026-07-16T10:10:00Z"
-    },
-    {
-      "title": "New Spirals ransomware encrypts victim network in under 24 hours",
-      "description": "[BLEEPINGCOMPUTER] A new ransomware actor called Spirals completed a corporate intrusion, from initial access to data theft and encryption, in less than 24 hours. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/new-spirals-ransomware-encrypts-victim-network-in-under-24-hours/",
-      "date": "2026-07-16T10:00:00Z"
+      "title": "JPMorgan CEO Warns Of Anthropic's Mythos, Says It's Like Giving People Ballistic Missiles",
+      "description": "[TIMES NOW] JPMorgan Chase CEO Jamie Dimon warns Anthropic's Mythos AI poses real cybersecurity risks, as the US government tightens safeguards and launches a new AI security partnership., Technology & Science, Times Now",
+      "url": "https://www.timesnownews.com/technology-science/jpmorgan-ceo-warns-of-anthropics-mythos-says-its-like-giving-people-ballistic-missiles-article-155108892",
+      "date": "2026-07-16T03:13:31Z"
     },
     {
       "title": "ISC Stormcast For Thursday, July 16th, 2026 https://isc.sans.edu/podcastdetail/10010, (Thu, Jul 16th)",
       "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
       "url": "https://isc.sans.edu/diary/rss/33160",
       "date": "2026-07-16T02:40:10Z"
-    },
-    {
-      "title": "Dutch police bust investment fraud ring stealing over \u20ac100 million",
-      "description": "[BLEEPINGCOMPUTER] The Dutch Police announced the arrest of multiple individuals suspected of being part of an international investment fraud scheme estimated to have tens of thousands of victims. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/dutch-police-bust-investment-fraud-ring-stealing-over-100-million/",
-      "date": "2026-07-15T21:55:50Z"
     },
     {
       "title": "Quebec and Alberta plan to work together to integrate AI in government",
@@ -90,12 +102,6 @@
       "description": "[BAYTODAY] MONTREAL \u2014 The Quebec and Alberta governments plan to work together to implement artificial intelligence in public administration, which Quebec's cybersecurity minister says will help both provinces build on each other's experience to develop new too",
       "url": "https://www.baytoday.ca/national-news/quebec-and-alberta-plan-to-work-together-to-integrate-ai-in-government-12551305",
       "date": "2026-07-15T21:43:24Z"
-    },
-    {
-      "title": "States reach $18 million settlement with 23andMe",
-      "description": "[HARTFORD COURANT] Genetic testing company 23andMe and a group of attorneys general nationwide have reached a multimillion-dollar settlement following the major data breach that led to the company\u2019s demise three years ago. More than 40 attorneys general, including...",
-      "url": "https://www.courant.com/2026/07/15/23andme-settlement/",
-      "date": "2026-07-15T20:02:43Z"
     },
     {
       "title": "States reach $18 million settlement with 23andMe",
@@ -198,12 +204,6 @@
       "description": "[SCHNEIER] In a rare combined cybersecurity/squid post, a twenty-nine-year-old squid proxy bug can leak HTTP requests. As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered. Blog moderation...",
       "url": "https://www.schneier.com/blog/archives/2026/07/friday-squid-blogging-squidbleed-vulnerability.html",
       "date": "2026-07-10T21:07:13Z"
-    },
-    {
-      "title": "AI Surveillance and Social Progress",
-      "description": "[SCHNEIER] In the near future, AI-powered surveillance systems will be able to track everything we do in public, and much of what we do in private. And if we do something wrong&#8212;shoplift, litter, jaywalk, you name it&#8212;the system will notice, retain...",
-      "url": "https://www.schneier.com/blog/archives/2026/07/ai-surveillance-and-social-progress.html",
-      "date": "2026-07-10T11:02:04Z"
     }
   ]
 }
