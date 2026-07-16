@@ -1,6 +1,36 @@
 {
-  "updated": "2026-07-16 09:57:58 UTC",
+  "updated": "2026-07-16 11:37:42 UTC",
   "news": [
+    {
+      "title": "CISA orders feds to patch actively exploited Oracle flaw by Saturday",
+      "description": "[BLEEPINGCOMPUTER] CISA has ordered federal agencies to secure their systems by Saturday against ongoing attacks exploiting a critical vulnerability in the Oracle E-Business Suite financial application. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-oracle-flaw-by-saturday/",
+      "date": "2026-07-16T10:56:03Z"
+    },
+    {
+      "title": "Russian hackers trojanize WebEx, Zoom apps to push Starland malware",
+      "description": "[BLEEPINGCOMPUTER] A financially motivated Russian threat actor tracked as UAT-11795 is using trojanized software to steal credentials and cryptocurrency by deploying a new backdoor called Starland RAT. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/russian-hackers-trojanize-webex-zoom-apps-to-push-starland-malware/",
+      "date": "2026-07-16T10:19:34Z"
+    },
+    {
+      "title": "AI Can Find Bugs, But Human Knowledge Still Proves Them",
+      "description": "[FEEDS] Artificial intelligence (AI) is changing offensive security, but it has not changed the standard that matters most: a finding has to be proven before it becomes useful. AI-assisted tools can read code quickly, generate payloads, summarize attack...",
+      "url": "https://thehackernews.com/2026/07/ai-can-find-bugs-but-human-knowledge.html",
+      "date": "2026-07-16T10:10:00Z"
+    },
+    {
+      "title": "New Spirals ransomware encrypts victim network in under 24 hours",
+      "description": "[BLEEPINGCOMPUTER] A new ransomware actor called Spirals completed a corporate intrusion, from initial access to data theft and encryption, in less than 24 hours. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/new-spirals-ransomware-encrypts-victim-network-in-under-24-hours/",
+      "date": "2026-07-16T10:00:00Z"
+    },
+    {
+      "title": "Unpatched Shark Vacuum Flaw Could Let Attackers Control Other Vacuums Region-Wide",
+      "description": "[FEEDS] Pull the certificate off the flash of a Shark RV2320EDUS robot vacuum, and you can run root commands on other people's Shark vacuums across the same AWS region: watch the camera, drive the robot, read the map of the house, and take the Wi-Fi...",
+      "url": "https://thehackernews.com/2026/07/unpatched-shark-vacuum-flaw-could-let.html",
+      "date": "2026-07-16T09:23:19Z"
+    },
     {
       "title": "OpenAI\u2019s GPT-Red Automates Prompt Injection Testing to Harden GPT-5.6 Sol",
       "description": "[FEEDS] OpenAI has disclosed details of GPT-Red, an internal automated red-teaming model that scales prompt injection vulnerability discovery with an aim to fix issues before the tools are deployed widely. \"GPT\u2011Red is a strong red-teamer, and our previous...",
@@ -104,46 +134,16 @@
       "date": "2026-07-15T18:33:48Z"
     },
     {
-      "title": "AsyncAPI npm packages infected with credential-stealing malware",
-      "description": "[BLEEPINGCOMPUTER] Five malicious versions of AsyncAPI packages were published to the Node Package Manager (npm) in a supply-chain attack that delivered a remote access trojan with info-stealing capabilities. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/-asyncapi-npm-packages-infected-with-credential-stealing-malware/",
-      "date": "2026-07-15T15:37:27Z"
-    },
-    {
       "title": "OkoBot Malware Framework Injects Seed Phrase Phishing Into Ledger and Trezor Apps",
       "description": "[FEEDS] A malware framework called OkoBot has been running on Windows machines since April 2025, and one of its modules is built to con hardware wallet owners out of their recovery phrase. On an infected PC, the request comes from inside the wallet's own...",
       "url": "https://thehackernews.com/2026/07/okobot-malware-framework-injects-seed.html",
       "date": "2026-07-15T15:30:30Z"
     },
     {
-      "title": "We built a vulnerability vending machine: AI tokens in, zero-days out",
-      "description": "[BLEEPINGCOMPUTER] Intruder built an AI-powered \"vulnerability vending machine\" that combines code slicing with LLMs to automatically discover complex software vulnerabilities. The company explains how the system found and exploited a previously unknown WordPress...",
-      "url": "https://www.bleepingcomputer.com/news/security/we-built-a-vulnerability-vending-machine-ai-tokens-in-zero-days-out/",
-      "date": "2026-07-15T14:01:11Z"
-    },
-    {
-      "title": "Firefox, Chrome, Adobe, and VMware Updates Fix Multiple Critical Security Flaws",
-      "description": "[FEEDS] Mozilla has released updates to address two critical flaws in Firefox for which it warned that exploit code has been published. The vulnerabilities are listed below - CVE-2026-15718, an invalid pointer in the JavaScript: WebAssembly component...",
-      "url": "https://thehackernews.com/2026/07/firefox-chrome-adobe-and-vmware-updates.html",
-      "date": "2026-07-15T13:18:53Z"
-    },
-    {
-      "title": "SASE Has An AI Blind Spot. Inspecting Packets Is No Longer Enough.",
-      "description": "[FEEDS] For years, routing traffic through cloud proxies was good enough. Then work moved to the browser, AI entered the workflow, and the inspection model stopped keeping up. Enterprise workflows now live across SaaS applications, browsers, and an...",
-      "url": "https://thehackernews.com/2026/07/sase-has-ai-blind-spot-inspecting.html",
-      "date": "2026-07-15T11:50:01Z"
-    },
-    {
       "title": "A Video Screen That Is Also a Camera",
       "description": "[SCHNEIER] Amazing: Researchers from ETH Zurich in Switzerland, however, managed to create a new type of pixel that can simultaneously do both. This hypercharged pixel, called a Fourier pixel, can generate and sense arbitrary light fields and tap into a...",
       "url": "https://www.schneier.com/blog/archives/2026/07/a-video-screen-that-is-also-a-camera.html",
       "date": "2026-07-15T11:04:06Z"
-    },
-    {
-      "title": "CISA warns admins to patch actively exploited SharePoint flaws",
-      "description": "[BLEEPINGCOMPUTER] The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned Tuesday that attackers are actively exploiting three vulnerabilities to hack Internet-exposed on-premises SharePoint Server instances. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-admins-to-patch-actively-exploited-sharepoint-flaws/",
-      "date": "2026-07-15T09:44:52Z"
     },
     {
       "title": "ISC Stormcast For Wednesday, July 15th, 2026 https://isc.sans.edu/podcastdetail/10008, (Wed, Jul 15th)",
