@@ -1,209 +1,137 @@
 {
-  "updated": "2026-07-16 11:37:42 UTC",
-  "news": [
-    {
-      "title": "CISA orders feds to patch actively exploited Oracle flaw by Saturday",
-      "description": "[BLEEPINGCOMPUTER] CISA has ordered federal agencies to secure their systems by Saturday against ongoing attacks exploiting a critical vulnerability in the Oracle E-Business Suite financial application. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-oracle-flaw-by-saturday/",
-      "date": "2026-07-16T10:56:03Z"
-    },
-    {
-      "title": "Russian hackers trojanize WebEx, Zoom apps to push Starland malware",
-      "description": "[BLEEPINGCOMPUTER] A financially motivated Russian threat actor tracked as UAT-11795 is using trojanized software to steal credentials and cryptocurrency by deploying a new backdoor called Starland RAT. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/russian-hackers-trojanize-webex-zoom-apps-to-push-starland-malware/",
-      "date": "2026-07-16T10:19:34Z"
-    },
-    {
-      "title": "AI Can Find Bugs, But Human Knowledge Still Proves Them",
-      "description": "[FEEDS] Artificial intelligence (AI) is changing offensive security, but it has not changed the standard that matters most: a finding has to be proven before it becomes useful. AI-assisted tools can read code quickly, generate payloads, summarize attack...",
-      "url": "https://thehackernews.com/2026/07/ai-can-find-bugs-but-human-knowledge.html",
-      "date": "2026-07-16T10:10:00Z"
-    },
-    {
-      "title": "New Spirals ransomware encrypts victim network in under 24 hours",
-      "description": "[BLEEPINGCOMPUTER] A new ransomware actor called Spirals completed a corporate intrusion, from initial access to data theft and encryption, in less than 24 hours. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/new-spirals-ransomware-encrypts-victim-network-in-under-24-hours/",
-      "date": "2026-07-16T10:00:00Z"
-    },
-    {
-      "title": "Unpatched Shark Vacuum Flaw Could Let Attackers Control Other Vacuums Region-Wide",
-      "description": "[FEEDS] Pull the certificate off the flash of a Shark RV2320EDUS robot vacuum, and you can run root commands on other people's Shark vacuums across the same AWS region: watch the camera, drive the robot, read the map of the house, and take the Wi-Fi...",
-      "url": "https://thehackernews.com/2026/07/unpatched-shark-vacuum-flaw-could-let.html",
-      "date": "2026-07-16T09:23:19Z"
-    },
-    {
-      "title": "OpenAI\u2019s GPT-Red Automates Prompt Injection Testing to Harden GPT-5.6 Sol",
-      "description": "[FEEDS] OpenAI has disclosed details of GPT-Red, an internal automated red-teaming model that scales prompt injection vulnerability discovery with an aim to fix issues before the tools are deployed widely. \"GPT\u2011Red is a strong red-teamer, and our previous...",
-      "url": "https://thehackernews.com/2026/07/openais-gpt-red-automates-prompt.html",
-      "date": "2026-07-16T08:42:31Z"
-    },
-    {
-      "title": "Zoom Patches Critical Windows Flaw That Could Enable Account Takeover",
-      "description": "[FEEDS] Zoom has released security updates for a critical security flaw impacting Zoom Workplace for Windows that could facilitate account takeover. The vulnerability, tracked as CVE-2026-53412 (CVSS score: 9.8), affects Zoom Desktop Client for Windows,...",
-      "url": "https://thehackernews.com/2026/07/zoom-patches-critical-windows-flaw-that.html",
-      "date": "2026-07-16T07:22:44Z"
-    },
-    {
-      "title": "ISC Stormcast For Thursday, July 16th, 2026 https://isc.sans.edu/podcastdetail/10010, (Thu, Jul 16th)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33160",
-      "date": "2026-07-16T02:40:10Z"
-    },
-    {
-      "title": "Dutch police bust investment fraud ring stealing over \u20ac100 million",
-      "description": "[BLEEPINGCOMPUTER] The Dutch Police announced the arrest of multiple individuals suspected of being part of an international investment fraud scheme estimated to have tens of thousands of victims. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/dutch-police-bust-investment-fraud-ring-stealing-over-100-million/",
-      "date": "2026-07-15T21:55:50Z"
-    },
-    {
-      "title": "Quebec and Alberta plan to work together to integrate AI in government",
-      "description": "[SOOTODAY] MONTREAL \u2014 The Quebec and Alberta governments plan to work together to implement artificial intelligence in public administration, which Quebec's cybersecurity minister says will help both provinces build on each other's experience to develop new too",
-      "url": "https://www.sootoday.com/national-news/quebec-and-alberta-plan-to-work-together-to-integrate-ai-in-government-12551305",
-      "date": "2026-07-15T21:43:24Z"
-    },
-    {
-      "title": "Quebec and Alberta plan to work together to integrate AI in government",
-      "description": "[BAYTODAY] MONTREAL \u2014 The Quebec and Alberta governments plan to work together to implement artificial intelligence in public administration, which Quebec's cybersecurity minister says will help both provinces build on each other's experience to develop new too",
-      "url": "https://www.baytoday.ca/national-news/quebec-and-alberta-plan-to-work-together-to-integrate-ai-in-government-12551305",
-      "date": "2026-07-15T21:43:24Z"
-    },
-    {
-      "title": "Zoom warns of critical account takeover vulnerability",
-      "description": "[BLEEPINGCOMPUTER] Zoom is warning of a critical vulnerability in its desktop client and software development kit for Windows that could be exploited by an unauthenticated party to hijack accounts. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/zoom-warns-of-critical-account-takeover-vulnerability/",
-      "date": "2026-07-15T20:16:02Z"
-    },
-    {
-      "title": "States reach $18 million settlement with 23andMe",
-      "description": "[HARTFORD COURANT] Genetic testing company 23andMe and a group of attorneys general nationwide have reached a multimillion-dollar settlement following the major data breach that led to the company\u2019s demise three years ago. More than 40 attorneys general, including...",
-      "url": "https://www.courant.com/2026/07/15/23andme-settlement/",
-      "date": "2026-07-15T20:02:43Z"
-    },
-    {
-      "title": "States reach $18 million settlement with 23andMe",
-      "description": "[NORFOLK VIRGINIAN-PILOT] Genetic testing company 23andMe and a group of attorneys general nationwide have reached a multimillion-dollar settlement following the major data breach that led to the company\u2019s demise three years ago. More than 40 attorneys general, including...",
-      "url": "https://www.pilotonline.com/2026/07/15/23andme-settlement/",
-      "date": "2026-07-15T20:02:43Z"
-    },
-    {
-      "title": "States reach $18 million settlement with 23andMe",
-      "description": "[SAN DIEGO UNION-TRIBUNE] Genetic testing company 23andMe and a group of attorneys general nationwide have reached a multimillion-dollar settlement following the major data breach that led to the company\u2019s demise three years ago. More than 40 attorneys general, including...",
-      "url": "https://www.sandiegouniontribune.com/2026/07/15/23andme-settlement/",
-      "date": "2026-07-15T20:02:43Z"
-    },
-    {
-      "title": "States reach $18 million settlement with 23andMe",
-      "description": "[READING EAGLE] Genetic testing company 23andMe and a group of attorneys general nationwide have reached a multimillion-dollar settlement following the major data breach that led to the company\u2019s demise three years ago. More than 40 attorneys general, including...",
-      "url": "https://www.readingeagle.com/2026/07/15/23andme-settlement/",
-      "date": "2026-07-15T20:02:43Z"
-    },
-    {
-      "title": "States reach $18 million settlement with 23andMe",
-      "description": "[BOULDER DAILY CAMERA] Genetic testing company 23andMe and a group of attorneys general nationwide have reached a multimillion-dollar settlement following the major data breach that led to the company\u2019s demise three years ago. More than 40 attorneys general, including...",
-      "url": "https://www.dailycamera.com/2026/07/15/23andme-settlement/",
-      "date": "2026-07-15T20:02:43Z"
-    },
-    {
-      "title": "States reach $18 million settlement with 23andMe",
-      "description": "[THE BOSTON HERALD] Genetic testing company 23andMe and a group of attorneys general nationwide have reached a multimillion-dollar settlement following the major data breach that led to the company\u2019s demise three years ago. More than 40 attorneys general, including...",
-      "url": "https://www.bostonherald.com/2026/07/15/23andme-settlement/",
-      "date": "2026-07-15T20:02:43Z"
-    },
-    {
-      "title": "States reach $18 million settlement with 23andMe",
-      "description": "[SANTA ROSA PRESS DEMOCRAT] Genetic testing company 23andMe and a group of attorneys general nationwide have reached a multimillion-dollar settlement following the major data breach that led to the company\u2019s demise three years ago. More than 40 attorneys general, including...",
-      "url": "https://www.pressdemocrat.com/2026/07/15/23andme-settlement/",
-      "date": "2026-07-15T20:02:43Z"
-    },
-    {
-      "title": "States reach $18 million settlement with 23andMe",
-      "description": "[SANTA ANA ORANGE COUNTY REGISTER] Genetic testing company 23andMe and a group of attorneys general nationwide have reached a multimillion-dollar settlement following the major data breach that led to the company\u2019s demise three years ago. More than 40 attorneys general, including...",
-      "url": "https://www.ocregister.com/2026/07/15/23andme-settlement/",
-      "date": "2026-07-15T20:02:43Z"
-    },
-    {
-      "title": "TuxBot v3 Evolution Shows Signs of LLM-Assisted IoT Botnet Development",
-      "description": "[FEEDS] Cybersecurity researchers have disclosed details of a previously unreported Internet-of-Things (IoT) botnet framework dubbed TuxBot v3 Evolution that shows signs of being developed with assistance from a large language model (LLM), albeit with not...",
-      "url": "https://thehackernews.com/2026/07/tuxbot-v3-evolution-shows-signs-of-llm.html",
-      "date": "2026-07-15T18:43:08Z"
-    },
-    {
-      "title": "Google Gemini CLI abused as a hacking agent, malware botnet operator",
-      "description": "[BLEEPINGCOMPUTER] A Russian-speaking threat actor known as \"bandcampro\" used Google's open-source Gemini CLI AI tool as a hacking agent and to operate a small-scale botnet. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/google-gemini-cli-abused-as-a-hacking-agent-malware-botnet-operator/",
-      "date": "2026-07-15T18:33:48Z"
-    },
-    {
-      "title": "OkoBot Malware Framework Injects Seed Phrase Phishing Into Ledger and Trezor Apps",
-      "description": "[FEEDS] A malware framework called OkoBot has been running on Windows machines since April 2025, and one of its modules is built to con hardware wallet owners out of their recovery phrase. On an infected PC, the request comes from inside the wallet's own...",
-      "url": "https://thehackernews.com/2026/07/okobot-malware-framework-injects-seed.html",
-      "date": "2026-07-15T15:30:30Z"
-    },
-    {
-      "title": "A Video Screen That Is Also a Camera",
-      "description": "[SCHNEIER] Amazing: Researchers from ETH Zurich in Switzerland, however, managed to create a new type of pixel that can simultaneously do both. This hypercharged pixel, called a Fourier pixel, can generate and sense arbitrary light fields and tap into a...",
-      "url": "https://www.schneier.com/blog/archives/2026/07/a-video-screen-that-is-also-a-camera.html",
-      "date": "2026-07-15T11:04:06Z"
-    },
-    {
-      "title": "ISC Stormcast For Wednesday, July 15th, 2026 https://isc.sans.edu/podcastdetail/10008, (Wed, Jul 15th)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33158",
-      "date": "2026-07-15T02:00:02Z"
-    },
-    {
-      "title": "Recent DShield SIEM Update, (Tue, Jul 14th)",
-      "description": "[ISC] The last update to the DShield SIEM &#x5b;4&#x5d; was in Sep 2025 which contained some minor tweaks. This update currently is using ELK stack version 8.19.15, contains some additional dashboards and new logs.&#xd;",
-      "url": "https://isc.sans.edu/diary/rss/33156",
-      "date": "2026-07-15T01:38:43Z"
-    },
-    {
-      "title": "Microsoft Patch Tuesday July 2026 - The AI Acopolypse is Here , (Tue, Jul 14th)",
-      "description": "[ISC] This patch Tuesday includes a staggering&&#x23&#x3b;x26&#x3b;&#x23&#x3b;xc2&#x3b;&&#x23&#x3b;x26&#x3b;&#x23&#x3b;xa0&#x3b;622 vulnerabilities, not including another 427 vulnerabilities in Chromium, affecting...",
-      "url": "https://isc.sans.edu/diary/rss/33154",
-      "date": "2026-07-14T19:14:58Z"
-    },
-    {
-      "title": "Upcoming Speaking Engagements",
-      "description": "[SCHNEIER] This is a current list of where and when I am scheduled to speak: I\u2019m speaking (virtually) at the Policy-Relevant Privacy Research Workshop in Calgary, Canada, on Monday, July 20, 2026. I\u2019m speaking at Boston Leadership Exchange in Boston,...",
-      "url": "https://www.schneier.com/blog/archives/2026/07/upcoming-speaking-engagements-58.html",
-      "date": "2026-07-14T16:04:49Z"
-    },
-    {
-      "title": "Vulnerability in FIFA\u2019s Network",
-      "description": "[SCHNEIER] FIFA&#8217;s network was vulnerable to anyone with even minimal access.",
-      "url": "https://www.schneier.com/blog/archives/2026/07/vulnerability-in-fifas-network.html",
-      "date": "2026-07-14T11:06:51Z"
-    },
-    {
-      "title": "ISC Stormcast For Tuesday, July 14th, 2026 https://isc.sans.edu/podcastdetail/10006, (Tue, Jul 14th)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33152",
-      "date": "2026-07-14T02:15:11Z"
-    },
-    {
-      "title": "AI Data Centers and the Concentration of Wealth",
-      "description": "[SCHNEIER] This essay was written with Nathan E. Sanders, and originally appeared in The Guardian. Opposition to AI data centers has emerged as a primary theme in US politics, one that&#8212;surprisingly&#8212;doesn&#8217;t fall along party lines. We applaud...",
-      "url": "https://www.schneier.com/blog/archives/2026/07/ai-data-centers-and-the-concentration-of-wealth.html",
-      "date": "2026-07-13T11:01:57Z"
-    },
-    {
-      "title": "Someone Is Scanning for Your MCP Servers and AI Assistant Credentials, (Mon, Jul 13th)",
-      "description": "[ISC] The setup&#xd;",
-      "url": "https://isc.sans.edu/diary/rss/33150",
-      "date": "2026-07-13T04:22:02Z"
-    },
-    {
-      "title": "Friday Squid Blogging: \u201cSquidbleed\u201d Vulnerability",
-      "description": "[SCHNEIER] In a rare combined cybersecurity/squid post, a twenty-nine-year-old squid proxy bug can leak HTTP requests. As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered. Blog moderation...",
-      "url": "https://www.schneier.com/blog/archives/2026/07/friday-squid-blogging-squidbleed-vulnerability.html",
-      "date": "2026-07-10T21:07:13Z"
-    },
-    {
-      "title": "AI Surveillance and Social Progress",
-      "description": "[SCHNEIER] In the near future, AI-powered surveillance systems will be able to track everything we do in public, and much of what we do in private. And if we do something wrong&#8212;shoplift, litter, jaywalk, you name it&#8212;the system will notice, retain...",
-      "url": "https://www.schneier.com/blog/archives/2026/07/ai-surveillance-and-social-progress.html",
-      "date": "2026-07-10T11:02:04Z"
-    }
-  ]
+    "title": "Sentinel Protocol",
+    "tagline": "Perimeter Intelligence Sync",
+    "updated": "2026-07-16 12:18 UTC",
+    "news": [
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": null,
+            "title": "The US-Israel strategic alliance \u2013 partnership, not charity",
+            "description": "From Iron Dome to cybersecurity, the U.S.-Israel partnership delivers shared technology and intelligence as the House debates cutting aid to Israel.",
+            "url": "https://www.foxnews.com/opinion/us-israel-strategic-alliance-partnership-not-charity",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/03/american-israel-flag-at-la-protest.jpg",
+            "publishedAt": "2026-07-15T12:16:26Z",
+            "content": "On Jan 8, 2011, Rep. Gabrielle Giffords was shot in the head in Tucson, Arizona. Among the tools first responders reached for was the Emergency Bandage, a pressure dressing so closely associated with\u2026 [+5115 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Hallam Bullock",
+            "title": "Inside Anthropic's state-by-state plan to ratchet up AI rules",
+            "description": "By pushing for ever-tougher AI safety laws, Anthropic is drawing a distinction between its state lobbying strategy and OpenAI's campaign to streamline a set of rules across the country.",
+            "url": "https://www.businessinsider.com/anthropic-openai-ai-safety-laws-state-lobbying-2026-7#article",
+            "urlToImage": "https://i.insider.com/6a5771e7ee481f523866ef70?width=1200&format=jpeg",
+            "publishedAt": "2026-07-15T12:15:27Z",
+            "content": "Dario Amodei, co-founder and chief executive officer of Anthropic.Bloomberg/Getty Images\r\n<ul><li>Anthropic is urging states to pass tougher AI safety laws rather than settle on one shared rulebook.<\u2026 [+7157 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "GlobeNewswire"
+            },
+            "author": "CareerHub",
+            "title": "New AI Career Platform, CareerHub, Takes on Legacy Job Boards, Offering MyCareer Premium Free for One Year",
+            "description": "CareerHub surpasses 8 million job postings and draws job seekers from more than 185 countries in its first two months....",
+            "url": "https://www.globenewswire.com/news-release/2026/07/15/3327697/0/en/New-AI-Career-Platform-CareerHub-Takes-on-Legacy-Job-Boards-Offering-MyCareer-Premium-Free-for-One-Year.html",
+            "urlToImage": "https://ml.globenewswire.com/Resource/Download/5692fe59-a74d-43fc-a63e-4db9d9c2186e",
+            "publishedAt": "2026-07-15T12:15:00Z",
+            "content": "DENVER, July 15, 2026 (GLOBE NEWSWIRE) -- CareerHub.com today announced rapid global adoption of its AI-powered career platform following the launch of free one-year access to MyCareer Premium for jo\u2026 [+3251 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "GlobeNewswire"
+            },
+            "author": "Polibeli Group Ltd",
+            "title": "Polibeli Signs Non-Binding MOU to Evaluate Potential AI Data Center Opportunity in Indonesia",
+            "description": "NEW YORK, July 15, 2026 (GLOBE NEWSWIRE) -- Polibeli Group Ltd. (NASDAQ: PLBL), a global digital supply chain solutions provider, announced that it has entered into a non-binding Memorandum of Understanding (MOU) with PT Grosirone Prima Nusantara, an Indonesi\u2026",
+            "url": "https://www.globenewswire.com/news-release/2026/07/15/3327699/0/en/Polibeli-Signs-Non-Binding-MOU-to-Evaluate-Potential-AI-Data-Center-Opportunity-in-Indonesia.html",
+            "urlToImage": null,
+            "publishedAt": "2026-07-15T12:14:00Z",
+            "content": "NEW YORK, July 15, 2026 (GLOBE NEWSWIRE) -- Polibeli Group Ltd. (NASDAQ: PLBL), a global digital supply chain solutions provider, announced that it has entered into a non-binding Memorandum of Unders\u2026 [+4775 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Healthsystemcio.com"
+            },
+            "author": "Anthony Guerra",
+            "title": "Global Health IT Leaders Say AI Readiness Must Come Before Adoption",
+            "description": "Everyone assumes the AI race rewards whoever picks tools fastest. A new KLAS report spanning 182 organizations in 43 countries finds over a third are still deciding where AI belongs, and funding something else first.\nSource: Global Health IT Leaders Say AI Re\u2026",
+            "url": "https://healthsystemcio.com/2026/07/15/global-ai-investment-priority-klas/",
+            "urlToImage": "https://healthsystemcio.com/wp-content/uploads/2026/05/report-200.png",
+            "publishedAt": "2026-07-15T12:13:33Z",
+            "content": "AI became the top-cited healthcare IT investment priority outside the United States for the first time, and the organizations naming it say foundational work has to happen first. That finding comes t\u2026 [+5600 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Conversation Africa"
+            },
+            "author": "Aldo Romero, Professor of Physics and Astronomy, West Virginia University",
+            "title": "What does it mean to be \u2018quantum\u2019? A physicist explains the basics behind Einstein\u2019s spooky actions at a distance",
+            "description": "Particles\u2019 properties at the quantum level could one day enable faster computing and better cybersecurity.",
+            "url": "https://theconversation.com/what-does-it-mean-to-be-quantum-a-physicist-explains-the-basics-behind-einsteins-spooky-actions-at-a-distance-281844",
+            "urlToImage": "https://images.theconversation.com/files/745491/original/file-20260701-57-vx8z96.jpg?ixlib=rb-4.1.0&rect=0%2C189%2C6070%2C3035&q=45&auto=format&w=1356&h=668&fit=crop",
+            "publishedAt": "2026-07-15T12:12:28Z",
+            "content": "In quantum entanglement, you can learn something about one particle by observing the other in its pair, even across vast distances. koto_feja/E+ via Getty Images\r\nImagine shining a flashlight across \u2026 [+9767 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MIT Technology Review"
+            },
+            "author": "Thomas Macaulay",
+            "title": "The Download: a useful quantum machine and a record-breaking subsea tunnel",
+            "description": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. PsiQuantum has a plan to make a massive quantum computer out of light The machine that could change the world will be hou\u2026",
+            "url": "https://www.technologyreview.com/2026/07/15/1140498/the-download-useful-quantum-computer-subsea-tunnel/",
+            "urlToImage": "https://wp.technologyreview.com/wp-content/uploads/2026/07/PsiQuantum-0459-Headquarters-social.jpg?resize=1200,600",
+            "publishedAt": "2026-07-15T12:10:00Z",
+            "content": "This is our latest story to be turned into an MIT Technology Review Narrated podcast, which we publish each week on Spotify and Apple Podcasts. Just navigate to MIT Technology Review Narrated on eith\u2026 [+2794 chars]"
+        },
+        {
+            "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            "author": "Sead Fadilpa\u0161i\u0107",
+            "title": "Microsoft just released its biggest Patch Tuesday ever, with a mammoth 622 fixes including three dangerous zero-days",
+            "description": "Microsoft shipped three times more fixes than usual in its latest Patch Tuesday update.",
+            "url": "https://www.techradar.com/pro/security/microsoft-just-released-its-biggest-patch-tuesday-ever-with-a-mammoth-622-fixes-including-three-dangerous-zero-days",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/pVCXKrhThqmUjYVSZBjV5Z-2560-80.jpg",
+            "publishedAt": "2026-07-15T12:05:00Z",
+            "content": "<ul><li>Microsoft\u2019s July 2026 Patch Tuesday fixed a record 622 vulnerabilities, including 58 critical, two exploited in the wild, and one publicly disclosed, plus 428 Chromium bugs</li><li>Actively a\u2026 [+2732 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Help Net Security"
+            },
+            "author": "Industry News",
+            "title": "LatticeFlow AI connects governance frameworks with continuous AI risk monitoring",
+            "description": "LatticeFlow AI has announced a platform for managing AI risk across agentic systems. Organizations are deploying autonomous AI in critical business processes, while governance approaches based on documentation and point-in-time assessments struggle to keep up\u2026",
+            "url": "https://www.helpnetsecurity.com/2026/07/15/latticeflow-ai-platform/",
+            "urlToImage": "https://img.helpnetsecurity.com/wp-content/uploads/2024/11/28150559/hns-large_logo.webp",
+            "publishedAt": "2026-07-15T12:04:56Z",
+            "content": "LatticeFlow AI has announced a platform for managing AI risk across agentic systems. Organizations are deploying autonomous AI in critical business processes, while governance approaches based on doc\u2026 [+4901 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PRNewswire"
+            },
+            "author": null,
+            "title": "Trace3 Says AI's Production Gap Is Not a Technology Problem",
+            "description": "As AI moves from pilots into production, Trace3 says the real test is no longer whether the technology works, but whether enterprises can define the right use cases, drive adoption, and prove business value. IRVINE, Calif., July 15, 2026 /PRNewswire/ -- Enter\u2026",
+            "url": "https://www.prnewswire.com/news-releases/trace3-says-ais-production-gap-is-not-a-technology-problem-302825906.html",
+            "urlToImage": "https://mmx.prnewswire.com/media/MS1883142/AILASTMILE_T3.jpg?id=OA2763811&p=facebook",
+            "publishedAt": "2026-07-15T12:04:00Z",
+            "content": "As AI moves from pilots into production, Trace3 says the real test is no longer whether the technology works, but whether enterprises can define the right use cases, drive adoption, and prove busines\u2026 [+6499 chars]"
+        }
+    ]
 }
