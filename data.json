@@ -1,6 +1,18 @@
 {
-  "updated": "2026-07-17 18:52:25 UTC",
+  "updated": "2026-07-17 20:42:52 UTC",
   "news": [
+    {
+      "title": "OpenSSL HollowByte Flaw Could Freeze Server Memory with 11-Byte TLS Requests",
+      "description": "[FEEDS] Eleven bytes will make an unpatched OpenSSL server set aside up to 131 KB of memory for a message that never arrives. On the glibc systems Okta tested, that memory is gone until the process restarts. OpenSSL shipped the HollowByte fix in June with...",
+      "url": "https://thehackernews.com/2026/07/openssl-hollowbyte-flaw-could-freeze.html",
+      "date": "2026-07-17T20:20:53Z"
+    },
+    {
+      "title": "Seven Malicious Vite npm Packages Use Blockchain C2 to Deliver a RAT",
+      "description": "[FEEDS] Cybersecurity researchers have discovered a cluster of seven malicious npm packages targeting the Vite frontend tooling ecosystem as part of a software supply chain attack. The malicious package campaign, codenamed ViteVenom by Checkmarx, marks an...",
+      "url": "https://thehackernews.com/2026/07/seven-malicious-vite-npm-packages-use.html",
+      "date": "2026-07-17T18:54:51Z"
+    },
     {
       "title": "HollowByte DDoS flaw bloats OpenSSL server memory with 11-byte payload",
       "description": "[BLEEPINGCOMPUTER] A vulnerability dubbed HollowByte allows unauthenticated attackers to trigger a denial-of-service (DoS) condition on OpenSSL servers with a malicious payload of just 11 bytes. [...]",
@@ -44,12 +56,6 @@
       "date": "2026-07-17T11:44:41Z"
     },
     {
-      "title": "The Race to Field Military Autonomy Is On, Can Trusted Information Infrastructure Keep Pace?",
-      "description": "[FEEDS] Military forces are under increasing pressure to field autonomous capabilities faster than ever before. Across the U.S., UK, and NATO, new investment, evolving defense strategies, and accelerated acquisition pathways are transforming how capability...",
-      "url": "https://thehackernews.com/2026/07/the-race-to-field-military-autonomy-is.html",
-      "date": "2026-07-17T11:30:00Z"
-    },
-    {
       "title": "New Windows LegacyHive zero-day gives hackers admin privileges",
       "description": "[BLEEPINGCOMPUTER] A security researcher using the \"Nightmare Eclipse\" handle has released a Windows zero-day exploit dubbed LegacyHive that allows attackers to escalate privileges on up-to-date Windows systems. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/new-windows-legacyhive-zero-day-exploit-grants-hackers-admin-access/",
@@ -62,12 +68,6 @@
       "date": "2026-07-17T11:02:21Z"
     },
     {
-      "title": "Armenia Detains Russian Tourist on U.S. Warrant for REvil Hacker, Lawyers Say Wrong Man",
-      "description": "[FEEDS] Armenia has held a Russian tourist named Aleksandr Ermakov in a detention center since June 28, on a U.S. extradition request for a REvil ransomware suspect named Aleksandr Ermakov. His wife, Maria Yurova, told REN TV that border officers pulled him...",
-      "url": "https://thehackernews.com/2026/07/armenia-detains-russian-tourist-on-us.html",
-      "date": "2026-07-17T10:53:31Z"
-    },
-    {
       "title": "Windows Server 2022 reach end of mainstream support in 90 days",
       "description": "[BLEEPINGCOMPUTER] Microsoft announced that Windows Server 2022 will reach the mainstream end date in October 2026, but will switch to extended support and continue receiving security updates for five more years. [...]",
       "url": "https://www.bleepingcomputer.com/news/microsoft/windows-server-2022-reach-end-of-mainstream-support-in-90-days/",
@@ -78,6 +78,24 @@
       "description": "[BLEEPINGCOMPUTER] U.S. prosecutors on Thursday charged a New York man and woman for their roles in a large-scale crime ring that laundered money stolen in cyber investment fraud scams. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/us-charges-two-over-laundering-43-million-from-investment-fraud/",
       "date": "2026-07-17T08:13:37Z"
+    },
+    {
+      "title": "How Nepal's Digital Payment Strategy Can Drive MSME Growth, Trade and Economic Competitiveness",
+      "description": "[DEVDISCOURSE] Nepal has rapidly expanded digital payments through mobile banking, QR payments and stronger financial infrastructure, but further regulatory reforms, interoperability and cross-border payment integration are essential to unlock trade, investment...",
+      "url": "https://www.devdiscourse.com/article/business/3951019-how-nepals-digital-payment-strategy-can-drive-msme-growth-trade-and-economic-competitiveness",
+      "date": "2026-07-17T08:04:48Z"
+    },
+    {
+      "title": "Ransomware Uses AI to Amp Up Negotiations",
+      "description": "[LAWFARE] The latest edition of the Seriously Risky Business cybersecurity newsletter, now on Lawfare.",
+      "url": "https://www.lawfaremedia.org/article/ransomware-uses-ai-to-amp-up-negotiations",
+      "date": "2026-07-17T08:00:00Z"
+    },
+    {
+      "title": "Cola's Dairy Company Fairlife Hit With A Ransomware Attack",
+      "description": "[ENGADGET] Coca-Cola halts the US operations of its dairy company fairlife due to a ransomware attack.",
+      "url": "https://www.engadget.com/2217258/coca-cola-dairy-company-fairlife-ransomware-attack/",
+      "date": "2026-07-17T07:25:00Z"
     },
     {
       "title": "CISA Adds Exploited SharePoint RCE Zero-Day CVE-2026-58644 to KEV",
@@ -126,24 +144,6 @@
       "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
       "url": "https://isc.sans.edu/diary/rss/33162",
       "date": "2026-07-17T02:00:02Z"
-    },
-    {
-      "title": "'Data of 220m US citizens stolen' : Trump accuses China of massive US voter data breach",
-      "description": "[TIMES OF INDIA] US News: US President Donald Trump on Thursday declassified documents and reports accusing Beijing of meddling in the US elections and compromising voter data..",
-      "url": "https://timesofindia.indiatimes.com/world/us/data-of-220m-us-citizens-stolen-trump-accuses-china-of-massive-us-voter-data-breach/articleshow/132450456.cms",
-      "date": "2026-07-17T01:28:00Z"
-    },
-    {
-      "title": "'Nothing to Do With Nuclear Safety or Facility': Union Minister on Kudankulam Plant Data Breach Reports",
-      "description": "[TIMES NOW] Union minister Jitendra Singh addressed a data breach involving the Kudankulam Nuclear Power Plant, stating that no sensitive information regarding nuclear safety was compromised., India News, Times Now",
-      "url": "https://www.timesnownews.com/india/kudankulam-plant-data-breach-has-nothing-to-do-with-nuclear-safety-or-facility-says-union-minister-jitendra-singh-article-155113862",
-      "date": "2026-07-16T23:39:41Z"
-    },
-    {
-      "title": "Venture capital & startup funding roundup, July 16, 2026: 8VC, Accel, ARK Invest, GV, Khosla Ventures, Mark Cuban, and Sequoia Capital,",
-      "description": "[TECHSTARTUPS.COM] Venture capital continues to reward startups building the infrastructure behind AI, automation, cybersecurity, and enterprise software. The last 12 hours of startup financing did not look like a broad reopening of venture capital. They looked like a...",
-      "url": "https://techstartups.com/2026/07/16/venture-capital-startup-funding-roundup-july-16-2026-8vc-accel-ark-invest-gv-khosla-ventures-mark-cuban-and-sequoia-capital/",
-      "date": "2026-07-16T23:23:02Z"
     },
     {
       "title": "Protecting Privacy in an AI Era",
