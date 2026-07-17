@@ -1,6 +1,24 @@
 {
-  "updated": "2026-07-17 20:42:52 UTC",
+  "updated": "2026-07-17 22:39:04 UTC",
   "news": [
+    {
+      "title": "New wp2shell WordPress Core Flaw Lets Unauthenticated Attackers Run Code",
+      "description": "[FEEDS] An anonymous HTTP request can run code on a WordPress site. The bug is in core, so a bare install with zero plugins is exploitable. Every 6.9 and 7.0 site was in range until Friday, when WordPress shipped 6.9.5 and 7.0.2 and enabled what it calls...",
+      "url": "https://thehackernews.com/2026/07/new-wp2shell-wordpress-core-flaw-lets.html",
+      "date": "2026-07-17T21:20:10Z"
+    },
+    {
+      "title": "Friday Squid Blogging: Squid Washing Up on Cape Cod Beach",
+      "description": "[SCHNEIER] Lots of articles about this. As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered. Blog moderation policy.",
+      "url": "https://www.schneier.com/blog/archives/2026/07/friday-squid-blogging-squid-washing-up-on-cape-cod-beach.html",
+      "date": "2026-07-17T21:01:37Z"
+    },
+    {
+      "title": "Abbott Laboratories probes two cyber incidents amid extortion claims",
+      "description": "[BLEEPINGCOMPUTER] Abbott Laboratories is investigating two separate cybersecurity incidents after confirming unauthorized access to internal legacy Exact Sciences systems in its Cancer Diagnostics business, while also investigating a separate claim that attackers...",
+      "url": "https://www.bleepingcomputer.com/news/security/abbott-laboratories-probes-two-cyber-incidents-amid-extortion-claims/",
+      "date": "2026-07-17T20:45:52Z"
+    },
     {
       "title": "OpenSSL HollowByte Flaw Could Freeze Server Memory with 11-Byte TLS Requests",
       "description": "[FEEDS] Eleven bytes will make an unpatched OpenSSL server set aside up to 131 KB of memory for a message that never arrives. On the glibc systems Okta tested, that memory is gone until the process restarts. OpenSSL shipped the HollowByte fix in June with...",
@@ -50,12 +68,6 @@
       "date": "2026-07-17T13:48:56Z"
     },
     {
-      "title": "E.U. Orders Google to Open Android Mic, Camera and Screen to Rival AI Assistants",
-      "description": "[FEEDS] The European Commission on Thursday ordered Google to give rival AI assistants the same reach into Android that Gemini already has: the camera, the microphone, whatever is on screen, a wake word that fires with the display off, and the ability to...",
-      "url": "https://thehackernews.com/2026/07/eu-orders-google-to-open-android-mic.html",
-      "date": "2026-07-17T11:44:41Z"
-    },
-    {
       "title": "New Windows LegacyHive zero-day gives hackers admin privileges",
       "description": "[BLEEPINGCOMPUTER] A security researcher using the \"Nightmare Eclipse\" handle has released a Windows zero-day exploit dubbed LegacyHive that allows attackers to escalate privileges on up-to-date Windows systems. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/new-windows-legacyhive-zero-day-exploit-grants-hackers-admin-access/",
@@ -68,16 +80,34 @@
       "date": "2026-07-17T11:02:21Z"
     },
     {
+      "title": "iPhone 18 Pro Max's biggest upgrade may have just been confirmed, and it's a photography game changer",
+      "description": "[TOM'S GUIDE] An internal document released as part of the Tata Electronics data breach seems to confirm the iPhone 18 Pro Max's biggest party trick.",
+      "url": "https://www.tomsguide.com/phones/iphones/iphone-18-pro-maxs-biggest-upgrade-may-have-just-been-confirmed-and-its-a-photography-game-changer",
+      "date": "2026-07-17T10:22:28Z"
+    },
+    {
+      "title": "US companies face rise in cyber attacks",
+      "description": "[THE ECONOMIC TIMES] Companies worldwide are experiencing a rise in AI-driven cyberattacks and ransomware incidents. Fairlife, a Coca-Cola-owned dairy company, recently suspended U.S. production after a system breach. The White House is forming a group to share...",
+      "url": "https://economictimes.indiatimes.com/tech/technology/us-companies-face-rise-in-cyber-attacks/articleshow/132457917.cms",
+      "date": "2026-07-17T09:41:28Z"
+    },
+    {
+      "title": "US companies face rise in cyber attacks",
+      "description": "[REUTERS] Companies worldwide are grappling with a surge in AI-driven cyberattacks and ransomware that steal sensitive data and disrupt operations.",
+      "url": "https://www.reuters.com/legal/government/us-companies-face-rise-cyber-attacks-2026-07-17/",
+      "date": "2026-07-17T09:36:49Z"
+    },
+    {
+      "title": "Cola halts fairlife US production after ransomware",
+      "description": "[TNW] Coca-Cola says a ransomware attack hit its fairlife dairy unit and has suspended all US production while it investigates the breach.",
+      "url": "https://thenextweb.com/news/coca-cola-fairlife-ransomware-us-production-suspended",
+      "date": "2026-07-17T09:17:34Z"
+    },
+    {
       "title": "Windows Server 2022 reach end of mainstream support in 90 days",
       "description": "[BLEEPINGCOMPUTER] Microsoft announced that Windows Server 2022 will reach the mainstream end date in October 2026, but will switch to extended support and continue receiving security updates for five more years. [...]",
       "url": "https://www.bleepingcomputer.com/news/microsoft/windows-server-2022-reach-end-of-mainstream-support-in-90-days/",
       "date": "2026-07-17T09:10:15Z"
-    },
-    {
-      "title": "US charges two over laundering $43 million from investment fraud",
-      "description": "[BLEEPINGCOMPUTER] U.S. prosecutors on Thursday charged a New York man and woman for their roles in a large-scale crime ring that laundered money stolen in cyber investment fraud scams. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/us-charges-two-over-laundering-43-million-from-investment-fraud/",
-      "date": "2026-07-17T08:13:37Z"
     },
     {
       "title": "How Nepal's Digital Payment Strategy Can Drive MSME Growth, Trade and Economic Competitiveness",
@@ -114,30 +144,6 @@
       "description": "[SOUTH CHINA MORNING POST] Fears over access to foreign AI models have accelerated Seoul\u2019s push to control the systems used to defend critical infrastructure.",
       "url": "https://www.scmp.com/week-asia/politics/article/3360901/why-south-korea-racing-build-sovereign-ai-model-cybersecurity",
       "date": "2026-07-17T05:58:33Z"
-    },
-    {
-      "title": "AI Cybersecurity Firm TAC InfoSec Sets INR 100 Crore Revenue Guidance for FY27, Q1 FY27 Results Total Income Rises 97% YoY, PAT Surges 137% YoY",
-      "description": "[THE TRIBUNE] Mumbai (Maharashtra) [India], July 17: TAC InfoSec Limited (NSE: TAC), the listed company operating globally under the TAC Security brand, today announced revenue guidance of approximately INR 100 crore for FY27, supported by continued...",
-      "url": "https://www.tribuneindia.com/news/business/ai-cybersecurity-firm-tac-infosec-sets-inr-100-crore-revenue-guidance-for-fy27-q1-fy27-results-total-income-rises-97-yoy-pat-surges-137-yoy/",
-      "date": "2026-07-17T05:18:22Z"
-    },
-    {
-      "title": "After hundreds of layoffs and restructuring of engineering teams, Microsoft\u2019s new security chief to employees in internal memo: Companies will be rewarded that...",
-      "description": "[TIMES OF INDIA] Tech News News: Microsoft's cybersecurity business is being rebuilt from the inside out, and the person running the overhaul isn't being quiet about what it takes. Ha.",
-      "url": "https://timesofindia.indiatimes.com/technology/tech-news/after-hundreds-of-layoffs-and-restructuring-of-engineering-teams-microsofts-new-security-chief-to-employees-in-internal-memo-companies-will-be-rewarded-that-/articleshow/132451863.cms",
-      "date": "2026-07-17T03:39:00Z"
-    },
-    {
-      "title": "US warns voter databases vulnerable to cyber attacks",
-      "description": "[LOKMAT TIMES] US warns voter databases vulnerable to cyber attacks - Washington, July 17 The Trump administration released newly declassified intelligence and cybersecurity assessments warning that America's voter registration ... Get Latest News on International...",
-      "url": "https://www.lokmattimes.com/international/us-warns-voter-databases-vulnerable-to-cyber-attacks/",
-      "date": "2026-07-17T03:01:21Z"
-    },
-    {
-      "title": "'Biggest Election Data Breach': Trump Alleges Massive Chinese Election Interference, Orders Probe Into 2020 'Cover-Up'",
-      "description": "[REPUBLIC WORLD] Trump urged investigations by the DOJ, FBI, and CIA into the alleged cover-up. He criticized electronic voting systems, advocating for paper ballots for security.",
-      "url": "https://www.republicworld.com/world-news/biggest-election-data-breach-trump-alleges-massive-chinese-election-interference-orders-probe-into-2020-cover-up-2026-07-17-132557",
-      "date": "2026-07-17T02:08:21Z"
     },
     {
       "title": "ISC Stormcast For Friday, July 17th, 2026 https://isc.sans.edu/podcastdetail/10012, (Fri, Jul 17th)",
@@ -198,12 +204,6 @@
       "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
       "url": "https://isc.sans.edu/diary/rss/33152",
       "date": "2026-07-14T02:15:11Z"
-    },
-    {
-      "title": "AI Data Centers and the Concentration of Wealth",
-      "description": "[SCHNEIER] This essay was written with Nathan E. Sanders, and originally appeared in The Guardian. Opposition to AI data centers has emerged as a primary theme in US politics, one that&#8212;surprisingly&#8212;doesn&#8217;t fall along party lines. We applaud...",
-      "url": "https://www.schneier.com/blog/archives/2026/07/ai-data-centers-and-the-concentration-of-wealth.html",
-      "date": "2026-07-13T11:01:57Z"
     }
   ]
 }
