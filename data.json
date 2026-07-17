@@ -1,6 +1,24 @@
 {
-  "updated": "2026-07-17 17:00:11 UTC",
+  "updated": "2026-07-17 18:52:25 UTC",
   "news": [
+    {
+      "title": "HollowByte DDoS flaw bloats OpenSSL server memory with 11-byte payload",
+      "description": "[BLEEPINGCOMPUTER] A vulnerability dubbed HollowByte allows unauthenticated attackers to trigger a denial-of-service (DoS) condition on OpenSSL servers with a malicious payload of just 11 bytes. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/hollowbyte-ddos-flaw-bloats-openssl-server-memory-with-11-byte-payload/",
+      "date": "2026-07-17T17:56:21Z"
+    },
+    {
+      "title": "New NadMesh Botnet Hunts Exposed AI Services for Cloud Keys and Kubernetes Tokens",
+      "description": "[FEEDS] A Go botnet called NadMesh turned up in early July hunting exposed AI services, and the operator's own dashboard claims 3,811 unique AWS keys. A Shodan harvester keeps the scan queue stocked with ComfyUI, Ollama, n8n, Open WebUI, Langflow, and...",
+      "url": "https://thehackernews.com/2026/07/new-nadmesh-botnet-hunts-exposed-ai.html",
+      "date": "2026-07-17T17:12:23Z"
+    },
+    {
+      "title": "GoldenEyeDog Subgroup Linked to DigiCert Breach and Code-Signing Certificate Theft",
+      "description": "[FEEDS] Cybersecurity researchers have attributed the April 2026 DigiCert security incident to a threat activity cluster dubbed CylindricalCanine. Expel, which shared technical details of the event, described the threat actor as a sub-group of GoldenEyeDog...",
+      "url": "https://thehackernews.com/2026/07/goldeneyedog-subgroup-linked-to.html",
+      "date": "2026-07-17T16:39:16Z"
+    },
     {
       "title": "Ernst & Young discloses data breach after support system hack",
       "description": "[BLEEPINGCOMPUTER] Ernst & Young is notifying customers of a data breach caused by the compromise of a third-party support ticket system used by its IT personnel. [...]",
@@ -56,28 +74,34 @@
       "date": "2026-07-17T09:10:15Z"
     },
     {
-      "title": "ACR Stealer Uses ClickFix Lures to Steal Browser Tokens and Microsoft 365 Files",
-      "description": "[FEEDS] ACR Stealer, an infostealer in circulation since 2024, is walking out of enterprise networks with saved browser passwords, live session tokens, PDFs, Microsoft 365 documents, and files from synced OneDrive and SharePoint folders. It gets in because...",
-      "url": "https://thehackernews.com/2026/07/acr-stealer-uses-clickfix-lures-to.html",
-      "date": "2026-07-17T08:56:39Z"
-    },
-    {
-      "title": "New GoSerpent Malware Targets Southeast Asian Governments and Diplomats for Espionage",
-      "description": "[FEEDS] Cybersecurity researchers have discovered a previously undocumented malware called GoSerpent that has been put to use in cyber attacks targeting entities in Southeast Asia since late 2025 with a focus on long-term access and intelligence gathering....",
-      "url": "https://thehackernews.com/2026/07/new-goserpent-malware-targets-southeast.html",
-      "date": "2026-07-17T08:46:45Z"
-    },
-    {
       "title": "US charges two over laundering $43 million from investment fraud",
       "description": "[BLEEPINGCOMPUTER] U.S. prosecutors on Thursday charged a New York man and woman for their roles in a large-scale crime ring that laundered money stolen in cyber investment fraud scams. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/us-charges-two-over-laundering-43-million-from-investment-fraud/",
       "date": "2026-07-17T08:13:37Z"
     },
     {
-      "title": "CISA urges immediate action on actively exploited Fortinet flaws",
-      "description": "[BLEEPINGCOMPUTER] CISA on Thursday ordered government agencies to prioritize patching two actively exploited vulnerabilities in the Fortinet FortiSandbox threat detection platform. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-feds-to-patch-exploited-fortinet-fortisandbox-flaws-by-sunday/",
-      "date": "2026-07-17T07:03:33Z"
+      "title": "CISA Adds Exploited SharePoint RCE Zero-Day CVE-2026-58644 to KEV",
+      "description": "[THE HACKER NEWS] CISA says SharePoint CVE-2026-58644 was exploited before Microsoft patched it, affecting all supported on-premises versions and enabling RCE.",
+      "url": "https://thehackernews.com/2026/07/cisa-adds-exploited-sharepoint-rce-zero.html",
+      "date": "2026-07-17T06:42:00Z"
+    },
+    {
+      "title": "Top Manufacturers for Solar Inverter Cybersecurity Compliance in 2026",
+      "description": "[TECHBULLION] Today, solar inverter cybersecurity compliance is becoming a core requirement for modern PV and energy storage projects.",
+      "url": "https://techbullion.com/top-manufacturers-for-solar-inverter-cybersecurity-compliance-in-2026/",
+      "date": "2026-07-17T06:27:46Z"
+    },
+    {
+      "title": "Why South Korea is racing to build a sovereign AI model for cybersecurity",
+      "description": "[SOUTH CHINA MORNING POST] Fears over access to foreign AI models have accelerated Seoul\u2019s push to control the systems used to defend critical infrastructure.",
+      "url": "https://www.scmp.com/week-asia/politics/article/3360901/why-south-korea-racing-build-sovereign-ai-model-cybersecurity",
+      "date": "2026-07-17T05:58:33Z"
+    },
+    {
+      "title": "AI Cybersecurity Firm TAC InfoSec Sets INR 100 Crore Revenue Guidance for FY27, Q1 FY27 Results Total Income Rises 97% YoY, PAT Surges 137% YoY",
+      "description": "[THE TRIBUNE] Mumbai (Maharashtra) [India], July 17: TAC InfoSec Limited (NSE: TAC), the listed company operating globally under the TAC Security brand, today announced revenue guidance of approximately INR 100 crore for FY27, supported by continued...",
+      "url": "https://www.tribuneindia.com/news/business/ai-cybersecurity-firm-tac-infosec-sets-inr-100-crore-revenue-guidance-for-fy27-q1-fy27-results-total-income-rises-97-yoy-pat-surges-137-yoy/",
+      "date": "2026-07-17T05:18:22Z"
     },
     {
       "title": "After hundreds of layoffs and restructuring of engineering teams, Microsoft\u2019s new security chief to employees in internal memo: Companies will be rewarded that...",
@@ -120,30 +144,6 @@
       "description": "[TECHSTARTUPS.COM] Venture capital continues to reward startups building the infrastructure behind AI, automation, cybersecurity, and enterprise software. The last 12 hours of startup financing did not look like a broad reopening of venture capital. They looked like a...",
       "url": "https://techstartups.com/2026/07/16/venture-capital-startup-funding-roundup-july-16-2026-8vc-accel-ark-invest-gv-khosla-ventures-mark-cuban-and-sequoia-capital/",
       "date": "2026-07-16T23:23:02Z"
-    },
-    {
-      "title": "Coca-Cola suspended production at its Fairlife dairy after a ransomware attack",
-      "description": "[TECHCRUNCH] Coca Cola said dairy production at its Fairlife unit will \"remain suspended\" in the United States following a hack.",
-      "url": "https://techcrunch.com/2026/07/16/coca-cola-suspended-production-at-its-fairlife-dairy-after-a-ransomware-attack/",
-      "date": "2026-07-16T21:22:31Z"
-    },
-    {
-      "title": "Coca-Cola Stock (KO) Falls as Company Hit by Ransomware Attack",
-      "description": "[MARKETS INSIDER] Shares of Coca-Cola (KO) are down in after hours trading on July 16 after the beverage giant disclosed that it has been hit by a ransomware att...",
-      "url": "https://markets.businessinsider.com/news/stocks/coca-cola-stock-ko-falls-as-company-hit-by-ransomware-attack-1036334802",
-      "date": "2026-07-16T21:00:50Z"
-    },
-    {
-      "title": "Cycurion Receives Nasdaq Delisting Determination Letter; Appeal Underway, Trading to Continue, Focus on Shareholder Value",
-      "description": "[THE MANILA TIMES] MCLEAN, Va., July 16, 2026 (GLOBE NEWSWIRE) -- Cycurion, Inc. (NASDAQ: CYCU) ('Cycurion\u201d or the 'Company\u201d), a leading AI driven, tech-enabled cybersecurity solutions provider, today announced that it has received a delisting determination letter...",
-      "url": "https://www.manilatimes.net/2026/07/17/tmt-newswire/globenewswire/cycurion-receives-nasdaq-delisting-determination-letter-appeal-underway-trading-to-continue-focus-on-shareholder-value/2386288",
-      "date": "2026-07-16T20:48:14Z"
-    },
-    {
-      "title": "Canadian fugitive wanted in Desjardins data breach investigation arrested in Mexico",
-      "description": "[GLOBAL NEWS] The S\u00fbret\u00e9 du Qu\u00e9bec (SQ) said Maxime Paquette was taken into custody by Mexican authorities in Cancun after being sought since June 2024.",
-      "url": "https://globalnews.ca/news/11969570/canadian-fugitive-desjardins-arrested-mexico/",
-      "date": "2026-07-16T20:36:40Z"
     },
     {
       "title": "Protecting Privacy in an AI Era",
