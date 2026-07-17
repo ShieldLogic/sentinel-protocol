@@ -1,11 +1,35 @@
 {
-  "updated": "2026-07-17 09:47:04 UTC",
+  "updated": "2026-07-17 11:14:32 UTC",
   "news": [
+    {
+      "title": "New Windows LegacyHive zero-day gives hackers admin privileges",
+      "description": "[BLEEPINGCOMPUTER] A security researcher using the \"Nightmare Eclipse\" handle has released a Windows zero-day exploit dubbed LegacyHive that allows attackers to escalate privileges on up-to-date Windows systems. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/new-windows-legacyhive-zero-day-exploit-grants-hackers-admin-access/",
+      "date": "2026-07-17T11:05:30Z"
+    },
+    {
+      "title": "Details of Alan Turing\u2019s Voice Encryption System",
+      "description": "[SCHNEIER] Really interesting piece of cryptographic history: In November 2023, a large cache of his wartime papers&#8212;nicknamed the &#8220;Bayley papers&#8221;&#8212;was auctioned in London for almost half a million U.S. dollars. The previously unknown...",
+      "url": "https://www.schneier.com/blog/archives/2026/07/details-of-alan-turings-voice-encryption-system.html",
+      "date": "2026-07-17T11:02:21Z"
+    },
     {
       "title": "Windows Server 2022 reach end of mainstream support in 90 days",
       "description": "[BLEEPINGCOMPUTER] Microsoft announced that Windows Server 2022 will reach the mainstream end date in October 2026, but will switch to extended support and continue receiving security updates for five more years. [...]",
       "url": "https://www.bleepingcomputer.com/news/microsoft/windows-server-2022-reach-end-of-mainstream-support-in-90-days/",
       "date": "2026-07-17T09:10:15Z"
+    },
+    {
+      "title": "ACR Stealer Uses ClickFix Lures to Steal Browser Tokens and Microsoft 365 Files",
+      "description": "[FEEDS] ACR Stealer, an infostealer in circulation since 2024, is walking out of enterprise networks with saved browser passwords, live session tokens, PDFs, Microsoft 365 documents, and files from synced OneDrive and SharePoint folders. It gets in because...",
+      "url": "https://thehackernews.com/2026/07/acr-stealer-uses-clickfix-lures-to.html",
+      "date": "2026-07-17T08:56:39Z"
+    },
+    {
+      "title": "New GoSerpent Malware Targets Southeast Asian Governments and Diplomats for Espionage",
+      "description": "[FEEDS] Cybersecurity researchers have discovered a previously undocumented malware called GoSerpent that has been put to use in cyber attacks targeting entities in Southeast Asia since late 2025 with a focus on long-term access and intelligence gathering....",
+      "url": "https://thehackernews.com/2026/07/new-goserpent-malware-targets-southeast.html",
+      "date": "2026-07-17T08:46:45Z"
     },
     {
       "title": "US charges two over laundering $43 million from investment fraud",
@@ -74,12 +98,6 @@
       "date": "2026-07-16T19:41:16Z"
     },
     {
-      "title": "Claude Chrome extension flaw lets malicious extensions trigger AI actions",
-      "description": "[BLEEPINGCOMPUTER] A flaw in Anthropic's Claude for Chrome browser extension could allow a malicious extension to trigger predefined AI actions by simulating user clicks, potentially allowing it to abuse Claude's access to connected services such as Gmail, Google...",
-      "url": "https://www.bleepingcomputer.com/news/security/claude-chrome-extension-flaw-lets-malicious-extensions-trigger-ai-actions/",
-      "date": "2026-07-16T19:26:07Z"
-    },
-    {
       "title": "Ajit Doval chairs BIMSTEC NSA meeting on terrorism, cyber security and organised crime in Bay of Bengal",
       "description": "[THE ECONOMIC TIMES] BIMSTEC National Security Advisers convened to address crucial topics, including the fight against terrorism and organized crime. The agenda extended to cybersecurity, maritime concerns, and energy security, reflecting on their regional...",
       "url": "https://economictimes.indiatimes.com/news/defence/ajit-doval-chairs-bimstec-nsa-meeting-on-terrorism-cyber-security-and-organised-crime-in-bay-of-bengal/articleshow/132447407.cms",
@@ -134,18 +152,6 @@
       "date": "2026-07-16T13:33:25Z"
     },
     {
-      "title": "New TELEPUZ Malware Spreads via ClickFix to Steal Data and Run Commands",
-      "description": "[FEEDS] Cybersecurity researchers have called attention to a new modular malware called TELEPUZ that's been spreading via websites infected with ClickFix lures since late April 2026. \"The malware is full-featured, lightweight, and modular,\" Elastic Security...",
-      "url": "https://thehackernews.com/2026/07/new-telepuz-malware-spreads-via.html",
-      "date": "2026-07-16T12:50:13Z"
-    },
-    {
-      "title": "New ClickLock macOS Stealer Kills Apps Every 210ms Until Victims Type Their Password",
-      "description": "[FEEDS] ClickLock Stealer, a new macOS infostealer, answers a victim's refusal by killing their apps on a loop until they hand over the login password. It arrives as a command pasted into Terminal, asks for the password behind a fake system dialog, and when...",
-      "url": "https://thehackernews.com/2026/07/new-clicklock-macos-stealer-kills-apps.html",
-      "date": "2026-07-16T12:33:42Z"
-    },
-    {
       "title": "ISC Stormcast For Thursday, July 16th, 2026 https://isc.sans.edu/podcastdetail/10010, (Thu, Jul 16th)",
       "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
       "url": "https://isc.sans.edu/diary/rss/33160",
@@ -198,12 +204,6 @@
       "description": "[SCHNEIER] This essay was written with Nathan E. Sanders, and originally appeared in The Guardian. Opposition to AI data centers has emerged as a primary theme in US politics, one that&#8212;surprisingly&#8212;doesn&#8217;t fall along party lines. We applaud...",
       "url": "https://www.schneier.com/blog/archives/2026/07/ai-data-centers-and-the-concentration-of-wealth.html",
       "date": "2026-07-13T11:01:57Z"
-    },
-    {
-      "title": "Friday Squid Blogging: \u201cSquidbleed\u201d Vulnerability",
-      "description": "[SCHNEIER] In a rare combined cybersecurity/squid post, a twenty-nine-year-old squid proxy bug can leak HTTP requests. As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered. Blog moderation...",
-      "url": "https://www.schneier.com/blog/archives/2026/07/friday-squid-blogging-squidbleed-vulnerability.html",
-      "date": "2026-07-10T21:07:13Z"
     }
   ]
 }
