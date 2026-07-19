@@ -1,6 +1,24 @@
 {
-  "updated": "2026-07-19 12:54:47 UTC",
+  "updated": "2026-07-19 14:46:48 UTC",
   "news": [
+    {
+      "title": "Hackers abuse ViPNet software to target Russian govt agencies",
+      "description": "[BLEEPINGCOMPUTER] An advanced threat actor is abusing the update mechanism for the ViPNet private networking product suite to target Russian organizations, including government agencies. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-abuse-vipnet-software-to-target-russian-govt-agencies/",
+      "date": "2026-07-19T14:23:46Z"
+    },
+    {
+      "title": "UAC-0145 Uses ClickFix CAPTCHAs to Infect Ukrainian Devices wih Malware",
+      "description": "[FEEDS] Russian state-sponsored threat actors have been observed leveraging the infamous ClickFix strategy to trick Ukrainian targets into infecting their own machines with data-stealing malware. According to the Computer Emergency Response Team of Ukraine...",
+      "url": "https://thehackernews.com/2026/07/uac-0145-uses-clickfix-captchas-to.html",
+      "date": "2026-07-19T13:30:55Z"
+    },
+    {
+      "title": "SonicWall SMA Zero-Days Exploited Before Disclosure to Gain Root Access",
+      "description": "[FEEDS] A previously undocumented threat actor has been attributed to the exploitation of recently disclosed SonicWall Secure Mobile Access (SMA) 1000 series VPN appliances as zero-days prior their public disclosure since June 22, 2026. Cybersecurity...",
+      "url": "https://thehackernews.com/2026/07/sonicwall-sma-zero-days-exploited.html",
+      "date": "2026-07-19T13:18:56Z"
+    },
     {
       "title": "Over-the-air tech in vehicles poses cybersecurity risks",
       "description": "[CNBC] The automotive industry's increasing use of over-the-air technology makes it more susceptible to cyberattacks, analysts say.",
@@ -116,28 +134,10 @@
       "date": "2026-07-17T18:54:51Z"
     },
     {
-      "title": "HollowByte DDoS flaw bloats OpenSSL server memory with 11-byte payload",
-      "description": "[BLEEPINGCOMPUTER] A vulnerability dubbed HollowByte allows unauthenticated attackers to trigger a denial-of-service (DoS) condition on OpenSSL servers with a malicious payload of just 11 bytes. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/hollowbyte-ddos-flaw-bloats-openssl-server-memory-with-11-byte-payload/",
-      "date": "2026-07-17T17:56:21Z"
-    },
-    {
       "title": "New NadMesh Botnet Hunts Exposed AI Services for Cloud Keys and Kubernetes Tokens",
       "description": "[FEEDS] A Go botnet called NadMesh turned up in early July hunting exposed AI services, and the operator's own dashboard claims 3,811 unique AWS keys. A Shodan harvester keeps the scan queue stocked with ComfyUI, Ollama, n8n, Open WebUI, Langflow, and...",
       "url": "https://thehackernews.com/2026/07/new-nadmesh-botnet-hunts-exposed-ai.html",
       "date": "2026-07-17T17:12:23Z"
-    },
-    {
-      "title": "GoldenEyeDog Subgroup Linked to DigiCert Breach and Code-Signing Certificate Theft",
-      "description": "[FEEDS] Cybersecurity researchers have attributed the April 2026 DigiCert security incident to a threat activity cluster dubbed CylindricalCanine. Expel, which shared technical details of the event, described the threat actor as a sub-group of GoldenEyeDog...",
-      "url": "https://thehackernews.com/2026/07/goldeneyedog-subgroup-linked-to.html",
-      "date": "2026-07-17T16:39:16Z"
-    },
-    {
-      "title": "Fake Coding Tests Deliver OtterCookie-Aligned Malware Hidden in SVG Flag Images",
-      "description": "[FEEDS] North Korean threat actors linked to the Contagious Interview campaign have been observed employing steganography in SVG image files to conceal malicious payloads as part of a campaign using fake job postings and coding challenges. \"Any user who ran...",
-      "url": "https://thehackernews.com/2026/07/north-korea-linked-hackers-hide.html",
-      "date": "2026-07-17T13:48:56Z"
     },
     {
       "title": "Details of Alan Turing\u2019s Voice Encryption System",
