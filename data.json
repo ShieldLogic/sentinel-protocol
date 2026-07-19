@@ -1,6 +1,12 @@
 {
-  "updated": "2026-07-19 20:37:35 UTC",
+  "updated": "2026-07-19 22:41:12 UTC",
   "news": [
+    {
+      "title": "Critical NGINX Vulnerability Can Crash Workers and May Allow Remote Code Execution",
+      "description": "[FEEDS] F5 has shipped fixes for a critical nginx flaw that lets a remote, unauthenticated attacker trigger a heap buffer overflow in the worker process with crafted HTTP requests. CVE-2026-42533 was patched on July 15 in nginx 1.30.4 (stable) and 1.31.3...",
+      "url": "https://thehackernews.com/2026/07/critical-nginx-vulnerability-can-crash.html",
+      "date": "2026-07-19T20:42:49Z"
+    },
     {
       "title": "Scans for Hikvision Intelligent Security API, (Sun, Jul 19th)",
       "description": "[ISC] We have been following issues with Hikvision cameras for a long, long time. Like many similar products, Hikvision cameras have a long history of vulnerabilities and are often targeted by internet-wide scans that our honeypot network detects.&#xd;",
@@ -24,6 +30,12 @@
       "description": "[FEEDS] A previously undocumented threat actor has been attributed to the exploitation of recently disclosed SonicWall Secure Mobile Access (SMA) 1000 series VPN appliances as zero-days prior their public disclosure since June 22, 2026. Cybersecurity...",
       "url": "https://thehackernews.com/2026/07/sonicwall-sma-zero-days-exploited.html",
       "date": "2026-07-19T13:18:56Z"
+    },
+    {
+      "title": "What is context bombing, a new AI defence technique turning hackers\u2019 tricks against them?",
+      "description": "[THE INDIAN EXPRESS] Researchers at cybersecurity firm Tracebit have found that prompt injections placed alongside passwords, cryptographic keys, etc., stored on Amazon Web Services are an effective way of safeguarding against attacks from AI hacking agents. As a...",
+      "url": "https://indianexpress.com/shorts/technology/artificial-intelligence/what-is-context-bombing-ai-technique-hackers-10793703/",
+      "date": "2026-07-19T10:15:19Z"
     },
     {
       "title": "Singtel Receives Four Frost & Sullivan 2026 Recognitions for Leadership in Enterprise Connectivity, Cybersecurity, and Digital Transformation",
@@ -104,12 +116,6 @@
       "date": "2026-07-18T13:15:24Z"
     },
     {
-      "title": "Kenya investigating cybersecurity incident affecting president's website",
-      "description": "[REUTERS] Kenya's Ministry of Information, Communications and the Digital Economy said on \u200bSaturday it was investigating a cybersecurity \u200cincident that affected the official website of the president, adding that there was no evidence so \u200bfar of unauthorised...",
-      "url": "https://www.reuters.com/legal/litigation/kenya-investigating-cybersecurity-incident-affecting-presidents-website-2026-07-18/",
-      "date": "2026-07-18T12:56:05Z"
-    },
-    {
       "title": "New wp2shell WordPress Core Flaw Lets Unauthenticated Attackers Run Code",
       "description": "[FEEDS] Updated July 18, 2026: the two flaws now carry CVE IDs, the full mechanism has been published, a persistent-object-cache condition has surfaced, and a working proof-of-concept is public. The story below reflects all of it. An anonymous HTTP request...",
       "url": "https://thehackernews.com/2026/07/new-wp2shell-wordpress-core-flaw-lets.html",
@@ -138,12 +144,6 @@
       "description": "[FEEDS] Cybersecurity researchers have discovered a cluster of seven malicious npm packages targeting the Vite frontend tooling ecosystem as part of a software supply chain attack. The malicious package campaign, codenamed ViteVenom by Checkmarx, marks an...",
       "url": "https://thehackernews.com/2026/07/seven-malicious-vite-npm-packages-use.html",
       "date": "2026-07-17T18:54:51Z"
-    },
-    {
-      "title": "New NadMesh Botnet Hunts Exposed AI Services for Cloud Keys and Kubernetes Tokens",
-      "description": "[FEEDS] A Go botnet called NadMesh turned up in early July hunting exposed AI services, and the operator's own dashboard claims 3,811 unique AWS keys. A Shodan harvester keeps the scan queue stocked with ComfyUI, Ollama, n8n, Open WebUI, Langflow, and...",
-      "url": "https://thehackernews.com/2026/07/new-nadmesh-botnet-hunts-exposed-ai.html",
-      "date": "2026-07-17T17:12:23Z"
     },
     {
       "title": "Details of Alan Turing\u2019s Voice Encryption System",
