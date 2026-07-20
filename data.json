@@ -1,6 +1,30 @@
 {
-  "updated": "2026-07-20 06:38:02 UTC",
+  "updated": "2026-07-20 10:40:51 UTC",
   "news": [
+    {
+      "title": "Windows KB5121767 OOB update fixes shutdowns on some Dell PCs",
+      "description": "[BLEEPINGCOMPUTER] Microsoft has released emergency updates to fix a known issue causing some Dell PCs to shut down after installing the July 2026 Windows 11 security updates. [...]",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-bug-causing-some-dell-pcs-to-shut-down/",
+      "date": "2026-07-20T10:06:17Z"
+    },
+    {
+      "title": "Critical ServiceNow code execution flaw now exploited in attacks",
+      "description": "[BLEEPINGCOMPUTER] Attackers have begun exploiting a critical vulnerability (CVE-2026-6875) in the ServiceNow AI Platform, according to threat intelligence company Defused. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/critical-servicenow-code-execution-flaw-now-exploited-in-attacks/",
+      "date": "2026-07-20T09:29:20Z"
+    },
+    {
+      "title": "New 7-Zip Vulnerability Could Let Crafted XZ Archives Run Code During Extraction",
+      "description": "[FEEDS] Opening a crafted XZ archive in 7-Zip could let an attacker run code on the machine. The flaw, CVE-2026-14266, is a heap-based buffer overflow in how the archiver processes XZ chunked data, and Trend Micro's Zero Day Initiative (ZDI) detailed it on...",
+      "url": "https://thehackernews.com/2026/07/new-7-zip-vulnerability-could-let.html",
+      "date": "2026-07-20T09:10:56Z"
+    },
+    {
+      "title": "Russian-Speaking Hacker Uses Google Gemini CLI to Control Botnet of Eight Dental Clinic PCs",
+      "description": "[FEEDS] A solo Russian-speaking threat actor known as \"bandcampro\" outsourced a chunk of their operations to Google's open-source Gemini CLI artificial intelligence (AI) and commandeered a live botnet. The findings come from an analysis of 200 Gemini CLI...",
+      "url": "https://thehackernews.com/2026/07/russian-speaking-hacker-uses-google.html",
+      "date": "2026-07-20T09:07:11Z"
+    },
     {
       "title": "World's Largest AI Model Repository Hugging Face Breached by Autonomous AI Agent",
       "description": "[FEEDS] In an ironic twist, open-source artificial intelligence (AI) platform Hugging Face revealed that it was the victim of a hack perpetrated by an autonomous AI agent system. The company said it detected and responded to the incident targeting its...",
@@ -20,10 +44,22 @@
       "date": "2026-07-20T02:00:02Z"
     },
     {
+      "title": "Edelson Lechtzin LLP Announces Investigation of Bath Fitter Distributing, Inc. Data Breach",
+      "description": "[EUROPE SAYS] Class action attorneys investigate a breach that exposed Social Security numbers and financial account information",
+      "url": "https://www.europesays.com/3141381/",
+      "date": "2026-07-19T20:56:18Z"
+    },
+    {
       "title": "Critical NGINX Vulnerability Can Crash Workers and May Allow Remote Code Execution",
       "description": "[FEEDS] F5 has shipped fixes for a critical nginx flaw that lets a remote, unauthenticated attacker trigger a heap buffer overflow in the worker process with crafted HTTP requests. CVE-2026-42533 was patched on July 15 in nginx 1.30.4 (stable) and 1.31.3...",
       "url": "https://thehackernews.com/2026/07/critical-nginx-vulnerability-can-crash.html",
       "date": "2026-07-19T20:42:49Z"
+    },
+    {
+      "title": "Amit Shah pushes for anti-terror, anti-narcotics task forces to bolster Bengal\u2019s security apparatus",
+      "description": "[THE ECONOMIC TIMES] Union Home Minister Amit Shah reviewed West Bengal's law and order situation. He stressed establishing new task forces for narcotics and terror threats. The meeting also focused on enhancing women's safety and police modernization efforts. Adequate...",
+      "url": "https://economictimes.indiatimes.com/news/india/amit-shah-pushes-for-anti-terror-anti-narcotics-task-forces-to-bolster-bengals-security-apparatus/articleshow/132501210.cms",
+      "date": "2026-07-19T19:45:00Z"
     },
     {
       "title": "Your next car's software update could become its biggest security risk",
@@ -74,12 +110,6 @@
       "date": "2026-07-19T13:30:55Z"
     },
     {
-      "title": "SonicWall SMA Zero-Days Exploited Before Disclosure to Gain Root Access",
-      "description": "[FEEDS] A previously undocumented threat actor has been attributed to the exploitation of recently disclosed SonicWall Secure Mobile Access (SMA) 1000 series VPN appliances as zero-days prior their public disclosure since June 22, 2026. Cybersecurity...",
-      "url": "https://thehackernews.com/2026/07/sonicwall-sma-zero-days-exploited.html",
-      "date": "2026-07-19T13:18:56Z"
-    },
-    {
       "title": "Rob Gurzeev on Why AI Has Changed Cybersecurity\u2019s Biggest Blind Spot",
       "description": "[TNW] CyCognito CEO Rob Gurzeev argues that AI is expanding enterprise attack surfaces faster than security teams can map them. The fix is continuous, outside-in testing that thinks like an attacker.",
       "url": "https://thenextweb.com/news/rob-gurzeev-ai-cybersecurity-attack-surface-blind-spot",
@@ -96,18 +126,6 @@
       "description": "[THE INDIAN EXPRESS] Researchers at cybersecurity firm Tracebit have found that prompt injections placed alongside passwords, cryptographic keys, etc., stored on Amazon Web Services are an effective way of safeguarding against attacks from AI hacking agents. As a...",
       "url": "https://indianexpress.com/shorts/technology/artificial-intelligence/what-is-context-bombing-ai-technique-hackers-10793703/",
       "date": "2026-07-19T10:15:19Z"
-    },
-    {
-      "title": "Singtel Receives Four Frost & Sullivan 2026 Recognitions for Leadership in Enterprise Connectivity, Cybersecurity, and Digital Transformation",
-      "description": "[THE MANILA TIMES] The recognitions highlight Singtel's leadership in secure connectivity, network transformation, IoT innovation, and cybersecurity, delivering customer value through intelligent digital infrastructure and AI-enabled enterprise services.",
-      "url": "https://www.manilatimes.net/2026/07/19/tmt-newswire/pr-newswire/singtel-receives-four-frost-sullivan-2026-recognitions-for-leadership-in-enterprise-connectivity-cybersecurity-and-digital-transformation/2387074",
-      "date": "2026-07-19T06:25:12Z"
-    },
-    {
-      "title": "Singtel Receives Four Frost & Sullivan 2026 Recognitions for Leadership in Enterprise Connectivity, Cybersecurity, and Digital Transformation",
-      "description": "[PR NEWSWIRE UK] /PRNewswire/ -- Frost & Sullivan is pleased to honor Singtel with the 2026 Southeast Asia IoT Connectivity Service Provider Company of the Year, 2026 Singapore...",
-      "url": "https://www.prnewswire.co.uk/news-releases/singtel-receives-four-frost--sullivan-2026-recognitions-for-leadership-in-enterprise-connectivity-cybersecurity-and-digital-transformation-302828521.html",
-      "date": "2026-07-19T04:30:00Z"
     },
     {
       "title": "Update now: 7-Zip fixes RCE flaw exploitable with malicious archives",
@@ -128,28 +146,10 @@
       "date": "2026-07-18T14:17:19Z"
     },
     {
-      "title": "The Future of Age Verification: Your Face Never Leaves Your Device",
-      "description": "[BLEEPINGCOMPUTER] As age verification laws expand worldwide, organizations face growing pressure to protect users' privacy while meeting regulatory requirements. Incode explains how on-device age estimation verifies age without transmitting or storing facial images,...",
-      "url": "https://www.bleepingcomputer.com/news/security/the-future-of-age-verification-your-face-never-leaves-your-device/",
-      "date": "2026-07-18T13:15:24Z"
-    },
-    {
-      "title": "New wp2shell WordPress Core Flaw Lets Unauthenticated Attackers Run Code",
-      "description": "[FEEDS] Updated July 18, 2026: the two flaws now carry CVE IDs, the full mechanism has been published, a persistent-object-cache condition has surfaced, and a working proof-of-concept is public. The story below reflects all of it. An anonymous HTTP request...",
-      "url": "https://thehackernews.com/2026/07/new-wp2shell-wordpress-core-flaw-lets.html",
-      "date": "2026-07-17T21:20:10Z"
-    },
-    {
       "title": "Friday Squid Blogging: Squid Washing Up on Cape Cod Beach",
       "description": "[SCHNEIER] Lots of articles about this. As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered. Blog moderation policy.",
       "url": "https://www.schneier.com/blog/archives/2026/07/friday-squid-blogging-squid-washing-up-on-cape-cod-beach.html",
       "date": "2026-07-17T21:01:37Z"
-    },
-    {
-      "title": "Abbott probes two cyber incidents amid extortion claims",
-      "description": "[BLEEPINGCOMPUTER] Abbott Laboratories is investigating two separate cybersecurity incidents after confirming unauthorized access to internal legacy Exact Sciences systems in its Cancer Diagnostics business, while also investigating a separate claim that attackers...",
-      "url": "https://www.bleepingcomputer.com/news/security/abbott-laboratories-probes-two-cyber-incidents-amid-extortion-claims/",
-      "date": "2026-07-17T20:45:52Z"
     },
     {
       "title": "Details of Alan Turing\u2019s Voice Encryption System",
