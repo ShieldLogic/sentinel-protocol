@@ -1,6 +1,24 @@
 {
-  "updated": "2026-07-20 13:48:03 UTC",
+  "updated": "2026-07-20 15:44:32 UTC",
   "news": [
+    {
+      "title": "HollowGraph Malware Hides C2 and Stolen Files in Microsoft 365 Events Dated 2050",
+      "description": "[FEEDS] A newly discovered espionage implant has been using a hijacked Microsoft 365 calendar as its command channel, planting operator instructions and smuggling out stolen files as attachments on calendar events dated to the year 2050. Group-IB, which...",
+      "url": "https://thehackernews.com/2026/07/hollowgraph-malware-hides-c2-and-stolen.html",
+      "date": "2026-07-20T14:33:43Z"
+    },
+    {
+      "title": "An AI SOC Evaluation Guide for Security Leaders",
+      "description": "[BLEEPINGCOMPUTER] Choosing an AI SOC platform requires understanding how it will perform in your own environment, not just during an evaluation. Prophet Security shares a practical framework for assessing AI SOC solutions, including how to validate accuracy,...",
+      "url": "https://www.bleepingcomputer.com/news/security/an-ai-soc-evaluation-guide-for-security-leaders/",
+      "date": "2026-07-20T14:01:11Z"
+    },
+    {
+      "title": "\u26a1 Weekly Recap: WordPress RCE, SonicWall 0-Days, AI Service Attacks, SharePoint 0-Day and More",
+      "description": "[FEEDS] A single request should not be able to do this much. But this week, small inputs led to code execution, memory loss, stolen keys, and disabled security tools. The paths were often simple: exposed systems, weak checks, old drivers, fake prompts, and...",
+      "url": "https://thehackernews.com/2026/07/weekly-recap-wordpress-rce-sonicwall-0.html",
+      "date": "2026-07-20T13:32:26Z"
+    },
     {
       "title": "Russian Intelligence Hacks IP Cameras to Spy on Military Logistics Across NATO States and Ukraine",
       "description": "[FEEDS] At least one Russian intelligence service is systematically hijacking internet-connected security cameras across Europe and Ukraine, using the feeds to watch military transport routes, weapons shipments bound for Kyiv, and the locations of Ukrainian...",
@@ -54,18 +72,6 @@
       "description": "[FEEDS] A solo Russian-speaking threat actor known as \"bandcampro\" outsourced a chunk of their operations to Google's open-source Gemini CLI artificial intelligence (AI) and commandeered a live botnet. The findings come from an analysis of 200 Gemini CLI...",
       "url": "https://thehackernews.com/2026/07/russian-speaking-hacker-uses-google.html",
       "date": "2026-07-20T09:07:11Z"
-    },
-    {
-      "title": "World's Largest AI Model Repository Hugging Face Breached by Autonomous AI Agent",
-      "description": "[FEEDS] In an ironic twist, open-source artificial intelligence (AI) platform Hugging Face revealed that it was the victim of a hack perpetrated by an autonomous AI agent system. The company said it detected and responded to the incident targeting its...",
-      "url": "https://thehackernews.com/2026/07/worlds-largest-ai-model-repository.html",
-      "date": "2026-07-20T05:27:26Z"
-    },
-    {
-      "title": "SleeperGem Uses Three Malicious RubyGems Packages to Target Developer Machines",
-      "description": "[FEEDS] Cybersecurity researchers have flagged a new software supply chain attack codenamed SleeperGem targeting the Ruby ecosystem after three malicious gems were published to RubyGems with the end goal of serving additional payloads. The rogue gems are...",
-      "url": "https://thehackernews.com/2026/07/sleepergem-uses-three-malicious.html",
-      "date": "2026-07-20T05:15:39Z"
     },
     {
       "title": "ISC Stormcast For Monday, July 20th, 2026 https://isc.sans.edu/podcastdetail/10014, (Mon, Jul 20th)",
@@ -144,12 +150,6 @@
       "description": "[TNW] CyCognito CEO Rob Gurzeev argues that AI is expanding enterprise attack surfaces faster than security teams can map them. The fix is continuous, outside-in testing that thinks like an attacker.",
       "url": "https://thenextweb.com/news/rob-gurzeev-ai-cybersecurity-attack-surface-blind-spot",
       "date": "2026-07-19T12:56:01Z"
-    },
-    {
-      "title": "Update now: 7-Zip fixes RCE flaw exploitable with malicious archives",
-      "description": "[BLEEPINGCOMPUTER] 7-Zip version 26.02 was released on June 25 to fix a remote code execution vulnerability that could allow attackers to execute malicious code by convincing users to open specially crafted compressed files. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/update-now-7-zip-fixes-rce-flaw-exploitable-with-malicious-archives/",
-      "date": "2026-07-18T19:32:02Z"
     },
     {
       "title": "Friday Squid Blogging: Squid Washing Up on Cape Cod Beach",
