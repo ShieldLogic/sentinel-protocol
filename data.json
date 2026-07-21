@@ -1,6 +1,36 @@
 {
-  "updated": "2026-07-21 08:07:31 UTC",
+  "updated": "2026-07-21 11:41:33 UTC",
   "news": [
+    {
+      "title": "MIT to Become Hotbed of AI Video Surveillance",
+      "description": "[SCHNEIER] It&#8217;s a lot: According to information obtained by The Tech, MIT is spending over $3 million on more than 500 AI surveillance cameras in academic buildings, residence halls, and outdoor areas along Memorial Drive. Installation of the new...",
+      "url": "https://www.schneier.com/blog/archives/2026/07/mit-to-become-hotbed-of-ai-video-surveillance.html",
+      "date": "2026-07-21T11:07:13Z"
+    },
+    {
+      "title": "US seizes over 1,000 websites in FIFA World Cup piracy crackdown",
+      "description": "[BLEEPINGCOMPUTER] The U.S. Justice Department has seized more than 1,000 websites and blocked 1,970 domains used to stream FIFA World Cup 2026 matches without authorization. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/us-seizes-over-1-000-fifa-world-cup-illegal-streaming-domains/",
+      "date": "2026-07-21T11:07:07Z"
+    },
+    {
+      "title": "Critical Palo Alto VPN bug now exploited by Qilin ransomware gang",
+      "description": "[BLEEPINGCOMPUTER] The Qilin ransomware gang is exploiting a critical PAN-OS GlobalProtect authentication bypass flaw to breach victims' networks, according to cybersecurity company Arctic Wolf. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/critical-globalprotect-vpn-bug-now-exploited-in-ransomware-attacks/",
+      "date": "2026-07-21T10:12:24Z"
+    },
+    {
+      "title": "Microsoft shares manual fix for WSUS sync delays and timeouts",
+      "description": "[BLEEPINGCOMPUTER] Microsoft has shared manual mitigations to help IT administrators fix Windows Server Update Services (WSUS) servers affected by a known issue that causes Windows Update scans to fail or time out. [...]",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-manual-fix-for-wsus-sync-delays-and-timeouts/",
+      "date": "2026-07-21T09:05:50Z"
+    },
+    {
+      "title": "WordPress wp2shell Exploitation Grows as Public Exploit Fuels Mass Scanning",
+      "description": "[FEEDS] Attackers have begun to exploit two critical vulnerabilities in WordPress that, when combined together, enable unauthenticated remote code execution (RCE) and complete compromise of vulnerable websites. The two security flaws, tracked as...",
+      "url": "https://thehackernews.com/2026/07/wordpress-wp2shell-exploitation-grows.html",
+      "date": "2026-07-21T08:59:30Z"
+    },
     {
       "title": "Windows LegacyHive zero-day flaw gets free, unofficial patches",
       "description": "[BLEEPINGCOMPUTER] Free unofficial patches are available for a recently disclosed Windows zero-day flaw that allows attackers to escalate privileges on up-to-date Windows systems. [...]",
@@ -26,10 +56,22 @@
       "date": "2026-07-21T02:00:02Z"
     },
     {
+      "title": "JadePuffer agentic attacks now target AI model data with ransomware",
+      "description": "[EUROPE SAYS] The JadePuffer autonomous AI agent has upgraded with custom malware called EncForge that focuses on encrypting AI assets, such as training datasets, vector",
+      "url": "https://www.europesays.com/3143690/",
+      "date": "2026-07-20T23:31:38Z"
+    },
+    {
       "title": "Est\u00e9e Lauder discloses data breach via Oracle E-Business flaw",
       "description": "[BLEEPINGCOMPUTER] Cosmetics giant Est\u00e9e Lauder is notifying customers of a data breach after hackers exploited a flaw in Oracle E-Business Suite that the company used for human resources (HR) operations. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/est-e-lauder-discloses-data-breach-via-oracle-e-business-flaw/",
       "date": "2026-07-20T22:39:30Z"
+    },
+    {
+      "title": "Ecopetrol: No compromise to integrity of information from cybersecurity incident",
+      "description": "[MARKETS INSIDER] Ecopetrol (EC) reports that the latest analyses conducted regarding the cybersecurity incident and its effects, previously disclosed on July 17,...",
+      "url": "https://markets.businessinsider.com/news/stocks/ecopetrol-no-compromise-to-integrity-of-information-from-cybersecurity-incident-1036344315",
+      "date": "2026-07-20T22:25:07Z"
     },
     {
       "title": "SonicWall SMA1000 flaws exploited as zero-days to push custom malware",
@@ -38,22 +80,10 @@
       "date": "2026-07-20T22:23:23Z"
     },
     {
-      "title": "Hackers steal $23.7 million in crypto from Ostium in off-chain attack",
-      "description": "[BLEEPINGCOMPUTER] The Ostium trading platform announced that an attacker stole $23.75 million from its liquidity provider vault last week, after compromising off-chain infrastructure used to feed prices into the protocol. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-steal-237-million-in-crypto-from-ostium-in-off-chain-attack/",
-      "date": "2026-07-20T22:22:56Z"
-    },
-    {
-      "title": "Cursor, Codex, Gemini CLI, Antigravity hit by sandbox escapes",
-      "description": "[BLEEPINGCOMPUTER] Researchers escaped the sandboxes in Cursor, Codex, Gemini CLI and Antigravity by having the AI agent write files that trusted host tools later run. Multiple CVEs, patches, and Google downgrading two Antigravity findings. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/cursor-codex-gemini-cli-antigravity-hit-by-sandbox-escapes/",
-      "date": "2026-07-20T21:14:42Z"
-    },
-    {
-      "title": "JadePuffer agentic attacks now target AI model data with ransomware",
-      "description": "[BLEEPINGCOMPUTER] The JadePuffer autonomous AI agent has upgraded with custom malware called EncForge that focuses on encrypting AI assets, such as training datasets, vector databases, and model checkpoints. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/jadepuffer-agentic-attacks-now-target-ai-model-data-with-ransomware/",
-      "date": "2026-07-20T21:08:02Z"
+      "title": "Trump gutted civil rights agency, stifling investigation into Norfolk\u2019s BAE Systems",
+      "description": "[NORFOLK VIRGINIAN-PILOT] Federal investigators were working in early 2025 to wrap up a two-year inquiry into claims of pervasive sexual harassment and discrimination at a company that makes weapons, vehicles and cybersecurity tools for the Pentagon.",
+      "url": "https://www.pilotonline.com/2026/07/20/trump-gutted-civil-rights-agency/",
+      "date": "2026-07-20T21:18:52Z"
     },
     {
       "title": "Coca-Cola's milk brand halts US production after 'unauthorized access' breach",
@@ -116,34 +146,10 @@
       "date": "2026-07-20T15:56:12Z"
     },
     {
-      "title": "Fairlife pauses US milk production following a ransomware attack.",
-      "description": "[THE VERGE] The Coca-Cola-owned company announced last week that it \u201cidentified unauthorized access\u201d to its production-related systems \u201cin connection with a ransomware event.\u201d Though Fairlife says \u201cproduct quality and safety have not been impacted,\u201d it\u2019s...",
-      "url": "https://www.theverge.com/tech/967966/fairlife-pauses-us-milk-production-following-a-ransomware-attack",
-      "date": "2026-07-20T15:41:31Z"
-    },
-    {
-      "title": "Hackers are exploiting recently patched WordPress bugs, putting millions of websites at risk",
-      "description": "[TECHCRUNCH] Two critical security flaws in WordPress\u2019 software have given hackers the chance to remotely take over tens of millions of websites, according to an estimate by a cybersecurity researcher.",
-      "url": "https://techcrunch.com/2026/07/20/hackers-are-exploiting-recently-patched-wordpress-bugs-putting-millions-of-websites-at-risk/",
-      "date": "2026-07-20T15:35:37Z"
-    },
-    {
-      "title": "This is why Fairlife stopped producing milk",
-      "description": "[WIS10] Fairlife has paused milk production in the U.S. after a ransomware attack, Coca\u2011Cola said Thursday.",
-      "url": "https://www.wistv.com/2026/07/20/fairlife-stops-us-milk-production-after-ransomware-attack/",
-      "date": "2026-07-20T15:04:33Z"
-    },
-    {
       "title": "HollowGraph Malware Hides C2 and Stolen Files in Microsoft 365 Events Dated 2050",
       "description": "[FEEDS] A newly discovered espionage implant has been using a hijacked Microsoft 365 calendar as its command channel, planting operator instructions and smuggling out stolen files as attachments on calendar events dated to the year 2050. Group-IB, which...",
       "url": "https://thehackernews.com/2026/07/hollowgraph-malware-hides-c2-and-stolen.html",
       "date": "2026-07-20T14:33:43Z"
-    },
-    {
-      "title": "\u26a1 Weekly Recap: WordPress RCE, SonicWall 0-Days, AI Service Attacks, SharePoint 0-Day and More",
-      "description": "[FEEDS] A single request should not be able to do this much. But this week, small inputs led to code execution, memory loss, stolen keys, and disabled security tools. The paths were often simple: exposed systems, weak checks, old drivers, fake prompts, and...",
-      "url": "https://thehackernews.com/2026/07/weekly-recap-wordpress-rce-sonicwall-0.html",
-      "date": "2026-07-20T13:32:26Z"
     },
     {
       "title": "On Flock License Plate Tracking Cameras",
@@ -198,12 +204,6 @@
       "description": "[SCHNEIER] Amazing: Researchers from ETH Zurich in Switzerland, however, managed to create a new type of pixel that can simultaneously do both. This hypercharged pixel, called a Fourier pixel, can generate and sense arbitrary light fields and tap into a...",
       "url": "https://www.schneier.com/blog/archives/2026/07/a-video-screen-that-is-also-a-camera.html",
       "date": "2026-07-15T11:04:06Z"
-    },
-    {
-      "title": "Upcoming Speaking Engagements",
-      "description": "[SCHNEIER] This is a current list of where and when I am scheduled to speak: I\u2019m speaking (virtually) at the Policy-Relevant Privacy Research Workshop in Calgary, Canada, on Monday, July 20, 2026. I\u2019m speaking at Boston Leadership Exchange in Boston,...",
-      "url": "https://www.schneier.com/blog/archives/2026/07/upcoming-speaking-engagements-58.html",
-      "date": "2026-07-14T16:04:49Z"
     }
   ]
 }
