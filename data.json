@@ -1,6 +1,24 @@
 {
-  "updated": "2026-07-21 15:28:35 UTC",
+  "updated": "2026-07-21 17:06:20 UTC",
   "news": [
+    {
+      "title": "Critical wp2shell WordPress flaws exploited to install webshells",
+      "description": "[BLEEPINGCOMPUTER] Hackers are exploiting the \"wp2shell\" critical vulnerability suite (CVE-2026-63030 and CVE-2026-60137) affecting WordPress Core to deploy persistent webshells and install malicious plugins on affected servers. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/critical-wp2shell-wordpress-flaws-exploited-to-install-webshells/",
+      "date": "2026-07-21T16:41:50Z"
+    },
+    {
+      "title": "AWS Kiro Flaw Let a Poisoned Web Page Rewrite Its Config and Run Code",
+      "description": "[FEEDS] Hidden text on a web page was enough to make Kiro, AWS's agentic coding IDE, rewrite its own configuration file and run an attacker's code on a developer's machine, with no approval step able to stop it. Intezer, in research with Kodem Security,...",
+      "url": "https://thehackernews.com/2026/07/aws-kiro-flaw-let-poisoned-web-page.html",
+      "date": "2026-07-21T16:06:12Z"
+    },
+    {
+      "title": "Google Launches Gemini 3.5 Flash Cyber AI to Find and Fix Software Vulnerabilities",
+      "description": "[FEEDS] Google's DeepMind on Tuesday announced the release of Gemini 3.5 Flash Cyber, a specialized artificial intelligence (AI) model built atop 3.5 Flash that's designed to discover, validate, and patch vulnerabilities quickly and efficiently. According...",
+      "url": "https://thehackernews.com/2026/07/google-launches-gemini-35-flash-cyber.html",
+      "date": "2026-07-21T15:09:28Z"
+    },
     {
       "title": "Critical SharePoint RCE CVE-2026-50522 Under Active Exploitation After Public PoC",
       "description": "[FEEDS] A third SharePoint Server flaw patched by Microsoft as part of its Patch Tuesday update for July 2026 has come under active exploitation, per watchTowr. The vulnerability in question is CVE-2026-50522 (CVSS score: 9.8), a critical deserialization of...",
@@ -38,18 +56,6 @@
       "date": "2026-07-21T11:58:00Z"
     },
     {
-      "title": "N-day is Becoming N-Hour. Patching Faster Won't Save You.",
-      "description": "[FEEDS] Every patch is a confession. The moment a vendor ships a security fix, the diff between the old code and the new code tells anyone watching exactly what was broken and where. Turn that diff back into a working exploit, and you can hit every system...",
-      "url": "https://thehackernews.com/2026/07/n-day-is-becoming-n-hour-patching.html",
-      "date": "2026-07-21T11:42:23Z"
-    },
-    {
-      "title": "New Bit2Watt Attack Could Let Cloud Tenants Disrupt Power Grids Without an Exploit",
-      "description": "[FEEDS] A cloud tenant using nothing but ordinary GPU access can push a data center's power draw up and down fast enough to threaten the grid it runs on, with no exploit and no break-in. That is the claim behind Bit2Watt, described by three Zhejiang...",
-      "url": "https://thehackernews.com/2026/07/new-bit2watt-attack-could-let-cloud.html",
-      "date": "2026-07-21T11:24:50Z"
-    },
-    {
       "title": "MIT to Become Hotbed of AI Video Surveillance",
       "description": "[SCHNEIER] It&#8217;s a lot: According to information obtained by The Tech, MIT is spending over $3 million on more than 500 AI surveillance cameras in academic buildings, residence halls, and outdoor areas along Memorial Drive. Installation of the new...",
       "url": "https://www.schneier.com/blog/archives/2026/07/mit-to-become-hotbed-of-ai-video-surveillance.html",
@@ -78,6 +84,12 @@
       "description": "[BLEEPINGCOMPUTER] Free unofficial patches are available for a recently disclosed Windows zero-day flaw that allows attackers to escalate privileges on up-to-date Windows systems. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/windows-legacyhive-zero-day-flaw-gets-free-unofficial-patches/",
       "date": "2026-07-21T08:06:26Z"
+    },
+    {
+      "title": "GO2 Health medical clinic in Brisbane waited almost three months to alert patients it was hacked",
+      "description": "[ABC (AUSTRALIAN BROADCASTING CORPORATION)] Patients at a medical clinic in Brisbane's north only found out about the data breach almost three months after it was targeted by hackers.",
+      "url": "https://www.abc.net.au/news/2026-07-21/go2-health-everton-park-medical-clinic-data-breach/106940168",
+      "date": "2026-07-21T03:46:08Z"
     },
     {
       "title": "From AI Hype to Public Trust: OECD Outlines Roadmap for Responsible Government Adoption",
@@ -134,22 +146,10 @@
       "date": "2026-07-20T23:31:38Z"
     },
     {
-      "title": "Est\u00e9e Lauder discloses data breach via Oracle E-Business flaw",
-      "description": "[BLEEPINGCOMPUTER] Cosmetics giant Est\u00e9e Lauder is notifying customers of a data breach after hackers exploited a flaw in Oracle E-Business Suite that the company used for human resources (HR) operations. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/est-e-lauder-discloses-data-breach-via-oracle-e-business-flaw/",
-      "date": "2026-07-20T22:39:30Z"
-    },
-    {
       "title": "Ecopetrol: No compromise to integrity of information from cybersecurity incident",
       "description": "[MARKETS INSIDER] Ecopetrol (EC) reports that the latest analyses conducted regarding the cybersecurity incident and its effects, previously disclosed on July 17,...",
       "url": "https://markets.businessinsider.com/news/stocks/ecopetrol-no-compromise-to-integrity-of-information-from-cybersecurity-incident-1036344315",
       "date": "2026-07-20T22:25:07Z"
-    },
-    {
-      "title": "Trump gutted civil rights agency, stifling investigation into Norfolk\u2019s BAE Systems",
-      "description": "[NORFOLK VIRGINIAN-PILOT] Federal investigators were working in early 2025 to wrap up a two-year inquiry into claims of pervasive sexual harassment and discrimination at a company that makes weapons, vehicles and cybersecurity tools for the Pentagon.",
-      "url": "https://www.pilotonline.com/2026/07/20/trump-gutted-civil-rights-agency/",
-      "date": "2026-07-20T21:18:52Z"
     },
     {
       "title": "WordPress Exploitation Underway (CVE-2026-63030), (Mon, Jul 20th)",
