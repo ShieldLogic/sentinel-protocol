@@ -1,11 +1,23 @@
 {
-  "updated": "2026-07-21 19:03:48 UTC",
+  "updated": "2026-07-21 20:57:35 UTC",
   "news": [
+    {
+      "title": "Critical SharePoint RCE flaw exploited to steal machine keys",
+      "description": "[BLEEPINGCOMPUTER] Hackers are actively exploiting the critical CVE-2026-50522 vulnerability in Microsoft SharePoint to steal machine keys and maintain access even after affected servers are patched. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/critical-sharepoint-rce-flaw-exploited-to-steal-machine-keys/",
+      "date": "2026-07-21T20:06:55Z"
+    },
     {
       "title": "Anubis ransomware claims Coca-Cola Fairlife attack, threatens data leak",
       "description": "[BLEEPINGCOMPUTER] The Anubis ransomware gang has claimed responsibility for the cyberattack on Coca-Cola's Fairlife dairy subsidiary, threatening to publish allegedly stolen corporate data unless the company pays a ransom. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/anubis-ransomware-claims-coca-cola-fairlife-attack-threatens-data-leak/",
       "date": "2026-07-21T18:50:54Z"
+    },
+    {
+      "title": "Apple Fixes Hide My Email Bug That Exposed Real Addresses in Mail Logs",
+      "description": "[FEEDS] Apple has moved to address a security flaw in its Hide My Email service that enabled users' real email addresses to be unmasked, effectively undermining the feature's privacy guarantees. 404 Media reported Tuesday that a fix for the issue was...",
+      "url": "https://thehackernews.com/2026/07/apple-fixes-hide-my-email-bug-that.html",
+      "date": "2026-07-21T18:46:32Z"
     },
     {
       "title": "Critical wp2shell WordPress flaws exploited to install webshells",
@@ -56,12 +68,6 @@
       "date": "2026-07-21T13:18:31Z"
     },
     {
-      "title": "Open-Source Android AI Agents Could Let Invisible Screen Text Run Code on Host PCs",
-      "description": "[FEEDS] An Android app that can draw over other windows and write to shared storage can slip instructions to the AI agent driving that phone, in text no human eye will ever see. Two more steps, and the same app is running commands on the PC driving the...",
-      "url": "https://thehackernews.com/2026/07/open-source-android-ai-agents-could-let.html",
-      "date": "2026-07-21T11:58:00Z"
-    },
-    {
       "title": "MIT to Become Hotbed of AI Video Surveillance",
       "description": "[SCHNEIER] It&#8217;s a lot: According to information obtained by The Tech, MIT is spending over $3 million on more than 500 AI surveillance cameras in academic buildings, residence halls, and outdoor areas along Memorial Drive. Installation of the new...",
       "url": "https://www.schneier.com/blog/archives/2026/07/mit-to-become-hotbed-of-ai-video-surveillance.html",
@@ -80,10 +86,16 @@
       "date": "2026-07-21T10:12:24Z"
     },
     {
-      "title": "Microsoft shares manual fix for WSUS sync delays and timeouts",
-      "description": "[BLEEPINGCOMPUTER] Microsoft has shared manual mitigations to help IT administrators fix Windows Server Update Services (WSUS) servers affected by a known issue that causes Windows Update scans to fail or time out. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-manual-fix-for-wsus-sync-delays-and-timeouts/",
-      "date": "2026-07-21T09:05:50Z"
+      "title": "New ENCFORGE Ransomware Targets AI Model Files in Langflow RCE Attack",
+      "description": "[THE HACKER NEWS] JADEPUFFER exploits Langflow CVE-2025-3248 to deploy ENCFORGE ransomware against AI model weights, vector indexes, and training data on the host.",
+      "url": "https://thehackernews.com/2026/07/new-encforge-ransomware-targets-ai.html",
+      "date": "2026-07-21T07:34:00Z"
+    },
+    {
+      "title": "Sebi Fines CDSL Rs 1 Crore Over 2022 Cybersecurity Breaches and Market Settlement Infrastructure Lapses",
+      "description": "[OUTLOOK MONEY] Sebi fined CDSL Rs 1 crore for severe cybersecurity framework failures and market settlement disruptions during a major November 2022 malware attack",
+      "url": "https://www.outlookmoney.com/invest/sebi-fines-cdsl-rs-1-crore-for-cybersecurity-violations-key-details-for-investors",
+      "date": "2026-07-21T07:17:53Z"
     },
     {
       "title": "PNP boosts cyber defenses ahead of Marcos' fifth Sona",
@@ -138,18 +150,6 @@
       "description": "[THE ECONOMIC TIMES] Markets declined on Monday due to disappointing earnings and geopolitical worries. CDSL faced a Rs 1 crore penalty from Sebi for cybersecurity lapses. Several companies will announce their first quarter financial results today. Grasim Industries...",
       "url": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-cdsl-adani-energy-lt-adani-total-gas-emcure-pharma/articleshow/132526275.cms",
       "date": "2026-07-21T01:03:00Z"
-    },
-    {
-      "title": "SPTel Receives Frost & Sullivan's 2026 Singapore Company of the Year Recognition for Leadership in Quantum-Safe Network Services",
-      "description": "[THE MANILA TIMES] Recognized for pioneering commercial quantum-safe communications through innovation, national-scale infrastructure, and customer-centric cybersecurity solutions.",
-      "url": "https://www.manilatimes.net/2026/07/21/tmt-newswire/pr-newswire/sptel-receives-frost-sullivans-2026-singapore-company-of-the-year-recognition-for-leadership-in-quantum-safe-network-services/2388038",
-      "date": "2026-07-21T00:33:04Z"
-    },
-    {
-      "title": "Tech experts highlight AI work challenges",
-      "description": "[BANGKOK POST] The rapid rise of artificial intelligence (AI) is forcing organisations to rethink workforce skills, accountability and cybersecurity to prevent job displacement and operational risk, say tech pundits.",
-      "url": "https://www.bangkokpost.com/business/general/3289094/tech-experts-highlight-ai-work-challenges",
-      "date": "2026-07-21T00:03:00Z"
     },
     {
       "title": "WordPress Exploitation Underway (CVE-2026-63030), (Mon, Jul 20th)",
