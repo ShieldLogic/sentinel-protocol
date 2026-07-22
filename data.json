@@ -1,6 +1,42 @@
 {
-  "updated": "2026-07-22 04:59:17 UTC",
+  "updated": "2026-07-22 08:08:18 UTC",
   "news": [
+    {
+      "title": "Chick-fil-A discloses data breach after credential stuffing attacks",
+      "description": "[BLEEPINGCOMPUTER] American fast food restaurant chain Chick-fil-A is notifying customers of a data breach after their accounts were hacked in a wave of recent credential stuffing attacks. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/chick-fil-a-discloses-data-breach-after-credential-stuffing-attacks/",
+      "date": "2026-07-22T06:40:29Z"
+    },
+    {
+      "title": "Police Dismantle Kratos Phishing Kit Built to Steal Microsoft 365 Sessions and Bypass MFA",
+      "description": "[FEEDS] German and US law enforcement have taken down the core infrastructure of Kratos, described by German investigators as one of the world's most widely used criminal phishing kits, and Indonesian authorities arrested the man they say developed and ran...",
+      "url": "https://thehackernews.com/2026/07/police-dismantle-kratos-phishing-kit.html",
+      "date": "2026-07-22T06:38:45Z"
+    },
+    {
+      "title": "Trojanized Newtonsoft.Json Fork Hides Game-Rigging Code in a Working Library",
+      "description": "[FEEDS] Cybersecurity researchers have discovered a NuGet typosquat that's unlike the typical information-stealing malware distributed via package registries: usual info-stealers: it's designed to rig live game results on Digitain. The package, named...",
+      "url": "https://thehackernews.com/2026/07/trojanized-newtonsoftjson-fork-hides.html",
+      "date": "2026-07-22T06:00:06Z"
+    },
+    {
+      "title": "OpenAI says its AI models hacked Hugging Face during testing",
+      "description": "[BLEEPINGCOMPUTER] OpenAI says its AI models, including GPT\u20115.6 Sol and a pre-release model, hacked into the Hugging Face artificial intelligence repository while being tested in a sandboxed testing environment. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/openai-says-its-ai-models-hacked-hugging-face-during-testing/",
+      "date": "2026-07-22T05:19:20Z"
+    },
+    {
+      "title": "Microsoft Azure DevOps MCP Flaw Lets Hidden PR Comments Hijack AI Review Agents",
+      "description": "[FEEDS] A single invisible comment in an Azure DevOps pull request can turn a reviewer's own AI coding agent against them, driving it into projects the attacker has no rights to reach and quietly leaking what it finds. The flaw is in Microsoft's official...",
+      "url": "https://thehackernews.com/2026/07/microsoft-azure-devops-mcp-flaw-lets.html",
+      "date": "2026-07-22T04:57:52Z"
+    },
+    {
+      "title": "OpenAI Says Its AI Models Escaped Sandbox, Targeted Hugging Face to Cheat Benchmark",
+      "description": "[FEEDS] OpenAI on Tuesday said a combination of its artificial intelligence (AI) models, including GPT-5.6 Sol and an \"even more capable pre-release model,\" was behind the security incident that targeted Hugging Face's production infrastructure last week....",
+      "url": "https://thehackernews.com/2026/07/openai-says-its-own-ai-models-escaped.html",
+      "date": "2026-07-22T04:18:33Z"
+    },
     {
       "title": "ISC Stormcast For Wednesday, July 22nd, 2026 https://isc.sans.edu/podcastdetail/10018, (Wed, Jul 22nd)",
       "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
@@ -26,6 +62,12 @@
       "date": "2026-07-21T20:06:55Z"
     },
     {
+      "title": "Google Ships New Gemini Flash Models, But Pro Is Still Missing",
+      "description": "[DECRYPT] As Gemini 3.5 Pro stalls in testing limbo, Google ships 3.6 Flash, 3.5 Flash-Lite, and a restricted cybersecurity model\u2014and quietly teases Gemini 4.",
+      "url": "https://decrypt.co/373975/google-new-gemini-flash-models-pro-still-missing",
+      "date": "2026-07-21T18:55:45Z"
+    },
+    {
       "title": "Anubis ransomware claims Coca-Cola Fairlife attack, threatens data leak",
       "description": "[BLEEPINGCOMPUTER] The Anubis ransomware gang has claimed responsibility for the cyberattack on Coca-Cola's Fairlife dairy subsidiary, threatening to publish allegedly stolen corporate data unless the company pays a ransom. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/anubis-ransomware-claims-coca-cola-fairlife-attack-threatens-data-leak/",
@@ -38,10 +80,10 @@
       "date": "2026-07-21T18:46:32Z"
     },
     {
-      "title": "Critical wp2shell WordPress flaws exploited to install webshells",
-      "description": "[BLEEPINGCOMPUTER] Hackers are exploiting the \"wp2shell\" critical vulnerability suite (CVE-2026-63030 and CVE-2026-60137) affecting WordPress Core to deploy persistent webshells and install malicious plugins on affected servers. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/critical-wp2shell-wordpress-flaws-exploited-to-install-webshells/",
-      "date": "2026-07-21T16:41:50Z"
+      "title": "The AI race isn't about bigger models-it's about India",
+      "description": "[THE ECONOMIC TIMES] India can become the world's AI deployment hub by leveraging its software engineering workforce and enterprise IT experience. Enterprises will come to India to reinvent their businesses with AI integration and transformation consulting. This...",
+      "url": "https://economictimes.indiatimes.com/opinion/et-commentary/the-ai-race-isnt-about-bigger-modelsits-about-india/articleshow/132544241.cms",
+      "date": "2026-07-21T17:55:07Z"
     },
     {
       "title": "AWS Kiro Flaw Let a Poisoned Web Page Rewrite Its Config and Run Code",
@@ -54,12 +96,6 @@
       "description": "[TIMES OF INDIA] VTU partners with Google to deliver AI training modules for students and faculty from this year, covering AI, cloud, data science and cybersecurity at Rs 350 per student.",
       "url": "https://timesofindia.indiatimes.com/city/bengaluru/visvesvaraya-technological-university-partners-with-google-for-ai-lessons/articleshow/132541052.cms",
       "date": "2026-07-21T15:54:00Z"
-    },
-    {
-      "title": "Google Launches Gemini 3.5 Flash Cyber AI to Find and Fix Software Vulnerabilities",
-      "description": "[FEEDS] Google's DeepMind on Tuesday announced the release of Gemini 3.5 Flash Cyber, a specialized artificial intelligence (AI) model built atop 3.5 Flash that's designed to discover, validate, and patch vulnerabilities quickly and efficiently. According...",
-      "url": "https://thehackernews.com/2026/07/google-launches-gemini-35-flash-cyber.html",
-      "date": "2026-07-21T15:09:28Z"
     },
     {
       "title": "Meta Infotech Ltd adds Identity and Access Management Solutions",
@@ -92,12 +128,6 @@
       "date": "2026-07-21T15:00:00Z"
     },
     {
-      "title": "Critical SharePoint RCE CVE-2026-50522 Under Active Exploitation After Public PoC",
-      "description": "[FEEDS] A third SharePoint Server flaw patched by Microsoft as part of its Patch Tuesday update for July 2026 has come under active exploitation, per watchTowr. The vulnerability in question is CVE-2026-50522 (CVSS score: 9.8), a critical deserialization of...",
-      "url": "https://thehackernews.com/2026/07/critical-sharepoint-rce-cve-2026-50522.html",
-      "date": "2026-07-21T14:57:51Z"
-    },
-    {
       "title": "Est\u00e9e Lauder says it was hit by data breach caused by Oracle E-Business issue",
       "description": "[TECHRADAR] A new Est\u00e9e Lauder investigation uncovered an old breach",
       "url": "https://www.techradar.com/pro/security/estee-lauder-says-it-was-hit-by-data-breach-caused-by-oracle-e-business-issue",
@@ -105,39 +135,15 @@
     },
     {
       "title": "Qilin Ransomware Attackers Exploit PAN-OS Authentication Bypass for Initial Access",
-      "description": "[FEEDS] Threat actors have been observed exploiting a now-patched high-severity Palo Alto Networks PAN-OS vulnerability as an entry point to deploy Qilin (aka Agenda) ransomware on victim environments. Arctic Wolf Labs said it investigated multiple...",
+      "description": "[THE HACKER NEWS] Attackers exploit PAN-OS CVE-2026-0257 to deploy Qilin ransomware, with intrusions ranging from rapid encryption to data theft and double extortion.",
       "url": "https://thehackernews.com/2026/07/qilin-ransomware-attackers-exploit-pan.html",
-      "date": "2026-07-21T14:04:57Z"
-    },
-    {
-      "title": "Palo Alto Networks (PANW) Earns Price-Target Upgrade From Argus",
-      "description": "[BARCHART] Artificial intelligence (AI) is looking to be more boon than burden for Palo Alto Networks (PANW) and other cybersecurity providers.",
-      "url": "https://www.barchart.com/story/news/3384118/palo-alto-networks-panw-earns-price-target-upgrade-from-argus",
-      "date": "2026-07-21T14:01:50Z"
-    },
-    {
-      "title": "Palo Alto Networks (PANW) Earns Price-Target Upgrade From Argus",
-      "description": "[BARCHART] Artificial intelligence (AI) is looking to be more boon than burden for Palo Alto Networks (PANW) and other cybersecurity providers.",
-      "url": "https://www.barchart.com/story/news/3384117/palo-alto-networks-panw-earns-price-target-upgrade-from-argus",
-      "date": "2026-07-21T14:01:50Z"
-    },
-    {
-      "title": "Closing the Identity Gaps in Critical Infrastructure Security",
-      "description": "[BLEEPINGCOMPUTER] Critical infrastructure attacks often begin with stolen credentials, compromised devices, or trusted accounts. Specops Software explains why Zero Trust should verify both user identities and device trust before granting access to critical systems....",
-      "url": "https://www.bleepingcomputer.com/news/security/closing-the-identity-gaps-in-critical-infrastructure-security/",
-      "date": "2026-07-21T14:00:10Z"
+      "date": "2026-07-21T14:04:00Z"
     },
     {
       "title": "Captive Portal Detection, (Tue, Jul 21st)",
       "description": "[ISC] Not everything our honeypots detect is an attack. Sometimes it is just \"odd traffic\", and this is one example: Our \"First Seen\" list currently includes \"http://detectportal.firefox.co&#xd; m/success.txt\" as one of the new URLs detected by our...",
       "url": "https://isc.sans.edu/diary/rss/33172",
       "date": "2026-07-21T13:44:56Z"
-    },
-    {
-      "title": "Zimbra Patches Critical SNMP Command Injection and Four XSS Vulnerabilities",
-      "description": "[FEEDS] Zimbra has rolled out fixes to address multiple critical security issues, including a command injection flaw in the Simple Network Management Protocol (SNMP) monitoring component. As many as nine security vulnerabilities have been patched in Zimbra...",
-      "url": "https://thehackernews.com/2026/07/zimbra-patches-critical-snmp-command.html",
-      "date": "2026-07-21T13:18:31Z"
     },
     {
       "title": "MIT to Become Hotbed of AI Video Surveillance",
