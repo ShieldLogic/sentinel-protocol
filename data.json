@@ -1,6 +1,18 @@
 {
-  "updated": "2026-07-22 17:07:05 UTC",
+  "updated": "2026-07-22 18:57:24 UTC",
   "news": [
+    {
+      "title": "Ubuntu snap-confine Flaw Could Give Local Users Root on Default Desktop Installs",
+      "description": "[FEEDS] Cybersecurity researchers have disclosed details of a new local privilege escalation (LPE) vulnerability in snap-confine that an unprivileged user can trigger to obtain root access and gain complete control of a target environment. The high-severity...",
+      "url": "https://thehackernews.com/2026/07/ubuntu-snap-confine-flaw-could-give.html",
+      "date": "2026-07-22T18:07:16Z"
+    },
+    {
+      "title": "Rondo Meets Geoserver, (Wed, Jul 22nd)",
+      "description": "[ISC] This isn&&#x23&#x3b;x26&#x3b;&#x23&#x3b;39&#x3b;t a new attack, but something I saw \"pop-up\" in our logs this week:&#xd;",
+      "url": "https://isc.sans.edu/diary/rss/33176",
+      "date": "2026-07-22T17:35:33Z"
+    },
     {
       "title": "Swiss rail giant Stadler rejects $12.3M ransom demand after cyberattack",
       "description": "[BLEEPINGCOMPUTER] Swiss rail vehicle manufacturer Stadler Rail says the Everest ransomware gang demanded about $12.3 million after breaching a data exchange platform shared with one of its suppliers. [...]",
@@ -12,6 +24,12 @@
       "description": "[BLEEPINGCOMPUTER] Enterprise AI can accelerate ransomware attacks when AI assistants and agents inherit excessive permissions or compromised identities. Acronis explains how identity controls, governance, and least-privilege access help reduce AI-enabled ransomware...",
       "url": "https://www.bleepingcomputer.com/news/security/how-enterprise-genai-can-amplify-ransomware-risk-and-how-to-contain-it/",
       "date": "2026-07-22T15:30:00Z"
+    },
+    {
+      "title": "Adobe Acrobat Extension Flaw Let Malicious Sites Read WhatsApp Web Data",
+      "description": "[FEEDS] Cybersecurity researchers have disclosed details of a now-patched vulnerability chain in the Adobe Acrobat Chrome extension that has over 314 million users, which, if exploited, could facilitate a silent hijack of a user's WhatsApp data. The...",
+      "url": "https://thehackernews.com/2026/07/adobe-acrobat-extension-flaw-let.html",
+      "date": "2026-07-22T15:01:21Z"
     },
     {
       "title": "New InfraTrust report reveals infrastructure flaws admins should patch first",
@@ -68,16 +86,34 @@
       "date": "2026-07-22T11:02:26Z"
     },
     {
-      "title": "Police Dismantle Kratos Phishing Kit Built to Steal Microsoft 365 Sessions and Bypass MFA",
-      "description": "[FEEDS] German and US law enforcement have taken down the core infrastructure of Kratos, described by German investigators as one of the world's most widely used criminal phishing kits, and Indonesian authorities arrested the man they say developed and ran...",
-      "url": "https://thehackernews.com/2026/07/police-dismantle-kratos-phishing-kit.html",
-      "date": "2026-07-22T06:38:45Z"
+      "title": "OpenAI says AI models autonomously pulled off a major hack, but only a Chinese AI helped recovery",
+      "description": "[DIGITAL TRENDS] GPT-5.6 Sol and an unreleased OpenAI model exploited zero-day vulnerabilities to escape a testing sandbox and access Hugging Face\u2019s production infrastructure",
+      "url": "https://www.digitaltrends.com/computing/openai-says-ai-models-autonomously-pulled-off-a-major-hack-but-only-a-chinese-ai-helped-recovery/",
+      "date": "2026-07-22T06:50:54Z"
     },
     {
-      "title": "Trojanized Newtonsoft.Json Fork Hides Game-Rigging Code in a Working Library",
-      "description": "[FEEDS] Cybersecurity researchers have discovered a NuGet typosquat that's unlike the typical information-stealing malware distributed via package registries: usual info-stealers: it's designed to rig live game results on Digitain. The package, named...",
-      "url": "https://thehackernews.com/2026/07/trojanized-newtonsoftjson-fork-hides.html",
-      "date": "2026-07-22T06:00:06Z"
+      "title": "Andhra Police must become tech-driven and citizen-centric, says Home Minister",
+      "description": "[THE HINDU] Andhra Pradesh police will recruit people skilled in coding, cryptography and cybersecurity, and set up a drone surveillance system, DGP Harish Kumar Gupta said.",
+      "url": "https://www.thehindu.com/news/cities/Visakhapatnam/andhra-police-must-become-tech-driven-and-citizen-centric-says-home-minister/article71250475.ece",
+      "date": "2026-07-22T06:27:36Z"
+    },
+    {
+      "title": "Google Announces Three New Gemini AI Models To Rival OpenAI & Anthropic: All You Need To Know",
+      "description": "[FREE PRESS JOURNAL] Google has launched three new Gemini AI models - Gemini 3.6 Flash, Gemini 3.5 Flash-Lite, and a cybersecurity-focused Gemini 3.5 Flash Cyber - as it races to keep pace with OpenAI",
+      "url": "https://www.freepressjournal.in/tech/google-announces-three-new-gemini-ai-models-to-rival-openai-anthropic-all-you-need-to-know",
+      "date": "2026-07-22T06:10:41Z"
+    },
+    {
+      "title": "OpenAI models escaped and hacked a company in cybersecurity test gone wrong",
+      "description": "[LIVEMINT] Before they could penetrate Hugging Face\u2019s defenses, the models needed a way onto the internet. They found one.",
+      "url": "https://www.livemint.com/global/openai-models-escaped-and-hacked-a-company-in-cybersecurity-test-gone-wrong-11784697876357.html",
+      "date": "2026-07-22T05:56:19Z"
+    },
+    {
+      "title": "How OpenAI\u2019s AI models hacked Hugging Face during cybersecurity test",
+      "description": "[THE FINANCIAL EXPRESS] OpenAI's AI models accidentally hacked Hugging Face's systems during a cybersecurity test, exploiting vulnerabilities to access confidential data. The incident highlights evolving AI cyberattack risks and ongoing investigations.",
+      "url": "https://www.financialexpress.com/life/technology/how-openais-ai-models-hacked-hugging-face-during-cybersecurity-test/4298992/",
+      "date": "2026-07-22T05:10:31Z"
     },
     {
       "title": "Hack of energy giant could expose data of millions",
@@ -104,40 +140,10 @@
       "date": "2026-07-22T02:36:55Z"
     },
     {
-      "title": "Cybersecurity in Financial Systems in America: Use Cases, Benefits, Risks, and Long-Term Opportunities",
-      "description": "[TECHBULLION] Cybersecurity in financial systems in America defends a vast, connected economy. Explore the use cases, benefits, risks, and long-term opportunities ahead.",
-      "url": "https://techbullion.com/cybersecurity-in-financial-systems-in-america-use-cases-benefits-risks-and-long-term-opportunities/",
-      "date": "2026-07-22T02:30:00Z"
-    },
-    {
-      "title": "Sam Altman Confirms OpenAI's Testing AI Model Breached Hugging Face Systems",
-      "description": "[TIMES NOW] OpenAI revealed its AI models breached Hugging Face during an internal cybersecurity test after escaping a secure testing environment, raising fresh AI safety concerns., Technology & Science, Times Now",
-      "url": "https://www.timesnownews.com/technology-science/sam-altman-confirms-openais-testing-ai-model-breached-hugging-face-systems-article-155148220",
-      "date": "2026-07-22T02:13:32Z"
-    },
-    {
       "title": "ISC Stormcast For Wednesday, July 22nd, 2026 https://isc.sans.edu/podcastdetail/10018, (Wed, Jul 22nd)",
       "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
       "url": "https://isc.sans.edu/diary/rss/33174",
       "date": "2026-07-22T02:00:02Z"
-    },
-    {
-      "title": "How Cybersecurity in Financial Systems Works: A Guide for the US Financial Market",
-      "description": "[TECHBULLION] A clear guide to how cybersecurity in finance works, from perimeter defenses and encryption to monitoring and recovery, in the US financial market now.",
-      "url": "https://techbullion.com/how-cybersecurity-in-financial-systems-works-a-guide-for-the-us-financial-market/",
-      "date": "2026-07-22T02:00:00Z"
-    },
-    {
-      "title": "OpenAI's AI models hacked a rival startup without human help, company admits",
-      "description": "[CNBC TV18] OpenAI says its GPT-5.6 Sol and an unreleased AI model autonomously breached Hugging Face's systems using a zero-day flaw, calling it an unprecedented cyber incident during testing.",
-      "url": "https://www.cnbctv18.com/technology/openais-ai-models-hacked-a-rival-startup-without-human-help-company-admits-19950992.htm",
-      "date": "2026-07-22T01:43:11Z"
-    },
-    {
-      "title": "Cybersecurity in Financial Systems Explained: What It Means for Consumers and Businesses in the USA",
-      "description": "[TECHBULLION] Cybersecurity in financial systems protects your money and data online. Here is what it covers, why it matters, and where it is heading for US consumers in 2026.",
-      "url": "https://techbullion.com/cybersecurity-in-financial-systems-explained-what-it-means-for-consumers-and-businesses-in-the-usa/",
-      "date": "2026-07-22T01:30:00Z"
     },
     {
       "title": "Captive Portal Detection, (Tue, Jul 21st)",
@@ -174,12 +180,6 @@
       "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
       "url": "https://isc.sans.edu/diary/rss/33166",
       "date": "2026-07-20T02:00:02Z"
-    },
-    {
-      "title": "Scans for Hikvision Intelligent Security API, (Sun, Jul 19th)",
-      "description": "[ISC] We have been following issues with Hikvision cameras for a long, long time. Like many similar products, Hikvision cameras have a long history of vulnerabilities and are often targeted by internet-wide scans that our honeypot network detects.&#xd;",
-      "url": "https://isc.sans.edu/diary/rss/33164",
-      "date": "2026-07-19T15:00:38Z"
     },
     {
       "title": "Friday Squid Blogging: Squid Washing Up on Cape Cod Beach",
