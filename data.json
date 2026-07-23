@@ -1,11 +1,47 @@
 {
-  "updated": "2026-07-23 13:24:15 UTC",
+  "updated": "2026-07-23 15:47:17 UTC",
   "news": [
+    {
+      "title": "Microsoft 365 outage affects Teams, SharePoint and other services",
+      "description": "[BLEEPINGCOMPUTER] Microsoft Teams and several Microsoft 365 services are experiencing an ongoing outage, with users reporting problems accessing Teams, SharePoint, Excel and the Microsoft 365 Admin Center. [...]",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-365-outage-affects-teams-sharepoint-and-other-services/",
+      "date": "2026-07-23T15:34:43Z"
+    },
+    {
+      "title": "FedRAMP Rev5 Is Ending: What the 20x Transition Really Requires",
+      "description": "[BLEEPINGCOMPUTER] FedRAMP 20X replaces point-in-time assessments with continuous, machine-readable evidence that demonstrates security controls are working. Anecdotes explains what the transition from Rev5 to FedRAMP 20X means and how organizations can prepare for...",
+      "url": "https://www.bleepingcomputer.com/news/security/fedramp-rev5-is-ending-what-the-20x-transition-really-requires/",
+      "date": "2026-07-23T14:00:10Z"
+    },
+    {
+      "title": "When the \"Autonomous Attacker\" Is Your Own AI Model, (Thu, Jul 23rd)",
+      "description": "[ISC] Two disclosures, five days apart, described the same intrusion from opposite ends &#xe2;&#x20ac;&#x201d;&#xd; one from the victim, one from the party that turned out to be responsible &#xe2;&#x20ac;&#x201d; and&#xd; together they make one of the...",
+      "url": "https://isc.sans.edu/diary/rss/33180",
+      "date": "2026-07-23T13:40:27Z"
+    },
+    {
+      "title": "Claude Cowork Flaw Could Let AI Agent Escape Its VM and Access Mac Files",
+      "description": "[FEEDS] Cybersecurity researchers have uncovered a sandbox escape vulnerability in Anthropic's Claude Cowork that makes it possible to break out of the confines of a Linux virtual machine (VM) within which the agent runs to read or write files anywhere on...",
+      "url": "https://thehackernews.com/2026/07/claude-cowork-flaw-could-let-ai-agent.html",
+      "date": "2026-07-23T13:27:59Z"
+    },
+    {
+      "title": "Chaos Ransomware Uses msaRAT to Route C2 Traffic Through Headless Chrome and Edge",
+      "description": "[FEEDS] The Chaos ransomware group ran its command-and-control through the victim's own browser. Cisco Talos on Thursday detailed msaRAT, the Rust implant behind it, found on a compromised Windows machine ahead of the encryptor. The implant never opens an...",
+      "url": "https://thehackernews.com/2026/07/chaos-ransomware-uses-msarat-to-route.html",
+      "date": "2026-07-23T13:11:09Z"
+    },
     {
       "title": "EU fines Google $1 billion for search, app store antitrust violations",
       "description": "[BLEEPINGCOMPUTER] The European Commission fined Google \u20ac890 million ($1 billion) on Thursday after finding the company had violated the European Union's Digital Markets Act (DMA), which ensures fair online competition. [...]",
       "url": "https://www.bleepingcomputer.com/news/google/eu-fines-google-1-billion-for-digital-markets-act-breaches-in-search-and-play-store/",
       "date": "2026-07-23T12:33:19Z"
+    },
+    {
+      "title": "China-Nexus JadeProx Uses New TriBack Loader in Government and Healthcare Attacks",
+      "description": "[FEEDS] An exposed Alibaba Cloud server has revealed a China-nexus operation that Group-IB tracks as JadeProx. The cluster has targeted government, healthcare, and education organizations across Asia and Latin America with a previously undocumented Windows...",
+      "url": "https://thehackernews.com/2026/07/china-nexus-jadeprox-uses-new-triback.html",
+      "date": "2026-07-23T12:20:23Z"
     },
     {
       "title": "How Synthetic Identity Fraud is Coming for Machine Identities",
@@ -48,24 +84,6 @@
       "description": "[BLEEPINGCOMPUTER] Microsoft is working to resolve an ongoing Exchange Online issue that has been mistakenly quarantining customers' mailboxes since Sunday. [...]",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-working-to-fix-exchange-online-mailbox-quarantine-issue/",
       "date": "2026-07-23T09:20:10Z"
-    },
-    {
-      "title": "Check Point warns of SmartConsole zero-day exploited in attacks",
-      "description": "[BLEEPINGCOMPUTER] Israeli cybersecurity firm Check Point Software has addressed an actively exploited zero-day flaw in the company's SmartConsole graphical user interface (GUI) admin panel. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/check-point-patches-smartconsole-zero-day-exploited-in-attacks/",
-      "date": "2026-07-23T08:13:07Z"
-    },
-    {
-      "title": "Nine-Year-Old RefluXFS Linux Flaw Gives Local Users Root on Default RHEL Installs",
-      "description": "[FEEDS] RefluXFS, a new Linux kernel flaw disclosed on July 22 and tracked as CVE-2026-64600, lets an unprivileged local user overwrite root-owned files on an XFS filesystem and gain persistent root access. Qualys said default installations of Red Hat...",
-      "url": "https://thehackernews.com/2026/07/nine-year-old-refluxfs-linux-flaw-gives.html",
-      "date": "2026-07-23T08:04:35Z"
-    },
-    {
-      "title": "Check Point Patches Exploited SmartConsole Flaw Allowing Full Admin Access",
-      "description": "[FEEDS] Check Point has released security updates to address multiple vulnerabilities impacting Security Management and Multi-Domain Management (MDSM) products, including a critical flaw that has come under active exploitation in the wild. The security...",
-      "url": "https://thehackernews.com/2026/07/check-point-patches-exploited.html",
-      "date": "2026-07-23T06:34:36Z"
     },
     {
       "title": "ISC Stormcast For Thursday, July 23rd, 2026 https://isc.sans.edu/podcastdetail/10020, (Thu, Jul 23rd)",
@@ -128,22 +146,10 @@
       "date": "2026-07-22T23:56:05Z"
     },
     {
-      "title": "Upbound says hack caused $13 million in fraudulent Acima leases",
-      "description": "[BLEEPINGCOMPUTER] The Upbound Group fintech company disclosed that threat actors who stole data from its systems leveraged it to create $13 million in Acima leases. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/upbound-says-hack-caused-13-million-in-fraudulent-acima-leases/",
-      "date": "2026-07-22T21:43:39Z"
-    },
-    {
       "title": "A alerts DC, Maryland and other customers of data breach",
       "description": "[WTOP] Chick-fil-A rewards program members in D.C., Maryland and eight other states are getting letters warning that hackers may have gained access to partial payment information and other personal data.",
       "url": "https://wtop.com/consumer-news/2026/07/chick-fil-a-alerts-dc-maryland-and-other-customers-of-data-breach/",
       "date": "2026-07-22T21:40:42Z"
-    },
-    {
-      "title": "GitHub Cuts Public Bug Bounty Payouts, Moves Top Rewards to VIP Tier",
-      "description": "[FEEDS] Beginning July 27, 2026, GitHub will cut public bug bounty payouts by at least half at every severity level. Critical findings will drop from $20,000-$30,000+ to a fixed $10,000, while its permanent invite-only VIP tier will pay $30,000 or more....",
-      "url": "https://thehackernews.com/2026/07/github-cuts-public-bug-bounty-payouts.html",
-      "date": "2026-07-22T18:37:42Z"
     },
     {
       "title": "Rondo Meets Geoserver, (Wed, Jul 22nd)",
@@ -180,12 +186,6 @@
       "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
       "url": "https://isc.sans.edu/diary/rss/33170",
       "date": "2026-07-21T02:00:02Z"
-    },
-    {
-      "title": "WordPress Exploitation Underway (CVE-2026-63030), (Mon, Jul 20th)",
-      "description": "[ISC] Last week, Searchlight Cyber released details about a vulnerability they are calling \"wp2shell\". The vulnerability was initially announced without a CVE number. But now has been assigned CVE-2026-63030. Many WordPress plugin vulnerabilities are...",
-      "url": "https://isc.sans.edu/diary/rss/33168",
-      "date": "2026-07-20T18:41:24Z"
     },
     {
       "title": "On Flock License Plate Tracking Cameras",
