@@ -1,6 +1,42 @@
 {
-  "updated": "2026-07-23 08:12:01 UTC",
+  "updated": "2026-07-23 11:45:12 UTC",
   "news": [
+    {
+      "title": "New RefluXFS Linux flaw lets attackers gain root privileges",
+      "description": "[BLEEPINGCOMPUTER] A nine-year-old race condition vulnerability in the Linux kernel's XFS filesystem, tracked as CVE-2026-64600, allows local attackers to overwrite protected files and gain root privileges. [...]",
+      "url": "https://www.bleepingcomputer.com/news/linux/new-refluxfs-linux-flaw-lets-attackers-gain-root-privileges/",
+      "date": "2026-07-23T11:40:16Z"
+    },
+    {
+      "title": "End-to-End Encryption and \u201cGoing Dark\u201d",
+      "description": "[SCHNEIER] New paper: &#8220;Encryption and Globalization 15 Years Later: End-to-End Encryption and the Third Round of the &#8216;Going Dark&#8217; Debate&#8220;: Abstract: This Article updates and expands on 2012 research on encryption and globalization,...",
+      "url": "https://www.schneier.com/blog/archives/2026/07/end-to-end-encryption-and-going-dark.html",
+      "date": "2026-07-23T11:03:50Z"
+    },
+    {
+      "title": "New msaRAT malware uses Chrome, Edge browsers to route C2 traffic",
+      "description": "[BLEEPINGCOMPUTER] The Chaos ransomware gang is using a new backdoor dubbed msaRAT that hides command-and-control (C2) communication by routing it through the Chrome or Edge browsers. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/new-msarat-malware-uses-chrome-edge-browsers-to-route-c2-traffic/",
+      "date": "2026-07-23T10:00:00Z"
+    },
+    {
+      "title": "Microsoft working to fix Exchange Online mailbox quarantine issue",
+      "description": "[BLEEPINGCOMPUTER] Microsoft is working to resolve an ongoing Exchange Online issue that has been mistakenly quarantining customers' mailboxes since Sunday. [...]",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-working-to-fix-exchange-online-mailbox-quarantine-issue/",
+      "date": "2026-07-23T09:20:10Z"
+    },
+    {
+      "title": "Check Point warns of SmartConsole zero-day exploited in attacks",
+      "description": "[BLEEPINGCOMPUTER] Israeli cybersecurity firm Check Point Software has addressed an actively exploited zero-day flaw in the company's SmartConsole graphical user interface (GUI) admin panel. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/check-point-patches-smartconsole-zero-day-exploited-in-attacks/",
+      "date": "2026-07-23T08:13:07Z"
+    },
+    {
+      "title": "Nine-Year-Old RefluXFS Linux Flaw Gives Local Users Root on Default RHEL Installs",
+      "description": "[FEEDS] RefluXFS, a new Linux kernel flaw disclosed on July 22 and tracked as CVE-2026-64600, lets an unprivileged local user overwrite root-owned files on an XFS filesystem and gain persistent root access. Qualys said default installations of Red Hat...",
+      "url": "https://thehackernews.com/2026/07/nine-year-old-refluxfs-linux-flaw-gives.html",
+      "date": "2026-07-23T08:04:35Z"
+    },
     {
       "title": "Check Point Patches Exploited SmartConsole Flaw Allowing Full Admin Access",
       "description": "[FEEDS] Check Point has released security updates to address multiple vulnerabilities impacting Security Management and Multi-Domain Management (MDSM) products, including a critical flaw that has come under active exploitation in the wild. The security...",
@@ -18,6 +54,24 @@
       "description": "[BLEEPINGCOMPUTER] The Upbound Group fintech company disclosed that threat actors who stole data from its systems leveraged it to create $13 million in Acima leases. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/upbound-says-hack-caused-13-million-in-fraudulent-acima-leases/",
       "date": "2026-07-22T21:43:39Z"
+    },
+    {
+      "title": "A alerts DC, Maryland and other customers of data breach",
+      "description": "[WTOP] Chick-fil-A rewards program members in D.C., Maryland and eight other states are getting letters warning that hackers may have gained access to partial payment information and other personal data.",
+      "url": "https://wtop.com/consumer-news/2026/07/chick-fil-a-alerts-dc-maryland-and-other-customers-of-data-breach/",
+      "date": "2026-07-22T21:40:42Z"
+    },
+    {
+      "title": "Texas Chick-fil-A customers caught up in data breach",
+      "description": "[THE DALLAS MORNING NEWS] A Chick-fil-A data breach may have exposed Texas customers\u2019 names, emails and other information",
+      "url": "https://www.dallasnews.com/business/article/texas-chick-fil-a-customers-caught-data-breach-22356029.php",
+      "date": "2026-07-22T20:16:05Z"
+    },
+    {
+      "title": "Revised cybersecurity code of practice covers board accountability, detection and response",
+      "description": "[CNA] Boards and senior management of Singapore's Critical Information Infrastructure operators will be held directly accountable for cyber resilience, under an updated Cybersecurity Code of Practice. The revised code shifts the focus from preventing...",
+      "url": "https://www.channelnewsasia.com/watch/revised-cybersecurity-code-practice-covers-board-accountability-detection-and-response-6271816",
+      "date": "2026-07-22T20:13:28Z"
     },
     {
       "title": "South Korea discloses data breach impacting diplomats worldwide",
@@ -80,40 +134,10 @@
       "date": "2026-07-22T18:06:44Z"
     },
     {
-      "title": "This is the stock to buy after OpenAI's AI agent goes rogue in a cybersecurity test",
-      "description": "[CNBC] Jim Cramer said CrowdStrike is the stock to buy after OpenAI's agentic breach.",
-      "url": "https://www.cnbc.com/2026/07/22/this-is-the-stock-to-buy-after-openais-ai-agent-goes-rogue-in-a-cybersecurity-test.html",
-      "date": "2026-07-22T17:57:40Z"
-    },
-    {
-      "title": "Former DOGE Employees Launch AI-Powered Cybersecurity Startup 'Cathedral'",
-      "description": "[DEVDISCOURSE] Former DOGE employees have launched 'Cathedral,' a startup focused on enhancing U.S. military cyber capabilities with AI, raising $160 million. The firm looks to secure government contracts and potentially acquire a data center. It maintains ties to...",
-      "url": "https://www.devdiscourse.com/article/technology/3954229-former-doge-employees-launch-ai-powered-cybersecurity-startup-cathedral",
-      "date": "2026-07-22T17:43:43Z"
-    },
-    {
       "title": "Rondo Meets Geoserver, (Wed, Jul 22nd)",
       "description": "[ISC] This isn&&#x23&#x3b;x26&#x3b;&#x23&#x3b;39&#x3b;t a new attack, but something I saw \"pop-up\" in our logs this week:&#xd;",
       "url": "https://isc.sans.edu/diary/rss/33176",
       "date": "2026-07-22T17:35:33Z"
-    },
-    {
-      "title": "Chinese AI's role in stopping rogue OpenAI agent shows cost of US guardrails",
-      "description": "[REUTERS] A New York startup's use of a Chinese AI model to rein in a rogue agent built with OpenAI technology is stoking fears that guradrails restricting U.S. AI firms from doing cybersecurity work could drive customers toward their Beijing-based rivals.",
-      "url": "https://www.reuters.com/legal/litigation/chinese-ais-role-stopping-rogue-openai-agent-shows-cost-us-guardrails-2026-07-22/",
-      "date": "2026-07-22T17:17:13Z"
-    },
-    {
-      "title": "Swiss rail giant Stadler rejects $12.3M ransom demand after cyberattack",
-      "description": "[BLEEPINGCOMPUTER] Swiss rail vehicle manufacturer Stadler Rail says the Everest ransomware gang demanded about $12.3 million after breaching a data exchange platform shared with one of its suppliers. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/swiss-rail-giant-stadler-rejects-123m-ransom-demand-after-cyberattack/",
-      "date": "2026-07-22T16:59:17Z"
-    },
-    {
-      "title": "How enterprise GenAI can amplify ransomware risk \u2014 and how to contain it",
-      "description": "[BLEEPINGCOMPUTER] Enterprise AI can accelerate ransomware attacks when AI assistants and agents inherit excessive permissions or compromised identities. Acronis explains how identity controls, governance, and least-privilege access help reduce AI-enabled ransomware...",
-      "url": "https://www.bleepingcomputer.com/news/security/how-enterprise-genai-can-amplify-ransomware-risk-and-how-to-contain-it/",
-      "date": "2026-07-22T15:30:00Z"
     },
     {
       "title": "Adobe Acrobat Extension Flaw Let Malicious Sites Read WhatsApp Web Data",
@@ -122,28 +146,10 @@
       "date": "2026-07-22T15:01:21Z"
     },
     {
-      "title": "New InfraTrust report reveals infrastructure flaws admins should patch first",
-      "description": "[BLEEPINGCOMPUTER] Eclypsium has launched InfraTrust, a new infrastructure cybersecurity knowledge base and monthly InfraTrust Pulse report designed to help organizations prioritize vulnerabilities affecting infrastructure, firmware, networking, and edge devices. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/new-infratrust-report-reveals-infrastructure-flaws-admins-should-patch-first/",
-      "date": "2026-07-22T14:15:00Z"
-    },
-    {
-      "title": "Adobe Chrome extension flaw let sites access private WhatsApp chats",
-      "description": "[BLEEPINGCOMPUTER] The Adobe Acrobat extension for Chrome could be used to access conversations and data rendered in WhatsApp Web without any form of authentication. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/adobe-chrome-extension-flaw-let-sites-access-private-whatsapp-chats/",
-      "date": "2026-07-22T13:22:20Z"
-    },
-    {
       "title": "Hackers Exploit Windmill Flaw to Read Arbitrary Server Files Without Authentication",
       "description": "[FEEDS] A high-severity security flaw impacting open-source developer platform Windmill has come under active exploitation in the wild, per VulnCheck. The vulnerability in question is CVE-2026-29059 (CVSS score: 7.5), a case of unauthenticated path...",
       "url": "https://thehackernews.com/2026/07/hackers-exploit-windmill-flaw-to-read.html",
       "date": "2026-07-22T12:36:36Z"
-    },
-    {
-      "title": "The Fastest Path to AI Adoption Runs Through Security",
-      "description": "[FEEDS] Security leaders who build fast, visible paths to AI adoption are becoming the most valued partners in their organizations. AI governance done right gives security teams the visibility they need, employees the tools they want, and CISOs the...",
-      "url": "https://thehackernews.com/2026/07/the-fastest-path-to-ai-adoption-runs.html",
-      "date": "2026-07-22T11:58:00Z"
     },
     {
       "title": "First-Person Identity Theft Story",
@@ -198,12 +204,6 @@
       "description": "[SCHNEIER] Really interesting piece of cryptographic history: In November 2023, a large cache of his wartime papers&#8212;nicknamed the &#8220;Bayley papers&#8221;&#8212;was auctioned in London for almost half a million U.S. dollars. The previously unknown...",
       "url": "https://www.schneier.com/blog/archives/2026/07/details-of-alan-turings-voice-encryption-system.html",
       "date": "2026-07-17T11:02:21Z"
-    },
-    {
-      "title": "Protecting Privacy in an AI Era",
-      "description": "[SCHNEIER] Daniel Solove argues in the Wall Street Journal (alternate link) that giving people control of their personal data is not an effective way to regulate privacy in this era. Instead, we need to hold companies accountable for their actions, similar to...",
-      "url": "https://www.schneier.com/blog/archives/2026/07/protecting-privacy-in-an-ai-era.html",
-      "date": "2026-07-16T14:34:31Z"
     }
   ]
 }
