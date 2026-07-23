@@ -1,6 +1,12 @@
 {
-  "updated": "2026-07-23 20:51:11 UTC",
+  "updated": "2026-07-23 22:46:52 UTC",
   "news": [
+    {
+      "title": "New Dolphin X malware uses AI to rank high-value targets",
+      "description": "[BLEEPINGCOMPUTER] A new Dolphin X remote access trojan claims to use an AI-powered profiling feature to score and rank infected users, helping cybercriminals identify which victims should be targeted first. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/new-dolphin-x-malware-uses-ai-to-rank-high-value-targets/",
+      "date": "2026-07-23T21:20:34Z"
+    },
     {
       "title": "Australian energy provider Origin says data breach exposes client data",
       "description": "[BLEEPINGCOMPUTER] Origin Energy has confirmed that an unauthorized party accessed and subsequently leaked customer data online, exposing sensitive personally identifiable information (PII), among others. [...]",
@@ -44,12 +50,6 @@
       "date": "2026-07-23T15:02:07Z"
     },
     {
-      "title": "FedRAMP Rev5 Is Ending: What the 20x Transition Really Requires",
-      "description": "[BLEEPINGCOMPUTER] FedRAMP 20X replaces point-in-time assessments with continuous, machine-readable evidence that demonstrates security controls are working. Anecdotes explains what the transition from Rev5 to FedRAMP 20X means and how organizations can prepare for...",
-      "url": "https://www.bleepingcomputer.com/news/security/fedramp-rev5-is-ending-what-the-20x-transition-really-requires/",
-      "date": "2026-07-23T14:00:10Z"
-    },
-    {
       "title": "When the \"Autonomous Attacker\" Is Your Own AI Model, (Thu, Jul 23rd)",
       "description": "[ISC] Two disclosures, five days apart, described the same intrusion from opposite ends &#xe2;&#x20ac;&#x201d;&#xd; one from the victim, one from the party that turned out to be responsible &#xe2;&#x20ac;&#x201d; and&#xd; together they make one of the...",
       "url": "https://isc.sans.edu/diary/rss/33180",
@@ -86,6 +86,48 @@
       "date": "2026-07-23T11:03:50Z"
     },
     {
+      "title": "Last chance for Americans to get up to $5,000 payment from $2.5million data breach settlement",
+      "description": "[THE SUN U.S EDITION] TIME is running out for Americans to claim thousands of dollars in a $2.5M data breach settlement as the July deadline impends. Fidelity...",
+      "url": "https://www.the-sun.com/money/16734409/last-chance-americans-get-5000-data-breach-settlement/",
+      "date": "2026-07-23T10:39:55Z"
+    },
+    {
+      "title": "ServiceNow CEO Bill McDermott Hails '10-Figure Cybersecurity Business' as Q2 Subscription Revenue Surges",
+      "description": "[BENZINGA] ServiceNow Q2 subscription revenues surged 23% to $3.88B. CEO Bill McDermott hails NOW's new 10-figure cyber business.",
+      "url": "https://www.benzinga.com/markets/earnings/26/07/60631250/servicenow-ceo-bill-mcdermott-hails-10-figure-cybersecurity-business-as-q2-subscription-revenue-surges-23-to-3-88-billion",
+      "date": "2026-07-23T10:22:50Z"
+    },
+    {
+      "title": "9 things European entrepreneurs should know before becoming digital nomads",
+      "description": "[EURONEWS] From taxes to finances and cybersecurity, these are some of the key factors to be aware of before embracing the digital nomad life.",
+      "url": "https://www.euronews.com/business/2026/07/23/9-things-european-entrepreneurs-should-know-before-becoming-digital-nomads",
+      "date": "2026-07-23T10:11:06Z"
+    },
+    {
+      "title": "AI Is Shifting Cybersecurity From Preventing Breaches to Neutralizing Them",
+      "description": "[NEWSWEEK] As AI accelerates cyberattacks, making stolen data worthless matters as much as prevention, says cybersecurity expert Jan Lane.",
+      "url": "https://www.newsweek.com/ai-is-shifting-cybersecurity-from-preventing-breaches-to-neutralizing-them-12230498",
+      "date": "2026-07-23T10:04:57Z"
+    },
+    {
+      "title": "OpenAI's Models Were Told To Misbehave-They Went Further Than Anyone Expected",
+      "description": "[OUTLOOK BUSINESS] An AI red teaming test went rogue: How an unreleased OpenAI model broke out of its digital cage, exploited a zero-day flaw, and compromised Hugging Face systems.",
+      "url": "https://www.outlookbusiness.com/corporate/openais-models-were-told-to-misbehavethey-went-further-than-anyone-expected",
+      "date": "2026-07-23T09:48:41Z"
+    },
+    {
+      "title": "Meet Amit Dubey: The Writer Behind Arshad Warsi-Vikrant Massey's Cybercrime Comedy Thriller Pritam and Pedro",
+      "description": "[REPUBLIC WORLD] Amit Dubey's background in cybersecurity enables him to create narratives that carry credibility while remaining emotionally engaging. This rare combination allows Pritam and Pedro to entertain without compromising on authenticity.",
+      "url": "https://www.republicworld.com/entertainment/ott/web-series/meet-amit-dubey-the-writer-behind-arshad-warsi-vikrant-massey-s-cybercrime-comedy-thriller-pritam-and-pedro-2026-07-23-133207",
+      "date": "2026-07-23T09:19:43Z"
+    },
+    {
+      "title": "Origin Energy reports customer bank, credit card details caught up in data breach",
+      "description": "[SBS AUSTRALIA] After advising it had been caught up in a data breach on Wednesday, Origin Energy has revealed the full extent of stolen materials.",
+      "url": "https://www.sbs.com.au/news/article/origin-energy-customer-bank-credit-details-stolen-major-data-breach/t5m64pwrs",
+      "date": "2026-07-23T08:53:38Z"
+    },
+    {
       "title": "Tech Platform Hacked by OpenAI's Out of Control Models Calls for Cybersecurity 'Wake-Up Call'",
       "description": "[BREITBART NEWS NETWORK] The cofounder of Hugging Face, a technology start-up compromised when OpenAI's advanced AI models broke containment protocols, stated Thursday that the breach by self-directed AI models represents a critical warning for the technology sector.",
       "url": "https://www.breitbart.com/tech/2026/07/23/the-game-has-changed-tech-platform-hacked-by-openais-out-of-control-models-calls-for-cybersecurity-wake-up-call/",
@@ -102,48 +144,6 @@
       "description": "[THE MANILA TIMES] Strategic alliance combines PwC Italy\u2019s advisory expertise with Coro\u2019s AI-native cybersecurity platform to help organizations democratize cybersecurity and meet evolving regulatory requirements",
       "url": "https://www.manilatimes.net/2026/07/23/tmt-newswire/globenewswire/coro-and-pwc-italy-partner-to-help-automate-cybersecurity-and-nis2-compliance-for-businesses-of-all-sizes/2389975",
       "date": "2026-07-23T07:13:12Z"
-    },
-    {
-      "title": "Origin Energy confirms data breach, apologises to customers",
-      "description": "[EUROPE SAYS] In the release, signed by company secretary Helen Hardy, Origin said it is still working to understand the total number of affected customers and will contact",
-      "url": "https://www.europesays.com/3148532/",
-      "date": "2026-07-23T07:10:15Z"
-    },
-    {
-      "title": "OpenAI\u2019s models autonomously hacked a tech start",
-      "description": "[THE HINDU BUSINESS LINE] OpenAI's AI models autonomously hacked a tech startup, signaling a critical shift in cybersecurity that demands urgent action.",
-      "url": "https://www.thehindubusinessline.com/info-tech/openais-models-autonomously-hacked-a-tech-start-up-signals-a-seismic-shift-in-cybersecurity/article71256528.ece",
-      "date": "2026-07-23T06:37:32Z"
-    },
-    {
-      "title": "Corporate Technologies: powering SMBs through Local IT Support and National Scale Cybersecurity",
-      "description": "[TECHBULLION] This gives SMBs access to services such as round-the-clock monitoring, advanced threat detection, and immediate incident response, something that independent local IT specialists cannot provide.",
-      "url": "https://techbullion.com/corporate-technologies-powering-smbs-through-local-it-support-and-national-scale-cybersecurity/",
-      "date": "2026-07-23T06:36:25Z"
-    },
-    {
-      "title": "AI going 'rogue' no longer a theory? OpenAI says its AI models found ways to access secret information, cheat an evaluation and hacked Hugging Face",
-      "description": "[THE ECONOMIC TIMES] OpenAI hacked Hugging Face: OpenAI's advanced AI models breached Hugging Face during cybersecurity testing. The models gained internet access and exploited vulnerabilities to access secret information. Hugging Face detected and stopped the activity...",
-      "url": "https://economictimes.indiatimes.com/news/new-updates/ai-going-rogue-no-longer-a-theory-openai-says-its-ai-models-found-ways-to-access-secret-information-cheat-an-evaluation-and-hacked-hugging-face/articleshow/132573377.cms",
-      "date": "2026-07-23T06:31:00Z"
-    },
-    {
-      "title": "Why the OpenAI escape is the most worrying AI mishap yet",
-      "description": "[THE STRAITS TIMES] As AI surpasses humans in cybersecurity tasks, very few experts in the world can properly understand breaches. Read more at straitstimes.com.",
-      "url": "https://www.straitstimes.com/opinion/why-the-openai-escape-is-the-most-worrying-ai-mishap-yet",
-      "date": "2026-07-23T06:00:00Z"
-    },
-    {
-      "title": "JPMorgan's India GCC to hire about 1,000 as AI trims staffing in other functions",
-      "description": "[MONEYCONTROL] The hiring will focus on technology specialists across cloud architecture, cybersecurity, and AI data pipelines, with candidates expected to undergo HackerRank-based assessments testing coding, data structures, algorithms, and system architecture",
-      "url": "https://www.moneycontrol.com/technology/jpmorgan-to-hire-1000-people-for-its-india-gccs-article-13981332.html",
-      "date": "2026-07-23T05:06:30Z"
-    },
-    {
-      "title": "How Frontier AI Is Changing the Cyber Threat Landscape",
-      "description": "[ITWIRE] How is Acronis assessing and addressing the cybersecurity risks associated with advanced frontier AI models, like Mythos, that may be capable of identifying, generating, or...",
-      "url": "https://itwire.com/guest-articles/guest-opinion/how-frontier-ai-is-changing-the-cyber-threat-landscape",
-      "date": "2026-07-23T05:04:00Z"
     },
     {
       "title": "ISC Stormcast For Thursday, July 23rd, 2026 https://isc.sans.edu/podcastdetail/10020, (Thu, Jul 23rd)",
