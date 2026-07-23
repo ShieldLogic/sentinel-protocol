@@ -1,209 +1,137 @@
 {
-  "updated": "2026-07-23 11:45:12 UTC",
-  "news": [
-    {
-      "title": "New RefluXFS Linux flaw lets attackers gain root privileges",
-      "description": "[BLEEPINGCOMPUTER] A nine-year-old race condition vulnerability in the Linux kernel's XFS filesystem, tracked as CVE-2026-64600, allows local attackers to overwrite protected files and gain root privileges. [...]",
-      "url": "https://www.bleepingcomputer.com/news/linux/new-refluxfs-linux-flaw-lets-attackers-gain-root-privileges/",
-      "date": "2026-07-23T11:40:16Z"
-    },
-    {
-      "title": "End-to-End Encryption and \u201cGoing Dark\u201d",
-      "description": "[SCHNEIER] New paper: &#8220;Encryption and Globalization 15 Years Later: End-to-End Encryption and the Third Round of the &#8216;Going Dark&#8217; Debate&#8220;: Abstract: This Article updates and expands on 2012 research on encryption and globalization,...",
-      "url": "https://www.schneier.com/blog/archives/2026/07/end-to-end-encryption-and-going-dark.html",
-      "date": "2026-07-23T11:03:50Z"
-    },
-    {
-      "title": "New msaRAT malware uses Chrome, Edge browsers to route C2 traffic",
-      "description": "[BLEEPINGCOMPUTER] The Chaos ransomware gang is using a new backdoor dubbed msaRAT that hides command-and-control (C2) communication by routing it through the Chrome or Edge browsers. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/new-msarat-malware-uses-chrome-edge-browsers-to-route-c2-traffic/",
-      "date": "2026-07-23T10:00:00Z"
-    },
-    {
-      "title": "Microsoft working to fix Exchange Online mailbox quarantine issue",
-      "description": "[BLEEPINGCOMPUTER] Microsoft is working to resolve an ongoing Exchange Online issue that has been mistakenly quarantining customers' mailboxes since Sunday. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-working-to-fix-exchange-online-mailbox-quarantine-issue/",
-      "date": "2026-07-23T09:20:10Z"
-    },
-    {
-      "title": "Check Point warns of SmartConsole zero-day exploited in attacks",
-      "description": "[BLEEPINGCOMPUTER] Israeli cybersecurity firm Check Point Software has addressed an actively exploited zero-day flaw in the company's SmartConsole graphical user interface (GUI) admin panel. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/check-point-patches-smartconsole-zero-day-exploited-in-attacks/",
-      "date": "2026-07-23T08:13:07Z"
-    },
-    {
-      "title": "Nine-Year-Old RefluXFS Linux Flaw Gives Local Users Root on Default RHEL Installs",
-      "description": "[FEEDS] RefluXFS, a new Linux kernel flaw disclosed on July 22 and tracked as CVE-2026-64600, lets an unprivileged local user overwrite root-owned files on an XFS filesystem and gain persistent root access. Qualys said default installations of Red Hat...",
-      "url": "https://thehackernews.com/2026/07/nine-year-old-refluxfs-linux-flaw-gives.html",
-      "date": "2026-07-23T08:04:35Z"
-    },
-    {
-      "title": "Check Point Patches Exploited SmartConsole Flaw Allowing Full Admin Access",
-      "description": "[FEEDS] Check Point has released security updates to address multiple vulnerabilities impacting Security Management and Multi-Domain Management (MDSM) products, including a critical flaw that has come under active exploitation in the wild. The security...",
-      "url": "https://thehackernews.com/2026/07/check-point-patches-exploited.html",
-      "date": "2026-07-23T06:34:36Z"
-    },
-    {
-      "title": "ISC Stormcast For Thursday, July 23rd, 2026 https://isc.sans.edu/podcastdetail/10020, (Thu, Jul 23rd)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33178",
-      "date": "2026-07-23T02:00:03Z"
-    },
-    {
-      "title": "Upbound says hack caused $13 million in fraudulent Acima leases",
-      "description": "[BLEEPINGCOMPUTER] The Upbound Group fintech company disclosed that threat actors who stole data from its systems leveraged it to create $13 million in Acima leases. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/upbound-says-hack-caused-13-million-in-fraudulent-acima-leases/",
-      "date": "2026-07-22T21:43:39Z"
-    },
-    {
-      "title": "A alerts DC, Maryland and other customers of data breach",
-      "description": "[WTOP] Chick-fil-A rewards program members in D.C., Maryland and eight other states are getting letters warning that hackers may have gained access to partial payment information and other personal data.",
-      "url": "https://wtop.com/consumer-news/2026/07/chick-fil-a-alerts-dc-maryland-and-other-customers-of-data-breach/",
-      "date": "2026-07-22T21:40:42Z"
-    },
-    {
-      "title": "Texas Chick-fil-A customers caught up in data breach",
-      "description": "[THE DALLAS MORNING NEWS] A Chick-fil-A data breach may have exposed Texas customers\u2019 names, emails and other information",
-      "url": "https://www.dallasnews.com/business/article/texas-chick-fil-a-customers-caught-data-breach-22356029.php",
-      "date": "2026-07-22T20:16:05Z"
-    },
-    {
-      "title": "Revised cybersecurity code of practice covers board accountability, detection and response",
-      "description": "[CNA] Boards and senior management of Singapore's Critical Information Infrastructure operators will be held directly accountable for cyber resilience, under an updated Cybersecurity Code of Practice. The revised code shifts the focus from preventing...",
-      "url": "https://www.channelnewsasia.com/watch/revised-cybersecurity-code-practice-covers-board-accountability-detection-and-response-6271816",
-      "date": "2026-07-22T20:13:28Z"
-    },
-    {
-      "title": "South Korea discloses data breach impacting diplomats worldwide",
-      "description": "[BLEEPINGCOMPUTER] South Korea disclosed that hackers breached the National Diplomatic Academy's online education system for ten months and stole personal information belonging to current and former employees of the Ministry of Foreign Affairs (MFA), including...",
-      "url": "https://www.bleepingcomputer.com/news/security/south-korea-discloses-data-breach-impacting-diplomats-worldwide/",
-      "date": "2026-07-22T20:06:54Z"
-    },
-    {
-      "title": "How OpenAI\u2019s human mistake led to the AI-powered hack on Hugging Face",
-      "description": "[TECHCRUNCH] OpenAI made a mistake setting up what it called a \u201chighly isolated\u201d testing environment and sandbox. According to cybersecurity experts, that human mistake is what made the AI-powered attack on Hugging Face possible.",
-      "url": "https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face/",
-      "date": "2026-07-22T19:11:46Z"
-    },
-    {
-      "title": "Meta hires Assaf Keren from Qualtrics and PayPal as its new chief information security officer",
-      "description": "[TNW] Meta tapped cybersecurity veteran Assaf Keren as its next CISO, replacing Guy Rosen who is departing after 13 years and will stay on for a transition period",
-      "url": "https://thenextweb.com/news/meta-hires-assaf-keren-ciso-qualtrics-paypal",
-      "date": "2026-07-22T18:59:28Z"
-    },
-    {
-      "title": "Fortinet and Intel Just Announced a New Collaboration. The Real Test for FTNT Stock Is Earnings.",
-      "description": "[BARCHART] Fortinet announced a collaboration with Intel to develop the Fortinet Security Processor 6 on the Intel 4 process, making Fortinet the first named cybersecurity customer for Intel Foundry.",
-      "url": "https://www.barchart.com/story/news/3410535/fortinet-and-intel-just-announced-a-new-collaboration-the-real-test-for-ftnt-stock-is-earnings",
-      "date": "2026-07-22T18:51:34Z"
-    },
-    {
-      "title": "World Cup cyber scams uncovered by Boston's Recorded Future",
-      "description": "[THE BOSTON GLOBE] According to Boston cybersecurity firm Recorded Future, criminals used sophisticated techniques to hack into e-commerce sites and web hosting providers.",
-      "url": "https://www.bostonglobe.com/2026/07/22/business/world-cup-scams-crime-fraud-online/",
-      "date": "2026-07-22T18:49:11Z"
-    },
-    {
-      "title": "IFSCA bars angel fund from launching new schemes over cybersecurity lapse",
-      "description": "[TIMES OF INDIA] IFSCA bars GIFT City angel fund We Founder Circle from launching new schemes after $100,000 BEC cyber-fraud; orders deposit and fund freeze within 60 days.",
-      "url": "https://timesofindia.indiatimes.com/city/ahmedabad/ifsca-bars-angel-fund-from-launching-new-schemes-over-cybersecurity-lapse/articleshow/132566808.cms",
-      "date": "2026-07-22T18:47:00Z"
-    },
-    {
-      "title": "GitHub Cuts Public Bug Bounty Payouts, Moves Top Rewards to VIP Tier",
-      "description": "[FEEDS] Beginning July 27, 2026, GitHub will cut public bug bounty payouts by at least half at every severity level. Critical findings will drop from $20,000-$30,000+ to a fixed $10,000, while its permanent invite-only VIP tier will pay $30,000 or more....",
-      "url": "https://thehackernews.com/2026/07/github-cuts-public-bug-bounty-payouts.html",
-      "date": "2026-07-22T18:37:42Z"
-    },
-    {
-      "title": "Chick-fil-A customers in 10 states may have had data breached",
-      "description": "[NBC10 BOSTON] Chick-fil-A is warning customers from 10 states and Washington, D.C., about a data breach last month that potentially exposed sensitive information.",
-      "url": "https://www.nbcboston.com/news/national-international/chick-fil-customers-data-breach-10-states/3985498/",
-      "date": "2026-07-22T18:30:22Z"
-    },
-    {
-      "title": "Ubuntu snap-confine Flaw Could Give Local Users Root on Default Desktop Installs",
-      "description": "[FEEDS] Cybersecurity researchers have disclosed details of a new local privilege escalation (LPE) vulnerability in snap-confine that an unprivileged user can trigger to obtain root access and gain complete control of a target environment. The high-severity...",
-      "url": "https://thehackernews.com/2026/07/ubuntu-snap-confine-flaw-could-give.html",
-      "date": "2026-07-22T18:07:16Z"
-    },
-    {
-      "title": "MazeBolt Appoints Tan Parker to Its Board of Directors",
-      "description": "[THE MANILA TIMES] RAMAT GAN, Israel, July 22, 2026 (GLOBE NEWSWIRE) -- MazeBolt, the leading provider of DDoS Vulnerability Management solutions, today announced the appointment of Tan Parker to its Board of Directors. Mr. Parker brings a distinguished career...",
-      "url": "https://www.manilatimes.net/2026/07/23/tmt-newswire/globenewswire/mazebolt-appoints-tan-parker-to-its-board-of-directors/2389676",
-      "date": "2026-07-22T18:06:44Z"
-    },
-    {
-      "title": "Rondo Meets Geoserver, (Wed, Jul 22nd)",
-      "description": "[ISC] This isn&&#x23&#x3b;x26&#x3b;&#x23&#x3b;39&#x3b;t a new attack, but something I saw \"pop-up\" in our logs this week:&#xd;",
-      "url": "https://isc.sans.edu/diary/rss/33176",
-      "date": "2026-07-22T17:35:33Z"
-    },
-    {
-      "title": "Adobe Acrobat Extension Flaw Let Malicious Sites Read WhatsApp Web Data",
-      "description": "[FEEDS] Cybersecurity researchers have disclosed details of a now-patched vulnerability chain in the Adobe Acrobat Chrome extension that has over 314 million users, which, if exploited, could facilitate a silent hijack of a user's WhatsApp data. The...",
-      "url": "https://thehackernews.com/2026/07/adobe-acrobat-extension-flaw-let.html",
-      "date": "2026-07-22T15:01:21Z"
-    },
-    {
-      "title": "Hackers Exploit Windmill Flaw to Read Arbitrary Server Files Without Authentication",
-      "description": "[FEEDS] A high-severity security flaw impacting open-source developer platform Windmill has come under active exploitation in the wild, per VulnCheck. The vulnerability in question is CVE-2026-29059 (CVSS score: 7.5), a case of unauthenticated path...",
-      "url": "https://thehackernews.com/2026/07/hackers-exploit-windmill-flaw-to-read.html",
-      "date": "2026-07-22T12:36:36Z"
-    },
-    {
-      "title": "First-Person Identity Theft Story",
-      "description": "[SCHNEIER] Harrowing story of an identity theft victim. Yes, the person made a mistake&#8212;they gave the scammer a two-factor authentication code that allowed the scammer to take over their email address. But the real story here is how, for many of us, the...",
-      "url": "https://www.schneier.com/blog/archives/2026/07/first-person-identity-theft-story.html",
-      "date": "2026-07-22T11:02:26Z"
-    },
-    {
-      "title": "ISC Stormcast For Wednesday, July 22nd, 2026 https://isc.sans.edu/podcastdetail/10018, (Wed, Jul 22nd)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33174",
-      "date": "2026-07-22T02:00:02Z"
-    },
-    {
-      "title": "Captive Portal Detection, (Tue, Jul 21st)",
-      "description": "[ISC] Not everything our honeypots detect is an attack. Sometimes it is just \"odd traffic\", and this is one example: Our \"First Seen\" list currently includes \"http://detectportal.firefox.co&#xd; m/success.txt\" as one of the new URLs detected by our...",
-      "url": "https://isc.sans.edu/diary/rss/33172",
-      "date": "2026-07-21T13:44:56Z"
-    },
-    {
-      "title": "MIT to Become Hotbed of AI Video Surveillance",
-      "description": "[SCHNEIER] It&#8217;s a lot: According to information obtained by The Tech, MIT is spending over $3 million on more than 500 AI surveillance cameras in academic buildings, residence halls, and outdoor areas along Memorial Drive. Installation of the new...",
-      "url": "https://www.schneier.com/blog/archives/2026/07/mit-to-become-hotbed-of-ai-video-surveillance.html",
-      "date": "2026-07-21T11:07:13Z"
-    },
-    {
-      "title": "ISC Stormcast For Tuesday, July 21st, 2026 https://isc.sans.edu/podcastdetail/10016, (Tue, Jul 21st)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33170",
-      "date": "2026-07-21T02:00:02Z"
-    },
-    {
-      "title": "WordPress Exploitation Underway (CVE-2026-63030), (Mon, Jul 20th)",
-      "description": "[ISC] Last week, Searchlight Cyber released details about a vulnerability they are calling \"wp2shell\". The vulnerability was initially announced without a CVE number. But now has been assigned CVE-2026-63030. Many WordPress plugin vulnerabilities are...",
-      "url": "https://isc.sans.edu/diary/rss/33168",
-      "date": "2026-07-20T18:41:24Z"
-    },
-    {
-      "title": "On Flock License Plate Tracking Cameras",
-      "description": "[SCHNEIER] A recent story of a writer who was mistakenly identified, tracked, and arrested using data from Flock cameras has gone viral. The New Jersey plates that were allegedly stolen from the LA dealer were 34 03 DTM, not 34 10 DTM. But when the police...",
-      "url": "https://www.schneier.com/blog/archives/2026/07/on-flock-license-plate-tracking-cameras.html",
-      "date": "2026-07-20T11:03:45Z"
-    },
-    {
-      "title": "Friday Squid Blogging: Squid Washing Up on Cape Cod Beach",
-      "description": "[SCHNEIER] Lots of articles about this. As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered. Blog moderation policy.",
-      "url": "https://www.schneier.com/blog/archives/2026/07/friday-squid-blogging-squid-washing-up-on-cape-cod-beach.html",
-      "date": "2026-07-17T21:01:37Z"
-    },
-    {
-      "title": "Details of Alan Turing\u2019s Voice Encryption System",
-      "description": "[SCHNEIER] Really interesting piece of cryptographic history: In November 2023, a large cache of his wartime papers&#8212;nicknamed the &#8220;Bayley papers&#8221;&#8212;was auctioned in London for almost half a million U.S. dollars. The previously unknown...",
-      "url": "https://www.schneier.com/blog/archives/2026/07/details-of-alan-turings-voice-encryption-system.html",
-      "date": "2026-07-17T11:02:21Z"
-    }
-  ]
+    "title": "Sentinel Protocol",
+    "tagline": "Perimeter Intelligence Sync",
+    "updated": "2026-07-23 12:21 UTC",
+    "news": [
+        {
+            "source": {
+                "id": null,
+                "name": "BusinessLine"
+            },
+            "author": "BL Kochi Bureau",
+            "title": "Siemens wins \u20b991.6\u00a0crore KMRL Phase\u00a0II communication systems\u00a0contract",
+            "description": "Siemens secures \u20b991.6 crore contract for KMRL Phase II communication systems, enhancing safety and efficiency in Kochi's metro operations.",
+            "url": "https://www.thehindubusinessline.com/economy/logistics/siemens-wins-916crore-kmrl-phaseii-communication-systemscontract/article71253350.ece",
+            "urlToImage": "https://bl-i.thgim.com/public/incoming/jwmyrg/article71253409.ece/alternates/LANDSCAPE_1200/Metro01.JPG",
+            "publishedAt": "2026-07-22T12:19:32Z",
+            "content": "Kochi Metro Rail\u00a0Limited (KMRL) has\u00a0awarded a 91.6\u00a0crore contract to\u00a0Siemens\u00a0Limited for\u00a0the communication systems\u00a0of its Phase\u00a0II metro project\u00a0through a competitive\u00a0open tender process.\r\nThe packag\u2026 [+987 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BusinessLine"
+            },
+            "author": "BL Chennai Bureau",
+            "title": "IIT Madras to host Digital India RISC-V Symposium 2026 on India\u2019s semiconductor future",
+            "description": "IIT Madras, MeitY and RISC-V International will host the Digital India RISC-V Symposium 2026, bringing together global experts on semiconductor innovation.",
+            "url": "https://www.thehindubusinessline.com/info-tech/iit-madras-to-host-digital-india-risc-v-symposium-2026-on-indias-semiconductor-future/article71252695.ece",
+            "urlToImage": "https://bl-i.thgim.com/public/incoming/taz0k/article71253389.ece/alternates/LANDSCAPE_1200/IIT-M-announcesGFFG9D5K0.3.jpg.jpg",
+            "publishedAt": "2026-07-22T12:17:12Z",
+            "content": "Indian Institute of Technology, Madras (IIT-Madras), partnering with the Ministry of Electronics and Information Technology (MeitY), Government of India, and RISC-V International, the non-profit home\u2026 [+1207 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Slashdot.org"
+            },
+            "author": "feedfeeder",
+            "title": "Greedy ransomware crews return for seconds after victims cough up first extortion payments",
+            "description": "Some never saw their files again either, infosec biz Proofpoint finds",
+            "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184579490",
+            "urlToImage": null,
+            "publishedAt": "2026-07-22T12:13:46Z",
+            "content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MIT Technology Review"
+            },
+            "author": "Thomas Macaulay",
+            "title": "The Download: NASA\u2019s new space telescope and OpenAI\u2019s autonomous hacker",
+            "description": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. Shape-shifting mirrors on NASA\u2019s new space telescope could unveil Jupiters like our own When NASA\u2019s Nancy Grace Roman Spa\u2026",
+            "url": "https://www.technologyreview.com/2026/07/22/1140717/the-download-nasa-space-telescope-openai-hugging-face-hack/",
+            "urlToImage": "https://wp.technologyreview.com/wp-content/uploads/2026/07/260708_RomanCoronagraph.gif?resize=1200,600",
+            "publishedAt": "2026-07-22T12:10:00Z",
+            "content": "This is our latest story to be turned into an MIT Technology Review Narrated podcast, which we publish each week on Spotifyand Apple Podcasts. Just navigate to MIT Technology Review Narrated on eithe\u2026 [+1449 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "GlobeNewswire"
+            },
+            "author": "Aisle",
+            "title": "AISLE Named a CVE Numbering Authority, Formalizing Its Commitment to Transparent Vulnerability Disclosure",
+            "description": "Designation authorizes AISLE to assign CVE identifiers for vulnerabilities in its own products, reinforcing the company's accountability to customers as both a security vendor and a research organization Designation authorizes AISLE to assign CVE identifiers \u2026",
+            "url": "https://www.globenewswire.com/news-release/2026/07/22/3331311/0/en/AISLE-Named-a-CVE-Numbering-Authority-Formalizing-Its-Commitment-to-Transparent-Vulnerability-Disclosure.html",
+            "urlToImage": "https://ml.globenewswire.com/Resource/Download/c181abfb-769c-471e-aae5-70a746d055da",
+            "publishedAt": "2026-07-22T12:01:00Z",
+            "content": "SAN FRANCISCO and PRAGUE, July 22, 2026 (GLOBE NEWSWIRE) -- AISLE\r\n,\r\n a pioneer in AI-native vulnerability lifecycle management, today announced it has been designated a CVE Numbering Authority (CNA\u2026 [+3120 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "SiliconANGLE News"
+            },
+            "author": "Duncan Riley",
+            "title": "OneSpan debuts DigipassONE platform to modernize bank authentication",
+            "description": "Electronic signature and authentication cybersecurity company OneSpan Inc. today launched DigipassONE, a unified platform that pulls its authentication, transaction security, in-app protection, analytics and digital credential products together under a single\u2026",
+            "url": "https://siliconangle.com/2026/07/22/onespan-debuts-digipassone-platform-modernize-bank-authentication/",
+            "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/07/onespan.png",
+            "publishedAt": "2026-07-22T12:00:47Z",
+            "content": "Electronic signature and authentication cybersecurity company OneSpan Inc. today launched DigipassONE, a unified platform that pulls its authentication, transaction security, in-app protection, analy\u2026 [+4254 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PRNewswire"
+            },
+            "author": null,
+            "title": "Schneider Electric Simplifies Commercial EV Charging with New Charge Pro for the U.S.",
+            "description": "Schneider Charge Pro Level 2 chargers deliver reliable, flexible charging for multi-unit dwellings, fleets and workplaces, as well as public and destination charging locations such as hotels and retail centers Integrated hardware and EV Connect Software+\u2122 hel\u2026",
+            "url": "https://www.prnewswire.com/news-releases/schneider-electric-simplifies-commercial-ev-charging-with-new-charge-pro-for-the-us-302828756.html",
+            "urlToImage": "https://mmx.prnewswire.com/media/MS1884897/Schneider-Electric-s-Charge-Pro-EV-Charger.jpg?id=OA2769117&p=facebook",
+            "publishedAt": "2026-07-22T12:00:00Z",
+            "content": "<ul><li>Schneider Charge Pro Level 2 chargers deliver reliable, flexible charging for multi-unit dwellings, fleets and workplaces, as well as public and destination charging locations such as hotels \u2026 [+5770 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PRNewswire"
+            },
+            "author": null,
+            "title": "Salt Security Launches in Australia with Local Infrastructure and Dedicated Sales Team",
+            "description": "Salt Security announces its official entry into the Australian market, bringing local AWS-hosted infrastructure and a dedicated in-country team to meet growing enterprise demand for agentic and API security across the Asia-Pacific region. PALO ALTO, Calif. an\u2026",
+            "url": "https://www.prnewswire.com/news-releases/salt-security-launches-in-australia-with-local-infrastructure-and-dedicated-sales-team-302831395.html",
+            "urlToImage": "https://mmx.prnewswire.com/media/MS1890585/Salt-Security-Australia.jpg?id=OA2778491&p=facebook",
+            "publishedAt": "2026-07-22T12:00:00Z",
+            "content": "Salt Security announces its official entry into the Australian market, bringing local AWS-hosted infrastructure and a dedicated in-country team to meet growing enterprise demand for agentic and API s\u2026 [+5589 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PRNewswire"
+            },
+            "author": null,
+            "title": "SonicWall Research Finds Manufacturing Cybersecurity at a Breaking Point as Factory Floors and Corporate Networks Collide",
+            "description": "New Manufacturing Protect Brief reveals 43 million camera attacks and the highest industrial control attack rate of any industry MILPITAS, Calif., July 22, 2026 /PRNewswire/ -- SonicWall today released its 2026 Manufacturing Protect Brief, a vertical-specific\u2026",
+            "url": "https://www.prnewswire.com/news-releases/sonicwall-research-finds-manufacturing-cybersecurity-at-a-breaking-point-as-factory-floors-and-corporate-networks-collide-302831538.html",
+            "urlToImage": "https://mmx.prnewswire.com/media/MS1176282/SonicWall-Logo.jpg?id=OA2778648&p=facebook",
+            "publishedAt": "2026-07-22T12:00:00Z",
+            "content": "New Manufacturing Protect Brief reveals 43 million camera attacks and the highest industrial control attack rate of any industry\r\nMILPITAS, Calif., July 22, 2026 /PRNewswire/ -- SonicWall today relea\u2026 [+5663 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PRNewswire"
+            },
+            "author": null,
+            "title": "Pentera and Recorded Future Partner to Deliver Threat-Led Exposure Validation",
+            "description": "New integration turns threat intelligence into validated, prioritized exposure reduction BOSTON, July 22, 2026 /PRNewswire/ -- Pentera, the leader in AI-powered Security Validation, announces a strategic partnership with Recorded Future, the world's largest t\u2026",
+            "url": "https://www.prnewswire.com/news-releases/pentera-and-recorded-future-partner-to-deliver-threat-led-exposure-validation-302830692.html",
+            "urlToImage": "https://mmx.prnewswire.com/media/MS1815190/RECORDED-FUTURE-Logo.jpg?id=OA2773048&p=facebook",
+            "publishedAt": "2026-07-22T12:00:00Z",
+            "content": "New integration turns threat intelligence into validated, prioritized exposure reduction\r\nBOSTON, July 22, 2026 /PRNewswire/ -- Pentera, the leader in AI-powered Security Validation, announces a stra\u2026 [+4103 chars]"
+        }
+    ]
 }
