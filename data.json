@@ -1,11 +1,47 @@
 {
-  "updated": "2026-07-24 08:07:42 UTC",
+  "updated": "2026-07-24 11:29:46 UTC",
   "news": [
+    {
+      "title": "Man gets six years for hacking 750 women's Snapchat accounts",
+      "description": "[BLEEPINGCOMPUTER] An Illinois man was sentenced on Tuesday to 76 months in prison and three years of supervised release for hacking the Snapchat accounts of over 750 women to steal nude photos. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/man-gets-six-years-for-hacking-750-womens-snapchat-accounts/",
+      "date": "2026-07-24T11:17:19Z"
+    },
+    {
+      "title": "Why AI Needs a \u201cGenie Coefficient\u201d",
+      "description": "[SCHNEIER] This essay was written with Barath Raghavan, and originally appeared in The Guardian. Major benchmarks measure what AI can do. None measure whether it does what you mean: the distance between what you ask an AI to do and the unspoken assumptions...",
+      "url": "https://www.schneier.com/blog/archives/2026/07/why-ai-needs-a-genie-coefficient.html",
+      "date": "2026-07-24T11:03:06Z"
+    },
+    {
+      "title": "Hacker Runs Hermes AI Agent Unattended for Post-Exploitation at Thai Finance Ministry",
+      "description": "[FEEDS] Someone installed a popular AI assistant on a rented server, switched off the setting that makes it ask permission before running risky commands, and pointed it at Thailand's Ministry of Finance, which runs the country's treasury and tax collection....",
+      "url": "https://thehackernews.com/2026/07/hacker-runs-hermes-ai-agent-unattended.html",
+      "date": "2026-07-24T10:15:29Z"
+    },
+    {
+      "title": "Golden Chickens Resurfaces With Four New Malware Families and Modular Implants",
+      "description": "[FEEDS] The threat actors behind the Golden Chickens malware-as-a-service (MaaS) ecosystem have resurfaced with four new malware families, indicating that the operators are showing no signs of stopping despite extensive public disclosures into their inner...",
+      "url": "https://thehackernews.com/2026/07/golden-chickens-resurfaces-with-four.html",
+      "date": "2026-07-24T10:09:24Z"
+    },
+    {
+      "title": "NodeBB Patches Eight AI-Found Flaws Exposing Admin Access and Private Chats",
+      "description": "[FEEDS] Eight security flaws in NodeBB went public on Wednesday, along with the code to exploit them. Aikido Security rates all eight as high severity and says its AI pentest agents found them in a six-hour review of the forum software's source code. Every...",
+      "url": "https://thehackernews.com/2026/07/nodebb-patches-eight-ai-found-flaws.html",
+      "date": "2026-07-24T07:41:06Z"
+    },
     {
       "title": "Clop ransomware targets Windchill, FlexPLM in data theft attacks",
       "description": "[BLEEPINGCOMPUTER] The Clop ransomware gang (also tracked as Cl0p) is targeting Internet-exposed PTC Windchill and FlexPLM instances in a new data theft extortion campaign. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/clop-ransomware-targets-windchill-flexplm-in-data-theft-attacks/",
       "date": "2026-07-24T07:36:39Z"
+    },
+    {
+      "title": "Kimi K3 Agents Found Redis Zero-Days and Built RCE Exploit, Researchers Say",
+      "description": "[FEEDS] Redis shipped seven security releases on July 23 after researchers published authenticated RCE PoCs for stock Redis 6.2.22, 7.4.9, 8.6.4, and 8.8.0. All four chains require RESTORE. The Streams chains also need EVAL and XGROUP; the 8.8.0 chain needs...",
+      "url": "https://thehackernews.com/2026/07/kimi-k3-agents-found-redis-zero-days.html",
+      "date": "2026-07-24T06:58:27Z"
     },
     {
       "title": "Fake Notepad++ Plugin Delivers MATCHBOIL.V2 in UAC-0099 Attacks",
@@ -24,6 +60,24 @@
       "description": "[BLEEPINGCOMPUTER] A new Dolphin X remote access trojan claims to use an AI-powered profiling feature to score and rank infected users, helping cybercriminals identify which victims should be targeted first. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/new-dolphin-x-malware-uses-ai-to-rank-high-value-targets/",
       "date": "2026-07-23T21:20:34Z"
+    },
+    {
+      "title": "White House monitoring rogue OpenAI model hack on Hugging Face systems",
+      "description": "[FOX BUSINESS] The White House is monitoring a cybersecurity incident in which an OpenAI AI agent went rogue during testing and breached Hugging Face's AI infrastructure systems.",
+      "url": "https://www.foxbusiness.com/technology/white-house-monitoring-after-openai-models-escaped-containment-hacked-hugging-face-systems",
+      "date": "2026-07-23T20:54:40Z"
+    },
+    {
+      "title": "Calls for the US to stop military action against Iran | Morning News Bulletin 24 July 2026",
+      "description": "[SBS AUSTRALIA] Calls at home and abroad for the US to stop military action against Iran; Origin Energy confirms data breach as it probes how many are affected; the Commonwealth Games are officially underway in Scotland.",
+      "url": "https://www.sbs.com.au/news/podcast-episode/calls-for-the-us-to-stop-military-action-against-iran-morning-news-bulletin-24-july-2026/rck3pqry2",
+      "date": "2026-07-23T20:23:01Z"
+    },
+    {
+      "title": "Utah, 40 other states reach $18M settlement with 23andMe after data breach, bankruptcy",
+      "description": "[SALT LAKE CITY DESERET NEWS] Utah and over 40 other states on Wednesday announced a $18 million settlement agreement with genetic information company 23andMe after the company filed for bankruptcy in March 2025.",
+      "url": "https://www.deseret.com/utah/2026/07/23/utah-40-other-states-reach-18m-settlement-with-23andme-after-data-breach-bankruptcy/",
+      "date": "2026-07-23T20:20:49Z"
     },
     {
       "title": "Australian energy provider Origin says data breach exposes client data",
@@ -80,64 +134,16 @@
       "date": "2026-07-23T16:49:27Z"
     },
     {
-      "title": "Hackers abuse Notepad++ plugins to stealthily install malware",
-      "description": "[BLEEPINGCOMPUTER] Ukraine's CERT has uncovered attacks distributing an archive containing the legitimate Notepad++ application and a malicious utility called LunchPoke disguised as a plugin to establish persistence. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-abuse-notepad-plus-plus-plugins-to-stealthily-install-malware/",
-      "date": "2026-07-23T16:32:35Z"
-    },
-    {
       "title": "Chinese AI Model Stops Rogue OpenAI Agent After GPT Refuses Cybersecurity Task",
       "description": "[TIMES NOW] A recent cybersecurity incident involving a rogue AI agent has sparked debate over the limitations of US AI models., Technology & Science, Times Now",
       "url": "https://www.timesnownews.com/technology-science/chinese-ai-model-stops-rogue-openai-agent-after-gpt-refuses-cybersecurity-task-article-155158250",
       "date": "2026-07-23T15:10:00Z"
     },
     {
-      "title": "ThreatsDay: Android Spyware, PLC Attacks, AI Image Prompt Injection + 12 More Stories",
-      "description": "[FEEDS] Most of this week's trouble came dressed as something useful. A package stole data. A fake extension opened remote access. A safety app became spyware. An image gave hidden orders to an AI agent. Other threats hid in open systems, weak code, and...",
-      "url": "https://thehackernews.com/2026/07/threatsday-android-spyware-plc-attacks.html",
-      "date": "2026-07-23T15:02:07Z"
-    },
-    {
-      "title": "Stakeholders meet to discuss energy and infrastructure resilience in India",
-      "description": "[THE TRIBUNE] Energy systems face a multitude of threats from natural hazards to cybersecurity. The IEA identified nearly 300 weather-related disruptions to energy systems in 2023 alone, affecting more than 210 million households and impacting business activity.",
-      "url": "https://www.tribuneindia.com/news/business/stakeholders-meet-to-discuss-energy-and-infrastructure-resilience-in-india/",
-      "date": "2026-07-23T14:48:30Z"
-    },
-    {
-      "title": "Stakeholders meet to discuss energy and infrastructure resilience in India",
-      "description": "[ANI (ASIAN NEWS INTERNATIONAL)] Energy systems face a multitude of threats from natural hazards to cybersecurity. The IEA identified nearly 300 weather-related disruptions to energy systems in 2023 alone, affecting more than 210 million households and impacting business activity.",
-      "url": "https://www.aninews.in/news/business/stakeholders-meet-to-discuss-energy-and-infrastructure-resilience-in-india20260723201641/",
-      "date": "2026-07-23T14:46:41Z"
-    },
-    {
-      "title": "OpenAI Cyber Incident Fuels Capitol Hill Action As Bipartisan House Bill Seeks AI 'Kill Switch' Authority",
-      "description": "[INTERNATIONAL BUSINESS TIMES] Washington is intensifying scrutiny of advanced artificial intelligence models following a high-profile cybersecurity incident involving OpenAI and amid broader national security concerns surrounding",
-      "url": "https://www.ibtimes.com/openai-cyber-incident-fuels-capitol-hill-action-bipartisan-house-bill-seeks-ai-kill-switch-3805635",
-      "date": "2026-07-23T14:28:13Z"
-    },
-    {
       "title": "When the \"Autonomous Attacker\" Is Your Own AI Model, (Thu, Jul 23rd)",
       "description": "[ISC] Two disclosures, five days apart, described the same intrusion from opposite ends &#xe2;&#x20ac;&#x201d;&#xd; one from the victim, one from the party that turned out to be responsible &#xe2;&#x20ac;&#x201d; and&#xd; together they make one of the...",
       "url": "https://isc.sans.edu/diary/rss/33180",
       "date": "2026-07-23T13:40:27Z"
-    },
-    {
-      "title": "Claude Cowork Flaw Could Let AI Agent Escape Its VM and Access Mac Files",
-      "description": "[FEEDS] Cybersecurity researchers have uncovered a sandbox escape vulnerability in Anthropic's Claude Cowork that makes it possible to break out of the confines of a Linux virtual machine (VM) within which the agent runs to read or write files anywhere on...",
-      "url": "https://thehackernews.com/2026/07/claude-cowork-flaw-could-let-ai-agent.html",
-      "date": "2026-07-23T13:27:59Z"
-    },
-    {
-      "title": "Chaos Ransomware Uses msaRAT to Route C2 Traffic Through Headless Chrome and Edge",
-      "description": "[FEEDS] The Chaos ransomware group ran its command-and-control through the victim's own browser. Cisco Talos on Thursday detailed msaRAT, the Rust implant behind it, found on a compromised Windows machine ahead of the encryptor. The implant never opens an...",
-      "url": "https://thehackernews.com/2026/07/chaos-ransomware-uses-msarat-to-route.html",
-      "date": "2026-07-23T13:11:09Z"
-    },
-    {
-      "title": "China-Nexus JadeProx Uses New TriBack Loader in Government and Healthcare Attacks",
-      "description": "[FEEDS] An exposed Alibaba Cloud server has revealed a China-nexus operation that Group-IB tracks as JadeProx. The cluster has targeted government, healthcare, and education organizations across Asia and Latin America with a previously undocumented Windows...",
-      "url": "https://thehackernews.com/2026/07/china-nexus-jadeprox-uses-new-triback.html",
-      "date": "2026-07-23T12:20:23Z"
     },
     {
       "title": "End-to-End Encryption and \u201cGoing Dark\u201d",
@@ -192,12 +198,6 @@
       "description": "[SCHNEIER] Lots of articles about this. As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered. Blog moderation policy.",
       "url": "https://www.schneier.com/blog/archives/2026/07/friday-squid-blogging-squid-washing-up-on-cape-cod-beach.html",
       "date": "2026-07-17T21:01:37Z"
-    },
-    {
-      "title": "Details of Alan Turing\u2019s Voice Encryption System",
-      "description": "[SCHNEIER] Really interesting piece of cryptographic history: In November 2023, a large cache of his wartime papers&#8212;nicknamed the &#8220;Bayley papers&#8221;&#8212;was auctioned in London for almost half a million U.S. dollars. The previously unknown...",
-      "url": "https://www.schneier.com/blog/archives/2026/07/details-of-alan-turings-voice-encryption-system.html",
-      "date": "2026-07-17T11:02:21Z"
     }
   ]
 }
