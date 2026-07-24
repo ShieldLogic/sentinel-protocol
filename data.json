@@ -1,6 +1,24 @@
 {
-  "updated": "2026-07-24 13:17:34 UTC",
+  "updated": "2026-07-24 15:20:27 UTC",
   "news": [
+    {
+      "title": "Certighost Exploit Lets Low-Privileged Active Directory Users Impersonate a Domain Controller",
+      "description": "[FEEDS] Researchers H0j3n and Aniq Fakhrul published a working exploit on July 24 that lets a low-privileged Active Directory user obtain a certificate for a Domain Controller and authenticate as that machine. They codenamed the flaw Certighost. Because...",
+      "url": "https://thehackernews.com/2026/07/certighost-exploit-lets-low-privileged.html",
+      "date": "2026-07-24T14:15:21Z"
+    },
+    {
+      "title": "Chick-fil-A data breach affects more than 13,000 customers",
+      "description": "[BLEEPINGCOMPUTER] Chick-fil-A has confirmed that over 13,000 customers had their accounts breached in a wave of credential stuffing attacks targeting its website and mobile app between June 17 and June 19. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/chick-fil-a-data-breach-affects-more-than-13-000-customers/",
+      "date": "2026-07-24T14:04:29Z"
+    },
+    {
+      "title": "Slopsquatting, Phantom Domains, and HalluSquatting Are the Same AI Attack",
+      "description": "[BLEEPINGCOMPUTER] Slopsquatting, phantom squatting, and HalluSquatting all exploit the same late-binding attack pattern, where AI coding agents trust hallucinated package, repo, or domain names. ActiveState explains how pre-fetch verification and governed dependency...",
+      "url": "https://www.bleepingcomputer.com/news/security/slopsquatting-phantom-domains-and-hallusquatting-are-the-same-ai-attack/",
+      "date": "2026-07-24T14:01:11Z"
+    },
     {
       "title": "Europol flags 4,340 URLs for removal in 'The Com' crackdown",
       "description": "[BLEEPINGCOMPUTER] Europol has flagged 4,340 URLs for removal during a multi-week operation targeting online content linked to \"The Com,\" a loosely organized network of nihilistic violent extremist groups. [...]",
@@ -50,22 +68,28 @@
       "date": "2026-07-24T10:09:24Z"
     },
     {
-      "title": "NodeBB Patches Eight AI-Found Flaws Exposing Admin Access and Private Chats",
-      "description": "[FEEDS] Eight security flaws in NodeBB went public on Wednesday, along with the code to exploit them. Aikido Security rates all eight as high severity and says its AI pentest agents found them in a six-hour review of the forum software's source code. Every...",
-      "url": "https://thehackernews.com/2026/07/nodebb-patches-eight-ai-found-flaws.html",
-      "date": "2026-07-24T07:41:06Z"
-    },
-    {
       "title": "Clop ransomware targets Windchill, FlexPLM in data theft attacks",
       "description": "[BLEEPINGCOMPUTER] The Clop ransomware gang (also tracked as Cl0p) is targeting Internet-exposed PTC Windchill and FlexPLM instances in a new data theft extortion campaign. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/clop-ransomware-targets-windchill-flexplm-in-data-theft-attacks/",
       "date": "2026-07-24T07:36:39Z"
     },
     {
+      "title": "Victoria proposes a new law to unmask anonymous online trolls. How will it work?",
+      "description": "[SBS AUSTRALIA] Social media companies could be required to identify anonymous users accused of online vilification under proposed new laws in Victoria. Cybersecurity expert Dr Parnit Anand says the proposed reforms could reshape online accountability by deterring...",
+      "url": "https://www.sbs.com.au/language/hindi/en/podcast-episode/victorias-proposed-new-laws-can-help-minimise-anonymous-online-hate/48ljvrnd1",
+      "date": "2026-07-24T02:28:38Z"
+    },
+    {
       "title": "ISC Stormcast For Friday, July 24th, 2026 https://isc.sans.edu/podcastdetail/10022, (Fri, Jul 24th)",
       "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
       "url": "https://isc.sans.edu/diary/rss/33182",
       "date": "2026-07-24T02:00:02Z"
+    },
+    {
+      "title": "Australian News Headlines: Friday, 24 July 2026",
+      "description": "[SBS AUSTRALIA] Listen to the latest news from Australia in Nepali, including Origin Energy's confirmation of a data breach and its plan to contact affected customers.",
+      "url": "https://www.sbs.com.au/language/nepali/en/podcast-episode/nep-australian-news-fri-240726/bq7iwe0ob",
+      "date": "2026-07-24T01:53:33Z"
     },
     {
       "title": "How AI guardrails are impeding the work of offensive cybersecurity researchers",
@@ -110,40 +134,16 @@
       "date": "2026-07-23T20:20:49Z"
     },
     {
-      "title": "Australian energy provider Origin says data breach exposes client data",
-      "description": "[BLEEPINGCOMPUTER] Origin Energy has confirmed that an unauthorized party accessed and subsequently leaked customer data online, exposing sensitive personally identifiable information (PII), among others. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/australian-energy-provider-origin-says-data-breach-exposes-client-data/",
-      "date": "2026-07-23T20:14:35Z"
-    },
-    {
       "title": "Chick-fil-A customers in 10 states, including N.Y., may have been part of data breach",
       "description": "[STATEN ISLAND ADVANCE] The fast-food chain disclosed unauthorized access to customer accounts in June.",
       "url": "https://www.silive.com/ny-state/2026/07/chick-fil-a-customers-in-10-states-including-ny-may-have-been-part-of-data-breach.html",
       "date": "2026-07-23T19:56:46Z"
     },
     {
-      "title": "Fake Claude app promoted by Bing ads pushes SectopRAT malware",
-      "description": "[BLEEPINGCOMPUTER] A malvertising campaign on the Bing search service is pushing a fake Claude desktop app installer hosted on a legitimate Claude.ai domain to deliver the SectopRAT malware. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/fake-claude-app-promoted-by-bing-ads-pushes-sectoprat-malware/",
-      "date": "2026-07-23T19:48:30Z"
-    },
-    {
       "title": "\u2018AI, cyber security should be board-level priorities amid emerging risks\u2019: Adam Ely",
       "description": "[THE FINANCIAL EXPRESS] In an interview Adam Ely of Check Point Software Technologies explains why cybersecurity is critical to AI adoption. He discusses key opportunities in internal AI deployment, hidden risks like model manipulation and autonomous agent errors, India\u2019s...",
       "url": "https://www.financialexpress.com/business/news/ai-cyber-security-should-be-board-level-priorities-amid-emerging-risks-adam-ely/4300877/",
       "date": "2026-07-23T18:53:23Z"
-    },
-    {
-      "title": "Russian Espionage Group Exploited Zimbra Zero-Day to Steal Mail and 2FA Codes",
-      "description": "[THE HACKER NEWS] Russian spies exploited CVE-2025-66376 in Zimbra to steal 90 days of mail, passwords, 2FA codes, and directories from Western targets.",
-      "url": "https://thehackernews.com/2026/07/russian-espionage-group-exploited.html",
-      "date": "2026-07-23T18:36:00Z"
-    },
-    {
-      "title": "Arctic Wolf Named a Leader in 2026 IDC MarketScape for Worldwide Managed Detection and Response Service for Midmarket",
-      "description": "[THE MANILA TIMES] EDEN PRAIRIE, Minn., July 23, 2026 (GLOBE NEWSWIRE) -- Arctic Wolf\u00ae, the cybersecurity and AI company, today announced it has been named a Leader in the IDC MarketScape: Worldwide Managed Detection and Response Service for Midmarket 2026 Vendor...",
-      "url": "https://www.manilatimes.net/2026/07/24/tmt-newswire/globenewswire/arctic-wolf-named-a-leader-in-2026-idc-marketscape-for-worldwide-managed-detection-and-response-service-for-midmarket/2390612",
-      "date": "2026-07-23T18:08:25Z"
     },
     {
       "title": "When the \"Autonomous Attacker\" Is Your Own AI Model, (Thu, Jul 23rd)",
