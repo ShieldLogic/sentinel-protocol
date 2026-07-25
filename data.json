@@ -1,6 +1,18 @@
 {
-  "updated": "2026-07-25 13:01:31 UTC",
+  "updated": "2026-07-25 14:54:32 UTC",
   "news": [
+    {
+      "title": "ShinyHunters data leaks fuel $2,000 sextortion email scam",
+      "description": "[BLEEPINGCOMPUTER] Threat actors are using email addresses exposed in data breaches leaked by the ShinyHunters extortion group to send sextortion emails demanding $2,000 in Bitcoin. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-data-leaks-fuel-2-000-sextortion-email-scam/",
+      "date": "2026-07-25T14:16:26Z"
+    },
+    {
+      "title": "Fastjson 1.x RCE Vulnerability Targeted in Attacks With No Patched Available",
+      "description": "[FEEDS] Security firms ThreatBook and Imperva say attackers are targeting a critical flaw in Fastjson, Alibaba's JSON library for Java. In affected Spring Boot applications, a malicious JSON request can execute code without authentication, with the...",
+      "url": "https://thehackernews.com/2026/07/fastjson-1x-rce-vulnerability-targeted.html",
+      "date": "2026-07-25T12:52:43Z"
+    },
     {
       "title": "Researcher Publishes GitLab RCE PoC Letting Authenticated Users Run Commands as Git",
       "description": "[FEEDS] Security researchers at&nbsp;depthfirst published working exploit code on July 24 for a GitLab flaw that GitLab patched six weeks earlier, on June 10. It runs commands as git on any self-managed 18.11.3 server that has not taken the update. Any...",
@@ -126,18 +138,6 @@
       "description": "[TIMES OF INDIA] NEW DELHI: Nisarga Adhikary, the 19-year-old cybersecurity researcher whose disclosures about vulnerabilities in the Central Board of Secondary Educat.",
       "url": "https://timesofindia.indiatimes.com/city/delhi/energy-here-is-truly-crazy-nisarga-adhikary-who-flagged-cbse-osm-flaws-joins-cjps-jantar-mantar-protest/articleshow/132608249.cms",
       "date": "2026-07-24T14:33:00Z"
-    },
-    {
-      "title": "Certighost Exploit Lets Low-Privileged Active Directory Users Impersonate a Domain Controller",
-      "description": "[FEEDS] Researchers H0j3n and Aniq Fakhrul published a working exploit on July 24 that lets a low-privileged Active Directory user obtain a certificate for a Domain Controller and authenticate as that machine. They codenamed the flaw Certighost. Because...",
-      "url": "https://thehackernews.com/2026/07/certighost-exploit-lets-low-privileged.html",
-      "date": "2026-07-24T14:15:21Z"
-    },
-    {
-      "title": "Chick-fil-A data breach affects more than 13,000 customers",
-      "description": "[BLEEPINGCOMPUTER] Chick-fil-A has confirmed that over 13,000 customers had their accounts breached in a wave of credential stuffing attacks targeting its website and mobile app between June 17 and June 19. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/chick-fil-a-data-breach-affects-more-than-13-000-customers/",
-      "date": "2026-07-24T14:04:29Z"
     },
     {
       "title": "Why AI Needs a \u201cGenie Coefficient\u201d",
