@@ -1,6 +1,12 @@
 {
-  "updated": "2026-07-25 07:50:04 UTC",
+  "updated": "2026-07-25 09:27:34 UTC",
   "news": [
+    {
+      "title": "Researcher Publishes GitLab RCE PoC Letting Authenticated Users Run Commands as Git",
+      "description": "[FEEDS] Security researcher Yuhang Wu at depthfirst has published a working proof-of-concept (PoC) exploit that executes commands as git on an unpatched self-managed GitLab 18.11.3 server. An ordinary authenticated user triggers it by committing two crafted...",
+      "url": "https://thehackernews.com/2026/07/researcher-publishes-gitlab-rce-poc.html",
+      "date": "2026-07-25T08:34:15Z"
+    },
     {
       "title": "Friday Squid Blogging: Illex Squid Catch in the Falklands",
       "description": "[SCHNEIER] Lower catch this year. As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered. Blog moderation policy.",
@@ -138,12 +144,6 @@
       "description": "[TECHBULLION] Neutral guide to leading UK cybersecurity consultancies, their strengths and core services across identity, cloud, testing, and incident response.",
       "url": "https://techbullion.com/alphea-secures-5m-strategic-funding/",
       "date": "2026-07-24T10:41:16Z"
-    },
-    {
-      "title": "Hacker Runs Hermes AI Agent Unattended for Post-Exploitation at Thai Finance Ministry",
-      "description": "[FEEDS] Someone installed a popular AI assistant on a rented server, switched off the setting that makes it ask permission before running risky commands, and pointed it at Thailand's Ministry of Finance, which runs the country's treasury and tax collection....",
-      "url": "https://thehackernews.com/2026/07/hacker-runs-hermes-ai-agent-unattended.html",
-      "date": "2026-07-24T10:15:29Z"
     },
     {
       "title": "ISC Stormcast For Friday, July 24th, 2026 https://isc.sans.edu/podcastdetail/10022, (Fri, Jul 24th)",
