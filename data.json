@@ -1,209 +1,137 @@
 {
-  "updated": "2026-07-27 12:50:24 UTC",
-  "news": [
-    {
-      "title": "Cognyte Sells a Mobile Cell Surveillance Van",
-      "description": "[SCHNEIER] Yet another Israeli mass surveillance company: Made by Israeli surveillance company Cognyte, the tech simulates a mobile phone tower, which forces nearby phones to connect to it. That enables cops to keep tabs on any phones in the vicinity \u00ad whether...",
-      "url": "https://www.schneier.com/blog/archives/2026/07/cognyte-sells-a-mobile-cell-surveillance-van.html",
-      "date": "2026-07-27T11:04:30Z"
-    },
-    {
-      "title": "Cruciferra Crypter Uses BYOVD and Process Ghosting to Hide Windows Malware",
-      "description": "[FEEDS] The China-linked cybercrime group behind the use of income tax-related phishing lures targeting Indian taxpayers, tax professionals, and corporate finance teams has been observed using a sophisticated crypter service called Cruciferra. According to...",
-      "url": "https://thehackernews.com/2026/07/cruciferra-crypter-uses-byovd-and.html",
-      "date": "2026-07-27T10:51:45Z"
-    },
-    {
-      "title": "Java Spring Boot \"heapdump\" scans, (Mon, Jul 27th)",
-      "description": "[ISC] Spring Boot exposes the endpoint \"/actuator/heapdump\" to collect debug information. By default, the endpoint will return a file heapdump.hprof, which includes a binary heapdump that can be used to analyze the current state of the application....",
-      "url": "https://isc.sans.edu/diary/rss/33188",
-      "date": "2026-07-27T10:04:51Z"
-    },
-    {
-      "title": "TELESHIM Abuses Telegram for C2 in Attacks Against Middle East Governments",
-      "description": "[FEEDS] Cybersecurity researchers have flagged fresh malicious cyber activity by a threat actor with ties to East Asia targeting government entities in the Middle East. The intrusions have resulted in the deployment of previously unreported malware families...",
-      "url": "https://thehackernews.com/2026/07/teleshim-abuses-telegram-for-c2-in.html",
-      "date": "2026-07-27T08:48:47Z"
-    },
-    {
-      "title": "GitHub Adds 3-Day Dependabot Cooldown to Limit Poisoned Package Adoption",
-      "description": "[FEEDS] GitHub has announced a new cooldown mechanism in Dependabot, allowing the tool to wait at least three days after a release is published before opening a pull request. \"The cooldown configuration option in the dependabot.yml still controls the...",
-      "url": "https://thehackernews.com/2026/07/github-adds-3-day-dependabot-cooldown.html",
-      "date": "2026-07-27T08:01:23Z"
-    },
-    {
-      "title": "ISC Stormcast For Monday, July 27th, 2026 https://isc.sans.edu/podcastdetail/10024, (Mon, Jul 27th)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33186",
-      "date": "2026-07-27T02:00:02Z"
-    },
-    {
-      "title": "3 of the best ASX ETFs to buy in August",
-      "description": "[THE MOTLEY FOOL AUSTRALIA] Betashares Global Cybersecurity ETF (ASX: HACK) and VanEck Morningstar Wide Moat ETF (ASX: MOAT) are among my picks for August.",
-      "url": "https://www.fool.com.au/2026/07/27/3-of-the-best-asx-etfs-to-buy-in-august-2/",
-      "date": "2026-07-26T23:49:48Z"
-    },
-    {
-      "title": "AI cyberattacks mean we can't defend ourselves the same way as before: Singapore's founding cybersecurity chief",
-      "description": "[CNA] Mr David Koh looked back on his time as chief executive of the Cyber Security Agency of Singapore, in his first exclusive media interview since retiring on Jul 1.",
-      "url": "https://www.channelnewsasia.com/singapore/cybersecurity-csa-founding-chief-david-koh-ai-cyberattack-defend-6275631",
-      "date": "2026-07-26T22:00:00Z"
-    },
-    {
-      "title": "\u2018AI success depends on data that enterprises can trust\u2019: Sandeep Bhambure, MD & VP, India & SAARC, Veeam Software",
-      "description": "[THE FINANCIAL EXPRESS] Veeam Software MD Sandeep Bhambure discusses how rising ransomware attacks, AI integration, and the DPDP Act are forcing Indian enterprises to move beyond basic backups to holistic cyber resilience and trusted data foundations.",
-      "url": "https://www.financialexpress.com/life/technology/ai-success-depends-on-data-that-enterprises-can-trust-sandeep-bhambure-md-amp-vp-india-amp-saarc-veeam-software/4303091/",
-      "date": "2026-07-26T16:24:30Z"
-    },
-    {
-      "title": "Scans for ESAFENET CDG 3 Document Management System Weak Logins, (Sun, Jul 26th)",
-      "description": "[ISC] ESAFENET&&#x23&#x3b;x26&#x3b;&#x23&#x3b;39&#x3b;s CDG showed up in our data before. The company focused on secure document management and data leakage prevention solutions. The \"CDG\" stands for \"Content Data Guard\", and the product appears to be...",
-      "url": "https://isc.sans.edu/diary/rss/33184",
-      "date": "2026-07-26T15:26:14Z"
-    },
-    {
-      "title": "GitHub, PyPI add time-based defenses against supply chain attacks",
-      "description": "[BLEEPINGCOMPUTER] GitHub and PyPI (Python Package Index) have introduced a time-based mechanism in the Dependabot dependency management tool to protect against supply-chain attacks and to limit their impact. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/github-pypi-add-time-absed-defenses-against-supply-chain-attacks/",
-      "date": "2026-07-26T14:13:39Z"
-    },
-    {
-      "title": "Hugging Face presses OpenAI for transparency after AI agent breach",
-      "description": "[THE MANILA TIMES] TRYING to explain what happened in the unprecedented cybersecurity incident involving autonomous artificial intelligence (AI) systems has raised more questions than answers about how an experimental AI system escaped its test environment. As of this...",
-      "url": "https://www.manilatimes.net/2026/07/26/business/science-technology/hugging-face-presses-openai-for-transparency-after-ai-agent-breach/2391658",
-      "date": "2026-07-26T12:18:00Z"
-    },
-    {
-      "title": "Big super is divided on cybersecurity, and the government is worried",
-      "description": "[AUSTRALIAN FINANCIAL REVIEW] Fears over a fragmented response to attacks have prompted the Albanese government to tell major superannuation bodies to work together.",
-      "url": "https://www.afr.com/companies/financial-services/big-super-is-divided-on-cybersecurity-and-the-government-is-worried-20260721-p60h7w",
-      "date": "2026-07-26T10:00:00Z"
-    },
-    {
-      "title": "NTA Begins Institutional Rebuild, Invites Applications For 4 General Manager Posts And 16 Young Professionals",
-      "description": "[FREE PRESS JOURNAL] The National Testing Agency (NTA) announced its first major recruitment drive under its institutional rebuilding plan based on recommendations of the Prof K Radhakrishnan-led committee. It invited applications for four General Manager posts in...",
-      "url": "https://www.freepressjournal.in/education/nta-begins-institutional-rebuild-invites-applications-for-4-general-manager-posts-and-16-young-professionals",
-      "date": "2026-07-26T09:09:47Z"
-    },
-    {
-      "title": "Hugging Face CEO Urges OpenAI to Release Rogue AI Logs, Commit $100 Million in Compute After Breach",
-      "description": "[BENZINGA] Hugging Face CEO urged OpenAI to release breach logs and provide $100 million in compute for cybersecurity research.",
-      "url": "https://www.benzinga.com/markets/tech/26/07/60685593/hugging-face-ceo-urges-openai-to-release-rogue-ai-logs-commit-100-million-in-compute-after-breach",
-      "date": "2026-07-26T05:39:08Z"
-    },
-    {
-      "title": "Cybersecurity, AI skills gaps focus of Tulsa workforce event",
-      "description": "[TULSA WORLD] While employers struggle to meet rising threats, there are 4.8 million cybersecurity job vacancies. \"AI is not going to do everything for us,\" one expert said.",
-      "url": "https://tulsaworld.com/news/local/business/article_fb560ba6-180e-4d37-9cf3-0d8ff5689cc3.html",
-      "date": "2026-07-26T05:00:00Z"
-    },
-    {
-      "title": "He earned Rs 350 a month. Years later, this repairman built a Rs 800 crore cybersecurity company.",
-      "description": "[THE FINANCIAL EXPRESS] Discover the inspiring journey of Kailash Katkar from humble beginnings in Pune to founding Quick Heal Technologies, a leading name in cybersecurity with over 33,000 partners in India.",
-      "url": "https://www.financialexpress.com/business/news/he-earned-rs-350-a-month-years-later-this-repairman-built-a-rs-800-crore-cybersecurity-company/4302703/",
-      "date": "2026-07-26T04:00:00Z"
-    },
-    {
-      "title": "Court backs AI\u2019s \u2018copy-right\u2019, OpenAI unveils Presence, Google\u2019s Cyber-Shield \u2014 Weekly AI Wrap July 26",
-      "description": "[THE FINANCIAL EXPRESS] Global AI developments surged this week with OpenAI launching Presence and ChatGPT Health, Google's Gemini boosting cybersecurity, a landmark Delhi court ruling on AI copyright, and Elon Musk integrating Grok with Microsoft Excel.",
-      "url": "https://www.financialexpress.com/life/technology-court-backs-ais-copy-right-openai-unveils-presence-googles-cyber-shield-weekly-ai-wrap-july-26-4302715/",
-      "date": "2026-07-26T03:53:15Z"
-    },
-    {
-      "title": "Steam forum ClickFix attacks infect gamers with XMRig cryptominers",
-      "description": "[BLEEPINGCOMPUTER] Steam discussion forums are being abused in ClickFix attacks that pretend to be fixes for game and computer problems but actually infect devices with cryptominers. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/steam-forum-clickfix-attacks-infect-gamers-with-xmrig-cryptominers/",
-      "date": "2026-07-25T22:37:47Z"
-    },
-    {
-      "title": "Malvertising Sends Malware in Pieces, Then Makes the Browser Build the Executable",
-      "description": "[FEEDS] A malvertising operation dubbed SourTrade is making victims' browsers build the final Windows executable themselves, using a legitimate Bun runtime as its base instead of serving one complete malicious file from a fixed URL. Confiant, which detailed...",
-      "url": "https://thehackernews.com/2026/07/malvertising-sends-malware-in-pieces.html",
-      "date": "2026-07-25T18:48:44Z"
-    },
-    {
-      "title": "Malicious sites use JavaScript to build malware in browser memory",
-      "description": "[BLEEPINGCOMPUTER] A massive malvertising campaign is using fake Solana, Luno, and TradingView webpages with malicious JavaScript that instructs browsers to assemble malware directly in memory. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/malicious-sites-use-javascript-to-build-malware-in-browser-memory/",
-      "date": "2026-07-25T15:21:09Z"
-    },
-    {
-      "title": "ShinyHunters data leaks fuel $2,000 sextortion email scam",
-      "description": "[BLEEPINGCOMPUTER] Threat actors are using email addresses exposed in data breaches leaked by the ShinyHunters extortion group to send sextortion emails demanding $2,000 in Bitcoin. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-data-leaks-fuel-2-000-sextortion-email-scam/",
-      "date": "2026-07-25T14:16:26Z"
-    },
-    {
-      "title": "Fastjson 1.x RCE Vulnerability Targeted in Attacks With No Patched Available",
-      "description": "[FEEDS] Security firms ThreatBook and Imperva say attackers are targeting a critical flaw in Fastjson, Alibaba's JSON library for Java. In affected Spring Boot applications, a malicious JSON request can execute code without authentication, with the...",
-      "url": "https://thehackernews.com/2026/07/fastjson-1x-rce-vulnerability-targeted.html",
-      "date": "2026-07-25T12:52:43Z"
-    },
-    {
-      "title": "Researcher Publishes GitLab RCE PoC Letting Authenticated Users Run Commands as Git",
-      "description": "[FEEDS] Security researchers at&nbsp;depthfirst published working exploit code on July 24 for a GitLab flaw that GitLab patched six weeks earlier, on June 10. It runs commands as git on any self-managed 18.11.3 server that has not taken the update. Any...",
-      "url": "https://thehackernews.com/2026/07/researcher-publishes-gitlab-rce-poc.html",
-      "date": "2026-07-25T10:14:26Z"
-    },
-    {
-      "title": "OpenAI confirms ChatGPT is down worldwide",
-      "description": "[BLEEPINGCOMPUTER] ChatGPT, the famous artificial intelligence chatbot that allows users to converse with various personalities and topics, has connectivity issues worldwide. [...]",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-worldwide/",
-      "date": "2026-07-25T09:31:09Z"
-    },
-    {
-      "title": "Friday Squid Blogging: Illex Squid Catch in the Falklands",
-      "description": "[SCHNEIER] Lower catch this year. As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered. Blog moderation policy.",
-      "url": "https://www.schneier.com/blog/archives/2026/07/friday-squid-blogging-illex-squid-catch-in-the-falklands.html",
-      "date": "2026-07-24T21:06:00Z"
-    },
-    {
-      "title": "OnTrac notifies customers of data breach after network hack",
-      "description": "[BLEEPINGCOMPUTER] OnTrac parcel delivery company is informing that hackers breached its corporate network and may have accessed personal details belonging to its customers. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/ontrac-notifies-customers-of-data-breach-after-network-hack/",
-      "date": "2026-07-24T19:55:01Z"
-    },
-    {
-      "title": "Why AI Needs a \u201cGenie Coefficient\u201d",
-      "description": "[SCHNEIER] This essay was written with Barath Raghavan, and originally appeared in IEEE Spectrum. Major benchmarks measure what AI can do. None measure whether it does what you mean: the distance between what you ask an AI to do and the unspoken assumptions...",
-      "url": "https://www.schneier.com/blog/archives/2026/07/why-ai-needs-a-genie-coefficient.html",
-      "date": "2026-07-24T11:03:06Z"
-    },
-    {
-      "title": "ISC Stormcast For Friday, July 24th, 2026 https://isc.sans.edu/podcastdetail/10022, (Fri, Jul 24th)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33182",
-      "date": "2026-07-24T02:00:02Z"
-    },
-    {
-      "title": "When the \"Autonomous Attacker\" Is Your Own AI Model, (Thu, Jul 23rd)",
-      "description": "[ISC] Two disclosures, five days apart, described the same intrusion from opposite ends &#xe2;&#x20ac;&#x201d;&#xd; one from the victim, one from the party that turned out to be responsible &#xe2;&#x20ac;&#x201d; and&#xd; together they make one of the...",
-      "url": "https://isc.sans.edu/diary/rss/33180",
-      "date": "2026-07-23T13:40:27Z"
-    },
-    {
-      "title": "End-to-End Encryption and \u201cGoing Dark\u201d",
-      "description": "[SCHNEIER] New paper: &#8220;Encryption and Globalization 15 Years Later: End-to-End Encryption and the Third Round of the &#8216;Going Dark&#8217; Debate&#8220;: Abstract: This Article updates and expands on 2012 research on encryption and globalization,...",
-      "url": "https://www.schneier.com/blog/archives/2026/07/end-to-end-encryption-and-going-dark.html",
-      "date": "2026-07-23T11:03:50Z"
-    },
-    {
-      "title": "ISC Stormcast For Thursday, July 23rd, 2026 https://isc.sans.edu/podcastdetail/10020, (Thu, Jul 23rd)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33178",
-      "date": "2026-07-23T02:00:03Z"
-    },
-    {
-      "title": "First-Person Identity Theft Story",
-      "description": "[SCHNEIER] Harrowing story of an identity theft victim. Yes, the person made a mistake&#8212;they gave the scammer a two-factor authentication code that allowed the scammer to take over their email address. But the real story here is how, for many of us, the...",
-      "url": "https://www.schneier.com/blog/archives/2026/07/first-person-identity-theft-story.html",
-      "date": "2026-07-22T11:02:26Z"
-    },
-    {
-      "title": "MIT to Become Hotbed of AI Video Surveillance",
-      "description": "[SCHNEIER] It&#8217;s a lot: According to information obtained by The Tech, MIT is spending over $3 million on more than 500 AI surveillance cameras in academic buildings, residence halls, and outdoor areas along Memorial Drive. Installation of the new...",
-      "url": "https://www.schneier.com/blog/archives/2026/07/mit-to-become-hotbed-of-ai-video-surveillance.html",
-      "date": "2026-07-21T11:07:13Z"
-    }
-  ]
+    "title": "Sentinel Protocol",
+    "tagline": "Perimeter Intelligence Sync",
+    "updated": "2026-07-27 13:36 UTC",
+    "news": [
+        {
+            "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            "author": "Sead Fadilpa\u0161i\u0107",
+            "title": "It's not just OpenAI models escaping and running riot \u2014 experts show how Claude Cowork can break its bonds and access Mac files",
+            "description": "Anthropic partially mitigated the issue, and there are things users can do to defend themselves, too.",
+            "url": "https://www.techradar.com/pro/security/its-not-just-openai-models-escaping-and-running-riot-experts-show-how-claude-cowork-can-break-its-bonds-and-access-mac-files",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/kQgz8fSBJp3j2YakUJFn4N-2560-80.jpg",
+            "publishedAt": "2026-07-26T13:10:00Z",
+            "content": "<ul><li>Accomplish AI showed Claude Cowork could escape a VM sandbox via Linux zero\u2011day CVE\u20112026\u201146331</li><li>Agent accessed host Mac files, risking exfiltration of SSH keys, cloud credentials, and \u2026 [+2700 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Securityaffairs.com"
+            },
+            "author": "Pierluigi Paganini",
+            "title": "Hackers Hijack Hotel Wi-Fi to Steal Microsoft 365 Credentials",
+            "description": "Hackers compromised hotel Wi-Fi gateways to redirect users to fake Microsoft 365 login pages and steal credentials. ReliaQuest\u2019s threat research team just documented attackers compromising the Wi-Fi gateways at hotels and conference centers, then quietly rero\u2026",
+            "url": "https://securityaffairs.com/196017/security/hackers-hijack-hotel-wi-fi-to-steal-microsoft-365-credentials.html",
+            "urlToImage": "https://securityaffairs.com/wp-content/uploads/2026/07/image-71.png",
+            "publishedAt": "2026-07-26T13:04:27Z",
+            "content": "Hackers Hijack Hotel Wi-Fi to Steal Microsoft 365 Credentials\r\nReliaQuest\u2019s threat research team just documented attackers compromising the Wi-Fi gateways at hotels and conference centers, then quiet\u2026 [+5890 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": null,
+            "title": "ClickLock Mac malware locks apps until you give in",
+            "description": "ClickLock Mac malware uses a fake verification page to trick users into pasting a Terminal command, then steals passwords and cryptocurrency wallets.",
+            "url": "https://www.foxnews.com/tech/clicklock-mac-malware-locks-apps-until-you-give-in",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/09/apple-mac-computer.jpg",
+            "publishedAt": "2026-07-26T13:01:27Z",
+            "content": "A routine \"verify you are human\" page should never ask you to open Terminal, the Mac app used to run computer commands. Yet that is how a new malware attack appears to get onto a Mac. The page tells \u2026 [+13156 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Windows Central"
+            },
+            "author": "c.cale.hunt@gmail.com (Cale Hunt) , Cale Hunt",
+            "title": "How I stopped being my parents' emergency IT hotline \u2014 The complete list of Windows Security settings I made them fix once and for all",
+            "description": "Windows security and the bad actors who threaten it are constantly evolving, and it's not easy for those who don't live in Windows to keep up. Rather than fixing issues as they pop up, I created a proactive Windows Security cheat sheet for my parents and fami\u2026",
+            "url": "https://www.windowscentral.com/microsoft/windows/windows-security-cheat-sheet-family-it",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/7GR6y9cpqQgGRawhmberfQ-2000-80.jpg",
+            "publishedAt": "2026-07-26T13:00:00Z",
+            "content": "A couple of weeks ago, I received a text message from my dad that read: \"Should I be using a password manager?\"\r\nIt was the latest appeal from my parents (and family in general) asking for cybersecur\u2026 [+8501 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Manila Times"
+            },
+            "author": "The Manila Times",
+            "title": "Hugging Face presses OpenAI for transparency after AI agent breach",
+            "description": "TRYING to explain what happened in the\u00a0unprecedented cybersecurity incident involving autonomous artificial intelligence (AI) systems has raised more questions than answers about how an experimental AI system escaped its test environment. As of this writing\u00a0H\u2026",
+            "url": "https://www.manilatimes.net/2026/07/26/business/science-technology/hugging-face-presses-openai-for-transparency-after-ai-agent-breach/2391658",
+            "urlToImage": "https://manilatimes.net/manilatimes/uploads/images/2026/07/26/1151604.png",
+            "publishedAt": "2026-07-26T12:56:01Z",
+            "content": "TRYING to explain what happened in the\u00a0unprecedented cybersecurity incident involving autonomous artificial intelligence (AI) systems has raised more questions than answers about how an experimental \u2026 [+6985 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Undercodetesting.com"
+            },
+            "author": "Hackmon Ai",
+            "title": "How Klarna Slashed 0M In Marketing Costs With GenAI \u2014 And What It Means For Cybersecurity, IT, And Your Career",
+            "description": "How Klarna Slashed 0M in Marketing Costs with GenAI \u2014 and What It Means for Cybersecurity, IT, and Your Career - \"Undercode Testing\": Monitor hackers like a",
+            "url": "https://undercodetesting.com/how-klarna-slashed-0m-in-marketing-costs-with-genai-and-what-it-means-for-cybersecurity-it-and-your-career/",
+            "urlToImage": "https://i0.wp.com/undercodetesting.com/wp-content/uploads/2026/07/R4mg1dEe6_response.jpeg",
+            "publishedAt": "2026-07-26T12:50:49Z",
+            "content": "Listen to this Post\r\nIntroduction:\r\nIn a recent LinkedIn post, Max Sieg highlighted Klarnas groundbreaking use of generative AI to cut marketing costs by $10 million annuallya move that has sent shoc\u2026 [+13706 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "TechSpot"
+            },
+            "author": "Skye Jacobs",
+            "title": "US prosecutors charge Atlanta man after GrapheneOS phone wipes itself during airport search",
+            "description": "The case centers on Tunick's use of GrapheneOS, an open-source operating system that works on Google Pixel phones and lets users enter a passcode to wipe a device clean.Read Entire Article",
+            "url": "https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html",
+            "urlToImage": "https://www.techspot.com/images2/news/bigimage/2026/07/2026-07-26-image-4.jpg",
+            "publishedAt": "2026-07-26T12:48:00Z",
+            "content": "A hot potato: A federal case in Atlanta is raising questions about a privacy-focused mobile operating system, with prosecutors arguing that its features were used to erase evidence. The US Department\u2026 [+3854 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Caol\u00e1n Magee",
+            "title": "What is the AI Kill Switch Act proposed in the US and how will it work?",
+            "description": "US lawmakers introduce a bill aimed at giving the government power to order companies to shut down 'rogue' AI systems.",
+            "url": "https://www.aljazeera.com/news/2026/7/26/what-is-the-ai-kill-switch-act-proposed-in-the-us-and-how-will-it-work",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/07/getty_6a65e58c5a-1785062796.jpg?resize=1920%2C1440",
+            "publishedAt": "2026-07-26T12:30:28Z",
+            "content": "Two members of the United States Congress have introduced bipartisan legislation that would require developers of the countrys most powerful artificial intelligence systems to build in a kill switch,\u2026 [+4714 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Dailymail.com"
+            },
+            "author": "David Olaseinde",
+            "title": "Angelina Jolie among Hollywood stars hit by 'huge data breach after contact details exposed', cybersecurity expert claims",
+            "description": "Jeremiah Fowler says information such as phone numbers and private email addresses were made publicly accessible online, putting the celebs at great risk.",
+            "url": "https://www.dailymail.com/news/article-16006003/Angelina-Jolie-Hollywood-stars-hit-huge-data-breach-contact-details-exposed-cybersecurity-expert-claims.html",
+            "urlToImage": "https://i.dailymail.com/1s/2026/07/26/13/110258721-0-image-m-18_1785069516660.jpg",
+            "publishedAt": "2026-07-26T12:24:14Z",
+            "content": "Angelina Jolie is among Hollywood stars hit by 'huge data breach after contact details exposed', a cybersecurity expert has claimed.\u00a0\r\nJeremiah Fowler says information such as phone numbers and priva\u2026 [+2930 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Azhar Sukri",
+            "title": "New UK Prime Minister Burnham says he would be prepared to call out Trump",
+            "description": "Burnham said he had a phone conversation with Trump on Monday when he officially took on the role, describing it as \"a good exchange\".",
+            "url": "https://www.cnbc.com/2026/07/26/new-uk-prime-minister-burnham-says-he-would-be-prepared-to-call-out-trump.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108340205-1785067422803-gettyimages-2286913343-85408355.jpeg?v=1785067435&w=1920&h=1080",
+            "publishedAt": "2026-07-26T12:17:14Z",
+            "content": "The U.K.'s new prime minister, Andy Burnham, said he would be willing to call out U.S. President Donald Trump to defend the U.K.'s national interest, as he set the tone for the key trans-Atlantic rel\u2026 [+3399 chars]"
+        }
+    ]
 }
