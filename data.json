@@ -1,6 +1,30 @@
 {
-  "updated": "2026-07-28 08:14:08 UTC",
+  "updated": "2026-07-28 11:50:02 UTC",
   "news": [
+    {
+      "title": "Axon Is Another License Plate Surveillance Company",
+      "description": "[SCHNEIER] Governments are switching, but I&#8217;m not sure it makes a difference: &#8230;some municipalities, including Denver, Colorado, are ditching their Flock arrays. But keep in mind that if they&#8217;re only switching from Flock to another brand of...",
+      "url": "https://www.schneier.com/blog/archives/2026/07/axon-is-another-license-plate-surveillance-company.html",
+      "date": "2026-07-28T11:06:30Z"
+    },
+    {
+      "title": "Data breach at medical billing firm MCBS affects 1.26 million people",
+      "description": "[BLEEPINGCOMPUTER] Healthcare billing company Medical Computer Business Services (MCBS) has disclosed that a 2025 network breach exposed the sensitive information of more than 1.2 million people. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/data-breach-at-medical-billing-firm-mcbs-affects-126-million-people/",
+      "date": "2026-07-28T09:10:03Z"
+    },
+    {
+      "title": "Critical TeamCity Flaw Could Let Attackers Run OS Commands Without Logging In",
+      "description": "[FEEDS] JetBrains is urging customers of on-premise versions of TeamCity to update to the latest version following the discovery of a critical security issue that could result in arbitrary code execution. The vulnerability, assigned CVE-2026-63077 (CVSS...",
+      "url": "https://thehackernews.com/2026/07/critical-teamcity-flaw-could-let.html",
+      "date": "2026-07-28T08:11:22Z"
+    },
+    {
+      "title": "Researcher Says AI Helped Develop Linux Traffic-Control Race Into Root Exploit",
+      "description": "[FEEDS] STAR Labs has published a Linux kernel exploit that turns an ordinary local user into root on the CentOS Stream 9 build it targeted. The flaw, tracked as CVE-2026-53264 (CVSS score: 7.8), is a use-after-free race in the kernel's network...",
+      "url": "https://thehackernews.com/2026/07/researcher-says-ai-helped-develop-linux.html",
+      "date": "2026-07-28T08:04:44Z"
+    },
     {
       "title": "AutoIT Payload Injector , (Tue, Jul 28th)",
       "description": "[ISC] For a long time, AutoIT&#x5b;1&#x5d; has been pretty common in the malware ecosystem. Threat actors still use it because it&#x27s easy to write and powerful. Indeed, it can perform all the required actions to inject a payload into a remote process...",
@@ -8,7 +32,7 @@
       "date": "2026-07-28T07:42:27Z"
     },
     {
-      "title": "Microsoft Says New Cybersecurity AI Model Helps MDASH Hit 95.95% at Half the Cost",
+      "title": "Microsoft Says New Cybersecurity AI Model Helps MDASH Score 95.95% at Half the Cost",
       "description": "[FEEDS] Microsoft has launched its first cybersecurity-specific model inside MDASH, its multi-model vulnerability identification and remediation harness. The company says MDASH, using MAI-Cyber-1-Flash and GPT-5.4, scored 95.95% on CyberGym. It also claims...",
       "url": "https://thehackernews.com/2026/07/microsoft-says-new-cybersecurity-ai.html",
       "date": "2026-07-28T06:07:22Z"
@@ -32,10 +56,46 @@
       "date": "2026-07-27T23:49:44Z"
     },
     {
+      "title": "Microsoft touts cost-saving AI model for cybersecurity",
+      "description": "[CNBC] Microsoft says that when integrated with OpenAI's GPT-5.4, its new cybersecurity model can beat Anthropic's new Mythos 5.",
+      "url": "https://www.cnbc.com/2026/07/27/microsoft-touts-cost-saving-ai-model-for-cybersecurity.html",
+      "date": "2026-07-27T23:46:25Z"
+    },
+    {
+      "title": "AI Is Helping Cybersecurity Teams Better Address Threats. It Is Also Giving a Boost To Bad Actors",
+      "description": "[INTERNATIONAL BUSINESS TIMES] While AI models developed by companies such as Anthropic, OpenAI, and Google can help hackers identify vulnerabilities in computer systems faster than before, security teams are using similar models",
+      "url": "https://www.ibtimes.com/ai-helping-cybersecurity-teams-better-address-threats-it-also-giving-boost-bad-actors-3805762",
+      "date": "2026-07-27T23:41:01Z"
+    },
+    {
       "title": "Arista patches VeloCloud Orchestrator zero-day exploited in attacks",
       "description": "[BLEEPINGCOMPUTER] Arista has patched a maximum-severity command injection vulnerability in on-premises VeloCloud Orchestrator deployments that is being actively exploited in attacks. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/arista-patches-velocloud-orchestrator-zero-day-exploited-in-attacks/",
       "date": "2026-07-27T22:49:44Z"
+    },
+    {
+      "title": "South St. Paul reports cybersecurity attack targeting water utilities",
+      "description": "[ST. PAUL PIONEER PRESS] Drinking water and other operations remained normal thanks to implementation of contingency procedures, the city said.",
+      "url": "https://www.twincities.com/2026/07/27/south-st-paul-cybersecurity-attack/",
+      "date": "2026-07-27T22:46:06Z"
+    },
+    {
+      "title": "Microsoft's introduces its first agent",
+      "description": "[SILICONANGLE NEWS] Microsoft's introduces its first agent-powered cybersecurity model - SiliconANGLE",
+      "url": "https://siliconangle.com/2026/07/27/microsofts-first-cybersecurity-model-powers-new-project-perception-agents/",
+      "date": "2026-07-27T22:38:47Z"
+    },
+    {
+      "title": "F5 raises annual revenue growth forecast again on strong cybersecurity demand",
+      "description": "[REUTERS] F5 on Monday raised its annual revenue growth forecast for the third \u200btime this year, betting on robust \u200cdemand for its secure network and application delivery solutions as businesses navigate heightened cybersecurity \u200brisks tied to the AI boom.",
+      "url": "https://www.reuters.com/technology/f5-raises-annual-revenue-growth-forecast-again-strong-cybersecurity-demand-2026-07-27/",
+      "date": "2026-07-27T21:22:30Z"
+    },
+    {
+      "title": "OpenAI CEO Sam Altman heads to Washington as AI policy deadline nears",
+      "description": "[POLITICO] Altman will preview his company\u2019s newest model and is likely to face questions about OpenAI\u2019s recent cybersecurity breach.",
+      "url": "https://www.politico.com/news/2026/07/27/openai-ceo-sam-altman-heads-to-washington-as-ai-policy-deadline-nears-01012970",
+      "date": "2026-07-27T21:10:00Z"
     },
     {
       "title": "New Dysphoria DDoS botnet spreads to 200k devices worldwide",
@@ -50,6 +110,18 @@
       "date": "2026-07-27T21:00:25Z"
     },
     {
+      "title": "Microsoft Says Its New Cybersecurity AI Beats Industry Leaders at Half the Cost",
+      "description": "[CNET] The agentic MAI-Cyber-1-Flash model, with some help, outscores Claude Mythos 5 on CyberGym.",
+      "url": "https://www.cnet.com/tech/services-and-software/microsoft-says-its-new-cybersecurity-ai-beats-industry-leaders-at-half-the-cost/",
+      "date": "2026-07-27T20:46:48Z"
+    },
+    {
+      "title": "Nvidia, tech giants launch AI alliance amid mounting safety concerns",
+      "description": "[INTERESTING ENGINEERING] NVIDIA, Microsoft, SpaceX and tech giants launch an alliance to build open cybersecurity tools for AI and critical systems.",
+      "url": "https://interestingengineering.com/ai-robotics/open-secure-ai-alliance-open-models-cybersecurity",
+      "date": "2026-07-27T20:37:14Z"
+    },
+    {
       "title": "Bank of Baroda claims cyber cover after data breach",
       "description": "[THE ECONOMIC TIMES] Bank of Baroda has filed a preliminary claim under its cyber insurance policy after a suspected data breach exposed nearly 1 TB of customer data on the darknet. The claim, lodged with lead insurer National Insurance Company, is currently an...",
       "url": "https://economictimes.indiatimes.com/markets/stocks/news/bank-of-baroda-claims-cyber-cover-after-data-breach/articleshow/132673036.cms",
@@ -62,34 +134,10 @@
       "date": "2026-07-27T19:16:00Z"
     },
     {
-      "title": "Microsoft launches AI cybersecurity model, agentic defense platform to cut enterprise security costs",
-      "description": "[VENTUREBEAT] Microsoft launches MAI-Cyber-1-Flash and Project Perception, unveiling a new AI cybersecurity platform that uses agentic defense, lower-cost models, and Microsoft\u2019s vast security data to help enterprises find and fix vulnerabilities faster.",
-      "url": "https://venturebeat.com/security/microsoft-launches-ai-cybersecurity-model-agentic-defense-platform-to-cut-enterprise-security-costs",
-      "date": "2026-07-27T19:14:51Z"
-    },
-    {
-      "title": "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system",
-      "description": "[TECHCRUNCH] Microsoft bolstered its AI cybersecurity offerings this week with the launch of its first AI security model and a new security platform.",
-      "url": "https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/",
-      "date": "2026-07-27T18:32:11Z"
-    },
-    {
       "title": "NVIDIA Forms 37-Member Open Secure AI Alliance and Open-Sources NOOA Framework",
       "description": "[FEEDS] NVIDIA and 36 other organizations have formed the Open Secure AI Alliance to develop and share open technologies, techniques, and tools for securing software and artificial intelligence (AI) agents. The 37-member group spans cloud, security,...",
       "url": "https://thehackernews.com/2026/07/nvidia-forms-37-member-open-secure-ai.html",
       "date": "2026-07-27T18:10:05Z"
-    },
-    {
-      "title": "Nvidia, Microsoft and IBM Launch Open Secure AI Alliance to Strengthen AI Cybersecurity",
-      "description": "[DECRYPT] More than 40 technology companies and organizations have allied to develop open-source AI security tools and standards for cyber defense.",
-      "url": "https://decrypt.co/374401/nvidia-microsoft-ibm-open-secure-ai-alliance-cybersecurity",
-      "date": "2026-07-27T17:58:46Z"
-    },
-    {
-      "title": "Let The AI Panic Begin: The Most Unexpected Alliance",
-      "description": "[SEEKING ALPHA] Nvidia\u2019s Open Secure AI Alliance could boost open, secure AI and renew interest in hardware, cybersecurity and software stocks. Click for this look at AI stocks.",
-      "url": "https://seekingalpha.com/article/4925932-let-the-ai-panic-begin-the-most-unexpected-alliance",
-      "date": "2026-07-27T17:36:56Z"
     },
     {
       "title": "Apple sued over fake App Store crypto wallet app stealing $1.8M in Bitcoin",
@@ -98,52 +146,10 @@
       "date": "2026-07-27T17:29:07Z"
     },
     {
-      "title": "Bank of Baroda confirms data breach: employee email account hacked, bank says core banking systems untouched",
-      "description": "[TIMES OF INDIA] Tech News News: Bank of Baroda has confirmed a security incident at the lender, saying a compromised employee email account gave attackers unauthorised access to \\\"cer.",
-      "url": "https://timesofindia.indiatimes.com/technology/tech-news/bank-of-baroda-confirms-data-breach-employee-email-account-hacked-bank-says-core-banking-systems-untouched/articleshow/132667491.cms",
-      "date": "2026-07-27T17:24:00Z"
-    },
-    {
       "title": "Dysphoria IoT Botnet Adds Blockchain C2 and Victim Relays After JackSkid Disruption",
       "description": "[FEEDS] Dysphoria, an Internet of Things (IoT) botnet line tracked by CNCERT and XLab, has adopted blockchain-based name services and infected-device relays after a March law-enforcement operation against JackSkid infrastructure. The researchers say the...",
       "url": "https://thehackernews.com/2026/07/dysphoria-iot-botnet-adds-blockchain-c2.html",
       "date": "2026-07-27T17:16:28Z"
-    },
-    {
-      "title": "Data breach at DRDO? 31 GB of allegedly stolen sensitive data for sale on dark web for $8,000",
-      "description": "[THE WEEK] The sample documents posted on dark web are dated 2020, and investigators are yet to determine when the data was actually exfiltrated",
-      "url": "https://www.theweek.in/news/defence/2026/07/27/drdo-data-breach-defence-security.html",
-      "date": "2026-07-27T17:03:25Z"
-    },
-    {
-      "title": "Microsoft Unveils A.I. Cybersecurity Tools",
-      "description": "[THE NEW YORK TIMES] As some executives fret over the safety of new A.I. systems, protecting against them could be a big business for tech companies.",
-      "url": "https://www.nytimes.com/2026/07/27/technology/microsoft-unveils-ai-cybersecurity-tools.html",
-      "date": "2026-07-27T16:30:06Z"
-    },
-    {
-      "title": "Bank of Baroda data breach: How to check if your personal details were leaked",
-      "description": "[THE FINANCIAL EXPRESS] Bank of Baroda customers can check whether their branch appears in the leaked dataset after the reported data breach. Here's a step-by-step guide and safety tips.",
-      "url": "https://www.financialexpress.com/life/technology/bank-of-baroda-data-breach-how-to-check-if-your-branch-or-kyc-details-were-exposed/4303908/",
-      "date": "2026-07-27T16:02:51Z"
-    },
-    {
-      "title": "Coca-Cola confirms data theft in Fairlife ransomware attack",
-      "description": "[BLEEPINGCOMPUTER] The Coca-Cola Company has confirmed that hackers stole data from its dairy subsidiary, Fairlife, during a ransomware attack earlier this month. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/coca-cola-confirms-data-theft-in-fairlife-ransomware-attack/",
-      "date": "2026-07-27T15:39:51Z"
-    },
-    {
-      "title": "Public Exploit Released for Patched vBulletin Pre-Auth Code Execution Flaw",
-      "description": "[FEEDS] Public exploit details released on July 27 show how an unauthenticated request can reach PHP's eval() function inside vBulletin and execute code on an unpatched forum server. The attack requires no account, administrative access, or interaction from...",
-      "url": "https://thehackernews.com/2026/07/public-exploit-released-for-patched.html",
-      "date": "2026-07-27T14:40:00Z"
-    },
-    {
-      "title": "\u26a1 Weekly Recap: Rogue AI Agents, Check Point Exploit, Slopsquatting, ClickFix Lures and More",
-      "description": "[FEEDS] Monday starts with the usual promise that everything is under control. Then the logs wake up. This week, trusted tools crossed lines, old flaws found new work, exposed systems stayed exposed, and attackers kept hiding inside normal-looking services....",
-      "url": "https://thehackernews.com/2026/07/weekly-recap-rogue-ai-agents-check.html",
-      "date": "2026-07-27T14:10:54Z"
     },
     {
       "title": "Cognyte Sells a Mobile Cell Surveillance Van",
@@ -198,12 +204,6 @@
       "description": "[SCHNEIER] Harrowing story of an identity theft victim. Yes, the person made a mistake&#8212;they gave the scammer a two-factor authentication code that allowed the scammer to take over their email address. But the real story here is how, for many of us, the...",
       "url": "https://www.schneier.com/blog/archives/2026/07/first-person-identity-theft-story.html",
       "date": "2026-07-22T11:02:26Z"
-    },
-    {
-      "title": "MIT to Become Hotbed of AI Video Surveillance",
-      "description": "[SCHNEIER] It&#8217;s a lot: According to information obtained by The Tech, MIT is spending over $3 million on more than 500 AI surveillance cameras in academic buildings, residence halls, and outdoor areas along Memorial Drive. Installation of the new...",
-      "url": "https://www.schneier.com/blog/archives/2026/07/mit-to-become-hotbed-of-ai-video-surveillance.html",
-      "date": "2026-07-21T11:07:13Z"
     }
   ]
 }
