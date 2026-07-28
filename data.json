@@ -1,6 +1,36 @@
 {
-  "updated": "2026-07-28 13:39:48 UTC",
+  "updated": "2026-07-28 15:57:46 UTC",
   "news": [
+    {
+      "title": "Tengu Botnet Reboots Compromised Linux Devices When Defenders Kill Its Process",
+      "description": "[FEEDS] A new Mirai-derived botnet called Tengu can use a compromised Linux device's hardware watchdog to trigger a reboot when defenders kill its main process. If that happens, Tengu's other persistence mechanisms get another chance to relaunch it. Nozomi...",
+      "url": "https://thehackernews.com/2026/07/tengu-botnet-reboots-compromised-linux.html",
+      "date": "2026-07-28T15:01:33Z"
+    },
+    {
+      "title": "24,650 Internet-Exposed BMCs Disclose IPMI Password Hashes Before Login",
+      "description": "[FEEDS] Cybersecurity researchers have sounded an alert after finding more than 36,000 Baseboard Management Controller (BMC) management interfaces exposing Intelligent Platform Management Interface (IPMI) protocol to the public internet. Of the 36,872...",
+      "url": "https://thehackernews.com/2026/07/24650-internet-exposed-bmcs-disclose.html",
+      "date": "2026-07-28T14:41:36Z"
+    },
+    {
+      "title": "Is Your SSO Protected Against Modern Credential Attacks?",
+      "description": "[BLEEPINGCOMPUTER] A compromised SSO login can provide attackers with access to multiple enterprise applications and services. Specops Software explains how stronger passwords, phishing-resistant MFA, and identity hardening help secure modern SSO environments and the...",
+      "url": "https://www.bleepingcomputer.com/news/security/is-your-sso-protected-against-modern-credential-attacks/",
+      "date": "2026-07-28T14:00:10Z"
+    },
+    {
+      "title": "JFrog Confirms OpenAI Models Exploited Artifactory Zero-Day Before Hugging Face Breach",
+      "description": "[FEEDS] JFrog has confirmed that OpenAI models exploited a zero-day in self-hosted Artifactory while trying to reach the open internet from a sealed evaluation environment. Artifactory is JFrog's software repository manager. OpenAI says the models then...",
+      "url": "https://thehackernews.com/2026/07/jfrog-confirms-openai-models-exploited.html",
+      "date": "2026-07-28T13:33:47Z"
+    },
+    {
+      "title": "Critical OpenWrt DHCPv6 Flaw Could Let Unauthenticated Attackers Run Code as Root",
+      "description": "[FEEDS] OpenWrt has shipped version 24.10.8 to close a critical DHCPv6 stack overflow and a wider set of remotely triggerable flaws in network services enabled by default. The critical issue, tracked as CVE-2026-53921 and rated 9.8 on CVSS 3.1 in OpenWrt's...",
+      "url": "https://thehackernews.com/2026/07/critical-openwrt-dhcpv6-flaw-could-let.html",
+      "date": "2026-07-28T12:56:14Z"
+    },
     {
       "title": "Over 24,000 exposed server BMCs leak password hash via decades-old flaw",
       "description": "[BLEEPINGCOMPUTER] More than 24,000 internet-exposed servers are leaking authentication password hashes due to a 20-year-old vulnerability in their Baseboard Management Controller (BMC) interface. [...]",
@@ -32,34 +62,58 @@
       "date": "2026-07-28T08:11:22Z"
     },
     {
-      "title": "Researcher Says AI Helped Develop Linux Traffic-Control Race Into Root Exploit",
-      "description": "[FEEDS] STAR Labs has published a Linux kernel exploit that turns an ordinary local user into root on the CentOS Stream 9 build it targeted. The flaw, tracked as CVE-2026-53264 (CVSS score: 7.8), is a use-after-free race in the kernel's network...",
-      "url": "https://thehackernews.com/2026/07/researcher-says-ai-helped-develop-linux.html",
-      "date": "2026-07-28T08:04:44Z"
-    },
-    {
       "title": "AutoIT Payload Injector , (Tue, Jul 28th)",
       "description": "[ISC] For a long time, AutoIT&#x5b;1&#x5d; has been pretty common in the malware ecosystem. Threat actors still use it because it&#x27s easy to write and powerful. Indeed, it can perform all the required actions to inject a payload into a remote process...",
       "url": "https://isc.sans.edu/diary/rss/33192",
       "date": "2026-07-28T07:42:27Z"
     },
     {
-      "title": "Microsoft Says New Cybersecurity AI Model Helps MDASH Score 95.95% at Half the Cost",
-      "description": "[FEEDS] Microsoft has launched its first cybersecurity-specific model inside MDASH, its multi-model vulnerability identification and remediation harness. The company says MDASH, using MAI-Cyber-1-Flash and GPT-5.4, scored 95.95% on CyberGym. It also claims...",
-      "url": "https://thehackernews.com/2026/07/microsoft-says-new-cybersecurity-ai.html",
-      "date": "2026-07-28T06:07:22Z"
+      "title": "Hong Kong readies banks for quantum cybersecurity threats",
+      "description": "[CRYPTO BREAKING NEWS] The Hong Kong Monetary Authority (HKMA) has introduced a new assessment framework aimed at helping banks prepare for the potential impact of quantum",
+      "url": "https://www.cryptobreaking.com/hong-kong-readies-banks-for-2/",
+      "date": "2026-07-28T03:49:21Z"
     },
     {
-      "title": "Attackers Exploit Arista VeloCloud Orchestrator Command Injection Flaw",
-      "description": "[FEEDS] A maximum-severity security flaw impacting on-premises versions of Arista VeloCloud Orchestrator (VCO) has come under active exploitation in the wild. The vulnerability, tracked as CVE-2026-16812 (CVSS score: 10.0), is a case of operating system...",
-      "url": "https://thehackernews.com/2026/07/attackers-exploit-arista-velocloud.html",
-      "date": "2026-07-28T04:43:53Z"
+      "title": "Bank of Baroda Data Leak: Compromised employee email linked to alleged 1TB data leak on darknet",
+      "description": "[THE ECONOMIC TIMES] Bank of Baroda said its recent data leak resulted from the compromise of a single employee's email account and did not affect its core banking systems. The bank has launched a forensic investigation, informed regulators, and notified a cyber...",
+      "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/bank-of-baroda-1tb-data-leak-on-darknet-reason-is-employee-email-compromise-core-banking-systems-cyber-insurance-claim-forensic-investigation/articleshow/132674252.cms",
+      "date": "2026-07-28T03:39:00Z"
+    },
+    {
+      "title": "Bank of Baroda confirms data breach. Can the lender now face penalties?",
+      "description": "[INDIA TODAY] Bank of Baroda has confirmed a customer data breach after an employee email account was compromised. The case now turns on regulatory scrutiny, possible penalties and the steps customers must take against phishing and misuse.",
+      "url": "https://www.indiatoday.in/business/companies/story/bank-of-baroda-data-leak-1tb-breach-rbi-cert-in-face-penalties-rbi-customer-safety-2957745-2026-07-28",
+      "date": "2026-07-28T03:19:01Z"
+    },
+    {
+      "title": "Singapore, Brazil lead country ETF gains as South Korea's AI rally unwinds",
+      "description": "[MONEYCONTROL] Genomics gained 21.1% in July, followed by biotech at 16.2%, cybersecurity at 13.7% and insurance at 10.7%, as investors shifted away from crowded AI-linked trades.",
+      "url": "https://www.moneycontrol.com/news/business/markets/singapore-brazil-lead-country-etf-gains-as-south-korea-s-ai-rally-unwinds-13984967.html",
+      "date": "2026-07-28T02:41:00Z"
     },
     {
       "title": "ISC Stormcast For Tuesday, July 28th, 2026 https://isc.sans.edu/podcastdetail/10026, (Tue, Jul 28th)",
       "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
       "url": "https://isc.sans.edu/diary/rss/33190",
       "date": "2026-07-28T02:00:03Z"
+    },
+    {
+      "title": "Bank of Baroda data leak: If you are BoB account holder, don't worry, here are 5 things you must know",
+      "description": "[INDIA TODAY] Bank of Baroda has been hacked, and data of thousands if not lakhs of customers is now available online for free. But if you are a Bank of Baroda customer, don\u2019t worry, here are 5 things that you should know about this data breach.",
+      "url": "https://www.indiatoday.in/technology/features/story/bank-of-baroda-data-leak-if-you-are-bob-account-holder-dont-worry-here-are-5-things-you-must-know-2957457-2026-07-28",
+      "date": "2026-07-28T02:00:00Z"
+    },
+    {
+      "title": "Nearly a million customers caught in Origin data breach",
+      "description": "[THE CANBERRA TIMES] Origin had been aware of a potential security threat for weeks before a massive data breach, but deemed...",
+      "url": "https://www.canberratimes.com.au/story/9318959/nearly-a-million-customers-caught-in-origin-data-breach/",
+      "date": "2026-07-28T01:55:35Z"
+    },
+    {
+      "title": "Origin Says Data Breach Affected About 900,000 Current and Former Customers",
+      "description": "[OILPRICE] Origin Energy has confirmed that approximately 900,000 current and former customers had their information accessed in a cybersecurity incident and is notifying affected individuals while working with Australian authorities.",
+      "url": "https://oilprice.com/Company-News/Origin-Says-Data-Breach-Affected-About-900000-Current-and-Former-Customers.html",
+      "date": "2026-07-28T01:50:00Z"
     },
     {
       "title": "How companies can deploy AI agents safely",
@@ -80,40 +134,10 @@
       "date": "2026-07-28T00:29:08Z"
     },
     {
-      "title": "World Economic Forum unveils next tech wave",
-      "description": "[BANGKOK POST] The World Economic Forum (WEF) has identified 10 emerging technologies it believes are nearing commercial maturity and could transform industries, addressing global challenges ranging from clean energy and healthcare to cybersecurity and artificial...",
-      "url": "https://www.bangkokpost.com/business/general/3292769/world-economic-forum-unveils-next-tech-wave",
-      "date": "2026-07-28T00:10:00Z"
-    },
-    {
-      "title": "WEF unveils the next tech wave",
-      "description": "[BANGKOK POST] The World Economic Forum (WEF) has identified 10 emerging technologies it believes are nearing commercial maturity and could transform industries, addressing global challenges ranging from clean energy and healthcare to cybersecurity and artificial...",
-      "url": "https://www.bangkokpost.com/business/general/3292769/wef-unveils-the-next-tech-wave",
-      "date": "2026-07-28T00:10:00Z"
-    },
-    {
-      "title": "saving AI model for cybersecurity",
-      "description": "[EUROPE SAYS] Microsoft CEO Satya Nadella speaks at the Microsoft AI Tour at TikTok Entertainment Centre in Sydney on April 23, 2026.",
-      "url": "https://www.europesays.com/3158034/",
-      "date": "2026-07-27T23:57:25Z"
-    },
-    {
       "title": "Hackers target US firms in FastJson RCE zero-day attacks",
       "description": "[BLEEPINGCOMPUTER] Hackers are actively exploiting a vulnerability in the FastJson open-source Java library, allowing remote code execution without user interaction or elevated privileges. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-target-us-firms-in-fastjson-rce-zero-day-attacks/",
       "date": "2026-07-27T23:49:44Z"
-    },
-    {
-      "title": "Microsoft touts cost-saving AI model for cybersecurity",
-      "description": "[CNBC] Microsoft says that when integrated with OpenAI's GPT-5.4, its new cybersecurity model can beat Anthropic's new Mythos 5.",
-      "url": "https://www.cnbc.com/2026/07/27/microsoft-touts-cost-saving-ai-model-for-cybersecurity.html",
-      "date": "2026-07-27T23:46:25Z"
-    },
-    {
-      "title": "AI Is Helping Cybersecurity Teams Better Address Threats. It Is Also Giving a Boost To Bad Actors",
-      "description": "[INTERNATIONAL BUSINESS TIMES] While AI models developed by companies such as Anthropic, OpenAI, and Google can help hackers identify vulnerabilities in computer systems faster than before, security teams are using similar models",
-      "url": "https://www.ibtimes.com/ai-helping-cybersecurity-teams-better-address-threats-it-also-giving-boost-bad-actors-3805762",
-      "date": "2026-07-27T23:41:01Z"
     },
     {
       "title": "Arista patches VeloCloud Orchestrator zero-day exploited in attacks",
@@ -122,34 +146,10 @@
       "date": "2026-07-27T22:49:44Z"
     },
     {
-      "title": "South St. Paul reports cybersecurity attack targeting water utilities",
-      "description": "[ST. PAUL PIONEER PRESS] Drinking water and other operations remained normal thanks to implementation of contingency procedures, the city said.",
-      "url": "https://www.twincities.com/2026/07/27/south-st-paul-cybersecurity-attack/",
-      "date": "2026-07-27T22:46:06Z"
-    },
-    {
-      "title": "Microsoft's introduces its first agent",
-      "description": "[SILICONANGLE NEWS] Microsoft's introduces its first agent-powered cybersecurity model - SiliconANGLE",
-      "url": "https://siliconangle.com/2026/07/27/microsofts-first-cybersecurity-model-powers-new-project-perception-agents/",
-      "date": "2026-07-27T22:38:47Z"
-    },
-    {
       "title": "New Dysphoria DDoS botnet spreads to 200k devices worldwide",
       "description": "[BLEEPINGCOMPUTER] A botnet called Dysphoria has compromised around 200,000 devices across the world and is using them for distributed denial of service (DDoS) attacks and traffic relay operations. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/new-dysphoria-ddos-botnet-spreads-to-200k-devices-worldwide/",
       "date": "2026-07-27T21:08:15Z"
-    },
-    {
-      "title": "New Certighost PoC exploit lets attackers hijack Windows domains",
-      "description": "[BLEEPINGCOMPUTER] A proof-of-concept exploit for \"Certighost,\" a Windows Active Directory Certificate Services vulnerability, has been released that can allow authenticated attackers to potentially compromise a Windows domain. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/new-certighost-poc-exploit-lets-attackers-hijack-windows-domains/",
-      "date": "2026-07-27T21:00:25Z"
-    },
-    {
-      "title": "NVIDIA Forms 37-Member Open Secure AI Alliance and Open-Sources NOOA Framework",
-      "description": "[FEEDS] NVIDIA and 36 other organizations have formed the Open Secure AI Alliance to develop and share open technologies, techniques, and tools for securing software and artificial intelligence (AI) agents. The 37-member group spans cloud, security,...",
-      "url": "https://thehackernews.com/2026/07/nvidia-forms-37-member-open-secure-ai.html",
-      "date": "2026-07-27T18:10:05Z"
     },
     {
       "title": "Cognyte Sells a Mobile Cell Surveillance Van",
