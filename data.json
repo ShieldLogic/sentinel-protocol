@@ -1,6 +1,18 @@
 {
-  "updated": "2026-07-28 19:08:03 UTC",
+  "updated": "2026-07-28 20:58:24 UTC",
   "news": [
+    {
+      "title": "OpenAI models used Artifactory zero-days to escape to the internet",
+      "description": "[BLEEPINGCOMPUTER] JFrog has confirmed that OpenAI models exploited zero-day vulnerabilities in self-hosted Artifactory servers to help escape an isolated testing environment and gain access to the internet before attacking Hugging Face. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/openai-models-used-artifactory-zero-days-to-escape-to-the-internet/",
+      "date": "2026-07-28T20:37:06Z"
+    },
+    {
+      "title": "Claude AI Just Cracked a Post-Quantum Test Scheme and Found a Faster 7-Round AES Attack",
+      "description": "[FEEDS] Anthropic says Claude Mythos Preview helped derive an end-to-end key-recovery attack against HAWK-256 and a 200- to 800-fold speedup for an attack on seven-round AES-128. The HAWK attack exploits a previously unused symmetry in the lattice behind...",
+      "url": "https://thehackernews.com/2026/07/claude-ai-just-cracked-post-quantum.html",
+      "date": "2026-07-28T18:59:07Z"
+    },
     {
       "title": "CISA shares advice on isolating vital systems during cyberattacks",
       "description": "[BLEEPINGCOMPUTER] The U.S. and Australian governments have released new guidance urging critical infrastructure organizations to prepare to isolate vital operational technology systems in the event of a cyberattack or other major disruptions. [...]",
@@ -68,10 +80,46 @@
       "date": "2026-07-28T09:10:03Z"
     },
     {
-      "title": "Critical TeamCity Flaw Could Let Attackers Run OS Commands Without Logging In",
-      "description": "[FEEDS] JetBrains is urging customers of on-premise versions of TeamCity to update to the latest version following the discovery of a critical security issue that could result in arbitrary code execution. The vulnerability, assigned CVE-2026-63077 (CVSS...",
-      "url": "https://thehackernews.com/2026/07/critical-teamcity-flaw-could-let.html",
-      "date": "2026-07-28T08:11:22Z"
+      "title": "Microsoft Says Its Latest AI Cybersecurity Model Better Than Mythos, Gemini And GPT",
+      "description": "[TIMES NOW] Microsoft has unveiled its new AI model, MAI-Cyber-1-Flash, tailored for cybersecurity, which reportedly surpasses competitors like Anthropic, Google, and OpenAI in vulnerability detection. , Technology & Science, Times Now",
+      "url": "https://www.timesnownews.com/technology-science/microsoft-says-its-latest-ai-cybersecurity-model-better-than-mythos-gemini-and-gpt-article-155191270",
+      "date": "2026-07-28T08:55:00Z"
+    },
+    {
+      "title": "Bank of Baroda Data Leak Linked To Employee Email Breach; Core Systems Safe",
+      "description": "[FREE PRESS JOURNAL] Bank of Baroda said a reported data breach was caused by the compromise of an employee\u2019s email account and did not affect its core banking systems. The lender launched a forensic investigation after claims surfaced of a darknet leak involving...",
+      "url": "https://www.freepressjournal.in/business/bank-of-baroda-data-leak-linked-to-employee-email-breach-core-systems-safe",
+      "date": "2026-07-28T08:45:48Z"
+    },
+    {
+      "title": "Microsoft launches first cybersecurity AI model, claims it can beat Mythos and cut cost by 50 percent",
+      "description": "[INDIA TODAY] Microsoft has unveiled its first cybersecurity AI model, betting that smaller, specialised AI can detect software vulnerabilities faster. The company claims the model can outperform Anthropic's Mythos 5 while cutting vulnerability detection costs by...",
+      "url": "https://www.indiatoday.in/technology/news/story/microsoft-wants-to-use-smaller-ai-models-to-fight-cyber-attacks-and-save-money-2957937-2026-07-28",
+      "date": "2026-07-28T08:16:17Z"
+    },
+    {
+      "title": "Microsoft wants AI to catch hackers before they even attack",
+      "description": "[DIGITAL TRENDS] Microsoft's new Project Perception uses AI agents to hunt down hackers before they strike, and it might change cybersecurity forever.",
+      "url": "https://www.digitaltrends.com/cool-tech/microsoft-wants-ai-to-catch-hackers-before-they-even-attack/",
+      "date": "2026-07-28T08:06:21Z"
+    },
+    {
+      "title": "Researcher Says AI Helped Develop Linux Traffic-Control Race Into Root Exploit",
+      "description": "[THE HACKER NEWS] Researcher Says AI Helped Develop Linux Traffic-Control Race Into Root Exploit | Read more hacking news on The Hacker News cybersecurity news website and learn how to protect against cyberattacks and software vulnerabilities.",
+      "url": "https://thehackernews.com/2026/07/researcher-says-ai-helped-develop-linux.html",
+      "date": "2026-07-28T08:04:00Z"
+    },
+    {
+      "title": "AI is Changing the World: Answers to Your Biggest Questions",
+      "description": "[SBS AUSTRALIA] SBS Punjabi spoke with Chetan Arora, Director of Education in the Department of Software Systems and Cybersecurity at Monash University, about the Australian government's newly announced AI framework and the establishment of a dedicated Office of...",
+      "url": "https://www.sbs.com.au/language/punjabi/en/podcast-episode/australias-new-ai-framework-what-will-it-mean-for-jobs-education-and-small-businesses/68ba82kpx",
+      "date": "2026-07-28T08:00:00Z"
+    },
+    {
+      "title": "Bank of Baroda data breach: Is your money safe? Here's what customers need to know",
+      "description": "[CNBC TV18] Bank of Baroda data breach: Employee email compromised, customer data possibly on dark web. What account holders need to know.",
+      "url": "https://www.cnbctv18.com/personal-finance/bank-of-baroda-data-breach-is-money-safe-what-customers-need-to-know-19955630.htm",
+      "date": "2026-07-28T07:48:27Z"
     },
     {
       "title": "AutoIT Payload Injector , (Tue, Jul 28th)",
@@ -80,76 +128,28 @@
       "date": "2026-07-28T07:42:27Z"
     },
     {
-      "title": "Bank of Baroda data leak: Internal documents allegedly exposed after cyberattack",
-      "description": "[THE NEW INDIAN EXPRESS] A report citing cybersecurity experts described the breach as \u201cconcerning\u201d for the banking ecosystem.",
-      "url": "https://www.newindianexpress.com/business/2026/Jul/28/bank-of-baroda-data-leak-internal-documents-allegedly-exposed-after-cyberattack",
-      "date": "2026-07-28T06:32:07Z"
+      "title": "Layer 2 Computers Highlights Practical Tech Support for Homes and Businesses",
+      "description": "[TECHBULLION] Layer 2 Computers provides a practical mix of home support, business IT services, managed IT, cybersecurity, backup, remote support,",
+      "url": "https://techbullion.com/layer-2-computers-highlights-practical-tech-support-for-homes-and-businesses/",
+      "date": "2026-07-28T07:39:46Z"
     },
     {
-      "title": "Microsoft Says New Cybersecurity AI Model Helps MDASH Hit 95.95% at Half the Cost",
-      "description": "[THE HACKER NEWS] Microsoft launches MAI-Cyber-1-Flash inside MDASH, routing up to 90% of tasks to the model while GPT-5.4 handles the hardest 10%.",
-      "url": "https://thehackernews.com/2026/07/microsoft-says-new-cybersecurity-ai.html",
-      "date": "2026-07-28T06:07:00Z"
+      "title": "OpenAI's Sam Altman to meet White House officials after rogue AI scare",
+      "description": "[BUSINESS TODAY] The meet may revolve around cybersecurity issues and to understand how OpenAI plans to protect its AI systems from misuse, hacking, and other security threats.",
+      "url": "https://www.businesstoday.in/technology/news/story/openais-sam-altman-to-meet-white-house-officials-after-rogue-ai-scare-545635-2026-07-28",
+      "date": "2026-07-28T07:37:39Z"
     },
     {
-      "title": "Energy giant took weeks to respond to major data breach",
-      "description": "[THE CANBERRA TIMES] Almost one million Origin Energy customers are being warned about potential scam activity after their data was leaked...",
-      "url": "https://www.canberratimes.com.au/story/9318959/energy-giant-took-weeks-to-respond-to-major-data-breach/",
-      "date": "2026-07-28T05:07:14Z"
-    },
-    {
-      "title": "Why blocking Jack Dorsey's open-source messaging app Bitchat won't be easy in India",
-      "description": "[MONEYCONTROL] With GitHub yet to act on I4C's notice, legal and cybersecurity experts say the government may have to rely on stronger legal powers. However, the decentralised nature of the app means removing a repository is unlikely to stop its use.",
-      "url": "https://www.moneycontrol.com/technology/why-blocking-jack-dorsey-s-open-source-messaging-app-bitchat-won-t-be-easy-in-india-article-13985333.html",
-      "date": "2026-07-28T05:02:59Z"
-    },
-    {
-      "title": "Nearly a million customers caught up in Origin data breach",
-      "description": "[7NEWS AUSTRALIA] The energy company says many customers had data accessed, warning of the potential for scam activity.",
-      "url": "https://7news.com.au/news/nearly-a-million-customers-caught-up-in-origin-data-breach-c-22639526",
-      "date": "2026-07-28T04:37:33Z"
-    },
-    {
-      "title": "Microsoft unveils AI cybersecurity tools",
-      "description": "[THE STAR] As some executives fret over the safety of new AI systems, protecting against them could be a big business for tech companies.",
-      "url": "https://www.thestar.com.my/tech/tech-news/2026/07/28/microsoft-unveils-ai-cybersecurity-tools",
-      "date": "2026-07-28T04:30:00Z"
-    },
-    {
-      "title": "Microsoft unveils MAI-Cyber-1-Flash, its first AI model built for cybersecurity",
-      "description": "[NEWSBYTES] Microsoft has introduced its first cybersecurity-focused AI model and an innovative agentic cybersecurity platform, challenging industry leaders like Anthropic, Google, and OpenAI.",
-      "url": "https://www.newsbytesapp.com/news/science/microsoft-challenges-google-openai-with-cybersecurity-focused-ai-model/story",
-      "date": "2026-07-28T04:08:00Z"
-    },
-    {
-      "title": "Nvidia launches Open Secure AI Alliance after Hugging Face security incident",
-      "description": "[THE INDIAN EXPRESS] Nvidia has formed the Open Secure AI Alliance with 35 other tech companies to create open AI tools for safety and cybersecurity. This comes after the Hugging Face security incident, emphasizing the importance of transparent and inspectable AI...",
-      "url": "https://indianexpress.com/shorts/technology/artificial-intelligence/nvidia-launches-open-secure-ai-alliance-what-it-means-10806588/",
-      "date": "2026-07-28T03:59:56Z"
-    },
-    {
-      "title": "What is Open Secure AI Alliance? Nvidia\u2019s latest push for AI security",
-      "description": "[THE INDIAN EXPRESS] Nvidia has launched the Open Secure AI Alliance, bringing together major technology companies to develop open AI safety and cybersecurity tools.",
-      "url": "https://indianexpress.com/article/technology/artificial-intelligence/nvidia-launches-open-secure-ai-alliance-what-it-means-10806588/",
-      "date": "2026-07-28T03:58:10Z"
-    },
-    {
-      "title": "Hong Kong readies banks for quantum cybersecurity threats",
-      "description": "[CRYPTO BREAKING NEWS] The Hong Kong Monetary Authority (HKMA) has introduced a new assessment framework aimed at helping banks prepare for the potential impact of quantum",
-      "url": "https://www.cryptobreaking.com/hong-kong-readies-banks-for-2/",
-      "date": "2026-07-28T03:49:21Z"
+      "title": "DRDO sensitive data offered for sale on dark web for nearly Rs 8 lakh",
+      "description": "[THE ECONOMIC TIMES] DRDO data is reportedly being sold for eight thousand dollars on the dark web. A cyber intelligence firm discovered the alleged data listing during routine monitoring. Sample documents released appear to contain restricted technical information and...",
+      "url": "https://economictimes.indiatimes.com/news/defence/drdo-sensitive-data-offered-for-sale-on-dark-web-for-nearly-rs-8-lakh/articleshow/132677874.cms",
+      "date": "2026-07-28T07:28:00Z"
     },
     {
       "title": "ISC Stormcast For Tuesday, July 28th, 2026 https://isc.sans.edu/podcastdetail/10026, (Tue, Jul 28th)",
       "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
       "url": "https://isc.sans.edu/diary/rss/33190",
       "date": "2026-07-28T02:00:03Z"
-    },
-    {
-      "title": "Hackers target US firms in FastJson RCE zero-day attacks",
-      "description": "[BLEEPINGCOMPUTER] Hackers are actively exploiting a vulnerability in the FastJson open-source Java library, allowing remote code execution without user interaction or elevated privileges. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-target-us-firms-in-fastjson-rce-zero-day-attacks/",
-      "date": "2026-07-27T23:49:44Z"
     },
     {
       "title": "Cognyte Sells a Mobile Cell Surveillance Van",
