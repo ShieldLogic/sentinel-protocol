@@ -1,6 +1,18 @@
 {
-  "updated": "2026-07-28 17:23:30 UTC",
+  "updated": "2026-07-28 19:08:03 UTC",
   "news": [
+    {
+      "title": "CISA shares advice on isolating vital systems during cyberattacks",
+      "description": "[BLEEPINGCOMPUTER] The U.S. and Australian governments have released new guidance urging critical infrastructure organizations to prepare to isolate vital operational technology systems in the event of a cyberattack or other major disruptions. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-shares-advice-on-isolating-vital-systems-during-cyberattacks/",
+      "date": "2026-07-28T18:41:04Z"
+    },
+    {
+      "title": "vBulletin fixes critical pre-auth RCE flaw with public exploit",
+      "description": "[BLEEPINGCOMPUTER] A critical vulnerability in the vBulletin forum software allows unauthenticated attackers to execute arbitrary PHP code through template rendering. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/vbulletin-fixes-critical-pre-auth-rce-flaw-with-public-exploit/",
+      "date": "2026-07-28T18:08:50Z"
+    },
     {
       "title": "Tengu Botnet Reboots Compromised Linux Devices When Defenders Kill Its Process",
       "description": "[FEEDS] A new Mirai-derived botnet called Tengu can use a compromised Linux device's hardware watchdog to trigger a reboot when defenders kill its main process. If that happens, Tengu's other persistence mechanisms get another chance to relaunch it. Nozomi...",
@@ -68,6 +80,18 @@
       "date": "2026-07-28T07:42:27Z"
     },
     {
+      "title": "Bank of Baroda data leak: Internal documents allegedly exposed after cyberattack",
+      "description": "[THE NEW INDIAN EXPRESS] A report citing cybersecurity experts described the breach as \u201cconcerning\u201d for the banking ecosystem.",
+      "url": "https://www.newindianexpress.com/business/2026/Jul/28/bank-of-baroda-data-leak-internal-documents-allegedly-exposed-after-cyberattack",
+      "date": "2026-07-28T06:32:07Z"
+    },
+    {
+      "title": "Microsoft Says New Cybersecurity AI Model Helps MDASH Hit 95.95% at Half the Cost",
+      "description": "[THE HACKER NEWS] Microsoft launches MAI-Cyber-1-Flash inside MDASH, routing up to 90% of tasks to the model while GPT-5.4 handles the hardest 10%.",
+      "url": "https://thehackernews.com/2026/07/microsoft-says-new-cybersecurity-ai.html",
+      "date": "2026-07-28T06:07:00Z"
+    },
+    {
       "title": "Energy giant took weeks to respond to major data breach",
       "description": "[THE CANBERRA TIMES] Almost one million Origin Energy customers are being warned about potential scam activity after their data was leaked...",
       "url": "https://www.canberratimes.com.au/story/9318959/energy-giant-took-weeks-to-respond-to-major-data-breach/",
@@ -116,18 +140,6 @@
       "date": "2026-07-28T03:49:21Z"
     },
     {
-      "title": "Bank of Baroda Data Leak: Compromised employee email linked to alleged 1TB data leak on darknet",
-      "description": "[THE ECONOMIC TIMES] Bank of Baroda said its recent data leak resulted from the compromise of a single employee's email account and did not affect its core banking systems. The bank has launched a forensic investigation, informed regulators, and notified a cyber...",
-      "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/bank-of-baroda-1tb-data-leak-on-darknet-reason-is-employee-email-compromise-core-banking-systems-cyber-insurance-claim-forensic-investigation/articleshow/132674252.cms",
-      "date": "2026-07-28T03:39:00Z"
-    },
-    {
-      "title": "Bank of Baroda confirms data breach. Can the lender now face penalties?",
-      "description": "[INDIA TODAY] Bank of Baroda has confirmed a customer data breach after an employee email account was compromised. The case now turns on regulatory scrutiny, possible penalties and the steps customers must take against phishing and misuse.",
-      "url": "https://www.indiatoday.in/business/companies/story/bank-of-baroda-data-leak-1tb-breach-rbi-cert-in-face-penalties-rbi-customer-safety-2957745-2026-07-28",
-      "date": "2026-07-28T03:19:01Z"
-    },
-    {
       "title": "ISC Stormcast For Tuesday, July 28th, 2026 https://isc.sans.edu/podcastdetail/10026, (Tue, Jul 28th)",
       "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
       "url": "https://isc.sans.edu/diary/rss/33190",
@@ -138,18 +150,6 @@
       "description": "[BLEEPINGCOMPUTER] Hackers are actively exploiting a vulnerability in the FastJson open-source Java library, allowing remote code execution without user interaction or elevated privileges. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-target-us-firms-in-fastjson-rce-zero-day-attacks/",
       "date": "2026-07-27T23:49:44Z"
-    },
-    {
-      "title": "Arista patches VeloCloud Orchestrator zero-day exploited in attacks",
-      "description": "[BLEEPINGCOMPUTER] Arista has patched a maximum-severity command injection vulnerability in on-premises VeloCloud Orchestrator deployments that is being actively exploited in attacks. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/arista-patches-velocloud-orchestrator-zero-day-exploited-in-attacks/",
-      "date": "2026-07-27T22:49:44Z"
-    },
-    {
-      "title": "New Dysphoria DDoS botnet spreads to 200k devices worldwide",
-      "description": "[BLEEPINGCOMPUTER] A botnet called Dysphoria has compromised around 200,000 devices across the world and is using them for distributed denial of service (DDoS) attacks and traffic relay operations. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/new-dysphoria-ddos-botnet-spreads-to-200k-devices-worldwide/",
-      "date": "2026-07-27T21:08:15Z"
     },
     {
       "title": "Cognyte Sells a Mobile Cell Surveillance Van",
