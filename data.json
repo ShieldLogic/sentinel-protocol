@@ -1,6 +1,12 @@
 {
-  "updated": "2026-07-27 22:52:09 UTC",
+  "updated": "2026-07-28 01:42:25 UTC",
   "news": [
+    {
+      "title": "Hackers target US firms in FastJson RCE zero-day attacks",
+      "description": "[BLEEPINGCOMPUTER] Hackers are actively exploiting a vulnerability in the FastJson open-source Java library, allowing remote code execution without user interaction or elevated privileges. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-target-us-firms-in-fastjson-rce-zero-day-attacks/",
+      "date": "2026-07-27T23:49:44Z"
+    },
     {
       "title": "Arista patches VeloCloud Orchestrator zero-day exploited in attacks",
       "description": "[BLEEPINGCOMPUTER] Arista has patched a maximum-severity command injection vulnerability in on-premises VeloCloud Orchestrator deployments that is being actively exploited in attacks. [...]",
@@ -44,12 +50,6 @@
       "date": "2026-07-27T15:39:51Z"
     },
     {
-      "title": "Ernst & Young data breach claimed by ShinyHunters extortion gang",
-      "description": "[BLEEPINGCOMPUTER] The ShinyHunters extortion gang has claimed responsibility for a recently disclosed Ernst & Young data breach, saying it obtained credentials for some of the company's systems via a supply-chain attack. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/ernst-and-young-data-breach-claimed-by-shinyhunters-extortion-gang/",
-      "date": "2026-07-27T15:12:27Z"
-    },
-    {
       "title": "Public Exploit Released for Patched vBulletin Pre-Auth Code Execution Flaw",
       "description": "[FEEDS] Public exploit details released on July 27 show how an unauthenticated request can reach PHP's eval() function inside vBulletin and execute code on an unpatched forum server. The attack requires no account, administrative access, or interaction from...",
       "url": "https://thehackernews.com/2026/07/public-exploit-released-for-patched.html",
@@ -62,10 +62,28 @@
       "date": "2026-07-27T14:10:54Z"
     },
     {
+      "title": "billion dollar company is why he's bringing Microsoft, IBM, Cisco and 30 other biggest tech companies together",
+      "description": "[TIMES OF INDIA] Tech News News: Nvidia CEO Jensen Huang has turned the strangest cybersecurity story of 2026 into an argument. Earlier this month, two of OpenAI's cybersecurity model.",
+      "url": "https://timesofindia.indiatimes.com/technology/tech-news/nvidia-ceo-jensen-huang-says-openais-rogue-ai-models-hacking-a-multi-billion-dollar-company-is-why-hes-bringing-microsoft-ibm-cisco-and-30-other-tech-biggest-tech-companies-together/articleshow/132662565.cms",
+      "date": "2026-07-27T13:09:00Z"
+    },
+    {
+      "title": "billion dollar company is why he's bringing Microsoft, IBM, Cisco and 30 other biggest tech companies together",
+      "description": "[TIMES OF INDIA] Tech News News: Nvidia CEO Jensen Huang has turned the strangest cybersecurity story of 2026 into an argument. Earlier this month, two of OpenAI's cybersecurity model.",
+      "url": "https://timesofindia.indiatimes.com/technology/tech-news/nvidia-ceo-jensen-huang-says-openais-rogue-ai-models-hacking-a-multi-billion-dollar-company-is-why-hes-bringing-microsoft-ibm-cisco-and-30-other-biggest-tech-companies-together/articleshow/132662565.cms",
+      "date": "2026-07-27T13:09:00Z"
+    },
+    {
       "title": "n8n Sandbox Escape Lets Workflow Editors Run OS Commands as the n8n Process",
       "description": "[FEEDS] n8n has patched a high-severity expression-sandbox escape that could let an authenticated workflow editor execute operating-system commands on the server running the automation platform. Security Joes found the flaw while probing n8n's February fix...",
       "url": "https://thehackernews.com/2026/07/n8n-sandbox-escape-lets-workflow.html",
       "date": "2026-07-27T13:05:15Z"
+    },
+    {
+      "title": "Bank of Baroda Flags Data Breach After Employee Email Compromised",
+      "description": "[DECCAN CHRONICLE] The matter was identified promptly, and containment measures were implemented, it said, without giving any further details of the incident, such as when the compromise happened or the position of the employee in the hierarchy.",
+      "url": "https://www.deccanchronicle.com/business/bank-of-baroda-flags-data-breach-after-employee-email-compromised-1974349",
+      "date": "2026-07-27T12:59:08Z"
     },
     {
       "title": "Operation BlueDash Deploys Level RMM and ScreenConnect via Fake Teams Update",
@@ -74,70 +92,52 @@
       "date": "2026-07-27T12:37:49Z"
     },
     {
+      "title": "NVIDIA launches AI security alliance after Hugging Face hack",
+      "description": "[NEWSBYTES] Nvidia announced a coalition to enhance AI safety and cybersecurity, following the Hugging Face hack that highlighted risks of losing control over autonomous AI systems.",
+      "url": "https://www.newsbytesapp.com/news/science/nvidia-launches-ai-security-alliance-after-hugging-face-hack/story",
+      "date": "2026-07-27T12:19:32Z"
+    },
+    {
+      "title": "Nvidia and Tech Giants Advocate Open AI for Cybersecurity",
+      "description": "[BUSINESS INSIDER] Nvidia and dozens of tech firms form the Open Secure AI Alliance to advocate for open AI models as cyber defense tools after Hugging Face breach.",
+      "url": "https://www.businessinsider.com/nvidia-tech-giants-advocate-open-ai-cybersecurity-hugging-face-2026-7",
+      "date": "2026-07-27T12:09:11Z"
+    },
+    {
+      "title": "Bank of Baroda confirms 1000 GB data leak, says customer data exposed via employee email",
+      "description": "[LIVEMINT] Bank of Baroda says an employee email hack led to the alleged 1TB data breach and has launched a forensic investigation. The lender maintains its core banking systems remain secure while authorities probe the incident.",
+      "url": "https://www.livemint.com/industry/banking/bank-of-baroda-confirms-1000-gb-data-leak-says-customer-data-exposed-via-employee-email-11785153189393.html",
+      "date": "2026-07-27T12:00:13Z"
+    },
+    {
+      "title": "Bank of Baroda Data Breach Claim: What Customers Need To Know About The Alleged 1 TB Leak",
+      "description": "[OUTLOOK MONEY] Bank of Baroda faces alleged data leak claims involving 1 TB of data exposure, with customer data safety concerns emerging from online posts",
+      "url": "https://www.outlookmoney.com/news/bank-of-baroda-data-breach-claim-what-customers-need-to-know-about-the-alleged-1-tb-leak",
+      "date": "2026-07-27T11:49:59Z"
+    },
+    {
+      "title": "Nvidia forms industry-wide AI security alliance after Hugging Face hack",
+      "description": "[THE NEWS INTERNATIONAL] Nvidia has formed an industry-wide coalition with other tech companies to promote AI safety and cybersecurity following the Hugging Face incident, highlighting the dangers of autonomous AI agents...",
+      "url": "https://www.thenews.com.pk/latest/1410403-nvidia-forms-industry-wide-ai-security-alliance-after-hugging-face-hack",
+      "date": "2026-07-27T11:25:00Z"
+    },
+    {
+      "title": "GCSA insightsIn-depth analysis and defense guide for the fastjson 1.2.83 \u201cgadget-free\u201d vulnerability (0day)",
+      "description": "[CRYPTO NEWS] GCSA Global Cybersecurity Alliance released a report detailing a Fastjson 1.2.83 RCE exploit reproduced across multiple JDK versions.",
+      "url": "https://crypto.news/gcsa-insightsin-depth-analysis-and-defense-guide-for-the-fastjson-1-2-83-gadget-free-vulnerability-0day/",
+      "date": "2026-07-27T11:20:26Z"
+    },
+    {
+      "title": "Bank of Baroda confirms data breach, says employee email account was compromised",
+      "description": "[THE INDIAN EXPRESS] State-owned Bank of Baroda (BoB) on Monday, July 27, confirmed a security incident that allowed hackers to gain unauthorised access to internal data. The incident involved compromise of an employee\u2019s email account. \u201cThe matter was promptly...",
+      "url": "https://indianexpress.com/shorts/technology/bank-of-baroda-confirms-security-incident-data-breach-hackers-10805797/",
+      "date": "2026-07-27T11:10:31Z"
+    },
+    {
       "title": "Cognyte Sells a Mobile Cell Surveillance Van",
       "description": "[SCHNEIER] Yet another Israeli mass surveillance company: Made by Israeli surveillance company Cognyte, the tech simulates a mobile phone tower, which forces nearby phones to connect to it. That enables cops to keep tabs on any phones in the vicinity \u00ad whether...",
       "url": "https://www.schneier.com/blog/archives/2026/07/cognyte-sells-a-mobile-cell-surveillance-van.html",
       "date": "2026-07-27T11:04:30Z"
-    },
-    {
-      "title": "Customer data from India's Bank of Baroda leaked online, source and researcher say",
-      "description": "[THE STAR] MUMBAI, July 27 (Reuters) - Customer data from India's state-run \u2060Bank of Baroda, along with internal documents, has been \u200cleaked on the dark web, according to a source familiar with the matter and a cybersecurity researcher.",
-      "url": "https://www.thestar.com.my/tech/tech-news/2026/07/27/customer-data-from-india039s-bank-of-baroda-leaked-online-source-and-researcher-say",
-      "date": "2026-07-27T10:52:00Z"
-    },
-    {
-      "title": "Bank of Baroda confirms 1 TB data breach, \u2019employee\u2019s email account was compromised\u2019",
-      "description": "[THE FINANCIAL EXPRESS] Bank of Baroda confirms a major data breach exposing over 1TB of sensitive banking data on the dark web, accessed via an employee's compromised email and weak password vulnerabilities. The bank is investigating and working with authorities.",
-      "url": "https://www.financialexpress.com/business/banking-finance/bank-of-baroda-confirms-1-tb-data-breach-employees-email-account-was-compromised/4303591/",
-      "date": "2026-07-27T10:50:54Z"
-    },
-    {
-      "title": "Nvidia forms industry alliance for open AI security after Hugging Face hack",
-      "description": "[THE STAR] July 27 (Reuters) - Nvidia said on \u2060Monday it had formed a coalition with other companies to \u2060develop and share tools for AI safety and cybersecurity, days after \u200cthe Hugging Face incident drew attention to the dangers of losing control of...",
-      "url": "https://www.thestar.com.my/tech/tech-news/2026/07/27/nvidia-forms-industry-alliance-for-open-ai-security-after-hugging-face-hack",
-      "date": "2026-07-27T10:50:00Z"
-    },
-    {
-      "title": "TSD investor data breach cue for SEC action",
-      "description": "[BANGKOK POST] The Securities and Exchange Commission (SEC) is monitoring Thailand Securities Depository Co (TSD) after the central securities depository detected unauthorised access to personal data stored on its TSD Investor Portal.",
-      "url": "https://www.bangkokpost.com/business/investment/3292494/tsd-investor-data-breach-cue-for-sec-action",
-      "date": "2026-07-27T10:47:00Z"
-    },
-    {
-      "title": "NVIDIA Launches 'Open Secure AI Alliance' Initiative To Improve Cyber Defense",
-      "description": "[ENGADGET] NVIDIA has gathered together some of the biggest tech companies in the world to form the Open Secure AI Alliance with the aim to improve cybersecurity.",
-      "url": "https://www.engadget.com/2223796/nvidia-launches-open-securte-ai-alliance-initiative-to-improve-cyber-defense/",
-      "date": "2026-07-27T10:39:52Z"
-    },
-    {
-      "title": "Who is on Nandan Nilekani's task force to reform India's exam system?",
-      "description": "[FORBES INDIA] From space technology and cybersecurity to intelligence and education policy, here's a look at the experts tasked with making competitive examinations more secure and transparent",
-      "url": "https://www.forbesindia.com/article/news/who-is-on-nandan-nilekanis-task-force-to-reform-indias-exam-system/2996355/1",
-      "date": "2026-07-27T10:38:05Z"
-    },
-    {
-      "title": "Best VPNs to protect your cybersecurity after the UK ban ruled out",
-      "description": "[EVENING STANDARD] Best VPN\u2019s for protecting online privacy in 2026 after the government rules out a UK ban, from Nord to Surfshark",
-      "url": "https://www.standard.co.uk/shopping/esbest/gadgets-tech/best-vpn-cybersecurity-online-safety-b1240326.html",
-      "date": "2026-07-27T10:34:41Z"
-    },
-    {
-      "title": "Nvidia forms industry alliance for open AI security after Hugging Face hack",
-      "description": "[REUTERS] Nvidia said on Monday it had formed a coalition with other companies to develop and share tools for AI safety \u200band cybersecurity, days after the Hugging Face incident drew attention to \u200cthe dangers of losing control of autonomous AI agents.",
-      "url": "https://www.reuters.com/business/nvidia-forms-industry-alliance-open-ai-security-after-hugging-face-hack-2026-07-27/",
-      "date": "2026-07-27T10:28:49Z"
-    },
-    {
-      "title": "Customer data from India's Bank of Baroda leaked online, source and researcher say",
-      "description": "[REUTERS] Customer data from India's state-run Bank of Baroda , along with internal documents, \u200bhas been leaked on the dark web, according \u200cto a source familiar with the matter and a cybersecurity researcher.",
-      "url": "https://www.reuters.com/business/media-telecom/customer-data-indias-bank-baroda-leaked-online-source-researcher-say-2026-07-27/",
-      "date": "2026-07-27T10:20:19Z"
-    },
-    {
-      "title": "1TB customer info sold on darknet",
-      "description": "[DECCAN HERALD] Bank of Baroda faces a massive cybersecurity breach with 1TB of customer data\u2014including Aadhaar, phone numbers and bank records\u2014leaked on the darknet. RBI and the IT ministry probe the hack linked to the 'Triplx X' group, as experts warn of rising...",
-      "url": "https://www.deccanherald.com/technology/data-breach-in-bank-of-baroda-1tb-of-customer-details-aadhaar-phone-numbers-leaked-on-darknet-4088773",
-      "date": "2026-07-27T10:05:54Z"
     },
     {
       "title": "Java Spring Boot \"heapdump\" scans, (Mon, Jul 27th)",
