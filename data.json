@@ -1,6 +1,24 @@
 {
-  "updated": "2026-07-29 17:04:13 UTC",
+  "updated": "2026-07-29 18:57:43 UTC",
   "news": [
+    {
+      "title": "Critical Rails Flaw Could Let Unauthenticated Attackers Read Server Files via Image Uploads",
+      "description": "[FEEDS] Ruby on Rails has released fixes for a critical Active Storage vulnerability that could let unauthenticated attackers read arbitrary files from application servers through crafted image uploads. Tracked as CVE-2026-66066 (CVSS score: 9.5), the flaw...",
+      "url": "https://thehackernews.com/2026/07/critical-rails-flaw-could-let.html",
+      "date": "2026-07-29T18:10:00Z"
+    },
+    {
+      "title": "Health-ISAC warns of rising ShinyHunters data theft attacks on healthcare",
+      "description": "[BLEEPINGCOMPUTER] Health-ISAC, a cybersecurity information-sharing organization for the health sector, is warning healthcare and medical technology organizations of an observed increase in successful attacks by ShinyHunters. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/health-isac-warns-of-rising-shinyhunters-data-theft-attacks-on-healthcare/",
+      "date": "2026-07-29T17:54:05Z"
+    },
+    {
+      "title": "Measuring the Tendency of AI Agents to Go Rogue",
+      "description": "[SCHNEIER] This essay was written with Barath Raghavan, and originally appeared in The Guardian. In July, Hugging Face, a company that hosts much of the world&#8217;s AI software and open-source AI models, was hacked. A malicious dataset had been used to run...",
+      "url": "https://www.schneier.com/blog/archives/2026/07/measuring-the-tendency-of-ai-agents-to-go-rogue.html",
+      "date": "2026-07-29T17:07:53Z"
+    },
     {
       "title": "OpenAI agent used exposed credentials at 4 services in Hugging Face breach",
       "description": "[BLEEPINGCOMPUTER] In a new update, OpenAI says its AI models also used publicly exposed credentials to compromise accounts on four third-party services during the recent attack on Hugging Face, expanding the scope of the four-day security incident to other...",
@@ -20,7 +38,7 @@
       "date": "2026-07-29T15:31:15Z"
     },
     {
-      "title": "Hackers target over 30 Minnesota water utilities in coordinated OT attack",
+      "title": "Hackers disrupt over 30 Minnesota water utilities in coordinated OT attack",
       "description": "[BLEEPINGCOMPUTER] The Minnesota IT Services (MNIT) agency activated its cybersecurity incident response capabilities across the entire state after hackers targeted more than 30 community water systems in \"a coordinated cyberattack.\" [...]",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-target-over-30-minnesota-water-utilities-in-coordinated-ot-attack/",
       "date": "2026-07-29T14:55:57Z"
@@ -56,12 +74,6 @@
       "date": "2026-07-29T12:15:00Z"
     },
     {
-      "title": "Researchers Show a Single Malicious Webpage Visit Can Compromise Tor Browser",
-      "description": "[FEEDS] Nebula Security says a patched Firefox JIT flaw could be triggered by simply visiting a malicious webpage and was also used to compromise Tor Browser. Tracked as CVE-2026-10702, the bug provides arbitrary code execution inside the browser's renderer...",
-      "url": "https://thehackernews.com/2026/07/researchers-show-single-malicious.html",
-      "date": "2026-07-29T11:57:00Z"
-    },
-    {
       "title": "These near-mint ASUS Chromebook refurbs are only $145",
       "description": "[BLEEPINGCOMPUTER] Buying a new computer in 2026 is a unique experience. Rather than deal with incredibly high tech prices, more shoppers are opting for high-quality refurbished tech. This ASUS Chromebook CM30 refurb is in near-mint condition with a grade \"A\" rating,...",
       "url": "https://www.bleepingcomputer.com/news/security/these-near-mint-asus-chromebook-refurbs-are-only-145/",
@@ -80,6 +92,54 @@
       "date": "2026-07-29T07:32:37Z"
     },
     {
+      "title": "OpenAI Agent Used Exposed Credentials Across Four Services During Hugging Face Breach",
+      "description": "[THE HACKER NEWS] An OpenAI agent exploited an Artifactory zero-day, escaped its sandbox, and accessed four third-party accounts during a Hugging Face breach.",
+      "url": "https://thehackernews.com/2026/07/openai-agent-used-exposed-credentials.html",
+      "date": "2026-07-29T06:45:00Z"
+    },
+    {
+      "title": "DRDO denies TVM firm's report on 31 GB data sale on dark web, rules out cyber attack",
+      "description": "[MALAYALA MANORAMA] DRDO has denied reports of a 31 GB data breach, stating the claims are false and unverified..DRDO data breach, defence data security, dark web data sale, cybersecurity claims, Indian defence, cyber security threat, government data protection,...",
+      "url": "https://www.onmanorama.com/news/kerala/2026/07/29/drdo-denies-tvm-firm-report-on-31-gb-data-sale-on-dark-web.html",
+      "date": "2026-07-29T06:38:04Z"
+    },
+    {
+      "title": "'All I need is...': Rejected for BTech cybersecurity, student hacked IIT Kanpur; This is what the institute did next",
+      "description": "[BUSINESS TODAY] A student rejected from IIT Kanpur's BTech Cybersecurity course hacked the institute's website to demand a fair chance, prompting a unique response",
+      "url": "https://www.businesstoday.in/education/story/all-i-need-is-rejected-for-btech-cybersecurity-student-hacked-iit-kanpur-this-is-what-the-institute-did-next-545894-2026-07-29",
+      "date": "2026-07-29T06:25:58Z"
+    },
+    {
+      "title": "Rejected cybersecurity applicant hacks IIT Kanpur, Madras website: \u2018All I need is a fair chance\u2019",
+      "description": "[THE TRIBUNE] A student who hacked the websites of the Indian Institute of Technology-Kanpur (IIT-K) and IIT Madras after being denied admission in IIT-K\u2019s newly launched Bachelor of Cyber Security programme may get another chance to join the institute, which is...",
+      "url": "https://www.tribuneindia.com/news/india/rejected-cybersecurity-applicant-hacks-iit-kanpur-madras-website-all-i-need-is-a-fair-chance/",
+      "date": "2026-07-29T05:53:04Z"
+    },
+    {
+      "title": "Denied admission, student hacks IIT-Kanpur website, says \u2018All I need is just a fair chance\u2019",
+      "description": "[THE NEW INDIAN EXPRESS] The student claimed he hacked IIT-K and IIT Madras websites after rejection, sharing screenshots online to showcase his cybersecurity skills.",
+      "url": "https://www.newindianexpress.com/india/2026/Jul/29/denied-admission-student-hacks-iit-kanpur-website-says-all-i-need-is-just-a-fair-chance",
+      "date": "2026-07-29T05:51:08Z"
+    },
+    {
+      "title": "'No sensitive DRDO info was leaked': Defence Ministry rules out reports of major data breach",
+      "description": "[THE WEEK] All the documents referred to in the alleged data leak are outdated, the Defence Ministry said",
+      "url": "https://www.theweek.in/news/defence/2026/07/29/no-sensitive-drdo-info-was-leaked-defence-ministry-rules-out-data-breach.html",
+      "date": "2026-07-29T05:36:31Z"
+    },
+    {
+      "title": "Sopra Steria raises growth target on strong European AI, cybersecurity demand",
+      "description": "[REUTERS] French IT group Sopra Steria raised its full-year revenue growth target on \u200bWednesday, driven by spending on AI, cybersecurity and sovereign technology as \u200cgovernments and major organisations in Europe continue to prioritise strategic projects.",
+      "url": "https://www.reuters.com/business/sopra-steria-lifts-revenue-guidance-defence-business-grows-2026-07-29/",
+      "date": "2026-07-29T05:26:00Z"
+    },
+    {
+      "title": "Reports on cybersecurity incident involving DRDO 'incorrect, unverified': Official",
+      "description": "[THE HINDU BUSINESS LINE] Officials declare reports of a DRDO cybersecurity incident as \"incorrect and unverified,\" confirming no evidence of active cyber threats.",
+      "url": "https://www.thehindubusinessline.com/info-tech/reports-on-cybersecurity-incident-involving-drdo-incorrect-unverified-official/article71279666.ece",
+      "date": "2026-07-29T05:04:51Z"
+    },
+    {
       "title": "No truth in DRDO data leak claims: Officials",
       "description": "[NEWSBYTES] Official sources have dismissed media reports of a cybersecurity breach involving DRDO, stating investigations found no evidence of active cyber attacks or data exfiltration.",
       "url": "https://www.newsbytesapp.com/news/science/drdo-dismisses-dark-web-data-sale-claims-as-incorrect-unverified/story",
@@ -92,54 +152,6 @@
       "date": "2026-07-29T04:53:11Z"
     },
     {
-      "title": "Sonatype and Forrester Address the Growing AI-Era Software Supply Chain Risk Facing Indian Enterprises in the Guru Forum",
-      "description": "[ANI (ASIAN NEWS INTERNATIONAL)] Hyderabad (Telangana) [India], July 29: Sonatype\u00ae, the company helping enterprises accelerate agentic software development with confidence, is bringing together technology, cybersecurity, and business leaders in India in association with Forrester...",
-      "url": "https://www.aninews.in/news/business/sonatype-and-forrester-address-the-growing-ai-era-software-supply-chain-risk-facing-indian-enterprises-in-the-guru-forum20260729101901/",
-      "date": "2026-07-29T04:49:01Z"
-    },
-    {
-      "title": "Madhya Pradesh gets massive development boost with Rs 2,480 crore push: From drone centre to IT parks \u2013 What\u2019s in store?",
-      "description": "[THE FINANCIAL EXPRESS] MP Cabinet also approved Rs 110 cr under the MPSEDC and Other Institutions Assistance Scheme for digital governance tools such as AI- and machine learning-based business intelligence, WhatsApp chatbots, drone services, e-sign services, state email...",
-      "url": "https://www.financialexpress.com/india-news/madhya-pradesh-massive-development-boost-with-rs-2480-crore-push-drone-centre-to-it-parks-mp-cabinet-backs-infrastructure-irrigation-sports/4305205/",
-      "date": "2026-07-29T04:37:50Z"
-    },
-    {
-      "title": "Trump Administration Bans New Chinese AI Robots and Power Inverters Over National Security Fears: 'These",
-      "description": "[BENZINGA] The Trump administration banned new Chinese AI robots and power inverters over national security and cybersecurity concerns.",
-      "url": "https://www.benzinga.com/markets/tech/26/07/60748990/trump-administration-bans-chinese-ai-robots-power-inverters",
-      "date": "2026-07-29T03:33:49Z"
-    },
-    {
-      "title": "Reports on cybersecurity incident involving DRDO 'incorrect, unverified': Official",
-      "description": "[THEPRINT] New Delhi, Jul 29 (PTI) Some media reports on an alleged cybersecurity incident involving the Defence Research & Development Organisation (DRDO) are \u201cincorrect and unverified,\u201d officials said on Tuesday, and clarified that there is currently \u201cno...",
-      "url": "https://theprint.in/india/reports-on-cybersecurity-incident-involving-drdo-incorrect-unverified-official/2999589/",
-      "date": "2026-07-29T03:15:22Z"
-    },
-    {
-      "title": "Over 1,100 OpenAI, Anthropic, Google And Other Staff Unite, Call For Global AI Slowdown",
-      "description": "[TIMES NOW] More than 1,100 employees from OpenAI, Google, Anthropic and Meta have urged the US government to back a global framework that could deliberately pace AI development amid growing safety and cybersecurity concerns., Technology & Science, Times Now",
-      "url": "https://www.timesnownews.com/technology-science/over-1100-openai-anthropic-google-and-other-staff-unite-call-for-global-ai-slowdown-article-155204563",
-      "date": "2026-07-29T03:04:47Z"
-    },
-    {
-      "title": "Reports on cybersecurity incident involving DRDO 'incorrect, unverified': Official",
-      "description": "[THE ECONOMIC TIMES] A thorough investigation into the alleged breach has been carried out by the relevant agencies at the level of the Ministry of Defence, the officials said. According to reports carried by a few news outlets, a suspected data breach has hit the DRDO,...",
-      "url": "https://economictimes.indiatimes.com/tech/technology/reports-on-cybersecurity-incident-involving-drdo-incorrect-unverified-official/articleshow/132698742.cms",
-      "date": "2026-07-29T03:01:27Z"
-    },
-    {
-      "title": "Healthcare Is Undergoing A Cybersecurity Crisis, And Its Not Slowing Down",
-      "description": "[FORBES] As the reliance on technology increases, healthcare leaders need to invest heavily in cyber-protection measures.",
-      "url": "https://www.forbes.com/sites/saibala/2026/07/28/healthcare-is-undergoing-a-cybersecurity-crisis-and-its-not-slowing-down/",
-      "date": "2026-07-29T03:00:47Z"
-    },
-    {
-      "title": "OpenAI's Rogue AI That Escaped Testing, Kept Searching For Hack Data: Report",
-      "description": "[TIMES NOW] OpenAI's AI agent reportedly continued its cybersecurity task after escaping a test sandbox, reaching infrastructure linked to CyberGym during the Hugging Face incident., Technology & Science, Times Now",
-      "url": "https://www.timesnownews.com/technology-science/openais-rogue-ai-that-escaped-testing-kept-searching-for-hack-data-report-article-155203443",
-      "date": "2026-07-29T02:21:58Z"
-    },
-    {
       "title": "ISC Stormcast For Wednesday, July 29th, 2026 https://isc.sans.edu/podcastdetail/10028, (Wed, Jul 29th)",
       "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
       "url": "https://isc.sans.edu/diary/rss/33194",
@@ -150,12 +162,6 @@
       "description": "[SCHNEIER] There&#8217;s new benchmark measuring AI&#8217;s ability to perform mathematical cryptanalysis. Anthropic&#8217;s frontier model actually found new attacks. The benchmark: &#8220;CryptanalysisBench: Can LLMs do Cryptanalysis?&#8221; The idea is to...",
       "url": "https://www.schneier.com/blog/archives/2026/07/measuring-llms-ability-to-perform-cryptanalysis.html",
       "date": "2026-07-29T01:47:05Z"
-    },
-    {
-      "title": "CubePilot drone software dev hit by DNS hijacking to intercept traffic",
-      "description": "[BLEEPINGCOMPUTER] CubePilot, an Australian firm that designs flight controllers for drones (UAVs), announced a severe operational disruption caused by a DNS hijacking attack. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/cubepilot-drone-software-dev-hit-by-dns-hijacking-to-intercept-traffic/",
-      "date": "2026-07-28T21:17:39Z"
     },
     {
       "title": "Axon Is Another License Plate Surveillance Company",
@@ -198,12 +204,6 @@
       "description": "[SCHNEIER] Lower catch this year. As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered. Blog moderation policy.",
       "url": "https://www.schneier.com/blog/archives/2026/07/friday-squid-blogging-illex-squid-catch-in-the-falklands.html",
       "date": "2026-07-24T21:06:00Z"
-    },
-    {
-      "title": "Why AI Needs a \u201cGenie Coefficient\u201d",
-      "description": "[SCHNEIER] This essay was written with Barath Raghavan, and originally appeared in IEEE Spectrum. Major benchmarks measure what AI can do. None measure whether it does what you mean: the distance between what you ask an AI to do and the unspoken assumptions...",
-      "url": "https://www.schneier.com/blog/archives/2026/07/why-ai-needs-a-genie-coefficient.html",
-      "date": "2026-07-24T11:03:06Z"
     }
   ]
 }
