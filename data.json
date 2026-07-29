@@ -1,6 +1,24 @@
 {
-  "updated": "2026-07-29 04:59:45 UTC",
+  "updated": "2026-07-29 08:20:18 UTC",
   "news": [
+    {
+      "title": "Apple Patches Everything (July 2026), (Wed, Jul 29th)",
+      "description": "[ISC] I am a bit late with this summary, but this week Apple released updates to all its operating systems and Safari. The Safari update, as usual, targets macOS prior to macOS 26. macOS updates covered the two older versions (14 and 15), while other...",
+      "url": "https://isc.sans.edu/diary/rss/33196",
+      "date": "2026-07-29T07:32:37Z"
+    },
+    {
+      "title": "Flying Eagle Android RAT Traces Found on 170 Servers as Source Code Circulates",
+      "description": "[FEEDS] Source code for the Flying Eagle Android remote access trojan (RAT) framework is circulating through criminal Telegram channels. Hunt.io and independent researcher NetAskari traced matching control panels and certificates to 170 internet servers....",
+      "url": "https://thehackernews.com/2026/07/flying-eagle-android-rat-traces-found.html",
+      "date": "2026-07-29T07:07:23Z"
+    },
+    {
+      "title": "OpenAI Agent Used Exposed Credentials Across Four Services During Hugging Face Breach",
+      "description": "[FEEDS] OpenAI on Tuesday revealed the rogue artificial intelligence (AI) agent that escaped its sealed evaluation environment and broke into Hugging Face's production environment, and also hacked multiple third-party accounts and services as part of the...",
+      "url": "https://thehackernews.com/2026/07/openai-agent-used-exposed-credentials.html",
+      "date": "2026-07-29T06:45:02Z"
+    },
     {
       "title": "Two Compromised joyfill npm Packages Run RAT When Imported Into Node.js",
       "description": "[FEEDS] Beta release versions of two npm packages in the @joyfill namespace have been compromised to deliver a remote access trojan (RAT) associated with the DEV#POPPER malware family. The list of affected packages is as follows -...",
@@ -32,10 +50,28 @@
       "date": "2026-07-28T20:37:06Z"
     },
     {
+      "title": "Reports on alleged cybersecurity incident involving DRDO are incorrect & unverified: Official sources",
+      "description": "[TIMES OF INDIA] News News: NEW DELHI: Days after Kerala-based Alibi Global Threat Intelligence Group alleged data from Defence Research & Development Organisation was put on.",
+      "url": "https://timesofindia.indiatimes.com/defence/news/reports-on-alleged-cybersecurity-incident-involving-drdo-are-incorrect-unverified-official-sources/articleshow/132693442.cms",
+      "date": "2026-07-28T20:12:00Z"
+    },
+    {
+      "title": "\u2018We need to keep up\u2019: Uni to offer degree in AI cybersecurity",
+      "description": "[AUSTRALIAN FINANCIAL REVIEW] Cybersecurity firm CyberCX and Monash University have teamed up to help address Australia\u2019s shortage of experts able to take on hackers.",
+      "url": "https://www.afr.com/policy/health-and-education/we-need-to-keep-up-uni-to-offer-degree-in-ai-cybersecurity-20260728-p60j64",
+      "date": "2026-07-28T19:00:00Z"
+    },
+    {
       "title": "Claude AI Just Cracked a Post-Quantum Test Scheme and Found a Faster 7-Round AES Attack",
       "description": "[FEEDS] Anthropic says Claude Mythos Preview helped derive an end-to-end key-recovery attack against HAWK-256 and a 200- to 800-fold speedup for an attack on seven-round AES-128. The HAWK attack exploits a previously unused symmetry in the lattice behind...",
       "url": "https://thehackernews.com/2026/07/claude-ai-just-cracked-post-quantum.html",
       "date": "2026-07-28T18:59:07Z"
+    },
+    {
+      "title": "Defence Ministry denies reports of DRDO cyber breach, says claims are incorrect and unverified",
+      "description": "[CNBC TV18] The Ministry of Defence has dismissed media reports alleging a cybersecurity incident involving the Defence Research & Development Organisation (DRDO), calling them \"incorrect and unverified.\"",
+      "url": "https://www.cnbctv18.com/india/defence-ministry-denies-reports-of-drdo-cyber-breach-says-claims-are-incorrect-and-unverified-19956184.htm",
+      "date": "2026-07-28T18:43:29Z"
     },
     {
       "title": "CISA shares advice on isolating vital systems during cyberattacks",
@@ -44,46 +80,52 @@
       "date": "2026-07-28T18:41:04Z"
     },
     {
+      "title": "Reports on cybersecurity incident involving DRDO 'incorrect, unverified': Official",
+      "description": "[HINDUSTAN TIMES] Reports on cybersecurity incident involving DRDO 'incorrect, unverified': Official | India News",
+      "url": "https://www.hindustantimes.com/india-news/reports-on-cybersecurity-incident-involving-drdo-incorrect-unverified-official-101785263763865.html",
+      "date": "2026-07-28T18:36:03Z"
+    },
+    {
+      "title": "Auto cybersecurity rules in works; framework to be ready in six months",
+      "description": "[THE ECONOMIC TIMES] India is developing a stringent cybersecurity compliance framework for all new vehicles. This initiative follows recent e-rickshaw battery hacking incidents through mobile applications. The proposed framework, expected within six months, will...",
+      "url": "https://economictimes.indiatimes.com/industry/auto/auto-news/auto-cybersecurity-rules-in-works-framework-to-be-ready-in-six-months/articleshow/132692926.cms",
+      "date": "2026-07-28T18:33:00Z"
+    },
+    {
+      "title": "Defence Ministry denies reports of cybersecurity breach at DRDO",
+      "description": "[LOKMAT TIMES] Defence Ministry denies reports of cybersecurity breach at DRDO - New Delhi, July 28 The Ministry of Defence on Tuesday rejected recent media reports claiming a cybersecurity incident ... Get Latest News on Technology only on lokmattimes.com",
+      "url": "https://www.lokmattimes.com/technology/defence-ministry-denies-reports-of-cybersecurity-breach-at-drdo-1/",
+      "date": "2026-07-28T18:22:05Z"
+    },
+    {
+      "title": "Defence Ministry denies reports of cybersecurity breach at DRDO",
+      "description": "[LOKMAT TIMES] Defence Ministry denies reports of cybersecurity breach at DRDO - New Delhi, July 28 The Ministry of Defence on Tuesday rejected recent media reports claiming a cybersecurity incident ... Get Latest News on National only on lokmattimes.com",
+      "url": "https://www.lokmattimes.com/national/defence-ministry-denies-reports-of-cybersecurity-breach-at-drdo/",
+      "date": "2026-07-28T18:22:05Z"
+    },
+    {
       "title": "vBulletin fixes critical pre-auth RCE flaw with public exploit",
       "description": "[BLEEPINGCOMPUTER] A critical vulnerability in the vBulletin forum software allows unauthenticated attackers to execute arbitrary PHP code through template rendering. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/vbulletin-fixes-critical-pre-auth-rce-flaw-with-public-exploit/",
       "date": "2026-07-28T18:08:50Z"
     },
     {
+      "title": "AI startup Runlayer sues HR technology firm Rippling for allegedly stealing trade secrets",
+      "description": "[REUTERS] Artificial intelligence cybersecurity startup Runlayer sued HR technology firm Rippling in Manhattan federal court on Tuesday for allegedly stealing \u200bits trade secrets to build a competing product.",
+      "url": "https://www.reuters.com/default/ai-startup-runlayer-sues-hr-technology-firm-rippling-allegedly-stealing-trade-2026-07-28/",
+      "date": "2026-07-28T17:51:41Z"
+    },
+    {
+      "title": "Young innovators should take part in cybersecurity ecosystem: PM",
+      "description": "[THE NEW INDIAN EXPRESS] He also called for breaking down both horizontal and vertical silos within the government to ensure greater coordination and efficiency",
+      "url": "https://www.newindianexpress.com/business/2026/Jul/28/young-innovators-should-take-part-in-cybersecurity-ecosystem-pm",
+      "date": "2026-07-28T17:50:00Z"
+    },
+    {
       "title": "ServiceNow\u2019s Q2 Earnings Showed It\u2019s More Than an AI Stock",
       "description": "[BARCHART] Beyond impressive AI growth, ServiceNow's expanding cybersecurity business may be its next major growth engine.",
       "url": "https://www.barchart.com/story/news/3506003/servicenows-q2-earnings-showed-its-more-than-an-ai-stock",
       "date": "2026-07-28T16:58:21Z"
-    },
-    {
-      "title": "PM Modi calls for closer inter-ministerial coordination, seeks young innovators\u2019 role in cybersecurity",
-      "description": "[MONEYCONTROL] PM Modi urged government departments to break silos, accelerate reforms and strengthen focus on technology, energy security and cybersecurity to advance the Viksit Bharat agenda.",
-      "url": "https://www.moneycontrol.com/news/india/pm-modi-calls-for-closer-inter-ministerial-coordination-seeks-young-innovators-role-in-cybersecurity-13986241.html",
-      "date": "2026-07-28T16:29:37Z"
-    },
-    {
-      "title": "Tech and AI Wrap July 28: WhatsApp native web calling, Apple device leasing, and Microsoft\u2019s new cybersecurity model",
-      "description": "[THE FINANCIAL EXPRESS] Stay updated with the latest tech and AI news including WhatsApp Web's encrypted calling, Apple's new device leasing with Klarna, Microsoft's AI cybersecurity agents, and insights on global tech market shifts.",
-      "url": "https://www.financialexpress.com/life/technology-tech-and-ai-wrap-july-28-whatsapp-native-web-calling-apple-device-leasing-and-microsofts-new-cybersecurity-model-4304873/",
-      "date": "2026-07-28T16:27:41Z"
-    },
-    {
-      "title": "Defense Tech Investment Hits Record High as Arms Giants Ramp Up Startup Funding",
-      "description": "[OILPRICE] Defense technology investment has reached record levels in 2026 as major arms manufacturers increase spending on AI, cybersecurity, autonomous systems, and other next-generation military technologies.",
-      "url": "https://oilprice.com/Energy/Energy-General/Defense-Tech-Investment-Hits-Record-High-as-Arms-Giants-Ramp-Up-Startup-Funding.html",
-      "date": "2026-07-28T16:00:00Z"
-    },
-    {
-      "title": "Coca-Cola beats earnings on World Cup sales, raises 2026 outlook as Fairlife resumes after cyberattack",
-      "description": "[HINDUSTAN TIMES] Coca-Cola beats earnings as World Cup sales boost revenue, raises 2026 forecast, while Fairlife resumes production after ransomware cyberattack. | Business News",
-      "url": "https://www.hindustantimes.com/business/cocacola-beats-earnings-on-world-cup-sales-raises-2026-outlook-as-fairlife-resumes-after-cyberattack-101785246827210.html",
-      "date": "2026-07-28T15:12:26Z"
-    },
-    {
-      "title": "Microsoft Unveils First Specialized AI Security Model For Cyber Defense",
-      "description": "[HOT HARDWARE] Microsoft unveils Project Perception and MAI-Cyber-1-Flash, its first cybersecurity AI model, deploying red, blue, and green agents to defend at machine speed.",
-      "url": "https://hothardware.com/news/microsoft-ai-security-model-cyber-defense",
-      "date": "2026-07-28T15:11:00Z"
     },
     {
       "title": "Tengu Botnet Reboots Compromised Linux Devices When Defenders Kill Its Process",
@@ -104,46 +146,16 @@
       "date": "2026-07-28T14:00:10Z"
     },
     {
-      "title": "JFrog Confirms OpenAI Models Exploited Artifactory Zero-Day Before Hugging Face Breach",
-      "description": "[FEEDS] JFrog has confirmed that OpenAI models exploited a zero-day in self-hosted Artifactory while trying to reach the open internet from a sealed evaluation environment. Artifactory is JFrog's software repository manager. OpenAI says the models then...",
-      "url": "https://thehackernews.com/2026/07/jfrog-confirms-openai-models-exploited.html",
-      "date": "2026-07-28T13:33:47Z"
-    },
-    {
-      "title": "Mate Security Reaches $50M Funding Milestone as Enterprises Look Beyond AI Automation",
-      "description": "[MARKETS INSIDER] New York, USA, July 28th, 2026, FinanceWireFor years, cybersecurity vendors have focused on helping analysts process more ale...",
-      "url": "https://markets.businessinsider.com/news/currencies/mate-security-reaches-50m-funding-milestone-as-enterprises-look-beyond-ai-automation-1036372060",
-      "date": "2026-07-28T13:11:55Z"
-    },
-    {
-      "title": "Critical OpenWrt DHCPv6 Flaw Could Let Unauthenticated Attackers Run Code as Root",
-      "description": "[FEEDS] OpenWrt has shipped version 24.10.8 to close a critical DHCPv6 stack overflow and a wider set of remotely triggerable flaws in network services enabled by default. The critical issue, tracked as CVE-2026-53921 and rated 9.8 on CVSS 3.1 in OpenWrt's...",
-      "url": "https://thehackernews.com/2026/07/critical-openwrt-dhcpv6-flaw-could-let.html",
-      "date": "2026-07-28T12:56:14Z"
-    },
-    {
       "title": "Over 24,000 exposed server BMCs leak password hash via decades-old flaw",
       "description": "[BLEEPINGCOMPUTER] More than 24,000 internet-exposed servers are leaking authentication password hashes due to a 20-year-old vulnerability in their Baseboard Management Controller (BMC) interface. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/over-24-000-exposed-server-bmcs-leak-password-hash-via-decades-old-flaw/",
       "date": "2026-07-28T12:10:23Z"
     },
     {
-      "title": "How Cybersecurity Became a Core Part of Business Strategy",
-      "description": "[TECHBULLION] Learn how cybersecurity has become a core part of business strategy by protecting customer data, ensuring compliance, reducing cyber risks, and supporting long-term business growth.",
-      "url": "https://techbullion.com/how-cybersecurity-became-a-core-part-of-business-strategy-2/",
-      "date": "2026-07-28T11:48:59Z"
-    },
-    {
       "title": "Axon Is Another License Plate Surveillance Company",
       "description": "[SCHNEIER] Governments are switching, but I&#8217;m not sure it makes a difference: &#8230;some municipalities, including Denver, Colorado, are ditching their Flock arrays. But keep in mind that if they&#8217;re only switching from Flock to another brand of...",
       "url": "https://www.schneier.com/blog/archives/2026/07/axon-is-another-license-plate-surveillance-company.html",
       "date": "2026-07-28T11:06:30Z"
-    },
-    {
-      "title": "Government sets up India Digital Payment Intelligence Corp to contain cyber frauds",
-      "description": "[THE ECONOMIC TIMES] India Digital Payment Intelligence Corporation has been established to combat cyber financial frauds. This new entity will share real-time fraud intelligence and alerts with financial institutions. The government is strengthening cybersecurity...",
-      "url": "https://economictimes.indiatimes.com/tech/technology/government-sets-up-india-digital-payment-intelligence-corp-to-contain-cyber-frauds/articleshow/132682599.cms",
-      "date": "2026-07-28T10:57:07Z"
     },
     {
       "title": "AutoIT Payload Injector , (Tue, Jul 28th)",
@@ -174,12 +186,6 @@
       "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
       "url": "https://isc.sans.edu/diary/rss/33186",
       "date": "2026-07-27T02:00:02Z"
-    },
-    {
-      "title": "Scans for ESAFENET CDG 3 Document Management System Weak Logins, (Sun, Jul 26th)",
-      "description": "[ISC] ESAFENET&&#x23&#x3b;x26&#x3b;&#x23&#x3b;39&#x3b;s CDG showed up in our data before. The company focused on secure document management and data leakage prevention solutions. The \"CDG\" stands for \"Content Data Guard\", and the product appears to be...",
-      "url": "https://isc.sans.edu/diary/rss/33184",
-      "date": "2026-07-26T15:26:14Z"
     },
     {
       "title": "Friday Squid Blogging: Illex Squid Catch in the Falklands",
