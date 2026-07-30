@@ -1,6 +1,30 @@
 {
-  "updated": "2026-07-30 04:48:13 UTC",
+  "updated": "2026-07-30 08:07:16 UTC",
   "news": [
+    {
+      "title": "Russian Hackers Exploit Microsoft OWA Flaw to Keep Mailbox Access After Credential Rotation",
+      "description": "[FEEDS] The Russian threat actors recently linked to the exploitation of a now-patched vulnerability in Zimbra have been observed exploiting another vulnerability, this time in Microsoft Outlook Web Access (OWA), to target U.S. and European government...",
+      "url": "https://thehackernews.com/2026/07/russian-hackers-exploit-microsoft-owa.html",
+      "date": "2026-07-30T07:40:48Z"
+    },
+    {
+      "title": "FCC Blocks New Foreign-Produced Robots and Power Inverters Over Cyber Risks",
+      "description": "[FEEDS] The Federal Communications Commission (FCC) added foreign-produced mobile robots and networked power inverters to its Covered List on July 28. The move generally prevents new models from receiving the equipment authorization required for import,...",
+      "url": "https://thehackernews.com/2026/07/fcc-blocks-new-foreign-produced-robots.html",
+      "date": "2026-07-30T07:28:43Z"
+    },
+    {
+      "title": "Amazon Links Debug and Chalk npm Hijack to North Korea\u2019s Sapphire Sleet",
+      "description": "[FEEDS] Amazon has tied the September 2025 hijack of the npm packages debug and chalk to North Korea. For ten months, the incident sat in the public record as crypto theft: a maintainer phished through a lookalike npm domain and a wallet-draining script...",
+      "url": "https://thehackernews.com/2026/07/amazon-links-debug-and-chalk-npm-hijack.html",
+      "date": "2026-07-30T06:05:17Z"
+    },
+    {
+      "title": "Cisco FMC Zero-Day Actively Exploited, Static Credentials Could Expose Sensitive Data",
+      "description": "[FEEDS] The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a newly disclosed security flaw impacting Cisco Secure Firewall Management Center (FMC) Software to its Known Exploited Vulnerabilities (KEV) catalog, following...",
+      "url": "https://thehackernews.com/2026/07/cisco-fmc-zero-day-actively-exploited.html",
+      "date": "2026-07-30T05:08:39Z"
+    },
     {
       "title": "ISC Stormcast For Thursday, July 30th, 2026 https://isc.sans.edu/podcastdetail/10030, (Thu, Jul 30th)",
       "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
@@ -32,10 +56,40 @@
       "date": "2026-07-29T21:35:40Z"
     },
     {
+      "title": "AI hits software stocks but boosts demand for cybersecurity",
+      "description": "[AUSTRALIAN FINANCIAL REVIEW] Artificial intelligence\u2019s rise has sparked software sell-offs and a VC retreat, but some are profiting as markets recognise growing threats.",
+      "url": "https://www.afr.com/technology/as-ai-battered-software-stocks-cybersecurity-investors-cashed-in-20260726-p60ios",
+      "date": "2026-07-29T19:00:00Z"
+    },
+    {
+      "title": "Creator of Test That OpenAI Models Tried to Cheat Sounds Alarm",
+      "description": "[BLOOMBERG TAX NEWS] A group of university researchers that developed benchmarks to test the cybersecurity capabilities of AI systems have unexpectedly landed themselves at the center of OpenAI\u2019s accidental hack into the startup Hugging Face Inc.",
+      "url": "https://news.bloombergtax.com/daily-tax-report/creator-of-test-that-openai-models-tried-to-cheat-sounds-alarm",
+      "date": "2026-07-29T18:41:55Z"
+    },
+    {
+      "title": "Cybersecurity Risk Assessment Without Guesswork",
+      "description": "[TECHBULLION] Learn how to run a cybersecurity risk assessment using data instead of guesswork, with clear steps, frameworks, and real research.",
+      "url": "https://techbullion.com/how-to-run-a-cybersecurity-risk-assessment-without-guesswork/",
+      "date": "2026-07-29T18:35:56Z"
+    },
+    {
+      "title": "Sam Altman previews new AI model on Capitol Hill after cyber breach",
+      "description": "[POLITICO] The OpenAI CEO discussed a forthcoming artificial intelligence model with federal lawmakers as the cybersecurity debate over the advanced technology intensifies.",
+      "url": "https://www.politico.com/news/2026/07/29/sam-altman-previews-new-ai-model-on-capitol-hill-after-cyber-breach-01015247",
+      "date": "2026-07-29T18:16:00Z"
+    },
+    {
       "title": "Critical Rails Flaw Could Let Unauthenticated Attackers Read Server Files via Image Uploads",
       "description": "[FEEDS] Ruby on Rails has released fixes for a critical Active Storage vulnerability that could let unauthenticated attackers read arbitrary files from application servers through crafted image uploads. Tracked as CVE-2026-66066 (CVSS score: 9.5), the flaw...",
       "url": "https://thehackernews.com/2026/07/critical-rails-flaw-could-let.html",
       "date": "2026-07-29T18:10:00Z"
+    },
+    {
+      "title": "Mayor says the Sault's proposed data centre 'not a large-scale facility'",
+      "description": "[SOOTODAY] An online petition with more than 2,100 signatures calls for the city to pause plans on the proposed cybersecurity centre on Yates Avenue to address concerns",
+      "url": "https://www.sootoday.com/local-news/mayor-says-the-saults-proposed-data-centre-not-a-large-scale-facility-12606447",
+      "date": "2026-07-29T18:00:00Z"
     },
     {
       "title": "Health-ISAC warns of rising ShinyHunters data theft attacks on healthcare",
@@ -92,64 +146,10 @@
       "date": "2026-07-29T15:39:30Z"
     },
     {
-      "title": "Three Critical VMware Flaws Allow Auth Bypass, Code Execution, and VM Escape",
-      "description": "[FEEDS] Broadcom has released security updates to address multiple security flaws impacting VMware ESX, vCenter, Workstation, and Fusion, three of which have been designated as critical in severity. The first of the three critical-rated flaws is...",
-      "url": "https://thehackernews.com/2026/07/three-critical-vmware-flaws-allow-auth.html",
-      "date": "2026-07-29T15:31:15Z"
-    },
-    {
       "title": "Hackers disrupt over 30 Minnesota water utilities in coordinated OT attack",
       "description": "[BLEEPINGCOMPUTER] The Minnesota IT Services (MNIT) agency activated its cybersecurity incident response capabilities across the entire state after hackers targeted more than 30 community water systems in \"a coordinated cyberattack.\" [...]",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-target-over-30-minnesota-water-utilities-in-coordinated-ot-attack/",
       "date": "2026-07-29T14:55:57Z"
-    },
-    {
-      "title": "OpenAI's AI Agent Incident Is Larger Than Previously Reported. It Reached a Second External System",
-      "description": "[INTERNATIONAL BUSINESS TIMES] New details have emerged about OpenAI's recent AI agent security incident, suggesting the system continued pursuing its assigned cybersecurity objective after escaping its testing environment and",
-      "url": "https://www.ibtimes.com/openais-ai-agent-incident-larger-previously-reported-it-reached-second-external-system-3805854",
-      "date": "2026-07-29T14:18:20Z"
-    },
-    {
-      "title": "What to Do If Your PlayStation Account Is Exposed in a Data Breach",
-      "description": "[EUROPE SAYS] A data breach notice can arrive while the account still appears normal. The games launch, the trophies are intact, and there are no unfamiliar purchases.",
-      "url": "https://www.europesays.com/3161232/",
-      "date": "2026-07-29T14:17:32Z"
-    },
-    {
-      "title": "Building a predictive defense industrial base begins with artificial intelligence",
-      "description": "[BREAKING DEFENSE] AI-enabled workflows accelerate production, but cybersecurity and governance remain central.",
-      "url": "https://breakingdefense.com/2026/07/building-a-predictive-defense-industrial-base-begins-with-artificial-intelligence/",
-      "date": "2026-07-29T14:04:46Z"
-    },
-    {
-      "title": "Coordinated Cyberattack Targets 30+ Minnesota Water Systems as One Plant Goes Offline",
-      "description": "[FEEDS] A coordinated cyberattack targeted operational technology at more than 30 Minnesota community water systems on July 26 and 27, triggering a statewide cybersecurity response. Braham, Plymouth, South St. Paul and Maple Plain have publicly described a...",
-      "url": "https://thehackernews.com/2026/07/coordinated-cyberattack-targets-30.html",
-      "date": "2026-07-29T13:48:36Z"
-    },
-    {
-      "title": "The OpenAI lab leak was more extensive than we thought",
-      "description": "[CABLE NEWS NETWORK] An OpenAI test that escaped its cage and alarmed the AI and cybersecurity industry attacked more than just Hugging Face, the AI platform that initially appeared to be the sole victim of the virtual lab leak.",
-      "url": "https://edition.cnn.com/2026/07/29/tech/openai-hugging-face-cyberattack",
-      "date": "2026-07-29T13:47:44Z"
-    },
-    {
-      "title": "Nine-Year Fraud Campaign Clones Russian Company Sites to Steal Advance Payments",
-      "description": "[FEEDS] Cybersecurity researchers have disclosed details of a large-scale fraud campaign that involves creating lookalike websites of major Russian companies with an aim to siphon funds from international firms for more than nine years. According to Russian...",
-      "url": "https://thehackernews.com/2026/07/nine-year-fraud-campaign.html",
-      "date": "2026-07-29T13:42:57Z"
-    },
-    {
-      "title": "Dark Web Listing Sparks DRDO Data Breach Claims; Officials Respond",
-      "description": "[DECCAN CHRONICLE] According to reports carried by a few news outlets, a suspected data breach has hit the DRDO, with a threat actor allegedly attempting to sell a large tranche of data on the dark web",
-      "url": "https://www.deccanchronicle.com/nation/current-affairs/dark-web-listing-sparks-drdo-data-breach-claims-officials-respond-1974958",
-      "date": "2026-07-29T13:37:01Z"
-    },
-    {
-      "title": "Mythos Asks the Right Question. It Doesn't Answer It.",
-      "description": "[FEEDS] AI is compressing exploit timelines. The real question isn't whether your vulnerability management playbook needs to change, it's which part of it you've been getting wrong all along. The conversation happening in security circles right now goes...",
-      "url": "https://thehackernews.com/2026/07/mythos-asks-right-question-it-doesnt.html",
-      "date": "2026-07-29T12:15:00Z"
     },
     {
       "title": "Long-Lived Vulnerability in Microsoft Secure Boot",
