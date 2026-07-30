@@ -1,6 +1,18 @@
 {
-  "updated": "2026-07-30 17:15:16 UTC",
+  "updated": "2026-07-30 19:09:48 UTC",
   "news": [
+    {
+      "title": "Amazon links Debug, Chalk NPM supply-chain attacks to North Korean hackers",
+      "description": "[BLEEPINGCOMPUTER] Amazon linked multiple high-profile open-source software supply chain attacks targeting the Node Package Manager (npm) ecosystem to North Korean hackers. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/amazon-links-debug-chalk-npm-supply-chain-attacks-to-north-korean-hackers/",
+      "date": "2026-07-30T18:13:24Z"
+    },
+    {
+      "title": "VMware fixes three critical flaws allowing auth bypass, VM escapes",
+      "description": "[BLEEPINGCOMPUTER] Broadcom has released security updates to fix five vulnerabilities in VMware vCenter, ESX, Workstation, and Fusion, including three critical flaws that allow attackers to bypass authentication, execute arbitrary code, or escape from a virtual...",
+      "url": "https://www.bleepingcomputer.com/news/security/vmware-fixes-three-critical-flaws-allowing-auth-bypass-vm-escapes/",
+      "date": "2026-07-30T18:00:51Z"
+    },
     {
       "title": "Google says AI helped Chrome fix 1,072 security bugs in two releases",
       "description": "[BLEEPINGCOMPUTER] Google says artificial intelligence is dramatically increasing the number of security vulnerabilities it can find and fix in Chrome, with more than 1,000 security bugs patched across the browser's two most recent releases as it expands its use of...",
@@ -38,12 +50,6 @@
       "date": "2026-07-30T15:12:25Z"
     },
     {
-      "title": "After the Break-In: What Attackers Do Once They're Already Inside",
-      "description": "[BLEEPINGCOMPUTER] Attackers rarely stop after gaining initial access. Huntress analyzes a real-world intrusion to show how threat actors establish persistence, disable defenses, and reshape compromised systems, and why defenders must investigate the original entry...",
-      "url": "https://www.bleepingcomputer.com/news/security/after-the-break-in-what-attackers-do-once-theyre-already-inside/",
-      "date": "2026-07-30T14:01:11Z"
-    },
-    {
       "title": "Azure Cosmos DB Flaw Exposed Platform-Wide Key That Could Access Any Database",
       "description": "[FEEDS] A now-patched vulnerability in Azure Cosmos DB could have let an attacker escape the service's Gremlin query sandbox and obtain full read and write access to databases across customer tenants, according to Wiz. Wiz, which codenamed the chain...",
       "url": "https://thehackernews.com/2026/07/azure-cosmos-db-flaw-exposed-platform.html",
@@ -78,6 +84,30 @@
       "description": "[FEEDS] The Chinese cybercrime group known as Silver Fox has been observed using new drivers as part of bring your own vulnerable driver (BYOVD) attacks targeting a Japanese organization in the industrial manufacturing sector to ultimately deliver ValleyRAT...",
       "url": "https://thehackernews.com/2026/07/silverfox-targets-japanese-manufacturer.html",
       "date": "2026-07-30T10:32:59Z"
+    },
+    {
+      "title": "Creator of test that OpenAI models tried to cheat sounds alarm",
+      "description": "[THE STAR] A group of university researchers that developed benchmarks to test the cybersecurity capabilities of AI systems have unexpectedly landed themselves at the centre of OpenAI's accidental hack into the startup Hugging Face Inc.",
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/07/30/creator-of-test-that-openai-models-tried-to-cheat-sounds-alarm",
+      "date": "2026-07-30T07:00:00Z"
+    },
+    {
+      "title": "'Taliban tortured my dad and threatened to take my sister after MoD data breach'",
+      "description": "[THE MIRROR] An interpreter who worked for the British Army in Helmand Province, Afghanistan, in 2012 has told of his trauma after names were leaked amid a Ministry of Defence breach",
+      "url": "https://www.mirror.co.uk/news/world-news/mod-data-breach-taliban-afghans-37491644",
+      "date": "2026-07-30T06:11:11Z"
+    },
+    {
+      "title": "Denied admission, student hacks IIT-Kanpur & IIT Madras websites; institute now considers giving him second chance instead of filing FIR",
+      "description": "[THE ECONOMIC TIMES] An applicant to IIT Kanpur allegedly hacked the institute's websites after being denied admission to its Bachelor of Cyber Security programme. He claimed he wanted a fair opportunity to demonstrate his cybersecurity skills. Instead of pursuing...",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/denied-admission-student-hacks-iit-kanpur-iit-madras-websites-institute-now-considers-giving-him-second-chance-instead-of-filing-fir/articleshow/132728553.cms",
+      "date": "2026-07-30T06:08:00Z"
+    },
+    {
+      "title": "NEET UG Counselling 2026: One-Time Physical Reporting, Online Verification Introduced By MCC",
+      "description": "[FREE PRESS JOURNAL] NEET UG Counselling 2026 will feature one-time physical reporting, online document verification and an online resignation facility. MCC has expanded PwBD assessment centres from 16 to 61, digitised NRI registration and strengthened cybersecurity and...",
+      "url": "https://www.freepressjournal.in/education/neet-ug-counselling-2026-one-time-physical-reporting-online-verification-introduced-by-mcc",
+      "date": "2026-07-30T05:52:55Z"
     },
     {
       "title": "Cisco FMC Zero-Day Actively Exploited, Static Credentials Could Expose Sensitive Data",
@@ -126,36 +156,6 @@
       "description": "[ISC] &#x5b;This is a Guest Diary by Adam Cann, an ISC intern as part of the SANS.edu BACS program&#x5d;&#xd;",
       "url": "https://isc.sans.edu/diary/rss/33198",
       "date": "2026-07-30T00:42:29Z"
-    },
-    {
-      "title": "What is a side-channel attack? A cybersecurity researcher explains how computers can leak secrets without being hacked",
-      "description": "[THE CONVERSATION] Hackers have easier ways of getting information out of a computer, but side-channel vulnerabilities show that technology developers need to take a broad view of security.",
-      "url": "https://theconversation.com/what-is-a-side-channel-attack-a-cybersecurity-researcher-explains-how-computers-can-leak-secrets-without-being-hacked-286121",
-      "date": "2026-07-30T00:00:00Z"
-    },
-    {
-      "title": "MoD secrecy slammed as MPs find Afghan data breach was among string of \u2018foreseeable\u2019 Excel errors",
-      "description": "[THE MORNING STAR] THE Afghan data breach was a \u201cforeseeable\u201d failure by the Ministry of Defence (MoD) and one of 19 reported in a 19-month period, a parliamentary inquiry has revealed.The personal data of more than 18,000 Afghans seeking resettlement after fighting...",
-      "url": "https://morningstaronline.co.uk/article/mod-secrecy-slammed-mps-find-afghan-data-breach-was-among-string-foreseeable-excel-errors",
-      "date": "2026-07-30T00:00:00Z"
-    },
-    {
-      "title": "Russian hackers exploit Exchange OWA zero-day for long-term mailbox access",
-      "description": "[BLEEPINGCOMPUTER] The Russian state-sponsored hacking group Laundry Bear, also known as Void Blizzard, is exploiting an Exchange Outlook Web Access vulnerability in email campaigns to deliver a sophisticated backdoor called OWAReaper. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-exchange-owa-zero-day-for-long-term-mailbox-access/",
-      "date": "2026-07-29T23:44:07Z"
-    },
-    {
-      "title": "MoD data breach a 'foreseeable' failure that left Afghans in danger, inquiry finds",
-      "description": "[BBC NEWS] The Commons' Defence Committee says in a report that the MoD used secrecy as a \"shield\" against proper expertise.",
-      "url": "https://www.bbc.com/news/articles/c77gvr4172vo",
-      "date": "2026-07-29T23:13:43Z"
-    },
-    {
-      "title": "Afghan data breach was a \u2018foreseeable failure\u2019 covered up by secrecy for too long, damning report into MoD blunder finds",
-      "description": "[THE INDEPENDENT] Blunder which exposed personal details of tens of thousands of Afghans was \u2018forseeable failure\u2019 covered up by secrecy for \u2018too long\u2019, MPs said",
-      "url": "https://www.independent.co.uk/news/uk/home-news/afghan-data-breach-superinjunction-defence-report-mod-b3022842.html",
-      "date": "2026-07-29T23:01:36Z"
     },
     {
       "title": "Measuring the Tendency of AI Agents to Go Rogue",
