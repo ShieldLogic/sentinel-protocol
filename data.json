@@ -1,6 +1,24 @@
 {
-  "updated": "2026-07-30 13:27:13 UTC",
+  "updated": "2026-07-30 15:44:27 UTC",
   "news": [
+    {
+      "title": "Analog Devices discloses data breach, says operations unaffected",
+      "description": "[BLEEPINGCOMPUTER] American semiconductor company Analog Devices announced that an unauthorized party accessed some of its systems and exfiltrated certain files. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/analog-devices-discloses-data-breach-says-operations-unaffected/",
+      "date": "2026-07-30T15:12:25Z"
+    },
+    {
+      "title": "After the Break-In: What Attackers Do Once They're Already Inside",
+      "description": "[BLEEPINGCOMPUTER] Attackers rarely stop after gaining initial access. Huntress analyzes a real-world intrusion to show how threat actors establish persistence, disable defenses, and reshape compromised systems, and why defenders must investigate the original entry...",
+      "url": "https://www.bleepingcomputer.com/news/security/after-the-break-in-what-attackers-do-once-theyre-already-inside/",
+      "date": "2026-07-30T14:01:11Z"
+    },
+    {
+      "title": "Azure Cosmos DB Flaw Exposed Platform-Wide Key That Could Access Any Database",
+      "description": "[FEEDS] A now-patched vulnerability in Azure Cosmos DB could have let an attacker escape the service's Gremlin query sandbox and obtain full read and write access to databases across customer tenants, according to Wiz. Wiz, which codenamed the chain...",
+      "url": "https://thehackernews.com/2026/07/azure-cosmos-db-flaw-exposed-platform.html",
+      "date": "2026-07-30T13:34:09Z"
+    },
     {
       "title": "Microsoft Copilot for Word Can Copy Hidden Prompts Into New Documents",
       "description": "[FEEDS] Hidden instructions in a Word document can make Microsoft 365 Copilot rewrite figures in a report, then copy the same instructions into the finished file. H\u00e5kon M\u00e5l\u00f8y disclosed the technique on July 28, 144 days after reporting it to Microsoft. In...",
@@ -38,16 +56,34 @@
       "date": "2026-07-30T07:40:48Z"
     },
     {
-      "title": "FCC Blocks New Foreign-Produced Robots and Power Inverters Over Cyber Risks",
-      "description": "[FEEDS] The Federal Communications Commission (FCC) added foreign-produced mobile robots and networked power inverters to its Covered List on July 28. The move generally prevents new models from receiving the equipment authorization required for import,...",
-      "url": "https://thehackernews.com/2026/07/fcc-blocks-new-foreign-produced-robots.html",
-      "date": "2026-07-30T07:28:43Z"
+      "title": "Massive Data Breach Fine Hits South Korea's KT Corp",
+      "description": "[DEVDISCOURSE] South Korea's Personal Information Protection Commission has fined telecom company KT Corp 54 billion won due to a data leak involving over 16,600 customers. The breach, occurring in 2024 and 2025, resulted in illegal payments worth 240 million won....",
+      "url": "https://www.devdiscourse.com/article/law-order/3956982-massive-data-breach-fine-hits-south-koreas-kt-corp",
+      "date": "2026-07-30T02:30:43Z"
+    },
+    {
+      "title": "After Hugging Face breach, OpenAI says rogue AI agent tried to breach four more services",
+      "description": "[CNBC TV18] OpenAI has revealed its rogue AI agent attempted to access four more online services after breaching Hugging Face using exposed login credentials, expanding what it calls an unprecedented cybersecurity incident.",
+      "url": "https://www.cnbctv18.com/technology/after-hugging-face-breach-openai-says-rogue-ai-agent-tried-to-breach-four-more-services-19957349.htm",
+      "date": "2026-07-30T02:15:39Z"
+    },
+    {
+      "title": "Trump says AI controls must not let China overtake US after OpenAI security incidents",
+      "description": "[CNBC TV18] US President Donald Trump said his administration is considering AI controls after recent OpenAI cybersecurity incidents, while stressing that regulations must not allow China to overtake the US in AI.",
+      "url": "https://www.cnbctv18.com/world/trump-says-ai-controls-must-not-let-china-overtake-us-after-openai-security-incidents-19957356.htm",
+      "date": "2026-07-30T02:09:24Z"
     },
     {
       "title": "ISC Stormcast For Thursday, July 30th, 2026 https://isc.sans.edu/podcastdetail/10030, (Thu, Jul 30th)",
       "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
       "url": "https://isc.sans.edu/diary/rss/33200",
       "date": "2026-07-30T02:00:03Z"
+    },
+    {
+      "title": "MoD data breach a 'foreseeable' failure that left Afghans in danger, inquiry finds",
+      "description": "[EUROPE SAYS] The committee also questioned the decision not to provide confidential briefing to parliamentarians, with then-Defence Secretary Grant Shapps pushing back",
+      "url": "https://www.europesays.com/3162210/",
+      "date": "2026-07-30T01:45:53Z"
     },
     {
       "title": "Reconnaissance First: An SSH Bot That Sizes Up Your Hardware Before Deploying a Miner &#x5b;Guest Diary&#x5d;, (Thu, Jul 30th)",
@@ -110,24 +146,6 @@
       "date": "2026-07-29T18:41:55Z"
     },
     {
-      "title": "Cybersecurity Risk Assessment Without Guesswork",
-      "description": "[TECHBULLION] Learn how to run a cybersecurity risk assessment using data instead of guesswork, with clear steps, frameworks, and real research.",
-      "url": "https://techbullion.com/how-to-run-a-cybersecurity-risk-assessment-without-guesswork/",
-      "date": "2026-07-29T18:35:56Z"
-    },
-    {
-      "title": "Sam Altman previews new AI model on Capitol Hill after cyber breach",
-      "description": "[POLITICO] The OpenAI CEO discussed a forthcoming artificial intelligence model with federal lawmakers as the cybersecurity debate over the advanced technology intensifies.",
-      "url": "https://www.politico.com/news/2026/07/29/sam-altman-previews-new-ai-model-on-capitol-hill-after-cyber-breach-01015247",
-      "date": "2026-07-29T18:16:00Z"
-    },
-    {
-      "title": "Mayor says the Sault's proposed data centre 'not a large-scale facility'",
-      "description": "[SOOTODAY] An online petition with more than 2,100 signatures calls for the city to pause plans on the proposed cybersecurity centre on Yates Avenue to address concerns",
-      "url": "https://www.sootoday.com/local-news/mayor-says-the-saults-proposed-data-centre-not-a-large-scale-facility-12606447",
-      "date": "2026-07-29T18:00:00Z"
-    },
-    {
       "title": "Health-ISAC warns of rising ShinyHunters data theft attacks on healthcare",
       "description": "[BLEEPINGCOMPUTER] Health-ISAC, a cybersecurity information-sharing organization for the health sector, is warning healthcare and medical technology organizations of an observed increase in successful attacks by ShinyHunters. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/health-isac-warns-of-rising-shinyhunters-data-theft-attacks-on-healthcare/",
@@ -138,24 +156,6 @@
       "description": "[SCHNEIER] This essay was written with Barath Raghavan, and originally appeared in The Guardian. In July, Hugging Face, a company that hosts much of the world&#8217;s AI software and open-source AI models, was hacked. A malicious dataset had been used to run...",
       "url": "https://www.schneier.com/blog/archives/2026/07/measuring-the-tendency-of-ai-agents-to-go-rogue.html",
       "date": "2026-07-29T17:07:53Z"
-    },
-    {
-      "title": "JP Nadda reviews NEET UG 2026 counselling preparedness",
-      "description": "[THE TRIBUNE] Union Health Minister JP Nadda on Wednesday reviewed the preparedness for the forthcoming NEET UG Counselling 2026, including counselling schedule, IT infrastructure, cybersecurity preparedness, grievance redressal mechanisms, candidate facilitation...",
-      "url": "https://www.tribuneindia.com/news/india/jp-nadda-reviews-neet-ug-2026-counselling-preparedness/",
-      "date": "2026-07-29T16:36:44Z"
-    },
-    {
-      "title": "OpenAI agent used exposed credentials at 4 services in Hugging Face breach",
-      "description": "[BLEEPINGCOMPUTER] In a new update, OpenAI says its AI models also used publicly exposed credentials to compromise accounts on four third-party services during the recent attack on Hugging Face, expanding the scope of the four-day security incident to other...",
-      "url": "https://www.bleepingcomputer.com/news/security/openai-agent-used-exposed-credentials-at-4-services-in-hugging-face-breach/",
-      "date": "2026-07-29T16:04:59Z"
-    },
-    {
-      "title": "Hackers disrupt over 30 Minnesota water utilities in coordinated OT attack",
-      "description": "[BLEEPINGCOMPUTER] The Minnesota IT Services (MNIT) agency activated its cybersecurity incident response capabilities across the entire state after hackers targeted more than 30 community water systems in \"a coordinated cyberattack.\" [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-target-over-30-minnesota-water-utilities-in-coordinated-ot-attack/",
-      "date": "2026-07-29T14:55:57Z"
     },
     {
       "title": "Long-Lived Vulnerability in Microsoft Secure Boot",
