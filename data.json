@@ -1,6 +1,36 @@
 {
-  "updated": "2026-07-30 15:44:27 UTC",
+  "updated": "2026-07-30 17:15:16 UTC",
   "news": [
+    {
+      "title": "Google says AI helped Chrome fix 1,072 security bugs in two releases",
+      "description": "[BLEEPINGCOMPUTER] Google says artificial intelligence is dramatically increasing the number of security vulnerabilities it can find and fix in Chrome, with more than 1,000 security bugs patched across the browser's two most recent releases as it expands its use of...",
+      "url": "https://www.bleepingcomputer.com/news/google/google-says-ai-helped-chrome-fix-1-072-security-bugs-in-two-releases/",
+      "date": "2026-07-30T17:00:00Z"
+    },
+    {
+      "title": "ShinyHunters claims Brinks Home breach, threatens to leak stolen data",
+      "description": "[BLEEPINGCOMPUTER] Residential security company Brinks Home has disclosed that hackers breached some of its systems and are threatening to leak allegedly stolen data. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-claims-brinks-home-breach-threatens-to-leak-stolen-data/",
+      "date": "2026-07-30T16:46:15Z"
+    },
+    {
+      "title": "American Being Prosecuted for Wiping His Phone Before Handing It Over to Border Officials",
+      "description": "[SCHNEIER] He&#8217;s being prosecuted for giving border officials a code that wiped his phone: The case centers on a feature included in GrapheneOS, a custom Android operating system that runs in place of the software on most modern Google Pixel devices....",
+      "url": "https://www.schneier.com/blog/archives/2026/07/american-being-prosecuted-for-wiping-his-phone-before-handing-it-over-to-border-officials.html",
+      "date": "2026-07-30T16:20:30Z"
+    },
+    {
+      "title": "Microsoft Teams vishing attacks lead to Chaos ransomware attacks",
+      "description": "[BLEEPINGCOMPUTER] Threat actors are impersonating IT support staff in Microsoft Teams calls to gain remote access to corporate devices and deploy Chaos ransomware in attacks targeting North American organizations. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/microsoft-teams-vishing-attacks-lead-to-chaos-ransomware-attacks/",
+      "date": "2026-07-30T15:56:33Z"
+    },
+    {
+      "title": "ThreatsDay: AI-Powered Hacking, 370 Chrome Flaws, SonicWall Attacks, DNS Hijacking + 22 More Stories",
+      "description": "[FEEDS] A lot of security still comes down to trusting the wrong screen. This week, that screen might be a login page, an install guide, a recruiter call, or a familiar service behaving slightly wrong. Behind it: reused credentials, exposed systems, quiet...",
+      "url": "https://thehackernews.com/2026/07/threatsday-ai-powered-hacking-370.html",
+      "date": "2026-07-30T15:25:57Z"
+    },
     {
       "title": "Analog Devices discloses data breach, says operations unaffected",
       "description": "[BLEEPINGCOMPUTER] American semiconductor company Analog Devices announced that an unauthorized party accessed some of its systems and exfiltrated certain files. [...]",
@@ -50,10 +80,16 @@
       "date": "2026-07-30T10:32:59Z"
     },
     {
-      "title": "Russian Hackers Exploit Microsoft OWA Flaw to Keep Mailbox Access After Credential Rotation",
-      "description": "[FEEDS] The Russian threat actors recently linked to the exploitation of a now-patched vulnerability in Zimbra have been observed exploiting another vulnerability, this time in Microsoft Outlook Web Access (OWA), to target U.S. and European government...",
-      "url": "https://thehackernews.com/2026/07/russian-hackers-exploit-microsoft-owa.html",
-      "date": "2026-07-30T07:40:48Z"
+      "title": "Cisco FMC Zero-Day Actively Exploited, Static Credentials Could Expose Sensitive Data",
+      "description": "[THE HACKER NEWS] Cisco FMC flaw CVE-2026-20316 is under active exploitation, letting unauthenticated attackers use static credentials to access sensitive data",
+      "url": "https://thehackernews.com/2026/07/cisco-fmc-zero-day-actively-exploited.html",
+      "date": "2026-07-30T05:08:00Z"
+    },
+    {
+      "title": "OpenAI\u2019s Account of Rogue Hacker AI Draws Skepticism from Experts",
+      "description": "[NATURAL NEWS] OpenAI reported on July 22, 2026, that one of its advanced AI models breached the systems of Hugging Face during a security test, marking what the company called an \u201cunprecedented cyber incident.\u201d According to statements from OpenAI, the model...",
+      "url": "https://www.naturalnews.com/2026-07-30-openais-account-rogue-hacker-ai-draws-skepticism.html",
+      "date": "2026-07-30T04:36:17Z"
     },
     {
       "title": "Massive Data Breach Fine Hits South Korea's KT Corp",
@@ -98,6 +134,12 @@
       "date": "2026-07-30T00:00:00Z"
     },
     {
+      "title": "MoD secrecy slammed as MPs find Afghan data breach was among string of \u2018foreseeable\u2019 Excel errors",
+      "description": "[THE MORNING STAR] THE Afghan data breach was a \u201cforeseeable\u201d failure by the Ministry of Defence (MoD) and one of 19 reported in a 19-month period, a parliamentary inquiry has revealed.The personal data of more than 18,000 Afghans seeking resettlement after fighting...",
+      "url": "https://morningstaronline.co.uk/article/mod-secrecy-slammed-mps-find-afghan-data-breach-was-among-string-foreseeable-excel-errors",
+      "date": "2026-07-30T00:00:00Z"
+    },
+    {
       "title": "Russian hackers exploit Exchange OWA zero-day for long-term mailbox access",
       "description": "[BLEEPINGCOMPUTER] The Russian state-sponsored hacking group Laundry Bear, also known as Void Blizzard, is exploiting an Exchange Outlook Web Access vulnerability in email campaigns to deliver a sophisticated backdoor called OWAReaper. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-exchange-owa-zero-day-for-long-term-mailbox-access/",
@@ -114,42 +156,6 @@
       "description": "[THE INDEPENDENT] Blunder which exposed personal details of tens of thousands of Afghans was \u2018forseeable failure\u2019 covered up by secrecy for \u2018too long\u2019, MPs said",
       "url": "https://www.independent.co.uk/news/uk/home-news/afghan-data-breach-superinjunction-defence-report-mod-b3022842.html",
       "date": "2026-07-29T23:01:36Z"
-    },
-    {
-      "title": "Anthropic confirms Claude is down worldwide",
-      "description": "[BLEEPINGCOMPUTER] Claude is down for some users, with Anthropic confirming elevated errors across multiple AI models. The disruption is causing requests to fail with a \"529 Overloaded\" message, including in Claude and tools that rely on its API. [...]",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-worldwide/",
-      "date": "2026-07-29T21:39:29Z"
-    },
-    {
-      "title": "Cisco warns of FMC static credential flaw exploited in zero-day attacks",
-      "description": "[BLEEPINGCOMPUTER] Cisco is warning that a high-severity Secure Firewall Management Center (FMC) static credential vulnerability, tracked as CVE-2026-20316, was actively exploited in zero-day attacks to gain unauthorized access to vulnerable devices. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-fmc-static-credential-flaw-exploited-in-zero-day-attacks/",
-      "date": "2026-07-29T21:35:40Z"
-    },
-    {
-      "title": "What does the recent Hugging Face hacking incident teach us about the future of AI?",
-      "description": "[NPR] It\u2019s a science fiction nightmare: What happens if the machines take over?The world got a potential taste of that last week, when OpenAI, the maker of ChatGPT, said two of its models had autonomously hacked into another AI company.OpenAI says its...",
-      "url": "https://www.npr.org/2026/07/29/nx-s1-5911866/what-does-the-recent-hugging-face-hacking-incident-teach-us-about-the-future-of-ai",
-      "date": "2026-07-29T21:00:01Z"
-    },
-    {
-      "title": "AI hits software stocks but boosts demand for cybersecurity",
-      "description": "[AUSTRALIAN FINANCIAL REVIEW] Artificial intelligence\u2019s rise has sparked software sell-offs and a VC retreat, but some are profiting as markets recognise growing threats.",
-      "url": "https://www.afr.com/technology/as-ai-battered-software-stocks-cybersecurity-investors-cashed-in-20260726-p60ios",
-      "date": "2026-07-29T19:00:00Z"
-    },
-    {
-      "title": "Creator of Test That OpenAI Models Tried to Cheat Sounds Alarm",
-      "description": "[BLOOMBERG TAX NEWS] A group of university researchers that developed benchmarks to test the cybersecurity capabilities of AI systems have unexpectedly landed themselves at the center of OpenAI\u2019s accidental hack into the startup Hugging Face Inc.",
-      "url": "https://news.bloombergtax.com/daily-tax-report/creator-of-test-that-openai-models-tried-to-cheat-sounds-alarm",
-      "date": "2026-07-29T18:41:55Z"
-    },
-    {
-      "title": "Health-ISAC warns of rising ShinyHunters data theft attacks on healthcare",
-      "description": "[BLEEPINGCOMPUTER] Health-ISAC, a cybersecurity information-sharing organization for the health sector, is warning healthcare and medical technology organizations of an observed increase in successful attacks by ShinyHunters. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/health-isac-warns-of-rising-shinyhunters-data-theft-attacks-on-healthcare/",
-      "date": "2026-07-29T17:54:05Z"
     },
     {
       "title": "Measuring the Tendency of AI Agents to Go Rogue",
@@ -198,12 +204,6 @@
       "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
       "url": "https://isc.sans.edu/diary/rss/33190",
       "date": "2026-07-28T02:00:03Z"
-    },
-    {
-      "title": "Cognyte Sells a Mobile Cell Surveillance Van",
-      "description": "[SCHNEIER] Yet another Israeli mass surveillance company: Made by Israeli surveillance company Cognyte, the tech simulates a mobile phone tower, which forces nearby phones to connect to it. That enables cops to keep tabs on any phones in the vicinity \u00ad whether...",
-      "url": "https://www.schneier.com/blog/archives/2026/07/cognyte-sells-a-mobile-cell-surveillance-van.html",
-      "date": "2026-07-27T11:04:30Z"
     }
   ]
 }
