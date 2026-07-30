@@ -1,209 +1,137 @@
 {
-  "updated": "2026-07-30 11:44:51 UTC",
-  "news": [
-    {
-      "title": "Should You Use AI for a Task? Here\u2019s a Simple Way to Decide",
-      "description": "[SCHNEIER] This essay originally appeared in The Guardian. I teach public policy at the Harvard Kennedy School and the Munk School at the University of Toronto. And it will come as no surprise to you that my students regularly use AI to complete their writing...",
-      "url": "https://www.schneier.com/blog/archives/2026/07/should-you-use-ai-for-a-task-heres-a-simple-way-to-decide.html",
-      "date": "2026-07-30T11:01:32Z"
-    },
-    {
-      "title": "Hackers Exploit AnySign4PC via Hacked Korean Sites to Install Backdoors Without Prompts",
-      "description": "[FEEDS] South Korean authorities and four security firms have disclosed a state-sponsored campaign that compromised trusted domestic websites. The attackers used those sites to exploit locally installed financial-security software and infect targeted...",
-      "url": "https://thehackernews.com/2026/07/hackers-exploit-anysign4pc-via-hacked.html",
-      "date": "2026-07-30T10:33:15Z"
-    },
-    {
-      "title": "SilverFox Targets Japanese Manufacturer with 3-Driver BYOVD Chain and ValleyRAT",
-      "description": "[FEEDS] The Chinese cybercrime group known as Silver Fox has been observed using new drivers as part of bring your own vulnerable driver (BYOVD) attacks targeting a Japanese organization in the industrial manufacturing sector to ultimately deliver ValleyRAT...",
-      "url": "https://thehackernews.com/2026/07/silverfox-targets-japanese-manufacturer.html",
-      "date": "2026-07-30T10:32:59Z"
-    },
-    {
-      "title": "Russian Hackers Exploit Microsoft OWA Flaw to Keep Mailbox Access After Credential Rotation",
-      "description": "[FEEDS] The Russian threat actors recently linked to the exploitation of a now-patched vulnerability in Zimbra have been observed exploiting another vulnerability, this time in Microsoft Outlook Web Access (OWA), to target U.S. and European government...",
-      "url": "https://thehackernews.com/2026/07/russian-hackers-exploit-microsoft-owa.html",
-      "date": "2026-07-30T07:40:48Z"
-    },
-    {
-      "title": "FCC Blocks New Foreign-Produced Robots and Power Inverters Over Cyber Risks",
-      "description": "[FEEDS] The Federal Communications Commission (FCC) added foreign-produced mobile robots and networked power inverters to its Covered List on July 28. The move generally prevents new models from receiving the equipment authorization required for import,...",
-      "url": "https://thehackernews.com/2026/07/fcc-blocks-new-foreign-produced-robots.html",
-      "date": "2026-07-30T07:28:43Z"
-    },
-    {
-      "title": "Amazon Links Debug and Chalk npm Hijack to North Korea\u2019s Sapphire Sleet",
-      "description": "[FEEDS] Amazon has tied the September 2025 hijack of the npm packages debug and chalk to North Korea. For ten months, the incident sat in the public record as crypto theft: a maintainer phished through a lookalike npm domain and a wallet-draining script...",
-      "url": "https://thehackernews.com/2026/07/amazon-links-debug-and-chalk-npm-hijack.html",
-      "date": "2026-07-30T06:05:17Z"
-    },
-    {
-      "title": "Cisco FMC Zero-Day Actively Exploited, Static Credentials Could Expose Sensitive Data",
-      "description": "[FEEDS] The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a newly disclosed security flaw impacting Cisco Secure Firewall Management Center (FMC) Software to its Known Exploited Vulnerabilities (KEV) catalog, following...",
-      "url": "https://thehackernews.com/2026/07/cisco-fmc-zero-day-actively-exploited.html",
-      "date": "2026-07-30T05:08:39Z"
-    },
-    {
-      "title": "ISC Stormcast For Thursday, July 30th, 2026 https://isc.sans.edu/podcastdetail/10030, (Thu, Jul 30th)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33200",
-      "date": "2026-07-30T02:00:03Z"
-    },
-    {
-      "title": "Reconnaissance First: An SSH Bot That Sizes Up Your Hardware Before Deploying a Miner &#x5b;Guest Diary&#x5d;, (Thu, Jul 30th)",
-      "description": "[ISC] &#x5b;This is a Guest Diary by Adam Cann, an ISC intern as part of the SANS.edu BACS program&#x5d;&#xd;",
-      "url": "https://isc.sans.edu/diary/rss/33198",
-      "date": "2026-07-30T00:42:29Z"
-    },
-    {
-      "title": "Russian hackers exploit Exchange OWA zero-day for long-term mailbox access",
-      "description": "[BLEEPINGCOMPUTER] The Russian state-sponsored hacking group Laundry Bear, also known as Void Blizzard, is exploiting an Exchange Outlook Web Access vulnerability in email campaigns to deliver a sophisticated backdoor called OWAReaper. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-exchange-owa-zero-day-for-long-term-mailbox-access/",
-      "date": "2026-07-29T23:44:07Z"
-    },
-    {
-      "title": "MoD data breach a 'foreseeable' failure that left Afghans in danger, inquiry finds",
-      "description": "[BBC NEWS] The Commons' Defence Committee says in a report that the MoD used secrecy as a \"shield\" against proper expertise.",
-      "url": "https://www.bbc.com/news/articles/c77gvr4172vo",
-      "date": "2026-07-29T23:13:43Z"
-    },
-    {
-      "title": "Afghan data breach was a \u2018foreseeable failure\u2019 covered up by secrecy for too long, damning report into MoD blunder finds",
-      "description": "[THE INDEPENDENT] Blunder which exposed personal details of tens of thousands of Afghans was \u2018forseeable failure\u2019 covered up by secrecy for \u2018too long\u2019, MPs said",
-      "url": "https://www.independent.co.uk/news/uk/home-news/afghan-data-breach-superinjunction-defence-report-mod-b3022842.html",
-      "date": "2026-07-29T23:01:36Z"
-    },
-    {
-      "title": "Anthropic confirms Claude is down worldwide",
-      "description": "[BLEEPINGCOMPUTER] Claude is down for some users, with Anthropic confirming elevated errors across multiple AI models. The disruption is causing requests to fail with a \"529 Overloaded\" message, including in Claude and tools that rely on its API. [...]",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-worldwide/",
-      "date": "2026-07-29T21:39:29Z"
-    },
-    {
-      "title": "Cisco warns of FMC static credential flaw exploited in zero-day attacks",
-      "description": "[BLEEPINGCOMPUTER] Cisco is warning that a high-severity Secure Firewall Management Center (FMC) static credential vulnerability, tracked as CVE-2026-20316, was actively exploited in zero-day attacks to gain unauthorized access to vulnerable devices. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-fmc-static-credential-flaw-exploited-in-zero-day-attacks/",
-      "date": "2026-07-29T21:35:40Z"
-    },
-    {
-      "title": "What does the recent Hugging Face hacking incident teach us about the future of AI?",
-      "description": "[NPR] It\u2019s a science fiction nightmare: What happens if the machines take over?The world got a potential taste of that last week, when OpenAI, the maker of ChatGPT, said two of its models had autonomously hacked into another AI company.OpenAI says its...",
-      "url": "https://www.npr.org/2026/07/29/nx-s1-5911866/what-does-the-recent-hugging-face-hacking-incident-teach-us-about-the-future-of-ai",
-      "date": "2026-07-29T21:00:01Z"
-    },
-    {
-      "title": "AI hits software stocks but boosts demand for cybersecurity",
-      "description": "[AUSTRALIAN FINANCIAL REVIEW] Artificial intelligence\u2019s rise has sparked software sell-offs and a VC retreat, but some are profiting as markets recognise growing threats.",
-      "url": "https://www.afr.com/technology/as-ai-battered-software-stocks-cybersecurity-investors-cashed-in-20260726-p60ios",
-      "date": "2026-07-29T19:00:00Z"
-    },
-    {
-      "title": "Creator of Test That OpenAI Models Tried to Cheat Sounds Alarm",
-      "description": "[BLOOMBERG TAX NEWS] A group of university researchers that developed benchmarks to test the cybersecurity capabilities of AI systems have unexpectedly landed themselves at the center of OpenAI\u2019s accidental hack into the startup Hugging Face Inc.",
-      "url": "https://news.bloombergtax.com/daily-tax-report/creator-of-test-that-openai-models-tried-to-cheat-sounds-alarm",
-      "date": "2026-07-29T18:41:55Z"
-    },
-    {
-      "title": "Cybersecurity Risk Assessment Without Guesswork",
-      "description": "[TECHBULLION] Learn how to run a cybersecurity risk assessment using data instead of guesswork, with clear steps, frameworks, and real research.",
-      "url": "https://techbullion.com/how-to-run-a-cybersecurity-risk-assessment-without-guesswork/",
-      "date": "2026-07-29T18:35:56Z"
-    },
-    {
-      "title": "Sam Altman previews new AI model on Capitol Hill after cyber breach",
-      "description": "[POLITICO] The OpenAI CEO discussed a forthcoming artificial intelligence model with federal lawmakers as the cybersecurity debate over the advanced technology intensifies.",
-      "url": "https://www.politico.com/news/2026/07/29/sam-altman-previews-new-ai-model-on-capitol-hill-after-cyber-breach-01015247",
-      "date": "2026-07-29T18:16:00Z"
-    },
-    {
-      "title": "Mayor says the Sault's proposed data centre 'not a large-scale facility'",
-      "description": "[SOOTODAY] An online petition with more than 2,100 signatures calls for the city to pause plans on the proposed cybersecurity centre on Yates Avenue to address concerns",
-      "url": "https://www.sootoday.com/local-news/mayor-says-the-saults-proposed-data-centre-not-a-large-scale-facility-12606447",
-      "date": "2026-07-29T18:00:00Z"
-    },
-    {
-      "title": "Health-ISAC warns of rising ShinyHunters data theft attacks on healthcare",
-      "description": "[BLEEPINGCOMPUTER] Health-ISAC, a cybersecurity information-sharing organization for the health sector, is warning healthcare and medical technology organizations of an observed increase in successful attacks by ShinyHunters. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/health-isac-warns-of-rising-shinyhunters-data-theft-attacks-on-healthcare/",
-      "date": "2026-07-29T17:54:05Z"
-    },
-    {
-      "title": "Measuring the Tendency of AI Agents to Go Rogue",
-      "description": "[SCHNEIER] This essay was written with Barath Raghavan, and originally appeared in The Guardian. In July, Hugging Face, a company that hosts much of the world&#8217;s AI software and open-source AI models, was hacked. A malicious dataset had been used to run...",
-      "url": "https://www.schneier.com/blog/archives/2026/07/measuring-the-tendency-of-ai-agents-to-go-rogue.html",
-      "date": "2026-07-29T17:07:53Z"
-    },
-    {
-      "title": "JP Nadda reviews NEET UG 2026 counselling preparedness",
-      "description": "[THE TRIBUNE] Union Health Minister JP Nadda on Wednesday reviewed the preparedness for the forthcoming NEET UG Counselling 2026, including counselling schedule, IT infrastructure, cybersecurity preparedness, grievance redressal mechanisms, candidate facilitation...",
-      "url": "https://www.tribuneindia.com/news/india/jp-nadda-reviews-neet-ug-2026-counselling-preparedness/",
-      "date": "2026-07-29T16:36:44Z"
-    },
-    {
-      "title": "JP Nadda reviews preparedness for NEET UG counselling 2026",
-      "description": "[ANI (ASIAN NEWS INTERNATIONAL)] During the review, the Minister assessed the preparedness of the Medical Counselling Committee (MCC), Directorate General of Health Services (DGHS) and other stakeholders involved in the counselling process. He reviewed the counselling schedule, IT...",
-      "url": "https://www.aninews.in/news/national/general-news/jp-nadda-reviews-preparedness-for-neet-ug-counselling-202620260729214858/",
-      "date": "2026-07-29T16:18:58Z"
-    },
-    {
-      "title": "OpenAI agent used exposed credentials at 4 services in Hugging Face breach",
-      "description": "[BLEEPINGCOMPUTER] In a new update, OpenAI says its AI models also used publicly exposed credentials to compromise accounts on four third-party services during the recent attack on Hugging Face, expanding the scope of the four-day security incident to other...",
-      "url": "https://www.bleepingcomputer.com/news/security/openai-agent-used-exposed-credentials-at-4-services-in-hugging-face-breach/",
-      "date": "2026-07-29T16:04:59Z"
-    },
-    {
-      "title": "Hackers disrupt over 30 Minnesota water utilities in coordinated OT attack",
-      "description": "[BLEEPINGCOMPUTER] The Minnesota IT Services (MNIT) agency activated its cybersecurity incident response capabilities across the entire state after hackers targeted more than 30 community water systems in \"a coordinated cyberattack.\" [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-target-over-30-minnesota-water-utilities-in-coordinated-ot-attack/",
-      "date": "2026-07-29T14:55:57Z"
-    },
-    {
-      "title": "Long-Lived Vulnerability in Microsoft Secure Boot",
-      "description": "[SCHNEIER] Microsoft&#8217;s Secure Boot has had a serious vulnerability for most of its existence. An industry-wide standard Microsoft invented to protect Windows, and later Linux, devices from firmware infections has been trivial to bypass for 13 of its 14...",
-      "url": "https://www.schneier.com/blog/archives/2026/07/long-lived-vulnerability-in-microsoft-secure-boot.html",
-      "date": "2026-07-29T11:01:09Z"
-    },
-    {
-      "title": "Apple Patches Everything (July 2026), (Wed, Jul 29th)",
-      "description": "[ISC] I am a bit late with this summary, but this week Apple released updates to all its operating systems and Safari. The Safari update, as usual, targets macOS prior to macOS 26. macOS updates covered the two older versions (14 and 15), while other...",
-      "url": "https://isc.sans.edu/diary/rss/33196",
-      "date": "2026-07-29T07:32:37Z"
-    },
-    {
-      "title": "ISC Stormcast For Wednesday, July 29th, 2026 https://isc.sans.edu/podcastdetail/10028, (Wed, Jul 29th)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33194",
-      "date": "2026-07-29T02:00:02Z"
-    },
-    {
-      "title": "Measuring LLMs\u2019 Ability to Perform Cryptanalysis",
-      "description": "[SCHNEIER] There&#8217;s new benchmark measuring AI&#8217;s ability to perform mathematical cryptanalysis. Anthropic&#8217;s frontier model actually found new attacks. The benchmark: &#8220;CryptanalysisBench: Can LLMs do Cryptanalysis?&#8221; The idea is to...",
-      "url": "https://www.schneier.com/blog/archives/2026/07/measuring-llms-ability-to-perform-cryptanalysis.html",
-      "date": "2026-07-29T01:47:05Z"
-    },
-    {
-      "title": "Axon Is Another License Plate Surveillance Company",
-      "description": "[SCHNEIER] Governments are switching, but I&#8217;m not sure it makes a difference: &#8230;some municipalities, including Denver, Colorado, are ditching their Flock arrays. But keep in mind that if they&#8217;re only switching from Flock to another brand of...",
-      "url": "https://www.schneier.com/blog/archives/2026/07/axon-is-another-license-plate-surveillance-company.html",
-      "date": "2026-07-28T11:06:30Z"
-    },
-    {
-      "title": "AutoIT Payload Injector , (Tue, Jul 28th)",
-      "description": "[ISC] For a long time, AutoIT&#x5b;1&#x5d; has been pretty common in the malware ecosystem. Threat actors still use it because it&#x27s easy to write and powerful. Indeed, it can perform all the required actions to inject a payload into a remote process...",
-      "url": "https://isc.sans.edu/diary/rss/33192",
-      "date": "2026-07-28T07:42:27Z"
-    },
-    {
-      "title": "ISC Stormcast For Tuesday, July 28th, 2026 https://isc.sans.edu/podcastdetail/10026, (Tue, Jul 28th)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33190",
-      "date": "2026-07-28T02:00:03Z"
-    },
-    {
-      "title": "Cognyte Sells a Mobile Cell Surveillance Van",
-      "description": "[SCHNEIER] Yet another Israeli mass surveillance company: Made by Israeli surveillance company Cognyte, the tech simulates a mobile phone tower, which forces nearby phones to connect to it. That enables cops to keep tabs on any phones in the vicinity \u00ad whether...",
-      "url": "https://www.schneier.com/blog/archives/2026/07/cognyte-sells-a-mobile-cell-surveillance-van.html",
-      "date": "2026-07-27T11:04:30Z"
-    }
-  ]
+    "title": "Sentinel Protocol",
+    "tagline": "Perimeter Intelligence Sync",
+    "updated": "2026-07-30 12:26 UTC",
+    "news": [
+        {
+            "source": {
+                "id": null,
+                "name": "PRNewswire"
+            },
+            "author": null,
+            "title": "ThreatLocker Secures $190 Million in Series F Funding to Drive Product Innovation and Global Expansion",
+            "description": "Led by Elephant, with a significant new investment from Koch Disruptive Technologies, the round will support AI security, platform development, and continued international growth ORLANDO, Fla., July 29, 2026 /PRNewswire/ -- ThreatLocker, a global leader in Ze\u2026",
+            "url": "https://www.prnewswire.com/news-releases/threatlocker-secures-190-million-in-series-f-funding-to-drive-product-innovation-and-global-expansion-302837156.html",
+            "urlToImage": "https://mmx.prnewswire.com/media/MS1802838/ThreatLocker-Logo.jpg?id=OA2798702&p=facebook",
+            "publishedAt": "2026-07-29T12:18:00Z",
+            "content": "Led by Elephant, with a significant new investment from Koch Disruptive Technologies, the round will support AI security, platform development, and continued international growth\r\nORLANDO, Fla., July\u2026 [+6391 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "GlobeNewswire"
+            },
+            "author": "Ocean Power Technologies, Inc.",
+            "title": "Ocean Power Technologies Strengthens Defense Contracting Readiness with CMMC Level 2 Compliance",
+            "description": "Achievement Enhances Company's Ability to Support U.S. Defense Programs Requiring Protection of Controlled Unclassified Information Achievement Enhances Company's Ability to Support U.S. Defense Programs Requiring Protection of Controlled Unclassified Informa\u2026",
+            "url": "https://www.globenewswire.com/news-release/2026/07/29/3335193/9069/en/Ocean-Power-Technologies-Strengthens-Defense-Contracting-Readiness-with-CMMC-Level-2-Compliance.html",
+            "urlToImage": "https://ml.globenewswire.com/Resource/Download/37cacdbe-8798-448b-acbc-529b6949576c",
+            "publishedAt": "2026-07-29T12:15:00Z",
+            "content": "MONROE TOWNSHIP, N.J., July 29, 2026 (GLOBE NEWSWIRE) -- Ocean Power Technologies, Inc. (\"OPT\" or the \"Company\") (NYSE American: OPTT), a leader in maritime operational infrastructure and autonomous \u2026 [+4145 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "International Business Times UK"
+            },
+            "author": "Niloy Chakrabarti",
+            "title": "Mark Zuckerberg Rejects AI Job Apocalypse: Says 'Personal Superintelligence' Will Create More Jobs",
+            "description": "Mark Zuckerberg argues that AI should empower individuals and fuel innovation instead of eliminating jobs, while advocating for widespread access.",
+            "url": "https://www.ibtimes.co.uk/mark-zuckerberg-ai-empowerment-innovation-1811268",
+            "urlToImage": "https://d.ibtimes.co.uk/en/full/1818349/mark-zuckerberg.jpg",
+            "publishedAt": "2026-07-29T12:11:43Z",
+            "content": "As the debate over artificial intelligence posing risks to humanity grows increasingly polarised, Meta Platforms CEO Mark Zuckerberg is pushing back against one of the technology industry's most comm\u2026 [+4655 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PRNewswire"
+            },
+            "author": null,
+            "title": "SureShield and BorderHawk Release Industry-Level Cyber Risk Report on the U.S. Telecommunications Sector",
+            "description": "New report analyzes thousands of U.S. telecommunications providers and identifies practical steps to strengthen critical infrastructure resilience ATLANTA, July 29, 2026 /PRNewswire/ -- SureShield & BorderHawk Cybersecurity announce the release of The State o\u2026",
+            "url": "https://www.prnewswire.com/news-releases/sureshield-and-borderhawk-release-industry-level-cyber-risk-report-on-the-us-telecommunications-sector-302836729.html",
+            "urlToImage": null,
+            "publishedAt": "2026-07-29T12:11:00Z",
+            "content": "New report analyzes thousands of U.S. telecommunications providers and identifies practical steps to strengthen critical infrastructure resilience\r\nATLANTA, July 29, 2026 /PRNewswire/ -- SureShield &\u2026 [+2770 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Dailymail.com"
+            },
+            "author": "Eleanor Mann",
+            "title": "Captain who led campaign against yacht club commodore after suspecting him of dodging barge mooring fees for his 80ft Dutch houseboat is cleared of harassment",
+            "description": "Mr Oloffs was accused of hounding his senior officer, commodore Richard Phillips, with claims he received 'preferential treatment' when trying to moor his 'whopping' barge at the club.",
+            "url": "https://www.dailymail.com/news/article-16013237/yacht-club-campaign-cleared-harassment.html",
+            "urlToImage": "https://i.dailymail.com/1s/2026/07/29/12/109664851-0-image-m-53_1785326103799.jpg",
+            "publishedAt": "2026-07-29T12:08:04Z",
+            "content": "A former captain at a top yacht club who was sued after a row over an 80ft houseboat dubbed 'Barge-gate' has been cleared of harassment.\u00a0\r\nEx-Greenwich Yacht Club cruiser captain Stefan Oloffs, 54, i\u2026 [+6408 chars]"
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Sheryl Estrada",
+            "title": "CFOs are hitting a \u2018cost wall\u2019 on AI",
+            "description": "Accenture\u2019s Chief AI and Data Officer Lan Guan warns that tokens are becoming AI\u2019s hidden cost driver.",
+            "url": "https://fortune.com/2026/07/29/cfo-hitting-cost-wall-ai-tokens-accenture/",
+            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-2271797829.jpg?resize=1200,600",
+            "publishedAt": "2026-07-29T12:03:59Z",
+            "content": "Good morning. For many companies, the biggest surprise in scaling AI isnt performanceits the bill. Tokens, the units behind every AI interaction, are quickly becoming a key driver of cost and scrutin\u2026 [+6468 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Suganthan.com"
+            },
+            "author": "Suganthan Mohanadasan",
+            "title": "How Perplexity Actually Picks Sources (I Read The Stream, Not The Answers) via @sejournal, @suganthan",
+            "description": "Perplexity never skips the web, so every query is winnable. Here's what its live answer stream reveals about citations, video, and local.\nThe post How Perplexity Actually Picks Sources (I Read The Stream, Not The Answers) appeared first on Search Engine Journ\u2026",
+            "url": "https://suganthan.com/blog/how-perplexity-picks-sources/",
+            "urlToImage": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/07/ai-picks-sources-140.png",
+            "publishedAt": "2026-07-29T12:01:39Z",
+            "content": "I promised this one at the end of the ChatGPT teardown. I\u2019ve since had to go back to ChatGPT again in a follow-up\u00a0because it moved under me while the post was still fresh. Perplexity was next, so her\u2026 [+33205 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Techtarget.com"
+            },
+            "author": "Christine Campbell",
+            "title": "Most promising AI tools for sustainability professionals",
+            "description": "AI tools can enhance sustainability with optimized energy use, improved predictive maintenance and streamlined supply chains while managing their own environmental impact.",
+            "url": "https://www.techtarget.com/sustainability/feature/Most-promising-AI-tools-for-sustainability-professionals",
+            "urlToImage": "https://www.techtarget.com/rms/onlineimages/esg_a488313427.jpg",
+            "publishedAt": "2026-07-29T12:00:00Z",
+            "content": "As sustainability initiatives become increasingly data-driven, AI can automate labor-intensive processes, improve forecasting and uncover efficiencies that would be difficult to detect through tradit\u2026 [+10572 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Project Syndicate"
+            },
+            "author": "Tom Achoki",
+            "title": "The Middle-Income Health Trap",
+            "description": "Many countries that graduate from low- to middle-income status soon find themselves stuck in the position of being too rich to qualify for aid, too poor to secure reliable market-based financing, and too indebted to expand public-health spending. But it doesn\u2026",
+            "url": "https://www.project-syndicate.org/commentary/middle-income-health-trap-too-rich-for-aid-still-too-poor-to-support-public-health-by-tom-achoki-and-walter-o-ochieng-2026-07",
+            "urlToImage": "https://webapi.project-syndicate.org/library/83eb45490f8e6f8f38ef39c64d73b015.2-1-super.1.jpg",
+            "publishedAt": "2026-07-29T11:51:12Z",
+            "content": "Many countries that graduate from low- to middle-income status soon find themselves stuck in the position of being too rich to qualify for aid, too poor to secure reliable market-based financing, and\u2026 [+7335 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "GlobeNewswire"
+            },
+            "author": "Mobilicom Limited",
+            "title": "Mobilicom to Participate in Premier U.S. DoW Exercise: Northern Strike 2026",
+            "description": "Opportunity to Showcase Secured Autonomy Solutions to Military End Users and Decision Makers\u00a0  Joint Effort with Reverent Networks to Showcase Secure...",
+            "url": "https://www.globenewswire.com/news-release/2026/07/29/3335145/0/en/Mobilicom-to-Participate-in-Premier-U-S-DoW-Exercise-Northern-Strike-2026.html",
+            "urlToImage": "https://ml.globenewswire.com/Resource/Download/4249ac32-092d-4551-b0ca-a21613f06e49",
+            "publishedAt": "2026-07-29T11:45:00Z",
+            "content": "Opportunity to Showcase Secured Autonomy Solutions to Military End Users and Decision Makers\u00a0\r\nJoint Effort with Reverent Networks to Showcase Secure Connectivity Among Operators, Autonomous Platform\u2026 [+4686 chars]"
+        }
+    ]
 }
