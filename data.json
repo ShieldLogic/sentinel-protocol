@@ -1,6 +1,24 @@
 {
-  "updated": "2026-07-30 08:07:16 UTC",
+  "updated": "2026-07-30 11:44:51 UTC",
   "news": [
+    {
+      "title": "Should You Use AI for a Task? Here\u2019s a Simple Way to Decide",
+      "description": "[SCHNEIER] This essay originally appeared in The Guardian. I teach public policy at the Harvard Kennedy School and the Munk School at the University of Toronto. And it will come as no surprise to you that my students regularly use AI to complete their writing...",
+      "url": "https://www.schneier.com/blog/archives/2026/07/should-you-use-ai-for-a-task-heres-a-simple-way-to-decide.html",
+      "date": "2026-07-30T11:01:32Z"
+    },
+    {
+      "title": "Hackers Exploit AnySign4PC via Hacked Korean Sites to Install Backdoors Without Prompts",
+      "description": "[FEEDS] South Korean authorities and four security firms have disclosed a state-sponsored campaign that compromised trusted domestic websites. The attackers used those sites to exploit locally installed financial-security software and infect targeted...",
+      "url": "https://thehackernews.com/2026/07/hackers-exploit-anysign4pc-via-hacked.html",
+      "date": "2026-07-30T10:33:15Z"
+    },
+    {
+      "title": "SilverFox Targets Japanese Manufacturer with 3-Driver BYOVD Chain and ValleyRAT",
+      "description": "[FEEDS] The Chinese cybercrime group known as Silver Fox has been observed using new drivers as part of bring your own vulnerable driver (BYOVD) attacks targeting a Japanese organization in the industrial manufacturing sector to ultimately deliver ValleyRAT...",
+      "url": "https://thehackernews.com/2026/07/silverfox-targets-japanese-manufacturer.html",
+      "date": "2026-07-30T10:32:59Z"
+    },
     {
       "title": "Russian Hackers Exploit Microsoft OWA Flaw to Keep Mailbox Access After Credential Rotation",
       "description": "[FEEDS] The Russian threat actors recently linked to the exploitation of a now-patched vulnerability in Zimbra have been observed exploiting another vulnerability, this time in Microsoft Outlook Web Access (OWA), to target U.S. and European government...",
@@ -44,6 +62,18 @@
       "date": "2026-07-29T23:44:07Z"
     },
     {
+      "title": "MoD data breach a 'foreseeable' failure that left Afghans in danger, inquiry finds",
+      "description": "[BBC NEWS] The Commons' Defence Committee says in a report that the MoD used secrecy as a \"shield\" against proper expertise.",
+      "url": "https://www.bbc.com/news/articles/c77gvr4172vo",
+      "date": "2026-07-29T23:13:43Z"
+    },
+    {
+      "title": "Afghan data breach was a \u2018foreseeable failure\u2019 covered up by secrecy for too long, damning report into MoD blunder finds",
+      "description": "[THE INDEPENDENT] Blunder which exposed personal details of tens of thousands of Afghans was \u2018forseeable failure\u2019 covered up by secrecy for \u2018too long\u2019, MPs said",
+      "url": "https://www.independent.co.uk/news/uk/home-news/afghan-data-breach-superinjunction-defence-report-mod-b3022842.html",
+      "date": "2026-07-29T23:01:36Z"
+    },
+    {
       "title": "Anthropic confirms Claude is down worldwide",
       "description": "[BLEEPINGCOMPUTER] Claude is down for some users, with Anthropic confirming elevated errors across multiple AI models. The disruption is causing requests to fail with a \"529 Overloaded\" message, including in Claude and tools that rely on its API. [...]",
       "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-worldwide/",
@@ -54,6 +84,12 @@
       "description": "[BLEEPINGCOMPUTER] Cisco is warning that a high-severity Secure Firewall Management Center (FMC) static credential vulnerability, tracked as CVE-2026-20316, was actively exploited in zero-day attacks to gain unauthorized access to vulnerable devices. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-fmc-static-credential-flaw-exploited-in-zero-day-attacks/",
       "date": "2026-07-29T21:35:40Z"
+    },
+    {
+      "title": "What does the recent Hugging Face hacking incident teach us about the future of AI?",
+      "description": "[NPR] It\u2019s a science fiction nightmare: What happens if the machines take over?The world got a potential taste of that last week, when OpenAI, the maker of ChatGPT, said two of its models had autonomously hacked into another AI company.OpenAI says its...",
+      "url": "https://www.npr.org/2026/07/29/nx-s1-5911866/what-does-the-recent-hugging-face-hacking-incident-teach-us-about-the-future-of-ai",
+      "date": "2026-07-29T21:00:01Z"
     },
     {
       "title": "AI hits software stocks but boosts demand for cybersecurity",
@@ -78,12 +114,6 @@
       "description": "[POLITICO] The OpenAI CEO discussed a forthcoming artificial intelligence model with federal lawmakers as the cybersecurity debate over the advanced technology intensifies.",
       "url": "https://www.politico.com/news/2026/07/29/sam-altman-previews-new-ai-model-on-capitol-hill-after-cyber-breach-01015247",
       "date": "2026-07-29T18:16:00Z"
-    },
-    {
-      "title": "Critical Rails Flaw Could Let Unauthenticated Attackers Read Server Files via Image Uploads",
-      "description": "[FEEDS] Ruby on Rails has released fixes for a critical Active Storage vulnerability that could let unauthenticated attackers read arbitrary files from application servers through crafted image uploads. Tracked as CVE-2026-66066 (CVSS score: 9.5), the flaw...",
-      "url": "https://thehackernews.com/2026/07/critical-rails-flaw-could-let.html",
-      "date": "2026-07-29T18:10:00Z"
     },
     {
       "title": "Mayor says the Sault's proposed data centre 'not a large-scale facility'",
@@ -120,30 +150,6 @@
       "description": "[BLEEPINGCOMPUTER] In a new update, OpenAI says its AI models also used publicly exposed credentials to compromise accounts on four third-party services during the recent attack on Hugging Face, expanding the scope of the four-day security incident to other...",
       "url": "https://www.bleepingcomputer.com/news/security/openai-agent-used-exposed-credentials-at-4-services-in-hugging-face-breach/",
       "date": "2026-07-29T16:04:59Z"
-    },
-    {
-      "title": "Philippine military strengthens cyber defense: AFP to recruit AI, cybersecurity experts",
-      "description": "[THE MANILA TIMES] THE Armed Forces of the Philippines (AFP) said it would fortify national cyber defense by recruiting more experts in cybersecurity and artificial intelligence (AI).",
-      "url": "https://www.manilatimes.net/2026/07/30/news/national/philippine-military-strengthens-cyber-defense-afp-to-recruit-ai-cybersecurity-experts/2394241",
-      "date": "2026-07-29T16:02:00Z"
-    },
-    {
-      "title": "Build the IT Skills Every Small-Business Owner Should Know for $35",
-      "description": "[ENTREPRENEUR] From networking to cybersecurity, learn the IT skills your business needs with this bundle of courses.",
-      "url": "https://www.entrepreneur.com/science-technology/build-the-it-skills-every-small-business-owner-should-know/505081",
-      "date": "2026-07-29T16:00:00Z"
-    },
-    {
-      "title": "Eyemart Express faces lawsuits over customer data breach",
-      "description": "[THE DALLAS MORNING NEWS] Texas-based Eyemart Express faces class-action lawsuits after a cyberattack exposed customer data, including Social Security and insurance details.",
-      "url": "https://www.dallasnews.com/business/article/eyemart-express-faces-lawsuits-customer-data-22361817.php",
-      "date": "2026-07-29T15:43:33Z"
-    },
-    {
-      "title": "Ruflo MCP Flaw Lets Unauthenticated Attackers Run Commands and Poison AI Memory",
-      "description": "[FEEDS] Cybersecurity researchers have flagged a maximum-severity security flaw in Ruflo, an open-source agent meta-harness for Anthropic Claude Code and OpenAI Codex, that could result in unauthenticated remote code execution. The vulnerability, tracked as...",
-      "url": "https://thehackernews.com/2026/07/ruflo-mcp-flaw-lets-unauthenticated.html",
-      "date": "2026-07-29T15:39:30Z"
     },
     {
       "title": "Hackers disrupt over 30 Minnesota water utilities in coordinated OT attack",
@@ -198,12 +204,6 @@
       "description": "[SCHNEIER] Yet another Israeli mass surveillance company: Made by Israeli surveillance company Cognyte, the tech simulates a mobile phone tower, which forces nearby phones to connect to it. That enables cops to keep tabs on any phones in the vicinity \u00ad whether...",
       "url": "https://www.schneier.com/blog/archives/2026/07/cognyte-sells-a-mobile-cell-surveillance-van.html",
       "date": "2026-07-27T11:04:30Z"
-    },
-    {
-      "title": "Friday Squid Blogging: Illex Squid Catch in the Falklands",
-      "description": "[SCHNEIER] Lower catch this year. As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered. Blog moderation policy.",
-      "url": "https://www.schneier.com/blog/archives/2026/07/friday-squid-blogging-illex-squid-catch-in-the-falklands.html",
-      "date": "2026-07-24T21:06:00Z"
     }
   ]
 }
