@@ -1,6 +1,12 @@
 {
-  "updated": "2026-07-30 22:55:51 UTC",
+  "updated": "2026-07-31 01:53:37 UTC",
   "news": [
+    {
+      "title": "Anthropic's Claude breached 3 orgs, uploaded PyPI malware during tests",
+      "description": "[BLEEPINGCOMPUTER] One of Anthropic's Claude models built and uploaded a malicious Python package to PyPI during a botched security evaluation, where it ran on 15 real systems and stole credentials from a security vendor. It was one of three incidents affecting real...",
+      "url": "https://www.bleepingcomputer.com/news/security/anthropics-claude-breached-3-orgs-uploaded-pypi-malware-during-tests/",
+      "date": "2026-07-31T00:57:25Z"
+    },
     {
       "title": "South Korea fines telco giant KT $39 million for customer data breach",
       "description": "[BLEEPINGCOMPUTER] South Korea's Personal Information Protection Commission (PIPC) has fined telecommunications giant KT Corporation KRW 53.979 billion ($39 million) over data protection violations. [...]",
@@ -38,12 +44,6 @@
       "date": "2026-07-30T17:00:00Z"
     },
     {
-      "title": "ShinyHunters claims Brinks Home breach, threatens to leak stolen data",
-      "description": "[BLEEPINGCOMPUTER] Residential security company Brinks Home has disclosed that hackers breached some of its systems and are threatening to leak allegedly stolen data. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-claims-brinks-home-breach-threatens-to-leak-stolen-data/",
-      "date": "2026-07-30T16:46:15Z"
-    },
-    {
       "title": "American Being Prosecuted for Wiping His Phone Before Handing It Over to Border Officials",
       "description": "[SCHNEIER] He&#8217;s being prosecuted for giving border officials a code that wiped his phone: The case centers on a feature included in GrapheneOS, a custom Android operating system that runs in place of the software on most modern Google Pixel devices....",
       "url": "https://www.schneier.com/blog/archives/2026/07/american-being-prosecuted-for-wiping-his-phone-before-handing-it-over-to-border-officials.html",
@@ -56,10 +56,52 @@
       "date": "2026-07-30T15:25:57Z"
     },
     {
+      "title": "Love, Bonito alerts customers to data breach",
+      "description": "[THE STRAITS TIMES] Love, Bonito customers' personal data, including names and addresses, may have been exposed in a recent website security incident. Read more at straitstimes.com.",
+      "url": "https://www.straitstimes.com/singapore/love-bonito-customers-personal-information-possibly-exposed-in-data-breach",
+      "date": "2026-07-30T13:53:00Z"
+    },
+    {
       "title": "Azure Cosmos DB Flaw Exposed Platform-Wide Key That Could Access Any Database",
       "description": "[FEEDS] A now-patched vulnerability in Azure Cosmos DB could have let an attacker escape the service's Gremlin query sandbox and obtain full read and write access to databases across customer tenants, according to Wiz. Wiz, which codenamed the chain...",
       "url": "https://thehackernews.com/2026/07/azure-cosmos-db-flaw-exposed-platform.html",
       "date": "2026-07-30T13:34:09Z"
+    },
+    {
+      "title": "Cyber firm Wiz says flaw could have led to mass exposure of Microsoft cloud customers",
+      "description": "[THE STAR] WASHINGTON, July 30 (Reuters) - \u2060Alphabet-owned cybersecurity company Wiz said on Thursday it had found a sweeping flaw \u2060that could have compromised Microsoft and thousands of its cloud customers.",
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/07/30/cyber-firm-wiz-says-flaw-could-have-led-to-mass-exposure-of-microsoft-cloud-customers",
+      "date": "2026-07-30T13:15:00Z"
+    },
+    {
+      "title": "DCPS says student data may have been exposed in cyberattack",
+      "description": "[WJLA] D.C. Public Schools (DCPS) is warning families about a cybersecurity incident that may have exposed some student information.",
+      "url": "https://wjla.com/news/local/dc-public-schools-dcps-cybersecurity-data-breach-student-security-washington-education-hacking-hackers-privacy-summer-learning-information-parent-alert-technology-online-scams",
+      "date": "2026-07-30T13:03:37Z"
+    },
+    {
+      "title": "Govt steps up cyber defence against AI",
+      "description": "[THE TRIBUNE] In a major push to strengthen India's AI cybersecurity capabilities, the government has conducted cyber security exercises across industries, according to a statement by Ministry of Electronics and Information Technology.",
+      "url": "https://www.tribuneindia.com/news/business/govt-steps-up-cyber-defence-against-ai-enabled-threats-with-sector-wide-security-exercises/",
+      "date": "2026-07-30T12:58:30Z"
+    },
+    {
+      "title": "Govt steps up cyber defence against AI-enabled threats with sector-wide security exercises",
+      "description": "[ANI (ASIAN NEWS INTERNATIONAL)] In a major push to strengthen India's AI cybersecurity capabilities, the government has conducted cyber security exercises across industries, according to a statement by Ministry of Electronics and Information Technology.",
+      "url": "https://www.aninews.in/news/business/govt-steps-up-cyber-defence-against-ai-enabled-threats-with-sector-wide-security-exercises20260730182653/",
+      "date": "2026-07-30T12:56:53Z"
+    },
+    {
+      "title": "Cyber firm Wiz says flaw could have led to mass exposure of Microsoft cloud customers",
+      "description": "[THE ECONOMIC TIMES] Cybersecurity firm Wiz found a major flaw in Microsoft's Azure CosmosDB service. This vulnerability could have allowed remote compromise of thousands of cloud customers. Microsoft stated the issue has been fully addressed and no customer impact was...",
+      "url": "https://economictimes.indiatimes.com/tech/technology/cyber-firm-wiz-says-flaw-could-have-led-to-mass-exposure-of-microsoft-cloud-customers/articleshow/132739402.cms",
+      "date": "2026-07-30T12:13:58Z"
+    },
+    {
+      "title": "Cyber firm Wiz says flaw could have led to mass exposure of Microsoft cloud customers",
+      "description": "[REUTERS] Alphabet-owned cybersecurity company Wiz said on Thursday it had found a sweeping flaw that could have compromised Microsoft and thousands of its \u200bcloud customers.",
+      "url": "https://www.reuters.com/technology/cyber-firm-wiz-says-flaw-could-have-led-mass-exposure-microsoft-cloud-customers-2026-07-30/",
+      "date": "2026-07-30T12:01:38Z"
     },
     {
       "title": "Microsoft Copilot for Word Can Copy Hidden Prompts Into New Documents",
@@ -72,6 +114,12 @@
       "description": "[FEEDS] Network firewalls are the workhorses of modern cybersecurity. They are trusted to protect the network, blocking malicious traffic and preventing intrusions and breaches. And for decades, network security teams have built controls around a relatively...",
       "url": "https://thehackernews.com/2026/07/the-network-has-become-control-plane.html",
       "date": "2026-07-30T11:32:46Z"
+    },
+    {
+      "title": "Govt may include electric two-, three-wheelers in cybersecurity rules after battery-draining apps trigger concerns",
+      "description": "[LIVEMINT] Electric two-wheelers and three-wheelers are not covered by the current cybersecurity rules. Experts said the EV policy should be inclusive of all vehicle segments.",
+      "url": "https://www.livemint.com/auto-news/electric-two-wheelers-electric-three-wheelers-cybersecurity-rules-battery-draining-apps-safety-norms-performance-norms-11785404279544.html",
+      "date": "2026-07-30T11:22:16Z"
     },
     {
       "title": "Should You Use AI for a Task? Here\u2019s a Simple Way to Decide",
@@ -96,54 +144,6 @@
       "description": "[NEWSWEEK] How we can prepare for increasingly sophisticated cyberattacks by keeping track of who \u2013 or what \u2013 can access our systems",
       "url": "https://www.newsweek.com/why-identity-visibility-is-becoming-cybersecuritys-top-priority-12260114",
       "date": "2026-07-30T10:02:23Z"
-    },
-    {
-      "title": "FCC Blocks New Foreign-Produced Robots and Power Inverters Over Cyber Risks",
-      "description": "[THE HACKER NEWS] FCC Blocks New Foreign-Produced Robots and Power Inverters Over Cyber Risks | Read more hacking news on The Hacker News cybersecurity news website and learn how to protect against cyberattacks and software vulnerabilities.",
-      "url": "https://thehackernews.com/2026/07/fcc-blocks-new-foreign-produced-robots.html",
-      "date": "2026-07-30T07:28:00Z"
-    },
-    {
-      "title": "Creator of test that OpenAI models tried to cheat sounds alarm",
-      "description": "[THE STAR] A group of university researchers that developed benchmarks to test the cybersecurity capabilities of AI systems have unexpectedly landed themselves at the centre of OpenAI's accidental hack into the startup Hugging Face Inc.",
-      "url": "https://www.thestar.com.my/tech/tech-news/2026/07/30/creator-of-test-that-openai-models-tried-to-cheat-sounds-alarm",
-      "date": "2026-07-30T07:00:00Z"
-    },
-    {
-      "title": "'Taliban tortured my dad and threatened to take my sister after MoD data breach'",
-      "description": "[THE MIRROR] An interpreter who worked for the British Army in Helmand Province, Afghanistan, in 2012 has told of his trauma after names were leaked amid a Ministry of Defence breach",
-      "url": "https://www.mirror.co.uk/news/world-news/mod-data-breach-taliban-afghans-37491644",
-      "date": "2026-07-30T06:11:11Z"
-    },
-    {
-      "title": "Denied admission, student hacks IIT-Kanpur & IIT Madras websites; institute now considers giving him second chance instead of filing FIR",
-      "description": "[THE ECONOMIC TIMES] An applicant to IIT Kanpur allegedly hacked the institute's websites after being denied admission to its Bachelor of Cyber Security programme. He claimed he wanted a fair opportunity to demonstrate his cybersecurity skills. Instead of pursuing...",
-      "url": "https://economictimes.indiatimes.com/news/new-updates/denied-admission-student-hacks-iit-kanpur-iit-madras-websites-institute-now-considers-giving-him-second-chance-instead-of-filing-fir/articleshow/132728553.cms",
-      "date": "2026-07-30T06:08:00Z"
-    },
-    {
-      "title": "NEET UG Counselling 2026: One-Time Physical Reporting, Online Verification Introduced By MCC",
-      "description": "[FREE PRESS JOURNAL] NEET UG Counselling 2026 will feature one-time physical reporting, online document verification and an online resignation facility. MCC has expanded PwBD assessment centres from 16 to 61, digitised NRI registration and strengthened cybersecurity and...",
-      "url": "https://www.freepressjournal.in/education/neet-ug-counselling-2026-one-time-physical-reporting-online-verification-introduced-by-mcc",
-      "date": "2026-07-30T05:52:55Z"
-    },
-    {
-      "title": "Cisco FMC Zero-Day Actively Exploited, Static Credentials Could Expose Sensitive Data",
-      "description": "[THE HACKER NEWS] Cisco FMC flaw CVE-2026-20316 is under active exploitation, letting unauthenticated attackers use static credentials to access sensitive data",
-      "url": "https://thehackernews.com/2026/07/cisco-fmc-zero-day-actively-exploited.html",
-      "date": "2026-07-30T05:08:00Z"
-    },
-    {
-      "title": "OpenAI\u2019s Account of Rogue Hacker AI Draws Skepticism from Experts",
-      "description": "[NATURAL NEWS] OpenAI reported on July 22, 2026, that one of its advanced AI models breached the systems of Hugging Face during a security test, marking what the company called an \u201cunprecedented cyber incident.\u201d According to statements from OpenAI, the model...",
-      "url": "https://www.naturalnews.com/2026-07-30-openais-account-rogue-hacker-ai-draws-skepticism.html",
-      "date": "2026-07-30T04:36:17Z"
-    },
-    {
-      "title": "Massive Data Breach Fine Hits South Korea's KT Corp",
-      "description": "[DEVDISCOURSE] South Korea's Personal Information Protection Commission has fined telecom company KT Corp 54 billion won due to a data leak involving over 16,600 customers. The breach, occurring in 2024 and 2025, resulted in illegal payments worth 240 million won....",
-      "url": "https://www.devdiscourse.com/article/law-order/3956982-massive-data-breach-fine-hits-south-koreas-kt-corp",
-      "date": "2026-07-30T02:30:43Z"
     },
     {
       "title": "ISC Stormcast For Thursday, July 30th, 2026 https://isc.sans.edu/podcastdetail/10030, (Thu, Jul 30th)",
