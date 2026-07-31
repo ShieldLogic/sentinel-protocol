@@ -1,6 +1,12 @@
 {
-  "updated": "2026-07-31 15:54:12 UTC",
+  "updated": "2026-07-31 17:19:21 UTC",
   "news": [
+    {
+      "title": "CISA warns of cyberattacks disrupting U.S. water utilities",
+      "description": "[BLEEPINGCOMPUTER] The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning of a significant increase in attacks targeting internet-exposed programmable logic controllers (PLCs) in the water and wastewater systems sector. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-cyberattacks-disrupting-us-water-utilities/",
+      "date": "2026-07-31T16:49:49Z"
+    },
     {
       "title": "Cheap Android TV Boxes Pose as Phones and Turn Owners\u2019 Broadband Into Proxies",
       "description": "[FEEDS] Bitsight says some cheap Android TV boxes have shipped with apps that rewrite their hardware identity to mimic Samsung, Huawei, Xiaomi, or Vivo phones, then click ads on websites run by the same operators. Researchers named the operation Fuyao and...",
@@ -56,6 +62,30 @@
       "date": "2026-07-31T06:41:44Z"
     },
     {
+      "title": "Anthropic's AI hacked three companies during tests, highlighting growing security risks",
+      "description": "[DEVDISCOURSE] Anthropic's AI models inadvertently accessed the open internet during cybersecurity tests, highlighting increased AI-related cybersecurity threats and the challenges developers face in containing their models' capabilities.",
+      "url": "https://www.devdiscourse.com/article/technology/3957589-anthropics-ai-hacked-three-companies-during-tests-highlighting-growing-security-risks",
+      "date": "2026-07-31T04:59:22Z"
+    },
+    {
+      "title": "Anthropic's Claude AI hacked 3 companies during cyber tests",
+      "description": "[NEWSBYTES] Anthropic revealed its AI model, Claude, accessed systems of three organizations during third-party cybersecurity evaluations, following OpenAI's similar incident disclosure.",
+      "url": "https://www.newsbytesapp.com/news/science/after-openai-incident-anthropic-s-claude-ai-hacks-companies-during-testing/story",
+      "date": "2026-07-31T04:35:27Z"
+    },
+    {
+      "title": "'This Will Happen Frequently...'.: Elon Musk Reacts After Anthropic Confirms Claude AI Hacked Three Companies",
+      "description": "[TIMES NOW] Elon Musk responded to Anthropic's confirmation that its Claude AI model unintentionally hacked into three organisations during cybersecurity tests. , Technology & Science, Times Now",
+      "url": "https://www.timesnownews.com/technology-science/this-will-happen-frequently-elon-musk-reacts-after-anthropic-confirms-claude-ai-hacked-three-companies-article-155221257",
+      "date": "2026-07-31T04:03:17Z"
+    },
+    {
+      "title": "United States \u2022 Swiss cybersecurity firm Acronis looks to rebuild US relationship",
+      "description": "[INTELLIGENCE ONLINE] The company has hired the services of a lobbying firm as it seeks to regain procurement opportunities with US agencies.",
+      "url": "https://www.intelligenceonline.com/americas/2026/07/31/swiss-cybersecurity-firm-acronis-looks-to-rebuild-us-relationship,110854557-art",
+      "date": "2026-07-31T04:00:00Z"
+    },
+    {
       "title": "When AI Went Rogue: Anthropic Admits Claude Broke Into 3 Real Company Systems During Secret Tests",
       "description": "[FREE PRESS JOURNAL] Anthropic reveals its Claude AI models breached real systems at three companies during cybersecurity tests after a testing environment was mistakenly connected to the internet.",
       "url": "https://www.freepressjournal.in/tech/when-ai-went-rogue-anthropic-admits-claude-broke-into-3-real-company-systems-during-secret-tests",
@@ -98,34 +128,10 @@
       "date": "2026-07-31T01:54:39Z"
     },
     {
-      "title": "Anthropic Says Claude Hacked Real Systems During Cybersecurity Tests",
-      "description": "[WIRED] In a review triggered by OpenAI's Hugging Face incident, Anthropic discovered three of its AI models had breached real organizations during third-party evaluations.",
-      "url": "https://www.wired.com/story/anthropic-says-claude-hacked-real-systems-during-cybersecurity-tests/",
-      "date": "2026-07-31T01:24:26Z"
-    },
-    {
-      "title": "Anthropic\u2019s AI models hacked three organizations during tests",
-      "description": "[THE JAPAN TIMES ] Anthropic said in a blog post that it made the discovery after performing a review of its own cybersecurity tests, following OpenAI\u2019s announcement of a breach last week.",
-      "url": "https://www.japantimes.co.jp/business/2026/07/31/anthropic-ai-hack-cybersecurity/",
-      "date": "2026-07-31T01:14:32Z"
-    },
-    {
       "title": "Anthropic's Claude breached 3 orgs, uploaded PyPI malware during tests",
       "description": "[BLEEPINGCOMPUTER] One of Anthropic's Claude models built and uploaded a malicious Python package to PyPI during a botched security evaluation, where it ran on 15 real systems and stole credentials from a security vendor. It was one of three incidents affecting real...",
       "url": "https://www.bleepingcomputer.com/news/security/anthropics-claude-breached-3-orgs-uploaded-pypi-malware-during-tests/",
       "date": "2026-07-31T00:57:25Z"
-    },
-    {
-      "title": "Anthropic just now realized its AI models hacked other companies three times by accident.",
-      "description": "[THE VERGE] A little over a week after OpenAI said that its rogue AI agent accidentally hacked Hugging Face, Anthropic is disclosing three \u201cincidents\u201d where a Claude model, during cybersecurity evaluations, was inadvertently able to access the internet due to a...",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/973586/anthropic-just-now-realized-its-ai-models-hacked-other-companies-three-times-by-accident",
-      "date": "2026-07-31T00:09:17Z"
-    },
-    {
-      "title": "Anthropic\u2019s AI models hacked 3 organizations during tests",
-      "description": "[SANTA ANA ORANGE COUNTY REGISTER] It discovered the breaches after performing a review of its own cybersecurity tests, following OpenAI\u2019s announcement of its own breach.",
-      "url": "https://www.ocregister.com/2026/07/30/anthropics-ai-models-hacked-3-organizations-during-tests/",
-      "date": "2026-07-30T23:27:20Z"
     },
     {
       "title": "South Korea fines telco giant KT $39 million for customer data breach",
@@ -144,12 +150,6 @@
       "description": "[BLEEPINGCOMPUTER] Amazon linked multiple high-profile open-source software supply chain attacks targeting the Node Package Manager (npm) ecosystem to North Korean hackers. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/amazon-links-debug-chalk-npm-supply-chain-attacks-to-north-korean-hackers/",
       "date": "2026-07-30T18:13:24Z"
-    },
-    {
-      "title": "VMware fixes three critical flaws allowing auth bypass, VM escapes",
-      "description": "[BLEEPINGCOMPUTER] Broadcom has released security updates to fix five vulnerabilities in VMware vCenter, ESX, Workstation, and Fusion, including three critical flaws that allow attackers to bypass authentication, execute arbitrary code, or escape from a virtual...",
-      "url": "https://www.bleepingcomputer.com/news/security/vmware-fixes-three-critical-flaws-allowing-auth-bypass-vm-escapes/",
-      "date": "2026-07-30T18:00:51Z"
     },
     {
       "title": "American Being Prosecuted for Wiping His Phone Before Handing It Over to Border Officials",
