@@ -1,11 +1,35 @@
 {
-  "updated": "2026-07-31 17:19:21 UTC",
+  "updated": "2026-07-31 19:08:09 UTC",
   "news": [
+    {
+      "title": "OpenAI says its new GPT 5.6 models are becoming more cost-efficient",
+      "description": "[BLEEPINGCOMPUTER] OpenAI says it has reduced the price of two GPT-5.6 models, cutting Luna's API price by 80% and Terra's by 20% as it works to make its models more efficient. [...]",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-its-new-gpt-56-models-are-becoming-more-cost-efficient/",
+      "date": "2026-07-31T18:52:44Z"
+    },
+    {
+      "title": "Hacker uses DeepSeek AI to autonomously attack vulnerable servers",
+      "description": "[BLEEPINGCOMPUTER] A Chinese-speaking threat actor is using the DeepSeek AI model and the open-source Hermes Agent to conduct autonomous cyberattacks on exposed servers with limited human involvement. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/hacker-uses-deepseek-ai-to-autonomously-attack-vulnerable-servers/",
+      "date": "2026-07-31T17:35:35Z"
+    },
+    {
+      "title": "Anthropic\u2019s Opus 5 Is Better at Resisting Prompt Injection",
+      "description": "[SCHNEIER] The chart is interesting. On the IPI benchmark, Opus 5 improved over Opus 4.8, reducing the probability of an attacker succeeding within 15 attempts from 5.5% to 2.0%, and from 0.5% to 0.2% on 1 attempt. It also improved on Sonnet 5 (5.9% at k=15)...",
+      "url": "https://www.schneier.com/blog/archives/2026/07/anthropics-opus-5-is-better-at-resisting-prompt-injection.html",
+      "date": "2026-07-31T17:23:16Z"
+    },
     {
       "title": "CISA warns of cyberattacks disrupting U.S. water utilities",
       "description": "[BLEEPINGCOMPUTER] The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning of a significant increase in attacks targeting internet-exposed programmable logic controllers (PLCs) in the water and wastewater systems sector. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-cyberattacks-disrupting-us-water-utilities/",
       "date": "2026-07-31T16:49:49Z"
+    },
+    {
+      "title": "HollowFrame Loader Deploys Matryoshka Backdoor in Spear-Phishing Attack on Law Firm",
+      "description": "[FEEDS] Cybersecurity researchers have shed light on a previously undocumented Go-based loader framework called HollowFrame and a Rust-based malware family tracked as Matryoshka. According to Blackpoint Cyber, the intrusion sequence begins with a...",
+      "url": "https://thehackernews.com/2026/07/hollowframe-loader-deploys-matryoshka.html",
+      "date": "2026-07-31T16:39:31Z"
     },
     {
       "title": "Cheap Android TV Boxes Pose as Phones and Turn Owners\u2019 Broadband Into Proxies",
@@ -56,76 +80,70 @@
       "date": "2026-07-31T09:22:19Z"
     },
     {
-      "title": "Anthropic Says Claude Mistook the Open Internet for a CTF and Breached Three Organizations",
-      "description": "[FEEDS] Anthropic on Thursday became the latest artificial intelligence (AI) company to reveal that three of its models, including Claude Opus 4.7, Mythos 5, and an unnamed research model, had breached three unnamed organizations during cybersecurity...",
-      "url": "https://thehackernews.com/2026/07/anthropic-says-claude-mistook-open.html",
-      "date": "2026-07-31T06:41:44Z"
+      "title": "Anthropic AI models hack three companies during testing",
+      "description": "[PERTHNOW] Anthropic has launched a cybersecurity review after its AI models escaped their testing environment, days after OpenAi said one of its models had gone rogue.",
+      "url": "https://www.perthnow.com.au/news/technology/anthropic-ai-models-hack-three-companies-during-testing-c-22658491",
+      "date": "2026-07-31T06:57:53Z"
     },
     {
-      "title": "Anthropic's AI hacked three companies during tests, highlighting growing security risks",
-      "description": "[DEVDISCOURSE] Anthropic's AI models inadvertently accessed the open internet during cybersecurity tests, highlighting increased AI-related cybersecurity threats and the challenges developers face in containing their models' capabilities.",
-      "url": "https://www.devdiscourse.com/article/technology/3957589-anthropics-ai-hacked-three-companies-during-tests-highlighting-growing-security-risks",
-      "date": "2026-07-31T04:59:22Z"
+      "title": "Anthropic AI models hack three companies during testing",
+      "description": "[THE CANBERRA TIMES] Anthropic has launched a cybersecurity review after its AI models escaped their testing environment, days after OpenAi said...",
+      "url": "https://www.canberratimes.com.au/story/9321708/anthropic-ai-models-hack-three-companies-during-testing/",
+      "date": "2026-07-31T06:55:53Z"
     },
     {
-      "title": "Anthropic's Claude AI hacked 3 companies during cyber tests",
-      "description": "[NEWSBYTES] Anthropic revealed its AI model, Claude, accessed systems of three organizations during third-party cybersecurity evaluations, following OpenAI's similar incident disclosure.",
-      "url": "https://www.newsbytesapp.com/news/science/after-openai-incident-anthropic-s-claude-ai-hacks-companies-during-testing/story",
-      "date": "2026-07-31T04:35:27Z"
+      "title": "Coupang ordered to pay data leak victims $70 each",
+      "description": "[THE KOREA TIMES] Korea\u2019s consumer dispute mediation committee on Friday recognized Coupang\u2019s liability for damages over its massive personal data breach last year a...",
+      "url": "https://www.koreatimes.co.kr/business/companies/20260731/coupang-ordered-to-pay-data-leak-victims-70-each",
+      "date": "2026-07-31T06:50:04Z"
     },
     {
-      "title": "'This Will Happen Frequently...'.: Elon Musk Reacts After Anthropic Confirms Claude AI Hacked Three Companies",
-      "description": "[TIMES NOW] Elon Musk responded to Anthropic's confirmation that its Claude AI model unintentionally hacked into three organisations during cybersecurity tests. , Technology & Science, Times Now",
-      "url": "https://www.timesnownews.com/technology-science/this-will-happen-frequently-elon-musk-reacts-after-anthropic-confirms-claude-ai-hacked-three-companies-article-155221257",
-      "date": "2026-07-31T04:03:17Z"
+      "title": "Anthropic says its AI models hacked 3 organizations during testing",
+      "description": "[THE ATLANTA JOURNAL-CONSTITUTION] Anthropic says its AI models hacked into three organizations during testing. This comes just days after OpenAI said its AI models went rogue and hacked into another company. Anthropic, based in San Francisco, posted on its website that it discovered...",
+      "url": "https://www.ajc.com/news/2026/07/anthropic-says-its-ai-models-hacked-3-organizations-during-testing/",
+      "date": "2026-07-31T06:31:35Z"
     },
     {
-      "title": "United States \u2022 Swiss cybersecurity firm Acronis looks to rebuild US relationship",
-      "description": "[INTELLIGENCE ONLINE] The company has hired the services of a lobbying firm as it seeks to regain procurement opportunities with US agencies.",
-      "url": "https://www.intelligenceonline.com/americas/2026/07/31/swiss-cybersecurity-firm-acronis-looks-to-rebuild-us-relationship,110854557-art",
-      "date": "2026-07-31T04:00:00Z"
+      "title": "How Anthropic\u2019s Claude AI \u2018gained unauthorised access\u2019 to 3 organisations during cyber testing stage",
+      "description": "[THE FINANCIAL EXPRESS] Anthropic revealed that its Claude AI models accessed real systems during cybersecurity tests due to a misconfigured environment, prompting new security measures and calls for industry-wide assessments.",
+      "url": "https://www.financialexpress.com/life/technology-how-anthropics-claude-ai-gained-unauthorised-access-to-3-organisations-during-cyber-testing-stagenbsp-4307205/",
+      "date": "2026-07-31T06:28:41Z"
     },
     {
-      "title": "When AI Went Rogue: Anthropic Admits Claude Broke Into 3 Real Company Systems During Secret Tests",
-      "description": "[FREE PRESS JOURNAL] Anthropic reveals its Claude AI models breached real systems at three companies during cybersecurity tests after a testing environment was mistakenly connected to the internet.",
-      "url": "https://www.freepressjournal.in/tech/when-ai-went-rogue-anthropic-admits-claude-broke-into-3-real-company-systems-during-secret-tests",
-      "date": "2026-07-31T03:53:56Z"
+      "title": "58 centres of excellence, 543 data and AI labs - How India plans to build AI talent in tier-2 and tier-3 cities",
+      "description": "[THE FINANCIAL EXPRESS] IndiaAI Mission is using innovation challenges and hackathons to crowdsource and fast-track solutions for concrete problems. Under IADI, 11 national-level hackathons and innovation challenges have been launched across sectors such as healthcare,...",
+      "url": "https://www.financialexpress.com/business/news-big-ai-push-58-centres-of-excellence-543-data-artificial-intelligence-labs-how-india-plans-to-build-ai-talent-in-tier-2-and-3-cities-4307139/",
+      "date": "2026-07-31T06:25:11Z"
     },
     {
-      "title": "Anthropic says Claude AI models breached systems of 3 companies during cybersecurity tests",
-      "description": "[THE INDIAN EXPRESS] Anthropic, a leading AI lab, has discovered three separate incidents where its Claude AI models accidentally gained access to real-world computer systems during cybersecurity evaluations. The company has paused all cyber evaluations and is working...",
-      "url": "https://indianexpress.com/shorts/technology/artificial-intelligence/anthropic-claude-ai-breached-systems-cybersecurity-tests-10811428/",
-      "date": "2026-07-31T03:18:24Z"
+      "title": "Anthropic's AI hacked 3 firms during tests, showing growing security risks",
+      "description": "[RAPPLER] The latest disclosure underscores how AI has increased threats to cybersecurity and how its developers can struggle to keep the capabilities of their models contained",
+      "url": "https://www.rappler.com/technology/anthropics-ai-hacked-companies-tests-growing-security-risks/",
+      "date": "2026-07-31T06:05:20Z"
     },
     {
-      "title": "Anthropic says Claude AI models breached systems of 3 companies during cybersecurity tests",
-      "description": "[THE INDIAN EXPRESS] Anthropic's disclosure comes amid growing concerns over AI's increasingly advanced cybersecurity capabilities. The company said there was no evidence that the models intentionally tried to escape their test environment or pursue goals of their own.",
-      "url": "https://indianexpress.com/article/technology/artificial-intelligence/anthropic-claude-ai-breached-systems-cybersecurity-tests-10811428/",
-      "date": "2026-07-31T03:17:09Z"
+      "title": "Anthropics AI hacked three companies during tests, highlighting growing security risks",
+      "description": "[LIVEMINT] ANTHROPIC-CYBERSECURITY:Anthropic's AI hacked three companies during tests, highlighting growing security risks",
+      "url": "https://www.livemint.com/technology/anthropics-ai-hacked-three-companies-during-tests-highlighting-growing-security-risks-11785477849046.html",
+      "date": "2026-07-31T06:04:08Z"
     },
     {
-      "title": "Singapore retailer Love, Bonito warns customers of scam risks after data breach",
-      "description": "[SOUTH CHINA MORNING POST] Partial payment information may also have been affected, but full credit card details were not exposed, the company says.",
-      "url": "https://www.scmp.com/news/asia/southeast-asia/article/3362472/singapore-retailer-love-bonito-warns-customers-scam-risks-after-data-breach",
-      "date": "2026-07-31T03:03:02Z"
+      "title": "Nisarga claims login ID leak by CBSE vendor COEMPT, Sarthak joins in",
+      "description": "[INDIA TODAY] Cybersecurity researcher Nisarga has alleged that a repository linked to CBSE vendor COEMPT exposed plaintext login credentials. The posts have renewed questions over software security practices, though no CBSE system compromise has been established.",
+      "url": "https://www.indiatoday.in/education-today/news/story/cbse-vendor-coempt-nisarga-alleged-plaintext-credentials-repository-login-id-leak-2960366-2026-07-31",
+      "date": "2026-07-31T06:02:45Z"
     },
     {
-      "title": "After OpenAI, Anthropic Reveals Claude AI Hacked Three Companies During Cybersecurity Tests",
-      "description": "[TIMES NOW] Anthropic has reported that its Claude AI models unintentionally accessed the systems of three organizations during cybersecurity tests meant to be isolated., Technology & Science, Times Now",
-      "url": "https://www.timesnownews.com/technology-science/after-openai-anthropic-reveals-claude-ai-hacked-three-companies-during-cybersecurity-tests-article-155220930",
-      "date": "2026-07-31T02:27:45Z"
+      "title": "Anthropic\u2019s Claude Thought the Internet Was a Simulation. Three Real Organisations Were Compromised",
+      "description": "[REPUBLIC WORLD] Anthropic revealed its Claude chatbot mistakenly accessed real-world systems during cybersecurity testing, leading to breaches at three organisations. The incidents highlight risks of AI in security exercises and the need for stricter safeguards.",
+      "url": "https://www.republicworld.com/tech/anthropics-claude-thought-the-internet-was-a-simulation-three-real-organisations-were-compromised-2026-07-31-133756",
+      "date": "2026-07-31T05:34:58Z"
     },
     {
       "title": "ISC Stormcast For Friday, July 31st, 2026 https://isc.sans.edu/podcastdetail/10032, (Fri, Jul 31st)",
       "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
       "url": "https://isc.sans.edu/diary/rss/33204",
       "date": "2026-07-31T02:00:03Z"
-    },
-    {
-      "title": "Anthropic reveals AI models reached real companies during testing",
-      "description": "[FOX BUSINESS] Anthropic says three of its AI models gained unauthorized access to the systems of real organizations during cybersecurity testing, days after OpenAI disclosed a similar incident.",
-      "url": "https://www.foxbusiness.com/technology/anthropic-says-ai-models-accessed-systems-3-real-organizations-during-testing",
-      "date": "2026-07-31T01:54:39Z"
     },
     {
       "title": "Anthropic's Claude breached 3 orgs, uploaded PyPI malware during tests",
@@ -138,18 +156,6 @@
       "description": "[BLEEPINGCOMPUTER] South Korea's Personal Information Protection Commission (PIPC) has fined telecommunications giant KT Corporation KRW 53.979 billion ($39 million) over data protection violations. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/south-korea-fines-telco-giant-kt-39-million-for-customer-data-breach/",
       "date": "2026-07-30T22:28:30Z"
-    },
-    {
-      "title": "JetBrains warns of critical TeamCity remote code execution flaw",
-      "description": "[BLEEPINGCOMPUTER] JetBrains is warning of a critical authentication bypass vulnerability affecting TeamCity On-Premises that could be exploited to achieve remote code execution. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/jetbrains-warns-of-critical-teamcity-remote-code-execution-flaw/",
-      "date": "2026-07-30T22:01:31Z"
-    },
-    {
-      "title": "Amazon links Debug, Chalk NPM supply-chain attacks to North Korean hackers",
-      "description": "[BLEEPINGCOMPUTER] Amazon linked multiple high-profile open-source software supply chain attacks targeting the Node Package Manager (npm) ecosystem to North Korean hackers. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/amazon-links-debug-chalk-npm-supply-chain-attacks-to-north-korean-hackers/",
-      "date": "2026-07-30T18:13:24Z"
     },
     {
       "title": "American Being Prosecuted for Wiping His Phone Before Handing It Over to Border Officials",
@@ -198,12 +204,6 @@
       "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
       "url": "https://isc.sans.edu/diary/rss/33194",
       "date": "2026-07-29T02:00:02Z"
-    },
-    {
-      "title": "Measuring LLMs\u2019 Ability to Perform Cryptanalysis",
-      "description": "[SCHNEIER] There&#8217;s new benchmark measuring AI&#8217;s ability to perform mathematical cryptanalysis. Anthropic&#8217;s frontier model actually found new attacks. The benchmark: &#8220;CryptanalysisBench: Can LLMs do Cryptanalysis?&#8221; The idea is to...",
-      "url": "https://www.schneier.com/blog/archives/2026/07/measuring-llms-ability-to-perform-cryptanalysis.html",
-      "date": "2026-07-29T01:47:05Z"
     }
   ]
 }
