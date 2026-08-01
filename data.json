@@ -1,209 +1,137 @@
 {
-  "updated": "2026-08-01 11:10:14 UTC",
-  "news": [
-    {
-      "title": "Hackers Poison Adform Script to Swap Crypto Wallet Addresses Across Customer Sites",
-      "description": "[FEEDS] Attackers modified a JavaScript file served by advertising technology company Adform, turning it into a browser-side tool that rewrites cryptocurrency wallet addresses. Adform detected the incident on July 27, 2026, removed the malicious code,...",
-      "url": "https://thehackernews.com/2026/08/hackers-poison-adform-script-to-swap.html",
-      "date": "2026-08-01T09:03:07Z"
-    },
-    {
-      "title": "Phishing Campaigns Targeting AI Solutions Providers, (Sat, Aug 1st)",
-      "description": "[ISC] Most phishing campaigns rely on the fact that the victim is afraid to loose \"something\": money, access to information, ... Many brands have been impersonated by campaigns but I spotted some phishing emails that focus on AI services like ChatGPT.&#xd;",
-      "url": "https://isc.sans.edu/diary/rss/33206",
-      "date": "2026-08-01T07:22:32Z"
-    },
-    {
-      "title": "Adobe Campaign Classic CVSS 10.0 Flaw Could Run Code Without User Interaction",
-      "description": "[FEEDS] Adobe has released security updates to address a maximum-severity security flaw in Campaign Classic (ACC), its enterprise-focused marketing automation platform, that could result in arbitrary code execution. The vulnerability, tracked as...",
-      "url": "https://thehackernews.com/2026/08/adobe-campaign-classic-cvss-100-flaw.html",
-      "date": "2026-08-01T07:12:42Z"
-    },
-    {
-      "title": "Hijacked Hotel Wi-Fi Pushes Fake Updates to Deliver Surveillance Malware",
-      "description": "[FEEDS] A fake browser update served over hijacked hotel Wi-Fi has been used to deliver CornFlake, a remote access trojan (RAT) that can capture webcam images, microphone audio, and keystrokes, Microsoft said in its latest report. Researchers track the...",
-      "url": "https://thehackernews.com/2026/08/hijacked-hotel-wi-fi-pushes-fake.html",
-      "date": "2026-08-01T06:29:05Z"
-    },
-    {
-      "title": "Trump blames Minnesota water hacks on Walz, while evidence points to Iran",
-      "description": "[POLITICO] Federal agencies, including the FBI, EPA and CISA, have warned that attacks on U.S. water utilities first detected in Minnesota are expanding across states.",
-      "url": "https://www.politico.com/news/2026/07/31/trump-minnesota-water-hacks-iran-01021161",
-      "date": "2026-07-31T23:02:00Z"
-    },
-    {
-      "title": "Amgen says cloud data breach exposed patient health, proprietary info",
-      "description": "[BLEEPINGCOMPUTER] Pharmaceutical company Amgen says it suffered a data breach after threat actors stole corporate data and patient information stored in multiple cloud systems operated by third-party service providers. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/amgen-says-cloud-data-breach-exposed-patient-health-proprietary-info/",
-      "date": "2026-07-31T22:16:42Z"
-    },
-    {
-      "title": "Sixth Circuit to Rehear Case on FCC Data Breach Rules Case",
-      "description": "[EUROPE SAYS] WASHINGTON, July 31, 20256 \u2013 A full panel of federal judges will rehear a case that upheld expanded telecom data breach rules.",
-      "url": "https://www.europesays.com/3166148/",
-      "date": "2026-07-31T22:14:23Z"
-    },
-    {
-      "title": "Federal funding helps expand fighter pilot training at North Bay airport",
-      "description": "[BAYTODAY] The investment includes $1.5 million for ITTC's fighter pilot training operations and $1.2 million for a Muskoka company's cybersecurity technology",
-      "url": "https://www.baytoday.ca/local-business/federal-funding-helps-expand-fighter-pilot-training-at-north-bay-airport-12616594",
-      "date": "2026-07-31T22:02:00Z"
-    },
-    {
-      "title": "Arch Linux disables AUR package adoption to stop malware flood",
-      "description": "[BLEEPINGCOMPUTER] The Arch Linux project has temporarily disabled adoption of Arch User Repository (AUR) packages after a surge in malicious takeovers of existing packages. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/arch-linux-disables-aur-package-adoption-to-stop-malware-flood/",
-      "date": "2026-07-31T21:38:08Z"
-    },
-    {
-      "title": "Online ad firm Adform\u2019s script compromised to steal cryptocurrency",
-      "description": "[BLEEPINGCOMPUTER] Online advertising firm Adform suffered a supply-chain attack that delivered cryptocurrency-stealing scripts to websites using its ad platform, replacing wallet addresses copied to visitors' clipboards with ones controlled by an attacker. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/online-ad-firm-adforms-script-compromised-to-steal-cryptocurrency/",
-      "date": "2026-07-31T21:09:25Z"
-    },
-    {
-      "title": "Friday Squid Blogging: Squid Helps Discover New Marine Species",
-      "description": "[SCHNEIER] The Squid is a new scientific machine: One of the technological breakthroughs was the onboard use of a spinning wheel confocal microscope, nicknamed the Squid, which uses lasers to scan microscopic details of how organisms are put together....",
-      "url": "https://www.schneier.com/blog/archives/2026/07/friday-squid-blogging-squid-helps-discover-new-marine-species.html",
-      "date": "2026-07-31T21:06:46Z"
-    },
-    {
-      "title": "Amgen discloses data breach involving patient health information",
-      "description": "[REUTERS] Drugmaker Amgen said on Friday hackers stole company data and patient health information in a \u200bcybersecurity incident involving cloud storage systems run by third-party \u200cproviders, becoming the latest healthcare firm to disclose a breach.",
-      "url": "https://www.reuters.com/legal/government/amgen-discloses-data-breach-says-patient-information-was-stolen-2026-07-31/",
-      "date": "2026-07-31T20:13:06Z"
-    },
-    {
-      "title": "What Can an Attacker Find With an LLM? ISGroup Publishes a Large-Scale Study",
-      "description": "[THE MANILA TIMES] 1.24 billion tokens, 110 candidates manually reviewed, 29 confirmed vulnerabilities, 12 denial-of-service issues, and 42 hardening observations. The Italian cybersecurity company examines the costs, results, and limitations of using frontier models...",
-      "url": "https://www.manilatimes.net/2026/08/01/tmt-newswire/globenewswire/what-can-an-attacker-find-with-an-llm-isgroup-publishes-a-large-scale-study/2396164",
-      "date": "2026-07-31T20:07:38Z"
-    },
-    {
-      "title": "Second AI breach renews concerns over cybersecurity and model safety",
-      "description": "[BALTIMORE NEWS] Anthropic became the second major artificial intelligence developer in the last week to disclose that one of its AI models broke out of a testing environment an",
-      "url": "https://foxbaltimore.com/news/nation-world/second-ai-breach-renews-concerns-over-cybersecurity-and-model-safety-claude-mythos-fable-cybersecurity",
-      "date": "2026-07-31T19:49:07Z"
-    },
-    {
-      "title": "Second AI breach renews concerns over cybersecurity and model safety",
-      "description": "[WJLA] Anthropic became the second major artificial intelligence developer in the last week to disclose that one of its AI models broke out of a testing environment an",
-      "url": "https://wjla.com/news/nation-world/second-ai-breach-renews-concerns-over-cybersecurity-and-model-safety-claude-mythos-fable-cybersecurity",
-      "date": "2026-07-31T19:49:07Z"
-    },
-    {
-      "title": "US Is Banning Foreign Robots-Even Roombas",
-      "description": "[DECRYPT] New restrictions block future models of foreign-made robots and connected power inverters from receiving FCC approval after U.S. national security agencies warned they could pose cybersecurity and supply chain risks.",
-      "url": "https://decrypt.co/374799/fcc-bans-foreign-humanoid-robots-china-roombas",
-      "date": "2026-07-31T19:43:24Z"
-    },
-    {
-      "title": "Foreign robot ban targets China over security fears",
-      "description": "[FOX NEWS] The FCC added foreign-produced humanoid robots and connected power inverters to its Covered List, blocking new models from receiving FCC authorization over cybersecurity concerns.",
-      "url": "https://www.foxnews.com/tech/foreign-robot-ban-targets-china-security-fears",
-      "date": "2026-07-31T19:00:45Z"
-    },
-    {
-      "title": "OpenAI says its new GPT 5.6 models are becoming more cost-efficient",
-      "description": "[BLEEPINGCOMPUTER] OpenAI says it has reduced the price of two GPT-5.6 models, cutting Luna's API price by 80% and Terra's by 20% as it works to make its models more efficient. [...]",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-its-new-gpt-56-models-are-becoming-more-cost-efficient/",
-      "date": "2026-07-31T18:52:44Z"
-    },
-    {
-      "title": "Suspected Chinese-Speaking Hackers Target Central Asian Governments With OctLurk and SilkLurk",
-      "description": "[FEEDS] A Chinese-speaking threat actor is suspected to be behind a fresh wave of cyber attacks targeting government organizations mainly located in Central Asia, including Afghanistan, Kyrgyzstan, Tajikistan, Uzbekistan, Kazakhstan, and the Syrian Arab...",
-      "url": "https://thehackernews.com/2026/08/suspected-chinese-speaking-hackers.html",
-      "date": "2026-07-31T18:52:04Z"
-    },
-    {
-      "title": "Hacking Scandals Are the New Humblebrag for AI Labs",
-      "description": "[NEWSWEEK] AI hacking disclosures have fueled cybersecurity fears and calls for regulation. They're also the best marketing tool any lab could hope for.",
-      "url": "https://www.newsweek.com/ai-hacking-anthropic-openai-chatgpt-claude-humblebrag-cybersecurity-12271564",
-      "date": "2026-07-31T17:44:18Z"
-    },
-    {
-      "title": "Hacker uses DeepSeek AI to autonomously attack vulnerable servers",
-      "description": "[BLEEPINGCOMPUTER] A Chinese-speaking threat actor is using the DeepSeek AI model and the open-source Hermes Agent to conduct autonomous cyberattacks on exposed servers with limited human involvement. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/hacker-uses-deepseek-ai-to-autonomously-attack-vulnerable-servers/",
-      "date": "2026-07-31T17:35:35Z"
-    },
-    {
-      "title": "Anthropic\u2019s Opus 5 Is Better at Resisting Prompt Injection",
-      "description": "[SCHNEIER] The chart is interesting. On the IPI benchmark, Opus 5 improved over Opus 4.8, reducing the probability of an attacker succeeding within 15 attempts from 5.5% to 2.0%, and from 0.5% to 0.2% on 1 attempt. It also improved on Sonnet 5 (5.9% at k=15)...",
-      "url": "https://www.schneier.com/blog/archives/2026/07/anthropics-opus-5-is-better-at-resisting-prompt-injection.html",
-      "date": "2026-07-31T17:23:16Z"
-    },
-    {
-      "title": "CISA warns of cyberattacks disrupting U.S. water utilities",
-      "description": "[BLEEPINGCOMPUTER] The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning of a significant increase in attacks targeting internet-exposed programmable logic controllers (PLCs) in the water and wastewater systems sector. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-cyberattacks-disrupting-us-water-utilities/",
-      "date": "2026-07-31T16:49:49Z"
-    },
-    {
-      "title": "HollowFrame Loader Deploys Matryoshka Backdoor in Spear-Phishing Attack on Law Firm",
-      "description": "[FEEDS] Cybersecurity researchers have shed light on a previously undocumented Go-based loader framework called HollowFrame and a Rust-based malware family tracked as Matryoshka. According to Blackpoint Cyber, the intrusion sequence begins with a...",
-      "url": "https://thehackernews.com/2026/07/hollowframe-loader-deploys-matryoshka.html",
-      "date": "2026-07-31T16:39:31Z"
-    },
-    {
-      "title": "Cheap Android TV Boxes Pose as Phones and Turn Owners\u2019 Broadband Into Proxies",
-      "description": "[FEEDS] Bitsight says some cheap Android TV boxes have shipped with apps that rewrite their hardware identity to mimic Samsung, Huawei, Xiaomi, or Vivo phones, then click ads on websites run by the same operators. Researchers named the operation Fuyao and...",
-      "url": "https://thehackernews.com/2026/07/cheap-android-tv-boxes-pose-as-phones.html",
-      "date": "2026-07-31T14:45:01Z"
-    },
-    {
-      "title": "Facial Recognition at Madison Square Garden",
-      "description": "[SCHNEIER] Last month, the story broke (alternate link) that Madison Square Garden uses facial recognition software on everyone entering the facility, and&#8212;among other groups&#8212;flags activists that oppose using facial recognition. Turns out that the...",
-      "url": "https://www.schneier.com/blog/archives/2026/07/facial-recognition-at-madison-square-garden.html",
-      "date": "2026-07-31T11:08:44Z"
-    },
-    {
-      "title": "zipdump.py: Metadata Encoding, (Fri, Jul 31st)",
-      "description": "[ISC] I was asked for help with a problem similar to the following.&#xd;",
-      "url": "https://isc.sans.edu/diary/rss/33202",
-      "date": "2026-07-31T09:22:19Z"
-    },
-    {
-      "title": "ISC Stormcast For Friday, July 31st, 2026 https://isc.sans.edu/podcastdetail/10032, (Fri, Jul 31st)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33204",
-      "date": "2026-07-31T02:00:03Z"
-    },
-    {
-      "title": "American Being Prosecuted for Wiping His Phone Before Handing It Over to Border Officials",
-      "description": "[SCHNEIER] He&#8217;s being prosecuted for giving border officials a code that wiped his phone: The case centers on a feature included in GrapheneOS, a custom Android operating system that runs in place of the software on most modern Google Pixel devices....",
-      "url": "https://www.schneier.com/blog/archives/2026/07/american-being-prosecuted-for-wiping-his-phone-before-handing-it-over-to-border-officials.html",
-      "date": "2026-07-30T16:20:30Z"
-    },
-    {
-      "title": "Should You Use AI for a Task? Here\u2019s a Simple Way to Decide",
-      "description": "[SCHNEIER] This essay originally appeared in The Guardian. I teach public policy at the Harvard Kennedy School and the Munk School at the University of Toronto. And it will come as no surprise to you that my students regularly use AI to complete their writing...",
-      "url": "https://www.schneier.com/blog/archives/2026/07/should-you-use-ai-for-a-task-heres-a-simple-way-to-decide.html",
-      "date": "2026-07-30T11:01:32Z"
-    },
-    {
-      "title": "ISC Stormcast For Thursday, July 30th, 2026 https://isc.sans.edu/podcastdetail/10030, (Thu, Jul 30th)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33200",
-      "date": "2026-07-30T02:00:03Z"
-    },
-    {
-      "title": "Reconnaissance First: An SSH Bot That Sizes Up Your Hardware Before Deploying a Miner &#x5b;Guest Diary&#x5d;, (Thu, Jul 30th)",
-      "description": "[ISC] &#x5b;This is a Guest Diary by Adam Cann, an ISC intern as part of the SANS.edu BACS program&#x5d;&#xd;",
-      "url": "https://isc.sans.edu/diary/rss/33198",
-      "date": "2026-07-30T00:42:29Z"
-    },
-    {
-      "title": "Measuring the Tendency of AI Agents to Go Rogue",
-      "description": "[SCHNEIER] This essay was written with Barath Raghavan, and originally appeared in The Guardian. In July, Hugging Face, a company that hosts much of the world&#8217;s AI software and open-source AI models, was hacked. A malicious dataset had been used to run...",
-      "url": "https://www.schneier.com/blog/archives/2026/07/measuring-the-tendency-of-ai-agents-to-go-rogue.html",
-      "date": "2026-07-29T17:07:53Z"
-    },
-    {
-      "title": "Apple Patches Everything (July 2026), (Wed, Jul 29th)",
-      "description": "[ISC] I am a bit late with this summary, but this week Apple released updates to all its operating systems and Safari. The Safari update, as usual, targets macOS prior to macOS 26. macOS updates covered the two older versions (14 and 15), while other...",
-      "url": "https://isc.sans.edu/diary/rss/33196",
-      "date": "2026-07-29T07:32:37Z"
-    }
-  ]
+    "title": "Sentinel Protocol",
+    "tagline": "Perimeter Intelligence Sync",
+    "updated": "2026-08-01 12:00 UTC",
+    "news": [
+        {
+            "source": {
+                "id": null,
+                "name": "PRNewswire"
+            },
+            "author": null,
+            "title": "BorgWarner Appoints Rajesh Kalathur to its Board of Directors",
+            "description": "AUBURN HILLS, Mich., July 31, 2026 /PRNewswire/ -- BorgWarner Inc. (\"BorgWarner\") announced today that Rajesh Kalathur has been appointed to its Board of Directors. \"We are pleased to welcome Raj to BorgWarner's Board of Directors,\" said Alexis P. Michas, Non\u2026",
+            "url": "https://www.prnewswire.com/news-releases/borgwarner-appoints-rajesh-kalathur-to-its-board-of-directors-302839051.html",
+            "urlToImage": "https://mmx.prnewswire.com/media/MS1961384/Raj_Kalathur.jpg?id=OA2817172&p=facebook",
+            "publishedAt": "2026-07-31T12:00:00Z",
+            "content": "AUBURN HILLS, Mich., July 31, 2026 /PRNewswire/ --\u00a0BorgWarner Inc. (\"BorgWarner\") announced today that Rajesh Kalathur has been appointed to its Board of Directors.\r\n\"We are pleased to welcome Raj to\u2026 [+1451 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PRNewswire"
+            },
+            "author": null,
+            "title": "Armory Defense Launches Offensive Agentic-AI Simulations to Prove Exploitable Risk Before Attackers Strike",
+            "description": "New autonomous AI agents simulate real adversaries to validate and prove exploitable attack paths across the external attack surface - so security teams act on proven risk, not theoretical alerts TEL AVIV, Israel, July 31, 2026 /PRNewswire/ -- Armory Defense,\u2026",
+            "url": "https://www.prnewswire.com/news-releases/armory-defense-launches-offensive-agentic-ai-simulations-to-prove-exploitable-risk-before-attackers-strike-302839990.html",
+            "urlToImage": "https://mma.prnewswire.com/media/3008543/Armory_Defense_CEO_Alon_Aharon.jpg?p=facebook",
+            "publishedAt": "2026-07-31T12:00:00Z",
+            "content": "New autonomous AI agents simulate real adversaries to validate and prove exploitable attack paths across the external attack surface - so security teams act on proven risk, not theoretical alerts\r\nTE\u2026 [+3028 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "GlobeNewswire"
+            },
+            "author": "Jushi Holding",
+            "title": "Jushi Holdings Inc. Completes Redomicile from British Columbia to Nevada",
+            "description": "BOCA RATON, Fla., July 31, 2026 (GLOBE NEWSWIRE) -- Jushi Holdings Inc.\r\n (\u201cJushi\u201d or the \u201cCompany\u201d) (CSE: JUSH\r\n) (OTCQX: JUSH\r\n), a vertically integrated, multi-state cannabis operator, today announced the completion of its previously announced continuance \u2026",
+            "url": "https://www.globenewswire.com/news-release/2026/07/31/3336746/0/en/Jushi-Holdings-Inc-Completes-Redomicile-from-British-Columbia-to-Nevada.html",
+            "urlToImage": "https://ml.globenewswire.com/Resource/Download/e65f15fd-322c-4847-83c5-ceafe27f97d5",
+            "publishedAt": "2026-07-31T12:00:00Z",
+            "content": "BOCA RATON, Fla., July 31, 2026 (GLOBE NEWSWIRE) -- Jushi Holdings Inc.\r\n (Jushi or the Company) (CSE: JUSH\r\n) (OTCQX: JUSH\r\n), a vertically integrated, multi-state cannabis operator, today announced\u2026 [+8139 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "GlobeNewswire"
+            },
+            "author": "Mobilicom Limited",
+            "title": "Mobilicom to Report Financial and Operational Results for the Six Months Ended June 30, 2026, on Thursday, August 13, 2026",
+            "description": "Palo Alto, California, July 31, 2026 (GLOBE NEWSWIRE) -- Mobilicom Limited (Nasdaq: MOB, MOBBW) (\u201cMobilicom\u201d or the \u201cCompany\u201d), a provider of cybersecurity and robust solutions for drones and robotics, today announced that it will issue a press release with f\u2026",
+            "url": "https://www.globenewswire.com/news-release/2026/07/31/3336753/0/en/Mobilicom-to-Report-Financial-and-Operational-Results-for-the-Six-Months-Ended-June-30-2026-on-Thursday-August-13-2026.html",
+            "urlToImage": "https://ml.globenewswire.com/Resource/Download/4249ac32-092d-4551-b0ca-a21613f06e49",
+            "publishedAt": "2026-07-31T12:00:00Z",
+            "content": "Palo Alto, California, July 31, 2026 (GLOBE NEWSWIRE) -- Mobilicom Limited (Nasdaq: MOB, MOBBW) (Mobilicom or the Company), a provider of cybersecurity and robust solutions for drones and robotics, t\u2026 [+2821 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": "Joe Supan",
+            "title": "Bitwarden Review: The Best Free Password Manager for 2026",
+            "description": "You\u2019ll sacrifice some nice-to-have features by going with a free password manager, but Bitwarden doesn\u2019t skimp on the ones that matter.",
+            "url": "https://www.cnet.com/tech/services-and-software/bitwarden-review-the-best-free-password-manager-for-2026/",
+            "urlToImage": "https://www.cnet.com/wp-content/uploads/sites/2/2bca9c3b-e9af-4136-ae6d-d7c9d37aadcc.jpg",
+            "publishedAt": "2026-07-31T12:00:00Z",
+            "content": "Pros &amp; Cons\r\n<ul><li>\r\nWidest platform compatibility of any password manager</li><li>\r\nNo device limit on free plan</li><li>\r\n2FA via YubiKey and FIDO2</li><li>\r\nOpen-source code</li><li>\r\nSelf-h\u2026 [+15782 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": "Joe Supan",
+            "title": "Bitwarden Review: The Best Free Password Manager for 2026",
+            "description": "You\u2019ll sacrifice some nice-to-have features by going with a free password manager, but Bitwarden doesn\u2019t skimp on the ones that matter.",
+            "url": "https://www.cnet.com/tech/services-and-software/bitwarden-review-best-free-password-manager/",
+            "urlToImage": "https://www.cnet.com/wp-content/uploads/sites/2/2bca9c3b-e9af-4136-ae6d-d7c9d37aadcc.jpg",
+            "publishedAt": "2026-07-31T12:00:00Z",
+            "content": "Pros &amp; Cons\r\n<ul><li>\r\nWidest platform compatibility of any password manager</li><li>\r\nNo device limit on free plan</li><li>\r\n2FA via YubiKey and FIDO2</li><li>\r\nOpen-source code</li><li>\r\nSelf-h\u2026 [+15782 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Globalsecurity.org"
+            },
+            "author": "John Pike",
+            "title": "The DELTA combat system records more than 6,600 enemy targets hit every day",
+            "description": "The number of strikes on enemy targets confirmed in the DELTA combat system continues to grow. In June 2026 alone, troops logged more than 200,000 drone strikes in the system, an average of over 6,600 a day.",
+            "url": "https://www.globalsecurity.org/wmd/library/news/ukraine/2026/07/ukraine-260731-ukraine-mod03.htm",
+            "urlToImage": null,
+            "publishedAt": "2026-07-31T12:00:00Z",
+            "content": "Ministry of Defence of Ukraine\r\n31 July, 2026, 10:43 AM EEST\r\nThe number of strikes on enemy targets confirmed in the DELTA combat system continues to grow. In June 2026 alone, troops logged more tha\u2026 [+3147 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Globalsecurity.org"
+            },
+            "author": "John Pike",
+            "title": "U.S. congresswoman urges Taiwan to promptly pass drone procurement bill",
+            "description": "Visiting U.S. Representative Young Kim on Friday urged Taiwan's Legislature to swiftly pass a bill funding the procurement of domestically produced drones needed to help defend the country against security threats posed by China.",
+            "url": "https://www.globalsecurity.org/wmd/library/news/taiwan/2026/taiwan-260731-cna01.htm",
+            "urlToImage": null,
+            "publishedAt": "2026-07-31T12:00:00Z",
+            "content": "ROC Central News Agency\r\n07/31/2026 07:05 PM\r\nTaipei, July 31 (CNA) Visiting U.S. Representative Young Kim on Friday urged Taiwan's Legislature to swiftly pass a bill funding the procurement of domes\u2026 [+3311 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Globalsecurity.org"
+            },
+            "author": "John Pike",
+            "title": "Meeting with Russian Railways CEO Oleg Belozerov",
+            "description": "CEO and Chairman of the Management Board of Russian Railways Oleg Belozerov briefed the President on the company's performance during the first half of the year.",
+            "url": "https://www.globalsecurity.org/wmd/library/news/russia/2026/07/russia-260731-kremlin01.htm",
+            "urlToImage": null,
+            "publishedAt": "2026-07-31T12:00:00Z",
+            "content": "CEO and Chairman of the Management Board of Russian Railways Oleg Belozerov briefed the President on the company's performance during the first half of the year.\r\nJuly 31, 202613:25The Kremlin, Mosco\u2026 [+10186 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PRNewswire"
+            },
+            "author": null,
+            "title": "360 ADVANCED HELPS BENTEK\u00ae UNIFY SOC 2\u00ae, HIPAA AND GOVRAMP\u2122 COMPLIANCE INTO ONE COORDINATED PROGRAM",
+            "description": "ST. PETERSBURG, Fla., July 31, 2026 /PRNewswire/ -- 360 Advanced, Inc., a national provider of cybersecurity and compliance services, today announced the completion of a coordinated SOC 2 Type 2 examination, HIPAA assessment, and penetration testing engagemen\u2026",
+            "url": "https://www.prnewswire.com/news-releases/360-advanced-helps-bentek-unify-soc-2-hipaa-and-govramp-compliance-into-one-coordinated-program-302839471.html",
+            "urlToImage": "https://mmx.prnewswire.com/media/MS1702272/360-Advanced-Logo-Horizontal-Circle-Light-Blue-Logo-Logo.jpg?id=OA2817251&p=facebook",
+            "publishedAt": "2026-07-31T12:00:00Z",
+            "content": "ST. PETERSBURG, Fla., July 31, 2026 /PRNewswire/ -- 360 Advanced, Inc., a national provider of cybersecurity and compliance services, today announced the completion of a coordinated SOC 2 Type 2 exam\u2026 [+4185 chars]"
+        }
+    ]
 }
