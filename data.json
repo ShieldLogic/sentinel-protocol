@@ -1,6 +1,12 @@
 {
-  "updated": "2026-08-01 12:56:35 UTC",
+  "updated": "2026-08-01 14:51:16 UTC",
   "news": [
+    {
+      "title": "Rails patches critical Active Storage flaw with RCE potential",
+      "description": "[BLEEPINGCOMPUTER] A critical vulnerability in the Active Storage framework can allow an unauthenticated attacker to read arbitrary files from a Rails application, and potentially escalate to remote code execution (RCE). [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/rails-patches-critical-active-storage-flaw-with-rce-potential/",
+      "date": "2026-08-01T14:20:30Z"
+    },
     {
       "title": "Hackers Poison Adform Script to Swap Crypto Wallet Addresses Across Customer Sites",
       "description": "[FEEDS] Attackers modified a JavaScript file served by advertising technology company Adform, turning it into a browser-side tool that rewrites cryptocurrency wallet addresses. Adform detected the incident on July 27, 2026, removed the malicious code,...",
@@ -132,12 +138,6 @@
       "description": "[SCHNEIER] The chart is interesting. On the IPI benchmark, Opus 5 improved over Opus 4.8, reducing the probability of an attacker succeeding within 15 attempts from 5.5% to 2.0%, and from 0.5% to 0.2% on 1 attempt. It also improved on Sonnet 5 (5.9% at k=15)...",
       "url": "https://www.schneier.com/blog/archives/2026/07/anthropics-opus-5-is-better-at-resisting-prompt-injection.html",
       "date": "2026-07-31T17:23:16Z"
-    },
-    {
-      "title": "CISA warns of cyberattacks disrupting U.S. water utilities",
-      "description": "[BLEEPINGCOMPUTER] The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning of a significant increase in attacks targeting internet-exposed programmable logic controllers (PLCs) in the water and wastewater systems sector. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-cyberattacks-disrupting-us-water-utilities/",
-      "date": "2026-07-31T16:49:49Z"
     },
     {
       "title": "HollowFrame Loader Deploys Matryoshka Backdoor in Spear-Phishing Attack on Law Firm",
