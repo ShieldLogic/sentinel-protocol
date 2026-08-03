@@ -1,6 +1,18 @@
 {
-  "updated": "2026-08-03 19:18:47 UTC",
+  "updated": "2026-08-03 20:54:34 UTC",
   "news": [
+    {
+      "title": "New DOUBLECUP ClickFix service hides malware in browser cache images",
+      "description": "[BLEEPINGCOMPUTER] A new Russian loader-as-a-service named DOUBLECUP uses ClickFix attacks to hide malicious code in PNG images cached by victims' browsers, ultimately delivering CountLoader to Windows and macOS devices and a new remote access trojan named...",
+      "url": "https://www.bleepingcomputer.com/news/security/new-doublecup-clickfix-service-hides-malware-in-browser-cache-images/",
+      "date": "2026-08-03T20:01:22Z"
+    },
+    {
+      "title": "Fake Roblox Xeno script launcher pushes infostealer, RAT malware",
+      "description": "[BLEEPINGCOMPUTER] Fake Xeno Executor installers are infecting unsuspecting Roblox players with malware that provides remote access and steals sensitive information. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/fake-roblox-xeno-script-launcher-pushes-infostealer-rat-malware/",
+      "date": "2026-08-03T19:25:10Z"
+    },
     {
       "title": "18 Malicious npm Packages Deliver Cross-Platform RAT to Alibaba Tool Users",
       "description": "[FEEDS] Cybersecurity researchers have discovered a new set of malicious npm packages that target users of Alibaba developer tools with a cross-platform remote access trojan (RAT) as part of a sophisticated, targeted software supply chain attack targeting...",
@@ -68,6 +80,12 @@
       "date": "2026-08-03T10:47:47Z"
     },
     {
+      "title": "A security flaw in widely used crime lab equipment exposed digital DNA evidence to undetectable tampering.",
+      "description": "[THE VERGE] Using Antrophic\u2019s Claude to exploit a security flaw that\u2019s existed for decades, researchers successfully added and removed DNA profiles from files, meaning bad actors could theoretically frame an innocent person or erase a suspect. Equipment...",
+      "url": "https://www.theverge.com/science/974287/a-security-flaw-in-widely-used-crime-lab-equipment-exposed-digital-dna-evidence-to-undetectable-tampering",
+      "date": "2026-08-03T07:28:32Z"
+    },
+    {
       "title": "India's average data breach cost rises to record \u20b925.5 crore in 2026: IBM report",
       "description": "[THE HINDU BUSINESS LINE] India's data breach costs soar to \u20b925.5 crore in 2026, driven by AI incidents and increasing cyber threats, says IBM report.",
       "url": "https://www.thehindubusinessline.com/info-tech/indias-average-data-breach-cost-rises-to-record-255-crore-in-2026-ibm-report/article71300037.ece",
@@ -122,12 +140,6 @@
       "date": "2026-08-03T05:48:31Z"
     },
     {
-      "title": "India's average data breach cost rises to record Rs 25.5 crore in 2026: IBM report",
-      "description": "[ANI (ASIAN NEWS INTERNATIONAL)] The average cost of a data breach in India rose to a record Rs 25.5 crore in 2026, marking a 15.9 per cent increase from Rs 22 crore last year, according to IBM's 2026 Cost of a Data Breach Report released on Monday.",
-      "url": "https://www.aninews.in/news/business/indias-average-data-breach-cost-rises-to-record-rs-255-crore-in-2026-ibm-report20260803111806/",
-      "date": "2026-08-03T05:48:06Z"
-    },
-    {
       "title": "ISC Stormcast For Monday, August 3rd, 2026 https://isc.sans.edu/podcastdetail/10034, (Mon, Aug 3rd)",
       "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
       "url": "https://isc.sans.edu/diary/rss/33210",
@@ -138,18 +150,6 @@
       "description": "[BLEEPINGCOMPUTER] OpenAI has revealed Astra, an unreleased model designed to tackle complex, long-running tasks, after an internal version produced ten significant advances in mathematics and theoretical computer science. [...]",
       "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-teases-astra-its-next-major-ai-model-after-it-solves-10-long-standing-math-problems/",
       "date": "2026-08-02T22:31:41Z"
-    },
-    {
-      "title": "COLDCARD wallet RNG flaw likely linked to $88 million Bitcoin theft",
-      "description": "[BLEEPINGCOMPUTER] A vulnerability in COLDCARD hardware wallet firmware allowed attackers to steal an estimated $88.6 million in Bitcoin from thousands of wallets whose seeds were generated using a flawed random number generator. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/coldcard-wallet-rng-flaw-likely-linked-to-88-million-bitcoin-theft/",
-      "date": "2026-08-02T21:14:29Z"
-    },
-    {
-      "title": "Google Chrome may soon block New Tab hijacker extensions by default",
-      "description": "[BLEEPINGCOMPUTER] Google is preparing a new Chrome security feature that would block policy-installed extensions from hijacking the New Tab page or changing the default search engine. [...]",
-      "url": "https://www.bleepingcomputer.com/news/google/google-chrome-may-soon-block-new-tab-hijacker-extensions-by-default/",
-      "date": "2026-08-02T14:17:16Z"
     },
     {
       "title": "Atomic MacOS (AMOS) stealer infection, (Sun, Aug 2nd)",
