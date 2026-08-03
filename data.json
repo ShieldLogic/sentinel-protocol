@@ -1,6 +1,36 @@
 {
-  "updated": "2026-08-03 16:13:39 UTC",
+  "updated": "2026-08-03 19:18:47 UTC",
   "news": [
+    {
+      "title": "18 Malicious npm Packages Deliver Cross-Platform RAT to Alibaba Tool Users",
+      "description": "[FEEDS] Cybersecurity researchers have discovered a new set of malicious npm packages that target users of Alibaba developer tools with a cross-platform remote access trojan (RAT) as part of a sophisticated, targeted software supply chain attack targeting...",
+      "url": "https://thehackernews.com/2026/08/18-malicious-npm-packages-deliver-cross.html",
+      "date": "2026-08-03T18:43:53Z"
+    },
+    {
+      "title": "More on the OpenAI Agent\u2019s Attack on Hugging Face",
+      "description": "[SCHNEIER] Hugging Face has published a detailed timeline of the attack. From the summary: The agent was running an internal OpenAI cyber-capability evaluation based on the ExploitGym benchmark, which tasks an AI agent with finding and exploiting software...",
+      "url": "https://www.schneier.com/blog/archives/2026/08/more-on-the-openai-agents-attack-on-hugging-face.html",
+      "date": "2026-08-03T17:02:46Z"
+    },
+    {
+      "title": "N-able warns of N-central auth bypass flaw exploited in attacks",
+      "description": "[BLEEPINGCOMPUTER] N-able is warning customers that hackers are exploiting an authentication bypass vulnerability (CVE-2026-18577) affecting both hosted and on-premises N-central servers. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/n-able-warns-of-n-central-auth-bypass-flaw-exploited-in-attacks/",
+      "date": "2026-08-03T17:00:56Z"
+    },
+    {
+      "title": "Google Password Manager Attacks Could Let Malware Hijack Passkey-Protected Accounts",
+      "description": "[FEEDS] Malware running as an ordinary user on a Windows machine can sign into a victim's passkey-protected accounts without a fingerprint, a PIN, or anything at all appearing on the victim's screen. Unit 42 detailed three attack paths against Chrome's...",
+      "url": "https://thehackernews.com/2026/08/google-password-manager-attacks-could.html",
+      "date": "2026-08-03T16:24:47Z"
+    },
+    {
+      "title": "INC Ransomware Emerges as Dominant Actor Exploiting SonicWall SMA 1000 Flaws",
+      "description": "[FEEDS] The INC Ransomware operation has emerged as the \"dominant threat actor\" exploiting the recently disclosed security flaws in SonicWall Secure Mobile Access (SMA) 1000 series VPN appliances. In a report published over the weekend, Resecurity said it...",
+      "url": "https://thehackernews.com/2026/08/inc-ransomware-emerges-as-dominant.html",
+      "date": "2026-08-03T16:15:13Z"
+    },
     {
       "title": "ExfilSquad hackers leak info of over 100,000 UK police officers, staff",
       "description": "[BLEEPINGCOMPUTER] A cyberattack on the U.K.'s Police National Legal Database (PNLD) has compromised contact data of more than 100,000 police officers and other criminal justice professionals. [...]",
@@ -27,7 +57,7 @@
     },
     {
       "title": "Chinese Threat Actor Uses Leaked DarkSword Kit to Deploy GHOSTBLADE on iOS",
-      "description": "[FEEDS] An unknown Chinese-threat actor has been observed running a campaign targeting Apple iOS devices by leveraging a publicly leaked version of the DarkSword exploit kit. Attack surface management platform Censys said it identified the threat actor...",
+      "description": "[FEEDS] An unknown Chinese-speaking threat actor has been observed running a campaign targeting Apple iOS devices by leveraging a publicly leaked version of the DarkSword exploit kit. Attack surface management platform Censys said it identified the threat...",
       "url": "https://thehackernews.com/2026/08/chinese-threat-actor-uses-leaked.html",
       "date": "2026-08-03T10:49:06Z"
     },
@@ -38,40 +68,70 @@
       "date": "2026-08-03T10:47:47Z"
     },
     {
-      "title": "PNLD Breach Exposes U.K. Police and Government Contact Details on Dark Web",
-      "description": "[FEEDS] The Police National Legal Database (PNLD) has confirmed that police, government and customer contact information was compromised and published on the dark web. The data included names, organisations and work email addresses belonging to police...",
-      "url": "https://thehackernews.com/2026/08/pnld-breach-exposes-uk-police-and.html",
-      "date": "2026-08-03T09:13:56Z"
+      "title": "India's average data breach cost rises to record \u20b925.5 crore in 2026: IBM report",
+      "description": "[THE HINDU BUSINESS LINE] India's data breach costs soar to \u20b925.5 crore in 2026, driven by AI incidents and increasing cyber threats, says IBM report.",
+      "url": "https://www.thehindubusinessline.com/info-tech/indias-average-data-breach-cost-rises-to-record-255-crore-in-2026-ibm-report/article71300037.ece",
+      "date": "2026-08-03T06:50:25Z"
     },
     {
-      "title": "Thermo Fisher Patches Flaw That Could Make DNA File Tampering Nearly Undetectable",
-      "description": "[FEEDS] Thermo Fisher Scientific has patched a flaw in select Applied Biosystems human identification software that could allow data files to be altered before analysis software loads them. The vendor's July 31 security bulletin says nearly undetectable...",
-      "url": "https://thehackernews.com/2026/08/thermo-fisher-patches-flaw-that-could.html",
-      "date": "2026-08-03T08:05:30Z"
+      "title": "Average cost of data breach in India hits record Rs 25 crore: Report",
+      "description": "[LOKMAT TIMES] Average cost of data breach in India hits record Rs 25 crore: Report - New Delhi, Aug 3 The average total organisational cost of a data breach in India reached an all\u2011time ... Get Latest News on Technology only on lokmattimes.com",
+      "url": "https://www.lokmattimes.com/technology/average-cost-of-data-breach-in-india-hits-record-rs-25-crore-report-1/",
+      "date": "2026-08-03T06:25:46Z"
     },
     {
-      "title": "N-able Says Attackers Take Over N-central Servers After Initial Fix Proves Incomplete",
-      "description": "[FEEDS] N-able said attackers exploited an authentication bypass in N-central to gain remote administrative access and reach the customer systems managed through those servers. Its first fix was incomplete. CVE-2026-18577 affects N-central builds prior to...",
-      "url": "https://thehackernews.com/2026/08/n-able-says-attackers-take-over-n.html",
-      "date": "2026-08-03T06:41:46Z"
+      "title": "Average cost of data breach in India hits record Rs 25 crore: Report",
+      "description": "[LOKMAT TIMES] Average cost of data breach in India hits record Rs 25 crore: Report - New Delhi, Aug 3 The average total organisational cost of a data breach in India reached an all\u2011time ... Get Latest News on Business only on lokmattimes.com",
+      "url": "https://www.lokmattimes.com/business/average-cost-of-data-breach-in-india-hits-record-rs-25-crore-report/",
+      "date": "2026-08-03T06:25:46Z"
     },
     {
-      "title": "Blue Cloud Softech signs MoU with Liberia for digital infrastructure",
-      "description": "[SCANX.TRADE] Blue Cloud Softech Solutions Ltd signed a non-binding MoU with the Government of Liberia and GCIB Africa for the National Digital Infrastructure Project. The deal involves a PPP model for sovereign cloud and cybersecurity, marking the firm's third...",
-      "url": "https://scanx.trade/stock-market-news/companies/blue-cloud-softech-signs-mou-with-liberia-for-digital-infrastructure/47273554",
-      "date": "2026-08-03T03:32:50Z"
+      "title": "AI shrinks vulnerability exploitation window to one day, raises cyber risks: J.P. Morgan",
+      "description": "[LIVEMINT] Advances in artificial intelligence are dramatically reshaping the cybersecurity landscape by enabling faster discovery and exploitation of software vulnerabilities, while organisations continue to struggle to patch them in time, according to a...",
+      "url": "https://www.livemint.com/technology/ai-shrinks-vulnerability-exploitation-window-to-one-day-raises-cyber-risks-j-p-morgan-11785738239894.html",
+      "date": "2026-08-03T06:23:59Z"
+    },
+    {
+      "title": "AI shrinks vulnerability exploitation window to one day, raises cyber risks: J.P. Morgan",
+      "description": "[DEVDISCOURSE] Advances in artificial intelligence are dramatically reshaping the cybersecurity landscape by enabling faster discovery and exploitation of software vulnerabilities, while organisations continue to struggle to patch them in time, according to a...",
+      "url": "https://www.devdiscourse.com/article/business/3958719-ai-shrinks-vulnerability-exploitation-window-to-one-day-raises-cyber-risks-jp-morgan",
+      "date": "2026-08-03T06:23:34Z"
+    },
+    {
+      "title": "AI shrinks vulnerability exploitation window to one day, raises cyber risks: J.P. Morgan",
+      "description": "[THE TRIBUNE] Advances in artificial intelligence are dramatically reshaping the cybersecurity landscape by enabling faster discovery and exploitation of software vulnerabilities, while organisations continue to struggle to patch them in time, according to a...",
+      "url": "https://www.tribuneindia.com/news/business/ai-shrinks-vulnerability-exploitation-window-to-one-day-raises-cyber-risks-j-p-morgan/",
+      "date": "2026-08-03T06:23:22Z"
+    },
+    {
+      "title": "AI shrinks vulnerability exploitation window to one day, raises cyber risks: J.P. Morgan",
+      "description": "[ANI (ASIAN NEWS INTERNATIONAL)] Advances in artificial intelligence are dramatically reshaping the cybersecurity landscape by enabling faster discovery and exploitation of software vulnerabilities, while organisations continue to struggle to patch them in time, according to a...",
+      "url": "https://www.aninews.in/news/business/ai-shrinks-vulnerability-exploitation-window-to-one-day-raises-cyber-risks-jp-morgan20260803114822/",
+      "date": "2026-08-03T06:18:22Z"
+    },
+    {
+      "title": "India's average data breach cost rises to record Rs 25.5 crore in 2026: IBM report",
+      "description": "[DEVDISCOURSE] The average cost of a data breach in India rose to a record Rs 25.5 crore in 2026, marking a 15.9 per cent increase from Rs 22 crore last year, according to IBM's 2026 Cost of a Data Breach Report released on Monday.",
+      "url": "https://www.devdiscourse.com/article/business/3958706-indias-average-data-breach-cost-rises-to-record-rs-255-crore-in-2026-ibm-report",
+      "date": "2026-08-03T05:53:19Z"
+    },
+    {
+      "title": "India's average data breach cost rises to record Rs 25.5 crore in 2026: IBM report",
+      "description": "[THE TRIBUNE] The average cost of a data breach in India rose to a record Rs 25.5 crore in 2026, marking a 15.9 per cent increase from Rs 22 crore last year, according to IBM's 2026 Cost of a Data Breach Report released on Monday.",
+      "url": "https://www.tribuneindia.com/news/business/indias-average-data-breach-cost-rises-to-record-rs-25-5-crore-in-2026-ibm-report/",
+      "date": "2026-08-03T05:48:31Z"
+    },
+    {
+      "title": "India's average data breach cost rises to record Rs 25.5 crore in 2026: IBM report",
+      "description": "[ANI (ASIAN NEWS INTERNATIONAL)] The average cost of a data breach in India rose to a record Rs 25.5 crore in 2026, marking a 15.9 per cent increase from Rs 22 crore last year, according to IBM's 2026 Cost of a Data Breach Report released on Monday.",
+      "url": "https://www.aninews.in/news/business/indias-average-data-breach-cost-rises-to-record-rs-255-crore-in-2026-ibm-report20260803111806/",
+      "date": "2026-08-03T05:48:06Z"
     },
     {
       "title": "ISC Stormcast For Monday, August 3rd, 2026 https://isc.sans.edu/podcastdetail/10034, (Mon, Aug 3rd)",
       "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
       "url": "https://isc.sans.edu/diary/rss/33210",
       "date": "2026-08-03T02:00:02Z"
-    },
-    {
-      "title": "India records over 265 million cyberattack attempts: Report",
-      "description": "[THE HITAVADA] india\u2019s rapidly expanding digital ecosystem is facing an increasingly sophisticated wave of cyber threats, with more than 265 million cyberattack attempts and 369 million malware detections recorded during the assessment period, a new report said on...",
-      "url": "https://www.thehitavada.com/Encyc/2026/8/3/india-records-over-265-million-cyberattack-attempts-report.html",
-      "date": "2026-08-03T00:00:00Z"
     },
     {
       "title": "OpenAI teases Astra, its next major AI model, after it solves 10 long-standing math problems",
@@ -86,70 +146,16 @@
       "date": "2026-08-02T21:14:29Z"
     },
     {
-      "title": "How China keeps tabs on foreigners",
-      "description": "[THE BOSTON GLOBE] Most days, Marc Hofer, a cybersecurity researcher and journalist based in Amsterdam, trawls the internet for clues about how China surveils its citizens, a subject that has fascinated him since he worked there as a foreign correspondent.",
-      "url": "https://www.bostonglobe.com/2026/08/02/world/how-china-keeps-tabs-foreigners/",
-      "date": "2026-08-02T20:44:39Z"
-    },
-    {
-      "title": "Patient med records leaked, pvt hosp files complaint",
-      "description": "[TIMES OF INDIA] Corporate hospital reports data breach to TG Cyber Security Bureau after patient and staff records surfaced on a portal; WhatsApp shared login details; probe sought.",
-      "url": "https://timesofindia.indiatimes.com/city/hyderabad/patient-med-records-leaked-pvt-hosp-files-complaint/articleshow/132813531.cms",
-      "date": "2026-08-02T19:40:00Z"
-    },
-    {
-      "title": "Fake ShinyHunters sextortion email uses Carnival breach data",
-      "description": "[FOX NEWS] A fake ShinyHunters sextortion email targets Carnival breach victims with blackmail demands. The phishing scam uses real data breach details but offers no proof of device access.",
-      "url": "https://www.foxnews.com/tech/fake-shinyhunters-sextortion-email-uses-carnival-breach-data",
-      "date": "2026-08-02T18:20:10Z"
-    },
-    {
-      "title": "Baltics transform from Soviet stagnation to startup hubs",
-      "description": "[THE MANILA TIMES] VILNIUS, Lithuania \u2014 Stepping into the newly renovated Vilnius airport, visitors are greeted with a slew of billboards advertising products \u201cMade in Lithuania,\u201d including cybersecurity giant NordVPN.",
-      "url": "https://www.manilatimes.net/2026/08/03/business/foreign-business/baltics-transform-from-soviet-stagnation-to-startup-hubs/2396555",
-      "date": "2026-08-02T16:03:00Z"
-    },
-    {
-      "title": "Cyber Stocks Jump as CrowdStrike, Palo Alto Networks Ride AI Agent Hack Fears",
-      "description": "[BENZINGA] Top cybersecurity stocks have rallied this year as concerns about the new phase of hacking in the AI era.",
-      "url": "https://www.benzinga.com/markets/equities/26/08/60862042/cyber-stocks-jump-as-crowdstrike-palo-alto-networks-ride-ai-agent-hack-fears",
-      "date": "2026-08-02T15:30:27Z"
-    },
-    {
       "title": "Google Chrome may soon block New Tab hijacker extensions by default",
       "description": "[BLEEPINGCOMPUTER] Google is preparing a new Chrome security feature that would block policy-installed extensions from hijacking the New Tab page or changing the default search engine. [...]",
       "url": "https://www.bleepingcomputer.com/news/google/google-chrome-may-soon-block-new-tab-hijacker-extensions-by-default/",
       "date": "2026-08-02T14:17:16Z"
     },
     {
-      "title": "Anthropic Says Claude Breached Three Real Companies During Safety Test",
-      "description": "[FORBES] Anthropic's Claude AI models breached three companies' live systems during cybersecurity tests, with the victims unaware until Anthropic disclosed it.",
-      "url": "https://www.forbes.com/sites/jonmarkman/2026/08/02/anthropic-says-claude-breached-three-real-companies-during-safety-test/",
-      "date": "2026-08-02T14:04:24Z"
-    },
-    {
-      "title": "Drugmaker Amgen discloses data breach involving patient health information",
-      "description": "[THE ECONOMIC TIMES] On July 29, Amgen determined the incident \u200cwas material, based \u2060on \u2060its evaluation of how many files appeared to be affected and \u200bthe possibility that the information in those files could be sensitive, it \u200bsaid in a regulatory filing.",
-      "url": "https://economictimes.indiatimes.com/tech/technology/drugmaker-amgen-discloses-data-breach-involving-patient-health-information/articleshow/132807878.cms",
-      "date": "2026-08-02T13:48:17Z"
-    },
-    {
-      "title": "detection startup Spur nabs $200M from Insight",
-      "description": "[EUROPE SAYS] Spur Intelligence, a cybersecurity startup based in Lake Mary, Florida, has raised a $200 million round led by Insight Partners.",
-      "url": "https://www.europesays.com/3169255/",
-      "date": "2026-08-02T09:01:54Z"
-    },
-    {
       "title": "Atomic MacOS (AMOS) stealer infection, (Sun, Aug 2nd)",
       "description": "[ISC] Introduction&#xd;",
       "url": "https://isc.sans.edu/diary/rss/33208",
       "date": "2026-08-02T04:05:08Z"
-    },
-    {
-      "title": "Rails patches critical Active Storage flaw with RCE potential",
-      "description": "[BLEEPINGCOMPUTER] A critical vulnerability in the Active Storage framework can allow an unauthenticated attacker to read arbitrary files from a Rails application, and potentially escalate to remote code execution (RCE). [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/rails-patches-critical-active-storage-flaw-with-rce-potential/",
-      "date": "2026-08-01T14:20:30Z"
     },
     {
       "title": "Phishing Campaigns Targeting AI Solutions Providers, (Sat, Aug 1st)",
@@ -192,12 +198,6 @@
       "description": "[SCHNEIER] He&#8217;s being prosecuted for giving border officials a code that wiped his phone: The case centers on a feature included in GrapheneOS, a custom Android operating system that runs in place of the software on most modern Google Pixel devices....",
       "url": "https://www.schneier.com/blog/archives/2026/07/american-being-prosecuted-for-wiping-his-phone-before-handing-it-over-to-border-officials.html",
       "date": "2026-07-30T16:20:30Z"
-    },
-    {
-      "title": "Should You Use AI for a Task? Here\u2019s a Simple Way to Decide",
-      "description": "[SCHNEIER] This essay originally appeared in The Guardian. I teach public policy at the Harvard Kennedy School and the Munk School at the University of Toronto. And it will come as no surprise to you that my students regularly use AI to complete their writing...",
-      "url": "https://www.schneier.com/blog/archives/2026/07/should-you-use-ai-for-a-task-heres-a-simple-way-to-decide.html",
-      "date": "2026-07-30T11:01:32Z"
     },
     {
       "title": "ISC Stormcast For Thursday, July 30th, 2026 https://isc.sans.edu/podcastdetail/10030, (Thu, Jul 30th)",
