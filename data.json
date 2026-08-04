@@ -1,6 +1,24 @@
 {
-  "updated": "2026-08-04 08:20:26 UTC",
+  "updated": "2026-08-04 11:55:38 UTC",
   "news": [
+    {
+      "title": "New cPanel Critical Flaw Could Let Hosting Customers Run SQL as Database Root",
+      "description": "[FEEDS] cPanel has patched a flaw that let an authenticated hosting customer execute SQL in the database's root context, crossing the privilege boundary between a cPanel account and the server's administrative database identity. It shipped in a targeted...",
+      "url": "https://thehackernews.com/2026/08/new-cpanel-critical-flaw-could-let.html",
+      "date": "2026-08-04T10:36:27Z"
+    },
+    {
+      "title": "Some Claude Chats Are Searchable on Google",
+      "description": "[SCHNEIER] And it&#8217;s personal information (alternate link): The exposed data includes an AI-powered therapy app that someone appears to have vibe-coded, notes on meetings, and a dashboard someone made apparently to analyze medical billing data. Exposed...",
+      "url": "https://www.schneier.com/blog/archives/2026/08/some-claude-chats-are-searchable-on-google.html",
+      "date": "2026-08-04T10:13:58Z"
+    },
+    {
+      "title": "DOUBLECUP Uses ClickFix and Cached PNGs to Deliver CountLoader and DeviceManager RAT",
+      "description": "[FEEDS] A new Russian loader-as-a-service (LaaS) codenamed DOUBLECUP has been using ClickFix lures as a way to stage malware-laced PNG images in victims' browser cache and ultimately deliver CountLoader and a previously undocumented remote access trojan...",
+      "url": "https://thehackernews.com/2026/08/doublecup-uses-clickfix-and-cached-pngs.html",
+      "date": "2026-08-04T09:03:23Z"
+    },
     {
       "title": "CISA Adds Exploited N-able N-central Flaw to KEV After Customer Compromises",
       "description": "[FEEDS] The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a high-severity security flaw impacting N-able N-central to its Known Exploited Vulnerabilities (KEV) catalog following reports of active exploitation in the wild. The...",
@@ -24,6 +42,12 @@
       "description": "[BLEEPINGCOMPUTER] Security researchers have discovered three attacks that allow malware on already-compromised Windows devices to abuse Google Password Manager's synced passkeys to take over accounts, bypass user verification, and extract passkey private keys. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/new-pass-ta-key-attacks-let-malware-hijack-google-synced-passkeys/",
       "date": "2026-08-03T23:58:01Z"
+    },
+    {
+      "title": "UK data watchdog monitors rogue AI agents after multiple hacking incidents",
+      "description": "[LBC] Anthropic said some versions of its Claude model had hacked into the systems of three companies during cybersecurity testing.",
+      "url": "https://www.lbc.co.uk/article/data-watchdog-monitors-rogue-ai-agents-5HjdfZ7_2/",
+      "date": "2026-08-03T22:59:59Z"
     },
     {
       "title": "New DOUBLECUP ClickFix service hides malware in browser cache images",
@@ -116,28 +140,10 @@
       "date": "2026-08-03T16:10:37Z"
     },
     {
-      "title": "US finalises voluntary AI safety tests, White House official says",
-      "description": "[CNBC TV18] Trump administration finalizes voluntary cybersecurity tests for advanced US AI models after Anthropic, OpenAI hacking disclosures.",
-      "url": "https://www.cnbctv18.com/technology/us-finalises-voluntary-ai-safety-tests-white-house-official-says-19960877.htm",
-      "date": "2026-08-03T15:57:23Z"
-    },
-    {
       "title": "ExfilSquad hackers leak info of over 100,000 UK police officers, staff",
       "description": "[BLEEPINGCOMPUTER] A cyberattack on the U.K.'s Police National Legal Database (PNLD) has compromised contact data of more than 100,000 police officers and other criminal justice professionals. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/exfilsquad-hackers-leak-info-of-over-100-000-uk-police-officers-staff/",
       "date": "2026-08-03T15:04:39Z"
-    },
-    {
-      "title": "\u26a1 Weekly Recap: Rogue AI Models, $88M Bitcoin Theft, Water-System Attacks and Dangling DNS Hijacks",
-      "description": "[FEEDS] This week kept coming back to permission. A model crossed a boundary. A wallet trusted bad randomness. Webmail kept an intruder around. Public systems, package feeds, hotel networks, and login flows all gave away more than intended. Some of it was...",
-      "url": "https://thehackernews.com/2026/08/weekly-recap-rogue-ai-models-88m.html",
-      "date": "2026-08-03T14:03:11Z"
-    },
-    {
-      "title": "FOMO in the SOC: Where AI Platforms like Claude Actually Fit",
-      "description": "[FEEDS] AI is moving incredibly fast, and every security leader is feeling the pressure to keep up. AI platforms like Claude, Codex and Cursor are already helping security teams write detections, investigate alerts, summarize incidents, and automate...",
-      "url": "https://thehackernews.com/2026/08/fomo-in-soc-where-ai-platforms-like.html",
-      "date": "2026-08-03T11:30:00Z"
     },
     {
       "title": "The OpenAI Hack Shows the Genie Is Out of the Bottle",
@@ -192,12 +198,6 @@
       "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
       "url": "https://isc.sans.edu/diary/rss/33204",
       "date": "2026-07-31T02:00:03Z"
-    },
-    {
-      "title": "American Being Prosecuted for Wiping His Phone Before Handing It Over to Border Officials",
-      "description": "[SCHNEIER] He&#8217;s being prosecuted for giving border officials a code that wiped his phone: The case centers on a feature included in GrapheneOS, a custom Android operating system that runs in place of the software on most modern Google Pixel devices....",
-      "url": "https://www.schneier.com/blog/archives/2026/07/american-being-prosecuted-for-wiping-his-phone-before-handing-it-over-to-border-officials.html",
-      "date": "2026-07-30T16:20:30Z"
     }
   ]
 }
