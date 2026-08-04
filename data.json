@@ -1,203 +1,137 @@
 {
-  "updated": "2026-08-04 11:55:38 UTC",
-  "news": [
-    {
-      "title": "New cPanel Critical Flaw Could Let Hosting Customers Run SQL as Database Root",
-      "description": "[FEEDS] cPanel has patched a flaw that let an authenticated hosting customer execute SQL in the database's root context, crossing the privilege boundary between a cPanel account and the server's administrative database identity. It shipped in a targeted...",
-      "url": "https://thehackernews.com/2026/08/new-cpanel-critical-flaw-could-let.html",
-      "date": "2026-08-04T10:36:27Z"
-    },
-    {
-      "title": "Some Claude Chats Are Searchable on Google",
-      "description": "[SCHNEIER] And it&#8217;s personal information (alternate link): The exposed data includes an AI-powered therapy app that someone appears to have vibe-coded, notes on meetings, and a dashboard someone made apparently to analyze medical billing data. Exposed...",
-      "url": "https://www.schneier.com/blog/archives/2026/08/some-claude-chats-are-searchable-on-google.html",
-      "date": "2026-08-04T10:13:58Z"
-    },
-    {
-      "title": "DOUBLECUP Uses ClickFix and Cached PNGs to Deliver CountLoader and DeviceManager RAT",
-      "description": "[FEEDS] A new Russian loader-as-a-service (LaaS) codenamed DOUBLECUP has been using ClickFix lures as a way to stage malware-laced PNG images in victims' browser cache and ultimately deliver CountLoader and a previously undocumented remote access trojan...",
-      "url": "https://thehackernews.com/2026/08/doublecup-uses-clickfix-and-cached-pngs.html",
-      "date": "2026-08-04T09:03:23Z"
-    },
-    {
-      "title": "CISA Adds Exploited N-able N-central Flaw to KEV After Customer Compromises",
-      "description": "[FEEDS] The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a high-severity security flaw impacting N-able N-central to its Known Exploited Vulnerabilities (KEV) catalog following reports of active exploitation in the wild. The...",
-      "url": "https://thehackernews.com/2026/08/cisa-adds-exploited-n-able-n-central.html",
-      "date": "2026-08-04T07:00:13Z"
-    },
-    {
-      "title": "ISC Stormcast For Tuesday, August 4th, 2026 https://isc.sans.edu/podcastdetail/10036, (Tue, Aug 4th)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33212",
-      "date": "2026-08-04T02:00:03Z"
-    },
-    {
-      "title": "Hotel Wi-Fi attacks use custom malware to breach Microsoft 365 accounts",
-      "description": "[BLEEPINGCOMPUTER] Microsoft has linked a global campaign targeting hospitality Wi-Fi networks to the Russian threat actor Midnight Blizzard, also known as APT29. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/hotel-wi-fi-attacks-use-custom-malware-to-breach-microsoft-365-accounts/",
-      "date": "2026-08-04T00:17:15Z"
-    },
-    {
-      "title": "New Pass-ta-key attacks let malware hijack Google-synced passkeys",
-      "description": "[BLEEPINGCOMPUTER] Security researchers have discovered three attacks that allow malware on already-compromised Windows devices to abuse Google Password Manager's synced passkeys to take over accounts, bypass user verification, and extract passkey private keys. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/new-pass-ta-key-attacks-let-malware-hijack-google-synced-passkeys/",
-      "date": "2026-08-03T23:58:01Z"
-    },
-    {
-      "title": "UK data watchdog monitors rogue AI agents after multiple hacking incidents",
-      "description": "[LBC] Anthropic said some versions of its Claude model had hacked into the systems of three companies during cybersecurity testing.",
-      "url": "https://www.lbc.co.uk/article/data-watchdog-monitors-rogue-ai-agents-5HjdfZ7_2/",
-      "date": "2026-08-03T22:59:59Z"
-    },
-    {
-      "title": "New DOUBLECUP ClickFix service hides malware in browser cache images",
-      "description": "[BLEEPINGCOMPUTER] A new Russian loader-as-a-service named DOUBLECUP uses ClickFix attacks to hide malicious code in PNG images cached by victims' browsers, ultimately delivering CountLoader to Windows and macOS devices and a new remote access trojan named...",
-      "url": "https://www.bleepingcomputer.com/news/security/new-doublecup-clickfix-service-hides-malware-in-browser-cache-images/",
-      "date": "2026-08-03T20:01:22Z"
-    },
-    {
-      "title": "Meta, Anthropic invited to meet with Trump officials about AI safety testing",
-      "description": "[DEVDISCOURSE] The White House has invited Meta, Anthropic, OpenAI, and Google to discuss voluntary government safety testing for the most advanced US AI models amid cybersecurity concerns.",
-      "url": "https://www.devdiscourse.com/article/technology/3959086-meta-anthropic-invited-to-meet-with-trump-officials-about-ai-safety-testing",
-      "date": "2026-08-03T19:47:04Z"
-    },
-    {
-      "title": "Fake Roblox Xeno script launcher pushes infostealer, RAT malware",
-      "description": "[BLEEPINGCOMPUTER] Fake Xeno Executor installers are infecting unsuspecting Roblox players with malware that provides remote access and steals sensitive information. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/fake-roblox-xeno-script-launcher-pushes-infostealer-rat-malware/",
-      "date": "2026-08-03T19:25:10Z"
-    },
-    {
-      "title": "Visa to acquire Israeli fraud detection company BioCatch for $2.4B",
-      "description": "[MIDDLE EAST MONITOR] Visa announced Monday that it has agreed to acquire Israeli fraud detection company BioCatch for $2.4 billion in cash, expanding its cybersecurity capabilities as artificial intelligence fuels incr\u2026",
-      "url": "https://www.middleeastmonitor.com/20260803-visa-to-acquire-israeli-fraud-detection-company-biocatch-for-2-4b/",
-      "date": "2026-08-03T18:46:50Z"
-    },
-    {
-      "title": "18 Malicious npm Packages Deliver Cross-Platform RAT to Alibaba Tool Users",
-      "description": "[FEEDS] Cybersecurity researchers have discovered a new set of malicious npm packages that target users of Alibaba developer tools with a cross-platform remote access trojan (RAT) as part of a sophisticated, targeted software supply chain attack targeting...",
-      "url": "https://thehackernews.com/2026/08/18-malicious-npm-packages-deliver-cross.html",
-      "date": "2026-08-03T18:43:53Z"
-    },
-    {
-      "title": "California drugmaker Amgen reports theft of patient data in cyber incident",
-      "description": "[THE MERCURY NEWS] Amgen Inc. experienced a cyber incident that involved the theft of patient information and proprietary data stored in cloud servers, it said in a filing Friday, the latest large healthcare company to suffer a data breach.",
-      "url": "https://www.mercurynews.com/2026/08/03/amgen-reports-theft-of-patient-data-in-cyber-incident/",
-      "date": "2026-08-03T18:00:48Z"
-    },
-    {
-      "title": "Visa Buys BioCatch for $2.4 Billion to Fight AI Fraud",
-      "description": "[BENZINGA] Visa to acquire fraud tech firm BioCatch for $2.4B to boost AI cybersecurity and block financial scams in real time.",
-      "url": "https://www.benzinga.com/m-a/26/08/60882480/visa-buys-biocatch-for-2-4-billion-to-fight-ai-fraud",
-      "date": "2026-08-03T17:22:10Z"
-    },
-    {
-      "title": "Cardiovascular Institute of New England Data Breach Lawsuit Investigation",
-      "description": "[EUROPE SAYS] Shamis & Gentile P.A., one of the nation's premier class action law firms specializing in data breach cases, is investigating the Cardiovascular Institute",
-      "url": "https://www.europesays.com/3172033/",
-      "date": "2026-08-03T17:13:13Z"
-    },
-    {
-      "title": "More on the OpenAI Agent\u2019s Attack on Hugging Face",
-      "description": "[SCHNEIER] Hugging Face has published a detailed timeline of the attack. From the summary: The agent was running an internal OpenAI cyber-capability evaluation based on the ExploitGym benchmark, which tasks an AI agent with finding and exploiting software...",
-      "url": "https://www.schneier.com/blog/archives/2026/08/more-on-the-openai-agents-attack-on-hugging-face.html",
-      "date": "2026-08-03T17:02:46Z"
-    },
-    {
-      "title": "N-able warns of N-central auth bypass flaw exploited in attacks",
-      "description": "[BLEEPINGCOMPUTER] N-able is warning customers that hackers are exploiting an authentication bypass vulnerability (CVE-2026-18577) affecting both hosted and on-premises N-central servers. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/n-able-warns-of-n-central-auth-bypass-flaw-exploited-in-attacks/",
-      "date": "2026-08-03T17:00:56Z"
-    },
-    {
-      "title": "Average data breach cost hits record high of Rs 25.5 crore in India: IBM report",
-      "description": "[THE ECONOMIC TIMES] By 2026, the financial impact of data breaches in India surged to Rs 25.5 crore, marking a notable increase of sixteen percent from the previous year. The scope of these breaches also widened, with more records being compromised. Companies that did...",
-      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/average-data-breach-cost-hits-record-high-of-rs-25-5-crore-in-india-ibm-report/articleshow/132836832.cms",
-      "date": "2026-08-03T16:36:16Z"
-    },
-    {
-      "title": "White House invites AI leaders from OpenAI, Google, Anthropic and others to review oversight framework",
-      "description": "[TIMES OF INDIA] Tech News News: The Trump administration has reportedly finalised a voluntary testing framework designed to evaluate the cybersecurity risks and hacking capabilities .",
-      "url": "https://timesofindia.indiatimes.com/technology/tech-news/white-house-invites-ai-leaders-from-openai-google-anthropic-and-others-to-review-oversight-framework/articleshow/132836737.cms",
-      "date": "2026-08-03T16:28:00Z"
-    },
-    {
-      "title": "Google Password Manager Attacks Could Let Malware Hijack Passkey-Protected Accounts",
-      "description": "[FEEDS] Malware running as an ordinary user on a Windows machine can sign into a victim's passkey-protected accounts without a fingerprint, a PIN, or anything at all appearing on the victim's screen. Unit 42 detailed three attack paths against Chrome's...",
-      "url": "https://thehackernews.com/2026/08/google-password-manager-attacks-could.html",
-      "date": "2026-08-03T16:24:47Z"
-    },
-    {
-      "title": "INC Ransomware Emerges as Dominant Actor Exploiting SonicWall SMA 1000 Flaws",
-      "description": "[FEEDS] The INC Ransomware operation has emerged as the \"dominant threat actor\" exploiting the recently disclosed security flaws in SonicWall Secure Mobile Access (SMA) 1000 series VPN appliances. In a report published over the weekend, Resecurity said it...",
-      "url": "https://thehackernews.com/2026/08/inc-ransomware-emerges-as-dominant.html",
-      "date": "2026-08-03T16:15:13Z"
-    },
-    {
-      "title": "US finalizes voluntary AI safety tests, White House official says",
-      "description": "[DEVDISCOURSE] The Trump administration has finalized voluntary cybersecurity tests to measure the hacking capabilities of advanced US AI models, with tech companies invited to participate in the testing process.",
-      "url": "https://www.devdiscourse.com/article/technology/3959017-us-finalizes-voluntary-ai-safety-tests-white-house-official-says",
-      "date": "2026-08-03T16:10:37Z"
-    },
-    {
-      "title": "ExfilSquad hackers leak info of over 100,000 UK police officers, staff",
-      "description": "[BLEEPINGCOMPUTER] A cyberattack on the U.K.'s Police National Legal Database (PNLD) has compromised contact data of more than 100,000 police officers and other criminal justice professionals. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/exfilsquad-hackers-leak-info-of-over-100-000-uk-police-officers-staff/",
-      "date": "2026-08-03T15:04:39Z"
-    },
-    {
-      "title": "The OpenAI Hack Shows the Genie Is Out of the Bottle",
-      "description": "[SCHNEIER] This essay originally appeared in Foreign Policy. Earlier this month, two of OpenAI&#8217;s models broke out of their containment sandbox and attacked another AI company. The story is kind of wild. OpenAI was running security tests on two of its...",
-      "url": "https://www.schneier.com/blog/archives/2026/08/the-openai-hack-shows-the-genie-is-out-of-the-bottle.html",
-      "date": "2026-08-03T10:47:47Z"
-    },
-    {
-      "title": "ISC Stormcast For Monday, August 3rd, 2026 https://isc.sans.edu/podcastdetail/10034, (Mon, Aug 3rd)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33210",
-      "date": "2026-08-03T02:00:02Z"
-    },
-    {
-      "title": "Atomic MacOS (AMOS) stealer infection, (Sun, Aug 2nd)",
-      "description": "[ISC] Introduction&#xd;",
-      "url": "https://isc.sans.edu/diary/rss/33208",
-      "date": "2026-08-02T04:05:08Z"
-    },
-    {
-      "title": "Phishing Campaigns Targeting AI Solutions Providers, (Sat, Aug 1st)",
-      "description": "[ISC] Most phishing campaigns rely on the fact that the victim is afraid to loose \"something\": money, access to information, ... Many brands have been impersonated by campaigns but I spotted some phishing emails that focus on AI services like ChatGPT.&#xd;",
-      "url": "https://isc.sans.edu/diary/rss/33206",
-      "date": "2026-08-01T07:22:32Z"
-    },
-    {
-      "title": "Friday Squid Blogging: Squid Helps Discover New Marine Species",
-      "description": "[SCHNEIER] The Squid is a new scientific machine: One of the technological breakthroughs was the onboard use of a spinning wheel confocal microscope, nicknamed the Squid, which uses lasers to scan microscopic details of how organisms are put together....",
-      "url": "https://www.schneier.com/blog/archives/2026/07/friday-squid-blogging-squid-helps-discover-new-marine-species.html",
-      "date": "2026-07-31T21:06:46Z"
-    },
-    {
-      "title": "Anthropic\u2019s Opus 5 Is Better at Resisting Prompt Injection",
-      "description": "[SCHNEIER] The chart is interesting. On the IPI benchmark, Opus 5 improved over Opus 4.8, reducing the probability of an attacker succeeding within 15 attempts from 5.5% to 2.0%, and from 0.5% to 0.2% on 1 attempt. It also improved on Sonnet 5 (5.9% at k=15)...",
-      "url": "https://www.schneier.com/blog/archives/2026/07/anthropics-opus-5-is-better-at-resisting-prompt-injection.html",
-      "date": "2026-07-31T17:23:16Z"
-    },
-    {
-      "title": "Facial Recognition at Madison Square Garden",
-      "description": "[SCHNEIER] Last month, the story broke (alternate link) that Madison Square Garden uses facial recognition software on everyone entering the facility, and&#8212;among other groups&#8212;flags activists that oppose using facial recognition. Turns out that the...",
-      "url": "https://www.schneier.com/blog/archives/2026/07/facial-recognition-at-madison-square-garden.html",
-      "date": "2026-07-31T11:08:44Z"
-    },
-    {
-      "title": "zipdump.py: Metadata Encoding, (Fri, Jul 31st)",
-      "description": "[ISC] I was asked for help with a problem similar to the following.&#xd;",
-      "url": "https://isc.sans.edu/diary/rss/33202",
-      "date": "2026-07-31T09:22:19Z"
-    },
-    {
-      "title": "ISC Stormcast For Friday, July 31st, 2026 https://isc.sans.edu/podcastdetail/10032, (Fri, Jul 31st)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33204",
-      "date": "2026-07-31T02:00:03Z"
-    }
-  ]
+    "title": "Sentinel Protocol",
+    "tagline": "Perimeter Intelligence Sync",
+    "updated": "2026-08-04 12:58 UTC",
+    "news": [
+        {
+            "source": {
+                "id": null,
+                "name": "Crypto Briefing"
+            },
+            "author": "Editorial Team",
+            "title": "Horizon3 hits $2B valuation with $250M Series E as AI-powered cybersecurity demand surges",
+            "description": "The rapid valuation growth of Horizon3.ai underscores a significant industry shift towards continuous, AI-driven cybersecurity solutions.\nThe post Horizon3 hits $2B valuation with $250M Series E as AI-powered cybersecurity demand surges appeared first on Cryp\u2026",
+            "url": "https://cryptobriefing.com/horizon3-2b-valuation-series-e-cybersecurity/",
+            "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/08/03085818/horizon3-hits-2b-valuation-with-250m-series-e-as-ai-powered--800x420.jpeg",
+            "publishedAt": "2026-08-03T12:58:25Z",
+            "content": "The autonomous pentesting startup's rapid growth reflects a broader shift that has major implications for how crypto firms defend their infrastructure Horizon3.ai just closed a $250 million Series E \u2026 [+1577 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Biztoc.com"
+            },
+            "author": "techcrunch.com",
+            "title": "Horizon3 hits $2 billion valuation with $250M Series E as AI threats escalate",
+            "description": "Cybersecurity startup Horizon3 has raised a $250 million Series E at a $2 billion valuation, more than tripling its valuation in 14 months. The San Francisco-based firm drew backing from returning investors NightDragon and NEA.\nThe funding arrives as two majo\u2026",
+            "url": "https://biztoc.com/x/f23eb3bf558793ef",
+            "urlToImage": "https://biztoc.com/cdn/f23eb3bf558793ef_s.webp",
+            "publishedAt": "2026-08-03T12:57:46Z",
+            "content": "Cybersecurity startup Horizon3 has raised a $250 million Series E at a $2 billion valuation, more than tripling its valuation in 14 months. The San Francisco-based firm drew backing from returning in\u2026 [+147 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Biztoc.com"
+            },
+            "author": "breakingthenews.net",
+            "title": "Visa to buy cybersecurity firm BioCatch for $2.4B",
+            "description": "Visa Inc. announced on Monday that it will acquire BioCatch, an Israeli cybersecurity and fraud prevention company, for $2.4 billion in cash.In a statement, Visa clarified that it will buy BioCatch fr...",
+            "url": "https://biztoc.com/x/41ce95b4b8958460",
+            "urlToImage": "https://biztoc.com/cdn/41ce95b4b8958460_s.webp",
+            "publishedAt": "2026-08-03T12:57:36Z",
+            "content": "Visa Inc. announced on Monday that it will acquire BioCatch, an Israeli cybersecurity and fraud prevention company, for $2.4 billion in cash.In a statement, Visa clarified that it will buy BioCatch f\u2026 [+69 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Kaspersky.com"
+            },
+            "author": "Kaspersky ICS CERT Team",
+            "title": "APT and financial attackson industrial organizations in Q2 2026",
+            "description": "An unprecedented number of targeted attacks on industrial control systems and an unexpected discovery \u2013 a malware created in 2005 and appeared to be a genuine cyberweapon.",
+            "url": "https://ics-cert.kaspersky.com/publications/reports/2026/08/03/apt-and-financial-attacks-on-industrial-organizations-in-q2-2026/?utm_source=ics-cert.kaspersky.com&utm_mediumrss&utm_campaignmain",
+            "urlToImage": null,
+            "publishedAt": "2026-08-03T12:57:05Z",
+            "content": "This summary provides an overview of reports on APT and financial attacks on industrial enterprises disclosed in Q2 2026, as well as the related activities of groups observed attacking industrial org\u2026 [+84558 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PR Newswire UK"
+            },
+            "author": null,
+            "title": "Guidewire Introduces Qusar Release to Help Insurers Build and Control AI Agents",
+            "description": "Qusar includes Guidewire-built claims and underwriting agents, plus Developer Assistants that help developers ship features more than 40% faster than with generic coding assistants SAN MATEO, Calif., Aug. 3, 2026 /PRNewswire/ -- Guidewire (NYSE: GWRE) today l\u2026",
+            "url": "https://www.prnewswire.co.uk/news-releases/guidewire-introduces-qusar-release-to-help-insurers-build-and-control-ai-agents-302840474.html",
+            "urlToImage": "https://mmx.prnewswire.com/media/MS1962380/Guidewire-Qusar-800-2.jpg?id=OA2820580&p=facebook",
+            "publishedAt": "2026-08-03T12:55:00Z",
+            "content": "Qusar includes Guidewire-built claims and underwriting agents, plus Developer Assistants that help developers ship features more than 40% faster than with generic coding assistants\r\nSAN MATEO, Calif.\u2026 [+10298 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Kate Park",
+            "title": "Horizon3 hits $2 billion valuation with $250M Series E as AI threats escalate | TechCrunch",
+            "description": "Cybersecurity startup Horizon3 raised $250 million at a $2 billion valuation as companies want continuous, AI-powered security validation instead of annual pentesting.",
+            "url": "https://techcrunch.com/2026/08/03/horizon3-hits-2-billion-valuation-with-250m-series-e-as-ai-threats-escalate/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-1197780051.jpg?resize=1200,800",
+            "publishedAt": "2026-08-03T12:50:46Z",
+            "content": "Cybersecurity startup Horizon3 has raised a $250 million Series E at a $2 billion valuation, more than tripling its valuation in 14 months. The San Francisco-based firm drew backing from returning in\u2026 [+3899 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNA"
+            },
+            "author": null,
+            "title": "Visa beefs up cybersecurity offerings with $2.4 billion BioCatch deal",
+            "description": "Aug 3 : Visa said on Monday it would buy fraud intelligence provider BioCatch for $2.4 billion in cash from investment firm Permira and other investors, marking the card giant's latest effort to beef up its cybersecurity offerings.The deal would help the worl\u2026",
+            "url": "https://www.channelnewsasia.com/business/visa-beefs-up-cybersecurity-offerings-24-billion-biocatch-deal-6295586",
+            "urlToImage": "https://dam.mediacorp.sg/image/upload/s--L7qaqwNs--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-08-03T124942Z_3_LYNXMPEM7211C_RTROPTP_3_VISA-RESULTS.JPG?itok=NzpXcwad",
+            "publishedAt": "2026-08-03T12:49:42Z",
+            "content": "Aug 3 : Visa said on Monday it would buy fraud intelligence provider BioCatch for $2.4 billion in cash from investment firm Permira and other investors, marking the card giant's latest effort to beef\u2026 [+1397 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Geeky Gadgets"
+            },
+            "author": "Julian Horsey",
+            "title": "DeepSeek V4 Flash Hits 82.7 on Terminal Bench to Beat Pro",
+            "description": "DeepSeek V4 Flash has entered the AI landscape as a standout model, offering a unique balance between cost and performance. According to Universe of AI, this public beta release achieves competitive results on key benchmarks while maintaining affordability fo\u2026",
+            "url": "https://www.geeky-gadgets.com/deepseek-v4-flash-beta/",
+            "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2026/08/deepseek-v4-flash.jpg",
+            "publishedAt": "2026-08-03T12:47:00Z",
+            "content": "DeepSeek V4 Flash has entered the AI landscape as a standout model, offering a unique balance between cost and performance. According to Universe of AI, this public beta release achieves competitive \u2026 [+7137 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Crypto Briefing"
+            },
+            "author": "Editorial Team",
+            "title": "Visa to acquire BioCatch for up to $2.4B in cash, doubling down on fraud prevention",
+            "description": "Visa's acquisition of BioCatch highlights the increasing value and demand for advanced fraud prevention technologies in the competitive fintech landscape.\nThe post Visa to acquire BioCatch for up to $2.4B in cash, doubling down on fraud prevention appeared fi\u2026",
+            "url": "https://cryptobriefing.com/visa-acquire-biocatch-2b-cash/",
+            "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/08/03084432/gradient-style-visa-icon-800x420.jpeg",
+            "publishedAt": "2026-08-03T12:44:36Z",
+            "content": "The payments giant is betting billions on behavioral biometrics as digital fraud becomes an existential threat to fintech trust. Visa is making its biggest security play in years. The payments giant \u2026 [+2628 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Alex Harring",
+            "title": "5 things to know before the stock market opens Monday",
+            "description": "Here are five key things investors need to know to start the trading day.",
+            "url": "https://www.cnbc.com/2026/08/03/5-things-to-know-before-the-stock-market-opens.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107337371-1700589474911-gettyimages-1608150867-HUGGING_FACE_AI.jpeg?v=1700589587&w=1920&h=1080",
+            "publishedAt": "2026-08-03T12:35:10Z",
+            "content": "This is CNBC's Morning Squawk newsletter.\u00a0Subscribe here\u00a0to receive future editions in your inbox.\r\nHappy Monday. I spent the weekend mostly outdoors at the Lollapalooza music festival in Chicago, bu\u2026 [+5082 chars]"
+        }
+    ]
 }
