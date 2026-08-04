@@ -1,6 +1,30 @@
 {
-  "updated": "2026-08-04 16:07:09 UTC",
+  "updated": "2026-08-04 19:17:51 UTC",
   "news": [
+    {
+      "title": "New XCSSET variant targets macOS devs via compromised Xcode projects",
+      "description": "[BLEEPINGCOMPUTER] A new version of the XCSSET malware is targeting thousands of macOS users through compromised Xcode projects and GitHub repositories. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/new-xcsset-variant-targets-macos-devs-via-compromised-xcode-projects/",
+      "date": "2026-08-04T19:03:09Z"
+    },
+    {
+      "title": "Iran Cyberattacks Against Minnesota Water Systems",
+      "description": "[SCHNEIER] Attribution is preliminary, and so far it seems no real damage. And it seems like this is a campaign that has targeted at least seven states. And, because this is where the US is right now, Trump doesn&#8217;t believe it&#8217;s Iran and that...",
+      "url": "https://www.schneier.com/blog/archives/2026/08/iran-cyberattacks-against-minnesota-water-systems.html",
+      "date": "2026-08-04T19:00:53Z"
+    },
+    {
+      "title": "77 Open VSX extensions found harvesting developer info",
+      "description": "[BLEEPINGCOMPUTER] 77 extensions on the Open VSX marketplace impersonated legitimate developer tools while transmitting information about the systems and development environments where they were installed. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/77-open-vsx-extensions-found-harvesting-developer-info/",
+      "date": "2026-08-04T18:50:55Z"
+    },
+    {
+      "title": "Greatness PhaaS Adds Device Code Phishing to Bypass MFA and Steal Tokens",
+      "description": "[FEEDS] The commercial phishing-as-a-service (PhaaS) toolkit known as Greatness has become the latest crimeware solution to add support for device code phishing, a rapidly growing cyber threat that abuses the legitimate OAuth 2.0 Device Authorization Grant...",
+      "url": "https://thehackernews.com/2026/08/greatness-phaas-adds-device-code.html",
+      "date": "2026-08-04T17:27:39Z"
+    },
     {
       "title": "Massive ChainDrop npm supply-chain attack infects hundreds of packages",
       "description": "[BLEEPINGCOMPUTER] Self-propagating malware named 'ChainDrop' has compromised more than 1,300 packages with a combined 2 billion monthly downloads on the Node Package Manager (npm) registry. [...]",
@@ -56,10 +80,28 @@
       "date": "2026-08-04T10:13:58Z"
     },
     {
-      "title": "DOUBLECUP Uses ClickFix and Cached PNGs to Deliver CountLoader and DeviceManager RAT",
-      "description": "[FEEDS] A new Russian loader-as-a-service (LaaS) codenamed DOUBLECUP has been using ClickFix lures as a way to stage malware-laced PNG images in victims' browser cache and ultimately deliver CountLoader and a previously undocumented remote access trojan...",
-      "url": "https://thehackernews.com/2026/08/doublecup-uses-clickfix-and-cached-pngs.html",
-      "date": "2026-08-04T09:03:23Z"
+      "title": "Jump Capital bets on enterprise AI with new $350M Fund VIII",
+      "description": "[CRYPTO NEWS] Jump Capital has closed its eighth $350 million fund to back AI applications, enterprise infrastructure, and cybersecurity startups across North America and Israel.",
+      "url": "https://crypto.news/jump-capital-bets-on-enterprise-ai-with-new-350m-fund-viii/",
+      "date": "2026-08-04T07:06:03Z"
+    },
+    {
+      "title": "CISA Adds Exploited N-able N-central Flaw to KEV After Customer Compromises",
+      "description": "[THE HACKER NEWS] CVE-2026-18577 is under active exploitation, letting attackers bypass N-able N-central authentication and pivot from servers into managed endpoints.",
+      "url": "https://thehackernews.com/2026/08/cisa-adds-exploited-n-able-n-central.html",
+      "date": "2026-08-04T07:00:00Z"
+    },
+    {
+      "title": "CISA urges Chinese steelmakers to strictly enforce steel export licensing administration system in next phase",
+      "description": "[STEELORBIS] In the first six months of 2026, China's steel exports showed an overall trend of declining volumes with stable prices, while billet exports surged ...",
+      "url": "https://www.steelorbis.com/steel-news/latest-news/cisa-urges-chinese-steelmakers-to-strictly-enforce-steel-export-licensing-administration-system-in-next-phase-1468753.htm",
+      "date": "2026-08-04T06:56:08Z"
+    },
+    {
+      "title": "After AI Hacking Scare, OpenAI And Anthropic Face Fresh Scrutiny As UK Monitors Risks",
+      "description": "[TIMES NOW] Britain's data watchdog is closely monitoring Anthropic and OpenAI after recent AI hacking incidents, as regulators worldwide tighten oversight of advanced AI safety and cybersecurity., Technology & Science, Times Now",
+      "url": "https://www.timesnownews.com/technology-science/after-ai-hacking-scare-openai-and-anthropic-face-fresh-scrutiny-as-uk-monitors-risks-article-155246026",
+      "date": "2026-08-04T05:18:50Z"
     },
     {
       "title": "OpenAI, Anthropic, Google to join White House AI safety meeting",
@@ -116,42 +158,6 @@
       "date": "2026-08-03T23:58:01Z"
     },
     {
-      "title": "UK data watchdog monitors rogue AI agents after multiple hacking incidents",
-      "description": "[LBC] Anthropic said some versions of its Claude model had hacked into the systems of three companies during cybersecurity testing.",
-      "url": "https://www.lbc.co.uk/article/data-watchdog-monitors-rogue-ai-agents-5HjdfZ7_2/",
-      "date": "2026-08-03T22:59:59Z"
-    },
-    {
-      "title": "New DOUBLECUP ClickFix service hides malware in browser cache images",
-      "description": "[BLEEPINGCOMPUTER] A new Russian loader-as-a-service named DOUBLECUP uses ClickFix attacks to hide malicious code in PNG images cached by victims' browsers, ultimately delivering CountLoader to Windows and macOS devices and a new remote access trojan named...",
-      "url": "https://www.bleepingcomputer.com/news/security/new-doublecup-clickfix-service-hides-malware-in-browser-cache-images/",
-      "date": "2026-08-03T20:01:22Z"
-    },
-    {
-      "title": "Meta, Anthropic invited to meet with Trump officials about AI safety testing",
-      "description": "[DEVDISCOURSE] The White House has invited Meta, Anthropic, OpenAI, and Google to discuss voluntary government safety testing for the most advanced US AI models amid cybersecurity concerns.",
-      "url": "https://www.devdiscourse.com/article/technology/3959086-meta-anthropic-invited-to-meet-with-trump-officials-about-ai-safety-testing",
-      "date": "2026-08-03T19:47:04Z"
-    },
-    {
-      "title": "Fake Roblox Xeno script launcher pushes infostealer, RAT malware",
-      "description": "[BLEEPINGCOMPUTER] Fake Xeno Executor installers are infecting unsuspecting Roblox players with malware that provides remote access and steals sensitive information. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/fake-roblox-xeno-script-launcher-pushes-infostealer-rat-malware/",
-      "date": "2026-08-03T19:25:10Z"
-    },
-    {
-      "title": "Visa to acquire Israeli fraud detection company BioCatch for $2.4B",
-      "description": "[MIDDLE EAST MONITOR] Visa announced Monday that it has agreed to acquire Israeli fraud detection company BioCatch for $2.4 billion in cash, expanding its cybersecurity capabilities as artificial intelligence fuels incr\u2026",
-      "url": "https://www.middleeastmonitor.com/20260803-visa-to-acquire-israeli-fraud-detection-company-biocatch-for-2-4b/",
-      "date": "2026-08-03T18:46:50Z"
-    },
-    {
-      "title": "California drugmaker Amgen reports theft of patient data in cyber incident",
-      "description": "[THE MERCURY NEWS] Amgen Inc. experienced a cyber incident that involved the theft of patient information and proprietary data stored in cloud servers, it said in a filing Friday, the latest large healthcare company to suffer a data breach.",
-      "url": "https://www.mercurynews.com/2026/08/03/amgen-reports-theft-of-patient-data-in-cyber-incident/",
-      "date": "2026-08-03T18:00:48Z"
-    },
-    {
       "title": "More on the OpenAI Agent\u2019s Attack on Hugging Face",
       "description": "[SCHNEIER] Hugging Face has published a detailed timeline of the attack. From the summary: The agent was running an internal OpenAI cyber-capability evaluation based on the ExploitGym benchmark, which tasks an AI agent with finding and exploiting software...",
       "url": "https://www.schneier.com/blog/archives/2026/08/more-on-the-openai-agents-attack-on-hugging-face.html",
@@ -192,12 +198,6 @@
       "description": "[SCHNEIER] The chart is interesting. On the IPI benchmark, Opus 5 improved over Opus 4.8, reducing the probability of an attacker succeeding within 15 attempts from 5.5% to 2.0%, and from 0.5% to 0.2% on 1 attempt. It also improved on Sonnet 5 (5.9% at k=15)...",
       "url": "https://www.schneier.com/blog/archives/2026/07/anthropics-opus-5-is-better-at-resisting-prompt-injection.html",
       "date": "2026-07-31T17:23:16Z"
-    },
-    {
-      "title": "Facial Recognition at Madison Square Garden",
-      "description": "[SCHNEIER] Last month, the story broke (alternate link) that Madison Square Garden uses facial recognition software on everyone entering the facility, and&#8212;among other groups&#8212;flags activists that oppose using facial recognition. Turns out that the...",
-      "url": "https://www.schneier.com/blog/archives/2026/07/facial-recognition-at-madison-square-garden.html",
-      "date": "2026-07-31T11:08:44Z"
     },
     {
       "title": "zipdump.py: Metadata Encoding, (Fri, Jul 31st)",
