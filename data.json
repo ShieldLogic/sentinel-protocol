@@ -1,6 +1,30 @@
 {
-  "updated": "2026-08-05 17:19:52 UTC",
+  "updated": "2026-08-05 19:14:25 UTC",
   "news": [
+    {
+      "title": "Over 250 ClickFix Domains Use Browser Fingerprinting to Hide macOS Malware Lures",
+      "description": "[FEEDS] A macOS ClickFix operation spanning more than 250 front-end domains now fingerprints visitors before deciding whether to show them a malware lure, a change Microsoft Threat Intelligence tracked on infrastructure it had been watching for weeks. The...",
+      "url": "https://thehackernews.com/2026/08/over-250-clickfix-domains-use-browser.html",
+      "date": "2026-08-05T18:44:31Z"
+    },
+    {
+      "title": "OpenAI Disrupts Poipet Scam Network Using ChatGPT Across Multiple Fraud Schemes",
+      "description": "[FEEDS] OpenAI said it disrupted a Cambodia-based scam operation that used its generative artificial intelligence (AI) chatbot ChatGPT to facilitate a wide range of investment, romance, gambling, and law enforcement impersonation schemes. To that end, it...",
+      "url": "https://thehackernews.com/2026/08/openai-disrupts-poipet-scam-network.html",
+      "date": "2026-08-05T18:33:47Z"
+    },
+    {
+      "title": "Don't Revoke That Token Yet: Inside the keyv/cacheable npm Worm, (Wed, Aug 5th)",
+      "description": "[ISC] When you learn that a compromised package executed on one of your build hosts, muscle memory takes over: revoke the npm token, rotate the GitHub PAT, cycle the cloud keys. That reflex has been correct in almost every supply-chain incident I have...",
+      "url": "https://isc.sans.edu/diary/rss/33218",
+      "date": "2026-08-05T17:56:15Z"
+    },
+    {
+      "title": "COLDCARD security audit phishing attack installs remote access tool",
+      "description": "[BLEEPINGCOMPUTER] A phishing campaign is exploiting fears surrounding the recently disclosed COLDCARD wallet vulnerability and suspected $88.6 million Bitcoin theft to trick users into installing ScreenConnect remote access software. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/coldcard-security-audit-phishing-attack-installs-remote-access-tool/",
+      "date": "2026-08-05T17:49:41Z"
+    },
     {
       "title": "CISA warns of hackers exploiting Langflow, N-central, Apache Tomcat flaws",
       "description": "[BLEEPINGCOMPUTER] The U.S. Cybersecurity and Infrastructure Security Agency is giving federal agencies three days to mitigate vulnerabilities in IBM Langflow, N-central, and Apache Tomcat, all actively exploited. [...]",
@@ -44,22 +68,16 @@
       "date": "2026-08-05T13:41:27Z"
     },
     {
-      "title": "New OVSwrap Linux Kernel Flaw Lets Local Users Gain Root via Open vSwitch",
-      "description": "[FEEDS] A memory corruption flaw in the Linux kernel's Open vSwitch datapath gives ordinary local users a path to root on a broad set of default-configured distributions, and a public exploit ships with pre-built records for roughly 800 kernel builds. The...",
-      "url": "https://thehackernews.com/2026/08/new-ovswrap-linux-kernel-flaw-lets.html",
-      "date": "2026-08-05T11:43:27Z"
-    },
-    {
-      "title": "Kali365 Weaponizes Microsoft Authentication Against US Companies: New Enterprise Risk",
-      "description": "[FEEDS] Kali365 is turning a legitimate Microsoft login into a gateway to corporate data. The phishing kit targets US organizations with attacker-controlled device codes that victims approve on Microsoft's real authentication page. Once access and refresh...",
-      "url": "https://thehackernews.com/2026/08/kali365-weaponizes-microsoft.html",
-      "date": "2026-08-05T11:43:19Z"
-    },
-    {
       "title": "Vulnerabilities in Car Anti-Theft Device",
       "description": "[SCHNEIER] This is disturbing: &#8230;a team of security researchers at UC San Diego, who found that a model of aftermarket car alarm known as the KARR Security System, installed in more than 2 million vehicles across the US by their estimate, can let any...",
       "url": "https://www.schneier.com/blog/archives/2026/08/vulnerabilities-in-car-anti-theft-device.html",
       "date": "2026-08-05T09:42:43Z"
+    },
+    {
+      "title": "Coupang swings to record $798 mil. loss in 1st half after data breach costs",
+      "description": "[THE KOREA TIMES] Coupang Inc., the U.S.-headquartered holding company of Korea\u2019s e-commerce giant Coupang, swung to its largest first-half operating loss on record...",
+      "url": "https://www.koreatimes.co.kr/business/companies/20260805/coupang-swings-to-record-798-mil-loss-in-1st-half-after-data-breach-costs",
+      "date": "2026-08-05T06:53:02Z"
     },
     {
       "title": "NuSummit Joins CREST AI Charter Founding Signatories to Advance Trusted AI in Cybersecurity",
@@ -116,12 +134,6 @@
       "date": "2026-08-05T03:44:55Z"
     },
     {
-      "title": "Coupang swings to Q2 loss on data breach fines",
-      "description": "[LOKMAT TIMES] Coupang swings to Q2 loss on data breach fines - Seoul, Aug 5 E-commerce giant Coupang said on Wednesday it swung to a net loss in the second ... Get Latest News on Business only on lokmattimes.com",
-      "url": "https://www.lokmattimes.com/business/coupang-swings-to-q2-loss-on-data-breach-fines/",
-      "date": "2026-08-05T03:37:17Z"
-    },
-    {
       "title": "ISC Stormcast For Wednesday, August 5th, 2026 https://isc.sans.edu/podcastdetail/10038, (Wed, Aug 5th)",
       "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
       "url": "https://isc.sans.edu/diary/rss/33216",
@@ -138,12 +150,6 @@
       "description": "[BLEEPINGCOMPUTER] TP-Link has patched 15 vulnerabilities in the zero-touch provisioning (ZTP) mechanism of its Omada network devices that could be chained with previously disclosed flaws to achieve remote code execution (RCE). [...]",
       "url": "https://www.bleepingcomputer.com/news/security/tp-link-patches-omada-ztp-flaws-allowing-hackers-to-breach-networks/",
       "date": "2026-08-04T22:18:20Z"
-    },
-    {
-      "title": "Phishing service spoofs RingCentral to steal Microsoft 365 accounts",
-      "description": "[BLEEPINGCOMPUTER] The Greatness phishing-as-a-service (PhaaS) platform has expanded from credential phishing to adversary-in-the-middle attacks and device-code phishing targeting Microsoft 365 accounts. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/phishing-service-spoofs-ringcentral-to-steal-microsoft-365-accounts/",
-      "date": "2026-08-04T21:45:36Z"
     },
     {
       "title": "Iran Cyberattacks Against Minnesota Water Systems",
@@ -192,12 +198,6 @@
       "description": "[ISC] Introduction&#xd;",
       "url": "https://isc.sans.edu/diary/rss/33208",
       "date": "2026-08-02T04:05:08Z"
-    },
-    {
-      "title": "Phishing Campaigns Targeting AI Solutions Providers, (Sat, Aug 1st)",
-      "description": "[ISC] Most phishing campaigns rely on the fact that the victim is afraid to loose \"something\": money, access to information, ... Many brands have been impersonated by campaigns but I spotted some phishing emails that focus on AI services like ChatGPT.&#xd;",
-      "url": "https://isc.sans.edu/diary/rss/33206",
-      "date": "2026-08-01T07:22:32Z"
     },
     {
       "title": "Friday Squid Blogging: Squid Helps Discover New Marine Species",
