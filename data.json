@@ -1,209 +1,137 @@
 {
-  "updated": "2026-08-05 11:50:21 UTC",
-  "news": [
-    {
-      "title": "Critical Gitea Flaw Let Unauthenticated Attackers Read Server Files via Org-Mode Markup",
-      "description": "[FEEDS] An unauthenticated attacker can read any file the service account can access on Gitea, the self-hosted Git platform, in versions 1.22.1 through 1.27.0. No login, no repository write access. A public repository and crafted Org-mode markup are enough....",
-      "url": "https://thehackernews.com/2026/08/critical-gitea-flaw-let-unauthenticated.html",
-      "date": "2026-08-05T11:04:23Z"
-    },
-    {
-      "title": "Leaked n8n API Tokens Exposed Live Instances to Credential Theft",
-      "description": "[FEEDS] GitGuardian researchers found 321 n8n instances accepting API tokens exposed in public GitHub commits and demonstrated four ways attackers could use them to access sensitive data and downstream credentials without exploiting a software...",
-      "url": "https://thehackernews.com/2026/08/leaked-n8n-api-tokens-exposed-live.html",
-      "date": "2026-08-05T10:35:29Z"
-    },
-    {
-      "title": "Vulnerabilities in Car Anti-Theft Device",
-      "description": "[SCHNEIER] This is disturbing: &#8230;a team of security researchers at UC San Diego, who found that a model of aftermarket car alarm known as the KARR Security System, installed in more than 2 million vehicles across the US by their estimate, can let any...",
-      "url": "https://www.schneier.com/blog/archives/2026/08/vulnerabilities-in-car-anti-theft-device.html",
-      "date": "2026-08-05T09:42:43Z"
-    },
-    {
-      "title": "Open VSX Removes 77 Malicious Evil Twin Extensions Exfiltrating Developer Data",
-      "description": "[FEEDS] A cluster of 77 extensions on the Open VSX marketplace has been found to impersonate legitimate developer tools while transmitting information about the systems and development environments on which they were installed. The \"evil twin\" extensions...",
-      "url": "https://thehackernews.com/2026/08/open-vsx-removes-77-malicious-evil-twin.html",
-      "date": "2026-08-05T09:23:03Z"
-    },
-    {
-      "title": "Claude Mythos 5 Tried to Backdoor a Real Open-Source Project in Testing, Then Vouched for Itself",
-      "description": "[FEEDS] An agent running Anthropic's Claude Mythos 5 spent 34 hours trying to get a malware dropper merged into a real open-source project during a cyber evaluation by the UK's AI Security Institute. When a bystander publicly warned that the code was...",
-      "url": "https://thehackernews.com/2026/08/claude-mythos-5-tried-to-backdoor-real.html",
-      "date": "2026-08-05T07:53:50Z"
-    },
-    {
-      "title": "CISA Flags Langflow RCE, Tomcat, and N-central Flaws as Actively Exploited",
-      "description": "[FEEDS] The U.S. Cybersecurity and Infrastructure Security Agency (CISA), on August 5, 2026, added three flaws to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation in the wild. The list of vulnerabilities is as...",
-      "url": "https://thehackernews.com/2026/08/cisa-flags-langflow-rce-tomcat-and-n.html",
-      "date": "2026-08-05T07:40:39Z"
-    },
-    {
-      "title": "QuickFox Supply Chain Attack Delivers FDMTP Backdoor via Trojanized Windows Installer",
-      "description": "[FEEDS] Cybersecurity researchers have disclosed what has been described as a \"long-standing supply chain attack\" on QuickFox, a virtual private network (VPN) and network acceleration tool designed for overseas Chinese users. According to Fortinet...",
-      "url": "https://thehackernews.com/2026/08/quickfox-supply-chain-attack-delivers.html",
-      "date": "2026-08-05T05:47:19Z"
-    },
-    {
-      "title": "ISC Stormcast For Wednesday, August 5th, 2026 https://isc.sans.edu/podcastdetail/10038, (Wed, Aug 5th)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33216",
-      "date": "2026-08-05T02:00:02Z"
-    },
-    {
-      "title": "OpenAI, Anthropic AI agents targeted real people and systems in cyber tests",
-      "description": "[BLEEPINGCOMPUTER] OpenAI and Anthropic have confirmed that their AI models were involved in separate, newly disclosed third-party cybersecurity testing incidents that resulted in a real website being breached and social engineering attacks against people outside the...",
-      "url": "https://www.bleepingcomputer.com/news/security/openai-anthropic-ai-agents-targeted-real-people-and-systems-in-cyber-tests/",
-      "date": "2026-08-04T23:39:59Z"
-    },
-    {
-      "title": "Biggest Questions From White House Meet With OpenAI, Google, Anthropic",
-      "description": "[BUSINESS INSIDER] OpenAI, Anthropic, and Google met in D.C. to review Trump's AI oversight framework amid cybersecurity concerns and regulatory questions.",
-      "url": "https://www.businessinsider.com/openai-google-and-anthropic-white-house-meeting-biggest-questions-2026-8",
-      "date": "2026-08-04T23:26:26Z"
-    },
-    {
-      "title": "TP-Link patches Omada ZTP flaws allowing hackers to breach networks",
-      "description": "[BLEEPINGCOMPUTER] TP-Link has patched 15 vulnerabilities in the zero-touch provisioning (ZTP) mechanism of its Omada network devices that could be chained with previously disclosed flaws to achieve remote code execution (RCE). [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/tp-link-patches-omada-ztp-flaws-allowing-hackers-to-breach-networks/",
-      "date": "2026-08-04T22:18:20Z"
-    },
-    {
-      "title": "The White House Is Keeping Its AI Cybersecurity Framework Secret",
-      "description": "[WIRED] The Trump administration shared the details of its plan with OpenAI, Anthropic, and other AI labs on Tuesday. For now, the public remains in the dark.",
-      "url": "https://www.wired.com/story/the-white-house-is-keeping-its-ai-cybersecurity-framework-secret/",
-      "date": "2026-08-04T22:06:07Z"
-    },
-    {
-      "title": "Phishing service spoofs RingCentral to steal Microsoft 365 accounts",
-      "description": "[BLEEPINGCOMPUTER] The Greatness phishing-as-a-service (PhaaS) platform has expanded from credential phishing to adversary-in-the-middle attacks and device-code phishing targeting Microsoft 365 accounts. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/phishing-service-spoofs-ringcentral-to-steal-microsoft-365-accounts/",
-      "date": "2026-08-04T21:45:36Z"
-    },
-    {
-      "title": "English National Ballet suffers possible data breach following cyber attack",
-      "description": "[EVENING STANDARD] English National Ballet has apologised for the \u2018concerning\u2019 incident and urged its customers to be aware of any suspicious emails",
-      "url": "https://www.standard.co.uk/news/london/english-national-ballet-arts-culture-beacon-crm-data-breach-cyber-attack-b1292366.html",
-      "date": "2026-08-04T20:12:59Z"
-    },
-    {
-      "title": "Cracken opens self-serve access to its AI-powered offensive cybersecurity platform",
-      "description": "[TNW] Cracken launched a self-serve tier of its proactive security platform starting at $199 a month, weeks after AI models broke out of test environments",
-      "url": "https://thenextweb.com/news/cracken-self-serve-proactive-cybersecurity-platform",
-      "date": "2026-08-04T19:57:45Z"
-    },
-    {
-      "title": "What we know about ongoing Coldcard hack that's stolen over $100M worth of bitcoin",
-      "description": "[CBC.CA] A Toronto-based company that made Coldcard, a bitcoin-only hardware wallet that has been the latest target of a data breach, has reportedly lost $100 million US worth of bitcoin as a result of the hack.",
-      "url": "https://www.cbc.ca/news/world/bitcoin-coinkite-security-hack-9.7295582",
-      "date": "2026-08-04T19:17:27Z"
-    },
-    {
-      "title": "New XCSSET variant targets macOS devs via compromised Xcode projects",
-      "description": "[BLEEPINGCOMPUTER] A new version of the XCSSET malware is targeting thousands of macOS users through compromised Xcode projects and GitHub repositories. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/new-xcsset-variant-targets-macos-devs-via-compromised-xcode-projects/",
-      "date": "2026-08-04T19:03:09Z"
-    },
-    {
-      "title": "Iran Cyberattacks Against Minnesota Water Systems",
-      "description": "[SCHNEIER] Attribution is preliminary, and so far it seems no real damage. And it seems like this is a campaign that has targeted at least seven states. And, because this is where the US is right now, Trump doesn&#8217;t believe it&#8217;s Iran and that...",
-      "url": "https://www.schneier.com/blog/archives/2026/08/iran-cyberattacks-against-minnesota-water-systems.html",
-      "date": "2026-08-04T19:00:53Z"
-    },
-    {
-      "title": "77 Open VSX extensions found harvesting developer info",
-      "description": "[BLEEPINGCOMPUTER] 77 extensions on the Open VSX marketplace impersonated legitimate developer tools while transmitting information about the systems and development environments where they were installed. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/77-open-vsx-extensions-found-harvesting-developer-info/",
-      "date": "2026-08-04T18:50:55Z"
-    },
-    {
-      "title": "Federal funding helps expand fighter pilot training at North Bay airport",
-      "description": "[BAYTODAY] The investment includes $1.5 million for ITTC's fighter pilot training operations and $1.2 million for a Muskoka company's cybersecurity technology",
-      "url": "https://www.baytoday.ca/local-business/federal-funding-helps-expand-fighter-pilot-training-at-north-bay-airport-12625121",
-      "date": "2026-08-04T17:00:00Z"
-    },
-    {
-      "title": "Bhavya Bhandari's Perspective on How AI Is Changing Cyber Risk Visibility",
-      "description": "[INTERNATIONAL BUSINESS TIMES] For Bhavya Bhandari, a technology and cybersecurity risk management leader with more than 15 years advising financial institutions, the key shift is not simply faster detection.",
-      "url": "https://www.ibtimes.com/bhavya-bhandaris-perspective-how-ai-changing-cyber-risk-visibility-3806073",
-      "date": "2026-08-04T16:15:12Z"
-    },
-    {
-      "title": "US AI leaders turn to Chinese open-weight models, challenging closed-source safety claims",
-      "description": "[SOUTH CHINA MORNING POST] Andrew Ng and others argue accessible systems outperform overly restricted platforms on cybersecurity and transparency.",
-      "url": "https://www.scmp.com/news/us/article/3362974/us-ai-leaders-turn-chinese-open-weight-models-challenging-closed-source-safety-claims",
-      "date": "2026-08-04T16:08:31Z"
-    },
-    {
-      "title": "Google Synced Passkeys Can Be Hijacked By Malware In New Attack",
-      "description": "[HOT HARDWARE] Cybersecurity researchers at Palo Alto Networks' Unit 42 have uncovered three novel post-compromise attack vectors that allow local malware on Windows PCs to quietly hijack Google-synced passkeys, bypassing biometric checks and PIN prompts.",
-      "url": "https://hothardware.com/news/google-synced-passkeys-can-be-hijacked-by-malware-in-new-attack",
-      "date": "2026-08-04T15:50:00Z"
-    },
-    {
-      "title": "Massive ChainDrop npm supply-chain attack infects hundreds of packages",
-      "description": "[BLEEPINGCOMPUTER] Self-propagating malware named 'ChainDrop' has compromised more than 1,300 packages with a combined 2 billion monthly downloads on the Node Package Manager (npm) registry. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/massive-chaindrop-npm-supply-chain-attack-infects-hundreds-of-packages/",
-      "date": "2026-08-04T15:24:35Z"
-    },
-    {
-      "title": "Botnet Hunting for Vulnerabilities in Diagnostic Tools, (Tue, Aug 4th)",
-      "description": "[ISC] This morning, I noticed specific sources \"hunting\" for vulnerabilities in URLs that I haven&&#x23&#x3b;x26&#x3b;&#x23&#x3b;39&#x3b;t noticed before. All of these URLs appear to be associated with diagnostic tools:&#xd;",
-      "url": "https://isc.sans.edu/diary/rss/33214",
-      "date": "2026-08-04T12:46:19Z"
-    },
-    {
-      "title": "Community Choice",
-      "description": "[GLOBENEWSWIRE] 2026 Cybersecurity Excellence Awards: Community Choice Winners Selected Through 80,000 Votes ...",
-      "url": "https://www.globenewswire.com/news-release/2026/08/04/3338327/0/en/2026-cybersecurity-excellence-awards-community-choice-winners-selected-through-80-000-votes.html",
-      "date": "2026-08-04T12:43:40Z"
-    },
-    {
-      "title": "Some Claude Chats Are Searchable on Google",
-      "description": "[SCHNEIER] And it&#8217;s personal information (alternate link): The exposed data includes an AI-powered therapy app that someone appears to have vibe-coded, notes on meetings, and a dashboard someone made apparently to analyze medical billing data. Exposed...",
-      "url": "https://www.schneier.com/blog/archives/2026/08/some-claude-chats-are-searchable-on-google.html",
-      "date": "2026-08-04T10:13:58Z"
-    },
-    {
-      "title": "ISC Stormcast For Tuesday, August 4th, 2026 https://isc.sans.edu/podcastdetail/10036, (Tue, Aug 4th)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33212",
-      "date": "2026-08-04T02:00:03Z"
-    },
-    {
-      "title": "More on the OpenAI Agent\u2019s Attack on Hugging Face",
-      "description": "[SCHNEIER] Hugging Face has published a detailed timeline of the attack. From the summary: The agent was running an internal OpenAI cyber-capability evaluation based on the ExploitGym benchmark, which tasks an AI agent with finding and exploiting software...",
-      "url": "https://www.schneier.com/blog/archives/2026/08/more-on-the-openai-agents-attack-on-hugging-face.html",
-      "date": "2026-08-03T17:02:46Z"
-    },
-    {
-      "title": "The OpenAI Hack Shows the Genie Is Out of the Bottle",
-      "description": "[SCHNEIER] This essay originally appeared in Foreign Policy. Earlier this month, two of OpenAI&#8217;s models broke out of their containment sandbox and attacked another AI company. The story is kind of wild. OpenAI was running security tests on two of its...",
-      "url": "https://www.schneier.com/blog/archives/2026/08/the-openai-hack-shows-the-genie-is-out-of-the-bottle.html",
-      "date": "2026-08-03T10:47:47Z"
-    },
-    {
-      "title": "ISC Stormcast For Monday, August 3rd, 2026 https://isc.sans.edu/podcastdetail/10034, (Mon, Aug 3rd)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33210",
-      "date": "2026-08-03T02:00:02Z"
-    },
-    {
-      "title": "Atomic MacOS (AMOS) stealer infection, (Sun, Aug 2nd)",
-      "description": "[ISC] Introduction&#xd;",
-      "url": "https://isc.sans.edu/diary/rss/33208",
-      "date": "2026-08-02T04:05:08Z"
-    },
-    {
-      "title": "Phishing Campaigns Targeting AI Solutions Providers, (Sat, Aug 1st)",
-      "description": "[ISC] Most phishing campaigns rely on the fact that the victim is afraid to loose \"something\": money, access to information, ... Many brands have been impersonated by campaigns but I spotted some phishing emails that focus on AI services like ChatGPT.&#xd;",
-      "url": "https://isc.sans.edu/diary/rss/33206",
-      "date": "2026-08-01T07:22:32Z"
-    },
-    {
-      "title": "Friday Squid Blogging: Squid Helps Discover New Marine Species",
-      "description": "[SCHNEIER] The Squid is a new scientific machine: One of the technological breakthroughs was the onboard use of a spinning wheel confocal microscope, nicknamed the Squid, which uses lasers to scan microscopic details of how organisms are put together....",
-      "url": "https://www.schneier.com/blog/archives/2026/07/friday-squid-blogging-squid-helps-discover-new-marine-species.html",
-      "date": "2026-07-31T21:06:46Z"
-    }
-  ]
+    "title": "Sentinel Protocol",
+    "tagline": "Perimeter Intelligence Sync",
+    "updated": "2026-08-05 12:49 UTC",
+    "news": [
+        {
+            "source": {
+                "id": "rt",
+                "name": "RT"
+            },
+            "author": "RT",
+            "title": "$89 million crypto theft blamed on \u2018new AI paradigm\u2019",
+            "description": "AI is making it far easier to uncover flaws in high-security code, Coinkite CEO Rodolfo Novak has warned after thieves stole Bitcoin from users of the company\u2019s Coldcard hardware wallets",
+            "url": "https://www.rt.com/news/643833-coldcard-bitcoin-theft-ai/",
+            "urlToImage": "https://mf.b37mrtl.ru/files/2026.08/article/6a71cf5985f5407e1b798a91.jpg",
+            "publishedAt": "2026-08-04T12:43:06Z",
+            "content": "The theft of at least $89 million in cryptocurrency that was supposedly safely stored in high-security hardware wallets has prompted the producer to warn that a \u201cnew AI paradigm\u201d is redefining cybers\u2026 [+3021 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "GlobeNewswire"
+            },
+            "author": "Cybersecurity Insiders",
+            "title": "2026 Cybersecurity Excellence Awards: Community Choice Winners Selected Through 80,000 Votes",
+            "description": "2026 Cybersecurity Excellence Awards: Community Choice Winners Selected Through 80,000 Votes\n...",
+            "url": "https://www.globenewswire.com/news-release/2026/08/04/3338327/0/en/2026-Cybersecurity-Excellence-Awards-Community-Choice-Winners-Selected-Through-80-000-Votes.html",
+            "urlToImage": "https://ml.globenewswire.com/Resource/Download/cf720e53-5203-487a-8cb5-22a55ff2f601",
+            "publishedAt": "2026-08-04T12:43:00Z",
+            "content": "LAS VEGAS, Aug. 04, 2026 (GLOBE NEWSWIRE) -- The Cybersecurity Excellence Awards today announced the winners of the 2026 Community Choice Award, selected through 79,455 votes cast during the awards s\u2026 [+2970 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Alex Harring",
+            "title": "Palantir earnings, McDonald's new U.S. head, tiny 'cars' and more in Morning Squawk",
+            "description": "Here are five key things investors need to know to start the trading day.",
+            "url": "https://www.cnbc.com/2026/08/04/5-things-to-know-before-the-stock-market-opens.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108181725-1754405656695-gettyimages-2220153082-mcdsglos-1.jpeg?v=1754405747&w=1920&h=1080",
+            "publishedAt": "2026-08-04T12:42:32Z",
+            "content": "This is CNBC's Morning Squawk newsletter.\u00a0Subscribe here\u00a0to receive future editions in your inbox.\r\nHappy Tuesday. If you're feeling inflation's pinch, you're not alone: Manufacturing sector managers\u2026 [+4411 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PRNewswire"
+            },
+            "author": null,
+            "title": "Agiloft's Noe Ramos Elected to WorldCC's 2026-2028 Council of Global Ambassadors",
+            "description": "Agiloft's VP of AI Operations recognized for leadership in contract management, will represent the US West region in the Americas REDWOOD CITY, Calif., Aug. 4, 2026 /PRNewswire/ -- Agiloft, the global leader in contract lifecycle management (CLM), today annou\u2026",
+            "url": "https://www.prnewswire.com/news-releases/agilofts-noe-ramos-elected-to-worldccs-20262028-council-of-global-ambassadors-302841952.html",
+            "urlToImage": null,
+            "publishedAt": "2026-08-04T12:41:00Z",
+            "content": "Agiloft's VP of AI Operations recognized for leadership in contract management, will represent the US West region in the Americas\r\nREDWOOD CITY, Calif., Aug. 4, 2026 /PRNewswire/ -- Agiloft, the glob\u2026 [+2786 chars]"
+        },
+        {
+            "source": {
+                "id": "financial-post",
+                "name": "Financial Post"
+            },
+            "author": "Business Wire",
+            "title": "New 3D Flash Memory Technology from Kioxia and Sandisk Achieves Industry\u2019s Highest Bit Density for QLC NAND",
+            "description": "10th-generation QLC 3D flash memory represents a major leap forward for AI storage architectures, cloud platforms, and data\u2011intensive innovations SANTA CLARA, Calif. \u2014 Future of Memory and Storage Conference (FMS) \u2013 Kioxia Corporation, a subsidiary of Kioxia \u2026",
+            "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/new-3d-flash-memory-technology-from-kioxia-and-sandisk-achieves-industrys-highest-bit-density-for-qlc-nand",
+            "urlToImage": null,
+            "publishedAt": "2026-08-04T12:37:47Z",
+            "content": "10th-generation QLC 3D flash memory represents a major leap forward for AI storage architectures, cloud platforms, and data\r\nTHIS CONTENT IS RESERVED FOR SUBSCRIBERS ONLY\r\nSubscribe now to read the l\u2026 [+10152 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PRNewswire"
+            },
+            "author": null,
+            "title": "ULTRA RED Unveils H1VE and CRIMSON, Extending Its CTEM Platform Across Attacker Intelligence and Automated Response",
+            "description": "The updates help security teams identify active attackers, validate what they can exploit, and orchestrate a response, moving from visibility to certainty as AI accelerates cyberattacks TEL AVIV, Israel, Aug. 4, 2026 /PRNewswire/ -- ULTRA RED, a leader in Con\u2026",
+            "url": "https://www.prnewswire.com/news-releases/ultra-red-unveils-h1ve-and-crimson-extending-its-ctem-platform-across-attacker-intelligence-and-automated-response-302842142.html",
+            "urlToImage": "https://mmx.prnewswire.com/media/MS1962976/ULTRA-RED-LOGO.jpg?id=OA2821944&p=facebook",
+            "publishedAt": "2026-08-04T12:32:00Z",
+            "content": "The updates help security teams identify active attackers, validate what they can exploit, and orchestrate a response, moving from visibility to certainty as AI accelerates cyberattacks\r\nTEL AVIV, Is\u2026 [+3582 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PRNewswire"
+            },
+            "author": null,
+            "title": "2026 Voice Threat Survey Reveals Voice Security Has Reached a Tipping Point",
+            "description": "New industry research finds growing concern over AI-powered voice attacks, expanding enterprise risk, and increasing recognition that Voice Security must become part of every organization's cybersecurity strategy. CHICAGO, Aug. 4, 2026 /PRNewswire/ -- Mutare,\u2026",
+            "url": "https://www.prnewswire.com/news-releases/2026-voice-threat-survey-reveals-voice-security-has-reached-a-tipping-point-302841749.html",
+            "urlToImage": "https://mmx.prnewswire.com/media/MS1959926/logo.jpg?id=OA2797879&p=facebook",
+            "publishedAt": "2026-08-04T12:32:00Z",
+            "content": "New industry research finds growing concern over AI-powered voice attacks, expanding enterprise risk, and increasing recognition that Voice Security must become part of every organization's cybersecu\u2026 [+6159 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "GlobeNewswire"
+            },
+            "author": "SEAL Semiconductors",
+            "title": "SEALSQ Appoints Daniel Brau as Chief Quantum Officer to Accelerate Commercialization of its SEALQuantum Sovereign Vertical Stack",
+            "description": "Geneva, Switzerland, Aug. 04, 2026 (GLOBE NEWSWIRE) -- Appointment advances SEALSQ\u2019s strategy to commercialize its integrated quantum, photonics and post\u2011quantum security platform across enterprise, government and critical infrastructure markets",
+            "url": "https://www.globenewswire.com/news-release/2026/08/04/3338305/0/en/SEALSQ-Appoints-Daniel-Brau-as-Chief-Quantum-Officer-to-Accelerate-Commercialization-of-its-SEALQuantum-Sovereign-Vertical-Stack.html",
+            "urlToImage": "https://ml.globenewswire.com/Resource/Download/4071513d-3f7c-4a38-a055-8da38cfb60df",
+            "publishedAt": "2026-08-04T12:30:00Z",
+            "content": "Geneva, Switzerland, Aug. 04, 2026 (GLOBE NEWSWIRE) -- \r\nAppointment advances SEALSQs strategy to commercialize its integrated quantum, photonics and postquantum security platform across enterprise, \u2026 [+10821 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "GlobeNewswire"
+            },
+            "author": "Cycurion",
+            "title": "Cycurion, Inc. Closes Acquisition of Digital Ally Video Solutions Business, Expanding Its Resources While Adding More Than $5 Million in Revenue and Over $1.2 Million in EBITDA \u2014 Bringing Annual Revenue Run Rate to Approximately $30 Million",
+            "description": "MCLEAN, Va., Aug. 04, 2026 (GLOBE NEWSWIRE) -- Cycurion, Inc. (NASDAQ: CYCU) (\u201cCycurion\u201d or the \u201cCompany\u201d), a leading provider of AI-driven cybersecurity, IT security solutions, and managed services, today announced the successful closing of its acquisition o\u2026",
+            "url": "https://www.globenewswire.com/news-release/2026/08/04/3338283/0/en/Cycurion-Inc-Closes-Acquisition-of-Digital-Ally-Video-Solutions-Business-Expanding-Its-Resources-While-Adding-More-Than-5-Million-in-Revenue-and-Over-1-2-Million-in-EBITDA-Bringing.html",
+            "urlToImage": null,
+            "publishedAt": "2026-08-04T12:20:00Z",
+            "content": "MCLEAN, Va., Aug. 04, 2026 (GLOBE NEWSWIRE) -- Cycurion, Inc. (NASDAQ: CYCU) (Cycurion or the Company), a leading provider of AI-driven cybersecurity, IT security solutions, and managed services, tod\u2026 [+8981 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "GlobeNewswire"
+            },
+            "author": "HUB Cyber Security Ltd",
+            "title": "HUB Cyber Security Ltd. Enters into Agreement to Sell the QPoint Group for Approximately US $8.7 Million to the Malam Team Group",
+            "description": "Proceeds to Address Creditor Obligations Proceeds to Address Creditor Obligations",
+            "url": "https://www.globenewswire.com/news-release/2026/08/04/3338281/0/en/HUB-Cyber-Security-Ltd-Enters-into-Agreement-to-Sell-the-QPoint-Group-for-Approximately-US-8-7-Million-to-the-Malam-Team-Group.html",
+            "urlToImage": "https://ml.globenewswire.com/Resource/Download/6e976c16-ef4b-44bf-91c9-07ed7e45213b",
+            "publishedAt": "2026-08-04T12:16:00Z",
+            "content": "TEL AVIV, Israel, Aug. 04, 2026 (GLOBE NEWSWIRE) -- Hub Cyber Security Ltd. (Nasdaq: HUBC) (HUB or the Company), today announced that it has entered into an agreement (the Agreement) to sell 100% of \u2026 [+6670 chars]"
+        }
+    ]
 }
