@@ -1,11 +1,23 @@
 {
-  "updated": "2026-08-05 15:53:47 UTC",
+  "updated": "2026-08-05 17:19:52 UTC",
   "news": [
     {
       "title": "CISA warns of hackers exploiting Langflow, N-central, Apache Tomcat flaws",
       "description": "[BLEEPINGCOMPUTER] The U.S. Cybersecurity and Infrastructure Security Agency is giving federal agencies three days to mitigate vulnerabilities in IBM Langflow, N-central, and Apache Tomcat, all actively exploited. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-langflow-n-central-apache-tomcat-flaws/",
       "date": "2026-08-05T15:51:33Z"
+    },
+    {
+      "title": "Poison Claude Sells Discounted Claude Access While Its Operator Sees Every Customer Prompt",
+      "description": "[FEEDS] Cybersecurity researchers have discovered more than half-a-dozen services advertisements for illegal access to artificial intelligence (AI) models on underground cybercrime forums and messaging platforms. One such service, Poison Claude, claims to...",
+      "url": "https://thehackernews.com/2026/08/poison-claude-sells-discounted-claude.html",
+      "date": "2026-08-05T15:36:03Z"
+    },
+    {
+      "title": "Paperclip AI Flaws Let Attackers Run Host Commands via Malicious Agent Imports",
+      "description": "[FEEDS] Two security flaws in Paperclip could let attackers execute commands on a network server or a developer's computer. Paperclip is an open-source control plane for teams of artificial intelligence (AI) agents, and both paths rely on importing a...",
+      "url": "https://thehackernews.com/2026/08/paperclip-ai-flaws-let-attackers-run.html",
+      "date": "2026-08-05T15:14:05Z"
     },
     {
       "title": "Google Blogger locks hundreds of blogs in malware false positive",
@@ -26,7 +38,7 @@
       "date": "2026-08-05T14:01:11Z"
     },
     {
-      "title": "Trojanized npm Packages Decode C2 IP From Ethereum Recipient Addresses",
+      "title": "Trojanized npm Packages Employ NullReceiver Tactic to Decode C2 IP from Blockchain",
       "description": "[FEEDS] Cybersecurity researchers have flagged an evolution of the EtherHiding blockchain-based command-and-control (C2) technique that conceals the C2 server IP address inside a made-up destination address of a completely empty Ethereum transfer. The new...",
       "url": "https://thehackernews.com/2026/08/trojanized-npm-packages-decode-c2-ip.html",
       "date": "2026-08-05T13:41:27Z"
@@ -44,22 +56,58 @@
       "date": "2026-08-05T11:43:19Z"
     },
     {
-      "title": "Critical Gitea Flaw Let Unauthenticated Attackers Read Server Files via Org-Mode Markup",
-      "description": "[FEEDS] An unauthenticated attacker can read any file the service account can access on Gitea, the self-hosted Git platform, in versions 1.22.1 through 1.27.0. No login, no repository write access. A public repository and crafted Org-mode markup are enough....",
-      "url": "https://thehackernews.com/2026/08/critical-gitea-flaw-let-unauthenticated.html",
-      "date": "2026-08-05T11:04:23Z"
-    },
-    {
-      "title": "Leaked n8n API Tokens Exposed Live Instances to Credential Theft",
-      "description": "[FEEDS] GitGuardian researchers found 321 n8n instances accepting API tokens exposed in public GitHub commits and demonstrated four ways attackers could use them to access sensitive data and downstream credentials without exploiting a software...",
-      "url": "https://thehackernews.com/2026/08/leaked-n8n-api-tokens-exposed-live.html",
-      "date": "2026-08-05T10:35:29Z"
-    },
-    {
       "title": "Vulnerabilities in Car Anti-Theft Device",
       "description": "[SCHNEIER] This is disturbing: &#8230;a team of security researchers at UC San Diego, who found that a model of aftermarket car alarm known as the KARR Security System, installed in more than 2 million vehicles across the US by their estimate, can let any...",
       "url": "https://www.schneier.com/blog/archives/2026/08/vulnerabilities-in-car-anti-theft-device.html",
       "date": "2026-08-05T09:42:43Z"
+    },
+    {
+      "title": "NuSummit Joins CREST AI Charter Founding Signatories to Advance Trusted AI in Cybersecurity",
+      "description": "[THE TRIBUNE] Plano (Texas) [US], August 5: Artificial intelligence is changing how organizations approach cybersecurity, from threat detection to security operations. As adoption accelerates, trust, transparency, and accountability are becoming the deciding...",
+      "url": "https://www.tribuneindia.com/news/business/nusummit-joins-crest-ai-charter-founding-signatories-to-advance-trusted-ai-in-cybersecurity/",
+      "date": "2026-08-05T05:13:48Z"
+    },
+    {
+      "title": "NuSummit Joins CREST AI Charter Founding Signatories to Advance Trusted AI in Cybersecurity",
+      "description": "[ANI (ASIAN NEWS INTERNATIONAL)] Plano (Texas) [US], August 5: Artificial intelligence is changing how organizations approach cybersecurity, from threat detection to security operations. As adoption accelerates, trust, transparency, and accountability are becoming the deciding...",
+      "url": "https://www.aninews.in/news/business/nusummit-joins-crest-ai-charter-founding-signatories-to-advance-trusted-ai-in-cybersecurity20260805103942/",
+      "date": "2026-08-05T05:09:42Z"
+    },
+    {
+      "title": "Study finds AI agents powered by Anthropic's Mythos 5 and OpenAI's GPT-5.6-Sol created fake identities, wrote malicious code",
+      "description": "[TIMES OF INDIA] Tech News News: AI agents powered by advanced models from OpenAI and Anthropic carried out actions they were not authorised to take during cybersecurity tests conduct.",
+      "url": "https://timesofindia.indiatimes.com/technology/tech-news/study-finds-ai-agents-powered-by-anthropics-mythos-5-and-openais-gpt-5-6-sol-created-fake-identities-wrote-malicious-code/articleshow/132892543.cms",
+      "date": "2026-08-05T05:08:00Z"
+    },
+    {
+      "title": "OpenAI, Anthropic AI agents target real people in cyber tests",
+      "description": "[NEWSBYTES] OpenAI and Anthropic revealed their AI models breached a real website and conducted unauthorized social engineering attacks during third-party cybersecurity testing incidents.",
+      "url": "https://www.newsbytesapp.com/news/science/ai-cybersecurity-testing-breaches-raise-concerns/story",
+      "date": "2026-08-05T04:56:47Z"
+    },
+    {
+      "title": "Lunar Brings Data Breach Monitoring to Companies Without Security Teams",
+      "description": "[TECHBULLION] The idea is similar to personal credit monitoring, but for a company\u2019s digital identity. Instead of waiting to discover that someone has logged into an account, Lunar gives a business an earlier signal that the information needed for that login may...",
+      "url": "https://techbullion.com/lunar-brings-data-breach-monitoring-to-companies-without-security-teams/",
+      "date": "2026-08-05T04:56:10Z"
+    },
+    {
+      "title": "After Hugging Face Hack, Nvidia-Led Alliance Brings Framework To Counter Future AI Attacks",
+      "description": "[TIMES NOW] Nvidia-led Open Secure AI Alliance has introduced SAFE, a new AI cybersecurity framework to help companies share incidents, improve threat response, and strengthen AI security., Technology & Science, Times Now",
+      "url": "https://www.timesnownews.com/technology-science/after-hugging-face-hack-nvidia-led-alliance-brings-framework-to-counter-future-ai-attacks-article-155293323",
+      "date": "2026-08-05T04:37:00Z"
+    },
+    {
+      "title": "NuSummit Joins CREST AI Charter Founding Signatories to Advance Trusted AI in Cybersecurity",
+      "description": "[PR NEWSWIRE UK] /PRNewswire/ -- Artificial intelligence is changing how organizations approach cybersecurity, from threat detection to security operations. As adoption...",
+      "url": "https://www.prnewswire.co.uk/news-releases/nusummit-joins-crest-ai-charter-founding-signatories-to-advance-trusted-ai-in-cybersecurity-302842561.html",
+      "date": "2026-08-05T04:30:00Z"
+    },
+    {
+      "title": "No system malfunction found, after 432 students report O-level English oral discrepancies",
+      "description": "[THE STRAITS TIMES] It was also not a cybersecurity incident, said Senior Minister of State for Education Janil Puthucheary. Read more at straitstimes.com.",
+      "url": "https://www.straitstimes.com/singapore/politics/no-system-malfunction-found-after-432-students-report-o-level-english-oral-discrepancies",
+      "date": "2026-08-05T03:55:00Z"
     },
     {
       "title": "The UK AI Security Institute said OpenAI and Anthropic models raised serious concerns in testing.",
@@ -69,63 +117,15 @@
     },
     {
       "title": "Coupang swings to Q2 loss on data breach fines",
-      "description": "[LOKMAT TIMES] Coupang swings to Q2 loss on data breach fines - Seoul, Aug 5 E-commerce giant Coupang said on Wednesday it swung to a net loss in the second ... Get Latest News on Technology only on lokmattimes.com",
-      "url": "https://www.lokmattimes.com/technology/coupang-swings-to-q2-loss-on-data-breach-fines-1/",
-      "date": "2026-08-05T03:37:17Z"
-    },
-    {
-      "title": "Coupang swings to Q2 loss on data breach fines",
       "description": "[LOKMAT TIMES] Coupang swings to Q2 loss on data breach fines - Seoul, Aug 5 E-commerce giant Coupang said on Wednesday it swung to a net loss in the second ... Get Latest News on Business only on lokmattimes.com",
       "url": "https://www.lokmattimes.com/business/coupang-swings-to-q2-loss-on-data-breach-fines/",
       "date": "2026-08-05T03:37:17Z"
-    },
-    {
-      "title": "Trump Administration Won\u2019t Safety-Test Open-Weight AI Models as OpenAI and Anthropic Raise Cybersecurity",
-      "description": "[BENZINGA] Trump reportedly plans to exclude open-weight AI models from safety testing despite growing cybersecurity concerns.",
-      "url": "https://www.benzinga.com/markets/tech/26/08/60937215/trump-open-weight-ai-models-safety-testing-openai-anthropic",
-      "date": "2026-08-05T03:18:42Z"
-    },
-    {
-      "title": "OpenAI, Anthropic AI agents created fake identities during UK cyber tests: Report",
-      "description": "[THE INDIAN EXPRESS] A UK government-backed AI safety body has revealed new instances of unauthorised behaviour by advanced AI agents during cybersecurity evaluations.",
-      "url": "https://indianexpress.com/article/technology/artificial-intelligence/uk-ai-watchdog-openai-anthropic-ai-agent-security-10818326/",
-      "date": "2026-08-05T03:08:22Z"
-    },
-    {
-      "title": "MAINE COURSE HOSPITALITY GROUP DATA BREACH: Edelson",
-      "description": "[GLOBENEWSWIRE] Edelson Lechtzin LLP is investigating data privacy claims arising from the Maine Course Hospitality Group data breach....",
-      "url": "https://www.globenewswire.com/news-release/2026/08/05/3339007/0/en/maine-course-hospitality-group-data-breach-edelson-lechtzin-llp-launches-investigation-into-exposure-of-personal-information.html",
-      "date": "2026-08-05T02:52:48Z"
-    },
-    {
-      "title": "Everside Health Data Breach Exposes Personal Information:",
-      "description": "[GLOBENEWSWIRE] Murphy Law Firm investigates claims on behalf of everyone whose information was exposed in the Everside Health data breach....",
-      "url": "https://www.globenewswire.com/news-release/2026/08/05/3338999/0/en/everside-health-data-breach-exposes-personal-information-murphy-law-firm-investigates-legal-claims.html",
-      "date": "2026-08-05T02:12:32Z"
     },
     {
       "title": "ISC Stormcast For Wednesday, August 5th, 2026 https://isc.sans.edu/podcastdetail/10038, (Wed, Aug 5th)",
       "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
       "url": "https://isc.sans.edu/diary/rss/33216",
       "date": "2026-08-05T02:00:02Z"
-    },
-    {
-      "title": "The brands most frequently impersonated by cybercriminals",
-      "description": "[NBC10 BOSTON] Check Point, a cybersecurity firm, finds some well-known brands are used to steal information more often than others.",
-      "url": "https://www.nbcboston.com/investigations/consumer/these-are-the-brands-most-frequently-impersonated-by-cybercriminals/3992324/",
-      "date": "2026-08-05T01:55:04Z"
-    },
-    {
-      "title": "Darktrace Among First Cybersecurity Companies Selected to Integrate Risk Signals into Microsoft Agent 365",
-      "description": "[ITWIRE] Darktrace / SECURE AI will bring its organization-specific behavioral risk signals into Microsoft Agent 365, helping customers identify anomalous or suspicious agent behavior...",
-      "url": "https://itwire.com/business-it-news/security/darktrace-among-first-cybersecurity-companies-selected-to-integrate-risk-signals-into-microsoft-agent-365",
-      "date": "2026-08-05T01:54:00Z"
-    },
-    {
-      "title": "Bihar varsity fixes website flaw that exposed 2TB data",
-      "description": "[THE TRIBUNE] Days after a serious cybersecurity flaw was detected on Bihar\u2019s Magadh University website, raising concerns about the possible exposure of sensitive student data, the vulnerability has been fixed.",
-      "url": "https://www.tribuneindia.com/news/india/bihar-varsity-fixes-website-flaw-that-exposed-2tb-data/",
-      "date": "2026-08-05T01:50:43Z"
     },
     {
       "title": "OpenAI, Anthropic AI agents targeted real people and systems in cyber tests",
