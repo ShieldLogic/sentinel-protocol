@@ -1,209 +1,137 @@
 {
-  "updated": "2026-08-06 11:56:26 UTC",
-  "news": [
-    {
-      "title": "Adversarial Clothing Designed to Fool Facial Recognition Systems",
-      "description": "[SCHNEIER] There are many companies manufacturing adversarial clothing designed to confuse facial recognition systems. It&#8217;s a cool idea, but I worry that it&#8217;s mostly security theater: &#8220;Our patterns play with that chaos, confuse algorithms and...",
-      "url": "https://www.schneier.com/blog/archives/2026/08/adversarial-clothing-designed-to-fool-facial-recognition-systems.html",
-      "date": "2026-08-06T11:04:51Z"
-    },
-    {
-      "title": "Attackers Compile khunt Inside Oracle to Turn SQL Injection Into Windows SYSTEM Access",
-      "description": "[FEEDS] Attackers broke into an organization's Oracle database through a SQL injection flaw in a public-facing web application, then installed a post-exploitation toolkit without writing an executable to disk. They fed Java source code to the database, let...",
-      "url": "https://thehackernews.com/2026/08/attackers-compile-khunt-inside-oracle.html",
-      "date": "2026-08-06T09:19:23Z"
-    },
-    {
-      "title": "AWS, Google, and Vercel Agent Flaws Let Attackers Trigger Tools Without Running the Model",
-      "description": "[FEEDS] Security flaws in agent infrastructure from Amazon Web Services (AWS), Google, and Vercel let untrusted or forged instructions reach an agent's tools with no check that a model turn had authorized them. In several of the attack paths, the model...",
-      "url": "https://thehackernews.com/2026/08/aws-google-and-vercel-patch-agent-flaws.html",
-      "date": "2026-08-06T08:57:30Z"
-    },
-    {
-      "title": "Chinese-Made Zbtlink Routers Ship With Backdoor That Opens Unauthenticated Root Shells",
-      "description": "[FEEDS] Cybersecurity researchers have disclosed details of a \"factory-shipped backdoor\" implanted in at least 20 Chinese router models from Zbtlink. According to a new report from VulnCheck, the implant appears in all 21 firmware images currently available...",
-      "url": "https://thehackernews.com/2026/08/chinese-made-zbtlink-routers-ship-with.html",
-      "date": "2026-08-06T08:05:22Z"
-    },
-    {
-      "title": "Ransom Cartel Creator Gets 16 Years in Prison for Operating Ransomware-as-a-Service",
-      "description": "[FEEDS] A federal judge in Alexandria, Virginia, sentenced Maksim Silnikau to 16 years in prison on August 5 for creating and running Ransom Cartel, the ransomware-as-a-service operation he stood up in 2021. Between 2021 and 2023, Ransom Cartel conspirators...",
-      "url": "https://thehackernews.com/2026/08/ransom-cartel-creator-gets-16-years-in.html",
-      "date": "2026-08-06T07:19:54Z"
-    },
-    {
-      "title": "CISA Flags TeamCity CVE-2026-63077 RCE Flaw Under Active Exploitation in the Wild",
-      "description": "[FEEDS] A newly patched security flaw impacting on-premise versions of JetBrains TeamCity has come under active exploitation in the wild, according to the U.S. Cybersecurity and Infrastructure Security Agency (CISA). The vulnerability in question is...",
-      "url": "https://thehackernews.com/2026/08/cisa-flags-teamcity-cve-2026-63077-rce.html",
-      "date": "2026-08-06T06:51:43Z"
-    },
-    {
-      "title": "Snowflake Hacker Pleads Guilty Over Breaches Affecting at Least 100 Million People",
-      "description": "[FEEDS] Connor Riley Moucka pleaded guilty in Seattle federal court on Wednesday to computer fraud, wire fraud, aggravated identity theft and a related conspiracy over the 2024 breaches of Snowflake customer accounts. The intrusions reached at least 165...",
-      "url": "https://thehackernews.com/2026/08/snowflake-hacker-pleads-guilty-over.html",
-      "date": "2026-08-06T06:04:30Z"
-    },
-    {
-      "title": "ISC Stormcast For Thursday, August 6th, 2026 https://isc.sans.edu/podcastdetail/10040, (Thu, Aug 6th)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33222",
-      "date": "2026-08-06T02:00:02Z"
-    },
-    {
-      "title": "22 Seconds to Compromise: How Automated SSH Actors Move From Login to Persistence Before You Can Blink &#x5b;Guest Diary&#x5d;, (Thu, Aug 6th)",
-      "description": "[ISC] &#x5b;This is a Guest Diary by Daryl Jiminez, an ISC intern as part of the SANS.edu BACS program&#x5d;&#xd;",
-      "url": "https://isc.sans.edu/diary/rss/33220",
-      "date": "2026-08-06T00:15:40Z"
-    },
-    {
-      "title": "An AI model from Meta also hacked another company during testing",
-      "description": "[ABC17NEWS.COM] By Hadas Gold, CNN (CNN) \u2014 Add Meta to the list of companies with AI agents going rogue. An AI model from the parent company of Facebook and Instagram hacked into another company\u2019s systems during cybersecurity testing, a spokesperson confirmed on...",
-      "url": "https://abc17news.com/money/cnn-business-consumer/2026/08/05/an-ai-model-from-meta-also-hacked-another-company-during-testing/",
-      "date": "2026-08-05T23:36:06Z"
-    },
-    {
-      "title": "An AI model from Meta also hacked another company during testing",
-      "description": "[CABLE NEWS NETWORK] Add Meta to the list of companies with AI agents going rogue. An AI model from the parent company of Facebook and Instagram hacked into another company\u2019s systems during cybersecurity testing, a spokesperson confirmed on Wednesday.",
-      "url": "https://edition.cnn.com/2026/08/05/tech/meta-ai-hacking",
-      "date": "2026-08-05T23:36:06Z"
-    },
-    {
-      "title": "Meta's AI model hacked another company during testing, The Information reports",
-      "description": "[THE KOREA TIMES] Meta's AI model hacked another company during cybersecurity testing, The Information reported on Wednesday, marking the latest incident of AI agent...",
-      "url": "https://www.koreatimes.co.kr/world/20260806/metas-ai-model-hacked-another-company-during-testing-the-information-reports",
-      "date": "2026-08-05T23:31:02Z"
-    },
-    {
-      "title": "Chinese-Made Zbtlink Routers Found With Hidden Backdoor, Cybersecurity Researchers Warn",
-      "description": "[TIMES NOW] Recent research by VulnCheck has uncovered a backdoor, named \"Endlessdoors,\" in over 20 models of routers made by China's Zbtlink, potentially compromising network security globally. , US News, Times Now",
-      "url": "https://www.timesnownews.com/world/us/us-news/chinese-made-zbtlink-routers-found-with-hidden-backdoor-cybersecurity-researchers-warn-article-155316202",
-      "date": "2026-08-05T23:27:55Z"
-    },
-    {
-      "title": "Meta's AI model hacked another company during testing",
-      "description": "[PERTHNOW] A Meta AI model reportedly accessed the internet during cybersecurity testing and hacked into another company.",
-      "url": "https://www.perthnow.com.au/news/technology/metas-ai-model-hacked-another-company-during-testing-c-22683502",
-      "date": "2026-08-05T23:23:29Z"
-    },
-    {
-      "title": "Meta's AI model hacked another company during testing",
-      "description": "[THE CANBERRA TIMES] A Meta AI model reportedly accessed the internet during cybersecurity testing and hacked into another company.",
-      "url": "https://www.canberratimes.com.au/story/9324961/metas-ai-model-hacked-another-company-during-testing/",
-      "date": "2026-08-05T23:21:48Z"
-    },
-    {
-      "title": "Ransom Cartel ransomware creator sentenced to 16 years in prison",
-      "description": "[BLEEPINGCOMPUTER] Maksim Silnikau, the creator and administrator of the Ransom Cartel ransomware operation, was sentenced to 16 years in prison for his role in ransomware attacks against at least 18 companies worldwide. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/ransom-cartel-ransomware-creator-sentenced-to-16-years-in-prison/",
-      "date": "2026-08-05T23:00:50Z"
-    },
-    {
-      "title": "Why experts are flagging Chinese company Zbtlink's routers as a potential cybersecurity risk",
-      "description": "[HINDUSTAN TIMES] Over 20 Chinese-made Zbtlink router models contain a backdoor that could enable remote access to routers and connected devices, researchers said. | World News",
-      "url": "https://www.hindustantimes.com/world-news/why-experts-are-flagging-chinese-company-zbtlinks-routers-as-a-potential-cybersecurity-risk-101785967591219.html",
-      "date": "2026-08-05T22:38:23Z"
-    },
-    {
-      "title": "Meta AI model hacks another company during testing",
-      "description": "[REUTERS] Meta said on Wednesday one of its AI models hacked another company \u200bduring cybersecurity testing, fanning concerns about how developers can contain increasingly capable AI systems after similar incidents \u200cat rivals Anthropic and OpenAI.",
-      "url": "https://www.reuters.com/technology/metas-ai-model-hacked-another-company-during-testing-information-reports-2026-08-05/",
-      "date": "2026-08-05T22:29:02Z"
-    },
-    {
-      "title": "Ontario man pleads guilty in U.S.",
-      "description": "[CP24 TORONTO] A man from Kitchener, Ont., has pleaded guilty to being part of a massive international data breach involving \u201cextremely sensitive information.\u201d",
-      "url": "https://www.cp24.com/news/2026/08/05/kitchener-man-faces-up-to-30-years-in-prison-for-international-hacking-conspiracy/",
-      "date": "2026-08-05T21:58:00Z"
-    },
-    {
-      "title": "Canadian pleads guilty to Snowflake cloud data-theft attacks",
-      "description": "[BLEEPINGCOMPUTER] A Canadian man pleaded guilty today to his role in accessing company accounts at cloud storage provider Snowflake and stealing data from at least 165 organizations in a scheme to extort millions of dollars from victims. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/canadian-pleads-guilty-to-snowflake-cloud-data-theft-attacks/",
-      "date": "2026-08-05T21:53:26Z"
-    },
-    {
-      "title": "Hackers run khunt post-exploitation toolkit from Oracle database",
-      "description": "[BLEEPINGCOMPUTER] Hackers exploited a SQL injection vulnerability to install a post-exploitation toolkit directly inside an Oracle database that was used to breach a corporate network. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-run-khunt-post-exploitation-toolkit-from-oracle-database/",
-      "date": "2026-08-05T19:55:25Z"
-    },
-    {
-      "title": "ARCC settlement nets up to $80 for data breach victims",
-      "description": "[MECHANICSBURG PATRIOT NEWS ] Arrowhead Regional Computing Consortium (ARCC) \u2014 which offers payroll services and student data systems to about 50 school districts in Minnesota \u2014 was hit by a cyberattack in 2023.",
-      "url": "https://www.pennlive.com/news/2026/08/data-breach-victims-to-get-up-to-80-as-part-of-settlement.html",
-      "date": "2026-08-05T18:17:00Z"
-    },
-    {
-      "title": "Don't Revoke That Token Yet: Inside the keyv/cacheable npm Worm, (Wed, Aug 5th)",
-      "description": "[ISC] When you learn that a compromised package executed on one of your build hosts, muscle memory takes over: revoke the npm token, rotate the GitHub PAT, cycle the cloud keys. That reflex has been correct in almost every supply-chain incident I have...",
-      "url": "https://isc.sans.edu/diary/rss/33218",
-      "date": "2026-08-05T17:56:15Z"
-    },
-    {
-      "title": "COLDCARD security audit phishing attack installs remote access tool",
-      "description": "[BLEEPINGCOMPUTER] A phishing campaign is exploiting fears surrounding the recently disclosed COLDCARD wallet vulnerability and suspected $88.6 million Bitcoin theft to trick users into installing ScreenConnect remote access software. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/coldcard-security-audit-phishing-attack-installs-remote-access-tool/",
-      "date": "2026-08-05T17:49:41Z"
-    },
-    {
-      "title": "CISA warns of hackers exploiting Langflow, N-central, Apache Tomcat flaws",
-      "description": "[BLEEPINGCOMPUTER] The U.S. Cybersecurity and Infrastructure Security Agency is giving federal agencies three days to mitigate vulnerabilities in IBM Langflow, N-central, and Apache Tomcat, all actively exploited. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-langflow-n-central-apache-tomcat-flaws/",
-      "date": "2026-08-05T15:51:33Z"
-    },
-    {
-      "title": "Google Blogger locks hundreds of blogs in malware false positive",
-      "description": "[BLEEPINGCOMPUTER] Google has locked hundreds of Blogger websites after a false positive claimed they violated its \"Malware and Similar Malicious Content\" policy, with some sites deleted from the platform. [...]",
-      "url": "https://www.bleepingcomputer.com/news/google/google-blogger-locks-hundreds-of-blogs-in-malware-false-positive/",
-      "date": "2026-08-05T14:59:29Z"
-    },
-    {
-      "title": "Vulnerabilities in Car Anti-Theft Device",
-      "description": "[SCHNEIER] This is disturbing: &#8230;a team of security researchers at UC San Diego, who found that a model of aftermarket car alarm known as the KARR Security System, installed in more than 2 million vehicles across the US by their estimate, can let any...",
-      "url": "https://www.schneier.com/blog/archives/2026/08/vulnerabilities-in-car-anti-theft-device.html",
-      "date": "2026-08-05T09:42:43Z"
-    },
-    {
-      "title": "ISC Stormcast For Wednesday, August 5th, 2026 https://isc.sans.edu/podcastdetail/10038, (Wed, Aug 5th)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33216",
-      "date": "2026-08-05T02:00:02Z"
-    },
-    {
-      "title": "Iran Cyberattacks Against Minnesota Water Systems",
-      "description": "[SCHNEIER] Attribution is preliminary, and so far it seems no real damage. And it seems like this is a campaign that has targeted at least seven states. And, because this is where the US is right now, Trump doesn&#8217;t believe it&#8217;s Iran and that...",
-      "url": "https://www.schneier.com/blog/archives/2026/08/iran-cyberattacks-against-minnesota-water-systems.html",
-      "date": "2026-08-04T19:00:53Z"
-    },
-    {
-      "title": "Botnet Hunting for Vulnerabilities in Diagnostic Tools, (Tue, Aug 4th)",
-      "description": "[ISC] This morning, I noticed specific sources \"hunting\" for vulnerabilities in URLs that I haven&&#x23&#x3b;x26&#x3b;&#x23&#x3b;39&#x3b;t noticed before. All of these URLs appear to be associated with diagnostic tools:&#xd;",
-      "url": "https://isc.sans.edu/diary/rss/33214",
-      "date": "2026-08-04T12:46:19Z"
-    },
-    {
-      "title": "Some Claude Chats Are Searchable on Google",
-      "description": "[SCHNEIER] And it&#8217;s personal information (alternate link): The exposed data includes an AI-powered therapy app that someone appears to have vibe-coded, notes on meetings, and a dashboard someone made apparently to analyze medical billing data. Exposed...",
-      "url": "https://www.schneier.com/blog/archives/2026/08/some-claude-chats-are-searchable-on-google.html",
-      "date": "2026-08-04T10:13:58Z"
-    },
-    {
-      "title": "ISC Stormcast For Tuesday, August 4th, 2026 https://isc.sans.edu/podcastdetail/10036, (Tue, Aug 4th)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33212",
-      "date": "2026-08-04T02:00:03Z"
-    },
-    {
-      "title": "More on the OpenAI Agent\u2019s Attack on Hugging Face",
-      "description": "[SCHNEIER] Hugging Face has published a detailed timeline of the attack. From the summary: The agent was running an internal OpenAI cyber-capability evaluation based on the ExploitGym benchmark, which tasks an AI agent with finding and exploiting software...",
-      "url": "https://www.schneier.com/blog/archives/2026/08/more-on-the-openai-agents-attack-on-hugging-face.html",
-      "date": "2026-08-03T17:02:46Z"
-    },
-    {
-      "title": "The OpenAI Hack Shows the Genie Is Out of the Bottle",
-      "description": "[SCHNEIER] This essay originally appeared in Foreign Policy. Earlier this month, two of OpenAI&#8217;s models broke out of their containment sandbox and attacked another AI company. The story is kind of wild. OpenAI was running security tests on two of its...",
-      "url": "https://www.schneier.com/blog/archives/2026/08/the-openai-hack-shows-the-genie-is-out-of-the-bottle.html",
-      "date": "2026-08-03T10:47:47Z"
-    }
-  ]
+    "title": "Sentinel Protocol",
+    "tagline": "Perimeter Intelligence Sync",
+    "updated": "2026-08-06 12:53 UTC",
+    "news": [
+        {
+            "source": {
+                "id": null,
+                "name": "Biztoc.com"
+            },
+            "author": "scmp.com",
+            "title": "US AI leaders are using Chinese open models for cybersecurity. Here\u2019s why",
+            "description": "US AI leaders turn to Chinese open-weight models, challenging closed-source safety claims\nAndrew Ng and others argue accessible systems outperform overly restricted platforms on cybersecurity and transparency\nMore American titans of artificial intelligence ar\u2026",
+            "url": "https://biztoc.com/x/013570498414570b",
+            "urlToImage": "https://biztoc.com/cdn/013570498414570b_s.webp",
+            "publishedAt": "2026-08-05T12:51:47Z",
+            "content": "US AI leaders turn to Chinese open-weight models, challenging closed-source safety claimsAndrew Ng and others argue accessible systems outperform overly restricted platforms on cybersecurity and tran\u2026 [+139 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Decrypt"
+            },
+            "author": "Decrypt Agent",
+            "title": "Anthropic's Claude Mythos 5 'Targeted Real People' in UK Cyber Tests: AISI",
+            "description": "Anthropic's LLM and OpenAI's GPT-5.6 Sol took \"unsanctioned action\" on the live internet, the UK's AI Security Institute said.",
+            "url": "https://decrypt.co/374948/anthropics-claude-mythos-5-targeted-real-people-in-uk-cyber-tests-aisi",
+            "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2026/02/decrypt-style-anthropic-claude-gID_7.jpg",
+            "publishedAt": "2026-08-05T12:47:57Z",
+            "content": "In brief\r\n<ul><li>The UKs AI Security Institute found 19 unsanctioned actions across 10 of 122 evaluation runs, 17 of them from Anthropic's Mythos 5 and two from OpenAI's GPT-5.6 Sol.</li><li>One age\u2026 [+4185 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "GlobeNewswire"
+            },
+            "author": "STERIS plc",
+            "title": "STERIS To Invest $600 Million to Build a Formulated Chemistries Manufacturing and Distribution Center of Excellence in North Carolina",
+            "description": "\u2022 This Formulated Chemistries Center of Excellence will support sterilization and disinfection for the global Healthcare and Pharmaceutical industries  \u2022...",
+            "url": "https://www.globenewswire.com/news-release/2026/08/05/3339314/0/en/STERIS-To-Invest-600-Million-to-Build-a-Formulated-Chemistries-Manufacturing-and-Distribution-Center-of-Excellence-in-North-Carolina.html",
+            "urlToImage": "https://ml.globenewswire.com/Resource/Download/2c1a9c6d-bc94-4d3f-a47f-0ac0d209f8b6",
+            "publishedAt": "2026-08-05T12:45:00Z",
+            "content": "This Formulated Chemistries Center of Excellence will support sterilization and disinfection for the global Healthcare and Pharmaceutical industries\r\n This strategic manufacturing investment is the l\u2026 [+7479 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Tenable.com"
+            },
+            "author": "Ziga Cerkovnik",
+            "title": "Tenable Hexa AI: Automating exposure remediation with agentic routines",
+            "description": "Discover how Tenable Hexa AI closes the gap between exposure management and endpoint patching using intent-driven routines, smart guardrails, and human approval.Key takeaways\r\n<ol><li>The problem: A slow handoff between security workflows creates a days-long \u2026",
+            "url": "https://www.tenable.com/blog/tenable-hexa-ai-automating-exposure-remediation-with-agentic-routines",
+            "urlToImage": "https://www.tenable.com/sites/default/files/styles/640x360/public/images/articles/Automate%20exposure%20remediation%20with%20Tenable%20Hexa%20AI.png?itok=gJZViW07",
+            "publishedAt": "2026-08-05T12:45:00Z",
+            "content": "Discover how Tenable Hexa AI closes the gap between exposure management and endpoint patching using intent-driven routines, smart guardrails, and human approval.\r\nKey takeaways\r\n<ol><li>The problem: \u2026 [+9847 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Techtarget.com"
+            },
+            "author": "Chris Tozzi",
+            "title": "AI Kill Switch Act: What it means for enterprise leaders",
+            "description": "The proposed bill could apply to much more than just frontier model makers and might signal stricter regulatory restrictions for enterprise leaders to contend with.",
+            "url": "https://www.techtarget.com/ai/news/366647544/AI-Kill-Switch-Act-What-it-means-for-enterprise-leaders",
+            "urlToImage": "https://www.techtarget.com/rms/onlineimages/legal_g97765214.jpg",
+            "publishedAt": "2026-08-05T12:37:00Z",
+            "content": "Although U.S. lawmakers from different parties struggle to find common ground these days, there's one topic they seem to agree on: The need to put guardrails around powerful AI models.\r\nThat, at leas\u2026 [+7810 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Aisi.gov.uk"
+            },
+            "author": null,
+            "title": "Incident Report: unsanctioned agent behaviour during cyber testing | AISI Work",
+            "description": "Incident Report: unsanctioned agent behaviour during cyber testing During a routine cyber evaluation, AISI identified an incident in which AI agents took sustained, unsanctioned action directed at real people and organisations. We are disclosing what we found\u2026",
+            "url": "https://www.aisi.gov.uk/blog/incident-report-unsanctioned-agent-behaviour-during-cyber-testing",
+            "urlToImage": "https://cdn.prod.website-files.com/663bd486c5e4c81588db7a48/6a7338aab27cc8caf7e892c8_Copy%20of%20Metacard%20(15).png",
+            "publishedAt": "2026-08-05T12:36:00Z",
+            "content": "You can access the full technical report here.\r\nAISIs role is to evaluate and understand the capabilities of frontier AI models, surfacing potential risks before they reach the public. To assess what\u2026 [+17249 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Techtarget.com"
+            },
+            "author": "John Moore",
+            "title": "AI open letters shift from warnings to push for business action",
+            "description": "A recent statement signed by more than 200 economists and AI experts signals a shift from abstract warnings to actionable concerns about workplace transformation and readiness.",
+            "url": "https://www.techtarget.com/ai/news/366647362/AI-open-letters-shift-from-warnings-to-push-for-business-action",
+            "urlToImage": "https://www.techtarget.com/rms/onlineimages/ai_a205627811.jpg",
+            "publishedAt": "2026-08-05T12:35:00Z",
+            "content": "The \"We Must Act Now\" letter, published July 13 and signed by more than 200 economists and AI technologists, focuses on AI's potential for \"unprecedented\" economic transformation and \"large-scale job\u2026 [+7789 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "GlobeNewswire"
+            },
+            "author": "FingerMotion, Inc.",
+            "title": "FingerMotion Announces Leadership Change",
+            "description": "Seasoned Nasdaq senior executive and corporate attorney brings proven public company leadership to FingerMotion  Singapore, Singapore, Aug.  05, 2026 ...",
+            "url": "https://www.globenewswire.com/news-release/2026/08/05/3339296/0/en/FingerMotion-Announces-Leadership-Change.html",
+            "urlToImage": "https://ml.globenewswire.com/Resource/Download/e6b65b97-b940-4134-ae5c-e8834174e562",
+            "publishedAt": "2026-08-05T12:30:00Z",
+            "content": "Seasoned Nasdaq senior executive and corporate attorney brings proven public company leadership to FingerMotion\r\nSingapore, Singapore, Aug. 05, 2026 (GLOBE NEWSWIRE) -- FingerMotion, Inc. (NASDAQ: FN\u2026 [+6545 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PRNewswire"
+            },
+            "author": null,
+            "title": "RetailMeNot Launches Rewards App Featuring AI Smart Search and Industry-First Working Code Promise",
+            "description": "The new app combines RetailMeNot Rewards loyalty perks, proprietary Scout Price\u2122 technology and conversational AI Smart Search. The RetailMeNot Rewards app is available now on iOS and Android. AUSTIN, Texas, Aug. 5, 2026 /PRNewswire/ -- As RetailMeNot celebra\u2026",
+            "url": "https://www.prnewswire.com/news-releases/retailmenot-launches-rewards-app-featuring-ai-smart-search-and-industry-first-working-code-promise-302843740.html",
+            "urlToImage": "https://mmx.prnewswire.com/media/MS1963802/RetailMeNot-Inc-Logo.jpg?id=OA2825329&p=facebook",
+            "publishedAt": "2026-08-05T12:25:00Z",
+            "content": "<ul><li>The new app combines RetailMeNot Rewards loyalty perks, proprietary Scout Price technology and conversational AI Smart Search.</li><li>The RetailMeNot Rewards app\u00a0is available now on iOS and \u2026 [+5388 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Help Net Security"
+            },
+            "author": "Anamarija Pogorelec",
+            "title": "INTERPOL flags AI as the new engine of African cybercrime",
+            "description": "Africa\u2019s growing digital economy is exposing governments, businesses and internet users to a rising wave of cybercrime. The continent recorded more than 1.1 billion mobile subscriptions and over $1.1 trillion in digital transactions in 2025, while more than 5\u2026",
+            "url": "https://www.helpnetsecurity.com/2026/08/05/interpol-africa-cybercrime-trends/",
+            "urlToImage": "https://img.helpnetsecurity.com/wp-content/uploads/2025/09/23124652/attack-ddos-threat-1500.webp",
+            "publishedAt": "2026-08-05T12:24:24Z",
+            "content": "Africa\u2019s growing digital economy is exposing governments, businesses and internet users to a rising wave of cybercrime. The continent recorded more than 1.1 billion mobile subscriptions and over $1.1\u2026 [+4242 chars]"
+        }
+    ]
 }
