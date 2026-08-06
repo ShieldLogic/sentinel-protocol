@@ -1,6 +1,42 @@
 {
-  "updated": "2026-08-06 08:15:16 UTC",
+  "updated": "2026-08-06 11:56:26 UTC",
   "news": [
+    {
+      "title": "Adversarial Clothing Designed to Fool Facial Recognition Systems",
+      "description": "[SCHNEIER] There are many companies manufacturing adversarial clothing designed to confuse facial recognition systems. It&#8217;s a cool idea, but I worry that it&#8217;s mostly security theater: &#8220;Our patterns play with that chaos, confuse algorithms and...",
+      "url": "https://www.schneier.com/blog/archives/2026/08/adversarial-clothing-designed-to-fool-facial-recognition-systems.html",
+      "date": "2026-08-06T11:04:51Z"
+    },
+    {
+      "title": "Attackers Compile khunt Inside Oracle to Turn SQL Injection Into Windows SYSTEM Access",
+      "description": "[FEEDS] Attackers broke into an organization's Oracle database through a SQL injection flaw in a public-facing web application, then installed a post-exploitation toolkit without writing an executable to disk. They fed Java source code to the database, let...",
+      "url": "https://thehackernews.com/2026/08/attackers-compile-khunt-inside-oracle.html",
+      "date": "2026-08-06T09:19:23Z"
+    },
+    {
+      "title": "AWS, Google, and Vercel Agent Flaws Let Attackers Trigger Tools Without Running the Model",
+      "description": "[FEEDS] Security flaws in agent infrastructure from Amazon Web Services (AWS), Google, and Vercel let untrusted or forged instructions reach an agent's tools with no check that a model turn had authorized them. In several of the attack paths, the model...",
+      "url": "https://thehackernews.com/2026/08/aws-google-and-vercel-patch-agent-flaws.html",
+      "date": "2026-08-06T08:57:30Z"
+    },
+    {
+      "title": "Chinese-Made Zbtlink Routers Ship With Backdoor That Opens Unauthenticated Root Shells",
+      "description": "[FEEDS] Cybersecurity researchers have disclosed details of a \"factory-shipped backdoor\" implanted in at least 20 Chinese router models from Zbtlink. According to a new report from VulnCheck, the implant appears in all 21 firmware images currently available...",
+      "url": "https://thehackernews.com/2026/08/chinese-made-zbtlink-routers-ship-with.html",
+      "date": "2026-08-06T08:05:22Z"
+    },
+    {
+      "title": "Ransom Cartel Creator Gets 16 Years in Prison for Operating Ransomware-as-a-Service",
+      "description": "[FEEDS] A federal judge in Alexandria, Virginia, sentenced Maksim Silnikau to 16 years in prison on August 5 for creating and running Ransom Cartel, the ransomware-as-a-service operation he stood up in 2021. Between 2021 and 2023, Ransom Cartel conspirators...",
+      "url": "https://thehackernews.com/2026/08/ransom-cartel-creator-gets-16-years-in.html",
+      "date": "2026-08-06T07:19:54Z"
+    },
+    {
+      "title": "CISA Flags TeamCity CVE-2026-63077 RCE Flaw Under Active Exploitation in the Wild",
+      "description": "[FEEDS] A newly patched security flaw impacting on-premise versions of JetBrains TeamCity has come under active exploitation in the wild, according to the U.S. Cybersecurity and Infrastructure Security Agency (CISA). The vulnerability in question is...",
+      "url": "https://thehackernews.com/2026/08/cisa-flags-teamcity-cve-2026-63077-rce.html",
+      "date": "2026-08-06T06:51:43Z"
+    },
     {
       "title": "Snowflake Hacker Pleads Guilty Over Breaches Affecting at Least 100 Million People",
       "description": "[FEEDS] Connor Riley Moucka pleaded guilty in Seattle federal court on Wednesday to computer fraud, wire fraud, aggravated identity theft and a related conspiracy over the 2024 breaches of Snowflake customer accounts. The intrusions reached at least 165...",
@@ -20,10 +56,64 @@
       "date": "2026-08-06T00:15:40Z"
     },
     {
+      "title": "An AI model from Meta also hacked another company during testing",
+      "description": "[ABC17NEWS.COM] By Hadas Gold, CNN (CNN) \u2014 Add Meta to the list of companies with AI agents going rogue. An AI model from the parent company of Facebook and Instagram hacked into another company\u2019s systems during cybersecurity testing, a spokesperson confirmed on...",
+      "url": "https://abc17news.com/money/cnn-business-consumer/2026/08/05/an-ai-model-from-meta-also-hacked-another-company-during-testing/",
+      "date": "2026-08-05T23:36:06Z"
+    },
+    {
+      "title": "An AI model from Meta also hacked another company during testing",
+      "description": "[CABLE NEWS NETWORK] Add Meta to the list of companies with AI agents going rogue. An AI model from the parent company of Facebook and Instagram hacked into another company\u2019s systems during cybersecurity testing, a spokesperson confirmed on Wednesday.",
+      "url": "https://edition.cnn.com/2026/08/05/tech/meta-ai-hacking",
+      "date": "2026-08-05T23:36:06Z"
+    },
+    {
+      "title": "Meta's AI model hacked another company during testing, The Information reports",
+      "description": "[THE KOREA TIMES] Meta's AI model hacked another company during cybersecurity testing, The Information reported on Wednesday, marking the latest incident of AI agent...",
+      "url": "https://www.koreatimes.co.kr/world/20260806/metas-ai-model-hacked-another-company-during-testing-the-information-reports",
+      "date": "2026-08-05T23:31:02Z"
+    },
+    {
+      "title": "Chinese-Made Zbtlink Routers Found With Hidden Backdoor, Cybersecurity Researchers Warn",
+      "description": "[TIMES NOW] Recent research by VulnCheck has uncovered a backdoor, named \"Endlessdoors,\" in over 20 models of routers made by China's Zbtlink, potentially compromising network security globally. , US News, Times Now",
+      "url": "https://www.timesnownews.com/world/us/us-news/chinese-made-zbtlink-routers-found-with-hidden-backdoor-cybersecurity-researchers-warn-article-155316202",
+      "date": "2026-08-05T23:27:55Z"
+    },
+    {
+      "title": "Meta's AI model hacked another company during testing",
+      "description": "[PERTHNOW] A Meta AI model reportedly accessed the internet during cybersecurity testing and hacked into another company.",
+      "url": "https://www.perthnow.com.au/news/technology/metas-ai-model-hacked-another-company-during-testing-c-22683502",
+      "date": "2026-08-05T23:23:29Z"
+    },
+    {
+      "title": "Meta's AI model hacked another company during testing",
+      "description": "[THE CANBERRA TIMES] A Meta AI model reportedly accessed the internet during cybersecurity testing and hacked into another company.",
+      "url": "https://www.canberratimes.com.au/story/9324961/metas-ai-model-hacked-another-company-during-testing/",
+      "date": "2026-08-05T23:21:48Z"
+    },
+    {
       "title": "Ransom Cartel ransomware creator sentenced to 16 years in prison",
       "description": "[BLEEPINGCOMPUTER] Maksim Silnikau, the creator and administrator of the Ransom Cartel ransomware operation, was sentenced to 16 years in prison for his role in ransomware attacks against at least 18 companies worldwide. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/ransom-cartel-ransomware-creator-sentenced-to-16-years-in-prison/",
       "date": "2026-08-05T23:00:50Z"
+    },
+    {
+      "title": "Why experts are flagging Chinese company Zbtlink's routers as a potential cybersecurity risk",
+      "description": "[HINDUSTAN TIMES] Over 20 Chinese-made Zbtlink router models contain a backdoor that could enable remote access to routers and connected devices, researchers said. | World News",
+      "url": "https://www.hindustantimes.com/world-news/why-experts-are-flagging-chinese-company-zbtlinks-routers-as-a-potential-cybersecurity-risk-101785967591219.html",
+      "date": "2026-08-05T22:38:23Z"
+    },
+    {
+      "title": "Meta AI model hacks another company during testing",
+      "description": "[REUTERS] Meta said on Wednesday one of its AI models hacked another company \u200bduring cybersecurity testing, fanning concerns about how developers can contain increasingly capable AI systems after similar incidents \u200cat rivals Anthropic and OpenAI.",
+      "url": "https://www.reuters.com/technology/metas-ai-model-hacked-another-company-during-testing-information-reports-2026-08-05/",
+      "date": "2026-08-05T22:29:02Z"
+    },
+    {
+      "title": "Ontario man pleads guilty in U.S.",
+      "description": "[CP24 TORONTO] A man from Kitchener, Ont., has pleaded guilty to being part of a massive international data breach involving \u201cextremely sensitive information.\u201d",
+      "url": "https://www.cp24.com/news/2026/08/05/kitchener-man-faces-up-to-30-years-in-prison-for-international-hacking-conspiracy/",
+      "date": "2026-08-05T21:58:00Z"
     },
     {
       "title": "Canadian pleads guilty to Snowflake cloud data-theft attacks",
@@ -38,58 +128,10 @@
       "date": "2026-08-05T19:55:25Z"
     },
     {
-      "title": "Over 250 ClickFix Domains Use Browser Fingerprinting to Hide macOS Malware Lures",
-      "description": "[FEEDS] A macOS ClickFix operation spanning more than 250 front-end domains now fingerprints visitors before deciding whether to show them a malware lure, a change Microsoft Threat Intelligence tracked on infrastructure it had been watching for weeks. The...",
-      "url": "https://thehackernews.com/2026/08/over-250-clickfix-domains-use-browser.html",
-      "date": "2026-08-05T18:44:31Z"
-    },
-    {
-      "title": "OpenAI Disrupts Poipet Scam Network Using ChatGPT Across Multiple Fraud Schemes",
-      "description": "[FEEDS] OpenAI said it disrupted a Cambodia-based scam operation that used its generative artificial intelligence (AI) chatbot ChatGPT to facilitate a wide range of investment, romance, gambling, and law enforcement impersonation schemes. To that end, it...",
-      "url": "https://thehackernews.com/2026/08/openai-disrupts-poipet-scam-network.html",
-      "date": "2026-08-05T18:33:47Z"
-    },
-    {
       "title": "ARCC settlement nets up to $80 for data breach victims",
       "description": "[MECHANICSBURG PATRIOT NEWS ] Arrowhead Regional Computing Consortium (ARCC) \u2014 which offers payroll services and student data systems to about 50 school districts in Minnesota \u2014 was hit by a cyberattack in 2023.",
       "url": "https://www.pennlive.com/news/2026/08/data-breach-victims-to-get-up-to-80-as-part-of-settlement.html",
       "date": "2026-08-05T18:17:00Z"
-    },
-    {
-      "title": "ARCC settlement nets up to $80 for data breach victims",
-      "description": "[NJ.COM] Arrowhead Regional Computing Consortium (ARCC) \u2014 which offers payroll services and student data systems to about 50 school districts in Minnesota \u2014 was hit by a cyberattack in 2023.",
-      "url": "https://www.nj.com/news/2026/08/data-breach-victims-to-get-up-to-80-as-part-of-settlement.html",
-      "date": "2026-08-05T18:17:00Z"
-    },
-    {
-      "title": "ARCC settlement nets up to $80 for data breach victims",
-      "description": "[MASSLIVE] Arrowhead Regional Computing Consortium (ARCC) \u2014 which offers payroll services and student data systems to about 50 school districts in Minnesota \u2014 was hit by a cyberattack in 2023.",
-      "url": "https://www.masslive.com/news/2026/08/data-breach-victims-to-get-up-to-80-as-part-of-settlement.html",
-      "date": "2026-08-05T18:17:00Z"
-    },
-    {
-      "title": "ARCC settlement nets up to $80 for data breach victims",
-      "description": "[CLEVELAND.COM] Arrowhead Regional Computing Consortium (ARCC) \u2014 which offers payroll services and student data systems to about 50 school districts in Minnesota \u2014 was hit by a cyberattack in 2023.",
-      "url": "https://www.cleveland.com/news/2026/08/data-breach-victims-to-get-up-to-80-as-part-of-settlement.html",
-      "date": "2026-08-05T18:17:00Z"
-    },
-    {
-      "title": "ARCC settlement nets up to $80 for data breach victims",
-      "description": "[AL.COM] Arrowhead Regional Computing Consortium (ARCC) \u2014 which offers payroll services and student data systems to about 50 school districts in Minnesota \u2014 was hit by a cyberattack in 2023.",
-      "url": "https://www.al.com/news/2026/08/data-breach-victims-to-get-up-to-80-as-part-of-settlement.html",
-      "date": "2026-08-05T18:17:00Z"
-    },
-    {
-      "title": "ARCC settlement nets up to $80 for data breach victims",
-      "description": "[M LIVE MICHIGAN ] Arrowhead Regional Computing Consortium (ARCC) \u2014 which offers payroll services and student data systems to about 50 school districts in Minnesota \u2014 was hit by a cyberattack in 2023.",
-      "url": "https://www.mlive.com/news/2026/08/data-breach-victims-to-get-up-to-80-as-part-of-settlement.html",
-      "date": "2026-08-05T18:17:00Z"
-    },
-    {
-      "title": "AI-Powered \u2018Vishing\u2019 Attacks Reportedly Targeted Top Hedge Funds",
-      "description": "[GIZMODO] Turns out rogue AI isn\u2019t the only cybersecurity threat to be worried about.",
-      "url": "https://gizmodo.com/ai-powered-vishing-attacks-reportedly-targeted-top-hedge-funds-2000794923",
-      "date": "2026-08-05T18:15:07Z"
     },
     {
       "title": "Don't Revoke That Token Yet: Inside the keyv/cacheable npm Worm, (Wed, Aug 5th)",
@@ -104,52 +146,16 @@
       "date": "2026-08-05T17:49:41Z"
     },
     {
-      "title": "Anthropic, OpenAI models used fake identities to plant malicious code",
-      "description": "[WJLA] During a cybersecurity test by the UK\u2019s AI Security Institute, Anthropic\u2019s artificial intelligence model used fake identities to try to plant malicious code.",
-      "url": "https://wjla.com/news/nation-world/anthropic-openai-models-used-fake-identities-plant-malicious-code-security-institute",
-      "date": "2026-08-05T17:31:00Z"
-    },
-    {
-      "title": "Anthropic, OpenAI models used fake identities to plant malicious code",
-      "description": "[BALTIMORE NEWS] During a cybersecurity test by the UK\u2019s AI Security Institute, Anthropic\u2019s artificial intelligence model used fake identities to try to plant malicious code.",
-      "url": "https://foxbaltimore.com/news/nation-world/anthropic-openai-models-used-fake-identities-plant-malicious-code-security-institute",
-      "date": "2026-08-05T17:31:00Z"
-    },
-    {
       "title": "CISA warns of hackers exploiting Langflow, N-central, Apache Tomcat flaws",
       "description": "[BLEEPINGCOMPUTER] The U.S. Cybersecurity and Infrastructure Security Agency is giving federal agencies three days to mitigate vulnerabilities in IBM Langflow, N-central, and Apache Tomcat, all actively exploited. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-langflow-n-central-apache-tomcat-flaws/",
       "date": "2026-08-05T15:51:33Z"
     },
     {
-      "title": "Poison Claude Sells Discounted Claude Access While Its Operator Sees Every Customer Prompt",
-      "description": "[FEEDS] Cybersecurity researchers have discovered more than half-a-dozen services advertisements for illegal access to artificial intelligence (AI) models on underground cybercrime forums and messaging platforms. One such service, Poison Claude, claims to...",
-      "url": "https://thehackernews.com/2026/08/poison-claude-sells-discounted-claude.html",
-      "date": "2026-08-05T15:36:03Z"
-    },
-    {
-      "title": "Paperclip AI Flaws Let Attackers Run Host Commands via Malicious Agent Imports",
-      "description": "[FEEDS] Two security flaws in Paperclip could let attackers execute commands on a network server or a developer's computer. Paperclip is an open-source control plane for teams of artificial intelligence (AI) agents, and both paths rely on importing a...",
-      "url": "https://thehackernews.com/2026/08/paperclip-ai-flaws-let-attackers-run.html",
-      "date": "2026-08-05T15:14:05Z"
-    },
-    {
-      "title": "Microsoft Says Defender Can Stop Ransomware In 128 Seconds-Here's How",
-      "description": "[FORBES] Microsoft says a new Defender capability isolated a compromised device and stopped a ransomware attack in 128 seconds. Security experts explain what it means\u2014and its limits.",
-      "url": "https://www.forbes.com/sites/daveywinder/2026/08/05/microsoft-defender-stops-ransomware-128-seconds/",
-      "date": "2026-08-05T15:13:20Z"
-    },
-    {
       "title": "Google Blogger locks hundreds of blogs in malware false positive",
       "description": "[BLEEPINGCOMPUTER] Google has locked hundreds of Blogger websites after a false positive claimed they violated its \"Malware and Similar Malicious Content\" policy, with some sites deleted from the platform. [...]",
       "url": "https://www.bleepingcomputer.com/news/google/google-blogger-locks-hundreds-of-blogs-in-malware-false-positive/",
       "date": "2026-08-05T14:59:29Z"
-    },
-    {
-      "title": "Veeam, Terraform MCP, Django Patch Critical Flaws, Led by CVSS 10.0 Cross-Tenant Bug",
-      "description": "[FEEDS] HashiCorp, Veeam, and the Django Software Foundation have patched 11 vulnerabilities across Terraform MCP Server, Veeam Service Provider Console, and Django. The three most serious: An unauthenticated flaw in Veeam's console that hands over a...",
-      "url": "https://thehackernews.com/2026/08/veeam-terraform-mcp-django-patch.html",
-      "date": "2026-08-05T14:27:30Z"
     },
     {
       "title": "Vulnerabilities in Car Anti-Theft Device",
@@ -198,12 +204,6 @@
       "description": "[SCHNEIER] This essay originally appeared in Foreign Policy. Earlier this month, two of OpenAI&#8217;s models broke out of their containment sandbox and attacked another AI company. The story is kind of wild. OpenAI was running security tests on two of its...",
       "url": "https://www.schneier.com/blog/archives/2026/08/the-openai-hack-shows-the-genie-is-out-of-the-bottle.html",
       "date": "2026-08-03T10:47:47Z"
-    },
-    {
-      "title": "Friday Squid Blogging: Squid Helps Discover New Marine Species",
-      "description": "[SCHNEIER] The Squid is a new scientific machine: One of the technological breakthroughs was the onboard use of a spinning wheel confocal microscope, nicknamed the Squid, which uses lasers to scan microscopic details of how organisms are put together....",
-      "url": "https://www.schneier.com/blog/archives/2026/07/friday-squid-blogging-squid-helps-discover-new-marine-species.html",
-      "date": "2026-07-31T21:06:46Z"
     }
   ]
 }
