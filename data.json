@@ -1,6 +1,30 @@
 {
-  "updated": "2026-08-07 08:45:53 UTC",
+  "updated": "2026-08-07 10:42:19 UTC",
   "news": [
+    {
+      "title": "ICE Is Buying Access to Credit Card Records",
+      "description": "[SCHNEIER] Through data brokers, ICE is buying the information you provided to open a credit card.",
+      "url": "https://www.schneier.com/blog/archives/2026/08/ice-is-buying-access-to-credit-card-records.html",
+      "date": "2026-08-07T10:26:41Z"
+    },
+    {
+      "title": "New NatJack Attacks Hijack TCP Sessions and Spoof DNS by Manipulating NAT Tables",
+      "description": "[FEEDS] Security researcher Malcolm Stagg has disclosed a new attack class called&nbsp;NatJack&nbsp;that manipulates network address translation (NAT) connection state to hijack active TCP sessions, spoof DNS responses, expose mapped ports, and exhaust NAT...",
+      "url": "https://thehackernews.com/2026/08/new-natjack-attacks-hijack-tcp-sessions.html",
+      "date": "2026-08-07T09:32:57Z"
+    },
+    {
+      "title": "Malware Can Abuse Windows Hello for Business Keys for Persistent Entra ID Access",
+      "description": "[FEEDS] Security researcher Malcolm Stagg has disclosed a new attack class called&nbsp;NatJack&nbsp;that manipulates network address translation (NAT) connection state to hijack active TCP sessions, spoof DNS responses, disclose victim IP addresses and...",
+      "url": "https://thehackernews.com/2026/08/malware-can-abuse-windows-hello-for.html",
+      "date": "2026-08-07T08:52:11Z"
+    },
+    {
+      "title": "Claude Code and Gemini CLI Flaws Let a GitHub Issue Reach CI Workflow Secrets",
+      "description": "[FEEDS] A GitHub issue opened by an account with no repository privileges was enough to execute code on the CI runners behind Anthropic's and Google's own coding-agent repositories. On OpenAI's, it was enough to hijack the next agent run. Novee Security ran...",
+      "url": "https://thehackernews.com/2026/08/claude-code-and-gemini-cli-flaws-let.html",
+      "date": "2026-08-07T08:18:35Z"
+    },
     {
       "title": "Linux Shell Forensic: Let&#x3f;s Dive Into Atuin&#x21;, (Fri, Aug 7th)",
       "description": "[ISC] UNIX systems (including Linux) are well-known to record a lot of activities in many different locations. But there is one domain where they definitely lack of \"modern\" logging: shells. Most shells provide an historization of the typed commands...",
@@ -30,6 +54,18 @@
       "description": "[BLEEPINGCOMPUTER] A Go-based malware delivered in ClickFix attacks targeting macOS users is stealing cryptocurrency assets, browser-stored passwords, Apple Keychain data, and cached credentials. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/clickfix-attack-pushes-macos-infostealer-for-crypto-theft-attacks/",
       "date": "2026-08-06T22:37:17Z"
+    },
+    {
+      "title": "Did Iran hack U.S. water systems? / Cyberwarfare abroad / Ukraine\u2019s air defense gap",
+      "description": "[NPR] In the past week, seven U.S. states have reported cyberattacks on their water facilities.Some in the cybersecurity industry suspect Iran was responsible. Is this a new element of the war between the two countries? And how big is the risk?Host Mary...",
+      "url": "https://www.npr.org/2026/08/06/nx-s1-5922219/did-iran-hack-u-s-water-systems-cyberwarfare-abroad-ukraines-air-defense-gap",
+      "date": "2026-08-06T22:29:36Z"
+    },
+    {
+      "title": "America's water systems are getting hacked amid security gaps: \"No one guarding these systems\"",
+      "description": "[CBS NEWS] The nation's 152,000 public water systems often lack defenses against malicious actors, cybersecurity experts said. Here's what to know.",
+      "url": "https://www.cbsnews.com/news/us-water-systems-cyberattacks-iran-security-gaps/",
+      "date": "2026-08-06T21:48:11Z"
     },
     {
       "title": "Meta Says Its AI Model Escaped and Hacked a Third",
@@ -104,46 +140,16 @@
       "date": "2026-08-06T17:58:30Z"
     },
     {
-      "title": "Missanabie Cree unveils vision for cybersecurity hub, training facility",
-      "description": "[THE NORTH BAY NUGGET] Missanabie Cree First Nation has released details of its plan to create a training centre and cyber security centre.",
-      "url": "https://www.nugget.ca/news/missanabie-cree-unveils-vision-for-cybersecurity-hub-training-facility",
-      "date": "2026-08-06T17:46:16Z"
-    },
-    {
       "title": "Cisco Patches 12 SD-WAN and IOS XE Flaws, Including Three 9.9 CVSS Score Bugs",
       "description": "[FEEDS] Cisco has rolled out updates to address multiple critical security vulnerabilities impacting Catalyst SD-WAN and IOS XE Software as part of a comprehensive internal security review. The security issues affect Cisco Catalyst SD-WAN Software,...",
       "url": "https://thehackernews.com/2026/08/cisco-patches-12-sd-wan-and-ios-xe.html",
       "date": "2026-08-06T17:13:15Z"
     },
     {
-      "title": "Connected car systems: Averting disaster or a new playground for hackers?",
-      "description": "[THE HINDU BUSINESS LINE] Explore cybersecurity risks in connected car systems and the need for stringent safeguards in vehicle-to-vehicle communication to ensure safety.",
-      "url": "https://www.thehindubusinessline.com/info-tech/connected-car-systems-averting-disaster-or-a-new-playground-for-hackers/article71314293.ece",
-      "date": "2026-08-06T16:40:45Z"
-    },
-    {
-      "title": "New Interrupt Injection Attack Can Bypass Spectre v2 Defenses on Intel and AMD CPUs",
-      "description": "[FEEDS] An unprivileged Linux program can time a hardware interrupt to land in the gap between a processor sanitizing its branch predictor and the kernel using it, re-poisoning the predictor after the defense has run. MIT CSAIL researchers Dani\u00ebl Trujillo...",
-      "url": "https://thehackernews.com/2026/08/new-interrupt-injection-attack-can.html",
-      "date": "2026-08-06T16:17:13Z"
-    },
-    {
       "title": "Meta AI model hacked a company during misconfigured cyber test",
       "description": "[BLEEPINGCOMPUTER] Meta has become the latest AI company to confirm that one of its models hacked a real organization during cybersecurity testing, as similar incidents continue to emerge following OpenAI'sOpenAI's initial disclosure that its agents breached Hugging...",
       "url": "https://www.bleepingcomputer.com/news/security/meta-ai-model-hacked-a-company-during-misconfigured-cyber-test/",
       "date": "2026-08-06T16:11:39Z"
-    },
-    {
-      "title": "ThreatsDay: Odysseus RCE, Samsung One-Click Takeover, iCloud Backdoor Fight + 27 More Stories",
-      "description": "[FEEDS] Apparently, opening the thing is now enough. A repo can run before the first prompt, a package can hide among hundreds, and a harmless-looking PDF can finish the job. This week runs on cheap leverage: exposed servers, recycled bugs, poisoned agent...",
-      "url": "https://thehackernews.com/2026/08/threatsday-odysseus-rce-samsung-one.html",
-      "date": "2026-08-06T15:24:31Z"
-    },
-    {
-      "title": "Over 4,400 Rockwell PLCs Exposed Online, 22 Found in Water Attack Cities",
-      "description": "[FEEDS] Forescout found 22 internet-facing Rockwell Automation programmable logic controllers (PLCs) in cities hit by recent cyberattacks on US water utilities. Nineteen used the same mobile carrier network. Its August 3 scan counted 4,407 exposed Rockwell...",
-      "url": "https://thehackernews.com/2026/08/over-4400-rockwell-plcs-exposed-online.html",
-      "date": "2026-08-06T12:16:58Z"
     },
     {
       "title": "Adversarial Clothing Designed to Fool Facial Recognition Systems",
@@ -198,12 +204,6 @@
       "description": "[SCHNEIER] Hugging Face has published a detailed timeline of the attack. From the summary: The agent was running an internal OpenAI cyber-capability evaluation based on the ExploitGym benchmark, which tasks an AI agent with finding and exploiting software...",
       "url": "https://www.schneier.com/blog/archives/2026/08/more-on-the-openai-agents-attack-on-hugging-face.html",
       "date": "2026-08-03T17:02:46Z"
-    },
-    {
-      "title": "The OpenAI Hack Shows the Genie Is Out of the Bottle",
-      "description": "[SCHNEIER] This essay originally appeared in Foreign Policy. Earlier this month, two of OpenAI&#8217;s models broke out of their containment sandbox and attacked another AI company. The story is kind of wild. OpenAI was running security tests on two of its...",
-      "url": "https://www.schneier.com/blog/archives/2026/08/the-openai-hack-shows-the-genie-is-out-of-the-bottle.html",
-      "date": "2026-08-03T10:47:47Z"
     }
   ]
 }
