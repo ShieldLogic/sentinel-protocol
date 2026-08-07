@@ -1,6 +1,24 @@
 {
-  "updated": "2026-08-07 12:40:08 UTC",
+  "updated": "2026-08-07 14:44:25 UTC",
   "news": [
+    {
+      "title": "Real emails, hijacked payments: Two H1 2026 attack chains",
+      "description": "[BLEEPINGCOMPUTER] Gen's H1 2026 Threat Report examines two separate attack chains. One used compromised business inboxes and browser manipulation in a banking-malware campaign, while the other used clipboard hijacking to redirect cryptocurrency payments. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/real-emails-hijacked-payments-two-h1-2026-attack-chains/",
+      "date": "2026-08-07T14:00:10Z"
+    },
+    {
+      "title": "North Carolina Ports confirms cyberattack disrupting operations",
+      "description": "[BLEEPINGCOMPUTER] The North Carolina Ports Authority has confirmed that a cyberattack disrupted IT systems and slowed operations at Port of Wilmington, Port of Morehead City, and Charlotte Inland Port. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/north-carolina-ports-confirms-cyberattack-disrupting-operations/",
+      "date": "2026-08-07T13:34:40Z"
+    },
+    {
+      "title": "New WordPress Pre-Auth XSS Could Lead to PHP Code Execution - Patch ASAP",
+      "description": "[FEEDS] WordPress has fixed a pre-authentication reflected cross-site scripting (XSS) flaw in its login screen that affects every version of the content management system. pwn.ai demonstrated how the flaw can be chained into PHP code execution on the server...",
+      "url": "https://thehackernews.com/2026/08/new-wordpress-pre-auth-xss-could-lead.html",
+      "date": "2026-08-07T12:56:23Z"
+    },
     {
       "title": "Growing Up The Hard Way",
       "description": "[FEEDS] Open Source had a great childhood. For two decades it got to be a kid. It ran around barefoot, gave everything away, trusted strangers, and never once thought about who was watching. It ran the kind of lemonade stand that took IOUs from anyone who...",
@@ -36,12 +54,6 @@
       "description": "[FEEDS] PortSwigger says HTTP Terminator, an artificial intelligence (AI)-assisted research system built by James Kettle, generated and proved new HTTP desynchronization techniques after exploring 30,000 candidate desync vectors. PortSwigger said a separate...",
       "url": "https://thehackernews.com/2026/08/ai-assisted-http-terminator-finds-novel.html",
       "date": "2026-08-07T10:09:54Z"
-    },
-    {
-      "title": "Malware Can Abuse Windows Hello for Business Keys for Persistent Entra ID Access",
-      "description": "[FEEDS] Entra ID researcher Dirk-jan Mollema demonstrated that malware already running in a signed-in Windows session can silently use the victim's Windows Hello for Business key to authenticate to Microsoft Entra ID. The attacker can then establish...",
-      "url": "https://thehackernews.com/2026/08/malware-can-abuse-windows-hello-for.html",
-      "date": "2026-08-07T08:52:11Z"
     },
     {
       "title": "Linux Shell Forensic: Let&#x3f;s Dive Into Atuin&#x21;, (Fri, Aug 7th)",
@@ -138,18 +150,6 @@
       "description": "[BLEEPINGCOMPUTER] Switzerland's federal IT office says hackers exploited vulnerabilities to breach its Microsoft SharePoint servers and compromised approximately 200 accounts. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/swiss-government-sharepoint-breach-compromised-200-accounts/",
       "date": "2026-08-06T18:14:19Z"
-    },
-    {
-      "title": "New TONTOU CPU attack bypasses Spectre v2 fixes, leaks Linux password hashes",
-      "description": "[BLEEPINGCOMPUTER] Researchers found a way to bypass recent mitigations for Spectre v2 speculative execution side-channel attacks and developed an exploit to leak secrets from Linux machines. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/new-tontou-cpu-attack-bypasses-spectre-v2-fixes-leaks-linux-password-hashes/",
-      "date": "2026-08-06T18:03:45Z"
-    },
-    {
-      "title": "Meta AI model hacked a company during misconfigured cyber test",
-      "description": "[BLEEPINGCOMPUTER] Meta has become the latest AI company to confirm that one of its models hacked a real organization during cybersecurity testing, as similar incidents continue to emerge following OpenAI'sOpenAI's initial disclosure that its agents breached Hugging...",
-      "url": "https://www.bleepingcomputer.com/news/security/meta-ai-model-hacked-a-company-during-misconfigured-cyber-test/",
-      "date": "2026-08-06T16:11:39Z"
     },
     {
       "title": "Adversarial Clothing Designed to Fool Facial Recognition Systems",
