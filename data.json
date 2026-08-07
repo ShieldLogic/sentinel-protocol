@@ -1,6 +1,36 @@
 {
-  "updated": "2026-08-07 18:39:36 UTC",
+  "updated": "2026-08-07 20:29:28 UTC",
   "news": [
+    {
+      "title": "Metabase SQLi zero-day exploited in customer data-theft attacks",
+      "description": "[BLEEPINGCOMPUTER] A critical Metabase SQL injection vulnerability was exploited in zero-day attacks to breach customer instances in data theft attacks, known to impact Framework and Tally. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/framework-tally-disclose-metabase-data-theft-attacks/",
+      "date": "2026-08-07T20:14:46Z"
+    },
+    {
+      "title": "Unlimited Technology Systems breach impacts 3.8 million people",
+      "description": "[BLEEPINGCOMPUTER] Healthcare software company Unlimited Technology Systems reported that more than 3.8 million people were impacted by a data breach incident that occurred in October 2025. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/unlimited-technology-systems-breach-impacts-38-million-people/",
+      "date": "2026-08-07T19:30:41Z"
+    },
+    {
+      "title": "Nearly 800 Malicious npm Packages Deliver Cross-Platform RAT and Infostealer",
+      "description": "[FEEDS] A cluster of nearly 800 malicious packages has been published to the npm registry as part of a new campaign designed to deliver cross-platform malware targeting Windows, Mac, and Linux systems. \"These packages appear to use AI slop squatted, or...",
+      "url": "https://thehackernews.com/2026/08/nearly-800-malicious-npm-packages.html",
+      "date": "2026-08-07T18:48:17Z"
+    },
+    {
+      "title": "ClickFix Attacks Deliver macOS Stealer That Can Drain Crypto Wallets",
+      "description": "[FEEDS] ClickFix-style attacks are being used to deliver a Go-based malware capable of stealing cryptocurrency assets, as well as browser-stored passwords, Apple iCloud Keychain data, and cached credentials. The macOS-focused infection chain is designed to...",
+      "url": "https://thehackernews.com/2026/08/clickfix-attacks-deliver-macos-stealer.html",
+      "date": "2026-08-07T18:29:08Z"
+    },
+    {
+      "title": "UNC6671 Vishing Attacks Target Personal Phones to Steal SaaS Data",
+      "description": "[FEEDS] A recent wave of cyber attacks targeting financial services, private equity, and professional services is attributed to a data extortion group known as UNC6671. \"UNC6671 continues to rely on voice phishing (vishing) to target enterprise employees,...",
+      "url": "https://thehackernews.com/2026/08/unc6671-vishing-attacks-target-personal.html",
+      "date": "2026-08-07T18:16:13Z"
+    },
     {
       "title": "Levi Strauss & Co. says hackers stole corporate data in cyberattack",
       "description": "[BLEEPINGCOMPUTER] Levi Strauss & Co. (Levi's) says that hackers used social engineering on three of its employees to gain access to and steal corporate data stored on their machines. [...]",
@@ -38,34 +68,34 @@
       "date": "2026-08-07T11:10:33Z"
     },
     {
-      "title": "New NatJack Attacks Hijack TCP Sessions and Spoof DNS by Manipulating NAT Tables",
-      "description": "[FEEDS] Security researcher Malcolm Stagg has disclosed a new attack class called&nbsp;NatJack&nbsp;that manipulates network address translation (NAT) connection state to hijack active TCP sessions, spoof DNS responses, expose mapped ports, and exhaust NAT...",
-      "url": "https://thehackernews.com/2026/08/new-natjack-attacks-hijack-tcp-sessions.html",
-      "date": "2026-08-07T10:58:38Z"
-    },
-    {
-      "title": "Microsoft 365 AitM Phishing Hijacks Accounts to Collect Payroll and Finance Emails",
-      "description": "[FEEDS] Cybersecurity researchers have called attention to an active \"widespread email-driven phishing campaign\" that employs adversary-in-the-middle (AitM) techniques to take control of Microsoft 365 accounts with an aim to identify key personnel involved...",
-      "url": "https://thehackernews.com/2026/08/microsoft-365-aitm-phishing-hijacks.html",
-      "date": "2026-08-07T10:38:27Z"
-    },
-    {
       "title": "ICE Is Buying Access to Credit Card Records",
       "description": "[SCHNEIER] Through data brokers, ICE is buying the information you provided to open a credit card.",
       "url": "https://www.schneier.com/blog/archives/2026/08/ice-is-buying-access-to-credit-card-records.html",
       "date": "2026-08-07T10:26:41Z"
     },
     {
-      "title": "AI-Assisted HTTP Terminator Finds Novel HTTP Desync Techniques and Apache Zero-Day",
-      "description": "[FEEDS] PortSwigger says HTTP Terminator, an artificial intelligence (AI)-assisted research system built by James Kettle, generated and proved new HTTP desynchronization techniques after exploring 30,000 candidate desync vectors. PortSwigger said a separate...",
-      "url": "https://thehackernews.com/2026/08/ai-assisted-http-terminator-finds-novel.html",
-      "date": "2026-08-07T10:09:54Z"
+      "title": "Being a North Korean Hacker Is About to Be Less Fun",
+      "description": "[LAWFARE] The latest edition of the Seriously Risky Business cybersecurity newsletter, now on Lawfare.",
+      "url": "https://www.lawfaremedia.org/article/being-a-north-korean-hacker-is-about-to-be-less-fun",
+      "date": "2026-08-07T08:00:00Z"
+    },
+    {
+      "title": "\u2018Data breach\u2019 investigated amid claims Minnie Merriman\u2019s health records accessed",
+      "description": "[KENT ONLINE] The nine-year-old died at Ninewells Hospital in Dundee earlier this week after being found injured in Arbroath.",
+      "url": "https://www.kentonline.co.uk/news/national/data-breach-investigated-amid-claims-minnie-merriman-s-health-records-accessed-170283/",
+      "date": "2026-08-07T07:35:25Z"
     },
     {
       "title": "Linux Shell Forensic: Let&#x3f;s Dive Into Atuin&#x21;, (Fri, Aug 7th)",
       "description": "[ISC] UNIX systems (including Linux) are well-known to record a lot of activities in many different locations. But there is one domain where they definitely lack of \"modern\" logging: shells. Most shells provide an historization of the typed commands...",
       "url": "https://isc.sans.edu/diary/rss/33226",
       "date": "2026-08-07T07:22:28Z"
+    },
+    {
+      "title": "The godfather of Israeli cybersecurity: The Hugging Face incident exposes the wrong AI security debate",
+      "description": "[FORTUNE] A human insider threat unfolds over days or weeks; an agent can execute thousands of autonomous actions in an entirely different window of time.",
+      "url": "https://fortune.com/2026/08/07/shlomo-kramer-cato-godfather-of-cyber-hugging-face-hack/",
+      "date": "2026-08-07T07:00:00Z"
     },
     {
       "title": "What do cybersecurity leaders want in staff? These 3 skills beat certifications and experience",
@@ -104,52 +134,22 @@
       "date": "2026-08-06T22:48:22Z"
     },
     {
-      "title": "ClickFix attack pushes macOS infostealer for crypto theft attacks",
-      "description": "[BLEEPINGCOMPUTER] A Go-based malware delivered in ClickFix attacks targeting macOS users is stealing cryptocurrency assets, browser-stored passwords, Apple Keychain data, and cached credentials. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/clickfix-attack-pushes-macos-infostealer-for-crypto-theft-attacks/",
-      "date": "2026-08-06T22:37:17Z"
-    },
-    {
       "title": "Did Iran hack U.S. water systems? / Cyberwarfare abroad / Ukraine\u2019s air defense gap",
       "description": "[NPR] In the past week, seven U.S. states have reported cyberattacks on their water facilities.Some in the cybersecurity industry suspect Iran was responsible. Is this a new element of the war between the two countries? And how big is the risk?Host Mary...",
       "url": "https://www.npr.org/2026/08/06/nx-s1-5922219/did-iran-hack-u-s-water-systems-cyberwarfare-abroad-ukraines-air-defense-gap",
       "date": "2026-08-06T22:29:36Z"
     },
     {
+      "title": "Data breach affects more than 311,000 Brown Health patients",
+      "description": "[THE BOSTON GLOBE] More than 311,000 patients were affected after records at a Lifespan Physician Group of Massachusetts location were hacked.",
+      "url": "https://www.bostonglobe.com/2026/08/06/metro/brown-lifespan-medical-data-breach-massachusetts-vermont/",
+      "date": "2026-08-06T22:25:48Z"
+    },
+    {
       "title": "America's water systems are getting hacked amid security gaps: \"No one guarding these systems\"",
       "description": "[CBS NEWS] The nation's 152,000 public water systems often lack defenses against malicious actors, cybersecurity experts said. Here's what to know.",
       "url": "https://www.cbsnews.com/news/us-water-systems-cyberattacks-iran-security-gaps/",
       "date": "2026-08-06T21:48:11Z"
-    },
-    {
-      "title": "Meta Says Its AI Model Escaped and Hacked a Third",
-      "description": "[DECRYPT] The company says a configuration error by an outside testing partner gave one of its Muse Spark models internet access during a cybersecurity evaluation.",
-      "url": "https://decrypt.co/375070/meta-says-ai-model-escaped-hack-third-party",
-      "date": "2026-08-06T20:31:03Z"
-    },
-    {
-      "title": "Gen Digital raises annual forecast on strong cybersecurity demand",
-      "description": "[REUTERS] Gen Digital raised full-year revenue and profit forecast on Thursday, signaling robust demand for its \u200bfamily of cybersecurity products in the face of \u200cgrowing AI-powered online threats.",
-      "url": "https://www.reuters.com/technology/gen-digital-raises-annual-forecast-strong-cybersecurity-demand-2026-08-06/",
-      "date": "2026-08-06T20:08:33Z"
-    },
-    {
-      "title": "Hedge fund cyberattacks tied to BlackFile-linked UNC6671 extortion group",
-      "description": "[BLEEPINGCOMPUTER] A recent wave of cyberattacks targeting hedge funds, private-equity firms, and other financial organizations has been linked to UNC6671, an extortion group reportedly associated with the BlackFile threat actors. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/hedge-fund-cyberattacks-tied-to-blackfile-linked-unc6671-extortion-group/",
-      "date": "2026-08-06T20:07:24Z"
-    },
-    {
-      "title": "Educational Computer Systems\u2019 $6.5 Million Breach Deal Gets Nod",
-      "description": "[BLOOMBERG TAX NEWS] Educational Computer Systems Inc. will pay $6.5 million to settle a proposed class action alleging it failed to protect the personal financial information of nearly 2.6 million people that was exposed in a 2023 data breach, under a deal given...",
-      "url": "https://news.bloombergtax.com/daily-tax-report/educational-computer-systems-6-5-million-breach-deal-gets-nod",
-      "date": "2026-08-06T20:04:56Z"
-    },
-    {
-      "title": "Meta breach adds to concerns about AI models going rogue",
-      "description": "[BALTIMORE NEWS] Meta became the latest major artificial intelligence developer to disclose one of its models went rogue during cybersecurity testing, gaining access to the inte",
-      "url": "https://foxbaltimore.com/news/nation-world/meta-breach-adds-to-concerns-about-ai-models-going-rogue",
-      "date": "2026-08-06T20:00:39Z"
     },
     {
       "title": "Adversarial Clothing Designed to Fool Facial Recognition Systems",
