@@ -1,6 +1,18 @@
 {
-  "updated": "2026-08-08 08:28:06 UTC",
+  "updated": "2026-08-08 10:20:59 UTC",
   "news": [
+    {
+      "title": "Atlassian Rovo Can Be Tricked Into Sending Jira and Confluence Data to Attackers",
+      "description": "[FEEDS] Attacker-controlled instructions can make Atlassian's Rovo assistant collect Jira or Confluence data that a signed-in user can access, then send it to an outside server. Two security firms found that behavior independently, by different routes. Only...",
+      "url": "https://thehackernews.com/2026/08/atlassian-rovo-can-be-tricked-into.html",
+      "date": "2026-08-08T08:54:50Z"
+    },
+    {
+      "title": "New CSS Attacks Can Break Webmail Defenses to Steal Passwords and Tokens",
+      "description": "[FEEDS] New research shows content inside an email can escape its message boundary and interfere with the webmail interface. Across attack chains spanning Outlook, Gmail, Fastmail, Proton Mail, Yahoo Mail, and AOL Mail, the techniques can capture passwords,...",
+      "url": "https://thehackernews.com/2026/08/new-css-attacks-can-break-webmail.html",
+      "date": "2026-08-08T08:03:57Z"
+    },
     {
       "title": "Metabase Zero-Day Exploited in Wild Allows Admin Access Without Authentication",
       "description": "[FEEDS] Metabase has warned that a maximum-severity security flaw impacting its business intelligence and data visualization software package has been exploited in the wild as a zero-day. The vulnerability (CVSS score: 10.0), which does not carry a CVE...",
@@ -20,10 +32,28 @@
       "date": "2026-08-08T06:52:16Z"
     },
     {
+      "title": "OpenAI Delays Next Major AI Model 'Astra' Over Critical Hacking Concerns",
+      "description": "[MACRUMORS] OpenAI today said it is \"pausing\" activities involving its upcoming AI model Astra, because its cyber capabilities are potentially too dangerous. OpenAI says its newest internal evaluations show \"significant advancements in agentic coding and...",
+      "url": "https://www.macrumors.com/2026/08/07/openai-astra-model-hacking-concerns/",
+      "date": "2026-08-07T21:27:35Z"
+    },
+    {
+      "title": "3 South Jersey towns hit by water-system cyberattack",
+      "description": "[PRESS OF ATLANTIC CITY] Hamilton Township and two towns in Cape May County have reported cybersecurity incidents affecting their water systems, similar to incidents that have been reported across the country.",
+      "url": "https://pressofatlanticcity.com/news/local/government-politics/article_d149d5e1-0e3d-43e6-9605-a63714ab06c8.html",
+      "date": "2026-08-07T21:15:00Z"
+    },
+    {
       "title": "Friday Squid Blogging: Arctic Bobtail Squid Video",
       "description": "[SCHNEIER] Nice video of the Arctic bobtail squid. As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered. Blog moderation policy.",
       "url": "https://www.schneier.com/blog/archives/2026/08/friday-squid-blogging-arctic-bobtail-squid-video.html",
       "date": "2026-08-07T21:07:04Z"
+    },
+    {
+      "title": "OpenAI flags Astra model for critical cybersecurity capabilities",
+      "description": "[INTERESTING ENGINEERING] OpenAI tightened security around its upcoming Astra model after tests suggested it could reach critical cybersecurity capabilities.",
+      "url": "https://interestingengineering.com/ai-robotics/openai-locks-down-astra-after-model-raises-first-ever-critical-cyber-capability-fears",
+      "date": "2026-08-07T21:01:22Z"
     },
     {
       "title": "Metabase SQLi zero-day exploited in customer data-theft attacks",
@@ -62,22 +92,10 @@
       "date": "2026-08-07T18:37:26Z"
     },
     {
-      "title": "ClickFix Attacks Deliver macOS Stealer That Can Drain Crypto Wallets",
-      "description": "[FEEDS] ClickFix-style attacks are being used to deliver a Go-based malware capable of stealing cryptocurrency assets, as well as browser-stored passwords, Apple iCloud Keychain data, and cached credentials. The macOS-focused infection chain is designed to...",
-      "url": "https://thehackernews.com/2026/08/clickfix-attacks-deliver-macos-stealer.html",
-      "date": "2026-08-07T18:29:08Z"
-    },
-    {
       "title": "Carahsoft Showcases Cybersecurity, Defense, Intelligence, AI and Data Innovations at DoDIIS Worldwide 2026, in Tampa, Florida, Aug. 9-12",
       "description": "[THE MANILA TIMES] RESTON, Va., Aug. 07, 2026 (GLOBE NEWSWIRE) -- Carahsoft Technology Corp., The Trusted Government IT Solutions Provider\u00ae, will be joined by more than 110 of its technology partners at the Department of War Intelligence Information System (DoDIIS)...",
       "url": "https://www.manilatimes.net/2026/08/08/tmt-newswire/globenewswire/carahsoft-showcases-cybersecurity-defense-intelligence-ai-and-data-innovations-at-dodiis-worldwide-2026-in-tampa-florida-aug-9-12/2401195",
       "date": "2026-08-07T18:25:09Z"
-    },
-    {
-      "title": "UNC6671 Vishing Attacks Target Personal Phones to Steal SaaS Data",
-      "description": "[FEEDS] A recent wave of cyber attacks targeting financial services, private equity, and professional services has been attributed to a data extortion group known as UNC6671. \"UNC6671 continues to rely on voice phishing (vishing) to target enterprise...",
-      "url": "https://thehackernews.com/2026/08/unc6671-vishing-attacks-target-personal.html",
-      "date": "2026-08-07T18:16:13Z"
     },
     {
       "title": "OpenAI flags possible critical cybersecurity risk in upcoming model, tightens controls",
@@ -96,24 +114,6 @@
       "description": "[INVESTOR'S BUSINESS DAILY] Okta stock has surged more than 70% in 2026 as AI-based \"agents\" that perform tasks on the internet require new cybersecurity safeguards.",
       "url": "https://www.investors.com/research/ibd-stock-of-the-day/okta-stock-cybersecurity-stocks-artificial-intelligence-news/",
       "date": "2026-08-07T17:45:44Z"
-    },
-    {
-      "title": "AI Cybersecurity for Mid-Market SaaS: Practical Defenses That Scale",
-      "description": "[TECHBULLION] AI cybersecurity for mid-market SaaS: identity-first defenses, smarter triage, and a 30-day rollout mid-market teams can finish.",
-      "url": "https://techbullion.com/ai-cybersecurity-for-mid-market-saas/",
-      "date": "2026-08-07T16:57:26Z"
-    },
-    {
-      "title": "AI Is Changing Cybersecurity In A Quick And Terrifying Way",
-      "description": "[ENGADGET] The proliferation of AI has created new vulnerabilities in our software that in turn are exploited by other AI. Can the cybersecurity industry get ahead of it?",
-      "url": "https://www.engadget.com/2229315/ai-changing-cybersecurity-quick-terrifying-way/",
-      "date": "2026-08-07T16:30:00Z"
-    },
-    {
-      "title": "Compensation applications open for eligible Canadians",
-      "description": "[BNN BLOOMBERG] Thousands of eligible Canadians can now apply for compensation, after a months-long Canada Revenue Agency data breach in 2020 left their private information vulnerable to hackers.",
-      "url": "https://www.bnnbloomberg.ca/business/2026/08/07/canadians-affected-by-2020-cra-data-breach-can-now-apply-for-compensation/",
-      "date": "2026-08-07T16:15:00Z"
     },
     {
       "title": "Levi Strauss & Co. says hackers stole corporate data in cyberattack",
