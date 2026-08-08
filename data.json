@@ -1,6 +1,12 @@
 {
-  "updated": "2026-08-08 14:22:41 UTC",
+  "updated": "2026-08-08 16:20:28 UTC",
   "news": [
+    {
+      "title": "Hackers breach TrueConf to trojanize client installers with backdoors",
+      "description": "[BLEEPINGCOMPUTER] The Head Mare hacktivist group has been exploiting vulnerabilities in unpatched TrueConf video conferencing servers to replace client installers with malicious versions that deliver backdoors. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-breach-trueconf-to-trojanize-client-installers-with-backdoors/",
+      "date": "2026-08-08T14:16:23Z"
+    },
     {
       "title": "Atlassian Rovo Can Be Tricked Into Sending Jira and Confluence Data to Attackers",
       "description": "[FEEDS] Attacker-controlled instructions can make Atlassian's Rovo assistant collect Jira or Confluence data that a signed-in user can access, then send it to an outside server. Two security firms found that behavior independently, by different routes. Only...",
@@ -30,6 +36,36 @@
       "description": "[FEEDS] The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a critical-severity security flaw impacting Progress Kemp LoadMaster to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation in...",
       "url": "https://thehackernews.com/2026/08/progress-kemp-loadmaster-flaw-hits-cisa.html",
       "date": "2026-08-08T06:52:16Z"
+    },
+    {
+      "title": "Amit Shah In Mumbai: Union Home Minister To Inaugurate NUCFDC Office, Launch Cybersecurity Centre Today",
+      "description": "[FREE PRESS JOURNAL] Union Minister Amit Shah arrived in Mumbai on Friday night for a two-day visit and was received by CM Devendra Fadnavis and other leaders. Shah will inaugurate NUCFDC",
+      "url": "https://www.freepressjournal.in/mumbai/amit-shah-in-mumbai-union-home-minister-to-inaugurate-nucfdc-office-launch-cybersecurity-centre-today",
+      "date": "2026-08-08T03:44:34Z"
+    },
+    {
+      "title": "OpenAI flags potential 'critical' cybersecurity capabilities in upcoming Astra model",
+      "description": "[THE TRIBUNE] OpenAI on Friday said its upcoming artificial intelligence model, Astra, has demonstrated significant advances in agentic coding and cybersecurity, prompting the company to conclude that it cannot currently rule out the model reaching the 'Critical'...",
+      "url": "https://www.tribuneindia.com/news/business/openai-flags-potential-critical-cybersecurity-capabilities-in-upcoming-astra-model/",
+      "date": "2026-08-08T03:28:37Z"
+    },
+    {
+      "title": "OpenAI flags potential 'critical' cybersecurity capabilities in upcoming Astra model",
+      "description": "[ANI (ASIAN NEWS INTERNATIONAL)] OpenAI on Friday said its upcoming artificial intelligence model, Astra, has demonstrated significant advances in agentic coding and cybersecurity, prompting the company to conclude that it cannot currently rule out the model reaching the \"Critical\"...",
+      "url": "https://www.aninews.in/news/business/openai-flags-potential-critical-cybersecurity-capabilities-in-upcoming-astra-model20260808085518/",
+      "date": "2026-08-08T03:25:18Z"
+    },
+    {
+      "title": "OpenAI flags possible critical cybersecurity risk in upcoming model, tightens controls",
+      "description": "[THE INDIAN EXPRESS] OpenAI has paused development of its AI model, Astra, after discovering it may have \u201ccritical\u201d cybersecurity capabilities. This follows reports of other AI models breaking containment and conducting cyberattacks. Astra\u2019s development will now take...",
+      "url": "https://indianexpress.com/shorts/technology/artificial-intelligence/openai-astra-ai-model-critical-cybersecurity-capabilities-10823307/",
+      "date": "2026-08-08T03:00:27Z"
+    },
+    {
+      "title": "OpenAI flags possible critical cybersecurity risk in upcoming model, tightens controls",
+      "description": "[THE INDIAN EXPRESS] OpenAI said preliminary tests suggest its upcoming AI model Astra may have critical cybersecurity capabilities, prompting the company to strengthen safeguards and move development into isolated testing environments.",
+      "url": "https://indianexpress.com/article/technology/artificial-intelligence/openai-astra-ai-model-critical-cybersecurity-capabilities-10823307/",
+      "date": "2026-08-08T02:59:14Z"
     },
     {
       "title": "AI Is Changing the Capabilities-and Economics-of Employee Safety and Security",
@@ -68,28 +104,10 @@
       "date": "2026-08-07T21:07:04Z"
     },
     {
-      "title": "OpenAI flags Astra model for critical cybersecurity capabilities",
-      "description": "[INTERESTING ENGINEERING] OpenAI tightened security around its upcoming Astra model after tests suggested it could reach critical cybersecurity capabilities.",
-      "url": "https://interestingengineering.com/ai-robotics/openai-locks-down-astra-after-model-raises-first-ever-critical-cyber-capability-fears",
-      "date": "2026-08-07T21:01:22Z"
-    },
-    {
       "title": "Metabase SQLi zero-day exploited in customer data-theft attacks",
       "description": "[BLEEPINGCOMPUTER] A critical Metabase SQL injection vulnerability was exploited in zero-day attacks to breach customer instances in data theft attacks, known to impact Framework and Tally. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/framework-tally-disclose-metabase-data-theft-attacks/",
       "date": "2026-08-07T20:14:46Z"
-    },
-    {
-      "title": "GDIT scores $1.3 billion National Guard IT contract",
-      "description": "[BREAKING DEFENSE] The Enterprise Network Operations and Cybersecurity Support contract aims to provide modernized IT and cybersecurity services to the Army National Guard.",
-      "url": "https://breakingdefense.com/2026/08/gdit-scores-1-3-billion-national-guard-it-contract/",
-      "date": "2026-08-07T19:51:28Z"
-    },
-    {
-      "title": "OpenAI offers Michigan assistance after water cyberattack",
-      "description": "[DETROIT FREE PRESS] After Michigan officials reported a \"coordinated cyberattack\" earlier this month, OpenAI is offering the state its cybersecurity services.",
-      "url": "https://www.freep.com/story/news/politics/2026/08/07/michigan-water-system-cyberattack-openai/91181530007/",
-      "date": "2026-08-07T19:41:09Z"
     },
     {
       "title": "Unlimited Technology Systems breach impacts 3.8 million people",
@@ -102,18 +120,6 @@
       "description": "[FEEDS] A cluster of nearly 800 malicious packages has been published to the npm registry as part of a new campaign designed to deliver cross-platform malware targeting Windows, Mac, and Linux systems. \"These packages appear to use AI slop squatted, or...",
       "url": "https://thehackernews.com/2026/08/nearly-800-malicious-npm-packages.html",
       "date": "2026-08-07T18:48:17Z"
-    },
-    {
-      "title": "Framework Customer Information Was Accessed As Part Of A Data Breach",
-      "description": "[ENGADGET] Framework's customer database was accessed, but no payment info was released.",
-      "url": "https://www.engadget.com/2232708/framework-customer-information-was-accessed-as-part-of-a-data-breach/",
-      "date": "2026-08-07T18:37:26Z"
-    },
-    {
-      "title": "Carahsoft Showcases Cybersecurity, Defense, Intelligence, AI and Data Innovations at DoDIIS Worldwide 2026, in Tampa, Florida, Aug. 9-12",
-      "description": "[THE MANILA TIMES] RESTON, Va., Aug. 07, 2026 (GLOBE NEWSWIRE) -- Carahsoft Technology Corp., The Trusted Government IT Solutions Provider\u00ae, will be joined by more than 110 of its technology partners at the Department of War Intelligence Information System (DoDIIS)...",
-      "url": "https://www.manilatimes.net/2026/08/08/tmt-newswire/globenewswire/carahsoft-showcases-cybersecurity-defense-intelligence-ai-and-data-innovations-at-dodiis-worldwide-2026-in-tampa-florida-aug-9-12/2401195",
-      "date": "2026-08-07T18:25:09Z"
     },
     {
       "title": "Levi Strauss & Co. says hackers stole corporate data in cyberattack",
@@ -150,12 +156,6 @@
       "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
       "url": "https://isc.sans.edu/diary/rss/33224",
       "date": "2026-08-07T02:00:02Z"
-    },
-    {
-      "title": "OpenAI rolls out a major ChatGPT upgrade, even if you don\u2019t pay for it",
-      "description": "[BLEEPINGCOMPUTER] OpenAI is rolling out a more reliable version of ChatGPT GPT-5.6 Sol for Plus and Pro users, while Free users are getting unlimited text chats with GPT-5.6 Luna. [...]",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-rolls-out-a-major-chatgpt-upgrade-even-if-you-dont-pay-for-it/",
-      "date": "2026-08-06T22:48:22Z"
     },
     {
       "title": "Adversarial Clothing Designed to Fool Facial Recognition Systems",
