@@ -1,6 +1,36 @@
 {
-  "updated": "2026-08-10 12:44:24 UTC",
+  "updated": "2026-08-10 14:49:45 UTC",
   "news": [
+    {
+      "title": "CISA: SonicWall SMA1000 flaws now exploited by ransomware gangs",
+      "description": "[BLEEPINGCOMPUTER] CISA has confirmed that ransomware gangs have begun exploiting two recently patched SonicWall SMA1000 vulnerabilities, including a maximum-severity server-side request forgery (SSRF) flaw. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-sonicwall-sma1000-flaws-now-exploited-by-ransomware-gangs/",
+      "date": "2026-08-10T14:34:32Z"
+    },
+    {
+      "title": "When Credentials Are No Longer Enough: Device Trust in the AI Era",
+      "description": "[BLEEPINGCOMPUTER] AI is making phishing, credential theft, and social engineering faster and more efficient, while traditional trust signals such as passwords, MFA, IP reputation, and geolocation become easier to bypass. Specops explains why organizations are...",
+      "url": "https://www.bleepingcomputer.com/news/security/when-credentials-are-no-longer-enough-device-trust-in-the-ai-era/",
+      "date": "2026-08-10T14:01:11Z"
+    },
+    {
+      "title": "Kimsuky Builds Offline AI Stack to Boost Phishing and Automate Malware Development",
+      "description": "[FEEDS] North Korea's state hackers are no longer content to type prompts into public chatbots. One of the country's main espionage groups has begun running artificial intelligence (AI) offline on its own servers, connecting document-search tools to files...",
+      "url": "https://thehackernews.com/2026/08/kimsuky-builds-offline-ai-stack-that.html",
+      "date": "2026-08-10T13:19:58Z"
+    },
+    {
+      "title": "Member of The Com sent to prison for blackmail, sextortion",
+      "description": "[BLEEPINGCOMPUTER] A member of \"The Com,\" a loose-knit online cybercrime collective that targets children and teenagers, has been sentenced to two years in prison for blackmail and sextortion offenses against nearly 120 victims worldwide. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/member-of-the-com-sent-to-prison-for-blackmail-sextortion/",
+      "date": "2026-08-10T12:56:28Z"
+    },
+    {
+      "title": "New Passkey Attacks Can Recover Synced Private Keys or Bypass Phishing-Resistant MFA",
+      "description": "[FEEDS] Three separate research efforts last week demonstrated ways to defeat passkey protections without breaking the cryptography they rest on. Passkeys are designed to replace reusable passwords and resist phishing. The attacks instead reused signed...",
+      "url": "https://thehackernews.com/2026/08/new-passkey-attacks-can-recover-synced.html",
+      "date": "2026-08-10T12:25:04Z"
+    },
     {
       "title": "LexisNexis shuts down services after suspicious activity on servers",
       "description": "[BLEEPINGCOMPUTER] LexisNexis took its Diligence, Metabase API, and Newsdesk services offline as part of its response to unusual activity on servers hosted and managed by an unnamed third-party vendor. [...]",
@@ -8,10 +38,22 @@
       "date": "2026-08-10T12:11:52Z"
     },
     {
+      "title": "Shipping 10\u201350\u00d7 More Code? Watch This Webinar on Securing AI-Speed Development",
+      "description": "[FEEDS] AI is helping development teams produce far more code, far faster. But security teams still have to review vulnerabilities, manage dependencies, prioritize fixes, and control risk at human speed. When software output jumps 10 to 50 times, the...",
+      "url": "https://thehackernews.com/2026/08/shipping-1050-more-code-watch-this.html",
+      "date": "2026-08-10T11:52:16Z"
+    },
+    {
       "title": "Valve notifies Steam hardware customers of a data breach",
       "description": "[BLEEPINGCOMPUTER] Video game publisher and digital distribution giant Valve is notifying Steam hardware customers in Europe that hackers stole their data after hacking its shipping partner, CEVA Logistics. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/valve-notifies-steam-hardware-customers-of-a-data-breach/",
       "date": "2026-08-10T11:47:55Z"
+    },
+    {
+      "title": "TrueConf Server Flaws Exploited to Replace Client Installers with PhantomCore",
+      "description": "[FEEDS] The threat actor known as Head Mare has been observed weaponizing security flaws in unpatched TrueConf servers once again in attacks targeting Russian companies spanning instrumentation, electronics, transport, energy, IT, and software development...",
+      "url": "https://thehackernews.com/2026/08/head-mare-exploits-trueconf-flaws-to.html",
+      "date": "2026-08-10T11:33:41Z"
     },
     {
       "title": "Python Now Has a Post-Quantum Encryption Library",
@@ -38,10 +80,46 @@
       "date": "2026-08-10T05:50:03Z"
     },
     {
+      "title": "North Korean hacking group builds AI tools for cyberattacks, report says",
+      "description": "[THE STAR] SEOUL, Aug 10 (Reuters) - A \u2060North Korean hacking group built large language model tools \u2060and collected software that could help automate cyberattacks, analyse \u200cstolen material and produce more convincing phishing campaigns, a South Korean...",
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/08/10/north-korean-hacking-group-builds-ai-tools-for-cyberattacks-report-says",
+      "date": "2026-08-10T02:47:00Z"
+    },
+    {
+      "title": "Cybersecurity concerns abate ahead of national census",
+      "description": "[PERTHNOW] The federal minister in charge of the 2026 census says the safety of sensitive information is at the forefront of the national survey.",
+      "url": "https://www.perthnow.com.au/news/politics/cybersecurity-concerns-abate-ahead-of-national-census-c-22701263",
+      "date": "2026-08-10T02:37:33Z"
+    },
+    {
+      "title": "Cybersecurity concerns abate ahead of national census",
+      "description": "[THE CANBERRA TIMES] The federal minister in charge of the 2026 census says the safety of sensitive information is at the...",
+      "url": "https://www.canberratimes.com.au/story/9327247/cybersecurity-concerns-abate-ahead-of-national-census/",
+      "date": "2026-08-10T02:34:58Z"
+    },
+    {
+      "title": "Hackers Are Building ChatGPT-Like AI To Read Stolen Files And Create Phishing Scams",
+      "description": "[TIMES NOW] North Korea-linked hackers are reportedly using ChatGPT-like AI tools to analyse data, automate cyberattacks and create more convincing phishing scams, raising fresh cybersecurity concerns., Technology & Science, Times Now",
+      "url": "https://www.timesnownews.com/technology-science/hackers-are-building-chatgpt-like-ai-to-read-stolen-files-and-create-phishing-scams-article-155460798",
+      "date": "2026-08-10T02:30:29Z"
+    },
+    {
       "title": "ISC Stormcast For Monday, August 10th, 2026 https://isc.sans.edu/podcastdetail/10044, (Mon, Aug 10th)",
       "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
       "url": "https://isc.sans.edu/diary/rss/33228",
       "date": "2026-08-10T02:00:03Z"
+    },
+    {
+      "title": "North Korean hacking group builds AI tools for cyberattacks, report says",
+      "description": "[REUTERS] A North Korean hacking group built large language model tools and collected software that could help automate \u200bcyberattacks, analyse stolen material and produce more convincing phishing \u200ccampaigns, a South Korean cybersecurity firm said on Monday.",
+      "url": "https://www.reuters.com/legal/litigation/north-korean-hacking-group-builds-ai-tools-cyberattacks-report-says-2026-08-10/",
+      "date": "2026-08-10T01:08:19Z"
+    },
+    {
+      "title": "North Korean Hackers Advance with AI-Enhanced Cyber Tools",
+      "description": "[DEVDISCOURSE] A North Korean hacking group, Kimsuky, has developed large language model tools aimed at automating cyberattacks and creating convincing phishing campaigns. A South Korean cybersecurity firm, Genians, uncovered that Kimsuky is using AI models like...",
+      "url": "https://www.devdiscourse.com/article/technology/3961720-north-korean-hackers-advance-with-ai-enhanced-cyber-tools",
+      "date": "2026-08-10T01:06:11Z"
     },
     {
       "title": "AI, information warfare, cyber experts could join Territorial Army soon",
@@ -68,88 +146,10 @@
       "date": "2026-08-09T15:59:08Z"
     },
     {
-      "title": "Levi Strauss & Co. Social Engineering Cyberattack Exposes Corporate Data: Incident Analysis and Mitigation Recommendations - Rescana",
-      "description": "[EUROPE SAYS] On August 7, 2026, Levi Strauss & Co. disclosed a cybersecurity incident in which hackers gained unauthorized access to certain corporate data by",
-      "url": "https://www.europesays.com/3184574/",
-      "date": "2026-08-09T15:25:32Z"
-    },
-    {
-      "title": "The World's Leading AI Companies Struggle to Contain Latest Models",
-      "description": "[BUSINESS INSIDER] There's been a recent string of cybersecurity incidents among the world's leading AI models. Here's a look at what's happened.",
-      "url": "https://www.businessinsider.com/ai-cybersecurity-incidents-openai-astra-anthropic-kimi-meta-2026-8",
-      "date": "2026-08-09T15:24:36Z"
-    },
-    {
-      "title": "AI isn\u2019t the biggest cybersecurity problem. People are",
-      "description": "[CP24 TORONTO] AI has given bad actors massive power, allowing them to create malicious software, research targets, create convincing schemes and automate attacks at an unprecedented pace.",
-      "url": "https://www.cp24.com/news/world/2026/08/09/ai-isnt-the-biggest-cybersecurity-problem-people-are/",
-      "date": "2026-08-09T13:54:22Z"
-    },
-    {
-      "title": "After paper leak row, testing agency launches 'Build New NTA' recruitment drive",
-      "description": "[INDIA TODAY] NTA has opened senior and specialist positions across cybersecurity, vigilance, test-centre operations, research, data analysis and communications under its Build New NTA recruitment drive. The hiring push follows renewed scrutiny over examination...",
-      "url": "https://www.indiatoday.in/education-today/news/story/nta-recruitment-2026-new-specialist-roles-open-after-paper-leak-row-check-how-to-apply-2967087-2026-08-09",
-      "date": "2026-08-09T11:29:05Z"
-    },
-    {
-      "title": "AI isn\u2019t the biggest cybersecurity problem. People are",
-      "description": "[CABLE NEWS NETWORK] Cases of AI escaping the lab, infiltrating other companies and trying to deceive people have all made headlines in recent weeks. And in one case, AI models even worked together to break free from their test environments.",
-      "url": "https://edition.cnn.com/2026/08/09/tech/ai-cybersecurity-people",
-      "date": "2026-08-09T10:30:30Z"
-    },
-    {
-      "title": "OpenAI pauses Astra AI model over critical cybersecurity concerns",
-      "description": "[THE ECONOMIC TIMES] Under OpenAI's Preparedness Framework, the potential development of such capabilities triggers stricter safeguards, particularly when models could create risks of severe harm.OpenAI said it is \"pausing\" activities involving Astra while it...",
-      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-pauses-astra-ai-model-over-critical-cybersecurity-concerns/articleshow/133065840.cms",
-      "date": "2026-08-09T10:16:02Z"
-    },
-    {
-      "title": "Hackers breach TrueConf to trojanize client installers with backdoors",
-      "description": "[BLEEPINGCOMPUTER] The Head Mare hacktivist group has been exploiting vulnerabilities in unpatched TrueConf video conferencing servers to replace client installers with malicious versions that deliver backdoors. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-breach-trueconf-to-trojanize-client-installers-with-backdoors/",
-      "date": "2026-08-08T14:16:23Z"
-    },
-    {
-      "title": "Atlassian Rovo Can Be Tricked Into Sending Jira and Confluence Data to Attackers",
-      "description": "[FEEDS] Attacker-controlled instructions can make Atlassian's Rovo assistant collect Jira or Confluence data that a signed-in user can access, then send it to an outside server. Two security firms found that behavior independently, by different routes. Only...",
-      "url": "https://thehackernews.com/2026/08/atlassian-rovo-can-be-tricked-into.html",
-      "date": "2026-08-08T08:54:50Z"
-    },
-    {
-      "title": "New CSS Attacks Can Break Webmail Defenses to Steal Passwords and Tokens",
-      "description": "[FEEDS] New research shows content inside an email can escape its message boundary and interfere with the webmail interface. Across attack chains spanning Outlook, Gmail, Fastmail, Proton Mail, Yahoo Mail, and AOL Mail, the techniques can capture passwords,...",
-      "url": "https://thehackernews.com/2026/08/new-css-attacks-can-break-webmail.html",
-      "date": "2026-08-08T08:03:57Z"
-    },
-    {
-      "title": "Metabase Zero-Day Exploited in Wild Allows Admin Access Without Authentication",
-      "description": "[FEEDS] Metabase has warned that a maximum-severity security flaw impacting its business intelligence and data visualization software package has been exploited in the wild as a zero-day. The vulnerability (CVSS score: 10.0), which does not carry a CVE...",
-      "url": "https://thehackernews.com/2026/08/metabase-zero-day-exploited-in-wild.html",
-      "date": "2026-08-08T06:58:31Z"
-    },
-    {
-      "title": "N-able Issues N-central Hotfix 2 as Attackers Reach Managed Systems and Persist",
-      "description": "[FEEDS] N-able has released a fresh round of hotfixes for N\u2011central as part of its investigation into ongoing exploitation of a recently disclosed security flaw in the Remote Monitoring and Management (RMM) product. \"We are proactively expanding protections...",
-      "url": "https://thehackernews.com/2026/08/n-central-attackers-reach-managed.html",
-      "date": "2026-08-08T06:57:43Z"
-    },
-    {
       "title": "Friday Squid Blogging: Arctic Bobtail Squid Video",
       "description": "[SCHNEIER] Nice video of the Arctic bobtail squid. As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered. Blog moderation policy.",
       "url": "https://www.schneier.com/blog/archives/2026/08/friday-squid-blogging-arctic-bobtail-squid-video.html",
       "date": "2026-08-07T21:07:04Z"
-    },
-    {
-      "title": "Metabase SQLi zero-day exploited in customer data-theft attacks",
-      "description": "[BLEEPINGCOMPUTER] A critical Metabase SQL injection vulnerability was exploited in zero-day attacks to breach customer instances in data theft attacks, known to impact Framework and Tally. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/framework-tally-disclose-metabase-data-theft-attacks/",
-      "date": "2026-08-07T20:14:46Z"
-    },
-    {
-      "title": "Unlimited Technology Systems breach impacts 3.8 million people",
-      "description": "[BLEEPINGCOMPUTER] Healthcare software company Unlimited Technology Systems reported that more than 3.8 million people were impacted by a data breach incident that occurred in October 2025. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/unlimited-technology-systems-breach-impacts-38-million-people/",
-      "date": "2026-08-07T19:30:41Z"
     },
     {
       "title": "ICE Is Buying Access to Credit Card Records",
