@@ -1,6 +1,30 @@
 {
-  "updated": "2026-08-11 12:40:56 UTC",
+  "updated": "2026-08-11 14:49:46 UTC",
   "news": [
+    {
+      "title": "Mozilla updates GPG signing key for Firefox releases after exposure",
+      "description": "[BLEEPINGCOMPUTER] Mozilla announced today that it updated the GPG key used to sign Firefox and Thunderbird releases after it was accidentally exposed on GitHub. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/mozilla-updates-gpg-key-for-signing-firefox-thunderbird-releases-after-exposure/",
+      "date": "2026-08-11T13:20:28Z"
+    },
+    {
+      "title": "Vague Task, Total Access: When AI Delegation Becomes a Security Risk",
+      "description": "[BLEEPINGCOMPUTER] AI agents can improvise beyond the intended scope of a task when they are given broad access to enterprise systems and data. Token Security explains why organizations need to define agent intent and continuously enforce permissions around what each...",
+      "url": "https://www.bleepingcomputer.com/news/security/vague-task-total-access-when-ai-delegation-becomes-a-security-risk/",
+      "date": "2026-08-11T13:15:24Z"
+    },
+    {
+      "title": "OpenAI Launches GPT-5.6-Cyber with Reduced Safeguards for Exploit Development",
+      "description": "[FEEDS] OpenAI on Monday unveiled a new cybersecurity-focused model called GPT\u20115.6\u2011Cyber that it said is focused on vulnerability research, penetration testing, and incident response. \"Built on GPT\u20115.6 Sol, it is trained to improve capabilities on several...",
+      "url": "https://thehackernews.com/2026/08/openai-launches-gpt-56-cyber-with.html",
+      "date": "2026-08-11T13:11:23Z"
+    },
+    {
+      "title": "DDoS attacks over 1 Tbps surged fivefold in the second quarter",
+      "description": "[BLEEPINGCOMPUTER] Cloudflare says it mitigated more than 800 network-layer distributed denial-of-service (DDoS) attacks exceeding 1 Tbps in the second quarter of the year. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/ddos-attacks-over-1-tbps-surged-fivefold-in-the-second-quarter/",
+      "date": "2026-08-11T13:00:00Z"
+    },
     {
       "title": "CISA: Microsoft SharePoint flaw now exploited in ransomware attacks",
       "description": "[BLEEPINGCOMPUTER] CISA confirmed today that ransomware gangs have begun abusing a high-severity Microsoft SharePoint remote code execution vulnerability, which has been flagged as actively exploited since early July. [...]",
@@ -56,16 +80,16 @@
       "date": "2026-08-11T09:47:06Z"
     },
     {
-      "title": "Gunra Ransomware Exploits Fortinet and Schneider Electric Flaws to Breach Networks",
-      "description": "[FEEDS] Cybersecurity and intelligence agencies from South Korea and the U.S. warned of Gunra ransomware attacks targeting critical infrastructure sectors and organizations across the world. Targets of these attacks include healthcare and public health,...",
-      "url": "https://thehackernews.com/2026/08/gunra-ransomware-exploits-fortinet-and.html",
-      "date": "2026-08-11T09:16:24Z"
-    },
-    {
       "title": "ISC Stormcast For Tuesday, August 11th, 2026 https://isc.sans.edu/podcastdetail/10046, (Tue, Aug 11th)",
       "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
       "url": "https://isc.sans.edu/diary/rss/33232",
       "date": "2026-08-11T02:00:03Z"
+    },
+    {
+      "title": "Sens. Schiff and Klobuchar unveil new cybersecurity bill",
+      "description": "[UPI NEWS] Sens. Adam Schiff and Amy Klobuchar have released a new cybersecurity bill, the Water Cyber Shield Act, to help protect U.S. water infrastructure.",
+      "url": "https://www.upi.com/Top_News/US/2026/08/10/schiff-klobuchar-release-new-cybersecurity-bill/7011786411392/",
+      "date": "2026-08-11T01:32:15Z"
     },
     {
       "title": "OpenAI expands Daybreak cybersecurity research program",
@@ -84,12 +108,6 @@
       "description": "[VENTUREBEAT] OpenAI\u2019s documents list pricing for GPT-5.6-Cyber at $12.50 per million input tokens and $75 per million output tokens, with cached input at $1.25 per million tokens.",
       "url": "https://venturebeat.com/technology/openai-launches-gpt-5-6-cyber-with-reduced-refusals-95-completion-on-advanced-cybersecurity-tasks",
       "date": "2026-08-10T23:53:23Z"
-    },
-    {
-      "title": "Hackers breached a small Polish energy plant via private APN last year",
-      "description": "[BLEEPINGCOMPUTER] Hackers breached a heat-and-power plant facility in Poland, which supplies heat to about 50,000 residents, using a private APN (Access Point Name) to access an OT (Operational Technology) network. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-breached-a-small-polish-energy-plant-via-private-apn-last-year/",
-      "date": "2026-08-10T23:07:21Z"
     },
     {
       "title": "Ransomware attack on Health Sciences Centre affects doors, ventilation and air-conditioning",
@@ -116,12 +134,6 @@
       "date": "2026-08-10T21:39:40Z"
     },
     {
-      "title": "BdThemes plugins supply-chain hack creates rogue WordPress admins",
-      "description": "[BLEEPINGCOMPUTER] A threat actor compromised the upstream infrastructure of BdThemes, a developer of premium WordPress web-design tools, and modified a remote JSON feed delivered to administrators' browsers to create rogue admin accounts. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/bdthemes-plugins-supply-chain-hack-creates-rogue-wordpress-admins/",
-      "date": "2026-08-10T21:12:10Z"
-    },
-    {
       "title": "US House Democrats press Anthropic, OpenAI about rogue AI agents",
       "description": "[CNBC TV18] OpenAI and Anthropic disclosed in July that their AI agents had broken out of their environments and hacked into the systems of other companies during cybersecurity tests.",
       "url": "https://www.cnbctv18.com/world/us-house-democrats-press-anthropic-openai-about-rogue-ai-agents-19966121.htm",
@@ -132,18 +144,6 @@
       "description": "[TNW] Corma raised $60M seed from Sequoia, Khosla, and Coatue to build the first foundation model for defensive cybersecurity. Its AI agents cut response times 94%.",
       "url": "https://thenextweb.com/news/corma-60m-seed-sequoia-defensive-cybersecurity-ai",
       "date": "2026-08-10T20:30:57Z"
-    },
-    {
-      "title": "Bitcoin defenders seek frontier AI access in 40-group push",
-      "description": "[CRYPTO NEWS] More than 40 Bitcoin organizations urged leading AI labs to give vetted open-source defenders controlled access to frontier cybersecurity models.",
-      "url": "https://crypto.news/bitcoin-defenders-seek-frontier-ai-access-group-push/",
-      "date": "2026-08-10T20:13:56Z"
-    },
-    {
-      "title": "OpenAI releases ChatGPT 5.6 Cyber, but it's only for approved users",
-      "description": "[BLEEPINGCOMPUTER] OpenAI has developed a new model called \"GPT 5.6 Cyber,\" designed for vulnerability research, penetration testing, incident response, and remediation. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/openai-releases-chatgpt-56-cyber-but-its-only-for-approved-users/",
-      "date": "2026-08-10T19:24:40Z"
     },
     {
       "title": "Scans for Solana (Surfpool&#x3f;) Endpoints, (Mon, Aug 10th)",
