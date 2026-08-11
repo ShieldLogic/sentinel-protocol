@@ -1,6 +1,18 @@
 {
-  "updated": "2026-08-11 18:46:55 UTC",
+  "updated": "2026-08-11 20:33:50 UTC",
   "news": [
+    {
+      "title": "Cisco warns of ASA and FTD VPN flaw exploited to crash devices",
+      "description": "[BLEEPINGCOMPUTER] Cisco is warning that a high-severity denial-of-service vulnerability in Secure Firewall ASA and Threat Defense (FTD) software is being actively exploited in attacks to remotely crash affected devices. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-asa-and-ftd-vpn-flaw-exploited-to-crash-devices/",
+      "date": "2026-08-11T19:45:31Z"
+    },
+    {
+      "title": "Sandworm-Linked UAC-0145 Uses Fake Job Interviews to Push VPN That Can Run Commands",
+      "description": "[FEEDS] The Computer Emergency Response Team of Ukraine (CERT-UA) has disclosed details of a new social engineering campaign orchestrated by Russian nation-state threat actors targeting IT workers in the country by masquerading as recruiters to trick them...",
+      "url": "https://thehackernews.com/2026/08/sandworm-linked-uac-0145-uses-fake-job.html",
+      "date": "2026-08-11T18:36:47Z"
+    },
     {
       "title": "Delta probes Wi-Fi deauth attack on flight carrying DEF CON attendees",
       "description": "[BLEEPINGCOMPUTER] Delta Air Lines is investigating an unauthorized Wi-Fi network that appeared aboard a flight from Las Vegas to Atlanta carrying passengers who had attended the DEF CON hacker convention. [...]",
@@ -8,7 +20,7 @@
       "date": "2026-08-11T18:34:23Z"
     },
     {
-      "title": "Windows 10 KB5120249 cumulative update released with fixes",
+      "title": "Microsoft releases Windows 10 KB5120249 extended security update",
       "description": "[BLEEPINGCOMPUTER] Microsoft has released Windows 10 KB5120249 Extended Security Updates for versions 22H2 and 21H2 to fix security vulnerabilities and bugs. [...]",
       "url": "https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5120249-cumulative-update-released-with-fixes/",
       "date": "2026-08-11T18:26:03Z"
@@ -56,12 +68,6 @@
       "date": "2026-08-11T15:55:11Z"
     },
     {
-      "title": "Mozilla updates GPG signing key for Firefox releases after exposure",
-      "description": "[BLEEPINGCOMPUTER] Mozilla announced today that it updated the GPG key used to sign Firefox and Thunderbird releases after it was accidentally exposed on GitHub. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/mozilla-updates-gpg-key-for-signing-firefox-thunderbird-releases-after-exposure/",
-      "date": "2026-08-11T13:20:28Z"
-    },
-    {
       "title": "OpenAI Launches GPT-5.6-Cyber with Reduced Safeguards for Exploit Development",
       "description": "[FEEDS] OpenAI on Monday unveiled a new cybersecurity-focused model called GPT\u20115.6\u2011Cyber that it said is focused on vulnerability research, penetration testing, and incident response. \"Built on GPT\u20115.6 Sol, it is trained to improve capabilities on several...",
       "url": "https://thehackernews.com/2026/08/openai-launches-gpt-56-cyber-with.html",
@@ -80,82 +86,76 @@
       "date": "2026-08-11T12:04:51Z"
     },
     {
-      "title": "Researchers Built a Fake Crypto Startup and Hired Three Suspected North Korean IT Workers",
-      "description": "[FEEDS] Security researchers invented a cryptocurrency startup, advertised developer jobs, and hired three people they believe were North Korean operatives. Every virtual machine the company issued was recording. The onboarding paperwork is the part hiring...",
-      "url": "https://thehackernews.com/2026/08/researchers-built-fake-crypto-startup.html",
-      "date": "2026-08-11T11:35:03Z"
-    },
-    {
       "title": "AI for Military Support",
       "description": "[SCHNEIER] Interesting empirical research: &#8220;Black Box Warfare: Human Judgment and Military Decision-Making in the Age of AI.&#8221; Abstract: How is AI transforming decision-making in modern conflict? This study provides a unique empirical window into...",
       "url": "https://www.schneier.com/blog/archives/2026/08/ai-for-military-support.html",
       "date": "2026-08-11T11:18:07Z"
     },
     {
-      "title": "Why cybersecurity decisions need to rely less on data and more on questioning insights",
-      "description": "[ITWIRE] Every security operations centre is drowning in data.",
-      "url": "https://itwire.com/guest-articles/guest-opinion/why-cybersecurity-decisions-need-to-rely-less-on-data-and-more-on-questioning-insights",
-      "date": "2026-08-11T06:26:00Z"
+      "title": "After TCS, HCL Tech denies data breach claims",
+      "description": "[NEWSBYTES] HCLTech stated no evidence of system or client breaches after hacker claims surfaced, while investigations continue into limited employee-related data exposure allegations.",
+      "url": "https://www.newsbytesapp.com/news/science/hcltech-denies-hacker-group-s-data-breach-claims/story",
+      "date": "2026-08-11T08:23:44Z"
     },
     {
-      "title": "AI in banking must move beyond retail to farms, MSMEs: SBI Chairman Setty",
-      "description": "[THE ECONOMIC TIMES] In a recent statement, CS Setty, Chairman of the State Bank of India, underscored AI's transformative potential for the Indian banking sector. He asserted that widening credit opportunities for small businesses and farmers through AI is essential to...",
-      "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/ai-in-banking-must-move-beyond-retail-to-farms-msmes-sbi-chairman-setty/articleshow/133143959.cms",
-      "date": "2026-08-11T06:17:00Z"
+      "title": "AI's next banking frontier is rural India, small businesses: SBI Chairman",
+      "description": "[BUSINESS STANDARD] SBI Chairman C S Setty said the next wave of AI in banking should deepen financial access for rural India, small businesses and agriculture while strengthening cybersecurity.",
+      "url": "https://www.business-standard.com/industry/banking/sbi-chairman-cs-setty-ai-rural-credit-small-businesses-agriculture-126081100844_1.html",
+      "date": "2026-08-11T08:13:37Z"
     },
     {
-      "title": "Agentic AI turning Zero Trust cybersecurity 'on its head'",
-      "description": "[EUROPE SAYS] TAMPA \u2014 In recent years, the Zero Trust concept of cybersecurity where users and devices are subjected to multiple levels of authentication was thought to be",
-      "url": "https://www.europesays.com/3187024/",
-      "date": "2026-08-11T05:02:12Z"
+      "title": "Collaborative Efforts Essential to Strengthen India's Automotive Cybersecurity Ecosystem",
+      "description": "[THE TRIBUNE] Pune (Maharashtra) [India], August 11: With the objective of developing a robust talent pipeline for India's rapidly evolving automotive cybersecurity sector, the Central Institute of Road Transport (CIRT), AutoSifu Pvt. Ltd., and JagMangal Social...",
+      "url": "https://www.tribuneindia.com/news/business/collaborative-efforts-essential-to-strengthen-indias-automotive-cybersecurity-ecosystem-union-minister-nitin-gadkari/",
+      "date": "2026-08-11T08:13:21Z"
     },
     {
-      "title": "OpenAI Expands Daybreak Cybersecurity Programme, Launches More Permissive GPT-5.6-Cyber Model",
-      "description": "[FREE PRESS JOURNAL] OpenAI has expanded its Daybreak cybersecurity initiative with GPT-5.6-Cyber, a specialised model designed for authorised vulnerability research and security testing. The company said it completed 95 percent of advanced cybersecurity requests in an...",
-      "url": "https://www.freepressjournal.in/tech/openai-expands-daybreak-cybersecurity-programme-launches-more-permissive-gpt-56-cyber-model",
-      "date": "2026-08-11T04:56:18Z"
+      "title": "Spy cams on British Navy drones sent signals to China, says Telegraph report. UK denies data breach",
+      "description": "[THEPRINT] Ministry of Defence says that there is no evidence that sensitive data or military systems had been transmitted abroad via Chinese spy cameras in K3 surveillance drones.",
+      "url": "https://theprint.in/world/spy-cams-on-british-navy-drones-sent-signals-to-china-says-telegraph-report-uk-denies-data-breach/3011278/",
+      "date": "2026-08-11T08:11:47Z"
     },
     {
-      "title": "Doug Collins: A Trailblazer in Cybersecurity, AI, and Quantum Computing",
-      "description": "[TECHBULLION] technology professional. He is a thoughtful innovator whose work continues to link leadership, learning and imagination in meaningful ways.",
-      "url": "https://techbullion.com/doug-collins-a-trailblazer-in-cybersecurity-ai-and-quantum-computing/",
-      "date": "2026-08-11T04:39:33Z"
+      "title": "Collaborative Efforts Essential to Strengthen India's Automotive Cybersecurity Ecosystem - Union Minister Nitin Gadkari",
+      "description": "[ANI (ASIAN NEWS INTERNATIONAL)] Pune (Maharashtra) [India], August 11: With the objective of developing a robust talent pipeline for India's rapidly evolving automotive cybersecurity sector, the Central Institute of Road Transport (CIRT), AutoSifu Pvt. Ltd., and JagMangal Social...",
+      "url": "https://www.aninews.in/news/business/collaborative-efforts-essential-to-strengthen-indias-automotive-cybersecurity-ecosystem-union-minister-nitin-gadkari20260811133855/",
+      "date": "2026-08-11T08:08:55Z"
     },
     {
-      "title": "OpenAI's new GPT-5.6-Cyber is built to fight AI-powered hacks",
-      "description": "[NEWSBYTES] OpenAI introduces GPT-5.6-Cyber, a specialized AI achieving 95% task completion in advanced cybersecurity while minimizing refusals for approved defensive applications.",
-      "url": "https://www.newsbytesapp.com/news/science/openai-s-new-gpt-5-6-cyber-is-built-to-fight-ai-powered-hacks/story",
-      "date": "2026-08-11T04:09:13Z"
+      "title": "TCS flags possible data breach; Employee data at risk, customer data remain safe",
+      "description": "[BUSINESS TODAY] A cybersecurity alert has raised concerns over possible exposure of TCS employee data. While customer systems remain unaffected, questions remain about what information was exposed and how.",
+      "url": "https://www.businesstoday.in/technology/news/story/tcs-flags-possible-employee-data-exposure-says-customer-data-unaffected-548436-2026-08-11",
+      "date": "2026-08-11T08:05:01Z"
     },
     {
-      "title": "TCS Rules Out Data Breach, Says Allegedly Exposed Employee Information Is Over 4 Years Old",
-      "description": "[FREE PRESS JOURNAL] TCS said it found no credible evidence of a breach after alerts alleged exposure of employee information. The company said the data appeared to be over four years old and limited to basic employee details. TCS maintained that customer data, customer...",
-      "url": "https://www.freepressjournal.in/tech/tcs-rules-out-data-breach-says-allegedly-exposed-employee-information-is-over-4-years-old",
-      "date": "2026-08-11T03:56:30Z"
+      "title": "OpenAI launches GPT-5.6-Cyber, expands Daybreak initiative with 2 new tiers",
+      "description": "[THE INDIAN EXPRESS] In the wake of growing cybersecurity threats posed by autonomous AI systems, OpenAI has introduced a new cyber model and expanded its Daybreak initiative to equip legitimate defenders with the right tools.",
+      "url": "https://indianexpress.com/article/technology/artificial-intelligence/openai-cyber-model-expands-daybreak-initiative-with-2-new-tiers-10827796/",
+      "date": "2026-08-11T07:32:11Z"
     },
     {
-      "title": "HCLTech says no evidence of system compromise after hacker group's data breach claim",
-      "description": "[THE ECONOMIC TIMES] In an exchange filing, HCLTech said its initial investigation found the data \"may be limited and dated to a few years back.\" The company said there was no evidence of a breach of its systems, and no indication that any client engagement was affected.",
-      "url": "https://economictimes.indiatimes.com/tech/information-tech/hcltech-says-no-evidence-of-system-compromise-after-hacker-groups-data-breach-claim/articleshow/133140791.cms",
-      "date": "2026-08-11T03:03:12Z"
+      "title": "Automotive cyber enforcement begins: HackersEra\u2019s VSOC helps OEMs strengthen vehicle security and maintain continuous compliance.",
+      "description": "[THE TRIBUNE] HackersEra\u2019s in-market VSOC provides 24/7/365 fleet monitoring, automated response and audit-ready reporting to help automakers meet evolving cyber rules. PUNE, India \u2014 August 11th, 2026 \u2014 HackersEra, India's leading automotive cybersecurity...",
+      "url": "https://www.tribuneindia.com/news/business/automotive-cyber-enforcement-begins-hackerseras-vsoc-helps-oems-strengthen-vehicle-security-and-maintain-continuous-compliance-2-2/",
+      "date": "2026-08-11T07:29:20Z"
+    },
+    {
+      "title": "US lawmakers question OpenAI, Anthropic over rogue AI agents",
+      "description": "[NEWSBYTES] US House Democrats have questioned OpenAI and Anthropic CEOs after their AI systems escaped testing environments and accessed external systems during cybersecurity trials.",
+      "url": "https://www.newsbytesapp.com/news/science/us-lawmakers-question-openai-anthropic-over-rogue-ai-agents/story",
+      "date": "2026-08-11T07:27:35Z"
+    },
+    {
+      "title": "HCLTech says stolen data may be years-old after hacker\u2019s data breach claims",
+      "description": "[THE INDIAN EXPRESS] HCL Technologies has responded to a hacker group\u2019s claim that it has accessed the Indian IT services company\u2019s employee data. The allegedly stolen data may be limited and dated to a few years back, the company said. However, HCLTech denied there has...",
+      "url": "https://indianexpress.com/shorts/technology/hcltech-clarification-hackers-data-breach-10827766/",
+      "date": "2026-08-11T07:09:53Z"
     },
     {
       "title": "ISC Stormcast For Tuesday, August 11th, 2026 https://isc.sans.edu/podcastdetail/10046, (Tue, Aug 11th)",
       "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
       "url": "https://isc.sans.edu/diary/rss/33232",
       "date": "2026-08-11T02:00:03Z"
-    },
-    {
-      "title": "Sens. Schiff and Klobuchar unveil new cybersecurity bill",
-      "description": "[UPI NEWS] Sens. Adam Schiff and Amy Klobuchar have released a new cybersecurity bill, the Water Cyber Shield Act, to help protect U.S. water infrastructure.",
-      "url": "https://www.upi.com/Top_News/US/2026/08/10/schiff-klobuchar-release-new-cybersecurity-bill/7011786411392/",
-      "date": "2026-08-11T01:32:15Z"
-    },
-    {
-      "title": "OpenAI expands Daybreak cybersecurity research program",
-      "description": "[SILICONANGLE NEWS] OpenAI expands Daybreak cybersecurity research program - SiliconANGLE",
-      "url": "https://siliconangle.com/2026/08/10/openai-expands-daybreak-cybersecurity-research-program/",
-      "date": "2026-08-11T00:37:39Z"
     },
     {
       "title": "Scans for Solana (Surfpool&#x3f;) Endpoints, (Mon, Aug 10th)",
