@@ -1,6 +1,48 @@
 {
-  "updated": "2026-08-11 16:46:45 UTC",
+  "updated": "2026-08-11 18:46:55 UTC",
   "news": [
+    {
+      "title": "Delta probes Wi-Fi deauth attack on flight carrying DEF CON attendees",
+      "description": "[BLEEPINGCOMPUTER] Delta Air Lines is investigating an unauthorized Wi-Fi network that appeared aboard a flight from Las Vegas to Atlanta carrying passengers who had attended the DEF CON hacker convention. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/delta-probes-wi-fi-deauth-attack-on-flight-carrying-def-con-attendees/",
+      "date": "2026-08-11T18:34:23Z"
+    },
+    {
+      "title": "Windows 10 KB5120249 cumulative update released with fixes",
+      "description": "[BLEEPINGCOMPUTER] Microsoft has released Windows 10 KB5120249 Extended Security Updates for versions 22H2 and 21H2 to fix security vulnerabilities and bugs. [...]",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5120249-cumulative-update-released-with-fixes/",
+      "date": "2026-08-11T18:26:03Z"
+    },
+    {
+      "title": "Microsoft August 2026 Patch Tuesday fixes 400 flaws, 3 zero-days",
+      "description": "[BLEEPINGCOMPUTER] Today is Microsoft's August 2026 Patch Tuesday, and with it comes security updates for a massive 400 flaws, including one actively exploited and two publicly disclosed zero-day vulnerabilities. [...]",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-august-2026-patch-tuesday-fixes-400-flaws-3-zero-days/",
+      "date": "2026-08-11T18:08:50Z"
+    },
+    {
+      "title": "Microsoft Patch Tuesday August 2026, (Tue, Aug 11th)",
+      "description": "[ISC] This month we got patches for 418 vulnerabilities. Of these, 62 are critical, 1 is being exploited in the wild, and 2 were publicly disclosed as zero-days. Notable fixes include Windows privilege escalation, container tampering, and critical QUIC...",
+      "url": "https://isc.sans.edu/diary/rss/33236",
+      "date": "2026-08-11T17:54:49Z"
+    },
+    {
+      "title": "Windows 11 KB5121003 & KB5120240 cumulative updates released",
+      "description": "[BLEEPINGCOMPUTER] Microsoft has released Windows 11 KB5121003 and KB5120240 cumulative updates for versions 25H2/24H2 and 23H2 to fix security vulnerabilities, bugs, and add new features. [...]",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5121003-and-kb5120240-cumulative-updates-released/",
+      "date": "2026-08-11T17:38:42Z"
+    },
+    {
+      "title": "Researchers Disclose AI-Assisted SharePoint Exploit Chain Reaching Unauthenticated RCE",
+      "description": "[FEEDS] Security researchers found a way to enter Microsoft SharePoint servers as any user, including an administrator, with no valid account. A significant part of the work that found it was done through an AI agent. The flaw, tracked...",
+      "url": "https://thehackernews.com/2026/08/researchers-disclose-ai-assisted.html",
+      "date": "2026-08-11T16:47:44Z"
+    },
+    {
+      "title": "DeadLock Ransomware Uses Polygon Smart Contracts to Make Extortion Infra Harder to Disrupt",
+      "description": "[FEEDS] The ransomware group known as DeadLock has been observed using decentralized infrastructure to facilitate victim communications and data leak operations in a bid to improve operational resilience. \"Its recovery ecosystem combines the Session...",
+      "url": "https://thehackernews.com/2026/08/deadlock-ransomware-uses-polygon-smart.html",
+      "date": "2026-08-11T16:35:27Z"
+    },
     {
       "title": "Wesco confirms security incident after ExfilSquad claims data theft",
       "description": "[BLEEPINGCOMPUTER] Global supply chain and distribution giant Wesco has confirmed in a statement for BleepingComputer that it is investigating a cybersecurity incident. [...]",
@@ -20,28 +62,10 @@
       "date": "2026-08-11T13:20:28Z"
     },
     {
-      "title": "Vague Task, Total Access: When AI Delegation Becomes a Security Risk",
-      "description": "[BLEEPINGCOMPUTER] AI agents can improvise beyond the intended scope of a task when they are given broad access to enterprise systems and data. Token Security explains why organizations need to define agent intent and continuously enforce permissions around what each...",
-      "url": "https://www.bleepingcomputer.com/news/security/vague-task-total-access-when-ai-delegation-becomes-a-security-risk/",
-      "date": "2026-08-11T13:15:24Z"
-    },
-    {
       "title": "OpenAI Launches GPT-5.6-Cyber with Reduced Safeguards for Exploit Development",
       "description": "[FEEDS] OpenAI on Monday unveiled a new cybersecurity-focused model called GPT\u20115.6\u2011Cyber that it said is focused on vulnerability research, penetration testing, and incident response. \"Built on GPT\u20115.6 Sol, it is trained to improve capabilities on several...",
       "url": "https://thehackernews.com/2026/08/openai-launches-gpt-56-cyber-with.html",
       "date": "2026-08-11T13:11:23Z"
-    },
-    {
-      "title": "DDoS attacks over 1 Tbps surged fivefold in the second quarter",
-      "description": "[BLEEPINGCOMPUTER] Cloudflare says it mitigated more than 800 network-layer distributed denial-of-service (DDoS) attacks exceeding 1 Tbps in the second quarter of the year. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/ddos-attacks-over-1-tbps-surged-fivefold-in-the-second-quarter/",
-      "date": "2026-08-11T13:00:00Z"
-    },
-    {
-      "title": "CISA: Microsoft SharePoint flaw now exploited in ransomware attacks",
-      "description": "[BLEEPINGCOMPUTER] CISA confirmed today that ransomware gangs have begun abusing a high-severity Microsoft SharePoint remote code execution vulnerability, which has been flagged as actively exploited since early July. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-microsoft-sharepoint-flaw-now-exploited-in-ransomware-attacks/",
-      "date": "2026-08-11T12:12:16Z"
     },
     {
       "title": "A Malicious SIM Card Can Run Attacker Code Inside the Modems Behind Cellular IoT Devices",
@@ -68,22 +92,28 @@
       "date": "2026-08-11T11:18:07Z"
     },
     {
-      "title": "Cisco warns of high-severity ClamAV flaws with public exploits",
-      "description": "[BLEEPINGCOMPUTER] Cisco warned of two high-severity vulnerabilities affecting the Secure Endpoint Connector that allow threat actors to crash the ClamAV scanning process in denial-of-service (DoS) attacks. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-high-severity-clamav-flaws-with-public-exploits/",
-      "date": "2026-08-11T11:03:01Z"
+      "title": "Why cybersecurity decisions need to rely less on data and more on questioning insights",
+      "description": "[ITWIRE] Every security operations centre is drowning in data.",
+      "url": "https://itwire.com/guest-articles/guest-opinion/why-cybersecurity-decisions-need-to-rely-less-on-data-and-more-on-questioning-insights",
+      "date": "2026-08-11T06:26:00Z"
     },
     {
-      "title": "Researchers Turn USB Auto-Install Into a Full SYSTEM Takeover on Windows 11",
-      "description": "[FEEDS] Windows Plug and Play can be abused to fetch signed vendor software for an emulated USB device and execute privileged installation components that researchers chained to SYSTEM access on a fully updated Windows 11 machine. The same PnP path can be...",
-      "url": "https://thehackernews.com/2026/08/researchers-turn-usb-auto-install-into.html",
-      "date": "2026-08-11T10:48:26Z"
+      "title": "AI in banking must move beyond retail to farms, MSMEs: SBI Chairman Setty",
+      "description": "[THE ECONOMIC TIMES] In a recent statement, CS Setty, Chairman of the State Bank of India, underscored AI's transformative potential for the Indian banking sector. He asserted that widening credit opportunities for small businesses and farmers through AI is essential to...",
+      "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/ai-in-banking-must-move-beyond-retail-to-farms-msmes-sbi-chairman-setty/articleshow/133143959.cms",
+      "date": "2026-08-11T06:17:00Z"
     },
     {
-      "title": "Malicious MCP Servers Can Split Instructions to Make AI Coding Agents Exfiltrate Secrets",
-      "description": "[FEEDS] A malicious tool server connected to an AI coding assistant can quietly walk off with SSH keys, environment secrets, source code, and customer data without ever sending one obviously harmful instruction. The trick can work even after a blunt version...",
-      "url": "https://thehackernews.com/2026/08/malicious-mcp-servers-can-split.html",
-      "date": "2026-08-11T10:24:00Z"
+      "title": "Agentic AI turning Zero Trust cybersecurity 'on its head'",
+      "description": "[EUROPE SAYS] TAMPA \u2014 In recent years, the Zero Trust concept of cybersecurity where users and devices are subjected to multiple levels of authentication was thought to be",
+      "url": "https://www.europesays.com/3187024/",
+      "date": "2026-08-11T05:02:12Z"
+    },
+    {
+      "title": "OpenAI Expands Daybreak Cybersecurity Programme, Launches More Permissive GPT-5.6-Cyber Model",
+      "description": "[FREE PRESS JOURNAL] OpenAI has expanded its Daybreak cybersecurity initiative with GPT-5.6-Cyber, a specialised model designed for authorised vulnerability research and security testing. The company said it completed 95 percent of advanced cybersecurity requests in an...",
+      "url": "https://www.freepressjournal.in/tech/openai-expands-daybreak-cybersecurity-programme-launches-more-permissive-gpt-56-cyber-model",
+      "date": "2026-08-11T04:56:18Z"
     },
     {
       "title": "Doug Collins: A Trailblazer in Cybersecurity, AI, and Quantum Computing",
@@ -126,30 +156,6 @@
       "description": "[SILICONANGLE NEWS] OpenAI expands Daybreak cybersecurity research program - SiliconANGLE",
       "url": "https://siliconangle.com/2026/08/10/openai-expands-daybreak-cybersecurity-research-program/",
       "date": "2026-08-11T00:37:39Z"
-    },
-    {
-      "title": "3 Betashares ETFs I'd buy and hold for 10 years",
-      "description": "[THE MOTLEY FOOL AUSTRALIA] Why Betashares Global Cybersecurity ETF (ASX: HACK) and two other funds are among my favourite long-term ETF ideas.",
-      "url": "https://www.fool.com.au/2026/08/11/3-betashares-etfs-id-buy-and-hold-for-10-years-2/",
-      "date": "2026-08-10T23:54:09Z"
-    },
-    {
-      "title": "OpenAI launches GPT-5.6-Cyber with reduced refusals, 95% completion on advanced cybersecurity tasks",
-      "description": "[VENTUREBEAT] OpenAI\u2019s documents list pricing for GPT-5.6-Cyber at $12.50 per million input tokens and $75 per million output tokens, with cached input at $1.25 per million tokens.",
-      "url": "https://venturebeat.com/technology/openai-launches-gpt-5-6-cyber-with-reduced-refusals-95-completion-on-advanced-cybersecurity-tasks",
-      "date": "2026-08-10T23:53:23Z"
-    },
-    {
-      "title": "Boston cybersecurity firm cuts 300 jobs",
-      "description": "[THE BOSTON GLOBE] New CEO Wael Mohamed is overhauling the struggling company amid a focus on adding AI-powered features.",
-      "url": "https://www.bostonglobe.com/2026/08/10/business/rapid7-layoffs/",
-      "date": "2026-08-10T23:01:44Z"
-    },
-    {
-      "title": "Ransomware attack on Health Sciences Centre affects doors, ventilation and air-conditioning",
-      "description": "[CBC.CA] A ransomware attack on Winnipeg's Health Sciences Centre has affected door access, heating, ventilation and air-conditioning at Manitoba's largest hospital.",
-      "url": "https://www.cbc.ca/news/canada/manitoba/health-sciences-centre-ransomware-hack-9.7302058",
-      "date": "2026-08-10T22:42:38Z"
     },
     {
       "title": "Scans for Solana (Surfpool&#x3f;) Endpoints, (Mon, Aug 10th)",
@@ -198,12 +204,6 @@
       "description": "[SCHNEIER] There are many companies manufacturing adversarial clothing designed to confuse facial recognition systems. It&#8217;s a cool idea, but I worry that it&#8217;s mostly security theater: &#8220;Our patterns play with that chaos, confuse algorithms and...",
       "url": "https://www.schneier.com/blog/archives/2026/08/adversarial-clothing-designed-to-fool-facial-recognition-systems.html",
       "date": "2026-08-06T11:04:51Z"
-    },
-    {
-      "title": "ISC Stormcast For Thursday, August 6th, 2026 https://isc.sans.edu/podcastdetail/10040, (Thu, Aug 6th)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33222",
-      "date": "2026-08-06T02:00:02Z"
     }
   ]
 }
