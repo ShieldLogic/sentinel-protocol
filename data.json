@@ -1,11 +1,41 @@
 {
-  "updated": "2026-08-11 20:33:50 UTC",
+  "updated": "2026-08-11 22:31:34 UTC",
   "news": [
+    {
+      "title": "DeadLock ransomware uses blockchain to resist infrastructure takedown",
+      "description": "[BLEEPINGCOMPUTER] The DeadLock ransomware operation is using a decentralized infrastructure that relies on blockchain-backed services to protect its communication with victims and data-leak activity. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/deadlock-ransomware-uses-blockchain-to-resist-infrastructure-takedown/",
+      "date": "2026-08-11T22:15:22Z"
+    },
+    {
+      "title": "Sandworm hackers target IT pros with trojanized WireGuard VPN client",
+      "description": "[BLEEPINGCOMPUTER] Hackers associated with the Russian threat group Sandworm have been targeting system administrators and IT professionals through fake job offers since at least May. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/sandworm-hackers-target-it-pros-with-trojanized-wireguard-vpn-client/",
+      "date": "2026-08-11T21:07:24Z"
+    },
+    {
+      "title": "Microsoft Patches 398 Flaws Including a Windows Driver Zero-Day Under Active Attack",
+      "description": "[FEEDS] Microsoft released its monthly security updates on Tuesday, and one of the flaws it closed is already being used in attacks. The bug sits in a core Windows kernel driver that handles network socket operations. An attacker with code already running...",
+      "url": "https://thehackernews.com/2026/08/microsoft-patches-398-flaws-including.html",
+      "date": "2026-08-11T20:10:55Z"
+    },
     {
       "title": "Cisco warns of ASA and FTD VPN flaw exploited to crash devices",
       "description": "[BLEEPINGCOMPUTER] Cisco is warning that a high-severity denial-of-service vulnerability in Secure Firewall ASA and Threat Defense (FTD) software is being actively exploited in attacks to remotely crash affected devices. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-asa-and-ftd-vpn-flaw-exploited-to-crash-devices/",
       "date": "2026-08-11T19:45:31Z"
+    },
+    {
+      "title": "Kimwolf v7 Android Botnet Makes HTTP/2 DDoS Traffic Look Like Legitimate Browsing",
+      "description": "[FEEDS] Cybersecurity researchers have discovered a new version of the Kimwolf/AISURU Android and Internet of Things (IoT) botnet that comes with significant improvements to improve its operational resilience and conduct distributed denial-of-service (DDoS)...",
+      "url": "https://thehackernews.com/2026/08/kimwolf-v7-android-botnet-makes-http2.html",
+      "date": "2026-08-11T19:36:37Z"
+    },
+    {
+      "title": "Zoom Annotation Flaws Could Let a Meeting Participant Hijack Another Attendee's Client",
+      "description": "[FEEDS] Anyone sharing their screen on a Zoom call could have taken over the computers of everyone watching, and anyone watching could have taken over the presenter's. The flaw sat in the annotation tool, the feature that lets participants draw and type on...",
+      "url": "https://thehackernews.com/2026/08/zoom-annotation-flaws-could-let-meeting.html",
+      "date": "2026-08-11T19:08:47Z"
     },
     {
       "title": "Sandworm-Linked UAC-0145 Uses Fake Job Interviews to Push VPN That Can Run Commands",
@@ -38,12 +68,6 @@
       "date": "2026-08-11T17:54:49Z"
     },
     {
-      "title": "Windows 11 KB5121003 & KB5120240 cumulative updates released",
-      "description": "[BLEEPINGCOMPUTER] Microsoft has released Windows 11 KB5121003 and KB5120240 cumulative updates for versions 25H2/24H2 and 23H2 to fix security vulnerabilities, bugs, and add new features. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5121003-and-kb5120240-cumulative-updates-released/",
-      "date": "2026-08-11T17:38:42Z"
-    },
-    {
       "title": "Researchers Disclose AI-Assisted SharePoint Exploit Chain Reaching Unauthenticated RCE",
       "description": "[FEEDS] Security researchers found a way to enter Microsoft SharePoint servers as any user, including an administrator, with no valid account. A significant part of the work that found it was done through an AI agent. The flaw, tracked...",
       "url": "https://thehackernews.com/2026/08/researchers-disclose-ai-assisted.html",
@@ -56,40 +80,40 @@
       "date": "2026-08-11T16:35:27Z"
     },
     {
-      "title": "Wesco confirms security incident after ExfilSquad claims data theft",
-      "description": "[BLEEPINGCOMPUTER] Global supply chain and distribution giant Wesco has confirmed in a statement for BleepingComputer that it is investigating a cybersecurity incident. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/wesco-confirms-security-incident-after-exfilsquad-claims-data-theft/",
-      "date": "2026-08-11T15:59:35Z"
-    },
-    {
       "title": "AI Genie in the Wild",
       "description": "[SCHNEIER] When I give talks about AI genies, I use this sort of example as a hypothetical. It&#8217;s happened. The story is from Australia. Someone named Andrew tasked OpenClaw to book gym classes for him. And&#8230;. Minutes later, his AI agent reported it...",
       "url": "https://www.schneier.com/blog/archives/2026/08/ai-genie-in-the-wild.html",
       "date": "2026-08-11T15:55:11Z"
     },
     {
-      "title": "OpenAI Launches GPT-5.6-Cyber with Reduced Safeguards for Exploit Development",
-      "description": "[FEEDS] OpenAI on Monday unveiled a new cybersecurity-focused model called GPT\u20115.6\u2011Cyber that it said is focused on vulnerability research, penetration testing, and incident response. \"Built on GPT\u20115.6 Sol, it is trained to improve capabilities on several...",
-      "url": "https://thehackernews.com/2026/08/openai-launches-gpt-56-cyber-with.html",
-      "date": "2026-08-11T13:11:23Z"
-    },
-    {
-      "title": "A Malicious SIM Card Can Run Attacker Code Inside the Modems Behind Cellular IoT Devices",
-      "description": "[FEEDS] A malicious SIM card can order the device it sits in to run commands of the attacker's choosing. On the cellular modules built into electric-vehicle chargers, industrial routers, and car telematics units, that is enough to take the whole device...",
-      "url": "https://thehackernews.com/2026/08/a-malicious-sim-card-can-run-attacker.html",
-      "date": "2026-08-11T12:05:03Z"
-    },
-    {
-      "title": "Mozilla Revokes Firefox and Thunderbird Linux Signing Key After Key Lands in Private Repo",
-      "description": "[FEEDS] Mozilla has scrapped the cryptographic key behind Firefox and Thunderbird downloads for Linux after an unencrypted copy of it was committed by mistake to one of the company's own private code repositories. That key is how a user, or a Linux...",
-      "url": "https://thehackernews.com/2026/08/mozilla-revokes-firefox-and-thunderbird.html",
-      "date": "2026-08-11T12:04:51Z"
-    },
-    {
       "title": "AI for Military Support",
       "description": "[SCHNEIER] Interesting empirical research: &#8220;Black Box Warfare: Human Judgment and Military Decision-Making in the Age of AI.&#8221; Abstract: How is AI transforming decision-making in modern conflict? This study provides a unique empirical window into...",
       "url": "https://www.schneier.com/blog/archives/2026/08/ai-for-military-support.html",
       "date": "2026-08-11T11:18:07Z"
+    },
+    {
+      "title": "OpenAI makes GPT 5.6 cyber less restricted for trusted cybersecurity researchers: All details",
+      "description": "[BUSINESS TODAY] OpenAI's GPT-5.6-Cyber is built on GPT-5.6 Sol, and specifically trained for cybersecurity-related tasks, such as finding zero-day vulnerabilities and developing exploit chains.",
+      "url": "https://www.businesstoday.in/technology/artificial-intelligence/story/openai-makes-gpt-5-6-cyber-less-restricted-for-trusted-cybersecurity-researchers-all-details-548541-2026-08-11",
+      "date": "2026-08-11T09:56:03Z"
+    },
+    {
+      "title": "OpenAI Gives Daybreak Partners Access To A More Powerful Cybersecurity Model",
+      "description": "[ENGADGET] OpenAI\u2019s Daybreak program now has two tiers, with the higher one giving partners access to a more advanced cybersecurity model.",
+      "url": "https://www.engadget.com/2234335/openai-daybreak-model-less-likely-to-refuse-higher-risk-tasks/",
+      "date": "2026-08-11T09:40:15Z"
+    },
+    {
+      "title": "Gunra Ransomware Exploits Fortinet and Schneider Electric Flaws to Breach Networks",
+      "description": "[THE HACKER NEWS] Gunra ransomware exploits Fortinet and Schneider Electric flaws to breach critical infrastructure, steal data, and encrypt systems.",
+      "url": "https://thehackernews.com/2026/08/gunra-ransomware-exploits-fortinet-and.html",
+      "date": "2026-08-11T09:16:00Z"
+    },
+    {
+      "title": "Blue Cloud Softech Solutions Ltd \u2013 USA Signs USD 150 Million Statement of Work with SpaceX International Ltd, MY, for AI Infrastructure, Cybersecurity, Telecommunications and Data Centre Solutions",
+      "description": "[THE TRIBUNE] Blue Cloud Softech Solutions Limited (BSE: 539607) (\u201cBCSSL\u201d or the \u201cCompany\u201d) today announced that its wholly owned US subsidiary, Blue Cloud Softech Solutions Ltd \u2013 USA (\u201cBCSSL-USA\u201d), has executed Statement of Work No. 1 (\u201cSOW\u201d) with SpaceX...",
+      "url": "https://www.tribuneindia.com/news/business/blue-cloud-softech-solutions-ltd-usa-signs-usd-150-million-statement-of-work-with-spacex-international-ltd-my-for-ai-infrastructure-cybersecurity-telecommunications-and-data-centre-solut/",
+      "date": "2026-08-11T08:39:16Z"
     },
     {
       "title": "After TCS, HCL Tech denies data breach claims",
@@ -126,30 +150,6 @@
       "description": "[BUSINESS TODAY] A cybersecurity alert has raised concerns over possible exposure of TCS employee data. While customer systems remain unaffected, questions remain about what information was exposed and how.",
       "url": "https://www.businesstoday.in/technology/news/story/tcs-flags-possible-employee-data-exposure-says-customer-data-unaffected-548436-2026-08-11",
       "date": "2026-08-11T08:05:01Z"
-    },
-    {
-      "title": "OpenAI launches GPT-5.6-Cyber, expands Daybreak initiative with 2 new tiers",
-      "description": "[THE INDIAN EXPRESS] In the wake of growing cybersecurity threats posed by autonomous AI systems, OpenAI has introduced a new cyber model and expanded its Daybreak initiative to equip legitimate defenders with the right tools.",
-      "url": "https://indianexpress.com/article/technology/artificial-intelligence/openai-cyber-model-expands-daybreak-initiative-with-2-new-tiers-10827796/",
-      "date": "2026-08-11T07:32:11Z"
-    },
-    {
-      "title": "Automotive cyber enforcement begins: HackersEra\u2019s VSOC helps OEMs strengthen vehicle security and maintain continuous compliance.",
-      "description": "[THE TRIBUNE] HackersEra\u2019s in-market VSOC provides 24/7/365 fleet monitoring, automated response and audit-ready reporting to help automakers meet evolving cyber rules. PUNE, India \u2014 August 11th, 2026 \u2014 HackersEra, India's leading automotive cybersecurity...",
-      "url": "https://www.tribuneindia.com/news/business/automotive-cyber-enforcement-begins-hackerseras-vsoc-helps-oems-strengthen-vehicle-security-and-maintain-continuous-compliance-2-2/",
-      "date": "2026-08-11T07:29:20Z"
-    },
-    {
-      "title": "US lawmakers question OpenAI, Anthropic over rogue AI agents",
-      "description": "[NEWSBYTES] US House Democrats have questioned OpenAI and Anthropic CEOs after their AI systems escaped testing environments and accessed external systems during cybersecurity trials.",
-      "url": "https://www.newsbytesapp.com/news/science/us-lawmakers-question-openai-anthropic-over-rogue-ai-agents/story",
-      "date": "2026-08-11T07:27:35Z"
-    },
-    {
-      "title": "HCLTech says stolen data may be years-old after hacker\u2019s data breach claims",
-      "description": "[THE INDIAN EXPRESS] HCL Technologies has responded to a hacker group\u2019s claim that it has accessed the Indian IT services company\u2019s employee data. The allegedly stolen data may be limited and dated to a few years back, the company said. However, HCLTech denied there has...",
-      "url": "https://indianexpress.com/shorts/technology/hcltech-clarification-hackers-data-breach-10827766/",
-      "date": "2026-08-11T07:09:53Z"
     },
     {
       "title": "ISC Stormcast For Tuesday, August 11th, 2026 https://isc.sans.edu/podcastdetail/10046, (Tue, Aug 11th)",
