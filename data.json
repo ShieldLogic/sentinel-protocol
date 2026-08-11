@@ -1,6 +1,12 @@
 {
-  "updated": "2026-08-10 22:26:19 UTC",
+  "updated": "2026-08-11 00:58:48 UTC",
   "news": [
+    {
+      "title": "Hackers breached a small Polish energy plant via private APN last year",
+      "description": "[BLEEPINGCOMPUTER] Hackers breached a heat-and-power plant facility in Poland, which supplies heat to about 50,000 residents, using a private APN (Access Point Name) to access an OT (Operational Technology) network. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-breached-a-small-polish-energy-plant-via-private-apn-last-year/",
+      "date": "2026-08-10T23:07:21Z"
+    },
     {
       "title": "BdThemes plugins supply-chain hack creates rogue WordPress admins",
       "description": "[BLEEPINGCOMPUTER] A threat actor compromised the upstream infrastructure of BdThemes, a developer of premium WordPress web-design tools, and modified a remote JSON feed delivered to administrators' browsers to create rogue admin accounts. [...]",
@@ -62,10 +68,22 @@
       "date": "2026-08-10T13:19:58Z"
     },
     {
-      "title": "Member of The Com sent to prison for blackmail, sextortion",
-      "description": "[BLEEPINGCOMPUTER] A member of \"The Com,\" a loose-knit online cybercrime collective that targets children and teenagers, has been sentenced to two years in prison for blackmail and sextortion offenses against nearly 120 victims worldwide. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/member-of-the-com-sent-to-prison-for-blackmail-sextortion/",
-      "date": "2026-08-10T12:56:28Z"
+      "title": "TCS Says No Customer Data Breach After Claims Of Employee Information Leak",
+      "description": "[TIMES NOW] Tata Consultancy Services (TCS) reported receiving alerts regarding potential exposure of employee information, but its investigation revealed no evidence of system breaches or customer data compromise., Technology & Science, Times Now",
+      "url": "https://www.timesnownews.com/technology-science/tcs-says-no-customer-data-breach-after-claims-of-employee-information-leak-article-155509085",
+      "date": "2026-08-10T12:50:08Z"
+    },
+    {
+      "title": "Steam hardware shipper breach leaks customer data, including names and addresses",
+      "description": "[THE VERGE] Valve is warning customers in Europe of a data breach impacting its Steam hardware shipping partner, adding that it may have exposed customer names, addresses, emails, and more.",
+      "url": "https://www.theverge.com/games/977314/valve-steam-hardware-shipping-data-breach",
+      "date": "2026-08-10T12:48:12Z"
+    },
+    {
+      "title": "NHS Tayside Probes Alleged Data Breach in Clinical Area",
+      "description": "[EUROPE SAYS] Health board investigates alleged data breach",
+      "url": "https://www.europesays.com/3186274/",
+      "date": "2026-08-10T12:37:25Z"
     },
     {
       "title": "New Passkey Attacks Can Recover Synced Private Keys or Bypass Phishing-Resistant MFA",
@@ -74,10 +92,40 @@
       "date": "2026-08-10T12:25:04Z"
     },
     {
+      "title": "Steam Users' Details Leak After Hardware Supplier Breached",
+      "description": "[KOTAKU] Valve has begun emailing Steam hardware purchasers after its European supplier, CEVA Logistics, informed them of a recent data breach",
+      "url": "https://kotaku.com/steam-machine-and-controller-user-data-leaks-after-valves-european-supplier-gets-hit-with-cyber-attack-2000722955",
+      "date": "2026-08-10T12:10:34Z"
+    },
+    {
+      "title": "'No data breach': TCS dismisses alerts of employee information exposure",
+      "description": "[NEWSBYTES] Tata Consultancy Services (TCS) reported receiving alerts about potential exposure of employee-related data, while confirming no compromise to customer data or systems.",
+      "url": "https://www.newsbytesapp.com/news/science/tcs-responds-to-alerts-of-employee-information-exposure-issues-clarification/story",
+      "date": "2026-08-10T11:52:48Z"
+    },
+    {
       "title": "TrueConf Server Flaws Exploited to Replace Client Installers with PhantomCore",
       "description": "[FEEDS] The threat actor known as Head Mare has been observed weaponizing security flaws in unpatched TrueConf servers once again in attacks targeting Russian companies spanning instrumentation, electronics, transport, energy, IT, and software development...",
       "url": "https://thehackernews.com/2026/08/head-mare-exploits-trueconf-flaws-to.html",
       "date": "2026-08-10T11:33:41Z"
+    },
+    {
+      "title": "They said they would build AI safely. Then it went rogue.",
+      "description": "[THE PHILADELPHIA INQUIRER] A series of disclosures by OpenAI, Anthropic, Facebook-owner Meta and British government researchers have revealed that some AI models asked to test their cybersecurity capabilities tried to cheat.",
+      "url": "https://www.inquirer.com/business/technology/rouge-ai-systems-safety-20260810.html",
+      "date": "2026-08-10T11:04:54Z"
+    },
+    {
+      "title": "North Korean hacking group builds AI tools for cyberattacks, report says",
+      "description": "[THE ECONOMIC TIMES] The cybersecurity firm, Genians, said it \u200cfound evidence \u2060that the \u2060North Korean-linked group Kimsuky had set up tools for running and \u200bmanaging AI models locally, including Ollama, GPT4All and Msty, alongside document \u200bsearch technology known as...",
+      "url": "https://economictimes.indiatimes.com/tech/technology/north-korean-hacking-group-builds-ai-tools-for-cyberattacks-report-says/articleshow/133099235.cms",
+      "date": "2026-08-10T11:04:42Z"
+    },
+    {
+      "title": "TCS says received alerts alleging exposure of some employee data",
+      "description": "[MONEYCONTROL] TCS says employee data may have been exposed, finds no evidence of systems or customer data breach",
+      "url": "https://www.moneycontrol.com/news/business/companies/tcs-says-received-alerts-alleging-exposure-of-some-employee-data-14000488.html",
+      "date": "2026-08-10T11:04:36Z"
     },
     {
       "title": "Python Now Has a Post-Quantum Encryption Library",
@@ -86,64 +134,16 @@
       "date": "2026-08-10T11:02:26Z"
     },
     {
+      "title": "Meta launches new AI model as Zuckerberg champions open-weight push",
+      "description": "[RAPPLER] Meta CEO Mark Zuckerberg shows support for open-weight AI, which is gaining traction as businesses grow wary of ballooning AI bills and worry about recent cybersecurity incidents involving models from Anthropic, OpenAI and Meta",
+      "url": "https://www.rappler.com/technology/meta-launches-new-ai-model-mark-zuckerberg-champions-open-weight/",
+      "date": "2026-08-10T10:32:35Z"
+    },
+    {
       "title": "AI, GenAI, Big Data & Cybersecurity Drive Global Tech Hiring Despite 2.3% Job Market Decline",
       "description": "[FREE PRESS JOURNAL] AI, big data and cybersecurity dominated global technology hiring in Q2 2026, with generative AI and machine learning seeing strong demand. The US and India led GenAI job postings. However, global job postings fell 2.3% quarter-on-quarter amid...",
       "url": "https://www.freepressjournal.in/tech/ai-genai-big-data-cybersecurity-drive-global-tech-hiring-despite-23-job-market-decline",
       "date": "2026-08-10T10:15:51Z"
-    },
-    {
-      "title": "Zuckerberg Urges Open-Source AI Model Freedom to Compete with China",
-      "description": "[DEVDISCOURSE] Meta CEO Mark Zuckerberg advocates for reduced U.S. barriers on open-source AI to better compete with Chinese models. The social media giant launches Muse Glimmer, a new open-weight AI model, amid rising cybersecurity concerns. Zuckerberg emphasizes...",
-      "url": "https://www.devdiscourse.com/article/technology/3961916-zuckerberg-urges-open-source-ai-model-freedom-to-compete-with-china",
-      "date": "2026-08-10T10:00:44Z"
-    },
-    {
-      "title": "listed IT stock surges 16% after updates on AI infra deal with SpaceX International, check details",
-      "description": "[INDIA TV NEWS] According to the company, the deal is a significant step in its expansion into large-scale AI infrastructure, cybersecurity, telecommunications, and data centre solutions for global clients.",
-      "url": "https://www.indiatvnews.com/business/markets/bse-listed-it-stock-surges-16-pc-after-updates-on-ai-infra-deal-with-spacex-international-check-details-2026-08-10-1050920",
-      "date": "2026-08-10T09:24:21Z"
-    },
-    {
-      "title": "UAE Cybersecurity Triumph: Shielding Key Sectors",
-      "description": "[DEVDISCOURSE] The UAE's Cyber Security Council successfully defended the country's aviation, energy, and education sectors against targeted cyber attacks, as reported by the state news agency.",
-      "url": "https://www.devdiscourse.com/article/technology/3961897-uae-cybersecurity-triumph-shielding-key-sectors",
-      "date": "2026-08-10T09:19:48Z"
-    },
-    {
-      "title": "OpenAI Slows Down Astra Development Due To Cybersecurity Concerns",
-      "description": "[ENGADGET] Meta slowed down development of its Astra model as it couldn't 'rule out critical cyber capabilities.'",
-      "url": "https://www.engadget.com/2233237/openai-slows-down-astra-development-due-to-cybersecurity-concerns/",
-      "date": "2026-08-10T09:19:11Z"
-    },
-    {
-      "title": "AI models are breaking out of their cages. Their creators are scrambling.",
-      "description": "[SPOKANE SPOKESMAN-REVIEW] Staff members at ChatGPT maker OpenAI didn\u2019t notice for weeks after their AI systems made a chilling leap this spring. Instead of answering questions designed to test their cybersecurity capabilities, a group of AI models began colluding on how to...",
-      "url": "https://www.spokesman.com/stories/2026/aug/10/ai-models-are-breaking-out-of-their-cages-their-cr/",
-      "date": "2026-08-10T09:16:00Z"
-    },
-    {
-      "title": "Airtel Business, ITI partner to jointly provide digital solutions to enterprises",
-      "description": "[THE ECONOMIC TIMES] Airtel Business and ITI Ltd have partnered to offer digital solutions to enterprises. This collaboration aims to enhance Airtel's share in the public sector market. They will combine high-speed connectivity with secure data center and cloud...",
-      "url": "https://economictimes.indiatimes.com/industry/telecom/telecom-news/airtel-business-iti-partner-to-jointly-provide-digital-solutions-to-enterprises/articleshow/133093888.cms",
-      "date": "2026-08-10T09:10:00Z"
-    },
-    {
-      "title": "Why managers are ransomware's top targets now - and 6 ways to stay safe",
-      "description": "[ZDNET] Almost two-thirds of the victims targeted in a single ransomware campaign held managerial positions or higher.",
-      "url": "https://www.zdnet.com/article/managers-biggest-ransomware-targets-ways-to-stay-safe/",
-      "date": "2026-08-10T09:08:00Z"
-    },
-    {
-      "title": "Iran-affiliated hackers target Minnesota water systems in cyberattack",
-      "description": "[FOX NEWS] Iran hackers reportedly targeted Minnesota water systems by exploiting known cybersecurity weaknesses. Here are five steps for politicians to address the crisis.",
-      "url": "https://www.foxnews.com/opinion/iranian-hackers-attacked-water-systems-5-things-leaders-need-do-now",
-      "date": "2026-08-10T09:00:18Z"
-    },
-    {
-      "title": "North Korean hackers developing AI tools for cyberattacks",
-      "description": "[NEWSBYTES] A South Korean cybersecurity firm reports that a North Korean hacking group has developed AI tools to automate cyberattacks, analyze stolen data, and enhance phishing campaigns.",
-      "url": "https://www.newsbytesapp.com/news/science/north-korean-hacking-group-develops-ai-tools-to-aid-cyberattacks/story",
-      "date": "2026-08-10T08:32:21Z"
     },
     {
       "title": "ISC Stormcast For Monday, August 10th, 2026 https://isc.sans.edu/podcastdetail/10044, (Mon, Aug 10th)",
