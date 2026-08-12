@@ -1,6 +1,30 @@
 {
-  "updated": "2026-08-12 07:08:20 UTC",
+  "updated": "2026-08-12 09:01:26 UTC",
   "news": [
+    {
+      "title": "Malicious LiteLLM Releases Tied to Trivy Hack May Have Exposed 2,100+ Organizations",
+      "description": "[FEEDS] Two malicious LiteLLM releases sat on PyPI for about 40 minutes in March carrying credential-stealing code capable of harvesting cloud keys, SSH keys, Kubernetes tokens, database passwords, and other secrets from systems that installed them. Threat...",
+      "url": "https://thehackernews.com/2026/08/malicious-litellm-releases-tied-to.html",
+      "date": "2026-08-12T08:04:52Z"
+    },
+    {
+      "title": "SAP Commerce Cloud Flaw Could Let Unauthenticated Attackers Execute Arbitrary Code",
+      "description": "[FEEDS] SAP has released patches to address a maximum-severity security flaw impacting Commerce Cloud (Data Hub Adapter) that could result in arbitrary code execution. The vulnerability, assigned the CVE identifier CVE-2026-58231, is rated 10.0 on the CVSS...",
+      "url": "https://thehackernews.com/2026/08/sap-commerce-cloud-flaw-could-let.html",
+      "date": "2026-08-12T07:31:40Z"
+    },
+    {
+      "title": "ShieldBreak Zero-Day PoC Claims Microsoft Defender Patch Bypass With SYSTEM Access",
+      "description": "[FEEDS] The security researcher going by the name Chaotic Eclipse (aka INFINITE NIGHTMARE, MSNightmare, and Nightmare-Eclipse) has released a proof-of-concept (PoC) for a new Microsoft zero-day called ShieldBreak. The vulnerability, rooted in Microsoft...",
+      "url": "https://thehackernews.com/2026/08/shieldbreak-zero-day-poc-claims.html",
+      "date": "2026-08-12T06:41:38Z"
+    },
+    {
+      "title": "Cisco ASA and FTD Flaw Exploited in the Wild Can Trigger Remote DoS",
+      "description": "[FEEDS] Cisco has warned that a new vulnerability impacting Secure Firewall Adaptive Security Appliance (ASA) Software and Secure Firewall Threat Defense (FTD) Software has been exploited in the wild. The high-severity flaw, tracked as CVE-2026-20349 (CVSS...",
+      "url": "https://thehackernews.com/2026/08/cisco-asa-and-ftd-flaw-exploited-in.html",
+      "date": "2026-08-12T06:15:58Z"
+    },
     {
       "title": "ISC Stormcast For Wednesday, August 12th, 2026 https://isc.sans.edu/podcastdetail/10048, (Wed, Aug 12th)",
       "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
@@ -44,16 +68,28 @@
       "date": "2026-08-11T19:36:37Z"
     },
     {
+      "title": "California Building \u2018AI Cyber Defense Fund\u2019 to Protect Critical Infrastructure From Hackers",
+      "description": "[GIZMODO] Trump, meanwhile, is aiming to slash the federal government\u2019s cybersecurity defense budget by more than $700 million.",
+      "url": "https://gizmodo.com/california-building-ai-cyber-defense-fund-to-protect-critical-infrastructure-from-hackers-2000797182",
+      "date": "2026-08-11T19:15:39Z"
+    },
+    {
+      "title": "Nurses union questions safety as ransomware hits Health Sciences Centre systems",
+      "description": "[GLOBAL NEWS] The union representing nurses in Manitoba is concerned about security risks for its members following a ransomware attack that has impacted some maintenance systems.",
+      "url": "https://globalnews.ca/news/12017232/nurses-union-safety-winnipeg-ransomware/",
+      "date": "2026-08-11T19:14:18Z"
+    },
+    {
       "title": "Zoom Annotation Flaws Could Let a Meeting Participant Hijack Another Attendee's Client",
-      "description": "[FEEDS] Anyone sharing their screen on a Zoom call could have taken over the computers of everyone watching, and anyone watching could have taken over the presenter's. The flaw sat in the annotation tool, the feature that lets participants draw and type on...",
+      "description": "[THE HACKER NEWS] Zoom Annotation Flaws Could Let a Meeting Participant Hijack Another Attendee's Client | Read more hacking news on The Hacker News cybersecurity news website and learn how to protect against cyberattacks and software vulnerabilities.",
       "url": "https://thehackernews.com/2026/08/zoom-annotation-flaws-could-let-meeting.html",
-      "date": "2026-08-11T19:08:47Z"
+      "date": "2026-08-11T19:08:00Z"
     },
     {
       "title": "Sandworm-Linked UAC-0145 Uses Fake Job Interviews to Push VPN That Can Run Commands",
-      "description": "[FEEDS] The Computer Emergency Response Team of Ukraine (CERT-UA) has disclosed details of a new social engineering campaign orchestrated by Russian nation-state threat actors targeting IT workers in the country by masquerading as recruiters to trick them...",
+      "description": "[THE HACKER NEWS] Sandworm-Linked UAC-0145 Uses Fake Job Interviews to Push VPN That Can Run Commands | Read more hacking news on The Hacker News cybersecurity news website and learn how to protect against cyberattacks and software vulnerabilities.",
       "url": "https://thehackernews.com/2026/08/sandworm-linked-uac-0145-uses-fake-job.html",
-      "date": "2026-08-11T18:36:47Z"
+      "date": "2026-08-11T18:36:00Z"
     },
     {
       "title": "Delta probes Wi-Fi deauth attack on flight carrying DEF CON attendees",
@@ -86,16 +122,10 @@
       "date": "2026-08-11T17:00:00Z"
     },
     {
-      "title": "Researchers Disclose AI-Assisted SharePoint Exploit Chain Reaching Unauthenticated RCE",
-      "description": "[FEEDS] Security researchers found a way to enter Microsoft SharePoint servers as any user, including an administrator, with no valid account. A significant part of the work that found it was done through an AI agent. The flaw, tracked...",
-      "url": "https://thehackernews.com/2026/08/researchers-disclose-ai-assisted.html",
-      "date": "2026-08-11T16:47:44Z"
-    },
-    {
       "title": "DeadLock Ransomware Uses Polygon Smart Contracts to Make Extortion Infra Harder to Disrupt",
-      "description": "[FEEDS] The ransomware group known as DeadLock has been observed using decentralized infrastructure to facilitate victim communications and data leak operations in a bid to improve operational resilience. \"Its recovery ecosystem combines the Session...",
+      "description": "[THE HACKER NEWS] DeadLock ransomware uses Polygon smart contracts, Session, and blockchain-hosted leak content to make extortion infrastructure harder to disrupt.",
       "url": "https://thehackernews.com/2026/08/deadlock-ransomware-uses-polygon-smart.html",
-      "date": "2026-08-11T16:35:27Z"
+      "date": "2026-08-11T16:35:00Z"
     },
     {
       "title": "Cybersecurity vs cybercrime - do you know who to call?",
@@ -114,24 +144,6 @@
       "description": "[SOUTH CHINA MORNING POST] Allegations made by cybercrime group \u2018The Gentlemen\u2019, as cybersecurity monitoring platforms report about 1,900 credentials may have been compromised.",
       "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3363695/baptist-university-reviews-it-security-after-ransomware-group-claims-breach",
       "date": "2026-08-11T15:22:48Z"
-    },
-    {
-      "title": "Hackers launch defense network for public water systems after attacks on US infrastructure",
-      "description": "[THE INDEPENDENT] Cybersecurity experts unveil national security program that \u2018only the hacker community\u2019 could come up with after latest attacks",
-      "url": "https://www.independent.co.uk/news/world/americas/us-politics/us-water-systems-attacks-hackers-defense-network-b3031173.html",
-      "date": "2026-08-11T14:44:42Z"
-    },
-    {
-      "title": "DOT is shifting focus to emerging telecom, cybersecurity technologies: C",
-      "description": "[THE TRIBUNE] Centre for Development of Telematics (C-DOT) is shifting its focus to emerging telecom and cybersecurity technologies as India's telecom sector evolves with greater competition, privatisation and new players, said Rajkumar Upadhyay, CEO & Chairman,...",
-      "url": "https://www.tribuneindia.com/news/business/c-dot-is-shifting-focus-to-emerging-telecom-cybersecurity-technologies-c-dot-ceo-chairman/",
-      "date": "2026-08-11T13:53:22Z"
-    },
-    {
-      "title": "Top Tech News Today, August 11, 2026: Anthropic, Boeing, Intel, Meta, Nvidia, OpenAI, Unitree & More",
-      "description": "[TECHSTARTUPS.COM] It\u2019s Tuesday, August 11, 2026, and the AI infrastructure arms race just entered a new phase. In the past 24 hours alone, Nvidia locked in a $500 billion financing alliance with Wall Street\u2019s heaviest hitters, OpenAI armed cybersecurity defenders...",
-      "url": "https://techstartups.com/2026/08/11/top-tech-news-today-august-11-2026-anthropic-intel-meta-openai-nvidia-unitree-more/",
-      "date": "2026-08-11T13:52:06Z"
     },
     {
       "title": "AI for Military Support",
