@@ -1,6 +1,12 @@
 {
-  "updated": "2026-08-12 16:45:53 UTC",
+  "updated": "2026-08-12 18:47:41 UTC",
   "news": [
+    {
+      "title": "Lazarus Exploits Windows Zero-Day to Gain SYSTEM Access and Deploy Backdoor",
+      "description": "[FEEDS] The North Korean threat actor known as Lazarus Group has been attributed to the zero-day exploitation of a newly patched security flaw impacting Microsoft Windows to deliver a never-before-seen backdoor targeting defense and aerospace companies...",
+      "url": "https://thehackernews.com/2026/08/lazarus-exploits-windows-zero-day-to.html",
+      "date": "2026-08-12T17:39:27Z"
+    },
     {
       "title": "Plug and Pwn attack uses fake USB devices for Windows SYSTEM access",
       "description": "[BLEEPINGCOMPUTER] Security researchers have disclosed new \"Plug and Pwn\" attacks that abuse the Windows Plug and Play feature to trigger Windows into installing vulnerable or insecure vendor software and gain SYSTEM privileges. [...]",
@@ -80,10 +86,40 @@
       "date": "2026-08-12T09:01:54Z"
     },
     {
-      "title": "Malicious LiteLLM Releases Tied to Trivy Hack May Have Exposed 2,100+ Organizations",
-      "description": "[FEEDS] Two malicious LiteLLM releases sat on PyPI for about 40 minutes in March carrying credential-stealing code capable of harvesting cloud keys, SSH keys, Kubernetes tokens, database passwords, and other secrets from systems that installed them. Threat...",
-      "url": "https://thehackernews.com/2026/08/malicious-litellm-releases-tied-to.html",
-      "date": "2026-08-12T08:04:52Z"
+      "title": "ShieldBreak Zero-Day PoC Claims Microsoft Defender Patch Bypass With SYSTEM Access",
+      "description": "[THE HACKER NEWS] ShieldBreak is a claimed patch bypass for Defender flaw CVE-2026-50656, with a PoC tested on Windows 11 25H2 and Server 2025.",
+      "url": "https://thehackernews.com/2026/08/shieldbreak-zero-day-poc-claims.html",
+      "date": "2026-08-12T06:41:00Z"
+    },
+    {
+      "title": "CAMS, IIT Madras expand FinTech lab to drive AI, blockchain innovation",
+      "description": "[SCANX.TRADE] CAMS and IIT Madras expanded their FinTech Innovation Lab via an MoU signed on August 12, 2026. The initiative focuses on AI, blockchain, cybersecurity, and startup mentoring. It includes professional education programmes and aims to commercialise...",
+      "url": "https://scanx.trade/stock-market-news/companies/cams-iit-madras-expand-fintech-lab-to-drive-ai-blockchain-innovation/48062099",
+      "date": "2026-08-12T06:35:10Z"
+    },
+    {
+      "title": "OpenAI, Meta, Anthropic to JPMorgan: Companies ramp up cybersecurity spending as AI risks grow",
+      "description": "[MONEYCONTROL] Rise in AI enabled attacks prompt companies to spend more on cybersecurity while EU steps up by revisiting the AI Act.",
+      "url": "https://www.moneycontrol.com/world/openai-meta-anthropic-to-jpmorgan-companies-ramp-up-cybersecurity-spending-as-ai-risks-grow-article-14002771.html",
+      "date": "2026-08-12T06:04:34Z"
+    },
+    {
+      "title": "\u2018I love solving puzzles and this industry is full of them\u2019 finds cyber CISO",
+      "description": "[SILICONREPUBLIC.COM] Company86's Cheryl Martin explores her more than twenty years in the cybersecurity space and how the industry has evolved.",
+      "url": "https://www.siliconrepublic.com/careers/solving-puzzles-industry-cyber-ciso-skills-working-life",
+      "date": "2026-08-12T06:00:49Z"
+    },
+    {
+      "title": "Microsoft's August Patch Tuesday: 398 flaws, 3 zero-days, and one North Korea got to first",
+      "description": "[ITWIRE] Tenable called it on Tuesday: the afd.sys zero-day looked like nation-state work. The same day, Check Point named the group. It was Lazarus, and the exploit had been live for...",
+      "url": "https://itwire.com/business-it-news/security/microsofts-august-patch-tuesday-398-flaws-3-zero-days-and-one-north-korea-got-to-first",
+      "date": "2026-08-12T05:56:05Z"
+    },
+    {
+      "title": "Smart Power System Achieves IEC 62443-3-3 SL2 Certification, Strengthening Cybersecurity and Integration Capabilities for Smart Energy Storage",
+      "description": "[THE MANILA TIMES] NEW TAIPEI CITY, Aug. 12, 2026 /PRNewswire/ -- Smart Power System (SPS) announced that its independently developed smart energy storage system has achieved IEC 62443-3-3 Security Level 2 (SL2) certification for industrial control system...",
+      "url": "https://www.manilatimes.net/2026/08/12/tmt-newswire/pr-newswire/smart-power-system-achieves-iec-62443-3-3-sl2-certification-strengthening-cybersecurity-and-integration-capabilities-for-smart-energy-storage/2403620",
+      "date": "2026-08-12T05:23:08Z"
     },
     {
       "title": "KT Q2 net profit sharply down due to data breach fines",
@@ -114,42 +150,6 @@
       "description": "[ITWIRE] New Commvault research finds many organisations are still making short term ransomware decisions instead of building long term cyber resilience.",
       "url": "https://itwire.com/guest-articles/guest-research/one-in-three-anz-organisations-still-pay-ransomware-demands-many-dont-get-their-data-back",
       "date": "2026-08-12T01:40:01Z"
-    },
-    {
-      "title": "KnowBe4 Releases Free Cybersecurity Awareness Month Resource Kit",
-      "description": "[ITWIRE] New \u201cSecret Agent\u201d themed campaign-in-a-box equips organisations with training module and tabletop exercises to educate employees to combat cybercrime",
-      "url": "https://itwire.com/business-it-news/security/knowbe4-releases-free-cybersecurity-awareness-month-resource-kit",
-      "date": "2026-08-12T01:33:55Z"
-    },
-    {
-      "title": "100 KB cyber probe could help military systems spot hidden threats",
-      "description": "[INTERESTING ENGINEERING] A sub-100 KB cybersecurity probe could help defenders detect unauthorized changes inside embedded devices before attacks spread.",
-      "url": "https://interestingengineering.com/innovation/sub-100-kb-probe-cyber-defense-crytica",
-      "date": "2026-08-12T00:10:58Z"
-    },
-    {
-      "title": "Microsoft Patches 398 Flaws Including a Windows Driver Zero-Day Under Active Attack",
-      "description": "[THE HACKER NEWS] Microsoft patches 398 flaws, including exploited CVE-2026-68820 that lets local attackers reach SYSTEM, plus four unauthenticated 9.8 RCEs.",
-      "url": "https://thehackernews.com/2026/08/microsoft-patches-398-flaws-including.html",
-      "date": "2026-08-11T20:10:00Z"
-    },
-    {
-      "title": "California Building \u2018AI Cyber Defense Fund\u2019 to Protect Critical Infrastructure From Hackers",
-      "description": "[GIZMODO] Trump, meanwhile, is aiming to slash the federal government\u2019s cybersecurity defense budget by more than $700 million.",
-      "url": "https://gizmodo.com/california-building-ai-cyber-defense-fund-to-protect-critical-infrastructure-from-hackers-2000797182",
-      "date": "2026-08-11T19:15:39Z"
-    },
-    {
-      "title": "Nurses union questions safety as ransomware hits Health Sciences Centre systems",
-      "description": "[GLOBAL NEWS] The union representing nurses in Manitoba is concerned about security risks for its members following a ransomware attack that has impacted some maintenance systems.",
-      "url": "https://globalnews.ca/news/12017232/nurses-union-safety-winnipeg-ransomware/",
-      "date": "2026-08-11T19:14:18Z"
-    },
-    {
-      "title": "Zoom Annotation Flaws Could Let a Meeting Participant Hijack Another Attendee's Client",
-      "description": "[THE HACKER NEWS] Zoom Annotation Flaws Could Let a Meeting Participant Hijack Another Attendee's Client | Read more hacking news on The Hacker News cybersecurity news website and learn how to protect against cyberattacks and software vulnerabilities.",
-      "url": "https://thehackernews.com/2026/08/zoom-annotation-flaws-could-let-meeting.html",
-      "date": "2026-08-11T19:08:00Z"
     },
     {
       "title": "Microsoft Patch Tuesday August 2026, (Tue, Aug 11th)",
