@@ -1,6 +1,24 @@
 {
-  "updated": "2026-08-12 09:01:26 UTC",
+  "updated": "2026-08-12 10:51:30 UTC",
   "news": [
+    {
+      "title": "New Microsoft Defender 'ShieldBreak' zero-day grants SYSTEM privileges",
+      "description": "[BLEEPINGCOMPUTER] Nightmare Eclipse has released a new Microsoft Defender zero-day exploit named \"ShieldBreak\" after Microsoft released the August 2026 Patch Tuesday security updates. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/new-microsoft-defender-shieldbreak-zero-day-grants-system-privileges/",
+      "date": "2026-08-12T10:15:22Z"
+    },
+    {
+      "title": "Prompt Injections for Defense",
+      "description": "[SCHNEIER] This seems to work: Researchers from Tracebit on Monday said they found that placing prompt injections alongside passwords, cryptographic keys, and other secrets stored on Amazon Web Services was often all that was needed to shut down attacks from...",
+      "url": "https://www.schneier.com/blog/archives/2026/08/prompt-injections-for-defense.html",
+      "date": "2026-08-12T09:56:37Z"
+    },
+    {
+      "title": "Attackers Exploit VMware vCenter Vulnerability to Gain Persistent Remote Access",
+      "description": "[FEEDS] Threat actors have begun to actively exploit a recently patched critical security flaw in Broadcom VMware vCenter, according to new findings from QUIRSO. The vulnerability in question is CVE-2026-59310 (CVSS score: 9.8), a directory-traversal...",
+      "url": "https://thehackernews.com/2026/08/attackers-exploit-vmware-vcenter.html",
+      "date": "2026-08-12T09:01:54Z"
+    },
     {
       "title": "Malicious LiteLLM Releases Tied to Trivy Hack May Have Exposed 2,100+ Organizations",
       "description": "[FEEDS] Two malicious LiteLLM releases sat on PyPI for about 40 minutes in March carrying credential-stealing code capable of harvesting cloud keys, SSH keys, Kubernetes tokens, database passwords, and other secrets from systems that installed them. Threat...",
@@ -62,12 +80,6 @@
       "date": "2026-08-11T19:45:31Z"
     },
     {
-      "title": "Kimwolf v7 Android Botnet Makes HTTP/2 DDoS Traffic Look Like Legitimate Browsing",
-      "description": "[FEEDS] Cybersecurity researchers have discovered a new version of the Kimwolf/AISURU Android and Internet of Things (IoT) botnet that comes with significant improvements to improve its operational resilience and conduct distributed denial-of-service (DDoS)...",
-      "url": "https://thehackernews.com/2026/08/kimwolf-v7-android-botnet-makes-http2.html",
-      "date": "2026-08-11T19:36:37Z"
-    },
-    {
       "title": "California Building \u2018AI Cyber Defense Fund\u2019 to Protect Critical Infrastructure From Hackers",
       "description": "[GIZMODO] Trump, meanwhile, is aiming to slash the federal government\u2019s cybersecurity defense budget by more than $700 million.",
       "url": "https://gizmodo.com/california-building-ai-cyber-defense-fund-to-protect-critical-infrastructure-from-hackers-2000797182",
@@ -96,12 +108,6 @@
       "description": "[BLEEPINGCOMPUTER] Delta Air Lines is investigating an unauthorized Wi-Fi network that appeared aboard a flight from Las Vegas to Atlanta carrying passengers who had attended the DEF CON hacker convention. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/delta-probes-wi-fi-deauth-attack-on-flight-carrying-def-con-attendees/",
       "date": "2026-08-11T18:34:23Z"
-    },
-    {
-      "title": "Microsoft releases Windows 10 KB5120249 extended security update",
-      "description": "[BLEEPINGCOMPUTER] Microsoft has released Windows 10 KB5120249 Extended Security Updates for versions 22H2 and 21H2 to fix security vulnerabilities and bugs. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5120249-cumulative-update-released-with-fixes/",
-      "date": "2026-08-11T18:26:03Z"
     },
     {
       "title": "Microsoft Patch Tuesday August 2026, (Tue, Aug 11th)",
@@ -192,12 +198,6 @@
       "description": "[ISC] UNIX systems (including Linux) are well-known to record a lot of activities in many different locations. But there is one domain where they definitely lack of \"modern\" logging: shells. Most shells provide an historization of the typed commands...",
       "url": "https://isc.sans.edu/diary/rss/33226",
       "date": "2026-08-07T07:22:28Z"
-    },
-    {
-      "title": "Adversarial Clothing Designed to Fool Facial Recognition Systems",
-      "description": "[SCHNEIER] There are many companies manufacturing adversarial clothing designed to confuse facial recognition systems. It&#8217;s a cool idea, but I worry that it&#8217;s mostly security theater: &#8220;Our patterns play with that chaos, confuse algorithms and...",
-      "url": "https://www.schneier.com/blog/archives/2026/08/adversarial-clothing-designed-to-fool-facial-recognition-systems.html",
-      "date": "2026-08-06T11:04:51Z"
     }
   ]
 }
