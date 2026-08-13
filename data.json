@@ -1,6 +1,12 @@
 {
-  "updated": "2026-08-13 05:41:41 UTC",
+  "updated": "2026-08-13 07:12:24 UTC",
   "news": [
+    {
+      "title": "Attackers Exploit SharePoint Authentication Bypass After Public PoC Release",
+      "description": "[FEEDS] Threat actors have begun to exploit a newly disclosed Microsoft SharePoint vulnerability following the release of a proof-of-concept (PoC) code. The vulnerability in question is CVE-2026-55040 (CVSS score: 9.1), which refers to a critical security...",
+      "url": "https://thehackernews.com/2026/08/attackers-exploit-sharepoint.html",
+      "date": "2026-08-13T06:09:48Z"
+    },
     {
       "title": "ISC Stormcast For Thursday, August 13th, 2026 https://isc.sans.edu/podcastdetail/10050, (Thu, Aug 13th)",
       "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
@@ -32,10 +38,34 @@
       "date": "2026-08-12T20:54:59Z"
     },
     {
+      "title": "Power giant eyes lukewarm earnings after data breach",
+      "description": "[THE CANBERRA TIMES] A data breach that affected almost one million people is probably not the reason Origin energy is about...",
+      "url": "https://www.canberratimes.com.au/story/9329393/power-giant-eyes-lukewarm-earnings-after-data-breach/",
+      "date": "2026-08-12T19:00:43Z"
+    },
+    {
       "title": "Hundreds of fake Chrome VPN extensions route traffic through a proxy",
       "description": "[BLEEPINGCOMPUTER] More than 737 browser extensions published on the Chrome Web Store impersonated well-known VPN and proxy services while routing users' traffic through SOCKS5 proxies operated by a single provider. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/hundreds-of-fake-chrome-vpn-extensions-route-traffic-through-a-proxy/",
       "date": "2026-08-12T18:54:57Z"
+    },
+    {
+      "title": "Federal Intelligence Chief Says AI Agents Need Birth Certificates",
+      "description": "[EUROPE SAYS] As its name suggests, the Zero Trust cybersecurity concept says users/devices should not automatically be trusted.",
+      "url": "https://www.europesays.com/3189801/",
+      "date": "2026-08-12T18:49:14Z"
+    },
+    {
+      "title": "The High Cost of Credential Theft: Why Enterprises are Investing Millions in Biometric Hardware",
+      "description": "[TECHBULLION] Explore the dangers of Credential Theft and its financial impact on businesses today. Stay informed about cybersecurity risks.",
+      "url": "https://techbullion.com/the-high-cost-of-credential-theft-why-enterprises-are-investing-millions-in-biometric-hardware/",
+      "date": "2026-08-12T17:52:06Z"
+    },
+    {
+      "title": "Is Outsourced Cybersecurity More Cost-Effective Than Building an In-House Team?",
+      "description": "[TECHBULLION] Explore the pros and cons of outsourced cybersecurity versus in-house teams to find the best fit for your business.",
+      "url": "https://techbullion.com/is-outsourced-cybersecurity-more-cost-effective-than-building-an-in-house-team/",
+      "date": "2026-08-12T17:47:22Z"
     },
     {
       "title": "Lazarus Exploits Windows Zero-Day to Gain SYSTEM Access and Deploy Backdoor",
@@ -63,38 +93,14 @@
     },
     {
       "title": "AIS InfoSource data breach: How victims could get $5K",
-      "description": "[MECHANICSBURG PATRIOT NEWS ] People might also be entitled up to two free years of credit monitoring.",
-      "url": "https://www.pennlive.com/news/2026/08/data-breach-victims-could-get-5k-heres-whos-eligible.html",
-      "date": "2026-08-12T16:29:47Z"
-    },
-    {
-      "title": "AIS InfoSource data breach: How victims could get $5K",
       "description": "[AL.COM] People might also be entitled up to two free years of credit monitoring.",
       "url": "https://www.al.com/news/2026/08/data-breach-victims-could-get-5k-heres-whos-eligible.html",
       "date": "2026-08-12T16:29:47Z"
     },
     {
       "title": "AIS InfoSource data breach: How victims could get $5K",
-      "description": "[MASSLIVE] People might also be entitled up to two free years of credit monitoring.",
-      "url": "https://www.masslive.com/news/2026/08/data-breach-victims-could-get-5k-heres-whos-eligible.html",
-      "date": "2026-08-12T16:29:47Z"
-    },
-    {
-      "title": "AIS InfoSource data breach: How victims could get $5K",
-      "description": "[STATEN ISLAND ADVANCE] People might also be entitled up to two free years of credit monitoring.",
-      "url": "https://www.silive.com/nation/2026/08/data-breach-victims-could-get-5k-heres-whos-eligible.html",
-      "date": "2026-08-12T16:29:47Z"
-    },
-    {
-      "title": "AIS InfoSource data breach: How victims could get $5K",
       "description": "[NJ.COM] People might also be entitled up to two free years of credit monitoring.",
       "url": "https://www.nj.com/news/2026/08/data-breach-victims-could-get-5k-heres-whos-eligible.html",
-      "date": "2026-08-12T16:29:47Z"
-    },
-    {
-      "title": "AIS InfoSource data breach: How victims could get $5K",
-      "description": "[M LIVE MICHIGAN ] People might also be entitled up to two free years of credit monitoring.",
-      "url": "https://www.mlive.com/news/2026/08/data-breach-victims-could-get-5k-heres-whos-eligible.html",
       "date": "2026-08-12T16:29:47Z"
     },
     {
@@ -144,12 +150,6 @@
       "description": "[SCHNEIER] This seems to work: Researchers from Tracebit on Monday said they found that placing prompt injections alongside passwords, cryptographic keys, and other secrets stored on Amazon Web Services was often all that was needed to shut down attacks from...",
       "url": "https://www.schneier.com/blog/archives/2026/08/prompt-injections-for-defense.html",
       "date": "2026-08-12T09:56:37Z"
-    },
-    {
-      "title": "Attackers Exploit VMware vCenter Vulnerability to Gain Persistent Remote Access",
-      "description": "[FEEDS] Threat actors have begun to actively exploit a recently patched critical security flaw in Broadcom VMware vCenter, according to new findings from QUIRSO. The vulnerability in question is CVE-2026-59310 (CVSS score: 9.8), a directory-traversal...",
-      "url": "https://thehackernews.com/2026/08/attackers-exploit-vmware-vcenter.html",
-      "date": "2026-08-12T09:01:54Z"
     },
     {
       "title": "ISC Stormcast For Wednesday, August 12th, 2026 https://isc.sans.edu/podcastdetail/10048, (Wed, Aug 12th)",
