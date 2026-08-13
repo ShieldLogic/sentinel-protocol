@@ -1,203 +1,137 @@
 {
-  "updated": "2026-08-13 10:52:48 UTC",
-  "news": [
-    {
-      "title": "Attackers Exploit SharePoint Authentication Bypass After Public PoC Release",
-      "description": "[FEEDS] Threat actors have begun to exploit a newly disclosed Microsoft SharePoint vulnerability following the release of a proof-of-concept (PoC) code. The vulnerability in question is CVE-2026-55040 (CVSS score: 9.1), which refers to a critical security...",
-      "url": "https://thehackernews.com/2026/08/attackers-exploit-sharepoint.html",
-      "date": "2026-08-13T06:09:48Z"
-    },
-    {
-      "title": "ISC Stormcast For Thursday, August 13th, 2026 https://isc.sans.edu/podcastdetail/10050, (Thu, Aug 13th)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33244",
-      "date": "2026-08-13T02:00:03Z"
-    },
-    {
-      "title": "Using Gemma4 with Ollama - Testing File Hash Analysis and Recommendations with AI, (Wed, Aug 12th)",
-      "description": "[ISC] In the past few weeks, I have been using Gemma4 as a Large Language Model (LLM) to see how useful it can be to analyze some of the malware hashes uploaded to the DShield sensor over the past 30 days and figure out how its recommendation can be...",
-      "url": "https://isc.sans.edu/diary/rss/33242",
-      "date": "2026-08-13T01:26:53Z"
-    },
-    {
-      "title": "\"City-Forum\" data-theft attacks target Salesforce, ServiceNow portals",
-      "description": "[BLEEPINGCOMPUTER] An ongoing data theft campaign uses custom tools to steal data exposed to anonymous users through Salesforce Experience Cloud and ServiceNow customer portals. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/city-forum-data-theft-attacks-target-salesforce-servicenow-portals/",
-      "date": "2026-08-12T23:07:23Z"
-    },
-    {
-      "title": "Gottheimer announces N.J. cybersecurity plan after Cape May, Woodbine water system hacks",
-      "description": "[NJ.COM] The bipartisan package targets vulnerabilities small water and electric utilities, which make up 97% of the nation's public water systems.",
-      "url": "https://www.nj.com/politics/2026/08/gottheimer-unveils-federal-cybersecurity-plan-after-hackers-hit-nj-water-systems.html",
-      "date": "2026-08-12T22:35:23Z"
-    },
-    {
-      "title": "Android malware combo takes out loans and relays victims' credit cards",
-      "description": "[BLEEPINGCOMPUTER] A new Android NFC relay malware called WindRelay is being used alongside the SpyNote remote administration tool (RAT) to steal live card data and send it to attackers in real time. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/android-malware-combo-takes-out-loans-and-relays-victims-credit-cards/",
-      "date": "2026-08-12T22:22:57Z"
-    },
-    {
-      "title": "Trump's Cyber War on Transnational Crime",
-      "description": "[DEVDISCOURSE] U.S. President Donald Trump issued a memorandum empowering federal law enforcement to use cyber tools against transnational criminal organizations. The memo encourages collaboration between private sectors and government agencies to address threats...",
-      "url": "https://www.devdiscourse.com/article/law-order/3963184-trumps-cyber-war-on-transnational-crime",
-      "date": "2026-08-12T22:02:49Z"
-    },
-    {
-      "title": "Senteon Named Finalist for the Coveted Top 25 Most Innovative Cybersecurity Companies in the World 2026",
-      "description": "[THE MANILA TIMES] Senteon Recognized for Innovation in Endpoint Hardening and Configuration Security",
-      "url": "https://www.manilatimes.net/2026/08/13/tmt-newswire/globenewswire/senteon-named-finalist-for-the-coveted-top-25-most-innovative-cybersecurity-companies-in-the-world-2026/2404436",
-      "date": "2026-08-12T21:31:15Z"
-    },
-    {
-      "title": "Hackers exploit critical Adobe Commerce flaw to hijack customer accounts",
-      "description": "[BLEEPINGCOMPUTER] Attempts to exploit a critical vulnerability (CVE-2026-71362) in Adobe's Commerce and Magento e-commerce platforms have been detected, potentially allowing attackers to hijack customer accounts. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-adobe-commerce-flaw-to-hijack-customer-accounts/",
-      "date": "2026-08-12T20:54:59Z"
-    },
-    {
-      "title": "Former Cullman County deputy alleges phone seized under false warrant after reporting cybersecurity lapse",
-      "description": "[AL.COM] A former Cullman County detention deputy is suing the sheriff and staff, alleging his phone was seized without a warrant.",
-      "url": "https://www.al.com/news/2026/08/former-alabama-deputy-says-sheriff-illegally-seized-his-phone-after-he-reported-cybersecurity-breach.html",
-      "date": "2026-08-12T20:21:32Z"
-    },
-    {
-      "title": "Cybersecurity is an economic imperative for the government: IT Secretary N. Manjula",
-      "description": "[THE HINDU] Cybersecurity has become an economic imperative and governance priority as digital technologies become deeply embedded in everyday life, said N. Manjula, Secretary, Department of Electronics, IT and BT, Government of Karnataka here on Wednesday.",
-      "url": "https://www.thehindu.com/news/national/karnataka/cybersecurity-is-an-economic-imperative-for-the-government-it-secretary-n-manjula-no-pic-on-dcx/article71337692.ece",
-      "date": "2026-08-12T19:26:12Z"
-    },
-    {
-      "title": "Power giant eyes lukewarm earnings after data breach",
-      "description": "[THE CANBERRA TIMES] A data breach that affected almost one million people is probably not the reason Origin energy is about...",
-      "url": "https://www.canberratimes.com.au/story/9329393/power-giant-eyes-lukewarm-earnings-after-data-breach/",
-      "date": "2026-08-12T19:00:43Z"
-    },
-    {
-      "title": "Hundreds of fake Chrome VPN extensions route traffic through a proxy",
-      "description": "[BLEEPINGCOMPUTER] More than 737 browser extensions published on the Chrome Web Store impersonated well-known VPN and proxy services while routing users' traffic through SOCKS5 proxies operated by a single provider. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/hundreds-of-fake-chrome-vpn-extensions-route-traffic-through-a-proxy/",
-      "date": "2026-08-12T18:54:57Z"
-    },
-    {
-      "title": "Federal Intelligence Chief Says AI Agents Need Birth Certificates",
-      "description": "[EUROPE SAYS] As its name suggests, the Zero Trust cybersecurity concept says users/devices should not automatically be trusted.",
-      "url": "https://www.europesays.com/3189801/",
-      "date": "2026-08-12T18:49:14Z"
-    },
-    {
-      "title": "The High Cost of Credential Theft: Why Enterprises are Investing Millions in Biometric Hardware",
-      "description": "[TECHBULLION] Explore the dangers of Credential Theft and its financial impact on businesses today. Stay informed about cybersecurity risks.",
-      "url": "https://techbullion.com/the-high-cost-of-credential-theft-why-enterprises-are-investing-millions-in-biometric-hardware/",
-      "date": "2026-08-12T17:52:06Z"
-    },
-    {
-      "title": "Is Outsourced Cybersecurity More Cost-Effective Than Building an In-House Team?",
-      "description": "[TECHBULLION] Explore the pros and cons of outsourced cybersecurity versus in-house teams to find the best fit for your business.",
-      "url": "https://techbullion.com/is-outsourced-cybersecurity-more-cost-effective-than-building-an-in-house-team/",
-      "date": "2026-08-12T17:47:22Z"
-    },
-    {
-      "title": "Lazarus Exploits Windows Zero-Day to Gain SYSTEM Access and Deploy Backdoor",
-      "description": "[FEEDS] The North Korean threat actor known as Lazarus Group has been attributed to the zero-day exploitation of a newly patched security flaw impacting Microsoft Windows to deliver a never-before-seen backdoor targeting defense and aerospace companies...",
-      "url": "https://thehackernews.com/2026/08/lazarus-exploits-windows-zero-day-to.html",
-      "date": "2026-08-12T17:39:27Z"
-    },
-    {
-      "title": "Plug and Pwn attack uses fake USB devices for Windows SYSTEM access",
-      "description": "[BLEEPINGCOMPUTER] Security researchers have disclosed new \"Plug and Pwn\" attacks that abuse the Windows Plug and Play feature to trigger Windows into installing vulnerable or insecure vendor software and gain SYSTEM privileges. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/plug-and-pwn-attack-uses-fake-usb-devices-for-windows-system-access/",
-      "date": "2026-08-12T16:05:12Z"
-    },
-    {
-      "title": "Lazarus hackers exploited Windows zero-day to target defense firms",
-      "description": "[BLEEPINGCOMPUTER] North Korean hackers have been exploiting a Windows zero-day vulnerability (CVE-2026-68820) to target defense-sector companies as part of the Operation Dream Job campaign. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/lazarus-hackers-exploited-windows-zero-day-to-target-defense-firms/",
-      "date": "2026-08-12T15:38:08Z"
-    },
-    {
-      "title": "Linux Kernel Process Accounting, (Wed, Aug 12th)",
-      "description": "[ISC] A couple of days ago, Xavier posted about Atuin to gain more insight into the command history. Atuin does a great job of better organizing what is usually handled by...",
-      "url": "https://isc.sans.edu/diary/rss/33240",
-      "date": "2026-08-12T14:21:10Z"
-    },
-    {
-      "title": "737 Chrome VPN Extensions Caught Routing Traffic Through Proxies. Check If You Have One",
-      "description": "[FEEDS] A massive set of 737 free VPN and proxy extensions have been found to mainly target Russian-speaking users seeking access to blocked services with an aim to intercept browser traffic and route them through a proxy infrastructure. The extensions,...",
-      "url": "https://thehackernews.com/2026/08/737-chrome-vpn-extensions-caught.html",
-      "date": "2026-08-12T14:09:50Z"
-    },
-    {
-      "title": "OpenAI, Anthropic, Google API Flaw Let Weaker AI Models Decode Stronger Models' Reasoning",
-      "description": "[FEEDS] A newly disclosed flaw in the way OpenAI, Anthropic, and Google carried hidden AI reasoning between API calls let researchers recover internal reasoning and secrets from session logs, including API keys and passwords. The weakness affected encrypted...",
-      "url": "https://thehackernews.com/2026/08/openai-anthropic-google-api-flaw-let.html",
-      "date": "2026-08-12T11:47:38Z"
-    },
-    {
-      "title": "Enterprise Defenses Recovered at the Edge and Collapsed Inside",
-      "description": "[FEEDS] Enterprise defenses are tuned to catch the attacks that make noise. This year's data shows attackers winning by making none. According to Picus Labs' new Blue Report 2026, which measured more than 338 million real attack simulations across actual...",
-      "url": "https://thehackernews.com/2026/08/enterprise-defenses-recovered-at-edge.html",
-      "date": "2026-08-12T11:41:34Z"
-    },
-    {
-      "title": "Adobe Patches Three CVSS 10.0 ColdFusion and Campaign Classic Flaws",
-      "description": "[FEEDS] Adobe has shipped updates to address multiple critical security vulnerabilities impacting ColdFusion, Commerce, and Campaign Classic that, if successfully exploited, could result in arbitrary code execution and privilege escalation. The most severe...",
-      "url": "https://thehackernews.com/2026/08/adobe-patches-three-cvss-100-coldfusion.html",
-      "date": "2026-08-12T11:13:03Z"
-    },
-    {
-      "title": "Prompt Injections for Defense",
-      "description": "[SCHNEIER] This seems to work: Researchers from Tracebit on Monday said they found that placing prompt injections alongside passwords, cryptographic keys, and other secrets stored on Amazon Web Services was often all that was needed to shut down attacks from...",
-      "url": "https://www.schneier.com/blog/archives/2026/08/prompt-injections-for-defense.html",
-      "date": "2026-08-12T09:56:37Z"
-    },
-    {
-      "title": "ISC Stormcast For Wednesday, August 12th, 2026 https://isc.sans.edu/podcastdetail/10048, (Wed, Aug 12th)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33238",
-      "date": "2026-08-12T02:00:03Z"
-    },
-    {
-      "title": "Microsoft Patch Tuesday August 2026, (Tue, Aug 11th)",
-      "description": "[ISC] This month we got patches for 418 vulnerabilities. Of these, 62 are critical, 1 is being exploited in the wild, and 2 were publicly disclosed as zero-days. Notable fixes include Windows privilege escalation, container tampering, and critical QUIC...",
-      "url": "https://isc.sans.edu/diary/rss/33236",
-      "date": "2026-08-11T17:54:49Z"
-    },
-    {
-      "title": "AI Genie in the Wild",
-      "description": "[SCHNEIER] When I give talks about AI genies, I use this sort of example as a hypothetical. It&#8217;s happened. The story is from Australia. Someone named Andrew tasked OpenClaw to book gym classes for him. And&#8230;. Minutes later, his AI agent reported it...",
-      "url": "https://www.schneier.com/blog/archives/2026/08/ai-genie-in-the-wild.html",
-      "date": "2026-08-11T15:55:11Z"
-    },
-    {
-      "title": "AI for Military Support",
-      "description": "[SCHNEIER] Interesting empirical research: &#8220;Black Box Warfare: Human Judgment and Military Decision-Making in the Age of AI.&#8221; Abstract: How is AI transforming decision-making in modern conflict? This study provides a unique empirical window into...",
-      "url": "https://www.schneier.com/blog/archives/2026/08/ai-for-military-support.html",
-      "date": "2026-08-11T11:18:07Z"
-    },
-    {
-      "title": "ISC Stormcast For Tuesday, August 11th, 2026 https://isc.sans.edu/podcastdetail/10046, (Tue, Aug 11th)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33232",
-      "date": "2026-08-11T02:00:03Z"
-    },
-    {
-      "title": "Python Now Has a Post-Quantum Encryption Library",
-      "description": "[SCHNEIER] This is good: Post-quantum cryptography is now one pip-install away for the entire Python ecosystem. With funding from the Sovereign Tech Agency, we implemented support for ML-KEM, the NIST-standard key-establishment primitive, and ML-DSA, the...",
-      "url": "https://www.schneier.com/blog/archives/2026/08/python-now-has-a-post-quantum-encryption-library.html",
-      "date": "2026-08-10T11:02:26Z"
-    },
-    {
-      "title": "Friday Squid Blogging: Arctic Bobtail Squid Video",
-      "description": "[SCHNEIER] Nice video of the Arctic bobtail squid. As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered. Blog moderation policy.",
-      "url": "https://www.schneier.com/blog/archives/2026/08/friday-squid-blogging-arctic-bobtail-squid-video.html",
-      "date": "2026-08-07T21:07:04Z"
-    },
-    {
-      "title": "ICE Is Buying Access to Credit Card Records",
-      "description": "[SCHNEIER] Through data brokers, ICE is buying the information you provided to open a credit card.",
-      "url": "https://www.schneier.com/blog/archives/2026/08/ice-is-buying-access-to-credit-card-records.html",
-      "date": "2026-08-07T10:26:41Z"
-    }
-  ]
+    "title": "Sentinel Protocol",
+    "tagline": "Perimeter Intelligence Sync",
+    "updated": "2026-08-13 11:41 UTC",
+    "news": [
+        {
+            "source": {
+                "id": null,
+                "name": "Internet"
+            },
+            "author": "info@thehackernews.com (The Hacker News)",
+            "title": "Enterprise Defenses Recovered at the Edge and Collapsed Inside",
+            "description": "Enterprise defenses are tuned to catch the attacks that make noise. This year's data shows attackers winning by making none.\n\nAccording to Picus Labs' new Blue Report 2026, which measured more than 338 million real attack simulations across actual client prod\u2026",
+            "url": "https://thehackernews.com/2026/08/enterprise-defenses-recovered-at-edge.html",
+            "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoBNKr6YWBC4uPzzXNZNX_sduYkalrtPSfiT01s6R6tq9uRzAs8TRoyv0DSwM-Wy_RmiGv923yzsB1DK3mgg5vudYdTwIk7wubUJYB0f-6AADquodryt0KofkU5aKxKaKBLirP1A0PuaBC_lfWEYJKlthyphenhyphencmmT2WBQkIRLLFLI5kWKZcJWY5rxrN-qa2M/s1700-e365/picuss.jpg",
+            "publishedAt": "2026-08-12T11:41:34Z",
+            "content": "Enterprise defenses are tuned to catch the attacks that make noise. This year's data shows attackers winning by making none.\r\nAccording to Picus Labs' new Blue Report 2026, which measured more than 3\u2026 [+9208 chars]"
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Allie Garfinkle",
+            "title": "87.5% of venture dollars went to AI. The rest fought over scraps",
+            "description": "PitchBook's Q2 valuations data shows a market split in two.",
+            "url": "https://fortune.com/2026/08/12/venture-capital-funding-ai-pitchbook-us-vc-valuations-series-d/",
+            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/08/Dario-Amodei-GettyImages-2256664479.jpg?resize=1200,600",
+            "publishedAt": "2026-08-12T11:32:08Z",
+            "content": "Its an AI world and were all just living in it.PitchBook released its Q2 2026 U.S. VC Valuations data this week, and the report aligns with the skewed venture market weve come to know: Investors are \u2026 [+5554 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Greenbone.net"
+            },
+            "author": "Joseph Lee",
+            "title": "GreenboneOS: Threat Report July 2026: Vulnpocolypse \u2013 Just Scratching the Surface?",
+            "description": "Plenty of new risks to enterprise IT defenders emerged in July 2026. Earlier this month, our blog covered emerging issues such as active exploitation of WordPress Core [2], Adobe ColdFusion [3] and Check Point SmartConsole [4]; new critical-severity flaws in \u2026",
+            "url": "https://www.greenbone.net/en/blog/threat-report-july-2026-vulnpocolypse-just-scratching-the-surface/",
+            "urlToImage": null,
+            "publishedAt": "2026-08-12T11:18:03Z",
+            "content": "Plenty of new risks to enterprise IT defenders emerged in July 2026. Earlier this month, our blog covered emerging issues such as active exploitation of WordPress Core [2], Adobe ColdFusion [3] and C\u2026 [+21734 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PRNewswire"
+            },
+            "author": null,
+            "title": "CTSI-Global Advances Cybersecurity Transparency for Logistics Clients",
+            "description": "Trust Center keeps privacy and security front and center for the supply chain strategic solutions provider. MEMPHIS, Tenn., Aug. 12, 2026 /PRNewswire/ -- CTSI-Global announces the launch of Trust Center, a dedicated portal for cybersecurity and privacy transp\u2026",
+            "url": "https://www.prnewswire.com/news-releases/ctsi-global-advances-cybersecurity-transparency-for-logistics-clients-302848690.html",
+            "urlToImage": "https://mmx.prnewswire.com/media/MS1015751/CTSI-Global-1-logo.jpg?id=OA2858145&p=facebook",
+            "publishedAt": "2026-08-12T11:15:00Z",
+            "content": "Trust Center keeps privacy and security front and center for the supply chain strategic solutions provider.\r\nMEMPHIS, Tenn., Aug. 12, 2026 /PRNewswire/ -- CTSI-Global announces the launch of Trust Ce\u2026 [+2451 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Computerworld"
+            },
+            "author": "Bob Violino",
+            "title": "AI policies work better when employees help write them",
+            "description": "It\u2019s likely that many enterprises have created \u2014 or are at least considering \u2014 AI policies that clearly lay out approved AI tools and their uses, set up training programs for employees to help them use the tools in their jobs, and establish guardrails around \u2026",
+            "url": "https://www.computerworld.com/article/4201233/ai-policies-work-better-when-employees-help-write-them.html",
+            "urlToImage": "https://www.computerworld.com/wp-content/uploads/2026/08/4201233-0-61695000-1786532643-shutterstock_653993329.jpg?quality=50&strip=all&w=1024",
+            "publishedAt": "2026-08-12T11:00:00Z",
+            "content": "\u201cWe communicated updates during company all-hands meetings, through email, in Microsoft Teams, and through department-level discussions,\u201d Rothbaum says. \u201cWe even designated a member of our marketing \u2026 [+922 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Nakedcapitalism.com"
+            },
+            "author": "Conor Gallagher",
+            "title": "Links 8/12/2026",
+            "description": "Our daily links, including primaries, protestors storm OpenAI, cops with autonomous drones, Germany unleashes spooks, and Trump hides in catering box.",
+            "url": "https://www.nakedcapitalism.com/2026/08/links-8-12-2026.html",
+            "urlToImage": "https://www.nakedcapitalism.com/wp-content/uploads/2026/08/HNmIMEdWUAA-9P_-1024x1024.jpeg",
+            "publishedAt": "2026-08-12T10:55:58Z",
+            "content": "THE COLOR RECESSION MAY BE PERMANENT The Atlantic\r\nSwarming jellyfish overrun French nuclear plant on same date two years in a row\u00a0 Politico\r\nIs It Safe to Eat Lettuce Yet? Wired\r\nClimate/Environment\u2026 [+7334 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PRNewswire"
+            },
+            "author": null,
+            "title": "BRINKER INTERNATIONAL REPORTS FOURTH QUARTER AND FULL YEAR FISCAL 2026 RESULTS AND PROVIDES FISCAL 2027 GUIDANCE",
+            "description": "DALLAS, Aug. 12, 2026 /PRNewswire/ -- Brinker International, Inc. (NYSE: EAT) today announced its financial results for the fourth quarter and fiscal year ended June 24, 2026 and provided guidance for fiscal 2027. Fourth Quarter and Full Year Fiscal 2026 Fina\u2026",
+            "url": "https://www.prnewswire.com/news-releases/brinker-international-reports-fourth-quarter-and-full-year-fiscal-2026-results-and-provides-fiscal-2027-guidance-302849034.html",
+            "urlToImage": "https://mmx.prnewswire.com/media/MS484196/Brinker-Intl-Logo-Logo.jpg?id=OA2861070&p=facebook",
+            "publishedAt": "2026-08-12T10:45:00Z",
+            "content": "DALLAS, Aug. 12, 2026 /PRNewswire/ -- Brinker International, Inc. (NYSE: EAT) today announced its financial results for the fourth quarter and fiscal year ended June\u00a024, 2026 and provided guidance fo\u2026 [+46915 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Slashdot.org"
+            },
+            "author": "thfeed",
+            "title": "Passenger returning from DEF CON 34 spoofs Delta Wi-Fi network while in flight using pentest tool \u2014 pilots tell ground crew to alert corporate security a",
+            "description": "A flight carrying passengers who attended a cybersecurity convention reportedly had its Wi-Fi network victimized by deauthentication attacks while an 'evil twin' hotspot rerouted potential victims to a phishing website. While flight safety was never affected,\u2026",
+            "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184935814",
+            "urlToImage": null,
+            "publishedAt": "2026-08-12T10:32:05Z",
+            "content": "Top Ten Things Overheard At The ANSI C Draft Committee Meetings:\r\n (5) All right, who's the wiseguy who stuck this trigraph stuff in\r\n here?"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Android Authority"
+            },
+            "author": "Hillary Keverenge",
+            "title": "This shocking Zoom bug allowed silent device takeovers on Android and iOS",
+            "description": "Public AI models uncovered a critical zero-click Zoom bug allowing remote device takeovers across Android, iOS, and PC.",
+            "url": "https://www.androidauthority.com/zoom-call-device-takeover-bug-3697629/",
+            "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2022/06/Zoom-Meetings-video-call-on-laptop.jpg",
+            "publishedAt": "2026-08-12T10:31:41Z",
+            "content": "<ul><li>A Zoom annotation flaw could let a malicious participant remotely take over another persons device without any interaction.</li><li>Researchers found and exploited the bug using publicly avai\u2026 [+3263 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Tom's Hardware UK"
+            },
+            "author": "editors@tomshardware.com (Jowi Morales) , Jowi Morales",
+            "title": "Passenger returning from DEF CON 34 spoofs Delta Wi-Fi network while in flight using pentest tool \u2014 pilots tell ground crew to alert corporate security after attendee from hacking conference brings the party to the sky",
+            "description": "A flight carrying passengers who attended a cybersecurity convention reportedly had its Wi-Fi network victimized by deauthentication attacks while an 'evil twin' hotspot rerouted potential victims to a phishing website. While flight safety was never affected,\u2026",
+            "url": "https://www.tomshardware.com/tech-industry/cyber-security/passenger-returning-from-def-con-34-spoofs-delta-wi-fi-network-while-in-flight-using-pentest-tool-pilots-tell-ground-crew-to-alert-corporate-security-after-attendee-from-hacking-conference-brings-the-party-to-the-sky",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/pvc4LrMYMdMERWez7NYCZA-1920-80.png",
+            "publishedAt": "2026-08-12T10:30:00Z",
+            "content": "Delta Flight 591 between Las Vegas, Nevada, and Atlanta, Georgia was carrying some passengers from the recently concluded DEF CON 34 hacking conference yesterday, and an attendee apparently didn't wa\u2026 [+3169 chars]"
+        }
+    ]
 }
