@@ -1,209 +1,137 @@
 {
-  "updated": "2026-08-14 10:48:44 UTC",
-  "news": [
-    {
-      "title": "Data analyst sent to prison for stealing data, extorting employer",
-      "description": "[BLEEPINGCOMPUTER] A former data analyst contractor for Brightly Software has been sentenced to two years in prison for targeting his employer in a $2.5 million extortion scheme. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/data-analyst-sent-to-prison-for-stealing-data-extorting-employer/",
-      "date": "2026-08-14T08:27:18Z"
-    },
-    {
-      "title": "ISC Stormcast For Friday, August 14th, 2026 https://isc.sans.edu/podcastdetail/10052, (Fri, Aug 14th)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33246",
-      "date": "2026-08-14T02:00:03Z"
-    },
-    {
-      "title": "Apple sends new \u2018Threat Notification\u2019 alerts over mercenary spyware attacks",
-      "description": "[BLEEPINGCOMPUTER] You're not alone if you just received an \"Apple Threat Notification\" saying it detected a \"mercenary spyware attack targeted at your iPhone.\" [...]",
-      "url": "https://www.bleepingcomputer.com/news/apple/apple-sends-new-threat-notification-alerts-over-mercenary-spyware-attacks/",
-      "date": "2026-08-14T01:19:12Z"
-    },
-    {
-      "title": "The Safety Reckoning Inside OpenAI",
-      "description": "[WIRED] OpenAI\u2019s rogue agent hack was a watershed moment for AI safety and cybersecurity. It also sparked internal questions about the culture that led to it.",
-      "url": "https://www.wired.com/story/openai-safety-security-ai-agents-culture/",
-      "date": "2026-08-13T22:37:19Z"
-    },
-    {
-      "title": "Ukraine shuts down 94 fraudulent call centers, seize millions in cash",
-      "description": "[BLEEPINGCOMPUTER] Authorities in Ukraine shut down 94 fraudulent call centers across the country that lured people into investment scams or tried to obtain access to bank accounts. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/ukraine-shuts-down-94-fraudulent-call-centers-seize-millions-in-cash/",
-      "date": "2026-08-13T21:12:47Z"
-    },
-    {
-      "title": "Akira hackers disable EDR with Safe Mode, steal data but fail to encrypt",
-      "description": "[BLEEPINGCOMPUTER] An Akira ransomware affiliate disabled the endpoint detection and response (EDR) solution on a compromised system by restarting the machine into Safe Mode with Networking. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/akira-hackers-disable-edr-with-safe-mode-steal-data-but-fail-to-encrypt/",
-      "date": "2026-08-13T20:47:02Z"
-    },
-    {
-      "title": "Unpatched GeoServer Zero-Day Targeted in Active Exploitation Attempts, Can Lead to RCE",
-      "description": "[THE HACKER NEWS] Unpatched GeoServer zero-day SQL injection is seeing active exploitation attempts hours after disclosure and can lead to remote code execution.",
-      "url": "https://thehackernews.com/2026/08/unpatched-geoserver-zero-day-targeted.html",
-      "date": "2026-08-13T18:45:00Z"
-    },
-    {
-      "title": "Trezor Data Breach Exposes Personal Details of Nearly 14,000 Customers",
-      "description": "[CRYPTO BREAKING NEWS] A Trezor shipping provider incident exposed personal details of 13,689 customers, prompting Trezor to warn users about increased phishing risk and to develop an Anonymous Delivery option.",
-      "url": "https://www.cryptobreaking.com/trezor-data-breach-exposes-personal/",
-      "date": "2026-08-13T18:41:53Z"
-    },
-    {
-      "title": "Hackers breach govt webmail while running parallel crypto fraud",
-      "description": "[BLEEPINGCOMPUTER] The Jewelbug hacker group has been carrying out espionage operations targeting governments and militaries while also engaging in cryptocurrency fraud. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-breach-govt-webmail-while-running-parallel-crypto-fraud/",
-      "date": "2026-08-13T18:15:19Z"
-    },
-    {
-      "title": "Microsoft patches LegacyHive Windows zero-day vulnerability",
-      "description": "[BLEEPINGCOMPUTER] Microsoft has released security patches to address a Windows zero-day vulnerability known as \"LegacyHive,\" disclosed after the July 2026 Patch Tuesday. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-legacyhive-windows-zero-day-vulnerability/",
-      "date": "2026-08-13T17:46:20Z"
-    },
-    {
-      "title": "Data Breach At Trezor Leaks Info On Nearly 14,000 Bitcoin Wallet Users",
-      "description": "[BITCOIN MAGAZINE] The Trezor data breach exposes names and emails from 13,689 customers who bought the popular Bitcoin wallet in recent months.",
-      "url": "https://bitcoinmagazine.com/news/trezor-data-breach-leaks-customer-info",
-      "date": "2026-08-13T16:52:05Z"
-    },
-    {
-      "title": "Microsoft's nemesis returns: Nightmare Eclipse is back with a new zero day which could be bad news for Windows users",
-      "description": "[TECHRADAR] It's the tenth zero-day the disgruntled researcher has disclosed",
-      "url": "https://www.techradar.com/pro/security/microsofts-nemesis-returns-nightmare-eclipse-is-back-with-a-new-zero-day-which-could-be-bad-news-for-windows-users",
-      "date": "2026-08-13T16:35:00Z"
-    },
-    {
-      "title": "thINK Forum and Canon Celebrate Record-Breaking thINK Ahead 2026 Conference",
-      "description": "[THE MANILA TIMES] The largest gathering in the event's history, this year featured the U.S. debut of the varioPRESS iV7 and expanded educational content covering AI, cybersecurity, and business transformation",
-      "url": "https://www.manilatimes.net/2026/08/14/tmt-newswire/globenewswire/think-forum-and-canon-celebrate-record-breaking-think-ahead-2026-conference/2405179",
-      "date": "2026-08-13T16:27:06Z"
-    },
-    {
-      "title": "Microsoft races to fix 2 zero-day flaws in Windows 11",
-      "description": "[GB NEWS] Microsoft in race against time with scammers to fix 2 critical flaws in Windows \u2014 how to protect your PC now . Your Windows 11 PC could be at risk of malware",
-      "url": "https://www.gbnews.com/tech/microsoft-windows-pc-security-flaws",
-      "date": "2026-08-13T16:21:11Z"
-    },
-    {
-      "title": "Chinese AI Beats Restricted OpenAI And Anthropic Cybersecurity Models, Bitcoin Industry Warns",
-      "description": "[BITCOIN MAGAZINE] Bitcoin company leaders and open-source developers report Chinese AI models delivering superior results on defensive cybersecurity work that restricted American frontier systems refuse, forcing reliance on them to secure critical infrastructure.",
-      "url": "https://bitcoinmagazine.com/business/chinese-ai-beats-restricted-openai-and-anthropic-cybersecurity-models-bitcoin-industry-warns",
-      "date": "2026-08-13T16:18:45Z"
-    },
-    {
-      "title": "Trezor says 13,689 customers hit by data breach at shipping partner",
-      "description": "[PROTOS] The breach at Trezor partner ShipMonk impacted users who ordered a Trezor product between May 10 and August 8 this year.",
-      "url": "https://protos.com/trezor-says-13689-customers-hit-by-data-breach-at-shipping-partner/",
-      "date": "2026-08-13T16:12:56Z"
-    },
-    {
-      "title": "Cl0p Targets Philips and Shell: Major Data Breach Uncovered",
-      "description": "[DEVDISCOURSE] Cl0p, a notorious hacking group, announced that it targeted major companies Philips and Shell, claiming to have stolen sensitive data. Philips identified an attempt but confirmed no customer impact. Shell is investigating a potential incident. Cl0p...",
-      "url": "https://www.devdiscourse.com/article/technology/3963521-cl0p-targets-philips-and-shell-major-data-breach-uncovered",
-      "date": "2026-08-13T16:04:37Z"
-    },
-    {
-      "title": "Separating AI\u2019s Technological Problems from Its Capitalism Problems",
-      "description": "[SCHNEIER] This essay was written with Nathan E. Sanders, and originally appeared in Tech Policy Press. AI represents the first time we humans can do cognitive work outside of our bodies at scale. The only comparable moment is the early years of the industrial...",
-      "url": "https://www.schneier.com/blog/archives/2026/08/separating-ais-technological-problems-from-its-capitalism-problems.html",
-      "date": "2026-08-13T11:07:19Z"
-    },
-    {
-      "title": "Attackers Exploit SharePoint Authentication Bypass After Public PoC Release",
-      "description": "[FEEDS] Threat actors have begun to exploit a newly disclosed Microsoft SharePoint vulnerability following the release of a proof-of-concept (PoC) code. The vulnerability in question is CVE-2026-55040 (CVSS score: 9.1), which refers to a critical security...",
-      "url": "https://thehackernews.com/2026/08/attackers-exploit-sharepoint.html",
-      "date": "2026-08-13T06:09:48Z"
-    },
-    {
-      "title": "ISC Stormcast For Thursday, August 13th, 2026 https://isc.sans.edu/podcastdetail/10050, (Thu, Aug 13th)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33244",
-      "date": "2026-08-13T02:00:03Z"
-    },
-    {
-      "title": "Using Gemma4 with Ollama - Testing File Hash Analysis and Recommendations with AI, (Wed, Aug 12th)",
-      "description": "[ISC] In the past few weeks, I have been using Gemma4 as a Large Language Model (LLM) to see how useful it can be to analyze some of the malware hashes uploaded to the DShield sensor over the past 30 days and figure out how its recommendation can be...",
-      "url": "https://isc.sans.edu/diary/rss/33242",
-      "date": "2026-08-13T01:26:53Z"
-    },
-    {
-      "title": "Lazarus Exploits Windows Zero-Day to Gain SYSTEM Access and Deploy Backdoor",
-      "description": "[FEEDS] The North Korean threat actor known as Lazarus Group has been attributed to the zero-day exploitation of a newly patched security flaw impacting Microsoft Windows to deliver a never-before-seen backdoor targeting defense and aerospace companies...",
-      "url": "https://thehackernews.com/2026/08/lazarus-exploits-windows-zero-day-to.html",
-      "date": "2026-08-12T17:39:27Z"
-    },
-    {
-      "title": "Linux Kernel Process Accounting, (Wed, Aug 12th)",
-      "description": "[ISC] A couple of days ago, Xavier posted about Atuin to gain more insight into the command history. Atuin does a great job of better organizing what is usually handled by...",
-      "url": "https://isc.sans.edu/diary/rss/33240",
-      "date": "2026-08-12T14:21:10Z"
-    },
-    {
-      "title": "737 Chrome VPN Extensions Caught Routing Traffic Through Proxies. Check If You Have One",
-      "description": "[FEEDS] A massive set of 737 free VPN and proxy extensions have been found to mainly target Russian-speaking users seeking access to blocked services with an aim to intercept browser traffic and route them through a proxy infrastructure. The extensions,...",
-      "url": "https://thehackernews.com/2026/08/737-chrome-vpn-extensions-caught.html",
-      "date": "2026-08-12T14:09:50Z"
-    },
-    {
-      "title": "OpenAI, Anthropic, Google API Flaw Let Weaker AI Models Decode Stronger Models' Reasoning",
-      "description": "[FEEDS] A newly disclosed flaw in the way OpenAI, Anthropic, and Google carried hidden AI reasoning between API calls let researchers recover internal reasoning and secrets from session logs, including API keys and passwords. The weakness affected encrypted...",
-      "url": "https://thehackernews.com/2026/08/openai-anthropic-google-api-flaw-let.html",
-      "date": "2026-08-12T11:47:38Z"
-    },
-    {
-      "title": "Enterprise Defenses Recovered at the Edge and Collapsed Inside",
-      "description": "[FEEDS] Enterprise defenses are tuned to catch the attacks that make noise. This year's data shows attackers winning by making none. According to Picus Labs' new Blue Report 2026, which measured more than 338 million real attack simulations across actual...",
-      "url": "https://thehackernews.com/2026/08/enterprise-defenses-recovered-at-edge.html",
-      "date": "2026-08-12T11:41:34Z"
-    },
-    {
-      "title": "Adobe Patches Three CVSS 10.0 ColdFusion and Campaign Classic Flaws",
-      "description": "[FEEDS] Adobe has shipped updates to address multiple critical security vulnerabilities impacting ColdFusion, Commerce, and Campaign Classic that, if successfully exploited, could result in arbitrary code execution and privilege escalation. The most severe...",
-      "url": "https://thehackernews.com/2026/08/adobe-patches-three-cvss-100-coldfusion.html",
-      "date": "2026-08-12T11:13:03Z"
-    },
-    {
-      "title": "Prompt Injections for Defense",
-      "description": "[SCHNEIER] This seems to work: Researchers from Tracebit on Monday said they found that placing prompt injections alongside passwords, cryptographic keys, and other secrets stored on Amazon Web Services was often all that was needed to shut down attacks from...",
-      "url": "https://www.schneier.com/blog/archives/2026/08/prompt-injections-for-defense.html",
-      "date": "2026-08-12T09:56:37Z"
-    },
-    {
-      "title": "ISC Stormcast For Wednesday, August 12th, 2026 https://isc.sans.edu/podcastdetail/10048, (Wed, Aug 12th)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33238",
-      "date": "2026-08-12T02:00:03Z"
-    },
-    {
-      "title": "Microsoft Patch Tuesday August 2026, (Tue, Aug 11th)",
-      "description": "[ISC] This month we got patches for 418 vulnerabilities. Of these, 62 are critical, 1 is being exploited in the wild, and 2 were publicly disclosed as zero-days. Notable fixes include Windows privilege escalation, container tampering, and critical QUIC...",
-      "url": "https://isc.sans.edu/diary/rss/33236",
-      "date": "2026-08-11T17:54:49Z"
-    },
-    {
-      "title": "AI Genie in the Wild",
-      "description": "[SCHNEIER] When I give talks about AI genies, I use this sort of example as a hypothetical. It&#8217;s happened. The story is from Australia. Someone named Andrew tasked OpenClaw to book gym classes for him. And&#8230;. Minutes later, his AI agent reported it...",
-      "url": "https://www.schneier.com/blog/archives/2026/08/ai-genie-in-the-wild.html",
-      "date": "2026-08-11T15:55:11Z"
-    },
-    {
-      "title": "AI for Military Support",
-      "description": "[SCHNEIER] Interesting empirical research: &#8220;Black Box Warfare: Human Judgment and Military Decision-Making in the Age of AI.&#8221; Abstract: How is AI transforming decision-making in modern conflict? This study provides a unique empirical window into...",
-      "url": "https://www.schneier.com/blog/archives/2026/08/ai-for-military-support.html",
-      "date": "2026-08-11T11:18:07Z"
-    },
-    {
-      "title": "Python Now Has a Post-Quantum Encryption Library",
-      "description": "[SCHNEIER] This is good: Post-quantum cryptography is now one pip-install away for the entire Python ecosystem. With funding from the Sovereign Tech Agency, we implemented support for ML-KEM, the NIST-standard key-establishment primitive, and ML-DSA, the...",
-      "url": "https://www.schneier.com/blog/archives/2026/08/python-now-has-a-post-quantum-encryption-library.html",
-      "date": "2026-08-10T11:02:26Z"
-    },
-    {
-      "title": "Friday Squid Blogging: Arctic Bobtail Squid Video",
-      "description": "[SCHNEIER] Nice video of the Arctic bobtail squid. As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered. Blog moderation policy.",
-      "url": "https://www.schneier.com/blog/archives/2026/08/friday-squid-blogging-arctic-bobtail-squid-video.html",
-      "date": "2026-08-07T21:07:04Z"
-    }
-  ]
+    "title": "Sentinel Protocol",
+    "tagline": "Perimeter Intelligence Sync",
+    "updated": "2026-08-14 11:41 UTC",
+    "news": [
+        {
+            "source": {
+                "id": null,
+                "name": "Mother Jones"
+            },
+            "author": "Michael Mechanic",
+            "title": "Elon Musk\u2019s DOGE Promised Savings, But It\u2019s Cost Us a Fortune",
+            "description": "The US government doesn\u2019t have many watchdogs left. Donald Trump fired a whole bunch of them shortly after returning to power, and many others have been pushed out since. We do still have a Government Accountability Office (GAO), for what it\u2019s worth, and one \u2026",
+            "url": "https://www.motherjones.com/politics/2026/08/gao-report-doge-elon-musk-overstated-savings-wall-receipts-waste-fraud-cost/",
+            "urlToImage": "https://www.motherjones.com/wp-content/uploads/2026/08/20260813_DOGE_c_2000px.png?w=1200&h=630&crop=1",
+            "publishedAt": "2026-08-13T11:30:00Z",
+            "content": "Mother Jones; Francis Chung/Pool/CNP/ZUMA\r\nGet your news from a source thats not owned and controlled by oligarchs. Sign up for the free Mother Jones Daily.\r\nThe US government doesn\u2019t have many watch\u2026 [+10975 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Openchannels.fm"
+            },
+            "author": "Bob Dunn",
+            "title": "Open Channels FM: OpenWALDO\u2019s AI Transparency and AT&T\u2019s Cost-Saving Smart Router in Focus",
+            "description": "Open Channels News discusses OpenWALDO's launch, promoting true AI openness through transparent data sourcing, and AT&T's shift to open models for cost savings and AI sovereignty.",
+            "url": "https://openchannels.fm/openwaldos-ai-transparency-and-atts-cost-saving-smart-router-in-focus/",
+            "urlToImage": "https://jetpack.com/redirect/?source=sigenerate&query=t%3DeyJpbWciOiJodHRwczpcL1wvb3BlbmNoYW5uZWxzLmZtXC93cC1jb250ZW50XC91cGxvYWRzXC8yMDI2XC8wN1wvT3Blbi1DaGFubmVscy1OZXdzLVBvZGNhc3QtQ292ZXItMTAyNHgxMDI0LnBuZyIsInR4dCI6Ik9wZW5XQUxET1x1MjAxOXMgQUkgVHJhbnNwYXJlbmN5IGFuZCBBVCZhbXA7VFx1MjAxOXMgQ29zdC1TYXZpbmcgU21hcnQgUm91dGVyIGluIEZvY3VzIiwidGVtcGxhdGUiOiJkb2lzIiwiZm9udCI6Im5vdG8tc2Fucy1qcCIsImJsb2dfaWQiOjIyMjk1ODg1NX0.geCSySJzC7sYkmFPMp5Jfq0lTb32y3MwLjSaBUEuUYIMQ",
+            "publishedAt": "2026-08-13T11:17:04Z",
+            "content": "Robert Jacobi:\r\nHello and welcome to OCN, the Open Channels News broadcast. I\u2019m Robert Jacobi, your host. We lead today with open source and artificial intelligence, and a pretty basic question. When\u2026 [+9886 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Geeky Gadgets"
+            },
+            "author": "Julian Horsey",
+            "title": "OpenAI Astra Solves 10 Unresolved Quantum Complexity Problems",
+            "description": "OpenAI\u2019s Astra (GPT-6) represents a significant step forward in artificial intelligence, with its ability to tackle complex problems across specialized domains. According to AI Grid, Astra has already addressed ten previously unresolved challenges, including \u2026",
+            "url": "https://www.geeky-gadgets.com/openai-astra-gpt-6-expectations/",
+            "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2026/08/openai-astra-gpt6.jpg",
+            "publishedAt": "2026-08-13T11:15:00Z",
+            "content": "OpenAI\u2019s Astra (GPT-6) represents a significant step forward in artificial intelligence, with its ability to tackle complex problems across specialized domains. According to AI Grid, Astra has alread\u2026 [+6779 chars]"
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Beatrice Nolan",
+            "title": "Google\u2019s DeepMind is having an identity crisis",
+            "description": "Hassabis has ceded day-to-day control to DeepMind\u2019s CTO Koray Kavukcuoglu. Here\u2019s what happened.",
+            "url": "https://fortune.com/2026/08/13/googles-deepmind-is-having-an-identity-crisis/",
+            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/04/GettyImages-2261852690-e1776250944805.jpg?resize=1200,600",
+            "publishedAt": "2026-08-13T11:13:25Z",
+            "content": "Bea Nolan here, filling in for Allie. Google DeepMind has been having a difficult year.\u00a0Last week, longtime Google DeepMind CEO and company cofounder Demis Hassabis announced he was stepping back fro\u2026 [+5550 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Slashdot.org"
+            },
+            "author": "feedfeeder",
+            "title": "After Microsoft threatened legal action, a security researcher publishes a new Windows zero-day bug - TechCrunch",
+            "description": "After Microsoft threatened legal action, a security researcher publishes a new Windows zero-day bugTechCrunch Microsoft-vendetta hacker has a new zero day that gives system privileges on fully patched WindowsThe Register Vengeful researcher unfixes Microsoft\u2019\u2026",
+            "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184953192",
+            "urlToImage": null,
+            "publishedAt": "2026-08-13T11:12:17Z",
+            "content": "Top Ten Things Overheard At The ANSI C Draft Committee Meetings:\r\n (3) Ha, ha, I can't believe they're actually going to adopt this\r\n sucker."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Asianetnews.com"
+            },
+            "author": "Asianet News Central",
+            "title": "TCS, Vodafone Business partner to boost AI, cloud adoption for UK firms",
+            "description": "Tata Consultancy Services and Vodafone Business have announced a strategic partnership to help UK enterprises accelerate their adoption of artificial intelligence, cloud, and other digital technologies, focusing on areas like automation and cybersecurity.",
+            "url": "https://newsable.asianetnews.com/business/tcs-vodafone-business-partner-to-boost-ai-cloud-adoption-for-uk-firms-articleshow-nfecioo",
+            "urlToImage": "https://static.asianetnews.com/images/w-1280,h-720,format-jpg,imgid-external,imgname-image-6e7ff8f6-5e94-4b16-959b-465eafd0da53.jpg",
+            "publishedAt": "2026-08-13T11:00:51Z",
+            "content": "Strategic Partnership for UK Digital Transformation\r\nTata Consultancy Services (TCS) on Thursday announced a strategic partnership with Vodafone Business to help enterprises in the United Kingdom acc\u2026 [+2655 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PRNewswire"
+            },
+            "author": null,
+            "title": "Keeper Security Issues Cybersecurity Guidance for Education IT Teams As Students Return to Campus",
+            "description": "AI-powered phishing attacks, deepfake impersonations and a surge of unmanaged machine identities are turning the back-to-school rush into a security blind spot CHICAGO, Aug. 13, 2026 /PRNewswire/ -- Every fall, school districts and universities across the cou\u2026",
+            "url": "https://www.prnewswire.com/news-releases/keeper-security-issues-cybersecurity-guidance-for-education-it-teams-as-students-return-to-campus-302850361.html",
+            "urlToImage": "https://mmx.prnewswire.com/media/MS1864138/Keeper-logo-full-color-002.jpg?id=OA2873184&p=facebook",
+            "publishedAt": "2026-08-13T11:00:00Z",
+            "content": "AI-powered phishing attacks, deepfake impersonations and a surge of unmanaged machine identities are turning the back-to-school rush into a security blind spot\r\nCHICAGO, Aug. 13, 2026 /PRNewswire/ --\u2026 [+8331 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Ssir.org"
+            },
+            "author": "Barbara Wheeler",
+            "title": "HBCUs Want to Shift From Survival to Sovereignty (Blog)",
+            "description": "How well-targeted investments can help unlock the full potential of Black higher education.",
+            "url": "https://ssir.org/articles/entry/hbcus-philanthropy-impact-investing",
+            "urlToImage": "https://ssir.org/images/blog/hbcus-funding-737x737.jpg",
+            "publishedAt": "2026-08-13T11:00:00Z",
+            "content": "For much of their history, historically Black colleges and universities (HBCUs) have been profoundly underfunded. Charged with educating generations of Black leaders while navigating segregation, dis\u2026 [+12251 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PRNewswire"
+            },
+            "author": null,
+            "title": "Nomad Foods Reports Second Quarter 2026 Financial Results",
+            "description": "Pricing and productivity drove a positive Adjusted Gross Margin inflection Cash generation remains strong with Adjusted Free Cash Flow conversion higher year-on-year WOKING, England, Aug. 13, 2026 /PRNewswire/ -- Nomad Foods Limited (NYSE: NOMD), today report\u2026",
+            "url": "https://www.prnewswire.com/news-releases/nomad-foods-reports-second-quarter-2026-financial-results-302850289.html",
+            "urlToImage": "https://mmx.prnewswire.com/media/MS1089176/Nomad-Foods-Limited-Logo.jpg?id=OA2867725&p=facebook",
+            "publishedAt": "2026-08-13T10:45:00Z",
+            "content": "Pricing and productivity drove a positive Adjusted Gross Margin inflection\r\nCash generation remains strong with Adjusted Free Cash Flow conversion higher year-on-year\r\nWOKING, England, Aug. 13, 2026 \u2026 [+48230 chars]"
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Lily Mae Lazarus",
+            "title": "Nvidia wants your pension fund in the AI trade",
+            "description": "In today's edition: Nvidia's creative capital; Apple's political strategy, Google DeepMind drama, vibecoding, Uber, Sam Altman, and wearables.",
+            "url": "https://fortune.com/2026/08/13/nvidia-wants-your-pension-fund-in-the-ai-trade/",
+            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/08/GettyImages-2224782286_94939e-e1786551258824.jpg?resize=1200,600",
+            "publishedAt": "2026-08-13T10:42:57Z",
+            "content": "Good morning. Reporter Lily Mae Lazarus pinch hitting here today for Andrew. Apparently, the PTA has a better portfolio than you.\r\nSilicon Valley private schools are trading silent auctions for cap t\u2026 [+4300 chars]"
+        }
+    ]
 }
