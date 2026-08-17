@@ -1,6 +1,18 @@
 {
-  "updated": "2026-08-17 20:14:52 UTC",
+  "updated": "2026-08-17 22:13:40 UTC",
   "news": [
+    {
+      "title": "Critical GitLab GraphQL Flaw Could Let Unauthenticated Attackers Delete Public Projects",
+      "description": "[FEEDS] GitLab has released security updates to address a critical vulnerability impacting its Community Edition (CE) and Enterprise Edition (EE) software that, under certain conditions, could allow an unauthenticated attacker to remotely modify or delete...",
+      "url": "https://thehackernews.com/2026/08/critical-gitlab-graphql-flaw-could-let.html",
+      "date": "2026-08-17T21:03:04Z"
+    },
+    {
+      "title": "Apple Patches iOS and macOS, (Mon, Aug 17th)",
+      "description": "[ISC] Apple today released updates for iOS/iPadOS (26 and 18) and macOS 26. This update fixes 108 vulnerabilities and comes about two weeks after the much smaller macOS update that addressed the single screen-sharing vulnerability. This vulnerability did...",
+      "url": "https://isc.sans.edu/diary/rss/33254",
+      "date": "2026-08-17T20:26:39Z"
+    },
     {
       "title": "Hacker claims 3.6 million Azure account records stolen from major companies",
       "description": "[BLEEPINGCOMPUTER] A threat actor is selling employee databases allegedly stolen from the Microsoft Azure infrastructure of multiple Fortune 500 companies after gaining access using compromised credentials. [...]",
@@ -80,10 +92,16 @@
       "date": "2026-08-17T11:18:03Z"
     },
     {
-      "title": "Unisoc VoLTE Video Call Exploit Chain Can Give Attackers Full Android Kernel Access",
-      "description": "[FEEDS] Security researchers at SSD Secure Disclosure have published a two-stage exploit chain that achieves full Android kernel access on devices running Unisoc modem firmware through a VoLTE video call, with no fix from the chipset maker....",
-      "url": "https://thehackernews.com/2026/08/unisoc-volte-video-call-exploit-chain.html",
-      "date": "2026-08-17T10:52:34Z"
+      "title": "SafePal Bitcoin Wallet Data Breach Stokes Fears of Physical Attacks",
+      "description": "[DECRYPT] A flaw in an order-tracking plug-in of bitcoin wallet provider SafePal exposed names, addresses and phone numbers of nearly 40,000 customers.",
+      "url": "https://decrypt.co/375743/safepal-bitcoin-wallet-data-breach",
+      "date": "2026-08-17T09:31:04Z"
+    },
+    {
+      "title": "SEBI Launches Incident Reporting, Cyber Suraksha Portals To Strengthen Securities Market Cybersecurity",
+      "description": "[FREE PRESS JOURNAL] SEBI has launched two cybersecurity platforms to improve incident reporting and information sharing across India\u2019s securities market. The Incident Reporting Portal will streamline cyber incident disclosures, while the Cyber Suraksha Portal will...",
+      "url": "https://www.freepressjournal.in/business/sebi-launches-incident-reporting-cyber-suraksha-portals-to-strengthen-securities-market-cybersecurity",
+      "date": "2026-08-17T08:52:39Z"
     },
     {
       "title": "Sebi launches portals to strengthen cybersecurity incident reporting",
@@ -134,18 +152,6 @@
       "date": "2026-08-17T06:28:41Z"
     },
     {
-      "title": "SEBI chief calls for collective cyber resilience as threats grow more sophisticated",
-      "description": "[ANI (ASIAN NEWS INTERNATIONAL)] India's financial sector needs to shift from periodic cybersecurity compliance to continuous, risk-driven cyber resilience as threats become increasingly interconnected and sophisticated, SEBI Chairman Tuhin Kanta Pandey said on Monday.",
-      "url": "https://www.aninews.in/news/business/sebi-chief-calls-for-collective-cyber-resilience-as-threats-grow-more-sophisticated20260817115623/",
-      "date": "2026-08-17T06:26:23Z"
-    },
-    {
-      "title": "Download the Zoom security patch right now. Hackers could commandeer your camera",
-      "description": "[THE STAR] Cybersecurity researchers identified a vulnerability that could allow bad actors to infiltrate Zoom and steal data.",
-      "url": "https://www.thestar.com.my/tech/tech-news/2026/08/17/download-the-zoom-security-patch-right-now-hackers-could-commandeer-your-camera",
-      "date": "2026-08-17T05:30:00Z"
-    },
-    {
       "title": "ISC Stormcast For Monday, August 17th, 2026 https://isc.sans.edu/podcastdetail/10054, (Mon, Aug 17th)",
       "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
       "url": "https://isc.sans.edu/diary/rss/33250",
@@ -192,12 +198,6 @@
       "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
       "url": "https://isc.sans.edu/diary/rss/33244",
       "date": "2026-08-13T02:00:03Z"
-    },
-    {
-      "title": "Using Gemma4 with Ollama - Testing File Hash Analysis and Recommendations with AI, (Wed, Aug 12th)",
-      "description": "[ISC] In the past few weeks, I have been using Gemma4 as a Large Language Model (LLM) to see how useful it can be to analyze some of the malware hashes uploaded to the DShield sensor over the past 30 days and figure out how its recommendation can be...",
-      "url": "https://isc.sans.edu/diary/rss/33242",
-      "date": "2026-08-13T01:26:53Z"
     },
     {
       "title": "Prompt Injections for Defense",
