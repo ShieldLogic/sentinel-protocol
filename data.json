@@ -1,6 +1,36 @@
 {
-  "updated": "2026-08-17 18:23:21 UTC",
+  "updated": "2026-08-17 20:14:52 UTC",
   "news": [
+    {
+      "title": "Hacker claims 3.6 million Azure account records stolen from major companies",
+      "description": "[BLEEPINGCOMPUTER] A threat actor is selling employee databases allegedly stolen from the Microsoft Azure infrastructure of multiple Fortune 500 companies after gaining access using compromised credentials. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/hacker-claims-36-million-azure-account-records-stolen-from-major-companies/",
+      "date": "2026-08-17T19:35:01Z"
+    },
+    {
+      "title": "Pok\u00e9mon Center data breach exposes customer info, cancels some orders",
+      "description": "[BLEEPINGCOMPUTER] Pok\u00e9mon Center is notifying customers in the United Kingdom and Germany that it suffered a third-party data breach after hackers stole customer personal and order information from third-party logistics provider CEVA Logistics. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/pokemon-center-data-breach-exposes-customer-info-cancels-some-orders/",
+      "date": "2026-08-17T19:12:39Z"
+    },
+    {
+      "title": "Snowflake GitHub Actions Flaw Lets Crafted Issues Trigger Command Injection",
+      "description": "[FEEDS] Cybersecurity researchers at Wiz&nbsp;have disclosed a new GitHub Actions workflow injection vulnerability in Snowflake's public&nbsp;snowflakedb/snowflake-connector-net repository that it said could be exploited through a crafted GitHub issue to...",
+      "url": "https://thehackernews.com/2026/08/snowflake-github-actions-flaw-lets_0330881554.html",
+      "date": "2026-08-17T18:44:17Z"
+    },
+    {
+      "title": "Forminator WordPress Flaw Can Enable Unauthenticated RCE via Malicious PHP Uploads",
+      "description": "[FEEDS] A critical security flaw has been disclosed in Forminator Forms, a WordPress plugin with more than 600,000 active installations, that could be exploited to achieve arbitrary code execution on susceptible sites. The vulnerability, tracked as...",
+      "url": "https://thehackernews.com/2026/08/forminator-wordpress-flaw-can-enable.html",
+      "date": "2026-08-17T18:22:09Z"
+    },
+    {
+      "title": "Cavern C2 Uses DNS and Google Apps Script to Blend Into Legitimate Traffic",
+      "description": "[FEEDS] Cybersecurity researchers have traced the continued evolution of the Cavern (aka Cav3rn) command-and-control (C2) framework used by Iranian nation-state hackers in attacks targeting entities in Israel. Russian cybersecurity company Kaspersky said...",
+      "url": "https://thehackernews.com/2026/08/cavern-c2-uses-dns-and-google-apps.html",
+      "date": "2026-08-17T17:41:06Z"
+    },
     {
       "title": "Microsoft confirms GitHub is down worldwide",
       "description": "[BLEEPINGCOMPUTER] GitHub is down for some users as a widespread outage is causing errors across the website, API, Actions, Pull Requests, and several other services. [...]",
@@ -56,28 +86,58 @@
       "date": "2026-08-17T10:52:34Z"
     },
     {
-      "title": "French tax authority data breach affects 678,000 individuals",
-      "description": "[BLEEPINGCOMPUTER] The French Ministry of the Economy and Finance has disclosed a data breach after an attacker accessed the General Directorate of Public Finances (DGFiP) systems and stole data belonging to 678,000 individuals. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/french-tax-authority-data-breach-affects-678-000-individuals/",
-      "date": "2026-08-17T10:09:48Z"
-    },
-    {
-      "title": "Evooo1Bot Linux Botnet Exploits Known Flaws to Turn Edge Devices Into SOCKS5 Proxies",
-      "description": "[FEEDS] Cybersecurity researchers have flagged a previously undocumented Linux botnet family dubbed Evooo1Bot that derives its core functionality from the Mirai botnet source code and is equipped to turn internet-facing devices into SOCKS proxies. \"While...",
-      "url": "https://thehackernews.com/2026/08/evooo1bot-linux-botnet-exploits-known.html",
-      "date": "2026-08-17T09:29:55Z"
-    },
-    {
-      "title": "Microsoft working on Defender patch for ShieldBreak zero-day",
-      "description": "[BLEEPINGCOMPUTER] Microsoft is working on a security patch for the \"ShieldBreak\" zero-day vulnerability disclosed last week by security researcher \"Nightmare Eclipse\" and now tracked as CVE-2026-69414. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/microsoft-working-on-defender-patch-for-shieldbreak-zero-day/",
-      "date": "2026-08-17T09:05:33Z"
+      "title": "Sebi launches portals to strengthen cybersecurity incident reporting",
+      "description": "[BUSINESS STANDARD] The Incident Reporting Portal will streamline cybersecurity incident reporting, while the Cyber Suraksha Portal will serve as a central hub for information sharing",
+      "url": "https://www.business-standard.com/markets/news/sebi-launches-cyber-portals-to-strengthen-incident-reporting-information-sharing-126081700515_1.html",
+      "date": "2026-08-17T07:37:50Z"
     },
     {
       "title": "Suspected China-Nexus Actor Exploits VMware vCenter Flaw, Deploys Babuk-Derived Ransomware",
-      "description": "[FEEDS] Cybersecurity researchers have attributed the exploitation of a newly patched security flaw in Broadcom VMware vCenter to a suspected China-nexus advanced persistent threat (APT). The attacks involve the exploitation of CVE-2026-59310 (CVSS score:...",
+      "description": "[THE HACKER NEWS] A suspected China-nexus actor exploits CVE-2026-59310, compromising an estimated 361 IPs in 47 countries and gaining root execution on vCenter.",
       "url": "https://thehackernews.com/2026/08/suspected-china-nexus-actor-exploits.html",
-      "date": "2026-08-17T07:36:19Z"
+      "date": "2026-08-17T07:36:00Z"
+    },
+    {
+      "title": "Inside GSafe: How GCash is building a community behind digital trust",
+      "description": "[RAPPLER] As AI becomes central to cybersecurity, GSafe explores what it takes to keep digital services safe and trusted",
+      "url": "https://www.rappler.com/brandrap/gcash-gsafe-vanguards-of-trust/",
+      "date": "2026-08-17T07:31:35Z"
+    },
+    {
+      "title": "SilverFox hackers use fake Claude apps to target companies in Asia: Kaspersky",
+      "description": "[THE ECONOMIC TIMES] Cybersecurity group SilverFox is exploiting artificial intelligence across Asia Pacific. They distribute fake Claude AI applications for various operating systems. Kaspersky researchers identified SilverFox as a highly active threat group in the...",
+      "url": "https://economictimes.indiatimes.com/ai/ai-insights/silverfox-hackers-use-fake-claude-apps-to-target-companies-in-asia-kaspersky/articleshow/133290005.cms",
+      "date": "2026-08-17T07:28:00Z"
+    },
+    {
+      "title": "ChatGPT Turns 'Shoe Detective' To Find Goa Man's Lost Clogs In A Sea Of Footwear At Ujjain's Mahakal Temple | Video",
+      "description": "[FREE PRESS JOURNAL] A Goa-based cybersecurity professional, Shubhang Borkar, used ChatGPT to find his lost clogs at Ujjain",
+      "url": "https://www.freepressjournal.in/tech/chatgpt-turns-shoe-detective-to-find-goa-mans-lost-clogs-in-a-sea-of-footwear-at-ujjains-mahakal-temple-video",
+      "date": "2026-08-17T07:08:29Z"
+    },
+    {
+      "title": "Safepal Data Breach: Personal Data Of 39,798 Users At Risk",
+      "description": "[CRYPTO BREAKING NEWS] SafePal says a breach exposed personal order details of 39,798 users, while private keys, seed phrases, and crypto assets remain secure.",
+      "url": "https://www.cryptobreaking.com/safepal-data-breach-personal-data/",
+      "date": "2026-08-17T06:51:55Z"
+    },
+    {
+      "title": "CISA mills' daily crude steel output up 5.8% in early August 2026, stocks also up",
+      "description": "[STEELORBIS] The China Iron and Steel Association (CISA) has announced that in early August (August 1-10) this year the average aggregate daily crude steel output ...",
+      "url": "https://www.steelorbis.com/steel-news/latest-news/cisa-mills-daily-crude-steel-output-up-58-in-early-august-2026-stocks-also-up-1471089.htm",
+      "date": "2026-08-17T06:50:07Z"
+    },
+    {
+      "title": "SEBI chief calls for collective cyber resilience as threats grow more sophisticated",
+      "description": "[THE TRIBUNE] India's financial sector needs to shift from periodic cybersecurity compliance to continuous, risk-driven cyber resilience as threats become increasingly interconnected and sophisticated, SEBI Chairman Tuhin Kanta Pandey said on Monday.",
+      "url": "https://www.tribuneindia.com/news/business/sebi-chief-calls-for-collective-cyber-resilience-as-threats-grow-more-sophisticated/",
+      "date": "2026-08-17T06:28:41Z"
+    },
+    {
+      "title": "SEBI chief calls for collective cyber resilience as threats grow more sophisticated",
+      "description": "[ANI (ASIAN NEWS INTERNATIONAL)] India's financial sector needs to shift from periodic cybersecurity compliance to continuous, risk-driven cyber resilience as threats become increasingly interconnected and sophisticated, SEBI Chairman Tuhin Kanta Pandey said on Monday.",
+      "url": "https://www.aninews.in/news/business/sebi-chief-calls-for-collective-cyber-resilience-as-threats-grow-more-sophisticated20260817115623/",
+      "date": "2026-08-17T06:26:23Z"
     },
     {
       "title": "Download the Zoom security patch right now. Hackers could commandeer your camera",
@@ -86,76 +146,16 @@
       "date": "2026-08-17T05:30:00Z"
     },
     {
-      "title": "West Midlands Police officer 'snooped' on people in secret data breach",
-      "description": "[COVENTRY TELEGRAPH] PC Katie Bowie was found to have breached policing standards of professional behaviour, with a misconduct panel finding her actions amounted to gross misconduct after she secretly accessed confidential data on people she knew",
-      "url": "https://www.coventrytelegraph.net/news/coventry-news/west-midlands-police-officer-snooped-34468225",
-      "date": "2026-08-17T04:30:00Z"
-    },
-    {
-      "title": "China's Z.ai says new model nears Anthropic's Mythos 5 in cyber-defence tests",
-      "description": "[THE HINDU] GLM-5.3 differs in that it is a general-purpose coding model that Z.ai says acquired cybersecurity capabilities through expanded post-training and reinforcement \u200clearning, rather than a purpose-built security system",
-      "url": "https://www.thehindu.com/sci-tech/technology/chinas-zai-says-new-model-nears-anthropics-mythos-5-in-cyber-defence-tests/article71354773.ece",
-      "date": "2026-08-17T04:02:31Z"
-    },
-    {
-      "title": "Monday Motivation: Quick Heal's Kailash Katkar on why you should never take shortcuts with customer commitment",
-      "description": "[LIVEMINT] Quick Heal's Chairman & Managing Director Kailash Katkar reflects on his journey from fixing calculators to building a global cybersecurity company",
-      "url": "https://www.livemint.com/mint-lounge/business-of-life/monday-motivation-quick-heal-kailash-katkar-cybersecurity-technology-customer-centricity-mentorship-productivity-11784880360020.html",
-      "date": "2026-08-17T03:31:07Z"
-    },
-    {
       "title": "ISC Stormcast For Monday, August 17th, 2026 https://isc.sans.edu/podcastdetail/10054, (Mon, Aug 17th)",
       "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
       "url": "https://isc.sans.edu/diary/rss/33250",
       "date": "2026-08-17T02:00:02Z"
     },
     {
-      "title": "SafePal data breach impacts 39,798 customers, stolen info for sale",
-      "description": "[EUROPE SAYS] Cryptocurrency hardware wallet provider SafePal is warning of a data breach affecting about 39,798 customers after a flaw was exploited to steal customer",
-      "url": "https://www.europesays.com/3198362/",
-      "date": "2026-08-17T01:23:33Z"
-    },
-    {
-      "title": "How Government Agencies Can Respond to Faster AI-driven Cyber Attacks",
-      "description": "[ITWIRE] In April, Anthropic revealed that its Mythos preview model identified thousands of zero-day vulnerabilities in major operating systems and web browsers, including a 27-year-old...",
-      "url": "https://itwire.com/guest-articles/guest-opinion/how-government-agencies-can-respond-to-faster-ai-driven-cyber-attacks",
-      "date": "2026-08-17T01:10:25Z"
-    },
-    {
       "title": "Wireshark 4.6.8 Released, (Sun, Aug 16th)",
       "description": "[ISC] Wireshark release 4.6.8 fixes 28 vulnerabilities and 25 bugs.&#xd;",
       "url": "https://isc.sans.edu/diary/rss/33248",
       "date": "2026-08-16T21:31:48Z"
-    },
-    {
-      "title": "Crypto wallet provider SafePal discloses data breach affecting nearly 40,000 users' order information",
-      "description": "[THE ECONOMIC TIMES] An authorization flaw in the order tracking \u200csystem allowed access \u2060to \u2060another customer's order information between March 2, 2025, and April 11, \u200b2026, SafePal said in a statement.",
-      "url": "https://economictimes.indiatimes.com/tech/technology/crypto-wallet-provider-safepal-discloses-data-breach-affecting-nearly-40000-users-order-information/articleshow/133278729.cms",
-      "date": "2026-08-16T16:38:03Z"
-    },
-    {
-      "title": "Thriving amid challenging times",
-      "description": "[THE MANILA TIMES] IF BUSINESSES were judged on adaptability and resilience, Philippine banks would take the cake. As one of the oldest industries in the country, these financial institutions have had their share of challenges. The list is long, from the 2008 Global...",
-      "url": "https://www.manilatimes.net/2026/08/17/supplements/thriving-amid-challenging-times/2406431",
-      "date": "2026-08-16T16:03:00Z"
-    },
-    {
-      "title": "Crypto wallet provider SafePal discloses data breach affecting nearly 40,000 users order information",
-      "description": "[LIVEMINT] SAFEPAL-DATA BREACH/:Crypto wallet provider SafePal discloses data breach affecting nearly 40,000 users' order information",
-      "url": "https://www.livemint.com/technology/crypto-wallet-provider-safepal-discloses-data-breach-affecting-nearly-40-000-users-order-information-11786895492175.html",
-      "date": "2026-08-16T15:51:31Z"
-    },
-    {
-      "title": "SafePal data breach exposes details of nearly 40,000 users",
-      "description": "[CRYPTO NEWS] SafePal says an order-tracking flaw exposed names, contact details and purchase data for 39,798 customers, raising targeted phishing risks.",
-      "url": "https://crypto.news/safepal-data-breach-exposes-details-of-40000-users/",
-      "date": "2026-08-16T15:24:14Z"
-    },
-    {
-      "title": "SAP Commerce Cloud CVE-2026-58231 Targeted in Exploitation Attempts Days After Patch",
-      "description": "[FEEDS] A maximum-severity security vulnerability impacting SAP Commerce Cloud is witnessing active exploitation efforts. The vulnerability, tracked as CVE-2026-58231, is rated 10.0 on the CVSS scoring system. It relates to an instance of insufficient...",
-      "url": "https://thehackernews.com/2026/08/sap-commerce-cloud-cve-2026-58231.html",
-      "date": "2026-08-15T08:38:46Z"
     },
     {
       "title": "Friday Squid Blogging: Searching for the Colossal Squid",
