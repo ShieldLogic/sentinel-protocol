@@ -1,6 +1,18 @@
 {
-  "updated": "2026-08-17 14:17:42 UTC",
+  "updated": "2026-08-17 16:15:18 UTC",
   "news": [
+    {
+      "title": "Microsoft confirms GitHub is down worldwide",
+      "description": "[BLEEPINGCOMPUTER] GitHub is down for some users as a widespread outage is causing errors across the website, API, Actions, Pull Requests, and several other services. [...]",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-github-is-down-worldwide/",
+      "date": "2026-08-17T14:47:08Z"
+    },
+    {
+      "title": "Apple Screen Sharing Security, (Mon, Aug 17th)",
+      "description": "[ISC] About 20 years ago, with macOS 10.5 (Leopard), Apple introduced screen sharing. Apple did not invent a new protocol for screen sharing. Instead, it used the established VNC protocol. VNC is a pretty simple, unencrypted protocol using TCP port 5900....",
+      "url": "https://isc.sans.edu/diary/rss/33252",
+      "date": "2026-08-17T14:33:58Z"
+    },
     {
       "title": "Certighost and the Privilege Hiding in Your Certificate Authority",
       "description": "[BLEEPINGCOMPUTER] CVE-2026-54121 lets a standard domain user turn your Enterprise CA into a Domain Controller. The patch is the easy part. The lesson is standing privilege, implicit trust, and treating PKI as the Tier 0 identity infrastructure it has always been....",
@@ -68,6 +80,18 @@
       "date": "2026-08-17T07:36:19Z"
     },
     {
+      "title": "China's Z.ai says new model nears Anthropic's Mythos 5 in cyber-defence tests",
+      "description": "[THE HINDU] GLM-5.3 differs in that it is a general-purpose coding model that Z.ai says acquired cybersecurity capabilities through expanded post-training and reinforcement \u200clearning, rather than a purpose-built security system",
+      "url": "https://www.thehindu.com/sci-tech/technology/chinas-zai-says-new-model-nears-anthropics-mythos-5-in-cyber-defence-tests/article71354773.ece",
+      "date": "2026-08-17T04:02:31Z"
+    },
+    {
+      "title": "Monday Motivation: Quick Heal's Kailash Katkar on why you should never take shortcuts with customer commitment",
+      "description": "[LIVEMINT] Quick Heal's Chairman & Managing Director Kailash Katkar reflects on his journey from fixing calculators to building a global cybersecurity company",
+      "url": "https://www.livemint.com/mint-lounge/business-of-life/monday-motivation-quick-heal-kailash-katkar-cybersecurity-technology-customer-centricity-mentorship-productivity-11784880360020.html",
+      "date": "2026-08-17T03:31:07Z"
+    },
+    {
       "title": "ISC Stormcast For Monday, August 17th, 2026 https://isc.sans.edu/podcastdetail/10054, (Mon, Aug 17th)",
       "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
       "url": "https://isc.sans.edu/diary/rss/33250",
@@ -84,12 +108,6 @@
       "description": "[ITWIRE] In April, Anthropic revealed that its Mythos preview model identified thousands of zero-day vulnerabilities in major operating systems and web browsers, including a 27-year-old...",
       "url": "https://itwire.com/guest-articles/guest-opinion/how-government-agencies-can-respond-to-faster-ai-driven-cyber-attacks",
       "date": "2026-08-17T01:10:25Z"
-    },
-    {
-      "title": "SafePal data breach impacts 39,798 customers, stolen info for sale",
-      "description": "[BLEEPINGCOMPUTER] Cryptocurrency hardware wallet provider SafePal is warning of a data breach affecting about 39,798 customers after a flaw was exploited to steal customer order information, and a threat actor is now claiming to be selling the stolen data. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/safepal-data-breach-impacts-39-798-customers-stolen-info-for-sale/",
-      "date": "2026-08-16T23:47:06Z"
     },
     {
       "title": "Wireshark 4.6.8 Released, (Sun, Aug 16th)",
@@ -132,18 +150,6 @@
       "description": "[THE TRIBUNE] The National Institute of Electronics and Information Technology (NIELIT), under the Ministry of Electronics and Information Technology (MeitY), has launched CYBER KUSHTI 2026, a national cybersecurity and Artificial Intelligence (AI) hackathon...",
       "url": "https://www.tribuneindia.com/news/business/nielit-launches-cyber-kushti-2026-cybersecurity-ai-hackathon/",
       "date": "2026-08-16T14:13:46Z"
-    },
-    {
-      "title": "NIELIT launches CYBER KUSHTI 2026 cybersecurity, AI hackathon",
-      "description": "[ANI (ASIAN NEWS INTERNATIONAL)] The National Institute of Electronics and Information Technology (NIELIT), under the Ministry of Electronics and Information Technology (MeitY), has launched CYBER KUSHTI 2026, a national cybersecurity and Artificial Intelligence (AI) hackathon...",
-      "url": "https://www.aninews.in/news/business/nielit-launches-cyber-kushti-2026-cybersecurity-ai-hackathon20260816193840/",
-      "date": "2026-08-16T14:08:40Z"
-    },
-    {
-      "title": "Israel crypto broker Bits of Gold probes customer data breach",
-      "description": "[CRYPTO NEWS] Bits of Gold is investigating a third-party breach that may have exposed names, IDs, bank details and wallet addresses while customer funds remain safe.",
-      "url": "https://crypto.news/bits-of-gold-probes-customer-data-breach/",
-      "date": "2026-08-16T14:08:37Z"
     },
     {
       "title": "SAP Commerce Cloud CVE-2026-58231 Targeted in Exploitation Attempts Days After Patch",
@@ -192,12 +198,6 @@
       "description": "[ISC] In the past few weeks, I have been using Gemma4 as a Large Language Model (LLM) to see how useful it can be to analyze some of the malware hashes uploaded to the DShield sensor over the past 30 days and figure out how its recommendation can be...",
       "url": "https://isc.sans.edu/diary/rss/33242",
       "date": "2026-08-13T01:26:53Z"
-    },
-    {
-      "title": "Linux Kernel Process Accounting, (Wed, Aug 12th)",
-      "description": "[ISC] A couple of days ago, Xavier posted about Atuin to gain more insight into the command history. Atuin does a great job of better organizing what is usually handled by...",
-      "url": "https://isc.sans.edu/diary/rss/33240",
-      "date": "2026-08-12T14:21:10Z"
     },
     {
       "title": "Prompt Injections for Defense",
