@@ -1,11 +1,29 @@
 {
-  "updated": "2026-08-18 18:22:00 UTC",
+  "updated": "2026-08-18 20:12:06 UTC",
   "news": [
+    {
+      "title": "Microsoft Copilot Personal Flaws Could Let One Click Exfiltrate Data From Connected Apps",
+      "description": "[FEEDS] Varonis Threat Labs has disclosed three vulnerabilities in Microsoft Copilot Personal that it said could allow a single click on a crafted link to silently pull data from connected apps and other information available to the victim's Copilot...",
+      "url": "https://thehackernews.com/2026/08/microsoft-copilot-personal-flaws-could.html",
+      "date": "2026-08-18T17:47:22Z"
+    },
+    {
+      "title": "Attackers Exploit MLflow SSRF Flaw to Steal Cloud Credentials and Secrets",
+      "description": "[FEEDS] Two critical vulnerabilities impacting MLflow, an open-source artificial intelligence (AI) platform, and FUXA, an open-source, web-based SCADA / HMI software built for operational technology (OT) and industrial automation, are witnessing malicious...",
+      "url": "https://thehackernews.com/2026/08/attackers-exploit-mlflow-ssrf-flaw-to.html",
+      "date": "2026-08-18T17:44:05Z"
+    },
     {
       "title": "Clop created custom web shell for Windchill data theft attacks",
       "description": "[BLEEPINGCOMPUTER] A custom Java web shell likely linked to the Clop ransomware gang was designed specifically for PTC Windchill and FlexPLM servers, with built-in features to decrypt credentials, enumerate file repositories, and steal files. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/clop-created-custom-web-shell-for-windchill-data-theft-attacks/",
       "date": "2026-08-18T17:29:51Z"
+    },
+    {
+      "title": "Ransom Busters Claims It Hacked Ransomware Servers, Asks Victims for Up to $60,000",
+      "description": "[FEEDS] A ransomware affiliate calling itself Ransom Busters has been spotted proactively sending emails to victim organizations and claims to delete stolen data from ransomware groups' servers in exchange for a fee ranging from $20,000 to $60,000. \"In...",
+      "url": "https://thehackernews.com/2026/08/ransom-busters-claims-it-hacked.html",
+      "date": "2026-08-18T16:58:16Z"
     },
     {
       "title": "Your Controls Block Known Attacks. What About the Behavior?",
@@ -32,12 +50,6 @@
       "date": "2026-08-18T11:30:00Z"
     },
     {
-      "title": "16 Typosquatted RubyGems Packages Steal Browser Credentials and Crypto Wallets",
-      "description": "[FEEDS] Cybersecurity researchers have flagged a new typosquatting campaign targeting RubyGems users with a Windows-based information stealer. OpenSourceMalware, which discovered the activity on August 15, 2026, is tracking the threat under the moniker...",
-      "url": "https://thehackernews.com/2026/08/16-typosquatted-rubygems-packages-steal.html",
-      "date": "2026-08-18T11:20:00Z"
-    },
-    {
       "title": "Microsoft tests faster Windows File Explorer, new context menu",
       "description": "[BLEEPINGCOMPUTER] Microsoft has started testing a faster File Explorer and a less cluttered and more customizable context menu in Windows 11 preview builds rolling out to Insiders this week. [...]",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-faster-windows-explorer-customizable-context-menu/",
@@ -62,22 +74,28 @@
       "date": "2026-08-18T09:24:49Z"
     },
     {
-      "title": "SafePal Hardware Wallet Maker Says Flaw Exposed Data of Nearly 40,000 Customers",
-      "description": "[FEEDS] SafePal has disclosed that an authorization flaw in an order-tracking plug-in exposed the names, email addresses, shipping addresses, phone numbers, and purchase details of approximately 39,798 customers. The hardware wallet maker said all affected...",
-      "url": "https://thehackernews.com/2026/08/safepal-hardware-wallet-maker-says-flaw.html",
-      "date": "2026-08-18T09:10:45Z"
-    },
-    {
       "title": "Microsoft starts removing WMIC tool used by cybercriminals",
       "description": "[BLEEPINGCOMPUTER] Microsoft announced that it removed the Windows Management Instrumentation Command-line (WMIC) tool from Windows 11 24H2 and 25H2, as well as from Windows 11 beta builds released this week. [...]",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-removes-wmic-lolbin-tool-in-windows-11-beta-builds/",
       "date": "2026-08-18T08:12:08Z"
     },
     {
+      "title": "SafePal data breach exposes nearly 40,000 users' information",
+      "description": "[EUROPE SAYS] Original by Odaily Planet Daily (@OdailyChina)",
+      "url": "https://www.europesays.com/3200818/",
+      "date": "2026-08-18T07:10:38Z"
+    },
+    {
+      "title": "AI's Original Sin is written into its training, says Parmy Olson",
+      "description": "[THEPRINT] Anthropic PBC, when stripped of its no-hacking guardrails, resorted to lying to complete a cybersecurity challenge.",
+      "url": "https://theprint.in/india/ais-original-sin-is-written-into-its-training-says-parmy-olson/3017954/",
+      "date": "2026-08-18T06:55:58Z"
+    },
+    {
       "title": "CISA Flags Actively Exploited Ray Flaw That Can Trigger Browser-Based RCE",
-      "description": "[FEEDS] The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a critical flaw impacting Ray to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. Ray is an open-source, Python-native...",
+      "description": "[THE HACKER NEWS] CISA adds actively exploited Ray flaw CVE-2025-62593 to KEV; DNS rebinding can trigger browser-based RCE on developer systems.",
       "url": "https://thehackernews.com/2026/08/cisa-flags-actively-exploited-ray-flaw.html",
-      "date": "2026-08-18T06:34:20Z"
+      "date": "2026-08-18T06:34:00Z"
     },
     {
       "title": "Tech Behind It: A Modern Destination for Technology News, AI Insights, Gadgets, and Digital Innovation",
@@ -126,24 +144,6 @@
       "description": "[PR NEWSWIRE UK] /PRNewswire/ -- According to MarketsandMarkets\u2122, the global Automotive Cybersecurity Market size is projected to grow from USD 6.88 billion in 2026 to USD...",
       "url": "https://www.prnewswire.co.uk/news-releases/automotive-cybersecurity-market-worth-18-86-billion-by-2033--marketsandmarkets-302852824.html",
       "date": "2026-08-17T22:59:00Z"
-    },
-    {
-      "title": "Kraken Parent Payward Joins Glasswing, Gets Access to Claude Mythos to Hunt Security Flaws",
-      "description": "[DECRYPT] Payward is joining Project Glasswing, Anthropic\u2019s program for giving vetted organizations access to its powerful cybersecurity AI.",
-      "url": "https://decrypt.co/375836/kraken-payward-anthropic-project-glasswing-claude-mythos",
-      "date": "2026-08-17T22:35:46Z"
-    },
-    {
-      "title": "Kraken's parent Payward joins Anthropic\u2019s Project Glasswing, taps Claude Mythos 5 for security",
-      "description": "[COINDESK] Payward will use Anthropic\u2019s cybersecurity model to hunt vulnerabilities and share open-source findings.",
-      "url": "https://www.coindesk.com/tech/2026/08/17/kraken-parent-payward-joins-anthropic-s-project-glasswing-for-ai-security-push",
-      "date": "2026-08-17T22:12:00Z"
-    },
-    {
-      "title": "CORRECTION -- Carahsoft Strengthens Public Sector Cybersecurity Through Key Cybersecurity and Zero Trust Government Events in 2026",
-      "description": "[THE MANILA TIMES] RESTON, Va., Aug. 17, 2026 (GLOBE NEWSWIRE) -- Carahsoft Technology Corp., The Trusted Government IT Solutions Provider\u00ae, today announced its cybersecurity highlights and initiatives, as well as its upcoming events portfolio for this year,...",
-      "url": "https://www.manilatimes.net/2026/08/18/tmt-newswire/globenewswire/correction-carahsoftstrengthens-public-sectorcybersecurity-through-key-cybersecurity-and-zero-trust-government-events-in-2026/2407184",
-      "date": "2026-08-17T22:06:49Z"
     },
     {
       "title": "Apple Patches iOS and macOS, (Mon, Aug 17th)",
