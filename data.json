@@ -1,203 +1,137 @@
 {
-  "updated": "2026-08-19 10:18:30 UTC",
-  "news": [
-    {
-      "title": "Critical RCE flaw in Windows IKE Extension now actively exploited",
-      "description": "[BLEEPINGCOMPUTER] The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned that hackers are exploiting a critical-severity remote code execution (RCE) flaw in the Windows Internet Key Exchange (IKE) Service Extensions component. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-critical-windows-ike-extension-flaw-now-exploited-in-attacks/",
-      "date": "2026-08-19T10:12:24Z"
-    },
-    {
-      "title": "Windows 11 24H2 Home and Pro reach end of support in 2 months",
-      "description": "[BLEEPINGCOMPUTER] Microsoft has reminded customers that systems running Home and Pro editions of Windows 11 24H2 will stop receiving updates in two months. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-home-and-pro-reach-end-of-support-in-2-months/",
-      "date": "2026-08-19T09:10:20Z"
-    },
-    {
-      "title": "CISA: Medusa ransomware hit over 500 critical infrastructure orgs",
-      "description": "[BLEEPINGCOMPUTER] The FBI said Tuesday that the Medusa ransomware gang has breached more than 500 critical infrastructure organizations in the United States since June 2021. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-medusa-ransomware-hit-over-500-critical-infrastructure-orgs/",
-      "date": "2026-08-19T08:00:48Z"
-    },
-    {
-      "title": "Microsoft Links 30+ Rotating Domains to MacSync Stealer Infrastructure",
-      "description": "[FEEDS] Microsoft Defender Experts have linked more than 30 web domains to MacSync Stealer, a macOS-focused information stealer, after correlating recurring endpoint and network behaviors across changing infrastructure, tracing the malware from payload...",
-      "url": "https://thehackernews.com/2026/08/microsoft-links-30-rotating-domains-to.html",
-      "date": "2026-08-19T06:01:53Z"
-    },
-    {
-      "title": "Clop-Linked Windchill Web Shell Decrypts Credentials and Maps Engineering Data",
-      "description": "[FEEDS] A JavaServer Pages (JSP) web shell deployed following the exploitation of a critical security flaw in PTC Windchill and FlexPLM servers is specifically designed for the enterprise Product Lifecycle Management (PLM) software, according to new...",
-      "url": "https://thehackernews.com/2026/08/clop-linked-windchill-web-shell.html",
-      "date": "2026-08-19T05:39:25Z"
-    },
-    {
-      "title": "ISC Stormcast For Wednesday, August 19th, 2026 https://isc.sans.edu/podcastdetail/10058, (Wed, Aug 19th)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33258",
-      "date": "2026-08-19T02:00:03Z"
-    },
-    {
-      "title": "AI-assisted tool helped secure satellite communication system after 2022 Russian hacking",
-      "description": "[THE ASSOCIATED PRESS] The cybersecurity company Atalanta says it has released \u201cArgo\u201d \u2014 a product that includes the technology that was crucial in securing a satellite communications network after a Russian hacking attack.",
-      "url": "https://apnews.com/article/cybersecurity-ai-new-technology-hacking-742e4946bc20e421fd0d19f0c5a36e0d",
-      "date": "2026-08-18T21:37:09Z"
-    },
-    {
-      "title": "Microsoft Scrambles To Patch ShieldBreak Zero-Day Flaw In Windows Defender",
-      "description": "[HOT HARDWARE] The Nightmare-Eclipse and Microsoft saga continues with another major Windows Defender exploit following 'RoguePlanet.'",
-      "url": "https://hothardware.com/news/microsoft-scrambles-to-patch-shieldbreak-zero-day-flaw-in-windows-defender",
-      "date": "2026-08-18T21:06:00Z"
-    },
-    {
-      "title": "Comcast turns your Xfinity WiFi into a home motion detector",
-      "description": "[BLEEPINGCOMPUTER] Comcast is promoting WiFi-based motion detection as a part of its new Xfinity Shield home protection platform, allowing routers and wireless devices to detect people moving through a home without cameras or motion sensors. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/comcast-turns-your-xfinity-wifi-into-a-home-motion-detector/",
-      "date": "2026-08-18T20:14:58Z"
-    },
-    {
-      "title": "OpenAI paused AI training for two weeks and unveils new security controls after Hugging Face hack",
-      "description": "[FORTUNE] The company said its unreleased 'Astra' model presents 'critical' cybersecurity risks and that its largest AI training runs remain on hold.",
-      "url": "https://fortune.com/2026/08/18/openai-says-it-paused-ai-training-for-two-weeks-and-announces-new-security-protocols-following-hugging-face-hack/",
-      "date": "2026-08-18T18:33:19Z"
-    },
-    {
-      "title": "Microsoft Copilot Personal Flaws Could Let One Click Exfiltrate Data From Connected Apps",
-      "description": "[FEEDS] Varonis Threat Labs has disclosed three vulnerabilities in Microsoft Copilot Personal that it said could allow a single click on a crafted link to silently pull data from connected apps and other information available to the victim's Copilot...",
-      "url": "https://thehackernews.com/2026/08/microsoft-copilot-personal-flaws-could.html",
-      "date": "2026-08-18T17:47:22Z"
-    },
-    {
-      "title": "Attackers Exploit MLflow SSRF Flaw to Steal Cloud Credentials and Secrets",
-      "description": "[FEEDS] Two critical vulnerabilities impacting MLflow, an open-source artificial intelligence (AI) platform, and FUXA, an open-source, web-based SCADA / HMI software built for operational technology (OT) and industrial automation, are witnessing malicious...",
-      "url": "https://thehackernews.com/2026/08/attackers-exploit-mlflow-ssrf-flaw-to.html",
-      "date": "2026-08-18T17:44:05Z"
-    },
-    {
-      "title": "Clop created custom web shell for Windchill data theft attacks",
-      "description": "[BLEEPINGCOMPUTER] A custom Java web shell likely linked to the Clop ransomware gang was designed specifically for PTC Windchill and FlexPLM servers, with built-in features to decrypt credentials, enumerate file repositories, and steal files. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/clop-created-custom-web-shell-for-windchill-data-theft-attacks/",
-      "date": "2026-08-18T17:29:51Z"
-    },
-    {
-      "title": "CG Power reports suspected security breach on IT systems; operations unaffected",
-      "description": "[CNBC TV18] CG Power and Industrial Solutions has reported a suspected cyber event on its information technology systems. The company said its core systems and operations have not been impacted and that it is working with internal and external cybersecurity...",
-      "url": "https://www.cnbctv18.com/market/stocks/cg-power-and-industrial-solutions-share-price-reports-suspected-security-breach-on-it-systems-operations-unaffected-19972171.htm",
-      "date": "2026-08-18T16:59:55Z"
-    },
-    {
-      "title": "Ransom Busters Claims It Hacked Ransomware Servers, Asks Victims for Up to $60,000",
-      "description": "[FEEDS] A ransomware affiliate calling itself Ransom Busters has been spotted proactively sending emails to victim organizations and claims to delete stolen data from ransomware groups' servers in exchange for a fee ranging from $20,000 to $60,000. \"In...",
-      "url": "https://thehackernews.com/2026/08/ransom-busters-claims-it-hacked.html",
-      "date": "2026-08-18T16:58:16Z"
-    },
-    {
-      "title": "CG Power flags suspected cyber incident; operations unaffected",
-      "description": "[THE FINANCIAL EXPRESS] CG Power and Industrial Solutions disclosed a suspected cyber event affecting IT systems but not core operations, working with cybersecurity experts and notifying CERT-In as per regulations.",
-      "url": "https://www.financialexpress.com/business/industry-cg-power-flags-suspected-cyber-incident-operations-unaffected-4320564/",
-      "date": "2026-08-18T16:48:04Z"
-    },
-    {
-      "title": "France to Notify Companies of Data Breach From Next Week: Min",
-      "description": "[BLOOMBERG TAX NEWS] France\u2019s tax agency will begin notifying companies impacted by the data hack beginning next week, budget minister David Amiel tells reporters in Paris.",
-      "url": "https://news.bloombergtax.com/daily-tax-report/france-to-notify-companies-of-data-breach-from-next-week-min",
-      "date": "2026-08-18T15:13:24Z"
-    },
-    {
-      "title": "France Turns to Sovereign AI Amid Cybersecurity Concerns",
-      "description": "[DEVDISCOURSE] France's Budget Minister David Amiel announced that the government will hire indigenous AI providers for cybersecurity, thus excluding OpenAI. This decision comes after a cyberattack on the French tax agency, resulting in the theft of data from...",
-      "url": "https://www.devdiscourse.com/article/law-order/3965203-france-turns-to-sovereign-ai-amid-cybersecurity-concerns",
-      "date": "2026-08-18T15:11:51Z"
-    },
-    {
-      "title": "Why Bank Of America Is Bullish On Cybersecurity Stocks",
-      "description": "[INVESTOR'S BUSINESS DAILY] Bank of America hiked its price targets on cybersecurity stocks on views that worsening AI-based threats support higher valuations.",
-      "url": "https://www.investors.com/news/technology/cybersecurity-stocks-bank-america-hikes-price-targets/",
-      "date": "2026-08-18T14:47:32Z"
-    },
-    {
-      "title": "Freedom Pass holders issued urgent Tube and bus warning before 'important' upgrade",
-      "description": "[MY LONDON] The online system is being upgraded to improve cybersecurity and make it easier for people to apply",
-      "url": "https://www.mylondon.news/news/transport/freedom-pass-holders-issued-urgent-34476829",
-      "date": "2026-08-18T14:46:05Z"
-    },
-    {
-      "title": "Your Controls Block Known Attacks. What About the Behavior?",
-      "description": "[BLEEPINGCOMPUTER] Security controls can block a familiar attack method while missing quieter ways to achieve the same objective. Picus Security's Blue Report 2026 shows how prevention rates can vary dramatically by technique and why behavioral testing is needed to...",
-      "url": "https://www.bleepingcomputer.com/news/security/your-controls-block-known-attacks-what-about-the-behavior/",
-      "date": "2026-08-18T14:01:11Z"
-    },
-    {
-      "title": "AI \"Mind Viruses\" Can Spread Between Agents Through Persistent Prompt Files",
-      "description": "[FEEDS] Security researchers at Anthropic and Switzerland's EPFL have demonstrated that self-propagating payloads can spread from one artificial intelligence (AI) agent to the next through the editable system prompt files that autonomous agent harnesses use...",
-      "url": "https://thehackernews.com/2026/08/ai-mind-viruses-can-spread-between.html",
-      "date": "2026-08-18T12:38:36Z"
-    },
-    {
-      "title": "LLMs and Contextual Integrity",
-      "description": "[SCHNEIER] I have been thinking a lot about AI and integrity. Part of that is contextual integrity. I recently found two papers on the topic. &#8220;CIMemories: A Compositional Benchmark for Contextual Integrity of Persistent Memory in LLMs&#8220;: Abstract:...",
-      "url": "https://www.schneier.com/blog/archives/2026/08/llms-and-contextual-integrity.html",
-      "date": "2026-08-18T10:40:16Z"
-    },
-    {
-      "title": "ISC Stormcast For Tuesday, August 18th, 2026 https://isc.sans.edu/podcastdetail/10056, (Tue, Aug 18th)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33256",
-      "date": "2026-08-18T02:00:03Z"
-    },
-    {
-      "title": "Apple Patches iOS and macOS, (Mon, Aug 17th)",
-      "description": "[ISC] Apple today released updates for iOS/iPadOS (26 and 18) and macOS 26. This update fixes 108 vulnerabilities and comes about two weeks after the much smaller macOS update that addressed the single screen-sharing vulnerability. This vulnerability did...",
-      "url": "https://isc.sans.edu/diary/rss/33254",
-      "date": "2026-08-17T20:26:39Z"
-    },
-    {
-      "title": "Apple Screen Sharing Security, (Mon, Aug 17th)",
-      "description": "[ISC] About 20 years ago, with macOS 10.5 (Leopard), Apple introduced screen sharing. Apple did not invent a new protocol for screen sharing. Instead, it used the established VNC protocol. VNC is a pretty simple, unencrypted protocol using TCP port 5900....",
-      "url": "https://isc.sans.edu/diary/rss/33252",
-      "date": "2026-08-17T14:33:58Z"
-    },
-    {
-      "title": "Hacking Public Wi-Fi DNS to Steal Credentials",
-      "description": "[SCHNEIER] Criminals are hacking into public Wi-Fi devices&#8212;at hotels, conference centers, and so on&#8212;around the world and changing their DNS settings. The goal is to redirect users to fake login pages and steal their credentials.",
-      "url": "https://www.schneier.com/blog/archives/2026/08/hacking-public-wi-fi-dns-to-steal-credentials.html",
-      "date": "2026-08-17T11:18:03Z"
-    },
-    {
-      "title": "ISC Stormcast For Monday, August 17th, 2026 https://isc.sans.edu/podcastdetail/10054, (Mon, Aug 17th)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33250",
-      "date": "2026-08-17T02:00:02Z"
-    },
-    {
-      "title": "Wireshark 4.6.8 Released, (Sun, Aug 16th)",
-      "description": "[ISC] Wireshark release 4.6.8 fixes 28 vulnerabilities and 25 bugs.&#xd;",
-      "url": "https://isc.sans.edu/diary/rss/33248",
-      "date": "2026-08-16T21:31:48Z"
-    },
-    {
-      "title": "Friday Squid Blogging: Searching for the Colossal Squid",
-      "description": "[SCHNEIER] Fascinating video about searching for life undersea. The video basically makes the point that our bright white searchlights are scaring everything away, and that red light is more neutral. That, plus bait to attract sea creatures, is teaching us a...",
-      "url": "https://www.schneier.com/blog/archives/2026/08/friday-squid-blogging-searching-for-the-colossal-squid-2.html",
-      "date": "2026-08-14T21:01:49Z"
-    },
-    {
-      "title": "Upcoming Speaking Engagements",
-      "description": "[SCHNEIER] This is a current list of where and when I am scheduled to speak: I\u2019m speaking, signing books, and participating in panel discussions at LAcon V in Anaheim, California, USA. My full schedule is here. I&#8217;m speaking online (via Zoom) at a League...",
-      "url": "https://www.schneier.com/blog/archives/2026/08/upcoming-speaking-engagements-59.html",
-      "date": "2026-08-14T16:01:59Z"
-    },
-    {
-      "title": "If the Markets Reject OpenAI and Anthropic, the US Should Nationalize Them",
-      "description": "[SCHNEIER] This essay was written with Nathan E. Sanders, and originally appeared in The Guardian. OpenAI, and then Anthropic, were each formed by AI developers who feared unrestrained corporate AI development&#8212;specifically, that companies like Google and...",
-      "url": "https://www.schneier.com/blog/archives/2026/08/if-the-markets-reject-openai-and-anthropic-the-us-should-nationalize-them.html",
-      "date": "2026-08-14T11:03:50Z"
-    },
-    {
-      "title": "Separating AI\u2019s Technological Problems from Its Capitalism Problems",
-      "description": "[SCHNEIER] This essay was written with Nathan E. Sanders, and originally appeared in Tech Policy Press. AI represents the first time we humans can do cognitive work outside of our bodies at scale. The only comparable moment is the early years of the industrial...",
-      "url": "https://www.schneier.com/blog/archives/2026/08/separating-ais-technological-problems-from-its-capitalism-problems.html",
-      "date": "2026-08-13T11:07:19Z"
-    }
-  ]
+    "title": "Sentinel Protocol",
+    "tagline": "Perimeter Intelligence Sync",
+    "updated": "2026-08-19 11:20 UTC",
+    "news": [
+        {
+            "source": {
+                "id": null,
+                "name": "Infosecurity Magazine"
+            },
+            "author": "James Coker",
+            "title": "Cyber Incident Disrupts Student Services at UT San Antonio",
+            "description": "UT San Antonio has taken IT systems offline following a cyber incident, disrupting student registration and tuition payments days before term is due to resume",
+            "url": "https://www.infosecurity-magazine.com/news/cyber-incident-ut-san-antonio/",
+            "urlToImage": "https://assets.infosecurity-magazine.com/webpage/og/5fb2fcda-6696-4d81-9565-d7967a652953.jpeg",
+            "publishedAt": "2026-08-18T11:20:00Z",
+            "content": "IT systems at the University of Texas (UT) San Antonio have been taken offline following a cyber incident, causing significant disruption to student registrations and payments ahead of the start of t\u2026 [+2914 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Malwarebytes.com"
+            },
+            "author": "Danny Bradbury",
+            "title": "Be careful what you put in \u201canyone with the link\u201d Google Docs",
+            "description": "As one developer found out when his Google Doc containing company passwords showed up in Google search results.",
+            "url": "https://www.malwarebytes.com/blog/news/2026/08/be-careful-what-you-put-in-anyone-with-the-link-google-docs",
+            "urlToImage": "https://www.malwarebytes.com/wp-content/uploads/sites/2/2026/08/google-docs-2.png",
+            "publishedAt": "2026-08-18T11:15:17Z",
+            "content": "The next time you type something sensitive into a Google Docor any other online tool with a sharing featurebe careful about the permissions you grant.\r\nSpeaking with The Register, the founder of QR g\u2026 [+4098 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "24/7 Wall St."
+            },
+            "author": "Joel South",
+            "title": "5 Dependable Dividend Stocks to Buy in August",
+            "description": "While the market chases momentum trades and AI multiples, a small group of blue-chip dividend compounders has quietly raised its payouts for generations and...",
+            "url": "https://247wallst.com/investing/2026/08/18/5-dependable-dividend-stocks-to-buy-in-august/",
+            "urlToImage": "https://s.yimg.com/lo/mysterio/api/185E3A7277C205E91E838C47A64AE24076F9BAD5F9B05BF2F65B223963936885/subgraphmysterio/resizefill_w1200_h670;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F319f4dad82d13c1eae5d7884892fc666",
+            "publishedAt": "2026-08-18T11:00:10Z",
+            "content": "Quick Read\r\n<ul><li>JNJ's 64-year dividend raise streak pairs with 53% one-year price gains, while PEP yields 4% after its record-high 54th consecutive annual increase.\r\n</li><li>McDonald's dropped 1\u2026 [+5665 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Computerworld"
+            },
+            "author": "Agam Shah",
+            "title": "Warning to enterprises: Vibe coding can be a threat",
+            "description": "Vibe coding is a top security threat to enterprises and could leak data into the public sphere, analysts and executives are saying.\r\n\n\n\n\n\u201cThe number one risk at the minute is hard-coded secrets being uploaded through vibe-coded applications to GitHub, and the\u2026",
+            "url": "https://www.computerworld.com/article/4210633/warning-to-enterprises-vibe-coding-can-be-a-threat.html",
+            "urlToImage": "https://www.computerworld.com/wp-content/uploads/2026/08/4210633-0-71200100-1787051023-shutterstock_2469670095.jpg?quality=50&strip=all&w=1024",
+            "publishedAt": "2026-08-18T11:00:00Z",
+            "content": "AI might be changing the nature of a variety of jobs, especially for developers, but vibe coding can\u2019t scale \u2014 and it can\u2019t outright replace enterprise software development. \u201cI get pretty perturbed w\u2026 [+647 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Nakedcapitalism.com"
+            },
+            "author": "Conor Gallagher",
+            "title": "Links 8/18/2026",
+            "description": "Our daily links, including drones in Kurdistan, AI rare books, Black Sea terminal attacks resume, South Korea drill fallout, and new tornado alley.",
+            "url": "https://www.nakedcapitalism.com/2026/08/links-8-18-2026.html",
+            "urlToImage": "https://www.nakedcapitalism.com/wp-content/uploads/2026/08/HPtApXYXQAAGyrB-e1786971492413.jpeg",
+            "publishedAt": "2026-08-18T10:59:17Z",
+            "content": "A Massive 10-Foot Ball of Hair Rolls Through the Streets of New York City Like a Tangled Tumbleweed Laughing Squid\r\nMount Etna erupts a day after US tourist killed by lightning Euronews\r\nClimate/Envi\u2026 [+5976 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Pypi.org"
+            },
+            "author": null,
+            "title": "opposekali 0.9.2",
+            "description": "EMION OPPOSE [KALI] 0.9 PRO MODEL - Autonomous Cybersecurity Copilot (A UNIFLOWN PRODUCT)",
+            "url": "https://pypi.org/project/opposekali/0.9.2/",
+            "urlToImage": null,
+            "publishedAt": "2026-08-18T10:53:26Z",
+            "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe\u2026 [+12 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Pypi.org"
+            },
+            "author": null,
+            "title": "oppose added to PyPI",
+            "description": "EMION OPPOSE [KALI] 0.9 PRO MODEL - Autonomous Cybersecurity Copilot (A UNIFLOWN PRODUCT)",
+            "url": "https://pypi.org/project/oppose/",
+            "urlToImage": null,
+            "publishedAt": "2026-08-18T10:40:25Z",
+            "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe\u2026 [+12 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Malwarebytes.com"
+            },
+            "author": "Pieter Arntz",
+            "title": "Heights Finance data breach: What customers need to know",
+            "description": "Leaked personal and financial data of around 750,000 US citizens, including SSNs and bank details, could put victims at risk of identity theft and phishing.",
+            "url": "https://www.malwarebytes.com/blog/data-breaches/2026/08/heights-finance-data-breach-what-customers-need-to-know",
+            "urlToImage": "https://www.malwarebytes.com/wp-content/uploads/sites/2/2026/08/Heights_Finance_logo.png",
+            "publishedAt": "2026-08-18T10:36:14Z",
+            "content": "Heights Finance Holdings\u2019 online data breach notification says an unauthorized party accessed a third-party cloud platform containing customer data, potentially exposing highly sensitive personal, ba\u2026 [+3574 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BleepingComputer"
+            },
+            "author": "Sergiu Gatlan",
+            "title": "CISA: Windows Task Host flaw now exploited by ransomware gangs",
+            "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has confirmed that ransomware gangs are also exploiting a high-severity Windows Task Host vulnerability that was flagged as actively exploited in April. [...]",
+            "url": "https://www.bleepingcomputer.com/news/security/cisa-windows-task-host-flaw-now-exploited-by-ransomware-gangs/",
+            "urlToImage": "https://www.bleepstatic.com/content/hl-images/2021/10/05/Windows-keyboard.jpg",
+            "publishedAt": "2026-08-18T10:32:16Z",
+            "content": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has confirmed that ransomware gangs are also exploiting a high-severity Windows Task Host vulnerability that was flagged as actively e\u2026 [+2273 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Livemint"
+            },
+            "author": "Rahul Matthan",
+            "title": "Why guardrails and constitutions aren't enough to stop rogue AI\u2014and what may actually work instead",
+            "description": "Despite elaborate efforts to ensure AI models only act in ways we approve of, every few days we hear of AI playing fast and loose with ethics. Perhaps we can take cues from human moral conditioning to stop AI agents from going rogue.",
+            "url": "https://www.livemint.com/opinion/online-views/guardrails-constitutions-stop-rogue-ai-artificial-intelligence-openai-anthropic-kimi-meta-11786956032189.html",
+            "urlToImage": "https://www.livemint.com/lm-img/img/2026/08/18/1600x900/logo/iStock-2238674489_Web_1787036491815_1787036496827_6ea10840-57de-44b8-a1d7-3828db4592b5.jpg",
+            "publishedAt": "2026-08-18T10:30:32Z",
+            "content": "According to the AISI, had the reviewer not been vigilant, the AI agent would have got away with it. While the agent had not been instructed to deceive anyone, it had also not been explicitly prohibi\u2026 [+4685 chars]"
+        }
+    ]
 }
