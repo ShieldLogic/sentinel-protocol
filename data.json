@@ -1,6 +1,18 @@
 {
-  "updated": "2026-08-19 08:24:22 UTC",
+  "updated": "2026-08-19 10:18:30 UTC",
   "news": [
+    {
+      "title": "Critical RCE flaw in Windows IKE Extension now actively exploited",
+      "description": "[BLEEPINGCOMPUTER] The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned that hackers are exploiting a critical-severity remote code execution (RCE) flaw in the Windows Internet Key Exchange (IKE) Service Extensions component. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-critical-windows-ike-extension-flaw-now-exploited-in-attacks/",
+      "date": "2026-08-19T10:12:24Z"
+    },
+    {
+      "title": "Windows 11 24H2 Home and Pro reach end of support in 2 months",
+      "description": "[BLEEPINGCOMPUTER] Microsoft has reminded customers that systems running Home and Pro editions of Windows 11 24H2 will stop receiving updates in two months. [...]",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-home-and-pro-reach-end-of-support-in-2-months/",
+      "date": "2026-08-19T09:10:20Z"
+    },
     {
       "title": "CISA: Medusa ransomware hit over 500 critical infrastructure orgs",
       "description": "[BLEEPINGCOMPUTER] The FBI said Tuesday that the Medusa ransomware gang has breached more than 500 critical infrastructure organizations in the United States since June 2021. [...]",
@@ -8,10 +20,34 @@
       "date": "2026-08-19T08:00:48Z"
     },
     {
+      "title": "Microsoft Links 30+ Rotating Domains to MacSync Stealer Infrastructure",
+      "description": "[FEEDS] Microsoft Defender Experts have linked more than 30 web domains to MacSync Stealer, a macOS-focused information stealer, after correlating recurring endpoint and network behaviors across changing infrastructure, tracing the malware from payload...",
+      "url": "https://thehackernews.com/2026/08/microsoft-links-30-rotating-domains-to.html",
+      "date": "2026-08-19T06:01:53Z"
+    },
+    {
+      "title": "Clop-Linked Windchill Web Shell Decrypts Credentials and Maps Engineering Data",
+      "description": "[FEEDS] A JavaServer Pages (JSP) web shell deployed following the exploitation of a critical security flaw in PTC Windchill and FlexPLM servers is specifically designed for the enterprise Product Lifecycle Management (PLM) software, according to new...",
+      "url": "https://thehackernews.com/2026/08/clop-linked-windchill-web-shell.html",
+      "date": "2026-08-19T05:39:25Z"
+    },
+    {
       "title": "ISC Stormcast For Wednesday, August 19th, 2026 https://isc.sans.edu/podcastdetail/10058, (Wed, Aug 19th)",
       "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
       "url": "https://isc.sans.edu/diary/rss/33258",
       "date": "2026-08-19T02:00:03Z"
+    },
+    {
+      "title": "AI-assisted tool helped secure satellite communication system after 2022 Russian hacking",
+      "description": "[THE ASSOCIATED PRESS] The cybersecurity company Atalanta says it has released \u201cArgo\u201d \u2014 a product that includes the technology that was crucial in securing a satellite communications network after a Russian hacking attack.",
+      "url": "https://apnews.com/article/cybersecurity-ai-new-technology-hacking-742e4946bc20e421fd0d19f0c5a36e0d",
+      "date": "2026-08-18T21:37:09Z"
+    },
+    {
+      "title": "Microsoft Scrambles To Patch ShieldBreak Zero-Day Flaw In Windows Defender",
+      "description": "[HOT HARDWARE] The Nightmare-Eclipse and Microsoft saga continues with another major Windows Defender exploit following 'RoguePlanet.'",
+      "url": "https://hothardware.com/news/microsoft-scrambles-to-patch-shieldbreak-zero-day-flaw-in-windows-defender",
+      "date": "2026-08-18T21:06:00Z"
     },
     {
       "title": "Comcast turns your Xfinity WiFi into a home motion detector",
@@ -86,22 +122,10 @@
       "date": "2026-08-18T14:46:05Z"
     },
     {
-      "title": "Hackers Tricked a Major Retailer\u2019s AI Shopping Bot to Do Something It Was Never Supposed To",
-      "description": "[CNET] At the cybersecurity conference Black Hat, researchers showed how an AI assistant at one of America\u2019s largest retailers could be tricked into following hidden instructions and exposing sensitive system information.",
-      "url": "https://www.cnet.com/tech/services-and-software/hackers-tricked-a-major-retailers-ai-shopping-bot-to-do-something-it-was-never-supposed-to/",
-      "date": "2026-08-18T14:19:53Z"
-    },
-    {
       "title": "Your Controls Block Known Attacks. What About the Behavior?",
       "description": "[BLEEPINGCOMPUTER] Security controls can block a familiar attack method while missing quieter ways to achieve the same objective. Picus Security's Blue Report 2026 shows how prevention rates can vary dramatically by technique and why behavioral testing is needed to...",
       "url": "https://www.bleepingcomputer.com/news/security/your-controls-block-known-attacks-what-about-the-behavior/",
       "date": "2026-08-18T14:01:11Z"
-    },
-    {
-      "title": "Internet-enabled scams and AI pose challenges, Shanmugam tells MHA scholars",
-      "description": "[THE STRAITS TIMES] Senior Minister Shanmugam warns of rising AI and internet-enabled scams despite a drop in cases, emphasising strong laws and cybersecurity efforts in Singapore. Read more at straitstimes.com.",
-      "url": "https://www.straitstimes.com/singapore/courts-crime/internet-enabled-scams-and-ai-pose-challenges-shanmugam-tells-mha-scholars",
-      "date": "2026-08-18T13:50:00Z"
     },
     {
       "title": "AI \"Mind Viruses\" Can Spread Between Agents Through Persistent Prompt Files",
@@ -110,34 +134,10 @@
       "date": "2026-08-18T12:38:36Z"
     },
     {
-      "title": "TWINLOOT Abuses SharePoint and Teams to Steal Credentials and Move Across Networks",
-      "description": "[FEEDS] Cybersecurity researchers have disclosed details of a previously undocumented Python implant framework dubbed TWINLOOT. \"TWINLOOT is a modular, PyArmor-hardened Python implant designed to operate its entire command-and-control infrastructure inside...",
-      "url": "https://thehackernews.com/2026/08/twinloot-abuses-sharepoint-and-teams-to.html",
-      "date": "2026-08-18T12:38:20Z"
-    },
-    {
-      "title": "One Attacker Has Scraped Both Salesforce and ServiceNow Portals Since 2025",
-      "description": "[FEEDS] A single piece of infrastructure has been pulling records out of Salesforce and ServiceNow customer portals across multiple industries for more than a year, according to research published this week by agent security platform Reco. The activity,...",
-      "url": "https://thehackernews.com/2026/08/one-attacker-has-scraped-both.html",
-      "date": "2026-08-18T11:30:00Z"
-    },
-    {
-      "title": "Microsoft tests faster Windows File Explorer, new context menu",
-      "description": "[BLEEPINGCOMPUTER] Microsoft has started testing a faster File Explorer and a less cluttered and more customizable context menu in Windows 11 preview builds rolling out to Insiders this week. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-faster-windows-explorer-customizable-context-menu/",
-      "date": "2026-08-18T11:14:28Z"
-    },
-    {
       "title": "LLMs and Contextual Integrity",
       "description": "[SCHNEIER] I have been thinking a lot about AI and integrity. Part of that is contextual integrity. I recently found two papers on the topic. &#8220;CIMemories: A Compositional Benchmark for Contextual Integrity of Persistent Memory in LLMs&#8220;: Abstract:...",
       "url": "https://www.schneier.com/blog/archives/2026/08/llms-and-contextual-integrity.html",
       "date": "2026-08-18T10:40:16Z"
-    },
-    {
-      "title": "CISA: Windows Task Host flaw now exploited by ransomware gangs",
-      "description": "[BLEEPINGCOMPUTER] The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has confirmed that ransomware gangs are also exploiting a high-severity Windows Task Host vulnerability that was flagged as actively exploited in April. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-windows-task-host-flaw-now-exploited-by-ransomware-gangs/",
-      "date": "2026-08-18T10:32:16Z"
     },
     {
       "title": "ISC Stormcast For Tuesday, August 18th, 2026 https://isc.sans.edu/podcastdetail/10056, (Tue, Aug 18th)",
