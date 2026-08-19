@@ -1,6 +1,30 @@
 {
-  "updated": "2026-08-19 12:24:13 UTC",
+  "updated": "2026-08-19 14:22:39 UTC",
   "news": [
+    {
+      "title": "Password spraying attacks surge 155x as hackers exploit MFA gaps",
+      "description": "[BLEEPINGCOMPUTER] Huntress observed a 155x increase in password spraying attacks in H1 2026, including a campaign that generated more than 81 million login attempts in two weeks. The attacks exploited legacy authentication and gaps in MFA policies that left some...",
+      "url": "https://www.bleepingcomputer.com/news/security/password-spraying-attacks-surge-155x-as-hackers-exploit-mfa-gaps/",
+      "date": "2026-08-19T14:00:10Z"
+    },
+    {
+      "title": "SilkParasite Espionage Campaign Targets Central Asian Governments with Five New RATs",
+      "description": "[FEEDS] A previously unreported cyber espionage operation dubbed SilkParasite has been observed targeting government bodies in Central Asia. The intrusion set makes use of seven remote access tool (RAT) families, five of which have never been previously...",
+      "url": "https://thehackernews.com/2026/08/silkparasite-espionage-campaign-targets.html",
+      "date": "2026-08-19T13:12:17Z"
+    },
+    {
+      "title": "Hackers Compromised 14,500+ Dahua Devices Using Credential Attacks, Auth Bypasses, and P2P",
+      "description": "[FEEDS] Cybersecurity researchers at Hunt.io have disclosed details of a campaign that they say compromised more than 14,530 Dahua devices between June 17 and July 22, 2026, using credential attacks, two authentication-bypass flaws, and a peer-to-peer (P2P)...",
+      "url": "https://thehackernews.com/2026/08/hackers-compromised-14500-dahua-devices.html",
+      "date": "2026-08-19T11:34:28Z"
+    },
+    {
+      "title": "Phishing 3.0: The Fight Moves to Agent Versus Agent",
+      "description": "[FEEDS] Most email defenses still do the job they did a decade ago. Scan the message, look for something malicious, block it. That worked when the danger sat in the payload, a bad link or an attachment. It stopped working when the danger moved into the...",
+      "url": "https://thehackernews.com/2026/08/phishing-30-fight-moves-to-agent-versus.html",
+      "date": "2026-08-19T11:30:00Z"
+    },
     {
       "title": "StopAndProtect Uses Nearly 2,000 Hacked WordPress Sites to Spread Malware and Steal Data",
       "description": "[FEEDS] Cybersecurity researchers have flagged a global cybercrime operation that abuses thousands of hacked WordPress websites as infrastructure to disseminate malware, commandeer infected hosts, store stolen documents, screenshots, and activity logs...",
@@ -50,16 +74,28 @@
       "date": "2026-08-19T06:01:53Z"
     },
     {
-      "title": "Clop-Linked Windchill Web Shell Decrypts Credentials and Maps Engineering Data",
-      "description": "[FEEDS] A JavaServer Pages (JSP) web shell deployed following the exploitation of a critical security flaw in PTC Windchill and FlexPLM servers is specifically designed for the enterprise Product Lifecycle Management (PLM) software, according to new...",
-      "url": "https://thehackernews.com/2026/08/clop-linked-windchill-web-shell.html",
-      "date": "2026-08-19T05:39:25Z"
-    },
-    {
       "title": "ISC Stormcast For Wednesday, August 19th, 2026 https://isc.sans.edu/podcastdetail/10058, (Wed, Aug 19th)",
       "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
       "url": "https://isc.sans.edu/diary/rss/33258",
       "date": "2026-08-19T02:00:03Z"
+    },
+    {
+      "title": "Stocks to watch, Aug 19: Shipla Medicare, CG Power, Exide, Manipal Health, JG Chem, PNB Housing, ONGC, Ducon",
+      "description": "[THE HINDU BUSINESS LINE] Key updates on buzzing stocks: Shilpa Medicare's recall, Manipal Health's acquisition, ONGC's gas facilities, and cybersecurity concerns at CG Power.",
+      "url": "https://www.thehindubusinessline.com/markets/buzzing-stocks-shipla-medicare-cg-power-exide-manipal-health-jg-chem-pnb-housing-ongc-ducon/article71363129.ece",
+      "date": "2026-08-19T01:49:20Z"
+    },
+    {
+      "title": "Quest Apartment customer details compromised in data breach",
+      "description": "[PERTHNOW] Quest Apartment Hotel customers are the latest to be caught up in a data breach with personal information compromised.",
+      "url": "https://www.perthnow.com.au/news/quest-apartment-customer-details-compromised-in-data-breach-c-22745505",
+      "date": "2026-08-19T01:32:12Z"
+    },
+    {
+      "title": "Cybersecurity concerns prompt OpenAI to pause some AI training runs",
+      "description": "[SILICONANGLE NEWS] Cybersecurity concerns prompt OpenAI to pause some AI training runs - SiliconANGLE",
+      "url": "https://siliconangle.com/2026/08/18/openai-paused-some-ai-training-runs-over-cybersecurity-concerns/",
+      "date": "2026-08-19T01:18:39Z"
     },
     {
       "title": "Progress Software appoints Bridget Collins as Chief Information Officer",
@@ -104,46 +140,10 @@
       "date": "2026-08-18T18:33:19Z"
     },
     {
-      "title": "Microsoft Copilot Personal Flaws Could Let One Click Exfiltrate Data From Connected Apps",
-      "description": "[FEEDS] Varonis Threat Labs has disclosed three vulnerabilities in Microsoft Copilot Personal that it said could allow a single click on a crafted link to silently pull data from connected apps and other information available to the victim's Copilot...",
-      "url": "https://thehackernews.com/2026/08/microsoft-copilot-personal-flaws-could.html",
-      "date": "2026-08-18T17:47:22Z"
-    },
-    {
-      "title": "Attackers Exploit MLflow SSRF Flaw to Steal Cloud Credentials and Secrets",
-      "description": "[FEEDS] Two critical vulnerabilities impacting MLflow, an open-source artificial intelligence (AI) platform, and FUXA, an open-source, web-based SCADA / HMI software built for operational technology (OT) and industrial automation, are witnessing malicious...",
-      "url": "https://thehackernews.com/2026/08/attackers-exploit-mlflow-ssrf-flaw-to.html",
-      "date": "2026-08-18T17:44:05Z"
-    },
-    {
-      "title": "Clop created custom web shell for Windchill data theft attacks",
-      "description": "[BLEEPINGCOMPUTER] A custom Java web shell likely linked to the Clop ransomware gang was designed specifically for PTC Windchill and FlexPLM servers, with built-in features to decrypt credentials, enumerate file repositories, and steal files. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/clop-created-custom-web-shell-for-windchill-data-theft-attacks/",
-      "date": "2026-08-18T17:29:51Z"
-    },
-    {
       "title": "CG Power reports suspected security breach on IT systems; operations unaffected",
       "description": "[CNBC TV18] CG Power and Industrial Solutions has reported a suspected cyber event on its information technology systems. The company said its core systems and operations have not been impacted and that it is working with internal and external cybersecurity...",
       "url": "https://www.cnbctv18.com/market/stocks/cg-power-and-industrial-solutions-share-price-reports-suspected-security-breach-on-it-systems-operations-unaffected-19972171.htm",
       "date": "2026-08-18T16:59:55Z"
-    },
-    {
-      "title": "Ransom Busters Claims It Hacked Ransomware Servers, Asks Victims for Up to $60,000",
-      "description": "[THE HACKER NEWS] Ransom Busters claims ransomware server access and asks victims for $20,000 to $60,000 to recover files and delete stolen data.",
-      "url": "https://thehackernews.com/2026/08/ransom-busters-claims-it-hacked.html",
-      "date": "2026-08-18T16:58:00Z"
-    },
-    {
-      "title": "CG Power flags suspected cyber incident; operations unaffected",
-      "description": "[THE FINANCIAL EXPRESS] CG Power and Industrial Solutions disclosed a suspected cyber event affecting IT systems but not core operations, working with cybersecurity experts and notifying CERT-In as per regulations.",
-      "url": "https://www.financialexpress.com/business/industry-cg-power-flags-suspected-cyber-incident-operations-unaffected-4320564/",
-      "date": "2026-08-18T16:48:04Z"
-    },
-    {
-      "title": "France to Notify Companies of Data Breach From Next Week: Min",
-      "description": "[BLOOMBERG TAX NEWS] France\u2019s tax agency will begin notifying companies impacted by the data hack beginning next week, budget minister David Amiel tells reporters in Paris.",
-      "url": "https://news.bloombergtax.com/daily-tax-report/france-to-notify-companies-of-data-breach-from-next-week-min",
-      "date": "2026-08-18T15:13:24Z"
     },
     {
       "title": "LLMs and Contextual Integrity",
