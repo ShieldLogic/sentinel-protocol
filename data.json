@@ -1,11 +1,29 @@
 {
-  "updated": "2026-08-19 18:19:03 UTC",
+  "updated": "2026-08-19 20:15:40 UTC",
   "news": [
+    {
+      "title": "Healthtech firm CareCloud data breach impacts 3.7 million patients",
+      "description": "[BLEEPINGCOMPUTER] U.S. healthcare IT company CareCloud disclosed that the data breach incident it suffered earlier this year has impacted more than 3.7 million individuals. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/healthtech-firm-carecloud-data-breach-impacts-37-million-patients/",
+      "date": "2026-08-19T20:07:12Z"
+    },
+    {
+      "title": "Cloudflare Workers Spectre Attack Leaks JWT From Co-Located Worker at 12 Bits/Second",
+      "description": "[FEEDS] Cybersecurity researchers have disclosed details of a&nbsp;remote Spectre attack&nbsp;against Cloudflare Workers that leaked a JSON Web Token (JWT) from a co-located Worker in the production environment at up to 12 bits per second, 360 times the...",
+      "url": "https://thehackernews.com/2026/08/cloudflare-workers-spectre-attack-leaks.html",
+      "date": "2026-08-19T19:02:40Z"
+    },
     {
       "title": "Hackers compromise 14,500 Dahua web cameras in 35-day campaign",
       "description": "[BLEEPINGCOMPUTER] In a large-scale campaign that researchers dubbed CameraSwarm, hackers compromised more than 14,500 Dahua IP cameras mostly in Ukraine and Russia. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-compromise-14-500-dahua-web-cameras-in-35-day-campaign/",
       "date": "2026-08-19T18:09:13Z"
+    },
+    {
+      "title": "OpenAI Pauses Frontier RL Training as It Tightens Defenses Against Unsafe AI Behavior",
+      "description": "[FEEDS] OpenAI on Tuesday revealed that it paused reinforcement learning (RL) training for its latest artificial intelligence (AI) models for two weeks while it shored up additional defenses and increased the scope of its monitoring to avert another Hugging...",
+      "url": "https://thehackernews.com/2026/08/openai-pauses-frontier-rl-training-as.html",
+      "date": "2026-08-19T18:06:44Z"
     },
     {
       "title": "US warns of AI-powered attacks on Siemens PLCs in critical infrastructure",
@@ -62,22 +80,58 @@
       "date": "2026-08-19T11:14:28Z"
     },
     {
-      "title": "Critical macOS, SharePoint, vCenter, and Microsoft IKE Flaws Under Active Exploitation",
-      "description": "[FEEDS] The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added four critical vulnerabilities to its Known Exploited Vulnerabilities (KEV) catalog, stating they are being exploited in the wild. The shortcomings added to the KEV...",
-      "url": "https://thehackernews.com/2026/08/critical-macos-sharepoint-vcenter-and.html",
-      "date": "2026-08-19T11:01:48Z"
-    },
-    {
       "title": "ICE Collecting DNA Samples",
       "description": "[SCHNEIER] ICE collected nearly a million DNA samples last year.",
       "url": "https://www.schneier.com/blog/archives/2026/08/ice-collecting-dna-samples.html",
       "date": "2026-08-19T10:46:37Z"
     },
     {
-      "title": "Critical RCE flaw in Windows IKE Extension now actively exploited",
-      "description": "[BLEEPINGCOMPUTER] The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned that hackers are exploiting a critical-severity remote code execution (RCE) flaw in the Windows Internet Key Exchange (IKE) Service Extensions component. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-critical-windows-ike-extension-flaw-now-exploited-in-attacks/",
-      "date": "2026-08-19T10:12:24Z"
+      "title": "SEBI to issue AI guidelines with human oversight and kill switches",
+      "description": "[THE HINDU BUSINESS LINE] SEBI will soon issue AI guidelines for capital markets, requiring human oversight, data controls and kill switches while addressing risks around bias and cybersecurity.",
+      "url": "https://www.thehindubusinessline.com/markets/sebi-to-issue-ai-guidelines-with-human-oversight-data-controls-and-kill-switches/article71363840.ece",
+      "date": "2026-08-19T08:02:48Z"
+    },
+    {
+      "title": "NUST-RIAC roundtable explores Russia-Pakistan Cybersecurity Partnership",
+      "description": "[THE NATION] ISLAMABAD - The National University of Sciences and Technology (NUST), in collaboration with the Russian International Affairs Council (RIAC), organised an online",
+      "url": "https://www.nation.com.pk/19-Aug-2026/nust-riac-roundtable-explores-russia-pakistan-cybersecurity-partnership",
+      "date": "2026-08-19T07:16:00Z"
+    },
+    {
+      "title": "Inside the $8 billion cybersecurity acquisition that rescued ServiceNow from the \u2018Saaspocalypse\u2019",
+      "description": "[FORTUNE] The deal for Yevgeny Dibrov\u2019s Armis was Israel\u2019s second-largest tech startup exit ever.",
+      "url": "https://fortune.com/2026/08/19/armis-wiz-8-billion-cybersecurity-acquisition-servicenow-saaspocalypse/",
+      "date": "2026-08-19T06:58:00Z"
+    },
+    {
+      "title": "Cybersecurity firm Proofpoint sets up AI CoE in Hyderabad, to hire 200 engineers",
+      "description": "[DAILY EXCELSIOR] NEW DELHI, Aug 19: Global cybersecurity firm Proofpoint on Wednesday said it has set up an AI Security Engineering Centre of Excellence in Hyderabad and looks to hire over 200 engineers over the next 12 to 24 months to meet...",
+      "url": "https://www.dailyexcelsior.com/cybersecurity-firm-proofpoint-sets-up-ai-coe-in-hyderabad-to-hire-200-engineers/",
+      "date": "2026-08-19T06:47:44Z"
+    },
+    {
+      "title": "Loyalist College advances medical imaging training with Sectra's Education Portal",
+      "description": "[PR NEWSWIRE UK] /PRNewswire/ -- International medical imaging IT and cybersecurity company Sectra (STO: SECT B) will provide its cloud-based Education Portal to Loyalist...",
+      "url": "https://www.prnewswire.co.uk/news-releases/loyalist-college-advances-medical-imaging-training-with-sectras-education-portal-302855003.html",
+      "date": "2026-08-19T06:47:00Z"
+    },
+    {
+      "title": "Search for accountability begins after massive data breach in Latvia - CSDD chief points to Tet",
+      "description": "[EUROPE SAYS] Tet, the company responsible for monitoring the IT infrastructure of Latvia\u2019s Road Traffic Safety Directorate (CSDD), failed to detect the cyberattack, CSDD",
+      "url": "https://www.europesays.com/3202827/",
+      "date": "2026-08-19T06:46:37Z"
+    },
+    {
+      "title": "NTA overhaul: Four-tier paper checking, new experts and CISF security for offices",
+      "description": "[MALAYALA MANORAMA] The NTA is undergoing a significant overhaul, including a four-tier question paper check, removal of 600 experts, induction of new specialists, and.National Testing Agency overhaul, examination system reform, NEET-UG paper leak, UGC-NET controversy,...",
+      "url": "https://www.onmanorama.com/news/india/2026/08/19/nta-overhaul-exam-scandal.html",
+      "date": "2026-08-19T06:36:46Z"
+    },
+    {
+      "title": "Charles Schwab to scale Hyd GCC to 2,000 employees by 2027",
+      "description": "[TIMES OF INDIA] Charles Schwab will expand its Hyderabad GCC to 500 staff by end-2026 and 2,000 by 2027, focusing on engineering, cloud, data, AI and cybersecurity.",
+      "url": "https://timesofindia.indiatimes.com/city/bengaluru/charles-schwab-to-scale-hyd-gcc-to-2000-employees-by-2027/articleshow/133326587.cms",
+      "date": "2026-08-19T06:30:00Z"
     },
     {
       "title": "Regula Earns Double Recognition for Age Assurance as Global Requirements Expand",
@@ -86,70 +140,16 @@
       "date": "2026-08-19T06:09:13Z"
     },
     {
-      "title": "Microsoft Links 30+ Rotating Domains to MacSync Stealer Infrastructure",
-      "description": "[FEEDS] Microsoft Defender Experts have linked more than 30 web domains to MacSync Stealer, a macOS-focused information stealer, after correlating recurring endpoint and network behaviors across changing infrastructure, tracing the malware from payload...",
-      "url": "https://thehackernews.com/2026/08/microsoft-links-30-rotating-domains-to.html",
-      "date": "2026-08-19T06:01:53Z"
-    },
-    {
       "title": "Cybersecurity Firm Proofpoint Sets Up AI CoE In Hyderabad, To Hire 200 Engineers",
       "description": "[OUTLOOK BUSINESS] The new Hyderabad facility will focus on advancing next-generation AI security technologies. The firm plans to recruit more than 200 engineers over the next 12 to 24 months to staff the Centre.",
       "url": "https://www.outlookbusiness.com/corporate/cybersecurity-firm-proofpoint-sets-up-ai-coe-in-hyderabad-to-hire-200-engineers",
       "date": "2026-08-19T05:16:24Z"
     },
     {
-      "title": "OpenAI makes AI safety changes in wake of Hugging Face breach",
-      "description": "[THE STAR] OpenAI said it's implementing more aggressive systems to monitor and safeguard artificial intelligence models under development after recent cybersecurity incidents ignited concerns about AI tools running amok.",
-      "url": "https://www.thestar.com.my/tech/tech-news/2026/08/19/openai-makes-ai-safety-changes-in-wake-of-hugging-face-breach",
-      "date": "2026-08-19T05:00:00Z"
-    },
-    {
-      "title": "Australian apartment hotel Quest reveals customer data breach after hackers accessed database",
-      "description": "[7NEWS AUSTRALIA] Customers are warned to stay alert after unauthorised access to a database exposed guests\u2019 personal details.",
-      "url": "https://7news.com.au/news/australian-apartment-hotel-quest-reveals-customer-data-breach-after-hackers-accessed-database-c-22746123",
-      "date": "2026-08-19T04:07:47Z"
-    },
-    {
-      "title": "OpenAI To Rewrite Preparedness Framework, Pauses Frontier RL Training After Hugging Face Breach & Astra Cybersecurity Concerns",
-      "description": "[FREE PRESS JOURNAL] OpenAI is rewriting its Preparedness Framework and pausing certain frontier training after determining its Astra system may have reached a critical cybersecurity threshold, following a breach of Hugging Face",
-      "url": "https://www.freepressjournal.in/tech/openai-to-rewrite-preparedness-framework-pauses-frontier-rl-training-after-hugging-face-breach-astra-cybersecurity-concerns",
-      "date": "2026-08-19T03:41:09Z"
-    },
-    {
-      "title": "Japan mulls expert teams for cyberattack-hit local governments",
-      "description": "[THE JAPAN TIMES ] The considerations come as difficulties rise in securing sufficient personnel and budgets for cybersecurity measures.",
-      "url": "https://www.japantimes.co.jp/news/2026/08/19/japan/japan-cybersecurity-expert-teams/",
-      "date": "2026-08-19T03:37:50Z"
-    },
-    {
-      "title": "OpenAI is slowing down AI training as models keep getting more powerful",
-      "description": "[INDIA TODAY] OpenAI has announced that it is slowing down AI training and making changes to its safety policies. This move comes after its upcoming model Astra was found to have reached critical cybersecurity thresholds.",
-      "url": "https://www.indiatoday.in/technology/news/story/openai-is-slowing-down-ai-training-as-models-keep-getting-more-powerful-2974535-2026-08-19",
-      "date": "2026-08-19T03:03:12Z"
-    },
-    {
-      "title": "UP pitches itself as potential hub for India-US economic ties",
-      "description": "[HINDUSTAN TIMES] Govt emphasises opportunities for American companies in areas including AI, robotics, advanced manufacturing, cybersecurity, semiconductors, health care tech and research",
-      "url": "https://www.hindustantimes.com/cities/lucknow-news/up-pitches-itself-as-potential-hub-for-india-us-economic-ties-101787077524742.html",
-      "date": "2026-08-19T02:42:00Z"
-    },
-    {
-      "title": "assisted tool helps secure satellite communications after Russia\u2019s 2022 hack",
-      "description": "[CNBC TV18] An AI-assisted cybersecurity tool used to secure Viasat after Russia's 2022 satellite hack has been released commercially, as threats to critical infrastructure from state-backed hackers grow.",
-      "url": "https://www.cnbctv18.com/world/ai-assisted-tool-helps-secure-satellite-communications-after-russias-2022-hack-19972316.htm",
-      "date": "2026-08-19T02:28:58Z"
-    },
-    {
       "title": "ISC Stormcast For Wednesday, August 19th, 2026 https://isc.sans.edu/podcastdetail/10058, (Wed, Aug 19th)",
       "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
       "url": "https://isc.sans.edu/diary/rss/33258",
       "date": "2026-08-19T02:00:03Z"
-    },
-    {
-      "title": "Stocks to watch, Aug 19: Shipla Medicare, CG Power, Exide, Manipal Health, JG Chem, PNB Housing, ONGC, Ducon",
-      "description": "[THE HINDU BUSINESS LINE] Key updates on buzzing stocks: Shilpa Medicare's recall, Manipal Health's acquisition, ONGC's gas facilities, and cybersecurity concerns at CG Power.",
-      "url": "https://www.thehindubusinessline.com/markets/buzzing-stocks-shipla-medicare-cg-power-exide-manipal-health-jg-chem-pnb-housing-ongc-ducon/article71363129.ece",
-      "date": "2026-08-19T01:49:20Z"
     },
     {
       "title": "LLMs and Contextual Integrity",
