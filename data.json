@@ -1,6 +1,18 @@
 {
-  "updated": "2026-08-20 14:25:05 UTC",
+  "updated": "2026-08-20 16:21:58 UTC",
   "news": [
+    {
+      "title": "Critical Elementor Pro bug exposes WordPress sites to RCE attacks",
+      "description": "[BLEEPINGCOMPUTER] A critical vulnerability in the Elementor Pro WordPress plugin could allow attackers to upload executable files for remote code execution on the server. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/critical-elementor-pro-bug-exposes-wordpress-sites-to-rce-attacks/",
+      "date": "2026-08-20T14:39:48Z"
+    },
+    {
+      "title": "New Cryptographic Context Injection Attack Could Let Web Pages Steal Grok Chat Data",
+      "description": "[FEEDS] Adversa AI has disclosed an attack technique that it says can cause xAI's Grok chatbot to send a user's name, approximate location, subscription tier, and the prompts from the ongoing conversation to an attacker-controlled server after the user asks...",
+      "url": "https://thehackernews.com/2026/08/new-cryptographic-context-injection.html",
+      "date": "2026-08-20T14:36:27Z"
+    },
     {
       "title": "How MSPs can catch phishing attacks email filters miss",
       "description": "[BLEEPINGCOMPUTER] AI is making phishing attacks more personalized, convincing, and difficult for traditional email filters to detect. Kaseya explains how MSPs can monitor identity, email, and endpoint activity to detect and contain attacks that make it past the...",
@@ -56,12 +68,6 @@
       "date": "2026-08-20T11:45:00Z"
     },
     {
-      "title": "CDN Tsunami Attack Abuses HTTP/3 Translation for Up to 350x DoS Amplification",
-      "description": "[FEEDS] Cybersecurity researchers have disclosed two denial-of-service (DoS) attacks that exploit how major content delivery networks (CDNs) convert client-facing HTTP/3 traffic into HTTP/1.1 requests to the websites they front, amplifying a low-bandwidth...",
-      "url": "https://thehackernews.com/2026/08/cdn-tsunami-attack-abuses-http3.html",
-      "date": "2026-08-20T11:39:35Z"
-    },
-    {
       "title": "CISA warns of hackers exploiting critical MLflow vulnerability",
       "description": "[BLEEPINGCOMPUTER] The Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies that threat actors are now exploiting a critical vulnerability in the MLflow open-source AI engineering platform. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-critical-mlflow-vulnerability/",
@@ -86,10 +92,16 @@
       "date": "2026-08-20T09:46:54Z"
     },
     {
-      "title": "Microsoft says August Windows updates may cause gaming issues",
-      "description": "[BLEEPINGCOMPUTER] Microsoft is investigating a potential issue with the August 2026 updates that may prevent some games from launching or cause them to crash on affected Windows 11 systems. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-august-windows-updates-may-cause-gaming-issues-reboots/",
-      "date": "2026-08-20T06:51:03Z"
+      "title": "Samagra Data Breach Raises Security Concerns Over 8 Crore MP Citizens\u2019 Records",
+      "description": "[FREE PRESS JOURNAL] Cyber police are investigating a reported data breach in Madhya Pradesh\u2019s Samagra portal, which holds records of around eight crore citizens. The probe began after unauthorised data changes were detected. Officials have tightened security and are...",
+      "url": "https://www.freepressjournal.in/bhopal/samagra-data-breach-raises-security-concerns-over-8-crore-mp-citizens-records",
+      "date": "2026-08-20T03:30:00Z"
+    },
+    {
+      "title": "Researchers Locked Out Of OpenAI's Advanced AI Tools, Here's What Happened",
+      "description": "[TIMES NOW] OpenAI says a technical glitch caused some cybersecurity researchers to lose access to its Daybreak Blue programme, forcing affected users to re-verify their accounts., Technology & Science, Times Now",
+      "url": "https://www.timesnownews.com/technology-science/researchers-locked-out-of-openais-advanced-ai-tools-heres-what-happened-article-155800724",
+      "date": "2026-08-20T03:17:19Z"
     },
     {
       "title": "ISC Stormcast For Thursday, August 20th, 2026 https://isc.sans.edu/podcastdetail/10060, (Thu, Aug 20th)",
@@ -144,18 +156,6 @@
       "description": "[ANI (ASIAN NEWS INTERNATIONAL)] To strengthen cybersecurity in the digital era and equip law enforcement agencies with modern technology, the 'KANAD S.H.I.E.L.D.' Cybersecurity Hackathon 2026 was organised at the KCG Campus (i-Hub Gujarat) in Ahmedabad.",
       "url": "https://www.aninews.in/news/national/general-news/cyber-hackathon-is-not-just-about-competition-but-about-giving-gujarat-police-a-new-direction-dy-cm20260819225239/",
       "date": "2026-08-19T17:22:40Z"
-    },
-    {
-      "title": "US warns hackers are targeting key Siemens devices",
-      "description": "[NEWS24] Several US government agencies warned that unidentified \u200chackers are trying to \u2060breach devices made by Siemens that are \u2060used to monitor and operate water facilities and other critical infrastructure systems, according to a cybersecurity advisory...",
-      "url": "https://www.news24.com/business/tech/us-warns-hackers-are-targeting-key-siemens-devices-20260819-0976",
-      "date": "2026-08-19T16:17:10Z"
-    },
-    {
-      "title": "US warns Siemens devices can be hacked amid fears Iran is breaching water plants",
-      "description": "[THE STAR] Aug 19 (Reuters) - Several \u2060U.S. government agencies warned that unidentified hackers are trying to breach \u2060devices made by Siemens that are used to monitor and operate water \u200cfacilities and other critical infrastructure systems, according to a...",
-      "url": "https://www.thestar.com.my/tech/tech-news/2026/08/20/us-warns-siemens-devices-can-be-hacked-amid-fears-iran-is-breaching-water-plants",
-      "date": "2026-08-19T16:09:00Z"
     },
     {
       "title": "Simple Scans for Cloud Metadata Service, (Wed, Aug 19th)",
