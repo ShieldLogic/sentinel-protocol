@@ -1,6 +1,12 @@
 {
-  "updated": "2026-08-20 18:23:12 UTC",
+  "updated": "2026-08-20 20:17:23 UTC",
   "news": [
+    {
+      "title": "Suspected Russian Hackers Abuse Google OAuth and WhatsApp Linking to Hijack Accounts",
+      "description": "[FEEDS] Three distinct suspected Russian cyber espionage threat clusters have been observed leveraging legitimate authentication flows to single out individuals working in academia, aerospace and defense, governments, and think tanks across Europe, as well...",
+      "url": "https://thehackernews.com/2026/08/suspected-russian-hackers-abuse-google.html",
+      "date": "2026-08-20T19:59:19Z"
+    },
     {
       "title": "Hackers poison arrayref Rust crate to push infostealer malware",
       "description": "[BLEEPINGCOMPUTER] Hackers compromised the maintainer account behind the widely used Rust crate arrayref to introduce malware that executed on developers' systems during compilation. [...]",
@@ -12,6 +18,12 @@
       "description": "[SCHNEIER] OpenAI presented details of its AI&#8217;s model&#8217;s cyberattack on Hugging Face at Black Hat last week. Simon Willison details the timeline. It&#8217;s really interesting to read through&#8212;and really impressive cyberoffense work.",
       "url": "https://www.schneier.com/blog/archives/2026/08/detailed-timeline-of-openais-cyberattack-on-hugging-face.html",
       "date": "2026-08-20T17:44:36Z"
+    },
+    {
+      "title": "ThreatsDay: Gogs 10.0 RCE, n8n Workflow-to-RCE, $10M Reward, GLM-5.3 AI Exploit and More",
+      "description": "[FEEDS] A lot of this week\u2019s trouble starts with something trusted doing exactly what it was allowed to do. Signed drivers get turned against defenses. Legitimate apps help malware blend in. A weak header check opens a path to code execution. Elsewhere,...",
+      "url": "https://thehackernews.com/2026/08/threatsday-gogs-100-rce-n8n-workflow-to.html",
+      "date": "2026-08-20T17:23:48Z"
     },
     {
       "title": "AI-Generated Exploit Scripts Target Siemens S7 PLCs in U.S. Critical Infrastructure",
@@ -50,12 +62,6 @@
       "date": "2026-08-20T13:35:13Z"
     },
     {
-      "title": "Attackers Exploit Zimbra SNMP Flaw for Unauthenticated Remote Code Execution",
-      "description": "[FEEDS] A now-patched security flaw impacting Zimbra Collaboration (ZCS) has come under active exploitation in the wild, according to the Polish Computer Emergency Response Team (CERT Polska). The vulnerability in question is CVE-2026-73570 (CVSS score:...",
-      "url": "https://thehackernews.com/2026/08/attackers-exploit-zimbra-snmp-flaw-for.html",
-      "date": "2026-08-20T13:24:28Z"
-    },
-    {
       "title": "Using Microsoft Graph and Powershell - Risk Detection Commands, (Thu, Aug 20th)",
       "description": "[ISC] Building on the last diary on Using MS Graph and Powershell, let&&#x23&#x3b;x26&#x3b;&#x23&#x3b;39&#x3b;s look at \"Risky\" logins.&#xd;",
       "url": "https://isc.sans.edu/diary/rss/33266",
@@ -74,12 +80,6 @@
       "date": "2026-08-20T12:14:38Z"
     },
     {
-      "title": "Zombie Card Attack Can Revive Expired Visa Cards for Contactless Payments",
-      "description": "[FEEDS] Researchers at the University of Massachusetts Amherst have demonstrated an attack that revives expired Visa contactless credit cards for real in-store purchases by rewriting the expiration date a point-of-sale (POS) terminal reads over near-field...",
-      "url": "https://thehackernews.com/2026/08/zombie-card-attack-can-revive-expired.html",
-      "date": "2026-08-20T12:01:24Z"
-    },
-    {
       "title": "CISA warns of hackers exploiting critical MLflow vulnerability",
       "description": "[BLEEPINGCOMPUTER] The Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies that threat actors are now exploiting a critical vulnerability in the MLflow open-source AI engineering platform. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-critical-mlflow-vulnerability/",
@@ -96,6 +96,24 @@
       "description": "[SCHNEIER] A usage policy for Flock license plate reader cameras tells police not to talk about the cameras: When cops use Flock to arrest someone in Wapello County, Iowa, they don&#8217;t want them to know. A usage policy for the automated license plate...",
       "url": "https://www.schneier.com/blog/archives/2026/08/police-are-hiding-their-use-of-flock-surveillance-cameras.html",
       "date": "2026-08-20T09:48:55Z"
+    },
+    {
+      "title": "More than 153,000 students, staff affected in Canvas data breach: privacy watchdog",
+      "description": "[SOUTH CHINA MORNING POST] Investigation by Hong Kong Privacy Commissioner for Personal Data finds 96 per cent of those affected in May cyberattack were from City University.",
+      "url": "https://www.scmp.com/news/hong-kong/education/article/3364668/more-153000-students-staff-affected-canvas-data-breach-privacy-watchdog",
+      "date": "2026-08-20T07:35:55Z"
+    },
+    {
+      "title": "Data breach exposes health records of 3.8M patients",
+      "description": "[NEWSBYTES] CareCloud has confirmed a data breach exposing medical records and personal information of over 3.75 million patients, marking the fifth-largest health data theft in 2026.",
+      "url": "https://www.newsbytesapp.com/news/science/massive-data-breach-at-carecloud-exposes-health-records-of-3-8m/story",
+      "date": "2026-08-20T07:28:15Z"
+    },
+    {
+      "title": "OpenAI glitch revokes access to AI program for cybersecurity researchers",
+      "description": "[NEWSBYTES] Several researchers claim OpenAI abruptly revoked their access to a restricted cybersecurity program, with the company attributing the issue to an unintentional error.",
+      "url": "https://www.newsbytesapp.com/news/science/cybersecurity-researchers-lose-access-to-openai-s-powerful-models-after-glitch/story",
+      "date": "2026-08-20T07:11:09Z"
     },
     {
       "title": "IIT Kanpur to launch Cybersecurity Vocational program for 3 lakh students across 570+ affiliated colleges",
@@ -144,24 +162,6 @@
       "description": "[PHYS.ORG] Quantum computers hold great promise for applications from drug discovery to cybersecurity. Yet figuring out what would give quantum computers their edge over everyday \"classical\" computers is a subtle problem. A new theoretical study led by...",
       "url": "https://phys.org/news/2026-08-bit-magic-secret-quantum-negativity.html",
       "date": "2026-08-19T20:40:04Z"
-    },
-    {
-      "title": "Researchers say OpenAI revoked their access to limited cyber program",
-      "description": "[TECHCRUNCH] Multiple cybersecurity researchers said they suddenly lost access to OpenAI\u2019s Trusted Access for Cyber (TAC) program, which offers models with fewer guardrails for vetted users.",
-      "url": "https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/",
-      "date": "2026-08-19T18:46:14Z"
-    },
-    {
-      "title": "Rs 29cr Neuron 2.0 hub to focus on cybersecurity, next-gen startups",
-      "description": "[TIMES OF INDIA] Punjab signs MoU with STPI to set up Rs 29-crore Neuron 2.0 incubation hub in Mohali, focusing on cybersecurity, AI, IoT, skilling and startups.",
-      "url": "https://timesofindia.indiatimes.com/city/chandigarh/rs-29cr-neuron-2-0-hub-to-focus-on-cybersecurity-next-gen-startups/articleshow/133357634.cms",
-      "date": "2026-08-19T18:42:00Z"
-    },
-    {
-      "title": "3i Infotech shareholder proposes removal of director Umesh Mehta at AGM",
-      "description": "[SCANX.TRADE] NMS Leasing and Infotech Private Limited, holding 1.00039% of 3i Infotech, has proposed removing Non-Executive Director Umesh Mehta at the upcoming AGM. The shareholder questions his IT services industry experience. The Board opposes the removal,...",
-      "url": "https://scanx.trade/stock-market-news/companies/3i-infotech-shareholder-proposes-removal-director-umesh-mehta-agm/48706469",
-      "date": "2026-08-19T17:34:39Z"
     },
     {
       "title": "Simple Scans for Cloud Metadata Service, (Wed, Aug 19th)",
