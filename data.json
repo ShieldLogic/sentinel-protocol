@@ -1,11 +1,35 @@
 {
-  "updated": "2026-08-21 16:20:03 UTC",
+  "updated": "2026-08-21 18:22:16 UTC",
   "news": [
+    {
+      "title": "New SynkLoader malware pushed in Microsoft Teams phishing campaign",
+      "description": "[BLEEPINGCOMPUTER] A previously unknown malware family dubbed SynkLoader is being distributed in Microsoft Teams phishing campaigns to steal credentials via a fake lock screen. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/new-synkloader-malware-pushed-in-microsoft-teams-phishing-campaign/",
+      "date": "2026-08-21T18:01:30Z"
+    },
+    {
+      "title": "AI Is Learning to Write Genetic Code",
+      "description": "[SCHNEIER] This sort of research is both exciting and terrifying: The two models in question were told to generate complete genomes for a viable bacteriophage&#8212;a type of virus able to infect and replicate itself inside bacteria, destroying them from the...",
+      "url": "https://www.schneier.com/blog/archives/2026/08/ai-is-learning-to-write-genetic-code.html",
+      "date": "2026-08-21T16:51:50Z"
+    },
     {
       "title": "Hundreds of leaked AWS keys give full control over corporate accounts",
       "description": "[BLEEPINGCOMPUTER] More than 9,300 Amazon Web Services (AWS) access keys publicly exposed between August 2022 and August 2026 are still active and valid. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/hundreds-of-leaked-aws-keys-give-full-control-over-corporate-accounts/",
       "date": "2026-08-21T15:55:15Z"
+    },
+    {
+      "title": "Microsoft Defender's Own Driver Can Be Weaponized to Delete Security Software at Boot",
+      "description": "[FEEDS] Check Point Research has disclosed a technique that uses Microsoft Defender's own legitimately signed boot-time remediation driver to perform arbitrary kernel-level file and registry operations on Windows systems ranging from Windows 7 through...",
+      "url": "https://thehackernews.com/2026/08/microsoft-defenders-own-driver-can-be.html",
+      "date": "2026-08-21T15:52:10Z"
+    },
+    {
+      "title": "Android Car Malware Spreads Through Built-In Updaters for Ad Fraud, Proxy Botnet",
+      "description": "[FEEDS] Cybersecurity researchers have flagged a new malware family that's specifically designed to infect Android-based vehicle head unit firmware developed by DoFun. Kaspersky, which discovered the threat in June 2026, said the end goal of the malware is...",
+      "url": "https://thehackernews.com/2026/08/android-car-malware-spreads-through.html",
+      "date": "2026-08-21T15:41:44Z"
     },
     {
       "title": "Microsoft blames Windows gaming issues on RGB lighting devices",
@@ -38,12 +62,6 @@
       "date": "2026-08-21T11:21:39Z"
     },
     {
-      "title": "Microsoft warns of max severity Entra ID flaw exploited in attacks",
-      "description": "[BLEEPINGCOMPUTER] Microsoft has patched a maximum-severity vulnerability in the Entra ID identity and access management (IAM) platform that has been exploited in attacks. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-max-severity-entra-id-flaw-exploited-in-attacks/",
-      "date": "2026-08-21T11:04:10Z"
-    },
-    {
       "title": "Cisco Patches Nine Crosswork and Secure Workload Flaws, Five Scoring CVSS 10.0",
       "description": "[FEEDS] Cisco has published another round of security updates for Crosswork platforms and Secure Workload Software as part of a continued comprehensive internal security review. Four of the security vulnerabilities affect Crosswork Data Gateway, Crosswork...",
       "url": "https://thehackernews.com/2026/08/cisco-patches-nine-crosswork-and-secure.html",
@@ -62,10 +80,46 @@
       "date": "2026-08-21T07:04:25Z"
     },
     {
-      "title": "Microsoft Entra ID Flaw (CVSS 10.0) Exploited in Wild, Allows Remote Code Execution",
-      "description": "[FEEDS] Microsoft on Thursday warned of a maximum-severity security flaw in Entra ID that it said has been exploited in the wild, but noted that no customer action is required. The vulnerability, tracked as CVE-2026-69836 (CVSS score: 10.0), is a case of...",
+      "title": "Microsoft Patches Severe Entra ID Flaw (CVSS 10.0) Allowing Remote Code Execution",
+      "description": "[FEEDS] Update: The story was updated after publication to note that the vulnerability has not been exploited. Although the security bulletin originally marked the \"Exploited\" field under the Exploitability Assessment table as \"Yes,\" on August 21, 2026,...",
       "url": "https://thehackernews.com/2026/08/microsoft-entra-id-flaw-cvss-100.html",
       "date": "2026-08-21T06:06:11Z"
+    },
+    {
+      "title": "Piyush Goyal, Check Point Software CEO Discuss Cybersecurity And AI-Driven Security For India\u2019s Digital Infrastructure",
+      "description": "[FREE PRESS JOURNAL] Piyush Goyal and Check Point CEO Nadav Zafrir discussed cybersecurity, AI-driven security, digital trust and R&D expansion to strengthen India\u2019s digital infrastructure.",
+      "url": "https://www.freepressjournal.in/business/piyush-goyal-check-point-software-ceo-discuss-cybersecurity-and-ai-driven-security-for-indias-digital-infrastructure",
+      "date": "2026-08-21T06:00:03Z"
+    },
+    {
+      "title": "How Multi-Cloud Backup and Recovery Became the Most Interesting Problem in Infrastructure",
+      "description": "[TECHBULLION] Multi-cloud backup and recovery went from afterthought to strategic in a year. On AI agents, ransomware economics, and the dataset hiding in your backups.",
+      "url": "https://techbullion.com/how-multi-cloud-backup-and-recovery-became-the-most-interesting-problem-in-infrastructure/",
+      "date": "2026-08-21T05:52:28Z"
+    },
+    {
+      "title": "Piyush Goyal, Check Point Software CEO discuss cybersecurity, AI",
+      "description": "[LOKMAT TIMES] Piyush Goyal, Check Point Software CEO discuss cybersecurity, AI-driven security for India's digital infrastructure - New Delhi, Aug 21 Union Commerce and Industry Minister Piyush Goyal held a meeting with Check Point Software ... Get Latest News on...",
+      "url": "https://www.lokmattimes.com/business/piyush-goyal-check-point-software-ceo-discuss-cybersecurity-ai-driven-security-for-indias-digital-infrastructure/",
+      "date": "2026-08-21T05:45:56Z"
+    },
+    {
+      "title": "Piyush Goyal, Check Point Software CEO discuss cybersecurity, AI",
+      "description": "[LOKMAT TIMES] Piyush Goyal, Check Point Software CEO discuss cybersecurity, AI-driven security for India's digital infrastructure - New Delhi, Aug 21 Union Commerce and Industry Minister Piyush Goyal held a meeting with Check Point Software ... Get Latest News on...",
+      "url": "https://www.lokmattimes.com/technology/piyush-goyal-check-point-software-ceo-discuss-cybersecurity-ai-driven-security-for-indias-digital-infrastructure-1/",
+      "date": "2026-08-21T05:45:56Z"
+    },
+    {
+      "title": "Piyush Goyal, Check Point Software CEO discuss cybersecurity, AI",
+      "description": "[LOKMAT TIMES] Piyush Goyal, Check Point Software CEO discuss cybersecurity, AI-driven security for India's digital infrastructure - New Delhi, Aug 21 Union Commerce and Industry Minister Piyush Goyal held a meeting with Check Point Software ... Get Latest News on...",
+      "url": "https://www.lokmattimes.com/international/piyush-goyal-check-point-software-ceo-discuss-cybersecurity-ai-driven-security-for-indias-digital-infrastructure-2/",
+      "date": "2026-08-21T05:45:56Z"
+    },
+    {
+      "title": "Ronan Murphy\u2019s cybersecurity group booked \u20ac14m gain from Getvisibility sale",
+      "description": "[THE IRISH TIMES] The firm Murphy founded with Mark Brosnan was acquired last year by Texas-based company Forcepoint for an undisclosed fee",
+      "url": "https://www.irishtimes.com/business/2026/08/21/ronan-murphys-cybersecurity-group-booked-14m-gain-from-getvisibility-sale/",
+      "date": "2026-08-21T05:00:01Z"
     },
     {
       "title": "Who Got Missed in the MFA Rollout&#x3f; More Powershell &#x2b; Graph &#x2b; Entra scripting&#x21;, (Fri, Aug 21st)",
@@ -110,54 +164,6 @@
       "date": "2026-08-20T23:29:52Z"
     },
     {
-      "title": "AI company Cognizant, based in NJ, affected by data breach",
-      "description": "[NORTHJERSEY.COM] North Jersey-based artificial intelligence company Cognizant was victimized by a data breach that may have exposed users' personal information.",
-      "url": "https://www.northjersey.com/story/news/2026/08/20/ai-company-cognizant-nj-data-breach/91392527007/",
-      "date": "2026-08-20T20:38:30Z"
-    },
-    {
-      "title": "Rust Supply Chain Attack Puts Build-Time Malware in Crates with 245 Million Downloads",
-      "description": "[FEEDS] The Rust Project has deleted malicious versions of three widely used Rust crates from crates.io after a compromised maintainer account published releases that added a typosquatted dependency whose build script downloaded and executed a remote...",
-      "url": "https://thehackernews.com/2026/08/rust-supply-chain-attack-puts-build.html",
-      "date": "2026-08-20T20:22:35Z"
-    },
-    {
-      "title": "Someone targeted security researchers using a fake crypto conference as a lure",
-      "description": "[TECHCRUNCH] A hacker pretending to work for a leading cryptocurrency news website targeted several cybersecurity professionals using Google Docs as a way to deliver malware.",
-      "url": "https://techcrunch.com/2026/08/20/someone-targeted-security-researchers-using-a-fake-crypto-conference-as-a-lure/",
-      "date": "2026-08-20T20:00:00Z"
-    },
-    {
-      "title": "Suspected Russian Hackers Abuse Google OAuth and WhatsApp Linking to Hijack Accounts",
-      "description": "[FEEDS] Three distinct suspected Russian cyber espionage threat clusters have been observed leveraging legitimate authentication flows to single out individuals working in academia, aerospace and defense, governments, and think tanks across Europe, as well...",
-      "url": "https://thehackernews.com/2026/08/suspected-russian-hackers-abuse-google.html",
-      "date": "2026-08-20T19:59:19Z"
-    },
-    {
-      "title": "Army network needs digital twin for training, testing, cybersecurity: NETCOM chief",
-      "description": "[BREAKING DEFENSE] \u201cIt\u2019s a big ask,\u201d acknowledged Maj. Gen. Denise McPhail, chief of Army Network Command, but it could allow NETCOM to \u201cleverage AI in that model to understand our vulnerabilities, where our gaps are.\u201d",
-      "url": "https://breakingdefense.com/2026/08/army-network-needs-digital-twin-for-training-testing-cybersecurity-netcom-chief/",
-      "date": "2026-08-20T19:55:53Z"
-    },
-    {
-      "title": "Barracuda Networks opens five cybersecurity COEs in Karnataka",
-      "description": "[THE HINDU] Barracuda Networks, a California-based cybersecurity firm, has opened Cybersecurity Centres of Excellence (COEs) at five engineering colleges in Karnataka.",
-      "url": "https://www.thehindu.com/news/national/karnataka/barracuda-networks-opens-five-cybersecurity-coes-in-karnataka/article71369573.ece",
-      "date": "2026-08-20T19:29:31Z"
-    },
-    {
-      "title": "Tanium Cofounder Orion Hindawi Returns As CEO Amid Leadership Shift",
-      "description": "[BUSINESS INSIDER] Orion Hindawi, cofounder of $9 billion cybersecurity startup Tanium, returns as CEO, as Dan Streetman steps down. Tanium also made some job cuts.",
-      "url": "https://www.businessinsider.com/tanium-cofounder-orion-hindawi-returns-as-ceo-leadership-shift-2026-8",
-      "date": "2026-08-20T19:10:28Z"
-    },
-    {
-      "title": "Ireland\u2019s sports capital grant website offline due to cybersecurity risk",
-      "description": "[THE IRISH TIMES] \u2018Modern, secure and user-friendly replacement\u2019 will be made available as soon as possible",
-      "url": "https://www.irishtimes.com/ireland/2026/08/20/irelands-sports-capital-grant-website-offline-due-to-cybersecurity-risk/",
-      "date": "2026-08-20T18:14:30Z"
-    },
-    {
       "title": "Detailed Timeline of OpenAI\u2019s Cyberattack on Hugging Face",
       "description": "[SCHNEIER] OpenAI presented details of its AI&#8217;s model&#8217;s cyberattack on Hugging Face at Black Hat last week. Simon Willison details the timeline. It&#8217;s really interesting to read through&#8212;and really impressive cyberoffense work.",
       "url": "https://www.schneier.com/blog/archives/2026/08/detailed-timeline-of-openais-cyberattack-on-hugging-face.html",
@@ -198,12 +204,6 @@
       "description": "[SCHNEIER] I have been thinking a lot about AI and integrity. Part of that is contextual integrity. I recently found two papers on the topic. &#8220;CIMemories: A Compositional Benchmark for Contextual Integrity of Persistent Memory in LLMs&#8220;: Abstract:...",
       "url": "https://www.schneier.com/blog/archives/2026/08/llms-and-contextual-integrity.html",
       "date": "2026-08-18T10:40:16Z"
-    },
-    {
-      "title": "Hacking Public Wi-Fi DNS to Steal Credentials",
-      "description": "[SCHNEIER] Criminals are hacking into public Wi-Fi devices&#8212;at hotels, conference centers, and so on&#8212;around the world and changing their DNS settings. The goal is to redirect users to fake login pages and steal their credentials.",
-      "url": "https://www.schneier.com/blog/archives/2026/08/hacking-public-wi-fi-dns-to-steal-credentials.html",
-      "date": "2026-08-17T11:18:03Z"
     }
   ]
 }
