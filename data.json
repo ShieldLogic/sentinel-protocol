@@ -1,6 +1,18 @@
 {
-  "updated": "2026-08-21 06:28:18 UTC",
+  "updated": "2026-08-21 08:27:23 UTC",
   "news": [
+    {
+      "title": "GitLab CVE-2026-19478 Comes Under Active Exploitation Within Days of Disclosure",
+      "description": "[FEEDS] A newly disclosed security flaw in GitLab has come under active exploitation within days of public disclosure, according to watchTowr. The vulnerability in question is CVE-2026-19478 (CVSS score: 9.4), a case of code injection that allows an...",
+      "url": "https://thehackernews.com/2026/08/gitlab-cve-2026-19478-comes-under.html",
+      "date": "2026-08-21T07:04:25Z"
+    },
+    {
+      "title": "Microsoft Entra ID Flaw (CVSS 10.0) Exploited in Wild, Allows Remote Code Execution",
+      "description": "[FEEDS] Microsoft on Thursday warned of a maximum-severity security flaw in Entra ID that it said has been exploited in the wild, but noted that no customer action is required. The vulnerability, tracked as CVE-2026-69836 (CVSS score: 10.0), is a case of...",
+      "url": "https://thehackernews.com/2026/08/microsoft-entra-id-flaw-cvss-100.html",
+      "date": "2026-08-21T06:06:11Z"
+    },
     {
       "title": "Who Got Missed in the MFA Rollout&#x3f; More Powershell &#x2b; Graph &#x2b; Entra scripting&#x21;, (Fri, Aug 21st)",
       "description": "[ISC] In every MFA rollout, there will come a time where you think you are closing in on \"done\", and some automation to list what&&#x23&#x3b;x26&#x3b;&#x23&#x3b;39&#x3b;s left would be handy. Something quicker than scrolling through the web interface...",
@@ -26,10 +38,34 @@
       "date": "2026-08-20T20:22:35Z"
     },
     {
+      "title": "Someone targeted security researchers using a fake crypto conference as a lure",
+      "description": "[TECHCRUNCH] A hacker pretending to work for a leading cryptocurrency news website targeted several cybersecurity professionals using Google Docs as a way to deliver malware.",
+      "url": "https://techcrunch.com/2026/08/20/someone-targeted-security-researchers-using-a-fake-crypto-conference-as-a-lure/",
+      "date": "2026-08-20T20:00:00Z"
+    },
+    {
       "title": "Suspected Russian Hackers Abuse Google OAuth and WhatsApp Linking to Hijack Accounts",
       "description": "[FEEDS] Three distinct suspected Russian cyber espionage threat clusters have been observed leveraging legitimate authentication flows to single out individuals working in academia, aerospace and defense, governments, and think tanks across Europe, as well...",
       "url": "https://thehackernews.com/2026/08/suspected-russian-hackers-abuse-google.html",
       "date": "2026-08-20T19:59:19Z"
+    },
+    {
+      "title": "Army network needs digital twin for training, testing, cybersecurity: NETCOM chief",
+      "description": "[BREAKING DEFENSE] \u201cIt\u2019s a big ask,\u201d acknowledged Maj. Gen. Denise McPhail, chief of Army Network Command, but it could allow NETCOM to \u201cleverage AI in that model to understand our vulnerabilities, where our gaps are.\u201d",
+      "url": "https://breakingdefense.com/2026/08/army-network-needs-digital-twin-for-training-testing-cybersecurity-netcom-chief/",
+      "date": "2026-08-20T19:55:53Z"
+    },
+    {
+      "title": "Barracuda Networks opens five cybersecurity COEs in Karnataka",
+      "description": "[THE HINDU] Barracuda Networks, a California-based cybersecurity firm, has opened Cybersecurity Centres of Excellence (COEs) at five engineering colleges in Karnataka.",
+      "url": "https://www.thehindu.com/news/national/karnataka/barracuda-networks-opens-five-cybersecurity-coes-in-karnataka/article71369573.ece",
+      "date": "2026-08-20T19:29:31Z"
+    },
+    {
+      "title": "Tanium Cofounder Orion Hindawi Returns As CEO Amid Leadership Shift",
+      "description": "[BUSINESS INSIDER] Orion Hindawi, cofounder of $9 billion cybersecurity startup Tanium, returns as CEO, as Dan Streetman steps down. Tanium also made some job cuts.",
+      "url": "https://www.businessinsider.com/tanium-cofounder-orion-hindawi-returns-as-ceo-leadership-shift-2026-8",
+      "date": "2026-08-20T19:10:28Z"
     },
     {
       "title": "Ireland\u2019s sports capital grant website offline due to cybersecurity risk",
@@ -86,52 +122,16 @@
       "date": "2026-08-20T15:13:23Z"
     },
     {
-      "title": "Cybersecurity Firm Maps Crypto Phishing Attack on 885,000 Numbers",
-      "description": "[CRYPTO BREAKING NEWS] Cybersecurity firm Rapid7 has disclosed a large-scale cryptocurrency phishing and vishing campaign dubbed \u201cOperation Asterix,\u201d designed to compromise",
-      "url": "https://www.cryptobreaking.com/cybersecurity-firm-maps-crypto-phishing-2/",
-      "date": "2026-08-20T14:54:40Z"
-    },
-    {
-      "title": "AI\u2019s \u2018Frankenstein moment\u2019: Why AI agents cannot be left to secure themselves",
-      "description": "[CNBC TV18] AI is changing the cybersecurity threat landscape as autonomous agents gain the ability to act with greater speed and persistence. Check Point CEO Nadav Zafrir says organisations need security guardrails outside AI models, while warning that...",
-      "url": "https://www.cnbctv18.com/technology/ai-frankenstein-moment-autonomous-agents-cybersecurity-check-point-ceo-nadav-zafrir-19973926.htm",
-      "date": "2026-08-20T14:54:22Z"
-    },
-    {
       "title": "Critical Elementor Pro bug exposes WordPress sites to RCE attacks",
       "description": "[BLEEPINGCOMPUTER] A critical vulnerability in the Elementor Pro WordPress plugin could allow attackers to upload executable files for remote code execution on the server. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/critical-elementor-pro-bug-exposes-wordpress-sites-to-rce-attacks/",
       "date": "2026-08-20T14:39:48Z"
     },
     {
-      "title": "New Cryptographic Context Injection Attack Could Let Web Pages Steal Grok Chat Data",
-      "description": "[FEEDS] Adversa AI has disclosed an attack technique that it says can cause xAI's Grok chatbot to send a user's name, approximate location, subscription tier, and the prompts from the ongoing conversation to an attacker-controlled server after the user asks...",
-      "url": "https://thehackernews.com/2026/08/new-cryptographic-context-injection.html",
-      "date": "2026-08-20T14:36:27Z"
-    },
-    {
-      "title": "India, Singapore sign pacts on telecom, food security; discuss SMRs, chips",
-      "description": "[HINDUSTAN TIMES] India and Singapore signed agreements on telecom and food security and explored cooperation in SMRs, semiconductors, space and cybersecurity. | India News",
-      "url": "https://www.hindustantimes.com/india-news/india-singapore-sign-pacts-on-telecom-food-security-discuss-smrs-chips-101787235568836.html",
-      "date": "2026-08-20T14:19:28Z"
-    },
-    {
-      "title": "value transactions a good move: Former RBI official",
-      "description": "[LOKMAT TIMES] UPI needs sustainable revenue model, MDR on high-value transactions a good move: Former RBI official - Mumbai, Aug 20 UPI needs a sustainable revenue model to support continued investments in technology, cybersecurity and infrastructure, ... Get...",
-      "url": "https://www.lokmattimes.com/technology/upi-needs-sustainable-revenue-model-mdr-on-high-value-transactions-a-good-move-former-rbi-official-1/",
-      "date": "2026-08-20T14:08:51Z"
-    },
-    {
       "title": "How MSPs can catch phishing attacks email filters miss",
       "description": "[BLEEPINGCOMPUTER] AI is making phishing attacks more personalized, convincing, and difficult for traditional email filters to detect. Kaseya explains how MSPs can monitor identity, email, and endpoint activity to detect and contain attacks that make it past the...",
       "url": "https://www.bleepingcomputer.com/news/security/how-msps-can-catch-phishing-attacks-email-filters-miss/",
       "date": "2026-08-20T14:01:11Z"
-    },
-    {
-      "title": "Isolated-vm Flaw Lets Sandboxed JavaScript Escape to Host for Potential RCE",
-      "description": "[FEEDS] Cybersecurity researchers have disclosed a critical security flaw in isolated-vm, a popular open-source sandbox with more than 2,900 stars and 190 forks on GitHub, that could allow attackers to escape the confines of the isolated environment. The...",
-      "url": "https://thehackernews.com/2026/08/isolated-vm-flaw-lets-sandboxed.html",
-      "date": "2026-08-20T13:48:24Z"
     },
     {
       "title": "Using Microsoft Graph and Powershell - Risk Detection Commands, (Thu, Aug 20th)",
