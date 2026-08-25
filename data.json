@@ -1,6 +1,30 @@
 {
-  "updated": "2026-08-25 14:34:15 UTC",
+  "updated": "2026-08-25 16:24:29 UTC",
   "news": [
+    {
+      "title": "Massive DDoS attack disrupts Norway\u2019s government digital services",
+      "description": "[BLEEPINGCOMPUTER] A large distributed denial-of-service (DDoS) attack has disrupted Norway's shared government digital infrastructure since Monday, affecting services used by the public sector. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/massive-ddos-attack-disrupts-norways-government-digital-services/",
+      "date": "2026-08-25T15:52:36Z"
+    },
+    {
+      "title": "Obfuscating IP Addresses as Hostnames, (Tue, Aug 25th)",
+      "description": "[ISC] It is pretty obvious that hostnames can replace IP addresses. Pretty much any software accepting an IP address will also accept a hostname as an argument. Last week, I wrote about scans for the cloud metadata service listening at 169.254.169.254....",
+      "url": "https://isc.sans.edu/diary/rss/33280",
+      "date": "2026-08-25T15:03:33Z"
+    },
+    {
+      "title": "Hospital operator Nutex Health says data stolen in cyberattack",
+      "description": "[BLEEPINGCOMPUTER] Healthcare and services provider Nutex is investigating a data breach incident where an unauthorized third party exfiltrated information from company servers. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/hospital-operator-nutex-health-says-data-stolen-in-cyberattack/",
+      "date": "2026-08-25T14:44:16Z"
+    },
+    {
+      "title": "A Malicious Webpage Could Poison Your Local AI Model Behind NVIDIA NemoClaw",
+      "description": "[FEEDS] Oasis Security has disclosed a weakness in NVIDIA NemoClaw that could let an attacker-controlled webpage take unauthenticated control of the local Ollama instance serving an AI agent and plant hidden instructions inside the model itself. The...",
+      "url": "https://thehackernews.com/2026/08/a-malicious-webpage-could-poison-your.html",
+      "date": "2026-08-25T14:07:37Z"
+    },
     {
       "title": "From Fake Workers to Account Recovery: The Growing Identity Verification Risk",
       "description": "[BLEEPINGCOMPUTER] Attackers are increasingly targeting the processes used to establish or recover identity rather than attacking the login itself. Specops explains how stronger identity verification can help organizations prevent fake workers and social engineering...",
@@ -56,22 +80,16 @@
       "date": "2026-08-25T11:33:44Z"
     },
     {
-      "title": "Frontier AI: Vulnerability Management's Systemic Revolution",
-      "description": "[FEEDS] Vulnerability management has been a staple of security programs since the dawn of the cybersecurity discipline. The symbiotic relationship between vulnerability and patch management teams has also existed for that time and has gone through waves of...",
-      "url": "https://thehackernews.com/2026/08/frontier-ai-vulnerability-managements.html",
-      "date": "2026-08-25T11:14:07Z"
-    },
-    {
       "title": "Black Hat State of Security Vendors",
       "description": "[SCHNEIER] Andy Ellis has a roundup of the security vendors at Black Hat this year. Key Takeaways: We have entered into an AI world. While nearly half of booths didn&#8217;t directly mention AI or agents in their taglines, the effects of AI are everywhere....",
       "url": "https://www.schneier.com/blog/archives/2026/08/black-hat-state-of-security-vendors.html",
       "date": "2026-08-25T10:54:50Z"
     },
     {
-      "title": "Police arrests dozens of suspects in global cybercrime crackdown",
-      "description": "[BLEEPINGCOMPUTER] Law enforcement agencies from 22 countries helped identify 263 suspects and arrested 58 individuals linked to cybercrime networks coordinated by African crime groups. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/police-arrests-dozens-of-suspects-in-global-cybercrime-crackdown/",
-      "date": "2026-08-25T10:53:20Z"
+      "title": "OpenAI Faces Legal Trouble Over Rogue AI That Escaped And Hacked Hugging Face",
+      "description": "[TIMES NOW] OpenAI faces an Alabama investigation after an AI model escaped a test environment and hacked Hugging Face, raising fresh concerns over AI safety and cybersecurity safeguards., Technology & Science, Times Now",
+      "url": "https://www.timesnownews.com/technology-science/openai-faces-legal-trouble-over-rogue-ai-that-escaped-and-hacked-hugging-face-article-155981570",
+      "date": "2026-08-25T02:55:56Z"
     },
     {
       "title": "Henox and Nexusguard Announce Strategic Alliance at BATIC 2026 to Power and Protect the Next Generation of Digital Infrastructure",
@@ -104,12 +122,6 @@
       "date": "2026-08-25T00:00:00Z"
     },
     {
-      "title": "Unpatched Calix flaw lets hackers bypass NAT to expose internal devices",
-      "description": "[BLEEPINGCOMPUTER] An unpatched vulnerability in Calix GS7 XGS (GS5239XG) residential routers used by multiple U.S. broadband providers allows remote, unauthenticated attackers to create port-forwarding rules that can expose local network devices to the public...",
-      "url": "https://www.bleepingcomputer.com/news/security/unpatched-calix-flaw-lets-hackers-bypass-nat-to-expose-internal-devices/",
-      "date": "2026-08-24T21:14:30Z"
-    },
-    {
       "title": "Avoiding a plot twist on the power grid: How to keep the lights on while quantum gets ready for prime time",
       "description": "[EUROPE SAYS] Have you ever heard of Q-Day? No, it\u2019s not a sister series to Netflix\u2019s Zero Day. Though, cinematically speaking, they share some subject matter.",
       "url": "https://www.europesays.com/3213354/",
@@ -138,12 +150,6 @@
       "description": "[NEWSWEEK] A genetic testing company's data breach is particularly problematic for people undergoing IVF, experts warned.",
       "url": "https://www.newsweek.com/baylor-genetics-data-breach-warning-ivf-patients-12360398",
       "date": "2026-08-24T17:39:01Z"
-    },
-    {
-      "title": "SEBI launches Cyber Suraksha Portal for cyber alerts, vulnerability warnings",
-      "description": "[DEVDISCOURSE] The Securities and Exchange Board of India (SEBI) on Monday launched the Cyber Suraksha Portal, a centralised platform that will provide securities market participants access to cybersecurity-related information, including vulnerability warnings and...",
-      "url": "https://www.devdiscourse.com/article/business/3967214-sebi-launches-cyber-suraksha-portal-for-cyber-alerts-vulnerability-warnings",
-      "date": "2026-08-24T17:15:24Z"
     },
     {
       "title": "Criminal Deception in Silicon Valley",
@@ -192,12 +198,6 @@
       "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
       "url": "https://isc.sans.edu/diary/rss/33270",
       "date": "2026-08-21T02:00:03Z"
-    },
-    {
-      "title": "Even MOAR Powershell, looking at Entra logins - the good, the bad and the password sprays, (Fri, Aug 21st)",
-      "description": "[ISC] One thing that folks never seem to do after \"going to the CLOOOOUUUUD\" is to look at their logs, logs that they would have checked daily when things were on premise.&#xd; One log that really bears looking at is the log of successful and failed...",
-      "url": "https://isc.sans.edu/diary/rss/33268",
-      "date": "2026-08-21T01:49:18Z"
     },
     {
       "title": "Detailed Timeline of OpenAI\u2019s Cyberattack on Hugging Face",
