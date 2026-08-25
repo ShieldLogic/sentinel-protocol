@@ -1,209 +1,137 @@
 {
-  "updated": "2026-08-25 10:21:32 UTC",
-  "news": [
-    {
-      "title": "Attackers Target miniOrange SAML Flaws That Can Grant WordPress Admin Access",
-      "description": "[FEEDS] Bad actors are attempting to exploit two severe unauthenticated authentication bypasses in the Xecurify miniOrange SAML 2.0 Single Sign On plugin that make it possible for an attacker to sign in as any WordPress user, including administrators. The...",
-      "url": "https://thehackernews.com/2026/08/attackers-target-miniorange-saml-flaws.html",
-      "date": "2026-08-25T08:34:07Z"
-    },
-    {
-      "title": "Actively Exploited Oracle WebLogic Flaw Lets Unauthenticated Attackers Access Critical Data",
-      "description": "[FEEDS] The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a maximum-severity security flaw impacting Oracle HTTP Server and Oracle WebLogic Server to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active...",
-      "url": "https://thehackernews.com/2026/08/actively-exploited-oracle-weblogic-flaw.html",
-      "date": "2026-08-25T06:12:35Z"
-    },
-    {
-      "title": "ISC Stormcast For Tuesday, August 25th, 2026 https://isc.sans.edu/podcastdetail/10066, (Tue, Aug 25th)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33278",
-      "date": "2026-08-25T02:00:03Z"
-    },
-    {
-      "title": "Unpatched Calix flaw lets hackers bypass NAT to expose internal devices",
-      "description": "[BLEEPINGCOMPUTER] An unpatched vulnerability in Calix GS7 XGS (GS5239XG) residential routers used by multiple U.S. broadband providers allows remote, unauthenticated attackers to create port-forwarding rules that can expose local network devices to the public...",
-      "url": "https://www.bleepingcomputer.com/news/security/unpatched-calix-flaw-lets-hackers-bypass-nat-to-expose-internal-devices/",
-      "date": "2026-08-24T21:14:30Z"
-    },
-    {
-      "title": "Avoiding a plot twist on the power grid: How to keep the lights on while quantum gets ready for prime time",
-      "description": "[EUROPE SAYS] Have you ever heard of Q-Day? No, it\u2019s not a sister series to Netflix\u2019s Zero Day. Though, cinematically speaking, they share some subject matter.",
-      "url": "https://www.europesays.com/3213354/",
-      "date": "2026-08-24T20:12:34Z"
-    },
-    {
-      "title": "Alabama launches investigation into OpenAI's hack of Hugging Face",
-      "description": "[TECHCRUNCH] Weeks after OpenAI disclosed that one of its cybersecurity models had gone rogue and hacked AI dataset company Hugging Face, Alabama\u2019s Attorney General announced an investigation into the incident.",
-      "url": "https://techcrunch.com/2026/08/24/alabama-launches-investigation-into-openais-hack-of-hugging-face/",
-      "date": "2026-08-24T19:58:17Z"
-    },
-    {
-      "title": "Cybersecurity firm Island's CEO Mike Fey sees a future in Dallas",
-      "description": "[THE DALLAS MORNING NEWS] The CEO of cybersecurity firm Island, Mike Fey, sees a future for the tech startup in Dallas.",
-      "url": "https://www.dallasnews.com/business/entrepreneurs/article/island-cybersecurity-ceo-22356033.php",
-      "date": "2026-08-24T19:30:55Z"
-    },
-    {
-      "title": "Upholding legislature\u2019s dignity collective duty of public representatives: Mahana",
-      "description": "[TIMES OF INDIA] UP Assembly Speaker Satish Mahana urges legislators to embrace cybersecurity, use social media carefully, and protect digital identity amid rising cybercrime.",
-      "url": "https://timesofindia.indiatimes.com/city/lucknow/upholding-legislatures-dignity-collective-duty-of-public-representatives-mahana/articleshow/133477971.cms",
-      "date": "2026-08-24T19:28:00Z"
-    },
-    {
-      "title": "Hackers target WordPress sites in miniOrange auth bypass attacks",
-      "description": "[BLEEPINGCOMPUTER] Hackers are attempting to exploit two critical authentication bypass vulnerabilities in the miniOrange SAML 2.0 Single Sign On plugin for WordPress that can be used to forge SAML responses and log in as administrators. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-target-wordpress-sites-in-miniorange-auth-bypass-attacks/",
-      "date": "2026-08-24T19:26:32Z"
-    },
-    {
-      "title": "TikTok reaches $400M settlement with US over COPPA violations",
-      "description": "[BLEEPINGCOMPUTER] The U.S. Department of Justice announced a $400 million settlement with TikTok, ByteDance, and affiliated companies over allegations that they violated the Children's Online Privacy Protection Act (COPPA). [...]",
-      "url": "https://www.bleepingcomputer.com/news/legal/tiktok-reaches-400m-settlement-with-us-over-coppa-violations/",
-      "date": "2026-08-24T17:56:24Z"
-    },
-    {
-      "title": "Shipping More AI Code Than You Can Secure? Watch How to Control Remediation Debt",
-      "description": "[FEEDS] If your developers are using AI coding tools, you are probably already seeing the upside: faster development, more code, and less time spent on routine work. The harder part is what comes after. AI can also introduce open-source packages at a pace...",
-      "url": "https://thehackernews.com/2026/08/shipping-more-ai-code-than-you-can.html",
-      "date": "2026-08-24T17:41:30Z"
-    },
-    {
-      "title": "Weedhack Malware Spreads via Fake Minecraft Clients and SEO Poisoning",
-      "description": "[FEEDS] Cybersecurity researchers have found that several websites are still actively distributing a malware family known as Weedhack to gamers by masquerading as Minecraft clients. McAfee Labs said it detected and blocked more than 6,300 attempts to access...",
-      "url": "https://thehackernews.com/2026/08/weedhack-malware-spreads-via-fake.html",
-      "date": "2026-08-24T17:41:11Z"
-    },
-    {
-      "title": "Baylor Genetics Data Breach Sparks Warning to IVF Patients",
-      "description": "[NEWSWEEK] A genetic testing company's data breach is particularly problematic for people undergoing IVF, experts warned.",
-      "url": "https://www.newsweek.com/baylor-genetics-data-breach-warning-ivf-patients-12360398",
-      "date": "2026-08-24T17:39:01Z"
-    },
-    {
-      "title": "SEBI launches Cyber Suraksha Portal for cyber alerts, vulnerability warnings",
-      "description": "[DEVDISCOURSE] The Securities and Exchange Board of India (SEBI) on Monday launched the Cyber Suraksha Portal, a centralised platform that will provide securities market participants access to cybersecurity-related information, including vulnerability warnings and...",
-      "url": "https://www.devdiscourse.com/article/business/3967214-sebi-launches-cyber-suraksha-portal-for-cyber-alerts-vulnerability-warnings",
-      "date": "2026-08-24T17:15:24Z"
-    },
-    {
-      "title": "SEBI launches Cyber Suraksha Portal for cyber alerts, vulnerability warnings",
-      "description": "[THE TRIBUNE] The Securities and Exchange Board of India (SEBI) on Monday launched the Cyber Suraksha Portal, a centralised platform that will provide securities market participants access to cybersecurity-related information, including vulnerability warnings and...",
-      "url": "https://www.tribuneindia.com/news/business/sebi-launches-cyber-suraksha-portal-for-cyber-alerts-vulnerability-warnings/",
-      "date": "2026-08-24T17:13:13Z"
-    },
-    {
-      "title": "SEBI launches Cyber Suraksha Portal for cyber alerts, vulnerability warnings",
-      "description": "[ANI (ASIAN NEWS INTERNATIONAL)] The Securities and Exchange Board of India (SEBI) on Monday launched the Cyber Suraksha Portal, a centralised platform that will provide securities market participants access to cybersecurity-related information, including vulnerability warnings and...",
-      "url": "https://www.aninews.in/news/business/sebi-launches-cyber-suraksha-portal-for-cyber-alerts-vulnerability-warnings20260824224055/",
-      "date": "2026-08-24T17:10:55Z"
-    },
-    {
-      "title": "ReliaQuest confirms failed data-theft attack after ShinyHunters breach",
-      "description": "[BLEEPINGCOMPUTER] Cybersecurity company ReliaQuest has confirmed that one of its employees was targeted in a social engineering attack after hackers impersonated a member of the security team. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/reliaquest-confirms-failed-data-theft-attack-after-shinyhunters-breach/",
-      "date": "2026-08-24T15:17:16Z"
-    },
-    {
-      "title": "Hackers Are Using Fake Android Updates To Hijack Smart Car Displays",
-      "description": "[HOT HARDWARE] Cybersecurity researchers at Kaspersky have uncovered a malware downloader that targets Android-based automotive head units.",
-      "url": "https://hothardware.com/news/hackers-using-fake-android-updates-to-hijack-smart-car-displays",
-      "date": "2026-08-24T15:11:00Z"
-    },
-    {
-      "title": "AI Agents Aren't Creating Security Problems. They're Revealing Them.",
-      "description": "[FORBES] AI agents aren\u2019t creating new cybersecurity problems\u2014they\u2019re exposing old ones. Here\u2019s how leaders can fix governance gaps before AI amplifies them.",
-      "url": "https://www.forbes.com/sites/larryenglish/2026/08/24/ai-agents-arent-creating-security-problems-theyre-revealing-them/",
-      "date": "2026-08-24T14:42:01Z"
-    },
-    {
-      "title": "\u26a1 Weekly Recap: AI-Powered PLC Attacks, GitLab Attacks, Stripe Key Leaks and More",
-      "description": "[FEEDS] A package gets installed. A login prompt opens. A box sits exposed to the internet. Nothing looks unusual yet. That\u2019s roughly the mood this week. Trusted tools turn hostile, old weak spots get fresh attention, AI makes exploit work cheaper, and...",
-      "url": "https://thehackernews.com/2026/08/weekly-recap-ai-powered-plc-attacks.html",
-      "date": "2026-08-24T14:32:10Z"
-    },
-    {
-      "title": "Microsoft Teams now lets admins block external bots from meetings",
-      "description": "[BLEEPINGCOMPUTER] Microsoft is rolling out a new Teams meeting protection policy that allows administrators to automatically block all identified external bots from joining Teams meetings. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/microsoft-teams-now-lets-admins-block-external-bots-from-meetings/",
-      "date": "2026-08-24T14:00:19Z"
-    },
-    {
-      "title": "South Korean startup platform breach exposes key management failures",
-      "description": "[BLEEPINGCOMPUTER] A breach at South Korea's government-backed startup platform exposed encrypted personal data after an encryption key was included in an API. Penta Security explains why encryption keys must be securely managed and kept separate from the data they...",
-      "url": "https://www.bleepingcomputer.com/news/security/south-korean-startup-platform-breach-exposes-key-management-failures/",
-      "date": "2026-08-24T14:00:10Z"
-    },
-    {
-      "title": "WordlistLoader Delivers Amatera via ClickFix, SynkLoader Phishes Windows Passwords",
-      "description": "[FEEDS] Cybersecurity researchers have flagged two new malware families called WordlistLoader and SynkLoader that's used to deliver next-stage payloads and likely sell access to ransomware groups. According to findings from Gen Digital, WordlistLoader is...",
-      "url": "https://thehackernews.com/2026/08/wordlistloader-delivers-amatera-via.html",
-      "date": "2026-08-24T12:35:36Z"
-    },
-    {
-      "title": "Criminal Deception in Silicon Valley",
-      "description": "[SCHNEIER] Interesting paper: Abstract: With entrepreneurial fraud cases on the rise, we investigate how entrepreneurs carry out criminal deception, employing deceptive means to defraud audiences. Analyzing court data from Silicon Valley ventures and their...",
-      "url": "https://www.schneier.com/blog/archives/2026/08/criminal-deception-in-silicon-valley.html",
-      "date": "2026-08-24T10:38:29Z"
-    },
-    {
-      "title": "DOUBLECUP's PNG Payload, (Mon, Aug 24th)",
-      "description": "[ISC] New malware that uses steganography always gets my attention, but I was disappointed when I looked at the latest DOUBLECUP write-up. It doesn&&#x23&#x3b;x26&#x3b;&#x23&#x3b;39&#x3b;t use real steganography:&#xd;",
-      "url": "https://isc.sans.edu/diary/rss/33274",
-      "date": "2026-08-24T07:23:16Z"
-    },
-    {
-      "title": "ISC Stormcast For Monday, August 24th, 2026 https://isc.sans.edu/podcastdetail/10064, (Mon, Aug 24th)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33276",
-      "date": "2026-08-24T02:00:03Z"
-    },
-    {
-      "title": "Friday Squid Blogging: Neon Flying Squid",
-      "description": "[SCHNEIER] The neon flying squid can fly in formation. The shoal of about 100 squid rose unexpectedly from a patch of the Pacific Ocean around 370 miles from Tokyo and glided near the boat for about 30 metres. The astonished researchers were the first to...",
-      "url": "https://www.schneier.com/blog/archives/2026/08/friday-squid-blogging-neon-flying-squid.html",
-      "date": "2026-08-21T21:07:20Z"
-    },
-    {
-      "title": "AI Is Learning to Write Genetic Code",
-      "description": "[SCHNEIER] This sort of research is both exciting and terrifying: The two models in question were told to generate complete genomes for a viable bacteriophage&#8212;a type of virus able to infect and replicate itself inside bacteria, destroying them from the...",
-      "url": "https://www.schneier.com/blog/archives/2026/08/ai-is-learning-to-write-genetic-code.html",
-      "date": "2026-08-21T16:51:50Z"
-    },
-    {
-      "title": "More Incidents of AIs Going Rogue in Cybersecurity Challenges",
-      "description": "[SCHNEIER] The AI Security Institute has a new report of AI systems engaging in &#8220;unsanctioned behavior&#8221;&#8212;what I have been calling &#8220;genie behavior&#8212;while being tested on their cybersecurity capabilities. The incident stemmed from a...",
-      "url": "https://www.schneier.com/blog/archives/2026/08/more-incidents-of-ais-going-rogue-in-cybersecurity-challenges.html",
-      "date": "2026-08-21T09:42:34Z"
-    },
-    {
-      "title": "Who Got Missed in the MFA Rollout&#x3f; More Powershell &#x2b; Graph &#x2b; Entra scripting&#x21;, (Fri, Aug 21st)",
-      "description": "[ISC] In every MFA rollout, there will come a time where you think you are closing in on \"done\", and some automation to list what&&#x23&#x3b;x26&#x3b;&#x23&#x3b;39&#x3b;s left would be handy. Something quicker than scrolling through the web interface...",
-      "url": "https://isc.sans.edu/diary/rss/33272",
-      "date": "2026-08-21T02:47:00Z"
-    },
-    {
-      "title": "ISC Stormcast For Friday, August 21st, 2026 https://isc.sans.edu/podcastdetail/10062, (Fri, Aug 21st)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33270",
-      "date": "2026-08-21T02:00:03Z"
-    },
-    {
-      "title": "Even MOAR Powershell, looking at Entra logins - the good, the bad and the password sprays, (Fri, Aug 21st)",
-      "description": "[ISC] One thing that folks never seem to do after \"going to the CLOOOOUUUUD\" is to look at their logs, logs that they would have checked daily when things were on premise.&#xd; One log that really bears looking at is the log of successful and failed...",
-      "url": "https://isc.sans.edu/diary/rss/33268",
-      "date": "2026-08-21T01:49:18Z"
-    },
-    {
-      "title": "Detailed Timeline of OpenAI\u2019s Cyberattack on Hugging Face",
-      "description": "[SCHNEIER] OpenAI presented details of its AI&#8217;s model&#8217;s cyberattack on Hugging Face at Black Hat last week. Simon Willison details the timeline. It&#8217;s really interesting to read through&#8212;and really impressive cyberoffense work.",
-      "url": "https://www.schneier.com/blog/archives/2026/08/detailed-timeline-of-openais-cyberattack-on-hugging-face.html",
-      "date": "2026-08-20T17:44:36Z"
-    },
-    {
-      "title": "Police Are Hiding Their Use of Flock Surveillance Cameras",
-      "description": "[SCHNEIER] A usage policy for Flock license plate reader cameras tells police not to talk about the cameras: When cops use Flock to arrest someone in Wapello County, Iowa, they don&#8217;t want them to know. A usage policy for the automated license plate...",
-      "url": "https://www.schneier.com/blog/archives/2026/08/police-are-hiding-their-use-of-flock-surveillance-cameras.html",
-      "date": "2026-08-20T09:48:55Z"
-    }
-  ]
+    "title": "Sentinel Protocol",
+    "tagline": "Perimeter Intelligence Sync",
+    "updated": "2026-08-25 11:23 UTC",
+    "news": [
+        {
+            "source": {
+                "id": "rt",
+                "name": "RT"
+            },
+            "author": "RT",
+            "title": "Singapore launches world-first data center powered by human brain cells",
+            "description": "Singapore has launched the world\u2019s first independently operated server rack powered by living human neurons, NUS Medicine has said\u00a0 Read Full Article at RT.com",
+            "url": "https://www.rt.com/news/644581-biological-data-center-singapore/",
+            "urlToImage": "https://mf.b37mrtl.ru/files/2026.08/article/6a8c25a2203027661f56fa67.jpg",
+            "publishedAt": "2026-08-24T11:14:03Z",
+            "content": "Singapore has launched the world\u2019s first independently operated data center using living human brain cells for some computing tasks, the medical school of the National University of Singapore (NUS Me\u2026 [+2447 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Business Standard"
+            },
+            "author": "Sweta Kumari",
+            "title": "How hackers turned nearly 2,000 WordPress sites into malware infrastructure",
+            "description": "A StopAndProtect cybercrime campaign compromised nearly 2,000 WordPress websites, turning them into infrastructure to spread malware, steal data and control infected devices",
+            "url": "https://www.business-standard.com/technology/tech-news/technology-tech-news-nearly-2000-wordpress-sites-compromised-malware-campaign-check-point-126082400786_1.html",
+            "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2025-05/07/thumb/featurecrop/1200X628/1746641191-6806.jpg",
+            "publishedAt": "2026-08-24T11:06:19Z",
+            "content": "A StopAndProtect cybercrime campaign compromised nearly 2,000 WordPress websites, turning them into infrastructure to spread malware, steal data and control infected devices\r\nHackers compromised Word\u2026 [+7890 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "SiliconANGLE News"
+            },
+            "author": "Mike Wheatley",
+            "title": "IBM is developing a dual-architecture chip to run Arm-native AI apps on Z mainframes and Linux servers",
+            "description": "IBM Corp. said today at the annual Hot Chips 2026 conference that it\u2019s developing a groundbreaking new dual-architecture processor in partnership with the British chip design firm Arm Holdings Ltd. that\u2019s destined to power its next-generation IBM Z mainframes\u2026",
+            "url": "https://siliconangle.com/2026/08/24/ibm-is-developing-a-dual-architecture-chip-to-run-arm-native-ai-apps-on-z-mainframes-and-linux-servers/",
+            "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/08/20241218_IBM_zNext_Shot_FINAL-scaled.jpg",
+            "publishedAt": "2026-08-24T11:00:11Z",
+            "content": "IBM Corp. said today at the annual Hot Chips 2026 conference that it\u2019s developing a groundbreaking new dual-architecture processor in partnership with the British chip design firm Arm Holdings Ltd. t\u2026 [+5335 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Help Net Security"
+            },
+            "author": "Zeljka Zorz",
+            "title": "CISA\u2019s logging guidance works beyond government",
+            "description": "The US Cybersecurity and Infrastructure Security Agency (CISA) wants federal agencies to (re)shape their logging strategy around one question: when an attack hits, can you actually use the logs you\u2019ve collected to catch it and reconstruct what happened afterw\u2026",
+            "url": "https://www.helpnetsecurity.com/2026/08/24/cybersecurity-logging-guidelines-strategy/",
+            "urlToImage": "https://img.helpnetsecurity.com/wp-content/uploads/2024/10/22105822/predictions4.webp",
+            "publishedAt": "2026-08-24T10:56:44Z",
+            "content": "The US Cybersecurity and Infrastructure Security Agency (CISA) wants federal agencies to (re)shape their logging strategy around one question: when an attack hits, can you actually use the logs you\u2019v\u2026 [+4889 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PRNewswire"
+            },
+            "author": null,
+            "title": "Protiviti Professionals Named 2026 Top Consultants by Consulting Magazine",
+            "description": "Honored for leadership in cybersecurity, financial crime compliance, AI-enabled consulting and enterprise transformation MENLO PARK, Calif., Aug. 24, 2026 /PRNewswire/ -- Four Protiviti leaders have been named 2026 Top Consultants by Consulting magazine. The \u2026",
+            "url": "https://www.prnewswire.com/news-releases/protiviti-professionals-named-2026-top-consultants-by-consulting-magazine-302857683.html",
+            "urlToImage": "https://mmx.prnewswire.com/media/MS109311/Protiviti-Logo.jpg?id=OA2903079&p=facebook",
+            "publishedAt": "2026-08-24T10:55:00Z",
+            "content": "Honored for leadership in cybersecurity, financial crime compliance, AI-enabled consulting and enterprise transformation\r\nMENLO PARK, Calif., Aug. 24, 2026 /PRNewswire/ -- Four Protiviti leaders have\u2026 [+3350 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BleepingComputer"
+            },
+            "author": "Sergiu Gatlan",
+            "title": "CISA orders urgent patching of actively exploited Zimbra flaw",
+            "description": "The Cybersecurity and Infrastructure Security Agency (CISA) has ordered U.S. government agencies to patch an actively exploited vulnerability in Zimbra Collaboration Suite (ZCS) within three days. [...]",
+            "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-urgent-patching-of-actively-exploited-zimbra-flaw/",
+            "urlToImage": "https://www.bleepstatic.com/content/hl-images/2026/08/24/Zimbra.jpg",
+            "publishedAt": "2026-08-24T10:45:12Z",
+            "content": "The Cybersecurity and Infrastructure Security Agency (CISA) has ordered U.S. government agencies to patch an actively exploited vulnerability in Zimbra Collaboration Suite (ZCS) within three days.\r\nT\u2026 [+2927 chars]"
+        },
+        {
+            "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            "author": "Paul Dignan",
+            "title": "Why most organizations are getting AI security wrong (and why it\u2019s about to catch up with them)",
+            "description": "Most organizations are securing AI incorrectly, leaving critical runtime vulnerabilities exposed as enterprise adoption accelerates.",
+            "url": "https://www.techradar.com/pro/why-most-organizations-are-getting-ai-security-wrong-and-why-its-about-to-catch-up-with-them",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/mfPaYGQmks2VALWFFBnSej-2000-80.jpg",
+            "publishedAt": "2026-08-24T10:42:21Z",
+            "content": "There\u2019s a pattern starting to emerge with AI.\r\nAt first glance, everything looks like progress. AI is being adopted quickly, embedded into products, talked about in boardrooms, and pushed into real-w\u2026 [+7168 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Salon"
+            },
+            "author": "Susan Shapiro",
+            "title": "I was fired for resisting technology. It saved my career",
+            "description": "Pushed out of academia by new requirements, I beat the system and helped my students",
+            "url": "https://www.salon.com/2026/08/24/i-was-fired-for-resisting-technology-it-saved-my-career/",
+            "urlToImage": "https://www.salon.com/app/uploads/2026/08/Higher-Education-470622769.jpg",
+            "publishedAt": "2026-08-24T10:30:39Z",
+            "content": "I was not surprised by recent news that online classes have become swamped by artificial intelligence cheating, eroding academic integrity. From the second I heard about asynchronous studies, I thoug\u2026 [+9017 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Livemint"
+            },
+            "author": "Narayan Ramachandran",
+            "title": "Digital defence: what India can learn from the history of warfare for the age of artificial intelligence",
+            "description": "As AI hostilities between countries cannot be ruled out, India can\u2019t afford to overlook the classic rules of battle readiness. One big lesson from the historical record is that offensive capacity is never enough. A sword needs a shield to go with it.",
+            "url": "https://www.livemint.com/opinion/online-views/digital-defence-india-history-of-warfare-artificial-intelligence-age-battle-readines-11787548482672.html",
+            "urlToImage": "https://www.livemint.com/lm-img/img/2026/08/24/1600x900/logo/ai_sword_and_shield_chatgpt_1787559392025_1787559397605_fd5b8680-7103-4755-8d82-424f92f37a33.png",
+            "publishedAt": "2026-08-24T10:30:29Z",
+            "content": "Using experts, the weapons were graded and tested in four categories: short range weapons like knives and clubs; mid-range ones like swords, spears and axes; long-range bows, muskets and firearms and\u2026 [+4694 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Boone Ashworth",
+            "title": "Forget Meta Ray-Bans. These Dorky-Looking Virtual Display Glasses Are Way More Useful",
+            "description": "Tethered display glasses are truly practical face computers. They trade bulky spatial computing for simplicity: Plug in, recline, and get a massive screen right in front of your nose.",
+            "url": "https://www.wired.com/story/all-work-and-some-play-in-a-virtual-display/",
+            "urlToImage": "https://media.wired.com/photos/6a87862020408e2e1b24b43a/191:100/w_1280,c_limit/All-Work-Virtual-Play-Gear.jpg",
+            "publishedAt": "2026-08-24T10:30:00Z",
+            "content": "URGENT: Immediate Action Required blasts into my eyeballs as I scroll through the impossibly giant email inbox looming directly in front of my face.\r\nIm reclined way back in a chair, wearing a pair o\u2026 [+2237 chars]"
+        }
+    ]
 }
