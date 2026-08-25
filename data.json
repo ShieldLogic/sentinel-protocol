@@ -1,11 +1,65 @@
 {
-  "updated": "2026-08-25 12:27:35 UTC",
+  "updated": "2026-08-25 14:34:15 UTC",
   "news": [
+    {
+      "title": "From Fake Workers to Account Recovery: The Growing Identity Verification Risk",
+      "description": "[BLEEPINGCOMPUTER] Attackers are increasingly targeting the processes used to establish or recover identity rather than attacking the login itself. Specops explains how stronger identity verification can help organizations prevent fake workers and social engineering...",
+      "url": "https://www.bleepingcomputer.com/news/security/from-fake-workers-to-account-recovery-the-growing-identity-verification-risk/",
+      "date": "2026-08-25T14:01:11Z"
+    },
+    {
+      "title": "Microsoft PowerToys adds Alt+Tab-style switching for an app's windows",
+      "description": "[BLEEPINGCOMPUTER] Microsoft updated its Windows PowerToys toolset with a new utility dubbed \"Window Hopper\" that lets users switch between an app's windows more quickly. [...]",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-powertoys-adds-alt-plustab-style-switching-for-an-apps-windows/",
+      "date": "2026-08-25T13:51:58Z"
+    },
+    {
+      "title": "WhatsApp Adds Multiple Passkeys for Phishing-Resistant Sign-Ins Across iOS and Android",
+      "description": "[FEEDS] Meta on Tuesday announced a set of WhatsApp account security features, including support for multiple passkeys to a single account to help users with both iOS and Android devices sign into their accounts using the phishing-resistant method. The tech...",
+      "url": "https://thehackernews.com/2026/08/whatsapp-adds-multiple-passkeys-for.html",
+      "date": "2026-08-25T13:19:41Z"
+    },
+    {
+      "title": "WhatsApp adds stronger two-step verification, multiple passkeys",
+      "description": "[BLEEPINGCOMPUTER] WhatsApp has started rolling out several new account security features, including support for multiple passkeys and stronger two-step verification. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/whatsapp-adds-stronger-two-step-verification-multiple-passkeys/",
+      "date": "2026-08-25T13:00:00Z"
+    },
+    {
+      "title": "Marimo Notebook Flaw Could Run MCP Commands Before Cells Execute in Edit Mode",
+      "description": "[FEEDS] Marimo has addressed a high-severity security flaw in its notebook software that allowed an attacker to execute an attacker-supplied Model Context Protocol (MCP) command in a specially crafted notebook, according to VulnCheck's CVE Numbering...",
+      "url": "https://thehackernews.com/2026/08/marimo-notebook-flaw-could-run-mcp.html",
+      "date": "2026-08-25T12:43:51Z"
+    },
     {
       "title": "Hackers breached over 270 Zimbra servers in ongoing attacks",
       "description": "[BLEEPINGCOMPUTER] Threat actors have already compromised over 270 Zimbra instances in remote code execution attacks targeting a high-severity Zimbra Collaboration Suite (ZCS) vulnerability. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-breached-over-270-zimbra-servers-in-ongoing-attacks/",
       "date": "2026-08-25T12:04:02Z"
+    },
+    {
+      "title": "Mirage2FA Surge Hits 4,500 US and EU Companies, Abusing Microsoft 365 Login Flows",
+      "description": "[FEEDS] Thousands of companies have been affected by the Mirage2FA campaign from 2024 to 2026. The commercial phishing-as-a-service toolkit targets Microsoft 365 accounts by abusing legitimate login flows and bypassing two-factor authentication. According...",
+      "url": "https://thehackernews.com/2026/08/mirage2fa-surge-hits-4500-us-and-eu.html",
+      "date": "2026-08-25T11:56:15Z"
+    },
+    {
+      "title": "24 npm Packages Abuse unpkg Mirrors to Host Fake Cloudflare CAPTCHA Pages",
+      "description": "[FEEDS] Cybersecurity researchers have disclosed details of a new campaign that uses a cluster of 24 npm packages as free phishing infrastructure for redirecting to ClickFix-style fake CAPTCHA pages. \"While the malware is simply a single HTML page inside...",
+      "url": "https://thehackernews.com/2026/08/24-npm-packages-abuse-unpkg-mirrors-to.html",
+      "date": "2026-08-25T11:52:43Z"
+    },
+    {
+      "title": "E4del and PINHOLE RATs Turn FTP Banners Into Dead Drops for Malware Commands",
+      "description": "[FEEDS] Cybersecurity researchers are calling attention to a new campaign that employs FTP banners as dead drop resolvers (DDRs) to deliver two previously unreported remote access trojans (RATs) tracked as E4del and PINHOLE. While threat actors are known to...",
+      "url": "https://thehackernews.com/2026/08/e4del-and-pinhole-rats-turn-ftp-banners.html",
+      "date": "2026-08-25T11:33:44Z"
+    },
+    {
+      "title": "Frontier AI: Vulnerability Management's Systemic Revolution",
+      "description": "[FEEDS] Vulnerability management has been a staple of security programs since the dawn of the cybersecurity discipline. The symbiotic relationship between vulnerability and patch management teams has also existed for that time and has gone through waves of...",
+      "url": "https://thehackernews.com/2026/08/frontier-ai-vulnerability-managements.html",
+      "date": "2026-08-25T11:14:07Z"
     },
     {
       "title": "Black Hat State of Security Vendors",
@@ -20,22 +74,22 @@
       "date": "2026-08-25T10:53:20Z"
     },
     {
-      "title": "Attackers Target miniOrange SAML Flaws That Can Grant WordPress Admin Access",
-      "description": "[FEEDS] Bad actors are attempting to exploit two severe unauthenticated authentication bypasses in the Xecurify miniOrange SAML 2.0 Single Sign On plugin that make it possible for an attacker to sign in as any WordPress user, including administrators. The...",
-      "url": "https://thehackernews.com/2026/08/attackers-target-miniorange-saml-flaws.html",
-      "date": "2026-08-25T08:34:07Z"
-    },
-    {
-      "title": "Actively Exploited Oracle WebLogic Flaw Lets Unauthenticated Attackers Access Critical Data",
-      "description": "[FEEDS] The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a maximum-severity security flaw impacting Oracle HTTP Server and Oracle WebLogic Server to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active...",
-      "url": "https://thehackernews.com/2026/08/actively-exploited-oracle-weblogic-flaw.html",
-      "date": "2026-08-25T06:12:35Z"
+      "title": "Henox and Nexusguard Announce Strategic Alliance at BATIC 2026 to Power and Protect the Next Generation of Digital Infrastructure",
+      "description": "[THE MANILA TIMES] BALI, Indonesia, Aug. 25, 2026 /PRNewswire/ -- During BATIC 2026, Henox, a leader in sustainable and cutting-edge digital infrastructure, and Nexusguard, a global leader in DDoS protection, are announcing a strategic partnership to deliver an...",
+      "url": "https://www.manilatimes.net/2026/08/25/tmt-newswire/pr-newswire/henox-and-nexusguard-announce-strategic-alliance-at-batic-2026-to-power-and-protect-the-next-generation-of-digital-infrastructure/2411376",
+      "date": "2026-08-25T02:27:21Z"
     },
     {
       "title": "ISC Stormcast For Tuesday, August 25th, 2026 https://isc.sans.edu/podcastdetail/10066, (Tue, Aug 25th)",
       "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
       "url": "https://isc.sans.edu/diary/rss/33278",
       "date": "2026-08-25T02:00:03Z"
+    },
+    {
+      "title": "SEBI partners with RRU, NISM to strengthen securities market cybersecurity",
+      "description": "[THE HINDU BUSINESS LINE] SEBI, RRU and NISM have signed an MoU to boost cybersecurity training, research and capacity building, including a proposed Technical Innovation Unit.",
+      "url": "https://www.thehindubusinessline.com/markets/sebi-joins-hands-with-rru-nism-to-boost-cybersecurity-and-securities-market-intelligence/article71386336.ece",
+      "date": "2026-08-25T01:46:13Z"
     },
     {
       "title": "CHT Security Receives Frost & Sullivan's 2026 Taiwan Company of the Year Recognition for Excellence in Cybersecurity Services",
@@ -80,30 +134,6 @@
       "date": "2026-08-24T19:28:00Z"
     },
     {
-      "title": "Hackers target WordPress sites in miniOrange auth bypass attacks",
-      "description": "[BLEEPINGCOMPUTER] Hackers are attempting to exploit two critical authentication bypass vulnerabilities in the miniOrange SAML 2.0 Single Sign On plugin for WordPress that can be used to forge SAML responses and log in as administrators. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-target-wordpress-sites-in-miniorange-auth-bypass-attacks/",
-      "date": "2026-08-24T19:26:32Z"
-    },
-    {
-      "title": "TikTok reaches $400M settlement with US over COPPA violations",
-      "description": "[BLEEPINGCOMPUTER] The U.S. Department of Justice announced a $400 million settlement with TikTok, ByteDance, and affiliated companies over allegations that they violated the Children's Online Privacy Protection Act (COPPA). [...]",
-      "url": "https://www.bleepingcomputer.com/news/legal/tiktok-reaches-400m-settlement-with-us-over-coppa-violations/",
-      "date": "2026-08-24T17:56:24Z"
-    },
-    {
-      "title": "Shipping More AI Code Than You Can Secure? Watch How to Control Remediation Debt",
-      "description": "[FEEDS] If your developers are using AI coding tools, you are probably already seeing the upside: faster development, more code, and less time spent on routine work. The harder part is what comes after. AI can also introduce open-source packages at a pace...",
-      "url": "https://thehackernews.com/2026/08/shipping-more-ai-code-than-you-can.html",
-      "date": "2026-08-24T17:41:30Z"
-    },
-    {
-      "title": "Weedhack Malware Spreads via Fake Minecraft Clients and SEO Poisoning",
-      "description": "[FEEDS] Cybersecurity researchers have found that several websites are still actively distributing a malware family known as Weedhack to gamers by masquerading as Minecraft clients. McAfee Labs said it detected and blocked more than 6,300 attempts to access...",
-      "url": "https://thehackernews.com/2026/08/weedhack-malware-spreads-via-fake.html",
-      "date": "2026-08-24T17:41:11Z"
-    },
-    {
       "title": "Baylor Genetics Data Breach Sparks Warning to IVF Patients",
       "description": "[NEWSWEEK] A genetic testing company's data breach is particularly problematic for people undergoing IVF, experts warned.",
       "url": "https://www.newsweek.com/baylor-genetics-data-breach-warning-ivf-patients-12360398",
@@ -114,36 +144,6 @@
       "description": "[DEVDISCOURSE] The Securities and Exchange Board of India (SEBI) on Monday launched the Cyber Suraksha Portal, a centralised platform that will provide securities market participants access to cybersecurity-related information, including vulnerability warnings and...",
       "url": "https://www.devdiscourse.com/article/business/3967214-sebi-launches-cyber-suraksha-portal-for-cyber-alerts-vulnerability-warnings",
       "date": "2026-08-24T17:15:24Z"
-    },
-    {
-      "title": "SEBI launches Cyber Suraksha Portal for cyber alerts, vulnerability warnings",
-      "description": "[THE TRIBUNE] The Securities and Exchange Board of India (SEBI) on Monday launched the Cyber Suraksha Portal, a centralised platform that will provide securities market participants access to cybersecurity-related information, including vulnerability warnings and...",
-      "url": "https://www.tribuneindia.com/news/business/sebi-launches-cyber-suraksha-portal-for-cyber-alerts-vulnerability-warnings/",
-      "date": "2026-08-24T17:13:13Z"
-    },
-    {
-      "title": "SEBI launches Cyber Suraksha Portal for cyber alerts, vulnerability warnings",
-      "description": "[ANI (ASIAN NEWS INTERNATIONAL)] The Securities and Exchange Board of India (SEBI) on Monday launched the Cyber Suraksha Portal, a centralised platform that will provide securities market participants access to cybersecurity-related information, including vulnerability warnings and...",
-      "url": "https://www.aninews.in/news/business/sebi-launches-cyber-suraksha-portal-for-cyber-alerts-vulnerability-warnings20260824224055/",
-      "date": "2026-08-24T17:10:55Z"
-    },
-    {
-      "title": "ReliaQuest confirms failed data-theft attack after ShinyHunters breach",
-      "description": "[BLEEPINGCOMPUTER] Cybersecurity company ReliaQuest has confirmed that one of its employees was targeted in a social engineering attack after hackers impersonated a member of the security team. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/reliaquest-confirms-failed-data-theft-attack-after-shinyhunters-breach/",
-      "date": "2026-08-24T15:17:16Z"
-    },
-    {
-      "title": "\u26a1 Weekly Recap: AI-Powered PLC Attacks, GitLab Attacks, Stripe Key Leaks and More",
-      "description": "[FEEDS] A package gets installed. A login prompt opens. A box sits exposed to the internet. Nothing looks unusual yet. That\u2019s roughly the mood this week. Trusted tools turn hostile, old weak spots get fresh attention, AI makes exploit work cheaper, and...",
-      "url": "https://thehackernews.com/2026/08/weekly-recap-ai-powered-plc-attacks.html",
-      "date": "2026-08-24T14:32:10Z"
-    },
-    {
-      "title": "WordlistLoader Delivers Amatera via ClickFix, SynkLoader Phishes Windows Passwords",
-      "description": "[FEEDS] Cybersecurity researchers have flagged two new malware families called WordlistLoader and SynkLoader that's used to deliver next-stage payloads and likely sell access to ransomware groups. According to findings from Gen Digital, WordlistLoader is...",
-      "url": "https://thehackernews.com/2026/08/wordlistloader-delivers-amatera-via.html",
-      "date": "2026-08-24T12:35:36Z"
     },
     {
       "title": "Criminal Deception in Silicon Valley",
