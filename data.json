@@ -1,6 +1,12 @@
 {
-  "updated": "2026-08-25 08:30:05 UTC",
+  "updated": "2026-08-25 10:21:32 UTC",
   "news": [
+    {
+      "title": "Attackers Target miniOrange SAML Flaws That Can Grant WordPress Admin Access",
+      "description": "[FEEDS] Bad actors are attempting to exploit two severe unauthenticated authentication bypasses in the Xecurify miniOrange SAML 2.0 Single Sign On plugin that make it possible for an attacker to sign in as any WordPress user, including administrators. The...",
+      "url": "https://thehackernews.com/2026/08/attackers-target-miniorange-saml-flaws.html",
+      "date": "2026-08-25T08:34:07Z"
+    },
     {
       "title": "Actively Exploited Oracle WebLogic Flaw Lets Unauthenticated Attackers Access Critical Data",
       "description": "[FEEDS] The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a maximum-severity security flaw impacting Oracle HTTP Server and Oracle WebLogic Server to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active...",
@@ -132,12 +138,6 @@
       "description": "[FEEDS] Cybersecurity researchers have flagged two new malware families called WordlistLoader and SynkLoader that's used to deliver next-stage payloads and likely sell access to ransomware groups. According to findings from Gen Digital, WordlistLoader is...",
       "url": "https://thehackernews.com/2026/08/wordlistloader-delivers-amatera-via.html",
       "date": "2026-08-24T12:35:36Z"
-    },
-    {
-      "title": "Critical Keycloak Password Reset Flaw Could Let Unauthenticated Attackers Take Over Any Account",
-      "description": "[FEEDS] Red Hat and the Keycloak project have released patches to address a critical security flaw in the open-source identity and access management server that could allow an unauthenticated remote attacker to take over any user account by forcing a...",
-      "url": "https://thehackernews.com/2026/08/critical-keycloak-password-reset-flaw.html",
-      "date": "2026-08-24T11:56:34Z"
     },
     {
       "title": "Criminal Deception in Silicon Valley",
