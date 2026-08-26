@@ -1,6 +1,18 @@
 {
-  "updated": "2026-08-26 16:41:14 UTC",
+  "updated": "2026-08-26 19:33:34 UTC",
   "news": [
+    {
+      "title": "New GPUThor attack defeats NVIDIA ECC protection for root access",
+      "description": "[BLEEPINGCOMPUTER] A newly disclosed Rowhammer attack called GPUThor can bypass error-correcting code (ECC) protections on NVIDIA GPUs, enabling denial-of-service (DoS) and root-level privilege escalation. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/new-gputhor-attack-defeats-nvidia-ecc-protection-for-root-access/",
+      "date": "2026-08-26T18:48:24Z"
+    },
+    {
+      "title": "FBI Disrupts China-Linked QTFY Infrastructure Used to Steal Data From U.S. Organizations",
+      "description": "[FEEDS] The U.S. Department of Justice (DoJ) on Wednesday announced the disruption of two hacking platforms named QScan and QTRouter operated by Chinese threat actors to target critical infrastructure and other sensitive networks in the country. The...",
+      "url": "https://thehackernews.com/2026/08/fbi-disrupts-china-linked-qtfy.html",
+      "date": "2026-08-26T16:42:03Z"
+    },
     {
       "title": "Meta agrees to $18 billion settlement over teen social media harms",
       "description": "[BLEEPINGCOMPUTER] Meta has reached a proposed settlement worth up to approximately $18 billion with a bipartisan coalition of 52 attorneys generals over allegations that Facebook and Instagram were deliberately designed to encourage compulsive use by children and...",
@@ -12,6 +24,12 @@
       "description": "[ISC] A common thing that folks should \"worry\" about in Entra (or any platform really) is \"who has rights to administer\"&&#x23&#x3b;x26&#x3b;&#x23&#x3b;x3f&#x3b;&&#x23&#x3b;x26&#x3b;&#x23&#x3b;xc2&#x3b;&&#x23&#x3b;x26&#x3b;&#x23&#x3b;xa0&#x3b; Who can...",
       "url": "https://isc.sans.edu/diary/rss/33284",
       "date": "2026-08-26T15:58:15Z"
+    },
+    {
+      "title": "Nimbus Manticore Expands Toolset With TWOSTROKE-Like Backdoor and SSH Tunneler",
+      "description": "[FEEDS] Cybersecurity researchers have discovered additional infrastructure and previously undocumented malware associated with Nimbus Manticore, an Iranian state-sponsored hacking group affiliated with the Islamic Revolutionary Guard Corps (IRGC)....",
+      "url": "https://thehackernews.com/2026/08/nimbus-manticore-expands-toolset-with.html",
+      "date": "2026-08-26T15:35:05Z"
     },
     {
       "title": "Boston Scientific says cyberattack disrupted operations globally",
@@ -44,12 +62,6 @@
       "date": "2026-08-26T13:44:31Z"
     },
     {
-      "title": "Ubiquiti patches three max severity security vulnerabilities",
-      "description": "[BLEEPINGCOMPUTER] Ubiquiti has released security patches for three new maximum-severity vulnerabilities that threat actors can exploit remotely without privileges. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/ubiquiti-patches-three-max-severity-security-vulnerabilities/",
-      "date": "2026-08-26T13:17:54Z"
-    },
-    {
       "title": "CISA Red Team Compromised Two Critical Infrastructure Orgs, One Detected Nothing",
       "description": "[FEEDS] The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has published the results of two red team assessments it conducted simultaneously against two critical infrastructure organizations, using what it described as similar tradecraft while...",
       "url": "https://thehackernews.com/2026/08/cisa-red-team-compromised-two-critical.html",
@@ -74,16 +86,46 @@
       "date": "2026-08-26T11:36:49Z"
     },
     {
-      "title": "Claude Opus 4.6 Bypasses Gym Booking Limit, Cancels Other Users' Reservations in Tests",
-      "description": "[FEEDS] Aikido Security has published research that recreates the Australian gym-booking incident in a synthetic environment, finding that Claude Opus 4.6, running on the OpenClaw agent harness, exploited a client-side-only booking restriction in 9 of 10...",
-      "url": "https://thehackernews.com/2026/08/claude-opus-46-bypasses-gym-booking.html",
-      "date": "2026-08-26T10:27:23Z"
+      "title": "Cabinet Approves \u20b910,630 Crore for Infrastructure, Healthcare and Social Welfare",
+      "description": "[DECCAN HERALD] The Cabinet approves \u20b910,630 crore to accelerate infrastructure development, strengthen healthcare and cybersecurity, and expand social welfare initiatives for inclusive growth and public welfare.",
+      "url": "https://www.deccanherald.com/dhbrandpr/cabinet-approves-10630-cr-to-accelerate-infrastructure-healthcare-cybersecurity-and-social-welfare-4124510",
+      "date": "2026-08-26T06:42:10Z"
     },
     {
-      "title": "OpenAI Bans Russian ChatGPT Accounts Used to Run Influence Operation",
-      "description": "[FEEDS] OpenAI on Tuesday said it banned a cluster of Russian ChatGPT accounts that used VPNs to bypass access restrictions and run an influence operation, which relied on its artificial intelligence (AI) tool to generate social media posts and comments...",
-      "url": "https://thehackernews.com/2026/08/openai-bans-russian-chatgpt-accounts.html",
-      "date": "2026-08-26T09:38:45Z"
+      "title": "Critical Gitea RCE Actively Exploited as Reported Attack Drops Miner-Like Payload",
+      "description": "[THE HACKER NEWS] CISA adds CVE-2026-60004 to KEV amid active Gitea RCE exploitation; a separate reported attack deployed a miner-like dropper.",
+      "url": "https://thehackernews.com/2026/08/critical-gitea-rce-actively-exploited.html",
+      "date": "2026-08-26T06:27:00Z"
+    },
+    {
+      "title": "Hugging Face Hack Highlights the Cybersecurity Risks of Open-Weight AI",
+      "description": "[CRYPTO BREAKING NEWS] Autonomous AI agents built to run inside restricted environments are increasingly capable of escaping those boundaries\u2014and the latest incident at Hugging",
+      "url": "https://www.cryptobreaking.com/hugging-face-hack-highlights-the-2/",
+      "date": "2026-08-26T06:18:26Z"
+    },
+    {
+      "title": "By opening a model, a Chinese AI lab may test the world\u2019s cybersecurity",
+      "description": "[THE STAR] In July, an unreleased OpenAI model went rogue and demonstrated remarkable hacking abilities. This week, a lab called Z.ai will release a similarly powerful system to everyone.",
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/08/26/by-opening-a-model-a-chinese-ai-lab-may-test-the-worlds-cybersecurity",
+      "date": "2026-08-26T06:00:00Z"
+    },
+    {
+      "title": "Securis360 Accelerates Global Cybersecurity Growth With U.S. Expansion, Enterprise Customer Wins, Strategic Technology Alliances and New Privacy Technology",
+      "description": "[THE TRIBUNE] McAllen (Texas) [US], August 26: Securis360, a U.S.-based cybersecurity company specializing in managed security services, offensive security, compliance, cloud security, privacy technology, and enterprise cybersecurity consulting, is accelerating...",
+      "url": "https://www.tribuneindia.com/news/business/securis360-accelerates-global-cybersecurity-growth-with-u-s-expansion-enterprise-customer-wins-strategic-technology-alliances-and-new-privacy-technology/",
+      "date": "2026-08-26T05:03:31Z"
+    },
+    {
+      "title": "Securis360 Accelerates Global Cybersecurity Growth With U.S. Expansion, Enterprise Customer Wins, Strategic Technology Alliances and New Privacy Technology",
+      "description": "[ANI (ASIAN NEWS INTERNATIONAL)] McAllen (Texas) [US], August 26: Securis360, a U.S.-based cybersecurity company specializing in managed security services, offensive security, compliance, cloud security, privacy technology, and enterprise cybersecurity consulting, is accelerating...",
+      "url": "https://www.aninews.in/news/business/securis360-accelerates-global-cybersecurity-growth-with-us-expansion-enterprise-customer-wins-strategic-technology-alliances-and-new-privacy-technology20260826102526/",
+      "date": "2026-08-26T04:55:26Z"
+    },
+    {
+      "title": "Delhi gets nodal cybercrime unit to tackle online frauds, ransomware",
+      "description": "[THE INDIAN EXPRESS] D4C will function as an apex cybercrime coordination and management body under the Delhi Police",
+      "url": "https://indianexpress.com/article/cities/delhi/delhi-cyber-crime-coordination-centre-d4c-key-features-10849873/",
+      "date": "2026-08-26T04:45:36Z"
     },
     {
       "title": "Vietnam tech firm FPT starts construction of UAV, semiconductors, cybersecurity training complex",
@@ -108,48 +150,6 @@
       "description": "[CNBC TV18] MP cabinet approved \u20b910,630 crore for infrastructure, healthcare, cybersecurity, and social welfare. It also approved \u20b978 lakh for Women's T20 Blind Cricket World Cup winners.",
       "url": "https://www.cnbctv18.com/india/mp-cabinet-clears-rs-10630-crore-proposals-various-sectors-blind-world-cup-heroes-rewards-19977135.htm",
       "date": "2026-08-26T02:38:25Z"
-    },
-    {
-      "title": "\u2018Caller said he was from CM office\u2019: UP MLAs get crash course in cybersecurity",
-      "description": "[THE INDIAN EXPRESS] At a four-day cybersecurity workshop, legislators were told how to spot scams, secure their accounts and protect their digital identities.",
-      "url": "https://indianexpress.com/article/cities/lucknow/what-should-an-mla-do-when-a-fake-post-goes-viral-up-workshop-has-answers-10849711/",
-      "date": "2026-08-26T01:19:49Z"
-    },
-    {
-      "title": "N.B. cybersecurity firm gets $16-million investment",
-      "description": "[BNN BLOOMBERG] A New Brunswick-based cybersecurity firm says it has secured millions of investment dollars to grow its operations in Canada.",
-      "url": "https://www.bnnbloomberg.ca/business/company-news/2026/08/25/nb-cybersecurity-firm-gets-16-million-investment/",
-      "date": "2026-08-25T19:47:35Z"
-    },
-    {
-      "title": "OpenAI asks for more regulation after its own cybersecurity incident proves AI's hacking capability",
-      "description": "[FORTUNE] The company wants California to strengthen its landmark AI safety law following the Hugging Face incident its models executed last month.",
-      "url": "https://fortune.com/2026/08/25/openai-california-ai-safety-law-sb53-regulation-cybersecurity-hugging-face-hack-competitors-regulatory-moat/",
-      "date": "2026-08-25T18:53:16Z"
-    },
-    {
-      "title": "Shivaami launches Gemini hub to turn AI ideas into action",
-      "description": "[THE FINANCIAL EXPRESS] Shivaami launches India\u2019s first Gemini Enterprise Experience Centre in Mumbai, enabling businesses to explore Google Cloud\u2019s AI, data analytics, cybersecurity, and digital transformation solutions with live demos and workshops.",
-      "url": "https://www.financialexpress.com/business/industry-shivaami-launches-gemini-hub-to-turn-ai-ideas-into-action-4325253/",
-      "date": "2026-08-25T18:44:47Z"
-    },
-    {
-      "title": "TN Pushes AI, Digital Governance And High-Speed Connectivity",
-      "description": "[DECCAN CHRONICLE] Tamil Nadu\u2019s 2026-27 technology roadmap focuses on AI, digital governance, cybersecurity, high-speed connectivity, deep-tech innovation and technology-driven employment.",
-      "url": "https://www.deccanchronicle.com/southern-states/tamil-nadu/tn-pushes-ai-digital-governance-and-high-speed-connectivity-1982311",
-      "date": "2026-08-25T18:41:40Z"
-    },
-    {
-      "title": "ET WLF 2026: Tech Inc calls for stronger AI governance to offset cyber threats",
-      "description": "[THE ECONOMIC TIMES] Indian businesses must enhance artificial intelligence governance for expanding cyber threats. Autonomous agents are increasingly used by attackers and defenders in cybersecurity operations. Organizations need to understand AI agent deployment and...",
-      "url": "https://economictimes.indiatimes.com/news/india/et-wlf-2026-tech-inc-calls-for-stronger-ai-governance-to-offset-cyber-threats/articleshow/133521818.cms",
-      "date": "2026-08-25T18:04:00Z"
-    },
-    {
-      "title": "MP Cabinet approves over Rs 10,630 cr for strengthening infrastructure, healthcare, cybersecurity and welfare",
-      "description": "[ANI (ASIAN NEWS INTERNATIONAL)] Madhya Pradesh Cabinet held under the chairmanship of Chief Minister Mohan Yadav, on Tuesday approved proposals worth Rs 10,630 crore focused at accelerating infrastructure development, strengthening healthcare and cybersecurity systems and...",
-      "url": "https://www.aninews.in/news/national/general-news/mp-cabinet-approves-over-rs-10630-cr-for-strengthening-infrastructure-healthcare-cybersecurity-and-welfare20260825212419/",
-      "date": "2026-08-25T15:54:19Z"
     },
     {
       "title": "Obfuscating IP Addresses as Hostnames, (Tue, Aug 25th)",
