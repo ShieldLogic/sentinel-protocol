@@ -1,6 +1,12 @@
 {
-  "updated": "2026-08-26 19:33:34 UTC",
+  "updated": "2026-08-26 22:35:36 UTC",
   "news": [
+    {
+      "title": "Critical Avada WordPress theme flaw enables zero-click RCE",
+      "description": "[BLEEPINGCOMPUTER] A critical vulnerability chain in the popular Avada theme for WordPress can be exploited by an unauthenticated attacker to execute arbitrary PHP code on the server. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/critical-avada-wordpress-theme-flaw-enables-zero-click-rce/",
+      "date": "2026-08-26T21:33:20Z"
+    },
     {
       "title": "New GPUThor attack defeats NVIDIA ECC protection for root access",
       "description": "[BLEEPINGCOMPUTER] A newly disclosed Rowhammer attack called GPUThor can bypass error-correcting code (ECC) protections on NVIDIA GPUs, enabling denial-of-service (DoS) and root-level privilege escalation. [...]",
@@ -50,12 +56,6 @@
       "date": "2026-08-26T14:17:59Z"
     },
     {
-      "title": "Snowflake ends service-account passwords. Now comes the hard part",
-      "description": "[BLEEPINGCOMPUTER] Snowflake is ending password authentication for legacy service accounts, forcing organizations to migrate them to passwordless methods. Token Security explains why the harder challenge is identifying what uses each account, who owns it, and how much...",
-      "url": "https://www.bleepingcomputer.com/news/security/snowflake-ends-service-account-passwords-now-comes-the-hard-part/",
-      "date": "2026-08-26T14:01:11Z"
-    },
-    {
       "title": "NovaCookies Campaigns Abuse Genuine Docusign Notifications to Steal Microsoft 365 Sessions",
       "description": "[FEEDS] Cybersecurity researchers have disclosed details of a new adversary-in-the-middle (AitM) phishing toolkit called NovaCookies that's used as a proxy to redirect Microsoft 365 sign-ins, while capturing authenticated sessions in the process. In a...",
       "url": "https://thehackernews.com/2026/08/novacookies-campaigns-abuse-genuine.html",
@@ -84,6 +84,36 @@
       "description": "[FEEDS] The SOC we've always known was built around a model that guarantees most of the alert queue will never receive analyst review. There's never time. In a traditional SOC, the typical progression follows a well-known pattern: an alert arrives; a...",
       "url": "https://thehackernews.com/2026/08/imagine-soc-without-queue-from-alert.html",
       "date": "2026-08-26T11:36:49Z"
+    },
+    {
+      "title": "NSFOCUS Receives Frost & Sullivan's 2026 Global Competitive Strategy Leadership for Excellence in Anti-DDoS Protection",
+      "description": "[THE MANILA TIMES] The company is recognized for its carrier-grade hybrid anti-DDoS portfolio, AI-assisted threat mitigation, and customer-centric cybersecurity operations, delivering scalable, resilient protection against evolving cyber threats.",
+      "url": "https://www.manilatimes.net/2026/08/26/tmt-newswire/pr-newswire/nsfocus-receives-frost-sullivans-2026-global-competitive-strategy-leadership-for-excellence-in-anti-ddos-protection/2412389",
+      "date": "2026-08-26T10:35:09Z"
+    },
+    {
+      "title": "Large Atlanta law firm hit with data breach and associated lawsuit",
+      "description": "[THE ATLANTA JOURNAL-CONSTITUTION] Troutman Pepper Locke, one of Atlanta's largest and oldest law firms, says it notified the FBI about a recent data breach that it faces a proposed class action lawsuit over.",
+      "url": "https://www.ajc.com/news/2026/08/large-atlanta-law-firm-hit-with-data-breach-and-associated-lawsuit/",
+      "date": "2026-08-26T09:00:00Z"
+    },
+    {
+      "title": "New AI Fraud Rules Explained",
+      "description": "[THE INDIAN EXPRESS] RBI and SEBI are tightening cybersecurity measures as AI fuels deepfakes, digital fraud and machine-speed attacks across India\u2019s financial sector.",
+      "url": "https://indianexpress.com/article/explained/explained-economics/rbi-sebi-cybersecurity-rules-ai-financial-fraud-explained-10850150/",
+      "date": "2026-08-26T08:00:17Z"
+    },
+    {
+      "title": "July was the worst month for ransomware victim claims in 2026 - or was it?",
+      "description": "[ZDNET] We shouldn't ignore agentic AI ransomware threats, but the claims of a new ransomware group might be skewing the numbers.",
+      "url": "https://www.zdnet.com/article/ransomware-july-victim-count-spiked-in-july-but-whats-behind-it/",
+      "date": "2026-08-26T08:00:00Z"
+    },
+    {
+      "title": "MP to build cybersecurity talent pool; Rs 25,000 monthly training for 10 engineering graduates",
+      "description": "[THE NEW INDIAN EXPRESS] The ten engineering graduates will be selected through interviews and engaged as trainees for a year with a training allowance of Rs 25,000 monthly.",
+      "url": "https://www.newindianexpress.com/states/madhya-pradesh/2026/Aug/26/mp-to-build-cybersecurity-talent-pool-rs-25000-monthly-training-for-10-engineering-graduates",
+      "date": "2026-08-26T07:46:41Z"
     },
     {
       "title": "Cabinet Approves \u20b910,630 Crore for Infrastructure, Healthcare and Social Welfare",
@@ -116,40 +146,10 @@
       "date": "2026-08-26T05:03:31Z"
     },
     {
-      "title": "Securis360 Accelerates Global Cybersecurity Growth With U.S. Expansion, Enterprise Customer Wins, Strategic Technology Alliances and New Privacy Technology",
-      "description": "[ANI (ASIAN NEWS INTERNATIONAL)] McAllen (Texas) [US], August 26: Securis360, a U.S.-based cybersecurity company specializing in managed security services, offensive security, compliance, cloud security, privacy technology, and enterprise cybersecurity consulting, is accelerating...",
-      "url": "https://www.aninews.in/news/business/securis360-accelerates-global-cybersecurity-growth-with-us-expansion-enterprise-customer-wins-strategic-technology-alliances-and-new-privacy-technology20260826102526/",
-      "date": "2026-08-26T04:55:26Z"
-    },
-    {
-      "title": "Delhi gets nodal cybercrime unit to tackle online frauds, ransomware",
-      "description": "[THE INDIAN EXPRESS] D4C will function as an apex cybercrime coordination and management body under the Delhi Police",
-      "url": "https://indianexpress.com/article/cities/delhi/delhi-cyber-crime-coordination-centre-d4c-key-features-10849873/",
-      "date": "2026-08-26T04:45:36Z"
-    },
-    {
-      "title": "Vietnam tech firm FPT starts construction of UAV, semiconductors, cybersecurity training complex",
-      "description": "[THE ECONOMIC TIMES] The Vietnamese government aims \u200bto develop \u200bat \u2060least 50,000 semiconductor professionals by 2030, including at least 35,000 workers for \u200bproduction, packaging, testing and other segments of the industry's value chain.",
-      "url": "https://economictimes.indiatimes.com/tech/technology/vietnam-tech-firm-fpt-starts-construction-of-uav-semiconductors-cybersecurity-training-complex/articleshow/133528469.cms",
-      "date": "2026-08-26T03:24:59Z"
-    },
-    {
-      "title": "AI firms debate putting cyber tests online after model hacks",
-      "description": "[THE STAR] Artificial intelligence labs and cybersecurity firms are reconsidering the way they test advanced AI models after models from at least three firms jumped onto the open Internet and breached real-world victims.",
-      "url": "https://www.thestar.com.my/tech/tech-news/2026/08/26/ai-firms-debate-putting-cyber-tests-online-after-model-hacks",
-      "date": "2026-08-26T03:00:00Z"
-    },
-    {
       "title": "ISC Stormcast For Wednesday, August 26th, 2026 https://isc.sans.edu/podcastdetail/10068, (Wed, Aug 26th)",
       "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
       "url": "https://isc.sans.edu/diary/rss/33282",
       "date": "2026-08-26T02:40:13Z"
-    },
-    {
-      "title": "MP Cabinet clears \u20b910,630cr proposals for various sectors; blind World Cup heroes to get rewards",
-      "description": "[CNBC TV18] MP cabinet approved \u20b910,630 crore for infrastructure, healthcare, cybersecurity, and social welfare. It also approved \u20b978 lakh for Women's T20 Blind Cricket World Cup winners.",
-      "url": "https://www.cnbctv18.com/india/mp-cabinet-clears-rs-10630-crore-proposals-various-sectors-blind-world-cup-heroes-rewards-19977135.htm",
-      "date": "2026-08-26T02:38:25Z"
     },
     {
       "title": "Obfuscating IP Addresses as Hostnames, (Tue, Aug 25th)",
