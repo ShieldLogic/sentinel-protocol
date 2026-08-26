@@ -1,6 +1,18 @@
 {
-  "updated": "2026-08-26 06:30:28 UTC",
+  "updated": "2026-08-26 08:31:07 UTC",
   "news": [
+    {
+      "title": "Critical Gitea RCE Actively Exploited as Reported Attack Drops Miner-Like Payload",
+      "description": "[FEEDS] The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday warned of active exploitation efforts targeting a recently patched critical security flaw impacting Gitea. The vulnerability in question is CVE-2026-60004 (CVSS score: 9.8),...",
+      "url": "https://thehackernews.com/2026/08/critical-gitea-rce-actively-exploited.html",
+      "date": "2026-08-26T06:27:07Z"
+    },
+    {
+      "title": "Fake Apple Support AI Calls Target Stolen-Device Owners for Passcodes and 2FA Codes",
+      "description": "[FEEDS] Cybersecurity researchers have disclosed details of a phishing-as-a-service (PhaaS) platform built to strip Apple's Activation Lock from stolen devices, using rented AI voice agents that call theft victims posing as Apple Support and ask for their...",
+      "url": "https://thehackernews.com/2026/08/fake-apple-support-ai-calls-target.html",
+      "date": "2026-08-26T05:47:28Z"
+    },
     {
       "title": "ISC Stormcast For Wednesday, August 26th, 2026 https://isc.sans.edu/podcastdetail/10068, (Wed, Aug 26th)",
       "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
@@ -24,6 +36,30 @@
       "description": "[BLEEPINGCOMPUTER] A newly uncovered phishing-as-a-service (PhaaS) platform called AnonyMousKIT automates the retrieval of codes used to unlock stolen Apple devices and disable the Activation Lock feature. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/anonymouskit-phaas-uses-voice-ai-agents-to-phish-iphone-passcodes/",
       "date": "2026-08-25T20:25:26Z"
+    },
+    {
+      "title": "N.B. cybersecurity firm gets $16-million investment",
+      "description": "[BNN BLOOMBERG] A New Brunswick-based cybersecurity firm says it has secured millions of investment dollars to grow its operations in Canada.",
+      "url": "https://www.bnnbloomberg.ca/business/company-news/2026/08/25/nb-cybersecurity-firm-gets-16-million-investment/",
+      "date": "2026-08-25T19:47:35Z"
+    },
+    {
+      "title": "OpenAI asks for more regulation after its own cybersecurity incident proves AI's hacking capability",
+      "description": "[FORTUNE] The company wants California to strengthen its landmark AI safety law following the Hugging Face incident its models executed last month.",
+      "url": "https://fortune.com/2026/08/25/openai-california-ai-safety-law-sb53-regulation-cybersecurity-hugging-face-hack-competitors-regulatory-moat/",
+      "date": "2026-08-25T18:53:16Z"
+    },
+    {
+      "title": "Shivaami launches Gemini hub to turn AI ideas into action",
+      "description": "[THE FINANCIAL EXPRESS] Shivaami launches India\u2019s first Gemini Enterprise Experience Centre in Mumbai, enabling businesses to explore Google Cloud\u2019s AI, data analytics, cybersecurity, and digital transformation solutions with live demos and workshops.",
+      "url": "https://www.financialexpress.com/business/industry-shivaami-launches-gemini-hub-to-turn-ai-ideas-into-action-4325253/",
+      "date": "2026-08-25T18:44:47Z"
+    },
+    {
+      "title": "TN Pushes AI, Digital Governance And High-Speed Connectivity",
+      "description": "[DECCAN CHRONICLE] Tamil Nadu\u2019s 2026-27 technology roadmap focuses on AI, digital governance, cybersecurity, high-speed connectivity, deep-tech innovation and technology-driven employment.",
+      "url": "https://www.deccanchronicle.com/southern-states/tamil-nadu/tn-pushes-ai-digital-governance-and-high-speed-connectivity-1982311",
+      "date": "2026-08-25T18:41:40Z"
     },
     {
       "title": "U.S. Sanctions Iran-Linked Hackers Behind Critical Infrastructure Breaches",
@@ -108,42 +144,6 @@
       "description": "[FEEDS] Marimo has addressed a high-severity security flaw in its notebook software that allowed an attacker to execute an attacker-supplied Model Context Protocol (MCP) command in a specially crafted notebook, according to VulnCheck's CVE Numbering...",
       "url": "https://thehackernews.com/2026/08/marimo-notebook-flaw-could-run-mcp.html",
       "date": "2026-08-25T12:43:51Z"
-    },
-    {
-      "title": "Cybersecurity Stocks Face An Earnings Test After AI-Fueled Surge",
-      "description": "[INVESTOR'S BUSINESS DAILY] Cybersecurity stocks face a major earnings test as artificial intelligence-related growth expectations push up valuations.",
-      "url": "https://www.investors.com/news/technology/cybersecurity-stocks-earnings-artificial-intelligence-high-expectations/",
-      "date": "2026-08-25T12:00:57Z"
-    },
-    {
-      "title": "Mirage2FA Surge Hits 4,500 US and EU Companies, Abusing Microsoft 365 Login Flows",
-      "description": "[FEEDS] Thousands of companies have been affected by the Mirage2FA campaign from 2024 to 2026. The commercial phishing-as-a-service toolkit targets Microsoft 365 accounts by abusing legitimate login flows and bypassing two-factor authentication. According...",
-      "url": "https://thehackernews.com/2026/08/mirage2fa-surge-hits-4500-us-and-eu.html",
-      "date": "2026-08-25T11:56:15Z"
-    },
-    {
-      "title": "24 npm Packages Abuse unpkg Mirrors to Host Fake Cloudflare CAPTCHA Pages",
-      "description": "[FEEDS] Cybersecurity researchers have disclosed details of a new campaign that uses a cluster of 24 npm packages as free phishing infrastructure for redirecting to ClickFix-style fake CAPTCHA pages. \"While the malware is simply a single HTML page inside...",
-      "url": "https://thehackernews.com/2026/08/24-npm-packages-abuse-unpkg-mirrors-to.html",
-      "date": "2026-08-25T11:52:43Z"
-    },
-    {
-      "title": "Hexaware takes AI beyond chatbots to software, machines",
-      "description": "[THE FINANCIAL EXPRESS] Hexaware Technologies showcases advanced AI demos at AI Day 2026, highlighting AI's role beyond chatbots in image recognition, robotics, cybersecurity, and enterprise software transformation.",
-      "url": "https://www.financialexpress.com/artificial-intelligence/hexawaretakesaibeyond-chatbots-to-software-machines/4324961/",
-      "date": "2026-08-25T11:16:26Z"
-    },
-    {
-      "title": "Scindia calls on C-DOT to lead India's 6G push, take indigenous telecom technologies global",
-      "description": "[DEVDISCOURSE] Union Communications Minister Jyotiraditya M Scindia on Tuesday called on the Centre for Development of Telematics (C-DOT) to accelerate work in 6G, artificial intelligence, quantum technology and cybersecurity while taking its indigenous...",
-      "url": "https://www.devdiscourse.com/article/business/3967582-scindia-calls-on-c-dot-to-lead-indias-6g-push-take-indigenous-telecom-technologies-global",
-      "date": "2026-08-25T11:09:45Z"
-    },
-    {
-      "title": "DOT to lead India's 6G push, take indigenous telecom technologies global",
-      "description": "[THE TRIBUNE] Union Communications Minister Jyotiraditya M Scindia on Tuesday called on the Centre for Development of Telematics (C-DOT) to accelerate work in 6G, artificial intelligence, quantum technology and cybersecurity while taking its indigenous...",
-      "url": "https://www.tribuneindia.com/news/business/scindia-calls-on-c-dot-to-lead-indias-6g-push-take-indigenous-telecom-technologies-global/",
-      "date": "2026-08-25T11:08:28Z"
     },
     {
       "title": "Black Hat State of Security Vendors",
