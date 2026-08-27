@@ -1,209 +1,137 @@
 {
-  "updated": "2026-08-27 17:05:57 UTC",
-  "news": [
-    {
-      "title": "PaperCut warns of NG, MF flaw exploited in zero-day attacks",
-      "description": "[BLEEPINGCOMPUTER] PaperCut is warning that hackers are actively exploiting a vulnerability in all versions of its PaperCut NG and PaperCut MF print management software in zero-day attacks. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/papercut-warns-of-ng-mf-flaw-exploited-in-zero-day-attacks/",
-      "date": "2026-08-27T16:31:53Z"
-    },
-    {
-      "title": "Manchester Airports Group says hackers stole travelers' data",
-      "description": "[BLEEPINGCOMPUTER] The Manchester Airports Group (MAG) disclosed that hackers breached its systems and stole customer data, including Wi-Fi sign-ups from Manchester, Stansted, and East Midlands airports. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/manchester-airports-group-says-hackers-stole-travelers-data/",
-      "date": "2026-08-27T16:12:26Z"
-    },
-    {
-      "title": "Next.js Patches Critical AVIF and Windows Flaws Enabling Unauthenticated RCE",
-      "description": "[FEEDS] Credit:&nbsp;Hacktron Vercel has released security patches for two critical-severity vulnerabilities in the Next.js web framework, both of which allow unauthenticated remote code execution, one exploitable via specially crafted AVIF image files and...",
-      "url": "https://thehackernews.com/2026/08/nextjs-patches-critical-avif-and.html",
-      "date": "2026-08-27T15:13:00Z"
-    },
-    {
-      "title": "ThreatsDay: 296K IoT Botnet, 100+ Water Systems Targeted, SharePoint RCE Chain + 27 New Stories",
-      "description": "[FEEDS] A fake login page. A fake security scan. A fake productivity app. Apparently, pretending to be useful is still one of the easier ways into a machine. The rest of the week gets stranger: botnets borrowing AI, command traffic hiding in public...",
-      "url": "https://thehackernews.com/2026/08/threatsday-296k-iot-botnet-100-water.html",
-      "date": "2026-08-27T15:12:16Z"
-    },
-    {
-      "title": "How Threat Research and MDR Help SMBs Build a Defensive Edge",
-      "description": "[BLEEPINGCOMPUTER] Threat research gives security teams insight into how attackers operate, while MDR turns that intelligence into faster detection and response. ESET explains how combining threat intelligence, continuous monitoring, and human expertise can help SMBs...",
-      "url": "https://www.bleepingcomputer.com/news/security/how-threat-research-and-mdr-help-smbs-build-a-defensive-edge/",
-      "date": "2026-08-27T14:00:10Z"
-    },
-    {
-      "title": "Android 17 adds ECH support to make web browsing harder to track",
-      "description": "[BLEEPINGCOMPUTER] Google is introducing new network security protections in Android 17 to strengthen connection privacy, address cellular vulnerabilities, and protect the privacy of users' home networks. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/android-17-adds-ech-support-to-make-web-browsing-harder-to-track/",
-      "date": "2026-08-27T14:00:00Z"
-    },
-    {
-      "title": "Amazon Kiro Prompt Injection Can Exfiltrate Sensitive Data Through Kiro Powers",
-      "description": "[FEEDS] Cybersecurity researchers have disclosed details of a vulnerability in Amazon Kiro, an artificial intelligence (AI)-powered, agentic integrated development environment (IDE), that could facilitate data exfiltration via prompt injection and Kiro...",
-      "url": "https://thehackernews.com/2026/08/amazon-kiro-prompt-injection-can.html",
-      "date": "2026-08-27T13:39:56Z"
-    },
-    {
-      "title": "Australia arrests alleged TeamPCP hackers behind supply-chain attacks",
-      "description": "[BLEEPINGCOMPUTER] Australian authorities have arrested and charged two young men accused of being part of the TeamPCP hacking group linked to a string of far-reaching developer supply chain attacks. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/australia-arrests-alleged-teampcp-hackers-behind-supply-chain-attacks/",
-      "date": "2026-08-27T13:31:13Z"
-    },
-    {
-      "title": "Microsoft rolls out fix for Windows 11 crashes, gaming issues",
-      "description": "[BLEEPINGCOMPUTER] Microsoft has started rolling out a permanent fix for a known issue that causes system crashes and gaming issues on Windows 11 devices. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-fix-for-windows-11-crashes-gaming-issues/",
-      "date": "2026-08-27T12:16:32Z"
-    },
-    {
-      "title": "Learn How to Build Security Operations Ready for AI-Powered Attacks",
-      "description": "[FEEDS] Security teams have spent years trying to detect threats faster. AI is changing the harder part: how much time defenders have left to act. Advanced AI models can now help attackers discover vulnerabilities, generate exploit code, and move through...",
-      "url": "https://thehackernews.com/2026/08/learn-how-to-build-security-operations.html",
-      "date": "2026-08-27T11:56:30Z"
-    },
-    {
-      "title": "Alleged TeamPCP Hackers Charged in Australia Over Major Supply Chain Attacks",
-      "description": "[FEEDS] The Australian Federal Police (AFP) has charged two Western Australian men with a combined total of 14 offences over their alleged role in TeamPCP, the cybercrime group behind the March 2026 compromise of the open-source security scanners Trivy and...",
-      "url": "https://thehackernews.com/2026/08/alleged-teampcp-hackers-charged-in.html",
-      "date": "2026-08-27T11:56:26Z"
-    },
-    {
-      "title": "What the Data Says About AI in Security Operations in 2026",
-      "description": "[FEEDS] AI is officially mainstream in security operations. According to Prophet Security's State of AI in Security Operations 2026 report (produced from ViB\u2019s survey of 250+ cybersecurity pros), 40% of security teams now use AI daily. Another 56% are...",
-      "url": "https://thehackernews.com/2026/08/what-data-says-about-ai-in-security.html",
-      "date": "2026-08-27T11:30:00Z"
-    },
-    {
-      "title": "A polymorphic phishing page (that occasionally breaks itself), (Thu, Aug 27th)",
-      "description": "[ISC] As I&#x27ve mentioned before in some of my diaries, from time to time, I like to go over phishing messages that get caught in my various spam traps or sent to us here at the Internet Storm Center.&#xd;",
-      "url": "https://isc.sans.edu/diary/rss/33290",
-      "date": "2026-08-27T09:57:28Z"
-    },
-    {
-      "title": "LLM-Based Social Engineering Scams",
-      "description": "[SCHNEIER] OpenAI disrupted a social engineering group from Cambodia that used ChatGPT. Its scope is impressive: The network simultaneously conducted multiple types of scams, often blending elements from different schemes. For instance, operators used dating...",
-      "url": "https://www.schneier.com/blog/archives/2026/08/llm-based-social-engineering-scams.html",
-      "date": "2026-08-27T09:56:56Z"
-    },
-    {
-      "title": "OpenAI agents tried covering their tracks after Hugging Face breach",
-      "description": "[NEWSBYTES] OpenAI has unveiled its detailed findings on the Hugging Face breach, shedding light on how an AI model escaped testing and caused a significant cybersecurity incident.",
-      "url": "https://www.newsbytesapp.com/news/science/openai-reveals-how-ai-agents-triggered-the-hugging-face-breach/story",
-      "date": "2026-08-27T04:39:40Z"
-    },
-    {
-      "title": "Boston Scientific: Network outage the result of 'cybersecurity incident'",
-      "description": "[FOX 9] Boston Scientific is dealing with a cybersecurity attack that is disrupting its operations as the company works to restore its systems.",
-      "url": "https://www.fox9.com/news/boston-scientific-hack-cybersecurity-incident-aug-26-2026",
-      "date": "2026-08-27T02:53:48Z"
-    },
-    {
-      "title": "D4C: Police to get new centre for cybercrime",
-      "description": "[HINDUSTAN TIMES] The Delhi government directed the Delhi Police to establish a nodal agency, \u201cDelhi Cyber Coordination Centre\u201d (D4C), to prevent cybercrime, tackle ransomware, provide digital forensic support and carry out cyber intelligence work in Delhi | Latest...",
-      "url": "https://www.hindustantimes.com/cities/delhi-news/d4c-police-to-get-new-centre-for-cybercrime-101787769860817.html",
-      "date": "2026-08-27T02:48:00Z"
-    },
-    {
-      "title": "ISC Stormcast For Thursday, August 27th, 2026 https://isc.sans.edu/podcastdetail/10070, (Thu, Aug 27th)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33286",
-      "date": "2026-08-27T02:00:03Z"
-    },
-    {
-      "title": "Hackers turned a Google Docs feature into a trap for security experts",
-      "description": "[THE STAR] An invitation to a nonexistent crypto conference and a malware-infected Google Docs link targeted cybersecurity experts. One diligent researcher detected the scam and sounded the alarm.",
-      "url": "https://www.thestar.com.my/tech/tech-news/2026/08/27/hackers-turned-a-google-docs-feature-into-a-trap-for-security-experts",
-      "date": "2026-08-27T02:00:00Z"
-    },
-    {
-      "title": "ATF cybersecurity incident called major incident by Justice Department",
-      "description": "[FOX NEWS] ATF is investigating a cybersecurity incident designated a \"major incident\" by the Justice Department.",
-      "url": "https://www.foxnews.com/us/atf-investigates-major-cybersecurity-incident-ransomware-group-claims-attack",
-      "date": "2026-08-27T01:26:10Z"
-    },
-    {
-      "title": "GMC Srinagar, CISA, Moul Mouj Foundation to hold JK Obesity Summit",
-      "description": "[GREATER KASHMIR] The journey began with MMFDIACON-2025, which focused on diabetes and its complications in the elderly, bringing together clinicians and experts around the growing need for specialised, compassionate and evidence-based care for older persons.",
-      "url": "https://www.greaterkashmir.com/health/gmc-srinagar-cisa-moul-mouj-foundation-to-hold-jk-obesity-summit-12441631",
-      "date": "2026-08-27T01:24:46Z"
-    },
-    {
-      "title": "CrowdStrike's shows AI is a cybersecurity tailwind, not a threat",
-      "description": "[CNBC] Earlier this year, the bears thought advances in AI models could disintermediate the cybersecurity sector. So far, they've been proven wrong.",
-      "url": "https://www.cnbc.com/2026/08/26/crowdstrikes-shows-ai-is-a-cybersecurity-tailwind-not-a-threat.html",
-      "date": "2026-08-27T00:19:24Z"
-    },
-    {
-      "title": "CrowdStrike raises annual revenue forecast on strong cybersecurity demand",
-      "description": "[THE STAR] Aug 26 (Reuters) - CrowdStrike \u2060beat second-quarter earnings estimates and raised its \u2060annual revenue forecast on Wednesday, as demand for \u200cits cloud-based cybersecurity platform continued to grow.",
-      "url": "https://www.thestar.com.my/tech/tech-news/2026/08/27/crowdstrike-raises-annual-revenue-forecast-on-strong-cybersecurity-demand",
-      "date": "2026-08-27T00:09:00Z"
-    },
-    {
-      "title": "At 18k, India sees most mobile threat detections in 8 Apac markets: Report",
-      "description": "[TIMES OF INDIA] India Business News: NEW DELHI: India recorded the highest number of mobile threat detections among eight Asia-Pacific markets analysed by cybersecurity firm Kaspersky in .",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/at-18k-india-sees-most-mobile-threat-detections-in-8-apac-markets-report/articleshow/133553116.cms",
-      "date": "2026-08-26T23:46:00Z"
-    },
-    {
-      "title": "OpenAI\u2019s rogue AI model incident was worse than we thought",
-      "description": "[THE VERGE] Two new reports from OpenAI and METR shine new light on the OpenAI-Hugging Face cybersecurity incident that rocked the AI industry in July.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/985385/openais-rogue-ai-model-hugging-face-cybersecurity-incident-reports-metr",
-      "date": "2026-08-26T21:36:06Z"
-    },
-    {
-      "title": "Who Has Admin Rights in your Entra ID Directory&#x3f;, (Wed, Aug 26th)",
-      "description": "[ISC] A common thing that folks should \"worry\" about in Entra (or any platform really) is \"who has rights to administer\"&&#x23&#x3b;x26&#x3b;&#x23&#x3b;x3f&#x3b;&&#x23&#x3b;x26&#x3b;&#x23&#x3b;xc2&#x3b;&&#x23&#x3b;x26&#x3b;&#x23&#x3b;xa0&#x3b; Who can...",
-      "url": "https://isc.sans.edu/diary/rss/33284",
-      "date": "2026-08-26T15:58:15Z"
-    },
-    {
-      "title": "Spyware for Babies",
-      "description": "[SCHNEIER] The New York Times has a long article (alt link) on surveillance systems aimed at babies. They are increasingly using AI. Nanit and its rivals want to own 24/7 health tracking for the sub-four-foot set. And their already astonishing levels of baby...",
-      "url": "https://www.schneier.com/blog/archives/2026/08/spyware-for-babies.html",
-      "date": "2026-08-26T12:05:52Z"
-    },
-    {
-      "title": "ISC Stormcast For Wednesday, August 26th, 2026 https://isc.sans.edu/podcastdetail/10068, (Wed, Aug 26th)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33282",
-      "date": "2026-08-26T02:40:13Z"
-    },
-    {
-      "title": "Obfuscating IP Addresses as Hostnames, (Tue, Aug 25th)",
-      "description": "[ISC] It is pretty obvious that hostnames can replace IP addresses. Pretty much any software accepting an IP address will also accept a hostname as an argument. Last week, I wrote about scans for the cloud metadata service listening at 169.254.169.254....",
-      "url": "https://isc.sans.edu/diary/rss/33280",
-      "date": "2026-08-25T15:03:33Z"
-    },
-    {
-      "title": "Black Hat State of Security Vendors",
-      "description": "[SCHNEIER] Andy Ellis has a roundup of the security vendors at Black Hat this year. Key Takeaways: We have entered into an AI world. While nearly half of booths didn&#8217;t directly mention AI or agents in their taglines, the effects of AI are everywhere....",
-      "url": "https://www.schneier.com/blog/archives/2026/08/black-hat-state-of-security-vendors.html",
-      "date": "2026-08-25T10:54:50Z"
-    },
-    {
-      "title": "ISC Stormcast For Tuesday, August 25th, 2026 https://isc.sans.edu/podcastdetail/10066, (Tue, Aug 25th)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33278",
-      "date": "2026-08-25T02:00:03Z"
-    },
-    {
-      "title": "Criminal Deception in Silicon Valley",
-      "description": "[SCHNEIER] Interesting paper: Abstract: With entrepreneurial fraud cases on the rise, we investigate how entrepreneurs carry out criminal deception, employing deceptive means to defraud audiences. Analyzing court data from Silicon Valley ventures and their...",
-      "url": "https://www.schneier.com/blog/archives/2026/08/criminal-deception-in-silicon-valley.html",
-      "date": "2026-08-24T10:38:29Z"
-    },
-    {
-      "title": "Friday Squid Blogging: Neon Flying Squid",
-      "description": "[SCHNEIER] The neon flying squid can fly in formation. The shoal of about 100 squid rose unexpectedly from a patch of the Pacific Ocean around 370 miles from Tokyo and glided near the boat for about 30 metres. The astonished researchers were the first to...",
-      "url": "https://www.schneier.com/blog/archives/2026/08/friday-squid-blogging-neon-flying-squid.html",
-      "date": "2026-08-21T21:07:20Z"
-    },
-    {
-      "title": "AI Is Learning to Write Genetic Code",
-      "description": "[SCHNEIER] This sort of research is both exciting and terrifying: The two models in question were told to generate complete genomes for a viable bacteriophage&#8212;a type of virus able to infect and replicate itself inside bacteria, destroying them from the...",
-      "url": "https://www.schneier.com/blog/archives/2026/08/ai-is-learning-to-write-genetic-code.html",
-      "date": "2026-08-21T16:51:50Z"
-    }
-  ]
+    "title": "Sentinel Protocol",
+    "tagline": "Perimeter Intelligence Sync",
+    "updated": "2026-08-27 20:53 UTC",
+    "news": [
+        {
+            "source": {
+                "id": null,
+                "name": "PRNewswire"
+            },
+            "author": null,
+            "title": "Optikos Obtains 110 SPRS Score, Validating Supply Chain Security for Defense Programs",
+            "description": "WAKEFIELD, Mass., Aug. 26, 2026 /PRNewswire/ -- Optikos has officially obtained a score of 110 on the Department of Defense's Supplier Performance Risk System (SPRS) assessment. This milestone confirms the company's full compliance with the stringent cybersec\u2026",
+            "url": "https://www.prnewswire.com/news-releases/optikos-obtains-110-sprs-score-validating-supply-chain-security-for-defense-programs-302860997.html",
+            "urlToImage": "https://mmx.prnewswire.com/media/MS1976465/Optikos-achieves-a-perfect-110-SPRS-score.jpg?id=OA2914488&p=facebook",
+            "publishedAt": "2026-08-26T20:53:00Z",
+            "content": "WAKEFIELD, Mass., Aug. 26, 2026 /PRNewswire/ -- Optikos has officially obtained a score of 110 on the Department of Defense's Supplier Performance Risk System (SPRS) assessment. This milestone confir\u2026 [+4773 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Biztoc.com"
+            },
+            "author": "pymnts.com",
+            "title": "CISA Shares Federal Cyber Guidance With Critical Infrastructure Companies",
+            "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has released a guide to network monitoring that it said was developed for federal agencies but can also provide help to other government organizations as well as critical infrastructure entities\u2026",
+            "url": "https://biztoc.com/x/6a6e9ef0065ff5b3",
+            "urlToImage": "https://biztoc.com/cdn/995/og.png",
+            "publishedAt": "2026-08-26T20:51:23Z",
+            "content": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has released a guide to network monitoring that it said was developed for federal agencies but can also provide help to other governme\u2026 [+144 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PRNewswire"
+            },
+            "author": null,
+            "title": "KIEWIT CORPORATION DATA BREACH ALERT: Edelson Lechtzin LLP Investigates Exposure of Employee and Contractor Personal Information",
+            "description": "National class action firm offering free, confidential case evaluations to individuals affected by the Kiewit Corporation cybersecurity incident OMAHA, Neb., Aug. 26, 2026 /PRNewswire/ -- Edelson Lechtzin LLP, a national class action law firm, is investigatin\u2026",
+            "url": "https://www.prnewswire.com/news-releases/kiewit-corporation-data-breach-alert-edelson-lechtzin-llp-investigates-exposure-of-employee-and-contractor-personal-information-302860992.html",
+            "urlToImage": "https://mmx.prnewswire.com/media/MS1803521/safe-image.jpg?id=OA2914603&p=facebook",
+            "publishedAt": "2026-08-26T20:47:00Z",
+            "content": "National class action firm offering free, confidential case evaluations to individuals affected by the Kiewit Corporation cybersecurity incident\r\nOMAHA, Neb., Aug. 26, 2026 /PRNewswire/ -- Edelson Le\u2026 [+4370 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Crypto Briefing"
+            },
+            "author": "Editorial Team",
+            "title": "Boston Scientific faces global operational disruptions after cyberattack",
+            "description": "The cyberattack on Boston Scientific highlights vulnerabilities in medtech supply chains, potentially impacting patient care and financial stability.\nThe post Boston Scientific faces global operational disruptions after cyberattack appeared first on Crypto Br\u2026",
+            "url": "https://cryptobriefing.com/boston-scientific-cyberattack-global-disruptions/",
+            "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/08/26164630/library-boston-scientific-faces-global-operational-disruptions-a-800x450.png",
+            "publishedAt": "2026-08-26T20:46:34Z",
+            "content": "The medical device giant's order processing and shipping systems are hobbled, with analysts warning of a potential 600-700 basis point hit to third-quarter revenue Boston Scientific disclosed a cyber\u2026 [+2927 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "iTnews"
+            },
+            "author": null,
+            "title": "US says Chinese hackers broke into Justice Department, NASA, Federal Reserve, Senate",
+            "description": "Seizes domains used to execute campaign.",
+            "url": "https://www.itnews.com.au/news/us-says-chinese-hackers-broke-into-justice-department-nasa-federal-reserve-senate-628465?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+News+feed",
+            "urlToImage": "https://i.nextmedia.com.au/News/china us hacking united states huawei security espionage.jpg",
+            "publishedAt": "2026-08-26T20:46:00Z",
+            "content": "The United States said it \u2060had disrupted a Chinese hacking operation responsible for break-ins and attempts on the US Justice Department, NASA, the Federal Reserve, the Senate, and other sensitive go\u2026 [+2592 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "iTnews"
+            },
+            "author": null,
+            "title": "US says Chinese hackers broke into Justice Department, NASA, Federal Reserve, Senate",
+            "description": "Seizes domains used to execute campaign.",
+            "url": "https://www.itnews.com.au/news/us-says-chinese-hackers-broke-into-justice-department-nasa-federal-reserve-senate-628465?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+Business+feed",
+            "urlToImage": "https://i.nextmedia.com.au/News/china us hacking united states huawei security espionage.jpg",
+            "publishedAt": "2026-08-26T20:46:00Z",
+            "content": "The United States said it \u2060had disrupted a Chinese hacking operation responsible for break-ins and attempts on the US Justice Department, NASA, the Federal Reserve, the Senate, and other sensitive go\u2026 [+2592 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "iTnews"
+            },
+            "author": null,
+            "title": "US says Chinese hackers broke into Justice Department, NASA, Federal Reserve, Senate",
+            "description": "Seizes domains used to execute campaign.",
+            "url": "https://www.itnews.com.au/news/us-says-chinese-hackers-broke-into-justice-department-nasa-federal-reserve-senate-628465?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+",
+            "urlToImage": "https://i.nextmedia.com.au/News/china us hacking united states huawei security espionage.jpg",
+            "publishedAt": "2026-08-26T20:46:00Z",
+            "content": "The United States said it \u2060had disrupted a Chinese hacking operation responsible for break-ins and attempts on the US Justice Department, NASA, the Federal Reserve, the Senate, and other sensitive go\u2026 [+2592 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNA"
+            },
+            "author": null,
+            "title": "CrowdStrike raises annual revenue forecast on strong cybersecurity demand",
+            "description": "Aug 26 : CrowdStrike beat second-quarter earnings estimates and raised its annual revenue forecast on Wednesday, as demand for its cloud-based cybersecurity platform continued to grow.Shares of the Austin, Texas-based company rose more than 10 per cent in ext\u2026",
+            "url": "https://www.channelnewsasia.com/business/crowdstrike-raises-annual-revenue-forecast-strong-cybersecurity-demand-6343631",
+            "urlToImage": "https://dam.mediacorp.sg/image/upload/s--vqfpzFLI--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-08-26T204436Z_2_LYNXMPEM7P1Q7_RTROPTP_3_CROWDSTRIKE-HLDG-RESULTS.JPG?itok=wwik3Wh2",
+            "publishedAt": "2026-08-26T20:44:36Z",
+            "content": "Aug 26 : CrowdStrike beat second-quarter earnings estimates and raised its annual revenue forecast on Wednesday, as demand for its cloud-based cybersecurity platform continued to grow.\r\nShares of the\u2026 [+1148 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Biztoc.com"
+            },
+            "author": "investors.com",
+            "title": "CrowdStrike Stock Climbs As Earnings, Revenue, Outlook Top Views",
+            "description": "CrowdStrike stock climbed amid Q2 earnings and revenue that topped estimates while the cybersecurity firm's October quarter guidance came in above views.\nThe post CrowdStrike Stock Climbs As Earnings, Revenue, Outlook Top Views appeared first on Investor's Bu\u2026",
+            "url": "https://biztoc.com/x/7f21a5a8c221b910",
+            "urlToImage": "https://biztoc.com/cdn/995/og.png",
+            "publishedAt": "2026-08-26T20:36:04Z",
+            "content": "CrowdStrike stock climbed amid Q2 earnings and revenue that topped estimates while the cybersecurity firm's October quarter guidance came in above views.The post CrowdStrike Stock Climbs As Earnings,\u2026 [+131 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ARTnews"
+            },
+            "author": "Tessa Solomon",
+            "title": "LACMA Hit With Class Action Lawsuit Over Data Breach of Employee, Visitor\u00a0Information",
+            "description": "A former employee of the Los Angeles County Museum of Art has filed a class action complaint against the institution over a 2025 data breach.",
+            "url": "https://www.artnews.com/art-news/news/lacma-class-action-lawsuit-data-breach-employee-visitor-info-1234795979/",
+            "urlToImage": null,
+            "publishedAt": "2026-08-26T20:27:57Z",
+            "content": "A former employee of the Los Angeles County Museum of Art has filed a class action complaint against the institution over a 2025 data breach that he claims has compromised sensitive visitor and emplo\u2026 [+3120 chars]"
+        }
+    ]
 }
