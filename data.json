@@ -1,209 +1,124 @@
 {
-  "updated": "2026-08-28 13:33:15 UTC",
-  "news": [
-    {
-      "title": "Over 8,300 Gitea servers vulnerable to code execution attacks",
-      "description": "[BLEEPINGCOMPUTER] Over 8,300 Internet-exposed Gitea instances are still unpatched against a critical security flaw exploited in ongoing remote code execution attacks, according to cybersecurity watchdog Shadowserver. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/over-8-300-gitea-servers-vulnerable-to-code-execution-attacks/",
-      "date": "2026-08-28T12:58:43Z"
-    },
-    {
-      "title": "Two Unitree G1 EDU Humanoid Robot Flaws Enable Root RCE, One Starts Over Bluetooth",
-      "description": "[FEEDS] Security researcher Olivier Laflamme has disclosed two independent root remote code execution (RCE) chains affecting the Unitree G1 EDU, including a Bluetooth Low Energy (BLE) path that can reach root on the robot's Locomotion PC. The flaws are...",
-      "url": "https://thehackernews.com/2026/08/two-unitree-g1-edu-humanoid-robot-flaws.html",
-      "date": "2026-08-28T12:07:24Z"
-    },
-    {
-      "title": "Toy-making giant Hasbro disclose data breach affecting employees",
-      "description": "[BLEEPINGCOMPUTER] Hasbro, one of the world's largest toy and game companies, has disclosed that attackers have accessed the personal and financial information of an undisclosed number of employees. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/toy-making-giant-hasbro-disclose-data-breach-affecting-employees/",
-      "date": "2026-08-28T11:46:57Z"
-    },
-    {
-      "title": "Key Reasons Why Identity Fabric Matters in 2026",
-      "description": "[FEEDS] An Identity Fabric knits fragmented identity systems into a coherent layer that observes how identities behave across applications, APIs, and infrastructure. As enterprise access spans more cloud services and automated workloads, identity security...",
-      "url": "https://thehackernews.com/2026/08/key-reasons-why-identity-fabric-matters.html",
-      "date": "2026-08-28T11:30:00Z"
-    },
-    {
-      "title": "Three CVSS 10.0 ServiceNow Flaws Could Let Unauthenticated Attackers Execute Code and SQL",
-      "description": "[FEEDS] ServiceNow has released patches for four security flaws impacting the ServiceNow AI Platform, three of them rated 10.0 on the CVSS scoring system and exploitable, in certain circumstances, by an unauthenticated attacker. The company said it deployed...",
-      "url": "https://thehackernews.com/2026/08/three-cvss-100-servicenow-flaws-could.html",
-      "date": "2026-08-28T11:20:32Z"
-    },
-    {
-      "title": "AI Doesn\u2019t Mean the End of Mathematics\u2014at Least Not Yet",
-      "description": "[SCHNEIER] This essay was written with Kasra Rafi, and originally appeared in The Guardian. Earlier this month, about 40 top mathematicians gathered at OpenAI&#8217;s offices to discuss the future of their profession. The meeting was off-the-record, but if...",
-      "url": "https://www.schneier.com/blog/archives/2026/08/ai-doesnt-mean-the-end-of-mathematics-at-least-not-yet.html",
-      "date": "2026-08-28T11:02:22Z"
-    },
-    {
-      "title": "China-Made ZBT Routers Ship With Two Implants Giving Unauthenticated Attackers Root Access",
-      "description": "[FEEDS] VulnCheck has disclosed two previously undocumented factory implants in firmware for routers built by Shenzhen Zhibotong Electronics (ZBT), each of which gives an unauthenticated remote attacker the ability to run commands as root on affected...",
-      "url": "https://thehackernews.com/2026/08/china-made-zbt-routers-ship-with-two.html",
-      "date": "2026-08-28T10:58:29Z"
-    },
-    {
-      "title": "ServiceNow warns of three max severity security vulnerabilities",
-      "description": "[BLEEPINGCOMPUTER] ServiceNow released security patches for three new maximum-severity AI Platform vulnerabilities that can be exploited in code injection, SQL injection, and privilege escalation attacks. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/servicenow-warns-of-three-max-severity-security-vulnerabilities/",
-      "date": "2026-08-28T10:29:42Z"
-    },
-    {
-      "title": "Critical cPanel Flaw Could Let One Hosting Customer Take Root Control of a Whole Server",
-      "description": "[FEEDS] cPanel has released patches for a security flaw affecting domain parking and addon domain functionality in cPanel and WebHost Manager (WHM), which could allow code execution as the root user. The vulnerability, assigned the CVE identifier...",
-      "url": "https://thehackernews.com/2026/08/critical-cpanel-flaw-could-let-one.html",
-      "date": "2026-08-28T09:45:15Z"
-    },
-    {
-      "title": "Windows 11 KB5120998 update released with 35 changes and fixes",
-      "description": "[BLEEPINGCOMPUTER] Microsoft released the KB5120998 preview cumulative update for Windows 11 versions 25H2 and 24H2, which comes with 35 changes, including improvements to the Start menu, taskbar, and Windows search. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/windows-11-kb5120998-update-released-with-35-changes-and-fixes/",
-      "date": "2026-08-28T09:10:13Z"
-    },
-    {
-      "title": "PaperCut Zero-Day Exploited in Attacks, Affecting All NG and MF Versions",
-      "description": "[FEEDS] PaperCut has alerted customers that bad actors are actively exploiting a vulnerability impacting all versions of its PaperCut NG and PaperCut MF print management software in zero-day attacks. The company has released an emergency patch for v25 and...",
-      "url": "https://thehackernews.com/2026/08/papercut-zero-day-exploited-in-attacks.html",
-      "date": "2026-08-28T08:25:36Z"
-    },
-    {
-      "title": "Some Malicious PE Stats, (Thu, Aug 27th)",
-      "description": "[ISC] During my last FOR610 session, a student asked me if I had some statistics in mind about the compilers used to generate malicious PE files&#x3f; A couple of months ago, I shared some stats about the trend in 64bits VS. 32bits malware&#x5b;1&#x5d;....",
-      "url": "https://isc.sans.edu/diary/rss/33292",
-      "date": "2026-08-28T07:04:13Z"
-    },
-    {
-      "title": "ISC Stormcast For Friday, August 28th, 2026 https://isc.sans.edu/podcastdetail/10072, (Fri, Aug 28th)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33294",
-      "date": "2026-08-28T02:00:02Z"
-    },
-    {
-      "title": "Visa expands support for its clients and the industry as organisations navigate new AI era of cybersecurity",
-      "description": "[ITWIRE] Latest Visa Vulnerability Agentic Harness release moves AI-powered cyber risk management from discovery to validated remediation. New services from Visa Consulting & Analytics...",
-      "url": "https://itwire.com/guest-articles/company-news/visa-expands-support-for-its-clients-and-the-industry-as-organisations-navigate-new-ai-era-of-cybersecurity",
-      "date": "2026-08-28T00:18:00Z"
-    },
-    {
-      "title": "OpenAI, Google and others warn AI-powered cyberattacks could hit critical systems soon",
-      "description": "[BALTIMORE NEWS] A coalition of major tech and cybersecurity organizations is warning that AI-enabled cyberattacks could become more widespread and sophisticated.",
-      "url": "https://foxbaltimore.com/news/nation-world/openai-google-and-others-warn-ai-powered-cyberattacks-could-hit-critical-systems-soon",
-      "date": "2026-08-27T22:01:13Z"
-    },
-    {
-      "title": "OpenAI, Google and others warn AI-powered cyberattacks could hit critical systems soon",
-      "description": "[WJLA] A coalition of major tech and cybersecurity organizations is warning that AI-enabled cyberattacks could become more widespread and sophisticated.",
-      "url": "https://wjla.com/news/nation-world/openai-google-and-others-warn-ai-powered-cyberattacks-could-hit-critical-systems-soon",
-      "date": "2026-08-27T22:01:13Z"
-    },
-    {
-      "title": "Cybercriminals used SpaceX's Cursor AI to hack",
-      "description": "[BNN BLOOMBERG] Russian-speaking hackers used SpaceX\u2019s AI coding assistant, Cursor, to help break in to a Belgian chemical company and at least six other firms earlier this year, according to data reviewed by Reuters and reports issued on Thursday by cybersecurity...",
-      "url": "https://www.bnnbloomberg.ca/business/artificial-intelligence/2026/08/27/russian-speaking-cybercriminals-used-spacexs-cursor-ai-tool-to-hack-seven-companies-reuters-exclusive/",
-      "date": "2026-08-27T21:53:46Z"
-    },
-    {
-      "title": "Cybercriminals used SpaceX's Cursor AI to hack",
-      "description": "[CP24 TORONTO] Russian-speaking hackers used SpaceX\u2019s AI coding assistant, Cursor, to help break in to a Belgian chemical company and at least six other firms earlier this year, according to data reviewed by Reuters and reports issued on Thursday by cybersecurity...",
-      "url": "https://www.cp24.com/news/world/2026/08/27/russian-speaking-cybercriminals-used-spacexs-cursor-ai-tool-to-hack-seven-companies-reuters-exclusive/",
-      "date": "2026-08-27T21:53:46Z"
-    },
-    {
-      "title": "UCSD researchers hack into a Boeing 737 in under 60 seconds",
-      "description": "[SAN DIEGO UNION-TRIBUNE] This espionage-like engineering feat was not an act of sabotage, but a research project under UC San Diego computer scientist and cybersecurity expert Aaron Schulman.",
-      "url": "https://www.sandiegouniontribune.com/2026/08/27/ucsd-researchers-hack-into-a-boeing-737-in-under-60-seconds/",
-      "date": "2026-08-27T21:40:47Z"
-    },
-    {
-      "title": "Nearly 700 rogue AI agents coordinated in the Hugging Face attack",
-      "description": "[BLEEPINGCOMPUTER] New details about the July attack on Hugging Face reveal that hundreds of AI agents driven by OpenAI's internal IM1 model coordinated the compromise through an unauthorized message board. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/nearly-700-rogue-ai-agents-coordinated-in-the-hugging-face-attack/",
-      "date": "2026-08-27T21:38:53Z"
-    },
-    {
-      "title": "CIA director makes trip to Russia to warn not to attack NATO countries",
-      "description": "[SALT LAKE CITY DESERET NEWS] CIA Director John Ratcliffe was in Moscow to warn Russia not to attack a NATO territory both on the ground or through cybersecurity.",
-      "url": "https://www.deseret.com/politics/2026/08/27/cia-director-john-ratcliffe-makes-trip-to-russia-to-warn-not-to-attack-nato-president-trump-says-it-was-routine-visit/",
-      "date": "2026-08-27T21:25:38Z"
-    },
-    {
-      "title": "OpenAI, Microsoft, Google and Amazon call for \u2018defensive surge\u2019 against AI",
-      "description": "[CNBC TV18] More than 100 technology and business companies have joined forces to urge governments and organisations to strengthen cyber defences as artificial intelligence makes hacking tools increasingly capable. The coalition is seeking faster access to...",
-      "url": "https://www.cnbctv18.com/technology/openai-microsoft-google-amazon-ai-cyberattacks-warning-19978672.htm",
-      "date": "2026-08-27T17:56:38Z"
-    },
-    {
-      "title": "ATF declares 'major incident' as ransomware gang claims hack",
-      "description": "[TECHCRUNCH] The ATF is the latest federal government agency in recent years to notify Congress of a \"major incident\" involving its cybersecurity.",
-      "url": "https://techcrunch.com/2026/08/27/atf-declares-major-incident-as-ransomware-gang-claims-hack/",
-      "date": "2026-08-27T17:54:23Z"
-    },
-    {
-      "title": "Shivaami launches India's 1st Google Gemini Enterprise Experience Centre in this city - How it aims to drive AI adoption",
-      "description": "[LIVEMINT] Shivaami has launched India\u2019s first Google Gemini Enterprise Experience Centre in Mumbai, offering businesses hands-on access to Gemini, agentic AI, cloud, data analytics and cybersecurity solutions to accelerate AI adoption.",
-      "url": "https://www.livemint.com/ai/artificial-intelligence/shivaami-launches-indias-1st-google-gemini-enterprise-experience-centre-in-this-city-how-it-aims-to-drive-ai-adoption-11787851651259.html",
-      "date": "2026-08-27T17:49:11Z"
-    },
-    {
-      "title": "PaperCut warns of NG, MF flaw exploited in zero-day attacks",
-      "description": "[BLEEPINGCOMPUTER] PaperCut is warning that hackers are actively exploiting a vulnerability in all versions of its PaperCut NG and PaperCut MF print management software in zero-day attacks. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/papercut-warns-of-ng-mf-flaw-exploited-in-zero-day-attacks/",
-      "date": "2026-08-27T16:31:53Z"
-    },
-    {
-      "title": "A polymorphic phishing page (that occasionally breaks itself), (Thu, Aug 27th)",
-      "description": "[ISC] As I&#x27ve mentioned before in some of my diaries, from time to time, I like to go over phishing messages that get caught in my various spam traps or sent to us here at the Internet Storm Center.&#xd;",
-      "url": "https://isc.sans.edu/diary/rss/33290",
-      "date": "2026-08-27T09:57:28Z"
-    },
-    {
-      "title": "LLM-Based Social Engineering Scams",
-      "description": "[SCHNEIER] OpenAI disrupted a social engineering group from Cambodia that used ChatGPT. Its scope is impressive: The network simultaneously conducted multiple types of scams, often blending elements from different schemes. For instance, operators used dating...",
-      "url": "https://www.schneier.com/blog/archives/2026/08/llm-based-social-engineering-scams.html",
-      "date": "2026-08-27T09:56:56Z"
-    },
-    {
-      "title": "ISC Stormcast For Thursday, August 27th, 2026 https://isc.sans.edu/podcastdetail/10070, (Thu, Aug 27th)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33286",
-      "date": "2026-08-27T02:00:03Z"
-    },
-    {
-      "title": "Who Has Admin Rights in your Entra ID Directory&#x3f;, (Wed, Aug 26th)",
-      "description": "[ISC] A common thing that folks should \"worry\" about in Entra (or any platform really) is \"who has rights to administer\"&&#x23&#x3b;x26&#x3b;&#x23&#x3b;x3f&#x3b;&&#x23&#x3b;x26&#x3b;&#x23&#x3b;xc2&#x3b;&&#x23&#x3b;x26&#x3b;&#x23&#x3b;xa0&#x3b; Who can...",
-      "url": "https://isc.sans.edu/diary/rss/33284",
-      "date": "2026-08-26T15:58:15Z"
-    },
-    {
-      "title": "Spyware for Babies",
-      "description": "[SCHNEIER] The New York Times has a long article (alt link) on surveillance systems aimed at babies. They are increasingly using AI. Nanit and its rivals want to own 24/7 health tracking for the sub-four-foot set. And their already astonishing levels of baby...",
-      "url": "https://www.schneier.com/blog/archives/2026/08/spyware-for-babies.html",
-      "date": "2026-08-26T12:05:52Z"
-    },
-    {
-      "title": "ISC Stormcast For Wednesday, August 26th, 2026 https://isc.sans.edu/podcastdetail/10068, (Wed, Aug 26th)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33282",
-      "date": "2026-08-26T02:40:13Z"
-    },
-    {
-      "title": "Black Hat State of Security Vendors",
-      "description": "[SCHNEIER] Andy Ellis has a roundup of the security vendors at Black Hat this year. Key Takeaways: We have entered into an AI world. While nearly half of booths didn&#8217;t directly mention AI or agents in their taglines, the effects of AI are everywhere....",
-      "url": "https://www.schneier.com/blog/archives/2026/08/black-hat-state-of-security-vendors.html",
-      "date": "2026-08-25T10:54:50Z"
-    },
-    {
-      "title": "Criminal Deception in Silicon Valley",
-      "description": "[SCHNEIER] Interesting paper: Abstract: With entrepreneurial fraud cases on the rise, we investigate how entrepreneurs carry out criminal deception, employing deceptive means to defraud audiences. Analyzing court data from Silicon Valley ventures and their...",
-      "url": "https://www.schneier.com/blog/archives/2026/08/criminal-deception-in-silicon-valley.html",
-      "date": "2026-08-24T10:38:29Z"
-    },
-    {
-      "title": "Friday Squid Blogging: Neon Flying Squid",
-      "description": "[SCHNEIER] The neon flying squid can fly in formation. The shoal of about 100 squid rose unexpectedly from a patch of the Pacific Ocean around 370 miles from Tokyo and glided near the boat for about 30 metres. The astonished researchers were the first to...",
-      "url": "https://www.schneier.com/blog/archives/2026/08/friday-squid-blogging-neon-flying-squid.html",
-      "date": "2026-08-21T21:07:20Z"
-    }
-  ]
+    "title": "Sentinel Protocol",
+    "tagline": "Perimeter Intelligence Sync",
+    "updated": "2026-08-28 21:18 UTC",
+    "news": [
+        {
+            "source": {
+                "id": null,
+                "name": "Kitploit.com"
+            },
+            "author": "Kitploit",
+            "title": "log4j2-rce",
+            "description": "Pre-auth RCE via FilteredObjectInputStream MarshalledObject bypass in Apache Log4j 2",
+            "url": "https://kitploit.com/en/tools/github/hypnguyen1209/log4j2-rce/",
+            "urlToImage": "https://assets.kitploit.com/production/public/tools/53355/0c4a8418ae88ae84f0654cc2fa4420d3241c04edd8a98f85c9225c12b94be527-social-v1.webp",
+            "publishedAt": "2026-08-27T21:10:41Z",
+            "content": "Skip to contentHacking, PenTest, and Cybersecurity Tools for Your Security Arsenal!\r\nKitploit is a directory of hacking, cybersecurity, and pentesting tools. Discover the latest project updates to fi\u2026 [+8270 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Zo\u00eb Schiffer, Will Knight",
+            "title": "AI Agents Are Hacking Systems. Could That Push the US and China to Cooperate?",
+            "description": "This week on \u201cUncanny Valley,\u201d senior writer Will Knight talks his recent visit to China and the future of AI collaboration.",
+            "url": "https://www.wired.com/story/ai-agents-hacking-systems-could-push-the-us-and-china-to-cooperate/",
+            "urlToImage": "https://media.wired.com/photos/6a8f6fdecc498c3752a8bb2c/191:100/w_1280,c_limit/Uncanny-Valley-China-US-AI-Race-Business-2286901730.jpg",
+            "publishedAt": "2026-08-27T21:08:34Z",
+            "content": "The AI race has long been framed as a zero-sum game: either the US or China will win at the end. But as concerns pile up around the increasing capabilities of AI modelsespecially AI agentsresearchers\u2026 [+3005 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Smartdatacollective.com"
+            },
+            "author": "Alex Blackwell",
+            "title": "Best VMware Alternatives in Thailand for Private Cloud and HCI Deployments",
+            "description": "Thai enterprises can compare VMware alternatives for private cloud and HCI deployments based on platform fit, migration risk, cost, and local support.",
+            "url": "https://www.smartdatacollective.com/vmware-virtualization-alternatives-thailand/",
+            "urlToImage": "https://www.smartdatacollective.com/wp-content/uploads/2026/08/virtualization-in-thailand-vmware-alternatives-for-hci-featured.png",
+            "publishedAt": "2026-08-27T21:03:43Z",
+            "content": "Thai enterprises weighing VMware alternatives should compare platform fit, migration risk, and local support, not just renewal cost. Virtualization lets one physical server run several isolated virtu\u2026 [+11116 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "XDA Developers"
+            },
+            "author": "Jasmine Mannan",
+            "title": "Every device in my house backs up to one machine now, and I set the whole thing up in an evening",
+            "description": "If you don't own a NAS, you're missing out.",
+            "url": "https://www.xda-developers.com/every-device-house-backs-up-one-machine-now-set-whole-thing-up-evening/",
+            "urlToImage": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/ugreen-nas-dh2300-9.jpeg?w=1600&h=900&fit=crop",
+            "publishedAt": "2026-08-27T21:00:15Z",
+            "content": "Modern households have gotten a little bit chaotic. You might have a Windows desktop backing up to an external USB hard drive, a MacBook relying on an unmounted Time Machine drive, an iPhone tethered\u2026 [+5380 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PRNewswire"
+            },
+            "author": null,
+            "title": "Solstice Advanced Materials Announces Mutual Termination of Merger Agreement with Element Solutions",
+            "description": "Board of Directors Authorizes $500 Million Share Repurchase Program Company Affirms Third Quarter and Full-Year 2026 Guidance MORRIS PLAINS, N.J., Aug. 27, 2026 /PRNewswire/ -- Solstice Advanced Materials Inc. (Nasdaq: SOLS) (\"Solstice\"), a global leader in h\u2026",
+            "url": "https://www.prnewswire.com/news-releases/solstice-advanced-materials-announces-mutual-termination-of-merger-agreement-with-element-solutions-302862275.html",
+            "urlToImage": "https://mmx.prnewswire.com/media/MS1747133/Solstice-Logo.jpg?id=OA2917244&p=facebook",
+            "publishedAt": "2026-08-27T21:00:00Z",
+            "content": "Board of Directors Authorizes $500 Million Share Repurchase Program \r\nCompany Affirms Third Quarter and Full-Year 2026 Guidance\r\nMORRIS PLAINS, N.J., Aug. 27, 2026 /PRNewswire/ -- Solstice Advanced M\u2026 [+12513 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Libsyn.com"
+            },
+            "author": null,
+            "title": "Hacking All The Devices, with AI? - Rob Allen - PSW #941",
+            "description": "Rob Allen from ThreatLocker joins us to discuss securing agentic AI with zero-trust controls, least privilege, and access controls to limit what agents can access and do. This segment is sponsored by ThreatLocker. Visit https://securityweekly.com/threatlocker\u2026",
+            "url": "https://sites.libsyn.com/18678/hacking-all-the-devices-with-ai-rob-allen-psw-941",
+            "urlToImage": "http://assets.libsyn.com/content/205505335?height=250&width=250&overlay=true",
+            "publishedAt": "2026-08-27T21:00:00Z",
+            "content": "Welcome to the Security Weekly Podcast Network, your all-in-one source for the latest in cybersecurity! This feed features a diverse lineup of shows, including Application Security Weekly, Business S\u2026 [+454 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "SiliconANGLE News"
+            },
+            "author": "Chad Wilson",
+            "title": "The enterprise AI payoff shifts beyond models to mission-critical workflows",
+            "description": "Enterprise AI capabilities are improving almost everywhere, yet the returns still trail the spending. The technology is reaching production, but it often stops short of the business process where revenue, innovation and risk actually live \u2014 a gap that is now \u2026",
+            "url": "https://siliconangle.com/2026/08/27/enterprise-ai-stalls-last-mile-value-lags-capability-dominodatalab/",
+            "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/08/Thomas-Robinson-Domino-Labs-Domino-In-The-New-Era-of-AI-800x450.png",
+            "publishedAt": "2026-08-27T20:47:36Z",
+            "content": "Enterprise AI capabilities are improving almost everywhere, yet the returns still trail the spending. The technology is reaching production, but it often stops short of the business process where rev\u2026 [+4757 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Digital Journal"
+            },
+            "author": "Dr. Tim Sandle",
+            "title": "Q&A: The next threat to critical infrastructure is manipulation",
+            "description": "Organizations must recognize information manipulation as a genuine cyber threat and strengthen recognition, information integrity, detection, governance, and communication verification controls to prevent malicious influence from affecting critical operations\u2026",
+            "url": "https://www.digitaljournal.com/article/qa-the-next-threat-to-critical-infrastructure-is-manipulation/",
+            "urlToImage": "https://www.digitaljournal.com/wp-content/uploads/2024/01/Dataz-1.jpg",
+            "publishedAt": "2026-08-27T20:44:27Z",
+            "content": "To securely protect critical infrastructure, organisations need to evolve their operational technology (OT) security approach. This is the approach recommended by Logan Spillner, Manager of Network S\u2026 [+6003 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Dealnews.com"
+            },
+            "author": null,
+            "title": "\"Cyber Security and Digital Forensics: Challenges and Future Trends\" eBook: Free + free shipping",
+            "description": "TradePub offers the \"Cyber Security and Digital Forensics: Challenges and Future Trends\" eBook for free. That's a savings of $254.95. It covers cybersecurity and digital forensics challenges, emerging trends, and developments in the field. A valid email addre\u2026",
+            "url": "https://www.dealnews.com/Cyber-Security-and-Digital-Forensics-Challenges-and-Future-Trends-eBook-Free-free-shipping/22105478.html",
+            "urlToImage": "https://d.dlnws.com/64599/1787863462-w_wile919c8.jpg?h=1024&w=790",
+            "publishedAt": "2026-08-27T20:44:27Z",
+            "content": "moreTradePub offers the \"Intentional Attention: The Science and Practice of Focus Under Pressure\" eBook for free. That's a savings of $30 and a nice opportunity to pick up a no-cost resource on menta\u2026 [+547 chars]"
+        }
+    ]
 }
