@@ -1,209 +1,137 @@
 {
-  "updated": "2026-09-01 14:23:46 UTC",
-  "news": [
-    {
-      "title": "Why Even the Best Edge Security Still Misses High-Risk Sessions",
-      "description": "[BLEEPINGCOMPUTER] Attackers can hide behind residential proxies, VPNs, and other infrastructure that makes malicious sessions appear legitimate to existing edge security controls. Spur explains how session enrichment adds data points that help organizations identify...",
-      "url": "https://www.bleepingcomputer.com/news/security/why-even-the-best-edge-security-still-misses-high-risk-sessions/",
-      "date": "2026-09-01T14:01:11Z"
-    },
-    {
-      "title": "Iranian Hackers Pose as Recruiters to Deliver Cross-Platform RATs Through Coding Tests",
-      "description": "[FEEDS] The Iranian Nimbus Manticore hacking group has been attributed to two previously undocumented malware families that highlight the continued evolution of its toolset and likely expand its targeting footprint to infect Linux and Apple macOS systems...",
-      "url": "https://thehackernews.com/2026/09/iranian-hackers-pose-as-recruiters-to.html",
-      "date": "2026-09-01T13:08:58Z"
-    },
-    {
-      "title": "Nearly 22,000 Microsoft Exchange servers vulnerable to hijack attacks",
-      "description": "[BLEEPINGCOMPUTER] Nearly 22,000 Microsoft Exchange servers exposed online remain unpatched against a high-severity authentication bypass vulnerability that allows attackers to hijack all user mailboxes. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/nearly-22-000-microsoft-exchange-servers-vulnerable-to-hijack-attacks/",
-      "date": "2026-09-01T12:38:35Z"
-    },
-    {
-      "title": "Threat Actors Don\u2019t Want Better Attacks. They Want Repeatable Ones",
-      "description": "[FEEDS] The most common way into a company last year was to ask. A web page tells the visitor to prove they are not a robot. While they read the instructions, it quietly places a command on their clipboard. Then it talks them through opening a terminal and...",
-      "url": "https://thehackernews.com/2026/09/threat-actors-dont-want-better-attacks.html",
-      "date": "2026-09-01T11:30:00Z"
-    },
-    {
-      "title": "Rewiring Democracy Series on The Renovator",
-      "description": "[SCHNEIER] Nathan E. Sanders and I are writing a series of essays on real-world examples of democratic technologies for The Renovator. I haven&#8217;t been posting the full text on the blog because they&#8217;re a bit long, but here are links. Part 1 is about...",
-      "url": "https://www.schneier.com/blog/archives/2026/09/rewiring-democracy-series-on-the-renovator.html",
-      "date": "2026-09-01T09:59:07Z"
-    },
-    {
-      "title": "Five Venezuelans plead guilty to ATM jackpotting attacks in US",
-      "description": "[BLEEPINGCOMPUTER] Five Venezuelan nationals pleaded guilty to attempting to empty automated teller machines (ATMs) using malware in a series of ATM jackpotting attacks. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/five-venezuelans-plead-guilty-to-atm-jackpotting-attacks-in-us/",
-      "date": "2026-09-01T09:15:07Z"
-    },
-    {
-      "title": "Attackers Steal METR API Key and Consume AI Credits Worth About $600,000",
-      "description": "[FEEDS] METR (short for Model Evaluation and Threat Research and pronounced \"Meter\"), a research non-profit that evaluates frontier artificial intelligence (AI) models for their ability to carry out long-horizon, agentic tasks, disclosed that it suffered...",
-      "url": "https://thehackernews.com/2026/09/attackers-steal-metr-api-key-and.html",
-      "date": "2026-09-01T09:05:30Z"
-    },
-    {
-      "title": "Russia-Aligned UAC-0099 Plants Nuclear Weapon Prompt in Malware to Disrupt AI Analysis",
-      "description": "[FEEDS] Cybersecurity researchers have disclosed a new technique dubbed GuardBreaker that's been put to use by a Russia-aligned threat actor known as UAC-0099 against a target in Ukraine with an aim to interfere with artificial intelligence (AI)-assisted...",
-      "url": "https://thehackernews.com/2026/09/russia-aligned-uac-0099-plants-nuclear.html",
-      "date": "2026-09-01T08:26:24Z"
-    },
-    {
-      "title": "Recently patched PaperCut zero-days used in data theft attacks",
-      "description": "[BLEEPINGCOMPUTER] Two security vulnerabilities in the PaperCut NG and MF print management software, patched last week after being exploited as zero-days, are now being abused in data theft attacks. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/recently-patched-papercut-zero-days-used-in-data-theft-attacks/",
-      "date": "2026-09-01T07:48:24Z"
-    },
-    {
-      "title": "Attackers Exploit Critical Langflow and Rails Flaws in Credential-Probing and C2 Activity",
-      "description": "[FEEDS] Threat actors are exploiting two critical flaws impacting Langflow and Ruby on Rails, according to new findings from VulnCheck. The vulnerabilities in question are listed below - CVE-2026-0768 (CVSS score: 9.8) - A lack of proper validation of a...",
-      "url": "https://thehackernews.com/2026/09/attackers-exploit-critical-langflow-and.html",
-      "date": "2026-09-01T07:22:30Z"
-    },
-    {
-      "title": "ISC Stormcast For Tuesday, September 1st, 2026 https://isc.sans.edu/podcastdetail/10076, (Tue, Sep 1st)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33302",
-      "date": "2026-09-01T02:00:03Z"
-    },
-    {
-      "title": "Guildma (Astaroth) malware infection from Brazilian Portuguese email, (Tue, Sep 1st)",
-      "description": "[ISC] Introduction&#xd;",
-      "url": "https://isc.sans.edu/diary/rss/33300",
-      "date": "2026-09-01T00:33:21Z"
-    },
-    {
-      "title": "Anthropic resumes AI cyber evaluations after Claude hacking incidents",
-      "description": "[THE STAR] Aug 31 (Reuters) - Anthropic said \u2060on Monday it had resumed external cybersecurity testing of \u2060AI models after deploying new safeguards, following incidents \u200clast month in which Claude models accessed the internet and other systems during security...",
-      "url": "https://www.thestar.com.my/tech/tech-news/2026/09/01/anthropic-resumes-ai-cyber-evaluations-after-claude-hacking-incidents",
-      "date": "2026-09-01T00:01:00Z"
-    },
-    {
-      "title": "Jack Henry determines cybersecurity incident \u2018not financially material\u2019",
-      "description": "[MARKETS INSIDER] Jack Henry (JKHY) & Associates issued a statement on its response to a recent cybersecurity incident: \u201cJack Henry recently detected a cybers...",
-      "url": "https://markets.businessinsider.com/news/stocks/jack-henry-determines-cybersecurity-incident-not-financially-material-1036509660",
-      "date": "2026-08-31T21:50:08Z"
-    },
-    {
-      "title": "Privacy Act overhaul to tighten 72",
-      "description": "[EUROPE SAYS] Australian organisations would have 72 hours to notify the Information Commissioner of an eligible data breach under draft legislation released for",
-      "url": "https://www.europesays.com/3225864/",
-      "date": "2026-08-31T20:48:25Z"
-    },
-    {
-      "title": "Cronos blockchain restarts after $74 million Tectonic exploit",
-      "description": "[BLEEPINGCOMPUTER] The Cronos blockchain network has resumed trading activity after a price-manipulation attack on the Tectonic cryptocurrency lending platform allowed an attacker to borrow $74 million. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/cronos-blockchain-restarts-after-74-million-tectonic-exploit/",
-      "date": "2026-08-31T20:47:54Z"
-    },
-    {
-      "title": "The Coding-Agent Trap: When a \"Free\" LLM Endpoint Is the Adversary, (Mon, Aug 31st)",
-      "description": "[ISC] One of my internet-exposed inference honeypots was discovered, relabeled with sought-after model names, and incorporated into infrastructure apparently used to provide \"free\" LLM backends. It then received a real coding-agent session...",
-      "url": "https://isc.sans.edu/diary/rss/33298",
-      "date": "2026-08-31T20:00:34Z"
-    },
-    {
-      "title": "Tenable Joins White House-Led Project Watershed to Bolster U.S. Water Systems Cybersecurity",
-      "description": "[THE MANILA TIMES] Government and industry unite to address vulnerabilities amid growing cyber threats",
-      "url": "https://www.manilatimes.net/2026/09/01/tmt-newswire/globenewswire/tenable-joins-white-house-led-project-watershed-to-bolster-us-water-systems-cybersecurity/2415432",
-      "date": "2026-08-31T19:11:32Z"
-    },
-    {
-      "title": "Microsoft warns of TerminalFix attacks deploying reverse tunnels",
-      "description": "[BLEEPINGCOMPUTER] A new ClickFix variant dubbed TerminalFix uses fake Cloudflare CAPTCHA prompts on compromised websites to trick victims into running malicious PowerShell commands in Windows Terminal. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/microsoft-warns-of-terminalfix-attacks-deploying-reverse-tunnels/",
-      "date": "2026-08-31T18:51:04Z"
-    },
-    {
-      "title": "Is Someone Hacking DoD Refrigerators?",
-      "description": "[SCHNEIER] It sure seems like it. The stores confirmed to be affected include Fort Irwin, Calif.; F.E. Warren Air Force Base, Wyo.; Fort Huachuca, Ariz.; Naval Station Newport, R.I.; Columbus Air Force Base, Miss.; and Travis Air Force Base, Calif., according...",
-      "url": "https://www.schneier.com/blog/archives/2026/08/is-someone-hacking-dod-refrigerators.html",
-      "date": "2026-08-31T18:20:35Z"
-    },
-    {
-      "title": "Hackers claim millions of patient records stolen during data breach at healthcare giant McKesson",
-      "description": "[TECHCRUNCH] The company, which distributes medicines and medical devices to hospitals and healthcare practices across the U.S., said it was hacked and expects intermittent service degradation.",
-      "url": "https://techcrunch.com/2026/08/31/hackers-claim-millions-of-patient-records-stolen-during-data-breach-at-healthcare-giant-mckesson/",
-      "date": "2026-08-31T18:10:09Z"
-    },
-    {
-      "title": "North Korean Job Fraud Expands Beyond IT Into Healthcare and Sales",
-      "description": "[FEEDS] Threat actors with ties to the Democratic People's Republic of Korea (aka DPRK or North Korea) have been observed seeking job opportunities beyond the information technology (IT) sector, with recent investigations identifying suspected workers...",
-      "url": "https://thehackernews.com/2026/08/north-korean-job-fraud-expands-beyond.html",
-      "date": "2026-08-31T17:24:28Z"
-    },
-    {
-      "title": "Treasury warned Government not to rush new school assessment tool before data breach",
-      "description": "[THE NEW ZEALAND HERALD] Treasury warned the Government not to rush its new school assessment tool \u2013 months before a security flaw made the records of 276 students accessible. The...",
-      "url": "https://www.nzherald.co.nz/nz/treasury-warned-government-not-to-rush-new-school-assessment-tool-before-data-breach/TBF6PNWRO5E7DD3E3UJXBL3T2M/",
-      "date": "2026-08-31T17:00:00Z"
-    },
-    {
-      "title": "On theCUBE Pod: Nvidia rules, Mythos has ChatGPT moment",
-      "description": "[SILICONANGLE NEWS] On the latest episode of theCUBE Pod, John Furrier and Dave Vellante discuss Nvidia's dominance and how Mythos is changing cybersecurity.",
-      "url": "https://siliconangle.com/2026/08/31/thecube-analysis-nvidia-mythos-cisco-thecubepod/",
-      "date": "2026-08-31T15:34:29Z"
-    },
-    {
-      "title": "$3.3 billion in Pentagon contracts fund work across 25 states",
-      "description": "[STATEN ISLAND ADVANCE] Projects range from cybersecurity and missile components to construction and PFAS water testing near military bases.",
-      "url": "https://www.silive.com/nation/2026/08/33-billion-in-pentagon-contracts-fund-work-across-25-states.html",
-      "date": "2026-08-31T15:31:37Z"
-    },
-    {
-      "title": "$3.3 billion in Pentagon contracts fund work across 25 states",
-      "description": "[M LIVE MICHIGAN ] Projects range from cybersecurity and missile components to construction and PFAS water testing near military bases.",
-      "url": "https://www.mlive.com/news/2026/08/33-billion-in-pentagon-contracts-fund-work-across-25-states.html",
-      "date": "2026-08-31T15:31:37Z"
-    },
-    {
-      "title": "$3.3 billion in Pentagon contracts fund work across 25 states",
-      "description": "[MASSLIVE] Projects range from cybersecurity and missile components to construction and PFAS water testing near military bases.",
-      "url": "https://www.masslive.com/news/2026/08/33-billion-in-pentagon-contracts-fund-work-across-25-states.html",
-      "date": "2026-08-31T15:31:37Z"
-    },
-    {
-      "title": "Hiding Prompt Injection in Legal Filing",
-      "description": "[SCHNEIER] Someone hid AI instructions into a legal filing. Alternate link.",
-      "url": "https://www.schneier.com/blog/archives/2026/08/hiding-prompt-injection-in-legal-filing.html",
-      "date": "2026-08-31T11:03:40Z"
-    },
-    {
-      "title": "ISC Stormcast For Monday, August 31st, 2026 https://isc.sans.edu/podcastdetail/10074, (Mon, Aug 31st)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33296",
-      "date": "2026-08-31T02:00:03Z"
-    },
-    {
-      "title": "YARA-X 1.20.0 Release, (Sun, Aug 30th)",
-      "description": "[ISC] YARA-X&&#x23&#x3b;x26&#x3b;&#x23&#x3b;39&#x3b;s 1.20.0 release brings 14 improvements and 13 bugfixes.&#xd;",
-      "url": "https://isc.sans.edu/diary/rss/33288",
-      "date": "2026-08-30T07:14:49Z"
-    },
-    {
-      "title": "Friday Squid Blogging: Truckload of Squid Spills in Rhode Island",
-      "description": "[SCHNEIER] Ugh: A tractor-trailer rollover sent a truckload of squid spilling into a Rhode Island roadway, leaving a stench as they sat in the road for hours in the summer heat. Local authorities have dubbed it the &#8220;Squidpocalypse of &#8217;26.&#8221;...",
-      "url": "https://www.schneier.com/blog/archives/2026/08/friday-squid-blogging-truckload-of-squid-spills-in-rhode-island.html",
-      "date": "2026-08-28T21:02:44Z"
-    },
-    {
-      "title": "AI Doesn\u2019t Mean the End of Mathematics\u2014at Least Not Yet",
-      "description": "[SCHNEIER] This essay was written with Kasra Rafi, and originally appeared in The Guardian. Earlier this month, about 40 top mathematicians gathered at OpenAI&#8217;s offices to discuss the future of their profession. The meeting was off-the-record, but if...",
-      "url": "https://www.schneier.com/blog/archives/2026/08/ai-doesnt-mean-the-end-of-mathematics-at-least-not-yet.html",
-      "date": "2026-08-28T11:02:22Z"
-    },
-    {
-      "title": "Some Malicious PE Stats, (Thu, Aug 27th)",
-      "description": "[ISC] During my last FOR610 session, a student asked me if I had some statistics in mind about the compilers used to generate malicious PE files&#x3f; A couple of months ago, I shared some stats about the trend in 64bits VS. 32bits malware&#x5b;1&#x5d;....",
-      "url": "https://isc.sans.edu/diary/rss/33292",
-      "date": "2026-08-28T07:04:13Z"
-    },
-    {
-      "title": "LLM-Based Social Engineering Scams",
-      "description": "[SCHNEIER] OpenAI disrupted a social engineering group from Cambodia that used ChatGPT. Its scope is impressive: The network simultaneously conducted multiple types of scams, often blending elements from different schemes. For instance, operators used dating...",
-      "url": "https://www.schneier.com/blog/archives/2026/08/llm-based-social-engineering-scams.html",
-      "date": "2026-08-27T09:56:56Z"
-    }
-  ]
+    "title": "Sentinel Protocol",
+    "tagline": "Perimeter Intelligence Sync",
+    "updated": "2026-09-01 15:21 UTC",
+    "news": [
+        {
+            "source": {
+                "id": null,
+                "name": "Storagereview.com"
+            },
+            "author": "Harold Fritts",
+            "title": "Broadcom Introduces VMware Private AI Cloud: Validated Models, AI Factory, and Deny-by-Default Agents",
+            "description": "Broadcom introduced VMware Private AI Cloud at VMware Explore, a private cloud architecture designed to run AI models close to enterprise data. Rather than moving sensitive data to external model providers, the platform is intended to bring models to the data\u2026",
+            "url": "https://www.storagereview.com/?post_type=news&p=159939",
+            "urlToImage": "https://www.storagereview.com/wp-content/uploads/2026/08/StorageReview-VMware-Private-Cloud-platform-scaled.jpg",
+            "publishedAt": "2026-08-31T15:17:39Z",
+            "content": "Broadcom introduced VMware Private AI Cloud at VMware Explore, a private cloud architecture designed to run AI models close to enterprise data. Rather than moving sensitive data to external model pro\u2026 [+11754 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Prtimes.jp"
+            },
+            "author": null,
+            "title": "\u4e16\u754c\u306eIoT\u30b3\u30cd\u30af\u30c6\u30a3\u30d3\u30c6\u30a3\uff06\u30b9\u30de\u30fc\u30c8\u30a4\u30f3\u30d5\u30e9\u5e02\u5834\u30012032\u5e74\u306b5,097.2\u5104\u7c73\u30c9\u30eb\u3078\u6210\u9577\u3001CAGR 16.5%\u3092\u4e88\u6e2c",
+            "description": "[STRATISTICS MARKET RESEARCH CONSULTING]\nStratistics Market Research Consulting\uff08Stratistics MRC\uff09\u306e\u6700\u65b0\u5e02\u5834\u8abf\u67fb\u306b\u3088\u308b\u3068\u3001\u4e16\u754c\u306eIoT\u30b3\u30cd\u30af\u30c6\u30a3\u30d3\u30c6\u30a3\uff06\u30b9\u30de\u30fc\u30c8\u30a4\u30f3\u30d5\u30e9\u5e02\u5834\uff08Global IoT Connectivity & Smart Infrastructure Market\uff09\u306f\u30012025...",
+            "url": "https://prtimes.jp/main/html/rd/p/000000005.000189317.html",
+            "urlToImage": "https://prcdn.freetls.fastly.net/release_image/189317/5/189317-5-4ece2323c83d7abebd3f369b0f59ff84-1024x1536.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+            "publishedAt": "2026-08-31T15:13:51Z",
+            "content": "Stratistics Market Research ConsultingStratistics MRCIoTGlobal IoT Connectivity &amp; Smart Infrastructure Market20251,750.120325,097.2**CAGR16.5%**\r\nIoT Connectivity &amp; Smart Infrastructure\r\nIoT\r\u2026 [+2763 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PRNewswire"
+            },
+            "author": null,
+            "title": "Anyon Systems and Matrix Group Announce Strategic Partnership to Accelerate International Deployment of Quantum Computing",
+            "description": "MONTR\u00c9AL and TEL AVIV, Israel, Aug. 31, 2026 /PRNewswire/ -- Anyon Systems Inc., a Canadian developer and manufacturer of full-stack superconducting quantum computing systems, and KMT Technologies Ltd., a Matrix Group company, today announced a strategic part\u2026",
+            "url": "https://www.prnewswire.com/news-releases/anyon-systems-and-matrix-group-announce-strategic-partnership-to-accelerate-international-deployment-of-quantum-computing-302865069.html",
+            "urlToImage": null,
+            "publishedAt": "2026-08-31T15:06:00Z",
+            "content": "MONTR\u00c9AL and TEL AVIV, Israel, Aug. 31, 2026 /PRNewswire/ -- Anyon Systems Inc., a Canadian developer and manufacturer of full-stack superconducting quantum computing systems, and KMT Technologies Lt\u2026 [+7565 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PRNewswire"
+            },
+            "author": null,
+            "title": "Datalink Networks Named to No. 67 Spot on CRN's Fast Growth 150 List for 2026",
+            "description": "CRN\u00ae Spotlights The Top IT Channel Providers for Outstanding Performance and Growth SANTA CLARITA, Calif., Aug. 31, 2026 /PRNewswire/ -- Datalink Networks, a premier national provider of managed services and IT solutions, announced today that CRN\u00ae, a brand of\u2026",
+            "url": "https://www.prnewswire.com/news-releases/datalink-networks-named-to-no-67-spot-on-crns-fast-growth-150-list-for-2026-302863129.html",
+            "urlToImage": "https://mmx.prnewswire.com/media/MS1977319/CRN26-FG150-Social.jpg?id=OA2917452&p=facebook",
+            "publishedAt": "2026-08-31T15:05:00Z",
+            "content": "CRN\u00ae Spotlights The Top IT Channel Providers for Outstanding Performance and Growth\r\nSANTA CLARITA, Calif., Aug. 31, 2026 /PRNewswire/ -- Datalink Networks, a premier national provider of managed ser\u2026 [+3705 chars]"
+        },
+        {
+            "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            "author": "benedict.collins@futurenet.com (Benedict Collins) , Benedict Collins",
+            "title": "How did Iran manage to knock a UK power generator offline for four days, and what does it mean for other critical infrastructure? The experts weigh in",
+            "description": "NCSC issues new warning over OT and edge devices",
+            "url": "https://www.techradar.com/pro/security/how-did-iran-manage-to-knock-a-uk-power-generator-offline-for-four-days-and-what-does-it-mean-for-other-critical-infrastructure-the-experts-weigh-in",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/E6e47o4bL6CgppNM5Byt5Z-2560-80.jpg",
+            "publishedAt": "2026-08-31T15:05:00Z",
+            "content": "Just days before the FBI issued a warning over Iranian attempts to hack critical infrastructure in the US, a UK power generation plant was taken offline for four days after a cyberattack.\r\nThe attack\u2026 [+9467 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Storagereview.com"
+            },
+            "author": "Harold Fritts",
+            "title": "Broadcom AgentMinder Debuts Alongside vDefend, Avi, and TrueSource Upgrades for Agentic AI Security",
+            "description": "At VMware Explore, Broadcom introduced comprehensive security, identity, and open-source supply-chain solutions designed for enterprise AI deployments. As organizations move from static model querying to autonomous agentic architectures, workloads increasingl\u2026",
+            "url": "https://www.storagereview.com/news/broadcom-agentminder-debuts-alongside-vdefend-avi-and-truesource-upgrades-for-agentic-ai-security",
+            "urlToImage": "https://www.storagereview.com/wp-content/uploads/2026/08/StorageReview-VMware-avi-vdefend-private-cloud-scaled-e1788171945410.jpg",
+            "publishedAt": "2026-08-31T15:03:07Z",
+            "content": "At VMware Explore, Broadcom introduced comprehensive security, identity, and open-source supply-chain solutions designed for enterprise AI deployments. As organizations move from static model queryin\u2026 [+6284 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PRNewswire"
+            },
+            "author": null,
+            "title": "Platt College Celebrates its Class of 2026 at Annual Commencement Ceremony",
+            "description": "ONTARIO, Calif., Aug. 31, 2026 /PRNewswire/ -- Platt College celebrated its Class of 2026 on Saturday, August 29, as graduates crossed the stage at the college's annual commencement ceremony, marking an important milestone in their education and the beginning\u2026",
+            "url": "https://www.prnewswire.com/news-releases/platt-college-celebrates-its-class-of-2026-at-annual-commencement-ceremony-302864591.html",
+            "urlToImage": "https://mmx.prnewswire.com/media/MS1712148/Platt-Seal-Logo-Logo.jpg?id=OA2918920&p=facebook",
+            "publishedAt": "2026-08-31T15:00:00Z",
+            "content": "ONTARIO, Calif., Aug. 31, 2026 /PRNewswire/ -- Platt College celebrated its Class of 2026 on Saturday, August 29, as graduates crossed the stage at the college's annual commencement ceremony, marking\u2026 [+3159 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Nextgov"
+            },
+            "author": "David DiMolfetta",
+            "title": "White House launches water cybersecurity pilot in Texas",
+            "description": "Project Watershed 250 will stress-test utilities over six months and could serve as a model for protecting water providers nationwide.",
+            "url": "https://www.nextgov.com/cybersecurity/2026/08/white-house-launches-water-cybersecurity-pilot-texas/415725/",
+            "urlToImage": "https://cdn.nextgov.com/media/img/cd/2026/08/31/083126AbbotNG/open-graph.jpg",
+            "publishedAt": "2026-08-31T14:52:00Z",
+            "content": "The Trump administration is formally launching a new water sector cybersecurity program Monday in San Antonio that will bring together the Office of the National Cyber Director, Texas Cyber Command, \u2026 [+2485 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Malwarebytes.com"
+            },
+            "author": "Pieter Arntz",
+            "title": "McKesson confirms cyber incident after ShinyHunters claims patient-data theft",
+            "description": "Healthcare company McKesson acknowledged a data breach. ShinyHunters claims to have stolen hundred of millions of records",
+            "url": "https://www.malwarebytes.com/blog/news/2026/08/mckesson-confirms-cyber-incident-after-shinyhunters-claims-patient-data-theft",
+            "urlToImage": "https://www.malwarebytes.com/wp-content/uploads/sites/2/2026/08/McKesson-Logo.png",
+            "publishedAt": "2026-08-31T14:46:50Z",
+            "content": "Healthcare and pharmaceutical-distribution giant McKesson has disclosed a cybersecurity incident involving unauthorized access to third-party applications and the theft of data.\r\nMcKesson Corporation\u2026 [+4135 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Help Net Security"
+            },
+            "author": "Zeljka Zorz",
+            "title": "Attackers plant remote access tools on compromised PaperCut servers",
+            "description": "The threat actor targeting internet-facing PaperCut Application Servers is covertly installing legitimate remote access software on them, PaperCut Software shared in the most recent update on the ongoing attack campaign. PaperCut zero-days exploited to deploy\u2026",
+            "url": "https://www.helpnetsecurity.com/2026/08/31/papercut-attack-remote-access-tools/",
+            "urlToImage": "https://img.helpnetsecurity.com/wp-content/uploads/2026/08/31101452/papercut-1500.webp",
+            "publishedAt": "2026-08-31T14:38:33Z",
+            "content": "The threat actor targeting internet-facing PaperCut Application Servers is covertly installing legitimate remote access software on them, PaperCut Software shared in the most recent update on the ong\u2026 [+5714 chars]"
+        }
+    ]
 }
