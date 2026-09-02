@@ -1,29 +1,71 @@
 {
-  "updated": "2026-09-02 08:13:52 UTC",
+  "updated": "2026-09-02 13:57:16 UTC",
   "news": [
+    {
+      "title": "BGP Hijack Delivers Malicious Virtualizor Update That Establishes Persistent Root Access",
+      "description": "[FEEDS] Virtualizor said hackers used a Border Gateway Protocol (BGP) hijack to divert Softaculous traffic. The hackers then used the diverted update traffic to deliver a malicious Virtualizor package to some installations. A hosting-provider account...",
+      "url": "https://thehackernews.com/2026/09/bgp-hijack-delivers-malicious.html",
+      "date": "2026-09-02T13:12:45Z"
+    },
+    {
+      "title": "Dropbox accounts breached through Lenovo email verification flaw",
+      "description": "[BLEEPINGCOMPUTER] Dropbox is warning some users that an unauthorized party accessed their accounts by exploiting a flaw in Lenovo's email verification process to register fraudulent Lenovo IDs. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/dropbox-accounts-breached-through-lenovo-email-verification-flaw/",
+      "date": "2026-09-02T12:30:22Z"
+    },
+    {
+      "title": "Meta Ads Push StreamRat Android Trojan That Can Gain Near-Complete Device Control",
+      "description": "[FEEDS] Cybersecurity researchers have disclosed details of a new Android banking trojan called StreamRat that was promoted to Spanish-speaking users through a fake television-streaming campaign on Meta and can give operators near-complete control of...",
+      "url": "https://thehackernews.com/2026/09/meta-ads-push-streamrat-android-trojan.html",
+      "date": "2026-09-02T12:22:02Z"
+    },
+    {
+      "title": "How to Secure Enterprise AI: From Adoption to Incident Readiness",
+      "description": "[FEEDS] The debate about whether AI delivers business value is over. The challenge now is implementing it at scale and securely across every function while meeting board-level pressure to move fast. Organizations must focus on adopting AI at business speed...",
+      "url": "https://thehackernews.com/2026/09/how-to-secure-enterprise-ai-from.html",
+      "date": "2026-09-02T11:30:00Z"
+    },
+    {
+      "title": "Attackers Exploit Two SonicWall SMA 1000 Zero-Days That May Form an Attack Chain",
+      "description": "[FEEDS] SonicWall has released security updates to address two security flaws impacting its Secure Mobile Access (SMA) 1000 series VPN appliances that have been exploited in zero-day attacks. The vulnerabilities, discovered internally by SonicWall's William...",
+      "url": "https://thehackernews.com/2026/09/attackers-exploit-two-sonicwall-sma.html",
+      "date": "2026-09-02T10:53:49Z"
+    },
+    {
+      "title": "Microsoft Defender flags legitimate Google search links as malicious",
+      "description": "[BLEEPINGCOMPUTER] Microsoft is investigating an issue causing the Defender for Office 365 security software to mistakenly block access to legitimate Google search links. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/microsoft-defender-flags-legitimate-google-search-links-as-malicious/",
+      "date": "2026-09-02T10:29:39Z"
+    },
+    {
+      "title": "Wireless Routers as Motion Detectors",
+      "description": "[SCHNEIER] Comcast has added motion detection as a feature to its wireless routers: The feature sends push notifications to users when motion is detected near a connected device, such as a TV or printer. It has different settings for when people are home,...",
+      "url": "https://www.schneier.com/blog/archives/2026/09/wireless-routers-as-motion-detectors.html",
+      "date": "2026-09-02T10:22:46Z"
+    },
+    {
+      "title": "GeoNetwork Fixes Unauthenticated RCE Chain Affecting Government Geoportal Backends",
+      "description": "[FEEDS] Two vulnerabilities in GeoNetwork can be chained to achieve unauthenticated remote code execution (RCE) on the open-source geospatial metadata catalog, which sits behind many government and agency geoportals. The project shipped fixes in versions...",
+      "url": "https://thehackernews.com/2026/09/geonetwork-fixes-unauthenticated-rce.html",
+      "date": "2026-09-02T09:18:02Z"
+    },
+    {
+      "title": "Extradited Russian Hacker Faces Charges Over Excel Malware Campaign That Infected Thousands",
+      "description": "[FEEDS] The U.S. Department of Justice (DoJ) has charged a Russian national, extradited from Cyprus on August 28, with using roughly 255 fake accounts on a freelance platform to send malware-laced Excel attachments to about 80,000 of its users in 2016 and...",
+      "url": "https://thehackernews.com/2026/09/extradited-russian-hacker-faces-charges.html",
+      "date": "2026-09-02T09:10:23Z"
+    },
+    {
+      "title": "US charges Russian for infecting 80,000 freelancers with malware",
+      "description": "[BLEEPINGCOMPUTER] A California federal grand jury has indicted a Russian national for his role in a phishing campaign that infected thousands of freelancers with TVRAT and DarkVNC malware. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/us-charges-russian-for-infecting-80-000-freelancers-with-malware/",
+      "date": "2026-09-02T09:06:48Z"
+    },
     {
       "title": "Sality botnet infrastructure dismantled in joint global takedown",
       "description": "[BLEEPINGCOMPUTER] International law enforcement agencies and private partners have seized Sality malware infrastructure in a joint action aiming to disrupt and take down the peer-to-peer (P2P) botnet. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/sality-botnet-infrastructure-dismantled-in-joint-global-takedown/",
       "date": "2026-09-02T08:00:43Z"
-    },
-    {
-      "title": "Researchers Use Claude to Port Pre-Auth RCE Exploit From One PLC Model to Another",
-      "description": "[FEEDS] Forescout Research - Vedere Labs said it used Anthropic's Claude to port a working pre-authentication remote code execution (RCE) exploit from one WAGO programmable logic controller (PLC) to another, executing attacker-supplied ARM shellcode on live...",
-      "url": "https://thehackernews.com/2026/09/researchers-use-claude-to-port-pre-auth.html",
-      "date": "2026-09-02T07:47:13Z"
-    },
-    {
-      "title": "Attackers Exploit Critical Switchvox Flaw to Deploy Reverse Shells Without Credentials",
-      "description": "[FEEDS] Threat actors are exploiting a severe security vulnerability in Sangoma Switchvox, an enterprise VoIP platform, that could allow unauthenticated remote code execution. The vulnerability in question is CVE-2026-9586 (CVSS score: 9.3), a critical...",
-      "url": "https://thehackernews.com/2026/09/attackers-exploit-critical-switchvox.html",
-      "date": "2026-09-02T07:08:50Z"
-    },
-    {
-      "title": "Authorities Turn Sality's P2P Network Against Itself, Cutting Off New Malware Payloads",
-      "description": "[FEEDS] The U.S. Department of Justice (DoJ) on Tuesday announced the takedown of a long-standing peer-to-peer (P2P) botnet known as Sality as part of a coordinated law enforcement operation. The effort was undertaken on August 31, 2026, by authorities from...",
-      "url": "https://thehackernews.com/2026/09/authorities-turn-salitys-p2p-network.html",
-      "date": "2026-09-02T06:56:30Z"
     },
     {
       "title": "SonicWall warns of actively exploited SMA1000 zero-day flaws",
@@ -36,6 +78,18 @@
       "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
       "url": "https://isc.sans.edu/diary/rss/33304",
       "date": "2026-09-02T02:00:02Z"
+    },
+    {
+      "title": "Anthropic resumes external cyber tests after Claude AI hacks",
+      "description": "[LIVEMINT] ANTHROPIC-CYBERSECURITY:Anthropic resumes external cyber tests after Claude AI hacks",
+      "url": "https://www.livemint.com/technology/anthropic-resumes-external-cyber-tests-after-claude-ai-hacks-11788312905495.html",
+      "date": "2026-09-02T01:35:05Z"
+    },
+    {
+      "title": "Palo Alto CEO says $1 trillion of cybersecurity infrastructure isn\u2019t ready for AI",
+      "description": "[CNBC] Palo Alto CEO Nikesh Arora said AI is forcing companies to modernize roughly $1 trillion of aging cybersecurity infrastructure that isn\u2019t equipped for attacks.",
+      "url": "https://www.cnbc.com/2026/09/01/palo-alto-ceo-says-1-trillion-of-cybersecurity-infrastructure-isnt-ready-for-ai.html",
+      "date": "2026-09-01T23:20:44Z"
     },
     {
       "title": "Guildma (Astaroth) malware infection from Brazilian Portuguese email, (Tue, Sep 1st)",
@@ -56,28 +110,10 @@
       "date": "2026-09-01T19:33:32Z"
     },
     {
-      "title": "Aesto Health says data breach affects over 9.5 million patients",
-      "description": "[BLEEPINGCOMPUTER] Aesto LLC, operating as Aesto Health, disclosed that a data breach discovered recently affects more than 9.5 million individuals. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/aesto-health-says-data-breach-affects-over-95-million-patients/",
-      "date": "2026-09-01T19:28:17Z"
-    },
-    {
       "title": "With Cybersecurity for Cloud and Artificial Intelligence, CrowdStrike Stock Is Positioned for Sustained Growth",
       "description": "[BARCHART] How to play CrowdStrike on strong earnings.",
       "url": "https://www.barchart.com/story/news/4383107/with-cybersecurity-for-cloud-and-artificial-intelligence-crowdstrike-stock-is-positioned-for-sustained-growth",
       "date": "2026-09-01T18:28:24Z"
-    },
-    {
-      "title": "Critical Langflow flaw exploited to steal OpenAI and AWS keys",
-      "description": "[BLEEPINGCOMPUTER] Threat actors are exploiting an unauthenticated remote code execution vulnerability (CVE-2026-0768) in Langflow, an open-source framework for building AI applications, to steal credentials, tokens, and keys. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/critical-langflow-flaw-exploited-to-steal-openai-and-aws-keys/",
-      "date": "2026-09-01T17:54:22Z"
-    },
-    {
-      "title": "Attackers Exploit Critical JFrog Artifactory Flaw to Mint Admin Tokens Days After Disclosure",
-      "description": "[FEEDS] Threat actors are exploiting a newly patched critical security flaw impacting JFrog Artifactory merely days after public disclosure, according to watchTowr. The vulnerability in question is CVE-2026-82329 (CVSS score: 9.8), a case of authentication...",
-      "url": "https://thehackernews.com/2026/09/attackers-exploit-critical-jfrog.html",
-      "date": "2026-09-01T17:53:11Z"
     },
     {
       "title": "SEC Proposes New Standards for US Transfer Agents",
@@ -90,12 +126,6 @@
       "description": "[SCHNEIER] To subscribe to my monthly email newsletter, you have to enter your information on the webpage, and then reply to an automatically generated email. This is, of course, to prevent people from subscribing addresses other than their own. Starting last...",
       "url": "https://www.schneier.com/blog/archives/2026/09/whats-the-scam.html",
       "date": "2026-09-01T17:36:13Z"
-    },
-    {
-      "title": "Breeze Comet Executes Hundreds of Fraudulent Transactions via Brazilian Payment Systems",
-      "description": "[FEEDS] Brazilian financial services, retail, and e-commerce organizations have become the target of a financially motivated threat actor dubbed Breeze Comet (formerly UNC5669) since 2024. Google Threat Intelligence Group (GTIG) and Mandiant teams described...",
-      "url": "https://thehackernews.com/2026/09/breeze-comet-executes-hundreds-of.html",
-      "date": "2026-09-01T17:19:24Z"
     },
     {
       "title": "Leaked Russian Cyber-Operations Training Materials",
@@ -122,18 +152,6 @@
       "date": "2026-09-01T14:55:10Z"
     },
     {
-      "title": "Hackers push malicious Virtualizor update in BGP hijacking attack",
-      "description": "[BLEEPINGCOMPUTER] Hackers delivered malicious updates to the Virtualizor VPS management software after hijacking BGP routing for its update infrastructure and redirecting update requests to malicious servers. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-push-malicious-virtualizor-update-in-bgp-hijacking-attack/",
-      "date": "2026-09-01T14:45:06Z"
-    },
-    {
-      "title": "13 Malicious Packagist Packages Target Unpatched iPhones to Steal Crypto Wallet Seeds",
-      "description": "[FEEDS] Cybersecurity researchers have identified a set of 13 malicious Composer theme packages on Packagist that are designed to inject JavaScript into Vietnamese movie and comic streaming sites that install those libraries and initiate the deployment of...",
-      "url": "https://thehackernews.com/2026/09/13-malicious-packagist-packages-target.html",
-      "date": "2026-09-01T14:07:20Z"
-    },
-    {
       "title": "Photon Achieves CyberVadis Platinum Rating, Reinforcing Enterprise Trust Through Independent Cybersecurity Validation",
       "description": "[PR NEWSWIRE UK] /PRNewswire/ -- As enterprises accelerate investments in artificial intelligence, cloud modernization, and digital transformation, cybersecurity has become a...",
       "url": "https://www.prnewswire.co.uk/news-releases/photon-achieves-cybervadis-platinum-rating-reinforcing-enterprise-trust-through-independent-cybersecurity-validation-302866181.html",
@@ -144,18 +162,6 @@
       "description": "[INTERNATIONAL BUSINESS TIMES] OpenAI also paused work in August after concluding it could pose critical cybersecurity risks.",
       "url": "https://www.ibtimes.com/anthropic-spotted-unauthorized-actions-agents-it-pausing-some-training-evaluations-3807021",
       "date": "2026-09-01T13:47:55Z"
-    },
-    {
-      "title": "Suspected cyberattack puts data of 33,054 customers using group-buying app at risk",
-      "description": "[SOUTH CHINA MORNING POST] Privacy watchdog receives report of data breach from TVB-owned Neigbuy, while police learn of six cases of scammers posing as staff.",
-      "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3366021/suspected-cyberattack-puts-data-33054-customers-group-buying-app-risk",
-      "date": "2026-09-01T13:22:39Z"
-    },
-    {
-      "title": "NordVPN's antivirus tool blocks 94% of phishing sites in latest independent test",
-      "description": "[TECHRADAR] The cybersecurity giant continues its winning streak in the AV-Comparatives 2026 Q3 Anti-Phishing test, without a single false alarm",
-      "url": "https://www.techradar.com/vpn/vpn-services/nordvpns-antivirus-tool-blocks-94-percent-of-phishing-sites-in-latest-independent-test",
-      "date": "2026-09-01T13:00:10Z"
     },
     {
       "title": "Rewiring Democracy Series on The Renovator",
@@ -198,12 +204,6 @@
       "description": "[ISC] YARA-X&&#x23&#x3b;x26&#x3b;&#x23&#x3b;39&#x3b;s 1.20.0 release brings 14 improvements and 13 bugfixes.&#xd;",
       "url": "https://isc.sans.edu/diary/rss/33288",
       "date": "2026-08-30T07:14:49Z"
-    },
-    {
-      "title": "Friday Squid Blogging: Truckload of Squid Spills in Rhode Island",
-      "description": "[SCHNEIER] Ugh: A tractor-trailer rollover sent a truckload of squid spilling into a Rhode Island roadway, leaving a stench as they sat in the road for hours in the summer heat. Local authorities have dubbed it the &#8220;Squidpocalypse of &#8217;26.&#8221;...",
-      "url": "https://www.schneier.com/blog/archives/2026/08/friday-squid-blogging-truckload-of-squid-spills-in-rhode-island.html",
-      "date": "2026-08-28T21:02:44Z"
     }
   ]
 }
