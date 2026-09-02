@@ -1,209 +1,137 @@
 {
-  "updated": "2026-09-02 13:57:16 UTC",
-  "news": [
-    {
-      "title": "BGP Hijack Delivers Malicious Virtualizor Update That Establishes Persistent Root Access",
-      "description": "[FEEDS] Virtualizor said hackers used a Border Gateway Protocol (BGP) hijack to divert Softaculous traffic. The hackers then used the diverted update traffic to deliver a malicious Virtualizor package to some installations. A hosting-provider account...",
-      "url": "https://thehackernews.com/2026/09/bgp-hijack-delivers-malicious.html",
-      "date": "2026-09-02T13:12:45Z"
-    },
-    {
-      "title": "Dropbox accounts breached through Lenovo email verification flaw",
-      "description": "[BLEEPINGCOMPUTER] Dropbox is warning some users that an unauthorized party accessed their accounts by exploiting a flaw in Lenovo's email verification process to register fraudulent Lenovo IDs. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/dropbox-accounts-breached-through-lenovo-email-verification-flaw/",
-      "date": "2026-09-02T12:30:22Z"
-    },
-    {
-      "title": "Meta Ads Push StreamRat Android Trojan That Can Gain Near-Complete Device Control",
-      "description": "[FEEDS] Cybersecurity researchers have disclosed details of a new Android banking trojan called StreamRat that was promoted to Spanish-speaking users through a fake television-streaming campaign on Meta and can give operators near-complete control of...",
-      "url": "https://thehackernews.com/2026/09/meta-ads-push-streamrat-android-trojan.html",
-      "date": "2026-09-02T12:22:02Z"
-    },
-    {
-      "title": "How to Secure Enterprise AI: From Adoption to Incident Readiness",
-      "description": "[FEEDS] The debate about whether AI delivers business value is over. The challenge now is implementing it at scale and securely across every function while meeting board-level pressure to move fast. Organizations must focus on adopting AI at business speed...",
-      "url": "https://thehackernews.com/2026/09/how-to-secure-enterprise-ai-from.html",
-      "date": "2026-09-02T11:30:00Z"
-    },
-    {
-      "title": "Attackers Exploit Two SonicWall SMA 1000 Zero-Days That May Form an Attack Chain",
-      "description": "[FEEDS] SonicWall has released security updates to address two security flaws impacting its Secure Mobile Access (SMA) 1000 series VPN appliances that have been exploited in zero-day attacks. The vulnerabilities, discovered internally by SonicWall's William...",
-      "url": "https://thehackernews.com/2026/09/attackers-exploit-two-sonicwall-sma.html",
-      "date": "2026-09-02T10:53:49Z"
-    },
-    {
-      "title": "Microsoft Defender flags legitimate Google search links as malicious",
-      "description": "[BLEEPINGCOMPUTER] Microsoft is investigating an issue causing the Defender for Office 365 security software to mistakenly block access to legitimate Google search links. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/microsoft-defender-flags-legitimate-google-search-links-as-malicious/",
-      "date": "2026-09-02T10:29:39Z"
-    },
-    {
-      "title": "Wireless Routers as Motion Detectors",
-      "description": "[SCHNEIER] Comcast has added motion detection as a feature to its wireless routers: The feature sends push notifications to users when motion is detected near a connected device, such as a TV or printer. It has different settings for when people are home,...",
-      "url": "https://www.schneier.com/blog/archives/2026/09/wireless-routers-as-motion-detectors.html",
-      "date": "2026-09-02T10:22:46Z"
-    },
-    {
-      "title": "GeoNetwork Fixes Unauthenticated RCE Chain Affecting Government Geoportal Backends",
-      "description": "[FEEDS] Two vulnerabilities in GeoNetwork can be chained to achieve unauthenticated remote code execution (RCE) on the open-source geospatial metadata catalog, which sits behind many government and agency geoportals. The project shipped fixes in versions...",
-      "url": "https://thehackernews.com/2026/09/geonetwork-fixes-unauthenticated-rce.html",
-      "date": "2026-09-02T09:18:02Z"
-    },
-    {
-      "title": "Extradited Russian Hacker Faces Charges Over Excel Malware Campaign That Infected Thousands",
-      "description": "[FEEDS] The U.S. Department of Justice (DoJ) has charged a Russian national, extradited from Cyprus on August 28, with using roughly 255 fake accounts on a freelance platform to send malware-laced Excel attachments to about 80,000 of its users in 2016 and...",
-      "url": "https://thehackernews.com/2026/09/extradited-russian-hacker-faces-charges.html",
-      "date": "2026-09-02T09:10:23Z"
-    },
-    {
-      "title": "US charges Russian for infecting 80,000 freelancers with malware",
-      "description": "[BLEEPINGCOMPUTER] A California federal grand jury has indicted a Russian national for his role in a phishing campaign that infected thousands of freelancers with TVRAT and DarkVNC malware. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/us-charges-russian-for-infecting-80-000-freelancers-with-malware/",
-      "date": "2026-09-02T09:06:48Z"
-    },
-    {
-      "title": "Sality botnet infrastructure dismantled in joint global takedown",
-      "description": "[BLEEPINGCOMPUTER] International law enforcement agencies and private partners have seized Sality malware infrastructure in a joint action aiming to disrupt and take down the peer-to-peer (P2P) botnet. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/sality-botnet-infrastructure-dismantled-in-joint-global-takedown/",
-      "date": "2026-09-02T08:00:43Z"
-    },
-    {
-      "title": "SonicWall warns of actively exploited SMA1000 zero-day flaws",
-      "description": "[BLEEPINGCOMPUTER] SonicWall warned customers that threat actors are chaining two new SMA1000 zero-day vulnerabilities in remote code execution attacks. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-actively-exploited-sma1000-zero-day-flaws/",
-      "date": "2026-09-02T06:39:29Z"
-    },
-    {
-      "title": "ISC Stormcast For Wednesday, September 2nd, 2026 https://isc.sans.edu/podcastdetail/10078, (Wed, Sep 2nd)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33304",
-      "date": "2026-09-02T02:00:02Z"
-    },
-    {
-      "title": "Anthropic resumes external cyber tests after Claude AI hacks",
-      "description": "[LIVEMINT] ANTHROPIC-CYBERSECURITY:Anthropic resumes external cyber tests after Claude AI hacks",
-      "url": "https://www.livemint.com/technology/anthropic-resumes-external-cyber-tests-after-claude-ai-hacks-11788312905495.html",
-      "date": "2026-09-02T01:35:05Z"
-    },
-    {
-      "title": "Palo Alto CEO says $1 trillion of cybersecurity infrastructure isn\u2019t ready for AI",
-      "description": "[CNBC] Palo Alto CEO Nikesh Arora said AI is forcing companies to modernize roughly $1 trillion of aging cybersecurity infrastructure that isn\u2019t equipped for attacks.",
-      "url": "https://www.cnbc.com/2026/09/01/palo-alto-ceo-says-1-trillion-of-cybersecurity-infrastructure-isnt-ready-for-ai.html",
-      "date": "2026-09-01T23:20:44Z"
-    },
-    {
-      "title": "Guildma (Astaroth) malware infection from Brazilian Portuguese email, (Tue, Sep 1st)",
-      "description": "[ISC] Introduction&#xd;",
-      "url": "https://isc.sans.edu/diary/rss/33300",
-      "date": "2026-09-01T21:30:18Z"
-    },
-    {
-      "title": "Hackers abuse Faronics Deploy admin tool to install ScreenConnect",
-      "description": "[BLEEPINGCOMPUTER] Phishing actors are abusing the legitimate Faronics Deploy endpoint-management platform to gain remote administrative control over victim computers and install the ScreenConnect remote support software. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-abuse-faronics-deploy-admin-tool-to-install-screenconnect/",
-      "date": "2026-09-01T20:53:23Z"
-    },
-    {
-      "title": "SEC proposes transfer agent overhaul for tokenized securities",
-      "description": "[CRYPTO NEWS] The SEC proposes new transfer agent rules for tokenized securities, blockchain records, cybersecurity and asset protection.",
-      "url": "https://crypto.news/sec-proposes-transfer-agent-for-tokenized-securities/",
-      "date": "2026-09-01T19:33:32Z"
-    },
-    {
-      "title": "With Cybersecurity for Cloud and Artificial Intelligence, CrowdStrike Stock Is Positioned for Sustained Growth",
-      "description": "[BARCHART] How to play CrowdStrike on strong earnings.",
-      "url": "https://www.barchart.com/story/news/4383107/with-cybersecurity-for-cloud-and-artificial-intelligence-crowdstrike-stock-is-positioned-for-sustained-growth",
-      "date": "2026-09-01T18:28:24Z"
-    },
-    {
-      "title": "SEC Proposes New Standards for US Transfer Agents",
-      "description": "[COINTELEGRAPH] The SEC proposed new standards for transfer agents covering recordkeeping, cybersecurity and safeguarding as blockchain and tokenization reshape securities markets.",
-      "url": "https://cointelegraph.com/news/sec-proposes-transfer-agent-overhaul-as-securities-move-onchain",
-      "date": "2026-09-01T17:52:51Z"
-    },
-    {
-      "title": "What\u2019s the Scam?",
-      "description": "[SCHNEIER] To subscribe to my monthly email newsletter, you have to enter your information on the webpage, and then reply to an automatically generated email. This is, of course, to prevent people from subscribing addresses other than their own. Starting last...",
-      "url": "https://www.schneier.com/blog/archives/2026/09/whats-the-scam.html",
-      "date": "2026-09-01T17:36:13Z"
-    },
-    {
-      "title": "Leaked Russian Cyber-Operations Training Materials",
-      "description": "[SCHNEIER] This is interesting: The records describe a force-generation mechanism for several General Staff components, including the GRU, Main Operational Directorate, and 8th Directorate, which is associated with protected communications, cryptography, and...",
-      "url": "https://www.schneier.com/blog/archives/2026/09/leaked-russian-cyber-operations-training-materials.html",
-      "date": "2026-09-01T16:29:10Z"
-    },
-    {
-      "title": "X Data Breach? Users Are Getting Flooded With Password Reset Emails Nobody Requested",
-      "description": "[DECRYPT] X engineers have acknowledged the issue, but have not confirmed a new data breach of its systems.",
-      "url": "https://decrypt.co/377048/x-data-breach-users-flooded-password-reset",
-      "date": "2026-09-01T16:26:10Z"
-    },
-    {
-      "title": "I'm a cybersecurity expert - here is the one thing you must do if hit by airport attack",
-      "description": "[DAILY EXPRESS] Almost nine million British passengers may have been affected by an airport cyber attack.",
-      "url": "https://www.express.co.uk/news/uk/2244323/im-cybersecurity-expert-here-one",
-      "date": "2026-09-01T16:00:00Z"
-    },
-    {
-      "title": "Merger with ITC Infotech to help in big deals: Happiest Minds CEO",
-      "description": "[BUSINESS STANDARD] Combined entity will bring together digital engineering, cybersecurity and AI capabilities with strengths in SAP, enterprise applications and Industry 4.0 offerings",
-      "url": "https://www.business-standard.com/companies/news/merger-with-itc-infotech-to-help-in-big-deals-happiest-minds-ceo-126090101462_1.html",
-      "date": "2026-09-01T14:55:10Z"
-    },
-    {
-      "title": "Photon Achieves CyberVadis Platinum Rating, Reinforcing Enterprise Trust Through Independent Cybersecurity Validation",
-      "description": "[PR NEWSWIRE UK] /PRNewswire/ -- As enterprises accelerate investments in artificial intelligence, cloud modernization, and digital transformation, cybersecurity has become a...",
-      "url": "https://www.prnewswire.co.uk/news-releases/photon-achieves-cybervadis-platinum-rating-reinforcing-enterprise-trust-through-independent-cybersecurity-validation-302866181.html",
-      "date": "2026-09-01T14:00:00Z"
-    },
-    {
-      "title": "Anthropic Spotted Unauthorized Actions By Agents. It Is Pausing Some Training And Evaluations.",
-      "description": "[INTERNATIONAL BUSINESS TIMES] OpenAI also paused work in August after concluding it could pose critical cybersecurity risks.",
-      "url": "https://www.ibtimes.com/anthropic-spotted-unauthorized-actions-agents-it-pausing-some-training-evaluations-3807021",
-      "date": "2026-09-01T13:47:55Z"
-    },
-    {
-      "title": "Rewiring Democracy Series on The Renovator",
-      "description": "[SCHNEIER] Nathan E. Sanders and I are writing a series of essays on real-world examples of democratic technologies for The Renovator. I haven&#8217;t been posting the full text on the blog because they&#8217;re a bit long, but here are links. Part 1 is about...",
-      "url": "https://www.schneier.com/blog/archives/2026/09/rewiring-democracy-series-on-the-renovator.html",
-      "date": "2026-09-01T09:59:07Z"
-    },
-    {
-      "title": "ISC Stormcast For Tuesday, September 1st, 2026 https://isc.sans.edu/podcastdetail/10076, (Tue, Sep 1st)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33302",
-      "date": "2026-09-01T02:00:03Z"
-    },
-    {
-      "title": "The Coding-Agent Trap: When a \"Free\" LLM Endpoint Is the Adversary, (Mon, Aug 31st)",
-      "description": "[ISC] One of my internet-exposed inference honeypots was discovered, relabeled with sought-after model names, and incorporated into infrastructure apparently used to provide \"free\" LLM backends. It then received a real coding-agent session...",
-      "url": "https://isc.sans.edu/diary/rss/33298",
-      "date": "2026-08-31T20:00:34Z"
-    },
-    {
-      "title": "Is Someone Hacking DoD Refrigerators?",
-      "description": "[SCHNEIER] It sure seems like it. The stores confirmed to be affected include Fort Irwin, Calif.; F.E. Warren Air Force Base, Wyo.; Fort Huachuca, Ariz.; Naval Station Newport, R.I.; Columbus Air Force Base, Miss.; and Travis Air Force Base, Calif., according...",
-      "url": "https://www.schneier.com/blog/archives/2026/08/is-someone-hacking-dod-refrigerators.html",
-      "date": "2026-08-31T18:20:35Z"
-    },
-    {
-      "title": "Hiding Prompt Injection in Legal Filing",
-      "description": "[SCHNEIER] Someone hid AI instructions into a legal filing. Alternate link.",
-      "url": "https://www.schneier.com/blog/archives/2026/08/hiding-prompt-injection-in-legal-filing.html",
-      "date": "2026-08-31T11:03:40Z"
-    },
-    {
-      "title": "ISC Stormcast For Monday, August 31st, 2026 https://isc.sans.edu/podcastdetail/10074, (Mon, Aug 31st)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33296",
-      "date": "2026-08-31T02:00:03Z"
-    },
-    {
-      "title": "YARA-X 1.20.0 Release, (Sun, Aug 30th)",
-      "description": "[ISC] YARA-X&&#x23&#x3b;x26&#x3b;&#x23&#x3b;39&#x3b;s 1.20.0 release brings 14 improvements and 13 bugfixes.&#xd;",
-      "url": "https://isc.sans.edu/diary/rss/33288",
-      "date": "2026-08-30T07:14:49Z"
-    }
-  ]
+    "title": "Sentinel Protocol",
+    "tagline": "Perimeter Intelligence Sync",
+    "updated": "2026-09-02 14:56 UTC",
+    "news": [
+        {
+            "source": {
+                "id": null,
+                "name": "Business Standard"
+            },
+            "author": "Avik Das",
+            "title": "Merger with ITC Infotech to help in big deals: Happiest Minds CEO",
+            "description": "Combined entity will bring together digital engineering, cybersecurity and AI capabilities with strengths in SAP, enterprise applications and Industry 4.0 offerings",
+            "url": "https://www.business-standard.com/companies/news/merger-with-itc-infotech-to-help-in-big-deals-happiest-minds-ceo-126090101462_1.html",
+            "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2022-05/31/thumb/fitandfill/1200X628/1653987696-7242.jpg",
+            "publishedAt": "2026-09-01T14:55:27Z",
+            "content": "Combined entity will bring together digital engineering, cybersecurity and AI capabilities with strengths in SAP, enterprise applications and Industry 4.0 offerings\r\nHappiest Minds Technologies said \u2026 [+2853 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Securityaffairs.com"
+            },
+            "author": "Pierluigi Paganini",
+            "title": "Chaotic Eclipse Releases GenDigital Avast Antivirus ZeroDay\u00a0PrettyPrague",
+            "description": "Chaotic Eclipse released PrettyPrague, a PoC exploit for a GenDigital Avast Antivirus ZeroDay Elevation of Privileges Vulnerability Security researcher\u00a0Chaotic Eclipse, also known as INFINITE NIGHTMARE, MSNightmare and Nightmare-Eclipse, released a new zero-d\u2026",
+            "url": "https://securityaffairs.com/198243/hacking/chaotic-eclipse-releases-gendigital-avast-antivirus-zeroday-prettyprague.html",
+            "urlToImage": "https://securityaffairs.com/wp-content/uploads/2026/09/image-2.png",
+            "publishedAt": "2026-09-01T14:33:00Z",
+            "content": "Chaotic Eclipse Releases GenDigital Avast Antivirus ZeroDay\u00a0PrettyPrague\r\nSecurity researcher\u00a0Chaotic Eclipse, also known as INFINITE NIGHTMARE, MSNightmare and Nightmare-Eclipse, released a new zero\u2026 [+1837 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BleepingComputer"
+            },
+            "author": "Sergiu Gatlan",
+            "title": "Novocure data breach affects more than 1,400 cancer patients",
+            "description": "Healthtech company Novocure says the data of an undisclosed number of employees and more than 1,400 U.S. cancer patients has been exposed in a mid-August cyberattack. [...]",
+            "url": "https://www.bleepingcomputer.com/news/security/novocure-data-breach-affects-more-than-1-400-cancer-patients/",
+            "urlToImage": "https://www.bleepstatic.com/content/hl-images/2026/09/01/Novocure-headpic.jpg",
+            "publishedAt": "2026-09-01T14:28:40Z",
+            "content": "Healthtech company Novocure says the data of an undisclosed number of employees and more than 1,400 U.S. cancer patients has been exposed in a mid-August cyberattack.\r\nNovocure is a global oncology c\u2026 [+2613 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PRNewswire"
+            },
+            "author": null,
+            "title": "Darkforce\u2122 advances toward FedRAMP High for government deployment",
+            "description": "WASHINGTON, Sept. 1, 2026 /PRNewswire/ -- Darkforce\u2122, the U.S. Federal subsidiary of Darkstrike\u00ae, announced that it has submitted its FedRAMP High package through Knox Systems for In-Process designation, advancing the company's ability to deliver its cybersec\u2026",
+            "url": "https://www.prnewswire.com/news-releases/darkforce-advances-toward-fedramp-high-for-government-deployment-302865929.html",
+            "urlToImage": "https://mmx.prnewswire.com/media/MS1764292/Darkstrike-Logo.jpg?id=OA2922376&p=facebook",
+            "publishedAt": "2026-09-01T14:17:00Z",
+            "content": "WASHINGTON, Sept. 1, 2026 /PRNewswire/ -- Darkforce, the U.S. Federal subsidiary of Darkstrike\u00ae, announced that it has submitted its FedRAMP High package through Knox Systems for In-Process designati\u2026 [+2754 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Internet"
+            },
+            "author": "info@thehackernews.com (The Hacker News)",
+            "title": "13 Malicious Packagist Packages Target Unpatched iPhones to Steal Crypto Wallet Seeds",
+            "description": "Cybersecurity researchers have identified a set of 13 malicious Composer theme packages on Packagist that are designed to inject JavaScript into Vietnamese movie and comic streaming sites that install those libraries and initiate the deployment of spyware aim\u2026",
+            "url": "https://thehackernews.com/2026/09/13-malicious-packagist-packages-target.html",
+            "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhB8expOvrNoEO7Mb5MSWWRnW2eVksJz4NGRldHmcBuWZ76ojuMDD6HJk_i043g-KHOi2zjcYQtsvYGXL2lyzPNy-vwRTD5jzMz5qdEXwfvYqt9K1Uu0Z5fpEMV2EVh9Ap0JRUD391nDM_TjgEXXGnI_dHRpxwv1H5VLiyQN4F3LBpRaEnmtbmCqdllIob2/s1700-nu-rw-lo-l85-e365/iphone.jpg",
+            "publishedAt": "2026-09-01T14:07:20Z",
+            "content": "Cybersecurity researchers have identified a set of 13 malicious Composer theme packages on Packagist that are designed to inject JavaScript into Vietnamese movie and comic streaming sites that instal\u2026 [+4377 chars]"
+        },
+        {
+            "source": {
+                "id": "next-big-future",
+                "name": "Next Big Future"
+            },
+            "author": "cybernewswire",
+            "title": "Criminal IP Appoints Reconn as Distributor for TI & ASM Across Middle East & Africa",
+            "description": "Torrance, United States / California, 1st September 2026, CyberNewswire",
+            "url": "https://www.nextbigfuture.com/2026/09/criminal-ip-appoints-reconn-as-distributor-for-ti-asm-across-middle-east-africa.html",
+            "urlToImage": null,
+            "publishedAt": "2026-09-01T14:00:26Z",
+            "content": "Torrance, United States / California, September 1st, 2026, CyberNewswire\r\nCriminal IP appoints Reconn as Distributor for threat intelligence and attack surface management solutions across the Middle \u2026 [+6289 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "SiliconANGLE News"
+            },
+            "author": "Paul Gillin",
+            "title": "Aranya raises $11M to turn bare-metal servers into AI clusters in less than 48 hours",
+            "description": "Aranya Inc., a startup that says it can transform raw bare-metal servers into custom, production-ready graphics processing unit clusters for artificial intelligence inference in less than two days, launched today with $11 million in funding. The company says \u2026",
+            "url": "https://siliconangle.com/2026/09/01/aranya-raises-11m-to-turn-bare-metal-servers-into-ai-clusters-in-less-than-48-hours/",
+            "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2025/09/Screenshot-from-2025-09-09-09-49-14.png",
+            "publishedAt": "2026-09-01T14:00:21Z",
+            "content": "Aranya Inc., a startup that says it can transform raw bare-metal servers into custom, production-ready graphics processing unit clusters for artificial intelligence inference in less than two days, l\u2026 [+5098 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Amazon.com"
+            },
+            "author": "aws@amazon.com",
+            "title": "Claude Fable 5.1, Anthropic's new frontier model is now available on AWS",
+            "description": "Claude Fable 5.1 is generally available on AWS and brings Anthropic's most capable frontier model to all customers. Fable 5.1 delivers frontier intelligence for ambitious tasks across coding, scientific research, and enterprise workflows. A clear improvement \u2026",
+            "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/claude-fable-5-1-aws/",
+            "urlToImage": null,
+            "publishedAt": "2026-09-01T14:00:00Z",
+            "content": "Claude Fable 5.1 is generally available on AWS and brings Anthropic's most capable frontier model to all customers. Fable 5.1 delivers frontier intelligence for ambitious tasks across coding, scienti\u2026 [+1578 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PRNewswire"
+            },
+            "author": null,
+            "title": "Photon Achieves CyberVadis Platinum Rating, Reinforcing Enterprise Trust Through Independent Cybersecurity Validation",
+            "description": "Independent assessment score of 987 out of 1,000 validates the maturity of Photon's cybersecurity governance, operational resilience, and enterprise security program PARIS, Sept. 1, 2026 /PRNewswire/ -- As enterprises accelerate investments in artificial inte\u2026",
+            "url": "https://www.prnewswire.com/news-releases/photon-achieves-cybervadis-platinum-rating-reinforcing-enterprise-trust-through-independent-cybersecurity-validation-302866171.html",
+            "urlToImage": "https://mmx.prnewswire.com/media/MS1979374/PHTN-Logo.jpg?id=OA2922889&p=facebook",
+            "publishedAt": "2026-09-01T14:00:00Z",
+            "content": "Independent assessment score of 987 out of 1,000 validates the maturity of Photon's cybersecurity governance, operational resilience, and enterprise security program\r\nPARIS, Sept. 1, 2026 /PRNewswire\u2026 [+7407 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Cointelegraph"
+            },
+            "author": "Cointelegraph by Adrian Zmudzinski",
+            "title": "Fake Claude desktop app spreads crypto-stealing malware",
+            "description": "A fake Claude Opus 5 desktop app delivers RevStealer, Windows malware that targets over 50 crypto wallets, passwords, and browser and messaging data.",
+            "url": "https://cointelegraph.com/news/fake-claude-desktop-app-spreads-crypto-stealing-malware",
+            "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1EK7VS1ZRRC1VAJANKBB54F/bug-error-hack-red-mistake-malwire-1.jpg",
+            "publishedAt": "2026-09-01T13:56:16Z",
+            "content": "A fake Claude desktop application is being used to distribute RevStealer, a Windows malware strain built to steal crypto, password and browser data.\r\nAccording to a Monday report by cybersecurity com\u2026 [+1456 chars]"
+        }
+    ]
 }
