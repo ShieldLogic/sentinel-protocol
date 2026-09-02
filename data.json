@@ -1,6 +1,30 @@
 {
-  "updated": "2026-09-02 17:34:17 UTC",
+  "updated": "2026-09-02 20:17:59 UTC",
   "news": [
+    {
+      "title": "WordPress backup plugin flaw exposes millions of sites to takeover attacks",
+      "description": "[BLEEPINGCOMPUTER] An SQL injection vulnerability in the All-in-One WP Migration and Backup plugin for WordPress could allow unauthenticated attackers to execute remote code and take control of affected websites. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/wordpress-backup-plugin-flaw-exposes-millions-of-sites-to-takeover-attacks/",
+      "date": "2026-09-02T19:28:46Z"
+    },
+    {
+      "title": "AI Agents Are Now Emailing Me with Their Security Concerns",
+      "description": "[SCHNEIER] I received the two emails below earlier in the month. They&#8217;re vaguely coherent. I suppose I shouldn&#8217;t be surprised that the corpus that AIs are training on contain data suggesting that I am someone to write to with random computer and...",
+      "url": "https://www.schneier.com/blog/archives/2026/09/ai-agents-are-now-emailing-me-with-their-security-concerns.html",
+      "date": "2026-09-02T18:28:08Z"
+    },
+    {
+      "title": "Google, Anthropic, and OpenAI Unveil Cyber AI Models, Safeguards, and Access Programs",
+      "description": "[FEEDS] Google on Wednesday announced Gemini 3.8 Flash Cyber, which it described as its most capable cybersecurity model, and has made it available to a set of trusted defenders via a new initiative called the Fairwind Program. \"The Fairwind Program gives...",
+      "url": "https://thehackernews.com/2026/09/google-anthropic-and-openai-unveil.html",
+      "date": "2026-09-02T18:27:49Z"
+    },
+    {
+      "title": "Fake Software Installers Disable Windows Update and Weaken Microsoft Defender",
+      "description": "[FEEDS] An active malware campaign is using bogus software-download websites to impersonate trusted vendors and distribute malicious installers. \"The campaign has targeted users looking to download popular software and has resulted in compromises across...",
+      "url": "https://thehackernews.com/2026/09/fake-software-installers-disable.html",
+      "date": "2026-09-02T16:41:06Z"
+    },
     {
       "title": "Hackers exploit critical JFrog Artifactory flaw to forge admin tokens",
       "description": "[BLEEPINGCOMPUTER] A critical authentication bypass vulnerability (CVE-2026-82329) in JFrog Artifactory is being exploited in attacks to create tokens that provide administrative access. [...]",
@@ -44,18 +68,6 @@
       "date": "2026-09-02T12:22:02Z"
     },
     {
-      "title": "How to Secure Enterprise AI: From Adoption to Incident Readiness",
-      "description": "[FEEDS] The debate about whether AI delivers business value is over. The challenge now is implementing it at scale and securely across every function while meeting board-level pressure to move fast. Organizations must focus on adopting AI at business speed...",
-      "url": "https://thehackernews.com/2026/09/how-to-secure-enterprise-ai-from.html",
-      "date": "2026-09-02T11:30:00Z"
-    },
-    {
-      "title": "Attackers Exploit Two SonicWall SMA 1000 Zero-Days That May Form an Attack Chain",
-      "description": "[FEEDS] SonicWall has released security updates to address two security flaws impacting its Secure Mobile Access (SMA) 1000 series VPN appliances that have been exploited in zero-day attacks. The vulnerabilities, discovered internally by SonicWall's William...",
-      "url": "https://thehackernews.com/2026/09/attackers-exploit-two-sonicwall-sma.html",
-      "date": "2026-09-02T10:53:49Z"
-    },
-    {
       "title": "Microsoft Defender flags legitimate Google search links as malicious",
       "description": "[BLEEPINGCOMPUTER] Microsoft is investigating an issue causing the Defender for Office 365 security software to mistakenly block access to legitimate Google search links. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/microsoft-defender-flags-legitimate-google-search-links-as-malicious/",
@@ -74,10 +86,46 @@
       "date": "2026-09-02T09:06:48Z"
     },
     {
-      "title": "Sality botnet infrastructure dismantled in joint global takedown",
-      "description": "[BLEEPINGCOMPUTER] International law enforcement agencies and private partners have seized Sality malware infrastructure in a joint action aiming to disrupt and take down the peer-to-peer (P2P) botnet. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/sality-botnet-infrastructure-dismantled-in-joint-global-takedown/",
-      "date": "2026-09-02T08:00:43Z"
+      "title": "IIT Madras Pravartak, Swayam Plus launch multi-cloud programmes on computing and cybersecurity skills",
+      "description": "[THE INDIAN EXPRESS] The 100-hour multi-cloud programme will be delivered through live online sessions, allowing participants to interact with faculty. Students will also get an opportunity for an immersive learning experience at the IIT Madras campus.",
+      "url": "https://indianexpress.com/article/education/iit-madras-pravartak-swayam-plus-launches-multi-cloud-programme-registrations-begin-september-10-10859851/",
+      "date": "2026-09-02T07:33:05Z"
+    },
+    {
+      "title": "Auto industry must turn disruption into strength, says Maruti Suzuki CEO",
+      "description": "[THE ECONOMIC TIMES] The auto sector must become stronger due to disruption in the next decade. Deep localization, people development, collective learning, and technology are key enablers. Companies should view workforce development as an investment, not a cost. Digital...",
+      "url": "https://economictimes.indiatimes.com/industry/auto/auto-news/auto-industry-must-turn-disruption-into-strength-says-maruti-suzuki-ceo/articleshow/133701798.cms",
+      "date": "2026-09-02T07:16:00Z"
+    },
+    {
+      "title": "Rethinking cybersecurity operations in the age of artificial intelligence",
+      "description": "[EUROPE SAYS] Cybersecurity is evolving from a manual operation to one driven by artificial intelligence (AI). The volume, speed and sophistication of modern cyber threats",
+      "url": "https://www.europesays.com/3228439/",
+      "date": "2026-09-02T07:13:25Z"
+    },
+    {
+      "title": "Auto industry must stay one step ahead of hackers, says Maruti CEO",
+      "description": "[BUSINESS STANDARD] Hisashi Takeuchi said automakers need stronger cybersecurity, robust contingency plans, deeper localisation and greater supplier resilience as digitalisation accelerates",
+      "url": "https://www.business-standard.com/industry/auto/auto-industry-must-stay-one-step-ahead-of-hackers-says-maruti-ceo-126090200426_1.html",
+      "date": "2026-09-02T06:31:21Z"
+    },
+    {
+      "title": "Anthropic releases Claude Fable 5.1, cuts cached token pricing by 75%",
+      "description": "[TECHSPOT] Fable 5.1 is the broadly available version, with safeguards that block some high-risk work in cybersecurity and scientific research. Mythos 5.1 has fewer of those restrictions, but...",
+      "url": "https://www.techspot.com/news/113701-anthropic-releases-claude-fable-51-stronger-coding-science.html",
+      "date": "2026-09-02T06:07:58Z"
+    },
+    {
+      "title": "[EXPLAINER] How SKT data breach pushed inflation up by 0.6 percentage point",
+      "description": "[THE KOREA TIMES] The fallout from SK Telecom's data breach last year has resurfaced in consumer inflation data a year later. In an unexpected twist, a 50 percent cu...",
+      "url": "https://www.koreatimes.co.kr/economy/others/20260902/explainer-how-skt-data-breach-pushed-inflation-up-by-06-percentage-point",
+      "date": "2026-09-02T05:49:04Z"
+    },
+    {
+      "title": "OpenAI\u2019s Astra crosses a critical cybersecurity threshold. Here\u2019s why it matters",
+      "description": "[THE FINANCIAL EXPRESS] OpenAI announces Astra, its first AI model reaching the 'critical' cybersecurity capability level, capable of autonomously detecting and exploiting vulnerabilities with enhanced safety measures before public release.",
+      "url": "https://www.financialexpress.com/life/technology-openais-astra-crosses-a-critical-cybersecurity-threshold-heres-why-it-matters-4330346/",
+      "date": "2026-09-02T05:45:58Z"
     },
     {
       "title": "Hotel contracts getting more \u2018even\u2019 as owners negotiate harder on performance benchmarks",
@@ -98,52 +146,16 @@
       "date": "2026-09-02T04:39:11Z"
     },
     {
-      "title": "Sam Altman Warns \u2018Caution Is Warranted\u2019 As OpenAI Prepares To Launch Astra AI",
-      "description": "[TIMES NOW] OpenAI\u2019s Astra is set to launch with restricted cybersecurity access after the model crossed the \u2018Critical\u2019 threshold. Sam Altman says AI safety must keep pace with capabilities., Technology & Science, Times Now",
-      "url": "https://www.timesnownews.com/technology-science/sam-altman-warns-caution-is-warranted-as-openai-prepares-to-launch-astra-ai-article-156028489",
-      "date": "2026-09-02T04:04:55Z"
-    },
-    {
       "title": "ISC Stormcast For Wednesday, September 2nd, 2026 https://isc.sans.edu/podcastdetail/10078, (Wed, Sep 2nd)",
       "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
       "url": "https://isc.sans.edu/diary/rss/33304",
       "date": "2026-09-02T02:00:02Z"
     },
     {
-      "title": "Anthropic resumes external cyber tests after Claude AI hacks",
-      "description": "[LIVEMINT] ANTHROPIC-CYBERSECURITY:Anthropic resumes external cyber tests after Claude AI hacks",
-      "url": "https://www.livemint.com/technology/anthropic-resumes-external-cyber-tests-after-claude-ai-hacks-11788312905495.html",
-      "date": "2026-09-02T01:35:05Z"
-    },
-    {
-      "title": "Palo Alto CEO says $1 trillion of cybersecurity infrastructure isn\u2019t ready for AI",
-      "description": "[CNBC] Palo Alto CEO Nikesh Arora said AI is forcing companies to modernize roughly $1 trillion of aging cybersecurity infrastructure that isn\u2019t equipped for attacks.",
-      "url": "https://www.cnbc.com/2026/09/01/palo-alto-ceo-says-1-trillion-of-cybersecurity-infrastructure-isnt-ready-for-ai.html",
-      "date": "2026-09-01T23:20:44Z"
-    },
-    {
       "title": "Guildma (Astaroth) malware infection from Brazilian Portuguese email, (Tue, Sep 1st)",
       "description": "[ISC] Introduction&#xd;",
       "url": "https://isc.sans.edu/diary/rss/33300",
       "date": "2026-09-01T21:30:18Z"
-    },
-    {
-      "title": "SEC proposes transfer agent overhaul for tokenized securities",
-      "description": "[CRYPTO NEWS] The SEC proposes new transfer agent rules for tokenized securities, blockchain records, cybersecurity and asset protection.",
-      "url": "https://crypto.news/sec-proposes-transfer-agent-for-tokenized-securities/",
-      "date": "2026-09-01T19:33:32Z"
-    },
-    {
-      "title": "With Cybersecurity for Cloud and Artificial Intelligence, CrowdStrike Stock Is Positioned for Sustained Growth",
-      "description": "[BARCHART] How to play CrowdStrike on strong earnings.",
-      "url": "https://www.barchart.com/story/news/4383107/with-cybersecurity-for-cloud-and-artificial-intelligence-crowdstrike-stock-is-positioned-for-sustained-growth",
-      "date": "2026-09-01T18:28:24Z"
-    },
-    {
-      "title": "SEC Proposes New Standards for US Transfer Agents",
-      "description": "[COINTELEGRAPH] The SEC proposed new standards for transfer agents covering recordkeeping, cybersecurity and safeguarding as blockchain and tokenization reshape securities markets.",
-      "url": "https://cointelegraph.com/news/sec-proposes-transfer-agent-overhaul-as-securities-move-onchain",
-      "date": "2026-09-01T17:52:51Z"
     },
     {
       "title": "What\u2019s the Scam?",
@@ -156,12 +168,6 @@
       "description": "[SCHNEIER] This is interesting: The records describe a force-generation mechanism for several General Staff components, including the GRU, Main Operational Directorate, and 8th Directorate, which is associated with protected communications, cryptography, and...",
       "url": "https://www.schneier.com/blog/archives/2026/09/leaked-russian-cyber-operations-training-materials.html",
       "date": "2026-09-01T16:29:10Z"
-    },
-    {
-      "title": "X Data Breach? Users Are Getting Flooded With Password Reset Emails Nobody Requested",
-      "description": "[DECRYPT] X engineers have acknowledged the issue, but have not confirmed a new data breach of its systems.",
-      "url": "https://decrypt.co/377048/x-data-breach-users-flooded-password-reset",
-      "date": "2026-09-01T16:26:10Z"
     },
     {
       "title": "Rewiring Democracy Series on The Renovator",
@@ -186,12 +192,6 @@
       "description": "[SCHNEIER] It sure seems like it. The stores confirmed to be affected include Fort Irwin, Calif.; F.E. Warren Air Force Base, Wyo.; Fort Huachuca, Ariz.; Naval Station Newport, R.I.; Columbus Air Force Base, Miss.; and Travis Air Force Base, Calif., according...",
       "url": "https://www.schneier.com/blog/archives/2026/08/is-someone-hacking-dod-refrigerators.html",
       "date": "2026-08-31T18:20:35Z"
-    },
-    {
-      "title": "Hiding Prompt Injection in Legal Filing",
-      "description": "[SCHNEIER] Someone hid AI instructions into a legal filing. Alternate link.",
-      "url": "https://www.schneier.com/blog/archives/2026/08/hiding-prompt-injection-in-legal-filing.html",
-      "date": "2026-08-31T11:03:40Z"
     },
     {
       "title": "ISC Stormcast For Monday, August 31st, 2026 https://isc.sans.edu/podcastdetail/10074, (Mon, Aug 31st)",
