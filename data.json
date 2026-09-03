@@ -1,209 +1,137 @@
 {
-  "updated": "2026-09-03 13:59:20 UTC",
-  "news": [
-    {
-      "title": "Your Employee\u2019s Password Appeared in an Infostealer Log. Now What?",
-      "description": "[BLEEPINGCOMPUTER] Infostealers can expose far more than passwords, including authenticated sessions that may let attackers bypass MFA. Flare explains how defenders can prioritize compromised identities, determine whether stolen access is still usable, and respond...",
-      "url": "https://www.bleepingcomputer.com/news/security/your-employees-password-appeared-in-an-infostealer-log-now-what/",
-      "date": "2026-09-03T13:50:59Z"
-    },
-    {
-      "title": "Microsoft says KB5120998 Windows update resets desktop settings",
-      "description": "[BLEEPINGCOMPUTER] Microsoft has confirmed that desktop settings are lost or reset on some Windows devices after installing the KB5120998 August 2026 preview update. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-kb5120998-windows-update-resets-desktop-settings/",
-      "date": "2026-09-03T12:16:32Z"
-    },
-    {
-      "title": "US Becomes Top Target in RMM Phishing Campaign Spanning 46 Countries",
-      "description": "[FEEDS] An RMM phishing campaign initially associated with Canadian targeting due to its use of Canada Revenue Agency (CRA) tax forms as lures has turned out to be part of a broader campaign spanning 46 countries. Around 45% of observed activity was...",
-      "url": "https://thehackernews.com/2026/09/us-becomes-top-target-in-rmm-phishing.html",
-      "date": "2026-09-03T11:58:00Z"
-    },
-    {
-      "title": "Researching Employment Scams",
-      "description": "[SCHNEIER] Researchers built a fake company to study fake employee scams.",
-      "url": "https://www.schneier.com/blog/archives/2026/09/researching-employment-scams.html",
-      "date": "2026-09-03T11:18:14Z"
-    },
-    {
-      "title": "Plex warns users to patch security vulnerabilities immediately",
-      "description": "[BLEEPINGCOMPUTER] Plex urged users this week to update their desktop clients and media servers immediately to patch multiple security vulnerabilities. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/plex-warns-users-to-patch-security-vulnerabilities-immediately/",
-      "date": "2026-09-03T11:02:22Z"
-    },
-    {
-      "title": "Attackers Turn Trusted Node.js Runtime Into Malware Delivery Tool in Targeted Attacks",
-      "description": "[FEEDS] Threat actors are leveraging the trusted Node.js JavaScript runtime in multiple cyber attacks as a way to deploy malicious payloads. According to a new report published by the Symantec Threat Hunter Team today, the attack method has been put to use...",
-      "url": "https://thehackernews.com/2026/09/attackers-turn-trusted-nodejs-runtime.html",
-      "date": "2026-09-03T10:43:01Z"
-    },
-    {
-      "title": "Shai-Hulud's Reach Just Grew to 469 Credential Locations. Here's What That Means",
-      "description": "[FEEDS] In early August, GitGuardian researchers found that a recent Shai-Hulud infostealer worm variant had evolved to scan for credentials across 469 locations across developer environments, Continuous Integration/Continuous Deployment (CI/CD) tooling,...",
-      "url": "https://thehackernews.com/2026/09/shai-huluds-reach-just-grew-to-469.html",
-      "date": "2026-09-03T10:36:39Z"
-    },
-    {
-      "title": "Microsoft Teams, Outlook fail to launch on ARM-based Windows PCs",
-      "description": "[BLEEPINGCOMPUTER] Microsoft is working to fix a known issue that causes crashes and launch failures for Microsoft Teams and New Outlook users after installing updates released since the August 2026 Patch Tuesday. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-outlook-fail-to-launch-on-arm-based-windows-pcs/",
-      "date": "2026-09-03T08:55:25Z"
-    },
-    {
-      "title": "Pegasus Zero-Click Spyware Exploit Infects Serbian Student Movement Member's iPhone",
-      "description": "[FEEDS] The iPhone belonging to a member of Serbia's student protest movement was infected with NSO Group's Pegasus spyware, according to new findings from the Citizen Lab in collaboration with the SHARE Foundation. \"Our analysis confirmed that an iMessage...",
-      "url": "https://thehackernews.com/2026/09/pegasus-zero-click-spyware-exploit.html",
-      "date": "2026-09-03T08:43:17Z"
-    },
-    {
-      "title": "Researcher Releases FalconFlank PoC Showing Privilege Escalation in CrowdStrike Falcon",
-      "description": "[FEEDS] The security researcher known as Chaotic Eclipse (aka INFINITE NIGHTMARE, MSNightmare, and Nightmare-Eclipse) has dropped a new zero-day dubbed FalconFlank, a privilege escalation flaw impacting Crowdstrike Falcon. \"FalconFlank is a 0day privilege...",
-      "url": "https://thehackernews.com/2026/09/researcher-releases-falconflank-poc.html",
-      "date": "2026-09-03T06:26:59Z"
-    },
-    {
-      "title": "CISA Adds Seven Exploited Flaws as Attackers Deploy Reverse Shells and Crypto Miners",
-      "description": "[FEEDS] The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added seven security flaws to its Known Exploited Vulnerabilities (KEV) catalog after they landed in attackers' crosshairs. The vulnerabilities are as follows -...",
-      "url": "https://thehackernews.com/2026/09/cisa-adds-seven-exploited-flaws-as.html",
-      "date": "2026-09-03T05:19:04Z"
-    },
-    {
-      "title": "Honeypot-Omaha and batch.py &#x5b;Guest Diary&#x5d;, (Wed, Sep 2nd)",
-      "description": "[ISC] &#x5b;This is a Guest Diary by Frank Igbokwe, an ISC intern as part of the SANS.edu BACS program&#x5d;&#xd;",
-      "url": "https://isc.sans.edu/diary/rss/33306",
-      "date": "2026-09-03T02:02:56Z"
-    },
-    {
-      "title": "ISC Stormcast For Thursday, September 3rd, 2026 https://isc.sans.edu/podcastdetail/10080, (Thu, Sep 3rd)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33308",
-      "date": "2026-09-03T02:00:03Z"
-    },
-    {
-      "title": "OpenAI And Anthropic Move Towards Their IPOs As They Face a Balancing Act",
-      "description": "[INTERNATIONAL BUSINESS TIMES] OpenAI emphasized cybersecurity risks surrounding its newest model while Anthropic moved to make its latest technology more attractive to customers.",
-      "url": "https://www.ibtimes.com/openai-anthropic-move-towards-their-ipos-they-face-balancing-act-3807067",
-      "date": "2026-09-03T00:51:03Z"
-    },
-    {
-      "title": "Buckingham Palace forced to make major cybersecurity upgrade amid Russian cyber threat",
-      "description": "[THE DAILY STAR] Buckingham Palace has been forced to make major upgrades to its cybersecurity and IT systems after admitting its 'ageing' computer systems need a revamp, amid a growing Russian cyber threat",
-      "url": "https://www.dailystar.co.uk/news/latest-news/buckingham-palace-forced-make-major-37621640",
-      "date": "2026-09-03T00:48:31Z"
-    },
-    {
-      "title": "Buckingham Palace planning 'major security upgrades' amid growing Russia threat",
-      "description": "[THE MIRROR] Buckingham Palace officials have confirmed a major cybersecurity upgrade will go ahead as the threat from Russia operating in the 'grey zone' grows, three years after the Royal Family website was targeted",
-      "url": "https://www.mirror.co.uk/news/royals/buckingham-palace-upgrades-russia-hackers-37621630",
-      "date": "2026-09-03T00:36:50Z"
-    },
-    {
-      "title": "Buckingham Palace forced to make major security upgrade after Russia threat",
-      "description": "[DAILY EXPRESS] As the threat from Russia grows in the 'grey zone', Palace bosses are making vital improvements to cybersecurity systems.",
-      "url": "https://www.express.co.uk/news/royal/2244996/buckingham-palace-forced-make-major",
-      "date": "2026-09-03T00:25:00Z"
-    },
-    {
-      "title": "FBI probes report of data breach exposing millions of drivers\u2019 licences in US, Canada",
-      "description": "[THE STRAITS TIMES] A dark web site selling digital scans of millions of drivers\u2019 licences was reported. Read more at straitstimes.com.",
-      "url": "https://www.straitstimes.com/world/united-states/fbi-probes-report-of-data-breach-exposing-millions-of-drivers-licences-in-us-canada",
-      "date": "2026-09-03T00:08:00Z"
-    },
-    {
-      "title": "Google\u2019s Gemini 3.8 Flash is built for agents, while its Cyber twin hunts vulnerabilities",
-      "description": "[VENTUREBEAT] Google's 3.8 Flash Cyber model enhances vulnerability detection and patching, outperforming larger models at lower costs, crucial for cybersecurity teams.",
-      "url": "https://venturebeat.com/security/googles-gemini-3-8-flash-is-built-for-agents-while-its-cyber-twin-hunts-vulnerabilities",
-      "date": "2026-09-03T00:02:18Z"
-    },
-    {
-      "title": "FBI probes report of data breach exposing millions of drivers' licenses in US, Canada",
-      "description": "[DEVDISCOURSE] Read more about FBI probes report of data breach exposing millions of drivers' licenses in US, Canada on Devdiscourse",
-      "url": "https://www.devdiscourse.com/article/international/3971742-fbi-probes-report-of-data-breach-exposing-millions-of-drivers-licenses-in-us-canada",
-      "date": "2026-09-02T23:06:31Z"
-    },
-    {
-      "title": "Oregon Judicial Department involved in vendor security breach",
-      "description": "[SALEM STATESMAN JOURNAL] The Oregon Judicial Department said a vendor allowed an \"unacceptable\" data breach of the case management system used by Oregon's appellate courts.",
-      "url": "https://www.statesmanjournal.com/story/news/local/oregon/2026/09/02/oregon-judicial-department-vendor-security-breach/91584538007/",
-      "date": "2026-09-02T22:23:07Z"
-    },
-    {
-      "title": "US Officials Coordinate With CrowdStrike to Counter Crypto Theft Malware",
-      "description": "[CRYPTO BREAKING NEWS] US federal law enforcement, in cooperation with cybersecurity company CrowdStrike and international partners, announced an operation targeting the Sality",
-      "url": "https://www.cryptobreaking.com/us-officials-coordinate-with-crowdstrike/",
-      "date": "2026-09-02T22:20:26Z"
-    },
-    {
-      "title": "MN court data breach: Private user data exposed after third-party vendor hacked",
-      "description": "[FOX 9] Personal data within Minnesota court systems, as well as several other states, was exposed after a third-party vendor used to process caseloads was breached.",
-      "url": "https://www.fox9.com/news/mn-court-data-breach-private-data-exposed-third-party-vendor-hacked-sept-2-2026",
-      "date": "2026-09-02T22:06:51Z"
-    },
-    {
-      "title": "Hackers exploit Sangoma Switchvox flaw to deploy reverse shells",
-      "description": "[BLEEPINGCOMPUTER] Attackers are actively exploiting CVE-2026-9586, an unauthenticated SQL injection vulnerability in the Sangoma Switchvox VoIP platform that can lead to remote code execution. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-sangoma-switchvox-flaw-to-deploy-reverse-shells/",
-      "date": "2026-09-02T21:00:13Z"
-    },
-    {
-      "title": "WordPress backup plugin flaw exposes millions of sites to takeover attacks",
-      "description": "[BLEEPINGCOMPUTER] An SQL injection vulnerability in the All-in-One WP Migration and Backup plugin for WordPress could allow unauthenticated attackers to execute remote code and take control of affected websites. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/wordpress-backup-plugin-flaw-exposes-millions-of-sites-to-takeover-attacks/",
-      "date": "2026-09-02T19:28:46Z"
-    },
-    {
-      "title": "AI Agents Are Now Emailing Me with Their Security Concerns",
-      "description": "[SCHNEIER] I received the two emails below earlier in the month. They&#8217;re vaguely coherent. I suppose I shouldn&#8217;t be surprised that the corpus that AIs are training on contain data suggesting that I am someone to write to with random computer and...",
-      "url": "https://www.schneier.com/blog/archives/2026/09/ai-agents-are-now-emailing-me-with-their-security-concerns.html",
-      "date": "2026-09-02T18:28:08Z"
-    },
-    {
-      "title": "Wireless Routers as Motion Detectors",
-      "description": "[SCHNEIER] Comcast has added motion detection as a feature to its wireless routers: The feature sends push notifications to users when motion is detected near a connected device, such as a TV or printer. It has different settings for when people are home,...",
-      "url": "https://www.schneier.com/blog/archives/2026/09/wireless-routers-as-motion-detectors.html",
-      "date": "2026-09-02T10:22:46Z"
-    },
-    {
-      "title": "ISC Stormcast For Wednesday, September 2nd, 2026 https://isc.sans.edu/podcastdetail/10078, (Wed, Sep 2nd)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33304",
-      "date": "2026-09-02T02:00:02Z"
-    },
-    {
-      "title": "Guildma (Astaroth) malware infection from Brazilian Portuguese email, (Tue, Sep 1st)",
-      "description": "[ISC] Introduction&#xd;",
-      "url": "https://isc.sans.edu/diary/rss/33300",
-      "date": "2026-09-01T21:30:18Z"
-    },
-    {
-      "title": "What\u2019s the Scam?",
-      "description": "[SCHNEIER] To subscribe to my monthly email newsletter, you have to enter your information on the webpage, and then reply to an automatically generated email. This is, of course, to prevent people from subscribing addresses other than their own. Starting last...",
-      "url": "https://www.schneier.com/blog/archives/2026/09/whats-the-scam.html",
-      "date": "2026-09-01T17:36:13Z"
-    },
-    {
-      "title": "Leaked Russian Cyber-Operations Training Materials",
-      "description": "[SCHNEIER] This is interesting: The records describe a force-generation mechanism for several General Staff components, including the GRU, Main Operational Directorate, and 8th Directorate, which is associated with protected communications, cryptography, and...",
-      "url": "https://www.schneier.com/blog/archives/2026/09/leaked-russian-cyber-operations-training-materials.html",
-      "date": "2026-09-01T16:29:10Z"
-    },
-    {
-      "title": "Rewiring Democracy Series on The Renovator",
-      "description": "[SCHNEIER] Nathan E. Sanders and I are writing a series of essays on real-world examples of democratic technologies for The Renovator. I haven&#8217;t been posting the full text on the blog because they&#8217;re a bit long, but here are links. Part 1 is about...",
-      "url": "https://www.schneier.com/blog/archives/2026/09/rewiring-democracy-series-on-the-renovator.html",
-      "date": "2026-09-01T09:59:07Z"
-    },
-    {
-      "title": "ISC Stormcast For Tuesday, September 1st, 2026 https://isc.sans.edu/podcastdetail/10076, (Tue, Sep 1st)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33302",
-      "date": "2026-09-01T02:00:03Z"
-    },
-    {
-      "title": "The Coding-Agent Trap: When a \"Free\" LLM Endpoint Is the Adversary, (Mon, Aug 31st)",
-      "description": "[ISC] One of my internet-exposed inference honeypots was discovered, relabeled with sought-after model names, and incorporated into infrastructure apparently used to provide \"free\" LLM backends. It then received a real coding-agent session...",
-      "url": "https://isc.sans.edu/diary/rss/33298",
-      "date": "2026-08-31T20:00:34Z"
-    }
-  ]
+    "title": "Sentinel Protocol",
+    "tagline": "Perimeter Intelligence Sync",
+    "updated": "2026-09-03 14:50 UTC",
+    "news": [
+        {
+            "source": {
+                "id": "financial-post",
+                "name": "Financial Post"
+            },
+            "author": "Bloomberg News",
+            "title": "Nvidia nears US$14 billion Hugging Face deal this week",
+            "description": "Nvidia Corp. is in advanced talks to acquire AI startup Hugging Face in a transaction that could total about US$14 billion. Read here now",
+            "url": "https://financialpost.com/technology/nvidia-nears-hugging-face-deal",
+            "urlToImage": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/09/0903-mg-nvidia-hugging-face1.png",
+            "publishedAt": "2026-09-02T14:49:13Z",
+            "content": "Nvidia Corp. is in advanced talks to acquire artificial intelligence startup Hugging Face in a transaction that could total about US$14 billion, according to people familiar with the matter.\r\nTHIS CO\u2026 [+4667 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "SiliconANGLE News"
+            },
+            "author": "Mellisa Tolentino",
+            "title": "Sensible Medical insurance Preparations",
+            "description": "@ghstbuyer Mandating this type of extremely important health and fitness benefits guarantees complete coverage for those and you may household, dealing with the diverse health care requires. These types of benefits tend to be emergency characteristics, matern\u2026",
+            "url": "https://siliconangle.com/2026/09/02/sensible-medical-insurance-preparations/",
+            "urlToImage": "https://siliconangle.com/files/2015/08/PLACEHOLDER-SiliconANGLE.png",
+            "publishedAt": "2026-09-02T14:42:13Z",
+            "content": "@ghstbuyer Mandating this type of extremely important health and fitness benefits guarantees complete coverage for those and you may household, dealing with the diverse health care requires. These ty\u2026 [+3451 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Intercept"
+            },
+            "author": "Karl Loftus",
+            "title": "ICE Is Paying a Controversial AI Firm to Hide the Identities of Agents",
+            "description": "In a leaked memo, an ICE official tells employees the new AI tech will protect them from doxing. Some worry it could be used to root out whistleblowers.\nThe post ICE Is Paying a Controversial AI Firm to Hide the Identities of Agents appeared first on The Inte\u2026",
+            "url": "https://theintercept.com/2026/09/02/ice-ai-whistleblower-doxing-zerofox/",
+            "urlToImage": "https://theintercept.com/wp-content/uploads/2026/09/GettyImages-2278320274-e1788294434430.jpg?fit=8192%2C4096&w=1200&h=800",
+            "publishedAt": "2026-09-02T14:39:36Z",
+            "content": "U.S. Immigration and Customs Enforcement is launching a new Doxing Mitigation Initiative using AI to help ICE personnel keep their identities hidden from the public, according to an email addressed t\u2026 [+4632 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Pypi.org"
+            },
+            "author": null,
+            "title": "cyberplain 0.2.7",
+            "description": "Plain-English defensive cybersecurity tools for Python and the command line",
+            "url": "https://pypi.org/project/cyberplain/0.2.7/",
+            "urlToImage": null,
+            "publishedAt": "2026-09-02T14:36:35Z",
+            "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe\u2026 [+12 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Crypto Briefing"
+            },
+            "author": "Editorial Team",
+            "title": "Blackstone invests $27M in Israeli startup Huskeys\u2019 Series A to tackle AI-agent traffic",
+            "description": "Huskeys' rapid growth and significant backing highlight the increasing importance of cybersecurity solutions in managing AI-driven network traffic.\nThe post Blackstone invests $27M in Israeli startup Huskeys\u2019 Series A to tackle AI-agent traffic appeared first\u2026",
+            "url": "https://cryptobriefing.com/blackstone-huskeys-series-a-ai-security/",
+            "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/02102244/library-blackstone-invests-27m-in-israeli-startup-huskeys-series-800x450.png",
+            "publishedAt": "2026-09-02T14:22:48Z",
+            "content": "The cybersecurity startup, barely a year old, now carries a valuation north of $100 million as it builds an 'agentic AI layer' for legacy firewalls. A cybersecurity company that didn\u2019t exist two year\u2026 [+3005 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Securityaffairs.com"
+            },
+            "author": "Pierluigi Paganini",
+            "title": "SonicWall Patches Two New Actively Exploited Zero-Days in SMA 1000 VPNs",
+            "description": "SonicWall patched two zero-days in SMA 1000 VPNs, including a CVSS 10 pre-auth SSRF flaw, after confirming active exploitation. SonicWall has released security updates for two vulnerabilities in its SMA 1000 VPN appliances that are actively exploited in attac\u2026",
+            "url": "https://securityaffairs.com/198303/security/sonicwall-patches-two-new-actively-exploited-zero-days-in-sma-1000-vpns.html",
+            "urlToImage": "https://securityaffairs.com/wp-content/uploads/2020/10/SonicWall.png",
+            "publishedAt": "2026-09-02T14:22:40Z",
+            "content": "SonicWall Patches Two New Actively Exploited Zero-Days in SMA 1000 VPNs\r\nSonicWall has released security updates for two vulnerabilities in its SMA 1000 VPN appliances that are actively exploited in \u2026 [+2550 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Biztoc.com"
+            },
+            "author": "247wallst.com",
+            "title": "Palo Alto Sinks 8% Despite 34% Revenue Growth, CrowdStrike Falls 3%, Fortinet Slips",
+            "description": "The post Palo Alto Sinks 8% Despite 34% Revenue Growth, CrowdStrike Falls 3%, Fortinet Slips appeared first on 24/7 Wall St..\nCybersecurity stocks are trading lower Wednesday morning as a marquee earnings beat drew heavy selling, and the reaction looks like a\u2026",
+            "url": "https://biztoc.com/x/79f938bdbcbdb5ae",
+            "urlToImage": "https://biztoc.com/cdn/79f938bdbcbdb5ae_s.webp",
+            "publishedAt": "2026-09-02T14:17:17Z",
+            "content": "The post Palo Alto Sinks 8% Despite 34% Revenue Growth, CrowdStrike Falls 3%, Fortinet Slips appeared first on 24/7 Wall St..Cybersecurity stocks are trading lower Wednesday morning as a marquee earn\u2026 [+141 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Soumya Eswaran",
+            "title": "How CrowdStrike (CRWD) is Defending Against Evolving Threats",
+            "description": "Baron Capital, an investment management company, released its second-quarter 2026 investor letter for its \u201cBaron Global Opportunity Fund\u201d. The letter can be...",
+            "url": "https://finance.yahoo.com/markets/stocks/articles/crowdstrike-crwd-defending-against-evolving-141715106.html",
+            "urlToImage": "https://s.yimg.com/lo/mysterio/api/5651b208e573d09d1c9d4a8e46729c6ec2abf23135934663f670936ec62f481f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F7747a035deba38791b8d49bb9057930e.jpg",
+            "publishedAt": "2026-09-02T14:17:15Z",
+            "content": "Baron Capital, an investment management company, released its second-quarter 2026 investor letter for its \"Baron Global Opportunity Fund\". The letter can be downloaded here. The fund achieved a stron\u2026 [+4484 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PRNewswire"
+            },
+            "author": null,
+            "title": "SCADA Market worth $24.69 billion by 2032 - Exclusive Report by MarketsandMarkets\u2122",
+            "description": "DELRAY BEACH, Fla., Sept. 2, 2026 /PRNewswire/ -- According to MarketsandMarkets\u2122, the global SCADA market is projected to grow from USD 13.94 billion in 2026 to USD 24.69 billion by 2032, registering a CAGR of 10.0%. Browse 120 market data Tables and 60 Figu\u2026",
+            "url": "https://www.prnewswire.com/news-releases/scada-market-worth-24-69-billion-by-2032---exclusive-report-by-marketsandmarkets-302867459.html",
+            "urlToImage": "https://mmx.prnewswire.com/media/MS1173081/MarketsandMarkets-Logo.jpg?id=OA2925240&p=facebook",
+            "publishedAt": "2026-09-02T14:15:00Z",
+            "content": "DELRAY BEACH, Fla., Sept. 2, 2026 /PRNewswire/ -- According to\u00a0MarketsandMarkets, the global SCADA market\u00a0is projected to grow from USD 13.94 billion in 2026 to USD 24.69 billion by 2032, registering\u2026 [+10069 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Pypi.org"
+            },
+            "author": null,
+            "title": "cyberplain 0.2.6",
+            "description": "Plain-English defensive cybersecurity tools for Python and the command line",
+            "url": "https://pypi.org/project/cyberplain/0.2.6/",
+            "urlToImage": null,
+            "publishedAt": "2026-09-02T14:14:00Z",
+            "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe\u2026 [+12 chars]"
+        }
+    ]
 }
