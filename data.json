@@ -1,209 +1,137 @@
 {
-  "updated": "2026-09-04 13:52:34 UTC",
-  "news": [
-    {
-      "title": "New CrowdStrike 'FalconFlank' zero-day grants SYSTEM privileges",
-      "description": "[BLEEPINGCOMPUTER] An anonymous security researcher who uses the \"Nightmare Eclipse\" handle released a CrowdStrike Falcon zero-day exploit named \"FalconFlank\" that lets attackers escalate privileges on up-to-date Windows systems. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/new-crowdstrike-falconflank-zero-day-grants-system-privileges/",
-      "date": "2026-09-04T13:22:01Z"
-    },
-    {
-      "title": "Exchange Online outage causes email delays, 'Server busy' errors",
-      "description": "[BLEEPINGCOMPUTER] Microsoft is working to resolve an ongoing Exchange Online outage that is delaying email sent to and received from external domains. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/exchange-online-outage-causes-email-delays-server-busy-errors/",
-      "date": "2026-09-04T12:22:30Z"
-    },
-    {
-      "title": "Google warns of new Chrome zero-day flaw exploited in attacks",
-      "description": "[BLEEPINGCOMPUTER] Google has updated the Chrome browser to address an actively exploited high-severity zero-day flaw in the V8 engine and 11 other vulnerabilities. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/google-warns-of-new-chrome-zero-day-flaw-exploited-in-attacks/",
-      "date": "2026-09-04T11:48:17Z"
-    },
-    {
-      "title": "Security Vulnerability in a Voting System",
-      "description": "[SCHNEIER] It&#8217;s a vulnerability that allows someone to recover the order of ballots cast, newly exploited with AI tools. Nearly four years since the original vulnerability was disclosed, I was still able to use it to analyze voter behavior in Georgia...",
-      "url": "https://www.schneier.com/blog/archives/2026/09/security-vulnerability-in-a-voting-system.html",
-      "date": "2026-09-04T11:09:35Z"
-    },
-    {
-      "title": "AI Coding Agents Are Installing Unknown/Untrusted Code on Corporate Networks",
-      "description": "[SCHNEIER] We cannot forget that AI coding agents are not yet trustworthy: Researchers at a stealth startup in Israel scanned 6,214 live domains belonging to defense contractors, Fortune 500, and Big Tech companies. Of the 8,265 llms.txt and llms-full.txt...",
-      "url": "https://www.schneier.com/blog/archives/2026/09/ai-coding-agents-are-installing-unknown-untrusted-code-on-corporate-networks.html",
-      "date": "2026-09-04T10:35:17Z"
-    },
-    {
-      "title": "Over 440,000 Exploit Attempts Target Super Forms and Elementor Pro RCE Flaws",
-      "description": "[FEEDS] Threat actors are exploiting two critical security flaws in WordPress plugins Super Forms and Elementor Pro, according to findings from Wordfence. The vulnerabilities in question are - CVE-2026-14894 (CVSS score: 9.8) - A missing file type...",
-      "url": "https://thehackernews.com/2026/09/over-440000-exploit-attempts-target.html",
-      "date": "2026-09-04T08:48:45Z"
-    },
-    {
-      "title": "Plex Urges Immediate Updates After Patching Multiple Undisclosed Security Flaws",
-      "description": "[FEEDS] Plex is urging users to update their instances to the latest version following the release of an update that patches multiple security flaws. The fixes are available in Plex Media Server 1.43.3 and Plex Desktop 1.115.0. The streaming media service...",
-      "url": "https://thehackernews.com/2026/09/plex-urges-immediate-updates-after.html",
-      "date": "2026-09-04T07:35:14Z"
-    },
-    {
-      "title": "Google Releases Chrome Update to Patch Actively Exploited V8 Zero-Day",
-      "description": "[FEEDS] Google on Thursday released security updates to patch 12 vulnerabilities, including one that has come under active exploitation in the wild. The high-severity vulnerability, tracked as CVE-2026-85046 (CVSS score: 8.8), has been described as a type...",
-      "url": "https://thehackernews.com/2026/09/google-releases-chrome-update-to-patch.html",
-      "date": "2026-09-04T07:18:47Z"
-    },
-    {
-      "title": "GPT-6 Astra Scores 100% on ExploitBench as OpenAI Blocks PoC Exploit Requests",
-      "description": "[FEEDS] OpenAI on Thursday officially unveiled GPT\u20116 Astra, which it described as the \"world's most intelligent and aligned model.\" The development comes days after the artificial intelligence (AI) company said the model had reached the \"Critical\"...",
-      "url": "https://thehackernews.com/2026/09/gpt-6-astra-scores-100-on-exploitbench.html",
-      "date": "2026-09-04T06:47:52Z"
-    },
-    {
-      "title": "ISC Stormcast For Friday, September 4th, 2026 https://isc.sans.edu/podcastdetail/10082, (Fri, Sep 4th)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33310",
-      "date": "2026-09-04T02:00:02Z"
-    },
-    {
-      "title": "OpenAI rolls out powerful GPT-6 model with stronger safeguards amid rising AI cybersecurity fears",
-      "description": "[MALAY MAIL] SAN FRANCISCO, Sept 4 \u2014 ChatGPT maker OpenAI said yesterday it would begin rolling out its newest and most powerful artificial intelligence (AI) model to select customers,...",
-      "url": "https://www.malaymail.com/news/tech-gadgets/2026/09/04/openai-rolls-out-powerful-gpt-6-model-with-stronger-safeguards-amid-rising-ai-cybersecurity-fears/233838",
-      "date": "2026-09-04T01:25:12Z"
-    },
-    {
-      "title": "OpenAI commits $1 billion to cyberdefense effort amid AI safety scrutiny",
-      "description": "[THE STAR] Sept 3 (Reuters) - OpenAI said \u2060on Thursday it would commit $1 billion in subsidized access to \u2060its AI cybersecurity tools, training and technical support for organizations \u200cthat protect critical services, as concerns grow over increasingly...",
-      "url": "https://www.thestar.com.my/tech/tech-news/2026/09/04/openai-commits-1-billion-to-cyberdefense-effort-amid-ai-safety-scrutiny",
-      "date": "2026-09-04T00:22:00Z"
-    },
-    {
-      "title": "OpenAI launches GPT-6 Astra, and one founder thinks AGI is here",
-      "description": "[ANDROID AUTHORITY] OpenAI\u2019s new GPT-6 Astra model pushes further on coding and cybersecurity, while raising fresh safety questions.",
-      "url": "https://www.androidauthority.com/openai-launches-gpt-6-astra-3707374/",
-      "date": "2026-09-03T22:20:28Z"
-    },
-    {
-      "title": "North Little Rock will host annual conference on cybersecurity, emerging technologies, global threats",
-      "description": "[ARKANSAS ONLINE] Defending domestic computer networks and data from foreign attacks is at the center of this year's annual Forge Summit in North Little Rock.",
-      "url": "https://www.arkansasonline.com/news/2026/sep/03/north-little-rock-will-host-annual-conference-on/",
-      "date": "2026-09-03T22:20:00Z"
-    },
-    {
-      "title": "Hackers stopped attacking passwords. They're attacking your consent instead.",
-      "description": "[GIZMODO] Cybersecurity advice has been the same for two decades. Use a strong password. Turn on two-factor authentication. Change your credentials if something feels off. A new phishing wave that federal investigators are actively warning about does...",
-      "url": "https://gizmodo.com/hackers-stopped-attacking-passwords-theyre-attacking-your-consent-instead-2000806814",
-      "date": "2026-09-03T22:11:25Z"
-    },
-    {
-      "title": "French hospital fined \u20ac500,000 after breach exposes data of 727,000",
-      "description": "[BLEEPINGCOMPUTER] France's data protection authority (CNIL) has fined H\u00f4pital priv\u00e9 de la Loire \u20ac500,000 ($580,000) for failing to adequately protect patients' and their relatives' data. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/french-hospital-fined-500-000-after-breach-exposes-data-of-727-000/",
-      "date": "2026-09-03T22:01:37Z"
-    },
-    {
-      "title": "OpenAI commits $1 billion to cyberdefense effort amid AI safety scrutiny",
-      "description": "[LIVEMINT] TECH-AI/OPENAI-CYBERSECURITY:OpenAI commits $1 billion to cyberdefense effort amid AI safety scrutiny",
-      "url": "https://www.livemint.com/technology/openai-commits-1-billion-to-cyberdefense-effort-amid-ai-safety-scrutiny-11788471790655.html",
-      "date": "2026-09-03T21:43:10Z"
-    },
-    {
-      "title": "Coder's registry infrastructure compromised to push malicious modules",
-      "description": "[BLEEPINGCOMPUTER] Attackers compromised Coder's Cloudflare infrastructure and added unauthorized registry servers that delivered malicious Terraform modules containing credential-stealing code. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/coders-registry-infrastructure-compromised-to-push-malicious-modules/",
-      "date": "2026-09-03T20:04:24Z"
-    },
-    {
-      "title": "FBI investigates alleged breach of US IDs after hackers claim Hegseth driver\u2019s license",
-      "description": "[NEWSBREAK] The FBI is investigating a massive alleged cybersecurity breach of an ID verification company that\u2019s potentially exposed millions of scans of Americans\u2019 dr",
-      "url": "https://www.newsbreak.com/nbc-news-510074/4865510414133-fbi-investigates-alleged-breach-of-us-ids-after-hackers-claim-hegseth-driver-s-license",
-      "date": "2026-09-03T19:40:00Z"
-    },
-    {
-      "title": "FBI investigates alleged breach of IDs after hackers claim Hegseth driver\u2019s license",
-      "description": "[NEWSBREAK] The FBI is investigating an alleged cybersecurity breach of an ID verification company that potentially exposed millions of scans of driver\u2019s licenses \u2014 in",
-      "url": "https://www.newsbreak.com/nbc-news-510074/4865510414133-fbi-investigates-alleged-breach-of-ids-after-hackers-claim-hegseth-driver-s-license",
-      "date": "2026-09-03T19:40:00Z"
-    },
-    {
-      "title": "Abliteration.ai is making a business out of removing AI guardrails",
-      "description": "[TECHCRUNCH] Abliteration.AI is making powerful AI models without guardrails easier to access, arguing that giving defenders the same tools as bad actors could ultimately improve cybersecurity.",
-      "url": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/",
-      "date": "2026-09-03T18:37:57Z"
-    },
-    {
-      "title": "OpenAI to launch Astra with tougher safeguards after rogue agent incident",
-      "description": "[THE NEW INDIAN EXPRESS] The company has classified Astra as the first of its models to reach the critical cybersecurity capability threshold under its Preparedness Framework",
-      "url": "https://www.newindianexpress.com/lifestyle/tech/2026/Sep/03/openai-to-launch-astra-with-tougher-safeguards-after-rogue-agent-incident",
-      "date": "2026-09-03T18:34:51Z"
-    },
-    {
-      "title": "HPE patches critical ArubaOS-CX remote code execution flaw",
-      "description": "[BLEEPINGCOMPUTER] Hewlett Packard Enterprise (HPE) has patched a critical vulnerability in the ArubaOS-CX network operating system that could lead to remote code execution. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/hpe-patches-critical-arubaos-cx-remote-code-execution-flaw/",
-      "date": "2026-09-03T18:28:12Z"
-    },
-    {
-      "title": "ThreatsDay: CEO Phishing Kits, 5K Dropbox Account Hacks, OAuth Traps + 17 More Stories",
-      "description": "[FEEDS] The worst part is how normal these attacks look. A call from IT. A shared file. A trusted app. A simple request to click \u201cAllow.\u201d Why break in when someone might open the door? That idea runs through this edition. Attackers use real tools, fake...",
-      "url": "https://thehackernews.com/2026/09/threatsday-ceo-phishing-kits-5k-dropbox.html",
-      "date": "2026-09-03T18:02:47Z"
-    },
-    {
-      "title": "Critical Cisco Nexus 9000 Flaw Lets Unauthenticated Remote Attackers Run Code as Root",
-      "description": "[FEEDS] Cisco has released patches to address a critical security flaw affecting 10 Silicon One-based Nexus 9000 switches that could allow an unauthenticated, remote attacker to execute code as root, alongside an IOS XR hardening release bundling 7 umbrella...",
-      "url": "https://thehackernews.com/2026/09/critical-cisco-nexus-9000-flaw-lets.html",
-      "date": "2026-09-03T15:52:07Z"
-    },
-    {
-      "title": "Researching Employment Scams",
-      "description": "[SCHNEIER] Researchers built a fake company to study fake employee scams.",
-      "url": "https://www.schneier.com/blog/archives/2026/09/researching-employment-scams.html",
-      "date": "2026-09-03T11:18:14Z"
-    },
-    {
-      "title": "Honeypot-Omaha and batch.py &#x5b;Guest Diary&#x5d;, (Wed, Sep 2nd)",
-      "description": "[ISC] &#x5b;This is a Guest Diary by Frank Igbokwe, an ISC intern as part of the SANS.edu BACS program&#x5d;&#xd;",
-      "url": "https://isc.sans.edu/diary/rss/33306",
-      "date": "2026-09-03T02:02:56Z"
-    },
-    {
-      "title": "ISC Stormcast For Thursday, September 3rd, 2026 https://isc.sans.edu/podcastdetail/10080, (Thu, Sep 3rd)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33308",
-      "date": "2026-09-03T02:00:03Z"
-    },
-    {
-      "title": "AI Agents Are Now Emailing Me with Their Security Concerns",
-      "description": "[SCHNEIER] I received the two emails below earlier in the month. They&#8217;re vaguely coherent. I suppose I shouldn&#8217;t be surprised that the corpus that AIs are training on contain data suggesting that I am someone to write to with random computer and...",
-      "url": "https://www.schneier.com/blog/archives/2026/09/ai-agents-are-now-emailing-me-with-their-security-concerns.html",
-      "date": "2026-09-02T18:28:08Z"
-    },
-    {
-      "title": "Wireless Routers as Motion Detectors",
-      "description": "[SCHNEIER] Comcast has added motion detection as a feature to its wireless routers: The feature sends push notifications to users when motion is detected near a connected device, such as a TV or printer. It has different settings for when people are home,...",
-      "url": "https://www.schneier.com/blog/archives/2026/09/wireless-routers-as-motion-detectors.html",
-      "date": "2026-09-02T10:22:46Z"
-    },
-    {
-      "title": "ISC Stormcast For Wednesday, September 2nd, 2026 https://isc.sans.edu/podcastdetail/10078, (Wed, Sep 2nd)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33304",
-      "date": "2026-09-02T02:00:02Z"
-    },
-    {
-      "title": "Guildma (Astaroth) malware infection from Brazilian Portuguese email, (Tue, Sep 1st)",
-      "description": "[ISC] Introduction&#xd;",
-      "url": "https://isc.sans.edu/diary/rss/33300",
-      "date": "2026-09-01T21:30:18Z"
-    },
-    {
-      "title": "What\u2019s the Scam?",
-      "description": "[SCHNEIER] To subscribe to my monthly email newsletter, you have to enter your information on the webpage, and then reply to an automatically generated email. This is, of course, to prevent people from subscribing addresses other than their own. Starting last...",
-      "url": "https://www.schneier.com/blog/archives/2026/09/whats-the-scam.html",
-      "date": "2026-09-01T17:36:13Z"
-    },
-    {
-      "title": "ISC Stormcast For Tuesday, September 1st, 2026 https://isc.sans.edu/podcastdetail/10076, (Tue, Sep 1st)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33302",
-      "date": "2026-09-01T02:00:03Z"
-    }
-  ]
+    "title": "Sentinel Protocol",
+    "tagline": "Perimeter Intelligence Sync",
+    "updated": "2026-09-04 14:45 UTC",
+    "news": [
+        {
+            "source": {
+                "id": null,
+                "name": "BusinessLine"
+            },
+            "author": "PTI",
+            "title": "Thales, Bharat Forge subsidiary sign pact to explore 70-mm rocket systems",
+            "description": "The collaboration aims to create indigenous capabilities for domestic requirements and international opportunities while strengthening India-Belgium defence cooperation",
+            "url": "https://www.thehindubusinessline.com/companies/thales-bharat-forge-subsidiary-sign-pact-to-explore-70-mm-rocket-systems/article71424638.ece",
+            "urlToImage": "https://bl-i.thgim.com/public/todays-paper/tp-news/z6biff/article70106646.ece/alternates/LANDSCAPE_1200/US-phosphate-maGCQEURMHP.6.jpg.jpg",
+            "publishedAt": "2026-09-03T14:44:11Z",
+            "content": "Global defence major Thales and a subsidiary of Bharat Forge have signed a Strategic Alliance Agreement to explore collaboration on both unguided and laser-guided variants of Thales combat-proven 70-\u2026 [+4469 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PetaPixel"
+            },
+            "author": "Jeremy Gray",
+            "title": "Nvidia Goes All-In on Open AI Models, Buys Hugging Face for $12.93 Billion",
+            "description": "Nvidia has agreed to acquire New York City-based AI company Hugging Face for a whopping $12,930,300,000.\n[Read More]",
+            "url": "https://petapixel.com/2026/09/03/nvidia-goes-all-in-on-open-ai-models-buys-hugging-face-for-12-93-billion/",
+            "urlToImage": "https://petapixel.com/assets/uploads/2026/09/nvidia-hugging-face.jpg",
+            "publishedAt": "2026-09-03T14:38:27Z",
+            "content": "Nvidia has agreed to acquire New York City-based AI company Hugging Face for a whopping $12,930,300,000. \r\nHugging Face, which many describe as a sort of GitHub for AI models, is home to an expansive\u2026 [+2651 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Crypto Briefing"
+            },
+            "author": "Editorial Team",
+            "title": "OpenAI, Google oppose stricter Massachusetts AI safety rules backed by Anthropic",
+            "description": "The debate highlights the challenge of balancing innovation with regulation, potentially leading to fragmented AI policies across states.\nThe post OpenAI, Google oppose stricter Massachusetts AI safety rules backed by Anthropic appeared first on Crypto Briefi\u2026",
+            "url": "https://cryptobriefing.com/openai-google-oppose-massachusetts-ai-safety-rules/",
+            "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/03103426/library-openai-google-oppose-stricter-massachusetts-ai-safety-ru-800x450.png",
+            "publishedAt": "2026-09-03T14:34:29Z",
+            "content": "The three biggest AI labs are split on how aggressive state-level safety regulation should be, with billions in compliance costs and competitive positioning at stake. The AI industry\u2019s biggest player\u2026 [+2803 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BusinessLine"
+            },
+            "author": "Anjana C Shriram",
+            "title": "Broker\u2019s Call: Happiest Minds Tech (Buy)",
+            "description": "Broker's Call recommends buying Happiest Minds Tech, targeting \u20b9415, highlighting its strategic merger with ITC Infotech and growth potential.",
+            "url": "https://www.thehindubusinessline.com/markets/brokers-call-happiest-minds-tech-buy/article71419202.ece",
+            "urlToImage": "https://bl-i.thgim.com/public/incoming/yu0mx8/article71424595.ece/alternates/LANDSCAPE_1200/IMG_bl_hm.jpg_2_1_J8AP5K3I.jpg",
+            "publishedAt": "2026-09-03T14:30:56Z",
+            "content": "Target: 415\r\nCMP: 353.95\r\nHappiest Minds promoter Ashok Soota is divesting 22.1 per cent of his 44.2 per cent holding in the company across two tranches. Under the approved merger scheme, Happiest Mi\u2026 [+1387 chars]"
+        },
+        {
+            "source": {
+                "id": "financial-post",
+                "name": "Financial Post"
+            },
+            "author": "Bloomberg News",
+            "title": "Nvidia buys AI platform Hugging Face for US$13 billion",
+            "description": "Nvidia Corp. has agreed to acquire artificial intelligence startup Hugging Face in a transaction valued at about US$13 billion.\u00a0Read here",
+            "url": "https://financialpost.com/technology/tech-news/nvidia-buys-ai-platform-hugging-face",
+            "urlToImage": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/09/0904-mg-hugging-face.png",
+            "publishedAt": "2026-09-03T14:30:21Z",
+            "content": "Nvidia Corp. has agreed to acquire artificial intelligence startup Hugging Face in a transaction valued at about US$13 billion.\r\nTHIS CONTENT IS RESERVED FOR SUBSCRIBERS ONLY\r\nSubscribe now to read t\u2026 [+4910 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Biztoc.com"
+            },
+            "author": "thestreet.com",
+            "title": "Palo Alto CEO has urgent warning for anyone using AI",
+            "description": "One crazy thing I have learned from technology companies is that the first narrative is rarely the final one. Cybersecurity has proved that. When AI took the podium and every headline, the fear was that it would eat into the very businesses built to defend ag\u2026",
+            "url": "https://biztoc.com/x/594a74a65548fd2d",
+            "urlToImage": "https://biztoc.com/cdn/594a74a65548fd2d_s.webp",
+            "publishedAt": "2026-09-03T14:27:01Z",
+            "content": "One crazy thing I have learned from technology companies is that the first narrative is rarely the final one. Cybersecurity has proved that. When AI took the podium and every headline, the fear was t\u2026 [+137 chars]"
+        },
+        {
+            "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            "author": "Sead Fadilpa\u0161i\u0107",
+            "title": "Thomson Reuters hit by cyberattack that saw court documents across 11 states accessed by a hacker",
+            "description": "A threat actor accessed C-Track files, compromised a cloud environment, and accessed court records across 11 states.",
+            "url": "https://www.techradar.com/pro/security/thomson-reuters-hit-by-cyberattack-that-saw-court-documents-across-11-states-accessed-by-a-hacker",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/y7GLevUTEjLYdujEYsv668-2560-80.jpg",
+            "publishedAt": "2026-09-03T14:10:00Z",
+            "content": "<ul><li>Thomson Reuters confirmed March 2026 breach of its C\u2011Track court management system</li><li>Incident affected courts in 11 US states, Ontario, and the US Virgin Islands</li><li>No operational \u2026 [+2699 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "TechSpot"
+            },
+            "author": "Skye Jacobs",
+            "title": "A dark-web service marketed 153 million driver's license scans with the security images used to detect fake IDs",
+            "description": "The service, called Nexus, offered records for driver's licenses, ID cards, travel documents, medical cards, and other credentials. Krebs on Security reported that the FBI's New Orleans field office has opened an inquiry into an apparent breach involving Loui\u2026",
+            "url": "https://www.techspot.com/news/113720-dark-web-service-marketed-153-million-driver-license.html",
+            "urlToImage": "https://www.techspot.com/images2/news/bigimage/2026/09/2026-09-03-image-5.jpg",
+            "publishedAt": "2026-09-03T13:58:00Z",
+            "content": "What we know so far: A dark-web service that claimed to sell scans of more than 153 million US and Canadian driver's licenses has gone offline after Krebs on Security identified it. Before disappeari\u2026 [+4359 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Biztoc.com"
+            },
+            "author": "breakingthenews.net",
+            "title": "OpenAI to organize cybersecurity meeting",
+            "description": "OpenAI is organizing a meeting with 300 business cybersecurity leaders ahead of the announcement to expand access to its tools for critical infrastructure facilities, amid rising worries about AI-assi...",
+            "url": "https://biztoc.com/x/b857c8e9176d6167",
+            "urlToImage": "https://biztoc.com/cdn/b857c8e9176d6167_s.webp",
+            "publishedAt": "2026-09-03T13:56:19Z",
+            "content": "OpenAI is organizing a meeting with 300 business cybersecurity leaders ahead of the announcement to expand access to its tools for critical infrastructure facilities, amid rising worries about AI-ass\u2026 [+69 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Business Standard"
+            },
+            "author": "Bloomberg",
+            "title": "Nvidia buys AI platform Hugging Face from OpenAI in a $13 billion deal",
+            "description": "Buying Hugging Face is the biggest move yet in Nvidia Chief Executive Officer Jensen Huang's push to broaden the uptake of AI and extend his customer list.",
+            "url": "https://www.business-standard.com/companies/news/nvidia-buys-ai-platform-hugging-face-from-openai-in-a-13-billion-deal-126090301266_1.html",
+            "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-05/08/thumb/fitandfill/1200X628/1778225186-63.JPG",
+            "publishedAt": "2026-09-03T13:54:52Z",
+            "content": "Buying Hugging Face is the biggest move yet in Nvidia Chief Executive Officer Jensen Huang's push to broaden the uptake of AI and extend his customer list.\r\nNvidia (Photo: Reuters)\r\nBloomberg3 min re\u2026 [+3049 chars]"
+        }
+    ]
 }
