@@ -1,6 +1,60 @@
 {
-  "updated": "2026-09-04 08:19:02 UTC",
+  "updated": "2026-09-04 13:52:34 UTC",
   "news": [
+    {
+      "title": "New CrowdStrike 'FalconFlank' zero-day grants SYSTEM privileges",
+      "description": "[BLEEPINGCOMPUTER] An anonymous security researcher who uses the \"Nightmare Eclipse\" handle released a CrowdStrike Falcon zero-day exploit named \"FalconFlank\" that lets attackers escalate privileges on up-to-date Windows systems. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/new-crowdstrike-falconflank-zero-day-grants-system-privileges/",
+      "date": "2026-09-04T13:22:01Z"
+    },
+    {
+      "title": "Exchange Online outage causes email delays, 'Server busy' errors",
+      "description": "[BLEEPINGCOMPUTER] Microsoft is working to resolve an ongoing Exchange Online outage that is delaying email sent to and received from external domains. [...]",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/exchange-online-outage-causes-email-delays-server-busy-errors/",
+      "date": "2026-09-04T12:22:30Z"
+    },
+    {
+      "title": "Google warns of new Chrome zero-day flaw exploited in attacks",
+      "description": "[BLEEPINGCOMPUTER] Google has updated the Chrome browser to address an actively exploited high-severity zero-day flaw in the V8 engine and 11 other vulnerabilities. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/google-warns-of-new-chrome-zero-day-flaw-exploited-in-attacks/",
+      "date": "2026-09-04T11:48:17Z"
+    },
+    {
+      "title": "Security Vulnerability in a Voting System",
+      "description": "[SCHNEIER] It&#8217;s a vulnerability that allows someone to recover the order of ballots cast, newly exploited with AI tools. Nearly four years since the original vulnerability was disclosed, I was still able to use it to analyze voter behavior in Georgia...",
+      "url": "https://www.schneier.com/blog/archives/2026/09/security-vulnerability-in-a-voting-system.html",
+      "date": "2026-09-04T11:09:35Z"
+    },
+    {
+      "title": "AI Coding Agents Are Installing Unknown/Untrusted Code on Corporate Networks",
+      "description": "[SCHNEIER] We cannot forget that AI coding agents are not yet trustworthy: Researchers at a stealth startup in Israel scanned 6,214 live domains belonging to defense contractors, Fortune 500, and Big Tech companies. Of the 8,265 llms.txt and llms-full.txt...",
+      "url": "https://www.schneier.com/blog/archives/2026/09/ai-coding-agents-are-installing-unknown-untrusted-code-on-corporate-networks.html",
+      "date": "2026-09-04T10:35:17Z"
+    },
+    {
+      "title": "Over 440,000 Exploit Attempts Target Super Forms and Elementor Pro RCE Flaws",
+      "description": "[FEEDS] Threat actors are exploiting two critical security flaws in WordPress plugins Super Forms and Elementor Pro, according to findings from Wordfence. The vulnerabilities in question are - CVE-2026-14894 (CVSS score: 9.8) - A missing file type...",
+      "url": "https://thehackernews.com/2026/09/over-440000-exploit-attempts-target.html",
+      "date": "2026-09-04T08:48:45Z"
+    },
+    {
+      "title": "Plex Urges Immediate Updates After Patching Multiple Undisclosed Security Flaws",
+      "description": "[FEEDS] Plex is urging users to update their instances to the latest version following the release of an update that patches multiple security flaws. The fixes are available in Plex Media Server 1.43.3 and Plex Desktop 1.115.0. The streaming media service...",
+      "url": "https://thehackernews.com/2026/09/plex-urges-immediate-updates-after.html",
+      "date": "2026-09-04T07:35:14Z"
+    },
+    {
+      "title": "Google Releases Chrome Update to Patch Actively Exploited V8 Zero-Day",
+      "description": "[FEEDS] Google on Thursday released security updates to patch 12 vulnerabilities, including one that has come under active exploitation in the wild. The high-severity vulnerability, tracked as CVE-2026-85046 (CVSS score: 8.8), has been described as a type...",
+      "url": "https://thehackernews.com/2026/09/google-releases-chrome-update-to-patch.html",
+      "date": "2026-09-04T07:18:47Z"
+    },
+    {
+      "title": "GPT-6 Astra Scores 100% on ExploitBench as OpenAI Blocks PoC Exploit Requests",
+      "description": "[FEEDS] OpenAI on Thursday officially unveiled GPT\u20116 Astra, which it described as the \"world's most intelligent and aligned model.\" The development comes days after the artificial intelligence (AI) company said the model had reached the \"Critical\"...",
+      "url": "https://thehackernews.com/2026/09/gpt-6-astra-scores-100-on-exploitbench.html",
+      "date": "2026-09-04T06:47:52Z"
+    },
     {
       "title": "ISC Stormcast For Friday, September 4th, 2026 https://isc.sans.edu/podcastdetail/10082, (Fri, Sep 4th)",
       "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
@@ -8,10 +62,46 @@
       "date": "2026-09-04T02:00:02Z"
     },
     {
+      "title": "OpenAI rolls out powerful GPT-6 model with stronger safeguards amid rising AI cybersecurity fears",
+      "description": "[MALAY MAIL] SAN FRANCISCO, Sept 4 \u2014 ChatGPT maker OpenAI said yesterday it would begin rolling out its newest and most powerful artificial intelligence (AI) model to select customers,...",
+      "url": "https://www.malaymail.com/news/tech-gadgets/2026/09/04/openai-rolls-out-powerful-gpt-6-model-with-stronger-safeguards-amid-rising-ai-cybersecurity-fears/233838",
+      "date": "2026-09-04T01:25:12Z"
+    },
+    {
+      "title": "OpenAI commits $1 billion to cyberdefense effort amid AI safety scrutiny",
+      "description": "[THE STAR] Sept 3 (Reuters) - OpenAI said \u2060on Thursday it would commit $1 billion in subsidized access to \u2060its AI cybersecurity tools, training and technical support for organizations \u200cthat protect critical services, as concerns grow over increasingly...",
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/09/04/openai-commits-1-billion-to-cyberdefense-effort-amid-ai-safety-scrutiny",
+      "date": "2026-09-04T00:22:00Z"
+    },
+    {
+      "title": "OpenAI launches GPT-6 Astra, and one founder thinks AGI is here",
+      "description": "[ANDROID AUTHORITY] OpenAI\u2019s new GPT-6 Astra model pushes further on coding and cybersecurity, while raising fresh safety questions.",
+      "url": "https://www.androidauthority.com/openai-launches-gpt-6-astra-3707374/",
+      "date": "2026-09-03T22:20:28Z"
+    },
+    {
+      "title": "North Little Rock will host annual conference on cybersecurity, emerging technologies, global threats",
+      "description": "[ARKANSAS ONLINE] Defending domestic computer networks and data from foreign attacks is at the center of this year's annual Forge Summit in North Little Rock.",
+      "url": "https://www.arkansasonline.com/news/2026/sep/03/north-little-rock-will-host-annual-conference-on/",
+      "date": "2026-09-03T22:20:00Z"
+    },
+    {
+      "title": "Hackers stopped attacking passwords. They're attacking your consent instead.",
+      "description": "[GIZMODO] Cybersecurity advice has been the same for two decades. Use a strong password. Turn on two-factor authentication. Change your credentials if something feels off. A new phishing wave that federal investigators are actively warning about does...",
+      "url": "https://gizmodo.com/hackers-stopped-attacking-passwords-theyre-attacking-your-consent-instead-2000806814",
+      "date": "2026-09-03T22:11:25Z"
+    },
+    {
       "title": "French hospital fined \u20ac500,000 after breach exposes data of 727,000",
       "description": "[BLEEPINGCOMPUTER] France's data protection authority (CNIL) has fined H\u00f4pital priv\u00e9 de la Loire \u20ac500,000 ($580,000) for failing to adequately protect patients' and their relatives' data. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/french-hospital-fined-500-000-after-breach-exposes-data-of-727-000/",
       "date": "2026-09-03T22:01:37Z"
+    },
+    {
+      "title": "OpenAI commits $1 billion to cyberdefense effort amid AI safety scrutiny",
+      "description": "[LIVEMINT] TECH-AI/OPENAI-CYBERSECURITY:OpenAI commits $1 billion to cyberdefense effort amid AI safety scrutiny",
+      "url": "https://www.livemint.com/technology/openai-commits-1-billion-to-cyberdefense-effort-amid-ai-safety-scrutiny-11788471790655.html",
+      "date": "2026-09-03T21:43:10Z"
     },
     {
       "title": "Coder's registry infrastructure compromised to push malicious modules",
@@ -50,40 +140,10 @@
       "date": "2026-09-03T18:28:12Z"
     },
     {
-      "title": "OpenAI rolls out GPT-6 Astra, touting major AI performance gains",
-      "description": "[FOX BUSINESS] OpenAI said GPT-6 Astra features advances in coding, scientific research, cybersecurity and AI-powered computer use, allowing users to automate complex digital tasks more efficiently.",
-      "url": "https://www.foxbusiness.com/technology/openai-unveils-gpt-6-astra-major-advances-ai-capabilities",
-      "date": "2026-09-03T18:02:50Z"
-    },
-    {
       "title": "ThreatsDay: CEO Phishing Kits, 5K Dropbox Account Hacks, OAuth Traps + 17 More Stories",
       "description": "[FEEDS] The worst part is how normal these attacks look. A call from IT. A shared file. A trusted app. A simple request to click \u201cAllow.\u201d Why break in when someone might open the door? That idea runs through this edition. Attackers use real tools, fake...",
       "url": "https://thehackernews.com/2026/09/threatsday-ceo-phishing-kits-5k-dropbox.html",
       "date": "2026-09-03T18:02:47Z"
-    },
-    {
-      "title": "OpenAI's Astra Is Here: What to Know About GPT",
-      "description": "[CNET] The new model comes with a staggered rollout and strict cybersecurity protections.",
-      "url": "https://www.cnet.com/tech/services-and-software/openai-gpt-6-astra-release-ai-agi-chatgpt/",
-      "date": "2026-09-03T18:00:20Z"
-    },
-    {
-      "title": "OpenAI announces rollout of GPT-6 Astra model",
-      "description": "[CNBC] OpenAI said companies participating in its application-based cybersecurity program will be first to get access to Astra.",
-      "url": "https://www.cnbc.com/2026/09/03/open-ai-astra-gpt-6-cyber.html",
-      "date": "2026-09-03T18:00:02Z"
-    },
-    {
-      "title": "OpenAI debuts GPT-6 Astra, says it triggered security measures",
-      "description": "[NBC NEWS] The AI giant says its new model better follows user intent and crosses a critical frontier for cybersecurity capabilities.",
-      "url": "https://www.nbcnews.com/tech/tech-news/openai-debuts-gpt-6-astra-security-measures-rcna595940",
-      "date": "2026-09-03T18:00:00Z"
-    },
-    {
-      "title": "Focus on employability, Delhi-centric research: LG to state varsities",
-      "description": "[TIMES OF INDIA] Delhi LG Taranjit Singh Sandhu urges state universities to boost AI and cybersecurity skilling, international ties, Delhi-centric research, placements and hiring.",
-      "url": "https://timesofindia.indiatimes.com/city/delhi/focus-on-employability-delhi-centric-research-lg-to-state-varsities/articleshow/133743635.cms",
-      "date": "2026-09-03T17:56:00Z"
     },
     {
       "title": "Critical Cisco Nexus 9000 Flaw Lets Unauthenticated Remote Attackers Run Code as Root",
@@ -92,52 +152,10 @@
       "date": "2026-09-03T15:52:07Z"
     },
     {
-      "title": "BraZetsu Malware Turns Compromised Windows Hosts Into Criminal Marketplace Inventory",
-      "description": "[FEEDS] Cybersecurity researchers have disclosed details of a sophisticated Python-based Windows malware framework called BraZetsu that fuels an underground marketplace commercializing access to compromised hosts. \"Unlike the standard infostealer model,...",
-      "url": "https://thehackernews.com/2026/09/brazetsu-malware-turns-compromised.html",
-      "date": "2026-09-03T15:26:47Z"
-    },
-    {
-      "title": "Microsoft: KB5120998 mouse reset bug affects only non-English PCs",
-      "description": "[BLEEPINGCOMPUTER] Microsoft says a known issue that reverts mouse settings after installing the KB5120998 August 2026 preview update affects only non-English Windows 11 systems. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-kb5120998-mouse-reset-bug-affects-only-non-english-pcs/",
-      "date": "2026-09-03T15:22:33Z"
-    },
-    {
-      "title": "OpenAI confirms ChatGPT is down ahead of 'Astra' model launch",
-      "description": "[BLEEPINGCOMPUTER] ChatGPT and Codex are experiencing a major outage, with users reporting errors across nearly every major ChatGPT feature. [...]",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-ahead-of-astra-model-launch/",
-      "date": "2026-09-03T15:13:29Z"
-    },
-    {
-      "title": "Anthropic confirms Claude is down, multiple models affected",
-      "description": "[BLEEPINGCOMPUTER] Claude is experiencing an outage, with users encountering elevated errors when sending requests to multiple Anthropic AI models. [...]",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-multiple-models-affected/",
-      "date": "2026-09-03T15:02:52Z"
-    },
-    {
-      "title": "Thomson Reuters Court Software Breach May Have Exposed SSNs and Sealed Data",
-      "description": "[FEEDS] Thomson Reuters disclosed on Wednesday that an unauthorized party obtained files from C-Track, the court case management platform sold by its West Publishing Corporation unit, in March 2026, affecting courts in 11 U.S. states, the U.S. Virgin...",
-      "url": "https://thehackernews.com/2026/09/thomson-reuters-court-software-breach.html",
-      "date": "2026-09-03T14:39:05Z"
-    },
-    {
-      "title": "US Becomes Top Target in RMM Phishing Campaign Spanning 46 Countries",
-      "description": "[FEEDS] An RMM phishing campaign initially associated with Canadian targeting due to its use of Canada Revenue Agency (CRA) tax forms as lures has turned out to be part of a broader campaign spanning 46 countries. Around 45% of observed activity was...",
-      "url": "https://thehackernews.com/2026/09/us-becomes-top-target-in-rmm-phishing.html",
-      "date": "2026-09-03T11:58:00Z"
-    },
-    {
       "title": "Researching Employment Scams",
       "description": "[SCHNEIER] Researchers built a fake company to study fake employee scams.",
       "url": "https://www.schneier.com/blog/archives/2026/09/researching-employment-scams.html",
       "date": "2026-09-03T11:18:14Z"
-    },
-    {
-      "title": "Attackers Turn Trusted Node.js Runtime Into Malware Delivery Tool in Targeted Attacks",
-      "description": "[FEEDS] Threat actors are leveraging the trusted Node.js JavaScript runtime in multiple cyber attacks as a way to deploy malicious payloads. According to a new report published by the Symantec Threat Hunter Team today, the attack method has been put to use...",
-      "url": "https://thehackernews.com/2026/09/attackers-turn-trusted-nodejs-runtime.html",
-      "date": "2026-09-03T10:43:01Z"
     },
     {
       "title": "Honeypot-Omaha and batch.py &#x5b;Guest Diary&#x5d;, (Wed, Sep 2nd)",
@@ -180,18 +198,6 @@
       "description": "[SCHNEIER] To subscribe to my monthly email newsletter, you have to enter your information on the webpage, and then reply to an automatically generated email. This is, of course, to prevent people from subscribing addresses other than their own. Starting last...",
       "url": "https://www.schneier.com/blog/archives/2026/09/whats-the-scam.html",
       "date": "2026-09-01T17:36:13Z"
-    },
-    {
-      "title": "Leaked Russian Cyber-Operations Training Materials",
-      "description": "[SCHNEIER] This is interesting: The records describe a force-generation mechanism for several General Staff components, including the GRU, Main Operational Directorate, and 8th Directorate, which is associated with protected communications, cryptography, and...",
-      "url": "https://www.schneier.com/blog/archives/2026/09/leaked-russian-cyber-operations-training-materials.html",
-      "date": "2026-09-01T16:29:10Z"
-    },
-    {
-      "title": "Rewiring Democracy Series on The Renovator",
-      "description": "[SCHNEIER] Nathan E. Sanders and I are writing a series of essays on real-world examples of democratic technologies for The Renovator. I haven&#8217;t been posting the full text on the blog because they&#8217;re a bit long, but here are links. Part 1 is about...",
-      "url": "https://www.schneier.com/blog/archives/2026/09/rewiring-democracy-series-on-the-renovator.html",
-      "date": "2026-09-01T09:59:07Z"
     },
     {
       "title": "ISC Stormcast For Tuesday, September 1st, 2026 https://isc.sans.edu/podcastdetail/10076, (Tue, Sep 1st)",
