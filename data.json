@@ -1,6 +1,12 @@
 {
-  "updated": "2026-09-05 19:42:39 UTC",
+  "updated": "2026-09-05 21:47:38 UTC",
   "news": [
+    {
+      "title": "Unpatched Magento and Adobe Commerce Zero-Day Exploited to Backdoor Online Stores",
+      "description": "[FEEDS] Attackers are exploiting a new unpatched vulnerability in Magento Open Source and Adobe Commerce that lets them run malicious code on an online store's server without logging in, Dutch e-commerce security company Sansec said in an&nbsp;advisory...",
+      "url": "https://thehackernews.com/2026/09/unpatched-magento-and-adobe-commerce.html",
+      "date": "2026-09-05T20:14:47Z"
+    },
     {
       "title": "Attackers Breached JetBrains Cadence via Unpatched TeamCity, Extracting AWS Credentials",
       "description": "[FEEDS] JetBrains is urging Cadence users to revoke and rotate all credentials following a security incident last month in which unidentified threat actors exploited a recently disclosed critical vulnerability in TeamCity to breach its own environment....",
@@ -30,6 +36,18 @@
       "description": "[BLEEPINGCOMPUTER] OpenAI admits it did not disclose an incident where autonomous AI agents hijacked a German wiki, created 18,000 posts, shared answers, and bypassed restrictions, saying it treated the activity as model \"misalignment\" rather than a security breach....",
       "url": "https://www.bleepingcomputer.com/news/security/openai-admits-it-didnt-disclose-rogue-ai-wiki-hijacking-incident/",
       "date": "2026-09-05T11:11:50Z"
+    },
+    {
+      "title": "Hackers leak nearly 6TB of sensitive Berlin government data",
+      "description": "[THE NEWS INTERNATIONAL] The ransomware group Rhysida has published nearly six terabytes of data stolen from Berlin's state administration on the dark web, spanning close to 1.44 million files, after city officials refused...",
+      "url": "https://www.thenews.com.pk/latest/1414966-hackers-just-dumped-6tb-of-berlin-government-data-online",
+      "date": "2026-09-05T09:39:36Z"
+    },
+    {
+      "title": "OpenAI plans new AI misalignment reporting framework after German wiki incident",
+      "description": "[THE NEWS INTERNATIONAL] OpenAI has responded to growing incidents of cybersecurity breach where the agentic AI models autonomously went rogue and wreaked havoc. On Friday, another incident came to surface where a swarm of...",
+      "url": "https://www.thenews.com.pk/latest/1414959-openai-plans-new-ai-misalignment-reporting-framework-after-german-wiki-incident",
+      "date": "2026-09-05T08:55:00Z"
     },
     {
       "title": "Thousands of OpenAI Agents Quietly Turned an Abandoned Wiki Into Their Coordination Channel",
@@ -104,18 +122,6 @@
       "date": "2026-09-04T18:10:00Z"
     },
     {
-      "title": "Dallas LGBTQ center hit by data breach",
-      "description": "[THE DALLAS MORNING NEWS] Dallas LGBTQ data breach may have exposed medical, financial information for thousands",
-      "url": "https://www.dallasnews.com/business/health-care/article/dallas-lgbtq-center-hit-data-breach-22417947.php",
-      "date": "2026-09-04T17:26:27Z"
-    },
-    {
-      "title": "OpenAI Puts $1 Billion Behind Cybersecurity Effort. Water, Power and Local Governments Are the First Line of Defense.",
-      "description": "[INTERNATIONAL BUSINESS TIMES] Company President Greg Brockman unveiled the initiative during a cybersecurity summit at the company's headquarters.",
-      "url": "https://www.ibtimes.com/openai-puts-1-billion-behind-cybersecurity-effort-water-power-local-governments-are-first-line-3807159",
-      "date": "2026-09-04T17:20:19Z"
-    },
-    {
       "title": "IDScan sued over alleged data breach affecting 153 million drivers",
       "description": "[BLEEPINGCOMPUTER] Multiple lawsuits have been filed against identity verification company IDScan after hackers allegedly breached the service and offered to sell more than 153 million driver's licenses. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/idscan-sued-over-alleged-data-breach-affecting-153-million-drivers/",
@@ -126,12 +132,6 @@
       "description": "[SCHNEIER] It won&#8217;t work: My suspicion was that GPT 5.6-Cyber would succeed, but the frequency and manner of its success removed all doubt. We have to reassess sandboxing quality for capable AI agents, and in general the software stack with which they...",
       "url": "https://www.schneier.com/blog/archives/2026/09/using-a-vm-to-contain-an-ai-agent.html",
       "date": "2026-09-04T16:31:38Z"
-    },
-    {
-      "title": "Phishing Campaign Sends Millions of Emails Using Invisible Unicode to Evade Filters",
-      "description": "[FEEDS] Microsoft is alerting of a \"high-volume phishing campaign\" that's using invisible Unicode tag characters to bypass email filters. \"Instead of using these characters to hide instructions from people while exposing them to AI models, the attacker used...",
-      "url": "https://thehackernews.com/2026/09/phishing-campaign-sends-millions-of.html",
-      "date": "2026-09-04T15:57:15Z"
     },
     {
       "title": "Critical Citrix NetScaler auth bypass now leveraged in attacks",
