@@ -1,6 +1,30 @@
 {
-  "updated": "2026-09-05 14:14:24 UTC",
+  "updated": "2026-09-05 17:48:12 UTC",
   "news": [
+    {
+      "title": "Attackers Breached JetBrains Cadence via Unpatched TeamCity, Extracting AWS Credentials",
+      "description": "[FEEDS] JetBrains is urging Cadence users to revoke and rotate all credentials following a security incident last month in which unidentified threat actors exploited a recently disclosed critical vulnerability in TeamCity to breach its own environment....",
+      "url": "https://thehackernews.com/2026/09/attackers-breached-jetbrains-cadence.html",
+      "date": "2026-09-05T16:52:33Z"
+    },
+    {
+      "title": "Critical VMware Workstation and Fusion Flaw Lets VM Admins Execute Host Code",
+      "description": "[FEEDS] Broadcom has released security updates for two security flaws impacting VMware Workstation and Fusion, including one critical bug that could result in arbitrary code execution under certain conditions. The vulnerability, tracked as CVE-2026-59346...",
+      "url": "https://thehackernews.com/2026/09/critical-vmware-workstation-and-fusion.html",
+      "date": "2026-09-05T16:05:08Z"
+    },
+    {
+      "title": "Over 5,400 hacked sites serve ClickFix payloads stored on the blockchain",
+      "description": "[BLEEPINGCOMPUTER] A massive cybercriminal operation is leveraging thousands of compromised small-business websites to deliver ClickFix payloads stored in smart contracts on the BNB Smart Chain (BSC). [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/over-5-400-hacked-sites-serve-clickfix-payloads-stored-on-the-blockchain/",
+      "date": "2026-09-05T14:29:13Z"
+    },
+    {
+      "title": "Trezor Says ShipMonk Breach Exposed 67,000 U.S. Customers' Data It Said Was Deleted",
+      "description": "[FEEDS] Hardware wallet manufacturer Trezor on Friday disclosed that another 67,000 customers from the U.S. have been impacted in a breach at its shipping provider ShipMonk. The exposed information includes customer names, email addresses, phone numbers,...",
+      "url": "https://thehackernews.com/2026/09/trezor-says-shipmonk-breach-exposed.html",
+      "date": "2026-09-05T14:17:02Z"
+    },
     {
       "title": "OpenAI admits it didn't disclose rogue AI wiki hijacking incident",
       "description": "[BLEEPINGCOMPUTER] OpenAI admits it did not disclose an incident where autonomous AI agents hijacked a German wiki, created 18,000 posts, shared answers, and bypassed restrictions, saying it treated the activity as model \"misalignment\" rather than a security breach....",
@@ -20,10 +44,22 @@
       "date": "2026-09-05T07:31:53Z"
     },
     {
+      "title": "OpenAI says new GPT-6 Astra model can detect high-severity security flaws",
+      "description": "[THE NATION] US-based artificial intelligence company OpenAI introduced GPT-6 Astra on Thursday, saying its new flagship model can identify high-severity cybersecurity",
+      "url": "https://www.nation.com.pk/05-Sep-2026/openai-says-new-gpt-6-astra-model-can-detect-high-severity-security-flaws",
+      "date": "2026-09-05T05:42:23Z"
+    },
+    {
       "title": "numbat - AI agent observability, (Fri, Sep 4th)",
       "description": "[ISC] &#xd;",
       "url": "https://isc.sans.edu/diary/rss/33312",
       "date": "2026-09-05T03:39:52Z"
+    },
+    {
+      "title": "India-Poland ties see \"solid\" report card as two nations finalise new agreements: EAM Jaishankar",
+      "description": "[THE ECONOMIC TIMES] India and Poland are strengthening their strategic partnership through new agreements. Discussions covered cybersecurity, space, and critical minerals cooperation between the nations. Bilateral trade and investments have seen a significant uptick,...",
+      "url": "https://economictimes.indiatimes.com/news/india/india-poland-ties-see-solid-report-card-as-two-nations-finalise-new-agreements-eam-jaishankar/articleshow/133785105.cms",
+      "date": "2026-09-05T03:28:00Z"
     },
     {
       "title": "NFRA sets up advisory committee on audit quality and technology",
@@ -80,12 +116,6 @@
       "date": "2026-09-04T17:20:19Z"
     },
     {
-      "title": "Trezor Confirms Data Breach Impacts 67K More U.S. Customers",
-      "description": "[CRYPTO BREAKING NEWS] Trezor says the fallout from a data breach linked to its fulfillment processes is wider than it previously estimated. In an updated message posted to X on",
-      "url": "https://www.cryptobreaking.com/trezor-confirms-data-breach-impacts/",
-      "date": "2026-09-04T17:03:28Z"
-    },
-    {
       "title": "IDScan sued over alleged data breach affecting 153 million drivers",
       "description": "[BLEEPINGCOMPUTER] Multiple lawsuits have been filed against identity verification company IDScan after hackers allegedly breached the service and offered to sell more than 153 million driver's licenses. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/idscan-sued-over-alleged-data-breach-affecting-153-million-drivers/",
@@ -104,28 +134,10 @@
       "date": "2026-09-04T15:57:15Z"
     },
     {
-      "title": "Warning Trezor breach exposes 67,000 more US crypto users",
-      "description": "[FINBOLD] Trezor has reported a major data breach following a compromise of the system of one of its shipping companies, impacting over 80,000 users.",
-      "url": "https://finbold.com/warning-trezor-breach-exposes-67000-more-us-crypto-users/",
-      "date": "2026-09-04T15:53:27Z"
-    },
-    {
       "title": "Critical Citrix NetScaler auth bypass now leveraged in attacks",
       "description": "[BLEEPINGCOMPUTER] Attackers have begun targeting a critical-severity Citrix NetScaler auth bypass flaw (CVE-2026-19490) in the wild, according to vulnerability intelligence company Previdian. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-target-critical-citrix-netscaler-auth-bypass-in-attacks/",
       "date": "2026-09-04T15:25:59Z"
-    },
-    {
-      "title": "PostgreSQL Fixes 12-Year-Old Logical Decoding Flaw Enabling Replication-Role Code Execution",
-      "description": "[FEEDS] PostgreSQL has released updates to address a security flaw that allows an account with the REPLICATION attribute to run arbitrary code as the operating-system user running the database server. The flaw, tracked as CVE-2026-6471 (CVSS score: 7.2),...",
-      "url": "https://thehackernews.com/2026/09/postgresql-fixes-12-year-old-logical.html",
-      "date": "2026-09-04T15:20:19Z"
-    },
-    {
-      "title": "New Ted Backdoor Hides Inside Victims' Own HAProxy Builds to Intercept Web Traffic",
-      "description": "[FEEDS] A previously undocumented Linux toolkit has been found compiled directly into the trojanized HAProxy load balancers of two South Korean organizations, where it intercepted web traffic and served altered pages to selected visitors. The attackers...",
-      "url": "https://thehackernews.com/2026/09/new-ted-backdoor-hides-inside-victims.html",
-      "date": "2026-09-04T14:51:13Z"
     },
     {
       "title": "Microsoft says some users can\u2019t open the Teams desktop client",
@@ -140,12 +152,6 @@
       "date": "2026-09-04T14:01:11Z"
     },
     {
-      "title": "New CrowdStrike 'FalconFlank' zero-day grants SYSTEM privileges",
-      "description": "[BLEEPINGCOMPUTER] An anonymous security researcher who uses the \"Nightmare Eclipse\" handle released a CrowdStrike Falcon zero-day exploit named \"FalconFlank\" that lets attackers escalate privileges on up-to-date Windows systems. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/new-crowdstrike-falconflank-zero-day-grants-system-privileges/",
-      "date": "2026-09-04T13:22:01Z"
-    },
-    {
       "title": "Security Vulnerability in a Voting System",
       "description": "[SCHNEIER] It&#8217;s a vulnerability that allows someone to recover the order of ballots cast, newly exploited with AI tools. Nearly four years since the original vulnerability was disclosed, I was still able to use it to analyze voter behavior in Georgia...",
       "url": "https://www.schneier.com/blog/archives/2026/09/security-vulnerability-in-a-voting-system.html",
@@ -156,12 +162,6 @@
       "description": "[SCHNEIER] We cannot forget that AI coding agents are not yet trustworthy: Researchers at a stealth startup in Israel scanned 6,214 live domains belonging to defense contractors, Fortune 500, and Big Tech companies. Of the 8,265 llms.txt and llms-full.txt...",
       "url": "https://www.schneier.com/blog/archives/2026/09/ai-coding-agents-are-installing-unknown-untrusted-code-on-corporate-networks.html",
       "date": "2026-09-04T10:35:17Z"
-    },
-    {
-      "title": "Over 440,000 Exploit Attempts Target Super Forms and Elementor Pro RCE Flaws",
-      "description": "[FEEDS] Threat actors are exploiting two critical security flaws in WordPress plugins Super Forms and Elementor Pro, according to findings from Wordfence. The vulnerabilities in question are - CVE-2026-14894 (CVSS score: 9.8) - A missing file type...",
-      "url": "https://thehackernews.com/2026/09/over-440000-exploit-attempts-target.html",
-      "date": "2026-09-04T08:48:45Z"
     },
     {
       "title": "ISC Stormcast For Friday, September 4th, 2026 https://isc.sans.edu/podcastdetail/10082, (Fri, Sep 4th)",
