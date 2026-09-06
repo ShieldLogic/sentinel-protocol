@@ -1,6 +1,12 @@
 {
-  "updated": "2026-09-06 19:45:54 UTC",
+  "updated": "2026-09-06 21:50:56 UTC",
   "news": [
+    {
+      "title": "Critical MikroTik Vulnerability - Patch Now, (Sun, Sep 6th)",
+      "description": "[ISC] Mikrotik released a patch late last week for an already-exploited vulnerability. The vulnerability allows an SSH authentication bypass and is already being exploited. At this point, assume compromise. Attackers have been adding new accounts to...",
+      "url": "https://isc.sans.edu/diary/rss/33314",
+      "date": "2026-09-06T21:43:17Z"
+    },
     {
       "title": "Attackers conceal phishing lures using invisible Unicode characters",
       "description": "[BLEEPINGCOMPUTER] Threat actors have adopted the ASCII smuggling technique in phishing campaigns, using invisible Unicode characters to evade email security filters. [...]",
@@ -192,12 +198,6 @@
       "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
       "url": "https://isc.sans.edu/diary/rss/33304",
       "date": "2026-09-02T02:00:02Z"
-    },
-    {
-      "title": "Guildma (Astaroth) malware infection from Brazilian Portuguese email, (Tue, Sep 1st)",
-      "description": "[ISC] Introduction&#xd;",
-      "url": "https://isc.sans.edu/diary/rss/33300",
-      "date": "2026-09-01T21:30:18Z"
     }
   ]
 }
