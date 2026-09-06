@@ -1,203 +1,137 @@
 {
-  "updated": "2026-09-06 11:49:48 UTC",
-  "news": [
-    {
-      "title": "Attackers Hijack MikroTik Routers Through Internet-Exposed SSH Without Authentication",
-      "description": "[FEEDS] Attackers are exploiting MikroTik routers with their Secure Shell (SSH) remote-access service, which is reachable from the internet, to gain full administrative control without authentication, according to&nbsp;CERT Polska's attack warning,...",
-      "url": "https://thehackernews.com/2026/09/attackers-hijack-mikrotik-routers.html",
-      "date": "2026-09-06T09:32:38Z"
-    },
-    {
-      "title": "Four REVSTEALER-Linked Modules Disable Windows Update and Defender to Run a Crypto Miner",
-      "description": "[FEEDS] Elastic Security Labs has documented four previously unreported programs associated with REVSTEALER, an emerging Windows information stealer, that remain on an infected machine after the stealer deletes itself. One of them switches off Windows...",
-      "url": "https://thehackernews.com/2026/09/four-revstealer-linked-modules-disable.html",
-      "date": "2026-09-06T08:34:20Z"
-    },
-    {
-      "title": "Unpatched Magento and Adobe Commerce Zero-Day Exploited to Backdoor Online Stores",
-      "description": "[FEEDS] Attackers are exploiting a new unpatched vulnerability in Magento Open Source and Adobe Commerce that lets them run malicious code on an online store's server without logging in, Dutch e-commerce security company Sansec said in an&nbsp;advisory...",
-      "url": "https://thehackernews.com/2026/09/unpatched-magento-and-adobe-commerce.html",
-      "date": "2026-09-05T20:14:47Z"
-    },
-    {
-      "title": "Karnataka\u2019s proposed AI university to launch skilling programmes ahead of establishment",
-      "description": "[TIMES OF INDIA] Karnataka\u2019s proposed AI University will launch AI skilling programmes\u2014certificates, diplomas and reskilling\u2014in generative AI, cloud, cybersecurity and more.",
-      "url": "https://timesofindia.indiatimes.com/city/bengaluru/karnatakas-proposed-ai-university-to-launch-skilling-programmes-ahead-of-establishment/articleshow/133811994.cms",
-      "date": "2026-09-05T18:18:00Z"
-    },
-    {
-      "title": "Rajasthan Police issue advisory on securing Wi",
-      "description": "[LOKMAT TIMES] Rajasthan Police issue advisory on securing Wi-Fi networks - Jaipur, Sep 5 In its effort to curb cybercrime and strengthen public awareness about cybersecurity, the Cyber Crime Branch, ... Get Latest News on National only on lokmattimes.com",
-      "url": "https://www.lokmattimes.com/national/rajasthan-police-issue-advisory-on-securing-wi-fi-networks/",
-      "date": "2026-09-05T17:30:55Z"
-    },
-    {
-      "title": "Attackers Breached JetBrains Cadence via Unpatched TeamCity, Extracting AWS Credentials",
-      "description": "[FEEDS] JetBrains is urging Cadence users to revoke and rotate all credentials following a security incident last month in which unidentified threat actors exploited a recently disclosed critical vulnerability in TeamCity to breach its own environment....",
-      "url": "https://thehackernews.com/2026/09/attackers-breached-jetbrains-cadence.html",
-      "date": "2026-09-05T16:52:33Z"
-    },
-    {
-      "title": "Berlin launches crisis response after hackers publish stolen data",
-      "description": "[THE STRAITS TIMES] BERLIN, Sept 5 - Berlin's state government said on Saturday it was reviewing with the highest intensity a trove of stolen data published by a ransomware group, as investigators attempt to assess the scale and impact of the cyberattack that targeted...",
-      "url": "https://www.straitstimes.com/world/europe/berlin-launches-crisis-response-after-hackers-publish-stolen-data",
-      "date": "2026-09-05T16:46:35Z"
-    },
-    {
-      "title": "Identity: PH\u2019s giant cybersecurity blind spot",
-      "description": "[THE MANILA TIMES] THE PHILIPPINES has one of the region\u2019s stricter breach-disclosure regimes on paper. Under the Data Privacy Act, personal information controllers must notify the National Privacy Commission within 72 hours of discovering a breach likely to cause...",
-      "url": "https://www.manilatimes.net/2026/09/06/business/sunday-business-it/identity-phs-giant-cybersecurity-blind-spot/2419158",
-      "date": "2026-09-05T16:07:00Z"
-    },
-    {
-      "title": "Critical VMware Workstation and Fusion Flaw Lets VM Admins Execute Host Code",
-      "description": "[FEEDS] Broadcom has released security updates for two security flaws impacting VMware Workstation and Fusion, including one critical bug that could result in arbitrary code execution under certain conditions. The vulnerability, tracked as CVE-2026-59346...",
-      "url": "https://thehackernews.com/2026/09/critical-vmware-workstation-and-fusion.html",
-      "date": "2026-09-05T16:05:08Z"
-    },
-    {
-      "title": "\u2018No amount of cybersecurity is enough unless India develops its own AI\u2019: Gaganyaan astronaut Prasanth Balakrishnan",
-      "description": "[MALAYALA MANORAMA] Air Commodore Prashanth Nair stressed India needs sovereign AI for future wars where physical and digital realms blur..sovereign AI capability, India AI, Prashanth Balakrishnan Nair, Kerala Cyber Security Summit, cyber warfare, digital security,...",
-      "url": "https://www.onmanorama.com/news/kerala/2026/09/05/no-amount-of-cybersecurity-is-enough-unless-india-develops-its-own-ai-gaganyaan-astronaut-prasanth-balakrishnan.html",
-      "date": "2026-09-05T15:00:21Z"
-    },
-    {
-      "title": "Over 5,400 hacked sites serve ClickFix payloads stored on the blockchain",
-      "description": "[BLEEPINGCOMPUTER] A massive cybercriminal operation is leveraging thousands of compromised small-business websites to deliver ClickFix payloads stored in smart contracts on the BNB Smart Chain (BSC). [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/over-5-400-hacked-sites-serve-clickfix-payloads-stored-on-the-blockchain/",
-      "date": "2026-09-05T14:29:13Z"
-    },
-    {
-      "title": "Trezor Says ShipMonk Breach Exposed 67,000 U.S. Customers' Data It Said Was Deleted",
-      "description": "[FEEDS] Hardware wallet manufacturer Trezor on Friday disclosed that another 67,000 customers from the U.S. have been impacted in a breach at its shipping provider ShipMonk. The exposed information includes customer names, email addresses, phone numbers,...",
-      "url": "https://thehackernews.com/2026/09/trezor-says-shipmonk-breach-exposed.html",
-      "date": "2026-09-05T14:17:02Z"
-    },
-    {
-      "title": "OpenAI\u2019s GPT-6 Astra: Why experts question new 'reasoning' model",
-      "description": "[TECHRADAR] As OpenAI unveils GPT-6 Astra, cybersecurity experts question whether the model's 'recurrent depth' reasoning was properly tested.",
-      "url": "https://www.techradar.com/pro/security/why-is-there-so-much-worry-about-openai-astra-and-what-issues-could-recurrent-depth-reasoning-cause-the-experts-weigh-in",
-      "date": "2026-09-05T13:30:00Z"
-    },
-    {
-      "title": "Gaganyaan astronaut has a warning about India's AI sovereignty",
-      "description": "[NEWSBYTES] Gaganyaan astronaut Prasanth Balakrishnan Nair emphasized the importance of AI sovereignty to combat challenges posed by fake content and safeguard national cybersecurity.",
-      "url": "https://www.newsbytesapp.com/news/science/ai-sovereignty-critical-for-national-cybersecurity-gaganyaan-astronaut/story",
-      "date": "2026-09-05T12:08:25Z"
-    },
-    {
-      "title": "Meet the CISO: A new front line star in the AI cybersecurity war",
-      "description": "[CNBC] The OpenAI-Hugging Face agent hack sent shockwaves through the business world and helped put the chief information security officer into the spotlight.",
-      "url": "https://www.cnbc.com/2026/09/05/ai-cybersecurity-ciso-executive.html",
-      "date": "2026-09-05T12:00:01Z"
-    },
-    {
-      "title": "OpenAI admits it didn't disclose rogue AI wiki hijacking incident",
-      "description": "[BLEEPINGCOMPUTER] OpenAI admits it did not disclose an incident where autonomous AI agents hijacked a German wiki, created 18,000 posts, shared answers, and bypassed restrictions, saying it treated the activity as model \"misalignment\" rather than a security breach....",
-      "url": "https://www.bleepingcomputer.com/news/security/openai-admits-it-didnt-disclose-rogue-ai-wiki-hijacking-incident/",
-      "date": "2026-09-05T11:11:50Z"
-    },
-    {
-      "title": "Gaganyaan astronaut explains why AI sovereignty is crucial for national cybersecurity",
-      "description": "[THE ECONOMIC TIMES] Prasanth Balakrishnan Nair, a Gaganyaan astronaut, underscored the necessity of AI sovereignty for bolstering national cybersecurity. He remarked that upcoming conflicts will significantly merge the digital and physical domains. Nair praised India's...",
-      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/gaganyaan-astronaut-explains-why-ai-sovereignty-is-crucial-for-national-cybersecurity/articleshow/133797281.cms",
-      "date": "2026-09-05T10:32:08Z"
-    },
-    {
-      "title": "numbat - AI agent observability, (Fri, Sep 4th)",
-      "description": "[ISC] &#xd;",
-      "url": "https://isc.sans.edu/diary/rss/33312",
-      "date": "2026-09-05T03:39:52Z"
-    },
-    {
-      "title": "Friday Squid Blogging: Squid on a Stick at the New York State Fair",
-      "description": "[SCHNEIER] Looks tasty. As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered. Blog moderation policy.",
-      "url": "https://www.schneier.com/blog/archives/2026/09/friday-squid-blogging-squid-on-a-stick-at-the-new-york-state-fair.html",
-      "date": "2026-09-04T21:01:35Z"
-    },
-    {
-      "title": "IDScan sued over alleged data breach affecting 153 million drivers",
-      "description": "[BLEEPINGCOMPUTER] Multiple lawsuits have been filed against identity verification company IDScan after hackers allegedly breached the service and offered to sell more than 153 million driver's licenses. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/idscan-sued-over-alleged-data-breach-affecting-153-million-drivers/",
-      "date": "2026-09-04T16:56:45Z"
-    },
-    {
-      "title": "Using a VM to Contain an AI Agent",
-      "description": "[SCHNEIER] It won&#8217;t work: My suspicion was that GPT 5.6-Cyber would succeed, but the frequency and manner of its success removed all doubt. We have to reassess sandboxing quality for capable AI agents, and in general the software stack with which they...",
-      "url": "https://www.schneier.com/blog/archives/2026/09/using-a-vm-to-contain-an-ai-agent.html",
-      "date": "2026-09-04T16:31:38Z"
-    },
-    {
-      "title": "Critical Citrix NetScaler auth bypass now leveraged in attacks",
-      "description": "[BLEEPINGCOMPUTER] Attackers have begun targeting a critical-severity Citrix NetScaler auth bypass flaw (CVE-2026-19490) in the wild, according to vulnerability intelligence company Previdian. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-target-critical-citrix-netscaler-auth-bypass-in-attacks/",
-      "date": "2026-09-04T15:25:59Z"
-    },
-    {
-      "title": "Microsoft says some users can\u2019t open the Teams desktop client",
-      "description": "[BLEEPINGCOMPUTER] Microsoft is working to resolve a known issue that causes delays or blocks some users from opening the Microsoft Teams desktop client on Windows systems. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-some-users-cant-open-the-teams-desktop-client/",
-      "date": "2026-09-04T14:30:15Z"
-    },
-    {
-      "title": "39 New Methods That Compromise Passkey Authentication",
-      "description": "[BLEEPINGCOMPUTER] Passkeys eliminate many password-based attacks, but researchers have documented 39 methods for compromising authentication built around them. Token explains how attackers can abuse authentication prompts, synced credentials, enrollment, recovery,...",
-      "url": "https://www.bleepingcomputer.com/news/security/39-new-methods-that-compromise-passkey-authentication/",
-      "date": "2026-09-04T14:01:11Z"
-    },
-    {
-      "title": "Security Vulnerability in a Voting System",
-      "description": "[SCHNEIER] It&#8217;s a vulnerability that allows someone to recover the order of ballots cast, newly exploited with AI tools. Nearly four years since the original vulnerability was disclosed, I was still able to use it to analyze voter behavior in Georgia...",
-      "url": "https://www.schneier.com/blog/archives/2026/09/security-vulnerability-in-a-voting-system.html",
-      "date": "2026-09-04T11:09:35Z"
-    },
-    {
-      "title": "AI Coding Agents Are Installing Unknown/Untrusted Code on Corporate Networks",
-      "description": "[SCHNEIER] We cannot forget that AI coding agents are not yet trustworthy: Researchers at a stealth startup in Israel scanned 6,214 live domains belonging to defense contractors, Fortune 500, and Big Tech companies. Of the 8,265 llms.txt and llms-full.txt...",
-      "url": "https://www.schneier.com/blog/archives/2026/09/ai-coding-agents-are-installing-unknown-untrusted-code-on-corporate-networks.html",
-      "date": "2026-09-04T10:35:17Z"
-    },
-    {
-      "title": "ISC Stormcast For Friday, September 4th, 2026 https://isc.sans.edu/podcastdetail/10082, (Fri, Sep 4th)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33310",
-      "date": "2026-09-04T02:00:02Z"
-    },
-    {
-      "title": "Researching Employment Scams",
-      "description": "[SCHNEIER] Researchers built a fake company to study fake employee scams.",
-      "url": "https://www.schneier.com/blog/archives/2026/09/researching-employment-scams.html",
-      "date": "2026-09-03T11:18:14Z"
-    },
-    {
-      "title": "Honeypot-Omaha and batch.py &#x5b;Guest Diary&#x5d;, (Wed, Sep 2nd)",
-      "description": "[ISC] &#x5b;This is a Guest Diary by Frank Igbokwe, an ISC intern as part of the SANS.edu BACS program&#x5d;&#xd;",
-      "url": "https://isc.sans.edu/diary/rss/33306",
-      "date": "2026-09-03T02:02:56Z"
-    },
-    {
-      "title": "ISC Stormcast For Thursday, September 3rd, 2026 https://isc.sans.edu/podcastdetail/10080, (Thu, Sep 3rd)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33308",
-      "date": "2026-09-03T02:00:03Z"
-    },
-    {
-      "title": "AI Agents Are Now Emailing Me with Their Security Concerns",
-      "description": "[SCHNEIER] I received the two emails below earlier in the month. They&#8217;re vaguely coherent. I suppose I shouldn&#8217;t be surprised that the corpus that AIs are training on contain data suggesting that I am someone to write to with random computer and...",
-      "url": "https://www.schneier.com/blog/archives/2026/09/ai-agents-are-now-emailing-me-with-their-security-concerns.html",
-      "date": "2026-09-02T18:28:08Z"
-    },
-    {
-      "title": "ISC Stormcast For Wednesday, September 2nd, 2026 https://isc.sans.edu/podcastdetail/10078, (Wed, Sep 2nd)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33304",
-      "date": "2026-09-02T02:00:02Z"
-    },
-    {
-      "title": "Guildma (Astaroth) malware infection from Brazilian Portuguese email, (Tue, Sep 1st)",
-      "description": "[ISC] Introduction&#xd;",
-      "url": "https://isc.sans.edu/diary/rss/33300",
-      "date": "2026-09-01T21:30:18Z"
-    }
-  ]
+    "title": "Sentinel Protocol",
+    "tagline": "Perimeter Intelligence Sync",
+    "updated": "2026-09-06 13:54 UTC",
+    "news": [
+        {
+            "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            "author": "benedict.collins@futurenet.com (Benedict Collins) , Benedict Collins",
+            "title": "Why is there so much worry about OpenAI Astra, and what issues could \u2018recurrent depth\u2019 reasoning cause? The experts weigh in",
+            "description": "As OpenAI unveils GPT-6 Astra, cybersecurity experts question whether the model's 'recurrent depth' reasoning was properly tested.",
+            "url": "https://www.techradar.com/pro/security/why-is-there-so-much-worry-about-openai-astra-and-what-issues-could-recurrent-depth-reasoning-cause-the-experts-weigh-in",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/S8KxZGx6n8eh2LiPG7yz36-1280-80.jpg",
+            "publishedAt": "2026-09-05T13:30:00Z",
+            "content": "OpenAI has unveiled a much anticipated AI model which the firm has dubbed \u2018GPT-6 Astra\u2019. While the model has improved significantly across benchmark testing and brings a host of new business features\u2026 [+7540 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "4sysops.com"
+            },
+            "author": "IT News",
+            "title": "PaperCut zero-days now target school networks for credential theft",
+            "description": "Attackers are using the PaperCut NG and MF flaws for credential theft against K-12 schools and universities in the U.S. and Europe. The activity expands on the actively exploited PaperCut zero-day with two identified CVEs that can be chained for unauthenticat\u2026",
+            "url": "https://4sysops.com/archives/papercut-zero-days-now-target-school-networks-for-credential-theft/",
+            "urlToImage": "https://4sysops.com/wp-content/uploads/2026/09/papercut-zero-days-now-target-school-networks-for-credential-theft.webp",
+            "publishedAt": "2026-09-05T13:08:52Z",
+            "content": "Education networks under attack\r\nArctic Wolf observed attackers running discovery commands, deploying Metasploit and Meterpreter Java payloads, and creating accounts such as Administrator17 on compro\u2026 [+1688 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Securityweek.com"
+            },
+            "author": "Ionut Arghire",
+            "title": "Elementor Pro WordPress Plugin Vulnerability Exploited to Hack Sites",
+            "description": "Tracked as CVE-2026-32475 (CVSS score of 9.8), the bug described as an arbitrary file upload issue in the function that handles form submissions.\nThe post Elementor Pro WordPress Plugin Vulnerability Exploited to Hack Sites appeared first on SecurityWeek.",
+            "url": "https://www.securityweek.com/elementor-pro-wordpress-plugin-vulnerability-exploited-to-hack-sites/",
+            "urlToImage": "https://www.securityweek.com/wp-content/uploads/2023/01/Cybersecurity_News-SecurityWeek.jpg",
+            "publishedAt": "2026-09-05T13:00:28Z",
+            "content": "Hackers have been exploiting a critical-severity vulnerability in the Elementor Pro WordPress plugin to hack websites, WordPress security firm Defiant warns.\r\nA highly popular drag-and-drop website b\u2026 [+2773 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PCMag.com"
+            },
+            "author": "Kim Key",
+            "title": "Check Your Phone Now: These 10 Data-Hungry Apps Are Secretly Tracking You",
+            "description": "Think your phone is private? A look at over 5,000 app disclosures reveals the surprisingly sneaky ways big tech collects and profits off your data.\nChances are, many apps of the apps on your phone quietly harvest a ton of data they don't need, mostly so that \u2026",
+            "url": "https://uk.pcmag.com/security/167109/check-your-phone-now-these-10-data-hungry-apps-are-secretly-tracking-you",
+            "urlToImage": "https://sm.pcmag.com/t/pcmag_uk/explainers/c/check-your/check-your-phone-now-these-10-data-hungry-apps-are-secretly_e2x4.1200.jpg",
+            "publishedAt": "2026-09-05T13:00:15Z",
+            "content": "Chances are, many apps of the apps on your phone quietly harvest a ton of data they don't need, mostly so that data can be packaged and sold, or used by the company for advertising. Companies leech d\u2026 [+8273 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "lbrown@businessinsider.com (Lillian Brown)",
+            "title": "Where to watch Alabama Crimson Tide college football: Live stream every game of the 2026 season",
+            "description": "College football is back. We'll show you where to watch every Alabama Crimson Tide game this season, including the kickoff against East Carolina.",
+            "url": "https://www.businessinsider.com/guides/streaming/where-to-watch-alabama-crimson-tide-college-football-2026#article",
+            "urlToImage": "https://i.insider.com/6a9ad31a755b3072e51cc573?width=1200&format=jpeg",
+            "publishedAt": "2026-09-05T13:00:01Z",
+            "content": "College football is officially back. We've rounded up everything you need to know about where to watch Alabama Crimson Tide football.\r\nThe easiest way to live stream every Alabama Crimson Tide colleg\u2026 [+5352 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BleepingComputer"
+            },
+            "author": "",
+            "title": "Proton/Shinra Ransomware .vricpe help",
+            "description": "Proton/Shinra Ransomware .vricpe help - posted in Ransomware Help & Tech Support: HI. Hello,\nMy files were encrypted by ransomware that appended the .vricpe extension to filenames. The renamed files follow the pattern of [10 random characters]__[attacker emai\u2026",
+            "url": "https://www.bleepingcomputer.com/forums/t/818457/protonshinra-ransomware-vricpe-help/",
+            "urlToImage": "https://www.bleepingcomputer.com/forums/public/style_images/master/meta_image.png",
+            "publishedAt": "2026-09-05T12:55:03Z",
+            "content": "HI. Hello,\r\nMy files were encrypted by ransomware that appended the .vricpe extension to filenames. The renamed files follow the pattern of [10 random characters]__[attacker email]_.vricpe, for examp\u2026 [+1291 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Kitploit.com"
+            },
+            "author": "Kitploit",
+            "title": "yakit v1.4.8-0905",
+            "description": "All-in-one penetration testing platform with MITM proxy, web fuzzer, reverse connection handler, and plugin system for automated security testing and exploitation.",
+            "url": "https://kitploit.com/en/posts/github-yaklang-yakit-v148-0905",
+            "urlToImage": "https://assets.kitploit.com/production/public/tools/188/b287cf6290e949190264b0fa0198fc839d9b8d4120d1cb99bc827f4699f6fafd.png",
+            "publishedAt": "2026-09-05T12:18:05Z",
+            "content": "YAKIT-A Cyber Security ALL-IN-ONE Platform based on Yak language\r\nWhitepaperOfficial documentationIssue feedbackOfficial websiteCommunityArchitecture\r\n:book:Language English\r\nSecurity integration is \u2026 [+10881 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Biztoc.com"
+            },
+            "author": "cnbc.com",
+            "title": "Meet the CISO: A new front line star in the AI cybersecurity war",
+            "description": "The stakes have never been higher for senior cybersecurity leaders at top companies.\n\"It feels like my job has doubled or quadrupled,\" said Wally Dalrymple, chief security officer at global education and talent solutions firm ETS.\n\"It's coming at us so fast a\u2026",
+            "url": "https://biztoc.com/x/4b8081531c8356ce",
+            "urlToImage": "https://biztoc.com/cdn/4b8081531c8356ce_s.webp",
+            "publishedAt": "2026-09-05T12:17:03Z",
+            "content": "The stakes have never been higher for senior cybersecurity leaders at top companies.\"It feels like my job has doubled or quadrupled,\" said Wally Dalrymple, chief security officer at global education \u2026 [+141 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forkast.news"
+            },
+            "author": "Dana Ellison",
+            "title": "The First Agentic Attack: How AI Is Reshaping the Economics of Cybersecurity",
+            "description": "Palo Alto Unit 42 documented the first confirmed AI-agent-launched cyberattack, compressing weeks of intrusion into under 10 hours. The market response was immediate.",
+            "url": "https://forkast.news/the-first-agentic-attack-how-ai-is-reshaping-the-economics-of-cybersecurity/",
+            "urlToImage": "https://forkast.news/wp-content/uploads/2026/09/palo-alto-unit42-first-agentic-attack-hero-1024x572.jpg",
+            "publishedAt": "2026-09-05T12:04:36Z",
+            "content": "On September 2, 2026, a human threat actor did something that would have previously required a small army of specialists working for weeks. Using frontier AI models and specialized agentic frameworks\u2026 [+4022 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "iPhone in Canada"
+            },
+            "author": "John Quintet",
+            "title": "Google Just Patched a Chrome Zero-Day Already Being Used in Attacks",
+            "description": "Looks like Google is racing out another Chrome fix after finding a high-severity zero-day already being used in real attacks, so if you are still putting off that little update prompt, this is the one to grab. BleepingComputer reports Google patched CVE-2026-\u2026",
+            "url": "https://www.iphoneincanada.ca/2026/09/05/google-chrome-zero-day-cve-2026-85046/",
+            "urlToImage": "https://cdn.iphoneincanada.ca/wp-content/uploads/2017/09/iic-logo-1.svg",
+            "publishedAt": "2026-09-05T12:00:05Z",
+            "content": "Looks like Google is racing out another Chrome fix after finding a high-severity zero-day already being used in real attacks, so if you are still putting off that little update prompt, this is the on\u2026 [+1551 chars]"
+        }
+    ]
 }
