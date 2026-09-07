@@ -1,6 +1,72 @@
 {
-  "updated": "2026-09-07 06:48:16 UTC",
+  "updated": "2026-09-07 13:47:49 UTC",
   "news": [
+    {
+      "title": "Mathspace discloses data breach affecting over 1 million people",
+      "description": "[BLEEPINGCOMPUTER] Online maths learning platform Mathspace disclosed over the weekend that attackers stole data from more than 1 million students, staff, and parents after breaching its Metabase internal reporting system. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/mathspace-discloses-data-breach-affecting-over-1-million-people/",
+      "date": "2026-09-07T13:05:11Z"
+    },
+    {
+      "title": "Trezor data breach impact now reaches 81,000 customers",
+      "description": "[BLEEPINGCOMPUTER] Cryptocurrency hardware wallet maker Trezor says an August data breach at its shipping and logistics provider, ShipMonk, affects an additional 67,000 U.S. customers. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/trezor-data-breach-impact-now-reaches-81-000-customers/",
+      "date": "2026-09-07T12:16:32Z"
+    },
+    {
+      "title": "Your Cloud Security Checklist Doesn't Work the Way You Think It Does",
+      "description": "[FEEDS] If managing security across multiple cloud providers wasn't hard enough, each one fails in a different way. For the 2026 Cloud Security Index, Intruder analyzed misconfiguration data from 3,000 organizations across AWS, Azure, and Google Cloud and...",
+      "url": "https://thehackernews.com/2026/09/your-cloud-security-checklist-doesnt.html",
+      "date": "2026-09-07T11:45:00Z"
+    },
+    {
+      "title": "Rogue ScreenConnect Clients Spread Four-Stage VBScript Chain to Newly Connected Hosts",
+      "description": "[FEEDS] Cybersecurity researchers have disclosed details of worm-like activity that abuses ConnectWise ScreenConnect to distribute a malicious Visual Basic Script (VBScript) payload to newly connected systems. According to Huntress, three unrelated...",
+      "url": "https://thehackernews.com/2026/09/rogue-screenconnect-clients-spread-four.html",
+      "date": "2026-09-07T11:36:39Z"
+    },
+    {
+      "title": "Telerik UI Padding-Oracle Bug Chained to Unauthenticated RCE \u2014 Public Exploit Released",
+      "description": "[FEEDS] A TantoSec proof-of-concept turns an AES-CBC \"padding oracle\" in Telerik UI for ASP.NET AJAX into unauthenticated remote code execution \u2014 but only against applications in a specific non-default configuration, and Progress patched the chain in July....",
+      "url": "https://thehackernews.com/2026/09/telerik-ui-padding-oracle-bug-chained.html",
+      "date": "2026-09-07T11:20:14Z"
+    },
+    {
+      "title": "Automobile Camouflage to Hide from Flock Cameras",
+      "description": "[SCHNEIER] Not sure it&#8217;s practical, but it&#8217;s certainly striking.",
+      "url": "https://www.schneier.com/blog/archives/2026/09/automobile-camouflage-to-hide-from-flock-cameras.html",
+      "date": "2026-09-07T11:06:40Z"
+    },
+    {
+      "title": "ChatGPT can now connect to your personal apps to mimic writing style",
+      "description": "[BLEEPINGCOMPUTER] OpenAI appears to be testing a new \"Writing Style\" feature for ChatGPT that can learn how you write by looking at examples from your connected apps. [...]",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-can-now-connect-to-your-personal-apps-to-mimic-writing-style/",
+      "date": "2026-09-07T10:36:37Z"
+    },
+    {
+      "title": "Hackers exploit new MikroTik RouterOS flaws to hijack routers",
+      "description": "[BLEEPINGCOMPUTER] Hackers are exploiting a chain of two recently disclosed vulnerabilities in MikroTik routers to take control of devices with SSH services exposed to the internet. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-new-mikrotik-routeros-flaws-to-hijack-routers/",
+      "date": "2026-09-07T10:32:40Z"
+    },
+    {
+      "title": "ConnectWise warns of new ScreenConnect flaw without patch",
+      "description": "[BLEEPINGCOMPUTER] ConnectWise has shared temporary mitigation measures for a new ScreenConnect Remote Access vulnerability that it plans to patch later this week. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/connectwise-warns-of-new-screenconnect-flaw-without-patch/",
+      "date": "2026-09-07T10:06:38Z"
+    },
+    {
+      "title": "N-able Issues Fourth N-central Hotfix in Five Weeks for Unauthenticated RCE Flaw",
+      "description": "[FEEDS] Every on-premises N-central build below 2026.3.1.14 \u2014 including servers updated to Hotfix 3 a day earlier \u2014 needs Hotfix 4. N-able's incident notice says the flaw has been exploited in the wild; its release notes say that is unconfirmed. N-able has...",
+      "url": "https://thehackernews.com/2026/09/n-able-issues-fourth-n-central-hotfix.html",
+      "date": "2026-09-07T08:31:12Z"
+    },
+    {
+      "title": "JSCeal Malware Can Bypass Google Authentication Using Stolen Session Cookies",
+      "description": "[FEEDS] Cybersecurity researchers have unpacked JSCeal, a sophisticated compiled V8 JavaScript (JSC) malware with credential harvesting, surveillance, and traffic-interception capabilities. \"The payloads are protected with javascript-obfuscator, using...",
+      "url": "https://thehackernews.com/2026/09/jsceal-malware-can-bypass-google.html",
+      "date": "2026-09-07T07:53:04Z"
+    },
     {
       "title": "N-able patches max severity N-central flaw amid ongoing attacks",
       "description": "[BLEEPINGCOMPUTER] N-able has released an emergency hotfix for a maximum-severity remote code execution (RCE) flaw affecting its N-central remote monitoring and management (RMM) platform. [...]",
@@ -8,16 +74,22 @@
       "date": "2026-09-07T06:17:41Z"
     },
     {
-      "title": "ChatGPT Astra is now rolling out to $20 Plus subscription",
-      "description": "[BLEEPINGCOMPUTER] OpenAI is now rolling out ChatGPT Astra, its most powerful model to date, to those with a $20 Plus subscription, but there's no word on when free users will get access.. [...]",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-astra-is-now-rolling-out-to-20-plus-subscription/",
-      "date": "2026-09-07T01:15:43Z"
-    },
-    {
       "title": "Critical MikroTik Vulnerability - Patch Now, (Sun, Sep 6th)",
       "description": "[ISC] Mikrotik released a patch late last week for an already-exploited vulnerability. The vulnerability allows an SSH authentication bypass and is already being exploited. At this point, assume compromise. Attackers have been adding new accounts to...",
       "url": "https://isc.sans.edu/diary/rss/33314",
       "date": "2026-09-06T21:43:17Z"
+    },
+    {
+      "title": "CTEM platforms are shifting security from CVSS scores to validated risk",
+      "description": "[ITWIRE] Today\u2019s cybersecurity teams are facing a flood of vulnerability scan findings, many of which are irrelevant. Recent research found that 53% of security professionals feel...",
+      "url": "https://itwire.com/business-it-news/security/ctem-platforms-are-shifting-security-from-cvss-scores-to-validated-risk",
+      "date": "2026-09-06T20:02:27Z"
+    },
+    {
+      "title": "VITG Unveils Modern Managed Services and Managed Detection & Response as Part of a Broader AI and Cybersecurity Transformation across ANZ",
+      "description": "[THE MANILA TIMES] SYDNEY, Sept. 7, 2026 /PRNewswire/ -- As organisations across Australia and New Zealand navigate the accelerating impact of artificial intelligence, increasingly sophisticated cyber threats, and growing governance requirements, Virtual IT Group...",
+      "url": "https://www.manilatimes.net/2026/09/07/tmt-newswire/pr-newswire/vitg-unveils-modern-managed-services-and-managed-detection-response-as-part-of-a-broader-ai-and-cybersecurity-transformation-across-anz/2419480",
+      "date": "2026-09-06T19:18:46Z"
     },
     {
       "title": "FBI probes potential data breach of millions of drivers' licenses",
@@ -32,22 +104,10 @@
       "date": "2026-09-06T14:35:59Z"
     },
     {
-      "title": "Attackers conceal phishing lures using invisible Unicode characters",
-      "description": "[BLEEPINGCOMPUTER] Threat actors have adopted the ASCII smuggling technique in phishing campaigns, using invisible Unicode characters to evade email security filters. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/attackers-conceal-phishing-lures-using-invisible-unicode-characters/",
-      "date": "2026-09-06T14:23:46Z"
-    },
-    {
       "title": "Attackers Hijack MikroTik Routers Through Internet-Exposed SSH Without Authentication",
       "description": "[FEEDS] Attackers are exploiting MikroTik routers with their Secure Shell (SSH) remote-access service, which is reachable from the internet, to gain full administrative control without authentication, according to&nbsp;CERT Polska's attack warning,...",
       "url": "https://thehackernews.com/2026/09/attackers-hijack-mikrotik-routers.html",
       "date": "2026-09-06T09:32:38Z"
-    },
-    {
-      "title": "Four REVSTEALER-Linked Modules Disable Windows Update and Defender to Run a Crypto Miner",
-      "description": "[FEEDS] Elastic Security Labs has documented four previously unreported programs associated with REVSTEALER, an emerging Windows information stealer, that remain on an infected machine after the stealer deletes itself. One of them switches off Windows...",
-      "url": "https://thehackernews.com/2026/09/four-revstealer-linked-modules-disable.html",
-      "date": "2026-09-06T08:34:20Z"
     },
     {
       "title": "See's Candies Data Breach: Edelson Lechtzin LLP Launches Investigation Into Exposure of Personal Information",
@@ -75,57 +135,15 @@
     },
     {
       "title": "Unpatched Magento and Adobe Commerce Zero-Day Exploited to Backdoor Online Stores",
-      "description": "[FEEDS] Attackers are exploiting a new unpatched vulnerability in Magento Open Source and Adobe Commerce that lets them run malicious code on an online store's server without logging in, Dutch e-commerce security company Sansec said in an&nbsp;advisory...",
+      "description": "[THE HACKER NEWS] Sansec says attackers exploit an unpatched Magento and Adobe Commerce flaw to run server code without authentication and install persistent backdoors.",
       "url": "https://thehackernews.com/2026/09/unpatched-magento-and-adobe-commerce.html",
-      "date": "2026-09-05T20:14:47Z"
+      "date": "2026-09-05T20:14:00Z"
     },
     {
       "title": "Karnataka\u2019s proposed AI university to launch skilling programmes ahead of establishment",
       "description": "[TIMES OF INDIA] Karnataka\u2019s proposed AI University will launch AI skilling programmes\u2014certificates, diplomas and reskilling\u2014in generative AI, cloud, cybersecurity and more.",
       "url": "https://timesofindia.indiatimes.com/city/bengaluru/karnatakas-proposed-ai-university-to-launch-skilling-programmes-ahead-of-establishment/articleshow/133811994.cms",
       "date": "2026-09-05T18:18:00Z"
-    },
-    {
-      "title": "Rajasthan Police issue advisory on securing Wi",
-      "description": "[LOKMAT TIMES] Rajasthan Police issue advisory on securing Wi-Fi networks - Jaipur, Sep 5 In its effort to curb cybercrime and strengthen public awareness about cybersecurity, the Cyber Crime Branch, ... Get Latest News on National only on lokmattimes.com",
-      "url": "https://www.lokmattimes.com/national/rajasthan-police-issue-advisory-on-securing-wi-fi-networks/",
-      "date": "2026-09-05T17:30:55Z"
-    },
-    {
-      "title": "Attackers Breached JetBrains Cadence via Unpatched TeamCity, Extracting AWS Credentials",
-      "description": "[FEEDS] JetBrains is urging Cadence users to revoke and rotate all credentials following a security incident last month in which unidentified threat actors exploited a recently disclosed critical vulnerability in TeamCity to breach its own environment....",
-      "url": "https://thehackernews.com/2026/09/attackers-breached-jetbrains-cadence.html",
-      "date": "2026-09-05T16:52:33Z"
-    },
-    {
-      "title": "Berlin launches crisis response after hackers publish stolen data",
-      "description": "[THE STRAITS TIMES] BERLIN, Sept 5 - Berlin's state government said on Saturday it was reviewing with the highest intensity a trove of stolen data published by a ransomware group, as investigators attempt to assess the scale and impact of the cyberattack that targeted...",
-      "url": "https://www.straitstimes.com/world/europe/berlin-launches-crisis-response-after-hackers-publish-stolen-data",
-      "date": "2026-09-05T16:46:35Z"
-    },
-    {
-      "title": "Critical VMware Workstation and Fusion Flaw Lets VM Admins Execute Host Code",
-      "description": "[FEEDS] Broadcom has released security updates for two security flaws impacting VMware Workstation and Fusion, including one critical bug that could result in arbitrary code execution under certain conditions. The vulnerability, tracked as CVE-2026-59346...",
-      "url": "https://thehackernews.com/2026/09/critical-vmware-workstation-and-fusion.html",
-      "date": "2026-09-05T16:05:08Z"
-    },
-    {
-      "title": "Over 5,400 hacked sites serve ClickFix payloads stored on the blockchain",
-      "description": "[BLEEPINGCOMPUTER] A massive cybercriminal operation is leveraging thousands of compromised small-business websites to deliver ClickFix payloads stored in smart contracts on the BNB Smart Chain (BSC). [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/over-5-400-hacked-sites-serve-clickfix-payloads-stored-on-the-blockchain/",
-      "date": "2026-09-05T14:29:13Z"
-    },
-    {
-      "title": "Trezor Says ShipMonk Breach Exposed 67,000 U.S. Customers' Data It Said Was Deleted",
-      "description": "[FEEDS] Hardware wallet manufacturer Trezor on Friday disclosed that another 67,000 customers from the U.S. have been impacted in a breach at its shipping provider ShipMonk. The exposed information includes customer names, email addresses, phone numbers,...",
-      "url": "https://thehackernews.com/2026/09/trezor-says-shipmonk-breach-exposed.html",
-      "date": "2026-09-05T14:17:02Z"
-    },
-    {
-      "title": "OpenAI admits it didn't disclose rogue AI wiki hijacking incident",
-      "description": "[BLEEPINGCOMPUTER] OpenAI admits it did not disclose an incident where autonomous AI agents hijacked a German wiki, created 18,000 posts, shared answers, and bypassed restrictions, saying it treated the activity as model \"misalignment\" rather than a security breach....",
-      "url": "https://www.bleepingcomputer.com/news/security/openai-admits-it-didnt-disclose-rogue-ai-wiki-hijacking-incident/",
-      "date": "2026-09-05T11:11:50Z"
     },
     {
       "title": "numbat - AI agent observability, (Fri, Sep 4th)",
@@ -138,12 +156,6 @@
       "description": "[SCHNEIER] Looks tasty. As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered. Blog moderation policy.",
       "url": "https://www.schneier.com/blog/archives/2026/09/friday-squid-blogging-squid-on-a-stick-at-the-new-york-state-fair.html",
       "date": "2026-09-04T21:01:35Z"
-    },
-    {
-      "title": "IDScan sued over alleged data breach affecting 153 million drivers",
-      "description": "[BLEEPINGCOMPUTER] Multiple lawsuits have been filed against identity verification company IDScan after hackers allegedly breached the service and offered to sell more than 153 million driver's licenses. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/idscan-sued-over-alleged-data-breach-affecting-153-million-drivers/",
-      "date": "2026-09-04T16:56:45Z"
     },
     {
       "title": "Using a VM to Contain an AI Agent",
@@ -186,12 +198,6 @@
       "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
       "url": "https://isc.sans.edu/diary/rss/33308",
       "date": "2026-09-03T02:00:03Z"
-    },
-    {
-      "title": "AI Agents Are Now Emailing Me with Their Security Concerns",
-      "description": "[SCHNEIER] I received the two emails below earlier in the month. They&#8217;re vaguely coherent. I suppose I shouldn&#8217;t be surprised that the corpus that AIs are training on contain data suggesting that I am someone to write to with random computer and...",
-      "url": "https://www.schneier.com/blog/archives/2026/09/ai-agents-are-now-emailing-me-with-their-security-concerns.html",
-      "date": "2026-09-02T18:28:08Z"
     },
     {
       "title": "ISC Stormcast For Wednesday, September 2nd, 2026 https://isc.sans.edu/podcastdetail/10078, (Wed, Sep 2nd)",
