@@ -1,209 +1,137 @@
 {
-  "updated": "2026-09-07 13:47:49 UTC",
-  "news": [
-    {
-      "title": "Mathspace discloses data breach affecting over 1 million people",
-      "description": "[BLEEPINGCOMPUTER] Online maths learning platform Mathspace disclosed over the weekend that attackers stole data from more than 1 million students, staff, and parents after breaching its Metabase internal reporting system. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/mathspace-discloses-data-breach-affecting-over-1-million-people/",
-      "date": "2026-09-07T13:05:11Z"
-    },
-    {
-      "title": "Trezor data breach impact now reaches 81,000 customers",
-      "description": "[BLEEPINGCOMPUTER] Cryptocurrency hardware wallet maker Trezor says an August data breach at its shipping and logistics provider, ShipMonk, affects an additional 67,000 U.S. customers. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/trezor-data-breach-impact-now-reaches-81-000-customers/",
-      "date": "2026-09-07T12:16:32Z"
-    },
-    {
-      "title": "Your Cloud Security Checklist Doesn't Work the Way You Think It Does",
-      "description": "[FEEDS] If managing security across multiple cloud providers wasn't hard enough, each one fails in a different way. For the 2026 Cloud Security Index, Intruder analyzed misconfiguration data from 3,000 organizations across AWS, Azure, and Google Cloud and...",
-      "url": "https://thehackernews.com/2026/09/your-cloud-security-checklist-doesnt.html",
-      "date": "2026-09-07T11:45:00Z"
-    },
-    {
-      "title": "Rogue ScreenConnect Clients Spread Four-Stage VBScript Chain to Newly Connected Hosts",
-      "description": "[FEEDS] Cybersecurity researchers have disclosed details of worm-like activity that abuses ConnectWise ScreenConnect to distribute a malicious Visual Basic Script (VBScript) payload to newly connected systems. According to Huntress, three unrelated...",
-      "url": "https://thehackernews.com/2026/09/rogue-screenconnect-clients-spread-four.html",
-      "date": "2026-09-07T11:36:39Z"
-    },
-    {
-      "title": "Telerik UI Padding-Oracle Bug Chained to Unauthenticated RCE \u2014 Public Exploit Released",
-      "description": "[FEEDS] A TantoSec proof-of-concept turns an AES-CBC \"padding oracle\" in Telerik UI for ASP.NET AJAX into unauthenticated remote code execution \u2014 but only against applications in a specific non-default configuration, and Progress patched the chain in July....",
-      "url": "https://thehackernews.com/2026/09/telerik-ui-padding-oracle-bug-chained.html",
-      "date": "2026-09-07T11:20:14Z"
-    },
-    {
-      "title": "Automobile Camouflage to Hide from Flock Cameras",
-      "description": "[SCHNEIER] Not sure it&#8217;s practical, but it&#8217;s certainly striking.",
-      "url": "https://www.schneier.com/blog/archives/2026/09/automobile-camouflage-to-hide-from-flock-cameras.html",
-      "date": "2026-09-07T11:06:40Z"
-    },
-    {
-      "title": "ChatGPT can now connect to your personal apps to mimic writing style",
-      "description": "[BLEEPINGCOMPUTER] OpenAI appears to be testing a new \"Writing Style\" feature for ChatGPT that can learn how you write by looking at examples from your connected apps. [...]",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-can-now-connect-to-your-personal-apps-to-mimic-writing-style/",
-      "date": "2026-09-07T10:36:37Z"
-    },
-    {
-      "title": "Hackers exploit new MikroTik RouterOS flaws to hijack routers",
-      "description": "[BLEEPINGCOMPUTER] Hackers are exploiting a chain of two recently disclosed vulnerabilities in MikroTik routers to take control of devices with SSH services exposed to the internet. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-new-mikrotik-routeros-flaws-to-hijack-routers/",
-      "date": "2026-09-07T10:32:40Z"
-    },
-    {
-      "title": "ConnectWise warns of new ScreenConnect flaw without patch",
-      "description": "[BLEEPINGCOMPUTER] ConnectWise has shared temporary mitigation measures for a new ScreenConnect Remote Access vulnerability that it plans to patch later this week. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/connectwise-warns-of-new-screenconnect-flaw-without-patch/",
-      "date": "2026-09-07T10:06:38Z"
-    },
-    {
-      "title": "N-able Issues Fourth N-central Hotfix in Five Weeks for Unauthenticated RCE Flaw",
-      "description": "[FEEDS] Every on-premises N-central build below 2026.3.1.14 \u2014 including servers updated to Hotfix 3 a day earlier \u2014 needs Hotfix 4. N-able's incident notice says the flaw has been exploited in the wild; its release notes say that is unconfirmed. N-able has...",
-      "url": "https://thehackernews.com/2026/09/n-able-issues-fourth-n-central-hotfix.html",
-      "date": "2026-09-07T08:31:12Z"
-    },
-    {
-      "title": "JSCeal Malware Can Bypass Google Authentication Using Stolen Session Cookies",
-      "description": "[FEEDS] Cybersecurity researchers have unpacked JSCeal, a sophisticated compiled V8 JavaScript (JSC) malware with credential harvesting, surveillance, and traffic-interception capabilities. \"The payloads are protected with javascript-obfuscator, using...",
-      "url": "https://thehackernews.com/2026/09/jsceal-malware-can-bypass-google.html",
-      "date": "2026-09-07T07:53:04Z"
-    },
-    {
-      "title": "N-able patches max severity N-central flaw amid ongoing attacks",
-      "description": "[BLEEPINGCOMPUTER] N-able has released an emergency hotfix for a maximum-severity remote code execution (RCE) flaw affecting its N-central remote monitoring and management (RMM) platform. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/n-able-patches-max-severity-n-central-flaw-amid-ongoing-attacks/",
-      "date": "2026-09-07T06:17:41Z"
-    },
-    {
-      "title": "Critical MikroTik Vulnerability - Patch Now, (Sun, Sep 6th)",
-      "description": "[ISC] Mikrotik released a patch late last week for an already-exploited vulnerability. The vulnerability allows an SSH authentication bypass and is already being exploited. At this point, assume compromise. Attackers have been adding new accounts to...",
-      "url": "https://isc.sans.edu/diary/rss/33314",
-      "date": "2026-09-06T21:43:17Z"
-    },
-    {
-      "title": "CTEM platforms are shifting security from CVSS scores to validated risk",
-      "description": "[ITWIRE] Today\u2019s cybersecurity teams are facing a flood of vulnerability scan findings, many of which are irrelevant. Recent research found that 53% of security professionals feel...",
-      "url": "https://itwire.com/business-it-news/security/ctem-platforms-are-shifting-security-from-cvss-scores-to-validated-risk",
-      "date": "2026-09-06T20:02:27Z"
-    },
-    {
-      "title": "VITG Unveils Modern Managed Services and Managed Detection & Response as Part of a Broader AI and Cybersecurity Transformation across ANZ",
-      "description": "[THE MANILA TIMES] SYDNEY, Sept. 7, 2026 /PRNewswire/ -- As organisations across Australia and New Zealand navigate the accelerating impact of artificial intelligence, increasingly sophisticated cyber threats, and growing governance requirements, Virtual IT Group...",
-      "url": "https://www.manilatimes.net/2026/09/07/tmt-newswire/pr-newswire/vitg-unveils-modern-managed-services-and-managed-detection-response-as-part-of-a-broader-ai-and-cybersecurity-transformation-across-anz/2419480",
-      "date": "2026-09-06T19:18:46Z"
-    },
-    {
-      "title": "FBI probes potential data breach of millions of drivers' licenses",
-      "description": "[SPOKANE SPOKESMAN-REVIEW] WASHINGTON \u2013 The FBI is investigating the potential theft and sale of millions of drivers' licenses on the dark web. Digital scans \u200bof more than 153 million drivers' licenses belonging to people in the United \u2060States and Canada were advertised on...",
-      "url": "https://www.spokesman.com/stories/2026/sep/06/fbi-probes-potential-data-breach-of-millions-of-dr/",
-      "date": "2026-09-06T15:36:00Z"
-    },
-    {
-      "title": "K\u2019s Doda for 2 months",
-      "description": "[THE TRIBUNE] Authorities in Jammu and Kashmir\u2019s Doda ordered a complete ban on the use of Virtual Private Networks (VPNs) across the district for two months, citing concerns over cybersecurity, unlawful activities and maintaining public order.",
-      "url": "https://www.tribuneindia.com/news/j-k/vpn-use-banned-in-j-ks-doda-for-2-months/",
-      "date": "2026-09-06T14:35:59Z"
-    },
-    {
-      "title": "Attackers Hijack MikroTik Routers Through Internet-Exposed SSH Without Authentication",
-      "description": "[FEEDS] Attackers are exploiting MikroTik routers with their Secure Shell (SSH) remote-access service, which is reachable from the internet, to gain full administrative control without authentication, according to&nbsp;CERT Polska's attack warning,...",
-      "url": "https://thehackernews.com/2026/09/attackers-hijack-mikrotik-routers.html",
-      "date": "2026-09-06T09:32:38Z"
-    },
-    {
-      "title": "See's Candies Data Breach: Edelson Lechtzin LLP Launches Investigation Into Exposure of Personal Information",
-      "description": "[EUROPE SAYS] National class action firm offering free case evaluations to individuals impacted by the See's Candies, Inc. cybersecurity incident",
-      "url": "https://www.europesays.com/3235899/",
-      "date": "2026-09-06T07:45:30Z"
-    },
-    {
-      "title": "Top cybersecurity expert on Manchester Airports Group cyber attack risks",
-      "description": "[MANCHESTER EVENING NEWS] Professor Daniel Dresner, Academic lead for Cyber Security at The University of Manchester, speaks to the Manchester Evening News about what people should do to protect themselves",
-      "url": "https://www.manchestereveningnews.co.uk/news/greater-manchester-news/top-cybersecurity-expert-manchester-airports-34557161",
-      "date": "2026-09-06T05:52:47Z"
-    },
-    {
-      "title": "Cybersecurity skills gap widens as cyberattacks surge: Kerala DGP",
-      "description": "[THE HINDU BUSINESS LINE] Kerala's DGP highlights the urgent need for cybersecurity professionals as cyberattacks rise sharply, stressing skill gap solutions.",
-      "url": "https://www.thehindubusinessline.com/info-tech/cybersecurity-skills-gap-widens-as-cyberattacks-surge-kerala-dgp/article71434614.ece",
-      "date": "2026-09-06T05:49:24Z"
-    },
-    {
-      "title": "FBI investigates data breach possibly linked to New Orleans cybersecurity firm",
-      "description": "[WBRZ] NEW ORLEANS \u2014 Over 150 million U.S. and Canadian driver's licenses being sold on the dark web may be linked to a New Orleans-based identity-verification company, according to a report by nola.com.",
-      "url": "https://www.wbrz.com/news/fbi-investigates-data-breach-possibly-linked-to-new-orleans-cybersecurity-firm",
-      "date": "2026-09-06T00:00:00Z"
-    },
-    {
-      "title": "Unpatched Magento and Adobe Commerce Zero-Day Exploited to Backdoor Online Stores",
-      "description": "[THE HACKER NEWS] Sansec says attackers exploit an unpatched Magento and Adobe Commerce flaw to run server code without authentication and install persistent backdoors.",
-      "url": "https://thehackernews.com/2026/09/unpatched-magento-and-adobe-commerce.html",
-      "date": "2026-09-05T20:14:00Z"
-    },
-    {
-      "title": "Karnataka\u2019s proposed AI university to launch skilling programmes ahead of establishment",
-      "description": "[TIMES OF INDIA] Karnataka\u2019s proposed AI University will launch AI skilling programmes\u2014certificates, diplomas and reskilling\u2014in generative AI, cloud, cybersecurity and more.",
-      "url": "https://timesofindia.indiatimes.com/city/bengaluru/karnatakas-proposed-ai-university-to-launch-skilling-programmes-ahead-of-establishment/articleshow/133811994.cms",
-      "date": "2026-09-05T18:18:00Z"
-    },
-    {
-      "title": "numbat - AI agent observability, (Fri, Sep 4th)",
-      "description": "[ISC] &#xd;",
-      "url": "https://isc.sans.edu/diary/rss/33312",
-      "date": "2026-09-05T03:39:52Z"
-    },
-    {
-      "title": "Friday Squid Blogging: Squid on a Stick at the New York State Fair",
-      "description": "[SCHNEIER] Looks tasty. As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered. Blog moderation policy.",
-      "url": "https://www.schneier.com/blog/archives/2026/09/friday-squid-blogging-squid-on-a-stick-at-the-new-york-state-fair.html",
-      "date": "2026-09-04T21:01:35Z"
-    },
-    {
-      "title": "Using a VM to Contain an AI Agent",
-      "description": "[SCHNEIER] It won&#8217;t work: My suspicion was that GPT 5.6-Cyber would succeed, but the frequency and manner of its success removed all doubt. We have to reassess sandboxing quality for capable AI agents, and in general the software stack with which they...",
-      "url": "https://www.schneier.com/blog/archives/2026/09/using-a-vm-to-contain-an-ai-agent.html",
-      "date": "2026-09-04T16:31:38Z"
-    },
-    {
-      "title": "Security Vulnerability in a Voting System",
-      "description": "[SCHNEIER] It&#8217;s a vulnerability that allows someone to recover the order of ballots cast, newly exploited with AI tools. Nearly four years since the original vulnerability was disclosed, I was still able to use it to analyze voter behavior in Georgia...",
-      "url": "https://www.schneier.com/blog/archives/2026/09/security-vulnerability-in-a-voting-system.html",
-      "date": "2026-09-04T11:09:35Z"
-    },
-    {
-      "title": "AI Coding Agents Are Installing Unknown/Untrusted Code on Corporate Networks",
-      "description": "[SCHNEIER] We cannot forget that AI coding agents are not yet trustworthy: Researchers at a stealth startup in Israel scanned 6,214 live domains belonging to defense contractors, Fortune 500, and Big Tech companies. Of the 8,265 llms.txt and llms-full.txt...",
-      "url": "https://www.schneier.com/blog/archives/2026/09/ai-coding-agents-are-installing-unknown-untrusted-code-on-corporate-networks.html",
-      "date": "2026-09-04T10:35:17Z"
-    },
-    {
-      "title": "ISC Stormcast For Friday, September 4th, 2026 https://isc.sans.edu/podcastdetail/10082, (Fri, Sep 4th)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33310",
-      "date": "2026-09-04T02:00:02Z"
-    },
-    {
-      "title": "Researching Employment Scams",
-      "description": "[SCHNEIER] Researchers built a fake company to study fake employee scams.",
-      "url": "https://www.schneier.com/blog/archives/2026/09/researching-employment-scams.html",
-      "date": "2026-09-03T11:18:14Z"
-    },
-    {
-      "title": "Honeypot-Omaha and batch.py &#x5b;Guest Diary&#x5d;, (Wed, Sep 2nd)",
-      "description": "[ISC] &#x5b;This is a Guest Diary by Frank Igbokwe, an ISC intern as part of the SANS.edu BACS program&#x5d;&#xd;",
-      "url": "https://isc.sans.edu/diary/rss/33306",
-      "date": "2026-09-03T02:02:56Z"
-    },
-    {
-      "title": "ISC Stormcast For Thursday, September 3rd, 2026 https://isc.sans.edu/podcastdetail/10080, (Thu, Sep 3rd)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33308",
-      "date": "2026-09-03T02:00:03Z"
-    },
-    {
-      "title": "ISC Stormcast For Wednesday, September 2nd, 2026 https://isc.sans.edu/podcastdetail/10078, (Wed, Sep 2nd)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33304",
-      "date": "2026-09-02T02:00:02Z"
-    }
-  ]
+    "title": "Sentinel Protocol",
+    "tagline": "Perimeter Intelligence Sync",
+    "updated": "2026-09-07 16:15 UTC",
+    "news": [
+        {
+            "source": {
+                "id": null,
+                "name": "The Daily Hodl"
+            },
+            "author": "Daily Hodl Agent",
+            "title": "Dallas Nonprofit Breached, Placing Data of 12,490 People Nationwide at Risk: Report",
+            "description": "A February cyberattack on the Resource Center of Dallas exposed personal and protected health information of 12,490 people across the U.S.\nThe post Dallas Nonprofit Breached, Placing Data of 12,490 People Nationwide at Risk: Report appeared first on The Daily\u2026",
+            "url": "https://dailyhodl.com/2026/09/06/dallas-nonprofit-breached-placing-data-of-12490-people-nationwide-at-risk-report/",
+            "urlToImage": "https://dailyhodl.com/wp-content/uploads/2025/04/breach-data-bank.jpg?resize=1365,800",
+            "publishedAt": "2026-09-06T15:30:32Z",
+            "content": "A Dallas nonprofit is notifying people across the country about a data breach that put sensitive personal and health information at risk.\r\nThe incident at Resource Center of Dallas exposed names, Soc\u2026 [+1526 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Itsfoss.com"
+            },
+            "author": "Abhishek Prakash",
+            "title": "Switzerland's Federal Government is Replacing Microsoft on 3,000 Computers",
+            "description": "This is the pilot phase, with 3,000 workstations moving away from Microsoft 365. The federal administration has over 54,000 computers.",
+            "url": "https://itsfoss.com/news/switzerland-replace-microssoft-pilot/",
+            "urlToImage": "https://itsfoss.com/content/images/2026/09/swiss-federal-migration.webp",
+            "publishedAt": "2026-09-06T15:23:30Z",
+            "content": "Switzerland's federal government has launched a pilot program to replace Microsoft 365 with open source alternatives across 3,000 workstations. That's about 7% of the federal workforce. The target is\u2026 [+3481 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Kitploit.com"
+            },
+            "author": "Kitploit",
+            "title": "zairo",
+            "description": "Scans code diffs with context to build an impact graph and uses LLMs to find vulnerabilities, supporting multi-repo scans and CI gating with SARIF output.",
+            "url": "https://kitploit.com/en/tools/github/iamavu/zairo/",
+            "urlToImage": "https://assets.kitploit.com/production/public/tools/54282/143f96acb28960d647c7a5123912272b95874af715ba248f9a46cbc7e17a34f8-social-v1.webp",
+            "publishedAt": "2026-09-06T15:20:59Z",
+            "content": "Skip to contentHacking, PenTest, and Cybersecurity Tools for Your Security Arsenal!\r\nKitploit is a directory of hacking, cybersecurity, and pentesting tools. Discover the latest project updates to fi\u2026 [+6402 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Tom's Hardware UK"
+            },
+            "author": "ashilov@gmail.com (Anton Shilov) , Anton Shilov",
+            "title": "OpenAI admits to 'wiki incident' after its agents were discovered using a programming hub to communicate \u2014 says more transparency is needed regarding misalignments",
+            "description": "Firm comes clean about the incident only after being found out. Ponders renewed 'misalignment disclosure practices.'",
+            "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-admits-to-wiki-incident-after-its-agents-were-discovered-using-a-programming-hub-to-communicate-says-more-transparency-is-needed-regarding-misalignments",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/bqKbbbB3ZdRgDH7Pz95FKT-1920-80.jpg",
+            "publishedAt": "2026-09-06T14:31:54Z",
+            "content": "OpenAI has admitted that its experimental AI agents used an open German programming wiki to communicate, according to a Reuters report. This happened weeks before similar AI agents broke through rest\u2026 [+5052 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Psychology Today"
+            },
+            "author": "Cornelia C. Walther Ph.D.",
+            "title": "Do We Accept This Intelligence Imbalance Without a Fight?",
+            "description": "We are constructing immense infrastructure to strengthen artificial intelligence while paying little attention to the capabilities humans need to remain competent users of it.",
+            "url": "https://www.psychologytoday.com/us/blog/harnessing-hybrid-intelligence/202609/do-we-accept-this-intelligence-imbalance-without-a-fight",
+            "urlToImage": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2026-09/2026-09_intelligence_imbalance.png.jpg?itok=VwYrREjZ",
+            "publishedAt": "2026-09-06T14:31:28Z",
+            "content": "In July 2026, an internal OpenAI cybersecurity evaluation produced an outcome that needs attention beyond the technology sector. AI agents circumvented controls intended to isolate them from the inte\u2026 [+7151 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Barchart.com"
+            },
+            "author": "Ruchi Gupta",
+            "title": "Google Unveils Gemini 3.8 Flash and Fairwind Program: How to Play GOOGL Stock Here",
+            "description": "Google recently unveiled Fairwind while launching Gemini 3.8 Flash as the company looks to catch up on the AI race.",
+            "url": "https://www.barchart.com/story/news/4467718/google-unveils-gemini-3-8-flash-and-fairwind-program-how-to-play-googl-stock-here",
+            "urlToImage": "https://s.yimg.com/lo/mysterio/api/837f03d86c61c245ee2ad6b1273a4853bf93909ddbb405948164fd6ef3c6c158/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbarchart_com_477%2F1e2479f4257cd273a18d6e63fdd6213f.jpg",
+            "publishedAt": "2026-09-06T14:00:02Z",
+            "content": "Alphabet Inc office logo by- JHVEPhoto via iStock\r\nAlphabet (GOOGL) is the parent company of Google and one of the world's largest technology conglomerates. Headquartered in Mountain View, California\u2026 [+5142 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Securityaffairs.com"
+            },
+            "author": "Pierluigi Paganini",
+            "title": "Your MikroTik Router May Already Be Compromised: Look for SSH User \u201c-2\u201d",
+            "description": "MikroTik RouterOS SSH zero-day (MikroTrick chain) under active exploitation since Sept 2. Patch to 7.24.2, 7.23.5, or 6.49.21 immediately and check logs. Anyone running a MikroTik router with SSH exposed to the internet should treat it as compromised until pr\u2026",
+            "url": "https://securityaffairs.com/198538/security/your-mikrotik-router-may-already-be-compromised-look-for-ssh-user-2.html",
+            "urlToImage": "https://securityaffairs.com/wp-content/uploads/2019/04/Mikrotik-2.jpg",
+            "publishedAt": "2026-09-06T13:46:02Z",
+            "content": "Your MikroTik Router May Already Be Compromised: Look for SSH User -2\r\nAnyone running a MikroTik router with SSH exposed to the internet should treat it as compromised until proven otherwise. The pop\u2026 [+5102 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PCMag.com"
+            },
+            "author": "Will Mccurdy",
+            "title": "OpenAI Agents Take Over German Wiki To Talk to Each Other",
+            "description": "A group of AI researchers said they found 15,000 edits carried out by AI agents on DseWiki, which is meant to serve as a resource for coders.\nIn late July, open-source AI repository Hugging Face suffered a breach that apparently came from an autonomous AI pro\u2026",
+            "url": "https://uk.pcmag.com/ai/167116/openai-agents-take-over-german-wiki-to-talk-to-each-other",
+            "urlToImage": "https://sm.pcmag.com/t/pcmag_uk/news/o/openai-age/openai-agents-take-over-german-wiki-to-talk-to-each-other_jddg.1200.jpg",
+            "publishedAt": "2026-09-06T13:17:43Z",
+            "content": "In late July, open-source AI repository Hugging Face suffered a breach that apparently came from an autonomous AI program. OpenAI later admitted that several of their AI models had broken out of cont\u2026 [+2232 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Kitploit.com"
+            },
+            "author": "Kitploit",
+            "title": "OpenPetya v2.0.0",
+            "description": "A Proof-of-Concept bootkit and UEFI boot application inspired by Petya ransomware, written in Assembly, C, and C++",
+            "url": "https://kitploit.com/en/posts/github-iss4cf0ng-openpetya-v200",
+            "urlToImage": "https://assets.kitploit.com/production/public/tools/7582/233cb76ad0586df9c9033d5f8e598785c14ba0457f77404099d28052f337ca0f.png",
+            "publishedAt": "2026-09-06T12:20:22Z",
+            "content": "OpenPetya\r\nA Proof-of-Concept bootkit and UEFI boot application inspired by Petya ransomware, written in Assembly, C, and C++\r\nIf you find this project helpful or informative, I would truly appreciat\u2026 [+7944 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": null,
+            "title": "Should you use a separate computer for online banking?",
+            "description": "A dedicated banking computer isolates your financial accounts from malware and phishing, but passwords, SIM swapping and outdated software remain risks.",
+            "url": "https://www.foxnews.com/tech/should-use-separate-computer-online-banking",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/02/person-on-computer.jpg",
+            "publishedAt": "2026-09-06T12:16:14Z",
+            "content": "When so much of your financial life lives online, protecting the device you use to access your money deserves some extra thought. Nancy from Baton Rouge, Louisiana, recently wrote to us asking whethe\u2026 [+11690 chars]"
+        }
+    ]
 }
