@@ -1,6 +1,30 @@
 {
-  "updated": "2026-09-09 18:55:52 UTC",
+  "updated": "2026-09-09 22:05:58 UTC",
   "news": [
+    {
+      "title": "Cisco confirms CVE-2026-20079 Secure FMC flaw exploited in attacks",
+      "description": "[BLEEPINGCOMPUTER] Cisco has confirmed that a maximum-severity authentication bypass vulnerability tracked as CVE-2026-20079 in its Secure Firewall Management Center (FMC) software is being actively exploited in attacks. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/cisco-confirms-cve-2026-20079-secure-fmc-flaw-exploited-in-attacks/",
+      "date": "2026-09-09T21:40:44Z"
+    },
+    {
+      "title": "AdaptHealth confirms 4.1 million people exposed in July cyberattack",
+      "description": "[BLEEPINGCOMPUTER] Healthcare company AdaptHealth has confirmed that data of 4.1 million people was exposed in a cyberattack discovered in July that was attributed to the ShinyHunters threat group. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/adapthealth-confirms-41-million-people-exposed-in-july-cyberattack/",
+      "date": "2026-09-09T21:30:36Z"
+    },
+    {
+      "title": "Skullcandy Dime 3 earbuds expose users to Bluetooth hijacking",
+      "description": "[BLEEPINGCOMPUTER] The Carnegie Mellon University CERT Coordination Center (CERT/CC) is warning that Skullcandy Dime 3 wireless earbuds accept Bluetooth pairing requests from nearby unpaired devices without requiring user interaction. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/skullcandy-dime-3-earbuds-expose-users-to-bluetooth-hijacking/",
+      "date": "2026-09-09T21:02:14Z"
+    },
+    {
+      "title": "U.S. Disrupts Xinbi Guarantee Scam Marketplace, Freezes $52.8 Million in Crypto",
+      "description": "[FEEDS] The U.S. Department of Justice (DoJ) on Wednesday announced coordinated actions aimed at an illicit online marketplace called Xinbi Guarantee that offered scam services, including seizing Telegram channels used to run the service, confiscating two...",
+      "url": "https://thehackernews.com/2026/09/us-disrupts-xinbi-guarantee-scam.html",
+      "date": "2026-09-09T18:26:05Z"
+    },
     {
       "title": "Scans for Proxmox Servers, (Wed, Sep 9th)",
       "description": "[ISC] About a week ago, Proxmox published an advisory revealing a vulnerability in older versions of Proxmox VE, its flagship Virtual Environment product. The vulnerability only affects version 7, which has not been supported for a couple of years...",
@@ -12,6 +36,12 @@
       "description": "[BLEEPINGCOMPUTER] U.S. cybersecurity and intelligence agencies say that six Chinese AI companies conducted industrial-scale distillation attacks on American frontier AI models since at least late 2024. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/us-says-chinese-firms-extracted-billions-of-tokens-from-frontier-ai-models/",
       "date": "2026-09-09T16:48:33Z"
+    },
+    {
+      "title": "Four Spy Groups Used the Same Chrome and Windows Exploit Kit Within a Week",
+      "description": "[FEEDS] Multiple espionage-motivated threat activity clusters have been found deploying a previously undocumented exploit kit called BlueMoon that chains together multiple vulnerabilities in Microsoft Windows and Google Chrome. The first in-the-wild use of...",
+      "url": "https://thehackernews.com/2026/09/four-spy-groups-used-same-chrome-and.html",
+      "date": "2026-09-09T16:34:05Z"
     },
     {
       "title": "Driver\u2019s License Data for Sale",
@@ -62,94 +92,64 @@
       "date": "2026-09-09T10:43:04Z"
     },
     {
-      "title": "Over 36,000 exposed Plex servers vulnerable to recent flaws",
-      "description": "[BLEEPINGCOMPUTER] Over 36,000 Plex Media servers exposed online remain unpatched against multiple security vulnerabilities and are vulnerable to attacks. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/over-36-000-plex-servers-unpatched-against-recently-disclosed-flaws/",
-      "date": "2026-09-09T10:11:29Z"
+      "title": "BreachX launches Typhon, a group of cybersecurity AI models",
+      "description": "[THE HINDU BUSINESS LINE] BreachX launches Typhon, an AI-driven cybersecurity model family for sovereign vulnerability detection and protection within customer environments.",
+      "url": "https://www.thehindubusinessline.com/info-tech/breachx-launches-typhon-a-group-of-cybersecurity-ai-models/article71446672.ece",
+      "date": "2026-09-09T09:52:19Z"
     },
     {
-      "title": "U.S. Agencies Accuse China AI Firms of Distilling Claude, GPT, Gemini, and Grok",
-      "description": "[FEEDS] U.S. cybersecurity and intelligence agencies have accused China-based artificial intelligence (AI) companies of conducting \"systematic extraction\" of proprietary functionalities and capabilities of American frontier models through distillation...",
-      "url": "https://thehackernews.com/2026/09/us-agencies-accuse-china-ai-firms-of.html",
-      "date": "2026-09-09T09:32:26Z"
+      "title": "US intelligence advisory names six Chinese AI firms and lists the US models each one targeted",
+      "description": "[TNW] A joint NSA, FBI and CISA advisory names DeepSeek, Moonshot AI, Alibaba, MiniMax, StepFun and Z.AI over industrial-scale distillation of US frontier AI models since late 2024.",
+      "url": "https://thenextweb.com/news/nsa-fbi-cisa-advisory-chinese-ai-distillation",
+      "date": "2026-09-09T09:47:09Z"
+    },
+    {
+      "title": "NY companies overhauled security after 9/11, some escaping to NJ",
+      "description": "[ASBURY PARK PRESS] The sweeping security changes companies made after 9/11 are still with us today. Some moved key operations to NJ. Now, cybersecurity adds a wrinkle.",
+      "url": "https://www.app.com/story/news/business/2026/09/09/corporate-security-after-911-attacks-nj/91387158007/",
+      "date": "2026-09-09T09:46:07Z"
     },
     {
       "title": "Chrome V8 Zero-Day Exploited in the Wild Enables Code Execution Inside Sandbox",
-      "description": "[FEEDS] Google on Thursday released updates to patch 230 security vulnerabilities, including one that has come under active exploitation in the wild. The medium-severity vulnerability, assigned the CVE identifier CVE-2026-87491 (CVSS score: N/A), has been...",
+      "description": "[THE HACKER NEWS] Google patches an actively exploited Chrome V8 flaw that allows arbitrary code execution inside the sandbox via a crafted HTML page.",
       "url": "https://thehackernews.com/2026/09/chrome-v8-zero-day-exploited-in-wild.html",
-      "date": "2026-09-09T09:11:03Z"
+      "date": "2026-09-09T09:11:00Z"
     },
     {
-      "title": "Man gets 15 years for extorting women with AI-generated porn videos",
-      "description": "[BLEEPINGCOMPUTER] An Ohio man was sentenced to 15 years in prison for multiple cybercrimes, including sextortion and cyberstalking of numerous victims using AI-generated sexually explicit content. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/man-gets-15-years-in-prison-for-cyberstalking-and-sextortion/",
-      "date": "2026-09-09T08:44:22Z"
+      "title": "PwC India Announces Strategic Alliance With Claroty for OT and Connected Environment Cybersecurity",
+      "description": "[THE TRIBUNE] Mumbai (Maharashtra) [India], September 9: PwC India today announced an alliance with Claroty, a cyber-physical systems (CPS) protection company, to help organisations address the evolving cybersecurity needs of connected environments. As businesses...",
+      "url": "https://www.tribuneindia.com/news/business/pwc-india-announces-strategic-alliance-with-claroty-for-ot-and-connected-environment-cybersecurity/",
+      "date": "2026-09-09T08:57:47Z"
     },
     {
-      "title": "New Microsoft Defender 'ShieldCrash' zero-day grants SYSTEM access",
-      "description": "[BLEEPINGCOMPUTER] An anonymous security researcher known as Nightmare Eclipse has released a new Microsoft Defender zero-day exploit named \"ShieldCrash\" right after Microsoft rolled out its September 2026 Patch Tuesday security updates. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/new-microsoft-defender-shieldcrash-zero-day-grants-system-access/",
-      "date": "2026-09-09T07:30:15Z"
+      "title": "UIDAI's Cybersecurity Innovations to Secure Aadhaar for the Quantum Era",
+      "description": "[DEVDISCOURSE] The UIDAI, under the leadership of Neelkanth Mishra, is advancing its cybersecurity measures amidst daily hacking attempts. Utilizing AI and preparing for quantum challenges, the authority ensures the integrity of Aadhaar's infrastructure while...",
+      "url": "https://www.devdiscourse.com/article/business/3974843-uidais-cybersecurity-innovations-to-secure-aadhaar-for-the-quantum-era",
+      "date": "2026-09-09T08:56:51Z"
     },
     {
-      "title": "BreachX unveils Typhon, sovereign AI models to strengthen cybersecurity for governments, defence",
-      "description": "[LIVEMINT] BreachX has launched Typhon, a family of sovereign cybersecurity AI models designed to discover, validate and protect against software vulnerabilities. The models can run on-premises, private clouds and air-gapped environments, keeping sensitive...",
-      "url": "https://www.livemint.com/ai/breachx-unveils-typhon-sovereign-ai-models-to-strengthen-cybersecurity-for-governments-defence-11788934014541.html",
-      "date": "2026-09-09T06:40:00Z"
+      "title": "PwC India Announces Strategic Alliance With Claroty for OT and Connected Environment Cybersecurity",
+      "description": "[ANI (ASIAN NEWS INTERNATIONAL)] Mumbai (Maharashtra) [India], September 9: PwC India today announced an alliance with Claroty, a cyber-physical systems (CPS) protection company, to help organisations address the evolving cybersecurity needs of connected environments. As businesses...",
+      "url": "https://www.aninews.in/news/business/pwc-india-announces-strategic-alliance-with-claroty-for-ot-and-connected-environment-cybersecurity20260909142609/",
+      "date": "2026-09-09T08:56:09Z"
     },
     {
-      "title": "TUTK Helps Indian Security Customers Achieve STQC Cybersecurity Certification",
-      "description": "[THE TRIBUNE] Secure P2P Connectivity, Cloud Governance, and Flexible Deployment Support Compliance and Market Expansion in India TAIPEI and NEW DELHI, India, Sept. 9, 2026 /PRNewswire/ -- TUTK, a global cloud platform and connectivity service provider, today...",
-      "url": "https://www.tribuneindia.com/news/business/tutk-helps-indian-security-customers-achieve-stqc-cybersecurity-certification-2-2/",
-      "date": "2026-09-09T06:21:08Z"
+      "title": "Irish cyber and compliance company ZeroRisk raises $10m",
+      "description": "[SILICONREPUBLIC.COM] Irish cybersecurity and compliance company ZeroRisk has raised $10m in a Series A funding round led by MiddleGame Ventures with participation from Elkstone.",
+      "url": "https://www.siliconrepublic.com/start-ups/irish-cyber-and-compliance-company-zerorisk-raises-10m",
+      "date": "2026-09-09T08:12:10Z"
     },
     {
-      "title": "Australia\u2019s data centre debate: The growing demand for AI and its environmental and security challenges",
-      "description": "[SBS AUSTRALIA] Australia and around the world, a new debate is emerging over the construction of data centres. Why are they suddenly in such high demand, and does artificial intelligence have a role to play? Hear our in-depth conversation on this important topic...",
-      "url": "https://www.sbs.com.au/language/urdu/en/podcast-episode/australias-data-centre-debate-the-growing-demand-for-ai-and-its-environmental-and-security-challenges/93th4sh2h",
-      "date": "2026-09-09T05:46:11Z"
+      "title": "US firm used AI to hijack WeChat account, spurring call for cyber cooperation with China",
+      "description": "[SOUTH CHINA MORNING POST] The flaw allowed for remote account takeovers without user interaction, prompting Tencent to patch the problem after Calif cybersecurity team flagged it.",
+      "url": "https://www.scmp.com/tech/article/3366898/us-firm-used-ai-hijack-wechat-account-spurring-call-cyber-cooperation-china",
+      "date": "2026-09-09T08:01:12Z"
     },
     {
-      "title": "ZeroRisk raises $10 million to scale merchant cybersecurity platform",
-      "description": "[PR NEWSWIRE UK] /PRNewswire/ -- ZeroRisk the Irish cybersecurity company helping payment providers manage and reduce cyber risk across their merchant portfolios, has raised...",
-      "url": "https://www.prnewswire.co.uk/news-releases/zerorisk-raises-10-million-to-scale-merchant-cybersecurity-platform-302872558.html",
-      "date": "2026-09-09T05:30:00Z"
-    },
-    {
-      "title": "TUTK Helps Indian Security Customers Achieve STQC Cybersecurity Certification",
-      "description": "[THE TRIBUNE] Taipei [Taiwan]/ New Delhi [India], September 9: TUTK, a global cloud platform and connectivity service provider, today announced that security devices from its customers in India, powered by TUTK's patented P2P connectivity and cloud technologies,...",
-      "url": "https://www.tribuneindia.com/news/business/tutk-helps-indian-security-customers-achieve-stqc-cybersecurity-certification/",
-      "date": "2026-09-09T05:27:44Z"
-    },
-    {
-      "title": "TUTK Helps Indian Security Customers Achieve STQC Cybersecurity Certification",
-      "description": "[ANI (ASIAN NEWS INTERNATIONAL)] Taipei [Taiwan]/ New Delhi [India], September 9: TUTK, a global cloud platform and connectivity service provider, today announced that security devices from its customers in India, powered by TUTK's patented P2P connectivity and cloud technologies,...",
-      "url": "https://www.aninews.in/news/business/tutk-helps-indian-security-customers-achieve-stqc-cybersecurity-certification20260909105354/",
-      "date": "2026-09-09T05:23:54Z"
-    },
-    {
-      "title": "US claims Chinese AI firms are carrying out \u2018industrial",
-      "description": "[ANI (ASIAN NEWS INTERNATIONAL)] US federal agencies claim Chinese AI firms are committing \"industrial-scale\" intellectual property theft through unauthorised model distillation using proxy transfer stations. Officials and companies like Anthropic warn of massive covert data...",
-      "url": "https://www.aninews.in/news/world/us/us-claims-chinese-ai-firms-are-carrying-out-8216industrial-scale8217-theft-of-trade-secrets20260909095711/",
-      "date": "2026-09-09T04:27:11Z"
-    },
-    {
-      "title": "N-able N-central Pre-Auth RCE Flaw Exploited in the Wild",
-      "description": "[THE HACKER NEWS] CISA added actively exploited N-able N-central CVE-2026-86218 to KEV, with federal agencies ordered to patch by September 11.",
-      "url": "https://thehackernews.com/2026/09/n-able-n-central-pre-auth-rce-flaw.html",
-      "date": "2026-09-09T04:27:00Z"
-    },
-    {
-      "title": "Kerala plans to extend school midday meal scheme to Class 12, add breakfast",
-      "description": "[MALAYALA MANORAMA] Kerala plans to expand its midday meal scheme to Class 12, adding breakfast, and is addressing K-TET concerns with a curative petition..Kerala school meals, midday meal scheme extension, breakfast for students, K-TET Supreme Court verdict, curative...",
-      "url": "https://www.onmanorama.com/news/kerala/2026/09/09/kerala-plans-to-extend-school-midday-meal-scheme-to-class-12-add-breakfast.html",
-      "date": "2026-09-09T03:37:57Z"
-    },
-    {
-      "title": "Why Andhra Pradesh Must Close Cybersecurity Gaps as Millions Move Into Digital Healthcare",
-      "description": "[DEVDISCOURSE] Andhra Pradesh\u2019s health sector remains at a formative stage of cybersecurity maturity despite strong state-level frameworks, leaving 46 million digital health accounts and nearly 12,000 public health facilities exposed to governance, skills and...",
-      "url": "https://www.devdiscourse.com/article/health/3973961-why-andhra-pradesh-must-close-cybersecurity-gaps-as-millions-move-into-digital-healthcare",
-      "date": "2026-09-09T03:22:55Z"
+      "title": "QNu Labs raises Rs 200 crore, to scale quantum-safe cybersecurity globally",
+      "description": "[MONEYCONTROL] The Series A1 round, led by the National Quantum Mission and Speciale Invest, takes the Bengaluru-based deep-tech startup\u2019s total capital raised to Rs 375 crore",
+      "url": "https://www.moneycontrol.com/news/business/funding/qnu-labs-raises-rs-200-crore-to-scale-quantum-safe-cybersecurity-globally-14026039.html",
+      "date": "2026-09-09T07:54:47Z"
     },
     {
       "title": "ISC Stormcast For Wednesday, September 9th, 2026 https://isc.sans.edu/podcastdetail/10086, (Wed, Sep 9th)",
