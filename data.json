@@ -1,6 +1,60 @@
 {
-  "updated": "2026-09-10 08:30:05 UTC",
+  "updated": "2026-09-10 13:56:55 UTC",
   "news": [
+    {
+      "title": "Redtail Payload Analysis &#x5b;Guest Diary&#x5d;, (Wed, Sep 9th)",
+      "description": "[ISC] &#x5b;This is a Guest Diary by Aaron Ng, an ISC intern as part of the SANS.edu BACS program&#x5d;&#xd;",
+      "url": "https://isc.sans.edu/diary/rss/33326",
+      "date": "2026-09-10T12:58:10Z"
+    },
+    {
+      "title": "Check Point Discloses Two 9.8-Rated VPN Certificate Flaws Enabling Unauthenticated RCE",
+      "description": "[FEEDS] Check Point has patched two critical vulnerabilities in the way its firewall and management products handle VPN certificates. The company says both could allow an unauthenticated remote attacker to run code, but only \"under specific conditions\" that...",
+      "url": "https://thehackernews.com/2026/09/check-point-discloses-two-98-rated-vpn.html",
+      "date": "2026-09-10T11:45:05Z"
+    },
+    {
+      "title": "PaperCut Attacker Uses Hundreds of AI Agents to Compromise 440+ Instances",
+      "description": "[FEEDS] A suspected Russian-speaking cyber actor has been attributed to the use of artificial intelligence (AI) to devise exploits targeting a recently disclosed pair of security flaws in PaperCut NG/MF and break into hundreds of instances. According to...",
+      "url": "https://thehackernews.com/2026/09/papercut-attacker-uses-hundreds-of-ai.html",
+      "date": "2026-09-10T11:41:53Z"
+    },
+    {
+      "title": "Gigabud Creates Android Work Profiles to Hide From Banking App Malware Checks",
+      "description": "[FEEDS] The Gigabud banking trojan now installs a second Android app that creates a work profile on an infected phone and drops a tampered banking app inside it, security firm Group-IB said in a&nbsp;report published on September 9. A work profile is a...",
+      "url": "https://thehackernews.com/2026/09/gigabud-creates-android-work-profiles.html",
+      "date": "2026-09-10T11:33:43Z"
+    },
+    {
+      "title": "Microsoft says September updates fix mouse settings reset issues",
+      "description": "[BLEEPINGCOMPUTER] Microsoft has fixed a known issue that wiped mouse settings on some Windows 11 systems after installing the KB5120998 August 2026 preview update. [...]",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-resolves-mouse-settings-reset-bug-windows-11-update/",
+      "date": "2026-09-10T11:14:28Z"
+    },
+    {
+      "title": "AIs Compress Exploit Timeline",
+      "description": "[SCHNEIER] Give an AI agent a mere rumor of an exploit, and it&#8217;s enough for them to find it. What&#8217;s worse, I found I could use my own agents to find the exploit just by knowing roughly what it was about and so could have been exploiting it well...",
+      "url": "https://www.schneier.com/blog/archives/2026/09/ais-compress-exploit-timeline.html",
+      "date": "2026-09-10T10:40:35Z"
+    },
+    {
+      "title": "CISA Flags Exploited Cisco, Citrix, Fortinet Flaws, Sets Sept. 12 Federal Patch Deadline",
+      "description": "[FEEDS] The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added three flaws, each impacting Cisco, Citrix, and Fortinet, to its Known Exploited Vulnerabilities (KEV) catalog, requiring Federal Civilian Executive Branch (FCEB)...",
+      "url": "https://thehackernews.com/2026/09/cisa-flags-exploited-cisco-citrix.html",
+      "date": "2026-09-10T10:36:46Z"
+    },
+    {
+      "title": "ISC Stormcast For Thursday, September 10th, 2026 https://isc.sans.edu/podcastdetail/10088, (Thu, Sep 10th)",
+      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
+      "url": "https://isc.sans.edu/diary/rss/33328",
+      "date": "2026-09-10T10:10:11Z"
+    },
+    {
+      "title": "CISA: WatchGuard RCE flaw now exploited in ransomware attacks",
+      "description": "[BLEEPINGCOMPUTER] The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has confirmed that ransomware gangs are also exploiting a critical WatchGuard Firebox firewall vulnerability, which it flagged as actively exploited in December. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-watchguard-rce-flaw-now-exploited-in-ransomware-attacks/",
+      "date": "2026-09-10T09:10:20Z"
+    },
     {
       "title": "Microsoft fixes bug that wiped Windows desktop settings",
       "description": "[BLEEPINGCOMPUTER] Microsoft says the September 2026 Patch Tuesday updates fix a known issue causing desktop settings to be lost or reset on some Windows devices. [...]",
@@ -8,10 +62,82 @@
       "date": "2026-09-10T08:08:16Z"
     },
     {
+      "title": "Nearly 1 in 10 Exposed LiteLLM Gateways Accepted the Example \"sk-1234\" Admin Key",
+      "description": "[FEEDS] Nearly one in ten of the internet-facing LiteLLM servers that&nbsp;Wiz Research&nbsp;scanned in February accepted&nbsp;sk-1234, the example admin key in LiteLLM's own setup guide. LiteLLM is an open-source AI gateway, the software a company puts...",
+      "url": "https://thehackernews.com/2026/09/nearly-1-in-10-exposed-litellm-gateways.html",
+      "date": "2026-09-10T07:12:55Z"
+    },
+    {
+      "title": "Anthropic Discloses Fourth AI Hacking Incident Involving Claude Opus 4.6",
+      "description": "[FEEDS] Anthropic on Wednesday disclosed a fourth incident in which its artificial intelligence (AI) model broke into real third-party systems, marking the latest in a growing list of cases that have raised concerns about the security risks posed by...",
+      "url": "https://thehackernews.com/2026/09/anthropic-ai-models-breached-real.html",
+      "date": "2026-09-10T07:04:01Z"
+    },
+    {
       "title": "Trezor warns users of email provider breach, phishing attacks",
       "description": "[BLEEPINGCOMPUTER] Trezor warned customers on Wednesday that threat actors who breached its third-party email provider are targeting them in phishing attacks. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/trezor-warns-users-of-email-provider-breach-phishing-attacks/",
       "date": "2026-09-10T06:56:33Z"
+    },
+    {
+      "title": "Where do senior cyber professionals come from when the junior jobs disappear?",
+      "description": "[HRM ASIA] AI is absorbing the junior work that senior cybersecurity professionals once learned on. Fortinet\u2019s Jess Ng on what that means for the talent pipeline and for retention.",
+      "url": "https://hrmasia.com/where-do-senior-cyber-professionals-come-from-when-the-junior-jobs-disappear/",
+      "date": "2026-09-10T00:32:29Z"
+    },
+    {
+      "title": "Stocks in news: Reliance Industries, Wipro, ICICI Bank, Coal India and Hindustan Zinc",
+      "description": "[THE ECONOMIC TIMES] Indian equity markets experienced a decline on Wednesday, extending their recent corrective phase. Several companies, including Reliance Industries and Coal India, are expected to be in focus. Railway stocks will be watched after the government...",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-reliance-industries-wipro-icici-bank-coal-india-and-hindustan-zinc/articleshow/133988014.cms",
+      "date": "2026-09-10T00:30:00Z"
+    },
+    {
+      "title": "More than 1m caught in Mathspace data breach",
+      "description": "[EUROPE SAYS] More than a million students, teachers, parents, and guardians have been caught up in a data breach at Australian learning provider Mathspace.",
+      "url": "https://www.europesays.com/3242655/",
+      "date": "2026-09-10T00:24:17Z"
+    },
+    {
+      "title": "Another Anthropic model gained access to the open internet, company says",
+      "description": "[CBS NEWS] Anthropic announced a fourth cybersecurity incident where Claude gained access to the open internet.",
+      "url": "https://www.cbsnews.com/news/anthropic-ai-model-internet-hack-fourth-time/",
+      "date": "2026-09-10T00:19:56Z"
+    },
+    {
+      "title": "Wavelink signs distribution agreement with AirBridge Networks to bring mission-critical ARNI\u2122 connectivity solutions to the Australian market",
+      "description": "[ITWIRE] Wavelink, a leading distributor of enterprise technology and cybersecurity solutions across Australia and New Zealand, today announced a distribution agreement with AirBridge...",
+      "url": "https://itwire.com/guest-articles/company-news/wavelink-signs-distribution-agreement-with-airbridge-networks-to-bring-mission-critical-arni-connectivity-solutions-to-the-australian-market",
+      "date": "2026-09-09T23:57:40Z"
+    },
+    {
+      "title": "Anthropic reports fourth cybersecurity incident with early version of Claude",
+      "description": "[THE STAR] Sept 9 (Reuters) - Anthropic on Wednesday \u2060identified a fourth cybersecurity incident involving an early version of its \u2060Claude AI model, a month after disclosing that the chatbot had \u200chacked into the systems of three companies during testing.",
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/09/10/anthropic-reports-fourth-cybersecurity-incident-with-early-version-of-claude",
+      "date": "2026-09-09T23:55:00Z"
+    },
+    {
+      "title": "Ontario court records accessed in cybersecurity breach",
+      "description": "[CBC.CA] The personal information of people involved in Ontario's court systems may have been stolen in a cyber attack, according to the chief justices of the province. An online case management system used by the courts and owned by Thomson Reuters Canada...",
+      "url": "https://www.cbc.ca/news/canada/toronto/ontario-courts-cyber-attack-9.7337861",
+      "date": "2026-09-09T23:50:00Z"
+    },
+    {
+      "title": "Anthropic reports fourth cybersecurity incident with early version of Claude",
+      "description": "[THE STRAITS TIMES] This comes a month after reports that the chatbot had hacked into the systems of three companies during testing. Read more at straitstimes.com.",
+      "url": "https://www.straitstimes.com/world/united-states/anthropic-reports-fourth-cybersecurity-incident-with-early-version-of-claude",
+      "date": "2026-09-09T22:35:00Z"
+    },
+    {
+      "title": "How Autonomous Agent Risks Are Reshaping Cybersecurity Investing",
+      "description": "[SEEKING ALPHA] AI security risks rise as frontier models fuel new attacks. Click for this look at current issues in cybersecurity and Anthropic and OpenAI's security efforts.",
+      "url": "https://seekingalpha.com/article/4944692-how-autonomous-agent-risks-are-reshaping-cybersecurity-investing",
+      "date": "2026-09-09T22:19:49Z"
+    },
+    {
+      "title": "Anthropic discloses fourth AI hacking incident missed in earlier review",
+      "description": "[LIVEMINT] ANTHROPIC-CYBERSECURITY:Anthropic discloses fourth AI hacking incident missed in earlier review",
+      "url": "https://www.livemint.com/technology/anthropic-discloses-fourth-ai-hacking-incident-missed-in-earlier-review-11788992372076.html",
+      "date": "2026-09-09T22:19:31Z"
     },
     {
       "title": "Cisco confirms CVE-2026-20079 Secure FMC flaw exploited in attacks",
@@ -26,70 +152,10 @@
       "date": "2026-09-09T21:30:36Z"
     },
     {
-      "title": "Skullcandy Dime 3 earbuds expose users to Bluetooth hijacking",
-      "description": "[BLEEPINGCOMPUTER] The Carnegie Mellon University CERT Coordination Center (CERT/CC) is warning that Skullcandy Dime 3 wireless earbuds accept Bluetooth pairing requests from nearby unpaired devices without requiring user interaction. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/skullcandy-dime-3-earbuds-expose-users-to-bluetooth-hijacking/",
-      "date": "2026-09-09T21:02:14Z"
-    },
-    {
-      "title": "Mega-breaches are driving a record surge in data compromise notices",
-      "description": "[WIS10] Data breach notices have already surpassed last year's total, a new ITRC report finds. Here is what's driving the surge and how to protect your accounts.",
-      "url": "https://www.wistv.com/2026/09/09/mega-breaches-are-driving-record-surge-data-compromise-notices/",
-      "date": "2026-09-09T18:39:09Z"
-    },
-    {
-      "title": "U.S. Disrupts Xinbi Guarantee Scam Marketplace, Freezes $52.8 Million in Crypto",
-      "description": "[FEEDS] The U.S. Department of Justice (DoJ) on Wednesday announced coordinated actions aimed at an illicit online marketplace called Xinbi Guarantee that offered scam services, including seizing Telegram channels used to run the service, confiscating two...",
-      "url": "https://thehackernews.com/2026/09/us-disrupts-xinbi-guarantee-scam.html",
-      "date": "2026-09-09T18:26:05Z"
-    },
-    {
-      "title": "Marc Wilson: Blood phobia triggers different physical responses to reactions from other phobias",
-      "description": "[THE NEW ZEALAND HERALD] T he boy has now finished his cybersecurity engineering degree, so he\u2019s finally pulled the curtain on his weekend job at a Wellington technology, electronics...",
-      "url": "https://www.nzherald.co.nz/the-listener/health/marc-wilson-blood-phobia-triggers-different-physical-responses-to-reactions-from-other-phobias/premium/PTBNSNGRLNADZETVFXZY4DNJAI/",
-      "date": "2026-09-09T18:08:00Z"
-    },
-    {
       "title": "Scans for Proxmox Servers, (Wed, Sep 9th)",
       "description": "[ISC] About a week ago, Proxmox published an advisory revealing a vulnerability in older versions of Proxmox VE, its flagship Virtual Environment product. The vulnerability only affects version 7, which has not been supported for a couple of years...",
       "url": "https://isc.sans.edu/diary/rss/33324",
       "date": "2026-09-09T17:46:24Z"
-    },
-    {
-      "title": "We need to scale up investments in tech, says Debadatta Chand",
-      "description": "[THE FINANCIAL EXPRESS] Speaking at the Global Fintech Fest, Bank of Baroda MD & CEO Debadatta Chand emphasized the urgent need for increased cybersecurity investments, plans to launch an AI-powered conversational banking app, and strategic fintech collaborations.",
-      "url": "https://www.financialexpress.com/business/news/we-need-to-scale-up-investments-in-tech-says-debadatta-chand/4335715/",
-      "date": "2026-09-09T17:37:51Z"
-    },
-    {
-      "title": "SpyCloud 2026 Identity Threat Report Finds Non-Human Identities Are Now the Leading Path into the Enterprise",
-      "description": "[TECHBULLION] Key identity security risks, cybersecurity threats and emerging trends, with insights into identity protection, data breaches and threat intelligence.",
-      "url": "https://techbullion.com/spycloud-2026-identity-threat-report-finds-non-human-identities-are-now-the-leading-path-into-the-enterprise/",
-      "date": "2026-09-09T17:17:58Z"
-    },
-    {
-      "title": "What comes after UPI? Fintech leaders outline India\u2019s next big opportunity",
-      "description": "[CNBC TV18] India\u2019s fintech opportunity is shifting towards deeper use of technology and data, with credit emerging as a key growth area for underserved borrowers. Industry leaders also see scope to take UPI beyond domestic payments by connecting more countries...",
-      "url": "https://www.cnbctv18.com/personal-finance/india-fintech-next-phase-beyond-upi-credit-global-expansion-19987901.htm",
-      "date": "2026-09-09T16:52:13Z"
-    },
-    {
-      "title": "US says Chinese firms extracted billions of tokens from frontier AI models",
-      "description": "[BLEEPINGCOMPUTER] U.S. cybersecurity and intelligence agencies say that six Chinese AI companies conducted industrial-scale distillation attacks on American frontier AI models since at least late 2024. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/us-says-chinese-firms-extracted-billions-of-tokens-from-frontier-ai-models/",
-      "date": "2026-09-09T16:48:33Z"
-    },
-    {
-      "title": "SASE OpsLab Ltd Appoints Cybersecurity Veteran Franck Burtin as Chief Revenue Officer to Drive Global SASE Automation Expansion",
-      "description": "[THE KINGSTON WHIG-STANDARD] LONDON, Sept. 09, 2026 (GLOBE NEWSWIRE) -- SASE OpsLab Ltd, the software-driven SASE automation and orchestration platform company, today announced the",
-      "url": "https://www.thewhig.com/press-releases/globe-newswire/sase-opslab-ltd-appoints-cybersecurity-veteran-franck-burtin-as-chief-revenue-officer-to-drive-global-sase-automation-expansion/",
-      "date": "2026-09-09T16:34:14Z"
-    },
-    {
-      "title": "Four Spy Groups Used the Same Chrome and Windows Exploit Kit Within a Week",
-      "description": "[FEEDS] Multiple espionage-motivated threat activity clusters have been found deploying a previously undocumented exploit kit called BlueMoon that chains together multiple vulnerabilities in Microsoft Windows and Google Chrome. The first in-the-wild use of...",
-      "url": "https://thehackernews.com/2026/09/four-spy-groups-used-same-chrome-and.html",
-      "date": "2026-09-09T16:34:05Z"
     },
     {
       "title": "Driver\u2019s License Data for Sale",
@@ -98,58 +164,10 @@
       "date": "2026-09-09T16:05:00Z"
     },
     {
-      "title": "ISMG Acquires INE to Advance Global Cyber Readiness Across Every Discipline and Role",
-      "description": "[THE KINGSTON WHIG-STANDARD] ISMG Unites Intelligence, Community, Live Events and Now Certification Into One Education Ecosystem Spanning Networking, Cybersecurity, Identity, AI and",
-      "url": "https://www.thewhig.com/press-releases/globe-newswire/ismg-acquires-ine-to-advance-global-cyber-readiness-across-every-discipline-and-role/",
-      "date": "2026-09-09T15:53:51Z"
-    },
-    {
-      "title": "Facebook trial over Cambridge Analytica privacy scandal begins in NM",
-      "description": "[THE BOSTON HERALD] Facebook is on trial in New Mexico over privacy concerns linked to the 2016 election. The state accuses the social media platform of failing to protect users from a data breach.",
-      "url": "https://www.bostonherald.com/2026/09/09/facebook-new-mexico-trial-begins/",
-      "date": "2026-09-09T15:27:45Z"
-    },
-    {
-      "title": "Facebook trial over Cambridge Analytica privacy scandal begins in NM",
-      "description": "[SANTA ROSA PRESS DEMOCRAT] Facebook is on trial in New Mexico over privacy concerns linked to the 2016 election. The state accuses the social media platform of failing to protect users from a data breach.",
-      "url": "https://www.pressdemocrat.com/2026/09/09/facebook-new-mexico-trial-begins/",
-      "date": "2026-09-09T15:27:45Z"
-    },
-    {
-      "title": "Facebook trial over Cambridge Analytica privacy scandal begins in NM",
-      "description": "[NORFOLK VIRGINIAN-PILOT] Facebook is on trial in New Mexico over privacy concerns linked to the 2016 election. The state accuses the social media platform of failing to protect users from a data breach.",
-      "url": "https://www.pilotonline.com/2026/09/09/facebook-new-mexico-trial-begins/",
-      "date": "2026-09-09T15:27:45Z"
-    },
-    {
-      "title": "Infostealer Logs Expose Replayable AI Tokens That Can Bypass MFA",
-      "description": "[FEEDS] Cybercriminals are hijacking artificial intelligence (AI) user accounts via information stealer logs to create \"stolen keys\" that grant illicit access to tools from model providers like Google, Anthropic, and others.&nbsp; Information stealers like...",
-      "url": "https://thehackernews.com/2026/09/infostealer-logs-expose-replayable-ai.html",
-      "date": "2026-09-09T14:23:55Z"
-    },
-    {
-      "title": "Webinar: Learn How to Answer \u201cAre We Exposed?\u201d Faster After a New CVE",
-      "description": "[FEEDS] A major vulnerability is disclosed. The alert lands immediately. Then comes the harder question: Are we actually exposed? For many security teams, answering that means jumping between vulnerability scanners, endpoint tools, cloud inventories, SBOMs,...",
-      "url": "https://thehackernews.com/2026/09/webinar-learn-how-to-answer-are-we.html",
-      "date": "2026-09-09T11:57:36Z"
-    },
-    {
-      "title": "DeepSeek Harness Flaw Let AI Agents Disable Their Own File Sandbox Without Approval",
-      "description": "[FEEDS] A flaw in DeepSeek Harness, DeepSeek's open-source tool for running AI coding agents on a developer's machine, let a sandboxed agent turn off its own sandbox with a single command. The tool runs an agent's commands inside an operating-system...",
-      "url": "https://thehackernews.com/2026/09/deepseek-harness-flaw-let-ai-agents.html",
-      "date": "2026-09-09T11:17:07Z"
-    },
-    {
       "title": "Claude Fable Solves a Historical Cipher",
       "description": "[SCHNEIER] Claude Fable 5.1 solved a 370-year-old cipher in forty-four minutes. This tracks with what I wrote about AIs doing mathematics: It&#8217;s good at things that involve lots of searching and testing.",
       "url": "https://www.schneier.com/blog/archives/2026/09/claude-fable-solves-a-historical-cipher.html",
       "date": "2026-09-09T11:08:26Z"
-    },
-    {
-      "title": "Alby Hub Critical Flaw Could Let Attackers Take Over Internet-Exposed Bitcoin Wallets",
-      "description": "[FEEDS] Bitcoin wallet company Alby has&nbsp;warned of a critical flaw&nbsp;in Alby Hub that could have let an attacker take over a wallet and send its funds, but only where the owner had made the Hub reachable from the internet. Alby Hub is a self-hosted...",
-      "url": "https://thehackernews.com/2026/09/alby-hub-critical-flaw-could-let.html",
-      "date": "2026-09-09T10:43:04Z"
     },
     {
       "title": "ISC Stormcast For Wednesday, September 9th, 2026 https://isc.sans.edu/podcastdetail/10086, (Wed, Sep 9th)",
@@ -186,24 +204,6 @@
       "description": "[SCHNEIER] Not sure it&#8217;s practical, but it&#8217;s certainly striking.",
       "url": "https://www.schneier.com/blog/archives/2026/09/automobile-camouflage-to-hide-from-flock-cameras.html",
       "date": "2026-09-07T11:06:40Z"
-    },
-    {
-      "title": "Critical MikroTik Vulnerability - Patch Now, (Sun, Sep 6th)",
-      "description": "[ISC] Mikrotik released a patch late last week for an already-exploited vulnerability. The vulnerability allows an SSH authentication bypass and is already being exploited. At this point, assume compromise. Attackers have been adding new accounts to...",
-      "url": "https://isc.sans.edu/diary/rss/33314",
-      "date": "2026-09-06T21:43:17Z"
-    },
-    {
-      "title": "numbat - AI agent observability, (Fri, Sep 4th)",
-      "description": "[ISC] &#xd;",
-      "url": "https://isc.sans.edu/diary/rss/33312",
-      "date": "2026-09-05T03:39:52Z"
-    },
-    {
-      "title": "Friday Squid Blogging: Squid on a Stick at the New York State Fair",
-      "description": "[SCHNEIER] Looks tasty. As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered. Blog moderation policy.",
-      "url": "https://www.schneier.com/blog/archives/2026/09/friday-squid-blogging-squid-on-a-stick-at-the-new-york-state-fair.html",
-      "date": "2026-09-04T21:01:35Z"
     }
   ]
 }
