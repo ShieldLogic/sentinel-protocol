@@ -1,209 +1,137 @@
 {
-  "updated": "2026-09-12 13:15:02 UTC",
-  "news": [
-    {
-      "title": "When the Whole Company Adopts AI: What It Does to Your SOC",
-      "description": "[FEEDS] Over the past year, we watched a new class of alert appear in enterprise security operations centers and grow faster than anything else in the stream: alerts that were triggered by AI tools and agents. Not attacks against AI, but the ordinary,...",
-      "url": "https://thehackernews.com/2026/09/when-whole-company-adopts-ai-what-it.html",
-      "date": "2026-09-12T10:24:44Z"
-    },
-    {
-      "title": "OpenAI Agents Linked to RubyGems Campaign That Gained RCE on RubyDoc Servers",
-      "description": "[FEEDS] The \"major malicious attack\" that targeted RubyGems in May 2026 was the work of a swarm of OpenAI agents, according to a new report published by researchers Spencer Kitts, Thomas Larsen, and Sydney Von Arx. On May 12, Maciej Mensfeld, senior product...",
-      "url": "https://thehackernews.com/2026/09/openai-agents-linked-to-rubygems.html",
-      "date": "2026-09-12T09:07:56Z"
-    },
-    {
-      "title": "CrowdStrike Posts Record Results-But Investors May Still Be Overlooking This AI Tailwind",
-      "description": "[SEEKING ALPHA] Cybersecurity stocks are surging, beating AI semis as AI-driven growth accelerates.",
-      "url": "https://seekingalpha.com/article/4945669-crowdstrike-posts-record-results-but-investors-may-still-be-overlooking-this-ai-tailwind",
-      "date": "2026-09-11T23:10:25Z"
-    },
-    {
-      "title": "Friday Squid Blogging: Rotting Squid on a Beached California Boat",
-      "description": "[SCHNEIER] Smells awful: But an estimated 30 to 50 tons of dead squid remain inside the boat&#8217;s catch tank, where they have been decomposing for days. &#8220;That is nasty. I wouldn&#8217;t want to do that,&#8221; said commercial fisherman Dick Ogg of the...",
-      "url": "https://www.schneier.com/blog/archives/2026/09/friday-squid-blogging-rotting-squid-on-a-beached-california-boat.html",
-      "date": "2026-09-11T21:03:27Z"
-    },
-    {
-      "title": "Florida DMV says it was hacked shortly after major driver\u2019s license breach",
-      "description": "[NBC NEWS] Florida\u2019s Department of Highway Safety and Motor Vehicles said Friday that it\u2019s investigating a data breach, making it the second organization that hosts Americans\u2019 driver\u2019s license information to be hacked this month.",
-      "url": "https://www.nbcnews.com/tech/security/florida-dmv-says-was-hacked-shortly-major-drivers-license-breach-rcna597207",
-      "date": "2026-09-11T20:56:38Z"
-    },
-    {
-      "title": "Hackers abused Claude to extract secrets from 1.8M Android apps",
-      "description": "[BLEEPINGCOMPUTER] Anthropic says multiple threat groups, including the financially motivated and state-sponsored espionage groups linked to Russia and China, tried to abuse its Claude AI model for malicious purposes. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-abused-claude-to-extract-secrets-from-18m-android-apps/",
-      "date": "2026-09-11T20:19:09Z"
-    },
-    {
-      "title": "Florida confirms DMV database breached via stolen police account",
-      "description": "[BLEEPINGCOMPUTER] The Florida Department of Highway Safety and Motor Vehicles (FLHSMV) has confirmed that its DAVID driver database suffered a data breach, saying the attackers gained access using credentials belonging to a police department employee. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/florida-confirms-dmv-database-breached-via-stolen-police-account/",
-      "date": "2026-09-11T19:00:29Z"
-    },
-    {
-      "title": "UNT names new AI college after Anuradha and Vikas Sinha following \u20b9191 crore donation",
-      "description": "[BUSINESS TODAY] The new college is expected to become an academic and research hub focused on artificial intelligence, intelligent systems, data analytics, cybersecurity, health informatics and learning technologies",
-      "url": "https://www.businesstoday.in/latest/world/story/unt-names-new-ai-college-after-anuradha-and-vikas-sinha-following-rs191-crore-donation-554888-2026-09-12",
-      "date": "2026-09-11T18:50:03Z"
-    },
-    {
-      "title": "AI Is Going Rogue: 3 Stocks I'm Buying",
-      "description": "[SEEKING ALPHA] AI safety fears rise as researchers quit, yet AI spending grows. Click for this look at cybersecurity and my exclusive top 3 picks in that sector.",
-      "url": "https://seekingalpha.com/article/4945626-ai-is-going-rogue-3-stocks-im-buying",
-      "date": "2026-09-11T18:45:36Z"
-    },
-    {
-      "title": "Microsoft Smashes Patch Tuesday Record With 974 Security Fixes",
-      "description": "[HOT HARDWARE] Microsoft's latest Patch Tuesday breaks records once more thanks to AI-accelerated cybersecurity flaw discovery and associated patches.",
-      "url": "https://hothardware.com/news/microsoft-smashes-patch-tuesday-record-with-974-security-fixes",
-      "date": "2026-09-11T18:35:00Z"
-    },
-    {
-      "title": "My Talk at DEF CON",
-      "description": "[SCHNEIER] Last month, I gave a talk at DEF CON on AI hacking: what happens when AIs become hackers. It&#8217;s a combination of the potentialities I raised in my 2022 book A Hacker&#8217;s Mind and the lessons we&#8217;re learning from current AI models...",
-      "url": "https://www.schneier.com/blog/archives/2026/09/my-talk-at-def-con.html",
-      "date": "2026-09-11T18:06:24Z"
-    },
-    {
-      "title": "3 Springfield charter schools part of cybersecurity pilot program",
-      "description": "[MASSLIVE] The school used the funds, she said, to hire a cybersecurity company that monitors its computers for suspicious activity, deploys tools to block malicious emails and backs up the school\u2019s Google-based tools.",
-      "url": "https://www.masslive.com/westernmass/2026/09/3-springfield-charter-schools-part-of-cybersecurity-pilot-program.html",
-      "date": "2026-09-11T17:46:45Z"
-    },
-    {
-      "title": "Passkey-themed phishing attacks lead to Microsoft 365 data theft",
-      "description": "[BLEEPINGCOMPUTER] Microsoft says threat actors linked to ShinyHunters, Helix, and other extortion gangs are using passkey and single sign-on-themed social engineering attacks to compromise corporate Microsoft accounts and steal data from Microsoft 365 services. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/passkey-themed-phishing-attacks-lead-to-microsoft-365-data-theft/",
-      "date": "2026-09-11T17:26:50Z"
-    },
-    {
-      "title": "Anthropic researcher\u2019s resignation highlights governance concerns for AI firms\u2019 IPOs",
-      "description": "[EUROPE SAYS] A recent employee resignation and a cybersecurity incident initiated by artificial intelligence agents have highlighted some of the safety, governance and",
-      "url": "https://www.europesays.com/3245671/",
-      "date": "2026-09-11T17:19:16Z"
-    },
-    {
-      "title": "Now recruiting: North Korea looks abroad for talent in its scheme to infiltrate U.S. companies",
-      "description": "[NBC NEWS] North Korea\u2019s surreptitious push to plant employees in U.S. companies has expanded to include remote workers from other countries, such as Iran and Lebanon, according to U.S. government and foreign agencies and several cybersecurity researchers.",
-      "url": "https://www.nbcnews.com/tech/security/north-korea-worker-scheme-recruits-abroad-rcna596873",
-      "date": "2026-09-11T17:18:07Z"
-    },
-    {
-      "title": "Praruh Technologies enters strategic partnership with IBM",
-      "description": "[SCANX.TRADE] Praruh Technologies partners with IBM for cloud, AI, and cybersecurity solutions. Agreement announced on September 11, 2026, under SEBI Regulation 30. Deal is on an arm's length basis with no promoter interest involved.",
-      "url": "https://scanx.trade/stock-market-news/companies/praruh-technologies-enters-strategic-partnership-ibm/50692172",
-      "date": "2026-09-11T17:09:40Z"
-    },
-    {
-      "title": "SEBI proposes extending IT, cyber security framework of MIIs to their arms",
-      "description": "[THE HINDU] SEBI proposes extending IT and cybersecurity frameworks of Market Infrastructure Institutions to their subsidiaries for enhanced regulatory oversight.",
-      "url": "https://www.thehindu.com/business/sebi-proposes-extending-it-cyber-security-framework-of-miis-to-their-arms/article71457613.ece",
-      "date": "2026-09-11T17:02:27Z"
-    },
-    {
-      "title": "GitLab CVSS 10 File-Read Flaw Draws In-the-Wild Probes After Disclosure",
-      "description": "[FEEDS] GitLab has released patches to address multiple flaws, including a maximum-severity security vulnerability that has witnessed in-the-wild probes within hours of public disclosure. The vulnerability in question is CVE-2026-85706 (CVSS score: 10.0), a...",
-      "url": "https://thehackernews.com/2026/09/gitlab-cvss-10-file-read-flaw-draws-in.html",
-      "date": "2026-09-11T16:30:18Z"
-    },
-    {
-      "title": "Artifactory flaws chained in attacks deploying backdoor malware",
-      "description": "[BLEEPINGCOMPUTER] Threat actors are exploiting critical and high-severity vulnerabilities in JFrog Artifactory to bypass authentication, gain administrative privileges, and deploy a Rust backdoor on vulnerable self-hosted servers. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/artifactory-flaws-chained-in-attacks-deploying-backdoor-malware/",
-      "date": "2026-09-11T16:29:44Z"
-    },
-    {
-      "title": "Anthropic Says Seven China-Based AI Labs Ran Industrial-Scale Claude Distillation Attacks",
-      "description": "[FEEDS] Anthropic on Thursday said it identified and disrupted industrial-scale illicit distillation attacks against Claude from seven labs based in China, including Alibaba, Moonshot, DeepSeek, Z.ai (aka Zhipu), and MiniMax. Knowledge distillation by...",
-      "url": "https://thehackernews.com/2026/09/anthropic-says-seven-china-based-ai.html",
-      "date": "2026-09-11T16:15:29Z"
-    },
-    {
-      "title": "The Self-Expanding Stolen Inference Supply Chain: An AI Agent Harvesting and Re-Serving LLM Access, (Fri, Sep 11th)",
-      "description": "[ISC] I identified an attacker using a semi-autonomous coding agent to run an offensive operation: finding poorly secured LLM resale gateways, acquiring API access through ordinary web flaws and account farming, validating the resulting inference...",
-      "url": "https://isc.sans.edu/diary/rss/33332",
-      "date": "2026-09-11T14:40:32Z"
-    },
-    {
-      "title": "Claude Used to Automate Exploitation and Data Theft Across Multiple Victims",
-      "description": "[FEEDS] Anthropic has warned that cybercriminals and state-sponsored hackers alike are using its Claude models for cyber attacks, weapons design, propaganda, and mass surveillance between December 2025 and August 2026. The threat actors, which the...",
-      "url": "https://thehackernews.com/2026/09/claude-used-to-automate-exploitation.html",
-      "date": "2026-09-11T14:29:47Z"
-    },
-    {
-      "title": "Russian State-Sponsored Hackers Use Claude to Rebuild Malware After Detection",
-      "description": "[FEEDS] Anthropic on Thursday revealed it disrupted a campaign mounted by a Russian state-sponsored threat actor that abused Claude for developing an AI-assisted workflow to get ahead of the detection curve. The operation has been attributed to a cyber...",
-      "url": "https://thehackernews.com/2026/09/russian-state-sponsored-hackers-use.html",
-      "date": "2026-09-11T14:10:20Z"
-    },
-    {
-      "title": "How Threat Actors Are Turning Trusted AI Platforms Into an Attack Surface",
-      "description": "[BLEEPINGCOMPUTER] Threat actors are abusing trusted AI platforms to host malicious content, poison search results, and trick users into installing malware. Huntress examines campaigns targeting AI users through weaponized Claude Artifacts, shared AI conversations,...",
-      "url": "https://www.bleepingcomputer.com/news/security/how-threat-actors-are-turning-trusted-ai-platforms-into-an-attack-surface/",
-      "date": "2026-09-11T14:01:11Z"
-    },
-    {
-      "title": "GitLab urges users to patch max severity path traversal flaw",
-      "description": "[BLEEPINGCOMPUTER] GitLab urged users on Thursday to patch their servers immediately against a maximum-severity path traversal vulnerability tracked as CVE-2026-85706. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/gitlab-urges-users-to-patch-max-severity-path-traversal-flaw/",
-      "date": "2026-09-11T11:15:22Z"
-    },
-    {
-      "title": "Cliff Stoll\u2019s DEF CON Talk",
-      "description": "[SCHNEIER] In August, Cliff Stoll gave a talk at DEF CON, remembering the wily hacker he stalked forty years ago. Great fun.",
-      "url": "https://www.schneier.com/blog/archives/2026/09/cliff-stolls-def-con-talk.html",
-      "date": "2026-09-11T11:09:55Z"
-    },
-    {
-      "title": "ISC Stormcast For Friday, September 11th, 2026 https://isc.sans.edu/podcastdetail/10090, (Fri, Sep 11th)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33330",
-      "date": "2026-09-11T02:00:02Z"
-    },
-    {
-      "title": "Redtail Payload Analysis &#x5b;Guest Diary&#x5d;, (Wed, Sep 9th)",
-      "description": "[ISC] &#x5b;This is a Guest Diary by Aaron Ng, an ISC intern as part of the SANS.edu BACS program&#x5d;&#xd;",
-      "url": "https://isc.sans.edu/diary/rss/33326",
-      "date": "2026-09-10T12:58:10Z"
-    },
-    {
-      "title": "AIs Compress Exploit Timeline",
-      "description": "[SCHNEIER] Give an AI agent a mere rumor of an exploit, and it&#8217;s enough for them to find it. What&#8217;s worse, I found I could use my own agents to find the exploit just by knowing roughly what it was about and so could have been exploiting it well...",
-      "url": "https://www.schneier.com/blog/archives/2026/09/ais-compress-exploit-timeline.html",
-      "date": "2026-09-10T10:40:35Z"
-    },
-    {
-      "title": "ISC Stormcast For Thursday, September 10th, 2026 https://isc.sans.edu/podcastdetail/10088, (Thu, Sep 10th)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33328",
-      "date": "2026-09-10T10:10:11Z"
-    },
-    {
-      "title": "Scans for Proxmox Servers, (Wed, Sep 9th)",
-      "description": "[ISC] About a week ago, Proxmox published an advisory revealing a vulnerability in older versions of Proxmox VE, its flagship Virtual Environment product. The vulnerability only affects version 7, which has not been supported for a couple of years...",
-      "url": "https://isc.sans.edu/diary/rss/33324",
-      "date": "2026-09-09T17:46:24Z"
-    },
-    {
-      "title": "Driver\u2019s License Data for Sale",
-      "description": "[SCHNEIER] A database of 153 million drivers licenses is for sale on the dark web. Brian Krebs has more detail.",
-      "url": "https://www.schneier.com/blog/archives/2026/09/drivers-license-data-for-sale.html",
-      "date": "2026-09-09T16:05:00Z"
-    },
-    {
-      "title": "Claude Fable Solves a Historical Cipher",
-      "description": "[SCHNEIER] Claude Fable 5.1 solved a 370-year-old cipher in forty-four minutes. This tracks with what I wrote about AIs doing mathematics: It&#8217;s good at things that involve lots of searching and testing.",
-      "url": "https://www.schneier.com/blog/archives/2026/09/claude-fable-solves-a-historical-cipher.html",
-      "date": "2026-09-09T11:08:26Z"
-    },
-    {
-      "title": "ISC Stormcast For Wednesday, September 9th, 2026 https://isc.sans.edu/podcastdetail/10086, (Wed, Sep 9th)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33322",
-      "date": "2026-09-09T02:00:02Z"
-    }
-  ]
+    "title": "Sentinel Protocol",
+    "tagline": "Perimeter Intelligence Sync",
+    "updated": "2026-09-12 13:50 UTC",
+    "news": [
+        {
+            "source": {
+                "id": null,
+                "name": "Researchbuzz.me"
+            },
+            "author": "Tara Calishain",
+            "title": "LLM Election Observatory, Indigenous Collections Care Guide, Snapchat, More: Friday ResearchBuzz, September 11, 2026",
+            "description": "Today is 9/11. You don\u2019t have to take my word for what I was doing 25 years ago today because it was archived by the Library of Congress. I know some of y\u2019all have been reading since 20\u2026",
+            "url": "https://researchbuzz.me/2026/09/11/llm-election-observatory-indigenous-collections-care-guide-snapchat-more-friday-researchbuzz-september-12-2026/",
+            "urlToImage": "https://s0.wp.com/_si/?t=eyJpbWciOiJodHRwczpcL1wvczAud3AuY29tXC9pXC9ibGFuay5qcGciLCJ0eHQiOiJSZXNlYXJjaEJ1enoiLCJ0ZW1wbGF0ZSI6ImhpZ2h3YXkiLCJmb250IjoiIiwiYmxvZ19pZCI6NDMyODc1Nn0.BjdcPIDlw4ZG0Ki13B-quwxnrzAxn9iB5rJXagRMNlcMQ",
+            "publishedAt": "2026-09-11T13:46:11Z",
+            "content": "Today is 9/11. You don\u2019t have to take my word for what I was doing 25 years ago today because it was archived by the Library of Congress. I know some of y\u2019all have been reading since 2001 or before. \u2026 [+6054 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Biztoc.com"
+            },
+            "author": "techcrunch.com",
+            "title": "Scammers target hundreds of thousands of crypto owners after Trezor confirms data breach of email provider",
+            "description": "Hardware crypto wallet maker Trezor is warning customers for the second time in as many months that one of the companies it relies on was hacked, exposing the data of Trezor\u2019s customers to hackers.\nIn a blog post this week, the hardware wallet maker said a cy\u2026",
+            "url": "https://biztoc.com/x/ed0e6857a1965590",
+            "urlToImage": "https://biztoc.com/cdn/ed0e6857a1965590_s.webp",
+            "publishedAt": "2026-09-11T13:37:52Z",
+            "content": "Hardware crypto wallet maker Trezor is warning customers for the second time in as many months that one of the companies it relies on was hacked, exposing the data of Trezors customers to hackers.In \u2026 [+139 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "GamesIndustry.biz"
+            },
+            "author": "Sophie McEvoy",
+            "title": "Marvel's Wolverine | Critical consensus",
+            "description": "Critics agree that the characters of Marvel's Wolverine are its \"stronget asset,\" but that doesn't outweigh issues with repetitive combat and dated gameplay",
+            "url": "https://www.gamesindustry.biz/marvels-wolverine-critical-consensus",
+            "urlToImage": "https://assetsio.gnwcdn.com/marvel-wolverine_7Nkbnr9.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+            "publishedAt": "2026-09-11T13:19:37Z",
+            "content": "Insomniac Games' take on Wolverine has had an eventful route to market.\r\nAnnounced in 2021, Marvel's Wolverine was among several Insomniac titles affected by a 2023 data breach involving 1.67 TB of i\u2026 [+10256 chars]"
+        },
+        {
+            "source": {
+                "id": "financial-post",
+                "name": "Financial Post"
+            },
+            "author": "stackcommerceandrewuh",
+            "title": "The cloud storage conversation is shifting toward privacy",
+            "description": "New users can get lifetime access to 20TB of Internxt Drive's post-quantum, zero-knowledge encrypted cloud storage.",
+            "url": "https://financialpost.com/personal-finance/business-essentials/the-cloud-storage-conversation-is-shifting-toward-privacy",
+            "urlToImage": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/09/Internxt-fp.png",
+            "publishedAt": "2026-09-11T13:13:08Z",
+            "content": "We independently select everything we recommend. Buying through us may earn us a commission, which supports our work.\r\nThis article was created by StackCommerce. Postmedia may earn an affiliate commi\u2026 [+4317 chars]"
+        },
+        {
+            "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            "author": "Sead Fadilpa\u0161i\u0107",
+            "title": "A new Android attack combines malware and ransomware in a cocktail of cybercrime",
+            "description": "Unique malware variant spotted targeting Android users, taking photos with victim cameras before deploying an encryptor.",
+            "url": "https://www.techradar.com/pro/security/a-new-android-attack-combines-malware-and-ransomware-in-a-cocktail-of-cybercrime",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/BiyAK4BXKKfecCWadFcHGo-2560-80.jpg",
+            "publishedAt": "2026-09-11T13:05:00Z",
+            "content": "<ul><li>Zimperium uncovers Mantax Otax, Android malware merging infostealer, RAT, backdoor, and ransomware</li><li>Distributed via APKs on third\u2011party stores, social media, and phishing; older Androi\u2026 [+4583 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Carl Campanile",
+            "title": "GOP congressman picks up 20 union nods as labor holds key in election battle for NY swing seat",
+            "description": "Many unions lean toward Democrats, but union leaders backing Republican Rep. Mike Lawler said he's been pro-labor.",
+            "url": "https://nypost.com/2026/09/11/us-news/gop-congressman-picks-up-20-union-nods-as-labor-holds-key-in-election-battle-for-ny-swing-seat/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/09/140347345.jpg?quality=75&strip=all&w=1200",
+            "publishedAt": "2026-09-11T13:00:00Z",
+            "content": "Republican Rep. Mike Lawler has collected 20 union endorsements in his dogged election race against Democrat Cait Conley \u2014 as labor is viewed as key to winning in one of the states last swing distric\u2026 [+5058 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Activistpost.com"
+            },
+            "author": "Editor",
+            "title": "How Lockheed Martin, Raytheon & BAE Systems are propagandizing children to support war through STEM",
+            "description": "Raytheon sponsors the Girl Scouts of America. BAE Systems is reading your toddlers their favorite fairytale stories. And Lockheed Martin funds children\u2019s math and STEM festivals. This is done with great fanfare, supposedly to empower and inspire children to p\u2026",
+            "url": "https://activistpost.com/how-lockheed-martin-raytheon-bae-systems-are-propagandizing-children-to-support-war-through-stem/",
+            "urlToImage": "https://activistpost.com/wp-content/uploads/2026/08/math-destruction.webp",
+            "publishedAt": "2026-09-11T13:00:00Z",
+            "content": "Raytheon sponsors the Girl Scouts of America. BAE Systems is reading your toddlers their favorite fairytale stories. And Lockheed Martin funds childrens math and STEM festivals. This is done with gre\u2026 [+12878 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Nextgov"
+            },
+            "author": "Kshemendra Paul",
+            "title": "On 9/11\u2019s 25th anniversary, modernizing government starts with remembering our past",
+            "description": "COMMENTARY: Reflecting on 9/11 Commission-driven information sharing structural reforms",
+            "url": "https://www.nextgov.com/ideas/2026/09/911s-25th-anniversary-modernizing-government-starts-remembering-our-past/415928/",
+            "urlToImage": "https://cdn.nextgov.com/media/img/cd/2026/09/10/GettyImages_2294072286/open-graph.jpg",
+            "publishedAt": "2026-09-11T13:00:00Z",
+            "content": "As we mark the 25th anniversary of September 11, 2001, we honor those we lost and reflect on progress in our national security and public safety architectures. Yet behind the ceremonies lies a persis\u2026 [+8943 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PCMag.com"
+            },
+            "author": "Alan Henry",
+            "title": "A Meta Exec's 150-Porn-Downloads-a-Day Habit, a 23-Year Botnet Bust, and $1M Phone Unlocks",
+            "description": "From a tech executive caught torrenting on company Wi-Fi to a massive international takedown and shocking survey data, here's what went down in cybersecurity this week.\nIf I gave you a million dollars to unlock your phone and hand it to me, would you take the\u2026",
+            "url": "https://uk.pcmag.com/security/167272/a-meta-execs-150-porn-downloads-a-day-habit-a-23-year-botnet-bust-and-1m-phone-unlocks",
+            "urlToImage": "https://sm.pcmag.com/t/pcmag_uk/news/a/a-meta-exe/a-meta-execs-150-porn-downloads-a-day-habit-a-23-year-botnet_y59j.1200.jpg",
+            "publishedAt": "2026-09-11T13:00:00Z",
+            "content": "If I gave you a million dollars to unlock your phone and hand it to me, would you take the money? According to a new survey we covered earlier this week, 60% of Americans would say no. Its just one e\u2026 [+8406 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "tlakritz@businessinsider.com (Talia Lakritz)",
+            "title": "25 years later, 9/11 still shapes the way we fly. Here's how air travel changed after the attacks.",
+            "description": "Aviation security was completely overhauled after 9/11. Planes were hardened with bulletproof doors and flight crew were taught defense tactics.",
+            "url": "https://www.businessinsider.com/september-11-attacks-how-flying-airport-security-airline-changes-2026-9#article",
+            "urlToImage": "https://i.insider.com/6aa1c3b8cc23a829a3b8f96e?width=1200&format=jpeg",
+            "publishedAt": "2026-09-11T12:52:01Z",
+            "content": "Flying has completely changed since Al Qaeda hijackers carried out the terrorist attacks of September 11, 2001, 25 years ago.\r\nThe newly created Transportation Security Administration replaced the pr\u2026 [+7729 chars]"
+        }
+    ]
 }
