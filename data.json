@@ -1,137 +1,209 @@
 {
-    "title": "Sentinel Protocol",
-    "tagline": "Perimeter Intelligence Sync",
-    "updated": "2026-09-14 16:45 UTC",
-    "news": [
-        {
-            "source": {
-                "id": null,
-                "name": "Kotaku"
-            },
-            "author": "Lewis Parker",
-            "title": "Anthropic CEO Says \u2018We Owe It To Humanity To Try\u2019 To Prevent An AI Swarm From Taking Over The Internet",
-            "description": "Anthropic\u2019s CEO and co-founder, Dario Amodei, states that 'a team of embedded third-party evaluators' must be put in place to curb AI's development, or else an AI 'swarm' botnet will take over the entire internet in '6-12 months'",
-            "url": "https://kotaku.com/anthropic-ceo-says-we-owe-it-to-humanity-to-try-to-prevent-an-ai-swarm-from-taking-over-the-internet-2000733980",
-            "urlToImage": "https://kotaku.com/app/uploads/2026/09/terminator-2.jpg",
-            "publishedAt": "2026-09-13T16:30:14Z",
-            "content": "Anthropics CEO and co-founder, Dario Amodei, has published a three-step plan in which he pleads with companies and the U.S. government to slow the pace at which we improve the capabilities of AI mode\u2026 [+4756 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Business Standard"
-            },
-            "author": "Avik Das, Aashish Aryan",
-            "title": "Businesses put up guard rails in deploying AI, prioritise governance",
-            "description": "Fear of rogue agents is prompting firms to limit autonomy and prioritise governance",
-            "url": "https://www.business-standard.com/technology/tech-news/businesses-put-up-guard-rails-in-deploying-ai-prioritise-governance-126091300768_1.html",
-            "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-09/13/thumb/fitandfill/1200X628/1789316674-6892.jpg",
-            "publishedAt": "2026-09-13T16:25:17Z",
-            "content": "Imaging: Ajaya Mohanty\r\nAvik DasAashish Aryan6 min read Last Updated : Sep 13 2026 | 9:55 PM IST\r\nAn exceptionally smart agent goes rogue and operates outside its organisational mandate. Depending on\u2026 [+6735 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Apnamatvchannel.com"
-            },
-            "author": "Apna Ma Tv Newsroom",
-            "title": "\"Exponential growth of AI a warning sign\": Anthropic CEO Dario Amodei continues push for AI safeguards - APNA MA TV",
-            "description": "\"Exponential growth of AI a warning sign\": Anthropic CEO Dario Amodei continues push for AI safeguards - APNA MA TVapnamatvchannel.com",
-            "url": "https://apnamatvchannel.com/business/exponential-growth-of-ai-a-warning-sign-anthropic-ceo-dario-amodei-continues-push-for-ai-safeguards/",
-            "urlToImage": "https://apnamatvchannel.com/wp-content/uploads/2026/04/matv-logo.png",
-            "publishedAt": "2026-09-13T16:20:57Z",
-            "content": "San Francisco (California) [US], September 12 (ANI): In what is being described as the \u2018wildest night in the AI industry\u2019, Anthropic CEO Dario Amodei continued to expand on his appeal to slow down th\u2026 [+3749 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Forkast.news"
-            },
-            "author": "Heath Callahan",
-            "title": "Three Patches, Zero Progress: ShieldCrash Exposes the Endpoint-Protection Plane as Microsoft\u2019s Latest Attack Surface",
-            "description": "Nightmare Eclipse published a proof-of-concept on GitHub on September 9, 2026. The exploit reads arbitrary files as SYSTEM on fully patched Windows 10, Windows 11, and Windows Server systems running the September 2026 security updates. It is the third consecu\u2026",
-            "url": "https://forkast.news/three-patches-zero-progress-shieldcrash-exposes-the-endpoint-protection-plane-as-microsofts-latest-attack-surface/",
-            "urlToImage": "https://forkast.news/wp-content/uploads/2026/09/shieldcrash-defender-bypass-hero-1024x572.jpg",
-            "publishedAt": "2026-09-13T16:13:37Z",
-            "content": "Nightmare Eclipse published a proof-of-concept on GitHub on September 9, 2026. The exploit reads arbitrary files as SYSTEM on fully patched Windows 10, Windows 11, and Windows Server systems running \u2026 [+4208 chars]"
-        },
-        {
-            "source": {
-                "id": "the-next-web",
-                "name": "The Next Web"
-            },
-            "author": "Ana-Maria Stanciuc",
-            "title": "Revolut handed customer passports to scammers using a real government email domain",
-            "description": "Revolut gave sensitive customer information to criminals who requested it from what appeared to be a government email address, and did so because the address was real. The company has confirmed the breach and says its systems were never touched; the story was\u2026",
-            "url": "https://thenextweb.com/news/revolut-data-breach-fake-government-requests-passports",
-            "urlToImage": "https://media.thenextweb.com/2026/08/Revolut-Logo.jpg",
-            "publishedAt": "2026-09-13T16:06:18Z",
-            "content": "Revolut gave sensitive customer information to criminals who requested it from what appeared to be a government email address, and did so because the address was real.\r\nThe company has confirmed the \u2026 [+3806 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Kitploit.com"
-            },
-            "author": "Kitploit",
-            "title": "ARES",
-            "description": "Autonomous red-team engagement platform with MITRE ATT&CK module orchestration, DAG attack-path solving, OPSEC controls, encrypted credential vault, and multi-format reporting.",
-            "url": "https://kitploit.com/en/tools/github/mafifrizi/ares/",
-            "urlToImage": "https://assets.kitploit.com/production/public/tools/54944/ba68f4a0174178c75b8dfb1cbdaa342629e8f38435a2e171aac2762846b4414f-social-v1.webp",
-            "publishedAt": "2026-09-13T16:00:03Z",
-            "content": "Traditional penetration testing is fundamentally flawed: it is expensive, episodic, point-in-time, and leaves organizations blind to newly introduced misconfigurations and emerging adversary tradecra\u2026 [+31902 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "BusinessLine"
-            },
-            "author": "Sanjana B & Venkatesha Babu",
-            "title": "SAP\u2019s three Rs: Building responsible, relevant and reliable AI for enterprises",
-            "description": "The adoption and consumption of AI will keep increasing dramatically year on year, says Manish Prasad, President & Managing Director - SAP Indian Subcontinent, SAP India",
-            "url": "https://www.thehindubusinessline.com/info-tech/saps-three-rs-building-responsible-relevant-and-reliable-ai-for-enterprises/article71463812.ece",
-            "urlToImage": "https://bl-i.thgim.com/public/incoming/xcztcl/article71463807.ece/alternates/LANDSCAPE_1200/Image%2013.jpg",
-            "publishedAt": "2026-09-13T15:56:56Z",
-            "content": "Enterprise AI needs to be more than just powerful it must be responsible, relevant, and reliable as businesses move from experimentation to deploying AI across core processes, says Manish Prasad, Pre\u2026 [+7991 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "BusinessLine"
-            },
-            "author": "Vallari Sanzgiri",
-            "title": "The AI slowdown debate picks speed",
-            "description": "The AI slowdown debate intensifies as experts warn of risks and opportunities for China and India in the evolving landscape.",
-            "url": "https://www.thehindubusinessline.com/info-tech/the-ai-slowdown-debate-picks-speed/article71464132.ece",
-            "urlToImage": "https://bl-i.thgim.com/public/incoming/sjstzf/article71464131.ece/alternates/LANDSCAPE_1200/Amazon-deepens-G3BFSO9P1.4.jpg.jpg",
-            "publishedAt": "2026-09-13T15:37:37Z",
-            "content": "On Saturday, Anthropic Co-Founder Dario Amodei aired the idea of pacing the frontier in a lengthy blog detailing various cyberthreats such as the recent OpenAI-Hugging Face incident (OAI-HF) as well \u2026 [+3445 chars]"
-        },
-        {
-            "source": {
-                "id": "the-next-web",
-                "name": "The Next Web"
-            },
-            "author": "Ana Maria Constantin",
-            "title": "Trump\u2019s former AI czar tells Anthropic and OpenAI to slow down, and to stop asking for anything in return",
-            "description": "David Sacks told Anthropic and OpenAI to go ahead and pace the frontier but to stop seeking an antitrust waiver or an approval regime, arguing that product liability and market pressure already discipline them. Europe reached the same conclusion about liabili\u2026",
-            "url": "https://thenextweb.com/news/sacks-pacing-frontier-eu-liability",
-            "urlToImage": "https://media.thenextweb.com/2026/09/david-sacks-2024.jpg",
-            "publishedAt": "2026-09-13T15:20:56Z",
-            "content": "David Sacks told Anthropic and OpenAI to go ahead and pace the frontier but to stop seeking an antitrust waiver or an approval regime, arguing that product liability and market pressure already disci\u2026 [+2671 chars]"
-        },
-        {
-            "source": {
-                "id": "business-insider",
-                "name": "Business Insider"
-            },
-            "author": "lbrown@businessinsider.com (Lillian Brown)",
-            "title": "How to watch the Shelton vs. Zverev US Open final for free from anywhere",
-            "description": "Don't miss out on this free US Open final live stream that we can help you unlock from any country in the world for Alex Zverev vs. Ben Shelton.",
-            "url": "https://www.businessinsider.com/guides/streaming/how-to-watch-us-open-mens-final-tennis-2026#article",
-            "urlToImage": "https://i.insider.com/6aa5e4c9ec15fe2d3cf16b45?width=1200&format=jpeg",
-            "publishedAt": "2026-09-13T15:00:01Z",
-            "content": "The short version: The US Open Men's Final will live stream on ESPN Unlimited in the US, Sky Sports in the UK, and for free on 9Now in Australia. You can access streaming services from anywhere with \u2026 [+5378 chars]"
-        }
-    ]
+  "updated": "2026-09-14 21:10:45 UTC",
+  "news": [
+    {
+      "title": "Microsoft releases emergency Windows updates to fix RDS failures",
+      "description": "[BLEEPINGCOMPUTER] Microsoft has released emergency out-of-band Windows updates to fix Remote Desktop Services failures caused by this month's security updates, along with Hyper-V and USB audio problems on some Windows versions. [...]",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-windows-updates-to-fix-rds-failures/",
+      "date": "2026-09-14T20:52:18Z"
+    },
+    {
+      "title": "Japan's Digital Agency says VPN flaw exposed 246,000 personnel records",
+      "description": "[BLEEPINGCOMPUTER] Japan's Digital Agency has discovered a data breach that may have exposed around 246,000 record rows containing personal information of government employees. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/japans-digital-agency-says-vpn-flaw-exposed-246-000-personnel-records/",
+      "date": "2026-09-14T20:36:02Z"
+    },
+    {
+      "title": "Homebrew 7.0.0 gets built-in GUI, better security controls",
+      "description": "[BLEEPINGCOMPUTER] Homebrew package manager version 7.0.0 has been released with a built-in vulnerability scanner, stronger security controls, and the full release of its native BrewUI graphical interface. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/homebrew-700-gets-built-in-gui-better-security-controls/",
+      "date": "2026-09-14T19:51:04Z"
+    },
+    {
+      "title": "Twitch extension with 30K installs exposes users\u2019 OAuth tokens",
+      "description": "[BLEEPINGCOMPUTER] A browser extension called Twitch Enhanced Viewer | JeetBot, available in the official Chrome and Firefox stores, sends users' Twitch OAuth session tokens to a commercial bot service. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/twitch-extension-with-30k-installs-exposes-users-oauth-tokens/",
+      "date": "2026-09-14T19:03:51Z"
+    },
+    {
+      "title": "Upcoming Speaking Engagements",
+      "description": "[SCHNEIER] This is a current list of where and when I am scheduled to speak: I\u2019m speaking online (via Zoom) at a League of Women Voters event on Tuesday, September 22, 2026 at 5 PM ET. I\u2019m speaking at CanSecWest 2026 in Vancouver, Canada. The conference runs...",
+      "url": "https://www.schneier.com/blog/archives/2026/09/upcoming-speaking-engagements-60.html",
+      "date": "2026-09-14T19:02:45Z"
+    },
+    {
+      "title": "Hackers hijack HBO Max Reddit account to push malware in ClickFix ads",
+      "description": "[BLEEPINGCOMPUTER] Hackers compromised HBO Max's official Reddit account and used it to push malicious ads that launched ClickFix attacks to infect Windows and macOS devices with information-stealing malware. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-hijack-hbo-max-reddit-account-to-push-malware-in-clickfix-ads/",
+      "date": "2026-09-14T18:34:16Z"
+    },
+    {
+      "title": "Apple Updates Everything, (Mon, Sep 14th)",
+      "description": "[ISC] Today, Apple released its annual update across all its operating systems. With that, Apple not only released new features but also patched 261 different vulnerabilities. This is the most vulnerabilities Apple has ever patched, but the increase is...",
+      "url": "https://isc.sans.edu/diary/rss/33336",
+      "date": "2026-09-14T18:33:44Z"
+    },
+    {
+      "title": "New DDRop Attack Breaks Intel TDX and AMD SEV-SNP Confidential Computing",
+      "description": "[FEEDS] Researchers have disclosed a new hardware attack, called DDRop, that breaks the memory protection in Intel and AMD confidential computing by silently dropping writes to a server's memory, so the processor keeps reading old encrypted data as if it...",
+      "url": "https://thehackernews.com/2026/09/new-ddrop-attack-breaks-intel-tdx-and.html",
+      "date": "2026-09-14T18:02:13Z"
+    },
+    {
+      "title": "3BB Attacker Used MeshCentral Backdoor for Root Access, Targeted Subscriber Credentials",
+      "description": "[FEEDS] An attacker was operating inside the network of 3BB, one of Thailand's largest broadband providers, and maintained remote control of internal machines using a legitimate management tool called MeshCentral, threat intelligence firm Hunt.io said. The...",
+      "url": "https://thehackernews.com/2026/09/3bb-attacker-used-meshcentral-backdoor.html",
+      "date": "2026-09-14T18:01:49Z"
+    },
+    {
+      "title": "Telegram Desktop Flaw Lets Hidden JavaScript Exfiltrate Messages From HTML Exports",
+      "description": "[FEEDS] A flaw in Telegram Desktop let a bot's message plant hidden JavaScript inside chats that users exported to HTML files, security researchers at ExPatch said in a&nbsp;writeup&nbsp;published on September 12. In Telegram, the message looked ordinary,...",
+      "url": "https://thehackernews.com/2026/09/telegram-desktop-flaw-lets-hidden.html",
+      "date": "2026-09-14T17:58:16Z"
+    },
+    {
+      "title": "Red Heron Exploits Gitea RCE to Compromise 13 Organizations Across Six Countries",
+      "description": "[FEEDS] A suspected Chinese threat actor tracked as Red Heron has been attributed to the rapid exploitation of a recently disclosed security vulnerability in Gitea to compromise internet-facing instances as part of a multi-national campaign. \"Red Heron...",
+      "url": "https://thehackernews.com/2026/09/red-heron-exploits-gitea-rce-to.html",
+      "date": "2026-09-14T16:56:30Z"
+    },
+    {
+      "title": "Hackers target exposed Vite dev servers to steal AWS, Azure secrets",
+      "description": "[BLEEPINGCOMPUTER] A mass-scanning campaign targeting internet-exposed Vite development servers is attempting to steal cloud credentials and configurations from AWS and Azure deployments. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-target-exposed-vite-dev-servers-to-steal-aws-azure-secrets/",
+      "date": "2026-09-14T16:15:58Z"
+    },
+    {
+      "title": "Using AI for Weapons Development",
+      "description": "[SCHNEIER] Last week, Anthropic released a long and detailed document describing current misuses of their Claude models. I&#8217;m still reading it, but I wanted to flag this: We identified a cell of threat actors based in northern Yemen running three weapons...",
+      "url": "https://www.schneier.com/blog/archives/2026/09/using-ai-for-weapons-development.html",
+      "date": "2026-09-14T16:07:46Z"
+    },
+    {
+      "title": "WordPress Adds Automated Plugin Reviews to Block High-Risk Updates Before Distribution",
+      "description": "[FEEDS] WordPress has announced it's launching an automated security review for every release of a plugin before it's distributed through the WordPress.org update API so as to analyze it for potential security issues and ensure there are no risks involved....",
+      "url": "https://thehackernews.com/2026/09/wordpress-adds-automated-plugin-reviews.html",
+      "date": "2026-09-14T16:00:04Z"
+    },
+    {
+      "title": "\u26a1 Weekly Recap: Rogue AI Agents, WeChat Worm, PaperCut Attacks, AI Espionage, and Rootkits",
+      "description": "[FEEDS] AI keeps showing up in the wrong places. Attackers are using it to speed up exploits, test defenses, and automate more of the job. Some models are also crossing lines on their own. That is not a great combination. The rest of the week is more...",
+      "url": "https://thehackernews.com/2026/09/weekly-recap-rogue-ai-agents-wechat.html",
+      "date": "2026-09-14T14:40:34Z"
+    },
+    {
+      "title": "Microsoft\u2019s Patching",
+      "description": "[SCHNEIER] Once a month, Microsoft pushes a security update to all Windows users. Tomorrow&#8217;s is a new record: Microsoft&#8217;s patch for September is a doozy, with a record number of roughly 972 vulnerabilities fixed and 112 of them meeting the high...",
+      "url": "https://www.schneier.com/blog/archives/2026/09/microsofts-patching.html",
+      "date": "2026-09-14T11:03:26Z"
+    },
+    {
+      "title": "Revolut blames \u2018sophisticated impersonation scam\u2019 for customer data breach - The Irish Times",
+      "description": "[EUROPE SAYS] Fintech firm Revolut has said a \u201csophisticated external impersonation scam\u201d was behind a data breach that involved the company releasing sensitive information",
+      "url": "https://www.europesays.com/3250408/",
+      "date": "2026-09-14T08:50:16Z"
+    },
+    {
+      "title": "Revolut blames \u2018sophisticated impersonation scam\u2019 for customer data breach",
+      "description": "[THE IRISH TIMES] The fintech firm said a limited number of customers were impacted by the breach",
+      "url": "https://www.irishtimes.com/business/2026/09/14/revolut-blames-sophisticated-impersonation-scam-for-customer-data-breach/",
+      "date": "2026-09-14T08:46:10Z"
+    },
+    {
+      "title": "Kochi Metro confidential documents leaked on social media, police launch investigation",
+      "description": "[THE ECONOMIC TIMES] Kochi Metro Police registered a case regarding the theft of confidential company documents. Unidentified individuals allegedly gained unauthorized access to KMRL computer systems for financial gain. Leaked documents, including employee and financial...",
+      "url": "https://economictimes.indiatimes.com/news/india/kochi-metro-confidential-documents-leaked-on-social-media-police-launch-investigation/articleshow/134236971.cms",
+      "date": "2026-09-14T08:41:00Z"
+    },
+    {
+      "title": "How Israel is expanding its cybersecurity footprint in Latin America",
+      "description": "[MIDDLE EAST EYE] New security agreements with right-wing governments are opening doors for an industry whose technologies and expertise have been developed through Israel\u2019s occupation of Palestine",
+      "url": "https://www.middleeasteye.net/news/how-israel-expanding-cybersecurity-latin-america",
+      "date": "2026-09-14T08:07:32Z"
+    },
+    {
+      "title": "America's Drivers Licence Breach is a National Security Disaster",
+      "description": "[LAWFARE] The latest edition of the Seriously Risky Business cybersecurity newsletter, now on Lawfare.",
+      "url": "https://www.lawfaremedia.org/article/america's-drivers-licence-breach-is-a-national-security-disaster",
+      "date": "2026-09-14T08:00:00Z"
+    },
+    {
+      "title": "Uploaded your photos for 1980s AI photo trend? Here's what happens to images sent to ChatGPT, Gemini",
+      "description": "[THE ECONOMIC TIMES] As millions join the viral 1980s AI photo trend by uploading selfies to ChatGPT and Gemini, a cybersecurity expert cited by Wired explains what actually happens to those photos after they are sent, how long companies store them, and why deleting a...",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/uploaded-your-photos-for-1980s-ai-photo-trend-heres-what-happens-to-images-sent-to-chatgpt-gemini/articleshow/134235168.cms",
+      "date": "2026-09-14T07:34:00Z"
+    },
+    {
+      "title": "No turning back from AI but regulation, cost will shape pace of adoption: TeamLease EdTech CEO",
+      "description": "[THE ECONOMIC TIMES] The adoption of AI is creating new roles in areas such as cybersecurity, cloud and infrastructure management, he said adding humans will remain accountable for the actions of AI agents in foreseeable future.",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/no-turning-back-from-ai-but-regulation-cost-will-shape-pace-of-adoption-teamlease-edtech-ceo/articleshow/134234126.cms",
+      "date": "2026-09-14T06:05:55Z"
+    },
+    {
+      "title": "Revolut confirms sensitive customer data breach after fake government requests",
+      "description": "[THE ECONOMIC TIMES] \u2060Revolut said in a statement that the breach \u200baffected a \"very limited\" number of customers, who had been \u200bnotified by the company. It did not give further details.",
+      "url": "https://economictimes.indiatimes.com/tech/technology/revolut-confirms-sensitive-customer-data-breach-after-fake-government-requests/articleshow/134231379.cms",
+      "date": "2026-09-14T02:58:39Z"
+    },
+    {
+      "title": "ISC Stormcast For Monday, September 14th, 2026 https://isc.sans.edu/podcastdetail/10092, (Mon, Sep 14th)",
+      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
+      "url": "https://isc.sans.edu/diary/rss/33334",
+      "date": "2026-09-14T02:00:03Z"
+    },
+    {
+      "title": "The NSA is reorganizing with an increased focus on AI, China, and cybersecurity.",
+      "description": "[THE VERGE] According to The Washington Post, the spy agency is set to undergo its largest restructuring in over a decade. Army general and NSA director Joshua M. Rudd is leading the effort. According to the Post: > Rudd\u2019s initiative calls for the creation at...",
+      "url": "https://www.theverge.com/policy/994449/the-nsa-is-reorganizing-with-an-increased-focus-on-ai-china-and-cybersecurity",
+      "date": "2026-09-13T20:51:58Z"
+    },
+    {
+      "title": "Why Are Sam Altman, Elon Musk, Anthropic CEO Calling for a Slower AI Race? The Safety Warning Explained",
+      "description": "[MASHABLE INDIA] AI safety concerns grow after an AI agent swarm breached a cybersecurity test, as Sam Altman and Elon Musk back Anthropic CEO Dario Amodei\u2019s call for caution.",
+      "url": "https://in.mashable.com/tech/113906/why-are-sam-altman-elon-musk-anthropic-ceo-calling-for-a-slower-ai-race-the-safety-warning-explained",
+      "date": "2026-09-13T06:18:56Z"
+    },
+    {
+      "title": "Friday Squid Blogging: Rotting Squid on a Beached California Boat",
+      "description": "[SCHNEIER] Smells awful: But an estimated 30 to 50 tons of dead squid remain inside the boat&#8217;s catch tank, where they have been decomposing for days. &#8220;That is nasty. I wouldn&#8217;t want to do that,&#8221; said commercial fisherman Dick Ogg of the...",
+      "url": "https://www.schneier.com/blog/archives/2026/09/friday-squid-blogging-rotting-squid-on-a-beached-california-boat.html",
+      "date": "2026-09-11T21:03:27Z"
+    },
+    {
+      "title": "My Talk at DEF CON",
+      "description": "[SCHNEIER] Last month, I gave a talk at DEF CON on AI hacking: what happens when AIs become hackers. It&#8217;s a combination of the potentialities I raised in my 2022 book A Hacker&#8217;s Mind and the lessons we&#8217;re learning from current AI models...",
+      "url": "https://www.schneier.com/blog/archives/2026/09/my-talk-at-def-con.html",
+      "date": "2026-09-11T18:06:24Z"
+    },
+    {
+      "title": "The Self-Expanding Stolen Inference Supply Chain: An AI Agent Harvesting and Re-Serving LLM Access, (Fri, Sep 11th)",
+      "description": "[ISC] I identified an attacker using a semi-autonomous coding agent to run an offensive operation: finding poorly secured LLM resale gateways, acquiring API access through ordinary web flaws and account farming, validating the resulting inference...",
+      "url": "https://isc.sans.edu/diary/rss/33332",
+      "date": "2026-09-11T14:40:32Z"
+    },
+    {
+      "title": "Cliff Stoll\u2019s DEF CON Talk",
+      "description": "[SCHNEIER] In August, Cliff Stoll gave a talk at DEF CON, remembering the wily hacker he stalked forty years ago. Great fun.",
+      "url": "https://www.schneier.com/blog/archives/2026/09/cliff-stolls-def-con-talk.html",
+      "date": "2026-09-11T11:09:55Z"
+    },
+    {
+      "title": "ISC Stormcast For Friday, September 11th, 2026 https://isc.sans.edu/podcastdetail/10090, (Fri, Sep 11th)",
+      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
+      "url": "https://isc.sans.edu/diary/rss/33330",
+      "date": "2026-09-11T02:00:02Z"
+    },
+    {
+      "title": "Redtail Payload Analysis &#x5b;Guest Diary&#x5d;, (Wed, Sep 9th)",
+      "description": "[ISC] &#x5b;This is a Guest Diary by Aaron Ng, an ISC intern as part of the SANS.edu BACS program&#x5d;&#xd;",
+      "url": "https://isc.sans.edu/diary/rss/33326",
+      "date": "2026-09-10T12:58:10Z"
+    },
+    {
+      "title": "ISC Stormcast For Thursday, September 10th, 2026 https://isc.sans.edu/podcastdetail/10088, (Thu, Sep 10th)",
+      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
+      "url": "https://isc.sans.edu/diary/rss/33328",
+      "date": "2026-09-10T10:10:11Z"
+    }
+  ]
 }
