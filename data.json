@@ -1,203 +1,137 @@
 {
-  "updated": "2026-09-14 16:03:25 UTC",
-  "news": [
-    {
-      "title": "\u26a1 Weekly Recap: Rogue AI Agents, WeChat Worm, PaperCut Attacks, AI Espionage, and Rootkits",
-      "description": "[FEEDS] AI keeps showing up in the wrong places. Attackers are using it to speed up exploits, test defenses, and automate more of the job. Some models are also crossing lines on their own. That is not a great combination. The rest of the week is more...",
-      "url": "https://thehackernews.com/2026/09/weekly-recap-rogue-ai-agents-wechat.html",
-      "date": "2026-09-14T14:40:34Z"
-    },
-    {
-      "title": "Why Patch Automation Needs Brakes, Not Just an Accelerator",
-      "description": "[BLEEPINGCOMPUTER] Patch automation can help IT teams keep pace with growing update volumes, but deploying faster also means bad updates can spread faster. Action1 explains how update rings, predefined success criteria, and human oversight can make automated patching...",
-      "url": "https://www.bleepingcomputer.com/news/security/why-patch-automation-needs-brakes-not-just-an-accelerator/",
-      "date": "2026-09-14T14:01:11Z"
-    },
-    {
-      "title": "Webinar: How malicious OAuth apps can lead to Google Workspace breaches",
-      "description": "[BLEEPINGCOMPUTER] Attackers can combine social engineering with malicious OAuth applications to gain access to Google Workspace data without relying solely on stolen passwords. This webinar examines two attacks to show how these breaches unfold and which security...",
-      "url": "https://www.bleepingcomputer.com/news/security/webinar-how-malicious-oauth-apps-can-lead-to-google-workspace-breaches/",
-      "date": "2026-09-14T12:15:23Z"
-    },
-    {
-      "title": "AI Changed the Exposure Problem. Validation Needs to Change With It.",
-      "description": "[FEEDS] There's a lot of noise around AI and cybersecurity right now. What\u2019s actually important is far simpler, if often lost in the hubbub. Vulnerability discovery is getting faster and happening at a much greater scale, while defenders still have to work...",
-      "url": "https://thehackernews.com/2026/09/ai-changed-exposure-problem-validation.html",
-      "date": "2026-09-14T11:58:00Z"
-    },
-    {
-      "title": "Microsoft\u2019s Patching",
-      "description": "[SCHNEIER] Once a month, Microsoft pushes a security update to all Windows users. Tomorrow&#8217;s is a new record: Microsoft&#8217;s patch for September is a doozy, with a record number of roughly 972 vulnerabilities fixed and 112 of them meeting the high...",
-      "url": "https://www.schneier.com/blog/archives/2026/09/microsofts-patching.html",
-      "date": "2026-09-14T11:03:26Z"
-    },
-    {
-      "title": "Microsoft: September updates cause RDS failures on Windows Server",
-      "description": "[BLEEPINGCOMPUTER] Microsoft has confirmed reports that the September 2026 security updates cause Remote Desktop Services (RDS) failures on Windows Server systems. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-updates-cause-rds-failures-on-windows-server/",
-      "date": "2026-09-14T09:50:25Z"
-    },
-    {
-      "title": "Revolut discloses data breach exposing financial info, passports",
-      "description": "[BLEEPINGCOMPUTER] Fintech company Revolut has disclosed a data breach after sharing data from an undisclosed number of customers with a threat actor impersonating a government agency. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/revolut-discloses-data-breach-exposing-financial-info-passports/",
-      "date": "2026-09-14T08:48:24Z"
-    },
-    {
-      "title": "Microsoft: September updates break audio on some Windows PCs",
-      "description": "[BLEEPINGCOMPUTER] Microsoft has confirmed that USB audio devices may fail on some Windows systems after installing the KB5124008and KB5124012 September 2026 security updates. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-updates-break-audio-on-some-windows-pcs/",
-      "date": "2026-09-14T08:08:16Z"
-    },
-    {
-      "title": "Malicious Twitch Browser Extension Leaks OAuth Tokens From Nearly 31,000 Users",
-      "description": "[FEEDS] A malicious cross-store Twitch browser extension has leaked OAuth tokens associated with nearly 31,000 users to proxy servers operated by a Russian commercial bot service. The extension, named \"Twitch Enhanced Viewer | JeetBot,\" lists...",
-      "url": "https://thehackernews.com/2026/09/malicious-twitch-browser-extension.html",
-      "date": "2026-09-14T07:24:39Z"
-    },
-    {
-      "title": "CISA: Hackers now exploit max severity GitLab flaw in attacks",
-      "description": "[BLEEPINGCOMPUTER] The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned that hackers are now exploiting a maximum-severity GitLab vulnerability in attacks. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-hackers-now-exploit-max-severity-gitlab-flaw-in-attacks/",
-      "date": "2026-09-14T07:06:27Z"
-    },
-    {
-      "title": "Revolut confirms sensitive customer data breach after fake government requests",
-      "description": "[THE ECONOMIC TIMES] \u2060Revolut said in a statement that the breach \u200baffected a \"very limited\" number of customers, who had been \u200bnotified by the company. It did not give further details.",
-      "url": "https://economictimes.indiatimes.com/tech/technology/revolut-confirms-sensitive-customer-data-breach-after-fake-government-requests/articleshow/134231379.cms",
-      "date": "2026-09-14T02:58:39Z"
-    },
-    {
-      "title": "ISC Stormcast For Monday, September 14th, 2026 https://isc.sans.edu/podcastdetail/10092, (Mon, Sep 14th)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33334",
-      "date": "2026-09-14T02:00:03Z"
-    },
-    {
-      "title": "The NSA is reorganizing with an increased focus on AI, China, and cybersecurity.",
-      "description": "[THE VERGE] According to The Washington Post, the spy agency is set to undergo its largest restructuring in over a decade. Army general and NSA director Joshua M. Rudd is leading the effort. According to the Post: > Rudd\u2019s initiative calls for the creation at...",
-      "url": "https://www.theverge.com/policy/994449/the-nsa-is-reorganizing-with-an-increased-focus-on-ai-china-and-cybersecurity",
-      "date": "2026-09-13T20:51:58Z"
-    },
-    {
-      "title": "Attackers Use Passkey Phishing to Hijack Microsoft Cloud Accounts and Exfiltrate Data",
-      "description": "[FEEDS] Microsoft has disclosed details of two campaigns in which threat actors are abusing third-party email delivery infrastructure to blast financial fraud scam messages and using passkey-themed social engineering to breach cloud environments. The first...",
-      "url": "https://thehackernews.com/2026/09/attackers-use-passkey-phishing-to.html",
-      "date": "2026-09-13T10:11:48Z"
-    },
-    {
-      "title": "Why Are Sam Altman, Elon Musk, Anthropic CEO Calling for a Slower AI Race? The Safety Warning Explained",
-      "description": "[MASHABLE INDIA] AI safety concerns grow after an AI agent swarm breached a cybersecurity test, as Sam Altman and Elon Musk back Anthropic CEO Dario Amodei\u2019s call for caution.",
-      "url": "https://in.mashable.com/tech/113906/why-are-sam-altman-elon-musk-anthropic-ceo-calling-for-a-slower-ai-race-the-safety-warning-explained",
-      "date": "2026-09-13T06:18:56Z"
-    },
-    {
-      "title": "Florida investigates data breach tied to cybercriminal organization",
-      "description": "[EUROPE SAYS] Florida investigates data breach tied to cybercriminal organization",
-      "url": "https://www.europesays.com/3247921/",
-      "date": "2026-09-13T00:05:25Z"
-    },
-    {
-      "title": "The biggest vulnerability in your Bitcoin wallet might be the shipping label",
-      "description": "[CRYPTOSLATE] Trezor's data breach shows how hardware wallet shipping records can expose Bitcoin owners years after they've bought their devices.",
-      "url": "https://cryptoslate.com/your-bitcoin-wallet-has-a-shipping-problem/",
-      "date": "2026-09-12T19:30:23Z"
-    },
-    {
-      "title": "Revolut confirms sensitive customer data breach, falling for fake government requests",
-      "description": "[MONEYCONTROL] Revolut is planning for a potential public listing and aiming for a valuation of up to $200 billion.",
-      "url": "https://www.moneycontrol.com/news/business/revolut-confirms-sensitive-customer-data-breach-falling-for-fake-government-requests-14028716.html",
-      "date": "2026-09-12T17:15:57Z"
-    },
-    {
-      "title": "CISA Adds 5 Actively Exploited Artifactory, ScreenConnect, and RouterOS Flaws to KEV",
-      "description": "[FEEDS] The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added five security flaws impacting JFrog Artifactory, ConnectWise ScreenConnect, and MikroTik RouterOS to its Known Exploited Vulnerabilities (KEV) catalog, following reports of...",
-      "url": "https://thehackernews.com/2026/09/cisa-adds-5-actively-exploited.html",
-      "date": "2026-09-12T15:54:45Z"
-    },
-    {
-      "title": "Revolut confirms customer data breach through fake government requests",
-      "description": "[TECHCRUNCH] Revolut said it notified affected customers and alerted the relevant government agency, law enforcement, and financial regulators.",
-      "url": "https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/",
-      "date": "2026-09-12T14:40:00Z"
-    },
-    {
-      "title": "From Hacks to Bioweapons, Claude Misuse Is Now Everywhere",
-      "description": "[WIRED] Plus: The US disrupts the internet's biggest black market, a Conti ransomware hacker gets prison time, Meta fails to stop AI-generated videos of child abuse.",
-      "url": "https://www.wired.com/story/security-news-this-week-from-hacks-to-bioweapons-claude-misuse-is-now-everywhere/",
-      "date": "2026-09-12T10:30:00Z"
-    },
-    {
-      "title": "When the Whole Company Adopts AI: What It Does to Your SOC",
-      "description": "[FEEDS] Over the past year, we watched a new class of alert appear in enterprise security operations centers and grow faster than anything else in the stream: alerts that were triggered by AI tools and agents. Not attacks against AI, but the ordinary,...",
-      "url": "https://thehackernews.com/2026/09/when-whole-company-adopts-ai-what-it.html",
-      "date": "2026-09-12T10:24:44Z"
-    },
-    {
-      "title": "AI vs AI: How the Cybersecurity Battlefield Is Changing \u2014 and Why Delhi",
-      "description": "[THE TRIBUNE] New Delhi [India], September 12: The people most closely associated with it were penetration testers, network security engineers, incident responders, researchers and security operations teams. Their work focused on vulnerabilities, malware,...",
-      "url": "https://www.tribuneindia.com/news/business/ai-vs-ai-how-the-cybersecurity-battlefield-is-changing-and-why-delhi-ncr-is-part-of-the-conversation/",
-      "date": "2026-09-12T05:17:33Z"
-    },
-    {
-      "title": "Friday Squid Blogging: Rotting Squid on a Beached California Boat",
-      "description": "[SCHNEIER] Smells awful: But an estimated 30 to 50 tons of dead squid remain inside the boat&#8217;s catch tank, where they have been decomposing for days. &#8220;That is nasty. I wouldn&#8217;t want to do that,&#8221; said commercial fisherman Dick Ogg of the...",
-      "url": "https://www.schneier.com/blog/archives/2026/09/friday-squid-blogging-rotting-squid-on-a-beached-california-boat.html",
-      "date": "2026-09-11T21:03:27Z"
-    },
-    {
-      "title": "My Talk at DEF CON",
-      "description": "[SCHNEIER] Last month, I gave a talk at DEF CON on AI hacking: what happens when AIs become hackers. It&#8217;s a combination of the potentialities I raised in my 2022 book A Hacker&#8217;s Mind and the lessons we&#8217;re learning from current AI models...",
-      "url": "https://www.schneier.com/blog/archives/2026/09/my-talk-at-def-con.html",
-      "date": "2026-09-11T18:06:24Z"
-    },
-    {
-      "title": "The Self-Expanding Stolen Inference Supply Chain: An AI Agent Harvesting and Re-Serving LLM Access, (Fri, Sep 11th)",
-      "description": "[ISC] I identified an attacker using a semi-autonomous coding agent to run an offensive operation: finding poorly secured LLM resale gateways, acquiring API access through ordinary web flaws and account farming, validating the resulting inference...",
-      "url": "https://isc.sans.edu/diary/rss/33332",
-      "date": "2026-09-11T14:40:32Z"
-    },
-    {
-      "title": "Cliff Stoll\u2019s DEF CON Talk",
-      "description": "[SCHNEIER] In August, Cliff Stoll gave a talk at DEF CON, remembering the wily hacker he stalked forty years ago. Great fun.",
-      "url": "https://www.schneier.com/blog/archives/2026/09/cliff-stolls-def-con-talk.html",
-      "date": "2026-09-11T11:09:55Z"
-    },
-    {
-      "title": "ISC Stormcast For Friday, September 11th, 2026 https://isc.sans.edu/podcastdetail/10090, (Fri, Sep 11th)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33330",
-      "date": "2026-09-11T02:00:02Z"
-    },
-    {
-      "title": "Redtail Payload Analysis &#x5b;Guest Diary&#x5d;, (Wed, Sep 9th)",
-      "description": "[ISC] &#x5b;This is a Guest Diary by Aaron Ng, an ISC intern as part of the SANS.edu BACS program&#x5d;&#xd;",
-      "url": "https://isc.sans.edu/diary/rss/33326",
-      "date": "2026-09-10T12:58:10Z"
-    },
-    {
-      "title": "AIs Compress Exploit Timeline",
-      "description": "[SCHNEIER] Give an AI agent a mere rumor of an exploit, and it&#8217;s enough for them to find it. What&#8217;s worse, I found I could use my own agents to find the exploit just by knowing roughly what it was about and so could have been exploiting it well...",
-      "url": "https://www.schneier.com/blog/archives/2026/09/ais-compress-exploit-timeline.html",
-      "date": "2026-09-10T10:40:35Z"
-    },
-    {
-      "title": "ISC Stormcast For Thursday, September 10th, 2026 https://isc.sans.edu/podcastdetail/10088, (Thu, Sep 10th)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33328",
-      "date": "2026-09-10T10:10:11Z"
-    },
-    {
-      "title": "Scans for Proxmox Servers, (Wed, Sep 9th)",
-      "description": "[ISC] About a week ago, Proxmox published an advisory revealing a vulnerability in older versions of Proxmox VE, its flagship Virtual Environment product. The vulnerability only affects version 7, which has not been supported for a couple of years...",
-      "url": "https://isc.sans.edu/diary/rss/33324",
-      "date": "2026-09-09T17:46:24Z"
-    },
-    {
-      "title": "Driver\u2019s License Data for Sale",
-      "description": "[SCHNEIER] A database of 153 million drivers licenses is for sale on the dark web. Brian Krebs has more detail.",
-      "url": "https://www.schneier.com/blog/archives/2026/09/drivers-license-data-for-sale.html",
-      "date": "2026-09-09T16:05:00Z"
-    }
-  ]
+    "title": "Sentinel Protocol",
+    "tagline": "Perimeter Intelligence Sync",
+    "updated": "2026-09-14 16:45 UTC",
+    "news": [
+        {
+            "source": {
+                "id": null,
+                "name": "Kotaku"
+            },
+            "author": "Lewis Parker",
+            "title": "Anthropic CEO Says \u2018We Owe It To Humanity To Try\u2019 To Prevent An AI Swarm From Taking Over The Internet",
+            "description": "Anthropic\u2019s CEO and co-founder, Dario Amodei, states that 'a team of embedded third-party evaluators' must be put in place to curb AI's development, or else an AI 'swarm' botnet will take over the entire internet in '6-12 months'",
+            "url": "https://kotaku.com/anthropic-ceo-says-we-owe-it-to-humanity-to-try-to-prevent-an-ai-swarm-from-taking-over-the-internet-2000733980",
+            "urlToImage": "https://kotaku.com/app/uploads/2026/09/terminator-2.jpg",
+            "publishedAt": "2026-09-13T16:30:14Z",
+            "content": "Anthropics CEO and co-founder, Dario Amodei, has published a three-step plan in which he pleads with companies and the U.S. government to slow the pace at which we improve the capabilities of AI mode\u2026 [+4756 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Business Standard"
+            },
+            "author": "Avik Das, Aashish Aryan",
+            "title": "Businesses put up guard rails in deploying AI, prioritise governance",
+            "description": "Fear of rogue agents is prompting firms to limit autonomy and prioritise governance",
+            "url": "https://www.business-standard.com/technology/tech-news/businesses-put-up-guard-rails-in-deploying-ai-prioritise-governance-126091300768_1.html",
+            "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-09/13/thumb/fitandfill/1200X628/1789316674-6892.jpg",
+            "publishedAt": "2026-09-13T16:25:17Z",
+            "content": "Imaging: Ajaya Mohanty\r\nAvik DasAashish Aryan6 min read Last Updated : Sep 13 2026 | 9:55 PM IST\r\nAn exceptionally smart agent goes rogue and operates outside its organisational mandate. Depending on\u2026 [+6735 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Apnamatvchannel.com"
+            },
+            "author": "Apna Ma Tv Newsroom",
+            "title": "\"Exponential growth of AI a warning sign\": Anthropic CEO Dario Amodei continues push for AI safeguards - APNA MA TV",
+            "description": "\"Exponential growth of AI a warning sign\": Anthropic CEO Dario Amodei continues push for AI safeguards - APNA MA TVapnamatvchannel.com",
+            "url": "https://apnamatvchannel.com/business/exponential-growth-of-ai-a-warning-sign-anthropic-ceo-dario-amodei-continues-push-for-ai-safeguards/",
+            "urlToImage": "https://apnamatvchannel.com/wp-content/uploads/2026/04/matv-logo.png",
+            "publishedAt": "2026-09-13T16:20:57Z",
+            "content": "San Francisco (California) [US], September 12 (ANI): In what is being described as the \u2018wildest night in the AI industry\u2019, Anthropic CEO Dario Amodei continued to expand on his appeal to slow down th\u2026 [+3749 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forkast.news"
+            },
+            "author": "Heath Callahan",
+            "title": "Three Patches, Zero Progress: ShieldCrash Exposes the Endpoint-Protection Plane as Microsoft\u2019s Latest Attack Surface",
+            "description": "Nightmare Eclipse published a proof-of-concept on GitHub on September 9, 2026. The exploit reads arbitrary files as SYSTEM on fully patched Windows 10, Windows 11, and Windows Server systems running the September 2026 security updates. It is the third consecu\u2026",
+            "url": "https://forkast.news/three-patches-zero-progress-shieldcrash-exposes-the-endpoint-protection-plane-as-microsofts-latest-attack-surface/",
+            "urlToImage": "https://forkast.news/wp-content/uploads/2026/09/shieldcrash-defender-bypass-hero-1024x572.jpg",
+            "publishedAt": "2026-09-13T16:13:37Z",
+            "content": "Nightmare Eclipse published a proof-of-concept on GitHub on September 9, 2026. The exploit reads arbitrary files as SYSTEM on fully patched Windows 10, Windows 11, and Windows Server systems running \u2026 [+4208 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "Ana-Maria Stanciuc",
+            "title": "Revolut handed customer passports to scammers using a real government email domain",
+            "description": "Revolut gave sensitive customer information to criminals who requested it from what appeared to be a government email address, and did so because the address was real. The company has confirmed the breach and says its systems were never touched; the story was\u2026",
+            "url": "https://thenextweb.com/news/revolut-data-breach-fake-government-requests-passports",
+            "urlToImage": "https://media.thenextweb.com/2026/08/Revolut-Logo.jpg",
+            "publishedAt": "2026-09-13T16:06:18Z",
+            "content": "Revolut gave sensitive customer information to criminals who requested it from what appeared to be a government email address, and did so because the address was real.\r\nThe company has confirmed the \u2026 [+3806 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Kitploit.com"
+            },
+            "author": "Kitploit",
+            "title": "ARES",
+            "description": "Autonomous red-team engagement platform with MITRE ATT&CK module orchestration, DAG attack-path solving, OPSEC controls, encrypted credential vault, and multi-format reporting.",
+            "url": "https://kitploit.com/en/tools/github/mafifrizi/ares/",
+            "urlToImage": "https://assets.kitploit.com/production/public/tools/54944/ba68f4a0174178c75b8dfb1cbdaa342629e8f38435a2e171aac2762846b4414f-social-v1.webp",
+            "publishedAt": "2026-09-13T16:00:03Z",
+            "content": "Traditional penetration testing is fundamentally flawed: it is expensive, episodic, point-in-time, and leaves organizations blind to newly introduced misconfigurations and emerging adversary tradecra\u2026 [+31902 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BusinessLine"
+            },
+            "author": "Sanjana B & Venkatesha Babu",
+            "title": "SAP\u2019s three Rs: Building responsible, relevant and reliable AI for enterprises",
+            "description": "The adoption and consumption of AI will keep increasing dramatically year on year, says Manish Prasad, President & Managing Director - SAP Indian Subcontinent, SAP India",
+            "url": "https://www.thehindubusinessline.com/info-tech/saps-three-rs-building-responsible-relevant-and-reliable-ai-for-enterprises/article71463812.ece",
+            "urlToImage": "https://bl-i.thgim.com/public/incoming/xcztcl/article71463807.ece/alternates/LANDSCAPE_1200/Image%2013.jpg",
+            "publishedAt": "2026-09-13T15:56:56Z",
+            "content": "Enterprise AI needs to be more than just powerful it must be responsible, relevant, and reliable as businesses move from experimentation to deploying AI across core processes, says Manish Prasad, Pre\u2026 [+7991 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BusinessLine"
+            },
+            "author": "Vallari Sanzgiri",
+            "title": "The AI slowdown debate picks speed",
+            "description": "The AI slowdown debate intensifies as experts warn of risks and opportunities for China and India in the evolving landscape.",
+            "url": "https://www.thehindubusinessline.com/info-tech/the-ai-slowdown-debate-picks-speed/article71464132.ece",
+            "urlToImage": "https://bl-i.thgim.com/public/incoming/sjstzf/article71464131.ece/alternates/LANDSCAPE_1200/Amazon-deepens-G3BFSO9P1.4.jpg.jpg",
+            "publishedAt": "2026-09-13T15:37:37Z",
+            "content": "On Saturday, Anthropic Co-Founder Dario Amodei aired the idea of pacing the frontier in a lengthy blog detailing various cyberthreats such as the recent OpenAI-Hugging Face incident (OAI-HF) as well \u2026 [+3445 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "Ana Maria Constantin",
+            "title": "Trump\u2019s former AI czar tells Anthropic and OpenAI to slow down, and to stop asking for anything in return",
+            "description": "David Sacks told Anthropic and OpenAI to go ahead and pace the frontier but to stop seeking an antitrust waiver or an approval regime, arguing that product liability and market pressure already discipline them. Europe reached the same conclusion about liabili\u2026",
+            "url": "https://thenextweb.com/news/sacks-pacing-frontier-eu-liability",
+            "urlToImage": "https://media.thenextweb.com/2026/09/david-sacks-2024.jpg",
+            "publishedAt": "2026-09-13T15:20:56Z",
+            "content": "David Sacks told Anthropic and OpenAI to go ahead and pace the frontier but to stop seeking an antitrust waiver or an approval regime, arguing that product liability and market pressure already disci\u2026 [+2671 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "lbrown@businessinsider.com (Lillian Brown)",
+            "title": "How to watch the Shelton vs. Zverev US Open final for free from anywhere",
+            "description": "Don't miss out on this free US Open final live stream that we can help you unlock from any country in the world for Alex Zverev vs. Ben Shelton.",
+            "url": "https://www.businessinsider.com/guides/streaming/how-to-watch-us-open-mens-final-tennis-2026#article",
+            "urlToImage": "https://i.insider.com/6aa5e4c9ec15fe2d3cf16b45?width=1200&format=jpeg",
+            "publishedAt": "2026-09-13T15:00:01Z",
+            "content": "The short version: The US Open Men's Final will live stream on ESPN Unlimited in the US, Sky Sports in the UK, and for free on 9Now in Australia. You can access streaming services from anywhere with \u2026 [+5378 chars]"
+        }
+    ]
 }
