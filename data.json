@@ -1,6 +1,42 @@
 {
-  "updated": "2026-09-14 09:22:46 UTC",
+  "updated": "2026-09-14 16:03:25 UTC",
   "news": [
+    {
+      "title": "\u26a1 Weekly Recap: Rogue AI Agents, WeChat Worm, PaperCut Attacks, AI Espionage, and Rootkits",
+      "description": "[FEEDS] AI keeps showing up in the wrong places. Attackers are using it to speed up exploits, test defenses, and automate more of the job. Some models are also crossing lines on their own. That is not a great combination. The rest of the week is more...",
+      "url": "https://thehackernews.com/2026/09/weekly-recap-rogue-ai-agents-wechat.html",
+      "date": "2026-09-14T14:40:34Z"
+    },
+    {
+      "title": "Why Patch Automation Needs Brakes, Not Just an Accelerator",
+      "description": "[BLEEPINGCOMPUTER] Patch automation can help IT teams keep pace with growing update volumes, but deploying faster also means bad updates can spread faster. Action1 explains how update rings, predefined success criteria, and human oversight can make automated patching...",
+      "url": "https://www.bleepingcomputer.com/news/security/why-patch-automation-needs-brakes-not-just-an-accelerator/",
+      "date": "2026-09-14T14:01:11Z"
+    },
+    {
+      "title": "Webinar: How malicious OAuth apps can lead to Google Workspace breaches",
+      "description": "[BLEEPINGCOMPUTER] Attackers can combine social engineering with malicious OAuth applications to gain access to Google Workspace data without relying solely on stolen passwords. This webinar examines two attacks to show how these breaches unfold and which security...",
+      "url": "https://www.bleepingcomputer.com/news/security/webinar-how-malicious-oauth-apps-can-lead-to-google-workspace-breaches/",
+      "date": "2026-09-14T12:15:23Z"
+    },
+    {
+      "title": "AI Changed the Exposure Problem. Validation Needs to Change With It.",
+      "description": "[FEEDS] There's a lot of noise around AI and cybersecurity right now. What\u2019s actually important is far simpler, if often lost in the hubbub. Vulnerability discovery is getting faster and happening at a much greater scale, while defenders still have to work...",
+      "url": "https://thehackernews.com/2026/09/ai-changed-exposure-problem-validation.html",
+      "date": "2026-09-14T11:58:00Z"
+    },
+    {
+      "title": "Microsoft\u2019s Patching",
+      "description": "[SCHNEIER] Once a month, Microsoft pushes a security update to all Windows users. Tomorrow&#8217;s is a new record: Microsoft&#8217;s patch for September is a doozy, with a record number of roughly 972 vulnerabilities fixed and 112 of them meeting the high...",
+      "url": "https://www.schneier.com/blog/archives/2026/09/microsofts-patching.html",
+      "date": "2026-09-14T11:03:26Z"
+    },
+    {
+      "title": "Microsoft: September updates cause RDS failures on Windows Server",
+      "description": "[BLEEPINGCOMPUTER] Microsoft has confirmed reports that the September 2026 security updates cause Remote Desktop Services (RDS) failures on Windows Server systems. [...]",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-updates-cause-rds-failures-on-windows-server/",
+      "date": "2026-09-14T09:50:25Z"
+    },
     {
       "title": "Revolut discloses data breach exposing financial info, passports",
       "description": "[BLEEPINGCOMPUTER] Fintech company Revolut has disclosed a data breach after sharing data from an undisclosed number of customers with a threat actor impersonating a government agency. [...]",
@@ -26,6 +62,12 @@
       "date": "2026-09-14T07:06:27Z"
     },
     {
+      "title": "Revolut confirms sensitive customer data breach after fake government requests",
+      "description": "[THE ECONOMIC TIMES] \u2060Revolut said in a statement that the breach \u200baffected a \"very limited\" number of customers, who had been \u200bnotified by the company. It did not give further details.",
+      "url": "https://economictimes.indiatimes.com/tech/technology/revolut-confirms-sensitive-customer-data-breach-after-fake-government-requests/articleshow/134231379.cms",
+      "date": "2026-09-14T02:58:39Z"
+    },
+    {
       "title": "ISC Stormcast For Monday, September 14th, 2026 https://isc.sans.edu/podcastdetail/10092, (Mon, Sep 14th)",
       "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
       "url": "https://isc.sans.edu/diary/rss/33334",
@@ -36,12 +78,6 @@
       "description": "[THE VERGE] According to The Washington Post, the spy agency is set to undergo its largest restructuring in over a decade. Army general and NSA director Joshua M. Rudd is leading the effort. According to the Post: > Rudd\u2019s initiative calls for the creation at...",
       "url": "https://www.theverge.com/policy/994449/the-nsa-is-reorganizing-with-an-increased-focus-on-ai-china-and-cybersecurity",
       "date": "2026-09-13T20:51:58Z"
-    },
-    {
-      "title": "Hackers exploit Tencent app flaw to deploy GrayRabbit malware",
-      "description": "[BLEEPINGCOMPUTER] Threat actors linked to a China-aligned espionage group are exploiting a critical vulnerability (CVE-2026-51990) in Tencent's Sogou Input Method for Windows to deploy the GrayRabbit backdoor. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-tencent-app-flaw-to-deploy-grayrabbit-malware/",
-      "date": "2026-09-13T14:26:32Z"
     },
     {
       "title": "Attackers Use Passkey Phishing to Hijack Microsoft Cloud Accounts and Exfiltrate Data",
@@ -86,12 +122,6 @@
       "date": "2026-09-12T14:40:00Z"
     },
     {
-      "title": "Dutch NCSC: Critical Check Point VPN flaws exploitation is imminent",
-      "description": "[BLEEPINGCOMPUTER] The Dutch Nationaal Cyber Security Centrum (NCSC) is warning of imminent exploitation of two critical flaws in Check Point VPN tracked as CVE-2026-85102 and CVE-2026-85103. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/dutch-ncsc-critical-check-point-vpn-flaws-exploitation-is-imminent/",
-      "date": "2026-09-12T14:14:32Z"
-    },
-    {
       "title": "From Hacks to Bioweapons, Claude Misuse Is Now Everywhere",
       "description": "[WIRED] Plus: The US disrupts the internet's biggest black market, a Conti ransomware hacker gets prison time, Meta fails to stop AI-generated videos of child abuse.",
       "url": "https://www.wired.com/story/security-news-this-week-from-hacks-to-bioweapons-claude-misuse-is-now-everywhere/",
@@ -104,22 +134,10 @@
       "date": "2026-09-12T10:24:44Z"
     },
     {
-      "title": "OpenAI Agents Linked to RubyGems Campaign That Gained RCE on RubyDoc Servers",
-      "description": "[FEEDS] The \"major malicious attack\" that targeted RubyGems in May 2026 was the work of a swarm of OpenAI agents, according to a new report published by researchers Spencer Kitts, Thomas Larsen, and Sydney Von Arx. On May 12, Maciej Mensfeld, senior product...",
-      "url": "https://thehackernews.com/2026/09/openai-agents-linked-to-rubygems.html",
-      "date": "2026-09-12T09:07:56Z"
-    },
-    {
       "title": "AI vs AI: How the Cybersecurity Battlefield Is Changing \u2014 and Why Delhi",
       "description": "[THE TRIBUNE] New Delhi [India], September 12: The people most closely associated with it were penetration testers, network security engineers, incident responders, researchers and security operations teams. Their work focused on vulnerabilities, malware,...",
       "url": "https://www.tribuneindia.com/news/business/ai-vs-ai-how-the-cybersecurity-battlefield-is-changing-and-why-delhi-ncr-is-part-of-the-conversation/",
       "date": "2026-09-12T05:17:33Z"
-    },
-    {
-      "title": "AI vs AI: How the Cybersecurity Battlefield Is Changing \u2014 and Why Delhi",
-      "description": "[ANI (ASIAN NEWS INTERNATIONAL)] New Delhi [India], September 12: The people most closely associated with it were penetration testers, network security engineers, incident responders, researchers and security operations teams. Their work focused on vulnerabilities, malware,...",
-      "url": "https://www.aninews.in/news/business/ai-vs-ai-how-the-cybersecurity-battlefield-is-changing-8212-and-why-delhi-ncr-is-part-of-the-conversation20260912104601/",
-      "date": "2026-09-12T05:16:01Z"
     },
     {
       "title": "Friday Squid Blogging: Rotting Squid on a Beached California Boat",
@@ -128,22 +146,10 @@
       "date": "2026-09-11T21:03:27Z"
     },
     {
-      "title": "Hackers abused Claude to extract secrets from 1.8M Android apps",
-      "description": "[BLEEPINGCOMPUTER] Anthropic says multiple threat groups, including the financially motivated and state-sponsored espionage groups linked to Russia and China, tried to abuse its Claude AI model for malicious purposes. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-abused-claude-to-extract-secrets-from-18m-android-apps/",
-      "date": "2026-09-11T20:19:09Z"
-    },
-    {
       "title": "My Talk at DEF CON",
       "description": "[SCHNEIER] Last month, I gave a talk at DEF CON on AI hacking: what happens when AIs become hackers. It&#8217;s a combination of the potentialities I raised in my 2022 book A Hacker&#8217;s Mind and the lessons we&#8217;re learning from current AI models...",
       "url": "https://www.schneier.com/blog/archives/2026/09/my-talk-at-def-con.html",
       "date": "2026-09-11T18:06:24Z"
-    },
-    {
-      "title": "GitLab CVSS 10 File-Read Flaw Draws In-the-Wild Probes After Disclosure",
-      "description": "[FEEDS] GitLab has released patches to address multiple flaws, including a maximum-severity security vulnerability that has witnessed in-the-wild probes within hours of public disclosure. The vulnerability in question is CVE-2026-85706 (CVSS score: 10.0), a...",
-      "url": "https://thehackernews.com/2026/09/gitlab-cvss-10-file-read-flaw-draws-in.html",
-      "date": "2026-09-11T16:30:18Z"
     },
     {
       "title": "The Self-Expanding Stolen Inference Supply Chain: An AI Agent Harvesting and Re-Serving LLM Access, (Fri, Sep 11th)",
@@ -192,12 +198,6 @@
       "description": "[SCHNEIER] A database of 153 million drivers licenses is for sale on the dark web. Brian Krebs has more detail.",
       "url": "https://www.schneier.com/blog/archives/2026/09/drivers-license-data-for-sale.html",
       "date": "2026-09-09T16:05:00Z"
-    },
-    {
-      "title": "Claude Fable Solves a Historical Cipher",
-      "description": "[SCHNEIER] Claude Fable 5.1 solved a 370-year-old cipher in forty-four minutes. This tracks with what I wrote about AIs doing mathematics: It&#8217;s good at things that involve lots of searching and testing.",
-      "url": "https://www.schneier.com/blog/archives/2026/09/claude-fable-solves-a-historical-cipher.html",
-      "date": "2026-09-09T11:08:26Z"
     }
   ]
 }
