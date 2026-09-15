@@ -1,209 +1,137 @@
 {
-  "updated": "2026-09-15 12:59:13 UTC",
-  "news": [
-    {
-      "title": "CISA: Critical VMware RCE flaw now exploited by ransomware gangs",
-      "description": "[BLEEPINGCOMPUTER] The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned security teams that ransomware gangs have now joined ongoing attacks exploiting a critical VMware vCenter vulnerability patched in July. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-critical-vmware-vcenter-rce-flaw-now-exploited-by-ransomware-gangs/",
-      "date": "2026-09-15T12:16:32Z"
-    },
-    {
-      "title": "Human Attacker Exploits Marimo RCE, Reaches SSH Bastion in Eight Seconds",
-      "description": "[FEEDS] With artificial intelligence (AI) shrinking the window between vulnerability discovery and exploitation and lowering the barrier to entry for bad actors, new findings from Sysdig show that skilled human operators can move just as swiftly after...",
-      "url": "https://thehackernews.com/2026/09/human-attacker-exploits-marimo-rce.html",
-      "date": "2026-09-15T11:52:28Z"
-    },
-    {
-      "title": "Attack Chains, Not Just Attack Surfaces: Why Testing Individual Techniques Misses the Point",
-      "description": "[FEEDS] Introduction Security teams have gotten pretty good at testing against what can hurt them. Can this EDR agent catch this payload? Will my organization fail the phishing simulation? Does this SIEM rule fire on this particular technique? And, in more...",
-      "url": "https://thehackernews.com/2026/09/attack-chains-not-just-attack-surfaces.html",
-      "date": "2026-09-15T11:26:36Z"
-    },
-    {
-      "title": "Mass-Scanning Campaign Exploits Vite Flaw to Extract Cloud Credentials From Exposed Dev Servers",
-      "description": "[FEEDS] Cybersecurity researchers have disclosed details of a mass-scanning campaign that has targeted Vite deployments siphon sensitive data. The first is an automated effort aimed at internet-exposed Vite development servers that's designed to steal cloud...",
-      "url": "https://thehackernews.com/2026/09/mass-scanning-campaign-exploits-vite.html",
-      "date": "2026-09-15T11:12:32Z"
-    },
-    {
-      "title": "25 Years of Mass Surveillance Is Enough",
-      "description": "[SCHNEIER] This essay was written with Cindy Cohn, and originally appeared in Lawfare. One of the many legacies of the terrorist attacks of Sept. 11 is the government-wide shift from targeted surveillance&#8212;such as individual wiretaps or pen register/trap...",
-      "url": "https://www.schneier.com/blog/archives/2026/09/25-years-of-mass-surveillance-is-enough.html",
-      "date": "2026-09-15T11:01:41Z"
-    },
-    {
-      "title": "On the NSA\u2019s Supercomputer from the 1960s",
-      "description": "[SCHNEIER] Really interesting story about Harvest, a specialized code breaking computer built in the 1960s by IBM for the NSA.",
-      "url": "https://www.schneier.com/blog/archives/2026/09/on-the-nsas-supercomputer-from-the-1960s.html",
-      "date": "2026-09-15T10:16:24Z"
-    },
-    {
-      "title": "Suspected Black Axe gang leaders face cybercrime charges in the US",
-      "description": "[BLEEPINGCOMPUTER] Five alleged leaders of the Black Axe cybercrime syndicate, known for its involvement in global-scale cyber-enabled financial fraud, have been extradited to the United States to face wire fraud and money laundering charges. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/black-axe-gang-members-extradited-to-us-face-cybercrime-charges/",
-      "date": "2026-09-15T09:50:25Z"
-    },
-    {
-      "title": "Microsoft confirms KB5002914 Excel update breaks copy and paste",
-      "description": "[BLEEPINGCOMPUTER] Microsoft has confirmed that copy and paste may silently fail for some Excel users after installing the September 2026 KB5002914 security update. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-kb5002914-security-update-breaks-excel-copy-and-paste/",
-      "date": "2026-09-15T08:40:20Z"
-    },
-    {
-      "title": "Cisco patches Secure Email Gateway zero-day exploited in attacks",
-      "description": "[BLEEPINGCOMPUTER] Cisco warned customers to patch a critical Secure Email Gateway zero-day security flaw that threat actors have been exploiting in attacks. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/new-cisco-secure-email-zero-day-exploited-to-execute-commands-as-root/",
-      "date": "2026-09-15T07:31:09Z"
-    },
-    {
-      "title": "LiteSpeed Enterprise Flaw Could Let One Hosting Account Gain Root Access on a Shared Server",
-      "description": "[FEEDS] A critical vulnerability in LiteSpeed Web Server Enterprise could let a low-privilege website user gain root access on a shared-hosting server, cPanel warned in an&nbsp;advisory published on September 14. On such servers, many customers' sites run...",
-      "url": "https://thehackernews.com/2026/09/litespeed-enterprise-flaw-could-let-one.html",
-      "date": "2026-09-15T06:52:16Z"
-    },
-    {
-      "title": "Cisco Secure Email Gateway Flaw Exploited in the Wild, Enables Root Command Execution",
-      "description": "[FEEDS] Cisco has warned that a new critical vulnerability impacting AsyncOS Software for Cisco Secure Email Gateway has come under active exploitation in the wild. The vulnerability, tracked as CVE-2026-76461, carries a CVSS score of 9.8 out of a maximum...",
-      "url": "https://thehackernews.com/2026/09/cisco-secure-email-gateway-flaw.html",
-      "date": "2026-09-15T06:11:11Z"
-    },
-    {
-      "title": "China-Linked Hackers Exploit Chrome-Windows Zero-Day Chain to Deploy GRIMWEDGE",
-      "description": "[FEEDS] A Chinese threat actor has been attributed to a spear-phishing campaign that exploits recently patched security flaws in Google Chrome and Microsoft Windows to deliver a malicious JavaScript backdoor called GRIMWEDGE. Volexity, which is tracking the...",
-      "url": "https://thehackernews.com/2026/09/china-linked-hackers-exploit-chrome.html",
-      "date": "2026-09-15T05:31:05Z"
-    },
-    {
-      "title": "ISC Stormcast For Tuesday, September 15th, 2026 https://isc.sans.edu/podcastdetail/10094, (Tue, Sep 15th)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33338",
-      "date": "2026-09-15T02:25:12Z"
-    },
-    {
-      "title": "Are we losing control of AI? What\u2019s driving new fears",
-      "description": "[THE STRAITS TIMES] The fears have become impossible to ignore after cybersecurity breaches involving AI agents. Read more at straitstimes.com.",
-      "url": "https://www.straitstimes.com/world/united-states/are-we-losing-control-of-ai-whats-driving-new-fears",
-      "date": "2026-09-14T23:55:00Z"
-    },
-    {
-      "title": "Sheryl Sandberg testifies in New Mexico Facebook data privacy trial",
-      "description": "[ALBUQUERQUE JOURNAL] Former Facebook COO Sheryl Sandberg testified in Santa Fe that Facebook faced roadblocks investigating Cambridge Analytica and third-party app developers after the data breach scandal.",
-      "url": "https://www.abqjournal.com/news/facebook-faced-roadblocks-investigating-cambridge-analytica-former-exec-testifies/3121444",
-      "date": "2026-09-14T23:49:12Z"
-    },
-    {
-      "title": "CenterPoint Energy announces cybersecurity incident",
-      "description": "[MARKETS INSIDER] In a regulatory filing, the company stated, \u201cIn September 2026, CenterPoint Energy (CNP) became aware of an online post by a third party claimin...",
-      "url": "https://markets.businessinsider.com/news/stocks/centerpoint-energy-announces-cybersecurity-incident-1036545092",
-      "date": "2026-09-14T23:30:10Z"
-    },
-    {
-      "title": "CenterPoint Energy discloses customer data breach in SEC filing",
-      "description": "[EUROPE SAYS] Sept 14 : CenterPoint Energy said on Monday in an SEC filing it became aware in September of an online post claiming to have obtained a data set of certain",
-      "url": "https://www.europesays.com/3251416/",
-      "date": "2026-09-14T22:27:22Z"
-    },
-    {
-      "title": "Swiss Bitcoin Pay Shuts Down Servers After Data Breach",
-      "description": "[BITCOIN MAGAZINE] Swiss Bitcoin Pay, a non-custodial bitcoin payment processor, said that it had to temporarily shut down its servers following a data breach on Monday.",
-      "url": "https://bitcoinmagazine.com/news/swiss-bitcoin-pay-data-breach",
-      "date": "2026-09-14T20:55:25Z"
-    },
-    {
-      "title": "Microsoft releases emergency Windows updates to fix RDS failures",
-      "description": "[BLEEPINGCOMPUTER] Microsoft has released emergency out-of-band Windows updates to fix Remote Desktop Services failures caused by this month's security updates, along with Hyper-V and USB audio problems on some Windows versions. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-windows-updates-to-fix-rds-failures/",
-      "date": "2026-09-14T20:52:18Z"
-    },
-    {
-      "title": "Japan's Digital Agency says VPN flaw exposed 246,000 personnel records",
-      "description": "[BLEEPINGCOMPUTER] Japan's Digital Agency has discovered a data breach that may have exposed around 246,000 record rows containing personal information of government employees. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/japans-digital-agency-says-vpn-flaw-exposed-246-000-personnel-records/",
-      "date": "2026-09-14T20:36:02Z"
-    },
-    {
-      "title": "Nvidia: How AI Doomerism Has Become Mainstream Overnight",
-      "description": "[SEEKING ALPHA] Nvidia Corporation faces AI \"doomer\" headlines, but data center demand, cybersecurity, and inference growth stay strong\u2014see why this NVDA stock sell-off is a Buy now.",
-      "url": "https://seekingalpha.com/article/4946152-nvidia-how-ai-doomerism-has-become-mainstream-overnight",
-      "date": "2026-09-14T19:03:05Z"
-    },
-    {
-      "title": "Upcoming Speaking Engagements",
-      "description": "[SCHNEIER] This is a current list of where and when I am scheduled to speak: I\u2019m speaking online (via Zoom) at a League of Women Voters event on Tuesday, September 22, 2026 at 5 PM ET. I\u2019m speaking at CanSecWest 2026 in Vancouver, Canada. The conference runs...",
-      "url": "https://www.schneier.com/blog/archives/2026/09/upcoming-speaking-engagements-60.html",
-      "date": "2026-09-14T19:02:45Z"
-    },
-    {
-      "title": "Trump, Altman, Musk and Amodei clash over AI risks as safety debate heats up",
-      "description": "[THE ECONOMIC TIMES] President Donald Trump has rejected calls from Anthropic CEO Dario Amodei, OpenAI CEO Sam Altman and Elon Musk to slow advanced AI development and strengthen safeguards. The debate highlights growing concerns over AI risks, cybersecurity threats and...",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/trump-altman-musk-and-amodei-clash-over-ai-risks-as-safety-debate-heats-up/articleshow/134246892.cms",
-      "date": "2026-09-14T18:49:00Z"
-    },
-    {
-      "title": "Apple Updates Everything, (Mon, Sep 14th)",
-      "description": "[ISC] Today, Apple released its annual update across all its operating systems. With that, Apple not only released new features but also patched 261 different vulnerabilities. This is the most vulnerabilities Apple has ever patched, but the increase is...",
-      "url": "https://isc.sans.edu/diary/rss/33336",
-      "date": "2026-09-14T18:33:44Z"
-    },
-    {
-      "title": "CISA warns hackers are exploiting max severity GitLab flaw - urges all businesses to patch immediately",
-      "description": "[TECHRADAR] A 10/10 GitLab flaw was added to CISA's KEV",
-      "url": "https://www.techradar.com/pro/security/cisa-warns-hackers-are-exploiting-max-severity-gitlab-flaw-urges-all-businesses-to-patch-immediately",
-      "date": "2026-09-14T16:50:00Z"
-    },
-    {
-      "title": "Huawei Brings Embedded Intelligence and Built-in Resilience to GISEC GLOBAL 2026",
-      "description": "[TECHBULLION] Huawei will showcase AI, cloud and cybersecurity solutions at GISEC GLOBAL 2026 in Dubai, advancing secure digital transformation and cyber resilience.",
-      "url": "https://techbullion.com/huawei-brings-embedded-intelligence-and-built-in-resilience-to-gisec-global-2026/",
-      "date": "2026-09-14T16:31:15Z"
-    },
-    {
-      "title": "Florida Highway Safety was hacked. Did cybercriminals get your info?",
-      "description": "[TCPALM] The FLHSMV announced it was investigating a data breach in a statement published by the department.",
-      "url": "https://www.tcpalm.com/story/news/crime/2026/09/14/florida-department-highway-safety-flhsmv-data-breach/91755365007/",
-      "date": "2026-09-14T16:23:32Z"
-    },
-    {
-      "title": "Using AI for Weapons Development",
-      "description": "[SCHNEIER] Last week, Anthropic released a long and detailed document describing current misuses of their Claude models. I&#8217;m still reading it, but I wanted to flag this: We identified a cell of threat actors based in northern Yemen running three weapons...",
-      "url": "https://www.schneier.com/blog/archives/2026/09/using-ai-for-weapons-development.html",
-      "date": "2026-09-14T16:07:46Z"
-    },
-    {
-      "title": "Microsoft\u2019s Patching",
-      "description": "[SCHNEIER] Once a month, Microsoft pushes a security update to all Windows users. Tomorrow&#8217;s is a new record: Microsoft&#8217;s patch for September is a doozy, with a record number of roughly 972 vulnerabilities fixed and 112 of them meeting the high...",
-      "url": "https://www.schneier.com/blog/archives/2026/09/microsofts-patching.html",
-      "date": "2026-09-14T11:03:26Z"
-    },
-    {
-      "title": "ISC Stormcast For Monday, September 14th, 2026 https://isc.sans.edu/podcastdetail/10092, (Mon, Sep 14th)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33334",
-      "date": "2026-09-14T02:00:03Z"
-    },
-    {
-      "title": "Friday Squid Blogging: Rotting Squid on a Beached California Boat",
-      "description": "[SCHNEIER] Smells awful: But an estimated 30 to 50 tons of dead squid remain inside the boat&#8217;s catch tank, where they have been decomposing for days. &#8220;That is nasty. I wouldn&#8217;t want to do that,&#8221; said commercial fisherman Dick Ogg of the...",
-      "url": "https://www.schneier.com/blog/archives/2026/09/friday-squid-blogging-rotting-squid-on-a-beached-california-boat.html",
-      "date": "2026-09-11T21:03:27Z"
-    },
-    {
-      "title": "The Self-Expanding Stolen Inference Supply Chain: An AI Agent Harvesting and Re-Serving LLM Access, (Fri, Sep 11th)",
-      "description": "[ISC] I identified an attacker using a semi-autonomous coding agent to run an offensive operation: finding poorly secured LLM resale gateways, acquiring API access through ordinary web flaws and account farming, validating the resulting inference...",
-      "url": "https://isc.sans.edu/diary/rss/33332",
-      "date": "2026-09-11T14:40:32Z"
-    },
-    {
-      "title": "ISC Stormcast For Friday, September 11th, 2026 https://isc.sans.edu/podcastdetail/10090, (Fri, Sep 11th)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33330",
-      "date": "2026-09-11T02:00:02Z"
-    },
-    {
-      "title": "Redtail Payload Analysis &#x5b;Guest Diary&#x5d;, (Wed, Sep 9th)",
-      "description": "[ISC] &#x5b;This is a Guest Diary by Aaron Ng, an ISC intern as part of the SANS.edu BACS program&#x5d;&#xd;",
-      "url": "https://isc.sans.edu/diary/rss/33326",
-      "date": "2026-09-10T12:58:10Z"
-    }
-  ]
+    "title": "Sentinel Protocol",
+    "tagline": "Perimeter Intelligence Sync",
+    "updated": "2026-09-15 15:25 UTC",
+    "news": [
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Taylor Herzlich",
+            "title": "OpenAI boss Sam Altman warns of two ways AI could go \u2018very badly\u2019 for humans \u2014 as China alleges \u2018fear mongering\u2019",
+            "description": "Altman and rival Elon Musk, who were earlier this year locked in a legal battle, made a rare alliance over the weekend as they backed a lengthy letter from Anthropic CEO Dario Amodei urging global companies to slow their work on top AI models.",
+            "url": "https://nypost.com/2026/09/14/business/openai-boss-sam-altman-warns-of-two-ways-ai-could-go-very-badly-for-humans/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/09/141071280.jpg?quality=75&strip=all&w=1200",
+            "publishedAt": "2026-09-14T15:24:59Z",
+            "content": "OpenAI boss Sam Altman on Monday doubled down on his warnings about the safety risks of AI \u2014 even as the Chinese government called such alarm bells from US companies \u201cfear mongering\u201d it likened to \u201cC\u2026 [+5244 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Biztoc.com"
+            },
+            "author": "247wallst.com",
+            "title": "Cybersecurity Stocks Surge as AI Safety Warnings Spark Security Bid: CrowdStrike and Zscaler Jump 12%, Palo Alto Rallies 11%",
+            "description": "The post Cybersecurity Stocks Surge as AI Safety Warnings Spark Security Bid: CrowdStrike and Zscaler Jump 12%, Palo Alto Rallies 11% appeared first on 24/7 Wall St..\nCrowdStrike (NASDAQ:CRWD) stock is up 12% to $232.08, Zscaler (NASDAQ:ZS) stock is rising 12\u2026",
+            "url": "https://biztoc.com/x/66ae1acc5b74c2bb",
+            "urlToImage": "https://biztoc.com/cdn/66ae1acc5b74c2bb_s.webp",
+            "publishedAt": "2026-09-14T15:20:52Z",
+            "content": "The post Cybersecurity Stocks Surge as AI Safety Warnings Spark Security Bid: CrowdStrike and Zscaler Jump 12%, Palo Alto Rallies 11% appeared first on 24/7 Wall St..CrowdStrike (NASDAQ:CRWD) stock i\u2026 [+145 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Biztoc.com"
+            },
+            "author": "theregister.com",
+            "title": "Perfect-10 GitLab bug under attack days after patch lands",
+            "description": "CISA says attackers are exploiting a maximum-severity GitLab flaw that lets unauthenticated miscreants read arbitrary files from vulnerable servers after the code shack released fixes on September 10. The US Cybersecurity and Infrastructure Security Agency ha\u2026",
+            "url": "https://biztoc.com/x/f943887aa372354a",
+            "urlToImage": "https://biztoc.com/cdn/996/og.png",
+            "publishedAt": "2026-09-14T15:20:45Z",
+            "content": "CISA says attackers are exploiting a maximum-severity GitLab flaw that lets unauthenticated miscreants read arbitrary files from vulnerable servers after the code shack released fixes on September 10\u2026 [+150 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Cointelegraph"
+            },
+            "author": "Cointelegraph by Christina Comben",
+            "title": "Why are AI\u2019s biggest companies suddenly asking to slow down?",
+            "description": "AI\u2019s biggest labs are suddenly calling for a slower pace of development. Is it because AI risks are catching up with the technology, or because the economics of the race are getting harder to justify?",
+            "url": "https://cointelegraph.com/magazine/why-are-biggest-ai-companies-suddenly-asking-to-slow-down",
+            "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2G1M9RG81KG7CSFP69XNX5A/hi-what-is-chaosgpt-an-ai-tool-that-wants-to-destroy-humanity.jpg",
+            "publishedAt": "2026-09-14T15:18:46Z",
+            "content": "For years, the defining characteristic of the artificial intelligence race has been speed.\r\nBuild a bigger model. Spend more on compute. Release it. Rinse and repeat, with litte regard for the unknow\u2026 [+9531 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Vladan.fr"
+            },
+            "author": "Vladan SEGET",
+            "title": "Veeam Agent for Microsoft Windows 13.1.1.700 (Free Edition) \u2013 Technical Overview and What You Can Achieve",
+            "description": "The latest standalone Veeam Agent for Microsoft Windows is version 13.1.1.700 (released around mid-August 2026, included with Veeam Backup & Replication 13.1.1). It continues the solid line of free endpoint protection that started years ago as Veeam Endpoint \u2026",
+            "url": "https://www.vladan.fr/veeam-agent-for-microsoft-windows-13-1-1-700-free-edition-technical-overview-and-what-you-can-achieve/",
+            "urlToImage": "https://www.vladan.fr/wp-content/uploads/images/Veeam-13.1-agent.png",
+            "publishedAt": "2026-09-14T15:12:17Z",
+            "content": "The latest standalone Veeam Agent for Microsoft Windows is version 13.1.1.700 (released around mid-August 2026, included with Veeam Backup &amp; Replication 13.1.1). It continues the solid line of fr\u2026 [+8389 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNA"
+            },
+            "author": null,
+            "title": "Palantir, Nvidia curb AI model use over data fears, The Information reports",
+            "description": "Sept 14 : Large technology companies, including Palantir Technologies, Nvidia and Booz Allen Hamilton, could restrict or cease to use advanced AI models unless Anthropic and OpenAI guarantee not misusing their intellectual property, the Information reported o\u2026",
+            "url": "https://www.channelnewsasia.com/business/palantir-nvidia-curb-ai-model-use-over-data-fears-information-reports-6383886",
+            "urlToImage": "https://dam.mediacorp.sg/image/upload/s--UQs-Ie4M--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-09-14T151108Z_1_LYNXMPEM8D19I_RTROPTP_3_TECH-AI.JPG?itok=KHvHq2Hd",
+            "publishedAt": "2026-09-14T15:11:08Z",
+            "content": "Sept 14 : Large technology companies, including Palantir Technologies, Nvidia and Booz Allen Hamilton, could restrict or cease to use advanced AI models unless Anthropic and OpenAI guarantee not misu\u2026 [+1627 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "24/7 Wall St."
+            },
+            "author": "David Moadel",
+            "title": "Cybersecurity Stocks Surge as AI Safety Warnings Spark Security Bid: CrowdStrike and Zscaler Jump 12%, Palo Alto Rallies 11%",
+            "description": "AI safety warnings from two frontier lab CEOs sent shockwaves through chipmakers over the weekend, but cybersecurity stocks are telling a completely differen...",
+            "url": "https://247wallst.com/investing/2026/09/14/cybersecurity-stocks-surge-as-ai-safety-warnings-spark-security-bid-crowdstrike-and-zscaler-jump-12-palo-alto-rallies-11/",
+            "urlToImage": "https://s.yimg.com/lo/mysterio/api/66f83c3eecd03419a083b3ee8d381688f6494b24170d339cbe2fd3d5aa6fdfe3/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2Fdcef7b27886e8a7d5d7e9111aa48beb7.jpg",
+            "publishedAt": "2026-09-14T15:08:07Z",
+            "content": "Quick Read\r\n<ul><li>CrowdStrike surged 12% and Palo Alto rallied 11% as AI safety warnings from Anthropic and OpenAI CEOs fueled a broad cybersecurity sector bid.\r\n</li><li>CIBR rose just 4% versus d\u2026 [+6323 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PRNewswire"
+            },
+            "author": null,
+            "title": "CATL Launches TECTRANS II at IAA Transportation 2026 to Accelerate Global Commercial Vehicle Electrification",
+            "description": "HANOVER, Germany, Sept. 14, 2026 /PRNewswire/ -- Contemporary Amperex Technology Co., Limited (CATL) today unveiled TECTRANS II, its next-generation commercial vehicle battery solution, at IAA Transportation 2026 in Hanover. \"Commercial vehicle electrificatio\u2026",
+            "url": "https://www.prnewswire.com/news-releases/catl-launches-tectrans-ii-at-iaa-transportation-2026-to-accelerate-global-commercial-vehicle-electrification-302877799.html",
+            "urlToImage": "https://mmx.prnewswire.com/media/MS1987491/20260914102149EDT_image_1.jpg?id=OA2946323&p=facebook",
+            "publishedAt": "2026-09-14T15:08:00Z",
+            "content": "Accessibility StatementSkip Navigation\r\nHANOVER, Germany, Sept. 14, 2026 /PRNewswire/ -- Contemporary Amperex Technology Co., Limited (CATL) today unveiled TECTRANS II, its next-generation commercial\u2026 [+5533 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "sobrient@insider.com (Samuel O'Brient)",
+            "title": "Cybersecurity is one corner of the tech market that's getting a boost from AI doomsday fears",
+            "description": "Markets have been jolted by the abrupt vibe shift in the AI story, but cybersecurity stocks are one corner of tech getting a boost from doomsday fears.",
+            "url": "https://www.businessinsider.com/cybersecurity-stocks-ai-apocalypse-anthropic-openai-panw-crwd-ftnt-zs-2026-9#article",
+            "urlToImage": "https://i.insider.com/6aa80c429b8974787b1cbc0e?width=1200&format=jpeg",
+            "publishedAt": "2026-09-14T15:02:26Z",
+            "content": "The AI doomsday conversation has rattled the market, but investors are piling into one corner of tech as worries about a future marked by AI-enabled cyberattacks. \r\nWall Street has been jolted by the\u2026 [+2872 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Survivalblog.com"
+            },
+            "author": "James Wesley Rawles",
+            "title": "The Survivalist\u2019s Odds \u2018n Sods",
+            "description": "SurvivalBlog presents another edition of The Survivalist\u2019s Odds \u2018n Sods. This column is a collection of news bits and pieces that are relevant to the modern survivalist and prepper from JWR. Our goal is to educate our readers, to help them to recognize emergi\u2026",
+            "url": "https://survivalblog.com/2026/09/15/survivalists-odds-n-sods-779/",
+            "urlToImage": "https://survivalblog.com/wp-content/uploads/2026/09/McLovin-DL.jpg",
+            "publishedAt": "2026-09-14T15:01:53Z",
+            "content": "SurvivalBlog presents another edition of The Survivalists Odds n Sods. This column is a collection of news bits and pieces that are relevant to the modern survivalist and prepper from JWR. Our goal i\u2026 [+4139 chars]"
+        }
+    ]
 }
