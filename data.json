@@ -1,6 +1,78 @@
 {
-  "updated": "2026-09-16 08:56:11 UTC",
+  "updated": "2026-09-16 14:27:37 UTC",
   "news": [
+    {
+      "title": "The true cost of a ransomware attack, with and without BCDR",
+      "description": "[BLEEPINGCOMPUTER] The ransom itself can be only a fraction of the total cost of a ransomware attack, with downtime, recovery, remediation, and legal obligations adding millions to the bill. Datto explains how a mature BCDR strategy can reduce downtime and provide a...",
+      "url": "https://www.bleepingcomputer.com/news/security/the-true-cost-of-a-ransomware-attack-with-and-without-bcdr/",
+      "date": "2026-09-16T14:00:10Z"
+    },
+    {
+      "title": "Attacker Hijacks AI Coding Assistant Session, Spreads Shai-Hulud Across About 100 Repositories",
+      "description": "[FEEDS] Mandiant says an attacker hijacked an active AI coding-assistant session at an unnamed software-as-a-service provider and later spread&nbsp;Shai-Hulud&nbsp;across about 100 internal code repositories. Before the repository spread, the assistant...",
+      "url": "https://thehackernews.com/2026/09/attacker-hijacks-ai-coding-assistant.html",
+      "date": "2026-09-16T13:37:07Z"
+    },
+    {
+      "title": "Parallels Desktop Flaw Lets Non-Admin Mac Users Gain Root, but Intel Macs Can't Install Fix",
+      "description": "[FEEDS] Parallels Desktop for Mac has a flaw that lets an ordinary local account run code as root, the highest level of access on a Mac, software company JFrog said this week. The attack needs code already running on the machine as a normal user, so it does...",
+      "url": "https://thehackernews.com/2026/09/parallels-desktop-flaw-lets-non-admin.html",
+      "date": "2026-09-16T13:14:05Z"
+    },
+    {
+      "title": "Microsoft says Copilot buttons still missing in classic Outlook",
+      "description": "[BLEEPINGCOMPUTER] Microsoft says it's still investigating a known issue that causes the Copilot and Copilot Chat buttons in Classic Outlook to disappear for some Windows users. [...]",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-workaround-for-missing-outlook-copilot-buttons/",
+      "date": "2026-09-16T12:16:32Z"
+    },
+    {
+      "title": "Webinar: What happens in the first hours of a Google Workspace breach",
+      "description": "[BLEEPINGCOMPUTER] The first hours after discovering a Google Workspace breach can determine how an incident unfolds. This webinar examines real-world breaches to show which early response decisions can limit the impact and which can make matters worse. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/webinar-what-happens-in-the-first-hours-of-a-google-workspace-breach/",
+      "date": "2026-09-16T12:11:19Z"
+    },
+    {
+      "title": "N0va Phishkit Targets US and EU Businesses: A New Challenge for Identity Security",
+      "description": "[FEEDS] N0va is targeting organizations across North America and Europe with phishing campaigns that impersonate trusted services and abuse legitimate authentication flows. Successful attacks can give threat actors access to valid accounts without relying...",
+      "url": "https://thehackernews.com/2026/09/n0va-phishkit-targets-us-and-eu.html",
+      "date": "2026-09-16T11:58:00Z"
+    },
+    {
+      "title": "Fake CAPTCHA Scams",
+      "description": "[SCHNEIER] New variant of an old scam: Use the framing of a CAPTCHA to get an unsuspecting user to download and run a malicious program.",
+      "url": "https://www.schneier.com/blog/archives/2026/09/fake-captcha-scams.html",
+      "date": "2026-09-16T11:25:26Z"
+    },
+    {
+      "title": "Google Patches Pixel Modem Flaw Amid Signs of Limited Targeted Exploitation",
+      "description": "[FEEDS] Google has disclosed that a high-severity security flaw in its Pixel Cellular Modem has come under exploitation in the wild. The vulnerability, tracked as CVE-2026-58704 (CVSS score: 8.0), is a privilege escalation flaw. \"In Cellular Modem, there is...",
+      "url": "https://thehackernews.com/2026/09/google-patches-pixel-modem-flaw-amid.html",
+      "date": "2026-09-16T11:15:58Z"
+    },
+    {
+      "title": "Threat Intelligence Alone Won't Close the Exploitation Gap",
+      "description": "[FEEDS] A leaked credential shows up in a criminal marketplace, or a vulnerability gets a disclosure advisory, and either one can be weaponized against a real target before most security teams have triaged the alert. Attackers are combining that kind of...",
+      "url": "https://thehackernews.com/2026/09/threat-intelligence-alone-wont-close.html",
+      "date": "2026-09-16T11:15:48Z"
+    },
+    {
+      "title": "Critical ScreenConnect flaw now actively exploited in attacks",
+      "description": "[BLEEPINGCOMPUTER] Attackers now exploit a critical-severity ConnectWise ScreenConnect vulnerability in the wild, according to the U.S. Cybersecurity and Infrastructure Security Agency (CISA). [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-critical-screenconnect-flaw/",
+      "date": "2026-09-16T11:14:28Z"
+    },
+    {
+      "title": "Acronis cPanel Backup Plugin Vulnerability Exploited in Targeted Attacks",
+      "description": "[FEEDS] Acronis has warned that a high-severity security flaw in its Backup plugin for cPanel and Web Host Manager (WHM) deployments has been exploited in the wild. The vulnerability, tracked as CVE-2026-87886 (CVSS score: 7.8), is described as a case of...",
+      "url": "https://thehackernews.com/2026/09/acronis-cpanel-backup-plugin.html",
+      "date": "2026-09-16T11:08:54Z"
+    },
+    {
+      "title": "Windows Server 2022 reaches end of mainstream support next month",
+      "description": "[BLEEPINGCOMPUTER] Microsoft has reminded customers that Windows Server 2022 will reach the end of mainstream support next month and enter extended support until October 2031. [...]",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-server-2022-reaches-end-of-mainstream-support-next-month/",
+      "date": "2026-09-16T09:10:20Z"
+    },
     {
       "title": "Google fixes actively exploited Android zero-day on Pixel devices",
       "description": "[BLEEPINGCOMPUTER] Google has released the September 2026 security patches to address 110 vulnerabilities affecting its Pixel devices, including one zero-day flaw actively exploited in targeted attacks. [...]",
@@ -8,16 +80,10 @@
       "date": "2026-09-16T07:00:19Z"
     },
     {
-      "title": "Attackers Exploit WooCommerce Wholesale Lead Capture Flaw to Plant PHP Web Shells",
-      "description": "[FEEDS] Threat actors are exploiting a critical security flaw in WooCommerce Wholesale Lead Capture, a premium WordPress plugin that has more than 6,000 active installs. \"This vulnerability can be leveraged by unauthenticated attackers to upload arbitrary...",
-      "url": "https://thehackernews.com/2026/09/attackers-exploit-woocommerce-wholesale.html",
-      "date": "2026-09-16T05:48:28Z"
-    },
-    {
-      "title": "Active Exploitation Attempts Target WSO2 API Manager JWT Bypass With Forged Admin Tokens",
-      "description": "[FEEDS] A critical security flaw in WSO2 API Manager has come under active exploitation in the wild, according to findings from watchTowr. The vulnerability, tracked as CVE-2026-5430 (CVSS score: 9.8/10.0), is a case of improper verification of a...",
-      "url": "https://thehackernews.com/2026/09/active-exploitation-attempts-target.html",
-      "date": "2026-09-16T05:18:06Z"
+      "title": "Proofpoint 2026 Voice of the CISO reveals nearly four in five CISOs in Australia are taking on expanding AI responsibilities without proportional resources",
+      "description": "[ITWIRE] Proofpoint, Inc., a global leader in human and agent cybersecurity, today released its 2026 Voice of the CISO report, revealing that local security leaders are facing...",
+      "url": "https://itwire.com/business-it-news/security/proofpoint-2026-voice-of-the-ciso-reveals-nearly-four-in-five-cisos-in-australia-are-taking-on-expanding-ai-responsibilities-without-proportional-resources",
+      "date": "2026-09-16T02:18:58Z"
     },
     {
       "title": "ISC Stormcast For Wednesday, September 16th, 2026 https://isc.sans.edu/podcastdetail/10096, (Wed, Sep 16th)",
@@ -26,16 +92,46 @@
       "date": "2026-09-16T02:00:02Z"
     },
     {
-      "title": "Acronis warns of actively exploited flaw in its cPanel backup plugin",
-      "description": "[BLEEPINGCOMPUTER] Acronis disclosed a high-severity Linux local privilege escalation vulnerability in its backup plugin for cPanel, WebHost Manager (WHM), and Plesk that may be exploited in the wild. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/acronis-warns-of-actively-exploited-flaw-in-its-cpanel-backup-plugin/",
-      "date": "2026-09-15T21:37:35Z"
+      "title": "Oracle layoffs free up experienced tech talent. Will India's GCCs hire them?",
+      "description": "[INDIA TODAY] Oracle's latest layoffs have pushed experienced technology professionals into the market as the company ramps up AI and cloud spending. In India, GCCs could absorb some of that talent, but hiring is likely to favour candidates with strengths in...",
+      "url": "https://www.indiatoday.in/jobs/story/oracle-layoffs-free-up-experienced-tech-talent-will-indias-gccs-hire-them-educ-2994790-2026-09-16",
+      "date": "2026-09-16T02:00:00Z"
     },
     {
-      "title": "Malcious Admin Menu Editor Pro plugin backdoors 1,500 WordPress sites",
-      "description": "[BLEEPINGCOMPUTER] Malicious versions of the Admin Menu Editor Pro plugin for WordPress have been distributed to more than 200 customers after a threat actor compromised the maintainer's website and pushed updates that created a hidden user account. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/malcious-admin-menu-editor-pro-plugin-backdoors-1-500-wordpress-sites/",
-      "date": "2026-09-15T20:34:15Z"
+      "title": "Secure Code Warrior Launches Citizen AI Cybersecurity Training to Build AI-Ready and Responsible Use Skills Across Business Functions",
+      "description": "[ITWIRE] New AI literacy program equips non-developer employees with the judgment, risk awareness and responsible-use habits needed to safely adopt AI-powered workflows",
+      "url": "https://itwire.com/it-people-news/education/secure-code-warrior-launches-citizen-ai-cybersecurity-training-to-build-ai-ready-and-responsible-use-skills-across-business-functions",
+      "date": "2026-09-16T00:37:41Z"
+    },
+    {
+      "title": "Spanish data watchdog publicises first AI agent-linked data breach report",
+      "description": "[THE STAR] MADRID, Sept 15 (Reuters) - Spain's data protection \u2060watchdog said it has received the first reported notification of a personal data breach allegedly carried \u2060out by an artificial intelligence agent, a case that suggests autonomous systems are...",
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/09/16/spanish-data-watchdog-publicises-first-ai-agent-linked-data-breach-report",
+      "date": "2026-09-15T23:32:00Z"
+    },
+    {
+      "title": "Cybersecurity Breach on Texas-Bound Oil Tanker",
+      "description": "[DEVDISCOURSE] U.S. military and FBI agents boarded a Texas-bound oil tanker to investigate a cyberattack. The foreign-flagged vessel's network was reportedly compromised by overseas cyber actors. This follows a report from Bloomberg News, citing the U.S. Coast...",
+      "url": "https://www.devdiscourse.com/article/technology/3977688-cybersecurity-breach-on-texas-bound-oil-tanker",
+      "date": "2026-09-15T23:28:28Z"
+    },
+    {
+      "title": "Southport attack victims, survivors and families hit by 'completely unacceptable' data breach",
+      "description": "[LBC] The data breach was discovered during a review of digital systems",
+      "url": "https://www.lbc.co.uk/article/southport-attack-victims-data-breach-5HjdhWd_2/",
+      "date": "2026-09-15T22:59:22Z"
+    },
+    {
+      "title": "based cyberattacks reshape cybersecurity",
+      "description": "[SILICONANGLE NEWS] CrowdStrike counters AI-based cyberattacks with SafeMind, automated red and blue teaming and an expanded security ecosystem.",
+      "url": "https://siliconangle.com/2026/09/15/four-insights-ai-based-cyberattacks-crowdstrikes-falcon/",
+      "date": "2026-09-15T21:59:25Z"
+    },
+    {
+      "title": "Spanish data watchdog publicises first AI agent-linked data breach report",
+      "description": "[THE STRAITS TIMES] The agent used a large language model to gain access to a system and subsequently modify personal data and access invoices. Read more at straitstimes.com.",
+      "url": "https://www.straitstimes.com/world/europe/spanish-data-watchdog-publicises-first-ai-agent-linked-data-breach-report",
+      "date": "2026-09-15T21:13:36Z"
     },
     {
       "title": "AI in Cybersecurity: A New Frontier for Data Breaches?",
@@ -50,100 +146,10 @@
       "date": "2026-09-15T19:30:22Z"
     },
     {
-      "title": "KREMLIN Banking Malware Hijacks Chrome and Edge to Steal Credentials and Session Tokens",
-      "description": "[FEEDS] Cybersecurity researchers have shed light on a previously undocumented Brazilian banking malware operation that delivers a toolkit called KREMLIN. Elastic Security Labs is tracking the activity under the moniker REF9334. Active since at least May...",
-      "url": "https://thehackernews.com/2026/09/kremlin-banking-malware-hijacks-chrome.html",
-      "date": "2026-09-15T18:54:14Z"
-    },
-    {
-      "title": "It's not a tax: Ex-SBI chairman backs 0.4% fee on large UPI payments",
-      "description": "[INDIA TODAY] Rajnish Kumar backed the MDR on select UPI merchant payments, saying it would fund infrastructure, cybersecurity and innovation without burdening consumers.",
-      "url": "https://www.indiatoday.in/business/story/upi-mdr-rajnish-kumar-defends-merchant-fee-on-payments-above-rs-2000-2995457-2026-09-15",
-      "date": "2026-09-15T17:45:07Z"
-    },
-    {
-      "title": "Zelensky appoints Commander of Communications and Cybersecurity Forces",
-      "description": "[UKRINFORM] President Volodymyr Zelensky has appointed Oleksii Kovalenko as Commander of the Communications and Cybersecurity Forces of the Armed Forces of Ukraine. \u2014 Ukrinform.",
-      "url": "https://www.ukrinform.net/rubric-ato/4164372-zelensky-appoints-commander-of-communications-and-cybersecurity-forces.html",
-      "date": "2026-09-15T17:39:00Z"
-    },
-    {
-      "title": "Southport victims at centre of 'completely unacceptable' data breach",
-      "description": "[DAILY EXPRESS] The Ministry of Justice has issued a statement.",
-      "url": "https://www.express.co.uk/news/uk/2248889/southport-victims-data-breach-moj-courts-staff",
-      "date": "2026-09-15T17:28:00Z"
-    },
-    {
-      "title": "Cloudflare Hits Highs Amid Agentic AI Boom; Nears Pivot",
-      "description": "[INVESTOR'S BUSINESS DAILY] Cloudflare stock is near an entry at 332.22 after hitting an all-time high on Monday. The cybersecurity name is an IBD stock to watch.",
-      "url": "https://www.investors.com/research/cloudflare-net-stock-ai-agents-2/",
-      "date": "2026-09-15T17:24:12Z"
-    },
-    {
-      "title": "CenterPoint Energy confirms customer data stolen in cyberattack",
-      "description": "[BLEEPINGCOMPUTER] CenterPoint Energy disclosed a breach compromising some customers' personal information after an attacker leaked data allegedly stolen from the utility company. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/centerpoint-energy-confirms-customer-data-stolen-in-cyberattack/",
-      "date": "2026-09-15T16:40:14Z"
-    },
-    {
-      "title": "Iranian Hackers Use Telegram-Controlled Malware to Spy on Dissidents and Journalists",
-      "description": "[FEEDS] Cybersecurity agencies in the United States, the United Kingdom, and the Netherlands have detailed a Windows malware that they say Iran's intelligence service uses to spy on dissidents, journalists, and activists around the world. The malware is...",
-      "url": "https://thehackernews.com/2026/09/iranian-hackers-use-telegram-controlled.html",
-      "date": "2026-09-15T16:29:51Z"
-    },
-    {
-      "title": "Slimmers risking death by buying 'dodgy weight",
-      "description": "[THE DAILY STAR] Around 5,000 bogus pharmacy websites were accessed by UK consumers in 2025, according to cybersecurity firm Avast",
-      "url": "https://www.dailystar.co.uk/news/uk-news/slimmers-risking-death-buying-dodgy-37665350",
-      "date": "2026-09-15T16:22:24Z"
-    },
-    {
-      "title": "ZEX PR WIRE to Spotlight Cybersecurity Innovation and GCC Growth at GISEC Global 2026",
-      "description": "[TECHBULLION] ZEX PR WIRE will spotlight cybersecurity innovation and GCC growth at GISEC Global 2026, highlighting emerging trends, technologies and industry leaders.",
-      "url": "https://techbullion.com/zex-pr-wire-to-spotlight-cybersecurity-innovation-and-gcc-growth-at-gisec-global-2026/",
-      "date": "2026-09-15T16:13:46Z"
-    },
-    {
-      "title": "Quantum cybersecurity startup QClairvoyance plans Finland foray",
-      "description": "[THE HINDU BUSINESS LINE] QClairvoyance, a quantum cybersecurity startup, plans to expand into Finland to meet growing European demand for quantum-safe solutions.",
-      "url": "https://www.thehindubusinessline.com/info-tech/quantum-cybersecurity-startup-qclairvoyance-plans-finland-foray/article71468582.ece",
-      "date": "2026-09-15T16:05:26Z"
-    },
-    {
-      "title": "Leaks, data breaches, and ransom notes: The worst hacks of 2026 so far",
-      "description": "[TECHCRUNCH] From the massive DOGE data breach and the compromise of critical infrastructure to the hack of federal surveillance systems, here are the most damaging security incidents and data breaches of 2026 so far.",
-      "url": "https://techcrunch.com/2026/09/15/the-worst-hacks-and-breaches-of-2026-so-far/",
-      "date": "2026-09-15T16:00:00Z"
-    },
-    {
       "title": "MacOS 27 - First Boot, (Tue, Sep 15th)",
       "description": "[ISC] I have not done this type of diary in a while: What traffic will you see from a system on boot, before a user logs in&#x3f; I just took a quick look at macOS 27 \"Golden Gate\" to see what traffic you should expect. Here are some of the...",
       "url": "https://isc.sans.edu/diary/rss/33340",
       "date": "2026-09-15T15:23:45Z"
-    },
-    {
-      "title": "BambooToken Malware Uses MQTT to Control Windows and Linux Systems",
-      "description": "[FEEDS] Cybersecurity researchers have disclosed details of a multi-platform campaign that uses the Message Queueing Telemetry Transport (MQTT) protocol as a communication channel to control Windows and Linux systems. The emerging malware family, codenamed...",
-      "url": "https://thehackernews.com/2026/09/bambootoken-malware-uses-mqtt-to.html",
-      "date": "2026-09-15T15:23:19Z"
-    },
-    {
-      "title": "BambooToken malware controls Windows and Linux systems via MQTT",
-      "description": "[BLEEPINGCOMPUTER] A previously unknown malware framework called BambooToken, active since at least 2023, is now using the Message Queuing Telemetry Transport (MQTT) protocol to communicate with Windows and Linux systems. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/bambootoken-malware-controls-windows-and-linux-systems-via-mqtt/",
-      "date": "2026-09-15T15:00:00Z"
-    },
-    {
-      "title": "Hackers target WordPress sites via third-party WooCommerce plugin",
-      "description": "[BLEEPINGCOMPUTER] Hackers are actively exploiting a critical vulnerability in the WooCommerce Wholesale Lead Capture premium plugin for WordPress to upload a PHP backdoor. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-target-wordpress-sites-via-third-party-woocommerce-plugin/",
-      "date": "2026-09-15T14:45:10Z"
-    },
-    {
-      "title": "Human Attacker Exploits Marimo RCE, Reaches SSH Bastion in Eight Seconds",
-      "description": "[FEEDS] With artificial intelligence (AI) shrinking the window between vulnerability discovery and exploitation and lowering the barrier to entry for bad actors, new findings from Sysdig show that skilled human operators can move just as swiftly after...",
-      "url": "https://thehackernews.com/2026/09/human-attacker-exploits-marimo-rce.html",
-      "date": "2026-09-15T11:52:28Z"
     },
     {
       "title": "25 Years of Mass Surveillance Is Enough",
@@ -192,12 +198,6 @@
       "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
       "url": "https://isc.sans.edu/diary/rss/33334",
       "date": "2026-09-14T02:00:03Z"
-    },
-    {
-      "title": "Friday Squid Blogging: Rotting Squid on a Beached California Boat",
-      "description": "[SCHNEIER] Smells awful: But an estimated 30 to 50 tons of dead squid remain inside the boat&#8217;s catch tank, where they have been decomposing for days. &#8220;That is nasty. I wouldn&#8217;t want to do that,&#8221; said commercial fisherman Dick Ogg of the...",
-      "url": "https://www.schneier.com/blog/archives/2026/09/friday-squid-blogging-rotting-squid-on-a-beached-california-boat.html",
-      "date": "2026-09-11T21:03:27Z"
     },
     {
       "title": "The Self-Expanding Stolen Inference Supply Chain: An AI Agent Harvesting and Re-Serving LLM Access, (Fri, Sep 11th)",
