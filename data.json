@@ -1,209 +1,137 @@
 {
-  "updated": "2026-09-17 14:32:04 UTC",
-  "news": [
-    {
-      "title": "What Recent AI-Powered Attacks Mean for Your Identity Security",
-      "description": "[BLEEPINGCOMPUTER] AI is making credential theft faster and easier to scale, giving attackers more opportunities to abuse valid identities. Specops explains why identity security must go beyond successful authentication by verifying that both the user and the device...",
-      "url": "https://www.bleepingcomputer.com/news/security/what-recent-ai-powered-attacks-mean-for-your-identity-security/",
-      "date": "2026-09-17T14:01:11Z"
-    },
-    {
-      "title": "Windows 11 24H2 Home and Pro reach end of support in October",
-      "description": "[BLEEPINGCOMPUTER] Microsoft reminded customers this week that devices running Windows 11 24H2 Home and Pro editions will stop receiving updates next month. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-home-and-pro-reach-end-of-support-in-october/",
-      "date": "2026-09-17T13:09:09Z"
-    },
-    {
-      "title": "Critical Unbound DNSSEC Validator Flaw Could Allow RCE via a Malicious DNS Zone",
-      "description": "[FEEDS] Every release of the Unbound DNS resolver before 1.26.1 has a critical heap overflow in its DNSSEC validator, maintainer NLnet Labs said in an&nbsp;advisory&nbsp;on Wednesday. An attacker who controls a malicious zone and queries a vulnerable...",
-      "url": "https://thehackernews.com/2026/09/critical-unbound-dnssec-validator-flaw.html",
-      "date": "2026-09-17T12:30:00Z"
-    },
-    {
-      "title": "Can You Prove a New CVE Is Exploitable Before Attackers Do? Learn How in This Webinar",
-      "description": "[FEEDS] A new CVE drops. Your scanner finds it. The severity score looks ugly. But that still does not answer the question that matters: Can it actually be exploited in your environment? Mythos-class AI is compressing the time between disclosure and working...",
-      "url": "https://thehackernews.com/2026/09/can-you-prove-new-cve-is-exploitable.html",
-      "date": "2026-09-17T11:50:00Z"
-    },
-    {
-      "title": "US takes down NightmareStresser DDoS-for-hire platform",
-      "description": "[BLEEPINGCOMPUTER] The U.S. Federal Bureau of Investigation (FBI) seized the domains used by NightmareStresser, one of the world's longest-running distributed denial-of-service (DDoS) platforms. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/fbi-seizes-nightmarestresser-service-linked-to-thousands-of-ddos-attacks/",
-      "date": "2026-09-17T11:33:35Z"
-    },
-    {
-      "title": "How Candidates Could Use AI for Good",
-      "description": "[SCHNEIER] This essay was written with Nathan E. Sanders, and originally appeared in The Guardian. There are plenty of signs that AI will make all of our experiences of the US midterm elections worse. Voters have anxiety about AI&#8217;s impacts on the...",
-      "url": "https://www.schneier.com/blog/archives/2026/09/how-candidates-could-use-ai-for-good.html",
-      "date": "2026-09-17T11:06:31Z"
-    },
-    {
-      "title": "CISO's Expert Guide to Agentic Pentesting for Websites",
-      "description": "[FEEDS] Attackers now weaponize new vulnerabilities in about five days (Mandiant, part of Google Cloud). The median organization takes 43 days to patch one (Verizon DBIR 2026). A new free guide explains how autonomous AI agents are closing that gap, and...",
-      "url": "https://thehackernews.com/2026/09/cisos-expert-guide-to-agentic.html",
-      "date": "2026-09-17T10:50:53Z"
-    },
-    {
-      "title": "China-Aligned FamousSparrow Deploys SparroWocky Backdoor Across Latin America",
-      "description": "[FEEDS] The China-aligned state-sponsored threat actor known as FamousSparrow has been observed deploying a previously unreported backdoor called SparroWocky in attacks targeting multiple countries in Latin America since at least August 2025. \"SparroWocky...",
-      "url": "https://thehackernews.com/2026/09/china-aligned-famoussparrow-deploys.html",
-      "date": "2026-09-17T10:05:45Z"
-    },
-    {
-      "title": "OpenAI Reveals Six Model Incidents Involving Hidden Failures and Unauthorized Uploads",
-      "description": "[FEEDS] OpenAI on Wednesday disclosed six new instances of \"unexpected or concerning model behavior\" that took place over the past six months, while sharing a new framework for reporting, tracking, investigating, and disclosing model misalignment in a bid...",
-      "url": "https://thehackernews.com/2026/09/openai-reveals-six-model-incidents.html",
-      "date": "2026-09-17T09:53:38Z"
-    },
-    {
-      "title": "Chinese hackers use SparroWocky malware in govt espionage attacks",
-      "description": "[BLEEPINGCOMPUTER] The China-linked espionage group FamousSparrow has been using a new backdoor named SparroWocky in attacks on government organizations in Latin America. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/chinese-hackers-use-sparrowocky-malware-in-govt-espionage-attacks/",
-      "date": "2026-09-17T09:00:00Z"
-    },
-    {
-      "title": "Microsoft shares workaround for Windows domain login issues",
-      "description": "[BLEEPINGCOMPUTER] Microsoft shared a temporary fix on Wednesday for a known issue that prevents Windows 11 users from logging in with valid domain credentials after installing the September 2026 security updates. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-workaround-for-windows-domain-login-authentication-issues/",
-      "date": "2026-09-17T08:24:48Z"
-    },
-    {
-      "title": "BIND 9 Update Fixes 14 Flaws, Including an Unauthenticated Crash Over DNS-over-HTTPS",
-      "description": "[FEEDS] The Internet Systems Consortium (ISC) has released&nbsp;BIND 9.20.29 and 9.21.26&nbsp;to fix fourteen security flaws it&nbsp;disclosed&nbsp;on 16 September in BIND 9, its open-source DNS server software. One of them affects any BIND server that...",
-      "url": "https://thehackernews.com/2026/09/bind-9-update-fixes-14-flaws-including.html",
-      "date": "2026-09-17T08:00:29Z"
-    },
-    {
-      "title": "Cisco warns of max severity ISE zero-day exploited in attacks",
-      "description": "[BLEEPINGCOMPUTER] Cisco has released security updates to address a maximum-severity Identity Services Engine vulnerability that attackers are actively exploiting in the wild. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-identity-service-engine-zero-day-exploited-in-attacks/",
-      "date": "2026-09-17T07:20:54Z"
-    },
-    {
-      "title": "ISC Stormcast For Thursday, September 17th, 2026 https://isc.sans.edu/podcastdetail/10098, (Thu, Sep 17th)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33346",
-      "date": "2026-09-17T02:00:03Z"
-    },
-    {
-      "title": "Optiv Security closes down its Denver headquarters",
-      "description": "[THE DENVER POST] Optiv Security, Colorado's leading cybersecurity firm, has relocated its headquarters from Denver to Leawood, Kansas, dealing another blow to the region's reeling tech sector.",
-      "url": "https://www.denverpost.com/2026/09/16/optiv-moves-headquarters-denver/",
-      "date": "2026-09-17T01:25:38Z"
-    },
-    {
-      "title": "Rubrik Stock: Right Place, Right Time (NYSE:RBRK)",
-      "description": "[SEEKING ALPHA] Rubrik (RBRK) nears $100 on AI-driven cybersecurity demand; 38% growth and strong ARR support a reasonable valuation. See here for more details.",
-      "url": "https://seekingalpha.com/article/4947275-rubrik-stock-right-place-right-time",
-      "date": "2026-09-17T01:07:52Z"
-    },
-    {
-      "title": "Luminis Health sued over alleged failure to protect patient data after cyberattack",
-      "description": "[CBS NEWS] A patient of Anne Arundel Medical Center alleges in a lawsuit that the hospital's parent company, Luminis Health, negligently failed to protect their medical information following a cybersecurity incident earlier this month, according to our media...",
-      "url": "https://www.cbsnews.com/baltimore/news/luminis-health-sued-alleged-failure-protect-patient-data-cyberattack/",
-      "date": "2026-09-17T00:26:04Z"
-    },
-    {
-      "title": "Spain AEPD Logs First AI Agent Data Breach [2026]",
-      "description": "[EUROPE SAYS] Spain\u2019s data protection watchdog has opened a file that security teams have been dreading since generative AI agents got hands and tools of their own. The",
-      "url": "https://www.europesays.com/3255297/",
-      "date": "2026-09-17T00:08:17Z"
-    },
-    {
-      "title": "Revolut says no direct demand received over alleged data breach",
-      "description": "[THE STAR] Sept 16 (Reuters) - Revolut \u2060has had no direct contact or demand \u2060from the individuals or group claiming responsibility for \u200ca data breach, a company spokesperson told Reuters on Wednesday.",
-      "url": "https://www.thestar.com.my/tech/tech-news/2026/09/17/revolut-hackers-demand-3-million-ransom-ft-reports",
-      "date": "2026-09-16T23:19:00Z"
-    },
-    {
-      "title": "Fortinet opens $30 million cybersecurity hub in downtown Calgary",
-      "description": "[CALGARY HERALD] Fortinet opens $30 million cybersecurity hub in Calgary, launches $15,000 scholarship with University of Calgary.",
-      "url": "https://calgaryherald.com/news/fortinet-opens-30-million-cybersecurity-hub-in-calgary",
-      "date": "2026-09-16T21:44:57Z"
-    },
-    {
-      "title": "AI Supremacy Showdown: U.S. vs. China",
-      "description": "[DEVDISCOURSE] The U.S. and China are locked in a race for AI dominance, with key topics being military uses, technology copying, chip exports, and differing regulatory approaches. Ahead of their meeting, discussions emerge over AI's role in economic and military...",
-      "url": "https://www.devdiscourse.com/article/technology/3978137-ai-supremacy-showdown-us-vs-china",
-      "date": "2026-09-16T21:33:37Z"
-    },
-    {
-      "title": "Zero-day flaws in TP-Link security cameras could let hackers eavesdrop on you - but there's a fix",
-      "description": "[TOM'S GUIDE] Security researchers discovered zero day flaws that could let hackers eavesdrop on you via TP-Link C200 cameras.",
-      "url": "https://www.tomsguide.com/home/home-security/zero-day-flaws-in-tp-link-security-cameras-could-let-hackers-eavesdrop-on-you-but-theres-a-fix",
-      "date": "2026-09-16T20:04:50Z"
-    },
-    {
-      "title": "Revolut hackers demand $3M in Monero after data breach",
-      "description": "[CRYPTO NEWS] Revolut hackers have demanded $3 million in Monero after obtaining identity documents and transaction records tied to at least 680 accounts.",
-      "url": "https://crypto.news/revolut-hackers-demand-3m-in-monero-after-data-breach/",
-      "date": "2026-09-16T19:54:41Z"
-    },
-    {
-      "title": "Google confirms a dangerous Pixel security flaw was exploited by hackers",
-      "description": "[ANDROID POLICE] Pixel owners were hit by zero-day attacks",
-      "url": "https://www.androidpolice.com/pixel-phones-were-hacked-through-modems/",
-      "date": "2026-09-16T19:39:58Z"
-    },
-    {
-      "title": "Scans Targeting Hospitality Applications, (Wed, Sep 16th)",
-      "description": "[ISC] Earlier today, I noted an odd request showing up in our \"First Seen\" report:&#xd;",
-      "url": "https://isc.sans.edu/diary/rss/33344",
-      "date": "2026-09-16T18:44:04Z"
-    },
-    {
-      "title": "Fake CAPTCHA Scams",
-      "description": "[SCHNEIER] New variant of an old scam: Use the framing of a CAPTCHA to get an unsuspecting user to download and run a malicious program.",
-      "url": "https://www.schneier.com/blog/archives/2026/09/fake-captcha-scams.html",
-      "date": "2026-09-16T11:25:26Z"
-    },
-    {
-      "title": "ISC Stormcast For Wednesday, September 16th, 2026 https://isc.sans.edu/podcastdetail/10096, (Wed, Sep 16th)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33342",
-      "date": "2026-09-16T02:00:02Z"
-    },
-    {
-      "title": "MacOS 27 - First Boot, (Tue, Sep 15th)",
-      "description": "[ISC] I have not done this type of diary in a while: What traffic will you see from a system on boot, before a user logs in&#x3f; I just took a quick look at macOS 27 \"Golden Gate\" to see what traffic you should expect. Here are some of the...",
-      "url": "https://isc.sans.edu/diary/rss/33340",
-      "date": "2026-09-15T15:23:45Z"
-    },
-    {
-      "title": "25 Years of Mass Surveillance Is Enough",
-      "description": "[SCHNEIER] This essay was written with Cindy Cohn, and originally appeared in Lawfare. One of the many legacies of the terrorist attacks of Sept. 11 is the government-wide shift from targeted surveillance&#8212;such as individual wiretaps or pen register/trap...",
-      "url": "https://www.schneier.com/blog/archives/2026/09/25-years-of-mass-surveillance-is-enough.html",
-      "date": "2026-09-15T11:01:41Z"
-    },
-    {
-      "title": "On the NSA\u2019s Supercomputer from the 1960s",
-      "description": "[SCHNEIER] Really interesting story about Harvest, a specialized code breaking computer built in the 1960s by IBM for the NSA.",
-      "url": "https://www.schneier.com/blog/archives/2026/09/on-the-nsas-supercomputer-from-the-1960s.html",
-      "date": "2026-09-15T10:16:24Z"
-    },
-    {
-      "title": "ISC Stormcast For Tuesday, September 15th, 2026 https://isc.sans.edu/podcastdetail/10094, (Tue, Sep 15th)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33338",
-      "date": "2026-09-15T02:25:12Z"
-    },
-    {
-      "title": "Upcoming Speaking Engagements",
-      "description": "[SCHNEIER] This is a current list of where and when I am scheduled to speak: I\u2019m speaking online (via Zoom) at a League of Women Voters event on Tuesday, September 22, 2026 at 5 PM ET. I\u2019m speaking at CanSecWest 2026 in Vancouver, Canada. The conference runs...",
-      "url": "https://www.schneier.com/blog/archives/2026/09/upcoming-speaking-engagements-60.html",
-      "date": "2026-09-14T19:02:45Z"
-    },
-    {
-      "title": "Apple Updates Everything, (Mon, Sep 14th)",
-      "description": "[ISC] Today, Apple released its annual update across all its operating systems. With that, Apple not only released new features but also patched 261 different vulnerabilities. This is the most vulnerabilities Apple has ever patched, but the increase is...",
-      "url": "https://isc.sans.edu/diary/rss/33336",
-      "date": "2026-09-14T18:33:44Z"
-    },
-    {
-      "title": "Using AI for Weapons Development",
-      "description": "[SCHNEIER] Last week, Anthropic released a long and detailed document describing current misuses of their Claude models. I&#8217;m still reading it, but I wanted to flag this: We identified a cell of threat actors based in northern Yemen running three weapons...",
-      "url": "https://www.schneier.com/blog/archives/2026/09/using-ai-for-weapons-development.html",
-      "date": "2026-09-14T16:07:46Z"
-    }
-  ]
+    "title": "Sentinel Protocol",
+    "tagline": "Perimeter Intelligence Sync",
+    "updated": "2026-09-17 15:24 UTC",
+    "news": [
+        {
+            "source": {
+                "id": null,
+                "name": "pymnts.com"
+            },
+            "author": "PYMNTS",
+            "title": "Revolut and Fed Incidents Expose New Risks Inside Banking\u2019s Trust System",
+            "description": "Revolut and the Federal Reserve are in the news this week after suffering two banking infrastructure compromises. However, the most interesting thing about the separate incidents isn\u2019t what happened; it\u2019s what did not. Hackers did not have to break into Revol\u2026",
+            "url": "https://www.pymnts.com/cybersecurity/2026/revolut-fed-incidents-expose-new-risks-inside-banking-trust-system/",
+            "urlToImage": "https://www.pymnts.com/wp-content/uploads/2024/06/federal-reserrve.jpg",
+            "publishedAt": "2026-09-16T15:24:39Z",
+            "content": "Revolut and the Federal Reserve are in the news this week after suffering two banking infrastructure compromises. However, the most interesting thing about the separate incidents isnt what happened; \u2026 [+6938 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "SiliconANGLE News"
+            },
+            "author": "Kyt Dotson",
+            "title": "Tutor Intelligence launches second-generation intelligent warehouse robotics with a classroom to teach them",
+            "description": "Tutor Intelligence Inc., a provider of artificial intelligence-powered warehouse robot workers, announced the launch of its second-generation Cassie and Sonny robots, running on the company\u2019s robot foundation models. Sonny was initially developed as the compa\u2026",
+            "url": "https://siliconangle.com/2026/09/16/tutor-intelligence-launches-second-generation-intelligent-warehouse-robotics-with-a-classroom-to-teach-them/",
+            "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/6aa860eb07c28de600997c2d_cassie.png",
+            "publishedAt": "2026-09-16T15:20:19Z",
+            "content": "Tutor Intelligence Inc., a provider of artificial intelligence-powered warehouse robot workers, announced the launch of its second-generation Cassie and Sonny robots, running on the companys robot fo\u2026 [+5182 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NASA"
+            },
+            "author": "Sandra May",
+            "title": "NASA Visits Schools Strengthening Florida\u2019s Skilled Workforce",
+            "description": "NASA recently awarded $10.5 million to seven organizations nationwide through its new State Hubs initiative. Space Florida was selected for Project ORBIT, which aims to expand opportunities for middle and high school students, boost enrollment in key career a\u2026",
+            "url": "https://www.nasa.gov/image-article/nasa-visits-schools-strengthening-floridas-skilled-workforce/",
+            "urlToImage": "https://www.nasa.gov/wp-content/uploads/2026/09/ho-partners-edgewoodjrsr.jpg",
+            "publishedAt": "2026-09-16T15:14:57Z",
+            "content": "NASA recently awarded $10.5 million to seven organizations nationwide through its new State Hubs initiative. Space Florida was selected for Project ORBIT, which aims to expand opportunities for middl\u2026 [+2186 chars]"
+        },
+        {
+            "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            "author": "ESchwartzwrites@gmail.com (Eric Hal Schwartz) , Eric Hal Schwartz",
+            "title": "AI companies are 'begging the government to regulate them' says JD Vance, but nobody seems willing to actually slow the AI race",
+            "description": "AI\u2019s biggest CEOs say frontier development needs to slow, but their companies have yet to show what \u201cslower\u201d means with an actual model delay",
+            "url": "https://www.techradar.com/ai-platforms-assistants/ai-companies-are-begging-the-government-to-regulate-them-says-jd-vance-but-nobody-seems-willing-to-actually-slow-the-ai-race",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/2BaNK5XKNiUsUgc3MA8WBC-970-80.jpg",
+            "publishedAt": "2026-09-16T15:12:21Z",
+            "content": "After years of treating faster, bigger, and more capable AI as something approaching a moral imperative, the people running some of the world\u2019s most powerful AI companies suddenly agree that perhaps \u2026 [+5265 chars]"
+        },
+        {
+            "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            "author": "Rene Millman",
+            "title": "Stop worrying about an AI apocalypse: Surfshark's engineer says extinction fears are just a 'marketing move'",
+            "description": "Surfshark's Lead System Engineer, Karolis Kaciulis, argues that instead of fearing a sci-fi apocalypse, we need to tackle the very real problems generative AI is already causing right now.",
+            "url": "https://www.techradar.com/vpn/vpn-privacy-security/stop-worrying-about-an-ai-apocalypse-surfsharks-engineer-says-extinction-fears-are-just-a-marketing-move",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/D9SxF3hiMTwj2qrLfLCYk-2121-80.jpg",
+            "publishedAt": "2026-09-16T15:09:48Z",
+            "content": "<ul><li>Surfshark\u2019s System Engineer dismisses recent AI extinction warnings as a recurring marketing tactic </li><li>The real threats are already here, including deepfake fraud and the massive enviro\u2026 [+4302 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BleepingComputer"
+            },
+            "author": "podlodkin",
+            "title": "files renamed to \"name.ext..exe\" (Mimic/Pay2Key)",
+            "description": "files renamed to \"name.ext..exe\" (Mimic/Pay2Key) - posted in Ransomware Help & Tech Support: Hello,\n\u00a0\nIm helping a family member whose documents were encrypted on 9-10 September 2026.\nThe affected files live on a NAS share that was mounted on the Windows mach\u2026",
+            "url": "https://www.bleepingcomputer.com/forums/t/818683/files-renamed-to-nameextexe-mimicpay2key/",
+            "urlToImage": "https://www.bleepingcomputer.com/forums/public/style_images/master/meta_image.png",
+            "publishedAt": "2026-09-16T15:09:22Z",
+            "content": "Neither ID Ransomware or NoMoreRansom are as accurate as they were in past years so both are prone to inaccurate, false or no identifications.\u00a0This is a known variant of Mimic/Pay2Key Ransomware.Ther\u2026 [+608 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Cisco.com"
+            },
+            "author": "Jonathan Cohn",
+            "title": "Cisco integrates Axis devices, bringing unified management across IT environments",
+            "description": "Cisco and Axis Communications are committed to bridging the gap between IT and physical security infrastructure, as we believe that close collaboration between these teams leads to a stronger, more comprehensive security strategy.",
+            "url": "https://blogs.cisco.com/?p=497475",
+            "urlToImage": "https://blogs.cisco.com/gcs/ciscoblogs/1/2026/09/tqmt-technical-blog-featurelogo.png",
+            "publishedAt": "2026-09-16T15:00:57Z",
+            "content": "Digital transformation is changing how organizations operate, yet IT and physical security teams often continue to work in silos, managing separate systems, tools, and priorities. As cloud computing,\u2026 [+9242 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PRNewswire"
+            },
+            "author": null,
+            "title": "Plug and Play Foundation Launches SMB Tech Connect With Wells Fargo Grant",
+            "description": "Ten Bay Area small businesses will get workflow assessments, startup pilots, and grants to pay for what they adopt SUNNYVALE, Calif., Sept. 16, 2026 /PRNewswire/ -- Plug and Play Foundation (PNPF) has received a grant from Wells Fargo to launch SMB Tech Conne\u2026",
+            "url": "https://www.prnewswire.com/news-releases/plug-and-play-foundation-launches-smb-tech-connect-with-wells-fargo-grant-302880421.html",
+            "urlToImage": null,
+            "publishedAt": "2026-09-16T15:00:00Z",
+            "content": "Ten Bay Area small businesses will get workflow assessments, startup pilots, and grants to pay for what they adopt\r\nSUNNYVALE, Calif., Sept. 16, 2026 /PRNewswire/ -- Plug and Play Foundation (PNPF) h\u2026 [+4374 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Biztoc.com"
+            },
+            "author": "techcrunch.com",
+            "title": "Google says some Pixel phone owners were hacked in zero-day attacks",
+            "description": "Google says that a bug in its Pixel smartphones\u2019 software was exploited in limited and targeted cyberattacks. The company said Tuesday that the bug, tracked as CVE-2026-58704, has now been patched.\nAccording to the limited details about the vulnerability, the\u2026",
+            "url": "https://biztoc.com/x/78c2b24ccf9dee28",
+            "urlToImage": "https://biztoc.com/cdn/78c2b24ccf9dee28_s.webp",
+            "publishedAt": "2026-09-16T14:56:36Z",
+            "content": "Google says that a bug in its Pixel smartphones software was exploited in limited and targeted cyberattacks. The company said Tuesday that the bug, tracked as CVE-2026-58704, has now been patched.Acc\u2026 [+141 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Zack Whittaker",
+            "title": "Google says some Pixel phone owners were hacked in zero-day attacks | TechCrunch",
+            "description": "The Pixel phone maker said there are indications that a bug in the phone's modem \"may be under limited, targeted exploitation.\"",
+            "url": "https://techcrunch.com/2026/09/16/google-says-some-pixel-phone-owners-were-hacked-in-zero-day-attacks/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/08/IMG_3163.jpg?resize=1200,684",
+            "publishedAt": "2026-09-16T14:48:58Z",
+            "content": "Google says that a bug in its Pixel smartphones\u2019 software was exploited in limited and targeted cyberattacks. The company said Tuesday that the bug, tracked as CVE-2026-58704, has now been patched.\u00a0\r\u2026 [+830 chars]"
+        }
+    ]
 }
