@@ -1,6 +1,36 @@
 {
-  "updated": "2026-09-19 08:23:00 UTC",
+  "updated": "2026-09-19 13:34:41 UTC",
   "news": [
+    {
+      "title": "Calling viral AI actress Tilly Norwood? Agree to a face scan first",
+      "description": "[BLEEPINGCOMPUTER] AI actress Tilly Norwood went viral after glitching into Chinese on Piers Morgan Uncensored last night. Her \"Talking Tilly\" video call service face-scans every caller for an 18+ age check, senses callers' moods during calls, and shuts down...",
+      "url": "https://www.bleepingcomputer.com/news/security/calling-viral-ai-actress-tilly-norwood-agree-to-a-face-scan-first/",
+      "date": "2026-09-19T11:38:20Z"
+    },
+    {
+      "title": "Claude Opus 5 Helped Researchers Take Over OpenAI Staff Accounts via Chained Flaws",
+      "description": "[FEEDS] Three researchers at the security firm&nbsp;Hacktron&nbsp;used Anthropic's Claude Opus 5 to chain two flaws and take over the ChatGPT and Codex accounts of several OpenAI employees, then reach an internal OpenAI code repository. The chain began with...",
+      "url": "https://thehackernews.com/2026/09/claude-opus-5-helped-researchers-take.html",
+      "date": "2026-09-19T10:01:10Z"
+    },
+    {
+      "title": "SolarWinds Patches ARM Hard-Coded Key Flaw Enabling Unauthenticated RCE",
+      "description": "[FEEDS] SolarWinds has released security updates to address a high-severity flaw in Access Rights Manager (ARM) that, if successfully exploited, could lead to an unauthenticated remote code execution vulnerability. The vulnerability, tracked as...",
+      "url": "https://thehackernews.com/2026/09/solarwinds-patches-arm-hard-coded-key.html",
+      "date": "2026-09-19T09:31:17Z"
+    },
+    {
+      "title": "Critical Pre-Auth RCE in Orkes Conductor Workflow Platform Exploited in the Wild",
+      "description": "[FEEDS] A critical vulnerability impacting Orkes Conductor is being actively exploited in the wild, according to Fortinet. The vulnerability in question is CVE-2026-58138 (CVSS v3.1 score: 9.8/CVSS v4 score: 9.3), which relates to a case of unauthenticated...",
+      "url": "https://thehackernews.com/2026/09/critical-pre-auth-rce-in-orkes.html",
+      "date": "2026-09-19T08:18:54Z"
+    },
+    {
+      "title": "Google Gemini Broke Into Real Company Systems After Security Test Domain Mix-Up",
+      "description": "[FEEDS] Google's Gemini model has become the latest artificial intelligence (AI) system to access the internet and break into other companies during a cybersecurity evaluation. The development was first reported by The Wall Street Journal. The incidents...",
+      "url": "https://thehackernews.com/2026/09/google-gemini-broke-into-real-company.html",
+      "date": "2026-09-19T07:51:34Z"
+    },
     {
       "title": "CrowdSec Says TanStack npm Attack Led to Copy of 170 Private GitHub Repositories",
       "description": "[FEEDS] An attacker copied about 170 of CrowdSec's private GitHub repositories on May 22 using the account of an employee who had just left, CrowdSec&nbsp;said on September 18. The French security company had kept his GitHub access open. CrowdSec says his...",
@@ -20,46 +50,70 @@
       "date": "2026-09-19T04:51:46Z"
     },
     {
+      "title": "Gemini hacked three companies in first known breakout by Google's AI",
+      "description": "[THE HINDU] Google's Gemini AI autonomously hacked three companies during a cybersecurity test, raising concerns about AI autonomy and security.",
+      "url": "https://www.thehindu.com/sci-tech/technology/gemini-hacked-three-companies-in-first-known-breakout-by-googles-ai/article71483440.ece",
+      "date": "2026-09-19T01:08:28Z"
+    },
+    {
+      "title": "Google says its AI system Gemini hacked 3 companies",
+      "description": "[CP24 TORONTO] Google\u2019s Gemini model accessed the internet and hacked other companies during a test of its cybersecurity capabilities, the first known example of the company\u2019s AI systems autonomously committing such an act.",
+      "url": "https://www.cp24.com/news/world/2026/09/19/gemini-hacked-three-companies-in-first-known-breakout-by-googles-ai/",
+      "date": "2026-09-19T00:11:11Z"
+    },
+    {
+      "title": "Gemini hacked three companies in first known breakout by Google's AI",
+      "description": "[THE STAR] Sept 18 (Reuters) - Google's Gemini model \u2060accessed the internet and hacked other companies during a test of \u2060its cybersecurity capabilities, the first known example of the company's AI systems \u200cautonomously committing such an act.",
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/09/19/gemini-hacked-three-companies-in-first-known-breakout-by-google039s-ai",
+      "date": "2026-09-19T00:10:00Z"
+    },
+    {
+      "title": "Gemini hacked 3 AI companies during testing by cybersecurity firm, Google confirms after report",
+      "description": "[HINDUSTAN TIMES] Google has confirmed after a Wall Street Journal report that it's AI agent Gemini hacked into AI systems of three companies during testing in May this year. | World News",
+      "url": "https://www.hindustantimes.com/world-news/gemini-hacked-3-ai-companies-during-testing-by-cybersecurity-firm-google-confirms-after-report-101789774576431.html",
+      "date": "2026-09-18T23:45:06Z"
+    },
+    {
+      "title": "OpenAI hack: 3 Indian-origin researchers used Anthropic\u2019s Claude to breach systems",
+      "description": "[THE INDIAN EXPRESS] Cybersecurity researchers used Anthropic\u2019s Claude to exploit vulnerabilities in OpenAI\u2019s systems, gaining access to employee ChatGPT accounts and reaching the company\u2019s internal software environment before reporting the flaws.",
+      "url": "https://indianexpress.com/article/world/indian-origin-researchers-use-claude-ai-breach-openai-systems-hacktron-10884340/",
+      "date": "2026-09-18T23:33:23Z"
+    },
+    {
+      "title": "Cybersecurity breach affected two small Colorado water providers, governor says",
+      "description": "[KRDO] STATEWIDE, Colo. (KRDO) -- Colorado Gov. Jared Polis says \"foreign actors\" were involved in a cybersecurity incident that impacted two small, private",
+      "url": "https://krdo.com/news/2026/09/18/colorado-water-cyberattack-foreign/",
+      "date": "2026-09-18T23:23:43Z"
+    },
+    {
+      "title": "Military training exercises, cyber insurance among steps municipalities have taken to bolster cybersecurity",
+      "description": "[MASSLIVE] The hack of Springfield Public Schools earlier this month had driven home the stakes.",
+      "url": "https://www.masslive.com/westernmass/2026/09/military-training-exercises-cyber-insurance-among-steps-municipalities-taking-to-bolster-cybersecurity.html",
+      "date": "2026-09-18T22:45:30Z"
+    },
+    {
+      "title": "Gemini hacked three companies in first known breakout by Google's AI, WSJ reports",
+      "description": "[REUTERS] Google's Gemini model accessed the internet and hacked other companies during a test \u200bof its cybersecurity capabilities, the first known example \u200cof the company's AI systems autonomously committing such an act, the Wall Street Journal reported on...",
+      "url": "https://www.reuters.com/business/gemini-hacked-three-companies-first-known-breakout-by-google-ai-wsj-reports-2026-09-18/",
+      "date": "2026-09-18T22:25:24Z"
+    },
+    {
+      "title": "Cybersecurity researchers gain access to OpenAI\u2019s GitHub repository using Claude",
+      "description": "[SILICONANGLE NEWS] Cybersecurity researchers gain access to OpenAI\u2019s GitHub repository using Claude - SiliconANGLE",
+      "url": "https://siliconangle.com/2026/09/18/cybersecurity-researchers-gain-access-to-openais-github-repository-using-claude/",
+      "date": "2026-09-18T22:25:06Z"
+    },
+    {
+      "title": "Gemini hacked three companies in first known breakout by Google's AI",
+      "description": "[SPOKANE SPOKESMAN-REVIEW] Google's Gemini model accessed the internet and hacked other companies during a test of its cybersecurity capabilities, the first known example of the company's AI systems autonomously \u200bcommitting such an act.",
+      "url": "https://www.spokesman.com/stories/2026/sep/18/gemini-hacked-three-companies-in-first-known-break/",
+      "date": "2026-09-18T22:25:00Z"
+    },
+    {
       "title": "Friday Squid Blogging: On Squid Egg Sacs",
       "description": "[SCHNEIER] Short essay about squid egg sacs. As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered. Blog moderation policy.",
       "url": "https://www.schneier.com/blog/archives/2026/09/friday-squid-blogging-on-squid-egg-sacs.html",
       "date": "2026-09-18T21:06:00Z"
-    },
-    {
-      "title": "Cybersecurity Stock Fortinet Forms Rare Base, Flirts With Buy Point",
-      "description": "[INVESTOR'S BUSINESS DAILY] Fortinet stock is trading just below a buy point after a strong week for cybersecurity stocks. Shares are attempting to break above resistance.",
-      "url": "https://www.investors.com/stock-lists/ibd-big-cap-20/fortinet-ftnt-stock-cybersecurity-openai/",
-      "date": "2026-09-18T19:24:44Z"
-    },
-    {
-      "title": "Hackers Used Anthropic's Claude to Break Into OpenAI. They Reached the ChatGPT Maker's Private Code.",
-      "description": "[INTERNATIONAL BUSINESS TIMES] The attack, was conducted by researchers at cybersecurity firm Hacktron AI as part of security testing.",
-      "url": "https://www.ibtimes.com/hackers-used-anthropics-claude-break-openai-they-reached-chatgpt-makers-private-code-3807619",
-      "date": "2026-09-18T18:33:21Z"
-    },
-    {
-      "title": "Indian-origin researchers used Claude AI to hack OpenAI\u2019s systems-got \u20b96.27 lakh bounty",
-      "description": "[LIVEMINT] The three-member team from cybersecurity firm Hacktron AI included chief technology officer Mohan Pedhapati, along with researchers Harsh Jaiswal and Rahul Maini.",
-      "url": "https://www.livemint.com/technology/tech-news/indianorigin-researchers-used-claude-ai-to-hack-openai-s-systems-got-6-27-lakh-bounty-11789753784566.html",
-      "date": "2026-09-18T18:11:19Z"
-    },
-    {
-      "title": "Public Exploits Released for Four Linux Kernel Flaws That Enable Local Root",
-      "description": "[FEEDS] A security researcher has released working exploit code for four Linux kernel flaws that each let a local user gain root, the highest level of access on a machine. Kernel maintainers have fixed all four over the past few weeks, so a system running...",
-      "url": "https://thehackernews.com/2026/09/public-exploits-released-for-four-linux.html",
-      "date": "2026-09-18T18:02:24Z"
-    },
-    {
-      "title": "Telus data breach confusion caused by 'technical issue'",
-      "description": "[MOBILESYRUP] Telus has said that a technical issue is to blame after cutomers were told to disregard a data breach email that was sent to them",
-      "url": "https://mobilesyrup.com/2026/09/18/telus-data-breach-confusion-caused-by-technical-issue/",
-      "date": "2026-09-18T17:51:11Z"
-    },
-    {
-      "title": "New WordPress Click2Shell Flaw Forces Theme Installs, Can Chain to Code Execution",
-      "description": "[FEEDS] WordPress today released patches to fix a new set of vulnerabilities in its core software, one of which could allow a crafted web link, opened by a logged-in administrator, to install a theme from the official WordPress.org directory without anyone...",
-      "url": "https://thehackernews.com/2026/09/new-wordpress-click2shell-flaw-forces.html",
-      "date": "2026-09-18T16:56:19Z"
     },
     {
       "title": "Gyazo server flaw exploited to steal 23.6 million user records",
@@ -68,52 +122,10 @@
       "date": "2026-09-18T16:00:38Z"
     },
     {
-      "title": "Meet Harsh Jaiswal, Mohan Pedhapati and Rahul Maini: 3 Indian-origin researchers who used Claude to breach OpenAI systems, won $6,500 bounty",
-      "description": "[TIMES OF INDIA] US News: Three Indian-origin cybersecurity researchers, Harsh Jaiswal, Mohan Pedhapati and Rahul Maini, demonstrated how Anthropic's Claude AI could be used to.",
-      "url": "https://timesofindia.indiatimes.com/world/us/meet-harsh-jaiswal-mohan-pedhapati-and-rahul-maini-3-indian-origin-researchers-who-used-claude-to-breach-openai-systems-won-6500-bounty/articleshow/134338838.cms",
-      "date": "2026-09-18T15:44:00Z"
-    },
-    {
-      "title": "Watchdog: IRS Risks Taxpayer Data Without Cybersecurity Changes",
-      "description": "[BLOOMBERG TAX NEWS] The IRS needs to take steps to improve its cybersecurity program so it doesn\u2019t put taxpayer data at risk, the agency\u2019s watchdog said Friday.",
-      "url": "https://news.bloombergtax.com/daily-tax-report/watchdog-irs-risks-taxpayer-data-without-cybersecurity-changes",
-      "date": "2026-09-18T15:41:13Z"
-    },
-    {
-      "title": "AI security experts say they used Claude to hack ChatGPT",
-      "description": "[CBS NEWS] Cybersecurity researchers said they were able to use Anthropic's Claude AI platfom to penetrate ChatGPT in \"less than 72 hours.\"",
-      "url": "https://www.cbsnews.com/news/claude-hack-chatgpt-anthropic-openai/",
-      "date": "2026-09-18T15:31:32Z"
-    },
-    {
-      "title": "Transparent Tribe Deploys New Rust Backdoor Using Private GitHub Repositories for C2",
-      "description": "[FEEDS] The Pakistan-aligned threat group tracked as Transparent Tribe (aka APT36 and Earth Karkaddan) has been attributed to a fresh set of cyber attacks targeting government and defense entities in India and Afghanistan. The attacks, per Zscaler...",
-      "url": "https://thehackernews.com/2026/09/transparent-tribe-deploys-new-rust.html",
-      "date": "2026-09-18T15:24:16Z"
-    },
-    {
-      "title": "AI, cybersecurity weekly: Data stealing Android malware survives deletion, Microsoft execs call AI scraping labour theft",
-      "description": "[HINDUSTAN TIMES] In today's update of our weekly series, we'll walk you through the actively exploited bug at Cisco, updates by OpenAI and Anthropic and more. | Technology News",
-      "url": "https://www.hindustantimes.com/technology/ai-cybersecurity-weekly-data-stealing-android-malware-survives-deletion-microsoft-execs-call-ai-scraping-labour-theft-101789715361433.html",
-      "date": "2026-09-18T15:19:19Z"
-    },
-    {
       "title": "Fake LastPass Authenticator GitHub repos push new Rapuncel infostealer",
       "description": "[BLEEPINGCOMPUTER] An ongoing malware campaign uses SEO-optimized GitHub repositories to impersonate well-known software firms to push a previously undocumented information stealer called Rapuncel. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/fake-lastpass-authenticator-github-repos-push-new-rapuncel-infostealer/",
       "date": "2026-09-18T15:19:06Z"
-    },
-    {
-      "title": "Millions of Americans who scanned IDs to buy alcohol or rent cars warned 'freeze your credit' over terrifying data issue",
-      "description": "[THE SUN U.S EDITION] A TERRIFYING data breach may have put millions of Americans who used their IDs to buy alcohol or rent a car at risk. An identity verification...",
-      "url": "https://www.the-sun.com/news/17023802/idscan-data-breach-account-risk-warning/",
-      "date": "2026-09-18T15:02:18Z"
-    },
-    {
-      "title": "Ridgefield News, Breaking News in Ridgefield, CT",
-      "description": "[JOLIET, IL PATCH] Ridgefield Latest Headlines: Hazardous Weather Outlook Issued For CT This Weekend: Here's What To Know ; Ridgefield ECDC Seeks Sugar Hollow District Plan, Reviews Route 7 Traffic Safety Ideas; Massive Data Breach May Have Exposed Millions Of...",
-      "url": "https://patch.com/connecticut/ridgefield",
-      "date": "2026-09-18T15:00:19Z"
     },
     {
       "title": "Secure enterprise sharing with access reviews for Microsoft 365",
@@ -132,18 +144,6 @@
       "description": "[BLEEPINGCOMPUTER] Fast-growing companies face countless recommendations for securing Google Workspace, but not every control provides the same value. This webinar examines real-world breaches to explore which security controls matter most, which may be overrated, and...",
       "url": "https://www.bleepingcomputer.com/news/security/webinar-which-google-workspace-security-controls-actually-matter/",
       "date": "2026-09-18T13:10:19Z"
-    },
-    {
-      "title": "Microsoft Patches CVSS 10.0 Azure AI Foundry Flaw Enabling Unauthorized Privilege Escalation",
-      "description": "[FEEDS] Microsoft has released fixes for a maximum-severity security flaw in Azure AI Foundry that could be exploited to achieve privilege escalation. No customer action is required. The vulnerability, tracked as CVE-2026-85889, carries a CVSS score of...",
-      "url": "https://thehackernews.com/2026/09/microsoft-patches-cvss-100-azure-ai.html",
-      "date": "2026-09-18T12:47:04Z"
-    },
-    {
-      "title": "Microsoft fixes bug behind \u2018Defender Antivirus is turned off\u2019 alerts",
-      "description": "[BLEEPINGCOMPUTER] Microsoft has resolved a known issue that causes incorrect alerts warning that Defender Antivirus was turned off after installing recent updates. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/microsoft-fixes-bug-behind-defender-antivirus-is-turned-off-alerts/",
-      "date": "2026-09-18T12:16:32Z"
     },
     {
       "title": "Are AIs Still Struggling with CAPTCHAs?",
