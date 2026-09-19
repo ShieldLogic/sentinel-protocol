@@ -1,209 +1,137 @@
 {
-  "updated": "2026-09-19 13:34:41 UTC",
-  "news": [
-    {
-      "title": "Calling viral AI actress Tilly Norwood? Agree to a face scan first",
-      "description": "[BLEEPINGCOMPUTER] AI actress Tilly Norwood went viral after glitching into Chinese on Piers Morgan Uncensored last night. Her \"Talking Tilly\" video call service face-scans every caller for an 18+ age check, senses callers' moods during calls, and shuts down...",
-      "url": "https://www.bleepingcomputer.com/news/security/calling-viral-ai-actress-tilly-norwood-agree-to-a-face-scan-first/",
-      "date": "2026-09-19T11:38:20Z"
-    },
-    {
-      "title": "Claude Opus 5 Helped Researchers Take Over OpenAI Staff Accounts via Chained Flaws",
-      "description": "[FEEDS] Three researchers at the security firm&nbsp;Hacktron&nbsp;used Anthropic's Claude Opus 5 to chain two flaws and take over the ChatGPT and Codex accounts of several OpenAI employees, then reach an internal OpenAI code repository. The chain began with...",
-      "url": "https://thehackernews.com/2026/09/claude-opus-5-helped-researchers-take.html",
-      "date": "2026-09-19T10:01:10Z"
-    },
-    {
-      "title": "SolarWinds Patches ARM Hard-Coded Key Flaw Enabling Unauthenticated RCE",
-      "description": "[FEEDS] SolarWinds has released security updates to address a high-severity flaw in Access Rights Manager (ARM) that, if successfully exploited, could lead to an unauthenticated remote code execution vulnerability. The vulnerability, tracked as...",
-      "url": "https://thehackernews.com/2026/09/solarwinds-patches-arm-hard-coded-key.html",
-      "date": "2026-09-19T09:31:17Z"
-    },
-    {
-      "title": "Critical Pre-Auth RCE in Orkes Conductor Workflow Platform Exploited in the Wild",
-      "description": "[FEEDS] A critical vulnerability impacting Orkes Conductor is being actively exploited in the wild, according to Fortinet. The vulnerability in question is CVE-2026-58138 (CVSS v3.1 score: 9.8/CVSS v4 score: 9.3), which relates to a case of unauthenticated...",
-      "url": "https://thehackernews.com/2026/09/critical-pre-auth-rce-in-orkes.html",
-      "date": "2026-09-19T08:18:54Z"
-    },
-    {
-      "title": "Google Gemini Broke Into Real Company Systems After Security Test Domain Mix-Up",
-      "description": "[FEEDS] Google's Gemini model has become the latest artificial intelligence (AI) system to access the internet and break into other companies during a cybersecurity evaluation. The development was first reported by The Wall Street Journal. The incidents...",
-      "url": "https://thehackernews.com/2026/09/google-gemini-broke-into-real-company.html",
-      "date": "2026-09-19T07:51:34Z"
-    },
-    {
-      "title": "CrowdSec Says TanStack npm Attack Led to Copy of 170 Private GitHub Repositories",
-      "description": "[FEEDS] An attacker copied about 170 of CrowdSec's private GitHub repositories on May 22 using the account of an employee who had just left, CrowdSec&nbsp;said on September 18. The French security company had kept his GitHub access open. CrowdSec says his...",
-      "url": "https://thehackernews.com/2026/09/crowdsec-says-tanstack-npm-attack-led.html",
-      "date": "2026-09-19T07:14:54Z"
-    },
-    {
-      "title": "CISA Flags Three Linux Kernel Vulnerabilities Exploited in the Wild",
-      "description": "[FEEDS] The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added three security flaws impacting the Linux kernel to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The vulnerabilities are...",
-      "url": "https://thehackernews.com/2026/09/cisa-flags-three-linux-kernel.html",
-      "date": "2026-09-19T06:24:10Z"
-    },
-    {
-      "title": "HTTP QUERY Method: The Grey Zone Between GET And POST., (Fri, Sep 18th)",
-      "description": "[ISC] In June 2026 the IETF published RFC 10008&#x5b;1&#x5d;, defining a new HTTP method: \"QUERY\". The HTTP protocol faced already by changes (HTTP/2, HTTP/3) but it&#x27s the first new standard HTTP verb since \"PATCH\" in 2010&#x21;&#xd;",
-      "url": "https://isc.sans.edu/diary/rss/33352",
-      "date": "2026-09-19T04:51:46Z"
-    },
-    {
-      "title": "Gemini hacked three companies in first known breakout by Google's AI",
-      "description": "[THE HINDU] Google's Gemini AI autonomously hacked three companies during a cybersecurity test, raising concerns about AI autonomy and security.",
-      "url": "https://www.thehindu.com/sci-tech/technology/gemini-hacked-three-companies-in-first-known-breakout-by-googles-ai/article71483440.ece",
-      "date": "2026-09-19T01:08:28Z"
-    },
-    {
-      "title": "Google says its AI system Gemini hacked 3 companies",
-      "description": "[CP24 TORONTO] Google\u2019s Gemini model accessed the internet and hacked other companies during a test of its cybersecurity capabilities, the first known example of the company\u2019s AI systems autonomously committing such an act.",
-      "url": "https://www.cp24.com/news/world/2026/09/19/gemini-hacked-three-companies-in-first-known-breakout-by-googles-ai/",
-      "date": "2026-09-19T00:11:11Z"
-    },
-    {
-      "title": "Gemini hacked three companies in first known breakout by Google's AI",
-      "description": "[THE STAR] Sept 18 (Reuters) - Google's Gemini model \u2060accessed the internet and hacked other companies during a test of \u2060its cybersecurity capabilities, the first known example of the company's AI systems \u200cautonomously committing such an act.",
-      "url": "https://www.thestar.com.my/tech/tech-news/2026/09/19/gemini-hacked-three-companies-in-first-known-breakout-by-google039s-ai",
-      "date": "2026-09-19T00:10:00Z"
-    },
-    {
-      "title": "Gemini hacked 3 AI companies during testing by cybersecurity firm, Google confirms after report",
-      "description": "[HINDUSTAN TIMES] Google has confirmed after a Wall Street Journal report that it's AI agent Gemini hacked into AI systems of three companies during testing in May this year. | World News",
-      "url": "https://www.hindustantimes.com/world-news/gemini-hacked-3-ai-companies-during-testing-by-cybersecurity-firm-google-confirms-after-report-101789774576431.html",
-      "date": "2026-09-18T23:45:06Z"
-    },
-    {
-      "title": "OpenAI hack: 3 Indian-origin researchers used Anthropic\u2019s Claude to breach systems",
-      "description": "[THE INDIAN EXPRESS] Cybersecurity researchers used Anthropic\u2019s Claude to exploit vulnerabilities in OpenAI\u2019s systems, gaining access to employee ChatGPT accounts and reaching the company\u2019s internal software environment before reporting the flaws.",
-      "url": "https://indianexpress.com/article/world/indian-origin-researchers-use-claude-ai-breach-openai-systems-hacktron-10884340/",
-      "date": "2026-09-18T23:33:23Z"
-    },
-    {
-      "title": "Cybersecurity breach affected two small Colorado water providers, governor says",
-      "description": "[KRDO] STATEWIDE, Colo. (KRDO) -- Colorado Gov. Jared Polis says \"foreign actors\" were involved in a cybersecurity incident that impacted two small, private",
-      "url": "https://krdo.com/news/2026/09/18/colorado-water-cyberattack-foreign/",
-      "date": "2026-09-18T23:23:43Z"
-    },
-    {
-      "title": "Military training exercises, cyber insurance among steps municipalities have taken to bolster cybersecurity",
-      "description": "[MASSLIVE] The hack of Springfield Public Schools earlier this month had driven home the stakes.",
-      "url": "https://www.masslive.com/westernmass/2026/09/military-training-exercises-cyber-insurance-among-steps-municipalities-taking-to-bolster-cybersecurity.html",
-      "date": "2026-09-18T22:45:30Z"
-    },
-    {
-      "title": "Gemini hacked three companies in first known breakout by Google's AI, WSJ reports",
-      "description": "[REUTERS] Google's Gemini model accessed the internet and hacked other companies during a test \u200bof its cybersecurity capabilities, the first known example \u200cof the company's AI systems autonomously committing such an act, the Wall Street Journal reported on...",
-      "url": "https://www.reuters.com/business/gemini-hacked-three-companies-first-known-breakout-by-google-ai-wsj-reports-2026-09-18/",
-      "date": "2026-09-18T22:25:24Z"
-    },
-    {
-      "title": "Cybersecurity researchers gain access to OpenAI\u2019s GitHub repository using Claude",
-      "description": "[SILICONANGLE NEWS] Cybersecurity researchers gain access to OpenAI\u2019s GitHub repository using Claude - SiliconANGLE",
-      "url": "https://siliconangle.com/2026/09/18/cybersecurity-researchers-gain-access-to-openais-github-repository-using-claude/",
-      "date": "2026-09-18T22:25:06Z"
-    },
-    {
-      "title": "Gemini hacked three companies in first known breakout by Google's AI",
-      "description": "[SPOKANE SPOKESMAN-REVIEW] Google's Gemini model accessed the internet and hacked other companies during a test of its cybersecurity capabilities, the first known example of the company's AI systems autonomously \u200bcommitting such an act.",
-      "url": "https://www.spokesman.com/stories/2026/sep/18/gemini-hacked-three-companies-in-first-known-break/",
-      "date": "2026-09-18T22:25:00Z"
-    },
-    {
-      "title": "Friday Squid Blogging: On Squid Egg Sacs",
-      "description": "[SCHNEIER] Short essay about squid egg sacs. As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered. Blog moderation policy.",
-      "url": "https://www.schneier.com/blog/archives/2026/09/friday-squid-blogging-on-squid-egg-sacs.html",
-      "date": "2026-09-18T21:06:00Z"
-    },
-    {
-      "title": "Gyazo server flaw exploited to steal 23.6 million user records",
-      "description": "[BLEEPINGCOMPUTER] The Gyazo image-sharing platform has confirmed it suffered a data breach after hackers exploited a server vulnerability that allowed them to steal 23.6 million user records. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/gyazo-server-flaw-exploited-to-steal-236-million-user-records/",
-      "date": "2026-09-18T16:00:38Z"
-    },
-    {
-      "title": "Fake LastPass Authenticator GitHub repos push new Rapuncel infostealer",
-      "description": "[BLEEPINGCOMPUTER] An ongoing malware campaign uses SEO-optimized GitHub repositories to impersonate well-known software firms to push a previously undocumented information stealer called Rapuncel. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/fake-lastpass-authenticator-github-repos-push-new-rapuncel-infostealer/",
-      "date": "2026-09-18T15:19:06Z"
-    },
-    {
-      "title": "Secure enterprise sharing with access reviews for Microsoft 365",
-      "description": "[BLEEPINGCOMPUTER] Microsoft 365 makes sharing files easy, but access can remain long after its original purpose has ended, leaving organizations with little visibility into who can still reach sensitive data. tenfold Software explains how centralized access...",
-      "url": "https://www.bleepingcomputer.com/news/security/secure-enterprise-sharing-with-access-reviews-for-microsoft-365/",
-      "date": "2026-09-18T14:00:10Z"
-    },
-    {
-      "title": "Microsoft Teams will let admins block custom file extensions",
-      "description": "[BLEEPINGCOMPUTER] Microsoft Teams will soon let administrators tweak the list of file extensions commonly associated with security threats to meet their company's security requirements. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/microsoft-teams-will-let-admins-block-custom-file-extensions/",
-      "date": "2026-09-18T13:58:40Z"
-    },
-    {
-      "title": "Webinar: Which Google Workspace security controls actually matter?",
-      "description": "[BLEEPINGCOMPUTER] Fast-growing companies face countless recommendations for securing Google Workspace, but not every control provides the same value. This webinar examines real-world breaches to explore which security controls matter most, which may be overrated, and...",
-      "url": "https://www.bleepingcomputer.com/news/security/webinar-which-google-workspace-security-controls-actually-matter/",
-      "date": "2026-09-18T13:10:19Z"
-    },
-    {
-      "title": "Are AIs Still Struggling with CAPTCHAs?",
-      "description": "[SCHNEIER] Anthropic&#8217;s recent security-incident document contains a bit about how CAPTCHAs are still frustrating Claude. In the transcript, the Claude model that is so powerful that Anthropic is gatekeeping access to it appeared to slam its virtual head...",
-      "url": "https://www.schneier.com/blog/archives/2026/09/are-ais-still-struggling-with-captchas.html",
-      "date": "2026-09-18T11:05:52Z"
-    },
-    {
-      "title": "ISC Stormcast For Friday, September 18th, 2026 https://isc.sans.edu/podcastdetail/10100, (Fri, Sep 18th)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33350",
-      "date": "2026-09-18T02:00:02Z"
-    },
-    {
-      "title": "LausivLoader analysis, or how to pass data between malware stages, (Thu, Sep 17th)",
-      "description": "[ISC] At the end of August, a malspam message was caught in the quarantine of a mail gateway operated by one of my customers. The message was not especially remarkable &#xe2&#x3b;&#x80&#x3b;&#x93&#x3b; it asked the recipient to review some attached...",
-      "url": "https://isc.sans.edu/diary/rss/33348",
-      "date": "2026-09-17T15:06:44Z"
-    },
-    {
-      "title": "How Candidates Could Use AI for Good",
-      "description": "[SCHNEIER] This essay was written with Nathan E. Sanders, and originally appeared in The Guardian. There are plenty of signs that AI will make all of our experiences of the US midterm elections worse. Voters have anxiety about AI&#8217;s impacts on the...",
-      "url": "https://www.schneier.com/blog/archives/2026/09/how-candidates-could-use-ai-for-good.html",
-      "date": "2026-09-17T11:06:31Z"
-    },
-    {
-      "title": "ISC Stormcast For Thursday, September 17th, 2026 https://isc.sans.edu/podcastdetail/10098, (Thu, Sep 17th)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33346",
-      "date": "2026-09-17T02:00:03Z"
-    },
-    {
-      "title": "Scans Targeting Hospitality Applications, (Wed, Sep 16th)",
-      "description": "[ISC] Earlier today, I noted an odd request showing up in our \"First Seen\" report:&#xd;",
-      "url": "https://isc.sans.edu/diary/rss/33344",
-      "date": "2026-09-16T18:44:04Z"
-    },
-    {
-      "title": "Fake CAPTCHA Scams",
-      "description": "[SCHNEIER] New variant of an old scam: Use the framing of a CAPTCHA to get an unsuspecting user to download and run a malicious program.",
-      "url": "https://www.schneier.com/blog/archives/2026/09/fake-captcha-scams.html",
-      "date": "2026-09-16T11:25:26Z"
-    },
-    {
-      "title": "ISC Stormcast For Wednesday, September 16th, 2026 https://isc.sans.edu/podcastdetail/10096, (Wed, Sep 16th)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33342",
-      "date": "2026-09-16T02:00:02Z"
-    },
-    {
-      "title": "25 Years of Mass Surveillance Is Enough",
-      "description": "[SCHNEIER] This essay was written with Cindy Cohn, and originally appeared in Lawfare. One of the many legacies of the terrorist attacks of Sept. 11 is the government-wide shift from targeted surveillance&#8212;such as individual wiretaps or pen register/trap...",
-      "url": "https://www.schneier.com/blog/archives/2026/09/25-years-of-mass-surveillance-is-enough.html",
-      "date": "2026-09-15T11:01:41Z"
-    },
-    {
-      "title": "On the NSA\u2019s Supercomputer from the 1960s",
-      "description": "[SCHNEIER] Really interesting story about Harvest, a specialized code breaking computer built in the 1960s by IBM for the NSA.",
-      "url": "https://www.schneier.com/blog/archives/2026/09/on-the-nsas-supercomputer-from-the-1960s.html",
-      "date": "2026-09-15T10:16:24Z"
-    }
-  ]
+    "title": "Sentinel Protocol",
+    "tagline": "Perimeter Intelligence Sync",
+    "updated": "2026-09-19 14:08 UTC",
+    "news": [
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "ET Science Desk",
+            "title": "AI set to wipe out humans? Andrew Ng breaks his silence on artificial intelligence doomsday warnings as tech leaders debate whether superintelligent machines could become uncontrollable",
+            "description": "AI pioneer Andrew Ng calls extinction warnings science fiction, not science. He urges industry focus on practical engineering and cybersecurity challenges. Researchers from leading AI firms have raised concerns about advanced systems. Ng believes current risk\u2026",
+            "url": "https://economictimes.indiatimes.com/news/international/global-trends/ai-set-to-wipe-out-humans-andrew-ng-breaks-his-silence-on-artificial-intelligence-doomsday-warnings-as-tech-leaders-debate-whether-superintelligent-machines-could-become-uncontrollable/articleshow/134337363.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-134337504,width-1200,height-630,imgsize-74550,overlay-economictimes/articleshow.jpg",
+            "publishedAt": "2026-09-18T14:07:20Z",
+            "content": "One of the early pioneers of artificial intelligence, Andrew Ng, dismissed the dire predictions regarding the threat advanced forms of AI pose for the survival of humanity, terming them \"much more sc\u2026 [+7415 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Insurance Journal"
+            },
+            "author": "Admin",
+            "title": "AI Fuels 440% Surge in Hackers Using Blockchains in Attacks",
+            "description": "Open-source artificial intelligence is making it easier for hackers to hide malicious code on blockchains, opening a new front in a crypto industry already grappling with rising cybercrime. Instances of malware instructions written into on-chain transactions \u2026",
+            "url": "https://www.insurancejournal.com/news/national/2026/09/18/885664.htm",
+            "urlToImage": "https://www.insurancejournal.com/app/uploads/2026/09/blockchain-art-DP.jpg",
+            "publishedAt": "2026-09-18T14:04:03Z",
+            "content": "Open-source artificial intelligence is making it easier for hackers to hide malicious code on blockchains, opening a new front in a crypto industry already grappling with rising cybercrime.\r\nInstance\u2026 [+3179 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Aditya Mehta",
+            "title": "Researchers used Anthropic's Claude to hack into OpenAI | TechCrunch",
+            "description": "Security researchers used Anthropic\u2019s Claude to exploit vulnerabilities in OpenAI\u2019s systems, taking over employee accounts and gaining access to an internal code repository before reporting the flaws.",
+            "url": "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-1979406539.jpg?resize=1200,675",
+            "publishedAt": "2026-09-18T14:01:37Z",
+            "content": "In a twist that captures the strange new state of AI security, independent security researchers have used Anthropic\u2019s Claude to break into OpenAI, exposing cracks in the ChatGPT-maker\u2019s defenses, The\u2026 [+4586 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hackaday"
+            },
+            "author": "Mike Kershaw",
+            "title": "This Week in Security: Flock Cameras Are Old, Microsoft Patches Patches, and Researchers attack SSH",
+            "description": "Leak site Distributed Denial of Secrets has released a dump of the filesystems of a Flock camera, and Micah Lee has published a dive into the contents.\u00a0 Apparently the Flock security model did not \u2026",
+            "url": "https://hackaday.com/2026/09/18/this-week-in-security-flock-cameras-are-old-microsoft-patches-patches-and-researchers-attack-ssh/",
+            "urlToImage": "https://hackaday.com/wp-content/uploads/2016/01/darkarts.jpg",
+            "publishedAt": "2026-09-18T14:00:38Z",
+            "content": "Leak site Distributed Denial of Secrets has released a dump of the filesystems of a Flock camera, and Micah Lee has published a dive into the contents.\u00a0 Apparently the Flock security model did not in\u2026 [+11840 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "SiliconANGLE News"
+            },
+            "author": "Robert Hof",
+            "title": "For AI agents, it\u2019s the best of times, it\u2019s the worst of times",
+            "description": "And in a desperate attempt to turn a cliche into a sharper analogy to today\u2019s AI era, let\u2019s complete the rest of Charles Dickens\u2019 first line in \u201cA Tale of Two Cities,\u201d which honestly does kind of fit: \u201c\u2026 it was the age of wisdom, it was the age of foolishness\u2026",
+            "url": "https://siliconangle.com/2026/09/18/for-ai-agents-its-the-best-of-times-its-the-worst-of-times/",
+            "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/aiagentsbestandworst-scaled.jpeg",
+            "publishedAt": "2026-09-18T14:00:35Z",
+            "content": "And in a desperate attempt to turn a cliche into a sharper analogy to today\u2019s AI era, let\u2019s complete the rest of Charles Dickens\u2019 first line in \u201cA Tale of Two Cities,\u201d which honestly does kind of fit\u2026 [+12416 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BleepingComputer"
+            },
+            "author": "Sergiu Gatlan",
+            "title": "Microsoft Teams will let admins block custom file extensions",
+            "description": "Microsoft Teams will soon let administrators tweak the list of file extensions commonly associated with security threats to meet\u00a0their company's security requirements. [...]",
+            "url": "https://www.bleepingcomputer.com/news/security/microsoft-teams-will-let-admins-block-custom-file-extensions/",
+            "urlToImage": "https://www.bleepstatic.com/content/hl-images/2026/09/18/Microsoft-Teams.jpg",
+            "publishedAt": "2026-09-18T13:58:40Z",
+            "content": "Microsoft Teams will soon let administrators tweak the list of file extensions commonly associated with malware and security threats to meet their company's security requirements.\r\nThis will come as \u2026 [+2181 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Soumya Eswaran",
+            "title": "Accenture (ACN) Positioned to Sustain Its Long-Term Competitive Position",
+            "description": "Aristotle International Equity Fund, sub-advised by Aristotle Capital Management, LLC, released its second-quarter 2026 investor letter. The letter can be do...",
+            "url": "https://finance.yahoo.com/markets/stocks/articles/accenture-acn-positioned-sustain-long-135755570.html",
+            "urlToImage": "https://s.yimg.com/lo/mysterio/api/c09e58ffaa30798057ed440d0554367e1d3c6e913015a35d16ea2ee77b4fd51c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2Fb7f290079d454db9ee7bc62487d9f187.jpg",
+            "publishedAt": "2026-09-18T13:57:55Z",
+            "content": "Aristotle International Equity Fund, sub-advised by Aristotle Capital Management, LLC, released its second-quarter 2026 investor letter. The letter can be downloaded here. Global equity markets reach\u2026 [+4172 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "SiliconANGLE News"
+            },
+            "author": "Victoria Gayton",
+            "title": "What to expect at Dreamforce: Join theCUBE on Sept. 25",
+            "description": "Enterprises are moving beyond standalone AI tools as they look for ways to weave agents into the work employees and customers already do. The shift toward connected AI workflows raises broader questions about how agents access data, interact with people and o\u2026",
+            "url": "https://siliconangle.com/2026/09/18/connected-ai-workflows-shape-dreamforce-dreamforce/",
+            "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/08/Dreamforce-2026.png",
+            "publishedAt": "2026-09-18T13:57:37Z",
+            "content": "Enterprises are moving beyond standalone AI tools as they look for ways to weave agents into the work employees and customers already do. The shift toward connected AI workflows raises broader questi\u2026 [+6076 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Crypto Briefing"
+            },
+            "author": "Editorial Team",
+            "title": "Trump and Xi prepare for AI summit amid deepening US-China divide",
+            "description": "The AI summit could reshape global tech dynamics, impacting market valuations, supply chains, and international regulatory frameworks.\nThe post Trump and Xi prepare for AI summit amid deepening US-China divide appeared first on Crypto Briefing.",
+            "url": "https://cryptobriefing.com/trump-xi-ai-summit-us-china/",
+            "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/18095717/library-trump-and-xi-prepare-for-ai-summit-amid-deepening-us-chi-800x450.png",
+            "publishedAt": "2026-09-18T13:57:20Z",
+            "content": "The September meeting in Washington will put artificial intelligence at the center of the world's most consequential geopolitical rivalry, with semiconductor exports and safety guardrails hanging in \u2026 [+3066 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Slashdot.org"
+            },
+            "author": "thfeed",
+            "title": "Hackers breach OpenAI using Claude tools, gaining access to employee accounts and the company's internal codebase \u2014 attackers initiated a 'harmless' pull",
+            "description": "A team of white-hat hackers from cybersecurity startup Hackron AI has successfully hacked OpenAI using Claude tools.",
+            "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185692312",
+            "urlToImage": null,
+            "publishedAt": "2026-09-18T13:52:37Z",
+            "content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way."
+        }
+    ]
 }
