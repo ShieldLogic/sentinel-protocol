@@ -1,209 +1,137 @@
 {
-  "updated": "2026-09-20 13:48:56 UTC",
-  "news": [
-    {
-      "title": "Researchers escape OpenAI Codex sandbox to run commands on host",
-      "description": "[BLEEPINGCOMPUTER] Researchers escaped OpenAI's Codex sandbox two ways, one running commands on a developer's machine from its most locked-down mode. OpenAI has patched both. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/researchers-escape-openai-codex-sandbox-to-run-commands-on-host/",
-      "date": "2026-09-20T12:00:00Z"
-    },
-    {
-      "title": "3 Cybersecurity Stocks Worth A Closer Look After The Gemini Security Breach",
-      "description": "[EUROPE SAYS] AI just broke its own rules. Google disclosed that its Gemini model breached three external systems during testing, putting cybersecurity in the spotlight and",
-      "url": "https://www.europesays.com/3260954/",
-      "date": "2026-09-19T23:03:29Z"
-    },
-    {
-      "title": "Madhya Pradesh Sanctions \u20b9600 Crore For High-Tech Simhastha Security In Ujjain",
-      "description": "[FREE PRESS JOURNAL] The Madhya Pradesh government has sanctioned \u20b9600 crore for security arrangements during the Ujjain Simhastha. Police will purchase bomb-disposal equipment, body-worn cameras, drones, modern vehicles, facial-recognition systems and cybersecurity...",
-      "url": "https://www.freepressjournal.in/bhopal/madhya-pradesh-sanctions-600-crore-for-high-tech-simhastha-security-in-ujjain",
-      "date": "2026-09-19T22:30:00Z"
-    },
-    {
-      "title": "Gemini AI guessed passwords, accessed protected systems of 3 companies",
-      "description": "[NEW YORK POST] Google's Gemini artificial intelligence accessed the protected systems of three real companies while undergoing a cybersecurity test, including one instance in which the model repeatedly guessed passwords until it gained access.",
-      "url": "https://nypost.com/2026/09/19/business/gemini-ai-guessed-passwords-accessed-protected-systems-of-3-companies/",
-      "date": "2026-09-19T22:00:32Z"
-    },
-    {
-      "title": "Google's AI model Gemini hacked into three companies during cybersecurity test",
-      "description": "[LBC] This incident is the first known case of the model carrying out a security breach of this nature autonomously",
-      "url": "https://www.lbc.co.uk/article/googles-ai-model-gemini-hacked-into-three-companies-during-cybersecurity-test-5Hjdhg8_2/",
-      "date": "2026-09-19T19:48:32Z"
-    },
-    {
-      "title": "Google confirms Gemini hacked into three companies during cybersecurity test months ago",
-      "description": "[9TO5GOOGLE] Following a Wall Street Journal investigation, Google has confirmed that Gemini went rogue in May 2026, accessing the internet and...",
-      "url": "https://9to5google.com/2026/09/19/google-confirms-gemini-hacked-into-three-companies-during-cybersecurity-test-months-ago/",
-      "date": "2026-09-19T18:45:00Z"
-    },
-    {
-      "title": "Claude Opus 5 Helped Researchers Take Over OpenAI Staff Accounts via Chained Flaws",
-      "description": "[FEEDS] Three researchers at the security firm&nbsp;Hacktron&nbsp;used Anthropic's Claude Opus 5 to chain two flaws and take over the ChatGPT and Codex accounts of several OpenAI employees, then reach an internal OpenAI code repository. The chain began with...",
-      "url": "https://thehackernews.com/2026/09/claude-opus-5-helped-researchers-take.html",
-      "date": "2026-09-19T18:36:53Z"
-    },
-    {
-      "title": "Google Gemini Inadvertently Hacked Three Google Systems During Cybersecurity Safety Testing In May",
-      "description": "[ARTVOICE] Google's Gemini artificial intelligence model inadvertently hacked into three of the company's own internal systems during cybersecurity safety testing in May 2026, a disclosure that arrived Friday\u2026",
-      "url": "https://artvoice.com/google-gemini-inadvertently-hacked-three-google-systems-during-cybersecurity-saf",
-      "date": "2026-09-19T15:14:18Z"
-    },
-    {
-      "title": "Google says its Gemini AI model hacked 3 other companies: reports",
-      "description": "[BALTIMORE NEWS] A Google Gemini AI model gained unauthorized access to three other companies during a cybersecurity test, according to reports.",
-      "url": "https://foxbaltimore.com/news/nation-world/google-says-its-gemini-ai-model-hacked-3-other-companies-reports-artificial-intelligence-network-unauthorized-access-credentials-internet-cybersecurity-test-risks",
-      "date": "2026-09-19T15:08:53Z"
-    },
-    {
-      "title": "Google says its Gemini AI model hacked 3 other companies: reports",
-      "description": "[WJLA] A Google Gemini AI model gained unauthorized access to three other companies during a cybersecurity test, according to reports.",
-      "url": "https://wjla.com/news/nation-world/google-says-its-gemini-ai-model-hacked-3-other-companies-reports-artificial-intelligence-network-unauthorized-access-credentials-internet-cybersecurity-test-risks",
-      "date": "2026-09-19T15:08:53Z"
-    },
-    {
-      "title": "BragJack attacks hijack AI browser agents through malicious extensions",
-      "description": "[BLEEPINGCOMPUTER] BragJack, a proof-of-concept attack from Forever Security's Gal Weizman, hijacks the AI assistants in Chrome, Edge, Opera Neon, Perplexity Comet, and Claude in Chrome using one malicious extension. The Prompt Forcing technique earned over $20,000 in...",
-      "url": "https://www.bleepingcomputer.com/news/security/bragjack-attacks-hijack-ai-browser-agents-through-malicious-extensions/",
-      "date": "2026-09-19T14:56:31Z"
-    },
-    {
-      "title": "Woke Google\u2019s Gemini AI Goes Rogue, Hacks Three Real Companies During Cybersecurity Test - Google Did Not Publicly Disclose Incidents for Months",
-      "description": "[THE GATEWAY PUNDIT] Big Tech\u2019s artificial intelligence race just produced another disturbing warning sign.",
-      "url": "https://www.thegatewaypundit.com/2026/09/woke-googles-gemini-ai-goes-rogue-hacks-three/",
-      "date": "2026-09-19T14:45:19Z"
-    },
-    {
-      "title": "North Korean WaterPlum hackers infected 30,000 devices worldwide",
-      "description": "[BLEEPINGCOMPUTER] A joint law enforcement advisory warns that the North Korean hacking group WaterPlum compromised at least 30,000 devices worldwide from December 2025 through July 2026 and transferred more than $10.7 million in stolen cryptocurrency to North Korea....",
-      "url": "https://www.bleepingcomputer.com/news/security/north-korean-waterplum-hackers-infected-30-000-devices-worldwide/",
-      "date": "2026-09-19T14:05:15Z"
-    },
-    {
-      "title": "ShinyHunters hacks Clop leak site, threatens to extort ransomware gang",
-      "description": "[BLEEPINGCOMPUTER] The ShinyHunters extortion gang breached the Clop (aka Cl0p) ransomware operation's data leak site, defacing the Tor site and allegedly stealing server data and the private keys for its onion service. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-hacks-clop-leak-site-threatens-to-extort-ransomware-gang/",
-      "date": "2026-09-19T13:48:32Z"
-    },
-    {
-      "title": "Can You Prove a New CVE Is Exploitable Before Attackers Do? Learn How in This Webinar",
-      "description": "[FEEDS] A new CVE drops. Your scanner finds it. The severity score looks ugly. But that still does not answer the question that matters: Can it actually be exploited in your environment? Mythos-class AI is compressing the time between disclosure and working...",
-      "url": "https://thehackernews.com/2026/09/can-you-prove-new-cve-is-exploitable.html",
-      "date": "2026-09-19T13:28:48Z"
-    },
-    {
-      "title": "Identity Visibility in 2026: The Foundation of Identity Security",
-      "description": "[FEEDS] Identity visibility is a starting point for modern identity security, because stolen and misused credentials are among the most frequently reported initial access vectors in breach research, including Verizon's annual Data Breach Investigations...",
-      "url": "https://thehackernews.com/2026/09/identity-visibility-in-2026-foundation.html",
-      "date": "2026-09-19T13:28:41Z"
-    },
-    {
-      "title": "Gemini accesses internet, hacks three companies in first known breakout by Google\u2019s AI",
-      "description": "[THE GLOBE AND MAIL] Hacks occurred in May during a test conducted by cybersecurity-evaluation company Irregular",
-      "url": "https://www.theglobeandmail.com/world/article-gemini-hacks-companies-first-known-google-ai-breakout/",
-      "date": "2026-09-19T13:23:17Z"
-    },
-    {
-      "title": "Viral AI actress' hotline face-scans every caller, watches their mood",
-      "description": "[BLEEPINGCOMPUTER] AI actress Tilly Norwood went viral after glitching into Chinese on Piers Morgan Uncensored last night. Her \"Talking Tilly\" video call service face-scans every caller for an 18+ age check, senses callers' moods during calls, and shuts down...",
-      "url": "https://www.bleepingcomputer.com/news/security/viral-ai-actress-hotline-face-scans-every-caller-watches-their-mood/",
-      "date": "2026-09-19T11:38:20Z"
-    },
-    {
-      "title": "SolarWinds Patches ARM Hard-Coded Key Flaw Enabling Unauthenticated RCE",
-      "description": "[FEEDS] SolarWinds has released security updates to address a high-severity flaw in Access Rights Manager (ARM) that, if successfully exploited, could lead to an unauthenticated remote code execution vulnerability. The vulnerability, tracked as...",
-      "url": "https://thehackernews.com/2026/09/solarwinds-patches-arm-hard-coded-key.html",
-      "date": "2026-09-19T09:31:17Z"
-    },
-    {
-      "title": "Critical Pre-Auth RCE in Orkes Conductor Workflow Platform Exploited in the Wild",
-      "description": "[FEEDS] A critical vulnerability impacting Orkes Conductor is being actively exploited in the wild, according to Fortinet. The vulnerability in question is CVE-2026-58138 (CVSS v3.1 score: 9.8/CVSS v4 score: 9.3), which relates to a case of unauthenticated...",
-      "url": "https://thehackernews.com/2026/09/critical-pre-auth-rce-in-orkes.html",
-      "date": "2026-09-19T08:18:54Z"
-    },
-    {
-      "title": "Google Gemini Broke Into Real Company Systems After Security Test Domain Mix-Up",
-      "description": "[FEEDS] Google's Gemini model has become the latest artificial intelligence (AI) system to access the internet and break into other companies during a cybersecurity evaluation. The development was first reported by The Wall Street Journal. The incidents...",
-      "url": "https://thehackernews.com/2026/09/google-gemini-broke-into-real-company.html",
-      "date": "2026-09-19T07:51:34Z"
-    },
-    {
-      "title": "HTTP QUERY Method: The Grey Zone Between GET And POST., (Fri, Sep 18th)",
-      "description": "[ISC] In June 2026 the IETF published RFC 10008&#x5b;1&#x5d;, defining a new HTTP method: \"QUERY\". The HTTP protocol faced already by changes (HTTP/2, HTTP/3) but it&#x27s the first new standard HTTP verb since \"PATCH\" in 2010&#x21;&#xd;",
-      "url": "https://isc.sans.edu/diary/rss/33352",
-      "date": "2026-09-19T04:51:46Z"
-    },
-    {
-      "title": "Friday Squid Blogging: On Squid Egg Sacs",
-      "description": "[SCHNEIER] Short essay about squid egg sacs. As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered. Blog moderation policy.",
-      "url": "https://www.schneier.com/blog/archives/2026/09/friday-squid-blogging-on-squid-egg-sacs.html",
-      "date": "2026-09-18T21:06:00Z"
-    },
-    {
-      "title": "Gyazo server flaw exploited to steal 23.6 million user records",
-      "description": "[BLEEPINGCOMPUTER] The Gyazo image-sharing platform has confirmed it suffered a data breach after hackers exploited a server vulnerability that allowed them to steal 23.6 million user records. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/gyazo-server-flaw-exploited-to-steal-236-million-user-records/",
-      "date": "2026-09-18T16:00:38Z"
-    },
-    {
-      "title": "Are AIs Still Struggling with CAPTCHAs?",
-      "description": "[SCHNEIER] Anthropic&#8217;s recent security-incident document contains a bit about how CAPTCHAs are still frustrating Claude. In the transcript, the Claude model that is so powerful that Anthropic is gatekeeping access to it appeared to slam its virtual head...",
-      "url": "https://www.schneier.com/blog/archives/2026/09/are-ais-still-struggling-with-captchas.html",
-      "date": "2026-09-18T11:05:52Z"
-    },
-    {
-      "title": "ISC Stormcast For Friday, September 18th, 2026 https://isc.sans.edu/podcastdetail/10100, (Fri, Sep 18th)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33350",
-      "date": "2026-09-18T02:00:02Z"
-    },
-    {
-      "title": "LausivLoader analysis, or how to pass data between malware stages, (Thu, Sep 17th)",
-      "description": "[ISC] At the end of August, a malspam message was caught in the quarantine of a mail gateway operated by one of my customers. The message was not especially remarkable &#xe2&#x3b;&#x80&#x3b;&#x93&#x3b; it asked the recipient to review some attached...",
-      "url": "https://isc.sans.edu/diary/rss/33348",
-      "date": "2026-09-17T15:06:44Z"
-    },
-    {
-      "title": "How Candidates Could Use AI for Good",
-      "description": "[SCHNEIER] This essay was written with Nathan E. Sanders, and originally appeared in The Guardian. There are plenty of signs that AI will make all of our experiences of the US midterm elections worse. Voters have anxiety about AI&#8217;s impacts on the...",
-      "url": "https://www.schneier.com/blog/archives/2026/09/how-candidates-could-use-ai-for-good.html",
-      "date": "2026-09-17T11:06:31Z"
-    },
-    {
-      "title": "ISC Stormcast For Thursday, September 17th, 2026 https://isc.sans.edu/podcastdetail/10098, (Thu, Sep 17th)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33346",
-      "date": "2026-09-17T02:00:03Z"
-    },
-    {
-      "title": "Scans Targeting Hospitality Applications, (Wed, Sep 16th)",
-      "description": "[ISC] Earlier today, I noted an odd request showing up in our \"First Seen\" report:&#xd;",
-      "url": "https://isc.sans.edu/diary/rss/33344",
-      "date": "2026-09-16T18:44:04Z"
-    },
-    {
-      "title": "Fake CAPTCHA Scams",
-      "description": "[SCHNEIER] New variant of an old scam: Use the framing of a CAPTCHA to get an unsuspecting user to download and run a malicious program.",
-      "url": "https://www.schneier.com/blog/archives/2026/09/fake-captcha-scams.html",
-      "date": "2026-09-16T11:25:26Z"
-    },
-    {
-      "title": "ISC Stormcast For Wednesday, September 16th, 2026 https://isc.sans.edu/podcastdetail/10096, (Wed, Sep 16th)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33342",
-      "date": "2026-09-16T02:00:02Z"
-    },
-    {
-      "title": "25 Years of Mass Surveillance Is Enough",
-      "description": "[SCHNEIER] This essay was written with Cindy Cohn, and originally appeared in Lawfare. One of the many legacies of the terrorist attacks of Sept. 11 is the government-wide shift from targeted surveillance&#8212;such as individual wiretaps or pen register/trap...",
-      "url": "https://www.schneier.com/blog/archives/2026/09/25-years-of-mass-surveillance-is-enough.html",
-      "date": "2026-09-15T11:01:41Z"
-    },
-    {
-      "title": "On the NSA\u2019s Supercomputer from the 1960s",
-      "description": "[SCHNEIER] Really interesting story about Harvest, a specialized code breaking computer built in the 1960s by IBM for the NSA.",
-      "url": "https://www.schneier.com/blog/archives/2026/09/on-the-nsas-supercomputer-from-the-1960s.html",
-      "date": "2026-09-15T10:16:24Z"
-    }
-  ]
+    "title": "Sentinel Protocol",
+    "tagline": "Perimeter Intelligence Sync",
+    "updated": "2026-09-20 14:27 UTC",
+    "news": [
+        {
+            "source": {
+                "id": null,
+                "name": "Kitploit.com"
+            },
+            "author": "Kitploit",
+            "title": "red-teaming-auto-mode",
+            "description": "Research code for red-teaming AI auto-mode monitors, including simulation evals, fuzzing, and monitor implementations for Claude Code and Codex guardian.",
+            "url": "https://kitploit.com/en/tools/github/safety-research/red-teaming-auto-mode/",
+            "urlToImage": "https://assets.kitploit.com/production/public/tools/55629/e5b2753eafa53747ff9f3ff870258c46f642ba843909ffacc8f1be6832389c6b-social-v1.webp",
+            "publishedAt": "2026-09-19T14:26:00Z",
+            "content": "Kitploit is a directory of hacking, cybersecurity, and pentesting tools. Discover the latest project updates to find vulnerabilities, analyze systems, automate testing, and strengthen your security.\r\u2026 [+60 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Theregister.com"
+            },
+            "author": "Jessica Lyons",
+            "title": "Agentic security is the billion-dollar challenge for some clever startup to solve",
+            "description": "High time to stop kicking the security can down the road, investor tells The Reg",
+            "url": "https://www.theregister.com/security/2026/09/19/agentic-security-is-the-billion-dollar-challenge-for-some-clever-startup-to-solve/5297546",
+            "urlToImage": "https://image.theregister.com/5297576.jpg?imageId=5297576&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+            "publishedAt": "2026-09-19T14:25:00Z",
+            "content": "When it comes to AI models, security functions as an afterthought, as evidenced by increased instances of\u00a0agents hacking\u00a0organizations and people, and othersecurity mishaps with agents gone rogue. Th\u2026 [+6144 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Securityaffairs.com"
+            },
+            "author": "Pierluigi Paganini",
+            "title": "Google Gemini also Broke Out of Its Test Environment",
+            "description": "Google Gemini escaped a cyber test environment, reached three real companies, and exposed why AI security tests need strict isolation. Google has confirmed that one of its Gemini models broke into the systems of three real companies during a cybersecurity tes\u2026",
+            "url": "https://securityaffairs.com/199392/ai/google-gemini-also-broke-out-of-its-test-environment.html",
+            "urlToImage": "https://securityaffairs.com/wp-content/uploads/2026/09/image-54.png",
+            "publishedAt": "2026-09-19T14:09:34Z",
+            "content": "Google Gemini also Broke Out of Its Test Environment\r\nGoogle has confirmed that one of its Gemini models broke into the systems of three real companies during a cybersecurity test in May. The inciden\u2026 [+5387 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PCMag.com"
+            },
+            "author": "Neil J. Rubenking",
+            "title": "How Exposed Is Your Data, Really? A Practical Guide to Finding Out (And Fixing It)",
+            "description": "Plugging your name into a search engine is just the start. Learn where your sensitive info is hiding online\u2014and the simple tools to scrub it clean.\nPlug your name into a search engine, and you might get lucky\u2014especially if you share it with thousands of other\u2026",
+            "url": "https://uk.pcmag.com/security/167407/how-exposed-is-your-data-really-a-practical-guide-to-finding-out-and-fixing-it",
+            "urlToImage": "https://sm.pcmag.com/t/pcmag_uk/explainers/h/how-expose/how-exposed-is-your-data-really-a-practical-guide-to-finding_8p8q.1200.jpg",
+            "publishedAt": "2026-09-19T14:00:00Z",
+            "content": "Plug your name into a search engine, and you might get luckyespecially if you share it with thousands of others. But if your name is even slightly unique, the results can be chilling. And a simple se\u2026 [+6091 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PCMag.com"
+            },
+            "author": "Will Mccurdy",
+            "title": "Google Gemini Becomes the Latest AI Found Hacking Real Companies",
+            "description": "An Israeli cybersecurity firm had been testing Google's Gemini AI model in a closed environment, without internet access. But after the model gained access, they hacked into multiple real firms.\nFollowing high-profile similar incidents involving OpenAI, Anthr\u2026",
+            "url": "https://uk.pcmag.com/ai/167408/google-gemini-becomes-the-latest-ai-found-hacking-real-companies",
+            "urlToImage": "https://sm.pcmag.com/t/pcmag_uk/news/g/google-gem/google-gemini-becomes-the-latest-ai-found-hacking-real-compa_hfg2.1200.jpg",
+            "publishedAt": "2026-09-19T13:59:18Z",
+            "content": "Following high-profile similar incidents involving OpenAI, Anthropic, and Meta, Google's Gemini AI has now been found to have unintentionally hacked the systems of real-world companies.\r\nGoogle's mod\u2026 [+2043 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Crypto Briefing"
+            },
+            "author": "Editorial Team",
+            "title": "Google\u2019s Gemini AI accidentally hacked three real companies during a security test",
+            "description": "AI testing environments must ensure isolation from real systems to prevent unintended breaches, highlighting a critical industry-wide oversight.\nThe post Google\u2019s Gemini AI accidentally hacked three real companies during a security test appeared first on Cryp\u2026",
+            "url": "https://cryptobriefing.com/gemini-ai-hacked-companies-security-test/",
+            "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2020/12/02092245/link-bull-1024x538.jpg",
+            "publishedAt": "2026-09-19T13:57:02Z",
+            "content": "An AI model meant to probe fictional targets wandered into live company networks, and the industry is still processing what that means During a routine cybersecurity evaluation in May 2026, Google\u2019s \u2026 [+2624 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BleepingComputer"
+            },
+            "author": "Lawrence Abrams",
+            "title": "ShinyHunters hacks Clop leak site, threatens to extort ransomware gang",
+            "description": "The ShinyHunters extortion gang breached the Clop (aka Cl0p) ransomware operation's data leak site, defacing the Tor site and allegedly stealing server data and the private keys for its onion service. [...]",
+            "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-hacks-clop-leak-site-threatens-to-extort-ransomware-gang/",
+            "urlToImage": "https://www.bleepstatic.com/content/hl-images/2024/06/15/emoji-hacker.jpg",
+            "publishedAt": "2026-09-19T13:48:32Z",
+            "content": "The ShinyHunters extortion gang breached the Clop (aka Cl0p) ransomware operation's data leak site, defacing the Tor site and allegedly stealing server data and the private keys for its onion service\u2026 [+4785 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Biztoc.com"
+            },
+            "author": "theglobeandmail.com",
+            "title": "Gemini accesses internet, hacks three companies in first known breakout by Google\u2019s AI",
+            "description": "Google\u2019s GOOGL-Q Gemini model accessed the internet and hacked other companies during a test of its cybersecurity capabilities, the first known example of the company\u2019s AI systems autonomously committing such an act.\nThe hacks occurred in May during a cyberse\u2026",
+            "url": "https://biztoc.com/x/386e58a679fbf630",
+            "urlToImage": "https://biztoc.com/cdn/386e58a679fbf630_s.webp",
+            "publishedAt": "2026-09-19T13:44:32Z",
+            "content": "Googles GOOGL-Q Gemini model accessed the internet and hacked other companies during a test of its cybersecurity capabilities, the first known example of the companys AI systems autonomously committi\u2026 [+146 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "TheStreet"
+            },
+            "author": "Opeyemi Babalola",
+            "title": "Jim Cramer has a strong message for AI investors",
+            "description": "Growing safety warnings from inside the AI industry have investors nervous. Cramer says he already has his answer.",
+            "url": "https://www.thestreet.com/investing/ai-safety-warnings-cramer-stock-picks",
+            "urlToImage": "https://s.yimg.com/lo/mysterio/api/9f52b9616b19b322c1087bb96ae8e7b8c17980984f49c785e66f4362a33a4f95/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthestreet_881%2F92a5b4f6a7bc145add5022551b8d55b4.jpg",
+            "publishedAt": "2026-09-19T13:33:00Z",
+            "content": "Markets have a familiar reflex when fear spreads through technology stocks. Investors wait to hear what Jim Cramer thinks.\r\nThis week, the fear did not come from a short seller or a regulator. It cam\u2026 [+5078 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Kitploit.com"
+            },
+            "author": "Kitploit",
+            "title": "ciso-assistant-community",
+            "description": "CISO Assistant is a one-stop-shop GRC platform for Risk Management, AppSec, Compliance & Audit, TPRM, BIA, Privacy, and Reporting. It supports 200+ global frameworks with automatic control mapping, including ISO 27001, NIST CSF, SOC 2, CIS, PCI DSS, NIS2, DOR\u2026",
+            "url": "https://kitploit.com/en/tools/github/intuitem/ciso-assistant-community/",
+            "urlToImage": "https://assets.kitploit.com/production/public/tools/55647/630e71eeccd66e54f8a4b1eca89dfe350bcda12e0907216210b95f8e802a74f8-social-v1.webp",
+            "publishedAt": "2026-09-19T13:30:50Z",
+            "content": "Star the project to get releases notification and help growing the community!\r\nintuitem.com\r\n \u00b7\r\n SaaS Free trial\r\n \u00b7\r\n Roadmap\r\n \u00b7\r\n Docs\r\n \u00b7\r\n Languages\r\n \u00b7\r\n Discord\r\n \u00b7\r\n Frameworks\r\nCISO Assista\u2026 [+33186 chars]"
+        }
+    ]
 }
