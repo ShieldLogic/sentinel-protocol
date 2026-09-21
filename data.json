@@ -1,6 +1,36 @@
 {
-  "updated": "2026-09-21 02:23:33 UTC",
+  "updated": "2026-09-21 09:25:06 UTC",
   "news": [
+    {
+      "title": "ClickFix Lures Deploy ChainScript RAT Using Polygon to Rotate C2 Infrastructure",
+      "description": "[FEEDS] Threat actors are leveraging ClickFix-like lures to deliver a previously undocumented remote access trojan (RAT) called ChainScript. \"ChainScript has appeared under multiple build names, including ComponentTask33, UpdateDigital, HostShared, and...",
+      "url": "https://thehackernews.com/2026/09/clickfix-lures-deploy-chainscript-rat.html",
+      "date": "2026-09-21T08:39:38Z"
+    },
+    {
+      "title": "Jade Sleet Linked to Indian IT Provider Breach With FLATROOF and ROOFDECK Backdoors",
+      "description": "[FEEDS] The North Korean threat actor known as Jade Sleet has been attributed to the compromise of an India-based \"much smaller organization\" in the information technology (IT) services industry, once again highlighting how the adversary continues to target...",
+      "url": "https://thehackernews.com/2026/09/jade-sleet-linked-to-indian-it-provider.html",
+      "date": "2026-09-21T06:06:44Z"
+    },
+    {
+      "title": "ISC Stormcast For Monday, September 21st, 2026 https://isc.sans.edu/podcastdetail/10102, (Mon, Sep 21st)",
+      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
+      "url": "https://isc.sans.edu/diary/rss/33354",
+      "date": "2026-09-21T05:15:12Z"
+    },
+    {
+      "title": "We got a cybersecurity expert to hack this BYD. It was too easy",
+      "description": "[ABC (AUSTRALIAN BROADCASTING CORPORATION)] To test the risks of surveillance and sabotage, Four Corners asked a hacker to show what China's top EV brand could see and do remotely.",
+      "url": "https://www.abc.net.au/news/2026-09-21/byd-hacked-by-cybersecurity-expert-vehicle-sabotage-surveillance/107139482",
+      "date": "2026-09-20T19:00:56Z"
+    },
+    {
+      "title": "AI forces IT firms to rethink cybersecurity",
+      "description": "[THE FINANCIAL EXPRESS] Following recent data breaches, top Indian IT firms are broadening Zero Trust frameworks to secure AI applications, agents, and APIs against prompt injection and accidental leaks.",
+      "url": "https://www.financialexpress.com/business/news/ai-forces-it-firms-to-rethink-cybersecurity/4343484/",
+      "date": "2026-09-20T15:05:29Z"
+    },
     {
       "title": "Malicious npm packages evade install-script defenses at runtime",
       "description": "[BLEEPINGCOMPUTER] An ongoing npm malware campaign involving the 'indexed-btree' package shows how threat actors bypass supply chain defenses by hiding malicious code in a package's normal runtime behavior rather than in installation scripts. [...]",
@@ -62,18 +92,6 @@
       "date": "2026-09-19T22:30:00Z"
     },
     {
-      "title": "Gemini AI guessed passwords, accessed protected systems of 3 companies",
-      "description": "[NEW YORK POST] Google's Gemini artificial intelligence accessed the protected systems of three real companies while undergoing a cybersecurity test, including one instance in which the model repeatedly guessed passwords until it gained access.",
-      "url": "https://nypost.com/2026/09/19/business/gemini-ai-guessed-passwords-accessed-protected-systems-of-3-companies/",
-      "date": "2026-09-19T22:00:32Z"
-    },
-    {
-      "title": "Google's AI model Gemini hacked into three companies during cybersecurity test",
-      "description": "[LBC] This incident is the first known case of the model carrying out a security breach of this nature autonomously",
-      "url": "https://www.lbc.co.uk/article/googles-ai-model-gemini-hacked-into-three-companies-during-cybersecurity-test-5Hjdhg8_2/",
-      "date": "2026-09-19T19:48:32Z"
-    },
-    {
       "title": "Claude Opus 5 Helped Researchers Take Over OpenAI Staff Accounts via Chained Flaws",
       "description": "[FEEDS] Three researchers at the security firm&nbsp;Hacktron&nbsp;used Anthropic's Claude Opus 5 to chain two flaws and take over the ChatGPT and Codex accounts of several OpenAI employees, then reach an internal OpenAI code repository. The chain began with...",
       "url": "https://thehackernews.com/2026/09/claude-opus-5-helped-researchers-take.html",
@@ -120,18 +138,6 @@
       "description": "[FEEDS] SolarWinds has released security updates to address a high-severity flaw in Access Rights Manager (ARM) that, if successfully exploited, could lead to an unauthenticated remote code execution vulnerability. The vulnerability, tracked as...",
       "url": "https://thehackernews.com/2026/09/solarwinds-patches-arm-hard-coded-key.html",
       "date": "2026-09-19T09:31:17Z"
-    },
-    {
-      "title": "Critical Pre-Auth RCE in Orkes Conductor Workflow Platform Exploited in the Wild",
-      "description": "[FEEDS] A critical vulnerability impacting Orkes Conductor is being actively exploited in the wild, according to Fortinet. The vulnerability in question is CVE-2026-58138 (CVSS v3.1 score: 9.8/CVSS v4 score: 9.3), which relates to a case of unauthenticated...",
-      "url": "https://thehackernews.com/2026/09/critical-pre-auth-rce-in-orkes.html",
-      "date": "2026-09-19T08:18:54Z"
-    },
-    {
-      "title": "Google Gemini Broke Into Real Company Systems After Security Test Domain Mix-Up",
-      "description": "[FEEDS] Google's Gemini model has become the latest artificial intelligence (AI) system to access the internet and break into other companies during a cybersecurity evaluation. The development was first reported by The Wall Street Journal. The incidents...",
-      "url": "https://thehackernews.com/2026/09/google-gemini-broke-into-real-company.html",
-      "date": "2026-09-19T07:51:34Z"
     },
     {
       "title": "HTTP QUERY Method: The Grey Zone Between GET And POST., (Fri, Sep 18th)",
@@ -186,12 +192,6 @@
       "description": "[SCHNEIER] New variant of an old scam: Use the framing of a CAPTCHA to get an unsuspecting user to download and run a malicious program.",
       "url": "https://www.schneier.com/blog/archives/2026/09/fake-captcha-scams.html",
       "date": "2026-09-16T11:25:26Z"
-    },
-    {
-      "title": "ISC Stormcast For Wednesday, September 16th, 2026 https://isc.sans.edu/podcastdetail/10096, (Wed, Sep 16th)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33342",
-      "date": "2026-09-16T02:00:02Z"
     },
     {
       "title": "25 Years of Mass Surveillance Is Enough",
