@@ -1,6 +1,60 @@
 {
-  "updated": "2026-09-21 09:25:06 UTC",
+  "updated": "2026-09-21 16:05:12 UTC",
   "news": [
+    {
+      "title": "Google fined \u20ac403 million over location data privacy violations",
+      "description": "[BLEEPINGCOMPUTER] Ireland's Data Protection Commission (DPC) has fined Google \u20ac403 million ($463M) for multiple GDPR violations related to processing users' location data. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/google-fined-403-million-over-location-data-privacy-violations/",
+      "date": "2026-09-21T15:41:22Z"
+    },
+    {
+      "title": "Microsoft fixes broken Excel copy and paste for all Office users",
+      "description": "[BLEEPINGCOMPUTER] Microsoft has fixed a known issue that causes copy-and-paste failures for Excel users after installing the September 2026 security updates. [...]",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-broken-excel-copy-and-paste-for-all-office-users/",
+      "date": "2026-09-21T14:42:37Z"
+    },
+    {
+      "title": "Reverse-Engineering Flock Cameras",
+      "description": "[SCHNEIER] Hackers captured a Flock camera and got a look (alternate link) at the software: While much of the automatic license plate reader&#8217;s (ALPR) most sensitive storage remained encrypted and inaccessible, the joint analysis of the recovered data...",
+      "url": "https://www.schneier.com/blog/archives/2026/09/reverse-engineering-flock-cameras.html",
+      "date": "2026-09-21T14:37:45Z"
+    },
+    {
+      "title": "\u26a1 Weekly Recap: Cisco 0-Day, AI Agent RCE, ClickFix Attacks, ClickFix Surge, and Browser Hijacks",
+      "description": "[FEEDS] A browser. A plugin. A package. A login screen. Normal stuff. That is basically the problem this week. The trouble keeps showing up inside things people already trust: code that takes a bad turn, old payloads coming back, exposed systems, weak...",
+      "url": "https://thehackernews.com/2026/09/weekly-recap-cisco-0-day-ai-agent-rce.html",
+      "date": "2026-09-21T14:24:13Z"
+    },
+    {
+      "title": "TASK#STOMP PowerShell Backdoor Steals Documents, Wi-Fi Passwords, and Clipboard Data",
+      "description": "[FEEDS] Cybersecurity researchers have disclosed details of a new campaign dubbed TASK#STOMP that delivers a PowerShell backdoor designed to harvest sensitive data from compromised hosts. The backdoor \"automatically harvests and exfiltrates business...",
+      "url": "https://thehackernews.com/2026/09/taskstomp-powershell-backdoor-steals.html",
+      "date": "2026-09-21T14:15:40Z"
+    },
+    {
+      "title": "FBI's CJIS v6.1: What Security Teams Need to Know.",
+      "description": "[BLEEPINGCOMPUTER] The FBI's CJIS Security Policy v6.1 strengthens requirements around encryption and vulnerability scanning while continuing the shift toward more continuous security assessment. Specops explains what changed and how agencies can address password,...",
+      "url": "https://www.bleepingcomputer.com/news/security/fbis-cjis-v61-what-security-teams-need-to-know/",
+      "date": "2026-09-21T14:02:12Z"
+    },
+    {
+      "title": "Microsoft reminds admins to migrate Entra ID users to passkeys",
+      "description": "[BLEEPINGCOMPUTER] Microsoft has reminded admins to migrate Entra ID users to phishing-resistant authentication methods to avoid sign-in disruptions after it retires SMS first-factor sign-in starting in February 2027. [...]",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-reminds-admins-to-migrate-entra-id-users-to-passkeys/",
+      "date": "2026-09-21T13:16:20Z"
+    },
+    {
+      "title": "Microsoft: September updates break File History backup feature",
+      "description": "[BLEEPINGCOMPUTER] Microsoft warned that the built-in File History backup feature in Windows may stop working on some systems after installing the September 2026 security updates. [...]",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-updates-break-file-history-backup-feature/",
+      "date": "2026-09-21T11:45:54Z"
+    },
+    {
+      "title": "TerminalFix: PNG Steganography, (Mon, Sep 21st)",
+      "description": "[ISC] Microsoft Security Research published an interesting blog post \"TerminalFix campaign deploys a reverse tunnel through multistage intrusion\" about a malware campaign. The aspect that I want to take a closer look at, is the fact that the threat actors...",
+      "url": "https://isc.sans.edu/diary/rss/33318",
+      "date": "2026-09-21T10:33:53Z"
+    },
     {
       "title": "ClickFix Lures Deploy ChainScript RAT Using Polygon to Rotate C2 Infrastructure",
       "description": "[FEEDS] Threat actors are leveraging ClickFix-like lures to deliver a previously undocumented remote access trojan (RAT) called ChainScript. \"ChainScript has appeared under multiple build names, including ComponentTask33, UpdateDigital, HostShared, and...",
@@ -20,6 +74,30 @@
       "date": "2026-09-21T05:15:12Z"
     },
     {
+      "title": "3 Indians breached OpenAI systems using Claude. What happened next?",
+      "description": "[THE ECONOMIC TIMES] Three Indian-origin cybersecurity researchers\u2014Harsh Jaiswal, Mohan Pedhapati and Rahul Maini\u2014used Anthropic\u2019s Claude AI to demonstrate a chain of vulnerabilities that gave them access to OpenAI employee accounts and an internal GitHub repository,...",
+      "url": "https://economictimes.indiatimes.com/nri/latest-updates/3-indians-breached-openai-systems-using-claude-what-happened-next/articleshow/134379161.cms",
+      "date": "2026-09-21T03:47:29Z"
+    },
+    {
+      "title": "What\u2019s that again? Mental health, cybersecurity, new guideline and waste",
+      "description": "[EUROPE SAYS] Last week\u2019s commentary covered mental health, cybersecurity, endometriosis and medical wastage. Barbara Disley looks at the progress made since the release of",
+      "url": "https://www.europesays.com/3263385/",
+      "date": "2026-09-21T02:55:17Z"
+    },
+    {
+      "title": "Cybercrime feud erupts on dark web as notorious group claims hijack of rival\u2019s website",
+      "description": "[THE STRAITS TIMES] Two cybersecurity experts told Reuters the clash appeared to be genuine. Read more at straitstimes.com.",
+      "url": "https://www.straitstimes.com/world/united-states/cybercrime-feud-erupts-on-dark-web-as-notorious-group-claims-hijack-of-rivals-website",
+      "date": "2026-09-21T02:35:00Z"
+    },
+    {
+      "title": "LRQA Named 'Best in Critical Infrastructure Protection' at CybersecAsia Readers' Choice Awards 2026",
+      "description": "[PR NEWSWIRE UK] /PRNewswire/ -- LRQA, a global leader in assurance, cybersecurity, and risk management services, has been named the winner of the Best in Critical...",
+      "url": "https://www.prnewswire.co.uk/news-releases/lrqa-named-best-in-critical-infrastructure-protection-at-cybersecasia-readers-choice-awards-2026-302884176.html",
+      "date": "2026-09-21T02:14:00Z"
+    },
+    {
       "title": "We got a cybersecurity expert to hack this BYD. It was too easy",
       "description": "[ABC (AUSTRALIAN BROADCASTING CORPORATION)] To test the risks of surveillance and sabotage, Four Corners asked a hacker to show what China's top EV brand could see and do remotely.",
       "url": "https://www.abc.net.au/news/2026-09-21/byd-hacked-by-cybersecurity-expert-vehicle-sabotage-surveillance/107139482",
@@ -36,12 +114,6 @@
       "description": "[BLEEPINGCOMPUTER] An ongoing npm malware campaign involving the 'indexed-btree' package shows how threat actors bypass supply chain defenses by hiding malicious code in a package's normal runtime behavior rather than in installation scripts. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/malicious-npm-packages-evade-install-script-defenses-at-runtime/",
       "date": "2026-09-20T14:11:21Z"
-    },
-    {
-      "title": "Researchers escape OpenAI Codex sandbox to run commands on host",
-      "description": "[BLEEPINGCOMPUTER] Researchers escaped OpenAI's Codex sandbox two ways, one running commands on a developer's machine from its most locked-down mode. OpenAI has patched both. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/researchers-escape-openai-codex-sandbox-to-run-commands-on-host/",
-      "date": "2026-09-20T12:00:00Z"
     },
     {
       "title": "Humans, not rogue AI, are still the biggest cybersecurity risk to energy systems",
@@ -68,76 +140,16 @@
       "date": "2026-09-20T08:17:12Z"
     },
     {
-      "title": "3 Indian-origin researchers used Claude to breach OpenAI systems in 72 hours",
-      "description": "[THE ECONOMIC TIMES] Three Indian-origin cybersecurity researchers at Hacktron AI used Anthropics Claude models while investigating vulnerabilities that ultimately gave them access to OpenAI employee accounts and a private GitHub environment, according to reports. Harsh...",
-      "url": "https://economictimes.indiatimes.com/news/new-updates/3-indian-origin-researchers-used-claude-to-breach-openai-systems-in-72-hours/articleshow/134363938.cms",
-      "date": "2026-09-20T05:51:00Z"
-    },
-    {
-      "title": "Financial Cybersecurity Is Becoming a Problem of Dependency Risk, Not Just Perimeter Defense",
-      "description": "[TECHBULLION] Cybersecurity in finance is therefore evolving into a broader discipline that combines technology security, vendor management, operational resilience",
-      "url": "https://techbullion.com/financial-cybersecurity-is-becoming-a-problem-of-dependency-risk-not-just-perimeter-defense/",
-      "date": "2026-09-20T05:24:00Z"
-    },
-    {
-      "title": "3 Cybersecurity Stocks Worth A Closer Look After The Gemini Security Breach",
-      "description": "[EUROPE SAYS] AI just broke its own rules. Google disclosed that its Gemini model breached three external systems during testing, putting cybersecurity in the spotlight and",
-      "url": "https://www.europesays.com/3260954/",
-      "date": "2026-09-19T23:03:29Z"
-    },
-    {
-      "title": "Madhya Pradesh Sanctions \u20b9600 Crore For High-Tech Simhastha Security In Ujjain",
-      "description": "[FREE PRESS JOURNAL] The Madhya Pradesh government has sanctioned \u20b9600 crore for security arrangements during the Ujjain Simhastha. Police will purchase bomb-disposal equipment, body-worn cameras, drones, modern vehicles, facial-recognition systems and cybersecurity...",
-      "url": "https://www.freepressjournal.in/bhopal/madhya-pradesh-sanctions-600-crore-for-high-tech-simhastha-security-in-ujjain",
-      "date": "2026-09-19T22:30:00Z"
-    },
-    {
       "title": "Claude Opus 5 Helped Researchers Take Over OpenAI Staff Accounts via Chained Flaws",
       "description": "[FEEDS] Three researchers at the security firm&nbsp;Hacktron&nbsp;used Anthropic's Claude Opus 5 to chain two flaws and take over the ChatGPT and Codex accounts of several OpenAI employees, then reach an internal OpenAI code repository. The chain began with...",
       "url": "https://thehackernews.com/2026/09/claude-opus-5-helped-researchers-take.html",
       "date": "2026-09-19T18:36:53Z"
     },
     {
-      "title": "BragJack attacks hijack AI browser agents through malicious extensions",
-      "description": "[BLEEPINGCOMPUTER] BragJack, a proof-of-concept attack from Forever Security's Gal Weizman, hijacks the AI assistants in Chrome, Edge, Opera Neon, Perplexity Comet, and Claude in Chrome using one malicious extension. The Prompt Forcing technique earned over $20,000 in...",
-      "url": "https://www.bleepingcomputer.com/news/security/bragjack-attacks-hijack-ai-browser-agents-through-malicious-extensions/",
-      "date": "2026-09-19T14:56:31Z"
-    },
-    {
-      "title": "North Korean WaterPlum hackers infected 30,000 devices worldwide",
-      "description": "[BLEEPINGCOMPUTER] A joint law enforcement advisory warns that the North Korean hacking group WaterPlum compromised at least 30,000 devices worldwide from December 2025 through July 2026 and transferred more than $10.7 million in stolen cryptocurrency to North Korea....",
-      "url": "https://www.bleepingcomputer.com/news/security/north-korean-waterplum-hackers-infected-30-000-devices-worldwide/",
-      "date": "2026-09-19T14:05:15Z"
-    },
-    {
-      "title": "ShinyHunters hacks Clop leak site, threatens to extort ransomware gang",
-      "description": "[BLEEPINGCOMPUTER] The ShinyHunters extortion gang breached the Clop (aka Cl0p) ransomware operation's data leak site, defacing the Tor site and allegedly stealing server data and the private keys for its onion service. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-hacks-clop-leak-site-threatens-to-extort-ransomware-gang/",
-      "date": "2026-09-19T13:48:32Z"
-    },
-    {
       "title": "Can You Prove a New CVE Is Exploitable Before Attackers Do? Learn How in This Webinar",
       "description": "[FEEDS] A new CVE drops. Your scanner finds it. The severity score looks ugly. But that still does not answer the question that matters: Can it actually be exploited in your environment? Mythos-class AI is compressing the time between disclosure and working...",
       "url": "https://thehackernews.com/2026/09/can-you-prove-new-cve-is-exploitable.html",
       "date": "2026-09-19T13:28:48Z"
-    },
-    {
-      "title": "Identity Visibility in 2026: The Foundation of Identity Security",
-      "description": "[FEEDS] Identity visibility is a starting point for modern identity security, because stolen and misused credentials are among the most frequently reported initial access vectors in breach research, including Verizon's annual Data Breach Investigations...",
-      "url": "https://thehackernews.com/2026/09/identity-visibility-in-2026-foundation.html",
-      "date": "2026-09-19T13:28:41Z"
-    },
-    {
-      "title": "Viral AI actress' hotline face-scans every caller, watches their mood",
-      "description": "[BLEEPINGCOMPUTER] AI actress Tilly Norwood went viral after glitching into Chinese on Piers Morgan Uncensored last night. Her \"Talking Tilly\" video call service face-scans every caller for an 18+ age check, senses callers' moods during calls, and shuts down...",
-      "url": "https://www.bleepingcomputer.com/news/security/viral-ai-actress-hotline-face-scans-every-caller-watches-their-mood/",
-      "date": "2026-09-19T11:38:20Z"
-    },
-    {
-      "title": "SolarWinds Patches ARM Hard-Coded Key Flaw Enabling Unauthenticated RCE",
-      "description": "[FEEDS] SolarWinds has released security updates to address a high-severity flaw in Access Rights Manager (ARM) that, if successfully exploited, could lead to an unauthenticated remote code execution vulnerability. The vulnerability, tracked as...",
-      "url": "https://thehackernews.com/2026/09/solarwinds-patches-arm-hard-coded-key.html",
-      "date": "2026-09-19T09:31:17Z"
     },
     {
       "title": "HTTP QUERY Method: The Grey Zone Between GET And POST., (Fri, Sep 18th)",
@@ -182,12 +194,6 @@
       "date": "2026-09-17T02:00:03Z"
     },
     {
-      "title": "Scans Targeting Hospitality Applications, (Wed, Sep 16th)",
-      "description": "[ISC] Earlier today, I noted an odd request showing up in our \"First Seen\" report:&#xd;",
-      "url": "https://isc.sans.edu/diary/rss/33344",
-      "date": "2026-09-16T18:44:04Z"
-    },
-    {
       "title": "Fake CAPTCHA Scams",
       "description": "[SCHNEIER] New variant of an old scam: Use the framing of a CAPTCHA to get an unsuspecting user to download and run a malicious program.",
       "url": "https://www.schneier.com/blog/archives/2026/09/fake-captcha-scams.html",
@@ -198,12 +204,6 @@
       "description": "[SCHNEIER] This essay was written with Cindy Cohn, and originally appeared in Lawfare. One of the many legacies of the terrorist attacks of Sept. 11 is the government-wide shift from targeted surveillance&#8212;such as individual wiretaps or pen register/trap...",
       "url": "https://www.schneier.com/blog/archives/2026/09/25-years-of-mass-surveillance-is-enough.html",
       "date": "2026-09-15T11:01:41Z"
-    },
-    {
-      "title": "On the NSA\u2019s Supercomputer from the 1960s",
-      "description": "[SCHNEIER] Really interesting story about Harvest, a specialized code breaking computer built in the 1960s by IBM for the NSA.",
-      "url": "https://www.schneier.com/blog/archives/2026/09/on-the-nsas-supercomputer-from-the-1960s.html",
-      "date": "2026-09-15T10:16:24Z"
     }
   ]
 }
