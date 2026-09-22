@@ -1,8 +1,20 @@
 {
-  "updated": "2026-09-22 20:39:14 UTC",
+  "updated": "2026-09-22 23:54:43 UTC",
   "news": [
     {
-      "title": "Chinese hackers exploit multiple technologies to steal govt data",
+      "title": "Rogue external MFA providers can steal passwords during logins",
+      "description": "[BLEEPINGCOMPUTER] Security researchers developed an attack that lets hackers with privileged access register a rogue external MFA provider that steals users' passwords during legitimate login attempts. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/rogue-external-mfa-providers-can-steal-passwords-during-logins/",
+      "date": "2026-09-22T21:45:45Z"
+    },
+    {
+      "title": "Sweden fines Milj\u00f6data $183,000 over breach affecting 2.2 million",
+      "description": "[BLEEPINGCOMPUTER] Sweden's data privacy regulator, IMY, has imposed a $183,000 (SEK 1.8 million) fine on IT systems provider Milj\u00f6data for inadequate security measures leading to a breach in August 2025 affecting 2.2 million people. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/sweden-fines-milj-data-183-000-over-breach-affecting-22-million/",
+      "date": "2026-09-22T21:40:37Z"
+    },
+    {
+      "title": "Chinese hackers exploit WordPress, Zyxel flaws to steal govt data",
       "description": "[BLEEPINGCOMPUTER] A Chinese-speaking threat actor has been exploiting vulnerabilities in ZyXEL GS1900 Smart Managed Switches and WordPress to steal sensitive data from 996 devices and more than 18,500 records stored in backend databases. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/chinese-hackers-exploit-multiple-technologies-to-steal-govt-data/",
       "date": "2026-09-22T20:35:24Z"
@@ -62,22 +74,10 @@
       "date": "2026-09-22T16:41:12Z"
     },
     {
-      "title": "Check Point warns of Management Server zero-day exploited in attacks",
-      "description": "[BLEEPINGCOMPUTER] Check Point Software released emergency hotfixes to address a critical Security Management Server vulnerability that could let attackers run arbitrary scripts. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/check-point-patches-management-server-zero-day-exploited-in-attacks/",
-      "date": "2026-09-22T16:32:47Z"
-    },
-    {
       "title": "Researcher Drops BigDiskBuster Zero-Day PoC That Blocks Microsoft Defender Updates",
       "description": "[FEEDS] A zero-day proof-of-concept tool that stops Microsoft Defender from installing platform and signature updates by filling all available disk space was&nbsp;published on GitHub&nbsp;on September 19. The tool, called BigDiskBuster, has no patch, no...",
       "url": "https://thehackernews.com/2026/09/researcher-drops-bigdiskbuster-zero-day.html",
       "date": "2026-09-22T16:14:04Z"
-    },
-    {
-      "title": "EvilTokens PhaaS disrupted after compromising 12,000 Microsoft accounts",
-      "description": "[BLEEPINGCOMPUTER] The EvilTokens platform that compromised more than 12,000 Microsoft accounts at over 10,000 organizations has been disrupted in an effort led by Microsoft's Digital Crimes Unit (DCU). [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/eviltokens-phaas-disrupted-after-compromising-12-000-microsoft-accounts/",
-      "date": "2026-09-22T15:00:00Z"
     },
     {
       "title": "LausivLoader analysis, or how to pass data between malware stages, (Thu, Sep 17th)",
@@ -86,10 +86,58 @@
       "date": "2026-09-22T13:10:20Z"
     },
     {
+      "title": "Bench Mark Infotech Services Limited To Launch IPO On NSE Emerge; Offer Opens September 25, 2026",
+      "description": "[OUTLOOK BUSINESS] Bench Mark Infotech provides IT and digital infrastructure solutions across networking, fibre optics, data centres, cloud, AI infrastructure and cybersecurity.",
+      "url": "https://www.outlookbusiness.com/spotlight/news-wire/bench-mark-infotech-services-limited-to-launch-ipo-on-nse-emerge-offer-opens-september-25-2026",
+      "date": "2026-09-22T11:38:17Z"
+    },
+    {
+      "title": "Before You Bank Abroad: A Digital Safety Checklist for Indian Business Travellers",
+      "description": "[LIVEMINT] When banking abroad, secure your device, check banking contacts, and confirm registered mobile information. Scammers often exploit travel-related urgency. Always verify messages and maintain good cybersecurity practices to protect your banking...",
+      "url": "https://www.livemint.com/brand-stories/before-you-bank-abroad-a-digital-safety-checklist-for-indian-business-travellers-11790076053986.html",
+      "date": "2026-09-22T11:25:08Z"
+    },
+    {
+      "title": "Cybersecurity enters quantum age as Global Quantum X launches at GISEC",
+      "description": "[TECHBULLION] Global Quantum X by GITEX will launch alongside GISEC Global 2027 in Dubai, bringing quantum technology, cybersecurity, post quantum security and global industry leaders together.",
+      "url": "https://techbullion.com/cybersecurity-enters-quantum-age-as-global-quantum-x-launches-at-gisec/",
+      "date": "2026-09-22T11:14:16Z"
+    },
+    {
       "title": "GPT-6 Astra Breaks an Old Enigma Message",
       "description": "[SCHNEIER] This is pretty amazing: However, the most astonishing thing about this break is that the GPT\u00ad6 Astra did it entirely on its own. Carter Leffer only directed GPT\u00ad6 Astra to see if it could break any of the unbroken Enigma messages published on the...",
       "url": "https://www.schneier.com/blog/archives/2026/09/gpt-6-astra-breaks-an-old-enigma-message.html",
       "date": "2026-09-22T11:02:45Z"
+    },
+    {
+      "title": "Anthropic, OpenAI Breaches Show Enterprises Must Assume Breach Mindset For Cybersecurity Going Forward",
+      "description": "[INTERNATIONAL BUSINESS TIMES] The ability of models like Claude, and Mythos to chain together vulnerabilities makes it much more difficult for enterprises to prevent security incidents.",
+      "url": "https://www.ibtimes.com/anthropic-openai-breaches-show-enterprises-must-assume-breach-mindset-cybersecurity-going-forward-3807710",
+      "date": "2026-09-22T10:42:01Z"
+    },
+    {
+      "title": "Object First Survey: Nearly Two-Thirds of UK IT Professionals Say AI-Powered Cyber Threats Increase Workplace Stress",
+      "description": "[PR NEWSWIRE UK] /PRNewswire/ -- Object First, the ransomware-proof on-premises backup storage company, today released UK findings from its second annual Under Pressure: Mental...",
+      "url": "https://www.prnewswire.co.uk/news-releases/object-first-survey-nearly-two-thirds-of-uk-it-professionals-say-ai-powered-cyber-threats-increase-workplace-stress-302871465.html",
+      "date": "2026-09-22T10:00:00Z"
+    },
+    {
+      "title": "Manchester Airport Attack Exposes Data Governance Gaps",
+      "description": "[EUROPE SAYS] A customer data breach does not need to start in the CRM to become a customer experience crisis.",
+      "url": "https://www.europesays.com/3265965/",
+      "date": "2026-09-22T09:21:17Z"
+    },
+    {
+      "title": "GISEC Global 2026 Concludes With Quantum Resilience, AI Security and Next Generation Cyber Defenders",
+      "description": "[TECHBULLION] GISEC Global 2026 concludes in Dubai, highlighting quantum resilience, AI enabled cybercrime, operational resilience, cyber sovereignty and the next generation of cybersecurity talent.",
+      "url": "https://techbullion.com/gisec-global-2026-concludes-with-quantum-resilience-ai-security-and-next-generation-cyber-defenders/",
+      "date": "2026-09-22T09:00:16Z"
+    },
+    {
+      "title": "Economic Times Product of the Year Awards 2026: Recognising cybersecurity products that make security measurable",
+      "description": "[THE ECONOMIC TIMES] With the digitization of businesses in India, cybersecurity challenges have become more intricate, highlighting the need for effective solutions that deliver measurable benefits. The Economic Times Product of the Year Awards 2026 spotlights the...",
+      "url": "https://economictimes.indiatimes.com/et-awards/product-of-the-year/economic-times-product-of-the-year-awards-2026-recognising-cybersecurity-products-that-make-security-measurable/articleshow/134407437.cms",
+      "date": "2026-09-22T08:48:00Z"
     },
     {
       "title": "Surepass Launches DeepID Behaviour to Expose Hidden Fraud Beyond Verified Credentials",
@@ -104,58 +152,10 @@
       "date": "2026-09-22T08:32:23Z"
     },
     {
-      "title": "Member states\u2019 failure to share info creating security gaps, finds auditors",
-      "description": "[SILICONREPUBLIC.COM] The ECA has found that a failure to share information across EU member states is leading to large gaps in cybersecurity.",
-      "url": "https://www.siliconrepublic.com/enterprise/member-states-failure-share-info-creating-cybersecurity-gaps-auditors-eca",
-      "date": "2026-09-22T08:30:15Z"
-    },
-    {
-      "title": "Meta Muse: Decoding the hype, complaints and controversies around Meta\u2019s AI agent",
-      "description": "[THE FINANCIAL EXPRESS] Meta's AI agent Muse quickly soared in popularity but faced setbacks with Amazon blocking its access and a critical macOS zero-day vulnerability exposing user data risks. Meta hasn\u2019t publicly responded yet.",
-      "url": "https://www.financialexpress.com/life/technology-meta-muse-decoding-the-hype-complaints-and-controversies-around-metas-ai-agent-4344593/",
-      "date": "2026-09-22T08:23:01Z"
-    },
-    {
-      "title": "How 3 Indian-origin researchers used Claude to breach OpenAI systems",
-      "description": "[THE NEWS MINUTE] Researchers from cybersecurity startup Hacktron AI used Anthropic\u2019s Claude to exploit vulnerabilities in OpenAI\u2019s systems during an authorised security test, ga",
-      "url": "https://www.thenewsminute.com/news/how-3-indian-origin-researchers-used-claude-to-breach-openai-systems",
-      "date": "2026-09-22T07:17:30Z"
-    },
-    {
-      "title": "The price of innovation: why UPI needs revenue to stay free",
-      "description": "[LIVEMINT] As UPI enters a new phase of scale, a 0.4% MDR on larger merchant payments aims to fund infrastructure, cybersecurity and innovation while keeping most transactions free.",
-      "url": "https://www.livemint.com/money/upi-mdr-framework-merchant-charges-sustainability-11790051967026.html",
-      "date": "2026-09-22T06:50:01Z"
-    },
-    {
-      "title": "Zyxel and Veeam Flaws Under Active Exploitation With Command and SYSTEM Access",
-      "description": "[THE HACKER NEWS] CISA added Zyxel CVE-2026-7273 to KEV after active exploitation, while Arctic Wolf reported attacks on a Veeam Windows flaw.",
-      "url": "https://thehackernews.com/2026/09/zyxel-and-veeam-flaws-under-active.html",
-      "date": "2026-09-22T05:31:00Z"
-    },
-    {
-      "title": "Dragos Acquires NetRise and runZero to Expand its Industry Defining xOT Cybersecurity Platform",
-      "description": "[ITWIRE] With the close of Accenture's majority investment, Dragos extends to exposure management and software supply chain security, Robert M. Lee is named Chairman in addition to CEO",
-      "url": "https://itwire.com/it-industry-news/deals/dragos-acquires-netrise-and-runzero-to-expand-its-industry-defining-xot-cybersecurity-platform",
-      "date": "2026-09-22T05:28:16Z"
-    },
-    {
       "title": "ISC Stormcast For Tuesday, September 22nd, 2026 https://isc.sans.edu/podcastdetail/10104, (Tue, Sep 22nd)",
       "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
       "url": "https://isc.sans.edu/diary/rss/33356",
       "date": "2026-09-22T03:50:10Z"
-    },
-    {
-      "title": "Linux users beware - CISA flags three major security issues you need to patch right now",
-      "description": "[TECHRADAR] Two flaws have available mitigations, too",
-      "url": "https://www.techradar.com/pro/security/linux-users-beware-cisa-flags-three-major-security-issues-you-need-to-patch-right-now",
-      "date": "2026-09-22T01:35:00Z"
-    },
-    {
-      "title": "Canadian investigation launched into data breach that exposed millions of IDs",
-      "description": "[CBC.CA] Canada's privacy commissioner has launched an investigation into a data breach at IDScan.net that potentially exposed details from millions of driver's licences and other kinds of government-issued identification from Canada and the U.S.",
-      "url": "https://www.cbc.ca/news/canada/idscan-net-data-breach-id-canada-9.7352859",
-      "date": "2026-09-21T23:22:58Z"
     },
     {
       "title": "Reverse-Engineering Flock Cameras",
