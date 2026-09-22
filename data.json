@@ -1,6 +1,60 @@
 {
-  "updated": "2026-09-22 07:02:46 UTC",
+  "updated": "2026-09-22 12:56:08 UTC",
   "news": [
+    {
+      "title": "D-Link warns of max severity zero-day bug in DIR-822A routers",
+      "description": "[BLEEPINGCOMPUTER] D-Link warned customers of a maximum-severity vulnerability (CVE-2026-86296) with public proof-of-concept (PoC) exploit code and no patch, affecting legacy DIR-822A dual-band Wi-Fi routers. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/d-link-warns-of-max-severity-zero-day-bug-in-dir-822a-routers/",
+      "date": "2026-09-22T12:48:06Z"
+    },
+    {
+      "title": "DORA Year Two: Can Your SOC Actually See the Attack?",
+      "description": "[FEEDS] When the Digital Operational Resilience Act (DORA) became enforceable across the European Union in January 2025, it triggered an administrative sprint. Financial entities spent the first year establishing risk governance, assessing third-party...",
+      "url": "https://thehackernews.com/2026/09/dora-year-two-can-your-soc-actually-see.html",
+      "date": "2026-09-22T11:45:00Z"
+    },
+    {
+      "title": "New Linux Kernel Flaw Gives ARM64 KVM Guests Read-Write Access to Host Memory",
+      "description": "[FEEDS] A new flaw in the Linux kernel's KVM virtualization code for ARM64 processors can leave a freed piece of host memory exposed to a guest virtual machine on hosts with nested virtualization enabled. The bug, tracked as&nbsp;CVE-2026-89775, allows a...",
+      "url": "https://thehackernews.com/2026/09/new-linux-kernel-flaw-gives-arm64-kvm.html",
+      "date": "2026-09-22T11:38:40Z"
+    },
+    {
+      "title": "SharePoint Flaw Initially Listed as Spoofing by Microsoft Enables Authenticated RCE",
+      "description": "[FEEDS] A SharePoint Server vulnerability that Microsoft initially classified as a spoofing flaw with a CVSS score of 6.5 actually enables authenticated remote code execution, according to&nbsp;full technical details&nbsp;published today by Viettel Cyber...",
+      "url": "https://thehackernews.com/2026/09/sharepoint-flaw-initially-listed-as.html",
+      "date": "2026-09-22T11:17:41Z"
+    },
+    {
+      "title": "GPT-6 Astra Breaks an Old Enigma Message",
+      "description": "[SCHNEIER] This is pretty amazing: However, the most astonishing thing about this break is that the GPT\u00ad6 Astra did it entirely on its own. Carter Leffer only directed GPT\u00ad6 Astra to see if it could break any of the unbroken Enigma messages published on the...",
+      "url": "https://www.schneier.com/blog/archives/2026/09/gpt-6-astra-breaks-an-old-enigma-message.html",
+      "date": "2026-09-22T11:02:45Z"
+    },
+    {
+      "title": "New Windows Defender zero-day blocks Microsoft antivirus updates",
+      "description": "[BLEEPINGCOMPUTER] Over the weekend, security researcher Abdelhamid Naceri (also known as Nightmare Eclipse) released another Microsoft Defender zero-day exploit that blocks antivirus updates. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/new-windows-defender-zero-day-blocks-microsoft-antivirus-updates/",
+      "date": "2026-09-22T09:55:11Z"
+    },
+    {
+      "title": "Malicious npm Package indexed-btree Hid Its Loader in Runtime Code Before Removal",
+      "description": "[FEEDS] A malicious npm package named \"indexed-btree\" has been observed hiding its malicious behavior within application code rather than using lifecycle scripts, indicating that threat actors are likely shifting tactics in response to recent security...",
+      "url": "https://thehackernews.com/2026/09/malicious-npm-package-indexed-btree-hid.html",
+      "date": "2026-09-22T09:38:18Z"
+    },
+    {
+      "title": "CISA orders feds to patch Zyxel flaw exploited for data theft",
+      "description": "[BLEEPINGCOMPUTER] \u200bAttackers are now actively exploiting a high-severity vulnerability in Zyxel GS1900 series switches, according to the U.S. Cybersecurity and Infrastructure Security Agency (CISA). [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-zyxel-flaw-by-thursday/",
+      "date": "2026-09-22T08:53:09Z"
+    },
+    {
+      "title": "SideCopy Broadens India Targeting to Academia With ReverseRAT Spear-Phishing",
+      "description": "[FEEDS] The threat actor known as SideCopy has been observed using spear-phishing lures to target academic institutions in India, expanding their strategic focus beyond government entities. \"SideCopy campaign operations typically initiate through...",
+      "url": "https://thehackernews.com/2026/09/sidecopy-broadens-india-targeting-to.html",
+      "date": "2026-09-22T07:52:03Z"
+    },
     {
       "title": "One Hidden Meta Muse Setting Could Let Attackers Turn the AI Assistant Into a Backdoor",
       "description": "[FEEDS] Malware already running on a Mac can quietly take over Meta's Muse assistant and use the broad access its owner granted the app, security researcher Patrick Wardle has shown in a&nbsp;proof-of-concept&nbsp;released on September 21. It works by...",
@@ -8,22 +62,22 @@
       "date": "2026-09-22T06:33:57Z"
     },
     {
-      "title": "WordPress Comment2Shell Flaw Can Turn Anonymous Comment XSS Into RCE via Admin Session",
-      "description": "[FEEDS] A new flaw in WordPress core let an anonymous visitor leave a comment that planted a hidden script on the page. If a logged-in administrator later opened that page, the script could run code on the site's server. WordPress fixed the flaw, tracked...",
-      "url": "https://thehackernews.com/2026/09/wordpress-comment2shell-flaw-can-turn.html",
-      "date": "2026-09-22T06:03:14Z"
-    },
-    {
-      "title": "Zyxel and Veeam Flaws Under Active Exploitation With Command and SYSTEM Access",
-      "description": "[FEEDS] The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a now-patched security flaw impacting Zyxel GS1900 series switches to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The...",
-      "url": "https://thehackernews.com/2026/09/zyxel-and-veeam-flaws-under-active.html",
-      "date": "2026-09-22T05:31:59Z"
-    },
-    {
       "title": "ISC Stormcast For Tuesday, September 22nd, 2026 https://isc.sans.edu/podcastdetail/10104, (Tue, Sep 22nd)",
       "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
       "url": "https://isc.sans.edu/diary/rss/33356",
       "date": "2026-09-22T03:50:10Z"
+    },
+    {
+      "title": "Canadian investigation launched into data breach that exposed millions of IDs",
+      "description": "[CBC.CA] Canada's privacy commissioner has launched an investigation into a data breach at IDScan.net that potentially exposed details from millions of driver's licences and other kinds of government-issued identification from Canada and the U.S.",
+      "url": "https://www.cbc.ca/news/canada/idscan-net-data-breach-id-canada-9.7352859",
+      "date": "2026-09-21T23:22:58Z"
+    },
+    {
+      "title": "Commentary: Tata data leak a setback for \u2018Make in India\u2019 ambitions, but it\u2019s not a verdict",
+      "description": "[CNA] The Tata data breach is a reminder that qualities such as cybersecurity, are now as much a part of manufacturing competitiveness as infrastructure and labour costs, says University of Delhi\u2019s Aasheerwad Dwivedi.",
+      "url": "https://www.channelnewsasia.com/commentary/india-tata-apple-tesla-data-breach-partner-outside-china-6385231",
+      "date": "2026-09-21T22:00:00Z"
     },
     {
       "title": "BigCommerce alerts merchants of data breach linked to Ribon apps",
@@ -38,6 +92,12 @@
       "date": "2026-09-21T20:12:17Z"
     },
     {
+      "title": "Law firm Greenberg Traurig faces class actions after cyber breach",
+      "description": "[REUTERS] US law firm Greenberg Traurig has been sued in federal court in Manhattan following its disclosure this month of a data breach that exposed sensitive personal information, \u200badding to a growing list of lawsuits against law firms and other companies...",
+      "url": "https://www.reuters.com/legal/government/law-firm-greenberg-traurig-faces-class-actions-after-cyber-breach-2026-09-21/",
+      "date": "2026-09-21T19:08:06Z"
+    },
+    {
       "title": "WordPress Click2Shell flaw lets hackers execute PHP on the server",
       "description": "[BLEEPINGCOMPUTER] Technical details and a proof-of-concept exploit have been published for a new WordPress cross-site request forgery (CSRF) vulnerability dubbed 'Click2Shell' that affects the platform's Core component. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/wordpress-click2shell-flaw-lets-hackers-execute-php-on-the-server/",
@@ -50,34 +110,10 @@
       "date": "2026-09-21T18:03:25Z"
     },
     {
-      "title": "Microsoft to retire Microsoft 365 Companion apps in December",
-      "description": "[BLEEPINGCOMPUTER] Microsoft will retire the Calendar, People, and Files Microsoft 365 companion apps on December 16 and has asked admins to remove them from managed devices. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-retire-microsoft-365-companion-apps-in-december/",
-      "date": "2026-09-21T17:54:49Z"
-    },
-    {
-      "title": "Fake LastPass Authenticator Installer Abuses Microsoft-Signed Driver to Kill Antivirus and EDR",
-      "description": "[FEEDS] A fake LastPass Authenticator installer offered on GitHub installs a Windows kernel driver that shuts off antivirus and other security software before a password stealer runs if a victim downloads and runs it, researchers at LastPass and Delphos...",
-      "url": "https://thehackernews.com/2026/09/fake-lastpass-authenticator-installer.html",
-      "date": "2026-09-21T17:31:01Z"
-    },
-    {
       "title": "Maharashtra Forms AI Governance Committee To Transform Higher & Technical Education System",
       "description": "[FREE PRESS JOURNAL] The Maharashtra government has constituted a 10-member AI Data Analytics and Dashboard Governance Committee to integrate artificial intelligence and predictive analytics into higher and technical education administration. The panel will analyse...",
       "url": "https://www.freepressjournal.in/education/maharashtra-forms-ai-governance-committee-to-transform-higher-technical-education-system",
       "date": "2026-09-21T17:23:24Z"
-    },
-    {
-      "title": "Contagious Interview Campaign Compromises 30,000 Devices, Steals $10.71M in Crypto",
-      "description": "[FEEDS] The North Korean threat actors behind the Contagious Interview campaign have compromised at least 30,000 devices located in more than 100 countries and siphoned funds or account credentials from over 7,000 cryptocurrency wallets, according to a new...",
-      "url": "https://thehackernews.com/2026/09/contagious-interview-campaign.html",
-      "date": "2026-09-21T17:19:00Z"
-    },
-    {
-      "title": "Google Fined \u20ac403 Million Over GDPR Violations Tied to Location Data",
-      "description": "[FEEDS] Google has been&nbsp;fined \u20ac403 million&nbsp;for breaking the EU's data protection law, the GDPR, in the way three of its features handled people's location data from May 2018 to February 2020. Ireland's Data Protection Commission (DPC), Google's...",
-      "url": "https://thehackernews.com/2026/09/google-fined-403-million-over-gdpr.html",
-      "date": "2026-09-21T16:57:31Z"
     },
     {
       "title": "Google confirms Gemini models hacked three companies in May 2026",
@@ -98,22 +134,10 @@
       "date": "2026-09-21T15:43:44Z"
     },
     {
-      "title": "Google fined \u20ac403 million over location data privacy violations",
-      "description": "[BLEEPINGCOMPUTER] Ireland's Data Protection Commission (DPC) has fined Google \u20ac403 million ($463M) for multiple GDPR violations related to processing users' location data. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/google-fined-403-million-over-location-data-privacy-violations/",
-      "date": "2026-09-21T15:41:22Z"
-    },
-    {
       "title": "Auditors find EU cyber\u2011attack response is weakened by overlapping systems and secretive member states",
       "description": "[EUOBSERVER] Europe spent billions building a common cybersecurity defence. Yet a new audit has found that when a major cyber incident strikes, the EU\u2019s response is not united.",
       "url": "https://euobserver.com/238732/auditors-find-eu-cyberattack-response-is-weakened-by-overlapping-systems-and-secretive-member-states/",
       "date": "2026-09-21T15:00:00Z"
-    },
-    {
-      "title": "Microsoft fixes broken Excel copy and paste for all Office users",
-      "description": "[BLEEPINGCOMPUTER] Microsoft has fixed a known issue that causes copy-and-paste failures for Excel users after installing the September 2026 security updates. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-broken-excel-copy-and-paste-for-all-office-users/",
-      "date": "2026-09-21T14:42:37Z"
     },
     {
       "title": "EU fines Google 403 million euros for location data breach",
@@ -126,24 +150,6 @@
       "description": "[SCHNEIER] Hackers captured a Flock camera and got a look (alternate link) at the software: While much of the automatic license plate reader&#8217;s (ALPR) most sensitive storage remained encrypted and inaccessible, the joint analysis of the recovered data...",
       "url": "https://www.schneier.com/blog/archives/2026/09/reverse-engineering-flock-cameras.html",
       "date": "2026-09-21T14:37:45Z"
-    },
-    {
-      "title": "Belgium's Aikido launches cybersecurity AI model as demand for local tools grows",
-      "description": "[THE STAR] Sept 21 (Reuters) - \u2060Belgian cybersecurity firm Aikido \u2060on Monday released an open-weight \u200cartificial intelligence model designed for cybersecurity applications, seeking to help companies use \u200bAI security tools \u2060without sending sensitive \u2060code to...",
-      "url": "https://www.thestar.com.my/tech/tech-news/2026/09/21/belgium039s-aikido-launches-cybersecurity-ai-model-as-demand-for-local-tools-grows",
-      "date": "2026-09-21T14:27:00Z"
-    },
-    {
-      "title": "Belgium's Aikido launches cybersecurity AI model as demand for local tools grows",
-      "description": "[REUTERS] Belgian cybersecurity firm Aikido on Monday released an \u200bopen-weight artificial intelligence model \u200cdesigned for cybersecurity applications, seeking to help companies use AI \u200bsecurity tools without \u200bsending sensitive code to external \u2060providers.",
-      "url": "https://www.reuters.com/legal/litigation/belgiums-aikido-launches-cybersecurity-ai-model-demand-local-tools-grows-2026-09-21/",
-      "date": "2026-09-21T14:14:48Z"
-    },
-    {
-      "title": "Gemini hacked three companies in first known breakout by Google's AI",
-      "description": "[THE DALLAS MORNING NEWS] Google's Gemini model accessed the internet and hacked other companies during a test of its cybersecurity capabilities.",
-      "url": "https://www.dallasnews.com/business/technology/article/gemini-hacked-three-companies-first-known-22441667.php",
-      "date": "2026-09-21T14:01:25Z"
     },
     {
       "title": "TerminalFix: PNG Steganography, (Mon, Sep 21st)",
@@ -198,12 +204,6 @@
       "description": "[SCHNEIER] New variant of an old scam: Use the framing of a CAPTCHA to get an unsuspecting user to download and run a malicious program.",
       "url": "https://www.schneier.com/blog/archives/2026/09/fake-captcha-scams.html",
       "date": "2026-09-16T11:25:26Z"
-    },
-    {
-      "title": "25 Years of Mass Surveillance Is Enough",
-      "description": "[SCHNEIER] This essay was written with Cindy Cohn, and originally appeared in Lawfare. One of the many legacies of the terrorist attacks of Sept. 11 is the government-wide shift from targeted surveillance&#8212;such as individual wiretaps or pen register/trap...",
-      "url": "https://www.schneier.com/blog/archives/2026/09/25-years-of-mass-surveillance-is-enough.html",
-      "date": "2026-09-15T11:01:41Z"
     }
   ]
 }
