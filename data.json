@@ -1,6 +1,48 @@
 {
-  "updated": "2026-09-22 17:49:35 UTC",
+  "updated": "2026-09-22 20:39:14 UTC",
   "news": [
+    {
+      "title": "Chinese hackers exploit multiple technologies to steal govt data",
+      "description": "[BLEEPINGCOMPUTER] A Chinese-speaking threat actor has been exploiting vulnerabilities in ZyXEL GS1900 Smart Managed Switches and WordPress to steal sensitive data from 996 devices and more than 18,500 records stored in backend databases. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/chinese-hackers-exploit-multiple-technologies-to-steal-govt-data/",
+      "date": "2026-09-22T20:35:24Z"
+    },
+    {
+      "title": "ShinyHunters claims FBI hack, data theft in PeopleSoft zero-day breach",
+      "description": "[BLEEPINGCOMPUTER] The ShinyHunters extortion gang claims it breached FBI systems using a new Oracle PeopleSoft zero-day vulnerability, gaining access to internal services and stealing sensitive data on employees and job applicants. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-claims-fbi-hack-data-theft-in-peoplesoft-zero-day-breach/",
+      "date": "2026-09-22T19:13:29Z"
+    },
+    {
+      "title": "The Truth about GET and HTTP Standards, (Tue, Sep 22nd)",
+      "description": "[ISC] On Friday, Xavier talked about the newly introduced HTTP Query method. This new method was introduced to allow \"GET\" requests that include a body. The main reason for this was that GET requests typically do not contain a body. But what if they...",
+      "url": "https://isc.sans.edu/diary/rss/33358",
+      "date": "2026-09-22T19:06:15Z"
+    },
+    {
+      "title": "Check Point Warns of Management Server Zero-Day Exploited in Targeted Attacks",
+      "description": "[FEEDS] Attackers exploited a previously unknown flaw in Check Point's Security Management Server in a handful of targeted attacks on July 23,&nbsp;the company said. The flaw, CVE-2026-93616, allows an attacker who can access the server's web service to run...",
+      "url": "https://thehackernews.com/2026/09/check-point-warns-of-management-server.html",
+      "date": "2026-09-22T18:29:39Z"
+    },
+    {
+      "title": "New ClosedQuorum Windows malware uses AI for attack decisions",
+      "description": "[BLEEPINGCOMPUTER] A new Windows malware named ClosedQuorum uses Google Gemini, DeepSeek, Qwen, and Mistral AI models to autonomously determine the actions to take during post-compromise stages of an attack. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/new-closedquorum-windows-malware-uses-ai-for-attack-decisions/",
+      "date": "2026-09-22T18:04:39Z"
+    },
+    {
+      "title": "WordPress Issues Patch for Critical Flaw That Can Enable Code Execution on Some Servers",
+      "description": "[FEEDS] WordPress has fixed a critical flaw in its core software that lets an attacker with no account make a site load a PHP file from outside its theme folders. On some servers, that can go further, allowing the attacker to run their own code. The fix...",
+      "url": "https://thehackernews.com/2026/09/wordpress-issues-patch-for-critical.html",
+      "date": "2026-09-22T18:03:10Z"
+    },
+    {
+      "title": "Malicious npm Package Poses as Twilio Bug-Bounty Probe, Can Exfiltrate Credentials",
+      "description": "[FEEDS] Cybersecurity researchers have disclosed details of a malicious npm package named \"tw-pkgprobe-7731\" that masquerades as a security tool targeting developers integrating Twilio into their applications, while stealthily attempting to harvest...",
+      "url": "https://thehackernews.com/2026/09/malicious-npm-package-poses-as-twilio.html",
+      "date": "2026-09-22T17:58:15Z"
+    },
     {
       "title": "Reducing shadow IT visibility gaps with Wazuh",
       "description": "[BLEEPINGCOMPUTER] Shadow IT can leave security teams unaware of unmanaged endpoints, unauthorized software, and other assets that fall outside existing monitoring. Wazuh explains how endpoint inventory, agentless monitoring, and centralized analysis can help...",
@@ -38,46 +80,10 @@
       "date": "2026-09-22T15:00:00Z"
     },
     {
-      "title": "The Truth about GET and HTTP Standards, (Tue, Sep 22nd)",
-      "description": "[ISC] On Friday, Xavier talked about the newly introduced HTTP Query method. This new method was introduced to allow \"GET\" requests that include a body. The main reason for this was that GET requests typically do not contain a body. But what if they...",
-      "url": "https://isc.sans.edu/diary/rss/33358",
-      "date": "2026-09-22T14:48:38Z"
-    },
-    {
       "title": "LausivLoader analysis, or how to pass data between malware stages, (Thu, Sep 17th)",
       "description": "[ISC] At the end of August, a malspam message was caught in the quarantine of a mail gateway operated by one of my customers. The message was not especially remarkable &#xe2;&#x20ac;&#x201c; it asked the recipient to review some attached requirements and...",
       "url": "https://isc.sans.edu/diary/rss/33348",
       "date": "2026-09-22T13:10:20Z"
-    },
-    {
-      "title": "Webinar tomorrow: Inside real-world Google Workspace breaches",
-      "description": "[BLEEPINGCOMPUTER] Tomorrow's webinar examines real Google Workspace breaches involving social engineering and malicious OAuth applications, from initial access through the critical first hours of incident response. Learn which security controls and response decisions...",
-      "url": "https://www.bleepingcomputer.com/news/security/webinar-tomorrow-inside-real-world-google-workspace-breaches/",
-      "date": "2026-09-22T12:57:07Z"
-    },
-    {
-      "title": "D-Link warns of max severity zero-day bug in DIR-822A routers",
-      "description": "[BLEEPINGCOMPUTER] D-Link warned customers of a maximum-severity vulnerability (CVE-2026-86296) with public proof-of-concept (PoC) exploit code and no patch, affecting legacy DIR-822A dual-band Wi-Fi routers. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/d-link-warns-of-max-severity-zero-day-bug-in-dir-822a-routers/",
-      "date": "2026-09-22T12:48:06Z"
-    },
-    {
-      "title": "AI Agents Are Rewriting the Rules of Lateral Movement",
-      "description": "[FEEDS] Security teams have spent decades asking whether an identity has too much access. AI agents raise a harder question: how can we determine which paths an autonomous system can discover, given the access it already has? A person may try several ways...",
-      "url": "https://thehackernews.com/2026/09/ai-agents-are-rewriting-rules-of.html",
-      "date": "2026-09-22T12:30:00Z"
-    },
-    {
-      "title": "New CVSS 10.0 VeloCloud Orchestrator Flaw Actively Exploited in Certificate-Based Setups",
-      "description": "[FEEDS] Attackers are exploiting a new flaw in on-premises VeloCloud Orchestrator (VCO), the server that manages the Edge devices in a VeloCloud SD-WAN, Arista said on September 22. The flaw, tracked as CVE-2026-93952, may allow a remote attacker with no...",
-      "url": "https://thehackernews.com/2026/09/new-cvss-100-velocloud-orchestrator.html",
-      "date": "2026-09-22T12:29:00Z"
-    },
-    {
-      "title": "DORA Year Two: Can Your SOC Actually See the Attack?",
-      "description": "[FEEDS] When the Digital Operational Resilience Act (DORA) became enforceable across the European Union in January 2025, it triggered an administrative sprint. Financial entities spent the first year establishing risk governance, assessing third-party...",
-      "url": "https://thehackernews.com/2026/09/dora-year-two-can-your-soc-actually-see.html",
-      "date": "2026-09-22T11:45:00Z"
     },
     {
       "title": "GPT-6 Astra Breaks an Old Enigma Message",
@@ -86,10 +92,40 @@
       "date": "2026-09-22T11:02:45Z"
     },
     {
-      "title": "New Windows Defender zero-day blocks Microsoft antivirus updates",
-      "description": "[BLEEPINGCOMPUTER] Over the weekend, security researcher Abdelhamid Naceri (also known as Nightmare Eclipse) released another Microsoft Defender zero-day exploit that blocks antivirus updates. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/new-windows-defender-zero-day-blocks-microsoft-antivirus-updates/",
-      "date": "2026-09-22T09:55:11Z"
+      "title": "Surepass Launches DeepID Behaviour to Expose Hidden Fraud Beyond Verified Credentials",
+      "description": "[THE TRIBUNE] Mumbai (Maharashtra) [India], September 22: Surepass unveils DeepID Behaviour, a specialized device intelligence framework designed for cybersecurity and risk operations teams to flag and stop any anomalous activity beyond standard business...",
+      "url": "https://www.tribuneindia.com/news/business/surepass-launches-deepid-behaviour-to-expose-hidden-fraud-beyond-verified-credentials/",
+      "date": "2026-09-22T08:38:21Z"
+    },
+    {
+      "title": "Surepass Launches DeepID Behaviour to Expose Hidden Fraud Beyond Verified Credentials",
+      "description": "[ANI (ASIAN NEWS INTERNATIONAL)] Mumbai (Maharashtra) [India], September 22: Surepass unveils DeepID Behaviour, a specialized device intelligence framework designed for cybersecurity and risk operations teams to flag and stop any anomalous activity beyond standard business...",
+      "url": "https://www.aninews.in/news/business/surepass-launches-deepid-behaviour-to-expose-hidden-fraud-beyond-verified-credentials20260922140223/",
+      "date": "2026-09-22T08:32:23Z"
+    },
+    {
+      "title": "Member states\u2019 failure to share info creating security gaps, finds auditors",
+      "description": "[SILICONREPUBLIC.COM] The ECA has found that a failure to share information across EU member states is leading to large gaps in cybersecurity.",
+      "url": "https://www.siliconrepublic.com/enterprise/member-states-failure-share-info-creating-cybersecurity-gaps-auditors-eca",
+      "date": "2026-09-22T08:30:15Z"
+    },
+    {
+      "title": "Meta Muse: Decoding the hype, complaints and controversies around Meta\u2019s AI agent",
+      "description": "[THE FINANCIAL EXPRESS] Meta's AI agent Muse quickly soared in popularity but faced setbacks with Amazon blocking its access and a critical macOS zero-day vulnerability exposing user data risks. Meta hasn\u2019t publicly responded yet.",
+      "url": "https://www.financialexpress.com/life/technology-meta-muse-decoding-the-hype-complaints-and-controversies-around-metas-ai-agent-4344593/",
+      "date": "2026-09-22T08:23:01Z"
+    },
+    {
+      "title": "How 3 Indian-origin researchers used Claude to breach OpenAI systems",
+      "description": "[THE NEWS MINUTE] Researchers from cybersecurity startup Hacktron AI used Anthropic\u2019s Claude to exploit vulnerabilities in OpenAI\u2019s systems during an authorised security test, ga",
+      "url": "https://www.thenewsminute.com/news/how-3-indian-origin-researchers-used-claude-to-breach-openai-systems",
+      "date": "2026-09-22T07:17:30Z"
+    },
+    {
+      "title": "The price of innovation: why UPI needs revenue to stay free",
+      "description": "[LIVEMINT] As UPI enters a new phase of scale, a 0.4% MDR on larger merchant payments aims to fund infrastructure, cybersecurity and innovation while keeping most transactions free.",
+      "url": "https://www.livemint.com/money/upi-mdr-framework-merchant-charges-sustainability-11790051967026.html",
+      "date": "2026-09-22T06:50:01Z"
     },
     {
       "title": "Zyxel and Veeam Flaws Under Active Exploitation With Command and SYSTEM Access",
@@ -120,42 +156,6 @@
       "description": "[CBC.CA] Canada's privacy commissioner has launched an investigation into a data breach at IDScan.net that potentially exposed details from millions of driver's licences and other kinds of government-issued identification from Canada and the U.S.",
       "url": "https://www.cbc.ca/news/canada/idscan-net-data-breach-id-canada-9.7352859",
       "date": "2026-09-21T23:22:58Z"
-    },
-    {
-      "title": "Commentary: Tata data leak a setback for \u2018Make in India\u2019 ambitions, but it\u2019s not a verdict",
-      "description": "[CNA] The Tata data breach is a reminder that qualities such as cybersecurity, are now as much a part of manufacturing competitiveness as infrastructure and labour costs, says University of Delhi\u2019s Aasheerwad Dwivedi.",
-      "url": "https://www.channelnewsasia.com/commentary/india-tata-apple-tesla-data-breach-partner-outside-china-6385231",
-      "date": "2026-09-21T22:00:00Z"
-    },
-    {
-      "title": "Law firm Greenberg Traurig faces class actions after cyber breach",
-      "description": "[REUTERS] US law firm Greenberg Traurig has been sued in federal court in Manhattan following its disclosure this month of a data breach that exposed sensitive personal information, \u200badding to a growing list of lawsuits against law firms and other companies...",
-      "url": "https://www.reuters.com/legal/government/law-firm-greenberg-traurig-faces-class-actions-after-cyber-breach-2026-09-21/",
-      "date": "2026-09-21T19:08:06Z"
-    },
-    {
-      "title": "Poor data sharing undermining EU cyber defences, auditors say",
-      "description": "[THE ECONOMIC TIMES] The 27-nation bloc was investing more and more in cybersecurity - with \u20ac1.4 billion ($1.61 billion) in its current budget - and improving cooperation, according to the court, which reports on how effectively the EU spends money.",
-      "url": "https://economictimes.indiatimes.com/tech/technology/poor-data-sharing-undermining-eu-cyber-defences-auditors-say/articleshow/134395836.cms",
-      "date": "2026-09-21T18:03:25Z"
-    },
-    {
-      "title": "Maharashtra Forms AI Governance Committee To Transform Higher & Technical Education System",
-      "description": "[FREE PRESS JOURNAL] The Maharashtra government has constituted a 10-member AI Data Analytics and Dashboard Governance Committee to integrate artificial intelligence and predictive analytics into higher and technical education administration. The panel will analyse...",
-      "url": "https://www.freepressjournal.in/education/maharashtra-forms-ai-governance-committee-to-transform-higher-technical-education-system",
-      "date": "2026-09-21T17:23:24Z"
-    },
-    {
-      "title": "Google confirms Gemini models hacked three companies in May 2026",
-      "description": "[ARS TECHNICA] A third-party cybersecurity firm accidentally gave experimental Gemini models access to the Internet.",
-      "url": "https://arstechnica.com/google/2026/09/google-confirms-gemini-models-hacked-three-companies-in-may-2026/",
-      "date": "2026-09-21T16:57:26Z"
-    },
-    {
-      "title": "Cybercrime civil war brewing? ShinyHunters reportedly hacks Cl0p ransomware gang and threatens further damage",
-      "description": "[TECHRADAR] Attack is a response to Cl0p's threats of violence and doxxing",
-      "url": "https://www.techradar.com/pro/security/cybercrime-civil-war-brewing-shinyhunters-reportedly-hacks-cl0p-ransomware-gang-and-threatens-further-damage",
-      "date": "2026-09-21T16:05:00Z"
     },
     {
       "title": "Reverse-Engineering Flock Cameras",
