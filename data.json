@@ -1,6 +1,48 @@
 {
-  "updated": "2026-09-23 02:27:08 UTC",
+  "updated": "2026-09-23 08:55:51 UTC",
   "news": [
+    {
+      "title": "F5 Patches Critical BIG-IP APM Zero-Day Exploited for Unauthenticated RCE on OAuth Servers",
+      "description": "[FEEDS] Attackers are exploiting a critical flaw in F5 BIG-IP Access Policy Manager (APM) that lets them run code on a BIG-IP system without logging in, F5 says. The flaw,&nbsp;CVE-2026-94127, affects only systems in which APM serves as an OAuth...",
+      "url": "https://thehackernews.com/2026/09/f5-patches-critical-big-ip-apm-zero-day.html",
+      "date": "2026-09-23T08:29:48Z"
+    },
+    {
+      "title": "Chinese Hackers Exploit Chrome-Windows Zero-Day Chain to Deploy CLEANGULP Malware",
+      "description": "[FEEDS] A Chinese threat actor codenamed UTA0565 has been observed exploiting the recently disclosed Google Chrome-Microsoft Windows exploit chain as zero-days through fake websites. The attacks, detected on September 3 and 4, 2026, involved the chaining of...",
+      "url": "https://thehackernews.com/2026/09/chinese-hackers-exploit-chrome-windows.html",
+      "date": "2026-09-23T08:29:24Z"
+    },
+    {
+      "title": "Ryuk ransomware member sentenced to 24 months in prison",
+      "description": "[BLEEPINGCOMPUTER] An Armenian man was sentenced to 24 months in prison and 3 years of supervised release for hacking U.S. companies and encrypting their systems in Ryuk ransomware attacks. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/ryuk-ransomware-member-sentenced-to-24-months-in-prison/",
+      "date": "2026-09-23T08:20:05Z"
+    },
+    {
+      "title": "F5 patches BIG-IP APM zero-day flaw exploited in RCE attacks",
+      "description": "[BLEEPINGCOMPUTER] F5 has released security updates to address a critical BIG-IP APM zero-day vulnerability being exploited in remote code execution attacks. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/f5-warns-of-big-ip-apm-remote-code-execution-zero-day-exploited-in-attacks/",
+      "date": "2026-09-23T07:17:23Z"
+    },
+    {
+      "title": "Critical Next.js ImageResponse Flaw Can Lead to Server Code Execution via Crafted SVG Input",
+      "description": "[FEEDS] A new security vulnerability in Next.js could allow attackers to run code on a server via&nbsp;ImageResponse, the feature that generates Open Graph and other social preview images, Vercel said. The risk applies when an app puts values an attacker...",
+      "url": "https://thehackernews.com/2026/09/critical-nextjs-imageresponse-flaw-can.html",
+      "date": "2026-09-23T07:04:40Z"
+    },
+    {
+      "title": "ShinyHunters Claims FBI Breach, Says It Stole Data on Agents and Job Applicants",
+      "description": "[FEEDS] The cyber extortion group known as ShinyHunters on Tuesday claimed it had breached the U.S. Federal Bureau of Investigation and stolen data belonging to current and former employees at the agency. \"We have compromised the FBI. We hold very sensitive...",
+      "url": "https://thehackernews.com/2026/09/shinyhunters-claims-fbi-breach-says-it.html",
+      "date": "2026-09-23T05:30:09Z"
+    },
+    {
+      "title": "ISC Stormcast For Wednesday, September 23rd, 2026 https://isc.sans.edu/podcastdetail/10106, (Wed, Sep 23rd)",
+      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
+      "url": "https://isc.sans.edu/diary/rss/33362",
+      "date": "2026-09-23T02:40:13Z"
+    },
     {
       "title": "Macfinger ClickFix campaign, (Tue, Sep 22nd)",
       "description": "[ISC] Introduction&#xd;",
@@ -26,6 +68,18 @@
       "date": "2026-09-22T20:35:24Z"
     },
     {
+      "title": "Meta patched Muse\u2019s zero-day, but security teams still lack visibility into what the agent can access",
+      "description": "[VENTUREBEAT] Meta patched a zero-day in Muse\u2019s Mac app, but VentureBeat found enterprise security teams still lack central visibility into the agent\u2019s access.",
+      "url": "https://venturebeat.com/security/meta-patched-muses-zero-day-but-security-teams-still-lack-visibility-into-what-the-agent-can-access",
+      "date": "2026-09-22T20:12:28Z"
+    },
+    {
+      "title": "AI, EVs, cybersecurity on course list as Haryana upgrades govt ITIs",
+      "description": "[TIMES OF INDIA] Haryana to upgrade 60 govt ITIs in 12 clusters under PM-SETU, adding AI, EV, drones, cybersecurity and more, with industry-led courses and placements.",
+      "url": "https://timesofindia.indiatimes.com/city/gurgaon/ai-evs-cybersecurity-on-course-list-as-haryana-upgrades-govt-itis/articleshow/134419996.cms",
+      "date": "2026-09-22T19:49:00Z"
+    },
+    {
       "title": "ShinyHunters claims FBI hack, data theft in PeopleSoft zero-day breach",
       "description": "[BLEEPINGCOMPUTER] The ShinyHunters extortion gang claims it breached FBI systems using a new Oracle PeopleSoft zero-day vulnerability, gaining access to internal services and stealing sensitive data on employees and job applicants. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-claims-fbi-hack-data-theft-in-peoplesoft-zero-day-breach/",
@@ -38,16 +92,16 @@
       "date": "2026-09-22T19:06:15Z"
     },
     {
+      "title": "3 guys hacked OpenAI using a rival Anthropic model. Here's what it shows about frontier labs' vulnerabilities.",
+      "description": "[CBS NEWS] Cybersecurity researchers from a small firm called Hacktron in India broke into OpenAI, showing how vulnerable frontier labs are.",
+      "url": "https://www.cbsnews.com/news/openai-hack-anthropic-claude-vulnerabilities/",
+      "date": "2026-09-22T18:53:47Z"
+    },
+    {
       "title": "Check Point Warns of Management Server Zero-Day Exploited in Targeted Attacks",
       "description": "[FEEDS] Attackers exploited a previously unknown flaw in Check Point's Security Management Server in a handful of targeted attacks on July 23,&nbsp;the company said. The flaw, CVE-2026-93616, allows an attacker who can access the server's web service to run...",
       "url": "https://thehackernews.com/2026/09/check-point-warns-of-management-server.html",
       "date": "2026-09-22T18:29:39Z"
-    },
-    {
-      "title": "New ClosedQuorum Windows malware uses AI for attack decisions",
-      "description": "[BLEEPINGCOMPUTER] A new Windows malware named ClosedQuorum uses Google Gemini, DeepSeek, Qwen, and Mistral AI models to autonomously determine the actions to take during post-compromise stages of an attack. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/new-closedquorum-windows-malware-uses-ai-for-attack-decisions/",
-      "date": "2026-09-22T18:04:39Z"
     },
     {
       "title": "WordPress Issues Patch for Critical Flaw That Can Enable Code Execution on Some Servers",
@@ -56,100 +110,46 @@
       "date": "2026-09-22T18:03:10Z"
     },
     {
-      "title": "Malicious npm Package Poses as Twilio Bug-Bounty Probe, Can Exfiltrate Credentials",
-      "description": "[FEEDS] Cybersecurity researchers have disclosed details of a malicious npm package named \"tw-pkgprobe-7731\" that masquerades as a security tool targeting developers integrating Twilio into their applications, while stealthily attempting to harvest...",
-      "url": "https://thehackernews.com/2026/09/malicious-npm-package-poses-as-twilio.html",
-      "date": "2026-09-22T17:58:15Z"
+      "title": "Palo Alto Networks taps Anthropic and OpenAI to automate corporate cyber defence",
+      "description": "[TIMES OF INDIA] Tech News News: Palo Alto Networks has announced an enterprise-grade cybersecurity service powered by artificial intelligence (AI) models from Anthropic and OpenAI, a.",
+      "url": "https://timesofindia.indiatimes.com/technology/tech-news/palo-alto-networks-taps-anthropic-and-openai-to-automate-corporate-cyber-defence/articleshow/134418333.cms",
+      "date": "2026-09-22T18:02:00Z"
     },
     {
-      "title": "Reducing shadow IT visibility gaps with Wazuh",
-      "description": "[BLEEPINGCOMPUTER] Shadow IT can leave security teams unaware of unmanaged endpoints, unauthorized software, and other assets that fall outside existing monitoring. Wazuh explains how endpoint inventory, agentless monitoring, and centralized analysis can help...",
-      "url": "https://www.bleepingcomputer.com/news/security/reducing-shadow-it-visibility-gaps-with-wazuh/",
-      "date": "2026-09-22T17:17:41Z"
+      "title": "TWO DAYS LEFT: Secure Your Complimentary Executive Pass for HMG Strategy's Detroit C-Level Technology Leadership Summit",
+      "description": "[THE LONDON FREE PRESS] Manufacturing, Automotive, Mobility and Technology Executives to Explore AI-Driven Innovation, Cybersecurity and Enterprise TransformationFAIRFIELD,",
+      "url": "https://lfpress.com/press-releases/globe-newswire/two-days-left-secure-your-complimentary-executive-pass-for-hmg-strategys-detroit-c-level-technology-leadership-summit/",
+      "date": "2026-09-22T17:19:46Z"
     },
     {
-      "title": "Microsoft Takes Down EvilTokens Device-Code Phishing Service Tied to 12,000 Inbox Compromises",
-      "description": "[FEEDS] Microsoft on Tuesday announced the takedown of the EvilTokens device code phishing service that it said used artificial intelligence (AI) \"at every step of the attack chain.\" The action, carried out with authorization from the U.S. District Court...",
-      "url": "https://thehackernews.com/2026/09/microsoft-takes-down-eviltokens-device.html",
-      "date": "2026-09-22T17:03:31Z"
+      "title": "TWO DAYS LEFT: Secure Your Complimentary Executive Pass for HMG Strategy's Detroit C-Level Technology Leadership Summit",
+      "description": "[THE KINGSTON WHIG-STANDARD] Manufacturing, Automotive, Mobility and Technology Executives to Explore AI-Driven Innovation, Cybersecurity and Enterprise TransformationFAIRFIELD,",
+      "url": "https://www.thewhig.com/press-releases/globe-newswire/two-days-left-secure-your-complimentary-executive-pass-for-hmg-strategys-detroit-c-level-technology-leadership-summit/",
+      "date": "2026-09-22T17:19:35Z"
     },
     {
-      "title": "Critical Bifrost AI Gateway Flaw Lets Attackers Run Commands Without Credentials",
-      "description": "[FEEDS] A critical vulnerability in&nbsp;Bifrost, an open-source AI gateway that routes requests to more than 20 LLM providers, allows an unauthenticated attacker to run arbitrary commands on the gateway server with a single HTTP request. The flaw, tracked...",
-      "url": "https://thehackernews.com/2026/09/critical-bifrost-ai-gateway-flaw-lets.html",
-      "date": "2026-09-22T16:41:12Z"
+      "title": "powered cybersecurity service using Claude, GPT models",
+      "description": "[THE ECONOMIC TIMES] Hackers are increasingly using AI to find and exploit weaknesses in corporate networks, prompting cybersecurity firms to build defenses that can detect and respond to threats more quickly.",
+      "url": "https://economictimes.indiatimes.com/tech/technology/palo-alto-networks-unveils-ai-powered-cybersecurity-service-using-claude-gpt-models/articleshow/134416499.cms",
+      "date": "2026-09-22T16:27:52Z"
     },
     {
       "title": "Researcher Drops BigDiskBuster Zero-Day PoC That Blocks Microsoft Defender Updates",
-      "description": "[FEEDS] A zero-day proof-of-concept tool that stops Microsoft Defender from installing platform and signature updates by filling all available disk space was&nbsp;published on GitHub&nbsp;on September 19. The tool, called BigDiskBuster, has no patch, no...",
+      "description": "[THE HACKER NEWS] BigDiskBuster can block Microsoft Defender updates by filling disk space, leaving detection content stale; no patch or advisory exists.",
       "url": "https://thehackernews.com/2026/09/researcher-drops-bigdiskbuster-zero-day.html",
-      "date": "2026-09-22T16:14:04Z"
+      "date": "2026-09-22T16:14:00Z"
     },
     {
-      "title": "Privacy commissioner investigating driver\u2019s licence breach",
-      "description": "[TORONTO SUN] An investigation has been launched into a data breach that potentially exposed data from driver\u2019s licences of millions. Read on.",
-      "url": "https://torontosun.com/news/national/privacy-commissioner-investigatin-drivers-licence-data-breach",
-      "date": "2026-09-22T14:14:46Z"
-    },
-    {
-      "title": "The Silicon Valley math: How Indian-origin founders built a $560B empire abroad",
-      "description": "[THE FINANCIAL EXPRESS] Indian-origin founders have built over 200 unicorns outside India worth $560 billion, highlighting their significant impact on global tech, especially in the US and in sectors like cybersecurity and AI.",
-      "url": "https://www.financialexpress.com/world-news/nri/the-silicon-valley-math-how-indian-origin-founders-built-a-560b-empire-abroad/4344870/",
-      "date": "2026-09-22T14:03:13Z"
-    },
-    {
-      "title": "Palo Alto Networks unveils AI-powered cybersecurity service using Claude, GPT models",
-      "description": "[THE STAR] Sept 22 (Reuters) - Palo \u2060Alto Networks said on Tuesday it \u2060would launch a new cybersecurity service for \u200cbusinesses, using advanced AI models from Anthropic and OpenAI to help identify security vulnerabilities across corporate systems.",
-      "url": "https://www.thestar.com.my/tech/tech-news/2026/09/22/palo-alto-networks-unveils-ai-powered-cybersecurity-service-using-claude-gpt-models",
-      "date": "2026-09-22T13:48:00Z"
-    },
-    {
-      "title": "ASEAN transport digital connectivity and net-zero initiatives",
-      "description": "[THE STRAITS TIMES] Transport Minister Jeffrey Siow highlights ASEAN initiatives to enhance digital connectivity, cybersecurity, and sustainable fuel use in regional transport systems. Read more at straitstimes.com.",
-      "url": "https://www.straitstimes.com/singapore/transport/as-transport-systems-become-more-interconnected-cooperation-must-similarly-evolve-jeffrey-siow",
-      "date": "2026-09-22T13:47:13Z"
-    },
-    {
-      "title": "Palo Alto Networks unveils AI-powered cybersecurity service using Claude, GPT models",
-      "description": "[REUTERS] Palo Alto Networks said on Tuesday it would launch a new cybersecurity \u200bservice for businesses, using advanced AI \u200cmodels from Anthropic and OpenAI to help identify security vulnerabilities across corporate systems.",
-      "url": "https://www.reuters.com/technology/palo-alto-networks-unveils-ai-powered-cybersecurity-service-using-claude-gpt-2026-09-22/",
-      "date": "2026-09-22T13:34:36Z"
+      "title": "Complex AI threats increasing stress levels of cybersecurity professionals",
+      "description": "[THE HINDU BUSINESS LINE] Indian cybersecurity professionals face rising stress levels, with over 59% citing AI-driven threats as a major contributor.",
+      "url": "https://www.thehindubusinessline.com/info-tech/complex-ai-threats-increasing-stress-levels-of-cybersecurity-professionals/article71495726.ece",
+      "date": "2026-09-22T15:49:14Z"
     },
     {
       "title": "LausivLoader analysis, or how to pass data between malware stages, (Thu, Sep 17th)",
       "description": "[ISC] At the end of August, a malspam message was caught in the quarantine of a mail gateway operated by one of my customers. The message was not especially remarkable &#xe2;&#x20ac;&#x201c; it asked the recipient to review some attached requirements and...",
       "url": "https://isc.sans.edu/diary/rss/33348",
       "date": "2026-09-22T13:10:20Z"
-    },
-    {
-      "title": "Meta Muse already has a majorly worrying zero-day security issue",
-      "description": "[TECHRADAR] The company has been informed, but is yet to comment, or issue a patch",
-      "url": "https://www.techradar.com/pro/security/meta-muse-already-has-a-majorly-worrying-zero-day-security-issue",
-      "date": "2026-09-22T13:05:00Z"
-    },
-    {
-      "title": "2026 TIME Executives of the Year: Tech and Data",
-      "description": "[TIME] 50 leaders shaping the future of technology, artificial intelligence, cybersecurity, and digital innovation.",
-      "url": "https://time.com/collection/executives-of-the-year-tech-data/2026/",
-      "date": "2026-09-22T13:03:30Z"
-    },
-    {
-      "title": "More Than One-Third of Industrial Organizations See Cybersecurity Risk as a Top Obstacle to Growth, New Global Study Finds",
-      "description": "[PR NEWSWIRE UK] /PRNewswire/ -- Rockwell Automation, Inc. (NYSE: ROK), the world's largest company dedicated to industrial automation and digital transformation, today...",
-      "url": "https://www.prnewswire.co.uk/news-releases/more-than-one-third-of-industrial-organizations-see-cybersecurity-risk-as-a-top-obstacle-to-growth-new-global-study-finds-302885199.html",
-      "date": "2026-09-22T13:00:00Z"
-    },
-    {
-      "title": "Okta Stock Rides AI Security Boom Ahead Of Investor Day",
-      "description": "[INVESTOR'S BUSINESS DAILY] Okta stock has surged ahead of an investor day as Wall Street weighs whether AI will drive the cybersecurity firm's next growth phase.",
-      "url": "https://www.investors.com/news/technology/okta-stock-rides-ai-security-boom-ahead-of-investor-day/",
-      "date": "2026-09-22T12:00:14Z"
-    },
-    {
-      "title": "Bench Mark Infotech Services Limited To Launch IPO On NSE Emerge; Offer Opens September 25, 2026",
-      "description": "[OUTLOOK BUSINESS] Bench Mark Infotech provides IT and digital infrastructure solutions across networking, fibre optics, data centres, cloud, AI infrastructure and cybersecurity.",
-      "url": "https://www.outlookbusiness.com/spotlight/news-wire/bench-mark-infotech-services-limited-to-launch-ipo-on-nse-emerge-offer-opens-september-25-2026",
-      "date": "2026-09-22T11:38:17Z"
     },
     {
       "title": "GPT-6 Astra Breaks an Old Enigma Message",
@@ -174,12 +174,6 @@
       "description": "[ISC] Microsoft Security Research published an interesting blog post \"TerminalFix campaign deploys a reverse tunnel through multistage intrusion\" about a malware campaign. The aspect that I want to take a closer look at, is the fact that the threat actors...",
       "url": "https://isc.sans.edu/diary/rss/33318",
       "date": "2026-09-21T10:33:53Z"
-    },
-    {
-      "title": "ISC Stormcast For Monday, September 21st, 2026 https://isc.sans.edu/podcastdetail/10102, (Mon, Sep 21st)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33354",
-      "date": "2026-09-21T05:15:12Z"
     },
     {
       "title": "Friday Squid Blogging: On Squid Egg Sacs",
