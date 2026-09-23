@@ -1,11 +1,29 @@
 {
-  "updated": "2026-09-23 19:19:27 UTC",
+  "updated": "2026-09-23 22:33:27 UTC",
   "news": [
+    {
+      "title": "New RemControl Android banking malware targets users in Europe and Canada",
+      "description": "[BLEEPINGCOMPUTER] A new Android malware-as-a-service (MaaS) platform called RemControl is targeting users through malvertising campaigns that impersonate the TVTap IPTV application. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/new-remcontrol-android-banking-malware-targets-users-in-europe-and-canada/",
+      "date": "2026-09-23T21:25:13Z"
+    },
+    {
+      "title": "Check Point warns of hackers exploiting Security Gateway VPN RCE flaw",
+      "description": "[BLEEPINGCOMPUTER] Cybersecurity company Check Point has confirmed active exploitation of CVE-2026-85102, a pre-authentication remote code execution (RCE) vulnerability in the VPN certificate-handling functionality of its Security Gateway product. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/check-point-warns-of-hackers-exploiting-security-gateway-vpn-rce-flaw/",
+      "date": "2026-09-23T19:53:54Z"
+    },
     {
       "title": "Hackers start exploiting critical WordPress flaw for code execution",
       "description": "[BLEEPINGCOMPUTER] Threat actors have moved from probing WordPress sites vulnerable to CVE-2026-87902 to exploiting the flaw to write files to disk that execute shell commands when accessed. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-start-exploiting-critical-wordpress-flaw-for-code-execution/",
       "date": "2026-09-23T18:31:22Z"
+    },
+    {
+      "title": "Attackers Use Malicious Terraform Providers to Deliver Go Malware via HashiCorp Registry",
+      "description": "[FEEDS] Cybersecurity researchers have disclosed Go-based malware distributed via two Go Modules and two Terraform providers, marking the first time threat actors are using the centralized repository hosted by HashiCorp as a distribution vector for...",
+      "url": "https://thehackernews.com/2026/09/attackers-use-malicious-terraform.html",
+      "date": "2026-09-23T18:06:30Z"
     },
     {
       "title": "A Leaked GitLab Issue Email Address Lets Anyone Push Code and Run CI Jobs as You",
@@ -56,34 +74,46 @@
       "date": "2026-09-23T13:52:46Z"
     },
     {
-      "title": "Arista patches actively exploited VeloCloud Orchestrator zero-day",
-      "description": "[BLEEPINGCOMPUTER] Arista Networks has released security patches for a zero-day flaw that is being actively exploited and affects VeloCloud Orchestrator (VCO) On-Prem deployments. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/arista-patches-actively-exploited-velocloud-orchestrator-zero-day/",
-      "date": "2026-09-23T12:29:53Z"
-    },
-    {
       "title": "New cPanel Flaw Lets a Hosting Account Run Code as Root, Take Full Server Control",
       "description": "[FEEDS] A flaw in cPanel's&nbsp;CalDAV and CardDAV service&nbsp;lets anyone with a cPanel hosting account run code as root and take \"full control of the server,\" the company said on September 22. A&nbsp;second bug in the WP Toolkit plugin, used to install...",
       "url": "https://thehackernews.com/2026/09/new-cpanel-flaw-lets-hosting-account_0272795595.html",
       "date": "2026-09-23T12:16:00Z"
     },
     {
-      "title": "545 Hackers Tested It First. Now XRanges for AI Scores Your Security Agent",
-      "description": "[FEEDS] Autonomous security agents are getting good at finding bugs. Nobody has a good way to measure how good. Point one at a realistic target and what comes back is a report the agent wrote about itself: confident prose, a list of findings, and no way to...",
-      "url": "https://thehackernews.com/2026/09/545-hackers-tested-it-first-now-xranges.html",
-      "date": "2026-09-23T11:47:19Z"
-    },
-    {
-      "title": "Microsoft: September Windows updates break Always On VPN connections",
-      "description": "[BLEEPINGCOMPUTER] Microsoft warned that the September 2026 security updates may also break Always On VPN connections on some Windows 11 systems. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-2026-windows-updates-break-always-on-vpn-connections/",
-      "date": "2026-09-23T11:18:13Z"
-    },
-    {
       "title": "Research on Models Engaging in Genie-Like Behavior",
       "description": "[SCHNEIER] New paper: &#8220;Self-Jailbreaking: Language Models Can Reason Themselves Out of Safety Alignment After Benign Reasoning Training.&#8221; Abstract: We discover a novel and surprising phenomenon of unintentional misalignment in reasoning language...",
       "url": "https://www.schneier.com/blog/archives/2026/09/research-on-models-engaging-in-genie-like-behavior.html",
       "date": "2026-09-23T11:03:36Z"
+    },
+    {
+      "title": "CBSE teen hacker Nisarga gets named in US DoJ Hall of Fame, says he found critical flaw",
+      "description": "[INDIA TODAY] 19-year-old cybersecurity researcher Nisarga Adhikary has been named in the US Department of Justice\u2019s Hall of Fame. He tells India Today Tech, he was acknowledged after finding a \u201ccritical vulnerability in one of their largest law enforcement...",
+      "url": "https://www.indiatoday.in/technology/news/story/nisarga-gets-named-in-us-doj-hall-of-fame-says-he-found-critical-flaw-3000977-2026-09-23",
+      "date": "2026-09-23T09:15:50Z"
+    },
+    {
+      "title": "Quest Apartment Hotels customers urged to check passport and driver\u2019s licence details after data breach",
+      "description": "[PERTHNOW] Quest Apartment Hotels\u2019 customers have been warned to check their passport and driver\u2019s licence details following a data breach last month.",
+      "url": "https://www.perthnow.com.au/news/quest-apartment-hotels-customers-urged-to-check-passport-and-drivers-licence-details-after-data-breach-c-22917436",
+      "date": "2026-09-23T09:15:08Z"
+    },
+    {
+      "title": "F5 Patches Critical BIG-IP APM Zero-Day Exploited for Unauthenticated RCE on OAuth Servers",
+      "description": "[THE HACKER NEWS] Unauthenticated attackers are exploiting CVE-2026-94127 in F5 BIG-IP APM to run code on systems acting as OAuth authorization servers.",
+      "url": "https://thehackernews.com/2026/09/f5-patches-critical-big-ip-apm-zero-day.html",
+      "date": "2026-09-23T08:29:00Z"
+    },
+    {
+      "title": "Chinese Hackers Exploit Chrome-Windows Zero-Day Chain to Deploy CLEANGULP Malware",
+      "description": "[THE HACKER NEWS] UTA0565 exploited a Chrome-Windows zero-day chain through fake websites to deploy CLEANGULP malware against Asian government entities.",
+      "url": "https://thehackernews.com/2026/09/chinese-hackers-exploit-chrome-windows.html",
+      "date": "2026-09-23T08:29:00Z"
+    },
+    {
+      "title": "Kratikal Tech approves US subsidiary for cybersecurity expansion",
+      "description": "[SCANX.TRADE] Incorporated wholly owned subsidiary in Delaware, USA, named Kratikal AI Inc. or Kratikal Inc. New entity focuses on cybersecurity solutions and information security services as an SPV. Appointed Mittal V Kothari & Associates as Secretarial Auditor...",
+      "url": "https://scanx.trade/stock-market-news/companies/kratikal-tech-approves-us-subsidiary-cybersecurity-expansion/51695043",
+      "date": "2026-09-23T07:44:12Z"
     },
     {
       "title": "Critical Infrastructure, AI Security and Cyber Geopolitics Take Centre Stage on Day 2 at GISEC 2026",
@@ -116,40 +146,10 @@
       "date": "2026-09-23T06:00:35Z"
     },
     {
-      "title": "Quest Apartment customers urged to check passports and licences after major data breach",
-      "description": "[7NEWS AUSTRALIA] The company confirmed information relating to 1,991,613 customers was affected.",
-      "url": "https://7news.com.au/news/quest-apartment-customers-urged-to-check-passports-and-licences-after-major-data-breach-c-22913494",
-      "date": "2026-09-23T03:29:24Z"
-    },
-    {
       "title": "ISC Stormcast For Wednesday, September 23rd, 2026 https://isc.sans.edu/podcastdetail/10106, (Wed, Sep 23rd)",
       "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
       "url": "https://isc.sans.edu/diary/rss/33362",
       "date": "2026-09-23T02:40:13Z"
-    },
-    {
-      "title": "Privacy Commissioner puts Manage My Health, Health NZ on notice after data breach",
-      "description": "[THE NEW ZEALAND HERALD] By Finn Blackwell of RNZ The Privacy Commissioner has given Health New Zealand and patient portal Manage My Health until next year to comply with health...",
-      "url": "https://www.nzherald.co.nz/business/privacy-commissioner-puts-manage-my-health-health-nz-on-notice-after-data-breach/CHB6LY2OGBGF3G5LPLRSGAA7MY/",
-      "date": "2026-09-23T00:47:34Z"
-    },
-    {
-      "title": "Spokane Public Schools experience 'cybersecurity incident,' online systems remain down",
-      "description": "[SPOKANE SPOKESMAN-REVIEW] Spokane Public Schools experienced a \"cybersecurity incident\" Sunday night, causing online information systems to still be down Tuesday, Superintendent Adam Swinyard said. So far, only district staff have been affected by the incident.",
-      "url": "https://www.spokesman.com/stories/2026/sep/22/spokane-public-schools-experience-cybersecurity-in/",
-      "date": "2026-09-23T00:00:00Z"
-    },
-    {
-      "title": "Suisun City fully reopens City Hall following malware incident",
-      "description": "[CBS NEWS] Suisun City has reopened all public access to City Hall after a cybersecurity incident last month forced city officials to close in-person services.",
-      "url": "https://www.cbsnews.com/sacramento/news/suisun-city-cyberattack-malware-city-hall-reopens/",
-      "date": "2026-09-22T23:21:58Z"
-    },
-    {
-      "title": "Venture Capital & Startup Funding Roundup, September 22, 2026: General Catalyst, Goldman Sachs, Greylock, M13, Y Combinator & More",
-      "description": "[TECHSTARTUPS.COM] Venture capital today is clustering around a surprisingly consistent idea: the next layer of AI value is shifting away from the model itself and toward the systems that make AI usable, governable, trustworthy, and economically productive....",
-      "url": "https://techstartups.com/2026/09/22/venture-capital-startup-funding-roundup-september-22-2026-general-catalyst-goldman-sachs-greylock-m13-y-combinator-more/",
-      "date": "2026-09-22T22:22:01Z"
     },
     {
       "title": "The Truth about GET and HTTP Standards, (Tue, Sep 22nd)",
