@@ -1,17 +1,65 @@
 {
-  "updated": "2026-09-23 08:55:51 UTC",
+  "updated": "2026-09-23 14:32:24 UTC",
   "news": [
+    {
+      "title": "How One Kubernetes YAML Can Hand Over a GCP Organization",
+      "description": "[BLEEPINGCOMPUTER] A Kubernetes user with limited permissions can potentially gain control of an entire Google Cloud organization by exploiting the authority granted to Google Kubernetes Config Connector. Varonis explains how this confused deputy problem can turn a...",
+      "url": "https://www.bleepingcomputer.com/news/security/how-one-kubernetes-yaml-can-hand-over-a-gcp-organization/",
+      "date": "2026-09-23T14:01:11Z"
+    },
+    {
+      "title": "Compromised MemTensor Packages Deliver sckit Credential Stealer via npm and PyPI",
+      "description": "[FEEDS] Unknown threat actors have managed to compromise two legitimate MemTensor packages across the npm and Python Package Index (PyPI) repositories to push a platform-specific Go-based implant dubbed sckit designed for Windows, Linux, and macOS....",
+      "url": "https://thehackernews.com/2026/09/compromised-memtensor-packages-deliver.html",
+      "date": "2026-09-23T13:52:46Z"
+    },
+    {
+      "title": "Arista patches actively exploited VeloCloud Orchestrator zero-day",
+      "description": "[BLEEPINGCOMPUTER] Arista Networks has released security patches for a zero-day flaw that is being actively exploited and affects VeloCloud Orchestrator (VCO) On-Prem deployments. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/arista-patches-actively-exploited-velocloud-orchestrator-zero-day/",
+      "date": "2026-09-23T12:29:53Z"
+    },
+    {
+      "title": "New cPanel Flaw Lets a Hosting Account Run Code as Root, Take Full Server Control",
+      "description": "[FEEDS] A flaw in cPanel's&nbsp;CalDAV and CardDAV service&nbsp;lets anyone with a cPanel hosting account run code as root and take \"full control of the server,\" the company said on September 22. A&nbsp;second bug in the WP Toolkit plugin, used to install...",
+      "url": "https://thehackernews.com/2026/09/new-cpanel-flaw-lets-hosting-account_0272795595.html",
+      "date": "2026-09-23T12:16:00Z"
+    },
+    {
+      "title": "545 Hackers Tested It First. Now XRanges for AI Scores Your Security Agent",
+      "description": "[FEEDS] Autonomous security agents are getting good at finding bugs. Nobody has a good way to measure how good. Point one at a realistic target and what comes back is a report the agent wrote about itself: confident prose, a list of findings, and no way to...",
+      "url": "https://thehackernews.com/2026/09/545-hackers-tested-it-first-now-xranges.html",
+      "date": "2026-09-23T11:47:19Z"
+    },
+    {
+      "title": "Anthropic and OpenAI Models Still Attempt Restricted Actions in Safety Tests",
+      "description": "[FEEDS] Anthropic and OpenAI on Tuesday announced new models, with both artificial intelligence (AI) companies noting that they are continuing to invest in improving alignment to combat risky behavior. Opus 5.5, per Anthropic, is a \"major step up from Opus...",
+      "url": "https://thehackernews.com/2026/09/anthropic-and-openai-models-still.html",
+      "date": "2026-09-23T11:47:13Z"
+    },
+    {
+      "title": "Microsoft: September Windows updates break Always On VPN connections",
+      "description": "[BLEEPINGCOMPUTER] Microsoft warned that the September 2026 security updates may also break Always On VPN connections on some Windows 11 systems. [...]",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-2026-windows-updates-break-always-on-vpn-connections/",
+      "date": "2026-09-23T11:18:13Z"
+    },
+    {
+      "title": "Exploit Released for Unpatched Ubuntu Linux Flaw Enabling Host-Root Container Escape",
+      "description": "[FEEDS] A use-after-free in the Linux kernel's AF_UNIX socket subsystem can be used to escape a container and gain root on the host, security firm DepthFirst&nbsp;said in research published September 22. The flaw, tracked as&nbsp;CVE-2026-80521&nbsp;(CVSS...",
+      "url": "https://thehackernews.com/2026/09/exploit-released-for-unpatched-ubuntu.html",
+      "date": "2026-09-23T11:12:18Z"
+    },
+    {
+      "title": "Research on Models Engaging in Genie-Like Behavior",
+      "description": "[SCHNEIER] New paper: &#8220;Self-Jailbreaking: Language Models Can Reason Themselves Out of Safety Alignment After Benign Reasoning Training.&#8221; Abstract: We discover a novel and surprising phenomenon of unintentional misalignment in reasoning language...",
+      "url": "https://www.schneier.com/blog/archives/2026/09/research-on-models-engaging-in-genie-like-behavior.html",
+      "date": "2026-09-23T11:03:36Z"
+    },
     {
       "title": "F5 Patches Critical BIG-IP APM Zero-Day Exploited for Unauthenticated RCE on OAuth Servers",
       "description": "[FEEDS] Attackers are exploiting a critical flaw in F5 BIG-IP Access Policy Manager (APM) that lets them run code on a BIG-IP system without logging in, F5 says. The flaw,&nbsp;CVE-2026-94127, affects only systems in which APM serves as an OAuth...",
       "url": "https://thehackernews.com/2026/09/f5-patches-critical-big-ip-apm-zero-day.html",
       "date": "2026-09-23T08:29:48Z"
-    },
-    {
-      "title": "Chinese Hackers Exploit Chrome-Windows Zero-Day Chain to Deploy CLEANGULP Malware",
-      "description": "[FEEDS] A Chinese threat actor codenamed UTA0565 has been observed exploiting the recently disclosed Google Chrome-Microsoft Windows exploit chain as zero-days through fake websites. The attacks, detected on September 3 and 4, 2026, involved the chaining of...",
-      "url": "https://thehackernews.com/2026/09/chinese-hackers-exploit-chrome-windows.html",
-      "date": "2026-09-23T08:29:24Z"
     },
     {
       "title": "Ryuk ransomware member sentenced to 24 months in prison",
@@ -26,18 +74,6 @@
       "date": "2026-09-23T07:17:23Z"
     },
     {
-      "title": "Critical Next.js ImageResponse Flaw Can Lead to Server Code Execution via Crafted SVG Input",
-      "description": "[FEEDS] A new security vulnerability in Next.js could allow attackers to run code on a server via&nbsp;ImageResponse, the feature that generates Open Graph and other social preview images, Vercel said. The risk applies when an app puts values an attacker...",
-      "url": "https://thehackernews.com/2026/09/critical-nextjs-imageresponse-flaw-can.html",
-      "date": "2026-09-23T07:04:40Z"
-    },
-    {
-      "title": "ShinyHunters Claims FBI Breach, Says It Stole Data on Agents and Job Applicants",
-      "description": "[FEEDS] The cyber extortion group known as ShinyHunters on Tuesday claimed it had breached the U.S. Federal Bureau of Investigation and stolen data belonging to current and former employees at the agency. \"We have compromised the FBI. We hold very sensitive...",
-      "url": "https://thehackernews.com/2026/09/shinyhunters-claims-fbi-breach-says-it.html",
-      "date": "2026-09-23T05:30:09Z"
-    },
-    {
       "title": "ISC Stormcast For Wednesday, September 23rd, 2026 https://isc.sans.edu/podcastdetail/10106, (Wed, Sep 23rd)",
       "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
       "url": "https://isc.sans.edu/diary/rss/33362",
@@ -50,22 +86,40 @@
       "date": "2026-09-23T00:55:11Z"
     },
     {
+      "title": "Privacy Commissioner puts Manage My Health, Health NZ on notice after data breach",
+      "description": "[THE NEW ZEALAND HERALD] By Finn Blackwell of RNZ The Privacy Commissioner has given Health New Zealand and patient portal Manage My Health until next year to comply with health...",
+      "url": "https://www.nzherald.co.nz/business/privacy-commissioner-puts-manage-my-health-health-nz-on-notice-after-data-breach/CHB6LY2OGBGF3G5LPLRSGAA7MY/",
+      "date": "2026-09-23T00:47:34Z"
+    },
+    {
+      "title": "Spokane Public Schools experience 'cybersecurity incident,' online systems remain down",
+      "description": "[SPOKANE SPOKESMAN-REVIEW] Spokane Public Schools experienced a \"cybersecurity incident\" Sunday night, causing online information systems to still be down Tuesday, Superintendent Adam Swinyard said. So far, only district staff have been affected by the incident.",
+      "url": "https://www.spokesman.com/stories/2026/sep/22/spokane-public-schools-experience-cybersecurity-in/",
+      "date": "2026-09-23T00:00:00Z"
+    },
+    {
+      "title": "Suisun City fully reopens City Hall following malware incident",
+      "description": "[CBS NEWS] Suisun City has reopened all public access to City Hall after a cybersecurity incident last month forced city officials to close in-person services.",
+      "url": "https://www.cbsnews.com/sacramento/news/suisun-city-cyberattack-malware-city-hall-reopens/",
+      "date": "2026-09-22T23:21:58Z"
+    },
+    {
+      "title": "Venture Capital & Startup Funding Roundup, September 22, 2026: General Catalyst, Goldman Sachs, Greylock, M13, Y Combinator & More",
+      "description": "[TECHSTARTUPS.COM] Venture capital today is clustering around a surprisingly consistent idea: the next layer of AI value is shifting away from the model itself and toward the systems that make AI usable, governable, trustworthy, and economically productive....",
+      "url": "https://techstartups.com/2026/09/22/venture-capital-startup-funding-roundup-september-22-2026-general-catalyst-goldman-sachs-greylock-m13-y-combinator-more/",
+      "date": "2026-09-22T22:22:01Z"
+    },
+    {
+      "title": "Estonian Company CybExer to Play Key Role in Testing IRIS\u00b2 Security",
+      "description": "[EUROPE SAYS] CybExer, an Estonian cybersecurity company, is to play a key role in helping keep the EU\u2019s future secure satellite connectivity system, IRIS\u00b2 secure. It will",
+      "url": "https://www.europesays.com/3267002/",
+      "date": "2026-09-22T22:17:12Z"
+    },
+    {
       "title": "Rogue external MFA providers can steal passwords during logins",
       "description": "[BLEEPINGCOMPUTER] Security researchers developed an attack that lets hackers with privileged access register a rogue external MFA provider that steals users' passwords during legitimate login attempts. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/rogue-external-mfa-providers-can-steal-passwords-during-logins/",
       "date": "2026-09-22T21:45:45Z"
-    },
-    {
-      "title": "Sweden fines Milj\u00f6data $183,000 over breach affecting 2.2 million",
-      "description": "[BLEEPINGCOMPUTER] Sweden's data privacy regulator, IMY, has imposed a $183,000 (SEK 1.8 million) fine on IT systems provider Milj\u00f6data for inadequate security measures leading to a breach in August 2025 affecting 2.2 million people. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/sweden-fines-milj-data-183-000-over-breach-affecting-22-million/",
-      "date": "2026-09-22T21:40:37Z"
-    },
-    {
-      "title": "Chinese hackers exploit WordPress, Zyxel flaws to steal govt data",
-      "description": "[BLEEPINGCOMPUTER] A Chinese-speaking threat actor has been exploiting vulnerabilities in ZyXEL GS1900 Smart Managed Switches and WordPress to steal sensitive data from 996 devices and more than 18,500 records stored in backend databases. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/chinese-hackers-exploit-multiple-technologies-to-steal-govt-data/",
-      "date": "2026-09-22T20:35:24Z"
     },
     {
       "title": "Meta patched Muse\u2019s zero-day, but security teams still lack visibility into what the agent can access",
@@ -78,12 +132,6 @@
       "description": "[TIMES OF INDIA] Haryana to upgrade 60 govt ITIs in 12 clusters under PM-SETU, adding AI, EV, drones, cybersecurity and more, with industry-led courses and placements.",
       "url": "https://timesofindia.indiatimes.com/city/gurgaon/ai-evs-cybersecurity-on-course-list-as-haryana-upgrades-govt-itis/articleshow/134419996.cms",
       "date": "2026-09-22T19:49:00Z"
-    },
-    {
-      "title": "ShinyHunters claims FBI hack, data theft in PeopleSoft zero-day breach",
-      "description": "[BLEEPINGCOMPUTER] The ShinyHunters extortion gang claims it breached FBI systems using a new Oracle PeopleSoft zero-day vulnerability, gaining access to internal services and stealing sensitive data on employees and job applicants. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-claims-fbi-hack-data-theft-in-peoplesoft-zero-day-breach/",
-      "date": "2026-09-22T19:13:29Z"
     },
     {
       "title": "The Truth about GET and HTTP Standards, (Tue, Sep 22nd)",
@@ -99,51 +147,15 @@
     },
     {
       "title": "Check Point Warns of Management Server Zero-Day Exploited in Targeted Attacks",
-      "description": "[FEEDS] Attackers exploited a previously unknown flaw in Check Point's Security Management Server in a handful of targeted attacks on July 23,&nbsp;the company said. The flaw, CVE-2026-93616, allows an attacker who can access the server's web service to run...",
+      "description": "[THE HACKER NEWS] Check Point fixed a Security Management Server flaw exploited in targeted July attacks that can run scripts without login.",
       "url": "https://thehackernews.com/2026/09/check-point-warns-of-management-server.html",
-      "date": "2026-09-22T18:29:39Z"
-    },
-    {
-      "title": "WordPress Issues Patch for Critical Flaw That Can Enable Code Execution on Some Servers",
-      "description": "[FEEDS] WordPress has fixed a critical flaw in its core software that lets an attacker with no account make a site load a PHP file from outside its theme folders. On some servers, that can go further, allowing the attacker to run their own code. The fix...",
-      "url": "https://thehackernews.com/2026/09/wordpress-issues-patch-for-critical.html",
-      "date": "2026-09-22T18:03:10Z"
+      "date": "2026-09-22T18:29:00Z"
     },
     {
       "title": "Palo Alto Networks taps Anthropic and OpenAI to automate corporate cyber defence",
       "description": "[TIMES OF INDIA] Tech News News: Palo Alto Networks has announced an enterprise-grade cybersecurity service powered by artificial intelligence (AI) models from Anthropic and OpenAI, a.",
       "url": "https://timesofindia.indiatimes.com/technology/tech-news/palo-alto-networks-taps-anthropic-and-openai-to-automate-corporate-cyber-defence/articleshow/134418333.cms",
       "date": "2026-09-22T18:02:00Z"
-    },
-    {
-      "title": "TWO DAYS LEFT: Secure Your Complimentary Executive Pass for HMG Strategy's Detroit C-Level Technology Leadership Summit",
-      "description": "[THE LONDON FREE PRESS] Manufacturing, Automotive, Mobility and Technology Executives to Explore AI-Driven Innovation, Cybersecurity and Enterprise TransformationFAIRFIELD,",
-      "url": "https://lfpress.com/press-releases/globe-newswire/two-days-left-secure-your-complimentary-executive-pass-for-hmg-strategys-detroit-c-level-technology-leadership-summit/",
-      "date": "2026-09-22T17:19:46Z"
-    },
-    {
-      "title": "TWO DAYS LEFT: Secure Your Complimentary Executive Pass for HMG Strategy's Detroit C-Level Technology Leadership Summit",
-      "description": "[THE KINGSTON WHIG-STANDARD] Manufacturing, Automotive, Mobility and Technology Executives to Explore AI-Driven Innovation, Cybersecurity and Enterprise TransformationFAIRFIELD,",
-      "url": "https://www.thewhig.com/press-releases/globe-newswire/two-days-left-secure-your-complimentary-executive-pass-for-hmg-strategys-detroit-c-level-technology-leadership-summit/",
-      "date": "2026-09-22T17:19:35Z"
-    },
-    {
-      "title": "powered cybersecurity service using Claude, GPT models",
-      "description": "[THE ECONOMIC TIMES] Hackers are increasingly using AI to find and exploit weaknesses in corporate networks, prompting cybersecurity firms to build defenses that can detect and respond to threats more quickly.",
-      "url": "https://economictimes.indiatimes.com/tech/technology/palo-alto-networks-unveils-ai-powered-cybersecurity-service-using-claude-gpt-models/articleshow/134416499.cms",
-      "date": "2026-09-22T16:27:52Z"
-    },
-    {
-      "title": "Researcher Drops BigDiskBuster Zero-Day PoC That Blocks Microsoft Defender Updates",
-      "description": "[THE HACKER NEWS] BigDiskBuster can block Microsoft Defender updates by filling disk space, leaving detection content stale; no patch or advisory exists.",
-      "url": "https://thehackernews.com/2026/09/researcher-drops-bigdiskbuster-zero-day.html",
-      "date": "2026-09-22T16:14:00Z"
-    },
-    {
-      "title": "Complex AI threats increasing stress levels of cybersecurity professionals",
-      "description": "[THE HINDU BUSINESS LINE] Indian cybersecurity professionals face rising stress levels, with over 59% citing AI-driven threats as a major contributor.",
-      "url": "https://www.thehindubusinessline.com/info-tech/complex-ai-threats-increasing-stress-levels-of-cybersecurity-professionals/article71495726.ece",
-      "date": "2026-09-22T15:49:14Z"
     },
     {
       "title": "LausivLoader analysis, or how to pass data between malware stages, (Thu, Sep 17th)",
@@ -192,12 +204,6 @@
       "description": "[SCHNEIER] This essay was written with Nathan E. Sanders, and originally appeared in The Guardian. There are plenty of signs that AI will make all of our experiences of the US midterm elections worse. Voters have anxiety about AI&#8217;s impacts on the...",
       "url": "https://www.schneier.com/blog/archives/2026/09/how-candidates-could-use-ai-for-good.html",
       "date": "2026-09-17T11:06:31Z"
-    },
-    {
-      "title": "Fake CAPTCHA Scams",
-      "description": "[SCHNEIER] New variant of an old scam: Use the framing of a CAPTCHA to get an unsuspecting user to download and run a malicious program.",
-      "url": "https://www.schneier.com/blog/archives/2026/09/fake-captcha-scams.html",
-      "date": "2026-09-16T11:25:26Z"
     }
   ]
 }
