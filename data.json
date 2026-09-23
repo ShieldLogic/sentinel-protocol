@@ -1,209 +1,137 @@
 {
-  "updated": "2026-09-23 14:32:24 UTC",
-  "news": [
-    {
-      "title": "How One Kubernetes YAML Can Hand Over a GCP Organization",
-      "description": "[BLEEPINGCOMPUTER] A Kubernetes user with limited permissions can potentially gain control of an entire Google Cloud organization by exploiting the authority granted to Google Kubernetes Config Connector. Varonis explains how this confused deputy problem can turn a...",
-      "url": "https://www.bleepingcomputer.com/news/security/how-one-kubernetes-yaml-can-hand-over-a-gcp-organization/",
-      "date": "2026-09-23T14:01:11Z"
-    },
-    {
-      "title": "Compromised MemTensor Packages Deliver sckit Credential Stealer via npm and PyPI",
-      "description": "[FEEDS] Unknown threat actors have managed to compromise two legitimate MemTensor packages across the npm and Python Package Index (PyPI) repositories to push a platform-specific Go-based implant dubbed sckit designed for Windows, Linux, and macOS....",
-      "url": "https://thehackernews.com/2026/09/compromised-memtensor-packages-deliver.html",
-      "date": "2026-09-23T13:52:46Z"
-    },
-    {
-      "title": "Arista patches actively exploited VeloCloud Orchestrator zero-day",
-      "description": "[BLEEPINGCOMPUTER] Arista Networks has released security patches for a zero-day flaw that is being actively exploited and affects VeloCloud Orchestrator (VCO) On-Prem deployments. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/arista-patches-actively-exploited-velocloud-orchestrator-zero-day/",
-      "date": "2026-09-23T12:29:53Z"
-    },
-    {
-      "title": "New cPanel Flaw Lets a Hosting Account Run Code as Root, Take Full Server Control",
-      "description": "[FEEDS] A flaw in cPanel's&nbsp;CalDAV and CardDAV service&nbsp;lets anyone with a cPanel hosting account run code as root and take \"full control of the server,\" the company said on September 22. A&nbsp;second bug in the WP Toolkit plugin, used to install...",
-      "url": "https://thehackernews.com/2026/09/new-cpanel-flaw-lets-hosting-account_0272795595.html",
-      "date": "2026-09-23T12:16:00Z"
-    },
-    {
-      "title": "545 Hackers Tested It First. Now XRanges for AI Scores Your Security Agent",
-      "description": "[FEEDS] Autonomous security agents are getting good at finding bugs. Nobody has a good way to measure how good. Point one at a realistic target and what comes back is a report the agent wrote about itself: confident prose, a list of findings, and no way to...",
-      "url": "https://thehackernews.com/2026/09/545-hackers-tested-it-first-now-xranges.html",
-      "date": "2026-09-23T11:47:19Z"
-    },
-    {
-      "title": "Anthropic and OpenAI Models Still Attempt Restricted Actions in Safety Tests",
-      "description": "[FEEDS] Anthropic and OpenAI on Tuesday announced new models, with both artificial intelligence (AI) companies noting that they are continuing to invest in improving alignment to combat risky behavior. Opus 5.5, per Anthropic, is a \"major step up from Opus...",
-      "url": "https://thehackernews.com/2026/09/anthropic-and-openai-models-still.html",
-      "date": "2026-09-23T11:47:13Z"
-    },
-    {
-      "title": "Microsoft: September Windows updates break Always On VPN connections",
-      "description": "[BLEEPINGCOMPUTER] Microsoft warned that the September 2026 security updates may also break Always On VPN connections on some Windows 11 systems. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-2026-windows-updates-break-always-on-vpn-connections/",
-      "date": "2026-09-23T11:18:13Z"
-    },
-    {
-      "title": "Exploit Released for Unpatched Ubuntu Linux Flaw Enabling Host-Root Container Escape",
-      "description": "[FEEDS] A use-after-free in the Linux kernel's AF_UNIX socket subsystem can be used to escape a container and gain root on the host, security firm DepthFirst&nbsp;said in research published September 22. The flaw, tracked as&nbsp;CVE-2026-80521&nbsp;(CVSS...",
-      "url": "https://thehackernews.com/2026/09/exploit-released-for-unpatched-ubuntu.html",
-      "date": "2026-09-23T11:12:18Z"
-    },
-    {
-      "title": "Research on Models Engaging in Genie-Like Behavior",
-      "description": "[SCHNEIER] New paper: &#8220;Self-Jailbreaking: Language Models Can Reason Themselves Out of Safety Alignment After Benign Reasoning Training.&#8221; Abstract: We discover a novel and surprising phenomenon of unintentional misalignment in reasoning language...",
-      "url": "https://www.schneier.com/blog/archives/2026/09/research-on-models-engaging-in-genie-like-behavior.html",
-      "date": "2026-09-23T11:03:36Z"
-    },
-    {
-      "title": "F5 Patches Critical BIG-IP APM Zero-Day Exploited for Unauthenticated RCE on OAuth Servers",
-      "description": "[FEEDS] Attackers are exploiting a critical flaw in F5 BIG-IP Access Policy Manager (APM) that lets them run code on a BIG-IP system without logging in, F5 says. The flaw,&nbsp;CVE-2026-94127, affects only systems in which APM serves as an OAuth...",
-      "url": "https://thehackernews.com/2026/09/f5-patches-critical-big-ip-apm-zero-day.html",
-      "date": "2026-09-23T08:29:48Z"
-    },
-    {
-      "title": "Ryuk ransomware member sentenced to 24 months in prison",
-      "description": "[BLEEPINGCOMPUTER] An Armenian man was sentenced to 24 months in prison and 3 years of supervised release for hacking U.S. companies and encrypting their systems in Ryuk ransomware attacks. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/ryuk-ransomware-member-sentenced-to-24-months-in-prison/",
-      "date": "2026-09-23T08:20:05Z"
-    },
-    {
-      "title": "F5 patches BIG-IP APM zero-day flaw exploited in RCE attacks",
-      "description": "[BLEEPINGCOMPUTER] F5 has released security updates to address a critical BIG-IP APM zero-day vulnerability being exploited in remote code execution attacks. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/f5-warns-of-big-ip-apm-remote-code-execution-zero-day-exploited-in-attacks/",
-      "date": "2026-09-23T07:17:23Z"
-    },
-    {
-      "title": "ISC Stormcast For Wednesday, September 23rd, 2026 https://isc.sans.edu/podcastdetail/10106, (Wed, Sep 23rd)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33362",
-      "date": "2026-09-23T02:40:13Z"
-    },
-    {
-      "title": "Macfinger ClickFix campaign, (Tue, Sep 22nd)",
-      "description": "[ISC] Introduction&#xd;",
-      "url": "https://isc.sans.edu/diary/rss/33360",
-      "date": "2026-09-23T00:55:11Z"
-    },
-    {
-      "title": "Privacy Commissioner puts Manage My Health, Health NZ on notice after data breach",
-      "description": "[THE NEW ZEALAND HERALD] By Finn Blackwell of RNZ The Privacy Commissioner has given Health New Zealand and patient portal Manage My Health until next year to comply with health...",
-      "url": "https://www.nzherald.co.nz/business/privacy-commissioner-puts-manage-my-health-health-nz-on-notice-after-data-breach/CHB6LY2OGBGF3G5LPLRSGAA7MY/",
-      "date": "2026-09-23T00:47:34Z"
-    },
-    {
-      "title": "Spokane Public Schools experience 'cybersecurity incident,' online systems remain down",
-      "description": "[SPOKANE SPOKESMAN-REVIEW] Spokane Public Schools experienced a \"cybersecurity incident\" Sunday night, causing online information systems to still be down Tuesday, Superintendent Adam Swinyard said. So far, only district staff have been affected by the incident.",
-      "url": "https://www.spokesman.com/stories/2026/sep/22/spokane-public-schools-experience-cybersecurity-in/",
-      "date": "2026-09-23T00:00:00Z"
-    },
-    {
-      "title": "Suisun City fully reopens City Hall following malware incident",
-      "description": "[CBS NEWS] Suisun City has reopened all public access to City Hall after a cybersecurity incident last month forced city officials to close in-person services.",
-      "url": "https://www.cbsnews.com/sacramento/news/suisun-city-cyberattack-malware-city-hall-reopens/",
-      "date": "2026-09-22T23:21:58Z"
-    },
-    {
-      "title": "Venture Capital & Startup Funding Roundup, September 22, 2026: General Catalyst, Goldman Sachs, Greylock, M13, Y Combinator & More",
-      "description": "[TECHSTARTUPS.COM] Venture capital today is clustering around a surprisingly consistent idea: the next layer of AI value is shifting away from the model itself and toward the systems that make AI usable, governable, trustworthy, and economically productive....",
-      "url": "https://techstartups.com/2026/09/22/venture-capital-startup-funding-roundup-september-22-2026-general-catalyst-goldman-sachs-greylock-m13-y-combinator-more/",
-      "date": "2026-09-22T22:22:01Z"
-    },
-    {
-      "title": "Estonian Company CybExer to Play Key Role in Testing IRIS\u00b2 Security",
-      "description": "[EUROPE SAYS] CybExer, an Estonian cybersecurity company, is to play a key role in helping keep the EU\u2019s future secure satellite connectivity system, IRIS\u00b2 secure. It will",
-      "url": "https://www.europesays.com/3267002/",
-      "date": "2026-09-22T22:17:12Z"
-    },
-    {
-      "title": "Rogue external MFA providers can steal passwords during logins",
-      "description": "[BLEEPINGCOMPUTER] Security researchers developed an attack that lets hackers with privileged access register a rogue external MFA provider that steals users' passwords during legitimate login attempts. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/rogue-external-mfa-providers-can-steal-passwords-during-logins/",
-      "date": "2026-09-22T21:45:45Z"
-    },
-    {
-      "title": "Meta patched Muse\u2019s zero-day, but security teams still lack visibility into what the agent can access",
-      "description": "[VENTUREBEAT] Meta patched a zero-day in Muse\u2019s Mac app, but VentureBeat found enterprise security teams still lack central visibility into the agent\u2019s access.",
-      "url": "https://venturebeat.com/security/meta-patched-muses-zero-day-but-security-teams-still-lack-visibility-into-what-the-agent-can-access",
-      "date": "2026-09-22T20:12:28Z"
-    },
-    {
-      "title": "AI, EVs, cybersecurity on course list as Haryana upgrades govt ITIs",
-      "description": "[TIMES OF INDIA] Haryana to upgrade 60 govt ITIs in 12 clusters under PM-SETU, adding AI, EV, drones, cybersecurity and more, with industry-led courses and placements.",
-      "url": "https://timesofindia.indiatimes.com/city/gurgaon/ai-evs-cybersecurity-on-course-list-as-haryana-upgrades-govt-itis/articleshow/134419996.cms",
-      "date": "2026-09-22T19:49:00Z"
-    },
-    {
-      "title": "The Truth about GET and HTTP Standards, (Tue, Sep 22nd)",
-      "description": "[ISC] On Friday, Xavier talked about the newly introduced HTTP Query method. This new method was introduced to allow \"GET\" requests that include a body. The main reason for this was that GET requests typically do not contain a body. But what if they...",
-      "url": "https://isc.sans.edu/diary/rss/33358",
-      "date": "2026-09-22T19:06:15Z"
-    },
-    {
-      "title": "3 guys hacked OpenAI using a rival Anthropic model. Here's what it shows about frontier labs' vulnerabilities.",
-      "description": "[CBS NEWS] Cybersecurity researchers from a small firm called Hacktron in India broke into OpenAI, showing how vulnerable frontier labs are.",
-      "url": "https://www.cbsnews.com/news/openai-hack-anthropic-claude-vulnerabilities/",
-      "date": "2026-09-22T18:53:47Z"
-    },
-    {
-      "title": "Check Point Warns of Management Server Zero-Day Exploited in Targeted Attacks",
-      "description": "[THE HACKER NEWS] Check Point fixed a Security Management Server flaw exploited in targeted July attacks that can run scripts without login.",
-      "url": "https://thehackernews.com/2026/09/check-point-warns-of-management-server.html",
-      "date": "2026-09-22T18:29:00Z"
-    },
-    {
-      "title": "Palo Alto Networks taps Anthropic and OpenAI to automate corporate cyber defence",
-      "description": "[TIMES OF INDIA] Tech News News: Palo Alto Networks has announced an enterprise-grade cybersecurity service powered by artificial intelligence (AI) models from Anthropic and OpenAI, a.",
-      "url": "https://timesofindia.indiatimes.com/technology/tech-news/palo-alto-networks-taps-anthropic-and-openai-to-automate-corporate-cyber-defence/articleshow/134418333.cms",
-      "date": "2026-09-22T18:02:00Z"
-    },
-    {
-      "title": "LausivLoader analysis, or how to pass data between malware stages, (Thu, Sep 17th)",
-      "description": "[ISC] At the end of August, a malspam message was caught in the quarantine of a mail gateway operated by one of my customers. The message was not especially remarkable &#xe2;&#x20ac;&#x201c; it asked the recipient to review some attached requirements and...",
-      "url": "https://isc.sans.edu/diary/rss/33348",
-      "date": "2026-09-22T13:10:20Z"
-    },
-    {
-      "title": "GPT-6 Astra Breaks an Old Enigma Message",
-      "description": "[SCHNEIER] This is pretty amazing: However, the most astonishing thing about this break is that the GPT\u00ad6 Astra did it entirely on its own. Carter Leffer only directed GPT\u00ad6 Astra to see if it could break any of the unbroken Enigma messages published on the...",
-      "url": "https://www.schneier.com/blog/archives/2026/09/gpt-6-astra-breaks-an-old-enigma-message.html",
-      "date": "2026-09-22T11:02:45Z"
-    },
-    {
-      "title": "ISC Stormcast For Tuesday, September 22nd, 2026 https://isc.sans.edu/podcastdetail/10104, (Tue, Sep 22nd)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33356",
-      "date": "2026-09-22T03:50:10Z"
-    },
-    {
-      "title": "Reverse-Engineering Flock Cameras",
-      "description": "[SCHNEIER] Hackers captured a Flock camera and got a look (alternate link) at the software: While much of the automatic license plate reader&#8217;s (ALPR) most sensitive storage remained encrypted and inaccessible, the joint analysis of the recovered data...",
-      "url": "https://www.schneier.com/blog/archives/2026/09/reverse-engineering-flock-cameras.html",
-      "date": "2026-09-21T14:37:45Z"
-    },
-    {
-      "title": "TerminalFix: PNG Steganography, (Mon, Sep 21st)",
-      "description": "[ISC] Microsoft Security Research published an interesting blog post \"TerminalFix campaign deploys a reverse tunnel through multistage intrusion\" about a malware campaign. The aspect that I want to take a closer look at, is the fact that the threat actors...",
-      "url": "https://isc.sans.edu/diary/rss/33318",
-      "date": "2026-09-21T10:33:53Z"
-    },
-    {
-      "title": "Friday Squid Blogging: On Squid Egg Sacs",
-      "description": "[SCHNEIER] Short essay about squid egg sacs. As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered. Blog moderation policy.",
-      "url": "https://www.schneier.com/blog/archives/2026/09/friday-squid-blogging-on-squid-egg-sacs.html",
-      "date": "2026-09-18T21:06:00Z"
-    },
-    {
-      "title": "Are AIs Still Struggling with CAPTCHAs?",
-      "description": "[SCHNEIER] Anthropic&#8217;s recent security-incident document contains a bit about how CAPTCHAs are still frustrating Claude. In the transcript, the Claude model that is so powerful that Anthropic is gatekeeping access to it appeared to slam its virtual head...",
-      "url": "https://www.schneier.com/blog/archives/2026/09/are-ais-still-struggling-with-captchas.html",
-      "date": "2026-09-18T11:05:52Z"
-    },
-    {
-      "title": "How Candidates Could Use AI for Good",
-      "description": "[SCHNEIER] This essay was written with Nathan E. Sanders, and originally appeared in The Guardian. There are plenty of signs that AI will make all of our experiences of the US midterm elections worse. Voters have anxiety about AI&#8217;s impacts on the...",
-      "url": "https://www.schneier.com/blog/archives/2026/09/how-candidates-could-use-ai-for-good.html",
-      "date": "2026-09-17T11:06:31Z"
-    }
-  ]
+    "title": "Sentinel Protocol",
+    "tagline": "Perimeter Intelligence Sync",
+    "updated": "2026-09-23 15:16 UTC",
+    "news": [
+        {
+            "source": {
+                "id": null,
+                "name": "Biztoc.com"
+            },
+            "author": "newsweek.com",
+            "title": "Map Shows Which European Countries Are Preparing Citizens for Crisis",
+            "description": "Governments across Europe are increasingly telling citizens to prepare at home for a major crisis like war, extreme weather and cybersecurity threats, with Ireland becoming the latest country to push emergency preparedness guidance directly into households.\nL\u2026",
+            "url": "https://biztoc.com/x/f5a31d12feca026f",
+            "urlToImage": "https://biztoc.com/cdn/f5a31d12feca026f_s.webp",
+            "publishedAt": "2026-09-22T15:13:34Z",
+            "content": "Governments across Europe are increasingly telling citizens to prepare at home for a major crisis like war, extreme weather and cybersecurity threats, with Ireland becoming the latest country to push\u2026 [+141 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Protothema.gr"
+            },
+            "author": "Electra Delavogia",
+            "title": "Foreign Capitals, K.M. and the Pressure at the Ballot Box, Nikos A.\u2019s Airport Transfers and Alexis\u2019 Bench \u2014 Let\u2019s All Go to Katerina for Psychotherapy",
+            "description": "///\nThe post Foreign Capitals, K.M. and the Pressure at the Ballot Box, Nikos A.\u2019s Airport Transfers and Alexis\u2019 Bench \u2014 Let\u2019s All Go to Katerina for Psychotherapy appeared first on ProtoThema English.",
+            "url": "https://en.protothema.gr/2026/09/22/foreign-capitals-k-m-and-the-pressure-at-the-ballot-box-nikos-a-s-airport-transfers-and-alexis-bench-lets-all-go-to-katerina-for-psychotherapy/",
+            "urlToImage": "https://en.protothema.gr/wp-content/uploads/2024/06/ProtothemaEn.png",
+            "publishedAt": "2026-09-22T15:12:30Z",
+            "content": "\u2013Greetings, Mitsotakis is in San Francisco and is meeting major investors, among other contacts, and when I asked a very well-known businessman how come there is such a great deal of appetite among f\u2026 [+29145 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "KPBS"
+            },
+            "author": "City News Service",
+            "title": "SD library system to offer Google certificate program",
+            "description": "San Diego Public Library officials announced Tuesday they are teaming up Google to offer free career advancement courses for county residents wanting to improve their workforce skills.",
+            "url": "https://www.kpbs.org/news/education/2026/09/22/sd-library-system-to-offer-google-certificate-program",
+            "urlToImage": "https://cdn.kpbs.org/dims4/default/3d900d2/2147483647/strip/true/crop/1200x630+0+135/resize/1200x630!/quality/90/?url=http%3A%2F%2Fkpbs-brightspot.s3.us-west-2.amazonaws.com%2Fimg%2Fphotos%2F2019%2F05%2F21%2FIMG_0743.JPG",
+            "publishedAt": "2026-09-22T15:08:11Z",
+            "content": "San Diego Public Library officials announced Tuesday they are teaming up Google to offer free career advancement courses for county residents wanting to improve their workforce skills.\r\nAccording to \u2026 [+2936 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BleepingComputer"
+            },
+            "author": "pineapplecake4465",
+            "title": "Hello, glad to join the community!",
+            "description": "Hello, glad to join the community! - posted in Introductions: Hello, just joined the forum, Im interested in cybersecurity, new tech gadgets, VPN options and subscription tips. Looking forward to participate in discussions.",
+            "url": "https://www.bleepingcomputer.com/forums/t/818775/hello-glad-to-join-the-community/",
+            "urlToImage": "https://www.bleepingcomputer.com/forums/public/style_images/master/meta_image.png",
+            "publishedAt": "2026-09-22T15:05:02Z",
+            "content": "Hello, just joined the forum, I'm interested in cybersecurity, new tech gadgets, VPN options and subscription tips. Looking forward to participate in discussions."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BleepingComputer"
+            },
+            "author": "pedroadriao",
+            "title": "Unidentified ransomware - .EGDN84DGq extension, \"LMM Network\" Telegram contact",
+            "description": "Unidentified ransomware - .EGDN84DGq extension, \"LMM Network\" Telegram contact - posted in Ransomware Help & Tech Support: Hello,\n\u00a0\nMy Windows 10 PC was encrypted on September 22, 2026 around 12:00 (Portugal time).\n\u00a0\n- All files were renamed with the extensio\u2026",
+            "url": "https://www.bleepingcomputer.com/forums/t/818776/unidentified-ransomware-egdn84dgq-extension-lmm-network-telegram-contact/",
+            "urlToImage": "https://www.bleepingcomputer.com/forums/public/style_images/master/meta_image.png",
+            "publishedAt": "2026-09-22T15:05:02Z",
+            "content": "1 members, 7 guests, 0 anonymous users"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Malwarebytes.com"
+            },
+            "author": "Pieter Arntz",
+            "title": "Some cheap smart glasses are a security disaster",
+            "description": "Tests found that some cheap smart glasses can be hijacked over Bluetooth, exposing their owners\u2019 photos, videos, and personal data.",
+            "url": "https://www.malwarebytes.com/blog/news/2026/09/some-cheap-smart-glasses-are-a-security-disaster",
+            "urlToImage": "https://www.malwarebytes.com/wp-content/uploads/sites/2/2026/09/smart_glasses.png",
+            "publishedAt": "2026-09-22T15:04:25Z",
+            "content": "Apart from the privacy concerns around smart glasses, researchers have found that some cheap brands come with barely any security at all.\r\nABC Australia reports that researchers from NSB Cyber and Ab\u2026 [+3396 chars]"
+        },
+        {
+            "source": {
+                "id": "financial-post",
+                "name": "Financial Post"
+            },
+            "author": "GlobeNewswire",
+            "title": "FT Portfolios Canada Co. Announces Cash Distributions for Its Exchange Traded Funds",
+            "description": "TSX: FUD, FSL, ETP, CIBR, FHG/FHG.F, FDL, FINT, FST, FTLS, SGRD, RCTR & BLCK Cboe CA: FJFB, SDVY/SDVY.F & SDVD TORONTO, Sept. 22, 2026 (GLOBE NEWSWIRE) \u2014 FT Portfolios Canada Co. (\u201cFirst Trust Canada\u201d) is pleased to announce cash distributions for its Exchang\u2026",
+            "url": "https://financialpost.com/globe-newswire/ft-portfolios-canada-co-announces-cash-distributions-for-its-exchange-traded-funds-49",
+            "urlToImage": null,
+            "publishedAt": "2026-09-22T15:02:43Z",
+            "content": "TSX: FUD, FSL, ETP, CIBR, FHG/FHG.F, FDL, FINT, FST, FTLS, SGRD, RCTR &amp; BLCK\r\nTHIS CONTENT IS RESERVED FOR SUBSCRIBERS ONLY\r\nSubscribe now to read the latest news in your city and across Canada.\r\u2026 [+5098 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Techcrunch Events",
+            "title": "Five AI safety sessions every founder should have on their Disrupt 2026 agenda | TechCrunch",
+            "description": "At TechCrunch Disrupt 2026, five sessions across the AI Stage and Real World AI Stage cover AI safety. Register now to save up to $200 before Sept 25.",
+            "url": "https://techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/Disrupt-2025-AI-Stage.jpg?resize=1200,800",
+            "publishedAt": "2026-09-22T15:00:00Z",
+            "content": "Would you trust an AI agent with access to your companys systems? Put your employees in an autonomous vehicle? Deploy a robot that has to make sense of an unpredictable physical world?\r\nThese arent h\u2026 [+6406 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PRNewswire"
+            },
+            "author": null,
+            "title": "DeNexus Joins ISA Global Cybersecurity Alliance to Facilitate Broad Adoption of OT Cybersecurity Standards",
+            "description": "DURHAM, N.C., Sept. 22, 2026 /PRNewswire/ -- The International Society of Automation (ISA) \u2014 the leading professional society for automation \u2014 announced that DeNexus has officially joined the ISA Global Cybersecurity Alliance (ISAGCA), demonstrating its commi\u2026",
+            "url": "https://www.prnewswire.com/news-releases/denexus-joins-isa-global-cybersecurity-alliance-to-facilitate-broad-adoption-of-ot-cybersecurity-standards-302886327.html",
+            "urlToImage": "https://mmx.prnewswire.com/media/MS1677655/ISA-Logo-with-Name-and-Tag-Line-320px-Logo-Logo.jpg?id=OA2956067&p=facebook",
+            "publishedAt": "2026-09-22T15:00:00Z",
+            "content": "DURHAM, N.C., Sept. 22, 2026 /PRNewswire/ -- The\u00a0International Society of Automation\u00a0(ISA) the leading professional society for automation announced that\u00a0DeNexus has officially joined\u00a0the ISA Global \u2026 [+4381 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Theregister.com"
+            },
+            "author": "Robin Birtstone",
+            "title": "Who signed off on that AI agent? Nobody? Thought so.",
+            "description": "SPONSORED FEATURE: AI agents may be unpredictable. Who they are, what they can do, and who owns them shouldn\u2019t be.",
+            "url": "https://www.theregister.com/security/2026/09/22/sponsored/5297693",
+            "urlToImage": "https://image.theregister.com/5297696.jpg?imageId=5297696&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+            "publishedAt": "2026-09-22T15:00:00Z",
+            "content": "If you were in any doubt that AI agents are capable of complex autonomous work, that skepticism should have faded this summer.\r\nIn July, news emerged that an autonomous swarm of OpenAI agents running\u2026 [+8989 chars]"
+        }
+    ]
 }
