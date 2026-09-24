@@ -1,6 +1,12 @@
 {
-  "updated": "2026-09-23 22:33:27 UTC",
+  "updated": "2026-09-24 02:15:50 UTC",
   "news": [
+    {
+      "title": "Placeholder domain used in dev docs now serves ClickFix attacks",
+      "description": "[BLEEPINGCOMPUTER] The \"third-party.com\" domain, commonly used as a placeholder in developer documentation and code examples, is serving a fake Cloudflare verification page that attempts to trick Windows users into executing PowerShell commands. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/placeholder-domain-used-in-dev-docs-now-serves-clickfix-attacks/",
+      "date": "2026-09-23T22:46:01Z"
+    },
     {
       "title": "New RemControl Android banking malware targets users in Europe and Canada",
       "description": "[BLEEPINGCOMPUTER] A new Android malware-as-a-service (MaaS) platform called RemControl is targeting users through malvertising campaigns that impersonate the TVTap IPTV application. [...]",
@@ -62,10 +68,10 @@
       "date": "2026-09-23T14:17:58Z"
     },
     {
-      "title": "How One Kubernetes YAML Can Hand Over a GCP Organization",
-      "description": "[BLEEPINGCOMPUTER] A Kubernetes user with limited permissions can potentially gain control of an entire Google Cloud organization by exploiting the authority granted to Google Kubernetes Config Connector. Varonis explains how this confused deputy problem can turn a...",
-      "url": "https://www.bleepingcomputer.com/news/security/how-one-kubernetes-yaml-can-hand-over-a-gcp-organization/",
-      "date": "2026-09-23T14:01:11Z"
+      "title": "Upwind acquires Aegis as cybersecurity firm builds new AI Security Labs",
+      "description": "[TNW] Upwind acquires Aegis and launches AI Security Labs, led by Aegis co-founders Omri Limor and Saar Ankonina, to secure AI agents, skills and plugins.",
+      "url": "https://thenextweb.com/news/upwind-acquires-aegis-ai-security-labs",
+      "date": "2026-09-23T14:04:23Z"
     },
     {
       "title": "Compromised MemTensor Packages Deliver sckit Credential Stealer via npm and PyPI",
@@ -74,10 +80,58 @@
       "date": "2026-09-23T13:52:46Z"
     },
     {
+      "title": "Hurun rich list 2026: Meet the 10 Indian-origin billionaires who built fortunes in tech",
+      "description": "[THE FINANCIAL EXPRESS] The M3M Hurun India Rich List 2026 highlights Indian-origin technology entrepreneurs and executives worldwide, showcasing wealth built in cybersecurity, AI, cloud computing, and semiconductors with rising global influence.",
+      "url": "https://www.financialexpress.com/world-news/hurun-rich-list-2026-meet-the-10-indian-origin-billionaires-who-built-fortunes-in-tech/4345638/",
+      "date": "2026-09-23T13:17:10Z"
+    },
+    {
+      "title": "Meta\u2019s Muse AI Assistant Rolled Out With a Serious Security Flaw",
+      "description": "[WIRED] Meta says it issued a fix for the Muse zero-day vulnerability that would have let attackers do \u201cwhatever\u201d they wanted on a victim\u2019s Mac, highlighting the inherent dangers of AI helpers.",
+      "url": "https://www.wired.com/story/metas-muse-ai-agent-zero-day/",
+      "date": "2026-09-23T12:54:58Z"
+    },
+    {
+      "title": "Silent Sentinel : How an Indian Cyber Pioneer Joined Forces with the UAE to Secure the Global Frontier",
+      "description": "[THE TRIBUNE] New Delhi [India], September 23: As millions of sensitive personal records fall prey to relentless cyber threats, protecting digital lives demands more than just defense. Kerala-born tech innovator Nandakishore Harikumar took a radical...",
+      "url": "https://www.tribuneindia.com/news/business/silent-sentinel-how-an-indian-cyber-pioneer-joined-forces-with-the-uae-to-secure-the-global-frontier/",
+      "date": "2026-09-23T12:22:54Z"
+    },
+    {
+      "title": "Bell Cyber and Cohere deploy sovereign AI for Canadian cybersecurity operations",
+      "description": "[THE LONDON FREE PRESS] Domain-specific cybersecurity model built using Cohere's secure enterprise AI technology and Bell Cyber expertise is running in Canada on Bell AI",
+      "url": "https://lfpress.com/press-releases/pr-newswire/bell-cyber-and-cohere-deploy-sovereign-ai-for-canadian-cybersecurity-operations/",
+      "date": "2026-09-23T12:22:18Z"
+    },
+    {
+      "title": "Bell Cyber and Cohere deploy sovereign AI for Canadian cybersecurity operations",
+      "description": "[THE KINGSTON WHIG-STANDARD] Domain-specific cybersecurity model built using Cohere's secure enterprise AI technology and Bell Cyber expertise is running in Canada on Bell AI",
+      "url": "https://www.thewhig.com/press-releases/pr-newswire/bell-cyber-and-cohere-deploy-sovereign-ai-for-canadian-cybersecurity-operations/",
+      "date": "2026-09-23T12:22:09Z"
+    },
+    {
+      "title": "From India to Silicon Valley: India-raised founders build $1 trn global startup footprint",
+      "description": "[THE FINANCIAL EXPRESS] Indian-raised founders have built a $1.09 trillion global startup empire, with $560 billion value abroad and $349 billion for India-based unicorns across sectors like cybersecurity and technology.",
+      "url": "https://www.financialexpress.com/world-news/from-india-to-silicon-valley-india-raised-founders-build-1-trn-global-startup-footprint/4345594/",
+      "date": "2026-09-23T12:18:36Z"
+    },
+    {
+      "title": "Silent Sentinel : How an Indian Cyber Pioneer Joined Forces with the UAE to Secure the Global Frontier",
+      "description": "[ANI (ASIAN NEWS INTERNATIONAL)] New Delhi [India], September 23: As millions of sensitive personal records fall prey to relentless cyber threats, protecting digital lives demands more than just defense. Kerala-born tech innovator Nandakishore Harikumar took a radical...",
+      "url": "https://www.aninews.in/news/business/silent-sentinel-how-an-indian-cyber-pioneer-joined-forces-with-the-uae-to-secure-the-global-frontier20260923174809/",
+      "date": "2026-09-23T12:18:09Z"
+    },
+    {
       "title": "New cPanel Flaw Lets a Hosting Account Run Code as Root, Take Full Server Control",
       "description": "[FEEDS] A flaw in cPanel's&nbsp;CalDAV and CardDAV service&nbsp;lets anyone with a cPanel hosting account run code as root and take \"full control of the server,\" the company said on September 22. A&nbsp;second bug in the WP Toolkit plugin, used to install...",
       "url": "https://thehackernews.com/2026/09/new-cpanel-flaw-lets-hosting-account_0272795595.html",
       "date": "2026-09-23T12:16:00Z"
+    },
+    {
+      "title": "British cybersecurity firm plots \u00a311m AIM float as London IPOs stir",
+      "description": "[CITY A.M.] Cybersecurity firm Chaleit is set to float on London\u2019s junior market, becoming the second company to unveil plans for a listing on Tuesday",
+      "url": "https://www.cityam.com/british-cybersecurity-firm-plots-11m-aim-float-as-london-ipos-stir/",
+      "date": "2026-09-23T12:12:15Z"
     },
     {
       "title": "Research on Models Engaging in Genie-Like Behavior",
@@ -86,64 +140,10 @@
       "date": "2026-09-23T11:03:36Z"
     },
     {
-      "title": "CBSE teen hacker Nisarga gets named in US DoJ Hall of Fame, says he found critical flaw",
-      "description": "[INDIA TODAY] 19-year-old cybersecurity researcher Nisarga Adhikary has been named in the US Department of Justice\u2019s Hall of Fame. He tells India Today Tech, he was acknowledged after finding a \u201ccritical vulnerability in one of their largest law enforcement...",
-      "url": "https://www.indiatoday.in/technology/news/story/nisarga-gets-named-in-us-doj-hall-of-fame-says-he-found-critical-flaw-3000977-2026-09-23",
-      "date": "2026-09-23T09:15:50Z"
-    },
-    {
-      "title": "Quest Apartment Hotels customers urged to check passport and driver\u2019s licence details after data breach",
-      "description": "[PERTHNOW] Quest Apartment Hotels\u2019 customers have been warned to check their passport and driver\u2019s licence details following a data breach last month.",
-      "url": "https://www.perthnow.com.au/news/quest-apartment-hotels-customers-urged-to-check-passport-and-drivers-licence-details-after-data-breach-c-22917436",
-      "date": "2026-09-23T09:15:08Z"
-    },
-    {
-      "title": "F5 Patches Critical BIG-IP APM Zero-Day Exploited for Unauthenticated RCE on OAuth Servers",
-      "description": "[THE HACKER NEWS] Unauthenticated attackers are exploiting CVE-2026-94127 in F5 BIG-IP APM to run code on systems acting as OAuth authorization servers.",
-      "url": "https://thehackernews.com/2026/09/f5-patches-critical-big-ip-apm-zero-day.html",
-      "date": "2026-09-23T08:29:00Z"
-    },
-    {
-      "title": "Chinese Hackers Exploit Chrome-Windows Zero-Day Chain to Deploy CLEANGULP Malware",
-      "description": "[THE HACKER NEWS] UTA0565 exploited a Chrome-Windows zero-day chain through fake websites to deploy CLEANGULP malware against Asian government entities.",
-      "url": "https://thehackernews.com/2026/09/chinese-hackers-exploit-chrome-windows.html",
-      "date": "2026-09-23T08:29:00Z"
-    },
-    {
-      "title": "Kratikal Tech approves US subsidiary for cybersecurity expansion",
-      "description": "[SCANX.TRADE] Incorporated wholly owned subsidiary in Delaware, USA, named Kratikal AI Inc. or Kratikal Inc. New entity focuses on cybersecurity solutions and information security services as an SPV. Appointed Mittal V Kothari & Associates as Secretarial Auditor...",
-      "url": "https://scanx.trade/stock-market-news/companies/kratikal-tech-approves-us-subsidiary-cybersecurity-expansion/51695043",
-      "date": "2026-09-23T07:44:12Z"
-    },
-    {
-      "title": "Critical Infrastructure, AI Security and Cyber Geopolitics Take Centre Stage on Day 2 at GISEC 2026",
-      "description": "[TECHBULLION] GISEC Global 2026 Day 2 examines ICS and OT security, autonomous SOCs, AI driven cyber defence, cyber diplomacy and the evolving cybersecurity workforce.",
-      "url": "https://techbullion.com/critical-infrastructure-ai-security-and-cyber-geopolitics-take-centre-stage-on-day-2-at-gisec-2026/",
-      "date": "2026-09-23T07:07:56Z"
-    },
-    {
-      "title": "Poland Seeks India AI Cooperation As Cyber Threats Rise",
-      "description": "[EUROPE SAYS] Poland is seeking deeper cooperation with India on artificial intelligence, cybersecurity and digital infrastructure as Warsaw responds to a sharp rise in",
-      "url": "https://www.europesays.com/3267743/",
-      "date": "2026-09-23T07:05:26Z"
-    },
-    {
-      "title": "Jindal Stainless signs MoU with Nasscom for digital workforce skilling",
-      "description": "[SCANX.TRADE] Signed MoU with Nasscom to provide employee access to FutureSkills Prime. Offers certifications in AI, Big Data, Cloud Computing, and Cybersecurity. Supports Smart Factory 4.0 initiatives at Hisar and Jajpur facilities. Provides co-branded...",
-      "url": "https://scanx.trade/stock-market-news/companies/jindal-stainless-teams-up-nasscom-futureskills-prime-digital-skilling/51690773",
-      "date": "2026-09-23T06:44:30Z"
-    },
-    {
-      "title": "Mohammed bin Rashid bin Mohammed opens GISEC Global 2026 and tours event",
-      "description": "[TECHBULLION] GISEC Global 2026 opens in Dubai 20% larger than last year, bringing 750 exhibitors, 350 speakers and cybersecurity leaders from more than 180 countries.",
-      "url": "https://techbullion.com/mohammed-bin-rashid-bin-mohammed-opens-gisec-global-2026-and-tours-event/",
-      "date": "2026-09-23T06:10:38Z"
-    },
-    {
-      "title": "\u2018What attracted me to cyber was tech, what kept me was purpose\u2019",
-      "description": "[SILICONREPUBLIC.COM] EY's Maez de Guzman explores her role in the evolving cybersecurity space and discusses the impact AI is having on the global community.",
-      "url": "https://www.siliconrepublic.com/machines/cyber-tech-purpose-skill-leadership-working-life-women-invent-ey",
-      "date": "2026-09-23T06:00:35Z"
+      "title": "CISA: Chinese steel industry enters new stage focused on high-end intelligent and green development",
+      "description": "[STEELORBIS] China's steel industry has completed its scale expansion and is now entering a new stage focused on high-end, intelligent and green development, ...",
+      "url": "https://www.steelorbis.com/steel-news/latest-news/cisa-chinese-steel-industry-enters-new-stage-focused-on-high-end-intelligent-and-green-development-1479261.htm",
+      "date": "2026-09-23T11:03:12Z"
     },
     {
       "title": "ISC Stormcast For Wednesday, September 23rd, 2026 https://isc.sans.edu/podcastdetail/10106, (Wed, Sep 23rd)",
