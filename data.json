@@ -1,6 +1,60 @@
 {
-  "updated": "2026-09-24 08:51:21 UTC",
+  "updated": "2026-09-24 14:31:19 UTC",
   "news": [
+    {
+      "title": "FedRAMP VDR & VER: Daily Scans Are Only the Beginning",
+      "description": "[BLEEPINGCOMPUTER] FedRAMP's new VDR and VER requirements make vulnerability management more continuous, with faster scanning, tighter remediation deadlines, and stronger evidence requirements. Anecdotes explains why the December 7 deadline is just the beginning of a...",
+      "url": "https://www.bleepingcomputer.com/news/security/fedramp-vdr-and-ver-daily-scans-are-only-the-beginning/",
+      "date": "2026-09-24T14:02:12Z"
+    },
+    {
+      "title": "Hackers now exploit critical Roundcube flaw in code injection attacks",
+      "description": "[BLEEPINGCOMPUTER] A high-severity Roundcube Webmail vulnerability patched in May is now being actively exploited in attacks, according to the Canadian Centre for Cyber Security. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/critical-roundcube-flaw-now-actively-exploited-in-code-injection-attacks/",
+      "date": "2026-09-24T13:27:57Z"
+    },
+    {
+      "title": "Windows 11 KB5124010 update released with 46 changes and fixes",
+      "description": "[BLEEPINGCOMPUTER] Microsoft released the KB5124010 September 2026 non-security preview update for Windows 11 24H2 and 25H2, with 46 changes including Bluetooth improvements and the ability to remap the Copilot key. [...]",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5124010-update-released-with-46-changes-and-fixes/",
+      "date": "2026-09-24T12:16:32Z"
+    },
+    {
+      "title": "Corp MDM Spyware Targets Logistics Firms, Steals New SMS and Redirects Calls",
+      "description": "[FEEDS] The logistics sector has become the target of a new malicious cyber campaign that distributes an Android spyware codenamed Corp MDM. According to Have I Been Squatted, the campaign uses fake Google Play pages branded as CEVA and TKW Logistics to...",
+      "url": "https://thehackernews.com/2026/09/corp-mdm-spyware-targets-logistics.html",
+      "date": "2026-09-24T12:05:27Z"
+    },
+    {
+      "title": "Malicious npm Packages That Evade Defenses",
+      "description": "[SCHNEIER] This is an impressive piece of malware. Its sophistication says nation-state to me, but there is no direct evidence and certainly no attribution.",
+      "url": "https://www.schneier.com/blog/archives/2026/09/malicious-npm-packages-that-evade-defenses.html",
+      "date": "2026-09-24T11:07:42Z"
+    },
+    {
+      "title": "Secrets Sprawl Is an Identity Problem That AI Just Made Impossible to Ignore",
+      "description": "[FEEDS] AI coding agents are changing how quickly developers can build and ship software as well as how quickly credentials can become exposed. According to GitGuardian\u2019s 2026 State of Secrets Sprawl Report, commits identified as AI-assisted are leaking...",
+      "url": "https://thehackernews.com/2026/09/secrets-sprawl-is-identity-problem-that.html",
+      "date": "2026-09-24T11:00:00Z"
+    },
+    {
+      "title": "CISA: Ransomware gangs now exploiting critical TeamCity flaw",
+      "description": "[BLEEPINGCOMPUTER] \u200bThe U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies on Wednesday that ransomware gangs are now also exploiting a critical JetBrains TeamCity vulnerability patched in July. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-ransomware-gangs-now-exploiting-critical-teamcity-flaw/",
+      "date": "2026-09-24T10:42:37Z"
+    },
+    {
+      "title": "OpenAI hacked Australian Medicare govt site, probed data providers",
+      "description": "[BLEEPINGCOMPUTER] OpenAI agents targeted public data providers in multiple countries, probing some for vulnerabilities and exploiting a security weakness in an Australian government portal while performing information-retrieval tasks as part of a research project....",
+      "url": "https://www.bleepingcomputer.com/news/security/openai-hacked-australian-medicare-govt-site-probed-data-providers/",
+      "date": "2026-09-24T09:38:53Z"
+    },
+    {
+      "title": "17,000 URLs Reveal How ClickFix Turns Trusted Websites Into Malware Traps: Report by CTM360",
+      "description": "[FEEDS] ClickFix has become the most common way attackers get into enterprise networks, and it does it without an exploit, an attachment, or a file on disk. Our new global threat report traces the technique from a novelty in late 2023 to a subscription...",
+      "url": "https://thehackernews.com/2026/09/17000-urls-reveal-how-clickfix-turns.html",
+      "date": "2026-09-24T09:14:21Z"
+    },
     {
       "title": "Microsoft fixes bug that broke Windows File History backup feature",
       "description": "[BLEEPINGCOMPUTER] Microsoft has fixed a known issue that breaks the built-in File History backup feature on some Windows systems after installing the September 2026 security updates. [...]",
@@ -38,118 +92,70 @@
       "date": "2026-09-24T03:50:11Z"
     },
     {
-      "title": "Placeholder domain used in dev docs now serves ClickFix attacks",
-      "description": "[BLEEPINGCOMPUTER] The \"third-party.com\" domain, commonly used as a placeholder in developer documentation and code examples, is serving a fake Cloudflare verification page that attempts to trick Windows users into executing PowerShell commands. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/placeholder-domain-used-in-dev-docs-now-serves-clickfix-attacks/",
-      "date": "2026-09-23T22:46:01Z"
+      "title": "Factbox-OpenAI data breach latest in long list of hacks in Australia",
+      "description": "[THE STAR] SYDNEY, Sept 24 (Reuters) - Australia said \u2060on Thursday an OpenAI agent breached a government health data portal in June, \u2060gaining unauthorised access to files, in what could be the first known \u200cinstance of an AI agent hacking a government website.",
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/09/24/factbox-openai-data-breach-latest-in-long-list-of-hacks-in-australia",
+      "date": "2026-09-24T02:16:00Z"
     },
     {
-      "title": "New RemControl Android banking malware targets users in Europe and Canada",
-      "description": "[BLEEPINGCOMPUTER] A new Android malware-as-a-service (MaaS) platform called RemControl is targeting users through malvertising campaigns that impersonate the TVTap IPTV application. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/new-remcontrol-android-banking-malware-targets-users-in-europe-and-canada/",
-      "date": "2026-09-23T21:25:13Z"
+      "title": "OpenAI data breach latest in long list of hacks in Australia",
+      "description": "[REUTERS] Australia said on Thursday an OpenAI agent breached a government health data portal in June, gaining unauthorised access to files, in what could be the \u200bfirst known instance of an AI agent hacking a government website.",
+      "url": "https://www.reuters.com/legal/litigation/openai-data-breach-latest-long-list-hacks-australia-2026-09-24/",
+      "date": "2026-09-24T02:01:24Z"
     },
     {
-      "title": "Check Point warns of hackers exploiting Security Gateway VPN RCE flaw",
-      "description": "[BLEEPINGCOMPUTER] Cybersecurity company Check Point has confirmed active exploitation of CVE-2026-85102, a pre-authentication remote code execution (RCE) vulnerability in the VPN certificate-handling functionality of its Security Gateway product. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/check-point-warns-of-hackers-exploiting-security-gateway-vpn-rce-flaw/",
-      "date": "2026-09-23T19:53:54Z"
+      "title": "FACTBOX-OpenAI data breach latest in long list of hacks in Australia",
+      "description": "[DEVDISCOURSE] Read more about FACTBOX-OpenAI data breach latest in long list of hacks in Australia on Devdiscourse",
+      "url": "https://www.devdiscourse.com/article/international/3981600-factbox-openai-data-breach-latest-in-long-list-of-hacks-in-australia",
+      "date": "2026-09-24T01:56:46Z"
     },
     {
-      "title": "Information Security for Executives Addresses AI-Driven and Other Cybersecurity Risks for Business Leaders",
-      "description": "[THE MANILA TIMES] New book provides practical guidance for executives overseeing cybersecurity, governance, and emerging digital threats",
-      "url": "https://www.manilatimes.net/2026/09/24/tmt-newswire/globenewswire/information-security-for-executives-addresses-ai-driven-and-other-cybersecurity-risks-for-business-leaders/2431709",
-      "date": "2026-09-23T18:59:00Z"
+      "title": "OpenAI agents plotted to access government health data amid Medicare hack, logs reveal",
+      "description": "[ABC (AUSTRALIAN BROADCASTING CORPORATION)] OpenAI's rogue artificial intelligence agents appear to have worked together to try to circumvent cybersecurity defences and find ways to access Australian government health data, according to conversation logs.",
+      "url": "https://www.abc.net.au/news/2026-09-24/openai-agents-plotted-to-access-data-amid-medicare-hack/107189504",
+      "date": "2026-09-24T00:42:50Z"
     },
     {
-      "title": "Hackers start exploiting critical WordPress flaw for code execution",
-      "description": "[BLEEPINGCOMPUTER] Threat actors have moved from probing WordPress sites vulnerable to CVE-2026-87902 to exploiting the flaw to write files to disk that execute shell commands when accessed. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-start-exploiting-critical-wordpress-flaw-for-code-execution/",
-      "date": "2026-09-23T18:31:22Z"
+      "title": "North Korean IT contractor found remote work in New Zealand: agency",
+      "description": "[BANGKOK POST] WELLINGTON - A North Korean IT worker used a fake identity to obtain remote work with a New Zealand company and then threatened to release sensitive information when exposed, Wellington's cybersecurity agency said Thursday.",
+      "url": "https://www.bangkokpost.com/world/3325274/north-korean-it-contractor-found-remote-work-in-new-zealand-agency",
+      "date": "2026-09-24T00:14:00Z"
     },
     {
-      "title": "Attackers Use Malicious Terraform Providers to Deliver Go Malware via HashiCorp Registry",
-      "description": "[FEEDS] Cybersecurity researchers have disclosed Go-based malware distributed via two Go Modules and two Terraform providers, marking the first time threat actors are using the centralized repository hosted by HashiCorp as a distribution vector for...",
-      "url": "https://thehackernews.com/2026/09/attackers-use-malicious-terraform.html",
-      "date": "2026-09-23T18:06:30Z"
+      "title": "Bell, Cohere release AI model designed to aid cybersecurity investigations",
+      "description": "[THE GLOBE AND MAIL] Organizations around the world have raced to integrate AI into their defences in response to growing concerns about hackers using the technology",
+      "url": "https://www.theglobeandmail.com/business/article-bell-cohere-ai-model-cybersecurity-investigations/",
+      "date": "2026-09-23T23:46:21Z"
     },
     {
-      "title": "Hackers say they stole thousands of sensitive FBI personnel records",
-      "description": "[SANTA ROSA PRESS DEMOCRAT] The compromise, if confirmed, would be the latest in a string of cybersecurity failures at the FBI, which said it was investigating the matter.",
-      "url": "https://www.pressdemocrat.com/2026/09/23/hackers-say-they-stole-thousands-of-sensitive-fbi-personnel-records/",
-      "date": "2026-09-23T18:05:41Z"
+      "title": "Facebook accused of deceiving users in New Mexico as trial over privacy scandal wraps up",
+      "description": "[SANTA ROSA PRESS DEMOCRAT] New Mexico is the only state that has taken the data breach claims to trial as part of its go-it-alone approach to press for more accountability from Meta.",
+      "url": "https://www.pressdemocrat.com/2026/09/23/facebook-new-mexico/",
+      "date": "2026-09-23T23:38:33Z"
     },
     {
-      "title": "Ransomware Economics: Why the Ransom Is the Smallest Line on the Invoice",
-      "description": "[TECHBULLION] comparison to the financial devastation wrought by ransomware incidents, making cybersecurity investment not just a technical necessity but a strategic imperative.",
-      "url": "https://techbullion.com/ransomware-economics-why-the-ransom-is-the-smallest-line-on-the-invoice/",
-      "date": "2026-09-23T17:58:37Z"
+      "title": "Facebook accused of deceiving users in New Mexico as trial over privacy scandal wraps up",
+      "description": "[ST. PAUL PIONEER PRESS] New Mexico is the only state that has taken the data breach claims to trial as part of its go-it-alone approach to press for more accountability from Meta.",
+      "url": "https://www.twincities.com/2026/09/23/facebook-new-mexico/",
+      "date": "2026-09-23T23:38:33Z"
     },
     {
-      "title": "A Leaked GitLab Issue Email Address Lets Anyone Push Code and Run CI Jobs as You",
-      "description": "[FEEDS] The private email address GitLab gives you for filing issues by email is a credential. Anyone who gets it can email a patch that GitLab commits in your name, to any branch you can push to, including main, and can start CI/CD jobs that run as you....",
-      "url": "https://thehackernews.com/2026/09/a-leaked-gitlab-issue-email-address.html",
-      "date": "2026-09-23T16:53:10Z"
+      "title": "Facebook accused of deceiving users in New Mexico as trial over privacy scandal wraps up",
+      "description": "[READING EAGLE] New Mexico is the only state that has taken the data breach claims to trial as part of its go-it-alone approach to press for more accountability from Meta.",
+      "url": "https://www.readingeagle.com/2026/09/23/facebook-new-mexico/",
+      "date": "2026-09-23T23:38:33Z"
     },
     {
-      "title": "Malicious AI agents steal 600K credit cards, infect 100+ sites with skimmers",
-      "description": "[BLEEPINGCOMPUTER] A financially motivated threat actor is using open-source AI agent frameworks to attack hundreds of online retailers at scale, stealing more than 600,000 credit card records. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/malicious-ai-agents-steal-600k-credit-cards-infect-100-plus-sites-with-skimmers/",
-      "date": "2026-09-23T16:20:54Z"
-    },
-    {
-      "title": "Bell, Cohere deploy Canadian cybersecurity AI for threat investigation",
-      "description": "[MOBILESYRUP] Bell and Cohere have announced the deployment of a new sovereign AI large language model to assist its cybersecurity team.",
-      "url": "https://mobilesyrup.com/2026/09/23/bell-cohere-canadian-cybersecurity-ai/",
-      "date": "2026-09-23T16:16:29Z"
+      "title": "Facebook accused of deceiving users in New Mexico as trial over privacy scandal wraps up",
+      "description": "[SANTA ANA ORANGE COUNTY REGISTER] New Mexico is the only state that has taken the data breach claims to trial as part of its go-it-alone approach to press for more accountability from Meta.",
+      "url": "https://www.ocregister.com/2026/09/23/facebook-new-mexico/",
+      "date": "2026-09-23T23:38:33Z"
     },
     {
       "title": "Macfinger ClickFix campaign, (Tue, Sep 22nd)",
       "description": "[ISC] Introduction&#xd;",
       "url": "https://isc.sans.edu/diary/rss/33360",
       "date": "2026-09-23T16:14:37Z"
-    },
-    {
-      "title": "MikroTrick Chain Let Attackers Take Over MikroTik Routers Without a Password or SSH Key",
-      "description": "[FEEDS] Two MikroTik RouterOS SSH vulnerabilities chained together let attackers take full administrative control of Internet-exposed routers without a password, SSH key, or completed authentication. The chain, which CERT Polska calls MikroTrick, combines...",
-      "url": "https://thehackernews.com/2026/09/mikrotrick-chain-let-attackers-take.html",
-      "date": "2026-09-23T16:06:41Z"
-    },
-    {
-      "title": "Ireland among EU countries targeted by major text scam group",
-      "description": "[EXTRA.IE] Ireland is among five EU countries targeted by a Chinese-linked text scam group, according to a new European cybersecurity report.",
-      "url": "https://extra.ie/2026/09/23/news/irish-news/ireland-targeted-text-scam",
-      "date": "2026-09-23T15:17:21Z"
-    },
-    {
-      "title": "FBI investigates ShinyHunters hack of jobs portal, agent data stolen",
-      "description": "[FOX NEWS] FBI is investigating a data breach of its jobs portal after hacking group ShinyHunters claimed responsibility for the cyberattack. The site remains down.",
-      "url": "https://www.foxnews.com/politics/fbi-investigates-shinyhunters-hackers-claim-theft-agents-personal-data",
-      "date": "2026-09-23T15:05:37Z"
-    },
-    {
-      "title": "Upwind acquires Aegis as cybersecurity firm builds new AI Security Labs",
-      "description": "[TNW] Upwind acquires Aegis and launches AI Security Labs, led by Aegis co-founders Omri Limor and Saar Ankonina, to secure AI agents, skills and plugins.",
-      "url": "https://thenextweb.com/news/upwind-acquires-aegis-ai-security-labs",
-      "date": "2026-09-23T14:04:23Z"
-    },
-    {
-      "title": "Hurun rich list 2026: Meet the 10 Indian-origin billionaires who built fortunes in tech",
-      "description": "[THE FINANCIAL EXPRESS] The M3M Hurun India Rich List 2026 highlights Indian-origin technology entrepreneurs and executives worldwide, showcasing wealth built in cybersecurity, AI, cloud computing, and semiconductors with rising global influence.",
-      "url": "https://www.financialexpress.com/world-news/hurun-rich-list-2026-meet-the-10-indian-origin-billionaires-who-built-fortunes-in-tech/4345638/",
-      "date": "2026-09-23T13:17:10Z"
-    },
-    {
-      "title": "Meta\u2019s Muse AI Assistant Rolled Out With a Serious Security Flaw",
-      "description": "[WIRED] Meta says it issued a fix for the Muse zero-day vulnerability that would have let attackers do \u201cwhatever\u201d they wanted on a victim\u2019s Mac, highlighting the inherent dangers of AI helpers.",
-      "url": "https://www.wired.com/story/metas-muse-ai-agent-zero-day/",
-      "date": "2026-09-23T12:54:58Z"
-    },
-    {
-      "title": "Silent Sentinel : How an Indian Cyber Pioneer Joined Forces with the UAE to Secure the Global Frontier",
-      "description": "[THE TRIBUNE] New Delhi [India], September 23: As millions of sensitive personal records fall prey to relentless cyber threats, protecting digital lives demands more than just defense. Kerala-born tech innovator Nandakishore Harikumar took a radical...",
-      "url": "https://www.tribuneindia.com/news/business/silent-sentinel-how-an-indian-cyber-pioneer-joined-forces-with-the-uae-to-secure-the-global-frontier/",
-      "date": "2026-09-23T12:22:54Z"
     },
     {
       "title": "Research on Models Engaging in Genie-Like Behavior",
@@ -198,12 +204,6 @@
       "description": "[SCHNEIER] Anthropic&#8217;s recent security-incident document contains a bit about how CAPTCHAs are still frustrating Claude. In the transcript, the Claude model that is so powerful that Anthropic is gatekeeping access to it appeared to slam its virtual head...",
       "url": "https://www.schneier.com/blog/archives/2026/09/are-ais-still-struggling-with-captchas.html",
       "date": "2026-09-18T11:05:52Z"
-    },
-    {
-      "title": "How Candidates Could Use AI for Good",
-      "description": "[SCHNEIER] This essay was written with Nathan E. Sanders, and originally appeared in The Guardian. There are plenty of signs that AI will make all of our experiences of the US midterm elections worse. Voters have anxiety about AI&#8217;s impacts on the...",
-      "url": "https://www.schneier.com/blog/archives/2026/09/how-candidates-could-use-ai-for-good.html",
-      "date": "2026-09-17T11:06:31Z"
     }
   ]
 }
