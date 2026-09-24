@@ -1,6 +1,42 @@
 {
-  "updated": "2026-09-24 02:15:50 UTC",
+  "updated": "2026-09-24 08:51:21 UTC",
   "news": [
+    {
+      "title": "Microsoft fixes bug that broke Windows File History backup feature",
+      "description": "[BLEEPINGCOMPUTER] Microsoft has fixed a known issue that breaks the built-in File History backup feature on some Windows systems after installing the September 2026 security updates. [...]",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-backup-feature-broken-by-september-updates/",
+      "date": "2026-09-24T08:14:47Z"
+    },
+    {
+      "title": "OpenAI Agent Bypassed Australian Medicare Portal Controls to Access Non-Public Files",
+      "description": "[FEEDS] An AI agent on an internal OpenAI research task bypassed access controls on an Australian government Medicare statistics portal in June, Prime Minister&nbsp;Anthony Albanese said. The portal publishes aggregate figures, such as spending, and is...",
+      "url": "https://thehackernews.com/2026/09/openai-agent-bypassed-australian.html",
+      "date": "2026-09-24T07:07:25Z"
+    },
+    {
+      "title": "TeamFiltration Campaign Compromises Seven Microsoft 365 Accounts Using Default Passwords",
+      "description": "[FEEDS] Cybersecurity researchers have disclosed details of an active TeamFiltration campaign codenamed UNK_CondorFiltration that has targeted over 5,700 accounts across 28 Microsoft 365 tenants. According to Proofpoint, the activity has primarily focused...",
+      "url": "https://thehackernews.com/2026/09/teamfiltration-compromises-seven.html",
+      "date": "2026-09-24T06:32:03Z"
+    },
+    {
+      "title": "One URL, Three Different Tricks, (Thu, Sep 24th)",
+      "description": "[ISC] Yesterday, we received a phishing email with an interesting link. At first sight, it looks like garbage, but every piece of it has been carefully crafted to confuse basic security controls. Here is the defanged link:&#xd;",
+      "url": "https://isc.sans.edu/diary/rss/33366",
+      "date": "2026-09-24T06:25:06Z"
+    },
+    {
+      "title": "Attackers Exploit WordPress CVE-2026-87902 Within Hours of Disclosure",
+      "description": "[FEEDS] Threat actors have begun to actively exploit a critical security flaw in WordPress within hours of public disclosure. The vulnerability in question is CVE-2026-87902 (CVSS score: 9.2), which could allow an unauthenticated attacker to obtain remote...",
+      "url": "https://thehackernews.com/2026/09/attackers-exploit-wordpress-cve-2026.html",
+      "date": "2026-09-24T05:36:18Z"
+    },
+    {
+      "title": "ISC Stormcast For Thursday, September 24th, 2026 https://isc.sans.edu/podcastdetail/10108, (Thu, Sep 24th)",
+      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
+      "url": "https://isc.sans.edu/diary/rss/33364",
+      "date": "2026-09-24T03:50:11Z"
+    },
     {
       "title": "Placeholder domain used in dev docs now serves ClickFix attacks",
       "description": "[BLEEPINGCOMPUTER] The \"third-party.com\" domain, commonly used as a placeholder in developer documentation and code examples, is serving a fake Cloudflare verification page that attempts to trick Windows users into executing PowerShell commands. [...]",
@@ -20,6 +56,12 @@
       "date": "2026-09-23T19:53:54Z"
     },
     {
+      "title": "Information Security for Executives Addresses AI-Driven and Other Cybersecurity Risks for Business Leaders",
+      "description": "[THE MANILA TIMES] New book provides practical guidance for executives overseeing cybersecurity, governance, and emerging digital threats",
+      "url": "https://www.manilatimes.net/2026/09/24/tmt-newswire/globenewswire/information-security-for-executives-addresses-ai-driven-and-other-cybersecurity-risks-for-business-leaders/2431709",
+      "date": "2026-09-23T18:59:00Z"
+    },
+    {
       "title": "Hackers start exploiting critical WordPress flaw for code execution",
       "description": "[BLEEPINGCOMPUTER] Threat actors have moved from probing WordPress sites vulnerable to CVE-2026-87902 to exploiting the flaw to write files to disk that execute shell commands when accessed. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-start-exploiting-critical-wordpress-flaw-for-code-execution/",
@@ -30,6 +72,18 @@
       "description": "[FEEDS] Cybersecurity researchers have disclosed Go-based malware distributed via two Go Modules and two Terraform providers, marking the first time threat actors are using the centralized repository hosted by HashiCorp as a distribution vector for...",
       "url": "https://thehackernews.com/2026/09/attackers-use-malicious-terraform.html",
       "date": "2026-09-23T18:06:30Z"
+    },
+    {
+      "title": "Hackers say they stole thousands of sensitive FBI personnel records",
+      "description": "[SANTA ROSA PRESS DEMOCRAT] The compromise, if confirmed, would be the latest in a string of cybersecurity failures at the FBI, which said it was investigating the matter.",
+      "url": "https://www.pressdemocrat.com/2026/09/23/hackers-say-they-stole-thousands-of-sensitive-fbi-personnel-records/",
+      "date": "2026-09-23T18:05:41Z"
+    },
+    {
+      "title": "Ransomware Economics: Why the Ransom Is the Smallest Line on the Invoice",
+      "description": "[TECHBULLION] comparison to the financial devastation wrought by ransomware incidents, making cybersecurity investment not just a technical necessity but a strategic imperative.",
+      "url": "https://techbullion.com/ransomware-economics-why-the-ransom-is-the-smallest-line-on-the-invoice/",
+      "date": "2026-09-23T17:58:37Z"
     },
     {
       "title": "A Leaked GitLab Issue Email Address Lets Anyone Push Code and Run CI Jobs as You",
@@ -44,6 +98,12 @@
       "date": "2026-09-23T16:20:54Z"
     },
     {
+      "title": "Bell, Cohere deploy Canadian cybersecurity AI for threat investigation",
+      "description": "[MOBILESYRUP] Bell and Cohere have announced the deployment of a new sovereign AI large language model to assist its cybersecurity team.",
+      "url": "https://mobilesyrup.com/2026/09/23/bell-cohere-canadian-cybersecurity-ai/",
+      "date": "2026-09-23T16:16:29Z"
+    },
+    {
       "title": "Macfinger ClickFix campaign, (Tue, Sep 22nd)",
       "description": "[ISC] Introduction&#xd;",
       "url": "https://isc.sans.edu/diary/rss/33360",
@@ -56,28 +116,22 @@
       "date": "2026-09-23T16:06:41Z"
     },
     {
-      "title": "InfraTrust report warns network management systems under attack",
-      "description": "[BLEEPINGCOMPUTER] Attackers are increasingly targeting the management systems used to control enterprise infrastructure, with several critical vulnerabilities actively exploited before or shortly after vendors disclosed them. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/infratrust-report-warns-network-management-systems-under-attack/",
-      "date": "2026-09-23T14:35:26Z"
+      "title": "Ireland among EU countries targeted by major text scam group",
+      "description": "[EXTRA.IE] Ireland is among five EU countries targeted by a Chinese-linked text scam group, according to a new European cybersecurity report.",
+      "url": "https://extra.ie/2026/09/23/news/irish-news/ireland-targeted-text-scam",
+      "date": "2026-09-23T15:17:21Z"
     },
     {
-      "title": "This Windows Malware is Built to Let Up to Four AI Models Vote on Its Next Move",
-      "description": "[FEEDS] A Windows malware called CLOSEDQUORUM is built to take orders from a vote of up to four AI models instead of an attacker's server,&nbsp;Cisco Talos said&nbsp;on September 22. The models can choose to steal Windows credentials, saved browser...",
-      "url": "https://thehackernews.com/2026/09/windows-malware-is-built-to-let-up-to.html",
-      "date": "2026-09-23T14:17:58Z"
+      "title": "FBI investigates ShinyHunters hack of jobs portal, agent data stolen",
+      "description": "[FOX NEWS] FBI is investigating a data breach of its jobs portal after hacking group ShinyHunters claimed responsibility for the cyberattack. The site remains down.",
+      "url": "https://www.foxnews.com/politics/fbi-investigates-shinyhunters-hackers-claim-theft-agents-personal-data",
+      "date": "2026-09-23T15:05:37Z"
     },
     {
       "title": "Upwind acquires Aegis as cybersecurity firm builds new AI Security Labs",
       "description": "[TNW] Upwind acquires Aegis and launches AI Security Labs, led by Aegis co-founders Omri Limor and Saar Ankonina, to secure AI agents, skills and plugins.",
       "url": "https://thenextweb.com/news/upwind-acquires-aegis-ai-security-labs",
       "date": "2026-09-23T14:04:23Z"
-    },
-    {
-      "title": "Compromised MemTensor Packages Deliver sckit Credential Stealer via npm and PyPI",
-      "description": "[FEEDS] Unknown threat actors have managed to compromise two legitimate MemTensor packages across the npm and Python Package Index (PyPI) repositories to push a platform-specific Go-based implant dubbed sckit designed for Windows, Linux, and macOS....",
-      "url": "https://thehackernews.com/2026/09/compromised-memtensor-packages-deliver.html",
-      "date": "2026-09-23T13:52:46Z"
     },
     {
       "title": "Hurun rich list 2026: Meet the 10 Indian-origin billionaires who built fortunes in tech",
@@ -98,52 +152,10 @@
       "date": "2026-09-23T12:22:54Z"
     },
     {
-      "title": "Bell Cyber and Cohere deploy sovereign AI for Canadian cybersecurity operations",
-      "description": "[THE LONDON FREE PRESS] Domain-specific cybersecurity model built using Cohere's secure enterprise AI technology and Bell Cyber expertise is running in Canada on Bell AI",
-      "url": "https://lfpress.com/press-releases/pr-newswire/bell-cyber-and-cohere-deploy-sovereign-ai-for-canadian-cybersecurity-operations/",
-      "date": "2026-09-23T12:22:18Z"
-    },
-    {
-      "title": "Bell Cyber and Cohere deploy sovereign AI for Canadian cybersecurity operations",
-      "description": "[THE KINGSTON WHIG-STANDARD] Domain-specific cybersecurity model built using Cohere's secure enterprise AI technology and Bell Cyber expertise is running in Canada on Bell AI",
-      "url": "https://www.thewhig.com/press-releases/pr-newswire/bell-cyber-and-cohere-deploy-sovereign-ai-for-canadian-cybersecurity-operations/",
-      "date": "2026-09-23T12:22:09Z"
-    },
-    {
-      "title": "From India to Silicon Valley: India-raised founders build $1 trn global startup footprint",
-      "description": "[THE FINANCIAL EXPRESS] Indian-raised founders have built a $1.09 trillion global startup empire, with $560 billion value abroad and $349 billion for India-based unicorns across sectors like cybersecurity and technology.",
-      "url": "https://www.financialexpress.com/world-news/from-india-to-silicon-valley-india-raised-founders-build-1-trn-global-startup-footprint/4345594/",
-      "date": "2026-09-23T12:18:36Z"
-    },
-    {
-      "title": "Silent Sentinel : How an Indian Cyber Pioneer Joined Forces with the UAE to Secure the Global Frontier",
-      "description": "[ANI (ASIAN NEWS INTERNATIONAL)] New Delhi [India], September 23: As millions of sensitive personal records fall prey to relentless cyber threats, protecting digital lives demands more than just defense. Kerala-born tech innovator Nandakishore Harikumar took a radical...",
-      "url": "https://www.aninews.in/news/business/silent-sentinel-how-an-indian-cyber-pioneer-joined-forces-with-the-uae-to-secure-the-global-frontier20260923174809/",
-      "date": "2026-09-23T12:18:09Z"
-    },
-    {
-      "title": "New cPanel Flaw Lets a Hosting Account Run Code as Root, Take Full Server Control",
-      "description": "[FEEDS] A flaw in cPanel's&nbsp;CalDAV and CardDAV service&nbsp;lets anyone with a cPanel hosting account run code as root and take \"full control of the server,\" the company said on September 22. A&nbsp;second bug in the WP Toolkit plugin, used to install...",
-      "url": "https://thehackernews.com/2026/09/new-cpanel-flaw-lets-hosting-account_0272795595.html",
-      "date": "2026-09-23T12:16:00Z"
-    },
-    {
-      "title": "British cybersecurity firm plots \u00a311m AIM float as London IPOs stir",
-      "description": "[CITY A.M.] Cybersecurity firm Chaleit is set to float on London\u2019s junior market, becoming the second company to unveil plans for a listing on Tuesday",
-      "url": "https://www.cityam.com/british-cybersecurity-firm-plots-11m-aim-float-as-london-ipos-stir/",
-      "date": "2026-09-23T12:12:15Z"
-    },
-    {
       "title": "Research on Models Engaging in Genie-Like Behavior",
       "description": "[SCHNEIER] New paper: &#8220;Self-Jailbreaking: Language Models Can Reason Themselves Out of Safety Alignment After Benign Reasoning Training.&#8221; Abstract: We discover a novel and surprising phenomenon of unintentional misalignment in reasoning language...",
       "url": "https://www.schneier.com/blog/archives/2026/09/research-on-models-engaging-in-genie-like-behavior.html",
       "date": "2026-09-23T11:03:36Z"
-    },
-    {
-      "title": "CISA: Chinese steel industry enters new stage focused on high-end intelligent and green development",
-      "description": "[STEELORBIS] China's steel industry has completed its scale expansion and is now entering a new stage focused on high-end, intelligent and green development, ...",
-      "url": "https://www.steelorbis.com/steel-news/latest-news/cisa-chinese-steel-industry-enters-new-stage-focused-on-high-end-intelligent-and-green-development-1479261.htm",
-      "date": "2026-09-23T11:03:12Z"
     },
     {
       "title": "ISC Stormcast For Wednesday, September 23rd, 2026 https://isc.sans.edu/podcastdetail/10106, (Wed, Sep 23rd)",
@@ -170,22 +182,10 @@
       "date": "2026-09-22T11:02:45Z"
     },
     {
-      "title": "ISC Stormcast For Tuesday, September 22nd, 2026 https://isc.sans.edu/podcastdetail/10104, (Tue, Sep 22nd)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33356",
-      "date": "2026-09-22T03:50:10Z"
-    },
-    {
       "title": "Reverse-Engineering Flock Cameras",
       "description": "[SCHNEIER] Hackers captured a Flock camera and got a look (alternate link) at the software: While much of the automatic license plate reader&#8217;s (ALPR) most sensitive storage remained encrypted and inaccessible, the joint analysis of the recovered data...",
       "url": "https://www.schneier.com/blog/archives/2026/09/reverse-engineering-flock-cameras.html",
       "date": "2026-09-21T14:37:45Z"
-    },
-    {
-      "title": "TerminalFix: PNG Steganography, (Mon, Sep 21st)",
-      "description": "[ISC] Microsoft Security Research published an interesting blog post \"TerminalFix campaign deploys a reverse tunnel through multistage intrusion\" about a malware campaign. The aspect that I want to take a closer look at, is the fact that the threat actors...",
-      "url": "https://isc.sans.edu/diary/rss/33318",
-      "date": "2026-09-21T10:33:53Z"
     },
     {
       "title": "Friday Squid Blogging: On Squid Egg Sacs",
