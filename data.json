@@ -1,209 +1,137 @@
 {
-  "updated": "2026-09-24 14:31:19 UTC",
-  "news": [
-    {
-      "title": "FedRAMP VDR & VER: Daily Scans Are Only the Beginning",
-      "description": "[BLEEPINGCOMPUTER] FedRAMP's new VDR and VER requirements make vulnerability management more continuous, with faster scanning, tighter remediation deadlines, and stronger evidence requirements. Anecdotes explains why the December 7 deadline is just the beginning of a...",
-      "url": "https://www.bleepingcomputer.com/news/security/fedramp-vdr-and-ver-daily-scans-are-only-the-beginning/",
-      "date": "2026-09-24T14:02:12Z"
-    },
-    {
-      "title": "Hackers now exploit critical Roundcube flaw in code injection attacks",
-      "description": "[BLEEPINGCOMPUTER] A high-severity Roundcube Webmail vulnerability patched in May is now being actively exploited in attacks, according to the Canadian Centre for Cyber Security. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/critical-roundcube-flaw-now-actively-exploited-in-code-injection-attacks/",
-      "date": "2026-09-24T13:27:57Z"
-    },
-    {
-      "title": "Windows 11 KB5124010 update released with 46 changes and fixes",
-      "description": "[BLEEPINGCOMPUTER] Microsoft released the KB5124010 September 2026 non-security preview update for Windows 11 24H2 and 25H2, with 46 changes including Bluetooth improvements and the ability to remap the Copilot key. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5124010-update-released-with-46-changes-and-fixes/",
-      "date": "2026-09-24T12:16:32Z"
-    },
-    {
-      "title": "Corp MDM Spyware Targets Logistics Firms, Steals New SMS and Redirects Calls",
-      "description": "[FEEDS] The logistics sector has become the target of a new malicious cyber campaign that distributes an Android spyware codenamed Corp MDM. According to Have I Been Squatted, the campaign uses fake Google Play pages branded as CEVA and TKW Logistics to...",
-      "url": "https://thehackernews.com/2026/09/corp-mdm-spyware-targets-logistics.html",
-      "date": "2026-09-24T12:05:27Z"
-    },
-    {
-      "title": "Malicious npm Packages That Evade Defenses",
-      "description": "[SCHNEIER] This is an impressive piece of malware. Its sophistication says nation-state to me, but there is no direct evidence and certainly no attribution.",
-      "url": "https://www.schneier.com/blog/archives/2026/09/malicious-npm-packages-that-evade-defenses.html",
-      "date": "2026-09-24T11:07:42Z"
-    },
-    {
-      "title": "Secrets Sprawl Is an Identity Problem That AI Just Made Impossible to Ignore",
-      "description": "[FEEDS] AI coding agents are changing how quickly developers can build and ship software as well as how quickly credentials can become exposed. According to GitGuardian\u2019s 2026 State of Secrets Sprawl Report, commits identified as AI-assisted are leaking...",
-      "url": "https://thehackernews.com/2026/09/secrets-sprawl-is-identity-problem-that.html",
-      "date": "2026-09-24T11:00:00Z"
-    },
-    {
-      "title": "CISA: Ransomware gangs now exploiting critical TeamCity flaw",
-      "description": "[BLEEPINGCOMPUTER] \u200bThe U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies on Wednesday that ransomware gangs are now also exploiting a critical JetBrains TeamCity vulnerability patched in July. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-ransomware-gangs-now-exploiting-critical-teamcity-flaw/",
-      "date": "2026-09-24T10:42:37Z"
-    },
-    {
-      "title": "OpenAI hacked Australian Medicare govt site, probed data providers",
-      "description": "[BLEEPINGCOMPUTER] OpenAI agents targeted public data providers in multiple countries, probing some for vulnerabilities and exploiting a security weakness in an Australian government portal while performing information-retrieval tasks as part of a research project....",
-      "url": "https://www.bleepingcomputer.com/news/security/openai-hacked-australian-medicare-govt-site-probed-data-providers/",
-      "date": "2026-09-24T09:38:53Z"
-    },
-    {
-      "title": "17,000 URLs Reveal How ClickFix Turns Trusted Websites Into Malware Traps: Report by CTM360",
-      "description": "[FEEDS] ClickFix has become the most common way attackers get into enterprise networks, and it does it without an exploit, an attachment, or a file on disk. Our new global threat report traces the technique from a novelty in late 2023 to a subscription...",
-      "url": "https://thehackernews.com/2026/09/17000-urls-reveal-how-clickfix-turns.html",
-      "date": "2026-09-24T09:14:21Z"
-    },
-    {
-      "title": "Microsoft fixes bug that broke Windows File History backup feature",
-      "description": "[BLEEPINGCOMPUTER] Microsoft has fixed a known issue that breaks the built-in File History backup feature on some Windows systems after installing the September 2026 security updates. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-backup-feature-broken-by-september-updates/",
-      "date": "2026-09-24T08:14:47Z"
-    },
-    {
-      "title": "OpenAI Agent Bypassed Australian Medicare Portal Controls to Access Non-Public Files",
-      "description": "[FEEDS] An AI agent on an internal OpenAI research task bypassed access controls on an Australian government Medicare statistics portal in June, Prime Minister&nbsp;Anthony Albanese said. The portal publishes aggregate figures, such as spending, and is...",
-      "url": "https://thehackernews.com/2026/09/openai-agent-bypassed-australian.html",
-      "date": "2026-09-24T07:07:25Z"
-    },
-    {
-      "title": "TeamFiltration Campaign Compromises Seven Microsoft 365 Accounts Using Default Passwords",
-      "description": "[FEEDS] Cybersecurity researchers have disclosed details of an active TeamFiltration campaign codenamed UNK_CondorFiltration that has targeted over 5,700 accounts across 28 Microsoft 365 tenants. According to Proofpoint, the activity has primarily focused...",
-      "url": "https://thehackernews.com/2026/09/teamfiltration-compromises-seven.html",
-      "date": "2026-09-24T06:32:03Z"
-    },
-    {
-      "title": "One URL, Three Different Tricks, (Thu, Sep 24th)",
-      "description": "[ISC] Yesterday, we received a phishing email with an interesting link. At first sight, it looks like garbage, but every piece of it has been carefully crafted to confuse basic security controls. Here is the defanged link:&#xd;",
-      "url": "https://isc.sans.edu/diary/rss/33366",
-      "date": "2026-09-24T06:25:06Z"
-    },
-    {
-      "title": "Attackers Exploit WordPress CVE-2026-87902 Within Hours of Disclosure",
-      "description": "[FEEDS] Threat actors have begun to actively exploit a critical security flaw in WordPress within hours of public disclosure. The vulnerability in question is CVE-2026-87902 (CVSS score: 9.2), which could allow an unauthenticated attacker to obtain remote...",
-      "url": "https://thehackernews.com/2026/09/attackers-exploit-wordpress-cve-2026.html",
-      "date": "2026-09-24T05:36:18Z"
-    },
-    {
-      "title": "ISC Stormcast For Thursday, September 24th, 2026 https://isc.sans.edu/podcastdetail/10108, (Thu, Sep 24th)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33364",
-      "date": "2026-09-24T03:50:11Z"
-    },
-    {
-      "title": "Factbox-OpenAI data breach latest in long list of hacks in Australia",
-      "description": "[THE STAR] SYDNEY, Sept 24 (Reuters) - Australia said \u2060on Thursday an OpenAI agent breached a government health data portal in June, \u2060gaining unauthorised access to files, in what could be the first known \u200cinstance of an AI agent hacking a government website.",
-      "url": "https://www.thestar.com.my/tech/tech-news/2026/09/24/factbox-openai-data-breach-latest-in-long-list-of-hacks-in-australia",
-      "date": "2026-09-24T02:16:00Z"
-    },
-    {
-      "title": "OpenAI data breach latest in long list of hacks in Australia",
-      "description": "[REUTERS] Australia said on Thursday an OpenAI agent breached a government health data portal in June, gaining unauthorised access to files, in what could be the \u200bfirst known instance of an AI agent hacking a government website.",
-      "url": "https://www.reuters.com/legal/litigation/openai-data-breach-latest-long-list-hacks-australia-2026-09-24/",
-      "date": "2026-09-24T02:01:24Z"
-    },
-    {
-      "title": "FACTBOX-OpenAI data breach latest in long list of hacks in Australia",
-      "description": "[DEVDISCOURSE] Read more about FACTBOX-OpenAI data breach latest in long list of hacks in Australia on Devdiscourse",
-      "url": "https://www.devdiscourse.com/article/international/3981600-factbox-openai-data-breach-latest-in-long-list-of-hacks-in-australia",
-      "date": "2026-09-24T01:56:46Z"
-    },
-    {
-      "title": "OpenAI agents plotted to access government health data amid Medicare hack, logs reveal",
-      "description": "[ABC (AUSTRALIAN BROADCASTING CORPORATION)] OpenAI's rogue artificial intelligence agents appear to have worked together to try to circumvent cybersecurity defences and find ways to access Australian government health data, according to conversation logs.",
-      "url": "https://www.abc.net.au/news/2026-09-24/openai-agents-plotted-to-access-data-amid-medicare-hack/107189504",
-      "date": "2026-09-24T00:42:50Z"
-    },
-    {
-      "title": "North Korean IT contractor found remote work in New Zealand: agency",
-      "description": "[BANGKOK POST] WELLINGTON - A North Korean IT worker used a fake identity to obtain remote work with a New Zealand company and then threatened to release sensitive information when exposed, Wellington's cybersecurity agency said Thursday.",
-      "url": "https://www.bangkokpost.com/world/3325274/north-korean-it-contractor-found-remote-work-in-new-zealand-agency",
-      "date": "2026-09-24T00:14:00Z"
-    },
-    {
-      "title": "Bell, Cohere release AI model designed to aid cybersecurity investigations",
-      "description": "[THE GLOBE AND MAIL] Organizations around the world have raced to integrate AI into their defences in response to growing concerns about hackers using the technology",
-      "url": "https://www.theglobeandmail.com/business/article-bell-cohere-ai-model-cybersecurity-investigations/",
-      "date": "2026-09-23T23:46:21Z"
-    },
-    {
-      "title": "Facebook accused of deceiving users in New Mexico as trial over privacy scandal wraps up",
-      "description": "[SANTA ROSA PRESS DEMOCRAT] New Mexico is the only state that has taken the data breach claims to trial as part of its go-it-alone approach to press for more accountability from Meta.",
-      "url": "https://www.pressdemocrat.com/2026/09/23/facebook-new-mexico/",
-      "date": "2026-09-23T23:38:33Z"
-    },
-    {
-      "title": "Facebook accused of deceiving users in New Mexico as trial over privacy scandal wraps up",
-      "description": "[ST. PAUL PIONEER PRESS] New Mexico is the only state that has taken the data breach claims to trial as part of its go-it-alone approach to press for more accountability from Meta.",
-      "url": "https://www.twincities.com/2026/09/23/facebook-new-mexico/",
-      "date": "2026-09-23T23:38:33Z"
-    },
-    {
-      "title": "Facebook accused of deceiving users in New Mexico as trial over privacy scandal wraps up",
-      "description": "[READING EAGLE] New Mexico is the only state that has taken the data breach claims to trial as part of its go-it-alone approach to press for more accountability from Meta.",
-      "url": "https://www.readingeagle.com/2026/09/23/facebook-new-mexico/",
-      "date": "2026-09-23T23:38:33Z"
-    },
-    {
-      "title": "Facebook accused of deceiving users in New Mexico as trial over privacy scandal wraps up",
-      "description": "[SANTA ANA ORANGE COUNTY REGISTER] New Mexico is the only state that has taken the data breach claims to trial as part of its go-it-alone approach to press for more accountability from Meta.",
-      "url": "https://www.ocregister.com/2026/09/23/facebook-new-mexico/",
-      "date": "2026-09-23T23:38:33Z"
-    },
-    {
-      "title": "Macfinger ClickFix campaign, (Tue, Sep 22nd)",
-      "description": "[ISC] Introduction&#xd;",
-      "url": "https://isc.sans.edu/diary/rss/33360",
-      "date": "2026-09-23T16:14:37Z"
-    },
-    {
-      "title": "Research on Models Engaging in Genie-Like Behavior",
-      "description": "[SCHNEIER] New paper: &#8220;Self-Jailbreaking: Language Models Can Reason Themselves Out of Safety Alignment After Benign Reasoning Training.&#8221; Abstract: We discover a novel and surprising phenomenon of unintentional misalignment in reasoning language...",
-      "url": "https://www.schneier.com/blog/archives/2026/09/research-on-models-engaging-in-genie-like-behavior.html",
-      "date": "2026-09-23T11:03:36Z"
-    },
-    {
-      "title": "ISC Stormcast For Wednesday, September 23rd, 2026 https://isc.sans.edu/podcastdetail/10106, (Wed, Sep 23rd)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33362",
-      "date": "2026-09-23T02:40:13Z"
-    },
-    {
-      "title": "The Truth about GET and HTTP Standards, (Tue, Sep 22nd)",
-      "description": "[ISC] On Friday, Xavier talked about the newly introduced HTTP Query method. This new method was introduced to allow \"GET\" requests that include a body. The main reason for this was that GET requests typically do not contain a body. But what if they...",
-      "url": "https://isc.sans.edu/diary/rss/33358",
-      "date": "2026-09-22T19:06:15Z"
-    },
-    {
-      "title": "LausivLoader analysis, or how to pass data between malware stages, (Thu, Sep 17th)",
-      "description": "[ISC] At the end of August, a malspam message was caught in the quarantine of a mail gateway operated by one of my customers. The message was not especially remarkable &#xe2;&#x20ac;&#x201c; it asked the recipient to review some attached requirements and...",
-      "url": "https://isc.sans.edu/diary/rss/33348",
-      "date": "2026-09-22T13:10:20Z"
-    },
-    {
-      "title": "GPT-6 Astra Breaks an Old Enigma Message",
-      "description": "[SCHNEIER] This is pretty amazing: However, the most astonishing thing about this break is that the GPT\u00ad6 Astra did it entirely on its own. Carter Leffer only directed GPT\u00ad6 Astra to see if it could break any of the unbroken Enigma messages published on the...",
-      "url": "https://www.schneier.com/blog/archives/2026/09/gpt-6-astra-breaks-an-old-enigma-message.html",
-      "date": "2026-09-22T11:02:45Z"
-    },
-    {
-      "title": "Reverse-Engineering Flock Cameras",
-      "description": "[SCHNEIER] Hackers captured a Flock camera and got a look (alternate link) at the software: While much of the automatic license plate reader&#8217;s (ALPR) most sensitive storage remained encrypted and inaccessible, the joint analysis of the recovered data...",
-      "url": "https://www.schneier.com/blog/archives/2026/09/reverse-engineering-flock-cameras.html",
-      "date": "2026-09-21T14:37:45Z"
-    },
-    {
-      "title": "Friday Squid Blogging: On Squid Egg Sacs",
-      "description": "[SCHNEIER] Short essay about squid egg sacs. As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered. Blog moderation policy.",
-      "url": "https://www.schneier.com/blog/archives/2026/09/friday-squid-blogging-on-squid-egg-sacs.html",
-      "date": "2026-09-18T21:06:00Z"
-    },
-    {
-      "title": "Are AIs Still Struggling with CAPTCHAs?",
-      "description": "[SCHNEIER] Anthropic&#8217;s recent security-incident document contains a bit about how CAPTCHAs are still frustrating Claude. In the transcript, the Claude model that is so powerful that Anthropic is gatekeeping access to it appeared to slam its virtual head...",
-      "url": "https://www.schneier.com/blog/archives/2026/09/are-ais-still-struggling-with-captchas.html",
-      "date": "2026-09-18T11:05:52Z"
-    }
-  ]
+    "title": "Sentinel Protocol",
+    "tagline": "Perimeter Intelligence Sync",
+    "updated": "2026-09-24 15:41 UTC",
+    "news": [
+        {
+            "source": {
+                "id": null,
+                "name": "Crypto Briefing"
+            },
+            "author": "Editorial Team",
+            "title": "FBI hosts annual Virtual Asset Technical Exchange on crypto crime",
+            "description": "The FBI's focus on crypto crime highlights the growing need for international collaboration to combat cross-border digital asset exploitation.\nThe post FBI hosts annual Virtual Asset Technical Exchange on crypto crime appeared first on Crypto Briefing.",
+            "url": "https://cryptobriefing.com/fbi-virtual-asset-technical-exchange-crypto-crime/",
+            "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2020/12/02092245/link-bull-1024x538.jpg",
+            "publishedAt": "2026-09-23T15:33:28Z",
+            "content": "The bureau's little-known annual gathering brought law enforcement and blockchain security firms together in New Orleans to tackle trafficking, scams, and laundering tied to digital assets The FBI ju\u2026 [+2401 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CoinDesk"
+            },
+            "author": "Will Canny",
+            "title": "Inside the FBI\u2019s little-known annual crypto crime gathering",
+            "description": "The Virtual Asset Technical Exchange brings together investigators, law enforcement officials, and crypto-security specialists to exchange intelligence on a wide range of crimes involving digital assets.",
+            "url": "https://www.coindesk.com/business/2026/09/23/inside-the-fbi-s-little-known-annual-crypto-crime-gathering",
+            "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/e19ac69728db0aaf4a7c50f5de21b8156dfeb30f-3600x2631.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+            "publishedAt": "2026-09-23T15:26:35Z",
+            "content": "Although the symposium is not secret, it has received little media attention. Its public footprint consists largely of occasional posts from attendees rather than prominent FBI announcements or the p\u2026 [+1506 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PRNewswire"
+            },
+            "author": null,
+            "title": "Driven Tech Introduces Lasius to Govern and Orchestrate Enterprise AI Workflows",
+            "description": "New agent operating environment helps enterprises securely orchestrate AI agents, models, knowledge and tools NEW YORK, Sept. 23, 2026 /PRNewswire/ -- Driven Tech, Inc., an AI and Cloud Native Platform systems integrator, today announced the general availabil\u2026",
+            "url": "https://www.prnewswire.com/news-releases/driven-tech-introduces-lasius-to-govern-and-orchestrate-enterprise-ai-workflows-302887713.html",
+            "urlToImage": "https://mmx.prnewswire.com/media/MS1994874/Driven-Tech.jpg?id=OA2966701&p=facebook",
+            "publishedAt": "2026-09-23T15:25:00Z",
+            "content": "New agent operating environment helps enterprises securely orchestrate AI agents, models, knowledge and tools\r\nNEW YORK, Sept. 23, 2026 /PRNewswire/ -- Driven Tech, Inc., an AI and Cloud Native Platf\u2026 [+3705 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PRNewswire"
+            },
+            "author": null,
+            "title": "Globee\u00ae Awards Invite Human Resources, Marketing, Operations, and Customer Experience Professionals Worldwide to Apply as Volunteer Judges",
+            "description": "Qualified working professionals and industry experts are invited to contribute their knowledge and experience to the evaluation of workplace and business achievements SAN FRANCISCO, Sept. 23, 2026 /PRNewswire/ -- The Globee\u00ae Awards announced an open call invi\u2026",
+            "url": "https://www.prnewswire.com/news-releases/globee-awards-invite-human-resources-marketing-operations-and-customer-experience-professionals-worldwide-to-apply-as-volunteer-judges-302887222.html",
+            "urlToImage": "https://mmx.prnewswire.com/media/MS1656896/Globee-Press-Logo.jpg?id=OA2962590&p=facebook",
+            "publishedAt": "2026-09-23T15:15:00Z",
+            "content": "Qualified working professionals and industry experts are invited to contribute their knowledge and experience to the evaluation of workplace and business achievements\r\nSAN FRANCISCO, Sept. 23, 2026 /\u2026 [+2790 chars]"
+        },
+        {
+            "source": {
+                "id": "financial-post",
+                "name": "Financial Post"
+            },
+            "author": "GlobeNewswire",
+            "title": "Smith+Nephew launches the new EVOS\u2122 PELVIC Plating System at the 2026 Orthopedic Trauma Association (OTA) Annual Meeting, expanding the EVOS Plating Platform for pelvic and acetabular fracture management",
+            "description": "The All-in-one system combines plates, cannulated screws and specialized instrumentation to streamline complex pelvic surgery Smith+Nephew (LSE:SN, NYSE:SNN), the global medical technology company, today announces the launch of the\u00a0EVOS PELVIC Plating System,\u2026",
+            "url": "https://financialpost.com/globe-newswire/smithnephew-launches-the-new-evos-pelvic-plating-system-at-the-2026-orthopedic-trauma-association-ota-annual-meeting-expanding-the-evos-plating-platform-for-pelvic-and-acetabular-fracture",
+            "urlToImage": null,
+            "publishedAt": "2026-09-23T15:13:31Z",
+            "content": "The EVOS PELVIC System is currently available in the United States. Availability and timing of launch in other markets may vary. It will be available for surgeons to preview at Smith+Nephews booth #3\u2026 [+5085 chars]"
+        },
+        {
+            "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            "author": "Sead Fadilpa\u0161i\u0107",
+            "title": "Millions of Russian fast food fans hit in Burger King Russia hack",
+            "description": "Data stolen years ago finally surfaced on the web, showing 3.2 million Burger King Russia victims.",
+            "url": "https://www.techradar.com/pro/security/millions-of-russian-fast-food-fans-hit-in-burger-king-russia-hack",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/aUiqncNLKM6YAYFyowvwPH-970-80.jpg",
+            "publishedAt": "2026-09-23T15:10:00Z",
+            "content": "<ul><li>Burger King Russia\u2019s 2024 breach via Mindbox exposed 3.2 million customer records, now leaked online</li><li>Data includes emails, names, genders, birth dates, phone numbers, and geolocations\u2026 [+4610 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Theregister.com"
+            },
+            "author": "Connor Jones",
+            "title": "Academic publisher Elsevier hit by LAPSUS$ redirect attack",
+            "description": "Customers got crime crew's calling card instead of access to journals",
+            "url": "https://www.theregister.com/security/2026/09/23/academic-publisher-elsevier-hit-by-lapsus-redirect-attack/5298592",
+            "urlToImage": "https://image.theregister.com/5241973.jpg?imageId=5241973&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+            "publishedAt": "2026-09-23T15:08:00Z",
+            "content": "Academic publishing giant Elsevier confirmed a compromise this week after students found its platform redirecting users to a cybercriminal crew's leak page.\r\nOne Reddit user, a self-described nursing\u2026 [+2223 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hot Hardware"
+            },
+            "author": "Aaron Leong",
+            "title": "ShinyHunters Taunts FBI With Claimed 3TB Data Theft Of Agent Records",
+            "description": "A notorious extortion group claims to have pulled off one of the most audacious cyberattacks in recent memory by allegedly breaching the Federal Bureau of Investigation and stealing about 3TB worth of records belonging to thousands of current and former emplo\u2026",
+            "url": "https://hothardware.com/news/shinyhunters-taunts-fbi-with-claimed-3tb-data-theft-of-agent-records",
+            "urlToImage": "https://images.hothardware.com/contentimages/newsitem/71692/content/16x9_2142x1205_highres-fbi-building.jpg",
+            "publishedAt": "2026-09-23T15:02:00Z",
+            "content": "A notorious extortion group claims to have pulled off one of the most audacious cyberattacks in recent memory by allegedly breaching the Federal Bureau of Investigation and stealing about 3TB worth o\u2026 [+2591 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Theregister.com"
+            },
+            "author": "Phil Muncaster",
+            "title": "Closing the observability gap for the AI-ready enterprise",
+            "description": "SPONSORED FEATURE: Why AI-driven operations need a data-rich view of the network",
+            "url": "https://www.theregister.com/security/2026/09/23/sponsored-closing-the-observability-gap-for-the-ai-ready-enterprise/5298070",
+            "urlToImage": "https://image.theregister.com/5298357.jpg?imageId=5298357&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+            "publishedAt": "2026-09-23T15:00:00Z",
+            "content": "The modern enterprise is a digital enterprise. From the back office to the factory floor, connected systems and digital services form the operational backbone on which all else depends. So when disru\u2026 [+11897 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Slashdot.org"
+            },
+            "author": "Anonymous Coward",
+            "title": "ShinyHunters hackers say they breached FBI, stole data on bureau employees",
+            "description": "WASHINGTON, Sept 22 (Reuters) \u2014 The digital extortion group known as \"ShinyHunters\" said on Tuesday that it had breached the Federal Bureau of Investigation and stolen data on a huge number of current and former FBI employees. The FBI said the agency \"is awar\u2026",
+            "url": "https://slashdot.org/submission/17350934/shinyhunters-hackers-say-they-breached-fbi-stole-data-on-bureau-employees",
+            "urlToImage": null,
+            "publishedAt": "2026-09-23T14:57:30Z",
+            "content": "WASHINGTON, Sept 22 (Reuters) \u2014 The digital extortion group known as \"ShinyHunters\" said on Tuesday that it had breached the Federal Bureau of Investigation and stolen data on a huge number of curren\u2026 [+3042 chars]"
+        }
+    ]
 }
