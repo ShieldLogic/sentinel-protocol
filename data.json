@@ -1,6 +1,24 @@
 {
-  "updated": "2026-09-25 19:42:13 UTC",
+  "updated": "2026-09-25 22:57:21 UTC",
   "news": [
+    {
+      "title": "Kiteworks urges 6-hour server shutdown over potential zero-day attacks",
+      "description": "[BLEEPINGCOMPUTER] Secure file-sharing software company Kiteworks is urging customers worldwide to temporarily shut down their servers on Saturday for a six-hour window after receiving threat intelligence warning of a potentially imminent cyberattack. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/kiteworks-urges-6-hour-server-shutdown-over-potential-zero-day-attacks/",
+      "date": "2026-09-25T21:41:07Z"
+    },
+    {
+      "title": "Friday Squid Blogging: Participatory Squid Dissection in October in Tennessee",
+      "description": "[SCHNEIER] I feel like someone who reads this blog will want to go to this: Families are invited to dive into the fascinating world of marine biology during an exciting, hands-on Family Squid Dissection at the Hands-On Science Center. Designed for curious...",
+      "url": "https://www.schneier.com/blog/archives/2026/09/friday-squid-blogging-participatory-squid-dissection-in-october-in-tennessee.html",
+      "date": "2026-09-25T21:08:14Z"
+    },
+    {
+      "title": "ShinyHunters hacked Clop leak site using Grav CMS path traversal flaw",
+      "description": "[BLEEPINGCOMPUTER] The Clop ransomware gang has moved its data leak site to a new Tor address after confirming its previous server was compromised and defaced through an unpatched Grav CMS flaw that BleepingComputer has learned is an unauthenticated path traversal...",
+      "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-hacked-clop-leak-site-using-grav-cms-path-traversal-flaw/",
+      "date": "2026-09-25T20:57:55Z"
+    },
     {
       "title": "Elementor WordPress flaw lets attackers create admin accounts",
       "description": "[BLEEPINGCOMPUTER] A cross-site request forgery (CSRF) vulnerability in the Elementor plugin for WordPress could allow an unauthenticated attacker to create administrator accounts. [...]",
@@ -26,12 +44,6 @@
       "date": "2026-09-25T14:54:33Z"
     },
     {
-      "title": "With the Rise of AI Agents, SOC 2 Should Adapt or Risk Irrelevance",
-      "description": "[BLEEPINGCOMPUTER] AI agents can operate through human credentials and take actions that existing SOC 2 controls may not distinguish from human activity. Token Security explains why SOC 2 needs to adapt to address the security gaps created by agent identities. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/with-the-rise-of-ai-agents-soc-2-should-adapt-or-risk-irrelevance/",
-      "date": "2026-09-25T14:51:10Z"
-    },
-    {
       "title": "Compromised GitHub Actions Came Back Online and Resumed Executing Mini Shai-Hulud Malware",
       "description": "[FEEDS] Two actions-cool GitHub Actions have been disabled for a second time after the repositories became accessible last week, months after they were compromised during the May 2026 Mini Shai-Hulud campaign. The affected GitHub Actions are listed below -...",
       "url": "https://thehackernews.com/2026/09/compromised-github-actions-came-back.html",
@@ -48,12 +60,6 @@
       "description": "[ISC] Introduction&#xd;",
       "url": "https://isc.sans.edu/diary/rss/33368",
       "date": "2026-09-25T12:45:19Z"
-    },
-    {
-      "title": "Microsoft plans to deprecate Windows Deployment Services",
-      "description": "[BLEEPINGCOMPUTER] Microsoft announced it will deprecate the Windows Deployment Services (WDS) server role starting with the next Windows Server release. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-deprecate-windows-deployment-services-after-windows-server-2025/",
-      "date": "2026-09-25T12:40:59Z"
     },
     {
       "title": "The SOC Doesn't Need to Start Over with Every Alert",
@@ -80,6 +86,48 @@
       "date": "2026-09-25T10:14:02Z"
     },
     {
+      "title": "KELA and Fujitsu Enter into Cybersecurity Collaboration Agreement",
+      "description": "[THE MANILA TIMES] From 'defending after an attack' to 'acting before an attack' - combining KELA\u2019s global cyber threat intelligence with Fujitsu\u2019s advanced service capabilities to accelerate Active Cyber Defense (ACD) in Japan",
+      "url": "https://www.manilatimes.net/2026/09/25/tmt-newswire/globenewswire/kela-and-fujitsu-enter-into-cybersecurity-collaboration-agreement/2432935",
+      "date": "2026-09-25T09:46:52Z"
+    },
+    {
+      "title": "KELA and Fujitsu Enter into Cybersecurity Collaboration Agreement",
+      "description": "[THE LONDON FREE PRESS] From \"defending after an attack\" to \"acting before an attack\" - combining KELA\u2019s global cyber threat intelligence with Fujitsu\u2019s advanced service",
+      "url": "https://lfpress.com/press-releases/globe-newswire/kela-and-fujitsu-enter-into-cybersecurity-collaboration-agreement/",
+      "date": "2026-09-25T09:34:17Z"
+    },
+    {
+      "title": "KELA and Fujitsu Enter into Cybersecurity Collaboration Agreement",
+      "description": "[THE KINGSTON WHIG-STANDARD] From \"defending after an attack\" to \"acting before an attack\" - combining KELA\u2019s global cyber threat intelligence with Fujitsu\u2019s advanced service",
+      "url": "https://www.thewhig.com/press-releases/globe-newswire/kela-and-fujitsu-enter-into-cybersecurity-collaboration-agreement/",
+      "date": "2026-09-25T09:34:14Z"
+    },
+    {
+      "title": "KELA and Fujitsu Enter into Cybersecurity Collaboration Agreement",
+      "description": "[TORONTO STAR] Tel Aviv, Israel, Sept. 25, 2026 (GLOBE NEWSWIRE) -- KELA K.K., the Japanese entity of cyber threat intelligence company KELA Inc. (Head Office: Minato-ku, Tokyo; Executive Officer COO: Yuji Hirokawa;",
+      "url": "https://www.thestar.com/globenewswire/kela-and-fujitsu-enter-into-cybersecurity-collaboration-agreement/article_8d11a3b1-c79e-5b62-b32b-7d7a89c4e5e6.html",
+      "date": "2026-09-25T09:30:17Z"
+    },
+    {
+      "title": "Canada's Bill C-22: VPN and tech firms urge the government to 'fix' the bill before it becomes law",
+      "description": "[TECHRADAR] Windscribe, NordVPN, ExpressVPN, and others are calling on lawmakers to protect consumer privacy, encryption, and cybersecurity",
+      "url": "https://www.techradar.com/vpn/vpn-privacy-security/canadas-bill-c-22-vpn-and-tech-firms-urge-the-government-to-fix-the-bill-before-it-becomes-law",
+      "date": "2026-09-25T08:39:24Z"
+    },
+    {
+      "title": "Election security plan released ahead of midterms",
+      "description": "[ARKANSAS ONLINE] NEW YORK -- The nation's cybersecurity agency on Thursday released an election infrastructure security plan 40 days before November's midterms, laying out potential threats to election systems and listing services it would offer to election...",
+      "url": "https://www.arkansasonline.com/news/2026/sep/25/election-security-plan-released-ahead-of-midterms/",
+      "date": "2026-09-25T08:18:00Z"
+    },
+    {
+      "title": "OpenAI To Preview GPT-6 Cyber Within Days: Report",
+      "description": "[DECCAN CHRONICLE] Cybersecurity is emerging as one of AI's fastest-growing markets, as tech firms develop tools to combat threats and contain rogue AI agents",
+      "url": "https://www.deccanchronicle.com/technology/openai-to-preview-gpt-6-cyber-within-days-report-1990463",
+      "date": "2026-09-25T08:09:49Z"
+    },
+    {
       "title": "OpenAI to preview GPT-6 Cyber as AI security concerns grow after Australia breach",
       "description": "[FIRSTPOST] OpenAI is preparing another cybersecurity-focused model as businesses increasingly look to AI to detect vulnerabilities and automate defensive work. The reported GPT-6 Cyber preview comes just days after an OpenAI agent gained unauthorised access to...",
       "url": "https://www.firstpost.com/tech/openai-to-preview-gpt-6-cyber-as-ai-security-concerns-grow-after-australia-breach-14048329.html",
@@ -96,48 +144,6 @@
       "description": "[THE TRIBUNE] New Delhi [India], September 25: Indian OT cybersecurity company VelosShield showcased its newly introduced RIDS (OT Security Monitoring & Investigation Platform) highlighting an indigenous approach to protecting industrial and critical...",
       "url": "https://www.tribuneindia.com/news/business/velosshield-showcases-indias-indigenously-built-ot-cybersecurity-innovation-at-the-global-stage/",
       "date": "2026-09-25T07:08:23Z"
-    },
-    {
-      "title": "Built OT Cybersecurity Innovation at the Global Stage",
-      "description": "[ANI (ASIAN NEWS INTERNATIONAL)] New Delhi [India], September 25: Indian OT cybersecurity company VelosShield showcased its newly introduced RIDS (OT Security Monitoring & Investigation Platform) highlighting an indigenous approach to protecting industrial and critical...",
-      "url": "https://www.aninews.in/news/business/velosshield-showcases-india8217s-indigenously-built-ot-cybersecurity-innovation-at-the-global-stage20260925123226/",
-      "date": "2026-09-25T07:02:26Z"
-    },
-    {
-      "title": "Flock Safety camera hack yields 1.6M images, but expert says network safe",
-      "description": "[FOX BUSINESS] A stolen Flock Safety license plate camera yielded 1.6 million images after hackers reverse-engineered it, but a cybersecurity expert says the cloud network was not breached.",
-      "url": "https://www.foxbusiness.com/technology/former-secret-service-cybercrime-expert-weighs-privacy-hackers-breach-stolen-flock-camera",
-      "date": "2026-09-25T06:28:22Z"
-    },
-    {
-      "title": "Australia steps up response to AI after OpenAI bot breaches health system database",
-      "description": "[LIVEMINT] OPENAI-CYBERSECURITY/ (PIX):Australia steps up response to AI after OpenAI bot breaches health system database",
-      "url": "https://www.livemint.com/technology/australia-steps-up-response-to-ai-after-openai-bot-breaches-health-system-database-11790316218414.html",
-      "date": "2026-09-25T06:03:37Z"
-    },
-    {
-      "title": "Stake data breach exposes customer details after hack at partner DriveWealth",
-      "description": "[PERTHNOW] Thousands of investors have been caught up in a cyber breach after hackers hit a company tied to a major Aussie trading platform.",
-      "url": "https://www.perthnow.com.au/news/technology/stake-data-breach-exposes-customer-details-after-hack-at-partner-drivewealth-c-22926793",
-      "date": "2026-09-25T06:02:53Z"
-    },
-    {
-      "title": "OpenAI to preview GPT-6 amid growing AI security fears and rogue agent breaches",
-      "description": "[THE NEWS INTERNATIONAL] Recent reports indicate that OpenAI is preparing to preview GPT-6 Cyber\u2014its fourth cybersecurity-focused model of the year amid rising concerns over surrounding autonomous AI risks and digital...",
-      "url": "https://www.thenews.com.pk/latest/1417545-openai-to-preview-gpt-6-amid-growing-ai-security-fears-and-rogue-agent-breaches",
-      "date": "2026-09-25T05:24:00Z"
-    },
-    {
-      "title": "6 Cyber is its fourth cybersecurity model this year, here's what's coming",
-      "description": "[TIMES OF INDIA] ChatGPT-maker OpenAI is preparing to unveil its latest cybersecurity-focused model named GPT-6 Cyber.",
-      "url": "https://timesofindia.indiatimes.com/technology/tech-news/openais-gpt-6-cyber-is-its-fourth-cybersecurity-model-this-year-heres-whats-coming/articleshow/134475986.cms",
-      "date": "2026-09-25T05:15:00Z"
-    },
-    {
-      "title": "Who Is Nisarga Adhikary? 19-Year-Old Indian Cybersecurity Researcher Added To US DOJ Hall of Fame",
-      "description": "[FREE PRESS JOURNAL] Nisarga Adhikary, a 19-year-old cybersecurity researcher from West Bengal, has reportedly been recognised by the US Department of Justice for responsibly reporting a security flaw in one of its systems. The self-taught researcher identified the...",
-      "url": "https://www.freepressjournal.in/tech/who-is-nisarga-adhikary-19-year-old-indian-cybersecurity-researcher-added-to-us-doj-hall-of-fame",
-      "date": "2026-09-25T04:55:13Z"
     },
     {
       "title": "Cloudflare Fixes Flaw That Let One Container Read Another Customer's Leftover Disk Data",
@@ -198,12 +204,6 @@
       "description": "[SCHNEIER] Hackers captured a Flock camera and got a look (alternate link) at the software: While much of the automatic license plate reader&#8217;s (ALPR) most sensitive storage remained encrypted and inaccessible, the joint analysis of the recovered data...",
       "url": "https://www.schneier.com/blog/archives/2026/09/reverse-engineering-flock-cameras.html",
       "date": "2026-09-21T14:37:45Z"
-    },
-    {
-      "title": "Friday Squid Blogging: On Squid Egg Sacs",
-      "description": "[SCHNEIER] Short essay about squid egg sacs. As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered. Blog moderation policy.",
-      "url": "https://www.schneier.com/blog/archives/2026/09/friday-squid-blogging-on-squid-egg-sacs.html",
-      "date": "2026-09-18T21:06:00Z"
     }
   ]
 }
