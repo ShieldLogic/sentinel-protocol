@@ -1,6 +1,48 @@
 {
-  "updated": "2026-09-26 08:55:39 UTC",
+  "updated": "2026-09-26 13:57:46 UTC",
   "news": [
+    {
+      "title": "OpenAI's AI agents accidentally uploaded user-provided images to third-party sites",
+      "description": "[BLEEPINGCOMPUTER] OpenAI says its AI agents uploaded user-provided images to third-party image-hosting services while carrying out research and evaluation tasks. [...]",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openais-ai-agents-accidentally-uploaded-user-provided-images-to-third-party-sites/",
+      "date": "2026-09-26T12:28:41Z"
+    },
+    {
+      "title": "Elementor CSRF Flaw Lets Attackers Take Over Sites After Admin Clicks Crafted Link",
+      "description": "[FEEDS] Details have emerged about a high-severity security flaw in the Elementor Website Builder WordPress plugin that could be exploited by an unauthenticated attacker to create rogue administrator accounts and take control of a site. The cross-site...",
+      "url": "https://thehackernews.com/2026/09/elementor-csrf-flaw-lets-attackers-take.html",
+      "date": "2026-09-26T09:55:22Z"
+    },
+    {
+      "title": "SharePoint RCE and MikroTik RouterOS Flaws Actively Exploited in the Wild",
+      "description": "[FEEDS] The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two security flaws impacting Microsoft SharePoint and Mikrotik RouterOS to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation....",
+      "url": "https://thehackernews.com/2026/09/sharepoint-rce-and-mikrotik-routeros.html",
+      "date": "2026-09-26T08:49:53Z"
+    },
+    {
+      "title": "Kiteworks Urges Customers to Shut Down Systems for 9 Hours Over Possible Cyber Attack",
+      "description": "[FEEDS] Kiteworks (formerly Accellion) is urging customers to shut down their systems as a precautionary measure for nine hours over the weekend after it received threat intelligence about an imminent cyber attack. \"Kiteworks received credible threat...",
+      "url": "https://thehackernews.com/2026/09/kiteworks-urges-customers-to-shut-down.html",
+      "date": "2026-09-26T07:48:33Z"
+    },
+    {
+      "title": "Pentagon data breach of military personnel raises national security concerns",
+      "description": "[EUROPE SAYS] A data breach at the Pentagon\u2019s vast HR system has exposed Social Security numbers and other personal information of current and former military personnel,",
+      "url": "https://www.europesays.com/3272914/",
+      "date": "2026-09-26T00:42:25Z"
+    },
+    {
+      "title": "New Mexico jury finds Facebook liable for deceiving users about privacy protections",
+      "description": "[THE ATLANTA JOURNAL-CONSTITUTION] A New Mexico jury has found Facebook liable of deceiving users about privacy protections on the social media platform. The verdict arrived Friday, the latest legal setback that has already cost the company billions of dollars. It is now up to the...",
+      "url": "https://www.ajc.com/news/2026/09/new-mexico-jury-finds-facebook-liable-for-deceiving-users-about-privacy-protections/",
+      "date": "2026-09-25T22:01:42Z"
+    },
+    {
+      "title": "Wisconsin joins $2.3M settlement with Labcorp over 2019 data breach affecting more than 16,000 state residents",
+      "description": "[EUROPE SAYS] MADISON, Wis. (WKOW) -- Wisconsin is joining a multistate coalition in a $2.3 million settlement with the Laboratory Corporation of America over a 2019 data",
+      "url": "https://www.europesays.com/3272694/",
+      "date": "2026-09-25T22:00:15Z"
+    },
     {
       "title": "Kiteworks urges 6-hour server shutdown over potential zero-day attacks",
       "description": "[BLEEPINGCOMPUTER] Secure file-sharing software company Kiteworks is urging customers worldwide to temporarily shut down their servers on Saturday for a six-hour window after receiving threat intelligence warning of a potentially imminent cyberattack. [...]",
@@ -8,10 +50,22 @@
       "date": "2026-09-25T21:41:07Z"
     },
     {
+      "title": "Your home router is now part of the corporate network. Who's securing it?",
+      "description": "[ITWIRE] The cheapest way into a corporate network in 2026 is not a phishing email or a zero-day. It's the black plastic box the ISP mailed to an employee three years ago, plugged in...",
+      "url": "https://itwire.com/guest-articles/guest-opinion/your-home-router-is-now-part-of-the-corporate-network-whos-securing-it",
+      "date": "2026-09-25T21:24:36Z"
+    },
+    {
       "title": "Friday Squid Blogging: Participatory Squid Dissection in October in Tennessee",
       "description": "[SCHNEIER] I feel like someone who reads this blog will want to go to this: Families are invited to dive into the fascinating world of marine biology during an exciting, hands-on Family Squid Dissection at the Hands-On Science Center. Designed for curious...",
       "url": "https://www.schneier.com/blog/archives/2026/09/friday-squid-blogging-participatory-squid-dissection-in-october-in-tennessee.html",
       "date": "2026-09-25T21:08:14Z"
+    },
+    {
+      "title": "OpenAI Australia data breach reinforces PM Albanese\u2019s AI safeguards push",
+      "description": "[THE STRAITS TIMES] Australian Prime Minister Albanese addresses AI safeguards after OpenAI breach exposes gaps in cyber defences, prompting calls for stronger AI regulations. Read more at straitstimes.com.",
+      "url": "https://www.straitstimes.com/asia/australianz/openai-australia-data-breach-tests-pm-albaneses-ai-safeguards-push",
+      "date": "2026-09-25T21:00:00Z"
     },
     {
       "title": "ShinyHunters hacked Clop leak site using Grav CMS path traversal flaw",
@@ -50,36 +104,6 @@
       "date": "2026-09-25T20:04:26Z"
     },
     {
-      "title": "AI Agents Hacked Their Own Test Environment to Cheat, Cybersecurity Firm Finds",
-      "description": "[DECRYPT] Darktrace's new Signal Labs found AI agents hacking their own evaluation environment to fake a perfect score\u2014and tricking coding assistants into running unauthorized network attacks.",
-      "url": "https://decrypt.co/379369/ai-agents-hacked-test-environment-cheat-darktrace",
-      "date": "2026-09-25T19:45:39Z"
-    },
-    {
-      "title": "IRS CEO Frank Bisignano says mobile app will combat fraud and theft",
-      "description": "[FOX BUSINESS] The IRS launched a mobile app for tax refund tracking and payments. CEO Frank Bisignano says the agency is focused on cybersecurity and fraud prevention.",
-      "url": "https://www.foxbusiness.com/media/irs-chief-says-new-mobile-app-100-secure-agency-expands-digital-services",
-      "date": "2026-09-25T18:55:57Z"
-    },
-    {
-      "title": "Jury finds Facebook liable of deceiving users in Cambridge Analytica case",
-      "description": "[CBS NEWS] The two-week trial in New Mexico centered on accusations Facebook deceived users about a data breach.",
-      "url": "https://www.cbsnews.com/news/facebook-liable-deceiving-users-cambridge-analytica/",
-      "date": "2026-09-25T18:50:44Z"
-    },
-    {
-      "title": "Another tech worker has resigned over concerns that \u201cAI is already progressing too fast.\u201d",
-      "description": "[THE VERGE] Robert O\u2019Callahan is quitting his work on AI chips for Google Deepmind, saying \u201c\u2026my team\u2019s goal is ultimately to make AI much cheaper and lower-latency, and I don\u2019t think that\u2019s good for people right now.\u201d While he says it\u2019s not related to recent AI...",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1000769/another-tech-worker-has-resigned-over-concerns-that-ai-is-already-progressing-too-fast",
-      "date": "2026-09-25T18:47:10Z"
-    },
-    {
-      "title": "US Cybersecurity Agency Releases Election Security Plan Ahead Of November Midterms",
-      "description": "[ZEROHEDGE] ZeroHedge - On a long enough timeline, the survival rate for everyone drops to zero",
-      "url": "https://www.zerohedge.com/political/us-cybersecurity-agency-releases-election-security-plan-ahead-november-midterms",
-      "date": "2026-09-25T18:20:00Z"
-    },
-    {
       "title": "Elementor WordPress flaw lets attackers create admin accounts",
       "description": "[BLEEPINGCOMPUTER] A cross-site request forgery (CSRF) vulnerability in the Elementor plugin for WordPress could allow an unauthenticated attacker to create administrator accounts. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/elementor-wordpress-flaw-lets-attackers-create-admin-accounts/",
@@ -96,12 +120,6 @@
       "description": "[BLEEPINGCOMPUTER] Anthropic now allows you to run Claude Code via cloud sessions without signing up for the research preview, and it's offering up to $250 in free usage credits, so more users can give it a try. [...]",
       "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-rolls-out-up-to-250-in-free-claude-code-credits-but-only-for-cloud-sessions/",
       "date": "2026-09-25T16:00:00Z"
-    },
-    {
-      "title": "OpenAI is preparing a $500 ChatGPT Pro Max plan with faster Codex",
-      "description": "[BLEEPINGCOMPUTER] OpenAI appears to be preparing a new ChatGPT Pro Max subscription that could cost $500 per month, but it's unclear when it'll begin rolling out. [...]",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-preparing-a-500-chatgpt-pro-max-plan-with-faster-codex/",
-      "date": "2026-09-25T14:54:33Z"
     },
     {
       "title": "Compromised GitHub Actions Came Back Online and Resumed Executing Mini Shai-Hulud Malware",
@@ -132,24 +150,6 @@
       "description": "[SCHNEIER] Earlier this month, Anthropic published a long report detailing all of the Claude misuses it detected. Daniel Meissler usefully summarized the report into 117 findings. A few of the highlights: AI agents increasingly handled reconnaissance,...",
       "url": "https://www.schneier.com/blog/archives/2026/09/on-anthropics-ai-misuse-report.html",
       "date": "2026-09-25T11:07:22Z"
-    },
-    {
-      "title": "Bitget Says Suspected North Korean Hackers Stole $351.6M After Backend Compromise",
-      "description": "[FEEDS] Cryptocurrency exchange Bitget said suspected North Korean threat actors have stolen $351.6 million from its hot and warm wallets.&nbsp; \"At 18:31 UTC on September 24, 2026, Bitget's security systems identified unauthorized transfers involving a...",
-      "url": "https://thehackernews.com/2026/09/bitget-says-suspected-north-korean.html",
-      "date": "2026-09-25T10:35:55Z"
-    },
-    {
-      "title": "Roundcube Pre-Auth SQL Injection Flaw Actively Exploited in the Wild",
-      "description": "[FEEDS] The Canadian Centre for Cyber Security has warned that a now-patched Roundcube Webmail vulnerability is being actively exploited in the wild. The vulnerability in question is CVE-2026-48842 (CVSS score: 8.1), a pre-authentication SQL injection in...",
-      "url": "https://thehackernews.com/2026/09/roundcube-pre-auth-sql-injection-flaw.html",
-      "date": "2026-09-25T10:14:02Z"
-    },
-    {
-      "title": "Cloudflare Fixes Flaw That Let One Container Read Another Customer's Leftover Disk Data",
-      "description": "[FEEDS] A flaw in Cloudflare Containers let a paying customer read data that other customers' containers had left behind on the same server, Cloudflare and the researchers who found it said on Thursday. The data came from disk space that earlier containers...",
-      "url": "https://thehackernews.com/2026/09/cloudflare-fixes-flaw-that-let-one.html",
-      "date": "2026-09-25T04:49:22Z"
     },
     {
       "title": "ISC Stormcast For Friday, September 25th, 2026 https://isc.sans.edu/podcastdetail/10110, (Fri, Sep 25th)",
