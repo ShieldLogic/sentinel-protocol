@@ -1,209 +1,137 @@
 {
-  "updated": "2026-09-28 16:28:02 UTC",
-  "news": [
-    {
-      "title": "JadePuffer agentic AI attacks target Azure, destroy cloud resources",
-      "description": "[BLEEPINGCOMPUTER] The JadePuffer ransomware operator is targeting Azure tenants with agent-driven attacks that conduct reconnaissance, steal credentials, and destroy core components. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/jadepuffer-agentic-ai-attacks-target-azure-destroy-cloud-resources/",
-      "date": "2026-09-28T15:49:27Z"
-    },
-    {
-      "title": "\u26a1 Weekly Recap: $387M Crypto Hack, Citrix Exploits, AI Agents Go Off-Script, and More Threats",
-      "description": "[FEEDS] A domain used as harmless placeholder text showed up in roughly 1,700 repositories. Then somebody registered it and started serving malicious lures. That is the kind of week this was: forgotten assumptions turning into live attack surface....",
-      "url": "https://thehackernews.com/2026/09/weekly-recap-387m-crypto-hack-citrix.html",
-      "date": "2026-09-28T14:00:53Z"
-    },
-    {
-      "title": "80,000+ Organizations Had AI Logins Stolen: From Shadow AI to LLMjacking",
-      "description": "[BLEEPINGCOMPUTER] Infostealer logs exposed AI account credentials and sessions tied to more than 80,000 corporate domains, creating risks ranging from stolen conversations to LLMjacking. SOCRadar examines the growing market for stolen AI logins and how organizations...",
-      "url": "https://www.bleepingcomputer.com/news/security/80-000-plus-organizations-had-ai-logins-stolen-from-shadow-ai-to-llmjacking/",
-      "date": "2026-09-28T14:00:10Z"
-    },
-    {
-      "title": "Webinar: How to Govern AI Agents, Reduce Excessive Access, and Control Shadow AI",
-      "description": "[FEEDS] AI agents are moving into production faster than security teams can govern them. They are connecting to apps, handling data, calling APIs, and acting across business systems\u2014often without the same controls applied to human users. According to Okta\u2019s...",
-      "url": "https://thehackernews.com/2026/09/webinar-how-to-govern-ai-agents-reduce.html",
-      "date": "2026-09-28T11:58:00Z"
-    },
-    {
-      "title": "Carbonato Botnet Compromises Docker Hosts to Deploy Telegram-Controlled Hermes AI Agent",
-      "description": "[FEEDS] Cybersecurity researchers have disclosed details of a new botnet malware called Carbonato that's targeting exposed Docker daemons to deploy an open-source artificial intelligence (AI) agent framework called Hermes Agent. \"The implant installs the...",
-      "url": "https://thehackernews.com/2026/09/carbonato-botnet-compromises-docker.html",
-      "date": "2026-09-28T11:46:00Z"
-    },
-    {
-      "title": "New Attack Against RSA",
-      "description": "[SCHNEIER] ArsTechnica is reporting on a &#8220;new&#8221; attack against RSA, one that bypasses factoring. First, this attack isn&#8217;t new. The original research is from 2007. What is new is the implementation. Second, it is a forgery attack. It allows an...",
-      "url": "https://www.schneier.com/blog/archives/2026/09/new-attack-against-rsa.html",
-      "date": "2026-09-28T11:02:58Z"
-    },
-    {
-      "title": "Bitget resumes Bitcoin withdrawals after $387.5 million crypto heist",
-      "description": "[BLEEPINGCOMPUTER] Cryptocurrency exchange Bitget has resumed Bitcoin withdrawals suspended after suspected North Korean hackers breached its systems last week and stole over $350 million. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/bitget-resumes-bitcoin-withdrawals-after-3875-million-crypto-heist/",
-      "date": "2026-09-28T09:25:29Z"
-    },
-    {
-      "title": "JADEPUFFER-Linked Attackers Used Compromised Service Principals to Delete Azure Resources",
-      "description": "[FEEDS] The threat actor known as JADEPUFFER has been observed orchestrating destructive actions within a Microsoft Azure environment using compromised service principals. Microsoft, which is tracking the activity under the name Storm-3168, has called it an...",
-      "url": "https://thehackernews.com/2026/09/jadepuffer-linked-attackers-used.html",
-      "date": "2026-09-28T09:08:21Z"
-    },
-    {
-      "title": "US soldier gets 70 months in prison for extorting 10 tech, telecom firms",
-      "description": "[BLEEPINGCOMPUTER] A former U.S. Army soldier has been sentenced to 70 months in prison for hacking and extorting at least 10 U.S. technology and telecommunications companies between April 2023 and December 2024. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/us-soldier-gets-70-months-in-prison-for-extorting-10-tech-telecom-firms/",
-      "date": "2026-09-28T07:30:15Z"
-    },
-    {
-      "title": "CISA Says Attackers Are Exploiting Two Critical Citrix NetScaler Flaws Globally",
-      "description": "[FEEDS] The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Sunday added two critical Citrix NetScaler ADC and Gateway flaws to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation. The vulnerabilities...",
-      "url": "https://thehackernews.com/2026/09/cisa-says-attackers-are-exploiting-two.html",
-      "date": "2026-09-28T07:21:49Z"
-    },
-    {
-      "title": "CISA orders feds to patch exploited Citrix flaws by Wednesday",
-      "description": "[BLEEPINGCOMPUTER] The Cybersecurity and Infrastructure Security Agency (CISA) has ordered U.S. government agencies over the weekend to secure their systems against attacks exploiting two critical Citrix NetScaler vulnerabilities. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-exploited-citrix-flaws-by-wednesday/",
-      "date": "2026-09-28T06:24:19Z"
-    },
-    {
-      "title": "ISC Stormcast For Monday, September 28th, 2026 https://isc.sans.edu/podcastdetail/10112, (Mon, Sep 28th)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33374",
-      "date": "2026-09-28T02:00:02Z"
-    },
-    {
-      "title": "Data breach affects 23,549 customers of Singapore telco Simba, personal data protection commission investigating",
-      "description": "[MALAY MAIL] SINGAPORE, Sept 28 \u2014 Telecommunications company Simba has disclosed a data breach affecting 23,549 customers, with compromised information including names, identity card numbers...",
-      "url": "https://www.malaymail.com/news/singapore/2026/09/28/data-breach-affects-23549-customers-of-singapore-telco-simba-personal-data-protection-commission-investigating/236820",
-      "date": "2026-09-28T01:59:33Z"
-    },
-    {
-      "title": "Personal information of over 23,500 Simba telco customers leaked in data breach in Singapore",
-      "description": "[THE STAR] SINGAPORE: Personal information of more than 23,500 Simba customers has been compromised in a data breach, the telco said in a statement on Sept 25.",
-      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/09/28/personal-information-of-over-23500-simba-telco-customers-leaked-in-data-breach-in-singapore",
-      "date": "2026-09-28T01:31:00Z"
-    },
-    {
-      "title": "AI agents breach government systems, raising safety concerns",
-      "description": "[THE INDIAN EXPRESS] A technology whose agents can cross borders in seconds calls for international standards regarding model evaluations, agent permissions, cybersecurity testing, incident disclosure and emergency responses, with mechanisms that can be strengthened as...",
-      "url": "https://indianexpress.com/article/opinion/editorials/ai-agents-government-systems-security-risks-10896625/",
-      "date": "2026-09-28T00:42:25Z"
-    },
-    {
-      "title": "Six Cybersecurity Leaders Comment on OpenAI\u2019s Medicare Hack",
-      "description": "[ITWIRE] Six cybersecurity leaders from BeyondTrust, Check Point Software Technologies, Exabeam, Horizon3, Saviynt and Secure Code Warrior have provided their response to the news that...",
-      "url": "https://itwire.com/business-it-news/security/six-cybersecurity-leaders-comment-on-openai-s-medicare-hack",
-      "date": "2026-09-28T00:25:36Z"
-    },
-    {
-      "title": "Splunk's Kamal Hathi details \u2018largest innovation payload in a long time\u2019",
-      "description": "[ITWIRE] It\u2019s been two and a half years since Cisco paid $US28 billion to acquire data analytics and cybersecurity firm Splunk.",
-      "url": "https://itwire.com/it-industry-news/deals/splunks-kamal-hathi-details-largest-innovation-payload-in-a-long-time",
-      "date": "2026-09-27T23:52:30Z"
-    },
-    {
-      "title": "OpenAI is preparing \u201co,\u201d an always-on ChatGPT assistant that could handle email",
-      "description": "[BLEEPINGCOMPUTER] OpenAI is testing a new always-on assistant called \"o\", and references to the unannounced feature briefly showed up on the company's website. [...]",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-preparing-o-an-always-on-chatgpt-assistant-that-could-handle-email/",
-      "date": "2026-09-27T23:40:39Z"
-    },
-    {
-      "title": "'The right thing': Labor defends actions on data breach",
-      "description": "[THE CANBERRA TIMES] A national data breach caused by a rogue AI agent was good reason for concern, a senior politician...",
-      "url": "https://www.canberratimes.com.au/story/9358287/the-right-thing-labor-defends-actions-on-data-breach/",
-      "date": "2026-09-27T22:35:55Z"
-    },
-    {
-      "title": "False claims alleging theft by foreigners in Japan spread on social media",
-      "description": "[JAPAN TODAY] Videos falsely portraying foreigners as stealing metal from railway tracks in Japan have spread widely on the country's social media, apparently to suggest foreigners are a threat to public safety, an investigation by a Tokyo-based cybersecurity...",
-      "url": "https://japantoday.com/category/crime/false-claims-alleging-theft-by-foreigners-in-japan-spread-on-social-media",
-      "date": "2026-09-27T21:29:57Z"
-    },
-    {
-      "title": "From AI endpoints to IAM: 5 cybersecurity CEOs we\u2019ve been watching this summer",
-      "description": "[TNW] Five cybersecurity founders tackle AI endpoints, identity, remediation & attack surfaces as the security stack adapts to AI-native computing.",
-      "url": "https://thenextweb.com/news/cybersecurity-ceos-ai-endpoints-identity-summer-2026",
-      "date": "2026-09-27T18:02:54Z"
-    },
-    {
-      "title": "Keralam General Administration department website hacked, suspected Pakistani group claims responsibility",
-      "description": "[THE HINDU] Kerala General Administration site hacked by suspected Pakistani group; data breach under review, investigation underway, site restoration planned.",
-      "url": "https://www.thehindu.com/news/national/kerala/keralam-general-administration-department-website-hacked-suspected-pakistani-group-claims-responsibility/article71516975.ece",
-      "date": "2026-09-27T16:24:24Z"
-    },
-    {
-      "title": "NHS Trust suspends 10 staff members amid concerns over Noah Woods \u2018data breach\u2019",
-      "description": "[LBC] Ten people have been suspended or removed from duty by an NHS Trust after a possible data breach of the medical records of three-year-old Noah Woods.",
-      "url": "https://www.lbc.co.uk/article/nhs-trust-noah-woods-data-breach-5Hjdj7M_2/",
-      "date": "2026-09-27T16:12:04Z"
-    },
-    {
-      "title": "Wireshark 4.6.9 Released, (Sun, Sep 27th)",
-      "description": "[ISC] Wireshark release 4.6.9 fixes 19 vulnerabilities and 16 bugs.&#xd;",
-      "url": "https://isc.sans.edu/diary/rss/33372",
-      "date": "2026-09-27T15:04:49Z"
-    },
-    {
-      "title": "Warning: Two Unpatched Citrix NetScaler RCE Zero-Days Under Active Exploitation",
-      "description": "[FEEDS] Two critical vulnerabilities in Citrix NetScaler ADC and NetScaler Gateway that allow remote code execution have been exploited in the wild, Citrix confirmed on September 27. It released fixes for both, along with six other flaws. One of the two...",
-      "url": "https://thehackernews.com/2026/09/warning-two-unpatched-citrix-netscaler.html",
-      "date": "2026-09-27T07:47:57Z"
-    },
-    {
-      "title": "Friday Squid Blogging: Participatory Squid Dissection in October in Tennessee",
-      "description": "[SCHNEIER] I feel like someone who reads this blog will want to go to this: Families are invited to dive into the fascinating world of marine biology during an exciting, hands-on Family Squid Dissection at the Hands-On Science Center. Designed for curious...",
-      "url": "https://www.schneier.com/blog/archives/2026/09/friday-squid-blogging-participatory-squid-dissection-in-october-in-tennessee.html",
-      "date": "2026-09-25T21:08:14Z"
-    },
-    {
-      "title": "A Closer Look at Malware From the Macfinger ClickFix Campaign, (Fri, Sep 25th)",
-      "description": "[ISC] Introduction&#xd;",
-      "url": "https://isc.sans.edu/diary/rss/33368",
-      "date": "2026-09-25T12:45:19Z"
-    },
-    {
-      "title": "On Anthropic\u2019s AI Misuse Report",
-      "description": "[SCHNEIER] Earlier this month, Anthropic published a long report detailing all of the Claude misuses it detected. Daniel Meissler usefully summarized the report into 117 findings. A few of the highlights: AI agents increasingly handled reconnaissance,...",
-      "url": "https://www.schneier.com/blog/archives/2026/09/on-anthropics-ai-misuse-report.html",
-      "date": "2026-09-25T11:07:22Z"
-    },
-    {
-      "title": "ISC Stormcast For Friday, September 25th, 2026 https://isc.sans.edu/podcastdetail/10110, (Fri, Sep 25th)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33370",
-      "date": "2026-09-25T03:45:12Z"
-    },
-    {
-      "title": "Malicious npm Packages That Evade Defenses",
-      "description": "[SCHNEIER] This is an impressive piece of malware. Its sophistication says nation-state to me, but there is no direct evidence and certainly no attribution.",
-      "url": "https://www.schneier.com/blog/archives/2026/09/malicious-npm-packages-that-evade-defenses.html",
-      "date": "2026-09-24T11:07:42Z"
-    },
-    {
-      "title": "One URL, Three Different Tricks, (Thu, Sep 24th)",
-      "description": "[ISC] Yesterday, we received a phishing email with an interesting link. At first sight, it looks like garbage, but every piece of it has been carefully crafted to confuse basic security controls. Here is the defanged link:&#xd;",
-      "url": "https://isc.sans.edu/diary/rss/33366",
-      "date": "2026-09-24T06:25:06Z"
-    },
-    {
-      "title": "ISC Stormcast For Thursday, September 24th, 2026 https://isc.sans.edu/podcastdetail/10108, (Thu, Sep 24th)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33364",
-      "date": "2026-09-24T03:50:11Z"
-    },
-    {
-      "title": "Research on Models Engaging in Genie-Like Behavior",
-      "description": "[SCHNEIER] New paper: &#8220;Self-Jailbreaking: Language Models Can Reason Themselves Out of Safety Alignment After Benign Reasoning Training.&#8221; Abstract: We discover a novel and surprising phenomenon of unintentional misalignment in reasoning language...",
-      "url": "https://www.schneier.com/blog/archives/2026/09/research-on-models-engaging-in-genie-like-behavior.html",
-      "date": "2026-09-23T11:03:36Z"
-    },
-    {
-      "title": "GPT-6 Astra Breaks an Old Enigma Message",
-      "description": "[SCHNEIER] This is pretty amazing: However, the most astonishing thing about this break is that the GPT\u00ad6 Astra did it entirely on its own. Carter Leffer only directed GPT\u00ad6 Astra to see if it could break any of the unbroken Enigma messages published on the...",
-      "url": "https://www.schneier.com/blog/archives/2026/09/gpt-6-astra-breaks-an-old-enigma-message.html",
-      "date": "2026-09-22T11:02:45Z"
-    }
-  ]
+    "title": "Sentinel Protocol",
+    "tagline": "Perimeter Intelligence Sync",
+    "updated": "2026-09-28 18:24 UTC",
+    "news": [
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "Kolawole Samuel Adebayo",
+            "title": "From AI endpoints to IAM: 5 cybersecurity CEOs we\u2019ve been watching this summer",
+            "description": "Cybersecurity\u00a0has had no shortage of new companies and ideas this summer. Behind some of the most interesting developments are founders who have spent years working on the problems they are now trying to solve. Their companies span different parts of the secu\u2026",
+            "url": "https://thenextweb.com/news/cybersecurity-ceos-ai-endpoints-identity-summer-2026",
+            "urlToImage": "https://media.thenextweb.com/2026/09/team-meeting-laptops-boardroom.jpg",
+            "publishedAt": "2026-09-27T18:02:54Z",
+            "content": "Cybersecurity\u00a0has had no shortage of new companies and ideas this summer. Behind some of the most interesting developments are founders who have spent years working on the problems they are now tryin\u2026 [+4828 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Mother Jones"
+            },
+            "author": "Alex Nguyen",
+            "title": "Rest Assured: AI Companies Say They\u2019re Investigating Tens of Thousands of Rogue Bot Incidents",
+            "description": "OpenAI and Anthropic are reportedly investigating tens of thousands of incidents where their advanced models bypassed monitors and guardrails, behavior that the startups facilitate for internal safety testing.\u00a0 According to a Saturday Axios report, sources sa\u2026",
+            "url": "https://www.motherjones.com/politics/2026/09/rest-assured-ai-companies-say-theyre-investigating-tens-of-thousands-of-rogue-bot-incidents/",
+            "urlToImage": "https://www.motherjones.com/wp-content/uploads/2026/09/sam-altman-donald-trump-ai-G7-2000.jpg?w=1200&h=630&crop=1",
+            "publishedAt": "2026-09-27T17:53:47Z",
+            "content": "President Donald Trump talks to OpenAI CEO Sam Altman during the G7 summit on June 17, 2026, in Evian-les-Bains, France.Julia Demaree Nikhinson/Pool/AP\r\nGet your news from a source thats not owned an\u2026 [+6489 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Pypi.org"
+            },
+            "author": "theabsolutesmartest@gmail.com",
+            "title": "sentinel-watch 0.5.0",
+            "description": "tiny folder watchdog that spots ransomware-ish behavior",
+            "url": "https://pypi.org/project/sentinel-watch/0.5.0/",
+            "urlToImage": null,
+            "publishedAt": "2026-09-27T17:48:33Z",
+            "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe\u2026 [+12 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Wnd.com"
+            },
+            "author": "RealClearWire",
+            "title": "Refrigerators: The next battle frontier?",
+            "description": "'If a sophisticated adversary wanted to test its ability to disrupt the infrastructure supporting America's military without firing a shot, is this what it might look like?'",
+            "url": "https://www.wnd.com/2026/09/refrigerators-next-battle-frontier/",
+            "urlToImage": "https://www.wnd.com/wp-content/uploads/2026/09/refrigerators-home-appliances-unsplash-1200x630.jpg",
+            "publishedAt": "2026-09-27T17:40:22Z",
+            "content": "Refrigerators are probably the last thing anyone would consider a national security vulnerability, which is precisely why the unusual refrigeration failures at U.S. military commissaries deserve more\u2026 [+8187 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Securityaffairs.com"
+            },
+            "author": "Pierluigi Paganini",
+            "title": "Citrix Confirmed Two New NetScaler Flaws Exploited as Zero-Day",
+            "description": "Citrix confirmed two critical NetScaler zero-days were exploited before patches were available, with attackers able to remotely execute code. Citrix confirmed that two critical zero-day vulnerabilities in NetScaler ADC and NetScaler Gateway were exploited bef\u2026",
+            "url": "https://securityaffairs.com/199873/security/citrix-confirmed-two-new-netscaler-flaws-exploited-as-zero-day.html",
+            "urlToImage": "https://securityaffairs.com/wp-content/uploads/2019/03/Citrix-1.png",
+            "publishedAt": "2026-09-27T17:29:20Z",
+            "content": "Citrix Confirmed Two New NetScaler Flaws Exploited as Zero-Day\r\nCitrix confirmed that two critical zero-day vulnerabilities in NetScaler ADC and NetScaler Gateway were exploited before the company re\u2026 [+5888 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Pypi.org"
+            },
+            "author": "theabsolutesmartest@gmail.com",
+            "title": "sentinel-watch 0.3.0",
+            "description": "tiny folder watchdog that spots ransomware-ish behavior",
+            "url": "https://pypi.org/project/sentinel-watch/0.3.0/",
+            "urlToImage": null,
+            "publishedAt": "2026-09-27T17:00:43Z",
+            "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe\u2026 [+12 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Pypi.org"
+            },
+            "author": "theabsolutesmartest@gmail.com",
+            "title": "sentinel-watch added to PyPI",
+            "description": "tiny folder watchdog that spots ransomware-ish behavior",
+            "url": "https://pypi.org/project/sentinel-watch/",
+            "urlToImage": null,
+            "publishedAt": "2026-09-27T17:00:39Z",
+            "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe\u2026 [+12 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BusinessLine"
+            },
+            "author": "Vallari Sanzgiri",
+            "title": "The growing backlash against mega data centres",
+            "description": "Backlash against AI data centers grows globally as communities demand transparency and regulation over water, power use, and local benefits.",
+            "url": "https://www.thehindubusinessline.com/specials/corporate-file/the-growing-backlash-against-mega-data-centres/article71511637.ece",
+            "urlToImage": "https://bl-i.thgim.com/public/incoming/5w6kzz/article71517091.ece/alternates/LANDSCAPE_1200/BL2809_Corp_Lead.jpg",
+            "publishedAt": "2026-09-27T16:57:38Z",
+            "content": "Meena (name changed), a resident of Kalpataru in Balkum, Thane, has learnt to keep buckets filled at home. Water cuts can last for days, while power outages for four to five hours are a regular summe\u2026 [+12443 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Lauren Edmonds",
+            "title": "Bill Gates says the future of AI will happen in 2 phases and lead to 'an era of abundance'",
+            "description": "On \"Meet the Press,\" Bill Gates said humanity is entering the messy first phase of AI, but the second one could bring an \"era of abundance.\"",
+            "url": "https://www.businessinsider.com/bill-gates-future-of-ai-will-happen-in-two-phases-2026-9#article",
+            "urlToImage": "https://i.insider.com/6ab929fbeb7225411267b27d?width=1200&format=jpeg",
+            "publishedAt": "2026-09-27T16:55:13Z",
+            "content": "Bill Gates said that combining AI and humanoid robots could lead to an \"era of abundance.\"Tayfun Coskun/Anadolu via Getty Images\r\n<ul><li>Bill Gates said in an interview on \"Meet the Press\" that AI w\u2026 [+3796 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Tuscaloosa News"
+            },
+            "author": "Chase Goodbread, Tuscaloosa News",
+            "title": "Is Texas A&M football a fraud? Week 4 SEC Power Rankings say yes | Goodbread",
+            "description": "The SEC Week 4 Power Rankings are out, and Texas A&M has slipped and fallen once again. Who rose above the Aggies? Start with Mississippi State.",
+            "url": "https://www.tuscaloosanews.com/story/sports/columns/2026/09/27/sec-football-power-rankings-texas-am-fraud-week-4/91365669007/",
+            "urlToImage": "https://s.yimg.com/lo/mysterio/api/a116a777a7d939ddbcf5ffd5879661ba3f8f637dee7750a8113d9fabf4370218/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe-tuscaloosa-news%2Fc0364c826d167c58c0d6a2154f14f321.jpg",
+            "publishedAt": "2026-09-27T16:23:36Z",
+            "content": "The bloom is officially off the Mike Elko rose after Texas A&amp;M football took its second double-digit loss in as many weeks, joining three other SEC teams who finished September at 2-2. Meanwhile,\u2026 [+3116 chars]"
+        }
+    ]
 }
