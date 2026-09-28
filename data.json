@@ -1,11 +1,65 @@
 {
-  "updated": "2026-09-28 07:58:11 UTC",
+  "updated": "2026-09-28 16:28:02 UTC",
   "news": [
+    {
+      "title": "JadePuffer agentic AI attacks target Azure, destroy cloud resources",
+      "description": "[BLEEPINGCOMPUTER] The JadePuffer ransomware operator is targeting Azure tenants with agent-driven attacks that conduct reconnaissance, steal credentials, and destroy core components. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/jadepuffer-agentic-ai-attacks-target-azure-destroy-cloud-resources/",
+      "date": "2026-09-28T15:49:27Z"
+    },
+    {
+      "title": "\u26a1 Weekly Recap: $387M Crypto Hack, Citrix Exploits, AI Agents Go Off-Script, and More Threats",
+      "description": "[FEEDS] A domain used as harmless placeholder text showed up in roughly 1,700 repositories. Then somebody registered it and started serving malicious lures. That is the kind of week this was: forgotten assumptions turning into live attack surface....",
+      "url": "https://thehackernews.com/2026/09/weekly-recap-387m-crypto-hack-citrix.html",
+      "date": "2026-09-28T14:00:53Z"
+    },
+    {
+      "title": "80,000+ Organizations Had AI Logins Stolen: From Shadow AI to LLMjacking",
+      "description": "[BLEEPINGCOMPUTER] Infostealer logs exposed AI account credentials and sessions tied to more than 80,000 corporate domains, creating risks ranging from stolen conversations to LLMjacking. SOCRadar examines the growing market for stolen AI logins and how organizations...",
+      "url": "https://www.bleepingcomputer.com/news/security/80-000-plus-organizations-had-ai-logins-stolen-from-shadow-ai-to-llmjacking/",
+      "date": "2026-09-28T14:00:10Z"
+    },
+    {
+      "title": "Webinar: How to Govern AI Agents, Reduce Excessive Access, and Control Shadow AI",
+      "description": "[FEEDS] AI agents are moving into production faster than security teams can govern them. They are connecting to apps, handling data, calling APIs, and acting across business systems\u2014often without the same controls applied to human users. According to Okta\u2019s...",
+      "url": "https://thehackernews.com/2026/09/webinar-how-to-govern-ai-agents-reduce.html",
+      "date": "2026-09-28T11:58:00Z"
+    },
+    {
+      "title": "Carbonato Botnet Compromises Docker Hosts to Deploy Telegram-Controlled Hermes AI Agent",
+      "description": "[FEEDS] Cybersecurity researchers have disclosed details of a new botnet malware called Carbonato that's targeting exposed Docker daemons to deploy an open-source artificial intelligence (AI) agent framework called Hermes Agent. \"The implant installs the...",
+      "url": "https://thehackernews.com/2026/09/carbonato-botnet-compromises-docker.html",
+      "date": "2026-09-28T11:46:00Z"
+    },
+    {
+      "title": "New Attack Against RSA",
+      "description": "[SCHNEIER] ArsTechnica is reporting on a &#8220;new&#8221; attack against RSA, one that bypasses factoring. First, this attack isn&#8217;t new. The original research is from 2007. What is new is the implementation. Second, it is a forgery attack. It allows an...",
+      "url": "https://www.schneier.com/blog/archives/2026/09/new-attack-against-rsa.html",
+      "date": "2026-09-28T11:02:58Z"
+    },
+    {
+      "title": "Bitget resumes Bitcoin withdrawals after $387.5 million crypto heist",
+      "description": "[BLEEPINGCOMPUTER] Cryptocurrency exchange Bitget has resumed Bitcoin withdrawals suspended after suspected North Korean hackers breached its systems last week and stole over $350 million. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/bitget-resumes-bitcoin-withdrawals-after-3875-million-crypto-heist/",
+      "date": "2026-09-28T09:25:29Z"
+    },
+    {
+      "title": "JADEPUFFER-Linked Attackers Used Compromised Service Principals to Delete Azure Resources",
+      "description": "[FEEDS] The threat actor known as JADEPUFFER has been observed orchestrating destructive actions within a Microsoft Azure environment using compromised service principals. Microsoft, which is tracking the activity under the name Storm-3168, has called it an...",
+      "url": "https://thehackernews.com/2026/09/jadepuffer-linked-attackers-used.html",
+      "date": "2026-09-28T09:08:21Z"
+    },
     {
       "title": "US soldier gets 70 months in prison for extorting 10 tech, telecom firms",
       "description": "[BLEEPINGCOMPUTER] A former U.S. Army soldier has been sentenced to 70 months in prison for hacking and extorting at least 10 U.S. technology and telecommunications companies between April 2023 and December 2024. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/us-soldier-gets-70-months-in-prison-for-extorting-10-tech-telecom-firms/",
       "date": "2026-09-28T07:30:15Z"
+    },
+    {
+      "title": "CISA Says Attackers Are Exploiting Two Critical Citrix NetScaler Flaws Globally",
+      "description": "[FEEDS] The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Sunday added two critical Citrix NetScaler ADC and Gateway flaws to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation. The vulnerabilities...",
+      "url": "https://thehackernews.com/2026/09/cisa-says-attackers-are-exploiting-two.html",
+      "date": "2026-09-28T07:21:49Z"
     },
     {
       "title": "CISA orders feds to patch exploited Citrix flaws by Wednesday",
@@ -20,10 +74,52 @@
       "date": "2026-09-28T02:00:02Z"
     },
     {
+      "title": "Data breach affects 23,549 customers of Singapore telco Simba, personal data protection commission investigating",
+      "description": "[MALAY MAIL] SINGAPORE, Sept 28 \u2014 Telecommunications company Simba has disclosed a data breach affecting 23,549 customers, with compromised information including names, identity card numbers...",
+      "url": "https://www.malaymail.com/news/singapore/2026/09/28/data-breach-affects-23549-customers-of-singapore-telco-simba-personal-data-protection-commission-investigating/236820",
+      "date": "2026-09-28T01:59:33Z"
+    },
+    {
+      "title": "Personal information of over 23,500 Simba telco customers leaked in data breach in Singapore",
+      "description": "[THE STAR] SINGAPORE: Personal information of more than 23,500 Simba customers has been compromised in a data breach, the telco said in a statement on Sept 25.",
+      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/09/28/personal-information-of-over-23500-simba-telco-customers-leaked-in-data-breach-in-singapore",
+      "date": "2026-09-28T01:31:00Z"
+    },
+    {
+      "title": "AI agents breach government systems, raising safety concerns",
+      "description": "[THE INDIAN EXPRESS] A technology whose agents can cross borders in seconds calls for international standards regarding model evaluations, agent permissions, cybersecurity testing, incident disclosure and emergency responses, with mechanisms that can be strengthened as...",
+      "url": "https://indianexpress.com/article/opinion/editorials/ai-agents-government-systems-security-risks-10896625/",
+      "date": "2026-09-28T00:42:25Z"
+    },
+    {
+      "title": "Six Cybersecurity Leaders Comment on OpenAI\u2019s Medicare Hack",
+      "description": "[ITWIRE] Six cybersecurity leaders from BeyondTrust, Check Point Software Technologies, Exabeam, Horizon3, Saviynt and Secure Code Warrior have provided their response to the news that...",
+      "url": "https://itwire.com/business-it-news/security/six-cybersecurity-leaders-comment-on-openai-s-medicare-hack",
+      "date": "2026-09-28T00:25:36Z"
+    },
+    {
+      "title": "Splunk's Kamal Hathi details \u2018largest innovation payload in a long time\u2019",
+      "description": "[ITWIRE] It\u2019s been two and a half years since Cisco paid $US28 billion to acquire data analytics and cybersecurity firm Splunk.",
+      "url": "https://itwire.com/it-industry-news/deals/splunks-kamal-hathi-details-largest-innovation-payload-in-a-long-time",
+      "date": "2026-09-27T23:52:30Z"
+    },
+    {
       "title": "OpenAI is preparing \u201co,\u201d an always-on ChatGPT assistant that could handle email",
       "description": "[BLEEPINGCOMPUTER] OpenAI is testing a new always-on assistant called \"o\", and references to the unannounced feature briefly showed up on the company's website. [...]",
       "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-preparing-o-an-always-on-chatgpt-assistant-that-could-handle-email/",
       "date": "2026-09-27T23:40:39Z"
+    },
+    {
+      "title": "'The right thing': Labor defends actions on data breach",
+      "description": "[THE CANBERRA TIMES] A national data breach caused by a rogue AI agent was good reason for concern, a senior politician...",
+      "url": "https://www.canberratimes.com.au/story/9358287/the-right-thing-labor-defends-actions-on-data-breach/",
+      "date": "2026-09-27T22:35:55Z"
+    },
+    {
+      "title": "False claims alleging theft by foreigners in Japan spread on social media",
+      "description": "[JAPAN TODAY] Videos falsely portraying foreigners as stealing metal from railway tracks in Japan have spread widely on the country's social media, apparently to suggest foreigners are a threat to public safety, an investigation by a Tokyo-based cybersecurity...",
+      "url": "https://japantoday.com/category/crime/false-claims-alleging-theft-by-foreigners-in-japan-spread-on-social-media",
+      "date": "2026-09-27T21:29:57Z"
     },
     {
       "title": "From AI endpoints to IAM: 5 cybersecurity CEOs we\u2019ve been watching this summer",
@@ -44,106 +140,16 @@
       "date": "2026-09-27T16:12:04Z"
     },
     {
-      "title": "Citrix confirms two NetScaler RCE zero-days exploited in attacks",
-      "description": "[BLEEPINGCOMPUTER] Citrix has confirmed that two critical NetScaler remote code execution vulnerabilities, tracked as CVE-2026-88771 and CVE-2026-88772, are being exploited in attacks and that it has released security updates to fix the flaws. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/citrix-admins-warned-to-shut-down-netscalers-over-2-exploited-zero-days/",
-      "date": "2026-09-27T16:02:37Z"
-    },
-    {
-      "title": "Ten NHS staff suspended after unauthorised access to medical records of late toddler Noah Woods",
-      "description": "[THE NEWS INTERNATIONAL] The East Suffolk and North Essex NHS Foundation Trust suspended or removed 10 employees from active duty following an unauthorized data breach involving the medical records of three-year-old Noah...",
-      "url": "https://www.thenews.com.pk/latest/1417834-ten-nhs-staff-suspended-after-unauthorised-access-to-medical-records-of-late-toddler-noah-woods",
-      "date": "2026-09-27T15:17:00Z"
-    },
-    {
       "title": "Wireshark 4.6.9 Released, (Sun, Sep 27th)",
       "description": "[ISC] Wireshark release 4.6.9 fixes 19 vulnerabilities and 16 bugs.&#xd;",
       "url": "https://isc.sans.edu/diary/rss/33372",
       "date": "2026-09-27T15:04:49Z"
     },
     {
-      "title": "Cloudflare fixes Containers cross-tenant flaw exposing customer data",
-      "description": "[BLEEPINGCOMPUTER] Cloudflare has fixed a vulnerability in Containers and Sandboxes that allowed customers with a Workers Paid account to recover residual data from other customers' containers on the same physical host. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/cloudflare-fixes-containers-cross-tenant-flaw-exposing-customer-data/",
-      "date": "2026-09-27T14:13:31Z"
-    },
-    {
-      "title": "Tata Communications sets up centre of excellence at SASTRA",
-      "description": "[THE HINDU] Tata Communications launches a Rs. 3.5 crore Centre of Excellence in cybersecurity and digital forensics at SASTRA University, Thanjavur.",
-      "url": "https://www.thehindu.com/news/cities/Tiruchirapalli/tata-communications-sets-up-centre-of-excellence-at-sastra/article71516331.ece",
-      "date": "2026-09-27T14:01:57Z"
-    },
-    {
-      "title": "Anthropic turns Claude into an AI marketplace with 2,000+ plugins and connectors",
-      "description": "[BLEEPINGCOMPUTER] Anthropic has just announced a new Claude Marketplace, and it brings all AI-related tools into one place, including plugins, connectors, agents, and more. [...]",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-turns-claude-into-an-ai-marketplace-with-2-000-plus-plugins-and-connectors/",
-      "date": "2026-09-27T13:38:40Z"
-    },
-    {
-      "title": "CoE in cybersecurity launched at SASTRA University",
-      "description": "[TIMES OF INDIA] Centre of Excellence in cybersecurity and digital forensics launched at SASTRA University\u2019s Thanjavur campus with Tata Communications, costing Rs 3.5 crore.",
-      "url": "https://timesofindia.indiatimes.com/city/trichy/coe-in-cybersecurity-launched-at-sastra-university/articleshow/134521088.cms",
-      "date": "2026-09-27T13:24:00Z"
-    },
-    {
-      "title": "NHS Trust removes 10 people after death of Noah Woods",
-      "description": "[LIVERPOOL ECHO] They have been suspended or removed from duty after a possible data breach of the records of Noah Woods",
-      "url": "https://www.liverpoolecho.co.uk/news/uk-world-news/nhs-trust-removes-10-people-34678782",
-      "date": "2026-09-27T12:04:54Z"
-    },
-    {
-      "title": "Urgent probe launched as NHS Trust removes 10 people amid concerns over Noah Woods \u2018data breach\u2019",
-      "description": "[BIRMINGHAM LIVE] Dr Martin Mansfield, the deputy chief medical officer at East Suffolk and North Essex NHS Foundation Trust (Esneft) said \u201can urgent internal investigation\u201d had been launched",
-      "url": "https://www.birminghammail.co.uk/news/uk-news/urgent-probe-launched-nhs-trust-34678781",
-      "date": "2026-09-27T12:02:54Z"
-    },
-    {
-      "title": "The eerie 'text' sign your ID may have been sold on the DARK WEB in massive data breach exposing 153million licenses",
-      "description": "[THE SUN U.S EDITION] A DATA breach has exposed up to 153million driver's licenses to the dark web, and Americans need to keep a close eye on their accounts. Identity...",
-      "url": "https://www.the-sun.com/news/17057277/idscan-data-breach-drivers-license-dark-web/",
-      "date": "2026-09-27T12:00:00Z"
-    },
-    {
-      "title": "Simba data breach exposes personal details of 23,500 customers",
-      "description": "[THE STRAITS TIMES] Personal information of over 23,500 SIMBA customers was leaked in a data breach; the company is investigating and notifying affected users. Read more at straitstimes.com.",
-      "url": "https://www.straitstimes.com/singapore/personal-information-of-over-23500-simba-customers-leaked-in-data-breach",
-      "date": "2026-09-27T11:36:06Z"
-    },
-    {
       "title": "Warning: Two Unpatched Citrix NetScaler RCE Zero-Days Under Active Exploitation",
       "description": "[FEEDS] Two critical vulnerabilities in Citrix NetScaler ADC and NetScaler Gateway that allow remote code execution have been exploited in the wild, Citrix confirmed on September 27. It released fixes for both, along with six other flaws. One of the two...",
       "url": "https://thehackernews.com/2026/09/warning-two-unpatched-citrix-netscaler.html",
       "date": "2026-09-27T07:47:57Z"
-    },
-    {
-      "title": "Lunex Stealer Abuses AMD Driver to Disable Security Monitoring and Steal Browser Credentials",
-      "description": "[FEEDS] The Psychedelic Stealer malware distributed via compromised Ukrainian websites using ClickFix-style Cloudflare verification checks is part of a wider malware-as-a-service (MaaS) platform called Lunex. The new findings come from Ontinue, which...",
-      "url": "https://thehackernews.com/2026/09/lunex-stealer-abuses-amd-driver-to.html",
-      "date": "2026-09-26T18:22:52Z"
-    },
-    {
-      "title": "Attackers Bypass WAFs to Exploit Oracle PeopleSoft Flaw and Deploy Web Shells",
-      "description": "[FEEDS] Google is warning of renewed mass exploitation of a known security vulnerability in Oracle PeopleSoft as part of a campaign targeting multiple sectors globally. The ShinyHunters-linked activity involves the weaponization of CVE-2026-35273 (CVSS...",
-      "url": "https://thehackernews.com/2026/09/attackers-bypass-wafs-to-exploit-oracle.html",
-      "date": "2026-09-26T11:46:40Z"
-    },
-    {
-      "title": "Zero Trust for AI Agents Starts With Fixing Zero Visibility",
-      "description": "[FEEDS] The way we talk about AI agents is shifting, and the way we implement them requires an even more fundamental shift. While earlier discourse focused on how quickly organizations could stand up agents and how much productivity they could promise, a...",
-      "url": "https://thehackernews.com/2026/09/zero-trust-for-ai-agents-starts-with.html",
-      "date": "2026-09-26T10:30:00Z"
-    },
-    {
-      "title": "Elementor CSRF Flaw Lets Attackers Take Over Sites After Admin Clicks Crafted Link",
-      "description": "[FEEDS] Details have emerged about a high-severity security flaw in the Elementor Website Builder WordPress plugin that could be exploited by an unauthenticated attacker to create rogue administrator accounts and take control of a site. The cross-site...",
-      "url": "https://thehackernews.com/2026/09/elementor-csrf-flaw-lets-attackers-take.html",
-      "date": "2026-09-26T09:55:22Z"
-    },
-    {
-      "title": "SharePoint RCE and MikroTik RouterOS Flaws Actively Exploited in the Wild",
-      "description": "[FEEDS] The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two security flaws impacting Microsoft SharePoint and Mikrotik RouterOS to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation....",
-      "url": "https://thehackernews.com/2026/09/sharepoint-rce-and-mikrotik-routeros.html",
-      "date": "2026-09-26T08:49:53Z"
     },
     {
       "title": "Friday Squid Blogging: Participatory Squid Dissection in October in Tennessee",
@@ -198,12 +204,6 @@
       "description": "[SCHNEIER] This is pretty amazing: However, the most astonishing thing about this break is that the GPT\u00ad6 Astra did it entirely on its own. Carter Leffer only directed GPT\u00ad6 Astra to see if it could break any of the unbroken Enigma messages published on the...",
       "url": "https://www.schneier.com/blog/archives/2026/09/gpt-6-astra-breaks-an-old-enigma-message.html",
       "date": "2026-09-22T11:02:45Z"
-    },
-    {
-      "title": "Reverse-Engineering Flock Cameras",
-      "description": "[SCHNEIER] Hackers captured a Flock camera and got a look (alternate link) at the software: While much of the automatic license plate reader&#8217;s (ALPR) most sensitive storage remained encrypted and inaccessible, the joint analysis of the recovered data...",
-      "url": "https://www.schneier.com/blog/archives/2026/09/reverse-engineering-flock-cameras.html",
-      "date": "2026-09-21T14:37:45Z"
     }
   ]
 }
