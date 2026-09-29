@@ -1,35 +1,65 @@
 {
-  "updated": "2026-09-29 17:16:34 UTC",
+  "updated": "2026-09-29 21:39:12 UTC",
   "news": [
     {
-      "title": "New Spectre v2 attack variant leaks Linux root password hash in minutes",
-      "description": "[BLEEPINGCOMPUTER] A new Branch Target Reuse (BTR) attack has been devised that can recover root password hashes on Intel computers running Linux in 3-5 minutes on average. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/new-spectre-v2-attack-variant-leaks-linux-root-password-hash-in-minutes/",
-      "date": "2026-09-29T17:10:11Z"
+      "title": "Signal adds encypted local backup support to iOS, desktop apps",
+      "description": "[BLEEPINGCOMPUTER] Signal, the secure messaging app, released version 8.30, completing the rollout of its secure backups feature across all supported operating systems (Android, iOS, Linux, macOS, and Windows). [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/signal-adds-encypted-local-backup-support-to-ios-desktop-apps/",
+      "date": "2026-09-29T21:30:08Z"
+    },
+    {
+      "title": "Custom ChatGPTs push ClickFix attacks to deploy RAT malware",
+      "description": "[BLEEPINGCOMPUTER] Custom variants of OpenAI's ChatGPT promoted in sponsored Google results are directing unsuspecting users to malicious sites that use ClickFix attacks to deliver malware. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/custom-chatgpts-push-clickfix-attacks-to-deploy-rat-malware/",
+      "date": "2026-09-29T20:59:39Z"
+    },
+    {
+      "title": "FBI tells ShinyHunters members to turn themselves in after recent arrest",
+      "description": "[BLEEPINGCOMPUTER] The FBI is warning members of the ShinyHunters extortion group to turn themselves in after Dutch police arrested a man the bureau described as one of the group's alleged leaders. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/fbi-tells-shinyhunters-members-to-turn-themselves-in-after-recent-arrest/",
+      "date": "2026-09-29T20:09:55Z"
+    },
+    {
+      "title": "Hackers exploit Citrix NetScaler zero-day to deploy web shells",
+      "description": "[BLEEPINGCOMPUTER] Cybersecurity firms say attackers exploited the Citrix NetScaler CVE-2026-88772 zero-day to deploy custom web shells and tunneling malware, gain root access, steal credentials, and spread into internal networks. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-citrix-netscaler-zero-day-to-deploy-web-shells/",
+      "date": "2026-09-29T18:37:12Z"
+    },
+    {
+      "title": "Former US Air Force members sent to prison over BEC attacks",
+      "description": "[BLEEPINGCOMPUTER] Two former members of the United States Air Force were sentenced to a combined 189 months in federal prison for their roles in a multi-year series of business email compromise (BEC) scams and phishing campaigns. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/former-us-air-force-members-sent-to-prison-over-bec-attacks/",
+      "date": "2026-09-29T18:09:39Z"
+    },
+    {
+      "title": "French Tax Data Theft Using Stolen Staff Passwords Went Undetected for Seven Weeks",
+      "description": "[FEEDS] An attacker used stolen passwords of staff at France's tax administration to take tax data on hundreds of thousands of taxpayers and businesses in June and July. Neither the tax administration nor France's national cybersecurity agency saw the data...",
+      "url": "https://thehackernews.com/2026/09/french-tax-data-theft-using-stolen.html",
+      "date": "2026-09-29T17:47:01Z"
+    },
+    {
+      "title": "Windows 11 2026 Update released, here's everything you need to know",
+      "description": "[BLEEPINGCOMPUTER] Microsoft has started rolling out Windows 11 26H2 to everyone, and while it's this year's big annual feature update, you probably won't notice a massive difference after installing it. [...]",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-2026-update-released-heres-everything-you-need-to-know/",
+      "date": "2026-09-29T17:37:40Z"
     },
     {
       "title": "New Spectre-v2 BTR Attack Leaks Linux Memory Despite Existing Defenses",
       "description": "[FEEDS] A group of academics from VUSec and Scuola Superiore Sant'Anna have disclosed details of a new Spectre CPU vulnerability variant that affects Just-In-Time (JIT) engines present in web browsers, language runtimes, and the operating system kernel,...",
       "url": "https://thehackernews.com/2026/09/new-spectre-v2-btr-attack-leaks-linux.html",
-      "date": "2026-09-29T17:00:00Z"
+      "date": "2026-09-29T17:20:17Z"
     },
     {
-      "title": "Automated AI agent used to breach cybersecurity nonprofit DIVD",
-      "description": "[BLEEPINGCOMPUTER] The Dutch Institute for Vulnerability Disclosure (DIVD) suffered an AI-driven cyberattack that the organization described as \"loud and very, very messy.\" [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/automated-ai-agent-used-to-breach-cybersecurity-nonprofit-divd/",
-      "date": "2026-09-29T15:39:19Z"
+      "title": "Russia's Star Blizzard Targets 100+ Organizations With Fake Event Invites to Deliver Backdoor",
+      "description": "[FEEDS] Russian state hackers known as Star Blizzard have been using fake event invitations to trick people into installing a backdoor on their Windows computers,&nbsp;according to Microsoft. The campaigns, aimed at people and organizations tied to Ukraine,...",
+      "url": "https://thehackernews.com/2026/09/russias-star-blizzard-targets-100.html",
+      "date": "2026-09-29T17:20:08Z"
     },
     {
       "title": "Kiteworks Fixes Critical Flaw Found During Nine-Hour Precautionary Shutdown",
       "description": "[FEEDS] Kiteworks on Monday said it worked with federal intelligence authorities over the weekend as it identified and addressed a critical security vulnerability during the scheduled precautionary shutdown. \"During the shutdown, this activity led to the...",
       "url": "https://thehackernews.com/2026/09/kiteworks-fixes-critical-flaw-found.html",
       "date": "2026-09-29T14:13:20Z"
-    },
-    {
-      "title": "Catch threats before they escalate with real-time Identity Telemetry",
-      "description": "[BLEEPINGCOMPUTER] Identity governance helps control who should have access, but periodic reviews alone may not reveal attacks as they happen. tenfold Software explains how real-time identity telemetry can help security teams investigate suspicious activity before it...",
-      "url": "https://www.bleepingcomputer.com/news/security/catch-threats-before-they-escalate-with-real-time-identity-telemetry/",
-      "date": "2026-09-29T14:01:11Z"
     },
     {
       "title": "101 Malicious npm Packages Add Developers' WhatsApp Accounts to Groups Without Consent",
@@ -44,22 +74,16 @@
       "date": "2026-09-29T13:29:33Z"
     },
     {
-      "title": "Vietnamese man charged in $16 million 'pig butchering' crypto scam",
-      "description": "[BLEEPINGCOMPUTER] A Vietnamese national was charged with money laundering for his role in a massive \"pig butchering\" scam, which defrauded a victim out of $16 million worth of cryptocurrency. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/vietnamese-man-charged-in-16-million-pig-butchering-crypto-scam/",
-      "date": "2026-09-29T11:41:53Z"
-    },
-    {
       "title": "Using Device Linking to Eavesdrop on WhatsApp and Signal",
       "description": "[SCHNEIER] Modern messaging apps allow users to link their phone accounts to their computer desktop. Eavesdroppers are taking advantage of this capability: Apps such as WhatsApp Web and Signal Desktop allow people to use their accounts on other devices, such...",
       "url": "https://www.schneier.com/blog/archives/2026/09/using-device-linking-to-eavesdrop-on-whatsapp-and-signal.html",
       "date": "2026-09-29T11:02:19Z"
     },
     {
-      "title": "Kiteworks patches critical flaw, brings customer systems online",
-      "description": "[BLEEPINGCOMPUTER] American tech company Kiteworks has lifted a precautionary advisory asking customers to shut down systems after patching a critical vulnerability. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/kiteworks-lifts-shutdown-warning-after-patching-critical-flaw/",
-      "date": "2026-09-29T09:04:06Z"
+      "title": "From Pfizer to UPS, the newest members of the AIQ 75 share the secrets to upping their AI game",
+      "description": "[FORTUNE] How Pfizer, Lumen, Cisco, UPS, Palo Alto Networks, and Thermo Fisher are moving AI beyond pilots\u2014using it to reshape drug discovery, networks, logistics, cybersecurity, and daily work.",
+      "url": "https://fortune.com/2026/09/29/fortune-aiq-75-newcomers-pfizer-ups-cisco-ai-strategy/",
+      "date": "2026-09-29T09:00:00Z"
     },
     {
       "title": "Dutch Police Arrest 24-Year-Old Amsterdam Man in ShinyHunters Investigation",
@@ -68,82 +92,58 @@
       "date": "2026-09-29T08:35:10Z"
     },
     {
-      "title": "Apple patches CoreGraphics zero-day flaw exploited in attacks",
-      "description": "[BLEEPINGCOMPUTER] Apple released security updates to fix a zero-day vulnerability exploited in \"extremely sophisticated\" targeted attacks on iOS devices. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/apple-patches-coregraphics-zero-day-flaw-exploited-in-attacks/",
-      "date": "2026-09-29T07:33:12Z"
+      "title": "Bharat Renewable Energy Hackathon: Prize, Application Deadline, Final Showcase And More",
+      "description": "[NDTV PROFIT] The hackathon focuses on practical technology and business solutions across renewable energy, grid flexibility, artificial intelligence, distributed energy, data, circularity and cybersecurity.",
+      "url": "https://www.ndtvprofit.com/india/bharat-renewable-energy-hackathon-prize-application-deadline-final-showcase-and-more-12113352",
+      "date": "2026-09-29T08:26:03Z"
     },
     {
-      "title": "Official MCP Python SDK Flaw Can Let Malicious Servers Steal OAuth Credentials",
-      "description": "[FEEDS] A malicious MCP server could trick an application built on the official&nbsp;MCP Python SDK&nbsp;into handing over the OAuth credentials it uses to log in to a real service, the SDK's maintainers said in a security advisory. Affected versions sent...",
-      "url": "https://thehackernews.com/2026/09/official-mcp-python-sdk-flaw-can-let.html",
-      "date": "2026-09-29T06:08:25Z"
+      "title": "Just weeks before mid-terms, Trump administration\u2019s cyber plan comes too late",
+      "description": "[FIRSTPOST] Just weeks before the mid-term elections, the Donald Trump administration has released the cybersecurity plan, but election officials have flagged that the plan is both inadequate and belated.",
+      "url": "https://www.firstpost.com/world/united-states/us-midterm-elections-nsa-cybersecurity-plan-trump-republican-disinformation-threats-emergency-democrats-concerns-14049087.html",
+      "date": "2026-09-29T08:11:29Z"
+    },
+    {
+      "title": "ShinyHunters hackers say they won't leak sensitive FBI data",
+      "description": "[CBC.CA] The hacking group behind a massive FBI data breach says it will not publish the information it obtained, but it cannot guarantee what will happen with the data it already shared with journalists.",
+      "url": "https://www.cbc.ca/news/world/shinyhunters-say-they-wont-release-fbi-data-9.7361716",
+      "date": "2026-09-29T08:00:00Z"
+    },
+    {
+      "title": "TrendAI\u2122 Extends the NVIDIA Agent Safety Platform with Threat Intelligence and Full AI Factory Security",
+      "description": "[THE MANILA TIMES] TrendAI Vision One\u2122 pairs hardware-level detection on NVIDIA BlueField DPUs and network security with Zero Day Initiative\u2122 threat intelligence, helping enterprises safely move agent fleets from pilot to production",
+      "url": "https://www.manilatimes.net/2026/09/29/tmt-newswire/media-outreach-newswire/trendai-extends-the-nvidia-agent-safety-platform-with-threat-intelligence-and-full-ai-factory-security/2434747",
+      "date": "2026-09-29T07:40:34Z"
+    },
+    {
+      "title": "Sectra signs partner agreement to bring enterprise imaging to Brazil",
+      "description": "[PR NEWSWIRE UK] /PRNewswire/ -- International medical imaging IT and cybersecurity company Sectra (STO: SECT B) has signed a partner agreement with S&S Partners, marking...",
+      "url": "https://www.prnewswire.co.uk/news-releases/sectra-signs-partner-agreement-to-bring-enterprise-imaging-to-brazil-302892555.html",
+      "date": "2026-09-29T06:58:00Z"
+    },
+    {
+      "title": "Inspira Enterprise Named Major Contender in Everest Group's 2026 Cybersecurity Services PEAK Matrix\u00ae",
+      "description": "[THE TRIBUNE] MUMBAI, India, RIYADH, Saudi Arabia, DUBAI, UAE, DALLAS, and SINGAPORE, Sept. 29, 2026 /PRNewswire/ -- Inspira Enterprise, a global leader in cybersecurity services, today announced that it has been recognized as a Major Contender in the Everest...",
+      "url": "https://www.tribuneindia.com/news/business/inspira-enterprise-named-major-contender-in-everest-groups-2026-cybersecurity-services-peak-matrix-2-2/",
+      "date": "2026-09-29T06:49:05Z"
+    },
+    {
+      "title": "Defenders of Digital Bharat: Securing India\u2019s Next Era of Digital Finance",
+      "description": "[FIRSTPOST] As India\u2019s financial ecosystem becomes more digital, interconnected and AI-driven, technology leaders are rethinking how cybersecurity, resilience and trust need to evolve.",
+      "url": "https://www.firstpost.com/brand-connect/defenders-of-digital-bharat-securing-indias-next-era-of-digital-finance-14049042.html",
+      "date": "2026-09-29T06:39:10Z"
+    },
+    {
+      "title": "FBI Data Heist: Agents' Addresses, Family Details And Secret Assignments Exposed In Shocking Breach",
+      "description": "[NEWS18] Though hackers ShinyHunters say they will not publish the stolen data, cybersecurity experts warn that the threat may not disappear simply because the files are not posted online",
+      "url": "https://www.news18.com/world/fbi-data-heist-agents-addresses-family-details-and-secret-assignments-exposed-in-shocking-breach-ws-l-10358612.html",
+      "date": "2026-09-29T05:32:34Z"
     },
     {
       "title": "Ukraine's digital minister: 'We want Europe to use Ukraine as an AI sandbox'",
       "description": "[EURONEWS] Ukraine has built a digital state under the pressure of war. Digital Minister Oksana Ferchuk tells Euronews what Europe can learn from Ukraine, from digital government and AI to cybersecurity and resilience.",
       "url": "https://www.euronews.com/2026/09/29/ukraines-digital-minister-we-want-europe-to-use-ukraine-as-an-ai-sandbox",
       "date": "2026-09-29T05:15:25Z"
-    },
-    {
-      "title": "OpenAI Shelves GPT-6.1 Astra After Tests Find Deception and Unauthorized Actions",
-      "description": "[FEEDS] OpenAI on Monday shelved plans to release GPT-6.1 Astra, a next-generation artificial intelligence (AI) model that was planned for an October launch, after it failed internal safety and alignment audits. The development was first reported by The...",
-      "url": "https://thehackernews.com/2026/09/openai-shelves-gpt-61-astra-after-tests.html",
-      "date": "2026-09-29T05:12:32Z"
-    },
-    {
-      "title": "AI agents are hacking government agencies. It\u2019s \u2018really scary\u2019 for cybersecurity",
-      "description": "[THE IRISH TIMES] Existential risk remains a \u2018huge leap\u2019, experts say, but concerns are growing over AI capability",
-      "url": "https://www.irishtimes.com/ireland/2026/09/29/ai-agents-are-hacking-government-agencies-its-really-scary-for-cybersecurity/",
-      "date": "2026-09-29T05:00:01Z"
-    },
-    {
-      "title": "AI agents are hacking government agencies. It\u2019s \u2018really scary\u2019 for cybersecurity",
-      "description": "[BREAKINGNEWS.IE] The breaking news last week that OpenAI agents had hacked the Australian public health service and three other agencies while doing what was supposed to be a rather mundane piece of research is the latest example of AI escaping human\u2026",
-      "url": "https://www.breakingnews.ie/ireland/ai-agents-are-hacking-government-agencies-its-really-scary-for-cybersecurity-1951270.html",
-      "date": "2026-09-29T05:00:01Z"
-    },
-    {
-      "title": "Inspira Enterprise Named Major Contender in Everest Group's 2026 Cybersecurity Services PEAK Matrix\u00ae",
-      "description": "[PR NEWSWIRE UK] /PRNewswire/ -- Inspira Enterprise, a global leader in cybersecurity services, today announced that it has been recognized as a Major Contender in the Everest...",
-      "url": "https://www.prnewswire.co.uk/news-releases/inspira-enterprise-named-major-contender-in-everest-groups-2026-cybersecurity-services-peak-matrix-302891493.html",
-      "date": "2026-09-29T05:00:00Z"
-    },
-    {
-      "title": "Demand, salaries for cybersecurity talent surge as AI, cloud investments rise",
-      "description": "[TIMES OF INDIA] India\u2019s cybersecurity hiring and pay are surging with AI and cloud investments, with 15\u201320% demand growth and up to 22% wage premiums amid talent shortages.",
-      "url": "https://timesofindia.indiatimes.com/city/hyderabad/demand-salaries-for-cybersecurity-talent-surge-as-ai-cloud-investments-rise/articleshow/134544770.cms",
-      "date": "2026-09-29T05:00:00Z"
-    },
-    {
-      "title": "Inspira Enterprise Named Major Contender in Everest Group's 2026 Cybersecurity Services PEAK Matrix\u00ae",
-      "description": "[THE TRIBUNE] Mumbai (Maharashtra) [India]/ Riyadh [Saudi Arabia]/ Dubai [UAE]/ Dallas (Texas) [US]/ Singapore, September 29: Inspira Enterprise, a global leader in cybersecurity services, today announced that it has been recognized as a Major Contender in the...",
-      "url": "https://www.tribuneindia.com/news/business/inspira-enterprise-named-major-contender-in-everest-groups-2026-cybersecurity-services-peak-matrix/",
-      "date": "2026-09-29T04:47:35Z"
-    },
-    {
-      "title": "Inspira Enterprise Named Major Contender in Everest Group's 2026 Cybersecurity Services PEAK Matrix\u00ae",
-      "description": "[ANI (ASIAN NEWS INTERNATIONAL)] Mumbai (Maharashtra) [India]/ Riyadh [Saudi Arabia]/ Dubai [UAE]/ Dallas (Texas) [US]/ Singapore, September 29: Inspira Enterprise, a global leader in cybersecurity services, today announced that it has been recognized as a Major Contender in the...",
-      "url": "https://www.aninews.in/news/business/inspira-enterprise-named-major-contender-in-everest-groups-2026-cybersecurity-services-peak-matrix17420260929101434/",
-      "date": "2026-09-29T04:44:34Z"
-    },
-    {
-      "title": "How Food Safety Technology Improves Monitoring Across Global Supply Chains",
-      "description": "[NEWS-MEDICAL.NET] Continuous monitoring technologies are reshaping food safety by combining IoT sensors, AI, machine learning, and blockchain to track environmental conditions, identify emerging risks, and strengthen traceability across global supply chains. These...",
-      "url": "https://www.news-medical.net/health/How-Food-Safety-Technology-Improves-Monitoring-Across-Global-Supply-Chains.aspx",
-      "date": "2026-09-29T04:29:00Z"
-    },
-    {
-      "title": "OpenAI Pledges To Rebuild Trust After AI Agent Breaches Australian Government Website",
-      "description": "[TIMES NOW] OpenAI has issued an apology following the hacking of an Australian government website by its AI agents. The company plans to enhance its cybersecurity and create a local taskforce in response to the incident, which has drawn significant criticism,...",
-      "url": "https://www.timesnownews.com/technology-science/openai-pledges-to-rebuild-trust-after-ai-agent-breaches-australian-government-website-article-156243902",
-      "date": "2026-09-29T03:59:19Z"
-    },
-    {
-      "title": "The Fulcrum Group Named Finalist in the 2026 MSP Titans of the Industry Awards",
-      "description": "[THE MANILA TIMES] The Fulcrum Group, Inc. has been named a finalist in the 2026 MSP Titans of the Industry Awards, a recognition of leading managed service providers. The nomination highlights Fulcrum's dedication to cybersecurity, innovation, strategic technology...",
-      "url": "https://www.manilatimes.net/2026/09/29/tmt-newswire/plentisoft/the-fulcrum-group-named-finalist-in-the-2026-msp-titans-of-the-industry-awards/2434640",
-      "date": "2026-09-29T03:05:19Z"
     },
     {
       "title": "ISC Stormcast For Tuesday, September 29th, 2026 https://isc.sans.edu/podcastdetail/10114, (Tue, Sep 29th)",
