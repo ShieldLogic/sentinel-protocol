@@ -1,209 +1,137 @@
 {
-  "updated": "2026-09-29 10:14:34 UTC",
-  "news": [
-    {
-      "title": "Kiteworks patches critical flaw, brings customer systems online",
-      "description": "[BLEEPINGCOMPUTER] American tech company Kiteworks has lifted a precautionary advisory asking customers to shut down systems after patching a critical vulnerability. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/kiteworks-lifts-shutdown-warning-after-patching-critical-flaw/",
-      "date": "2026-09-29T09:04:06Z"
-    },
-    {
-      "title": "Dutch Police Arrest 24-Year-Old Amsterdam Man in ShinyHunters Investigation",
-      "description": "[FEEDS] Dutch authorities have confirmed that they arrested a 24-year-old man from Amsterdam in connection with the ShinyHunters group. \"It is true that this month a 24-year-old man from Amsterdam was arrested in an investigation into the hacker group...",
-      "url": "https://thehackernews.com/2026/09/dutch-police-arrest-24-year-old.html",
-      "date": "2026-09-29T08:35:10Z"
-    },
-    {
-      "title": "Apple patches CoreGraphics zero-day flaw exploited in attacks",
-      "description": "[BLEEPINGCOMPUTER] Apple released security updates to fix a zero-day vulnerability exploited in \"extremely sophisticated\" targeted attacks on iOS devices. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/apple-patches-coregraphics-zero-day-flaw-exploited-in-attacks/",
-      "date": "2026-09-29T07:33:12Z"
-    },
-    {
-      "title": "Official MCP Python SDK Flaw Can Let Malicious Servers Steal OAuth Credentials",
-      "description": "[FEEDS] A malicious MCP server could trick an application built on the official&nbsp;MCP Python SDK&nbsp;into handing over the OAuth credentials it uses to log in to a real service, the SDK's maintainers said in a security advisory. Affected versions sent...",
-      "url": "https://thehackernews.com/2026/09/official-mcp-python-sdk-flaw-can-let.html",
-      "date": "2026-09-29T06:08:25Z"
-    },
-    {
-      "title": "OpenAI Shelves GPT-6.1 Astra After Tests Find Deception and Unauthorized Actions",
-      "description": "[FEEDS] OpenAI on Monday shelved plans to release GPT-6.1 Astra, a next-generation artificial intelligence (AI) model that was planned for an October launch, after it failed internal safety and alignment audits. The development was first reported by The...",
-      "url": "https://thehackernews.com/2026/09/openai-shelves-gpt-61-astra-after-tests.html",
-      "date": "2026-09-29T05:12:32Z"
-    },
-    {
-      "title": "OpenAI Pauses Tool Use After Agent Bypasses Internet Controls to Reach External Chatbot",
-      "description": "[FEEDS] OpenAI said it has made the decision to pause training of its most powerful models after one of its agents during reinforcement learning (RL) training contacted an external chatbot by exploiting a loophole in its internet-access restrictions. \"An...",
-      "url": "https://thehackernews.com/2026/09/openai-pauses-tool-use-after-agent.html",
-      "date": "2026-09-29T04:45:20Z"
-    },
-    {
-      "title": "ISC Stormcast For Tuesday, September 29th, 2026 https://isc.sans.edu/podcastdetail/10114, (Tue, Sep 29th)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33378",
-      "date": "2026-09-29T02:00:02Z"
-    },
-    {
-      "title": "Apple Emergency Patch for iOS 26, macOS26, macOS15 (CVE-2026-86950), (Mon, Sep 28th)",
-      "description": "[ISC] Apple today released patches for all of its operating systems. However, only patches for older branches include a security fix. The vulnerability being addressed in iOS 26, macOS 26 and macOS 15 is already being exploited. iOS and macOS 27 are not...",
-      "url": "https://isc.sans.edu/diary/rss/33376",
-      "date": "2026-09-28T22:35:35Z"
-    },
-    {
-      "title": "Tensor Achieves ISO/SAE 21434 Cybersecurity Certification with Zero Non-Conformities by Applus+ IDIADA",
-      "description": "[PR NEWSWIRE UK] /PRNewswire/ -- Tensor Auto Inc. (\"Tensor\"), the American Physical AI company behind the world's first personal Robocar, announced it has achieved...",
-      "url": "https://www.prnewswire.co.uk/news-releases/tensor-achieves-isosae-21434-cybersecurity-certification-with-zero-non-conformities-by-applus-idiada-302891983.html",
-      "date": "2026-09-28T21:05:00Z"
-    },
-    {
-      "title": "Japan's Keio confirms ransomware attack disrupted business systems",
-      "description": "[BLEEPINGCOMPUTER] Keio Corporation (Keio), a major private railway operator in Japan, said its network was hit by a ransomware attack over the weekend, disrupting some of its business systems. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/japans-keio-confirms-ransomware-attack-disrupted-business-systems/",
-      "date": "2026-09-28T20:56:47Z"
-    },
-    {
-      "title": "Pete Hegseth says national security, military cyber forces will guard U.S. election systems during midterms",
-      "description": "[PITTSBURGH TRIBUNE-REVIEW] The U.S. National Security Agency and other military intelligence and cybersecurity forces will guard election systems during the November midterms, Defense Secretary Pete Hegseth said Monday. Military cybersecurity experts have routinely helped...",
-      "url": "https://triblive.com/news/world/pete-hegseth-says-national-security-military-cyber-forces-will-guard-u-s-election-systems-during-midterms/",
-      "date": "2026-09-28T20:48:49Z"
-    },
-    {
-      "title": "PANW Stock Gets Price Target Hike From Five-Star Analyst - Here\u2019s Why",
-      "description": "[MARKETS INSIDER] Cybersecurity company Palo Alto Networks (PANW) received a higher price target from BTIG after five-star analyst Gray Powell came away encourage...",
-      "url": "https://markets.businessinsider.com/news/stocks/panw-stock-gets-price-target-hike-from-five-star-analyst-here-s-why-1036579845",
-      "date": "2026-09-28T20:39:02Z"
-    },
-    {
-      "title": "Times Car confirms data breach affecting 6.6 million user accounts",
-      "description": "[BLEEPINGCOMPUTER] Japanese car-sharing service Times Car has confirmed that approximately 6.6 million user accounts were compromised in a cyberattack disclosed late last week. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/times-car-confirms-data-breach-affecting-66-million-user-accounts/",
-      "date": "2026-09-28T20:31:16Z"
-    },
-    {
-      "title": "Dutch police confirm arrest in ShinyHunters hacking investigation",
-      "description": "[BLEEPINGCOMPUTER] Dutch police have confirmed that a 24-year-old Amsterdam man arrested earlier this month was detained as part of an investigation into the ShinyHunters hacking group. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/dutch-police-confirm-arrest-in-shinyhunters-hacking-investigation/",
-      "date": "2026-09-28T19:49:10Z"
-    },
-    {
-      "title": "Apple Patches CoreGraphics Flaw Possibly Exploited in Targeted Attacks",
-      "description": "[FEEDS] Apple has released security updates to address a vulnerability in older versions of iOS, iPadOS, and macOS that it said may have been exploited in targeted attacks. The vulnerability, tracked as CVE-2026-86950, refers to an out-of-bounds write...",
-      "url": "https://thehackernews.com/2026/09/apple-patches-coregraphics-flaw.html",
-      "date": "2026-09-28T19:18:01Z"
-    },
-    {
-      "title": "$3.1M Finastra data breach settlement could mean payouts in Mass.",
-      "description": "[MASSLIVE] Eligible Massachusetts residents may be able to collect money from a $3.1 million settlement tied to a data breach that exposed sensitive consumer data.",
-      "url": "https://www.masslive.com/news/2026/09/31m-data-breach-settlement-could-mean-payouts-for-mass-residents-are-you-eligible.html",
-      "date": "2026-09-28T19:13:29Z"
-    },
-    {
-      "title": "Fact Check Team: Rogue AI agents raise cybersecurity concerns. Here's what we know",
-      "description": "[BALTIMORE NEWS] Artificial intelligence's newfound autonomy is creating a new cybersecurity concern: What happens when an AI agent takes an action its developers didn't intend?",
-      "url": "https://foxbaltimore.com/news/nation-world/fact-check-team-rogue-ai-agents-raise-cybersecurity-concerns-heres-what-we-know-artificial-intelligence-hugging-face",
-      "date": "2026-09-28T18:53:27Z"
-    },
-    {
-      "title": "Fact Check Team: Rogue AI agents raise cybersecurity concerns. Here's what we know",
-      "description": "[WJLA] Artificial intelligence's newfound autonomy is creating a new cybersecurity concern: What happens when an AI agent takes an action its developers didn't intend?",
-      "url": "https://wjla.com/news/nation-world/fact-check-team-rogue-ai-agents-raise-cybersecurity-concerns-heres-what-we-know-artificial-intelligence-hugging-face",
-      "date": "2026-09-28T18:53:27Z"
-    },
-    {
-      "title": "Over 16,000 Supabase databases expose PII, passwords, auth tokens",
-      "description": "[BLEEPINGCOMPUTER] Researchers found more than 16,000 misconfigured Supabase databases exposing readable tables with personally identifiable information, passwords, or authentication tokens. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/misconfigured-supabase-apps-expose-data-in-over-16-000-databases/",
-      "date": "2026-09-28T18:50:59Z"
-    },
-    {
-      "title": "Hackers Use NeedyMantis to Maintain Long-Term Access in Breached Networks",
-      "description": "[FEEDS] Hackers have used a malware family called NeedyMantis to maintain long-term access to networks they had already breached, Microsoft said in&nbsp;a technical analysis. The malware has been seen in a small number of targeted intrusions at...",
-      "url": "https://thehackernews.com/2026/09/hackers-use-needymantis-to-maintain.html",
-      "date": "2026-09-28T18:35:42Z"
-    },
-    {
-      "title": "Why everybody is getting so many scam calls",
-      "description": "[MANCHESTER EVENING NEWS] A top cybersecurity expert has offered advice to anyone receiving excessive spam phone calls",
-      "url": "https://www.manchestereveningnews.co.uk/news/greater-manchester-news/everybody-getting-many-scam-calls-34685895",
-      "date": "2026-09-28T18:20:17Z"
-    },
-    {
-      "title": "Anthropic is launching Claude Sonnet 5.5.",
-      "description": "[THE VERGE] Similar to the newly released Opus 5.5, the upgraded Sonnet 5.5 AI model comes with stricter cybersecurity safeguards designed to prevent it from attempting to escape its sandbox. The mid-tier model is also 30 percent faster and 30 percent cheaper...",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1001591/anthropic-is-launching-claude-sonnet-5-5",
-      "date": "2026-09-28T18:00:00Z"
-    },
-    {
-      "title": "Hackers are exploiting two critical Citrix NetScaler zero-days",
-      "description": "[TNW] Two NetScaler flaws rated 9.5 let attackers run code remotely. Citrix has patched them; CISA says attacks are happening globally.",
-      "url": "https://thenextweb.com/news/citrix-netscaler-zero-days-cve-2026-88771-exploited",
-      "date": "2026-09-28T16:42:18Z"
-    },
-    {
-      "title": "Cybersecurity incident in P.E.I. affects up to 234,000 people: health authority",
-      "description": "[VANCOUVER IS AWESOME] CHARLOTTETOWN \u2014 The health authority in P.E.I. says someone has gained unauthorized access to a file containing personal information belonging to as many as 234,000 people.",
-      "url": "https://www.vancouverisawesome.com/national-business/cybersecurity-incident-in-pei-affects-up-to-234000-people-health-authority-12830464",
-      "date": "2026-09-28T16:09:28Z"
-    },
-    {
-      "title": "New Attack Against RSA",
-      "description": "[SCHNEIER] ArsTechnica is reporting on a &#8220;new&#8221; attack against RSA, one that bypasses factoring. First, this attack isn&#8217;t new. The original research is from 2007. What is new is the implementation. Second, it is a forgery attack. It allows an...",
-      "url": "https://www.schneier.com/blog/archives/2026/09/new-attack-against-rsa.html",
-      "date": "2026-09-28T11:02:58Z"
-    },
-    {
-      "title": "ISC Stormcast For Monday, September 28th, 2026 https://isc.sans.edu/podcastdetail/10112, (Mon, Sep 28th)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33374",
-      "date": "2026-09-28T02:00:02Z"
-    },
-    {
-      "title": "Wireshark 4.6.9 Released, (Sun, Sep 27th)",
-      "description": "[ISC] Wireshark release 4.6.9 fixes 19 vulnerabilities and 16 bugs.&#xd;",
-      "url": "https://isc.sans.edu/diary/rss/33372",
-      "date": "2026-09-27T15:04:49Z"
-    },
-    {
-      "title": "Friday Squid Blogging: Participatory Squid Dissection in October in Tennessee",
-      "description": "[SCHNEIER] I feel like someone who reads this blog will want to go to this: Families are invited to dive into the fascinating world of marine biology during an exciting, hands-on Family Squid Dissection at the Hands-On Science Center. Designed for curious...",
-      "url": "https://www.schneier.com/blog/archives/2026/09/friday-squid-blogging-participatory-squid-dissection-in-october-in-tennessee.html",
-      "date": "2026-09-25T21:08:14Z"
-    },
-    {
-      "title": "A Closer Look at Malware From the Macfinger ClickFix Campaign, (Fri, Sep 25th)",
-      "description": "[ISC] Introduction&#xd;",
-      "url": "https://isc.sans.edu/diary/rss/33368",
-      "date": "2026-09-25T12:45:19Z"
-    },
-    {
-      "title": "On Anthropic\u2019s AI Misuse Report",
-      "description": "[SCHNEIER] Earlier this month, Anthropic published a long report detailing all of the Claude misuses it detected. Daniel Meissler usefully summarized the report into 117 findings. A few of the highlights: AI agents increasingly handled reconnaissance,...",
-      "url": "https://www.schneier.com/blog/archives/2026/09/on-anthropics-ai-misuse-report.html",
-      "date": "2026-09-25T11:07:22Z"
-    },
-    {
-      "title": "ISC Stormcast For Friday, September 25th, 2026 https://isc.sans.edu/podcastdetail/10110, (Fri, Sep 25th)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33370",
-      "date": "2026-09-25T03:45:12Z"
-    },
-    {
-      "title": "Malicious npm Packages That Evade Defenses",
-      "description": "[SCHNEIER] This is an impressive piece of malware. Its sophistication says nation-state to me, but there is no direct evidence and certainly no attribution.",
-      "url": "https://www.schneier.com/blog/archives/2026/09/malicious-npm-packages-that-evade-defenses.html",
-      "date": "2026-09-24T11:07:42Z"
-    },
-    {
-      "title": "Research on Models Engaging in Genie-Like Behavior",
-      "description": "[SCHNEIER] New paper: &#8220;Self-Jailbreaking: Language Models Can Reason Themselves Out of Safety Alignment After Benign Reasoning Training.&#8221; Abstract: We discover a novel and surprising phenomenon of unintentional misalignment in reasoning language...",
-      "url": "https://www.schneier.com/blog/archives/2026/09/research-on-models-engaging-in-genie-like-behavior.html",
-      "date": "2026-09-23T11:03:36Z"
-    },
-    {
-      "title": "GPT-6 Astra Breaks an Old Enigma Message",
-      "description": "[SCHNEIER] This is pretty amazing: However, the most astonishing thing about this break is that the GPT\u00ad6 Astra did it entirely on its own. Carter Leffer only directed GPT\u00ad6 Astra to see if it could break any of the unbroken Enigma messages published on the...",
-      "url": "https://www.schneier.com/blog/archives/2026/09/gpt-6-astra-breaks-an-old-enigma-message.html",
-      "date": "2026-09-22T11:02:45Z"
-    }
-  ]
+    "title": "Sentinel Protocol",
+    "tagline": "Perimeter Intelligence Sync",
+    "updated": "2026-09-29 16:46 UTC",
+    "news": [
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "Ana Maria Constantin",
+            "title": "Hackers are exploiting two critical Citrix NetScaler zero-days",
+            "description": "Attackers are exploiting two critical flaws in Citrix NetScaler ADC and NetScaler Gateway. Companies use the devices to give staff remote access to internal networks. Citrix confirmed the attacks in a security bulletin on Sunday and released fixes. Both flaws\u2026",
+            "url": "https://thenextweb.com/news/citrix-netscaler-zero-days-cve-2026-88771-exploited",
+            "urlToImage": "https://media.thenextweb.com/2026/09/server-rack-ethernet-cables-green-light.jpg",
+            "publishedAt": "2026-09-28T16:42:18Z",
+            "content": "Attackers are exploiting two critical flaws in Citrix NetScaler ADC and NetScaler Gateway. Companies use the devices to give staff remote access to internal networks. Citrix confirmed the attacks in \u2026 [+2236 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Biztoc.com"
+            },
+            "author": "fortune.com",
+            "title": "America\u2019s scientists are looking abroad. Can European business cash in?",
+            "description": "Alex Worsham had no intention of leaving America. He served six and a half years in the U.S. military as an IT and cybersecurity specialist, then helped protect the Library of Congress and the Transportation Security Administration from cyberattacks. \nBut, wh\u2026",
+            "url": "https://biztoc.com/x/f3eb3583146ca610",
+            "urlToImage": "https://biztoc.com/cdn/f3eb3583146ca610_s.webp",
+            "publishedAt": "2026-09-28T16:28:01Z",
+            "content": "Alex Worsham had no intention of leaving America. He served six and a half years in the U.S. military as an IT and cybersecurity specialist, then helped protect the Library of Congress and the Transp\u2026 [+145 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BleepingComputer"
+            },
+            "author": "JDHlavka",
+            "title": "ransomware .[fast01@onionmail.com].6Mj44xV4 (Proton/Shinra)",
+            "description": "ransomware .[fast01@onionmail.com].6Mj44xV4 (Proton/Shinra) - posted in Ransomware Help & Tech Support: My pc got hit with a ransomware today. \u00a0All the files have the email fast01@onionmail.com and the extension .6Mj44xV4. \u00a0No luck on ID Ransomware or cryptos\u2026",
+            "url": "https://www.bleepingcomputer.com/forums/t/818998/ransomware-fast01onionmailcom6mj44xv4-protonshinra/",
+            "urlToImage": "https://www.bleepingcomputer.com/forums/public/style_images/master/meta_image.png",
+            "publishedAt": "2026-09-28T16:22:04Z",
+            "content": "Chiming in. Not myself, a client of my work, they got hit with the same one too. Same note and email.\r\nOS Drive image created, and password encrypted.\r\nClient approved to pave the drive and reinstall\u2026 [+519 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Daily Hodl"
+            },
+            "author": "Daily Hodl Agent",
+            "title": "Dartmouth College Settles Data Breach Lawsuit for $750,000 Affecting 96,000 People",
+            "description": "Dartmouth College reached a $750,000 class action settlement over a 2025 Oracle E-Business Suite data breach by the Clop ransomware group that exposed personal data of approximately 96,911 individuals. Eligible class members can claim up to $5,000 with docume\u2026",
+            "url": "https://dailyhodl.com/2026/09/28/dartmouth-college-settles-data-breach-lawsuit-for-750000-affecting-96000-people/",
+            "urlToImage": "https://dailyhodl.com/wp-content/uploads/2026/09/settles-data-breach_pink.jpg?resize=1365,800",
+            "publishedAt": "2026-09-28T16:20:45Z",
+            "content": "A college has agreed to pay $750,000 to settle a class action lawsuit over a data breach that exposed the personal information of nearly 97,000 people.\r\nThe official settlement website says the deal \u2026 [+1628 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "SiliconANGLE News"
+            },
+            "author": "Jonathan Anthony",
+            "title": "Blitzy\u2019s autonomous coding bet: Every codebase is already a graph",
+            "description": "Knowledge graphs are moving to the center of autonomous software development as enterprises push coding agents beyond quick fixes and into large, interconnected codebases. The more code an agent touches, the more it needs to know about everything that code co\u2026",
+            "url": "https://siliconangle.com/2026/09/28/knowledge-graphs-give-blitzy-s-coding-agents-codebase-context-neo4jgraphsummit/",
+            "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/DSC08998-scaled.jpg",
+            "publishedAt": "2026-09-28T16:18:22Z",
+            "content": "Knowledge graphs are moving to the center of autonomous software development as enterprises push coding agents beyond quick fixes and into large, interconnected codebases. The more code an agent touc\u2026 [+5423 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "SiliconANGLE News"
+            },
+            "author": "Jonathan Anthony",
+            "title": "Blitzy\u2019s autonomous coding bet: Every codebase is already a graph",
+            "description": "Knowledge graphs are moving to the center of autonomous software development as enterprises push coding agents beyond quick fixes and into large, interconnected codebases. The more code an agent touches, the more it needs to know about everything that code co\u2026",
+            "url": "https://siliconangle.com/2026/09/28/knowledge-graphs-blitzy-coding-agents-codebase-context-neo4jgraphsummit/",
+            "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/DSC08998-scaled.jpg",
+            "publishedAt": "2026-09-28T16:18:22Z",
+            "content": "Knowledge graphs are moving to the center of autonomous software development as enterprises push coding agents beyond quick fixes and into large, interconnected codebases. The more code an agent touc\u2026 [+5399 chars]"
+        },
+        {
+            "source": {
+                "id": "financial-post",
+                "name": "Financial Post"
+            },
+            "author": "GlobeNewswire",
+            "title": "ICTC launches Canada-Europe Digital Economy Bridge to connect Canada to new markets, partnerships, and opportunities",
+            "description": "New initiative will connect Canadian businesses, researchers, talent, and institutions with European markets, expertise, investment, and partnerships OTTAWA, Sept. 28, 2026 (GLOBE NEWSWIRE) \u2014 The Information and Communications Technology Council (ICTC) today \u2026",
+            "url": "https://financialpost.com/globe-newswire/ictc-launches-canada-europe-digital-economy-bridge-to-connect-canada-to-new-markets-partnerships-and-opportunities",
+            "urlToImage": null,
+            "publishedAt": "2026-09-28T16:17:56Z",
+            "content": "New initiative will connect Canadian businesses, researchers, talent, and institutions with European markets, expertise, investment, and partnerships\r\nTHIS CONTENT IS RESERVED FOR SUBSCRIBERS ONLY\r\nS\u2026 [+5809 chars]"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "ET Online",
+            "title": "Sleeper cells and lone wolves. The West could be Iran\u2019s next front",
+            "description": "The arrest of five British men near RAF Fairford has revived concerns over Iran\u2019s ability to retaliate beyond the Middle East. No Iranian link has been established, with investigators examining multiple possibilities. Western security officials have warned Ir\u2026",
+            "url": "https://economictimes.indiatimes.com/news/defence/rafs-fairford-airbase-sleeper-cells-and-lone-wolves-the-west-could-be-irans-next-front/articleshow/134546903.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-134546992,width-1200,height-630,imgsize-75082,overlay-etdefence/articleshow.jpg",
+            "publishedAt": "2026-09-28T16:16:12Z",
+            "content": "The foiling of suspected terror plot near RAF's Fairford airbase in the UK, which is used by the US to attack Iran, has revived an old question about Irans ability to retaliate far beyond the Middle \u2026 [+9356 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Daily Hodl"
+            },
+            "author": "Daily Hodl Agent",
+            "title": "Illinois Hospital Sending Cash To Patients in $650,000 Data Breach Settlement",
+            "description": "An Illinois community hospital is preparing to hand hundreds of thousands of dollars to patients whose private information may have been exposed in a data breach. Roseland Community Hospital Association has agreed to a $650,000 class action settlement coverin\u2026",
+            "url": "https://dailyhodl.com/2026/09/28/illinois-hospital-sending-cash-to-patients-in-650000-data-breach-settlement/",
+            "urlToImage": "https://dailyhodl.com/wp-content/uploads/2026/09/breach-cash-settlement_pink.jpg?resize=1242,800",
+            "publishedAt": "2026-09-28T16:06:05Z",
+            "content": "An Illinois community hospital is preparing to hand hundreds of thousands of dollars to patients whose private information may have been exposed in a data breach.\r\nRoseland Community Hospital Associa\u2026 [+1629 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "SiliconANGLE News"
+            },
+            "author": "Kyt Dotson",
+            "title": "Momentic debuts Mo AI agent to automate software testing without scripts",
+            "description": "Momentic Inc., the artificial intelligence-powered software testing and quality assurance platform, today announced the launch of Mo, an AI agent that lets developers test software without maintaining a collection of scripts. Whenever code is generated, writt\u2026",
+            "url": "https://siliconangle.com/2026/09/28/momentic-debuts-mo-ai-agent-to-automate-software-testing-without-scripts/",
+            "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/Mo-2-scaled.png",
+            "publishedAt": "2026-09-28T16:00:56Z",
+            "content": "Momentic Inc., the artificial intelligence-powered software testing and quality assurance platform, today announced the launch of Mo, an AI agent that lets developers test software without maintainin\u2026 [+5756 chars]"
+        }
+    ]
 }
