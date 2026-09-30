@@ -1,209 +1,137 @@
 {
-  "updated": "2026-09-30 14:24:41 UTC",
-  "news": [
-    {
-      "title": "AI's Third Wave: Coworkers Break the Security Model That Worked for Agents",
-      "description": "[BLEEPINGCOMPUTER] Persistent AI coworkers may operate continuously with standing access, creating identity risks that existing security models were not designed to handle. Token Security explains why these agents need their own identities, owners, scoped permissions,...",
-      "url": "https://www.bleepingcomputer.com/news/security/ais-third-wave-coworkers-break-the-security-model-that-worked-for-agents/",
-      "date": "2026-09-30T14:01:11Z"
-    },
-    {
-      "title": "Microsoft to block Entra ID script injection attacks starting October",
-      "description": "[BLEEPINGCOMPUTER] Microsoft has reminded customers that the Entra ID authentication system will get better protection against external script injection attacks starting next month. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/microsoft-to-block-entra-id-script-injection-attacks-starting-october/",
-      "date": "2026-09-30T13:37:15Z"
-    },
-    {
-      "title": "TeamViewer urges users to patch severe flaws \u201cas soon as possible\u201d",
-      "description": "[BLEEPINGCOMPUTER] Remote access software company TeamViewer warned customers on Tuesday to immediately patch a set of high-severity vulnerabilities affecting its client and host software. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/teamviewer-urges-users-to-patch-severe-flaws-as-soon-as-possible/",
-      "date": "2026-09-30T12:25:10Z"
-    },
-    {
-      "title": "Know Your Enemy: Browser-Based Attack Techniques in 2026",
-      "description": "[FEEDS] Given that the browser is where business apps are accessed and used, it makes sense that attacks are happening there too. Most breaches today begin in a browser session. Often, they never leave it, with the entire attack chain from initial access to...",
-      "url": "https://thehackernews.com/2026/09/know-your-enemy-browser-based-attack.html",
-      "date": "2026-09-30T11:58:00Z"
-    },
-    {
-      "title": "AI Coding Agents Exposed 13,000 Internal Images, Including Billing Records, on GitHub",
-      "description": "[FEEDS] AI coding agents asked to share screenshots of code changes for review have put internal company images in public GitHub repositories, security company Glow said. Its researchers found more than 13,000 internal images from developers at over 300...",
-      "url": "https://thehackernews.com/2026/09/ai-coding-agents-exposed-13000-internal.html",
-      "date": "2026-09-30T11:30:00Z"
-    },
-    {
-      "title": "Bitget hacked via zero-day in third-party security products",
-      "description": "[BLEEPINGCOMPUTER] Cryptocurrency exchange Bitget revealed today that attackers who stole $387.5 million last week breached its systems after exploiting a zero-day flaw in third-party security products. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/bitget-hacked-via-zero-day-in-third-party-security-products/",
-      "date": "2026-09-30T11:11:46Z"
-    },
-    {
-      "title": "I Want Better Reporting on AI Genie Behavior",
-      "description": "[SCHNEIER] AI systems are regularly completing tasks in ways that their prompters don&#8217;t want or intend. Some of them are disturbing, and some of them are dangerous. This is something I&#8217;ve been calling &#8220;genie behavior,&#8221; because I think...",
-      "url": "https://www.schneier.com/blog/archives/2026/09/i-want-better-reporting-on-ai-genie-behavior.html",
-      "date": "2026-09-30T11:05:35Z"
-    },
-    {
-      "title": "US-Focused CSuite Phishing Steals Microsoft 365 Sessions and Deploys RMM Tools for Remote Access",
-      "description": "[FEEDS] ANY.RUN researchers traced a US-focused CSuite phishing campaign across 351 sandbox analyses, with 51% of submissions coming from the United States. Technology, manufacturing, government, and consulting organizations showed the highest exposure. By...",
-      "url": "https://thehackernews.com/2026/09/us-focused-csuite-phishing-steals.html",
-      "date": "2026-09-30T10:45:00Z"
-    },
-    {
-      "title": "Attackers Exploit NetScaler Flaw for Root Access, Deploy WHIPSHOT and SLAPSHOT",
-      "description": "[FEEDS] Unknown threat actors have been observed exploiting a newly patched security flaw in Citrix NetScaler ADC and NetScaler Gateway appliances to target organizations in North America and Europe. The activity, observed by Mandiant Consulting and Google...",
-      "url": "https://thehackernews.com/2026/09/attackers-exploit-netscaler-flaw-for.html",
-      "date": "2026-09-30T08:24:35Z"
-    },
-    {
-      "title": "OpenSSL Fixes High-Severity DTLS Flaw That Can Leak Heap Memory Unencrypted",
-      "description": "[FEEDS] A High-severity OpenSSL flaw can leak heap memory to the other side of a DTLS connection or crash the program,&nbsp;OpenSSL said&nbsp;on September 29 as it released fixes. DTLS, the TLS variant used for UDP traffic, resends a handshake message if no...",
-      "url": "https://thehackernews.com/2026/09/openssl-fixes-high-severity-dtls-flaw.html",
-      "date": "2026-09-30T08:09:28Z"
-    },
-    {
-      "title": "Citrix NetScaler CVE-2026-88772 Exploit Details Show Pre-Auth Path to Shellcode Execution",
-      "description": "[FEEDS] Cybersecurity researchers have disclosed technical details of a recently patched critical security flaw in Citrix NetScaler ADC and Gateway that has come under active exploitation in the wild. The vulnerability, tracked as CVE-2026-88772 (CVSS...",
-      "url": "https://thehackernews.com/2026/09/citrix-netscaler-cve-2026-88772-exploit.html",
-      "date": "2026-09-30T05:30:30Z"
-    },
-    {
-      "title": "ISC Stormcast For Wednesday, September 30th, 2026 https://isc.sans.edu/podcastdetail/10116, (Wed, Sep 30th)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33384",
-      "date": "2026-09-30T02:00:03Z"
-    },
-    {
-      "title": "India\u2019s Decisive Decade: 7 Business trends every CEO should watch",
-      "description": "[THE ECONOMIC TIMES] India's business landscape is changing quickly, with AI, manufacturing, services, cybersecurity and new markets creating fresh opportunities as well as new challenges for business leaders. Here are 7 business trends that every leader should keep a...",
-      "url": "https://economictimes.indiatimes.com/industry/media/entertainment/indias-decisive-decade-7-business-trends-every-ceo-should-watch/articleshow/134573545.cms",
-      "date": "2026-09-30T01:30:00Z"
-    },
-    {
-      "title": "Microsoft is rolling out Linux container support to WSL",
-      "description": "[BLEEPINGCOMPUTER] Microsoft is taking Windows Subsystem for Linux beyond just running Linux distributions, as WSL Containers is now generally available. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-is-rolling-out-linux-container-support-to-wsl/",
-      "date": "2026-09-30T00:40:57Z"
-    },
-    {
-      "title": "Trump releases AI accord with tech executives",
-      "description": "[THE STRAITS TIMES] Trump and leading tech firms agree on AI controls to ensure safety, including audits, oversight, and cybersecurity measures for future regulation. Read more at straitstimes.com.",
-      "url": "https://www.straitstimes.com/world/united-states/trump-releases-ai-accord-with-tech-executives",
-      "date": "2026-09-29T22:48:00Z"
-    },
-    {
-      "title": "Signal adds encypted local backup support to iOS, desktop apps",
-      "description": "[BLEEPINGCOMPUTER] Signal, the secure messaging app, released version 8.30, completing the rollout of its secure backups feature across all supported operating systems (Android, iOS, Linux, macOS, and Windows). [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/signal-adds-encypted-local-backup-support-to-ios-desktop-apps/",
-      "date": "2026-09-29T21:30:08Z"
-    },
-    {
-      "title": "Russian cybersecurity firm uncovers severe vulnerabilities affecting both Android and Apple devices",
-      "description": "[TECHRADAR] Android bug lets attackers trigger apps through NFC tags",
-      "url": "https://www.techradar.com/pro/sanctioned-billion-dollar-cybersecurity-company-from-russia-found-11-vulnerabilities-in-google-and-apple-products-including-a-nasty-one-that-compromised-a-device-just-through-a-malicious-nfc-tag",
-      "date": "2026-09-29T21:15:00Z"
-    },
-    {
-      "title": "Hackers breach FBI, Pentagon personnel data, exposing employees, troops",
-      "description": "[WJLA] Growing concerns about artificial intelligence and cybersecurity are sharpening focus on a pair of major breaches involving the FBI and the Pentagon, with hacke",
-      "url": "https://wjla.com/news/local/hackers-breach-fbi-pentagon-personnel-data-exposing-thousands-of-employees-millions-of-troops",
-      "date": "2026-09-29T21:14:08Z"
-    },
-    {
-      "title": "Florida Asks Judge to Stop OpenAI From Training New Models After Latest Incidents",
-      "description": "[CNET] Top AI companies are investigating tens of thousands of cybersecurity incidents involving models escaping from test environments.",
-      "url": "https://www.cnet.com/tech/services-and-software/florida-judge-stop-openai-training-new-models-incidents/",
-      "date": "2026-09-29T19:58:08Z"
-    },
-    {
-      "title": "Hegseth says national security forces will guard election systems",
-      "description": "[CHICAGO TRIBUNE] The U.S. National Security Agency and other military intelligence and cybersecurity forces will guard election systems during the November midterms, Defense Secretary Pete Hegseth said Monday.",
-      "url": "https://www.chicagotribune.com/2026/09/29/pete-hegseth-us-election-systems-midterms/",
-      "date": "2026-09-29T18:14:48Z"
-    },
-    {
-      "title": "FBI faces internal criticism after hackers steal sensitive employee data",
-      "description": "[THE NEWS INTERNATIONAL] The FBI is assessing the fallout from a major data breach that exposed sensitive personal information belonging to thousands of current and former employees.According to CNN, cybercriminal group...",
-      "url": "https://www.thenews.com.pk/latest/1418105-fbi-faces-internal-criticism-after-hackers-steal-sensitive-employee-data",
-      "date": "2026-09-29T16:47:02Z"
-    },
-    {
-      "title": "Hegseth says national security, military cyber forces will guard US election systems during midterms",
-      "description": "[AMERICAN PRESS] The U.S. National Security Agency and other military intelligence and cybersecurity forces will guard election systems during the November midterms, Defense Secretary Pete Hegseth said Monday. Military cybersecurity experts have routinely [\u2026]",
-      "url": "https://americanpress.com/2026/09/29/hegseth-says-national-security-military-cyber-forces-will-guard-us-election-systems-during-midterms/",
-      "date": "2026-09-29T16:20:26Z"
-    },
-    {
-      "title": "Target in India expands presence with new office in Bengaluru campus",
-      "description": "[THE HINDU BUSINESS LINE] Target in India has been delivering tech-powered retail solutions across Target\u2019s business including merchandising, supply chain, fulfilment, stores, cybersecurity, digital and marketing",
-      "url": "https://www.thehindubusinessline.com/companies/target-in-india-expands-presence-with-new-office-in-bengaluru-campus/article71524823.ece",
-      "date": "2026-09-29T15:53:42Z"
-    },
-    {
-      "title": "Apple patches CoreGraphics zero-day used in 'extremely sophisticated' targeted attacks on iOS devices",
-      "description": "[TECHRADAR] It's the second such zero-day Apple patched this year",
-      "url": "https://www.techradar.com/pro/security/apple-patches-coregraphics-zero-day-used-in-extremely-sophisticated-targeted-attacks-on-ios-devices",
-      "date": "2026-09-29T15:05:00Z"
-    },
-    {
-      "title": "Scans for Wordfence Protected Websites, (Tue, Sep 29th)",
-      "description": "[ISC] Starting yesterday, our sensors picked up a small number of scans for \"wordfence-waf.php\". This particular script is used by Wordfence, a solution to protect WordPress sites. During the Wordfence install, the wordpress-waf.php file will be created...",
-      "url": "https://isc.sans.edu/diary/rss/33382",
-      "date": "2026-09-29T13:29:33Z"
-    },
-    {
-      "title": "Using Device Linking to Eavesdrop on WhatsApp and Signal",
-      "description": "[SCHNEIER] Modern messaging apps allow users to link their phone accounts to their computer desktop. Eavesdroppers are taking advantage of this capability: Apps such as WhatsApp Web and Signal Desktop allow people to use their accounts on other devices, such...",
-      "url": "https://www.schneier.com/blog/archives/2026/09/using-device-linking-to-eavesdrop-on-whatsapp-and-signal.html",
-      "date": "2026-09-29T11:02:19Z"
-    },
-    {
-      "title": "ISC Stormcast For Tuesday, September 29th, 2026 https://isc.sans.edu/podcastdetail/10114, (Tue, Sep 29th)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33378",
-      "date": "2026-09-29T02:00:02Z"
-    },
-    {
-      "title": "Apple Emergency Patch for iOS 26, macOS26, macOS15 (CVE-2026-86950), (Mon, Sep 28th)",
-      "description": "[ISC] Apple today released patches for all of its operating systems. However, only patches for older branches include a security fix. The vulnerability being addressed in iOS 26, macOS 26 and macOS 15 is already being exploited. iOS and macOS 27 are not...",
-      "url": "https://isc.sans.edu/diary/rss/33376",
-      "date": "2026-09-28T22:35:35Z"
-    },
-    {
-      "title": "New Attack Against RSA",
-      "description": "[SCHNEIER] ArsTechnica is reporting on a &#8220;new&#8221; attack against RSA, one that bypasses factoring. First, this attack isn&#8217;t new. The original research is from 2007. What is new is the implementation. Second, it is a forgery attack. It allows an...",
-      "url": "https://www.schneier.com/blog/archives/2026/09/new-attack-against-rsa.html",
-      "date": "2026-09-28T11:02:58Z"
-    },
-    {
-      "title": "ISC Stormcast For Monday, September 28th, 2026 https://isc.sans.edu/podcastdetail/10112, (Mon, Sep 28th)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33374",
-      "date": "2026-09-28T02:00:02Z"
-    },
-    {
-      "title": "Wireshark 4.6.9 Released, (Sun, Sep 27th)",
-      "description": "[ISC] Wireshark release 4.6.9 fixes 19 vulnerabilities and 16 bugs.&#xd;",
-      "url": "https://isc.sans.edu/diary/rss/33372",
-      "date": "2026-09-27T15:04:49Z"
-    },
-    {
-      "title": "Friday Squid Blogging: Participatory Squid Dissection in October in Tennessee",
-      "description": "[SCHNEIER] I feel like someone who reads this blog will want to go to this: Families are invited to dive into the fascinating world of marine biology during an exciting, hands-on Family Squid Dissection at the Hands-On Science Center. Designed for curious...",
-      "url": "https://www.schneier.com/blog/archives/2026/09/friday-squid-blogging-participatory-squid-dissection-in-october-in-tennessee.html",
-      "date": "2026-09-25T21:08:14Z"
-    },
-    {
-      "title": "On Anthropic\u2019s AI Misuse Report",
-      "description": "[SCHNEIER] Earlier this month, Anthropic published a long report detailing all of the Claude misuses it detected. Daniel Meissler usefully summarized the report into 117 findings. A few of the highlights: AI agents increasingly handled reconnaissance,...",
-      "url": "https://www.schneier.com/blog/archives/2026/09/on-anthropics-ai-misuse-report.html",
-      "date": "2026-09-25T11:07:22Z"
-    },
-    {
-      "title": "Malicious npm Packages That Evade Defenses",
-      "description": "[SCHNEIER] This is an impressive piece of malware. Its sophistication says nation-state to me, but there is no direct evidence and certainly no attribution.",
-      "url": "https://www.schneier.com/blog/archives/2026/09/malicious-npm-packages-that-evade-defenses.html",
-      "date": "2026-09-24T11:07:42Z"
-    }
-  ]
+    "title": "Sentinel Protocol",
+    "tagline": "Perimeter Intelligence Sync",
+    "updated": "2026-09-30 16:38 UTC",
+    "news": [
+        {
+            "source": {
+                "id": null,
+                "name": "PRNewswire"
+            },
+            "author": null,
+            "title": "MIND Brings Stress Free DLP to Claude With New Compliance API Integration",
+            "description": "Security teams can now apply the DLP policies they already run in MIND to their organization's Claude Enterprise and Claude Platform activity SEATTLE, Sept. 29, 2026 /PRNewswire/ -- MIND\u00ae, the AI-native data loss prevention (DLP) platform, today announced its\u2026",
+            "url": "https://www.prnewswire.com/news-releases/mind-brings-stress-free-dlp-to-claude-with-new-compliance-api-integration-302892891.html",
+            "urlToImage": "https://mmx.prnewswire.com/media/MS1998118/Integration-Connects-MIND-to-Claude-Enterprise-and-Claude-Platform.jpg?id=OA2975548&p=facebook",
+            "publishedAt": "2026-09-29T16:30:00Z",
+            "content": "Security teams can now apply the DLP policies they already run in MIND to their organization's Claude Enterprise and Claude Platform activity\r\nSEATTLE, Sept. 29, 2026 /PRNewswire/ --\u00a0MIND\u00ae, the AI-na\u2026 [+5034 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PRNewswire"
+            },
+            "author": null,
+            "title": "FINN Partners Hires Laura Macdonald, former Hotwire President, Americas, as Global Tech Practice Leader",
+            "description": "Appointment of new leadership talent accelerates FINN's next chapter of growth for its technology practice NEW YORK, Sept. 29, 2026 /PRNewswire/ -- FINN Partners, one of the world's leading independent integrated marketing and communications agencies, announc\u2026",
+            "url": "https://www.prnewswire.com/news-releases/finn-partners-hires-laura-macdonald-former-hotwire-president-americas-as-global-tech-practice-leader-302893182.html",
+            "urlToImage": "https://mmx.prnewswire.com/media/MS1998588/FINN-Partners-hires-Laura-MacDonald.jpg?id=OA2977003&p=facebook",
+            "publishedAt": "2026-09-29T16:30:00Z",
+            "content": "Appointment of new leadership talent accelerates FINN's next chapter of growth for its technology practice\r\nNEW YORK, Sept. 29, 2026 /PRNewswire/ -- FINN Partners, one of the world's leading independ\u2026 [+4863 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNA"
+            },
+            "author": null,
+            "title": "Exclusive-Anthropic says rogue AI agents pose uncertain legal risk for the company",
+            "description": "Sept 29 : Anthropic could face legal claims from customers and users over the actions of rogue artificial intelligence agents, though the legal framework is uncertain, the company said in the prospectus for its stock market debut seen by Reuters.While it gear\u2026",
+            "url": "https://www.channelnewsasia.com/business/exclusive-anthropic-says-rogue-ai-agents-pose-uncertain-legal-risk-company-6419291",
+            "urlToImage": "https://dam.mediacorp.sg/image/upload/s--8hfzGc34--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-09-29T161912Z_1_LYNXMPEM8S1J9_RTROPTP_3_TECH-AI.JPG?itok=2z-ODftv",
+            "publishedAt": "2026-09-29T16:17:47Z",
+            "content": "Sept 29 : Anthropic could face legal claims from customers and users over the actions of rogue artificial intelligence agents, though the legal framework is uncertain, the company said in the prospec\u2026 [+3669 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "SiliconANGLE News"
+            },
+            "author": "Kyt Dotson",
+            "title": "Unily launches Content Studio to drive simple, accurate employee communication",
+            "description": "Unily Group Ltd., an employee experience platform, today announced the launch of\u00a0Content Studio, a new artificial intelligence-powered product that allows organizations to generate podcasts, videos, infographics and other communications in minutes. Internal c\u2026",
+            "url": "https://siliconangle.com/2026/09/29/unily-launches-content-studio-to-drive-simple-accurate-employee-communication/",
+            "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/unily-content-studio-screenshot.png",
+            "publishedAt": "2026-09-29T16:15:57Z",
+            "content": "Unily Group Ltd., an employee experience platform, today announced the launch of\u00a0Content Studio, a new artificial intelligence-powered product that allows organizations to generate podcasts, videos, \u2026 [+4296 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Khabarhub.com"
+            },
+            "author": "Khabarhub",
+            "title": "Today\u2019s News in a Nutshell",
+            "description": "KATHMANDU: Khabarhub brings you a glimpse of major developments of the day in Nepal, including politics, business/economy, sports, entertainment, and more. Here are the six decisions taken by the Cabinet The government has decided to accept a $20.7 million gr\u2026",
+            "url": "https://english.khabarhub.com/2026/29/569916/",
+            "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2024/05/News-Nutshell.jpg",
+            "publishedAt": "2026-09-29T16:15:16Z",
+            "content": "KATHMANDU: Khabarhub brings you a glimpse of major developments of the day in Nepal, including politics, business/economy, sports, entertainment, and more.\r\nHere are the six decisions taken by the Ca\u2026 [+9857 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MobileSyrup"
+            },
+            "author": "Jonathan Lamont",
+            "title": "Bell, Cisco sign MOU on sovereign AI infrastructure in Canada",
+            "description": "Bell signed a memorandum of understanding (MOU) with Cisco to collaborate on sovereign AI infrastructure for Canada. According to the companies, the MOU will bring together Bell&#8217;s data centres, network, and operations capabilities with Cisco&#8217;s AI,\u2026",
+            "url": "https://mobilesyrup.com/?p=1047518",
+            "urlToImage": "https://images2026.mobilesyrup.com/uploads/2024/02/bell-photo-1-scaled.jpg",
+            "publishedAt": "2026-09-29T16:11:28Z",
+            "content": "Bell signed a memorandum of understanding (MOU) with Cisco to collaborate on sovereign AI infrastructure for Canada.\r\nAccording to the companies, the MOU will bring together Bell\u2019s data centres, netw\u2026 [+1201 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CryptoSlate"
+            },
+            "author": "Oluwapelumi Adejumo",
+            "title": "Anthropic lost $42 billion, warned AI could resist shutdowns, but traders still price it at $2 trillion",
+            "description": "Anthropic is preparing one of the largest IPOs on record, asking investors to finance an unusually expensive race for artificial intelligence dominance. The Claude developer has confidentially filed for an initial public offering that could value it at more t\u2026",
+            "url": "https://cryptoslate.com/anthropic-lost-42-billion-warned-ai-could-resist-shutdowns-but-traders-still-price-it-at-2-trillion/",
+            "urlToImage": "https://cryptoslate.com/wp-content/uploads/2026/09/anthropic-ipo-bridge.webp",
+            "publishedAt": "2026-09-29T16:05:17Z",
+            "content": "Anthropic is preparing one of the largest IPOs on record, asking investors to finance an unusually expensive race for artificial intelligence dominance.\r\nThe Claude developer has confidentially filed\u2026 [+8651 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PCMag.com"
+            },
+            "author": "Neil J. Rubenking",
+            "title": "Avira Internet Security Review: Not a Big Improvement Over the Free Edition",
+            "description": "Everyone loves a freebie. Security companies that offer an antivirus or security suite for free get a big boost in goodwill, but unless somebody pays for their protection, there\u2019s no money to keep the company afloat. Some companies take a hardline approach an\u2026",
+            "url": "https://uk.pcmag.com/security-suites/118328/avira-internet-security-suite",
+            "urlToImage": "https://sm.pcmag.com/t/pcmag_uk/review/a/avira-inte/avira-internet-security-review-not-a-big-improvement-over-th_83rp.1200.jpg",
+            "publishedAt": "2026-09-29T16:00:17Z",
+            "content": "Everyone loves a freebie. Security companies that offer an antivirus or security suite for free get a big boost in goodwill, but unless somebody pays for their protection, theres no money to keep the\u2026 [+14324 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New Zealand Herald"
+            },
+            "author": "Greg Smith",
+            "title": "AI investment: How regulation could determine who captures the profits",
+            "description": "OPINION: AI regulation gives Big Tech a second moat.",
+            "url": "https://www.nzherald.co.nz/business/personal-finance/investment/ai-investment-how-regulation-could-determine-who-captures-the-profits/G2IRDBPTBJA7VI7D27IDRPGPSE/",
+            "urlToImage": "https://www.nzherald.co.nz/resizer/v2/4KFTZT3Y6RIRHDQZ7LBNTHYK3I.jpg?auth=7d135df823ea39ce59af06ab8cb7b76288886504f5b79634bed060652cc85858&width=1200&height=675&quality=70&focal=946%2C369&smart=false",
+            "publishedAt": "2026-09-29T16:00:00Z",
+            "content": "The reason regulation matters is becoming increasingly clear. Artificial intelligence is evolving from software that answers questions into software that takes actions.\r\nFrom assistants to agents\r\nTh\u2026 [+10312 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Microsoft.com"
+            },
+            "author": "Microsoft Defender Experts Cybersecurity Incident Response",
+            "title": "\u200b\u200bBeyond source code: A path to the keys to the kingdom",
+            "description": "Explore how Storm-3068 turned a compromised identity into broader cloud access and the steps organizations can take to defend their identities, pipelines, and cloud infrastructure.\nThe post \u200b\u200bBeyond source code: A path to the keys to the kingdom appeared firs\u2026",
+            "url": "https://www.microsoft.com/en-us/security/blog/2026/09/29/beyond-source-code-a-path-to-the-keys-to-the-kingdom/",
+            "urlToImage": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/09/cyberattackseries_header_imageQ1FY27.png",
+            "publishedAt": "2026-09-29T16:00:00Z",
+            "content": "What began as a single compromised identity quickly expanded into an organization\u2019s development and cloud environments. In our latest Cyberattack Series report, we examine how the Microsoft Detection\u2026 [+7156 chars]"
+        }
+    ]
 }
