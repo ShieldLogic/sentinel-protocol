@@ -1,6 +1,42 @@
 {
-  "updated": "2026-10-02 17:02:53 UTC",
+  "updated": "2026-10-02 21:35:05 UTC",
   "news": [
+    {
+      "title": "Friday Squid Blogging: EU is Trying to Fight Unregulated Squid Fishing",
+      "description": "[SCHNEIER] The EU is recommending import controls to combat unregulated squid fishing in the Southwest Atlantic. I&#8217;m not optimistic. As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered....",
+      "url": "https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-eu-is-trying-to-fight-unregulated-squid-fishing.html",
+      "date": "2026-10-02T21:02:18Z"
+    },
+    {
+      "title": "Frontline Education breach exposes school district employee data",
+      "description": "[BLEEPINGCOMPUTER] Frontline Education is notifying school districts of a data breach after attackers exploited a vulnerability in third-party software to gain unauthorized access to its systems and steal employee information, including Social Security numbers. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/frontline-education-data-breach-impacts-school-district-employees/",
+      "date": "2026-10-02T19:01:40Z"
+    },
+    {
+      "title": "Warlock ransomware breach SharePoint in water, telecom operator attacks",
+      "description": "[BLEEPINGCOMPUTER] The China-linked ransomware group Warlock targeted a water utility, a telecom provider, a regional government body, and a university by exploiting SharePoint vulnerabilities to gain initial access. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/warlock-ransomware-breach-sharepoint-in-water-telecom-operator-attacks/",
+      "date": "2026-10-02T18:33:01Z"
+    },
+    {
+      "title": "GitLab Patches Critical 9.9 AI Gateway Flaw Allowing Command Execution on Self-Hosted Servers",
+      "description": "[FEEDS] A critical flaw in GitLab's AI Gateway could let a logged-in user with Duo Agent Platform access run commands on the gateway under certain conditions, GitLab&nbsp;said in an advisory. The gateway is the service that connects a GitLab instance to AI...",
+      "url": "https://thehackernews.com/2026/10/gitlab-patches-critical-self-hosted-ai.html",
+      "date": "2026-10-02T17:33:31Z"
+    },
+    {
+      "title": "Antino Backdoor Uses Outlook and OneDrive for C2 in China-Nexus Espionage Campaign",
+      "description": "[FEEDS] Government and policy organizations across Asia have become the target of a new campaign orchestrated by a China-nexus threat actor. The activity, which has targeted government and policy organizations in Taiwan, India, the Philippines, Cambodia,...",
+      "url": "https://thehackernews.com/2026/10/antino-backdoor-uses-outlook-and.html",
+      "date": "2026-10-02T17:33:16Z"
+    },
+    {
+      "title": "Dell CSM Flaws Enable Unauthenticated Admin Access and Root on Kubernetes Nodes",
+      "description": "[FEEDS] Dell has released security updates to address multiple critical security flaws in Dell Container Storage Modules (CSM) that could be exploited by bad actors to take over susceptible systems. The vulnerabilities are listed below - CVE-2026-63688...",
+      "url": "https://thehackernews.com/2026/10/dell-csm-flaws-enable-unauthenticated.html",
+      "date": "2026-10-02T17:02:12Z"
+    },
     {
       "title": "GitLab warns of critical RCE vulnerability in AI Gateway service",
       "description": "[BLEEPINGCOMPUTER] GitLab warned customers today to immediately patch a critical AI Gateway vulnerability that could let attackers run arbitrary commands on vulnerable instances. [...]",
@@ -50,10 +86,22 @@
       "date": "2026-10-02T11:02:19Z"
     },
     {
-      "title": "Microsoft\u2019s X account hacked in crypto pump-and-dump scheme",
-      "description": "[BLEEPINGCOMPUTER] On Thursday, unknown attackers hijacked the official Microsoft account on X, which has over 13 million followers, in what appeared to be a pump-and-dump scheme promoting a crypto token. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/microsofts-x-account-hacked-in-crypto-token-pump-and-dump-scheme/",
-      "date": "2026-10-02T09:29:56Z"
+      "title": "Old Accused of Running KillSec Ransomware Group",
+      "description": "[DECRYPT] A second suspect faces extradition to Puerto Rico, while Investigators are tracing the proceeds of ransoms the group demanded in crypto.",
+      "url": "https://decrypt.co/379913/spanish-police-arrest-16-year-old-accused-of-running-killsec-ransomware-group",
+      "date": "2026-10-02T09:12:54Z"
+    },
+    {
+      "title": "KB Kookmin Bank suffers data breach",
+      "description": "[LOKMAT TIMES] KB Kookmin Bank suffers data breach - Seoul, Oct 2 Customer information of KB Kookmin Bank, a major commercial bank, has been breached following a ... Get Latest News on Technology only on lokmattimes.com",
+      "url": "https://www.lokmattimes.com/technology/kb-kookmin-bank-suffers-data-breach-1/",
+      "date": "2026-10-02T08:56:10Z"
+    },
+    {
+      "title": "KB Kookmin Bank suffers data breach",
+      "description": "[LOKMAT TIMES] KB Kookmin Bank suffers data breach - Seoul, Oct 2 Customer information of KB Kookmin Bank, a major commercial bank, has been breached following a ... Get Latest News on Business only on lokmattimes.com",
+      "url": "https://www.lokmattimes.com/business/kb-kookmin-bank-suffers-data-breach/",
+      "date": "2026-10-02T08:56:10Z"
     },
     {
       "title": "Android 17 Advanced Protection Locks Accessibility Services to Verified Accessibility Tools",
@@ -62,94 +110,52 @@
       "date": "2026-10-02T08:01:30Z"
     },
     {
-      "title": "Critical FortiMail Zero-Day Flaw Exploited in Attacks Allows Unauthenticated Arbitrary File Writes",
-      "description": "[FEEDS] The U.S. Cybersecurity and Infrastructure Security Agency (CISA), on Thursday, added a critical security flaw impacting Fortinet FortiMail to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation. The...",
-      "url": "https://thehackernews.com/2026/10/critical-fortimail-zero-day-flaw.html",
-      "date": "2026-10-02T05:49:50Z"
+      "title": "\"Rogue\" AI Isn't Going Anywhere",
+      "description": "[LAWFARE] The latest edition of the Seriously Risky Business cybersecurity newsletter, now on Lawfare.",
+      "url": "https://www.lawfaremedia.org/article/rogue--ai-isn't-going-anywhere",
+      "date": "2026-10-02T08:00:00Z"
     },
     {
-      "title": "Thales CEO Urges Investment in AI Cybersecurity to Combat Rising Threats",
-      "description": "[THE ECONOMIC TIMES] At a recent cybersecurity event, Thales CEO urged for increased investment in AI-driven defenses to counter the alarming surge in cyberattacks. He emphasized the dual role of AI as both a weapon for attackers and a shield for defenders.",
-      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/fight-ai-with-ai-thales-ceo-tells-cybersecurity-gathering/articleshow/134631355.cms",
-      "date": "2026-10-02T03:49:31Z"
+      "title": "AI and cybersecurity weekly: Malware meets ChatGPT, Nvidia builds a safety net for AI and more",
+      "description": "[HINDUSTAN TIMES] This week we saw Google releasing its new frontier model, Gemini Argon 4, and OpenAI delaying the launch of its Astra 6.1 model among others. | Technology News",
+      "url": "https://www.hindustantimes.com/technology/ai-and-cybersecurity-weekly-malware-meets-chatgpt-nvidia-builds-a-safety-net-for-ai-and-more-101790842171675.html",
+      "date": "2026-10-02T06:31:47Z"
+    },
+    {
+      "title": "AI tools suspected in Korea\u2019s Shinhan Bank hack, Yonhap Says",
+      "description": "[THE ECONOMIC TIMES] Attackers probably used sophisticated AI agents to probe for vulnerabilities and gain unauthorized access to a service used by loan recruiters, Yonhap said, citing cybersecurity experts.",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-tools-suspected-in-koreas-shinhan-bank-hack-yonhap-says/articleshow/134633230.cms",
+      "date": "2026-10-02T06:15:06Z"
+    },
+    {
+      "title": "Chinese hackers impersonated ex-US official to steal emails from AI experts",
+      "description": "[RAPPLER] Cybersecurity company Proofpoint says the hackers regularly try to steal passwords from people working for US or Japanese think tanks, defense contractors, universities, and law firms since as far back as 2025",
+      "url": "https://www.rappler.com/technology/chinese-hackers-impersonate-ex-us-official-steal-emails-ai-experts/",
+      "date": "2026-10-02T06:05:27Z"
+    },
+    {
+      "title": "October is Cybersecurity Awareness Month, here are 5 tips to stay safe online",
+      "description": "[BOULDER DAILY CAMERA] October is the NISA\u2019s Cybersecurity Awareness Month. Now\u2019s the perfect time to learn how to keep yourself safe online and avoid falling victim to scams.",
+      "url": "https://www.dailycamera.com/2026/10/02/october-is-cybersecurity-awareness-month-here-are-5-tips-to-stay-safe-online/",
+      "date": "2026-10-02T06:05:08Z"
+    },
+    {
+      "title": "October is Cybersecurity Awareness Month, here are 5 tips to stay safe online",
+      "description": "[SANTA ROSA PRESS DEMOCRAT] October is the NISA\u2019s Cybersecurity Awareness Month. Now\u2019s the perfect time to learn how to keep yourself safe online and avoid falling victim to scams.",
+      "url": "https://www.pressdemocrat.com/2026/10/01/october-is-cybersecurity-awareness-month-here-are-5-tips-to-stay-safe-online/",
+      "date": "2026-10-02T06:05:08Z"
+    },
+    {
+      "title": "October is Cybersecurity Awareness Month, here are 5 tips to stay safe online",
+      "description": "[SAN DIEGO UNION-TRIBUNE] October is the NISA\u2019s Cybersecurity Awareness Month. Now\u2019s the perfect time to learn how to keep yourself safe online and avoid falling victim to scams.",
+      "url": "https://www.sandiegouniontribune.com/2026/10/01/october-is-cybersecurity-awareness-month-here-are-5-tips-to-stay-safe-online/",
+      "date": "2026-10-02T06:05:08Z"
     },
     {
       "title": "ISC Stormcast For Friday, October 2nd, 2026 https://isc.sans.edu/podcastdetail/10120, (Fri, Oct 2nd)",
       "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
       "url": "https://isc.sans.edu/diary/rss/33390",
       "date": "2026-10-02T02:00:02Z"
-    },
-    {
-      "title": "AI is going rogue. Who should be held responsible?",
-      "description": "[THE INDIAN EXPRESS] Recent AI agents have hacked companies and government systems, prompting bipartisan calls to hold developers legally responsible. Florida and California have launched legal actions against OpenAI, while the FTC is investigating potential consumer...",
-      "url": "https://indianexpress.com/shorts/technology/artificial-intelligence/ai-agents-going-rogue-liability-who-is-responsible-10903268/",
-      "date": "2026-10-02T01:55:19Z"
-    },
-    {
-      "title": "John Kindervag and the Cybersecurity Leaders Who Helped Define Modern Zero Trust Release New Book for the AI Era",
-      "description": "[ITWIRE] Cyber Resilience at Machine Speed: The Zero Trust Model for the AI Era provides a practitioner-led roadmap for building resilience in an increasingly automated world",
-      "url": "https://itwire.com/business-it-news/security/john-kindervag-and-the-cybersecurity-leaders-who-helped-define-modern-zero-trust-release-new-book-for-the-ai-era",
-      "date": "2026-10-02T00:49:32Z"
-    },
-    {
-      "title": "AI's failed hack on Canada\u2019s archive won\u2019t be last attempt: expert",
-      "description": "[CP24 TORONTO] Artificial intelligence agents apparently searching for century-old divorce records tried to hack a federal government website this spring, according to an AI research firm. Canada\u2019s cybersecurity agency says there is no indication any government...",
-      "url": "https://www.cp24.com/news/canada/2026/10/01/ai-hack-on-canadian-archive-is-the-world-we-live-in-now-expert-warns/",
-      "date": "2026-10-01T23:43:32Z"
-    },
-    {
-      "title": "China\u2019s open-weight AI powers new cybersecurity hacking win",
-      "description": "[THE STRAITS TIMES] Chinese open-weight AI systems are reshaping cybersecurity by enabling both advanced network attacks and enhanced defence capabilities worldwide. Read more at straitstimes.com.",
-      "url": "https://www.straitstimes.com/asia/east-asia/a-hacking-competition-shows-the-power-of-chinas-approach-to-ai",
-      "date": "2026-10-01T23:15:00Z"
-    },
-    {
-      "title": "Fortinet warns of critical FortiMail flaw exploited in zero-day attacks",
-      "description": "[BLEEPINGCOMPUTER] Fortinet is warning customers of a critical FortiMail vulnerability, tracked as CVE-2026-104286, that is being actively exploited in zero-day attacks to execute unauthorized code or commands on vulnerable devices. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/fortinet-warns-of-critical-fortimail-flaw-exploited-in-zero-day-attacks/",
-      "date": "2026-10-01T22:42:49Z"
-    },
-    {
-      "title": "Authorities Send A Warning To Hackers After Arrest Linked To FBI Data Breach",
-      "description": "[SLASHGEAR] The FBI has sent out a warning to members of the ShinyHunters group that recently breached the Bureau's servers, acquiring large amounts of agent personal data.",
-      "url": "https://www.slashgear.com/2275275/fbi-data-breach-shinyhunters-hacker-arrest-warning/",
-      "date": "2026-10-01T22:15:00Z"
-    },
-    {
-      "title": "Preemptive cybersecurity laws come into effect in Japan",
-      "description": "[JAPAN TODAY] Laws enabling preemptive cybersecurity measures aimed at neutralizing hostile servers came into force in Japan on Thursday to address growing cyberattack threats before they cause damage. The laws, enacted in May last year, allow police and the...",
-      "url": "https://japantoday.com/category/crime/preemptive-cybersecurity-laws-enforced-in-japan-amid-rising-threats",
-      "date": "2026-10-01T21:00:00Z"
-    },
-    {
-      "title": "Rogue OpenAI agents covered up their tracks, report says",
-      "description": "[JAPAN TODAY] Artificial intelligence agents developed by OpenAI tried to erase traces of their activity after gaining unauthorized access to government websites, according to a report published Thursday. Cybersecurity firm Asymmetric Security analyzed the...",
-      "url": "https://japantoday.com/category/tech/rogue-openai-agents-covered-up-their-tracks-report-says",
-      "date": "2026-10-01T21:00:00Z"
-    },
-    {
-      "title": "Hacks of 2 federal agencies in a month have spilled a bonanza of sensitive data",
-      "description": "[ARS TECHNICA] It has been a bad month for federal government cybersecurity.",
-      "url": "https://arstechnica.com/security/2026/10/hacks-of-2-federal-agencies-in-a-month-have-spilled-a-bonanza-of-sensitive-data/",
-      "date": "2026-10-01T20:28:45Z"
-    },
-    {
-      "title": "AI agents can now improvise when blocked. Autonomous systems finding ways around digital barriers on their own may be their biggest cybersecurity risk yet",
-      "description": "[THE ECONOMIC TIMES] Recent investigations by Asymmetric Security revealed AI agents accessing Australian government websites and performing atypical actions. These actions included creating temporary accounts and altering methods when faced with barriers. The incidents...",
-      "url": "https://economictimes.indiatimes.com/news/international/global-trends/ai-agents-can-now-improvise-when-blocked-autonomous-systems-finding-ways-around-digital-barriers-on-their-own-may-be-their-biggest-cybersecurity-risk-yet/articleshow/134625622.cms",
-      "date": "2026-10-01T19:18:00Z"
-    },
-    {
-      "title": "Police Arrest 16-Year-Old Suspected of Running KillSec, Seize Ransomware Leak Site and Servers",
-      "description": "[FEEDS] Police in Spain have arrested a 16-year-old whom investigators suspect of running the KillSec ransomware group. KillSec is accused of stealing data from organizations and threatening to publish it on its leak site unless they paid. The 16-year-old...",
-      "url": "https://thehackernews.com/2026/10/police-arrest-16-year-old-suspected-of.html",
-      "date": "2026-10-01T16:55:57Z"
-    },
-    {
-      "title": "ThreatsDay: AI-Powered Zero-Day Chain, 543K Live Secrets, Model Inspection RCE and 13 More Stories",
-      "description": "[FEEDS] This week, the useful words are boring ones: inspect, cache, compile, store, trust. Each sounds harmless. Each can become an attack path when a system does a little more than people expect. A model check can run code. A cache can mix up requests. A...",
-      "url": "https://thehackernews.com/2026/10/threatsday-ai-powered-zero-day-chain.html",
-      "date": "2026-10-01T16:45:38Z"
     },
     {
       "title": "Connected Cars Are a Surveillance Platform",
@@ -198,12 +204,6 @@
       "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
       "url": "https://isc.sans.edu/diary/rss/33378",
       "date": "2026-09-29T02:00:02Z"
-    },
-    {
-      "title": "New Attack Against RSA",
-      "description": "[SCHNEIER] ArsTechnica is reporting on a &#8220;new&#8221; attack against RSA, one that bypasses factoring. First, this attack isn&#8217;t new. The original research is from 2007. What is new is the implementation. Second, it is a forgery attack. It allows an...",
-      "url": "https://www.schneier.com/blog/archives/2026/09/new-attack-against-rsa.html",
-      "date": "2026-09-28T11:02:58Z"
     }
   ]
 }
