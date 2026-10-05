@@ -1,6 +1,102 @@
 {
-  "updated": "2026-10-05 07:56:46 UTC",
+  "updated": "2026-10-05 16:40:38 UTC",
   "news": [
+    {
+      "title": "Denmark population registry data breach affects 8.8 million people",
+      "description": "[BLEEPINGCOMPUTER] Denmark's Central Population Register (CPR) is warning of a data breach that exposed the personal information of approximately 8.8 million registered individuals. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/denmark-population-registry-data-breach-affects-88-million-people/",
+      "date": "2026-10-05T15:21:10Z"
+    },
+    {
+      "title": "New Dell System Update flaw lets hackers gain root privileges",
+      "description": "[BLEEPINGCOMPUTER] Dell warned customers to patch a critical vulnerability in the System Update (DSU) command-line interface (CLI) deployment tool as soon as possible. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/new-dell-system-update-flaw-lets-hackers-gain-root-privileges/",
+      "date": "2026-10-05T14:53:06Z"
+    },
+    {
+      "title": "South Korea probes bank breaches amid suspected AI-powered attacks",
+      "description": "[BLEEPINGCOMPUTER] South Korea's Financial Services Commission (FSC) held an emergency meeting following a series of cyberattacks targeting financial institutions in the country. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/south-korea-probes-bank-breaches-amid-suspected-ai-powered-attacks/",
+      "date": "2026-10-05T14:22:12Z"
+    },
+    {
+      "title": "\u26a1 Weekly Recap: NetScaler and FortiMail 0-Days, AI Coding Leaks, Spectre v2 and Ransomware Arrests",
+      "description": "[FEEDS] A blank field. A public repo. One reply to an email. A box left exposed. None of this sounds dramatic, which is partly the problem. This week\u2019s threats keep finding leverage in small things that were easy to overlook. There are actively exploited...",
+      "url": "https://thehackernews.com/2026/10/weekly-recap-netscaler-and-fortimail-0.html",
+      "date": "2026-10-05T14:20:43Z"
+    },
+    {
+      "title": "tenfold CE: Our free Identity Governance tool just got 2 new features",
+      "description": "[BLEEPINGCOMPUTER] tenfold has added shared content governance and real-time event auditing to its free Community Edition for organizations with under 150 users. The new features help teams manage Microsoft 365 sharing and investigate suspicious identity activity....",
+      "url": "https://www.bleepingcomputer.com/news/security/tenfold-ce-our-free-identity-governance-tool-just-got-2-new-features/",
+      "date": "2026-10-05T13:33:42Z"
+    },
+    {
+      "title": "Alleged dev of Ploutus ATM malware appears in US court after arrest",
+      "description": "[BLEEPINGCOMPUTER] The U.S. Department of Justice has announced the arrest of the alleged developer of Ploutus malware, used to steal millions of dollars in ATM jackpotting attacks across the United States. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/suspected-dev-of-ploutus-atm-malware-appears-in-us-court-after-arrest/",
+      "date": "2026-10-05T13:01:45Z"
+    },
+    {
+      "title": "The Credential Layer Is Expanding Faster Than Security Teams Can See It",
+      "description": "[FEEDS] Every modern enterprise depends on credentials. This is how humans, systems, and now AI, all connect to data, services, and each other securely. GitGuardian helps secure that credential layer through three connected capabilities: Detect, Remediate,...",
+      "url": "https://thehackernews.com/2026/10/the-credential-layer-is-expanding.html",
+      "date": "2026-10-05T11:55:00Z"
+    },
+    {
+      "title": "Realtek Jungle SDK Exploit Attempts Deliver Cling Botnet With STUN-Based C2",
+      "description": "[FEEDS] Threat actors have been observed attempting to exploit a now-patched critical security flaw impacting the Realtek Jungle software development kit (SDK) to deploy a botnet malware called Cling. \"Cling is notable not because it introduces a new...",
+      "url": "https://thehackernews.com/2026/10/realtek-jungle-sdk-exploit-attempts.html",
+      "date": "2026-10-05T11:46:25Z"
+    },
+    {
+      "title": "Another Historic Cipher Falls to AI",
+      "description": "[SCHNEIER] This one is from 1809, written by Napoleon&#8217;s nephew.",
+      "url": "https://www.schneier.com/blog/archives/2026/10/another-historic-cipher-falls-to-ai.html",
+      "date": "2026-10-05T11:04:47Z"
+    },
+    {
+      "title": "Apple Plans Tighter macOS Full Disk Access Controls Over AI Agent Data Access",
+      "description": "[FEEDS] Apple has announced that it's taking steps to tighten controls around a macOS setting called Full Disk Access (FDA) due to security risks posed by artificial intelligence (AI) agents. \"Some developers are using Full Disk Access in ways that could...",
+      "url": "https://thehackernews.com/2026/10/apple-plans-tighter-macos-full-disk.html",
+      "date": "2026-10-05T10:38:50Z"
+    },
+    {
+      "title": "OpenAI will show visual ads in ChatGPT while you generate images",
+      "description": "[BLEEPINGCOMPUTER] OpenAI is expanding ads in ChatGPT, and one of the first new formats will show visual ads while you're generating images. [...]",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-will-show-visual-ads-in-chatgpt-while-you-generate-images/",
+      "date": "2026-10-05T10:28:45Z"
+    },
+    {
+      "title": "Attackers Target Rejetto HFS Flaw That Enables Admin Session Forgery and RCE",
+      "description": "[FEEDS] A critical security flaw impacting Rejetto HTTP File Server (HFS) is witnessing active exploitation attempts, according to VulnCheck. The vulnerability in question is CVE-2026-61500 (CVSS score: 9.3), a case of session forgery stemming from the use...",
+      "url": "https://thehackernews.com/2026/10/attackers-target-rejetto-hfs-flaw-that.html",
+      "date": "2026-10-05T08:09:23Z"
+    },
+    {
+      "title": "New NetScaler Zero-Day Exploited in Targeted Attacks Can Knock SAML Deployments Offline",
+      "description": "[FEEDS] Citrix has released security updates for a high-severity security flaw in NetScaler ADC and Citrix NetScaler Gateway that has been exploited as part of targeted zero-day attacks. The vulnerability, tracked as CVE-2026-88779, carries a CVSS score of...",
+      "url": "https://thehackernews.com/2026/10/new-netscaler-zero-day-exploited-in.html",
+      "date": "2026-10-05T06:40:19Z"
+    },
+    {
+      "title": "\u2018I\u2019m slowly killing my own career\u2019: 35-year-old cybersecurity professional fears staying in comfortable job too long",
+      "description": "[HINDUSTAN TIMES] After 10 years in cybersecurity, a professional says his well-paid governance role has left him technically stagnant. | Trending",
+      "url": "https://www.hindustantimes.com/trending/im-slowly-killing-my-own-career-35-year-old-cybersecurity-professional-fears-staying-in-comfortable-job-too-long-101791171826790.html",
+      "date": "2026-10-05T04:14:53Z"
+    },
+    {
+      "title": "Google Gemini 4 Argon Explained: From Coding To Cyber Defence, Here\u2019s What Makes It Different",
+      "description": "[MASHABLE INDIA] Google has unveiled Gemini 4 Argon as its latest frontier AI model. The company says it brings major improvements to coding, professional tasks and cybersecurity.",
+      "url": "https://in.mashable.com/tech/114549/google-gemini-4-argon-explained-from-coding-to-cyber-defence-heres-what-makes-it-different",
+      "date": "2026-10-05T03:43:24Z"
+    },
+    {
+      "title": "CBSE \u2018hack\u2019, IIT gig and US recognition: Nisarga Adhikary\u2019s incredible year at 19",
+      "description": "[THE INDIAN EXPRESS] The cybersecurity researcher, who is now working at IIT Kanpur, was recognised by the US Department of Justice for reporting a vulnerability in one of its systems",
+      "url": "https://indianexpress.com/article/india/cbse-hack-iit-gig-and-us-recognition-nisarga-adhikarys-incredible-year-10906919/",
+      "date": "2026-10-05T03:11:11Z"
+    },
     {
       "title": "ISC Stormcast For Monday, October 5th, 2026 https://isc.sans.edu/podcastdetail/10122, (Mon, Oct 5th)",
       "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
@@ -12,12 +108,6 @@
       "description": "[ISC] For an experiment, I created a script &#x5b;1&#x5d; that parses and send the TTY logs collected from actors or bots activity that run various commands after they successfully login the DShield sensor. Those TTY logs are sent daily at the end of each...",
       "url": "https://isc.sans.edu/diary/rss/33396",
       "date": "2026-10-05T00:15:00Z"
-    },
-    {
-      "title": "Citrix patches NetScaler SAML zero-day exploited in attacks",
-      "description": "[BLEEPINGCOMPUTER] Citrix has released emergency updates for a new NetScaler denial-of-service vulnerability tracked as CVE-2026-88779 that has been exploited in zero-day attacks, with researchers investigating whether it can also be exploited for remote code...",
-      "url": "https://www.bleepingcomputer.com/news/security/citrix-patches-netscaler-saml-zero-day-exploited-in-attacks/",
-      "date": "2026-10-04T21:58:01Z"
     },
     {
       "title": "California Attorney General Subpoenas OpenAI In Cybersecurity Inquiry",
@@ -50,12 +140,6 @@
       "date": "2026-10-04T11:35:42Z"
     },
     {
-      "title": "Anthropic asks Claude users to share voice data for AI model training",
-      "description": "[BLEEPINGCOMPUTER] Anthropic has started asking Claude users to voluntarily share their voice conversations to help train and improve its AI models. [...]",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-asks-claude-users-to-share-voice-data-for-ai-model-training/",
-      "date": "2026-10-04T10:53:21Z"
-    },
-    {
       "title": "CT university partnership in China is U.S. 'security risk'",
       "description": "[HARTFORD COURANT] Moolenaar said the academic partnership is \u201cparticularly concerning\u201d because of the role UNH has played in supporting U.S. cybersecurity education",
       "url": "https://www.courant.com/2026/10/04/congressman-calls-ct-university-partnership-in-china-a-u-s-security-risk-he-asks-for-it-to-be-cancelled/",
@@ -68,52 +152,10 @@
       "date": "2026-10-04T08:48:44Z"
     },
     {
-      "title": "Chinese EV influx into Canada reportedly raises national security, data privacy concerns",
-      "description": "[ANI (ASIAN NEWS INTERNATIONAL)] Canada\u2019s move to cut tariffs on Chinese electric vehicles has raised national security and cybersecurity concerns. Experts warn that connected Chinese EVs could collect sensitive data through cameras, microphones and location systems, potentially...",
-      "url": "https://www.aninews.in/news/world/us/chinese-ev-influx-into-canada-reportedly-raises-national-security-data-privacy-concerns20261004141405/",
-      "date": "2026-10-04T08:44:05Z"
-    },
-    {
       "title": "User Agent Strings Curiosities, (Sun, Oct 4th)",
       "description": "[ISC] Sometimes I have to smile, or my interest is triggered, when I review new User Agent Strings in the honeypot logs.&#xd;",
       "url": "https://isc.sans.edu/diary/rss/33394",
       "date": "2026-10-04T07:58:51Z"
-    },
-    {
-      "title": "ShinyHunters Suspect Rey Reportedly Detained in Jordan, Helping FBI Identify Group Members",
-      "description": "[FEEDS] A suspected member of the ShinyHunters digital extortion group, who goes by the online alias \"Rey,\" has been allegedly detained by authorities in Jordan, Reuters reported, citing three people familiar with the matter. Rey, whose real name is Saif...",
-      "url": "https://thehackernews.com/2026/10/shinyhunters-suspect-rey-reportedly.html",
-      "date": "2026-10-04T07:22:05Z"
-    },
-    {
-      "title": "China-Aligned TA419 Targets U.S. AI Policy Experts With Microsoft AitM Phishing",
-      "description": "[FEEDS] A new China-nexus cyber espionage group known as TA419 has been attributed to multiple credential phishing campaigns targeting artificial intelligence (AI) experts working for U.S. think tanks, universities, and legal sector organizations. The...",
-      "url": "https://thehackernews.com/2026/10/china-aligned-ta419-targets-us-ai.html",
-      "date": "2026-10-04T07:20:32Z"
-    },
-    {
-      "title": "HSE storing thousands of medical files in unlocked Louth morgue as 'urgent' concerns raised after \u20ac600k data breach fine",
-      "description": "[THE IRISH SUN] THOUSANDS of HSE medical files are being stored in an unsecured morgue. Staff say anyone could walk into the building at the Cottage...",
-      "url": "https://www.thesun.ie/news/17711175/hse-medical-files-morgue-cottage-hospital-drogheda-louth/",
-      "date": "2026-10-04T07:00:00Z"
-    },
-    {
-      "title": "Paul M. Nakasone: More dangerous cyberthreats are coming. That leaves a limited window to respond",
-      "description": "[SPOKANE SPOKESMAN-REVIEW] During my tenure leading the National Security Agency and U.S. Cyber Command, I saw how cyberthreats can endanger the United States. Election interference, ransomware, supply chain attacks and zero-day vulnerabilities in critical software systems...",
-      "url": "https://www.spokesman.com/stories/2026/oct/04/paul-m-nakasone-more-dangerous-cyberthreats-are-co/",
-      "date": "2026-10-04T07:00:00Z"
-    },
-    {
-      "title": "Google Gemini could soon get full access to your Mac\u2019s files, apps and the web",
-      "description": "[BLEEPINGCOMPUTER] Google's Gemini could soon access any file on your macOS device, open apps, browse the web, and perform actions without asking for permission every time. [...]",
-      "url": "https://www.bleepingcomputer.com/news/google/google-gemini-could-soon-get-full-access-to-your-macs-files-apps-and-the-web/",
-      "date": "2026-10-03T23:12:34Z"
-    },
-    {
-      "title": "ShinyHunters hacker reportedly detained in Jordan, aiding FBI",
-      "description": "[BLEEPINGCOMPUTER] A suspected ShinyHunters hacking group member known online as \"Rey\" has reportedly been detained in Jordan and is cooperating with the FBI to help locate other members of the extortion group. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-hacker-reportedly-detained-in-jordan-aiding-fbi/",
-      "date": "2026-10-03T19:09:38Z"
     },
     {
       "title": "YARA-X 1.21.0 Release, (Sat, Oct 3rd)",
@@ -122,46 +164,10 @@
       "date": "2026-10-03T14:40:21Z"
     },
     {
-      "title": "MI5 Says China\u2019s MSS Funded Research Involving 100+ U.K.-Linked Academics",
-      "description": "[FEEDS] The U.K.'s domestic intelligence and security agency has warned that more than 100 academics have helped China boost its intelligence gathering efforts on behalf of Beijing's state security service. In a \"Security Service Espionage Alert\" issued on...",
-      "url": "https://thehackernews.com/2026/10/mi5-says-chinas-mss-funded-research.html",
-      "date": "2026-10-03T14:38:46Z"
-    },
-    {
-      "title": "Warlock Exploits SharePoint Flaws to Disable Security Tools and Deploy Ransomware",
-      "description": "[FEEDS] The suspected China-linked threat actor known as Warlock is still continuing to weaponize Microsoft SharePoint vulnerabilities, likely both old and new, in attacks targeting organizations in Portuguese- and Spanish-speaking countries. The activity,...",
-      "url": "https://thehackernews.com/2026/10/warlock-exploits-sharepoint-flaws-to.html",
-      "date": "2026-10-03T14:36:33Z"
-    },
-    {
-      "title": "Danish university DTU breach exposes data of up to 200,000 people",
-      "description": "[BLEEPINGCOMPUTER] The Technical University of Denmark (DTU) says information belonging to up to 200,000 users may have been exposed after hackers accessed its identity and access management system and downloaded a large amount of data. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/danish-university-dtu-breach-exposes-data-of-up-to-200-000-people/",
-      "date": "2026-10-03T14:35:20Z"
-    },
-    {
-      "title": "The State of Cybersecurity in 2026:\u00a0Key Segments, Insights, and Innovations",
-      "description": "[FEEDS] Featuring: Cybersecurity is being reshaped by the expansion of cloud infrastructure, AI, distributed systems, and increasingly complex digital environments. As organizations manage more identities, devices, data, and internet-facing infrastructure,...",
-      "url": "https://thehackernews.com/2026/10/the-state-of-cybersecurity-in-2026key.html",
-      "date": "2026-10-03T11:00:00Z"
-    },
-    {
       "title": "Friday Squid Blogging: EU is Trying to Fight Unregulated Squid Fishing",
       "description": "[SCHNEIER] The EU is recommending import controls to combat unregulated squid fishing in the Southwest Atlantic. I&#8217;m not optimistic. As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered....",
       "url": "https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-eu-is-trying-to-fight-unregulated-squid-fishing.html",
       "date": "2026-10-02T21:02:18Z"
-    },
-    {
-      "title": "Frontline Education breach exposes school district employee data",
-      "description": "[BLEEPINGCOMPUTER] Frontline Education is notifying school districts of a data breach after attackers exploited a vulnerability in third-party software to gain unauthorized access to its systems and steal employee information, including Social Security numbers. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/frontline-education-data-breach-impacts-school-district-employees/",
-      "date": "2026-10-02T19:01:40Z"
-    },
-    {
-      "title": "GitLab Patches Critical 9.9 AI Gateway Flaw Allowing Command Execution on Self-Hosted Servers",
-      "description": "[FEEDS] A critical flaw in GitLab's AI Gateway could let a logged-in user with Duo Agent Platform access run commands on the gateway under certain conditions, GitLab&nbsp;said in an advisory. The gateway is the service that connects a GitLab instance to AI...",
-      "url": "https://thehackernews.com/2026/10/gitlab-patches-critical-self-hosted-ai.html",
-      "date": "2026-10-02T17:33:31Z"
     },
     {
       "title": "Unidentified Flock Cameras in Florida",
@@ -198,12 +204,6 @@
       "description": "[SCHNEIER] AI systems are regularly completing tasks in ways that their prompters don&#8217;t want or intend. Some of them are disturbing, and some of them are dangerous. This is something I&#8217;ve been calling &#8220;genie behavior,&#8221; because I think...",
       "url": "https://www.schneier.com/blog/archives/2026/09/i-want-better-reporting-on-ai-genie-behavior.html",
       "date": "2026-09-30T11:05:35Z"
-    },
-    {
-      "title": "Using Device Linking to Eavesdrop on WhatsApp and Signal",
-      "description": "[SCHNEIER] Modern messaging apps allow users to link their phone accounts to their computer desktop. Eavesdroppers are taking advantage of this capability: Apps such as WhatsApp Web and Signal Desktop allow people to use their accounts on other devices, such...",
-      "url": "https://www.schneier.com/blog/archives/2026/09/using-device-linking-to-eavesdrop-on-whatsapp-and-signal.html",
-      "date": "2026-09-29T11:02:19Z"
     }
   ]
 }
