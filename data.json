@@ -1,209 +1,137 @@
 {
-  "updated": "2026-10-05 16:40:38 UTC",
-  "news": [
-    {
-      "title": "Denmark population registry data breach affects 8.8 million people",
-      "description": "[BLEEPINGCOMPUTER] Denmark's Central Population Register (CPR) is warning of a data breach that exposed the personal information of approximately 8.8 million registered individuals. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/denmark-population-registry-data-breach-affects-88-million-people/",
-      "date": "2026-10-05T15:21:10Z"
-    },
-    {
-      "title": "New Dell System Update flaw lets hackers gain root privileges",
-      "description": "[BLEEPINGCOMPUTER] Dell warned customers to patch a critical vulnerability in the System Update (DSU) command-line interface (CLI) deployment tool as soon as possible. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/new-dell-system-update-flaw-lets-hackers-gain-root-privileges/",
-      "date": "2026-10-05T14:53:06Z"
-    },
-    {
-      "title": "South Korea probes bank breaches amid suspected AI-powered attacks",
-      "description": "[BLEEPINGCOMPUTER] South Korea's Financial Services Commission (FSC) held an emergency meeting following a series of cyberattacks targeting financial institutions in the country. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/south-korea-probes-bank-breaches-amid-suspected-ai-powered-attacks/",
-      "date": "2026-10-05T14:22:12Z"
-    },
-    {
-      "title": "\u26a1 Weekly Recap: NetScaler and FortiMail 0-Days, AI Coding Leaks, Spectre v2 and Ransomware Arrests",
-      "description": "[FEEDS] A blank field. A public repo. One reply to an email. A box left exposed. None of this sounds dramatic, which is partly the problem. This week\u2019s threats keep finding leverage in small things that were easy to overlook. There are actively exploited...",
-      "url": "https://thehackernews.com/2026/10/weekly-recap-netscaler-and-fortimail-0.html",
-      "date": "2026-10-05T14:20:43Z"
-    },
-    {
-      "title": "tenfold CE: Our free Identity Governance tool just got 2 new features",
-      "description": "[BLEEPINGCOMPUTER] tenfold has added shared content governance and real-time event auditing to its free Community Edition for organizations with under 150 users. The new features help teams manage Microsoft 365 sharing and investigate suspicious identity activity....",
-      "url": "https://www.bleepingcomputer.com/news/security/tenfold-ce-our-free-identity-governance-tool-just-got-2-new-features/",
-      "date": "2026-10-05T13:33:42Z"
-    },
-    {
-      "title": "Alleged dev of Ploutus ATM malware appears in US court after arrest",
-      "description": "[BLEEPINGCOMPUTER] The U.S. Department of Justice has announced the arrest of the alleged developer of Ploutus malware, used to steal millions of dollars in ATM jackpotting attacks across the United States. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/suspected-dev-of-ploutus-atm-malware-appears-in-us-court-after-arrest/",
-      "date": "2026-10-05T13:01:45Z"
-    },
-    {
-      "title": "The Credential Layer Is Expanding Faster Than Security Teams Can See It",
-      "description": "[FEEDS] Every modern enterprise depends on credentials. This is how humans, systems, and now AI, all connect to data, services, and each other securely. GitGuardian helps secure that credential layer through three connected capabilities: Detect, Remediate,...",
-      "url": "https://thehackernews.com/2026/10/the-credential-layer-is-expanding.html",
-      "date": "2026-10-05T11:55:00Z"
-    },
-    {
-      "title": "Realtek Jungle SDK Exploit Attempts Deliver Cling Botnet With STUN-Based C2",
-      "description": "[FEEDS] Threat actors have been observed attempting to exploit a now-patched critical security flaw impacting the Realtek Jungle software development kit (SDK) to deploy a botnet malware called Cling. \"Cling is notable not because it introduces a new...",
-      "url": "https://thehackernews.com/2026/10/realtek-jungle-sdk-exploit-attempts.html",
-      "date": "2026-10-05T11:46:25Z"
-    },
-    {
-      "title": "Another Historic Cipher Falls to AI",
-      "description": "[SCHNEIER] This one is from 1809, written by Napoleon&#8217;s nephew.",
-      "url": "https://www.schneier.com/blog/archives/2026/10/another-historic-cipher-falls-to-ai.html",
-      "date": "2026-10-05T11:04:47Z"
-    },
-    {
-      "title": "Apple Plans Tighter macOS Full Disk Access Controls Over AI Agent Data Access",
-      "description": "[FEEDS] Apple has announced that it's taking steps to tighten controls around a macOS setting called Full Disk Access (FDA) due to security risks posed by artificial intelligence (AI) agents. \"Some developers are using Full Disk Access in ways that could...",
-      "url": "https://thehackernews.com/2026/10/apple-plans-tighter-macos-full-disk.html",
-      "date": "2026-10-05T10:38:50Z"
-    },
-    {
-      "title": "OpenAI will show visual ads in ChatGPT while you generate images",
-      "description": "[BLEEPINGCOMPUTER] OpenAI is expanding ads in ChatGPT, and one of the first new formats will show visual ads while you're generating images. [...]",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-will-show-visual-ads-in-chatgpt-while-you-generate-images/",
-      "date": "2026-10-05T10:28:45Z"
-    },
-    {
-      "title": "Attackers Target Rejetto HFS Flaw That Enables Admin Session Forgery and RCE",
-      "description": "[FEEDS] A critical security flaw impacting Rejetto HTTP File Server (HFS) is witnessing active exploitation attempts, according to VulnCheck. The vulnerability in question is CVE-2026-61500 (CVSS score: 9.3), a case of session forgery stemming from the use...",
-      "url": "https://thehackernews.com/2026/10/attackers-target-rejetto-hfs-flaw-that.html",
-      "date": "2026-10-05T08:09:23Z"
-    },
-    {
-      "title": "New NetScaler Zero-Day Exploited in Targeted Attacks Can Knock SAML Deployments Offline",
-      "description": "[FEEDS] Citrix has released security updates for a high-severity security flaw in NetScaler ADC and Citrix NetScaler Gateway that has been exploited as part of targeted zero-day attacks. The vulnerability, tracked as CVE-2026-88779, carries a CVSS score of...",
-      "url": "https://thehackernews.com/2026/10/new-netscaler-zero-day-exploited-in.html",
-      "date": "2026-10-05T06:40:19Z"
-    },
-    {
-      "title": "\u2018I\u2019m slowly killing my own career\u2019: 35-year-old cybersecurity professional fears staying in comfortable job too long",
-      "description": "[HINDUSTAN TIMES] After 10 years in cybersecurity, a professional says his well-paid governance role has left him technically stagnant. | Trending",
-      "url": "https://www.hindustantimes.com/trending/im-slowly-killing-my-own-career-35-year-old-cybersecurity-professional-fears-staying-in-comfortable-job-too-long-101791171826790.html",
-      "date": "2026-10-05T04:14:53Z"
-    },
-    {
-      "title": "Google Gemini 4 Argon Explained: From Coding To Cyber Defence, Here\u2019s What Makes It Different",
-      "description": "[MASHABLE INDIA] Google has unveiled Gemini 4 Argon as its latest frontier AI model. The company says it brings major improvements to coding, professional tasks and cybersecurity.",
-      "url": "https://in.mashable.com/tech/114549/google-gemini-4-argon-explained-from-coding-to-cyber-defence-heres-what-makes-it-different",
-      "date": "2026-10-05T03:43:24Z"
-    },
-    {
-      "title": "CBSE \u2018hack\u2019, IIT gig and US recognition: Nisarga Adhikary\u2019s incredible year at 19",
-      "description": "[THE INDIAN EXPRESS] The cybersecurity researcher, who is now working at IIT Kanpur, was recognised by the US Department of Justice for reporting a vulnerability in one of its systems",
-      "url": "https://indianexpress.com/article/india/cbse-hack-iit-gig-and-us-recognition-nisarga-adhikarys-incredible-year-10906919/",
-      "date": "2026-10-05T03:11:11Z"
-    },
-    {
-      "title": "ISC Stormcast For Monday, October 5th, 2026 https://isc.sans.edu/podcastdetail/10122, (Mon, Oct 5th)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33398",
-      "date": "2026-10-05T02:00:02Z"
-    },
-    {
-      "title": "TTY Logs and the Data it Captures, (Sun, Oct 4th)",
-      "description": "[ISC] For an experiment, I created a script &#x5b;1&#x5d; that parses and send the TTY logs collected from actors or bots activity that run various commands after they successfully login the DShield sensor. Those TTY logs are sent daily at the end of each...",
-      "url": "https://isc.sans.edu/diary/rss/33396",
-      "date": "2026-10-05T00:15:00Z"
-    },
-    {
-      "title": "California Attorney General Subpoenas OpenAI In Cybersecurity Inquiry",
-      "description": "[ZEROHEDGE] ZeroHedge - On a long enough timeline, the survival rate for everyone drops to zero",
-      "url": "https://www.zerohedge.com/ai/california-attorney-general-subpoenas-openai-cybersecurity-inquiry",
-      "date": "2026-10-04T19:00:00Z"
-    },
-    {
-      "title": "Pentagon Data Breach Exposes Personal Information of 2.76 Million Military, Civilian Personnel",
-      "description": "[NATURAL NEWS] A Department of War personnel database breach exposed sensitive personal information belonging to 2.76 million living U.S. military and civilian personnel, along with 294,000 deceased individuals, a Pentagon official confirmed to Fox News....",
-      "url": "https://www.naturalnews.com/2026-10-04-pentagon-data-breach-compromises-sensitive-info-personnel.html",
-      "date": "2026-10-04T17:40:29Z"
-    },
-    {
-      "title": "Cybersecurity Awareness Month spotlights AI risks",
-      "description": "[THE MANILA TIMES] CYBERSECURITY Awareness Month this October is prompting security experts to broaden traditional advice on passwords, phishing and access as artificial intelligence creates new risks involving digital identities, privileged access and synthetic media.",
-      "url": "https://www.manilatimes.net/2026/10/05/business/sunday-business-it/cybersecurity-awareness-month-spotlights-ai-risks/2438658",
-      "date": "2026-10-04T16:02:00Z"
-    },
-    {
-      "title": "\u2018AI is moving from recommendation to autonomous execution\u2019: Avinash Raghavendra",
-      "description": "[THE FINANCIAL EXPRESS] Axis Bank IT Head Avinash Raghavendra discusses the bank\u2019s shift toward agentic AI, mitigating geopolitical third-party risks, zero-day threat defense, and preparing for post-quantum cryptography.",
-      "url": "https://www.financialexpress.com/business/news/ai-is-moving-from-recommendation-to-autonomous-execution-avinash-raghavendra/4353377/",
-      "date": "2026-10-04T12:17:42Z"
-    },
-    {
-      "title": "AI Kill Switch: Project Meridian & the Vulcan Frontier AI Defense Matrix (Veterans First for America)",
-      "description": "[THE MANILA TIMES] Top 5 AI Kill Switch Cyber Security Developers & Solutions Available According to Gemini (Sep. 2026)As California signs EO N-10-26, the DoD activates a global defensive shield and the AI-119 Vulcan outscores elite cybersecurity software.",
-      "url": "https://www.manilatimes.net/2026/10/04/tmt-newswire/globenewswire/ai-kill-switch-project-meridian-the-vulcan-frontier-ai-defense-matrix-veterans-first-for-america/2438578",
-      "date": "2026-10-04T11:35:42Z"
-    },
-    {
-      "title": "CT university partnership in China is U.S. 'security risk'",
-      "description": "[HARTFORD COURANT] Moolenaar said the academic partnership is \u201cparticularly concerning\u201d because of the role UNH has played in supporting U.S. cybersecurity education",
-      "url": "https://www.courant.com/2026/10/04/congressman-calls-ct-university-partnership-in-china-a-u-s-security-risk-he-asks-for-it-to-be-cancelled/",
-      "date": "2026-10-04T09:00:49Z"
-    },
-    {
-      "title": "Chinese EV influx into Canada reportedly raises national security, data privacy concerns",
-      "description": "[DEVDISCOURSE] Canada\u2019s move to cut tariffs on Chinese electric vehicles has raised national security and cybersecurity concerns. Experts warn that connected Chinese EVs could collect sensitive data through cameras, microphones and location systems, potentially...",
-      "url": "https://www.devdiscourse.com/article/international/3986533-chinese-ev-influx-into-canada-reportedly-raises-national-security-data-privacy-concerns",
-      "date": "2026-10-04T08:48:44Z"
-    },
-    {
-      "title": "User Agent Strings Curiosities, (Sun, Oct 4th)",
-      "description": "[ISC] Sometimes I have to smile, or my interest is triggered, when I review new User Agent Strings in the honeypot logs.&#xd;",
-      "url": "https://isc.sans.edu/diary/rss/33394",
-      "date": "2026-10-04T07:58:51Z"
-    },
-    {
-      "title": "YARA-X 1.21.0 Release, (Sat, Oct 3rd)",
-      "description": "[ISC] YARA-X&&#x23&#x3b;x26&#x3b;&#x23&#x3b;39&#x3b;s 1.21.0 release brings 5 improvements and 4 bugfixes.&#xd;",
-      "url": "https://isc.sans.edu/diary/rss/33392",
-      "date": "2026-10-03T14:40:21Z"
-    },
-    {
-      "title": "Friday Squid Blogging: EU is Trying to Fight Unregulated Squid Fishing",
-      "description": "[SCHNEIER] The EU is recommending import controls to combat unregulated squid fishing in the Southwest Atlantic. I&#8217;m not optimistic. As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered....",
-      "url": "https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-eu-is-trying-to-fight-unregulated-squid-fishing.html",
-      "date": "2026-10-02T21:02:18Z"
-    },
-    {
-      "title": "Unidentified Flock Cameras in Florida",
-      "description": "[SCHNEIER] St. Lucie County in Florida discovered (alt link) a dozen Flock cameras whose ownership it can&#8217;t identify, and that the county government had not permitted. I am reminded of the decade-old story of StingRay cell phone surveillance devices in...",
-      "url": "https://www.schneier.com/blog/archives/2026/10/unidentified-flock-cameras-in-florida.html",
-      "date": "2026-10-02T14:52:46Z"
-    },
-    {
-      "title": "How American Political Campaigns Are Using AI\u2014and What They\u2019re Spending on the Tools",
-      "description": "[SCHNEIER] This essay was written with Nathan E. Sanders, and originally appeared in The Guardian. New campaign finance disclosure data shines a light on which US political campaigns are using AI tools and how much they are spending on them. Candidates&#8217;,...",
-      "url": "https://www.schneier.com/blog/archives/2026/10/how-american-political-campaigns-are-using-ai-and-what-theyre-spending-on-the-tools.html",
-      "date": "2026-10-02T11:02:19Z"
-    },
-    {
-      "title": "ISC Stormcast For Friday, October 2nd, 2026 https://isc.sans.edu/podcastdetail/10120, (Fri, Oct 2nd)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33390",
-      "date": "2026-10-02T02:00:02Z"
-    },
-    {
-      "title": "Connected Cars Are a Surveillance Platform",
-      "description": "[SCHNEIER] Researchers at Northeastern University, in collaboration with Consumer Reports, evaluated how much modern cars spy in their drivers: The new Northeastern study shows, for the first time, data flowing among the vehicles, the vehicle apps you download...",
-      "url": "https://www.schneier.com/blog/archives/2026/10/connected-cars-are-a-surveillance-platform.html",
-      "date": "2026-10-01T11:06:14Z"
-    },
-    {
-      "title": "ScreenConnect Client (Ab)used by Attackers, (Thu, Oct 1st)",
-      "description": "[ISC] Threat Actors do not always use top-notch techniques or very complex malware to perform their attacks. Sometimes, they just abuse of existing applications...&#xd;",
-      "url": "https://isc.sans.edu/diary/rss/33388",
-      "date": "2026-10-01T05:32:13Z"
-    },
-    {
-      "title": "I Want Better Reporting on AI Genie Behavior",
-      "description": "[SCHNEIER] AI systems are regularly completing tasks in ways that their prompters don&#8217;t want or intend. Some of them are disturbing, and some of them are dangerous. This is something I&#8217;ve been calling &#8220;genie behavior,&#8221; because I think...",
-      "url": "https://www.schneier.com/blog/archives/2026/09/i-want-better-reporting-on-ai-genie-behavior.html",
-      "date": "2026-09-30T11:05:35Z"
-    }
-  ]
+    "title": "Sentinel Protocol",
+    "tagline": "Perimeter Intelligence Sync",
+    "updated": "2026-10-05 19:34 UTC",
+    "news": [
+        {
+            "source": {
+                "id": null,
+                "name": "BusinessLine"
+            },
+            "author": "M  Ramesh",
+            "title": "The all-seeing AI",
+            "description": "AI deciphers 217-year-old Napoleonic cipher, revealing a wartime letter through handwriting recognition, cryptanalysis, and simulated annealing.",
+            "url": "https://www.thehindubusinessline.com/business-tech/the-all-seeing-ai/article71544863.ece",
+            "urlToImage": "https://bl-i.thgim.com/public/incoming/vq0798/article71544866.ece/alternates/LANDSCAPE_1200/BL0510_Quantum_Wow.jpg",
+            "publishedAt": "2026-10-04T19:30:45Z",
+            "content": "A coded, secret wartime letter. Over two centuries old. It was a hearteningly baffling mystery until AI made light of it.\r\nIt was written and sent by Eug\u00e8ne de Beauharnais, a stepson of Napoleon, to \u2026 [+1488 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Pypi.org"
+            },
+            "author": "boopathi@neuronestai.in",
+            "title": "scopeforge 0.1.1",
+            "description": "ScopeForge \u2014 Commercial-Grade Cybersecurity Multi-Agent Harness & Interactive TUI",
+            "url": "https://pypi.org/project/scopeforge/0.1.1/",
+            "urlToImage": null,
+            "publishedAt": "2026-10-04T19:15:38Z",
+            "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe\u2026 [+12 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Biztoc.com"
+            },
+            "author": "zerohedge.com",
+            "title": "California Attorney General Subpoenas OpenAI In Cybersecurity Inquiry",
+            "description": "California Attorney General Subpoenas OpenAI In Cybersecurity Inquiry\n \nAuthored by Kimberly Hayek via The Epoch Times,\nCalifornia Attorney General Rob Bonta served an investigative subpoena to OpenAI on Wednesday, according to a statement released Thursday.\n\u2026",
+            "url": "https://biztoc.com/x/39b7b0f2c7be185e",
+            "urlToImage": "https://biztoc.com/cdn/39b7b0f2c7be185e_s.webp",
+            "publishedAt": "2026-10-04T19:12:42Z",
+            "content": "California Attorney General Subpoenas OpenAI In Cybersecurity Inquiry\r\nAuthored by Kimberly Hayek via The Epoch Times,California Attorney General Rob Bonta served an investigative subpoena to OpenAI \u2026 [+142 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Researchbuzz.me"
+            },
+            "author": "Tara Calishain",
+            "title": "Bug Bounty Programs, Facebook Data Centers, Microsoft \u201cCommunity Support\u201d, More: ResearchBuzz AI Update, October 4, 2026",
+            "description": "AI PROBLEMS Tom\u2019s Hardware: Google freezes open-source bug bounty program amid flood of invalid AI slop submissions \u2014 product flaw submissions halted until 2027 as maintainers drown in hallucinations. \u201cGoogle has officially [\u2026]",
+            "url": "https://researchbuzz.me/2026/10/04/bug-bounty-programs-facebook-data-centers-microsoft-community-support-more-researchbuzz-ai-update-october-4-2026/",
+            "urlToImage": "https://s0.wp.com/_si/?t=eyJpbWciOiJodHRwczpcL1wvczAud3AuY29tXC9pXC9ibGFuay5qcGciLCJ0eHQiOiJSZXNlYXJjaEJ1enoiLCJ0ZW1wbGF0ZSI6ImhpZ2h3YXkiLCJmb250IjoiIiwiYmxvZ19pZCI6NDMyODc1Nn0.BjdcPIDlw4ZG0Ki13B-quwxnrzAxn9iB5rJXagRMNlcMQ",
+            "publishedAt": "2026-10-04T19:09:47Z",
+            "content": "AI PROBLEMS \r\nTom\u2019s Hardware: Google freezes open-source bug bounty program amid flood of invalid AI slop submissions product flaw submissions halted until 2027 as maintainers drown in hallucinations\u2026 [+7212 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Conversation Africa"
+            },
+            "author": "Milad Haghani, Associate Professor and Principal Fellow in Urban Risk and Resilience, The University of Melbourne",
+            "title": "BYD is reshaping Australia\u2019s car market. How did it get here?",
+            "description": "BYD is suddenly our second-highest selling car brand. Four key factors are behind its rapid ascent.",
+            "url": "https://theconversation.com/byd-is-reshaping-australias-car-market-how-did-it-get-here-292778",
+            "urlToImage": "https://images.theconversation.com/files/763010/original/file-20260930-50-6pehpp.jpg?ixlib=rb-4.1.1&rect=0%2C336%2C2425%2C1212&q=45&auto=format&w=1356&h=668&fit=crop",
+            "publishedAt": "2026-10-04T19:06:55Z",
+            "content": "A ship owned and operated by BYD delivers vehicles to the Melbourne docks in June, 2026. Asanka Ratnayake/Getty Images\r\nSince the Iran-US military conflict began earlier this year, disrupting global \u2026 [+5922 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Kitploit.com"
+            },
+            "author": "Kitploit",
+            "title": "GreeDoS_V2",
+            "description": "A Multi-vector DoS tool for Cybersecurity Red Teamers' .",
+            "url": "https://kitploit.com/en/tools/github/mrechofi/greedos_v2/",
+            "urlToImage": "https://assets.kitploit.com/production/public/tools/56781/d158f48423f5535b32d05c23cb51a5ce9722b0059d596ecb980b9e94a7be8a2a-social-v1.webp",
+            "publishedAt": "2026-10-04T18:54:26Z",
+            "content": "## See the video &amp; listen,\r\n https://github.com/user-attachments/assets/370cb1ce-ab07-418f-af4f-3c210e063436\r\nin this video See the video i'm using fake or dummy IP to show you that my tool is wo\u2026 [+3295 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Jnior.com"
+            },
+            "author": "Bruce Cloutier",
+            "title": "The CISA Alert: Security Beyond Solitary Confinement",
+            "description": "CISA is right to sound the alarm over Internet-exposed operational technology. But must every unwanted connection be answered with more authentication, stronger cryptography, and more processing power? There are remarkably lightweight ways to make malicious a\u2026",
+            "url": "https://jnior.com/the-cisa-alert-security-beyond-solitary-confinement/",
+            "urlToImage": "https://jnior.com/wp-content/uploads/2026/08/ChatGPT-Image-Aug-11-2026-12_49_42-PM.png",
+            "publishedAt": "2026-10-04T18:19:24Z",
+            "content": "Written by Bruce Cloutier on Aug 11, 2026 1:39 pm@bscloutier\r\nSummary: CISA is right to sound the alarm over Internet-exposed operational technology. But must every unwanted connection be answered wi\u2026 [+19912 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Lauren Edmonds",
+            "title": "Lina Khan says AI companies are following the same playbook that got Big Tech into trouble",
+            "description": "Former FTC chair Lina Khan cautioned against AI companies regulating themselves during an interview on ABC's \"This Week.\"",
+            "url": "https://www.businessinsider.com/lina-khan-says-ai-companies-shouldnt-follow-big-tech-playbook-2026-10#article",
+            "urlToImage": "https://i.insider.com/6ac268b6265e3f8e338fa93f?width=1200&format=jpeg",
+            "publishedAt": "2026-10-04T18:03:27Z",
+            "content": "Former Federal Trade Commission Chair Lina Khan said the AI industry shouldn't self-regulate.Alexi J. Rosenfeld/Getty Images\r\n<ul><li>Former FTC chair Lina Khan doesn't believe AI companies can effec\u2026 [+3354 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Pypi.org"
+            },
+            "author": "boopathi@neuronestai.in",
+            "title": "scopeforge added to PyPI",
+            "description": "ScopeForge \u2014 Commercial-Grade Cybersecurity Multi-Agent Harness & Interactive TUI",
+            "url": "https://pypi.org/project/scopeforge/",
+            "urlToImage": null,
+            "publishedAt": "2026-10-04T17:07:02Z",
+            "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe\u2026 [+12 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Pypi.org"
+            },
+            "author": "boopathi@neuronestai.in",
+            "title": "scopeforge 0.1.0",
+            "description": "ScopeForge \u2014 Commercial-Grade Cybersecurity Multi-Agent Harness & Interactive TUI",
+            "url": "https://pypi.org/project/scopeforge/0.1.0/",
+            "urlToImage": null,
+            "publishedAt": "2026-10-04T17:07:02Z",
+            "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe\u2026 [+12 chars]"
+        }
+    ]
 }
