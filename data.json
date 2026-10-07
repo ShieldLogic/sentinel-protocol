@@ -1,6 +1,30 @@
 {
-  "updated": "2026-10-07 18:08:06 UTC",
+  "updated": "2026-10-07 23:55:53 UTC",
   "news": [
+    {
+      "title": "Ransomware recovery CEO charged over secret ransom payments",
+      "description": "[BLEEPINGCOMPUTER] The owner of ransomware remediation company MonsterCloud has been charged with allegedly defrauding ransomware victims by secretly paying their attackers for decryptors while claiming to use proprietary technology to recover encrypted data. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/ransomware-recovery-ceo-charged-over-secret-ransom-payments/",
+      "date": "2026-10-07T23:04:37Z"
+    },
+    {
+      "title": "FBI: Ongoing FortiBleed attacks lock out FortiGate VPN admins",
+      "description": "[BLEEPINGCOMPUTER] The FBI is warning that FortiBleed attacks are still ongoing, targeting exposed Fortinet FortiGate firewalls and SSL VPN gateways and locking out legitimate administrators. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/fbi-ongoing-fortibleed-attacks-lock-out-fortigate-vpn-admins/",
+      "date": "2026-10-07T21:28:54Z"
+    },
+    {
+      "title": "Hackers hijack Google domains after breaching ccTLD registries",
+      "description": "[BLEEPINGCOMPUTER] Hackers obtained unauthorized HTTPS certificates for several Google domains and hijacked domains in the country-code top-level domains (ccTLDs) for Ghana, American Samoa, and Sierra Leone after compromising third-party operators and modifying...",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-hijack-google-domains-after-breaching-cctld-registries/",
+      "date": "2026-10-07T20:50:13Z"
+    },
+    {
+      "title": "Attackers Hijack .gh, .sl, and .as Registries to Obtain Certificates for Google Domains",
+      "description": "[FEEDS] Attackers compromised three country-code top-level domains (ccTLDs) and obtained unauthorized HTTPS certificates for several Google domains, Google&nbsp;said on October 6. Google's own systems were not breached, but any domain ending in .gh (Ghana),...",
+      "url": "https://thehackernews.com/2026/10/attackers-hijack-gh-sl-and-as.html",
+      "date": "2026-10-07T18:48:17Z"
+    },
     {
       "title": "Eight Malicious npm Packages Downloaded 40,767 Times Deliver Overlord RAT and Stealer",
       "description": "[FEEDS] Cybersecurity researchers have disclosed details of a long-running npm supply chain malware campaign that pushes information stealers and remote access trojans (RAT) to compromised hosts. The campaign has been codenamed MALFEX by CloudSEK and...",
@@ -50,28 +74,16 @@
       "date": "2026-10-07T14:01:11Z"
     },
     {
-      "title": "Hackers exploit critical Atlassian flaw after public PoC release",
-      "description": "[BLEEPINGCOMPUTER] A critical vulnerability (CVE-2026-21589) affecting multiple Atlassian product families, including Jira, Confluence, and Bitbucket, is being exploited in attacks that do not require authentication. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-atlassian-flaw-after-public-poc-release/",
-      "date": "2026-10-07T12:49:01Z"
-    },
-    {
       "title": "The Sixth Voice of the CISO Data Shows Cyber Risk Has Moved Inside the Workflow",
       "description": "[FEEDS] The 2026 findings are not just a year-over-year shift. They mark the latest point in a five-year arc where resilience, AI governance, human risk, and board scrutiny are converging inside the systems where work actually happens. For years, the...",
       "url": "https://thehackernews.com/2026/10/the-sixth-voice-of-ciso-data-shows.html",
       "date": "2026-10-07T11:57:05Z"
     },
     {
-      "title": "FBI Warns FortiBleed Remains Active After Amassing 86,644 Fortinet Device Credentials",
-      "description": "[FEEDS] The U.S. Federal Bureau of Investigation (FBI) and Secret Service (USSS) on Tuesday warned that the FortiBleed credential harvesting campaign remains an active threat aimed at internet-facing Fortinet FortiGate firewalls and secure socket layer...",
-      "url": "https://thehackernews.com/2026/10/fbi-warns-fortibleed-remains-active.html",
-      "date": "2026-10-07T11:56:56Z"
-    },
-    {
-      "title": "SonicWall warns of max severity SSRF flaw in SMA1000 gateways",
-      "description": "[BLEEPINGCOMPUTER] SonicWall has released hotfixes to address a maximum-severity server-side request forgery (SSRF) flaw in SMA1000 series appliances. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-max-severity-ssrf-flaw-in-sma1000-gateways/",
-      "date": "2026-10-07T11:37:07Z"
+      "title": "Opsio Sees Rising Demand From Indian Enterprises for NIS2 Compliance Services As EU Cybersecurity Enforcement Gathers Pace",
+      "description": "[THE TRIBUNE] Indian IT service providers, Global Capability Centres and exporters serving European clients are moving early to meet the EU's supply chain and incident reporting obligations Bengaluru, Karnataka, India \u2013 Business Wire India Opsio, the...",
+      "url": "https://www.tribuneindia.com/news/business/opsio-sees-rising-demand-from-indian-enterprises-for-nis2-compliance-services-as-eu-cybersecurity-enforcement-gathers-pace-2-2/",
+      "date": "2026-10-07T11:09:10Z"
     },
     {
       "title": "Apple\u2019s Verified Photography System",
@@ -80,10 +92,40 @@
       "date": "2026-10-07T11:07:36Z"
     },
     {
-      "title": "Musician sent to prison for $10 million streaming fraud using AI bots",
-      "description": "[BLEEPINGCOMPUTER] A North Carolina musician was sentenced to 18 months in prison for collecting more than $10 million in royalties from Spotify, Apple Music, Amazon Music, and YouTube Music in a massive streaming royalty fraud scheme. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/musician-gets-18-months-in-prison-for-10-million-streaming-fraud-using-ai-bots/",
-      "date": "2026-10-07T10:35:15Z"
+      "title": "Exclusive - Leidos CEO Tom Bell: Our Partnership with Trump-Created CISA Protects U.S. from China, Rogue AI Cybersecurity Threats",
+      "description": "[BREITBART NEWS NETWORK] Leidos CEO Tom Bell described how the company works to help the Cybersecurity and Infrastructure Security Agency (CISA) and other federal and private-sector entities protect critical U.S. infrastructure from a growing number of cyber threats during...",
+      "url": "https://www.breitbart.com/national-security/2026/10/07/exclusive-leidos-ceo-tom-bell-our-partnership-with-trump-created-cisa-protects-u-s-from-china-rogue-ai-cybersecurity-threats/",
+      "date": "2026-10-07T10:44:33Z"
+    },
+    {
+      "title": "IMC 2026: PM Modi To Inaugurate 10th India Mobile Congress Tomorrow, With 6G, AI & Satellite Connectivity In Focus",
+      "description": "[FREE PRESS JOURNAL] Prime Minister Narendra Modi will inaugurate the 10th India Mobile Congress at Yashobhoomi, New Delhi, on October 8, with the event running until October 10. Organised by the DoT and COAI, IMC 2026 focuses on 6G, AI-ready networks, semiconductors,...",
+      "url": "https://www.freepressjournal.in/tech/imc-2026-pm-modi-to-inaugurate-10th-india-mobile-congress-tomorrow-with-6g-ai-satellite-connectivity-in-focus",
+      "date": "2026-10-07T10:22:13Z"
+    },
+    {
+      "title": "Is your password safe? Simple ways to secure data",
+      "description": "[SOUTH BEND TRIBUNE] October is Cybersecurity Awareness Month. Learn how to strengthen your passwords and protect your personal data.",
+      "url": "https://www.southbendtribune.com/story/business/2026/10/07/consumer-advocate-how-to-create-stronger-passwords-for-your-accounts/92105616007/",
+      "date": "2026-10-07T09:06:28Z"
+    },
+    {
+      "title": "IMC 2026: India\u2019s biggest telecom event opens today, here\u2019s what to expect",
+      "description": "[FIRSTPOST] India Mobile Congress 2026 opens in New Delhi with the telecom sector looking beyond today\u2019s 5G networks. The four-day gathering will examine 6G, AI, satellite communications and other emerging technologies, while policy discussions are expected to...",
+      "url": "https://www.firstpost.com/tech/imc-2026-indias-biggest-telecom-event-opens-today-heres-what-to-expect-14051108.html",
+      "date": "2026-10-07T08:33:02Z"
+    },
+    {
+      "title": "Jamie Dimon warns Anthropic Mythos sent AI cyber risk up \u201810-fold\u2019",
+      "description": "[THE NEWS INTERNATIONAL] JPMorgan Chase CEO Jamie Dimon has revealed how the Anthropic Mythos model changed the AI cybersecurity risk game in recent months. Speaking in an interview on Bloomberg TV, Dimon warned that...",
+      "url": "https://www.thenews.com.pk/latest/1419010-jamie-dimon-warns-anthropic-mythos-sent-ai-cyber-risk-up-10-fold",
+      "date": "2026-10-07T08:05:00Z"
+    },
+    {
+      "title": "What happens when AI starts fighting cyber threats on its own? Here's how agentic security works",
+      "description": "[THE ECONOMIC TIMES] Artificial intelligence is evolving from assisting cybersecurity to taking on more responsibilities autonomously and efficiently. This shift, termed agentic security, enables AI to identify and investigate threats without waiting for human input. AI...",
+      "url": "https://economictimes.indiatimes.com/industry/services/what-happens-when-ai-starts-fighting-cyber-threats-on-its-own-heres-how-agentic-security-works/articleshow/134759049.cms",
+      "date": "2026-10-07T07:30:00Z"
     },
     {
       "title": "South Korean megachurch data breach exposes up to 850,000 records",
@@ -102,48 +144,6 @@
       "description": "[ANI (ASIAN NEWS INTERNATIONAL)] Bengaluru (Karnataka) [India], October 7: Opsio, the Sweden-headquartered managed cloud, cybersecurity and AI services company, today announced a marked increase in demand for its NIS2 compliance services from organisations in India. The demand is...",
       "url": "https://www.aninews.in/news/business/opsio-sees-rising-demand-from-indian-enterprises-for-nis2-compliance-services-as-eu-cybersecurity-enforcement-gathers-pace20261007102811/",
       "date": "2026-10-07T04:58:11Z"
-    },
-    {
-      "title": "Anthropic opens its most powerful AI models to more security teams",
-      "description": "[FIRSTPOST] Anthropic is expanding its Cyber Verification Program to give vetted cybersecurity professionals access to powerful AI models with fewer safeguards.",
-      "url": "https://www.firstpost.com/tech/anthropic-opens-its-most-powerful-ai-models-to-more-security-teams-14051013.html",
-      "date": "2026-10-07T04:54:39Z"
-    },
-    {
-      "title": "US Market: Software stocks hit 2026 highs as AI disruption fears ease",
-      "description": "[THE ECONOMIC TIMES] US software stocks have reached fresh 2026 highs as stronger earnings expectations and growing adoption of AI ease fears of disruption. Strong results, AI partnerships and rising cybersecurity demand have boosted the sector. Software earnings growth...",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-market-software-stocks-hit-2026-highs-as-ai-disruption-fears-ease/articleshow/134756204.cms",
-      "date": "2026-10-07T04:47:00Z"
-    },
-    {
-      "title": "South Korean megachurches probe suspected AI-linked cyberattacks",
-      "description": "[THE ECONOMIC TIMES] Two South Korean megachurches are investigating suspected cyberattacks that may have exposed the personal data of hundreds of thousands of congregants, with evidence suggesting AI tools may have been used in the attacks, according to the churches...",
-      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/south-korean-megachurches-probe-suspected-ai-linked-cyberattacks/articleshow/134756283.cms",
-      "date": "2026-10-07T04:46:59Z"
-    },
-    {
-      "title": "Jamie Dimon: Anthropic's Mythos Supercharged AI Cybersecurity Risks",
-      "description": "[BUSINESS INSIDER] Frontier AI developers are facing heightened scrutiny over the safety of their most advanced models.",
-      "url": "https://www.businessinsider.com/jamie-dimon-anthropics-mythos-supercharged-ai-cybersecurity-risks-2026-10",
-      "date": "2026-10-07T04:30:37Z"
-    },
-    {
-      "title": "Cybersecurity careers boom in India: Jobseeker interest jumps up to 225%",
-      "description": "[BUSINESS STANDARD] Information Security, Cloud Security and NIST Standards emerge as top skills in Indeed's cybersecurity job postings in India~",
-      "url": "https://www.business-standard.com/finance/personal-finance/cybersecurity-careers-boom-in-india-jobseeker-interest-jumps-up-to-225-126100700206_1.html",
-      "date": "2026-10-07T04:24:26Z"
-    },
-    {
-      "title": "Anthropic opens its most powerful AI models to more security teams",
-      "description": "[THE HINDU] Anthropic is expanding a programme that allows vetted cybersecurity professionals to test its most powerful AI \u200bmodels with fewer safeguards",
-      "url": "https://www.thehindu.com/sci-tech/technology/anthropic-opens-its-most-powerful-ai-models-to-more-security-teams/article71554169.ece",
-      "date": "2026-10-07T04:09:13Z"
-    },
-    {
-      "title": "South Korean megachurches probe suspected AI-linked cyberattacks",
-      "description": "[THE STRAITS TIMES] SEOUL, Oct 7 - Two South Korean megachurches are investigating suspected cyberattacks that may have exposed the personal data of hundreds of thousands of congregants, with evidence suggesting AI tools may have been used in the attacks, according to...",
-      "url": "https://www.straitstimes.com/asia/south-korean-megachurches-probe-suspected-ai-linked-cyberattacks",
-      "date": "2026-10-07T03:09:10Z"
     },
     {
       "title": "ISC Stormcast For Wednesday, October 7th, 2026 https://isc.sans.edu/podcastdetail/10126, (Wed, Oct 7th)",
