@@ -1,209 +1,137 @@
 {
-  "updated": "2026-10-09 16:42:21 UTC",
-  "news": [
-    {
-      "title": "P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Data Theft and Remote Commands",
-      "description": "[FEEDS] Cybersecurity researchers have disclosed details of a previously unseen variant of the DarkSword iOS exploit kit called P7 DarkSword. \"Compared with the variants we usually observe, P7 reduces its on-device footprint, adds on-device keychain and...",
-      "url": "https://thehackernews.com/2026/10/p7-darksword-ios-exploit-kit-adds.html",
-      "date": "2026-10-09T16:29:55Z"
-    },
-    {
-      "title": "Germany arrests alleged core Qilin ransomware member after extradition",
-      "description": "[BLEEPINGCOMPUTER] Germany has arrested a Russian national suspected of being a leading member of the Qilin ransomware group following extradition from Japan earlier this month. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/germany-arrests-alleged-core-qilin-ransomware-member-after-extradition/",
-      "date": "2026-10-09T15:38:56Z"
-    },
-    {
-      "title": "How to keep AI agents within their permissions",
-      "description": "[BLEEPINGCOMPUTER] AI agents can use valid credentials to perform actions beyond their assigned permissions, creating risks that traditional access controls may not prevent. Token Security explains how organizations can enforce agent-specific policies without...",
-      "url": "https://www.bleepingcomputer.com/news/security/how-to-keep-ai-agents-within-their-permissions/",
-      "date": "2026-10-09T14:01:11Z"
-    },
-    {
-      "title": "TP-Link Sued by Four More U.S. States Over Router Security and China Ties",
-      "description": "[FEEDS] Four more U.S. states sued router maker TP-Link Systems on October 6, bringing the total to five, with &nbsp;Texas filing a suit in February. Florida, Iowa, Montana and Nebraska allege the California company misled buyers about how secure its...",
-      "url": "https://thehackernews.com/2026/10/tp-link-sued-by-four-more-us-states.html",
-      "date": "2026-10-09T13:22:53Z"
-    },
-    {
-      "title": "Researchers Publish Working Exploit for Pre-Auth AnyDesk Linux Flaw That Gives Root Access",
-      "description": "[FEEDS] Security researchers have&nbsp;published a full working exploit&nbsp;for a pre-authentication remote code execution flaw in AnyDesk Linux that gives attackers root access before anyone approves the connection. AnyDesk patched the flaw in version...",
-      "url": "https://thehackernews.com/2026/10/researchers-publish-working-exploit-for.html",
-      "date": "2026-10-09T12:59:22Z"
-    },
-    {
-      "title": "Anthropic Launches Free AI Vulnerability Scanner for Open-Source Projects",
-      "description": "[FEEDS] Anthropic on Thursday unveiled OSS Scanner as an opt-in vulnerability scanner to help secure the open-source ecosystem using artificial intelligence (AI). \"It's an opt-in service informed by our experience using Claude to find vulnerabilities during...",
-      "url": "https://thehackernews.com/2026/10/anthropic-launches-free-ai.html",
-      "date": "2026-10-09T12:47:28Z"
-    },
-    {
-      "title": "Attackers Exploit AhsayCBS Flaws to Deploy XMRig Miners Disguised as Microsoft Edge",
-      "description": "[FEEDS] Threat actors have been observed exploiting two recently disclosed flaws in the AhsayCBS backup utility to seize control of affected devices and deploy web shells and XMRig cryptocurrency miners. Details of the flaws are below - CVE-2026-105133...",
-      "url": "https://thehackernews.com/2026/10/attackers-exploit-ahsaycbs-flaws-to.html",
-      "date": "2026-10-09T12:47:26Z"
-    },
-    {
-      "title": "Max severity SonicWall SMA1000 flaw now exploited in attacks",
-      "description": "[BLEEPINGCOMPUTER] Attackers are exploiting a maximum-severity vulnerability in SonicWall SMA1000 appliances (CVE-2026-102255) that was patched on Tuesday, three days ago. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/max-severity-sonicwall-sma1000-flaw-now-exploited-in-attacks/",
-      "date": "2026-10-09T12:32:16Z"
-    },
-    {
-      "title": "Flax Typhoon Exploits Five Flaws as CISA Sets October 11 Deadline for Federal Agencies",
-      "description": "[FEEDS] The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added five security flaws to its Known Exploited Vulnerabilities (KEV) catalog, following their abuse by a China-linked threat actor known as Flax Typhoon. The...",
-      "url": "https://thehackernews.com/2026/10/flax-typhoon-exploits-five-flaws-as.html",
-      "date": "2026-10-09T12:21:51Z"
-    },
-    {
-      "title": "Man admits to running network of 15,000 money mules for cybercriminals",
-      "description": "[BLEEPINGCOMPUTER] \u200bA Ukrainian-Russian dual citizen has pleaded guilty to running a massive money laundering operation that laundered millions for cybercriminals worldwide. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/ukrainian-russian-dual-citizen-admits-to-laundering-millions-for-cybercriminals/",
-      "date": "2026-10-09T11:14:28Z"
-    },
-    {
-      "title": "Microsoft: Outdated Windows devices will stop receiving security updates",
-      "description": "[BLEEPINGCOMPUTER] Microsoft says devices running unsupported versions of Windows will stop receiving security updates after next year's Windows Update certificate rotation. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-outdated-windows-devices-will-lose-security-protection-next-year/",
-      "date": "2026-10-09T10:12:24Z"
-    },
-    {
-      "title": "Citrix warns admins to patch new NetScaler RCE flaw immediately",
-      "description": "[BLEEPINGCOMPUTER] Citrix has warned IT administrators to patch systems immediately against a new critical vulnerability affecting NetScaler ADC networking appliances and NetScaler Gateway secure remote access solutions. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/citrix-warns-admins-to-patch-new-netscaler-rce-flaw-immediately/",
-      "date": "2026-10-09T08:27:42Z"
-    },
-    {
-      "title": "ISC Stormcast For Friday, October 9th, 2026 https://isc.sans.edu/podcastdetail/10130, (Fri, Oct 9th)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33412",
-      "date": "2026-10-09T07:52:03Z"
-    },
-    {
-      "title": "South Korea, Japan buffeted by hacks as AI lowers bar for cybercriminals",
-      "description": "[REUTERS] South Korean and Japanese companies are racing to \u200bstrengthen cyber defences after a wave of attacks that cybersecurity experts say are highlighting how AI may be lowering the bar for criminals \u200cwith limited technical skills.",
-      "url": "https://www.reuters.com/legal/litigation/south-korea-japan-buffeted-by-hacks-ai-lowers-bar-cybercriminals-2026-10-09/",
-      "date": "2026-10-09T04:24:03Z"
-    },
-    {
-      "title": "South Korea, Japan buffeted by hacks as AI lowers bar for cybercriminals",
-      "description": "[MARKETSCREENER] South Korean and Japanese companies are racing to strengthen cyber defences after a wave of attacks that cybersecurity experts say are highlighting how AI may be lowering the bar for criminals with...",
-      "url": "https://www.marketscreener.com/news/south-korea-japan-buffeted-by-hacks-as-ai-lowers-bar-for-cybercriminals-ce785ddfdf8cf02d",
-      "date": "2026-10-09T04:20:39Z"
-    },
-    {
-      "title": "ARTEX AI agent: Chinese developer makes ARTEX AI agent closed",
-      "description": "[THE ECONOMIC TIMES] The Chinese developer of ARTEX said they have converted the AI agent to a closed-source project after cybersecurity firms identified it as a tool used in a recent cyberattack campaign against South Korean banks.",
-      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/chinese-developer-makes-artex-ai-agent-closed-source-after-korean-bank-hack/articleshow/134806267.cms",
-      "date": "2026-10-09T03:59:13Z"
-    },
-    {
-      "title": "Technology showcase helps local businesses protect data, boost online visibility",
-      "description": "[EUROPE SAYS] OHIO COUNTY, W.Va. \u2014 Business owners in Wheeling got a chance Thursday to learn how to keep up with rapidly changing technology, including cybersecurity and",
-      "url": "https://www.europesays.com/3299526/",
-      "date": "2026-10-09T03:48:18Z"
-    },
-    {
-      "title": "Chinese developer makes ARTEX AI agent closed-source after Korean bank hack",
-      "description": "[THE HINDU] ARTEX said they have converted the AI \u200bagent to a closed-source project after cybersecurity firms identified it \u200cas a tool used in a recent cyberattack \u200bcampaign against South Korean banks.",
-      "url": "https://www.thehindu.com/sci-tech/technology/chinese-developer-makes-artex-ai-agent-closed-source-after-korean-bank-hack/article71562469.ece",
-      "date": "2026-10-09T03:36:07Z"
-    },
-    {
-      "title": "How to prevent the next Asos? Give businesses cybersecurity tax relief",
-      "description": "[CITY A.M.] With Asos just the latest to be the victim of a cyber hack, it's time for the UK to start incentivising businesses to up their security.",
-      "url": "https://www.cityam.com/how-to-prevent-the-next-asos-give-businesses-cybersecurity-tax-relief/",
-      "date": "2026-10-09T03:31:00Z"
-    },
-    {
-      "title": "Chinese developer makes ARTEX AI agent closed-source after Korean bank hack",
-      "description": "[REUTERS] The Chinese developer of ARTEX said they have converted the AI agent to a closed-source project after cybersecurity firms identified \u200bit as a tool used in a recent cyberattack campaign against South \u200cKorean banks.",
-      "url": "https://www.reuters.com/world/china/chinese-developer-makes-artex-ai-agent-closed-source-after-korean-bank-hack-2026-10-09/",
-      "date": "2026-10-09T01:56:07Z"
-    },
-    {
-      "title": "Chinese developer makes ARTEX AI agent closed-source after Korean bank hack",
-      "description": "[MARKETSCREENER] The Chinese developer of ARTEX said they have converted the AI agent to a closed-source project after cybersecurity firms identified it as a tool used in a recent cyberattack campaign against South...",
-      "url": "https://www.marketscreener.com/news/chinese-developer-makes-artex-ai-agent-closed-source-after-korean-bank-hack-ce785ddfdf8bf223",
-      "date": "2026-10-09T01:53:27Z"
-    },
-    {
-      "title": "India overhauls medical device safety rules, expands digital surveillance",
-      "description": "[LIVEMINT] New guidelines widen monitoring of AI-enabled devices, software glitches and cybersecurity risks while extending reporting to primary health centres.",
-      "url": "https://www.livemint.com/industry/manufacturing/india-overhauls-medical-device-safety-rules-expands-digital-surveillance-11791448584903.html",
-      "date": "2026-10-09T00:30:30Z"
-    },
-    {
-      "title": "Lawmakers eye more federal action on AI standards, security, disclosures",
-      "description": "[EUROPE SAYS] Lawmakers appear keen on agencies such as CISA and NIST taking more leading roles in evaluating AI security risks and setting safety standards.",
-      "url": "https://www.europesays.com/3299203/",
-      "date": "2026-10-09T00:27:22Z"
-    },
-    {
-      "title": "Reconstructing AI Agent Activity: Two New Scripts for Forensic Review, (Thu, Oct 8th)",
-      "description": "[ISC] We just did a major update to FOR577 and added a lot of new material on day 5 about investigating AI usage in incident response. In the new material we dicsuss 8&&#x23&#x3b;x26&#x3b;&#x23&#x3b;xc2&#x3b;&&#x23&#x3b;x26&#x3b;&#x23&#x3b;xa0&#x3b;of the...",
-      "url": "https://isc.sans.edu/diary/rss/33410",
-      "date": "2026-10-08T16:52:53Z"
-    },
-    {
-      "title": "How Technology Empowers\u2014and Imperils\u2014Dictators",
-      "description": "[SCHNEIER] This essay was written with Seva Gunitsky, and originally appeared in Foreign Affairs. Two weeks after Moscow&#8217;s full-scale invasion of Ukraine in March 2022, the Russian TV Channel One editor Marina Ovsyannikova burst onto the set of the...",
-      "url": "https://www.schneier.com/blog/archives/2026/10/how-technology-empowers-and-imperils-dictators.html",
-      "date": "2026-10-08T11:07:35Z"
-    },
-    {
-      "title": "ISC Stormcast For Thursday, October 8th, 2026 https://isc.sans.edu/podcastdetail/10128, (Thu, Oct 8th)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33408",
-      "date": "2026-10-08T02:00:02Z"
-    },
-    {
-      "title": "Scans for Atlassian vulnerablity (CVE-2026-21589), (Wed, Oct 7th)",
-      "description": "[ISC] On October 5th, Atlassian published patches&&#x23&#x3b;x26&#x3b;&#x23&#x3b;xc2&#x3b;&&#x23&#x3b;x26&#x3b;&#x23&#x3b;xa0&#x3b;for multiple products to fix an \"Arbitrary File Access\" vulnerability...",
-      "url": "https://isc.sans.edu/diary/rss/33406",
-      "date": "2026-10-07T14:59:33Z"
-    },
-    {
-      "title": "Apple\u2019s Verified Photography System",
-      "description": "[SCHNEIER] Apple just released a system called &#8220;Reference Image.&#8221; It can verify the image is exactly as taken by an iPhone&#8212;new models only&#8212;without tying it to a specific iPhone or photographer. It can also verify that multiple images...",
-      "url": "https://www.schneier.com/blog/archives/2026/10/apples-verified-photography-system.html",
-      "date": "2026-10-07T11:07:36Z"
-    },
-    {
-      "title": "ISC Stormcast For Wednesday, October 7th, 2026 https://isc.sans.edu/podcastdetail/10126, (Wed, Oct 7th)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33404",
-      "date": "2026-10-07T02:00:02Z"
-    },
-    {
-      "title": "More RMM Tools In the Wild, (Tue, Oct 6th)",
-      "description": "[ISC] It seems that a trend started&#x26;#xe2;&#x26;#x80;&#x26;#xa6; I continue my journey discovering more RMM (\"Remote Management &#x26; Monitoring\") tools abused by threat actors&#x21; A few days ago, I wrote a diary&#x5b;1&#x5d; about ScreenConnect...",
-      "url": "https://isc.sans.edu/diary/rss/33400",
-      "date": "2026-10-06T13:16:02Z"
-    },
-    {
-      "title": "Possible Vulnerability in Apple\u2019s Automatic Reboot",
-      "description": "[SCHNEIER] 404Media is reporting (alternate link) that a cyber-weapons arms manufacturer is exploiting a vulnerability in iOS to bypass its automatic reboot security feature. This is the feature that automatically puts an iPhone into a more secure state if it...",
-      "url": "https://www.schneier.com/blog/archives/2026/10/possible-vulnerability-in-apples-automatic-reboot.html",
-      "date": "2026-10-06T11:06:46Z"
-    },
-    {
-      "title": "Another Historic Cipher Falls to AI",
-      "description": "[SCHNEIER] This one is from 1809, written by Napoleon&#8217;s nephew.",
-      "url": "https://www.schneier.com/blog/archives/2026/10/another-historic-cipher-falls-to-ai.html",
-      "date": "2026-10-05T11:04:47Z"
-    },
-    {
-      "title": "Friday Squid Blogging: EU is Trying to Fight Unregulated Squid Fishing",
-      "description": "[SCHNEIER] The EU is recommending import controls to combat unregulated squid fishing in the Southwest Atlantic. I&#8217;m not optimistic. As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered....",
-      "url": "https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-eu-is-trying-to-fight-unregulated-squid-fishing.html",
-      "date": "2026-10-02T21:02:18Z"
-    },
-    {
-      "title": "Unidentified Flock Cameras in Florida",
-      "description": "[SCHNEIER] St. Lucie County in Florida discovered (alt link) a dozen Flock cameras whose ownership it can&#8217;t identify, and that the county government had not permitted. I am reminded of the decade-old story of StingRay cell phone surveillance devices in...",
-      "url": "https://www.schneier.com/blog/archives/2026/10/unidentified-flock-cameras-in-florida.html",
-      "date": "2026-10-02T14:52:46Z"
-    }
-  ]
+    "title": "Sentinel Protocol",
+    "tagline": "Perimeter Intelligence Sync",
+    "updated": "2026-10-09 17:16 UTC",
+    "news": [
+        {
+            "source": {
+                "id": null,
+                "name": "Foreign Policy"
+            },
+            "author": "Daniel S. Hamilton and Angela Stent",
+            "title": "America\u2019s Best Answer to the China-Russia Alliance",
+            "description": "Washington can exploit friction, strengthen allies, and make the axis harder to sustain.",
+            "url": "http://foreignpolicy.com/2026/10/08/russia-china-alliance-united-states-xi-putin/",
+            "urlToImage": "https://foreignpolicy.com/wp-content/uploads/2026/10/China-Russia-GettyImages-492505665.png",
+            "publishedAt": "2026-10-08T17:13:51Z",
+            "content": "When Chinese President Xi Jinping enjoyed an elaborate state dinner at the White House in September, one of the most important itemsChinas relations with Russiawas not on the menu. It was an odd omis\u2026 [+16159 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PRNewswire"
+            },
+            "author": null,
+            "title": "MERCURY GENERAL CORPORATION TO REPORT THIRD QUARTER RESULTS ON NOVEMBER 3, 2026",
+            "description": "LOS ANGELES, Oct. 8, 2026 /PRNewswire/ -- Mercury General Corporation (NYSE: MCY) reported today that after the markets close on Tuesday, November 3, 2026, the Company will issue an earnings press release reporting its results for the third quarter of 2026, a\u2026",
+            "url": "https://www.prnewswire.com/news-releases/mercury-general-corporation-to-report-third-quarter-results-on-november-3-2026-302902778.html",
+            "urlToImage": "https://mmx.prnewswire.com/media/MS253651/Mercury-General-Corporation-Logo.jpg?id=OA2995424&p=facebook",
+            "publishedAt": "2026-10-08T17:12:00Z",
+            "content": "LOS ANGELES, Oct. 8, 2026 /PRNewswire/ -- Mercury General Corporation (NYSE: MCY) reported today that after the markets close on Tuesday, November 3, 2026, the Company will issue an earnings press re\u2026 [+3382 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Conversation Africa"
+            },
+            "author": "Hamed Kazemzadeh, Adjunct Assistant Professor, Peace and Conflict, University of Calgary; L\u2019Universit\u00e9 d\u2019Ottawa/University of Ottawa",
+            "title": "Canada\u2019s settlement services are going digital. AI should support workers, not replace them",
+            "description": "AI can improve access to settlement services in Canada, but human expertise must remain central to complex, legal and sensitive newcomer needs.",
+            "url": "https://theconversation.com/canadas-settlement-services-are-going-digital-ai-should-support-workers-not-replace-them-291942",
+            "urlToImage": "https://images.theconversation.com/files/764744/original/file-20261007-50-e8mp0e.jpg?ixlib=rb-4.1.1&rect=0%2C4%2C2400%2C1200&q=45&auto=format&w=1356&h=668&fit=crop",
+            "publishedAt": "2026-10-08T17:06:34Z",
+            "content": "A well-designed AI system could help newcomers find English or French classes, employment workshops, food banks, legal clinics, housing information or community events. (Unsplash/John Lockwood)\r\nArti\u2026 [+6797 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PCMag.com"
+            },
+            "author": "George Yang",
+            "title": "These Post-Prime Day Mesh and Router Deals Will Get You Connected to Some Serious Savings",
+            "description": "We all need an internet connection, but you should also get a fast and stable one too! Amazon's Big Deal Days is over now, but we've got some great mesh and router sales still available for you.\nAmazon had another huge sales event this season with Prime Big D\u2026",
+            "url": "https://uk.pcmag.com/wireless-routers/167817/these-post-prime-day-mesh-and-router-deals-will-get-you-connected-to-some-serious-savings",
+            "urlToImage": "https://sm.pcmag.com/t/pcmag_uk/news/t/these-post/these-post-prime-day-mesh-and-router-deals-will-get-you-conn_w7cz.1200.png",
+            "publishedAt": "2026-10-08T17:04:41Z",
+            "content": "Amazon had another huge sales event this season with Prime Big Deal Days! While it's over now, there are still some fantastic discounts on mesh brands and routers from TP-Link, Asus, and Deco that he\u2026 [+5538 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "SiliconANGLE News"
+            },
+            "author": "Jonathan Anthony",
+            "title": "Liquid AI builds personal AI around device-level context",
+            "description": "On-device personal AI requires models and agent software that can operate within fixed hardware limits. Developers also need ways to keep those systems improving after deployment. Model builders are rethinking architectures designed around elastic cloud capac\u2026",
+            "url": "https://siliconangle.com/2026/10/08/liquid-ai-builds-personal-ai-around-device-level-context-fullyconnected/",
+            "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/IMG_1326-scaled.jpg",
+            "publishedAt": "2026-10-08T17:03:44Z",
+            "content": "On-device personal AI requires models and agent software that can operate within fixed hardware limits. Developers also need ways to keep those systems improving after deployment.\r\nModel builders are\u2026 [+3879 chars]"
+        },
+        {
+            "source": {
+                "id": "cbc-news",
+                "name": "CBC News"
+            },
+            "author": "Darren Bernhardt",
+            "title": "Canadian Mennonite University warns of data breach in cyberattack",
+            "description": "A cyberattack at the Canadian Mennonite University has exposed personal information,  including social insurance numbers, of students and staff across a 10-year span,.",
+            "url": "https://www.cbc.ca/news/canada/manitoba/cyber-hack-canadian-mennonite-university-9.7373948",
+            "urlToImage": "https://i.cbc.ca/ais/f8c6ece1-5a9c-4bd9-bbc3-9e1ac8719eec,1791472947822/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C68%2C814%2C457%29%3BResize%3D620",
+            "publishedAt": "2026-10-08T17:03:33Z",
+            "content": "A cyberattack at the Canadian Mennonite University has exposed personal information, including social insurance numbers, of students and staff across a 10-year span.\r\n\"An unwarranted third party with\u2026 [+2982 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Github.blog"
+            },
+            "author": "Shilpa Kumari",
+            "title": "How one bug bounty researcher chooses the features they investigate",
+            "description": "As we kick off Cybersecurity Awareness Month, the GitHub Bug Bounty team spotlights @vaib25vicky, exploring their methodology, techniques, and experiences hacking on GitHub.\nThe post How one bug bounty researcher chooses the features they investigate appeared\u2026",
+            "url": "https://github.blog/security/how-one-bug-bounty-researcher-chooses-the-features-they-investigate/",
+            "urlToImage": "https://github.blog/wp-content/uploads/2021/06/GitHub-Bug-Bounty_for-social.png",
+            "publishedAt": "2026-10-08T17:02:57Z",
+            "content": "<!DOCTYPE html PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\" \"http://www.w3.org/TR/REC-html40/loose.dtd\">\nAs we kick off Cybersecurity Awareness Month, the GitHub Bug Bounty team is excited to spotl\u2026 [+6086 chars]"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "ANI",
+            "title": "India's semiconductor push, agentic AI set to reshape telecom and connected devices: Industry leaders",
+            "description": "India's semiconductor ambitions and the rapid adoption of agentic artificial intelligence (AI) are set to reshape the country's technology and telecom ecosystem, with industry leaders seeing opportunities across chip design, domestic manufacturing, autonomous\u2026",
+            "url": "https://economictimes.indiatimes.com/tech/technology/indias-semiconductor-push-agentic-ai-set-to-reshape-telecom-and-connected-devices-industry-leaders/articleshow/134795824.cms",
+            "urlToImage": "https://img.etimg.com/photo/42031747.cms",
+            "publishedAt": "2026-10-08T16:38:36Z",
+            "content": "India's semiconductor ambitions and the rapid adoption of agentic artificial intelligence (AI) are set to reshape the country's technology and telecom ecosystem, with industry leaders seeing opportun\u2026 [+3031 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BusinessLine"
+            },
+            "author": "Vallari Sanzgiri",
+            "title": "TCS trumps Q2 estimates on global, AI-led growth; Net profit jumps 15% to \u20b913,884 crore",
+            "description": "TCS beats Q2 targets on AI-led growth, 14.9% profit rise to \u20b913,884 crore, 11% revenue, with international wins but India falls 10.3%.",
+            "url": "https://www.thehindubusinessline.com/info-tech/tcs-trumps-q2-estimates-on-global-ai-led-growth-net-profit-jumps-15-to-13884-crore/article71561029.ece",
+            "urlToImage": "https://bl-i.thgim.com/public/incoming/7mvu5f/article71561115.ece/alternates/LANDSCAPE_1200/2026-10-07T112423Z_995068433_RC2NF5AP5X94_RTRMADP_3_TCS-RESULTS.JPG",
+            "publishedAt": "2026-10-08T16:29:48Z",
+            "content": "Tata Consultancy Services (TCS) reported a steady set of Q2 FY27 numbers on Thursday, aided by growth in international markets and a rising contribution from AI-led engagements.\r\nThe Tier-1 IT compan\u2026 [+3128 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Jezebel"
+            },
+            "author": "Jim Vorel",
+            "title": "Tina Peters Visited the White House, and Now Her Attorney Keeps Talking About Seizing Ballots and \u201cCivil War\u201d",
+            "description": "Convicted felon Tina Peters met with convicted felon Donald Trump, and then her attorney started gabbing about seized ballots and civil war.",
+            "url": "https://www.jezebel.com/tina-peters-white-house-visit-midterm-election-trump-plans-seizing-ballots-civil-war-seating-democrats-constitutional-crisis",
+            "urlToImage": "https://img.pastemagazine.com/wp-content/juploads/2026/10/tina-peters-colorado-civil-war-main.jpg",
+            "publishedAt": "2026-10-08T16:11:23Z",
+            "content": "How much credence should one give a report, in this kind of political environment, that an ally of the President of the United States has recently been in the Oval Office, recommending draconian vote\u2026 [+8635 chars]"
+        }
+    ]
 }
