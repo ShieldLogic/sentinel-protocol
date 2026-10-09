@@ -1,6 +1,78 @@
 {
-  "updated": "2026-10-09 08:10:21 UTC",
+  "updated": "2026-10-09 16:42:21 UTC",
   "news": [
+    {
+      "title": "P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Data Theft and Remote Commands",
+      "description": "[FEEDS] Cybersecurity researchers have disclosed details of a previously unseen variant of the DarkSword iOS exploit kit called P7 DarkSword. \"Compared with the variants we usually observe, P7 reduces its on-device footprint, adds on-device keychain and...",
+      "url": "https://thehackernews.com/2026/10/p7-darksword-ios-exploit-kit-adds.html",
+      "date": "2026-10-09T16:29:55Z"
+    },
+    {
+      "title": "Germany arrests alleged core Qilin ransomware member after extradition",
+      "description": "[BLEEPINGCOMPUTER] Germany has arrested a Russian national suspected of being a leading member of the Qilin ransomware group following extradition from Japan earlier this month. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/germany-arrests-alleged-core-qilin-ransomware-member-after-extradition/",
+      "date": "2026-10-09T15:38:56Z"
+    },
+    {
+      "title": "How to keep AI agents within their permissions",
+      "description": "[BLEEPINGCOMPUTER] AI agents can use valid credentials to perform actions beyond their assigned permissions, creating risks that traditional access controls may not prevent. Token Security explains how organizations can enforce agent-specific policies without...",
+      "url": "https://www.bleepingcomputer.com/news/security/how-to-keep-ai-agents-within-their-permissions/",
+      "date": "2026-10-09T14:01:11Z"
+    },
+    {
+      "title": "TP-Link Sued by Four More U.S. States Over Router Security and China Ties",
+      "description": "[FEEDS] Four more U.S. states sued router maker TP-Link Systems on October 6, bringing the total to five, with &nbsp;Texas filing a suit in February. Florida, Iowa, Montana and Nebraska allege the California company misled buyers about how secure its...",
+      "url": "https://thehackernews.com/2026/10/tp-link-sued-by-four-more-us-states.html",
+      "date": "2026-10-09T13:22:53Z"
+    },
+    {
+      "title": "Researchers Publish Working Exploit for Pre-Auth AnyDesk Linux Flaw That Gives Root Access",
+      "description": "[FEEDS] Security researchers have&nbsp;published a full working exploit&nbsp;for a pre-authentication remote code execution flaw in AnyDesk Linux that gives attackers root access before anyone approves the connection. AnyDesk patched the flaw in version...",
+      "url": "https://thehackernews.com/2026/10/researchers-publish-working-exploit-for.html",
+      "date": "2026-10-09T12:59:22Z"
+    },
+    {
+      "title": "Anthropic Launches Free AI Vulnerability Scanner for Open-Source Projects",
+      "description": "[FEEDS] Anthropic on Thursday unveiled OSS Scanner as an opt-in vulnerability scanner to help secure the open-source ecosystem using artificial intelligence (AI). \"It's an opt-in service informed by our experience using Claude to find vulnerabilities during...",
+      "url": "https://thehackernews.com/2026/10/anthropic-launches-free-ai.html",
+      "date": "2026-10-09T12:47:28Z"
+    },
+    {
+      "title": "Attackers Exploit AhsayCBS Flaws to Deploy XMRig Miners Disguised as Microsoft Edge",
+      "description": "[FEEDS] Threat actors have been observed exploiting two recently disclosed flaws in the AhsayCBS backup utility to seize control of affected devices and deploy web shells and XMRig cryptocurrency miners. Details of the flaws are below - CVE-2026-105133...",
+      "url": "https://thehackernews.com/2026/10/attackers-exploit-ahsaycbs-flaws-to.html",
+      "date": "2026-10-09T12:47:26Z"
+    },
+    {
+      "title": "Max severity SonicWall SMA1000 flaw now exploited in attacks",
+      "description": "[BLEEPINGCOMPUTER] Attackers are exploiting a maximum-severity vulnerability in SonicWall SMA1000 appliances (CVE-2026-102255) that was patched on Tuesday, three days ago. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/max-severity-sonicwall-sma1000-flaw-now-exploited-in-attacks/",
+      "date": "2026-10-09T12:32:16Z"
+    },
+    {
+      "title": "Flax Typhoon Exploits Five Flaws as CISA Sets October 11 Deadline for Federal Agencies",
+      "description": "[FEEDS] The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added five security flaws to its Known Exploited Vulnerabilities (KEV) catalog, following their abuse by a China-linked threat actor known as Flax Typhoon. The...",
+      "url": "https://thehackernews.com/2026/10/flax-typhoon-exploits-five-flaws-as.html",
+      "date": "2026-10-09T12:21:51Z"
+    },
+    {
+      "title": "Man admits to running network of 15,000 money mules for cybercriminals",
+      "description": "[BLEEPINGCOMPUTER] \u200bA Ukrainian-Russian dual citizen has pleaded guilty to running a massive money laundering operation that laundered millions for cybercriminals worldwide. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/ukrainian-russian-dual-citizen-admits-to-laundering-millions-for-cybercriminals/",
+      "date": "2026-10-09T11:14:28Z"
+    },
+    {
+      "title": "Microsoft: Outdated Windows devices will stop receiving security updates",
+      "description": "[BLEEPINGCOMPUTER] Microsoft says devices running unsupported versions of Windows will stop receiving security updates after next year's Windows Update certificate rotation. [...]",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-outdated-windows-devices-will-lose-security-protection-next-year/",
+      "date": "2026-10-09T10:12:24Z"
+    },
+    {
+      "title": "Citrix warns admins to patch new NetScaler RCE flaw immediately",
+      "description": "[BLEEPINGCOMPUTER] Citrix has warned IT administrators to patch systems immediately against a new critical vulnerability affecting NetScaler ADC networking appliances and NetScaler Gateway secure remote access solutions. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/citrix-warns-admins-to-patch-new-netscaler-rce-flaw-immediately/",
+      "date": "2026-10-09T08:27:42Z"
+    },
     {
       "title": "ISC Stormcast For Friday, October 9th, 2026 https://isc.sans.edu/podcastdetail/10130, (Fri, Oct 9th)",
       "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
@@ -8,136 +80,70 @@
       "date": "2026-10-09T07:52:03Z"
     },
     {
-      "title": "FBI Seizes 7 Domains, Disrupts Flax Typhoon Tools Used in Critical Infrastructure Intrusions",
-      "description": "[FEEDS] The U.S. Federal Bureau of Investigation (FBI) and Department of Justice (DoJ) have announced the disruption of malicious tools used by a China-linked advanced persistent threat group known as Flax Typhoon. To that end, the agencies seized several...",
-      "url": "https://thehackernews.com/2026/10/fbi-seizes-7-domains-disrupts-flax.html",
-      "date": "2026-10-09T06:39:29Z"
+      "title": "South Korea, Japan buffeted by hacks as AI lowers bar for cybercriminals",
+      "description": "[REUTERS] South Korean and Japanese companies are racing to \u200bstrengthen cyber defences after a wave of attacks that cybersecurity experts say are highlighting how AI may be lowering the bar for criminals \u200cwith limited technical skills.",
+      "url": "https://www.reuters.com/legal/litigation/south-korea-japan-buffeted-by-hacks-ai-lowers-bar-cybercriminals-2026-10-09/",
+      "date": "2026-10-09T04:24:03Z"
     },
     {
-      "title": "Hackers get $1,262,000 for 98 zero-days at Pwn2Own Ireland",
-      "description": "[BLEEPINGCOMPUTER] The Pwn2Own Ireland 2026 hacking contest has concluded, with hackers collecting $1,262,000 in rewards after exploiting 98 zero-day flaws. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-earn-1262000-for-98-zero-days-at-pwn2own-ireland/",
-      "date": "2026-10-09T05:41:04Z"
+      "title": "South Korea, Japan buffeted by hacks as AI lowers bar for cybercriminals",
+      "description": "[MARKETSCREENER] South Korean and Japanese companies are racing to strengthen cyber defences after a wave of attacks that cybersecurity experts say are highlighting how AI may be lowering the bar for criminals with...",
+      "url": "https://www.marketscreener.com/news/south-korea-japan-buffeted-by-hacks-as-ai-lowers-bar-for-cybercriminals-ce785ddfdf8cf02d",
+      "date": "2026-10-09T04:20:39Z"
     },
     {
-      "title": "FBI disrupts Chinese hacking tools used to breach critical infrastructure",
-      "description": "[BLEEPINGCOMPUTER] The FBI has seized seven domains used by Chinese state-sponsored hackers known as Flax Typhoon to operate two hacking tools, MicroScan and FishHub, used in attacks that breached critical infrastructure and other organizations worldwide. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/fbi-disrupts-chinese-hacking-tools-used-to-breach-critical-infrastructure/",
-      "date": "2026-10-08T21:42:51Z"
+      "title": "ARTEX AI agent: Chinese developer makes ARTEX AI agent closed",
+      "description": "[THE ECONOMIC TIMES] The Chinese developer of ARTEX said they have converted the AI agent to a closed-source project after cybersecurity firms identified it as a tool used in a recent cyberattack campaign against South Korean banks.",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/chinese-developer-makes-artex-ai-agent-closed-source-after-korean-bank-hack/articleshow/134806267.cms",
+      "date": "2026-10-09T03:59:13Z"
     },
     {
-      "title": "Ransomware attack disrupts Japan's IDCF Cloud used by govt clients",
-      "description": "[BLEEPINGCOMPUTER] IDC Frontier, a major Japanese cloud and digital infrastructure company, disclosed that its IDCF Cloud service was targeted in a ransomware attack that caused an outage at a data center cluster serving the eastern part of the country. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/ransomware-attack-disrupts-japans-idcf-cloud-used-by-govt-clients/",
-      "date": "2026-10-08T20:09:45Z"
+      "title": "Technology showcase helps local businesses protect data, boost online visibility",
+      "description": "[EUROPE SAYS] OHIO COUNTY, W.Va. \u2014 Business owners in Wheeling got a chance Thursday to learn how to keep up with rapidly changing technology, including cybersecurity and",
+      "url": "https://www.europesays.com/3299526/",
+      "date": "2026-10-09T03:48:18Z"
     },
     {
-      "title": "Low-cost Android phones ship with residential proxy malware",
-      "description": "[BLEEPINGCOMPUTER] A malware campaign dubbed 'Midnight Mimosa' has been discovered on low-cost Android smartphones that ship with malicious software embedded in their firmware, allowing attackers to silently install apps, perform ad fraud, and turn devices into...",
-      "url": "https://www.bleepingcomputer.com/news/security/low-cost-android-phones-ship-with-residential-proxy-malware/",
-      "date": "2026-10-08T19:20:33Z"
+      "title": "Chinese developer makes ARTEX AI agent closed-source after Korean bank hack",
+      "description": "[THE HINDU] ARTEX said they have converted the AI \u200bagent to a closed-source project after cybersecurity firms identified it \u200cas a tool used in a recent cyberattack \u200bcampaign against South Korean banks.",
+      "url": "https://www.thehindu.com/sci-tech/technology/chinese-developer-makes-artex-ai-agent-closed-source-after-korean-bank-hack/article71562469.ece",
+      "date": "2026-10-09T03:36:07Z"
     },
     {
-      "title": "Le Mars trucking firm settles data breach lawsuit",
-      "description": "[SIOUX CITY JOURNAL] Approximately 3,532 people belong to the class eligible to receive the payments, according to a settlement agreement filed in U.S. District Court in Sioux City.",
-      "url": "https://siouxcityjournal.com/news/local/crime-courts/article_6e7db878-baae-4e41-889f-55e8cf84c74f.html",
-      "date": "2026-10-08T19:00:00Z"
+      "title": "How to prevent the next Asos? Give businesses cybersecurity tax relief",
+      "description": "[CITY A.M.] With Asos just the latest to be the victim of a cyber hack, it's time for the UK to start incentivising businesses to up their security.",
+      "url": "https://www.cityam.com/how-to-prevent-the-next-asos-give-businesses-cybersecurity-tax-relief/",
+      "date": "2026-10-09T03:31:00Z"
     },
     {
-      "title": "Carahsoft and Partners Showcase Cybersecurity and Defense Technology at AUSA Annual Meeting and Exposition 2026 in Washington, D.C., October 12-14",
-      "description": "[THE MANILA TIMES] RESTON, Va., Oct. 08, 2026 (GLOBE NEWSWIRE) -- Carahsoft Technology Corp., The Trusted Government IT Solutions Provider\u00ae, will be joined by more than 25 of its technology partners at The Association of the United States Army (AUSA) Annual Meeting &...",
-      "url": "https://www.manilatimes.net/2026/10/09/tmt-newswire/globenewswire/carahsoft-and-partners-showcase-cybersecurity-and-defense-technology-at-ausa-annual-meeting-and-exposition-2026-in-washington-dc-october-12-14/2442171",
-      "date": "2026-10-08T18:38:22Z"
+      "title": "Chinese developer makes ARTEX AI agent closed-source after Korean bank hack",
+      "description": "[REUTERS] The Chinese developer of ARTEX said they have converted the AI agent to a closed-source project after cybersecurity firms identified \u200bit as a tool used in a recent cyberattack campaign against South \u200cKorean banks.",
+      "url": "https://www.reuters.com/world/china/chinese-developer-makes-artex-ai-agent-closed-source-after-korean-bank-hack-2026-10-09/",
+      "date": "2026-10-09T01:56:07Z"
     },
     {
-      "title": "This cybersecurity stock is already growing revenue at a 20% clip. And now here comes the AI boost",
-      "description": "[CNBC] SentinelOne combines strong revenue growth with improving profitability as it expands its cybersecurity platform beyond endpoint security.",
-      "url": "https://www.cnbc.com/2026/10/08/this-cybersecurity-stock-is-already-growing-revenue-at-a-20percent-clip-and-now-here-comes-the-ai-boost.html",
-      "date": "2026-10-08T18:35:26Z"
+      "title": "Chinese developer makes ARTEX AI agent closed-source after Korean bank hack",
+      "description": "[MARKETSCREENER] The Chinese developer of ARTEX said they have converted the AI agent to a closed-source project after cybersecurity firms identified it as a tool used in a recent cyberattack campaign against South...",
+      "url": "https://www.marketscreener.com/news/chinese-developer-makes-artex-ai-agent-closed-source-after-korean-bank-hack-ce785ddfdf8bf223",
+      "date": "2026-10-09T01:53:27Z"
     },
     {
-      "title": "FBI Says China-Linked Hackers Ran Portal Giving Third Parties Access to Stolen Emails",
-      "description": "[FEEDS] Hackers tied to a Chinese cybersecurity company stole email from government organizations, law enforcement agencies, healthcare systems, and religious institutions in Southeast Asia, the FBI and agencies in 6 other countries said on October 8. The...",
-      "url": "https://thehackernews.com/2026/10/fbi-says-china-linked-hackers-ran.html",
-      "date": "2026-10-08T18:32:21Z"
+      "title": "India overhauls medical device safety rules, expands digital surveillance",
+      "description": "[LIVEMINT] New guidelines widen monitoring of AI-enabled devices, software glitches and cybersecurity risks while extending reporting to primary health centres.",
+      "url": "https://www.livemint.com/industry/manufacturing/india-overhauls-medical-device-safety-rules-expands-digital-surveillance-11791448584903.html",
+      "date": "2026-10-09T00:30:30Z"
     },
     {
-      "title": "ThreatsDay: Ransomware Affiliate Betrayal, WhatsApp RAT, Exposed Hacker Tools and 12 More Stories",
-      "description": "[FEEDS] The crooks have trust problems of their own. One ransomware affiliate decided to keep the profits for himself. Elsewhere, an attacker left a server exposed, complete with tools and traces of an intrusion. Apparently, keeping things secure is a...",
-      "url": "https://thehackernews.com/2026/10/threatsday-ransomware-affiliate.html",
-      "date": "2026-10-08T17:58:02Z"
-    },
-    {
-      "title": "c0c0n 2026 conference begins today",
-      "description": "[TIMES OF INDIA] c0c0n 2026, India\u2019s largest cybersecurity conference by Kerala Police, begins in Kochi with Interpol delegates and the Kid Glove cybersafety initiative.",
-      "url": "https://timesofindia.indiatimes.com/city/kochi/c0c0n-2026-conference-begins-today/articleshow/134798023.cms",
-      "date": "2026-10-08T17:57:00Z"
-    },
-    {
-      "title": "AI-native networks, 6G to shape next phase of telecom, global leaders say at IMC 2026",
-      "description": "[THE ECONOMIC TIMES] Indias telecom sector is shifting from connectivity expansion to AI-native, programmable and secure networks, with technology leaders at India Mobile Congress 2026 outlining the road towards 6G. Executives said AI, on-device processing, computing,...",
-      "url": "https://economictimes.indiatimes.com/industry/telecom/telecom-news/ai-native-networks-6g-to-shape-next-phase-of-telecom-global-leaders-say-at-imc-2026/articleshow/134797217.cms",
-      "date": "2026-10-08T17:38:00Z"
-    },
-    {
-      "title": "FakeGit malware campaign returns with 17,610 malicious GitHub repos",
-      "description": "[BLEEPINGCOMPUTER] More than 17,000 fake repositories on GitHub are distributing the SmartLoader malware after the FakeGit campaign reactivated earlier this month to push the StealC infostealer. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/fakegit-malware-campaign-returns-with-17-610-malicious-github-repos/",
-      "date": "2026-10-08T17:10:55Z"
+      "title": "Lawmakers eye more federal action on AI standards, security, disclosures",
+      "description": "[EUROPE SAYS] Lawmakers appear keen on agencies such as CISA and NIST taking more leading roles in evaluating AI security risks and setting safety standards.",
+      "url": "https://www.europesays.com/3299203/",
+      "date": "2026-10-09T00:27:22Z"
     },
     {
       "title": "Reconstructing AI Agent Activity: Two New Scripts for Forensic Review, (Thu, Oct 8th)",
       "description": "[ISC] We just did a major update to FOR577 and added a lot of new material on day 5 about investigating AI usage in incident response. In the new material we dicsuss 8&&#x23&#x3b;x26&#x3b;&#x23&#x3b;xc2&#x3b;&&#x23&#x3b;x26&#x3b;&#x23&#x3b;xa0&#x3b;of the...",
       "url": "https://isc.sans.edu/diary/rss/33410",
       "date": "2026-10-08T16:52:53Z"
-    },
-    {
-      "title": "AT&T settlement is on its way - how to get your share",
-      "description": "[THE INDEPENDENT] The settlement resolves claims tied to a 2019 personal data breach",
-      "url": "https://www.independent.co.uk/us/money/att-settlement-payment-how-to-get-b3063607.html",
-      "date": "2026-10-08T16:18:31Z"
-    },
-    {
-      "title": "Shaq Says He'd Play Basketball Against an AI Robot",
-      "description": "[GIZMODO] The basketball legend and tech investor talked to Gizmodo about cybersecurity, AI, and robots that can dunk.",
-      "url": "https://gizmodo.com/shaq-says-hed-play-basketball-against-an-ai-robot-2000823268",
-      "date": "2026-10-08T16:00:06Z"
-    },
-    {
-      "title": "Japan Sees Sharp Rise in Web Data Leaks Amid Mobile API Abuse and Metabase Attacks",
-      "description": "[FEEDS] Attackers behind a string of personal data leaks at Japanese organizations have abused APIs for mobile apps and targeted known software flaws, the JPCERT Coordination Center (JPCERT/CC) said. The Tokyo-based center, which takes incident reports,...",
-      "url": "https://thehackernews.com/2026/10/japan-sees-sharp-rise-in-web-data-leaks.html",
-      "date": "2026-10-08T15:45:56Z"
-    },
-    {
-      "title": "Astelia Wins \"Vulnerability Assessment Solution of the Year\u201d Designation in 10th Annual CyberSecurity Breakthrough Awards Program",
-      "description": "[THE MANILA TIMES] Prestigious Annual Awards Program Recognizes Breakthrough Information Security Products and Companies Around the World",
-      "url": "https://www.manilatimes.net/2026/10/08/tmt-newswire/globenewswire/astelia-wins-vulnerability-assessment-solution-of-the-year-designation-in-10th-annual-cybersecurity-breakthrough-awards-program/2442058",
-      "date": "2026-10-08T15:34:22Z"
-    },
-    {
-      "title": "UAC-0099 Targets Ukrainian Government Personnel With ASHVEIN RAT Hiding Commands in HTML",
-      "description": "[FEEDS] The Russia-aligned threat actor known as UAC-0099 has been attributed to a previously undocumented .NET infostealer and remote access trojan (RAT) codenamed ASHVEIN. According to TrendAI, the malware has been put to use in attacks targeting...",
-      "url": "https://thehackernews.com/2026/10/uac-0099-targets-ukrainian-government.html",
-      "date": "2026-10-08T15:26:56Z"
-    },
-    {
-      "title": "Cisco warns of critical flaws allowing Nexus switch takeover",
-      "description": "[BLEEPINGCOMPUTER] Cisco released security advisories for five critical vulnerabilities in its NX-OS data center network operating system that could be exploited to run arbitrary code with root privileges on Nexus switches. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-critical-flaws-allowing-nexus-switch-takeover/",
-      "date": "2026-10-08T15:26:33Z"
-    },
-    {
-      "title": "Law firm Sheppard Mullin sued in class action after data breach disclosure",
-      "description": "[REUTERS] A former Sheppard Mullin employee has sued the US law firm in a proposed class action alleging a data security breach in August exposed Social \u200bSecurity numbers and other sensitive personal information, adding to a growing wave of \u200cdata breach cases...",
-      "url": "https://www.reuters.com/legal/government/law-firm-sheppard-mullin-sued-class-action-after-data-breach-disclosure-2026-10-08/",
-      "date": "2026-10-08T15:01:30Z"
-    },
-    {
-      "title": "ARTEX AI Pentesting Tool Used in Data Theft Attacks on South Korean Financial Firms",
-      "description": "[FEEDS] Cybersecurity researchers have disclosed details of a targeted campaign aimed at South Korean financial organizations that used an artificial intelligence (AI) pen testing tool named ARTEX to carry out the attacks. The activity, per CrowdStrike...",
-      "url": "https://thehackernews.com/2026/10/artex-ai-pentesting-tool-used-in-data.html",
-      "date": "2026-10-08T14:12:34Z"
     },
     {
       "title": "How Technology Empowers\u2014and Imperils\u2014Dictators",
