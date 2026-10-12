@@ -1,209 +1,137 @@
 {
-  "updated": "2026-10-12 19:30:22 UTC",
-  "news": [
-    {
-      "title": "Yandex confirms service outage as users lose access to cloud files",
-      "description": "[BLEEPINGCOMPUTER] Russian cloud services provider Yandex announced that drone attacks damaged three of its data centers, forcing it to shut down two facilities and partially disable a third. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/yandex-confirms-service-outage-as-users-lose-access-to-cloud-files/",
-      "date": "2026-10-12T19:23:01Z"
-    },
-    {
-      "title": "Anthropic takes risky AI tests offline after models breach govt sites",
-      "description": "[BLEEPINGCOMPUTER] Anthropic announced that its internal AI models undergoing \"high-risk and cybersecurity evaluations\" no longer have internet access following incidents involving U.S. government websites at the federal, state, and local levels. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/anthropic-takes-risky-ai-tests-offline-after-models-breach-govt-sites/",
-      "date": "2026-10-12T18:51:59Z"
-    },
-    {
-      "title": "Ledger confirms spy chip implant behind wallet crypto thefts",
-      "description": "[BLEEPINGCOMPUTER] Ledger has confirmed that some of its devices distributed through Southeast Asian reseller CryptoBilis were compromised with a hardware implant that drained users' cryptocurrency wallets. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/",
-      "date": "2026-10-12T16:27:23Z"
-    },
-    {
-      "title": "Cyberattack shuts down refrigerators at French supermarkets",
-      "description": "[BLEEPINGCOMPUTER] Attackers remotely defrosted refrigerators at multiple French supermarket chains overnight in a cyberattack that reportedly targeted Danfoss refrigeration controllers. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/cyberattack-shuts-down-refrigerators-at-french-supermarkets/",
-      "date": "2026-10-12T15:23:34Z"
-    },
-    {
-      "title": "\u26a1 Weekly Recap: Helpdesk 0-Days, Rogue Certs, ShinyHunters Arrest, AI-Fooling Malware and More",
-      "description": "[FEEDS] Some meetings last longer than it took attackers to jump on a newly disclosed security flaw this week. Within hours, they were already testing it. That's not much time to read the warning, let alone do something about it. But speed is only part of...",
-      "url": "https://thehackernews.com/2026/10/weekly-recap-helpdesk-0-days-rogue.html",
-      "date": "2026-10-12T15:16:26Z"
-    },
-    {
-      "title": "FBI Arrests Suspect in FBI-Hacking Case",
-      "description": "[SCHNEIER] In September, hackers from a group called ShinyHunters announced that they stole a trove of FBI data about its own agents. It was an intelligence disaster. Last week, the FBI arrested (alternate link) someone associated with that crime.",
-      "url": "https://www.schneier.com/blog/archives/2026/10/fbi-arrests-suspect-in-fbi-hacking-case.html",
-      "date": "2026-10-12T15:01:26Z"
-    },
-    {
-      "title": "Inside AvisLoader: A Windows Malware Loader Built to Resist Disruption",
-      "description": "[BLEEPINGCOMPUTER] A new Windows malware loader called AvisLoader uses encrypted peer-to-peer communications to make command-and-control infrastructure harder to disrupt. Varonis researchers explain how the malware uses ClickFix delivery, shortcut-based persistence,...",
-      "url": "https://www.bleepingcomputer.com/news/security/inside-avisloader-a-windows-malware-loader-built-to-resist-disruption/",
-      "date": "2026-10-12T14:00:10Z"
-    },
-    {
-      "title": "Retail giant Ahold Delhaize takes systems offline after cyberattack",
-      "description": "[BLEEPINGCOMPUTER] Retail giant Ahold Delhaize, one of the world's largest food retail chains, confirmed today that it had to take some systems offline in response to a \"cybersecurity incident\" affecting its network. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/retail-giant-ahold-delhaize-takes-systems-offline-after-cyberattack/",
-      "date": "2026-10-12T13:51:07Z"
-    },
-    {
-      "title": "Bring Your Own Agent: Your Employees' Assistants Are Already Logged In",
-      "description": "[FEEDS] The personal AI agents rollout is going about as smoothly as expected: Amazon now blocks Meta's Muse because it doesn't identify itself as a bot while browsing; Instinct keeps raising privacy concerns; and the horror stories from pretty much every...",
-      "url": "https://thehackernews.com/2026/10/bring-your-own-agent-your-employees.html",
-      "date": "2026-10-12T11:55:00Z"
-    },
-    {
-      "title": "Ledger Finds Unauthorized Hardware Implant in CryptoBilis-Sold Wallet Amid Fund Theft Reports",
-      "description": "[FEEDS] Cryptocurrency hardware maker Ledger has temporarily paused sales of its products via CryptoBilis following reports of stolen funds linked to devices sold by the reseller. On Friday, the company said it was investigating reports of loss of funds...",
-      "url": "https://thehackernews.com/2026/10/ledger-finds-unauthorized-hardware.html",
-      "date": "2026-10-12T11:21:48Z"
-    },
-    {
-      "title": "Critical SonicWall SMA 1000 Flaw Targeted in 135 Exploitation Attempts After Patch",
-      "description": "[FEEDS] Threat actors have been observed exploiting a recently disclosed critical security flaw in SonicWall Secure Mobile Access (SMA) 1000 appliances within days of public disclosure. The vulnerability, tracked as CVE-2026-102255 (CVSS score: 10.0), is a...",
-      "url": "https://thehackernews.com/2026/10/critical-sonicwall-sma-1000-flaw.html",
-      "date": "2026-10-12T10:36:56Z"
-    },
-    {
-      "title": "Attackers Exploit CVSS 10.0 Bricksforge WordPress Flaw Enabling Unauthenticated RCE",
-      "description": "[FEEDS] A maximum-severity security flaw impacting the Bricksforge plugin for WordPress has come under active exploitation in the wild, according to Patchstack. The critical vulnerability in question is CVE-2026-85097 (CVSS score: 10.0), which allows...",
-      "url": "https://thehackernews.com/2026/10/attackers-exploit-cvss-100-bricksforge.html",
-      "date": "2026-10-12T09:02:14Z"
-    },
-    {
-      "title": "From AI-generated tests to compensation: House panel\u2019s NTA reform plan",
-      "description": "[THE INDIAN EXPRESS] From AI-based exams and cybersecurity to compensation for candidates, a parliamentary panel has called for sweeping reforms to restore trust in NTA.",
-      "url": "https://indianexpress.com/article/india/nta-reform-plan-neet-attempt-limits-ai-exams-10917744/",
-      "date": "2026-10-12T07:26:18Z"
-    },
-    {
-      "title": "CyberXero Uses Claude Code in Campaign That Stole Over 628,000 Ukrainian Records",
-      "description": "[FEEDS] Cybersecurity researchers have disclosed details of a two-pronged artificial intelligence (AI)-augmented initial access campaign targeting WordPress sites, e-commerce platforms, and critical infrastructure entities in Ukraine. The activity, which...",
-      "url": "https://thehackernews.com/2026/10/cyberxero-uses-claude-code-in-campaign.html",
-      "date": "2026-10-12T07:26:12Z"
-    },
-    {
-      "title": "UK pathology provider Diagnexia chooses Sectra to speed up pathology reporting for the NHS",
-      "description": "[PR NEWSWIRE UK] /PRNewswire/ -- International medical imaging IT and cybersecurity company Sectra (STO: SECT B) has signed an agreement with Diagnexia in the UK to deliver its...",
-      "url": "https://www.prnewswire.co.uk/news-releases/uk-pathology-provider-diagnexia-chooses-sectra-to-speed-up-pathology-reporting-for-the-nhs-302905442.html",
-      "date": "2026-10-12T06:47:00Z"
-    },
-    {
-      "title": "Better understanding of AI cybersecurity risks needed, says TikTok\u2019s Chew Shou Zi",
-      "description": "[CNA] TikTok\u2019s top executive thinks there\u2019s a \u201cnon-zero chance\u201d that AI will become superior to human beings in certain aspects. \u201cThe technology is evolving, but you can see a world where silicon is just superior to carbon.\u201d",
-      "url": "https://www.channelnewsasia.com/singapore/tiktok-ceo-shou-chew-ai-6451691",
-      "date": "2026-10-12T05:16:00Z"
-    },
-    {
-      "title": "From \u201cCoCoN\u201d to coordinated action: Strengthening the cybersecurity ecosystem",
-      "description": "[MALAYALA MANORAMA] Kerala Bishop Geevarghese Mor Coorilos fell victim to a 'digital arrest' scam, highlighting India's rising cybercrime threat. Experts at the CoCoN",
-      "url": "https://www.onmanorama.com/news/economix/2026/10/12/from-cocon-to-coordinated-action-strengthening-the-cybersecurity-ecosystem.html",
-      "date": "2026-10-12T05:00:18Z"
-    },
-    {
-      "title": "Canadian cybersecurity executive arrested by FBI in hacking case",
-      "description": "[THE GLOBE AND MAIL] Kash Patel says FBI is working to \u2018dismantle\u2019 hacking group ShinyHunters, which breached the bureau\u2019s internal database",
-      "url": "https://www.theglobeandmail.com/canada/article-canadian-cybersecurity-executive-arrested-by-fbi-in-hacking-case/",
-      "date": "2026-10-12T02:29:49Z"
-    },
-    {
-      "title": "ISC Stormcast For Monday, October 12th, 2026 https://isc.sans.edu/podcastdetail/10132, (Mon, Oct 12th)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33416",
-      "date": "2026-10-12T02:00:03Z"
-    },
-    {
-      "title": "Baidam Announces Record Growth In CEO Beau Hodge's First Year",
-      "description": "[ITWIRE] Indigenous-owned cybersecurity provider Baidam has closed out CEO Beau Hodge's first year with a 61% increase in revenue and a 38% increase in gross profit for the 2026...",
-      "url": "https://itwire.com/guest-articles/company-news/baidam-announces-record-growth-in-ceo-beau-hodges-first-year",
-      "date": "2026-10-11T23:45:19Z"
-    },
-    {
-      "title": "Global Cyber Attacks Jump 48% Year on Year in September",
-      "description": "[ITWIRE] Education remains the most targeted sector, while phishing, ransomware and GenAI-related data exposure intensify",
-      "url": "https://itwire.com/guest-articles/guest-research/global-cyber-attacks-jump-48-year-on-year-in-september",
-      "date": "2026-10-11T23:16:24Z"
-    },
-    {
-      "title": "Ransomware negotiator arrested on federal charges as FBI probes hacking of personnel files",
-      "description": "[NEW YORK POST] Canadian cybersecurity exec Edward Dubrovsky, 54, was busted in Pennsylvania on federal charges, court docs reveal. The arrest comes as the FBI probes ShinyHunters, a hacking group that claimed to swipe data on nearly every FBI employee. FBI...",
-      "url": "https://nypost.com/2026/10/11/tech/ransomware-negotiator-arrested-on-federal-charges-as-fbi-probes-hacking-of-personnel-files/",
-      "date": "2026-10-11T23:02:22Z"
-    },
-    {
-      "title": "UPSIFS picks Team 12 for global AI, cybersecurity projects",
-      "description": "[TIMES OF INDIA] UPSIFS selects 12 students as \u201cTeam 12\u201d for international AI, robotics, quantum tech and cybersecurity projects, linking classroom learning to global innovation.",
-      "url": "https://timesofindia.indiatimes.com/city/lucknow/upsifs-picks-team-12-for-global-ai-cybersecurity-projects/articleshow/134877144.cms",
-      "date": "2026-10-11T20:08:00Z"
-    },
-    {
-      "title": "\u2018Rogue agents are a new security blindspot\u2019: Vishal Salvi, Global Head, Cybersecurity Services, Cognizant",
-      "description": "[THE FINANCIAL EXPRESS] Cognizant's Vishal Salvi breaks down how enterprises can secure rogue AI agents, enforce Zero Trust guardrails, and implement human-led governance to ensure AI trust.",
-      "url": "https://www.financialexpress.com/business/news/rogue-agents-are-a-new-security-blindspot-vishal-salvi-global-head-cybersecurity-services-cognizant/4358672/",
-      "date": "2026-10-11T19:38:09Z"
-    },
-    {
-      "title": "Why TLP should not replace your internal information classification, (Sat, Oct 10th)",
-      "description": "[ISC] The Traffic Light Protocol (TLP)&#x5b;1&#x5d;, which is now in its second incarnation, is a wonderful standard that enables one to easily communicate whether information may be shared further (and if so, how far).&#xd;",
-      "url": "https://isc.sans.edu/diary/rss/33414",
-      "date": "2026-10-10T09:11:34Z"
-    },
-    {
-      "title": "Friday Squid Blogging: I Caught a Squid",
-      "description": "[SCHNEIER] On Wednesday I spent a day fishing, on a small boat out of Gloucester, MA. We caught many cod (none of which we could keep), and a bunch of hake and mackerel (all of which we could keep). And&#8230;I caught a squid! Near as I can tell, it&#8217;s a...",
-      "url": "https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-i-caught-a-squid.html",
-      "date": "2026-10-09T20:24:45Z"
-    },
-    {
-      "title": "ISC Stormcast For Friday, October 9th, 2026 https://isc.sans.edu/podcastdetail/10130, (Fri, Oct 9th)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33412",
-      "date": "2026-10-09T07:52:03Z"
-    },
-    {
-      "title": "Reconstructing AI Agent Activity: Two New Scripts for Forensic Review, (Thu, Oct 8th)",
-      "description": "[ISC] We just did a major update to FOR577 and added a lot of new material on day 5 about investigating AI usage in incident response. In the new material we dicsuss 8&&#x23&#x3b;x26&#x3b;&#x23&#x3b;xc2&#x3b;&&#x23&#x3b;x26&#x3b;&#x23&#x3b;xa0&#x3b;of the...",
-      "url": "https://isc.sans.edu/diary/rss/33410",
-      "date": "2026-10-08T16:52:53Z"
-    },
-    {
-      "title": "How Technology Empowers\u2014and Imperils\u2014Dictators",
-      "description": "[SCHNEIER] This essay was written with Seva Gunitsky, and originally appeared in Foreign Affairs. Two weeks after Moscow&#8217;s full-scale invasion of Ukraine in March 2022, the Russian TV Channel One editor Marina Ovsyannikova burst onto the set of the...",
-      "url": "https://www.schneier.com/blog/archives/2026/10/how-technology-empowers-and-imperils-dictators.html",
-      "date": "2026-10-08T11:07:35Z"
-    },
-    {
-      "title": "ISC Stormcast For Thursday, October 8th, 2026 https://isc.sans.edu/podcastdetail/10128, (Thu, Oct 8th)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33408",
-      "date": "2026-10-08T02:00:02Z"
-    },
-    {
-      "title": "Scans for Atlassian vulnerablity (CVE-2026-21589), (Wed, Oct 7th)",
-      "description": "[ISC] On October 5th, Atlassian published patches&&#x23&#x3b;x26&#x3b;&#x23&#x3b;xc2&#x3b;&&#x23&#x3b;x26&#x3b;&#x23&#x3b;xa0&#x3b;for multiple products to fix an \"Arbitrary File Access\" vulnerability...",
-      "url": "https://isc.sans.edu/diary/rss/33406",
-      "date": "2026-10-07T14:59:33Z"
-    },
-    {
-      "title": "Apple\u2019s Verified Photography System",
-      "description": "[SCHNEIER] Apple just released a system called &#8220;Reference Image.&#8221; It can verify the image is exactly as taken by an iPhone&#8212;new models only&#8212;without tying it to a specific iPhone or photographer. It can also verify that multiple images...",
-      "url": "https://www.schneier.com/blog/archives/2026/10/apples-verified-photography-system.html",
-      "date": "2026-10-07T11:07:36Z"
-    },
-    {
-      "title": "Possible Vulnerability in Apple\u2019s Automatic Reboot",
-      "description": "[SCHNEIER] 404Media is reporting (alternate link) that a cyber-weapons arms manufacturer is exploiting a vulnerability in iOS to bypass its automatic reboot security feature. This is the feature that automatically puts an iPhone into a more secure state if it...",
-      "url": "https://www.schneier.com/blog/archives/2026/10/possible-vulnerability-in-apples-automatic-reboot.html",
-      "date": "2026-10-06T11:06:46Z"
-    },
-    {
-      "title": "Another Historic Cipher Falls to AI",
-      "description": "[SCHNEIER] This one is from 1809, written by Napoleon&#8217;s nephew.",
-      "url": "https://www.schneier.com/blog/archives/2026/10/another-historic-cipher-falls-to-ai.html",
-      "date": "2026-10-05T11:04:47Z"
-    }
-  ]
+    "title": "Sentinel Protocol",
+    "tagline": "Perimeter Intelligence Sync",
+    "updated": "2026-10-12 20:05 UTC",
+    "news": [
+        {
+            "source": {
+                "id": null,
+                "name": "SiliconANGLE News"
+            },
+            "author": "Jason Bloomberg",
+            "title": "Why AI agents might not be right for you",
+            "description": "There\u2019s no question that 2026 is the year of the artificial intelligence agent. AI agents are remarkably ubiquitous, as people use them to write code, communicate with customers, identify and resolve issues in their information technology environments, and ex\u2026",
+            "url": "https://siliconangle.com/2026/10/11/why-ai-agents-might-not-be-right-for-you/",
+            "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/holdup.jpg",
+            "publishedAt": "2026-10-11T19:59:34Z",
+            "content": "Theres no question that 2026 is the year of the artificial intelligence agent. AI agents are remarkably ubiquitous, as people use them to write code, communicate with customers, identify and resolve \u2026 [+9250 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Punch"
+            },
+            "author": "Punch Newspapers",
+            "title": "Adesina urges African leaders to invest in technology, build industries",
+            "description": "Former AfDB President, Akinwumi Adesina, has urged African leaders to prioritise industrialisation and technological innovation to boost the continent\u2019s ec\n\nRead More: https://punchng.com/adesina-urges-african-leaders-to-invest-in-technology-build-industries/",
+            "url": "https://punchng.com/adesina-urges-african-leaders-to-invest-in-technology-build-industries/",
+            "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2026/10/11203117/7edef073-2d23-492c-91ba-175de7c25418_1791747077-936x630.webp",
+            "publishedAt": "2026-10-11T19:35:46Z",
+            "content": "A former President of the African Development Bank Group, Dr Akinwumi Adesina, has urged African leaders to prioritise industrialisation, technological innovation and ethical leadership to strengthen\u2026 [+3190 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": null,
+            "title": "Bill Gates sounds alarm on AI-powered cyberattacks, warns of 'negative surprises' within a year",
+            "description": "Bill Gates warned that AI-powered cyberattacks could disrupt financial systems and fuel extortion schemes, with criminals exploiting unsafeguarded models.",
+            "url": "https://www.foxnews.com/media/bill-gates-sounds-alarm-ai-powered-cyberattacks-warns-negative-surprises-within-year",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/10/gates-climate-change.jpg",
+            "publishedAt": "2026-10-11T18:51:45Z",
+            "content": "Microsoft co-founder Bill Gates warned Sunday that artificial intelligence could fuel a wave of cyberattacks over the next year, and said that malicious actors are gaining access to increasingly powe\u2026 [+3273 chars]"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "Kirtika Suneja",
+            "title": "China's trade restrictions for services exporters under review",
+            "description": "India is proactively gathering insights on the trade hurdles faced by its services exporters in China, engaging with industry representatives to address concerns. The investigation encompasses aspects like licensing, data regulations, and the challenges faced\u2026",
+            "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/chinas-trade-restrictions-for-services-exporters-under-review/articleshow/134876370.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-134876424,width-1200,height-900,imgsize-557061,overlay-economictimes/articleshow.jpg",
+            "publishedAt": "2026-10-11T18:47:16Z",
+            "content": "New Delhi: India is drawing up a list of the trade hurdles its services exporters face in China, including strict licensing, registration and local rules.The commerce department has sought details fr\u2026 [+2474 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Securityaffairs.com"
+            },
+            "author": "Pierluigi Paganini",
+            "title": "SECURITY AFFAIRS AI-CYBERSECURITY NEWSLETTER ROUND 3",
+            "description": "Security Affairs AI-CYBERSECURITY newsletter includes a collection of the best articles and research on AI in the international landscape Artificial intelligence is rapidly changing cybersecurity, reshaping both the techniques used by attackers and the tools \u2026",
+            "url": "https://securityaffairs.com/200794/ai/security-affairs-ai-cybersecurity-newsletter-round-3.html",
+            "urlToImage": "https://securityaffairs.com/wp-content/uploads/2026/09/Security-Affairs-NewsLetter-AI-Cyber.jpg",
+            "publishedAt": "2026-10-11T18:43:54Z",
+            "content": "SECURITY AFFAIRS AI-CYBERSECURITY NEWSLETTER ROUND 3\r\nArtificial intelligence is rapidly changing cybersecurity, reshaping both the techniques used by attackers and the tools available to defenders. \u2026 [+1473 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Freerepublic.com"
+            },
+            "author": "The Wall Street Journal",
+            "title": "Video Cameras Are Everywhere\u2014and Now They Are Being Hacked for War",
+            "description": "The highly vulnerable devices have turned into tools for combatants to track, surveil and attack the enemy As U.S. and Israeli forces bombed Iran early this year, a poultry farmer in northern Israel decided to check on his chickens. When he launched the app o\u2026",
+            "url": "https://freerepublic.com/focus/f-chat/4398809/posts",
+            "urlToImage": null,
+            "publishedAt": "2026-10-11T18:43:21Z",
+            "content": "Skip to comments.\r\nVideo Cameras Are Everywhereand Now They Are Being Hacked for WarThe Wall Street Journal ^\r\n | Oct. 10, 2026 8:30 pm ET\r\n | Daniel Michaels, Anat Peled and Mil\u00e0n Czerny\r\nPosted on \u2026 [+2120 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news-au",
+                "name": "ABC News (AU)"
+            },
+            "author": "https://www.abc.net.au/news/tim-swanston/9107310, https://www.abc.net.au/news/haidarr-jones/107046938, https://www.abc.net.au/news/kate-ainsworth/12302550, https://www.abc.net.au/news/paul-johnson/11841428",
+            "title": "Halfway through the school day, their classroom became a crime scene",
+            "description": "A small town is searching for answers after two students were shot dead at school. All signs point to a new wave of extremism in the form of a little-known online community.",
+            "url": "https://www.abc.net.au/news/2026-10-12/online-extremism-rise-in-deadly-school-shootings-philippines/107237852",
+            "urlToImage": "https://live-production.wcms.abc-cdn.net.au/3b9b1ac6b5c4f6e89e7a5e92df3a7ee4?impolicy=wcms_watermark_news&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+            "publishedAt": "2026-10-11T18:26:47Z",
+            "content": "Warning: this story contains descriptions of violent events that may be confronting.\r\nFourteen-year-old Bryan Pamonag is passing the time, working on a project with his school friends.\r\nIt's lunchtim\u2026 [+13711 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Slashdot.org"
+            },
+            "author": "feedfeeder",
+            "title": "Canadian ransomware negotiator arrested on federal charges amid FBI hacking probe - Fox Business",
+            "description": "Canadian ransomware negotiator arrested on federal charges amid FBI hacking probeFox Business F.B.I. Arrests Key Suspect in ShinyHunters Hack of Its Own Agents\u2019 DataThe New York Times FBI arrests cybersecurity executive in major hack on agents\u2019 dataCNN Canadi\u2026",
+            "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186158700",
+            "urlToImage": null,
+            "publishedAt": "2026-10-11T17:52:16Z",
+            "content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way."
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": null,
+            "title": "Full transcript of \"Face the Nation with Margaret Brennan,\" Oct. 11, 2026",
+            "description": "On this \"Face the Nation with Margaret Brennan\" broadcast, Homeland Security Secretary Markwayne Mullin and Senate Majority Whip John Barrasso join Margaret Brennan.",
+            "url": "https://www.cbsnews.com/news/face-the-nation-full-transcript-10-11-2026/",
+            "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/10/11/4fcaa52e-1288-4164-8a9b-f90e37ccfcec/thumbnail/1200x630/c7696a3ccaa87347034edf7bdb1b56c5/1791740740341.png",
+            "publishedAt": "2026-10-11T17:48:40Z",
+            "content": "On this \"Face the Nation with Margaret Brennan\" broadcast, moderated by Margaret Brennan:\u00a0\r\n<ul><li>Homeland Security Secretary Markwayne Mullin</li><li>Sen. Chris Murphy, Democrat of Connecticut</li\u2026 [+55210 chars]"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "TOI World Desk",
+            "title": "Washington's historic East Potomac golf course could lose up to 529 trees, with 169 slated for removal starting October 10; officials call it maintenance as a lawsuit challenges the park's possible redesign",
+            "description": "The National Park Service has proposed the removal of 529 trees at East Potomac Golf Links as part of their maintenance strategy, sparking legal disputes. Park proponents are worried about how this redevelopment might affect local recreation. Concerns also re\u2026",
+            "url": "https://timesofindia.indiatimes.com/world/us/washingtons-historic-east-potomac-golf-course-could-lose-up-to-529-trees-with-169-slated-for-removal-starting-october-10-officials-call-it-maintenance-as-a-lawsuit-challenges-the-parks-possible-redesign/articleshow/134865760.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-134865777,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "publishedAt": "2026-10-11T17:24:35Z",
+            "content": "<ul><li>News</li>\r\n<li>World News</li>\r\n<li>US News</li>\r\n<li>Washington's historic East Potomac golf course could lose up to 529 trees, with 169 slated for removal starting October 10; officials cal\u2026 [+1992 chars]"
+        }
+    ]
 }
