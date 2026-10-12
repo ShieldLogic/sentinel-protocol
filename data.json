@@ -1,6 +1,84 @@
 {
-  "updated": "2026-10-12 08:17:21 UTC",
+  "updated": "2026-10-12 19:30:22 UTC",
   "news": [
+    {
+      "title": "Yandex confirms service outage as users lose access to cloud files",
+      "description": "[BLEEPINGCOMPUTER] Russian cloud services provider Yandex announced that drone attacks damaged three of its data centers, forcing it to shut down two facilities and partially disable a third. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/yandex-confirms-service-outage-as-users-lose-access-to-cloud-files/",
+      "date": "2026-10-12T19:23:01Z"
+    },
+    {
+      "title": "Anthropic takes risky AI tests offline after models breach govt sites",
+      "description": "[BLEEPINGCOMPUTER] Anthropic announced that its internal AI models undergoing \"high-risk and cybersecurity evaluations\" no longer have internet access following incidents involving U.S. government websites at the federal, state, and local levels. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/anthropic-takes-risky-ai-tests-offline-after-models-breach-govt-sites/",
+      "date": "2026-10-12T18:51:59Z"
+    },
+    {
+      "title": "Ledger confirms spy chip implant behind wallet crypto thefts",
+      "description": "[BLEEPINGCOMPUTER] Ledger has confirmed that some of its devices distributed through Southeast Asian reseller CryptoBilis were compromised with a hardware implant that drained users' cryptocurrency wallets. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/",
+      "date": "2026-10-12T16:27:23Z"
+    },
+    {
+      "title": "Cyberattack shuts down refrigerators at French supermarkets",
+      "description": "[BLEEPINGCOMPUTER] Attackers remotely defrosted refrigerators at multiple French supermarket chains overnight in a cyberattack that reportedly targeted Danfoss refrigeration controllers. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/cyberattack-shuts-down-refrigerators-at-french-supermarkets/",
+      "date": "2026-10-12T15:23:34Z"
+    },
+    {
+      "title": "\u26a1 Weekly Recap: Helpdesk 0-Days, Rogue Certs, ShinyHunters Arrest, AI-Fooling Malware and More",
+      "description": "[FEEDS] Some meetings last longer than it took attackers to jump on a newly disclosed security flaw this week. Within hours, they were already testing it. That's not much time to read the warning, let alone do something about it. But speed is only part of...",
+      "url": "https://thehackernews.com/2026/10/weekly-recap-helpdesk-0-days-rogue.html",
+      "date": "2026-10-12T15:16:26Z"
+    },
+    {
+      "title": "FBI Arrests Suspect in FBI-Hacking Case",
+      "description": "[SCHNEIER] In September, hackers from a group called ShinyHunters announced that they stole a trove of FBI data about its own agents. It was an intelligence disaster. Last week, the FBI arrested (alternate link) someone associated with that crime.",
+      "url": "https://www.schneier.com/blog/archives/2026/10/fbi-arrests-suspect-in-fbi-hacking-case.html",
+      "date": "2026-10-12T15:01:26Z"
+    },
+    {
+      "title": "Inside AvisLoader: A Windows Malware Loader Built to Resist Disruption",
+      "description": "[BLEEPINGCOMPUTER] A new Windows malware loader called AvisLoader uses encrypted peer-to-peer communications to make command-and-control infrastructure harder to disrupt. Varonis researchers explain how the malware uses ClickFix delivery, shortcut-based persistence,...",
+      "url": "https://www.bleepingcomputer.com/news/security/inside-avisloader-a-windows-malware-loader-built-to-resist-disruption/",
+      "date": "2026-10-12T14:00:10Z"
+    },
+    {
+      "title": "Retail giant Ahold Delhaize takes systems offline after cyberattack",
+      "description": "[BLEEPINGCOMPUTER] Retail giant Ahold Delhaize, one of the world's largest food retail chains, confirmed today that it had to take some systems offline in response to a \"cybersecurity incident\" affecting its network. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/retail-giant-ahold-delhaize-takes-systems-offline-after-cyberattack/",
+      "date": "2026-10-12T13:51:07Z"
+    },
+    {
+      "title": "Bring Your Own Agent: Your Employees' Assistants Are Already Logged In",
+      "description": "[FEEDS] The personal AI agents rollout is going about as smoothly as expected: Amazon now blocks Meta's Muse because it doesn't identify itself as a bot while browsing; Instinct keeps raising privacy concerns; and the horror stories from pretty much every...",
+      "url": "https://thehackernews.com/2026/10/bring-your-own-agent-your-employees.html",
+      "date": "2026-10-12T11:55:00Z"
+    },
+    {
+      "title": "Ledger Finds Unauthorized Hardware Implant in CryptoBilis-Sold Wallet Amid Fund Theft Reports",
+      "description": "[FEEDS] Cryptocurrency hardware maker Ledger has temporarily paused sales of its products via CryptoBilis following reports of stolen funds linked to devices sold by the reseller. On Friday, the company said it was investigating reports of loss of funds...",
+      "url": "https://thehackernews.com/2026/10/ledger-finds-unauthorized-hardware.html",
+      "date": "2026-10-12T11:21:48Z"
+    },
+    {
+      "title": "Critical SonicWall SMA 1000 Flaw Targeted in 135 Exploitation Attempts After Patch",
+      "description": "[FEEDS] Threat actors have been observed exploiting a recently disclosed critical security flaw in SonicWall Secure Mobile Access (SMA) 1000 appliances within days of public disclosure. The vulnerability, tracked as CVE-2026-102255 (CVSS score: 10.0), is a...",
+      "url": "https://thehackernews.com/2026/10/critical-sonicwall-sma-1000-flaw.html",
+      "date": "2026-10-12T10:36:56Z"
+    },
+    {
+      "title": "Attackers Exploit CVSS 10.0 Bricksforge WordPress Flaw Enabling Unauthenticated RCE",
+      "description": "[FEEDS] A maximum-severity security flaw impacting the Bricksforge plugin for WordPress has come under active exploitation in the wild, according to Patchstack. The critical vulnerability in question is CVE-2026-85097 (CVSS score: 10.0), which allows...",
+      "url": "https://thehackernews.com/2026/10/attackers-exploit-cvss-100-bricksforge.html",
+      "date": "2026-10-12T09:02:14Z"
+    },
+    {
+      "title": "From AI-generated tests to compensation: House panel\u2019s NTA reform plan",
+      "description": "[THE INDIAN EXPRESS] From AI-based exams and cybersecurity to compensation for candidates, a parliamentary panel has called for sweeping reforms to restore trust in NTA.",
+      "url": "https://indianexpress.com/article/india/nta-reform-plan-neet-attempt-limits-ai-exams-10917744/",
+      "date": "2026-10-12T07:26:18Z"
+    },
     {
       "title": "CyberXero Uses Claude Code in Campaign That Stole Over 628,000 Ukrainian Records",
       "description": "[FEEDS] Cybersecurity researchers have disclosed details of a two-pronged artificial intelligence (AI)-augmented initial access campaign targeting WordPress sites, e-commerce platforms, and critical infrastructure entities in Ukraine. The activity, which...",
@@ -8,10 +86,52 @@
       "date": "2026-10-12T07:26:12Z"
     },
     {
+      "title": "UK pathology provider Diagnexia chooses Sectra to speed up pathology reporting for the NHS",
+      "description": "[PR NEWSWIRE UK] /PRNewswire/ -- International medical imaging IT and cybersecurity company Sectra (STO: SECT B) has signed an agreement with Diagnexia in the UK to deliver its...",
+      "url": "https://www.prnewswire.co.uk/news-releases/uk-pathology-provider-diagnexia-chooses-sectra-to-speed-up-pathology-reporting-for-the-nhs-302905442.html",
+      "date": "2026-10-12T06:47:00Z"
+    },
+    {
+      "title": "Better understanding of AI cybersecurity risks needed, says TikTok\u2019s Chew Shou Zi",
+      "description": "[CNA] TikTok\u2019s top executive thinks there\u2019s a \u201cnon-zero chance\u201d that AI will become superior to human beings in certain aspects. \u201cThe technology is evolving, but you can see a world where silicon is just superior to carbon.\u201d",
+      "url": "https://www.channelnewsasia.com/singapore/tiktok-ceo-shou-chew-ai-6451691",
+      "date": "2026-10-12T05:16:00Z"
+    },
+    {
+      "title": "From \u201cCoCoN\u201d to coordinated action: Strengthening the cybersecurity ecosystem",
+      "description": "[MALAYALA MANORAMA] Kerala Bishop Geevarghese Mor Coorilos fell victim to a 'digital arrest' scam, highlighting India's rising cybercrime threat. Experts at the CoCoN",
+      "url": "https://www.onmanorama.com/news/economix/2026/10/12/from-cocon-to-coordinated-action-strengthening-the-cybersecurity-ecosystem.html",
+      "date": "2026-10-12T05:00:18Z"
+    },
+    {
+      "title": "Canadian cybersecurity executive arrested by FBI in hacking case",
+      "description": "[THE GLOBE AND MAIL] Kash Patel says FBI is working to \u2018dismantle\u2019 hacking group ShinyHunters, which breached the bureau\u2019s internal database",
+      "url": "https://www.theglobeandmail.com/canada/article-canadian-cybersecurity-executive-arrested-by-fbi-in-hacking-case/",
+      "date": "2026-10-12T02:29:49Z"
+    },
+    {
       "title": "ISC Stormcast For Monday, October 12th, 2026 https://isc.sans.edu/podcastdetail/10132, (Mon, Oct 12th)",
       "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
       "url": "https://isc.sans.edu/diary/rss/33416",
       "date": "2026-10-12T02:00:03Z"
+    },
+    {
+      "title": "Baidam Announces Record Growth In CEO Beau Hodge's First Year",
+      "description": "[ITWIRE] Indigenous-owned cybersecurity provider Baidam has closed out CEO Beau Hodge's first year with a 61% increase in revenue and a 38% increase in gross profit for the 2026...",
+      "url": "https://itwire.com/guest-articles/company-news/baidam-announces-record-growth-in-ceo-beau-hodges-first-year",
+      "date": "2026-10-11T23:45:19Z"
+    },
+    {
+      "title": "Global Cyber Attacks Jump 48% Year on Year in September",
+      "description": "[ITWIRE] Education remains the most targeted sector, while phishing, ransomware and GenAI-related data exposure intensify",
+      "url": "https://itwire.com/guest-articles/guest-research/global-cyber-attacks-jump-48-year-on-year-in-september",
+      "date": "2026-10-11T23:16:24Z"
+    },
+    {
+      "title": "Ransomware negotiator arrested on federal charges as FBI probes hacking of personnel files",
+      "description": "[NEW YORK POST] Canadian cybersecurity exec Edward Dubrovsky, 54, was busted in Pennsylvania on federal charges, court docs reveal. The arrest comes as the FBI probes ShinyHunters, a hacking group that claimed to swipe data on nearly every FBI employee. FBI...",
+      "url": "https://nypost.com/2026/10/11/tech/ransomware-negotiator-arrested-on-federal-charges-as-fbi-probes-hacking-of-personnel-files/",
+      "date": "2026-10-11T23:02:22Z"
     },
     {
       "title": "UPSIFS picks Team 12 for global AI, cybersecurity projects",
@@ -26,130 +146,16 @@
       "date": "2026-10-11T19:38:09Z"
     },
     {
-      "title": "Canadian ransomware negotiator arrested on federal extortion charges amid FBI hacking probe",
-      "description": "[EUROPE SAYS] Cybersecurity expert Morgan Wright joins Stuart Varney to discuss reports that Chinese artificial intelligence systems are being probed for hazardous",
-      "url": "https://www.europesays.com/3304499/",
-      "date": "2026-10-11T18:13:29Z"
-    },
-    {
-      "title": "CBSE\u2019s Digital Evaluation System Overlooks Teachers And Students: Apar Gupta",
-      "description": "[DECCAN CHRONICLE] Lawyer Apar Gupta flagged concerns over CBSE\u2019s digital evaluation system, citing gaps in cybersecurity, accessibility, procurement and grievance redressal.",
-      "url": "https://www.deccanchronicle.com/southern-states/telangana/cbses-digital-evaluation-system-overlooks-teachers-and-students-apar-gupta-1994951",
-      "date": "2026-10-11T16:48:26Z"
-    },
-    {
-      "title": "FBI records name Canadian ransomware negotiator in arrest over recent hack",
-      "description": "[THE GLOBE AND MAIL] Cybersecurity executive Edward Dubrovsky could face charges amid crackdown on \u2018ShinyHunters\u2019 hacking group",
-      "url": "https://www.theglobeandmail.com/world/article-fbi-shinyhunters-hack-arrest-dubrovsky/",
-      "date": "2026-10-11T16:41:10Z"
-    },
-    {
-      "title": "Canadian ransomware negotiator arrested on federal charges amid FBI hacking probe",
-      "description": "[FOX BUSINESS] Canadian cybersecurity executive Edward Dubrovsky faces federal extortion-related charges as the FBI investigates hacking group ShinyHunters and its claims of stolen data.",
-      "url": "https://www.foxbusiness.com/fox-news-tech/canadian-ransomware-negotiator-arrested-federal-charges-amid-fbi-hacking-probe",
-      "date": "2026-10-11T15:57:54Z"
-    },
-    {
-      "title": "Nippon Columbia malware incident exposes 8.6 million karaoke fan records",
-      "description": "[BLEEPINGCOMPUTER] Daiichi Kosho, a major Japanese entertainment system maker, disclosed that a malware infection at its contractor, Nippon Columbia, exposed more than 8.7 million customer and employee records. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/nippon-columbia-malware-incident-exposes-86-million-karaoke-fan-records/",
-      "date": "2026-10-11T14:23:46Z"
-    },
-    {
-      "title": "Cash App users could receive up to $2,500 in data breach $15M settlement",
-      "description": "[EUROPE SAYS] Eligible Cash App users could soon begin receiving $2,500 in their pockets as part of a whopping $15 million law suit settlement over a data breach.",
-      "url": "https://www.europesays.com/3304091/",
-      "date": "2026-10-11T13:08:56Z"
-    },
-    {
-      "title": "Airtel Business CEO backs AI regulation, says guardrails can unlock productivity gains",
-      "description": "[THE ECONOMIC TIMES] Sharat Sinha highlighted the ongoing evolution of AI architecture and methodologies for safe deployment. The government's upcoming consultation paper on AI regulations aims to address issues like safety and deepfakes. Airtel is committed to...",
-      "url": "https://economictimes.indiatimes.com/industry/telecom/telecom-news/airtel-business-ceo-backs-ai-regulation-says-guardrails-can-unlock-productivity-gains/articleshow/134867684.cms",
-      "date": "2026-10-11T08:48:00Z"
-    },
-    {
-      "title": "AI DDoS attacks on South Korean banks linked to China",
-      "description": "[THE STRAITS TIMES] AI-powered attacks on South Korean banks may be linked to a Chinese DDoS group, according to a cybersecurity report. Read more at straitstimes.com.",
-      "url": "https://www.straitstimes.com/asia/east-asia/ai-powered-attacks-on-south-korean-financial-sectors-linked-to-chinese-ddos-group-report",
-      "date": "2026-10-11T08:25:00Z"
-    },
-    {
-      "title": "Firewall or flywheel? Only 9 percent see cybersecurity as an economic stabiliser",
-      "description": "[MONEYCONTROL] A World Economic Forum report finds executives recognise cyber risk's economic reach but still fund defences after the damage is done. Its advice: speak a common language and treat security as productive capital.",
-      "url": "https://www.moneycontrol.com/news/trends/firewall-or-flywheel-only-9-percent-see-cybersecurity-as-an-economic-stabiliser-14049408.html",
-      "date": "2026-10-11T08:00:49Z"
-    },
-    {
-      "title": "P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Data Theft and Remote Commands",
-      "description": "[FEEDS] Cybersecurity researchers have disclosed details of a previously unseen variant of the DarkSword iOS exploit kit called P7 DarkSword. \"Compared with the variants we usually observe, P7 reduces its on-device footprint, adds on-device keychain and...",
-      "url": "https://thehackernews.com/2026/10/p7-darksword-ios-exploit-kit-adds.html",
-      "date": "2026-10-11T04:24:34Z"
-    },
-    {
-      "title": "Cyber exec arrested in case allegedly tied to ShinyHunters hackers",
-      "description": "[BLEEPINGCOMPUTER] Canadian cybersecurity executive Edward Dubrovsky has been arrested in Pennsylvania in connection with alleged extortion activity that multiple reports have linked to the FBI's ongoing crackdown on the ShinyHunters hacking group. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/cyber-exec-arrested-in-case-allegedly-tied-to-shinyhunters-hackers/",
-      "date": "2026-10-10T15:07:54Z"
-    },
-    {
-      "title": "ARTEX AI, Claude agents used in cyberattacks on South Korean banks",
-      "description": "[BLEEPINGCOMPUTER] The cyberattacks that shook the South Korean financial sector earlier this month were launched by a Chinese hacker using the ARTEX AI penetration testing suite and Claude agents. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/hacker-used-artex-ai-and-claude-agents-to-target-south-korean-banks/",
-      "date": "2026-10-10T14:16:17Z"
-    },
-    {
-      "title": "Criminal IP Introduces AITEM as the Next Evolution of Attack Surface Management",
-      "description": "[BLEEPINGCOMPUTER] Traditional attack surface management helps organizations discover exposed assets, but visibility alone is not enough to address threats. Criminal IP introduces AITEM, an AI-powered approach that connects exposure discovery with investigation, risk...",
-      "url": "https://www.bleepingcomputer.com/news/security/criminal-ip-introduces-aitem-as-the-next-evolution-of-attack-surface-management/",
-      "date": "2026-10-10T12:30:39Z"
-    },
-    {
-      "title": "The Third-Party Agent Problem: Why Security Built for AI You Chose Misses the Agents You Didn't",
-      "description": "[FEEDS] In environments studied for the 2026 State of Agent Security Report, roughly 1,280 third-party products now embed AI. About 282 of them sit behind single sign-on. The other thousand are invisible to identity infrastructure by default, not because...",
-      "url": "https://thehackernews.com/2026/10/the-third-party-agent-problem-why.html",
-      "date": "2026-10-10T11:00:00Z"
-    },
-    {
-      "title": "Anthropic Cuts Live Internet Access for Internal AI Tests After Claude Exploits Injection Flaws",
-      "description": "[FEEDS] Anthropic on Friday said it's cutting off live internet access for all its internal evaluations until further notice following the discovery of new incidents in which its artificial intelligence (AI) models exhibited misaligned behavior and targeted...",
-      "url": "https://thehackernews.com/2026/10/anthropic-cuts-live-internet-access-for.html",
-      "date": "2026-10-10T09:18:45Z"
-    },
-    {
       "title": "Why TLP should not replace your internal information classification, (Sat, Oct 10th)",
       "description": "[ISC] The Traffic Light Protocol (TLP)&#x5b;1&#x5d;, which is now in its second incarnation, is a wonderful standard that enables one to easily communicate whether information may be shared further (and if so, how far).&#xd;",
       "url": "https://isc.sans.edu/diary/rss/33414",
       "date": "2026-10-10T09:11:34Z"
     },
     {
-      "title": "Hackers abuse Google Ads, Bing redirects to push Claude ClickFix attacks",
-      "description": "[BLEEPINGCOMPUTER] Hackers are abusing legitimate Bing search-result redirects as click URLs in Google search ads to direct users to fake Claude installers that deliver ClickFix attacks. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-bing-redirects-to-push-claude-clickfix-attacks/",
-      "date": "2026-10-09T20:31:37Z"
-    },
-    {
       "title": "Friday Squid Blogging: I Caught a Squid",
       "description": "[SCHNEIER] On Wednesday I spent a day fishing, on a small boat out of Gloucester, MA. We caught many cod (none of which we could keep), and a bunch of hake and mackerel (all of which we could keep). And&#8230;I caught a squid! Near as I can tell, it&#8217;s a...",
       "url": "https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-i-caught-a-squid.html",
       "date": "2026-10-09T20:24:45Z"
-    },
-    {
-      "title": "Credential-Stealing GitHub Actions Workflows Planted in Tens of Thousands of Repositories",
-      "description": "[FEEDS] Cybersecurity researchers have disclosed details of an ongoing credential-theft campaign that has compromised two high-profile open-source maintainer accounts to push a malicious workflow into over 340 repositories. \"Using the account of Takashi...",
-      "url": "https://thehackernews.com/2026/10/credential-stealing-github-actions.html",
-      "date": "2026-10-09T19:14:28Z"
-    },
-    {
-      "title": "FBI Arrests Another ShinyHunters Suspect Reportedly Involved in Its Jobs Portal Hack",
-      "description": "[FEEDS] The FBI has arrested another suspected co-conspirator of ShinyHunters, FBI Director Kash Patel said on October 9 in a&nbsp;post on X. ShinyHunters is the extortion group that said in September it had&nbsp;breached the FBI's jobs portal&nbsp;and...",
-      "url": "https://thehackernews.com/2026/10/fbi-arrests-another-shinyhunters.html",
-      "date": "2026-10-09T17:45:26Z"
-    },
-    {
-      "title": "Unpatched AhsayCBS flaws exploited to deploy webshells, mine crypto",
-      "description": "[BLEEPINGCOMPUTER] Threat actors are exploiting one critical and one medium-severity vulnerability still unpatched in the AhsayCBS backup management platform to deploy webshells and cryptocurrency miners. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/unpatched-ahsaycbs-flaws-exploited-to-deploy-webshells-mine-crypto/",
-      "date": "2026-10-09T17:17:23Z"
     },
     {
       "title": "ISC Stormcast For Friday, October 9th, 2026 https://isc.sans.edu/podcastdetail/10130, (Fri, Oct 9th)",
@@ -198,12 +204,6 @@
       "description": "[SCHNEIER] This one is from 1809, written by Napoleon&#8217;s nephew.",
       "url": "https://www.schneier.com/blog/archives/2026/10/another-historic-cipher-falls-to-ai.html",
       "date": "2026-10-05T11:04:47Z"
-    },
-    {
-      "title": "Friday Squid Blogging: EU is Trying to Fight Unregulated Squid Fishing",
-      "description": "[SCHNEIER] The EU is recommending import controls to combat unregulated squid fishing in the Southwest Atlantic. I&#8217;m not optimistic. As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered....",
-      "url": "https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-eu-is-trying-to-fight-unregulated-squid-fishing.html",
-      "date": "2026-10-02T21:02:18Z"
     }
   ]
 }
