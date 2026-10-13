@@ -1,209 +1,137 @@
 {
-  "updated": "2026-10-13 17:14:43 UTC",
-  "news": [
-    {
-      "title": "TFG London cyberattack disrupts systems at Hobbs and Whistles retailers",
-      "description": "[BLEEPINGCOMPUTER] TFG London detected a cybersecurity incident that impacted IT systems used by the Phase Eight, Hobbs, and Whistles premium fashion brands. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/tfg-london-cyberattack-disrupts-systems-at-hobbs-and-whistles-retailers/",
-      "date": "2026-10-13T16:44:18Z"
-    },
-    {
-      "title": "GitHub Tightens npm Publishing After Flaw Left 1,500+ Packages Vulnerable to Hijacking",
-      "description": "[FEEDS] GitHub has taken the step of expiring unvalidated npm trusted publishing configurations 48 hours after creation after researchers found that it was possible for an attacker to push new versions of a different user's package without having to steal...",
-      "url": "https://thehackernews.com/2026/10/github-tightens-npm-publishing-after.html",
-      "date": "2026-10-13T16:18:18Z"
-    },
-    {
-      "title": "Ivanti warns of Connect Secure zero-day exploited in attacks",
-      "description": "[BLEEPINGCOMPUTER] Ivanti urged customers on Tuesday to immediately patch an actively exploited zero-day vulnerability in the Ivanti Connect Secure (ICS) remote access gateway. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/ivanti-warns-of-connect-secure-zero-day-exploited-in-attacks/",
-      "date": "2026-10-13T15:45:50Z"
-    },
-    {
-      "title": "Docker Hub flaw let attackers impersonate users, tamper with images",
-      "description": "[BLEEPINGCOMPUTER] Docker has disclosed a critical vulnerability (CVE-2026-105445) in Docker Hub that let attackers access another user's container repositories using a personal access token (PAT). [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/docker-hub-flaw-let-attackers-impersonate-users-tamper-with-images/",
-      "date": "2026-10-13T15:20:20Z"
-    },
-    {
-      "title": "The MFA Gaps Attackers are Still Exploiting",
-      "description": "[BLEEPINGCOMPUTER] Attackers continue exploiting gaps in MFA coverage, using stolen credentials to access VPNs, RDP, and Windows systems that still rely on passwords alone. Specops explains why protecting cloud applications isn't enough and how organizations can close...",
-      "url": "https://www.bleepingcomputer.com/news/security/the-mfa-gaps-attackers-are-still-exploiting/",
-      "date": "2026-10-13T14:01:11Z"
-    },
-    {
-      "title": "SAP warns of maximum severity OAuth2 SSRF security flaw",
-      "description": "[BLEEPINGCOMPUTER] SAP has addressed 20 security flaws across multiple products in its October 2026 security updates, including a maximum-severity vulnerability in the Cloud SDK for Python. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/sap-warns-of-maximum-severity-oauth2-ssrf-security-flaw/",
-      "date": "2026-10-13T13:51:02Z"
-    },
-    {
-      "title": "Xandr Fined a Record \u20ac8.6 Million for Relaying Grindr Data Revealing Sexual Orientation",
-      "description": "[FEEDS] The Norwegian Data Protection Authority (DPA) has fined Xandr, an advertising unit owned by Microsoft, \u20ac8.6 million ($9.62 million) for illegally relaying \u200bGrindr users' sensitive data to advertisers. The administrative penalty is the largest issued...",
-      "url": "https://thehackernews.com/2026/10/xandr-fined-record-86-million-for.html",
-      "date": "2026-10-13T13:12:32Z"
-    },
-    {
-      "title": "[Webinar] How to Stop AI-Driven Privilege Escalation With Runtime Identity Controls",
-      "description": "[FEEDS] The dangerous part of a stolen identity isn't always the initial login. It's what an attacker can do with that access next. With AI accelerating reconnaissance, exploitation of vulnerabilities, and privilege escalation, attackers can move through...",
-      "url": "https://thehackernews.com/2026/10/webinar-how-to-stop-ai-driven-privilege.html",
-      "date": "2026-10-13T11:57:06Z"
-    },
-    {
-      "title": "LG Smart TVs Vulnerable to Pre-Auth Root Takeover From Local Network",
-      "description": "[FEEDS] Three vulnerabilities in LG's webOS can be chained to give an attacker on the same local network root access to certain smart TVs without a PIN or any interaction from the owner. LG has issued a fix, according to&nbsp;an advisory published by SSD...",
-      "url": "https://thehackernews.com/2026/10/lg-smart-tvs-vulnerable-to-pre-auth.html",
-      "date": "2026-10-13T11:09:10Z"
-    },
-    {
-      "title": "Product Walkthrough: Bitdefender AI Visibility and Control",
-      "description": "[FEEDS] A user opens a browser tab, pastes data into a chat assistant, and nothing is installed. A developer adds a coding&nbsp;assistant as an editor extension, and nothing shows up in the installed programs list. Someone downloads a local model runtime, a...",
-      "url": "https://thehackernews.com/2026/10/product-walkthrough-bitdefender-ai.html",
-      "date": "2026-10-13T10:30:00Z"
-    },
-    {
-      "title": "Attackers Heat French Supermarket Fridges Up to 50\u00b0C by Hijacking Danfoss Controllers",
-      "description": "[FEEDS] Attackers took remote control of fridges and freezers at hundreds of French supermarkets on the night of October 11 and warmed them, forcing stores to throw food away, several retail chains said. The attackers reached them through the controller...",
-      "url": "https://thehackernews.com/2026/10/attackers-heat-french-supermarket.html",
-      "date": "2026-10-13T08:48:41Z"
-    },
-    {
-      "title": "Camera Hacking Concerns Prompt Security Reviews as Governments Weigh Bans",
-      "description": "[NATURAL NEWS] Prague cybersecurity worker Ondrej Svoboda reported in 2023 that a baby monitor in his children\u2019s room emitted strange voices and music, which he later determined was a hack, according to his account to The Wall Street Journal. The incident,...",
-      "url": "https://www.naturalnews.com/2026-10-13-camera-hacking-prompts-security-reviews-governments-weigh-bans.html",
-      "date": "2026-10-13T05:01:55Z"
-    },
-    {
-      "title": "\u2018Unprecedented\u2019 cyberattack hits French supermarkets as hackers trigger fridge defrosting",
-      "description": "[MONEYCONTROL] A cyberattack targeting internet-connected refrigeration systems disrupted hundreds of French supermarkets, spoiling fresh and frozen food and prompting a national cybersecurity investigation.",
-      "url": "https://www.moneycontrol.com/world/unprecedented-cyberattack-hits-french-supermarkets-as-hackers-trigger-fridge-defrosting-article-14050665.html",
-      "date": "2026-10-13T04:39:38Z"
-    },
-    {
-      "title": "India-UK Bilateral Talks: Jitendra Singh & Jonathan Reynolds Explore Major Partnerships In Space Technology, Nuclear Energy, AI & Emerging Technologies",
-      "description": "[FREE PRESS JOURNAL] India and the UK held bilateral talks to strengthen cooperation in space, civil nuclear energy, scientific research and emerging technologies. Jitendra Singh highlighted startup partnerships, the SHANTI Act 2025, small modular reactors, AI, quantum...",
-      "url": "https://www.freepressjournal.in/tech/india-uk-bilateral-talks-jitendra-singh-jonathan-reynolds-explore-major-partnerships-in-space-technology-nuclear-energy-ai-emerging-technologies",
-      "date": "2026-10-13T04:14:02Z"
-    },
-    {
-      "title": "Hackers heat French supermarket fridges, sparking fires and spoiling food",
-      "description": "[THE HINDU] Hackers heated French supermarket fridges overnight, causing fires, food waste, and a wide Cybersecurity crackdown across Europe.",
-      "url": "https://www.thehindu.com/news/international/hackers-heat-french-supermarket-fridges-sparking-fires-and-spoiling-food/article71577848.ece",
-      "date": "2026-10-13T03:38:00Z"
-    },
-    {
-      "title": "Singapore rolls out new service to block malware and phishing sites",
-      "description": "[THE STRAITS TIMES] Singapore rolls out a new service to block malware and phishing sites as part of its refreshed cybersecurity strategy. Read more at straitstimes.com.",
-      "url": "https://www.straitstimes.com/tech/singapore-refreshes-cyber-strategy-with-new-national-tool-to-block-malware-and-phishing-sites",
-      "date": "2026-10-13T02:25:20Z"
-    },
-    {
-      "title": "New Singapore cybersecurity strategy to tap 'best available' AI models for cyber defence",
-      "description": "[CNA] To prepare for AI-enabled cyber threats, Singapore will seek to act earlier, at national scale and at the speed of malicious attackers, says Senior Minister K Shanmugam.",
-      "url": "https://www.channelnewsasia.com/singapore/shanmugam-cybersecurity-strategy-csa-ai-6452641",
-      "date": "2026-10-13T02:04:34Z"
-    },
-    {
-      "title": "ISC Stormcast For Tuesday, October 13th, 2026 https://isc.sans.edu/podcastdetail/10134, (Tue, Oct 13th)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33418",
-      "date": "2026-10-13T02:00:02Z"
-    },
-    {
-      "title": "Shock and surprise after FBI arrests Canadian cybersecurity expert in ShinyHunters hacking case",
-      "description": "[CBC.CA] Canadians in the cybersecurity world say they were shocked to hear a prominent ransomware negotiator was arrested by the FBI over suspected connections to criminal hacking group ShinyHunters.",
-      "url": "https://www.cbc.ca/news/canada/canadian-cybersecurity-expert-arrested-fbi-shinyhunters-9.7378256",
-      "date": "2026-10-13T00:10:00Z"
-    },
-    {
-      "title": "South Korean cybersecurity staff caught playing StarCraft",
-      "description": "[THE STRAITS TIMES] South Korean cybersecurity institute staff reprimanded after repeatedly accessing StarCraft servers during supervisors\u2019 absence. Read more at straitstimes.com.",
-      "url": "https://www.straitstimes.com/asia/east-asia/south-korean-cybersecurity-institute-staff-caught-playing-starcraft-while-bosses-away",
-      "date": "2026-10-13T00:10:00Z"
-    },
-    {
-      "title": "Norway fines Microsoft ad firm $9.6 million over Grindr data sharing",
-      "description": "[BLEEPINGCOMPUTER] Norway's Data Protection Authority (Datatilsynet) has fined Microsoft-owned advertising company Xandr NOK 92 million ($9.6M) for unlawfully processing and sharing sensitive data belonging to Grindr users in the country. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/norway-fines-microsoft-ad-firm-96-million-over-grindr-data-sharing/",
-      "date": "2026-10-12T20:13:52Z"
-    },
-    {
-      "title": "Pentagon data breach exposes records of over 3M people",
-      "description": "[FOX NEWS] Pentagon data breach exposed Social Security numbers and military records of 2.76 million people. Steps like a credit freeze and IRS identity protection PIN can help.",
-      "url": "https://www.foxnews.com/tech/pentagon-data-breach-exposes-records-over-3m-people",
-      "date": "2026-10-12T18:15:53Z"
-    },
-    {
-      "title": "IonQ to acquire cybersecurity firm Elisity for up to $1.3 billion",
-      "description": "[CNBC] Quantum computing platform is buying cybersecurity firm Elisity in an all-stock deal for up to $1.3 billion.",
-      "url": "https://www.cnbc.com/2026/10/12/ionq-elisity-acquisition-cybersecurity.html",
-      "date": "2026-10-12T18:14:45Z"
-    },
-    {
-      "title": "FBI Arrests Suspect in FBI-Hacking Case",
-      "description": "[SCHNEIER] In September, hackers from a group called ShinyHunters announced that they stole a trove of FBI data about its own agents. It was an intelligence disaster. Last week, the FBI arrested (alternate link) someone associated with that crime.",
-      "url": "https://www.schneier.com/blog/archives/2026/10/fbi-arrests-suspect-in-fbi-hacking-case.html",
-      "date": "2026-10-12T15:01:26Z"
-    },
-    {
-      "title": "ISC Stormcast For Monday, October 12th, 2026 https://isc.sans.edu/podcastdetail/10132, (Mon, Oct 12th)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33416",
-      "date": "2026-10-12T02:00:03Z"
-    },
-    {
-      "title": "Why TLP should not replace your internal information classification, (Sat, Oct 10th)",
-      "description": "[ISC] The Traffic Light Protocol (TLP)&#x5b;1&#x5d;, which is now in its second incarnation, is a wonderful standard that enables one to easily communicate whether information may be shared further (and if so, how far).&#xd;",
-      "url": "https://isc.sans.edu/diary/rss/33414",
-      "date": "2026-10-10T09:11:34Z"
-    },
-    {
-      "title": "Friday Squid Blogging: I Caught a Squid",
-      "description": "[SCHNEIER] On Wednesday I spent a day fishing, on a small boat out of Gloucester, MA. We caught many cod (none of which we could keep), and a bunch of hake and mackerel (all of which we could keep). And&#8230;I caught a squid! Near as I can tell, it&#8217;s a...",
-      "url": "https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-i-caught-a-squid.html",
-      "date": "2026-10-09T20:24:45Z"
-    },
-    {
-      "title": "ISC Stormcast For Friday, October 9th, 2026 https://isc.sans.edu/podcastdetail/10130, (Fri, Oct 9th)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33412",
-      "date": "2026-10-09T07:52:03Z"
-    },
-    {
-      "title": "Reconstructing AI Agent Activity: Two New Scripts for Forensic Review, (Thu, Oct 8th)",
-      "description": "[ISC] We just did a major update to FOR577 and added a lot of new material on day 5 about investigating AI usage in incident response. In the new material we dicsuss 8&&#x23&#x3b;x26&#x3b;&#x23&#x3b;xc2&#x3b;&&#x23&#x3b;x26&#x3b;&#x23&#x3b;xa0&#x3b;of the...",
-      "url": "https://isc.sans.edu/diary/rss/33410",
-      "date": "2026-10-08T16:52:53Z"
-    },
-    {
-      "title": "How Technology Empowers\u2014and Imperils\u2014Dictators",
-      "description": "[SCHNEIER] This essay was written with Seva Gunitsky, and originally appeared in Foreign Affairs. Two weeks after Moscow&#8217;s full-scale invasion of Ukraine in March 2022, the Russian TV Channel One editor Marina Ovsyannikova burst onto the set of the...",
-      "url": "https://www.schneier.com/blog/archives/2026/10/how-technology-empowers-and-imperils-dictators.html",
-      "date": "2026-10-08T11:07:35Z"
-    },
-    {
-      "title": "ISC Stormcast For Thursday, October 8th, 2026 https://isc.sans.edu/podcastdetail/10128, (Thu, Oct 8th)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33408",
-      "date": "2026-10-08T02:00:02Z"
-    },
-    {
-      "title": "Apple\u2019s Verified Photography System",
-      "description": "[SCHNEIER] Apple just released a system called &#8220;Reference Image.&#8221; It can verify the image is exactly as taken by an iPhone&#8212;new models only&#8212;without tying it to a specific iPhone or photographer. It can also verify that multiple images...",
-      "url": "https://www.schneier.com/blog/archives/2026/10/apples-verified-photography-system.html",
-      "date": "2026-10-07T11:07:36Z"
-    },
-    {
-      "title": "Possible Vulnerability in Apple\u2019s Automatic Reboot",
-      "description": "[SCHNEIER] 404Media is reporting (alternate link) that a cyber-weapons arms manufacturer is exploiting a vulnerability in iOS to bypass its automatic reboot security feature. This is the feature that automatically puts an iPhone into a more secure state if it...",
-      "url": "https://www.schneier.com/blog/archives/2026/10/possible-vulnerability-in-apples-automatic-reboot.html",
-      "date": "2026-10-06T11:06:46Z"
-    },
-    {
-      "title": "Another Historic Cipher Falls to AI",
-      "description": "[SCHNEIER] This one is from 1809, written by Napoleon&#8217;s nephew.",
-      "url": "https://www.schneier.com/blog/archives/2026/10/another-historic-cipher-falls-to-ai.html",
-      "date": "2026-10-05T11:04:47Z"
-    }
-  ]
+    "title": "Sentinel Protocol",
+    "tagline": "Perimeter Intelligence Sync",
+    "updated": "2026-10-13 17:54 UTC",
+    "news": [
+        {
+            "source": {
+                "id": null,
+                "name": "pymnts.com"
+            },
+            "author": "PYMNTS",
+            "title": "AI Safety Regulations Gain Momentum in Congress Ahead of Midterms",
+            "description": "With leading artificial intelligence executives sounding the alarm over rogue autonomous agents and voter anxiety over AI rising, some in Congress have begun pushing for more robust federal regulation and oversight of the technology. The latest effort comes f\u2026",
+            "url": "https://www.pymnts.com/news/artificial-intelligence/2026/ai-safety-regulations-gain-momentum-in-congress-ahead-of-midterms/",
+            "urlToImage": "https://www.pymnts.com/wp-content/uploads/2023/03/Congress.jpg",
+            "publishedAt": "2026-10-12T17:54:16Z",
+            "content": "With leading artificial intelligence executives sounding the alarm over rogue autonomous agents and voter anxiety over AI rising, some in Congress have begun pushing for more robust federal regulatio\u2026 [+3698 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": null,
+            "title": "Hackers heat up refrigerators at hundreds of supermarkets: \"Unprecedented\"",
+            "description": "The cyberattack caused refrigerators to shoot up in temperature in hundreds of stores, sparking fires and forcing spoiled food to be thrown away.",
+            "url": "https://www.cbsnews.com/news/cyberattack-supermarkets-refrigerators-france-fires-food-losses/",
+            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/10/12/68bbafea-6d26-464b-8296-d942b589aa51/thumbnail/1200x630/db575cdaf8fac7ca5f0c739b16ce1ae9/2026-10-12t154034z-1680256209-rc2q1oaaopie-rtrmadp-3-france-cyberattack.jpg",
+            "publishedAt": "2026-10-12T17:45:54Z",
+            "content": "Major French supermarket chains on Monday said they were hit by a cyberattack that caused their refrigerators to shoot up in temperature in hundreds of stores, forcing spoiled food to be thrown away \u2026 [+4191 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ZDNet"
+            },
+            "author": "Radhika Rajkumar",
+            "title": "Claude sent a false homicide tip to police \u2013 and it\u2019s part of a troubling AI pattern",
+            "description": "Models routinely take shortcuts to pass evaluations. Who gets to decide what incidents are innocuous?",
+            "url": "https://www.zdnet.com/innovation/claude-false-homicide-tip/",
+            "urlToImage": "https://www.zdnet.com/wp-content/uploads/sites/3/reddarksmallGettyImages-2293940548.jpg",
+            "publishedAt": "2026-10-12T17:45:45Z",
+            "content": "<ul><li>In testing, Claude submitted false forms and exploited software flaws.</li><li>Models routinely take shortcuts to pass evaluations. </li><li>Anthropic downplayed concerns, but these actions f\u2026 [+7052 chars]"
+        },
+        {
+            "source": {
+                "id": "the-irish-times",
+                "name": "The Irish Times"
+            },
+            "author": "Leo Marchandon, Gabriel Stargardter",
+            "title": "Hackers heat up hundreds of French supermarket fridges, causing fires and food loss",
+            "description": "Danish software firm says affected units \u2018were running outdated firmware\u2019 as temperatures were forced up to 50 degrees",
+            "url": "https://www.irishtimes.com/world/us/2026/10/12/hackers-heat-up-hundreds-of-french-supermarket-fridges-causing-fires-and-food-loss/",
+            "urlToImage": "https://www.irishtimes.com/resizer/v2/V2IW262WJLOB3TZGRYG4CM24K4.jpg?smart=true&auth=6c09eefb2e3969c41b648f402867cb50fe9166c71c3023b6a670d873c9597efc&width=1200&height=630",
+            "publishedAt": "2026-10-12T17:42:50Z",
+            "content": "Hackers forced the temperature of many French supermarket fridges up to 50 degrees overnight, causing fires and food losses at several hundred shops across the country in a large cyberattack.\r\nThe Pa\u2026 [+2659 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "TheJournal.ie"
+            },
+            "author": "AFP",
+            "title": "French supermarkets see fridges shutdown by 'unprecedented' cyberattack",
+            "description": "At least 300 shops of Intermarche or its Netto brand were targeted, along with over 100 Cooperative U outlets, and several E. Leclerc stores.",
+            "url": "https://www.thejournal.ie/french-supermarket-cyberattack-7190975-Oct2026/",
+            "urlToImage": "https://img2.thejournal.ie/article/7190975/river/?height=400&version=7190988",
+            "publishedAt": "2026-10-12T17:21:30Z",
+            "content": "MAJOR FRENCH SUPERMARKET chains have said they were hit by a cyberattack that caused their refrigerators to shoot up in temperature in hundreds of stores, forcing spoiled food to be thrown away and r\u2026 [+4230 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Business Standard"
+            },
+            "author": "Talmiz Ahmad",
+            "title": "Middle powers' unconvincing new statecraft",
+            "description": "Middle powers are forging technology minilaterals to preserve their autonomy, but can such cooperation really remain independent of US and Chinese influence?",
+            "url": "https://www.business-standard.com/book/middle-powers-unconvincing-new-statecraft-126101201370_1.html",
+            "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-10/12/thumb/fitandfill/1200X628/1791824159-4716.jpg",
+            "publishedAt": "2026-10-12T17:21:28Z",
+            "content": "Middle powers are forging technology minilaterals to preserve their autonomy, but can such cooperation really remain independent of US and Chinese influence?\r\nWorkarounding: Tech Middle Power Coopera\u2026 [+5367 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PRNewswire"
+            },
+            "author": null,
+            "title": "Honeywell Aerospace, Inc. (HONA) Shareholders Who Lost Money Have Opportunity to Lead Securities Fraud Lawsuit",
+            "description": "LOS ANGELES, Oct. 12, 2026 /PRNewswire/ -- The Law Offices of Frank R. Cruz announces that investors with losses related to Honeywell Aerospace, Inc. (HONA) have opportunity to lead the securities fraud class action lawsuit. IF YOU ARE AN INVESTOR WHO SUFFERE\u2026",
+            "url": "https://www.prnewswire.com/news-releases/honeywell-aerospace-inc-hona-shareholders-who-lost-money-have-opportunity-to-lead-securities-fraud-lawsuit-302905373.html",
+            "urlToImage": "https://mmx.prnewswire.com/media/MS1215367/The-Law-Offices-of-Frank-R-Cruz-Logo.jpg?id=OA2998252&p=facebook",
+            "publishedAt": "2026-10-12T17:20:00Z",
+            "content": "LOS ANGELES, Oct. 12, 2026 /PRNewswire/ -- The Law Offices of Frank R. Cruz\u00a0announces that investors with losses related to Honeywell Aerospace, Inc. (HONA) have opportunity to lead the securities fr\u2026 [+2114 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Entrepreneur"
+            },
+            "author": "Mark Barnett",
+            "title": "The New Non-Negotiable for Small Businesses? Knowing Your Cyber Risk.\u00a0Here\u2019s Where to Begin.",
+            "description": "This Cybersecurity Awareness Month, SMEs must protect their business to propel their dreams.",
+            "url": "https://www.entrepreneur.com/building-a-business/the-new-non-negotiable-for-small-businesses-knowing-your-cyber-risk-heres-where-to-begin",
+            "urlToImage": "https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/10/small-business-cybersecurity-risk-1026_g2268988366.jpg",
+            "publishedAt": "2026-10-12T17:00:00Z",
+            "content": "Opinions expressed by Entrepreneur contributors are their own.Key Takeaways\r\n<ul><li>For small and medium-sized enterprises (SMEs), a cyberattack can disrupt operations, damage customer trust and eve\u2026 [+8403 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PRNewswire"
+            },
+            "author": null,
+            "title": "Leidos participates at U.S. Army's Reveille Forge 'permanent hackathon'",
+            "description": "RESTON, Va., Oct. 12, 2026 /PRNewswire/ -- Leidos (NYSE: LDOS) continues helping the U.S. Army identify and address technology integration challenges sooner through its participation at Reveille Forge, the service's new enduring integration and testing enviro\u2026",
+            "url": "https://www.prnewswire.com/news-releases/leidos-participates-at-us-armys-reveille-forge-permanent-hackathon-302905206.html",
+            "urlToImage": "https://mmx.prnewswire.com/media/MS2006065/ALPS-cropped.jpg?id=OA2998053&p=facebook",
+            "publishedAt": "2026-10-12T17:00:00Z",
+            "content": "RESTON, Va., Oct. 12, 2026 /PRNewswire/ -- Leidos\u00a0(NYSE: LDOS) continues helping the U.S. Army identify and address technology integration challenges sooner through its participation at Reveille Forg\u2026 [+4359 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Pypi.org"
+            },
+            "author": null,
+            "title": "cybora added to PyPI",
+            "description": "Free modular defensive cybersecurity assessment platform.",
+            "url": "https://pypi.org/project/cybora/",
+            "urlToImage": null,
+            "publishedAt": "2026-10-12T16:41:05Z",
+            "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe\u2026 [+12 chars]"
+        }
+    ]
 }
