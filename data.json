@@ -1,209 +1,137 @@
 {
-  "updated": "2026-10-14 14:46:40 UTC",
-  "news": [
-    {
-      "title": "Microsoft fixes VPN issues caused by September Windows updates",
-      "description": "[BLEEPINGCOMPUTER] Microsoft has resolved a known issue that caused Always On VPN connection issues after installing the September 2026 Windows 11 security updates. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-vpn-issues-caused-by-september-windows-updates/",
-      "date": "2026-10-14T14:27:01Z"
-    },
-    {
-      "title": "The Future of AI Cryptanalysis",
-      "description": "[SCHNEIER] Matthew Green has been writing a rather pessimistic series of posts about the potential for AI systems to vastly outperform humans in cryptanalysis of both symmetric and public-key ciphers. I am more optimistic than he is. That is, I have stronger...",
-      "url": "https://www.schneier.com/blog/archives/2026/10/the-future-of-ai-cryptanalysis.html",
-      "date": "2026-10-14T14:24:18Z"
-    },
-    {
-      "title": "Cyberattack on Connected Fridges in France",
-      "description": "[SCHNEIER] Another IoT cyberattack, this one in France: Hackers gained control of the software that regulates the temperatures of the refrigeration units, forcing some to warm to 50C (120F) overnight, according to one supermarket chain affected. [&#8230;]...",
-      "url": "https://www.schneier.com/blog/archives/2026/10/cyberattack-on-connected-fridges-in-france.html",
-      "date": "2026-10-14T14:10:22Z"
-    },
-    {
-      "title": "The Blind Spots of Agentic Pentesting and How to Close Them",
-      "description": "[BLEEPINGCOMPUTER] AI-powered penetration testing can uncover complex attack paths, but safety restrictions and network limitations leave many assets and vulnerabilities untested. Picus Security explains how combining agentic pentesting with exposure validation and...",
-      "url": "https://www.bleepingcomputer.com/news/security/the-blind-spots-of-agentic-pentesting-and-how-to-close-them/",
-      "date": "2026-10-14T14:00:10Z"
-    },
-    {
-      "title": "Global takedown hits network behind 1 billion phishing messages",
-      "description": "[BLEEPINGCOMPUTER] A massive cybercriminal ecosystem facilitating more than a billion malicious messages targeting over 75,000 organizations across 150 countries has been disrupted by law enforcement agencies and partners worldwide. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/global-takedown-hits-network-behind-1-billion-phishing-messages/",
-      "date": "2026-10-14T13:12:52Z"
-    },
-    {
-      "title": "CISA warns admins to immediately fix Ivanti flaw exploited as zero-day",
-      "description": "[BLEEPINGCOMPUTER] The U.S. Cybersecurity and Infrastructure Security Agency (CISA) urged security teams to immediately patch an Ivanti Connect Secure (ICS) flaw exploited in zero-day attacks since at least October 1st. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-admins-to-immediately-fix-ivanti-flaw-exploited-as-zero-day/",
-      "date": "2026-10-14T12:58:07Z"
-    },
-    {
-      "title": "CISA Urges Immediate Ivanti Connect Secure Updates as Honeypots Log 105 Exploit Attempts",
-      "description": "[FEEDS] The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday urged organizations to take steps to immediately update their Ivanti Connect Secure (ICS) appliances and deployments to the latest version following the disclosure of an...",
-      "url": "https://thehackernews.com/2026/10/cisa-urges-immediate-ivanti-connect.html",
-      "date": "2026-10-14T12:30:42Z"
-    },
-    {
-      "title": "curl Patches HTTP/2 Upload Flaw After PoC Demonstrates Client-Side Code Execution",
-      "description": "[FEEDS] A flaw in how curl handles HTTP/2 uploads lets a malicious server receiving an upload corrupt the client's memory, and the researcher who reported it turned that into code execution on the uploading machine. The curl project fixed it on October 14...",
-      "url": "https://thehackernews.com/2026/10/curl-patches-http2-upload-flaw-after.html",
-      "date": "2026-10-14T12:13:36Z"
-    },
-    {
-      "title": "How to Run a Deepfake Readiness Drill Before a Cloned Voice Calls Your Team",
-      "description": "[FEEDS] Cloned voices and synthetic video calls now show up in payment fraud, help desk resets, and access requests. A structured drill shows security teams exactly where verification breaks down, while nothing is at stake. The call comes in at 4:40 on a...",
-      "url": "https://thehackernews.com/2026/10/how-to-run-deepfake-readiness-drill.html",
-      "date": "2026-10-14T11:50:00Z"
-    },
-    {
-      "title": "Hirudo Android malware replaces banking apps to evade security checks",
-      "description": "[BLEEPINGCOMPUTER] A new Android malware called Hirudo steals bank account credentials by replacing legitimate banking apps with modified versions that disable security checks. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/hirudo-android-malware-replaces-banking-apps-to-evade-security-checks/",
-      "date": "2026-10-14T11:41:20Z"
-    },
-    {
-      "title": "Researchers Used a Public OpenAI Model to Build a $250,000 Chrome Full-Chain Exploit in Six Days",
-      "description": "[FEEDS] A team at security firm XBOW chained three then-unknown Google Chrome bugs into a single attack that runs code on a Windows computer when the user only loads a web page, the company said. Its researchers built the attack in six days by directing AI...",
-      "url": "https://thehackernews.com/2026/10/researchers-used-public-openai-model-to.html",
-      "date": "2026-10-14T11:19:02Z"
-    },
-    {
-      "title": "Hirudo Android Trojan Uses Patched Banking Apps to Bypass Their Built-In Security Checks",
-      "description": "[FEEDS] Cybersecurity researchers have disclosed details of a new Android banking trojan called Hirudo that works by replacing legitimate banking apps with purpose-built patched versions designed to bypass security checks from inside the app itself, marking...",
-      "url": "https://thehackernews.com/2026/10/hirudo-android-trojan-uses-patched.html",
-      "date": "2026-10-14T11:08:22Z"
-    },
-    {
-      "title": "An AI Agent Found a Critical OTP Bypass in Production. The Attack Was the Easy Part.",
-      "description": "[FEEDS] The bug was simple: the login let you choose where your sign-in code went. Proving it on a live website was the hard part. TL;DR During an authorized assessment, an AI pentesting agent found a critical authentication bypass on a major insurer's...",
-      "url": "https://thehackernews.com/2026/10/an-ai-agent-found-critical-otp-bypass.html",
-      "date": "2026-10-14T11:00:00Z"
-    },
-    {
-      "title": "Microsoft: Recent Windows updates may trigger Remote Desktop failures",
-      "description": "[BLEEPINGCOMPUTER] Microsoft has confirmed that non-admin users may be unable to connect to devices via Remote Desktop after installing recent Windows updates if the \"Administrator protection\" security feature is enabled. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/microsoft-recent-windows-updates-may-trigger-remote-desktop-failures/",
-      "date": "2026-10-14T10:48:09Z"
-    },
-    {
-      "title": "Orphaned VBA Projects Inside DWG Files, (Wed, Oct 14th)",
-      "description": "[ISC] Years ago I wrote diary entries about VBA code stored inside AutoCAD drawing files (.dwg).&#xd;",
-      "url": "https://isc.sans.edu/diary/rss/33420",
-      "date": "2026-10-14T06:49:46Z"
-    },
-    {
-      "title": "ISC Stormcast For Wednesday, October 14th, 2026 https://isc.sans.edu/podcastdetail/10136, (Wed, Oct 14th)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33424",
-      "date": "2026-10-14T02:00:03Z"
-    },
-    {
-      "title": "Experts urge 'immediate changes' to prevent rogue AI",
-      "description": "[THE STAR] More than 200 artificial intelligence and cybersecurity researchers called on Oct 13 for immediate action to prevent further cases of AI models going rogue and posing a risk to critical infrastructure.",
-      "url": "https://www.thestar.com.my/tech/tech-news/2026/10/14/experts-urge-039immediate-changes039-to-prevent-rogue-ai",
-      "date": "2026-10-14T01:00:00Z"
-    },
-    {
-      "title": "No evidence customer data published on dark web: Origin",
-      "description": "[PERTHNOW] Australia's largest energy retailer says it has beefed up its cybersecurity systems after hackers tapped the data of hundreds of thousands of customers.",
-      "url": "https://www.perthnow.com.au/news/business/no-evidence-customer-data-published-on-dark-web-origin-c-23015840",
-      "date": "2026-10-14T00:38:13Z"
-    },
-    {
-      "title": "No evidence customer data published on dark web: Origin",
-      "description": "[THE CANBERRA TIMES] Australia's largest energy retailer says it has beefed up its cybersecurity systems after hackers tapped the data of...",
-      "url": "https://www.canberratimes.com.au/story/9368345/no-evidence-customer-data-published-on-dark-web-origin/",
-      "date": "2026-10-14T00:36:55Z"
-    },
-    {
-      "title": "Australia most targeted country in latest IoT/OT cybersecurity report",
-      "description": "[ITWIRE] Between June and August 2026, Nozomi Networks Labs observed sustained malicious activity across OT, IoT and critical infrastructure environments, specifically targeting Australia.",
-      "url": "https://itwire.com/guest-articles/guest-research/australia-most-targeted-country-in-latest-iot-ot-cybersecurity-report",
-      "date": "2026-10-13T23:12:49Z"
-    },
-    {
-      "title": "FBI disrupt network of North Koreans in US tech jobs",
-      "description": "[THE BOSTON GLOBE] Federal investigators worked with the cybersecurity firm CrowdStrike to dismantle so-called laptop farms that steal American identities to earn cash for Pyongyang.",
-      "url": "https://www.bostonglobe.com/2026/10/13/nation/fbi-north-korea-laptop-farms/",
-      "date": "2026-10-13T20:42:16Z"
-    },
-    {
-      "title": "Ahold Delhaize cybersecurity issue takes Stop & Shop systems offline",
-      "description": "[FOX BUSINESS] Ahold Delhaize USA says a cybersecurity issue caused website and app outages at Stop & Shop, Hannaford, Food Lion and other grocery store chains this week.",
-      "url": "https://www.foxbusiness.com/lifestyle/food-lion-stop-shop-hannaford-websites-face-outages-after-cybersecurity-issue",
-      "date": "2026-10-13T20:27:01Z"
-    },
-    {
-      "title": "Army's Project Gatekeeper aims to cut software approval times from months to \u2018minutes\u2019",
-      "description": "[BREAKING DEFENSE] The service\u2019s new cybersecurity testing sandbox will stand up on Oct. 23, said acting Army CIO Gabe Chiulli, streamlining the current cumbersome, ad hoc arrangements for clearing commercial software for Army networks.",
-      "url": "https://breakingdefense.com/2026/10/armys-project-gatekeeper-aims-to-cut-software-approval-times-from-months-to-minutes/",
-      "date": "2026-10-13T20:23:16Z"
-    },
-    {
-      "title": "October 2026 Microsoft Patch Tuesday, (Tue, Oct 13th)",
-      "description": "[ISC] Microsoft today released patches for 1,417 vulnerabilities. 76 of these vulnerabilities are rated critical, with 7 critical vulnerabiilties requiring no customer actions. One vulnerability was disclosed before...",
-      "url": "https://isc.sans.edu/diary/rss/33422",
-      "date": "2026-10-13T19:25:52Z"
-    },
-    {
-      "title": "DOJ arrests two, seizes 187 devices in North Korean laptop farm crackdown in Texas",
-      "description": "[HINDUSTAN TIMES] USA-CYBERSECURITY/NORTHKOREA-ARRESTS:DOJ arrests two, seizes 187 devices in North Korean laptop farm crackdown in Texas",
-      "url": "https://www.hindustantimes.com/world-news/us-news/doj-arrests-two-seizes-187-devices-in-north-korean-laptop-farm-crackdown-in-texas-101791918104093.html",
-      "date": "2026-10-13T19:01:43Z"
-    },
-    {
-      "title": "Hannaford website down after parent company reports cybersecurity incident",
-      "description": "[BANGOR DAILY NEWS] The announcement from the Dutch company comes as separate cyberattacks caused refrigeration systems to overheat at hundreds of grocery stores in France.",
-      "url": "https://www.bangordailynews.com/2026/10/13/nation/hannaford-ahold-delhaize-cybersecurity-problem/",
-      "date": "2026-10-13T18:44:44Z"
-    },
-    {
-      "title": "Toptal Launches ExpertCrowd to Train AI with Vetted Domain Experts, Releases Frontier SWE Benchmark",
-      "description": "[THE MANILA TIMES] **media[1258405]**SAN FRANCISCO, Oct. 14, 2026 /PRNewswire/ -- Toptal, the world's largest talent network of highly skilled domain experts, today announced the launch of ExpertCrowd, a platform for training and improving AI models and systems...",
-      "url": "https://www.manilatimes.net/2026/10/14/tmt-newswire/pr-newswire/toptal-launches-expertcrowd-to-train-ai-with-vetted-domain-experts-releases-frontier-swe-benchmark/2445004",
-      "date": "2026-10-13T17:46:42Z"
-    },
-    {
-      "title": "ISC Stormcast For Tuesday, October 13th, 2026 https://isc.sans.edu/podcastdetail/10134, (Tue, Oct 13th)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33418",
-      "date": "2026-10-13T02:00:02Z"
-    },
-    {
-      "title": "FBI Arrests Suspect in FBI-Hacking Case",
-      "description": "[SCHNEIER] In September, hackers from a group called ShinyHunters announced that they stole a trove of FBI data about its own agents. It was an intelligence disaster. Last week, the FBI arrested (alternate link) someone associated with that crime.",
-      "url": "https://www.schneier.com/blog/archives/2026/10/fbi-arrests-suspect-in-fbi-hacking-case.html",
-      "date": "2026-10-12T15:01:26Z"
-    },
-    {
-      "title": "ISC Stormcast For Monday, October 12th, 2026 https://isc.sans.edu/podcastdetail/10132, (Mon, Oct 12th)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33416",
-      "date": "2026-10-12T02:00:03Z"
-    },
-    {
-      "title": "Why TLP should not replace your internal information classification, (Sat, Oct 10th)",
-      "description": "[ISC] The Traffic Light Protocol (TLP)&#x5b;1&#x5d;, which is now in its second incarnation, is a wonderful standard that enables one to easily communicate whether information may be shared further (and if so, how far).&#xd;",
-      "url": "https://isc.sans.edu/diary/rss/33414",
-      "date": "2026-10-10T09:11:34Z"
-    },
-    {
-      "title": "Friday Squid Blogging: I Caught a Squid",
-      "description": "[SCHNEIER] On Wednesday I spent a day fishing, on a small boat out of Gloucester, MA. We caught many cod (none of which we could keep), and a bunch of hake and mackerel (all of which we could keep). And&#8230;I caught a squid! Near as I can tell, it&#8217;s a...",
-      "url": "https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-i-caught-a-squid.html",
-      "date": "2026-10-09T20:24:45Z"
-    },
-    {
-      "title": "How Technology Empowers\u2014and Imperils\u2014Dictators",
-      "description": "[SCHNEIER] This essay was written with Seva Gunitsky, and originally appeared in Foreign Affairs. Two weeks after Moscow&#8217;s full-scale invasion of Ukraine in March 2022, the Russian TV Channel One editor Marina Ovsyannikova burst onto the set of the...",
-      "url": "https://www.schneier.com/blog/archives/2026/10/how-technology-empowers-and-imperils-dictators.html",
-      "date": "2026-10-08T11:07:35Z"
-    },
-    {
-      "title": "Apple\u2019s Verified Photography System",
-      "description": "[SCHNEIER] Apple just released a system called &#8220;Reference Image.&#8221; It can verify the image is exactly as taken by an iPhone&#8212;new models only&#8212;without tying it to a specific iPhone or photographer. It can also verify that multiple images...",
-      "url": "https://www.schneier.com/blog/archives/2026/10/apples-verified-photography-system.html",
-      "date": "2026-10-07T11:07:36Z"
-    }
-  ]
+    "title": "Sentinel Protocol",
+    "tagline": "Perimeter Intelligence Sync",
+    "updated": "2026-10-14 15:40 UTC",
+    "news": [
+        {
+            "source": {
+                "id": null,
+                "name": "BleepingComputer"
+            },
+            "author": "",
+            "title": "Title: Encrypted files with .payfast extension - DOKADOKA@ONIONMAIL.COM",
+            "description": "Title: Encrypted files with .payfast extension - DOKADOKA@ONIONMAIL.COM - posted in Ransomware Help & Tech Support: Title: Encrypted files with .payfast extension - DOKADOKA@ONIONMAIL.COM\n\u00a0\n- Case SHA1: 93aed0dd56cbf0b02c37105569ee49e6efb2701a\n- Extension: .p\u2026",
+            "url": "https://www.bleepingcomputer.com/forums/t/819413/title-encrypted-files-with-payfast-extension-dokadokaonionmailcom/",
+            "urlToImage": "https://www.bleepingcomputer.com/forums/public/style_images/master/meta_image.png",
+            "publishedAt": "2026-10-13T15:40:40Z",
+            "content": "1 members, 11 guests, 0 anonymous users"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "pymnts.com"
+            },
+            "author": "PYMNTS",
+            "title": "Cyber Risks Turn Physical When Hackers Control the Retail Thermostat",
+            "description": "An unidentified hacking group, or several of them, wrought havoc across hundreds of European supermarkets this week. The root cause of the fiasco wasn\u2019t stolen customer data. It was temperature control access. In an overnight cyberattack spanning Sunday (Oct.\u2026",
+            "url": "https://www.pymnts.com/cybersecurity/2026/cyber-risks-turn-physical-when-hackers-control-retail-thermostat/",
+            "urlToImage": "https://www.pymnts.com/wp-content/uploads/2026/10/retail-thermostat-cybersecurity-hackers.jpeg",
+            "publishedAt": "2026-10-13T15:32:43Z",
+            "content": "An unidentified hacking group, or several of them, wrought havoc across hundreds of European supermarkets this week. The root cause of the fiasco wasnt stolen customer data. It was temperature contro\u2026 [+5107 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "SiliconANGLE News"
+            },
+            "author": "Zeus Kerravala",
+            "title": "Cisco\u2019s OCP message: The network is now AI\u2019s critical path, and openness is the price of admission",
+            "description": "For most of its history, Cisco Systems Inc. won by building vertically integrated network products and asking customers to buy all of it. The company did very well with that model. Security, meanwhile, was something Cisco sold as a separate product line rathe\u2026",
+            "url": "https://siliconangle.com/2026/10/13/ciscos-ocp-message-the-network-is-now-ais-critical-path-and-openness-is-the-price-of-admission/",
+            "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/OCP-Blog-Banner-op-1.2-adj-1340x447-1.jpg",
+            "publishedAt": "2026-10-13T15:26:40Z",
+            "content": "For most of its history, Cisco Systems Inc. won by building vertically integrated network products and asking customers to buy all of it. The company did very well with that model. Security, meanwhil\u2026 [+9264 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "SiliconANGLE News"
+            },
+            "author": "Kyt Dotson",
+            "title": "Workday makes Sana its new home for AI-driven HR and finance",
+            "description": "Enterprise management software company Workday Inc. today announced that it wants to turn its existing knowledge of people, money and business rules into an operational foundation for agentic artificial intelligence tools. At Workday Rising, the company\u2019s ann\u2026",
+            "url": "https://siliconangle.com/2026/10/13/workday-makes-sana-its-new-home-for-ai-driven-hr-and-finance/",
+            "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2025/02/Designer-24.jpeg",
+            "publishedAt": "2026-10-13T15:25:42Z",
+            "content": "Enterprise management software company Workday Inc. today announced that it wants to turn its existing knowledge of people, money and business rules into an operational foundation for agentic artific\u2026 [+7087 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PRNewswire"
+            },
+            "author": null,
+            "title": "HIMSS27 Opens Registration: Global Healthcare Leaders to Convene in Chicago for \"Transforming Health Together\"",
+            "description": "World's Largest Health IT Conference Returns to Chicago April 5\u20138, 2027, Bringing Together Healthcare Innovators to Address AI, Cybersecurity, Health Equity and Digital Transformation. CHICAGO, Oct. 13, 2026 /PRNewswire/ -- HIMSS Global Health Conference & Ex\u2026",
+            "url": "https://www.prnewswire.com/news-releases/himss27-opens-registration-global-healthcare-leaders-to-convene-in-chicago-for-transforming-health-together-302907261.html",
+            "urlToImage": "https://mmx.prnewswire.com/media/MS2011339/HIMSS-Global-Health-Conference-Exhibition.jpg?id=OA3013420&p=facebook",
+            "publishedAt": "2026-10-13T15:20:00Z",
+            "content": "World's Largest Health IT Conference Returns to Chicago April 58, 2027, Bringing Together Healthcare Innovators to Address AI, Cybersecurity, Health Equity and Digital Transformation.\r\nCHICAGO, Oct. \u2026 [+4921 chars]"
+        },
+        {
+            "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            "author": "Sead Fadilpa\u0161i\u0107",
+            "title": "Hackers turn business backup servers into crypto mines after sneaking malware disguised as Microsoft Edge",
+            "description": "Servers used as a failsafe in case of a cyberattack, became targets of cyberattacks themselves",
+            "url": "https://www.techradar.com/pro/security/hackers-turn-business-backup-servers-into-crypto-mines-after-sneaking-malware-disguised-as-microsoft-edge",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/yaTc7yRkfydWWSj2tD8dGH-1920-80.jpg",
+            "publishedAt": "2026-10-13T15:10:00Z",
+            "content": "<ul><li>Attackers exploited critical AhsayCBS backup software flaws to compromise organizations\u2019 backup servers</li><li>Intrusions deployed webshells and disguised XMRig cryptominers for persistence \u2026 [+4519 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "lbrown@businessinsider.com (Lillian Brown)",
+            "title": "Where to watch Inter vs. Club Brugge for free from anywhere",
+            "description": "Europe's biggest football competition continues. We'll show you where to watch Inter vs. Club Brugge online.",
+            "url": "https://www.businessinsider.com/guides/streaming/where-to-watch-inter-milan-vs-club-brugge-champions-league-2026-10#article",
+            "urlToImage": "https://i.insider.com/6ace408be50b02f612be2b47?width=1200&format=jpeg",
+            "publishedAt": "2026-10-13T15:06:43Z",
+            "content": "The short version: Fans can live stream Inter vs. Club Brugge on Paramount Plus in the US, TNT Sports via HBO Max in the UK, and for free on RTL Club in Belgium. Viewers can access their streaming op\u2026 [+4423 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Ryukoku.ac.jp"
+            },
+            "author": null,
+            "title": "\u30a9\u82e5\u6ce3\u3001\u7d19\u0441\u30b1\u82e5\u82e5\u6c7a\u7dba50\u0443 (gigazine, 2026.10.13)",
+            "description": "f\u839f\uff1c\u24a2\u6f5f\u277c\u30b1\u8153\u4e57\u7f9d\u277e\u58be\u818a\u221e\u6fc0\u30b1\u226a EOL \uff43\u3047\uff43\u0441\n\r\n\n<ul> <li> French supermarkets suffer refrigerator shutdown after 'unprecedented' cyberattack (AFP, 10/12)\u30c8eepL AI \u8350 \r\n c\u30a5\u9d3bAFP\u7d15\u4e95\u8ce2\u0441\u7db5\u6f14\u7d0a\u0447\n\u8316\u9075\u0441\u30d1\u30d7\u7d14\u7907\u9b23\u78e7\u5c6e\u8a18\u792b\u78fd\u798a\u7f78\u24a2\u83f4\u9055 \r\n \u305e\u8153\u969c\u6c7a\u7dba\u4e5d\u52dd\u6fc0\u30b1K-SM800\u7a3b-SC355\u9d3b\u7db5\u6f14\uff1c\u82e5\u30af\u0441\u0441\u3002\u82e5\u30a1\u226a\n\u620e\u969c\u8153\u969c\u30b1\u82e5\u82e5\u82e5\u30a2\u226a\u8d0b\u30a3\u7d45\u7bc1c\u30a5\u9d3b\u8972\u5e25\u30ad\u9d3b\u4e95\u24a2\uff43 \r\nAK-SM 800 \u2026",
+            "url": "http://www.st.ryukoku.ac.jp/~kjm/security/memo/2026/10.html#20261014_reizoko",
+            "urlToImage": null,
+            "publishedAt": "2026-10-13T15:00:00Z",
+            "content": "Last modified: Wed Oct 14 14:08:41 2026\r\n +0900 (JST)\r\nSecurity Watch \r\nSecurity Watch \r\n UNIXWindowsMac OS (priority ) \r\n1 \r\n 1 \r\n[ ]\r\n:\r\n2026 |\r\n2025 |\r\n2024 |\r\n2023 |\r\n2022 |\r\n2021 |\r\n2020 |\r\n2019\u2026 [+9319 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Ryukoku.ac.jp"
+            },
+            "author": null,
+            "title": "(The Hacker News, 10/9) OSS Scanner ...",
+            "description": "(The Hacker News, 10/9) OSS Scanner (Anthropic)",
+            "url": "http://www.st.ryukoku.ac.jp/~kjm/security/memo/2026/10.html#20261014__ossscanner",
+            "urlToImage": null,
+            "publishedAt": "2026-10-13T15:00:00Z",
+            "content": "Last modified: Wed Oct 14 12:53:02 2026\r\n +0900 (JST)\r\nSecurity Watch \r\nSecurity Watch \r\n UNIXWindowsMac OS (priority ) \r\n1 \r\n 1 \r\n[ ]\r\n:\r\n2026 |\r\n2025 |\r\n2024 |\r\n2023 |\r\n2022 |\r\n2021 |\r\n2020 |\r\n2019\u2026 [+7281 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Ryukoku.ac.jp"
+            },
+            "author": null,
+            "title": "(gigazine, 10/14) Saudi National Ar ...",
+            "description": "(gigazine, 10/14) <ul> <li> Saudi National Arrested for Installing Surreptitious Audio Recording Device at OpenAI (justice.gov, 10/13) \r\n </li></ul>",
+            "url": "http://www.st.ryukoku.ac.jp/~kjm/security/memo/2026/10.html#20261014__openaisaudi",
+            "urlToImage": null,
+            "publishedAt": "2026-10-13T15:00:00Z",
+            "content": "Last modified: Wed Oct 14 12:53:02 2026\r\n +0900 (JST)\r\nSecurity Watch \r\nSecurity Watch \r\n UNIXWindowsMac OS (priority ) \r\n1 \r\n 1 \r\n[ ]\r\n:\r\n2026 |\r\n2025 |\r\n2024 |\r\n2023 |\r\n2022 |\r\n2021 |\r\n2020 |\r\n2019\u2026 [+7281 chars]"
+        }
+    ]
 }
