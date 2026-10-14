@@ -1,23 +1,95 @@
 {
-  "updated": "2026-10-14 09:08:09 UTC",
+  "updated": "2026-10-14 14:46:40 UTC",
   "news": [
+    {
+      "title": "Microsoft fixes VPN issues caused by September Windows updates",
+      "description": "[BLEEPINGCOMPUTER] Microsoft has resolved a known issue that caused Always On VPN connection issues after installing the September 2026 Windows 11 security updates. [...]",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-vpn-issues-caused-by-september-windows-updates/",
+      "date": "2026-10-14T14:27:01Z"
+    },
+    {
+      "title": "The Future of AI Cryptanalysis",
+      "description": "[SCHNEIER] Matthew Green has been writing a rather pessimistic series of posts about the potential for AI systems to vastly outperform humans in cryptanalysis of both symmetric and public-key ciphers. I am more optimistic than he is. That is, I have stronger...",
+      "url": "https://www.schneier.com/blog/archives/2026/10/the-future-of-ai-cryptanalysis.html",
+      "date": "2026-10-14T14:24:18Z"
+    },
+    {
+      "title": "Cyberattack on Connected Fridges in France",
+      "description": "[SCHNEIER] Another IoT cyberattack, this one in France: Hackers gained control of the software that regulates the temperatures of the refrigeration units, forcing some to warm to 50C (120F) overnight, according to one supermarket chain affected. [&#8230;]...",
+      "url": "https://www.schneier.com/blog/archives/2026/10/cyberattack-on-connected-fridges-in-france.html",
+      "date": "2026-10-14T14:10:22Z"
+    },
+    {
+      "title": "The Blind Spots of Agentic Pentesting and How to Close Them",
+      "description": "[BLEEPINGCOMPUTER] AI-powered penetration testing can uncover complex attack paths, but safety restrictions and network limitations leave many assets and vulnerabilities untested. Picus Security explains how combining agentic pentesting with exposure validation and...",
+      "url": "https://www.bleepingcomputer.com/news/security/the-blind-spots-of-agentic-pentesting-and-how-to-close-them/",
+      "date": "2026-10-14T14:00:10Z"
+    },
+    {
+      "title": "Global takedown hits network behind 1 billion phishing messages",
+      "description": "[BLEEPINGCOMPUTER] A massive cybercriminal ecosystem facilitating more than a billion malicious messages targeting over 75,000 organizations across 150 countries has been disrupted by law enforcement agencies and partners worldwide. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/global-takedown-hits-network-behind-1-billion-phishing-messages/",
+      "date": "2026-10-14T13:12:52Z"
+    },
+    {
+      "title": "CISA warns admins to immediately fix Ivanti flaw exploited as zero-day",
+      "description": "[BLEEPINGCOMPUTER] The U.S. Cybersecurity and Infrastructure Security Agency (CISA) urged security teams to immediately patch an Ivanti Connect Secure (ICS) flaw exploited in zero-day attacks since at least October 1st. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-admins-to-immediately-fix-ivanti-flaw-exploited-as-zero-day/",
+      "date": "2026-10-14T12:58:07Z"
+    },
+    {
+      "title": "CISA Urges Immediate Ivanti Connect Secure Updates as Honeypots Log 105 Exploit Attempts",
+      "description": "[FEEDS] The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday urged organizations to take steps to immediately update their Ivanti Connect Secure (ICS) appliances and deployments to the latest version following the disclosure of an...",
+      "url": "https://thehackernews.com/2026/10/cisa-urges-immediate-ivanti-connect.html",
+      "date": "2026-10-14T12:30:42Z"
+    },
+    {
+      "title": "curl Patches HTTP/2 Upload Flaw After PoC Demonstrates Client-Side Code Execution",
+      "description": "[FEEDS] A flaw in how curl handles HTTP/2 uploads lets a malicious server receiving an upload corrupt the client's memory, and the researcher who reported it turned that into code execution on the uploading machine. The curl project fixed it on October 14...",
+      "url": "https://thehackernews.com/2026/10/curl-patches-http2-upload-flaw-after.html",
+      "date": "2026-10-14T12:13:36Z"
+    },
+    {
+      "title": "How to Run a Deepfake Readiness Drill Before a Cloned Voice Calls Your Team",
+      "description": "[FEEDS] Cloned voices and synthetic video calls now show up in payment fraud, help desk resets, and access requests. A structured drill shows security teams exactly where verification breaks down, while nothing is at stake. The call comes in at 4:40 on a...",
+      "url": "https://thehackernews.com/2026/10/how-to-run-deepfake-readiness-drill.html",
+      "date": "2026-10-14T11:50:00Z"
+    },
+    {
+      "title": "Hirudo Android malware replaces banking apps to evade security checks",
+      "description": "[BLEEPINGCOMPUTER] A new Android malware called Hirudo steals bank account credentials by replacing legitimate banking apps with modified versions that disable security checks. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/hirudo-android-malware-replaces-banking-apps-to-evade-security-checks/",
+      "date": "2026-10-14T11:41:20Z"
+    },
+    {
+      "title": "Researchers Used a Public OpenAI Model to Build a $250,000 Chrome Full-Chain Exploit in Six Days",
+      "description": "[FEEDS] A team at security firm XBOW chained three then-unknown Google Chrome bugs into a single attack that runs code on a Windows computer when the user only loads a web page, the company said. Its researchers built the attack in six days by directing AI...",
+      "url": "https://thehackernews.com/2026/10/researchers-used-public-openai-model-to.html",
+      "date": "2026-10-14T11:19:02Z"
+    },
+    {
+      "title": "Hirudo Android Trojan Uses Patched Banking Apps to Bypass Their Built-In Security Checks",
+      "description": "[FEEDS] Cybersecurity researchers have disclosed details of a new Android banking trojan called Hirudo that works by replacing legitimate banking apps with purpose-built patched versions designed to bypass security checks from inside the app itself, marking...",
+      "url": "https://thehackernews.com/2026/10/hirudo-android-trojan-uses-patched.html",
+      "date": "2026-10-14T11:08:22Z"
+    },
+    {
+      "title": "An AI Agent Found a Critical OTP Bypass in Production. The Attack Was the Easy Part.",
+      "description": "[FEEDS] The bug was simple: the login let you choose where your sign-in code went. Proving it on a live website was the hard part. TL;DR During an authorized assessment, an AI pentesting agent found a critical authentication bypass on a major insurer's...",
+      "url": "https://thehackernews.com/2026/10/an-ai-agent-found-critical-otp-bypass.html",
+      "date": "2026-10-14T11:00:00Z"
+    },
+    {
+      "title": "Microsoft: Recent Windows updates may trigger Remote Desktop failures",
+      "description": "[BLEEPINGCOMPUTER] Microsoft has confirmed that non-admin users may be unable to connect to devices via Remote Desktop after installing recent Windows updates if the \"Administrator protection\" security feature is enabled. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/microsoft-recent-windows-updates-may-trigger-remote-desktop-failures/",
+      "date": "2026-10-14T10:48:09Z"
+    },
     {
       "title": "Orphaned VBA Projects Inside DWG Files, (Wed, Oct 14th)",
       "description": "[ISC] Years ago I wrote diary entries about VBA code stored inside AutoCAD drawing files (.dwg).&#xd;",
       "url": "https://isc.sans.edu/diary/rss/33420",
       "date": "2026-10-14T06:49:46Z"
-    },
-    {
-      "title": "Four-Byte Write and Timing Bug Let Researchers Run Code in Windows SmartScreen Enclave",
-      "description": "[FEEDS] Security researchers ran their own code inside a protected part of Windows that is meant to stay sealed off even when the rest of the computer is taken over. The protected area is a VBS enclave, an isolated slice of memory the operating system uses...",
-      "url": "https://thehackernews.com/2026/10/four-byte-write-and-timing-bug-let.html",
-      "date": "2026-10-14T05:52:28Z"
-    },
-    {
-      "title": "Microsoft Patches Record 1,413 Flaws, Including Exploited Windows Shell Bug",
-      "description": "[FEEDS] Microsoft on Tuesday shattered its own Patch Tuesday record by shipping patches for a whopping 1,413 vulnerabilities, including one that it said has come under active exploitation. These include 1,102 flaws in Windows, 134 in Office, 61 in Developer...",
-      "url": "https://thehackernews.com/2026/10/microsoft-patches-record-1413-flaws.html",
-      "date": "2026-10-14T04:34:43Z"
     },
     {
       "title": "ISC Stormcast For Wednesday, October 14th, 2026 https://isc.sans.edu/podcastdetail/10136, (Wed, Oct 14th)",
@@ -26,28 +98,34 @@
       "date": "2026-10-14T02:00:03Z"
     },
     {
-      "title": "OpenAI Employee Arrested for Allegedly Planting Hidden Recorder in Executive Conference Room",
-      "description": "[FEEDS] A Saudi National and employee of OpenAI has been arrested for allegedly planting a hidden recording device in an executive conference room at the company's San Francisco offices to covertly record sensitive conversations. Abdulrahman Alfozan, 35,...",
-      "url": "https://thehackernews.com/2026/10/openai-employee-arrested-for-allegedly.html",
-      "date": "2026-10-14T01:59:25Z"
+      "title": "Experts urge 'immediate changes' to prevent rogue AI",
+      "description": "[THE STAR] More than 200 artificial intelligence and cybersecurity researchers called on Oct 13 for immediate action to prevent further cases of AI models going rogue and posing a risk to critical infrastructure.",
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/10/14/experts-urge-039immediate-changes039-to-prevent-rogue-ai",
+      "date": "2026-10-14T01:00:00Z"
     },
     {
-      "title": "OpenAI engineer arrested for allegedly planting spy device in office",
-      "description": "[BLEEPINGCOMPUTER] A Saudi OpenAI engineer has been arrested for allegedly planting a hidden recording device in an executive conference room at the company's San Francisco offices to secretly record sensitive conversations. [...]",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-engineer-arrested-for-allegedly-planting-spy-device-in-office/",
-      "date": "2026-10-13T22:33:02Z"
+      "title": "No evidence customer data published on dark web: Origin",
+      "description": "[PERTHNOW] Australia's largest energy retailer says it has beefed up its cybersecurity systems after hackers tapped the data of hundreds of thousands of customers.",
+      "url": "https://www.perthnow.com.au/news/business/no-evidence-customer-data-published-on-dark-web-origin-c-23015840",
+      "date": "2026-10-14T00:38:13Z"
     },
     {
-      "title": "Ghostscript flaw lets hackers hijack servers via PDF uploads",
-      "description": "[BLEEPINGCOMPUTER] A critical heap buffer overflow vulnerability (CVE-2026-39919) in the Ghostscript interpreter and rendering engine could allow remote code execution through specially crafted PDF files. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/ghostscript-flaw-lets-hackers-hijack-servers-via-pdf-uploads/",
-      "date": "2026-10-13T21:33:26Z"
+      "title": "No evidence customer data published on dark web: Origin",
+      "description": "[THE CANBERRA TIMES] Australia's largest energy retailer says it has beefed up its cybersecurity systems after hackers tapped the data of...",
+      "url": "https://www.canberratimes.com.au/story/9368345/no-evidence-customer-data-published-on-dark-web-origin/",
+      "date": "2026-10-14T00:36:55Z"
     },
     {
-      "title": "Anthropic warns self-replicating AI could spread to your smart devices",
-      "description": "[BLEEPINGCOMPUTER] Anthropic is warning that small AI models could soon be able to self-replicate across consumer IoT devices, from Android TV boxes to smart ovens, creating distributed botnets capable of running AI workloads without relying on data centers. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/anthropic-warns-self-replicating-ai-could-spread-to-your-smart-devices/",
-      "date": "2026-10-13T21:16:34Z"
+      "title": "Australia most targeted country in latest IoT/OT cybersecurity report",
+      "description": "[ITWIRE] Between June and August 2026, Nozomi Networks Labs observed sustained malicious activity across OT, IoT and critical infrastructure environments, specifically targeting Australia.",
+      "url": "https://itwire.com/guest-articles/guest-research/australia-most-targeted-country-in-latest-iot-ot-cybersecurity-report",
+      "date": "2026-10-13T23:12:49Z"
+    },
+    {
+      "title": "FBI disrupt network of North Koreans in US tech jobs",
+      "description": "[THE BOSTON GLOBE] Federal investigators worked with the cybersecurity firm CrowdStrike to dismantle so-called laptop farms that steal American identities to earn cash for Pyongyang.",
+      "url": "https://www.bostonglobe.com/2026/10/13/nation/fbi-north-korea-laptop-farms/",
+      "date": "2026-10-13T20:42:16Z"
     },
     {
       "title": "Ahold Delhaize cybersecurity issue takes Stop & Shop systems offline",
@@ -62,28 +140,10 @@
       "date": "2026-10-13T20:23:16Z"
     },
     {
-      "title": "Microsoft October 2026 Patch Tuesday fixes 1,411 flaws, 3 zero-days",
-      "description": "[BLEEPINGCOMPUTER] Today is Microsoft's October 2026 Patch Tuesday, with security updates addressing a record-breaking 1,411 flaws, including one actively exploited and two publicly disclosed zero-day vulnerabilities. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-october-2026-patch-tuesday-fixes-1-411-flaws-3-zero-days/",
-      "date": "2026-10-13T19:56:09Z"
-    },
-    {
-      "title": "Microsoft releases Windows 10 KB5126657 extended security update",
-      "description": "[BLEEPINGCOMPUTER] Microsoft released the Windows 10 KB5126657 extended security update, which includes this month's record-breaking October 2026 Patch Tuesday fixes and a few bug fixes and changes. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5126657-extended-security-update/",
-      "date": "2026-10-13T19:47:30Z"
-    },
-    {
       "title": "October 2026 Microsoft Patch Tuesday, (Tue, Oct 13th)",
       "description": "[ISC] Microsoft today released patches for 1,417 vulnerabilities. 76 of these vulnerabilities are rated critical, with 7 critical vulnerabiilties requiring no customer actions. One vulnerability was disclosed before...",
       "url": "https://isc.sans.edu/diary/rss/33422",
       "date": "2026-10-13T19:25:52Z"
-    },
-    {
-      "title": "Microsoft: Windows 11 24H2 Home and Pro reached end of support",
-      "description": "[BLEEPINGCOMPUTER] Microsoft announced today that devices running Windows 11 24H2 Home and Pro editions have reached the end of support and will no longer receive monthly security and non-security preview updates. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-24h2-home-and-pro-reached-end-of-support/",
-      "date": "2026-10-13T19:04:38Z"
     },
     {
       "title": "DOJ arrests two, seizes 187 devices in North Korean laptop farm crackdown in Texas",
@@ -98,58 +158,10 @@
       "date": "2026-10-13T18:44:44Z"
     },
     {
-      "title": "Anthropic Warns Small AI Models Could Soon Form Self-Propagating IoT Botnets",
-      "description": "[FEEDS] Small artificial intelligence (AI) models may be months away from developing capabilities to self-replicate on IoT devices like smart ovens and off-brand Android TV boxes, according to a warning from Anthropic. The frontier AI lab said small AI...",
-      "url": "https://thehackernews.com/2026/10/anthropic-warns-small-ai-models-could.html",
-      "date": "2026-10-13T18:20:57Z"
-    },
-    {
-      "title": "Docker Fixes Critical Two-Year-Old Hub Flaw That Let One User Push Images as Another",
-      "description": "[FEEDS] A flaw in Docker Hub, the registry where container images are published and downloaded, let one user push, pull, or delete images as another user. Docker fixed the flaw on September 30 and says it found no evidence that anyone exploited it. The flaw...",
-      "url": "https://thehackernews.com/2026/10/docker-fixes-critical-two-year-old-hub.html",
-      "date": "2026-10-13T18:03:18Z"
-    },
-    {
       "title": "Toptal Launches ExpertCrowd to Train AI with Vetted Domain Experts, Releases Frontier SWE Benchmark",
       "description": "[THE MANILA TIMES] **media[1258405]**SAN FRANCISCO, Oct. 14, 2026 /PRNewswire/ -- Toptal, the world's largest talent network of highly skilled domain experts, today announced the launch of ExpertCrowd, a platform for training and improving AI models and systems...",
       "url": "https://www.manilatimes.net/2026/10/14/tmt-newswire/pr-newswire/toptal-launches-expertcrowd-to-train-ai-with-vetted-domain-experts-releases-frontier-swe-benchmark/2445004",
       "date": "2026-10-13T17:46:42Z"
-    },
-    {
-      "title": "Google's Gemini 4 Argon Is Here: Sundar Pichai Announces Global Rollout",
-      "description": "[NDTV PROFIT] Google has launched Gemini 4 Argon globally, its latest frontier AI model built for complex tasks in coding, finance, legal work, cybersecurity and science. It\u2019s available via the Gemini API and to AI Pro and Ultra subscribers.",
-      "url": "https://www.ndtvprofit.com/technology/googles-gemini-4-argon-is-here-sundar-pichai-announces-global-rollout-12180930",
-      "date": "2026-10-13T17:42:21Z"
-    },
-    {
-      "title": "French supermarket fridge cyberattack",
-      "description": "[TELEGRAPH INDIA] The investigation comes as Dutch supermarket company Ahold Delhaize grapples with a separate cybersecurity incident that disrupted online services, although Dutch authorities said they saw no connection between the two events",
-      "url": "https://www.telegraphindia.com/world/hackers-seize-control-of-fridges-at-350-french-supermarkets-investigators-hunt-for-culprits/cid/2184581",
-      "date": "2026-10-13T17:41:01Z"
-    },
-    {
-      "title": "Attacker Chains Three Ivanti Connect Secure Zero-Days for Root Access, Only Two Patched So Far",
-      "description": "[FEEDS] An attacker chained three zero-day flaws in Ivanti Connect Secure, a VPN appliance, to run commands as root without logging in, security firm&nbsp;Volexity said&nbsp;on October 13. Ivanti has released fixes for two of the flaws and told customers on...",
-      "url": "https://thehackernews.com/2026/10/attacker-chains-three-ivanti-connect.html",
-      "date": "2026-10-13T17:33:11Z"
-    },
-    {
-      "title": "Canadian ransomware negotiator arrested in FBI hacker sweep",
-      "description": "[CP24 TORONTO] A Canadian ransomware negotiator was arrested Thursday and faces unspecified extortion charges, according to court documents, prison records and a person familiar with the matter, as the FBI cracks down on a hacking group that stole information...",
-      "url": "https://www.cp24.com/news/canada/2026/10/13/canadian-ransomware-negotiator-arrested-amid-fbi-hacker-crackdown/",
-      "date": "2026-10-13T17:20:40Z"
-    },
-    {
-      "title": "Jamie Dimon Warns Against Letting AI Agents Into Your Bank Account",
-      "description": "[BUSINESS INSIDER] There's lots of fear brewing around AI agents and banking, but JPMorgan seems more focused on cybersecurity than the threat of bank runs.",
-      "url": "https://www.businessinsider.com/jamie-dimon-jpmorgan-warning-ai-agents-into-bank-account-2026-10",
-      "date": "2026-10-13T17:15:29Z"
-    },
-    {
-      "title": "Google rolls out next-gen AI model to developers globally",
-      "description": "[DECCAN HERALD] Gemini 4 Argon: Google expands its advanced generative AI model globally for developers and enterprises, featuring a 1M-token output limit, software engineering support, cybersecurity defense tools, and new enterprise partnerships across major...",
-      "url": "https://www.deccanherald.com/technology/artificial-intelligence/google-rolls-out-next-gen-gemini-4-argon-ai-model-to-developers-globally-4181163",
-      "date": "2026-10-13T17:01:53Z"
     },
     {
       "title": "ISC Stormcast For Tuesday, October 13th, 2026 https://isc.sans.edu/podcastdetail/10134, (Tue, Oct 13th)",
@@ -192,18 +204,6 @@
       "description": "[SCHNEIER] Apple just released a system called &#8220;Reference Image.&#8221; It can verify the image is exactly as taken by an iPhone&#8212;new models only&#8212;without tying it to a specific iPhone or photographer. It can also verify that multiple images...",
       "url": "https://www.schneier.com/blog/archives/2026/10/apples-verified-photography-system.html",
       "date": "2026-10-07T11:07:36Z"
-    },
-    {
-      "title": "Possible Vulnerability in Apple\u2019s Automatic Reboot",
-      "description": "[SCHNEIER] 404Media is reporting (alternate link) that a cyber-weapons arms manufacturer is exploiting a vulnerability in iOS to bypass its automatic reboot security feature. This is the feature that automatically puts an iPhone into a more secure state if it...",
-      "url": "https://www.schneier.com/blog/archives/2026/10/possible-vulnerability-in-apples-automatic-reboot.html",
-      "date": "2026-10-06T11:06:46Z"
-    },
-    {
-      "title": "Another Historic Cipher Falls to AI",
-      "description": "[SCHNEIER] This one is from 1809, written by Napoleon&#8217;s nephew.",
-      "url": "https://www.schneier.com/blog/archives/2026/10/another-historic-cipher-falls-to-ai.html",
-      "date": "2026-10-05T11:04:47Z"
     }
   ]
 }
