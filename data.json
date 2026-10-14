@@ -1,11 +1,35 @@
 {
-  "updated": "2026-10-14 02:43:56 UTC",
+  "updated": "2026-10-14 09:08:09 UTC",
   "news": [
+    {
+      "title": "Orphaned VBA Projects Inside DWG Files, (Wed, Oct 14th)",
+      "description": "[ISC] Years ago I wrote diary entries about VBA code stored inside AutoCAD drawing files (.dwg).&#xd;",
+      "url": "https://isc.sans.edu/diary/rss/33420",
+      "date": "2026-10-14T06:49:46Z"
+    },
+    {
+      "title": "Four-Byte Write and Timing Bug Let Researchers Run Code in Windows SmartScreen Enclave",
+      "description": "[FEEDS] Security researchers ran their own code inside a protected part of Windows that is meant to stay sealed off even when the rest of the computer is taken over. The protected area is a VBS enclave, an isolated slice of memory the operating system uses...",
+      "url": "https://thehackernews.com/2026/10/four-byte-write-and-timing-bug-let.html",
+      "date": "2026-10-14T05:52:28Z"
+    },
+    {
+      "title": "Microsoft Patches Record 1,413 Flaws, Including Exploited Windows Shell Bug",
+      "description": "[FEEDS] Microsoft on Tuesday shattered its own Patch Tuesday record by shipping patches for a whopping 1,413 vulnerabilities, including one that it said has come under active exploitation. These include 1,102 flaws in Windows, 134 in Office, 61 in Developer...",
+      "url": "https://thehackernews.com/2026/10/microsoft-patches-record-1413-flaws.html",
+      "date": "2026-10-14T04:34:43Z"
+    },
     {
       "title": "ISC Stormcast For Wednesday, October 14th, 2026 https://isc.sans.edu/podcastdetail/10136, (Wed, Oct 14th)",
       "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
       "url": "https://isc.sans.edu/diary/rss/33424",
       "date": "2026-10-14T02:00:03Z"
+    },
+    {
+      "title": "OpenAI Employee Arrested for Allegedly Planting Hidden Recorder in Executive Conference Room",
+      "description": "[FEEDS] A Saudi National and employee of OpenAI has been arrested for allegedly planting a hidden recording device in an executive conference room at the company's San Francisco offices to covertly record sensitive conversations. Abdulrahman Alfozan, 35,...",
+      "url": "https://thehackernews.com/2026/10/openai-employee-arrested-for-allegedly.html",
+      "date": "2026-10-14T01:59:25Z"
     },
     {
       "title": "OpenAI engineer arrested for allegedly planting spy device in office",
@@ -24,6 +48,18 @@
       "description": "[BLEEPINGCOMPUTER] Anthropic is warning that small AI models could soon be able to self-replicate across consumer IoT devices, from Android TV boxes to smart ovens, creating distributed botnets capable of running AI workloads without relying on data centers. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/anthropic-warns-self-replicating-ai-could-spread-to-your-smart-devices/",
       "date": "2026-10-13T21:16:34Z"
+    },
+    {
+      "title": "Ahold Delhaize cybersecurity issue takes Stop & Shop systems offline",
+      "description": "[FOX BUSINESS] Ahold Delhaize USA says a cybersecurity issue caused website and app outages at Stop & Shop, Hannaford, Food Lion and other grocery store chains this week.",
+      "url": "https://www.foxbusiness.com/lifestyle/food-lion-stop-shop-hannaford-websites-face-outages-after-cybersecurity-issue",
+      "date": "2026-10-13T20:27:01Z"
+    },
+    {
+      "title": "Army's Project Gatekeeper aims to cut software approval times from months to \u2018minutes\u2019",
+      "description": "[BREAKING DEFENSE] The service\u2019s new cybersecurity testing sandbox will stand up on Oct. 23, said acting Army CIO Gabe Chiulli, streamlining the current cumbersome, ad hoc arrangements for clearing commercial software for Army networks.",
+      "url": "https://breakingdefense.com/2026/10/armys-project-gatekeeper-aims-to-cut-software-approval-times-from-months-to-minutes/",
+      "date": "2026-10-13T20:23:16Z"
     },
     {
       "title": "Microsoft October 2026 Patch Tuesday fixes 1,411 flaws, 3 zero-days",
@@ -50,6 +86,18 @@
       "date": "2026-10-13T19:04:38Z"
     },
     {
+      "title": "DOJ arrests two, seizes 187 devices in North Korean laptop farm crackdown in Texas",
+      "description": "[HINDUSTAN TIMES] USA-CYBERSECURITY/NORTHKOREA-ARRESTS:DOJ arrests two, seizes 187 devices in North Korean laptop farm crackdown in Texas",
+      "url": "https://www.hindustantimes.com/world-news/us-news/doj-arrests-two-seizes-187-devices-in-north-korean-laptop-farm-crackdown-in-texas-101791918104093.html",
+      "date": "2026-10-13T19:01:43Z"
+    },
+    {
+      "title": "Hannaford website down after parent company reports cybersecurity incident",
+      "description": "[BANGOR DAILY NEWS] The announcement from the Dutch company comes as separate cyberattacks caused refrigeration systems to overheat at hundreds of grocery stores in France.",
+      "url": "https://www.bangordailynews.com/2026/10/13/nation/hannaford-ahold-delhaize-cybersecurity-problem/",
+      "date": "2026-10-13T18:44:44Z"
+    },
+    {
       "title": "Anthropic Warns Small AI Models Could Soon Form Self-Propagating IoT Botnets",
       "description": "[FEEDS] Small artificial intelligence (AI) models may be months away from developing capabilities to self-replicate on IoT devices like smart ovens and off-brand Android TV boxes, according to a warning from Anthropic. The frontier AI lab said small AI...",
       "url": "https://thehackernews.com/2026/10/anthropic-warns-small-ai-models-could.html",
@@ -62,88 +110,46 @@
       "date": "2026-10-13T18:03:18Z"
     },
     {
+      "title": "Toptal Launches ExpertCrowd to Train AI with Vetted Domain Experts, Releases Frontier SWE Benchmark",
+      "description": "[THE MANILA TIMES] **media[1258405]**SAN FRANCISCO, Oct. 14, 2026 /PRNewswire/ -- Toptal, the world's largest talent network of highly skilled domain experts, today announced the launch of ExpertCrowd, a platform for training and improving AI models and systems...",
+      "url": "https://www.manilatimes.net/2026/10/14/tmt-newswire/pr-newswire/toptal-launches-expertcrowd-to-train-ai-with-vetted-domain-experts-releases-frontier-swe-benchmark/2445004",
+      "date": "2026-10-13T17:46:42Z"
+    },
+    {
+      "title": "Google's Gemini 4 Argon Is Here: Sundar Pichai Announces Global Rollout",
+      "description": "[NDTV PROFIT] Google has launched Gemini 4 Argon globally, its latest frontier AI model built for complex tasks in coding, finance, legal work, cybersecurity and science. It\u2019s available via the Gemini API and to AI Pro and Ultra subscribers.",
+      "url": "https://www.ndtvprofit.com/technology/googles-gemini-4-argon-is-here-sundar-pichai-announces-global-rollout-12180930",
+      "date": "2026-10-13T17:42:21Z"
+    },
+    {
+      "title": "French supermarket fridge cyberattack",
+      "description": "[TELEGRAPH INDIA] The investigation comes as Dutch supermarket company Ahold Delhaize grapples with a separate cybersecurity incident that disrupted online services, although Dutch authorities said they saw no connection between the two events",
+      "url": "https://www.telegraphindia.com/world/hackers-seize-control-of-fridges-at-350-french-supermarkets-investigators-hunt-for-culprits/cid/2184581",
+      "date": "2026-10-13T17:41:01Z"
+    },
+    {
       "title": "Attacker Chains Three Ivanti Connect Secure Zero-Days for Root Access, Only Two Patched So Far",
       "description": "[FEEDS] An attacker chained three zero-day flaws in Ivanti Connect Secure, a VPN appliance, to run commands as root without logging in, security firm&nbsp;Volexity said&nbsp;on October 13. Ivanti has released fixes for two of the flaws and told customers on...",
       "url": "https://thehackernews.com/2026/10/attacker-chains-three-ivanti-connect.html",
       "date": "2026-10-13T17:33:11Z"
     },
     {
-      "title": "SAP Discloses Critical CVSS 10 Flaw in Cloud SDK for Python Allowing OAuth2 Credential Theft",
-      "description": "[FEEDS] A flaw in SAP's&nbsp;Cloud SDK for Python&nbsp;can send an application's OAuth2 client credentials to a server an attacker controls, SAP said in a&nbsp;security advisory&nbsp;on October 13. The flaw affects multi-tenant applications on SAP Business...",
-      "url": "https://thehackernews.com/2026/10/sap-discloses-critical-cvss-10-flaw-in.html",
-      "date": "2026-10-13T17:28:50Z"
+      "title": "Canadian ransomware negotiator arrested in FBI hacker sweep",
+      "description": "[CP24 TORONTO] A Canadian ransomware negotiator was arrested Thursday and faces unspecified extortion charges, according to court documents, prison records and a person familiar with the matter, as the FBI cracks down on a hacking group that stole information...",
+      "url": "https://www.cp24.com/news/canada/2026/10/13/canadian-ransomware-negotiator-arrested-amid-fbi-hacker-crackdown/",
+      "date": "2026-10-13T17:20:40Z"
     },
     {
-      "title": "GitHub Tightens npm Publishing After Flaw Left 1,500+ Packages Vulnerable to Hijacking",
-      "description": "[FEEDS] GitHub has taken the step of expiring unvalidated npm trusted publishing configurations 48 hours after creation after researchers found that it was possible for an attacker to push new versions of a different user's package without having to steal...",
-      "url": "https://thehackernews.com/2026/10/github-tightens-npm-publishing-after.html",
-      "date": "2026-10-13T16:18:18Z"
+      "title": "Jamie Dimon Warns Against Letting AI Agents Into Your Bank Account",
+      "description": "[BUSINESS INSIDER] There's lots of fear brewing around AI agents and banking, but JPMorgan seems more focused on cybersecurity than the threat of bank runs.",
+      "url": "https://www.businessinsider.com/jamie-dimon-jpmorgan-warning-ai-agents-into-bank-account-2026-10",
+      "date": "2026-10-13T17:15:29Z"
     },
     {
-      "title": "Solutions 4 IT Celebrates 8 Years as a WatchGuard Gold Partner",
-      "description": "[THE MANILA TIMES] Solutions 4 IT has maintained WatchGuard Gold Partner status for more than eight years, reflecting sustained investment in cybersecurity training, certification and vendor expertise since first achieving the accreditation in July 2018.",
-      "url": "https://www.manilatimes.net/2026/10/13/tmt-newswire/plentisoft/solutions-4-it-celebrates-8-years-as-a-watchguard-gold-partner/2444842",
-      "date": "2026-10-13T14:25:31Z"
-    },
-    {
-      "title": "Ahold Delhaize takes systems offline after cyberattack - global retail giant says 'cybersecurity incident' hit systems, but stores remain open",
-      "description": "[TECHRADAR] Ahold Delhaize loses its hold on cybersecurity once again",
-      "url": "https://www.techradar.com/pro/security/ahold-delhaize-takes-systems-offline-after-cyberattack-global-retail-giant-says-cybersecurity-incident-hit-systems-but-stores-remain-open",
-      "date": "2026-10-13T14:25:00Z"
-    },
-    {
-      "title": "Anthropic Warns Of AI 'Worms' Spreading Across Smart Gadgets",
-      "description": "[DECCAN CHRONICLE] The finding potentially opens a new front in the cybersecurity threats emerging from AI, which have rattled governments and the companies rushing to adopt the technology",
-      "url": "https://www.deccanchronicle.com/technology/anthropic-warns-of-ai-worms-spreading-across-smart-gadgets-1995524",
-      "date": "2026-10-13T14:14:32Z"
-    },
-    {
-      "title": "From Frozen To Fried! Hackers Allegedly Heat Supermarket Fridges To 50\u00b0C Across France, Sparking Fires & Massive Food Losses",
-      "description": "[FREE PRESS JOURNAL] A major cyberattack reportedly disrupted refrigeration systems at hundreds of French supermarkets, raising temperatures to 50\u00b0C and causing food spoilage and fires. Carrefour, Monoprix and Intermarch\u00e9 reported affected stores. French cybersecurity...",
-      "url": "https://www.freepressjournal.in/tech/from-frozen-to-fried-hackers-allegedly-heat-supermarket-fridges-to-50c-across-france-sparking-fires-massive-food-losses",
-      "date": "2026-10-13T13:41:47Z"
-    },
-    {
-      "title": "AAA Technologies plans to expand workforce to 1,000 with AI cybersecurity push",
-      "description": "[THE HINDU BUSINESS LINE] AAA Technologies plans to scale its workforce tenfold to 1,000 and expand AI-led cybersecurity, deepfake forensics, DPDP compliance and monitoring services.",
-      "url": "https://www.thehindubusinessline.com/info-tech/aaa-technologies-plans-to-expand-workforce-tenfold-to-1000-amid-ai-cybersecurity-push/article71579656.ece",
-      "date": "2026-10-13T13:41:13Z"
-    },
-    {
-      "title": "Ahold has no indication client data was stolen in cybersecurity incident",
-      "description": "[MARKETSCREENER] Dutch supermarket company Ahold Delhaize has no indication that client data has been stolen in the cybersecurity incident that forced it to shut down several systems in recent days, it said in a...",
-      "url": "https://www.marketscreener.com/news/ahold-has-no-indication-client-data-was-stolen-in-cybersecurity-incident-ce785dddde81f223",
-      "date": "2026-10-13T13:17:32Z"
-    },
-    {
-      "title": "like privacy\u2019 but Bank Data Breaches Threaten Users",
-      "description": "[COINTELEGRAPH] BIS said that digital cash can offer \u201ccash-like privacy,\u201d but the technology stack is not yet \u201cproduction-ready,\u201d due to bank data breach-related contagion concerns.",
-      "url": "https://cointelegraph.com/news/bis-digital-cash-privacy-bank-data-breaches",
-      "date": "2026-10-13T13:17:17Z"
-    },
-    {
-      "title": "Enterprise Cybersecurity: The Supply-Demand Intelligence Report Q4 2026 By Analyst Layer",
-      "description": "[NEWSX] Where enterprise security leaders are investing this quarter \u2014 and whether the specialized cybersecurity talent to deliver it actually exists right now. You Might Be Interested In Supreme\u2026",
-      "url": "https://www.newsx.com/business/enterprise-cybersecurity-the-supply-demand-intelligence-report-q4-2026-by-analyst-layer-2-282992/",
-      "date": "2026-10-13T13:16:07Z"
-    },
-    {
-      "title": "Ahold has no indication client data was stolen in cybersecurity incident",
-      "description": "[THE STAR] AMSTERDAM, Oct 13 (Reuters) - \u2060Dutch supermarket company Ahold Delhaize has \u2060no indication that client data has \u200cbeen stolen in the cybersecurity incident that forced it to shut down several systems in recent \u200bdays, it said in a \u2060statement on...",
-      "url": "https://www.thestar.com.my/tech/tech-news/2026/10/13/ahold-has-no-indication-client-data-was-stolen-in-cybersecurity-incident",
-      "date": "2026-10-13T13:13:00Z"
-    },
-    {
-      "title": "Xandr Fined a Record \u20ac8.6 Million for Relaying Grindr Data Revealing Sexual Orientation",
-      "description": "[FEEDS] The Norwegian Data Protection Authority (DPA) has fined Xandr, an advertising unit owned by Microsoft, \u20ac8.6 million ($9.62 million) for illegally relaying \u200bGrindr users' sensitive data to advertisers. The administrative penalty is the largest issued...",
-      "url": "https://thehackernews.com/2026/10/xandr-fined-record-86-million-for.html",
-      "date": "2026-10-13T13:12:32Z"
-    },
-    {
-      "title": "Over 8.7 million karaoke fans at risk after major data breach \u2014 Japanese giant Nippon Columbia says malware infection was to blame for exposing records",
-      "description": "[TECHRADAR] Karaoke maker had its files exposed after third-party malware incident",
-      "url": "https://www.techradar.com/pro/security/over-8-7-million-karaoke-fans-at-risk-after-major-data-breach-japanese-giant-nippon-columbia-says-malware-infection-was-to-blame-for-exposing-records",
-      "date": "2026-10-13T13:05:00Z"
+      "title": "Google rolls out next-gen AI model to developers globally",
+      "description": "[DECCAN HERALD] Gemini 4 Argon: Google expands its advanced generative AI model globally for developers and enterprises, featuring a 1M-token output limit, software engineering support, cybersecurity defense tools, and new enterprise partnerships across major...",
+      "url": "https://www.deccanherald.com/technology/artificial-intelligence/google-rolls-out-next-gen-gemini-4-argon-ai-model-to-developers-globally-4181163",
+      "date": "2026-10-13T17:01:53Z"
     },
     {
       "title": "ISC Stormcast For Tuesday, October 13th, 2026 https://isc.sans.edu/podcastdetail/10134, (Tue, Oct 13th)",
@@ -174,12 +180,6 @@
       "description": "[SCHNEIER] On Wednesday I spent a day fishing, on a small boat out of Gloucester, MA. We caught many cod (none of which we could keep), and a bunch of hake and mackerel (all of which we could keep). And&#8230;I caught a squid! Near as I can tell, it&#8217;s a...",
       "url": "https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-i-caught-a-squid.html",
       "date": "2026-10-09T20:24:45Z"
-    },
-    {
-      "title": "ISC Stormcast For Friday, October 9th, 2026 https://isc.sans.edu/podcastdetail/10130, (Fri, Oct 9th)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33412",
-      "date": "2026-10-09T07:52:03Z"
     },
     {
       "title": "How Technology Empowers\u2014and Imperils\u2014Dictators",
