@@ -1,17 +1,71 @@
 {
-  "updated": "2026-10-15 08:41:09 UTC",
+  "updated": "2026-10-15 14:32:26 UTC",
   "news": [
     {
-      "title": "UK Legal Aid Agency: Hackers stole records dating back to 1978",
-      "description": "[BLEEPINGCOMPUTER] The Legal Aid Agency (LAA), an executive agency of the UK's Ministry of Justice that manages the country's Public Defender Service, says attackers who breached its IT systems in April 2025 stole records dating back to 1978. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/uk-legal-aid-agency-hackers-stole-records-dating-back-to-1978/",
-      "date": "2026-10-15T08:06:47Z"
+      "title": "Is AI pentesting as good as a human pentester?",
+      "description": "[BLEEPINGCOMPUTER] AI pentesting can uncover vulnerabilities missed by human testers, but it also has limitations in consistency, risk assessment, and understanding business context. Intruder compares the strengths and weaknesses of both approaches and explains where...",
+      "url": "https://www.bleepingcomputer.com/news/security/is-ai-pentesting-as-good-as-a-human-pentester/",
+      "date": "2026-10-15T14:01:11Z"
+    },
+    {
+      "title": "Microsoft: Windows Server 2022 reached end of mainstream support",
+      "description": "[BLEEPINGCOMPUTER] Microsoft announced that Windows Server 2022 has reached the end of mainstream support and will remain in extended support until October 2031. [...]",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2022-reached-end-of-mainstream-support/",
+      "date": "2026-10-15T13:18:36Z"
+    },
+    {
+      "title": "NGINX Fixes 5 Flaws, Including Possible RCE and a TLS Bug That May Skip Client-Cert Checks",
+      "description": "[FEEDS] NGINX released&nbsp;versions 1.30.6 and 1.31.7&nbsp;on October 14 to fix five vulnerabilities, one of them present in every release since May 2005. There are three memory bugs that F5, the company behind NGINX, says could crash a worker process or...",
+      "url": "https://thehackernews.com/2026/10/nginx-fixes-5-flaws-including-possible.html",
+      "date": "2026-10-15T12:58:05Z"
+    },
+    {
+      "title": "Next.js Ships Out-of-Band Patch for Two Critical RCE Flaws in Caching and SVG Processing",
+      "description": "[FEEDS] Next.js released an&nbsp;out-of-band security update&nbsp;on October 14 that fixes two critical flaws allowing unauthenticated remote code execution, along with a high-severity denial-of-service flaw. One code-execution flaw is in React Server...",
+      "url": "https://thehackernews.com/2026/10/nextjs-ships-out-of-band-patch-for-two.html",
+      "date": "2026-10-15T12:28:13Z"
+    },
+    {
+      "title": "Drupal Patches Critical Field UI Flaw With Unauthenticated RCE Path via Contributed Modules",
+      "description": "[FEEDS] Drupal core has a critical flaw in its Field UI module that could let an attacker run code on the site's server, and fixes were shipped on October 14 in Drupal 11.4.10, 11.3.19, and 10.6.19. An attacker cannot reach the flaw through core alone, the...",
+      "url": "https://thehackernews.com/2026/10/drupal-patches-critical-core-rce-flaw.html",
+      "date": "2026-10-15T12:07:20Z"
+    },
+    {
+      "title": "Police arrests 95 suspects in international CSAM crackdown action",
+      "description": "[BLEEPINGCOMPUTER] Law enforcement authorities from 17 countries in Latin America and Europe have arrested 95 suspects in an INTERPOL-coordinated operation targeting the distribution of child sexual abuse material (CSAM) through online messaging groups. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/police-arrests-95-suspects-in-child-sexual-abuse-material-crackdown/",
+      "date": "2026-10-15T11:55:38Z"
+    },
+    {
+      "title": "Fake AI Attacks Spread Across US Companies: How MSSPs Can Stop Incidents Early",
+      "description": "[FEEDS] Attackers are impersonating popular AI products to distribute malware, steal browser sessions, and compromise business accounts. ANY.RUN linked 1,258 public sandbox analyses to fake AI campaigns between April and October of 2026.&nbsp; The campaigns...",
+      "url": "https://thehackernews.com/2026/10/fake-ai-attacks-spread-across-us.html",
+      "date": "2026-10-15T11:46:59Z"
     },
     {
       "title": "Palo Alto Networks Patches PAN-OS Authenticated RCE Flaw Amid Active Exploitation",
       "description": "[FEEDS] Palo Alto Networks on Wednesday issued security updates for a high-severity flaw in PAN-OS software that has come under active exploitation. The vulnerability, tracked as CVE-2026-0322 (CVSS score: 8.6), is a case of remote code execution in the...",
       "url": "https://thehackernews.com/2026/10/palo-alto-networks-patches-pan-os.html",
-      "date": "2026-10-15T06:17:58Z"
+      "date": "2026-10-15T11:46:49Z"
+    },
+    {
+      "title": "Why AI Confidence Is Not Validation",
+      "description": "[FEEDS] AI is already part of digital forensics and incident response work, with or without a policy in place to govern it. The issue is that these tools are growing more confident in their own output faster than practitioners are developing reliable ways...",
+      "url": "https://thehackernews.com/2026/10/why-ai-confidence-is-not-validation.html",
+      "date": "2026-10-15T11:04:35Z"
+    },
+    {
+      "title": "Microsoft fixes bug causing Windows black screens, Explorer crashes",
+      "description": "[BLEEPINGCOMPUTER] Microsoft has resolved a known issue that was causing black screens, desktop loading issues, and Explorer crashes after installing Windows 11 updates released since August. [...]",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-causing-windows-black-screens-explorer-crashes/",
+      "date": "2026-10-15T09:10:20Z"
+    },
+    {
+      "title": "UK Legal Aid Agency: Hackers stole records dating back to 1978",
+      "description": "[BLEEPINGCOMPUTER] The Legal Aid Agency (LAA), an executive agency of the UK's Ministry of Justice that manages the country's Public Defender Service, says attackers who breached its IT systems in April 2025 stole records dating back to 1978. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/uk-legal-aid-agency-hackers-stole-records-dating-back-to-1978/",
+      "date": "2026-10-15T08:06:47Z"
     },
     {
       "title": "ISC Stormcast For Thursday, October 15th, 2026 https://isc.sans.edu/podcastdetail/10138, (Thu, Oct 15th)",
@@ -20,10 +74,22 @@
       "date": "2026-10-15T02:00:03Z"
     },
     {
+      "title": "More than 1 million customers impacted by CenterPoint Energy data breach, AG report filing shows",
+      "description": "[EUROPE SAYS] HOUSTON, Texas (KTRK) -- CenterPoint Energy had a data breach last month that affected more than one million customers, according to a filing with the Office",
+      "url": "https://www.europesays.com/3311148/",
+      "date": "2026-10-15T01:32:20Z"
+    },
+    {
       "title": "Panchan's Mining Island &#x5b;Guest Diary&#x5d;, (Wed, Oct 14th)",
       "description": "[ISC] &#x5b;This is a Guest Diary by Zachary Norwood, an ISC intern as part of the SANS.edu BACS program&#x5d;&#xd;",
       "url": "https://isc.sans.edu/diary/rss/33426",
       "date": "2026-10-15T01:10:57Z"
+    },
+    {
+      "title": "Canadian cybersecurity executive arrested by FBI was in legal battle with former business partner",
+      "description": "[THE GLOBE AND MAIL] In legal filings from earlier this year, Edward Dubrovsky alleged the former CEO of Cypfer had drawn him into a campaign to \u2018destroy\u2019 another industry executive",
+      "url": "https://www.theglobeandmail.com/business/article-canadian-cybersecurity-executive-arrested-by-fbi-was-in-legal-battle/",
+      "date": "2026-10-14T23:23:30Z"
     },
     {
       "title": "Palo Alto Networks warns of PAN-OS RCE flaw exploited in attacks",
@@ -32,10 +98,22 @@
       "date": "2026-10-14T22:56:47Z"
     },
     {
-      "title": "FBI raids DPRK IT worker laptop farms in Texas, US nationals arrested",
-      "description": "[BLEEPINGCOMPUTER] The U.S. Department of Justice (DoJ) has disrupted the Famous Chollima threat group's operations by arresting two suspects, charging 14 individuals, and seizing nearly 187 laptops used in North Korean remote IT worker schemes. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/fbi-raids-dprk-it-worker-laptop-farms-in-texas-us-nationals-arrested/",
-      "date": "2026-10-14T19:41:43Z"
+      "title": "Dr Suthra engages with global leaders at WSF 2026",
+      "description": "[DAILY EXCELSIOR] Excelsior Correspondent WARSAW, Oct 14 : Dr Varun Suthra, cybersecurity strategist, international security expert and Director of International Relations at KIIT University today attended the Warsaw Security Forum (WSF) 2026, held in Poland. The...",
+      "url": "https://www.dailyexcelsior.com/dr-suthra-engages-with-global-leaders-at-wsf-2026/",
+      "date": "2026-10-14T22:11:41Z"
+    },
+    {
+      "title": "AI to Create Many Winners as Large Cos Lead Funding: Chuck Robbins",
+      "description": "[THE ECONOMIC TIMES] Cisco Systems has exceeded its initial target of $1 billion in production from India and is now in discussions with the government about the next goal, said Chuck Robbins, chief executive officer of the US networking and cybersecurity company that...",
+      "url": "https://economictimes.indiatimes.com/epaper/delhicapital/2026/oct/15/et-front/ai-to-create-manywinners-as-largecos-lead-funding/articleshow/134951630.cms",
+      "date": "2026-10-14T21:35:00Z"
+    },
+    {
+      "title": "AI to Create Many Winners as Large Cos Lead Funding: Chuck Robbins",
+      "description": "[THE ECONOMIC TIMES] Cisco Systems has exceeded its initial target of $1 billion in production from India and is now in discussions with the government about the next goal, said Chuck Robbins, chief executive officer of the US networking and cybersecurity company that...",
+      "url": "https://economictimes.indiatimes.com/et-front/ai-to-create-manywinners-as-largecos-lead-funding/articleshow/134951630.cms",
+      "date": "2026-10-14T21:35:00Z"
     },
     {
       "title": "Giant addresses rewards, coupons amid cybersecurity issue",
@@ -44,10 +122,10 @@
       "date": "2026-10-14T19:26:56Z"
     },
     {
-      "title": "Cisco Warns of Active Attacks Exploiting New Critical Secure Email Gateway Vulnerability",
-      "description": "[FEEDS] Attackers are exploiting a critical flaw in Cisco Secure Email Gateway that lets a sender with no login write files to the appliance's operating system, Cisco&nbsp;said in an advisory&nbsp;on Wednesday. The attacker sends an email with a crafted...",
-      "url": "https://thehackernews.com/2026/10/cisco-warns-of-active-attacks.html",
-      "date": "2026-10-14T18:38:56Z"
+      "title": "Anthropic\u2019s AI worm research raises new fears about smart device security",
+      "description": "[SCIENTIFIC AMERICAN] Researchers explored how AI could spread through everyday gadgets. But cybersecurity experts have seen these tricks before",
+      "url": "https://www.scientificamerican.com/article/anthropics-ai-worm-research-raises-new-fears-about-smart-device-security/",
+      "date": "2026-10-14T19:00:00Z"
     },
     {
       "title": "Stop & Shop website, app offline after cybersecurity breach",
@@ -56,34 +134,10 @@
       "date": "2026-10-14T17:49:02Z"
     },
     {
-      "title": "Ledger asks sellers across Asia to halt sales after supply-chain attack",
-      "description": "[BLEEPINGCOMPUTER] Ledger has asked resellers and distributors of its wallets in Indonesia, Singapore, Thailand, the Philippines, Vietnam, Malaysia, and Hong Kong to suspend device sales and remove products from shelves while it investigates device tampering. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/ledger-asks-sellers-across-asia-to-halt-sales-after-supply-chain-attack/",
-      "date": "2026-10-14T17:46:50Z"
-    },
-    {
       "title": "AI companies should \u2018sell solutions\u2019 rather than \u2018fear\u2019, conference hears",
       "description": "[THE IRISH TIMES] Cybersecurity could be a big future growth driver for OpenAI, says executive",
       "url": "https://www.irishtimes.com/business/2026/10/14/ai-companies-should-sell-solutions-rather-than-fear-conference-hears/",
       "date": "2026-10-14T17:45:47Z"
-    },
-    {
-      "title": "Hackers Backdoor Nextcloud Servers Through Critical Flaw in Collabora\u2019s Built-in CODE App",
-      "description": "[FEEDS] Attackers exploited a flaw in an optional Nextcloud app,&nbsp;Collabora Online - Built-in CODE Server, to plant web shells on Nextcloud servers. Three administrators&nbsp;reported the issue on GitHub, with the first logged attack on September 10. A...",
-      "url": "https://thehackernews.com/2026/10/hackers-backdoor-nextcloud-servers.html",
-      "date": "2026-10-14T17:38:31Z"
-    },
-    {
-      "title": "Cisco patches new Secure Email Gateway zero-day exploited in attacks",
-      "description": "[BLEEPINGCOMPUTER] Cisco has patched another actively exploited zero-day flaw in its Secure Email Gateway (SEG) that lets remote unauthenticated attackers execute commands with root privileges. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/cisco-patches-actively-exploited-secure-email-gateway-zero-day/",
-      "date": "2026-10-14T17:29:14Z"
-    },
-    {
-      "title": "Microsoft Disrupts 3 Phishing Kits Linked to Over 1 Billion Scam Messages",
-      "description": "[FEEDS] Microsoft and Health-ISAC, along with the Japan Cybercrime Control Center (JC3) and a coalition of private sector companies, such as Resecurity, Cloudflare, Oracle, Proofpoint, and TRM Labs, announced the disruption of three phishing kits, CoGUI...",
-      "url": "https://thehackernews.com/2026/10/microsoft-disrupts-3-phishing-kits.html",
-      "date": "2026-10-14T17:09:15Z"
     },
     {
       "title": "ARAI first in India to offer full-spectrum vehicle cybersecurity",
@@ -92,58 +146,10 @@
       "date": "2026-10-14T17:05:00Z"
     },
     {
-      "title": "U.S. Shuts Down Over 40 Laptop Farms, Charges 14 in North Korean IT Worker Fraud",
-      "description": "[FEEDS] The U.S. Department of Justice (DoJ) on Tuesday charged 14 people and seized about 187 computers and KVM devices as part of its ongoing efforts to disrupt North Korea's fraudulent remote IT worker (ITW) scheme. The indictment charges a mix of U.S....",
-      "url": "https://thehackernews.com/2026/10/us-shuts-down-over-40-laptop-farms.html",
-      "date": "2026-10-14T16:34:31Z"
-    },
-    {
-      "title": "IITs can make significant contribution by aligning academic research with operational defence requirements: Rajnath Singh",
-      "description": "[ANI (ASIAN NEWS INTERNATIONAL)] Defence Minister Rajnath Singh has called for close collaboration among the Defence Forces, DRDO, academic institutions, defence public sector undertakings and private industry, including start-ups, to accelerate the development, adoption &...",
-      "url": "https://www.aninews.in/news/national/general-news/iits-can-make-significant-contribution-by-aligning-academic-research-with-operational-defence-requirements-rajnath-singh20261014214859/",
-      "date": "2026-10-14T16:18:59Z"
-    },
-    {
-      "title": "Australia\u2019s ageing tech at risk of AI attacks, top official warns",
-      "description": "[AUSTRALIAN FINANCIAL REVIEW] The Australian Signals Directorate has issued new guidelines for boosting cybersecurity in the age of AI, saying the government\u2019s IT systems need an urgent overhaul.",
-      "url": "https://www.afr.com/politics/federal/australia-s-ageing-tech-leaves-it-open-to-ai-attacks-top-official-warns-20261015-p615ia",
-      "date": "2026-10-14T16:03:50Z"
-    },
-    {
       "title": "Upcoming Speaking Engagements",
       "description": "[SCHNEIER] This is a current list of where and when I am scheduled to speak: I\u2019m speaking at ATTENTION: Democracy, Rebuilt in Montreal, Quebec, Canada. The event runs October 21\u201323, 2026, and my talk is on Wednesday, October 21. I\u2019m speaking at the University...",
       "url": "https://www.schneier.com/blog/archives/2026/10/upcoming-speaking-engagements-61.html",
       "date": "2026-10-14T16:02:17Z"
-    },
-    {
-      "title": "The Giant Co. website and app are offline following cybersecurity incident",
-      "description": "[READING EAGLE] The Giant Co. website and app are offline following cybersecurity incident",
-      "url": "https://www.readingeagle.com/2026/10/14/the-giant-co-website-and-app-are-offline-following-cybersecurity-incident/",
-      "date": "2026-10-14T15:26:21Z"
-    },
-    {
-      "title": "700 supermarkets hit, millions lost: France warns cyberattacks on refrigeration systems may still be ongoing",
-      "description": "[TIMES OF INDIA] France's cybersecurity authority has warned that a cyberattack targeting refrigeration systems at supermarkets may still be underway, as stores restock",
-      "url": "https://timesofindia.indiatimes.com/world/europe/700-supermarkets-hit-millions-lost-france-warns-cyberattacks-on-refrigeration-systems-may-still-be-ongoing/articleshow/134944953.cms",
-      "date": "2026-10-14T15:01:00Z"
-    },
-    {
-      "title": "French cybersecurity authority warns attack may be ongoing as stores scramble to restock",
-      "description": "[LOS ANGELES TIMES] Attackers remotely took control of refrigeration systems in hundreds of supermarkets and independent stores across France in the early hours of Monday. Temperatures reached 122 degrees for about six hours, forcing stores to discard fresh and frozen...",
-      "url": "https://www.latimes.com/world-nation/story/2026-10-14/french-cybersecurity-authority-warns-attack-may-be-ongoing-as-stores-scramble-to-restock",
-      "date": "2026-10-14T14:58:25Z"
-    },
-    {
-      "title": "Food Lion, Stop & Shop and Hannaford websites face outages after cybersecurity issue",
-      "description": "[FOX 4 NEWS] The grocery giant took its systems offline as a precaution and states that teams are working to restore service.",
-      "url": "https://www.fox4news.com/news/food-lion-stop-shop-hannaford-websites-cybersecurity-issue",
-      "date": "2026-10-14T14:47:43Z"
-    },
-    {
-      "title": "Microsoft fixes VPN issues caused by September Windows updates",
-      "description": "[BLEEPINGCOMPUTER] Microsoft has resolved a known issue that caused Always On VPN connection issues after installing the September 2026 Windows 11 security updates. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-vpn-issues-caused-by-september-windows-updates/",
-      "date": "2026-10-14T14:27:01Z"
     },
     {
       "title": "The Future of AI Cryptanalysis",
@@ -156,12 +162,6 @@
       "description": "[SCHNEIER] Another IoT cyberattack, this one in France: Hackers gained control of the software that regulates the temperatures of the refrigeration units, forcing some to warm to 50C (120F) overnight, according to one supermarket chain affected. [&#8230;]...",
       "url": "https://www.schneier.com/blog/archives/2026/10/cyberattack-on-connected-fridges-in-france.html",
       "date": "2026-10-14T14:10:22Z"
-    },
-    {
-      "title": "CISA Urges Immediate Ivanti Connect Secure Updates as Honeypots Log 105 Exploit Attempts",
-      "description": "[FEEDS] The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday urged organizations to take steps to immediately update their Ivanti Connect Secure (ICS) appliances and deployments to the latest version following the disclosure of an...",
-      "url": "https://thehackernews.com/2026/10/cisa-urges-immediate-ivanti-connect.html",
-      "date": "2026-10-14T12:30:42Z"
     },
     {
       "title": "Orphaned VBA Projects Inside DWG Files, (Wed, Oct 14th)",
