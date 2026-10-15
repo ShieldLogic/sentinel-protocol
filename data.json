@@ -1,6 +1,24 @@
 {
-  "updated": "2026-10-15 19:33:45 UTC",
+  "updated": "2026-10-15 22:46:32 UTC",
   "news": [
+    {
+      "title": "Hackers exploit Collabora RCE flaw to backdoor Nextcloud servers",
+      "description": "[BLEEPINGCOMPUTER] Threat actors are exploiting a critical command execution flaw, now tracked as CVE-2026-110447, in the Collabora Online - Built-in CODE Server app (richdocumentscode) for Nextcloud. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-collabora-rce-flaw-to-backdoor-nextcloud-servers/",
+      "date": "2026-10-15T20:25:04Z"
+    },
+    {
+      "title": "Critical PwnEscape Linux Kernel Vulnerability Lets Guest VMs Read Host Memory",
+      "description": "[FEEDS] A newly disclosed critical flaw in the Linux kernel allows code inside a virtual machine to read memory on the host computer it runs on. A researcher demonstrated the leak against Vercel's live cloud sandboxes, and Vercel confirmed it. The flaw, now...",
+      "url": "https://thehackernews.com/2026/10/critical-pwnescape-linux-kernel.html",
+      "date": "2026-10-15T20:24:36Z"
+    },
+    {
+      "title": "Android gets AI defenses against messaging scams, fake calls",
+      "description": "[BLEEPINGCOMPUTER] Google announced new AI-powered defenses against scam messages and call-forwarding abuse on Android, currently rolling out to eligible devices. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/android-gets-ai-defenses-against-messaging-scams-fake-calls/",
+      "date": "2026-10-15T19:48:43Z"
+    },
     {
       "title": "ThreatsDay: Adobe RCE, DNS Wallet Theft, NVIDIA Container Escape, Self-Healing Backdoor + 23 More",
       "description": "[FEEDS] Someone built a tool to steal data, then decided it should scare the victim for fun. Yes, that\u2019s an actual feature. And somehow, it fits right in with this week's security stories. The rest gets interesting in different ways. A small permission can...",
@@ -62,82 +80,64 @@
       "date": "2026-10-15T12:58:05Z"
     },
     {
-      "title": "Next.js Ships Out-of-Band Patch for Two Critical RCE Flaws in Caching and SVG Processing",
-      "description": "[FEEDS] Next.js released an&nbsp;out-of-band security update&nbsp;on October 14 that fixes two critical flaws allowing unauthenticated remote code execution, along with a high-severity denial-of-service flaw. One code-execution flaw is in React Server...",
-      "url": "https://thehackernews.com/2026/10/nextjs-ships-out-of-band-patch-for-two.html",
-      "date": "2026-10-15T12:28:13Z"
+      "title": "What India can learn from the incident",
+      "description": "[THE INDIAN EXPRESS] A cyberattack on hundreds of French supermarkets disrupted refrigeration systems and spoiled food worth millions. Here is how the incident happened and what it reveals about cybersecurity risks in India.",
+      "url": "https://indianexpress.com/article/explained/explained-global/france-supermarket-cyberattack-india-critical-infrastructure-risks-explained-10922960/",
+      "date": "2026-10-15T10:00:37Z"
     },
     {
-      "title": "Police arrests 95 suspects in international CSAM crackdown action",
-      "description": "[BLEEPINGCOMPUTER] Law enforcement authorities from 17 countries in Latin America and Europe have arrested 95 suspects in an INTERPOL-coordinated operation targeting the distribution of child sexual abuse material (CSAM) through online messaging groups. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/police-arrests-95-suspects-in-child-sexual-abuse-material-crackdown/",
-      "date": "2026-10-15T11:55:38Z"
+      "title": "Denmark data breach: Weak \u2018123456\u2019 password allegedly exposes 8.8 million personal records",
+      "description": "[FIRSTPOST] Denmark\u2019s central population database has reportedly suffered a major security breach, with around 8.8 million records allegedly accessed through a third-party IT provider. The incident has raised concerns over weak passwords, delayed detection and...",
+      "url": "https://www.firstpost.com/tech/denmark-data-breach-weak-123456-password-allegedly-exposes-8-8-million-personal-records-14053085.html",
+      "date": "2026-10-15T09:44:17Z"
     },
     {
-      "title": "Microsoft fixes bug causing Windows black screens, Explorer crashes",
-      "description": "[BLEEPINGCOMPUTER] Microsoft has resolved a known issue that was causing black screens, desktop loading issues, and Explorer crashes after installing Windows 11 updates released since August. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-causing-windows-black-screens-explorer-crashes/",
-      "date": "2026-10-15T09:10:20Z"
+      "title": "Canadian AI lab Cohere moves to buy AI cybersecurity startup AISLE",
+      "description": "[THE ECONOMIC TIMES] Cohere has taken a significant step in the cybersecurity arena by signing a letter of intent to acquire AISLE, an AI-driven startup focused on detecting software vulnerabilities. This move comes after Cohere's substantial $20 billion merger with...",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/cohere-moves-to-buy-ai-cybersecurity-startup-aisle/articleshow/134962788.cms",
+      "date": "2026-10-15T09:05:27Z"
+    },
+    {
+      "title": "Cohere moves to buy AI cybersecurity startup AISLE",
+      "description": "[MARKETSCREENER] Canadian AI lab Cohere said on Thursday it had signed a letter of intent to buy AISLE, a San Francisco-based cybersecurity startup that uses AI to detect vulnerabilities in software. ...",
+      "url": "https://www.marketscreener.com/news/cohere-moves-to-buy-ai-cybersecurity-startup-aisle-ce785dd3db81fe24",
+      "date": "2026-10-15T09:02:15Z"
+    },
+    {
+      "title": "Google\u2019s Gemini 4 Argon takes on OpenAI, Anthropic with focus on coding, research and reasoning",
+      "description": "[THE ECONOMIC TIMES] Google has made its AI model Gemini 4 Argon available globally for developers and enterprises through API access. This launch follows its prior limited access for selected cybersecurity professionals, enhancing its competitive edge. OpenAI and...",
+      "url": "https://economictimes.indiatimes.com/ai/ai-insights/google-gemini-4-argon-openai-gpt-6-astra-anthropic-claude-opus-5-5-coding-research-and-reasoning/articleshow/134962138.cms",
+      "date": "2026-10-15T08:59:00Z"
+    },
+    {
+      "title": "Not just computers, your next cybersecurity risk could be sitting in your kitchen, says experts",
+      "description": "[FIRSTPOST] A cyberattack that disrupted refrigeration systems at hundreds of French supermarkets has highlighted a growing weakness in connected devices. As household appliances become increasingly dependent on internet access and remote controls, security...",
+      "url": "https://www.firstpost.com/tech/not-just-computers-your-next-cybersecurity-risk-could-be-sitting-in-your-kitchen-says-experts-14053054.html",
+      "date": "2026-10-15T08:25:05Z"
+    },
+    {
+      "title": "French cybersecurity authority warns of ongoing attack",
+      "description": "[ARKANSAS ONLINE] PARIS -- France's cybersecurity authority has warned that a cyberattack targeting supermarkets may still be ongoing as stores restocked Wednesday after the attack sent refrigerator temperatures soaring, raising concerns about the security of vital...",
+      "url": "https://www.arkansasonline.com/news/2026/oct/15/french-cybersecurity-authority-warns-of-ongoing/",
+      "date": "2026-10-15T08:19:00Z"
+    },
+    {
+      "title": "million dollar deal from American specialty engineering & construction firm",
+      "description": "[CNBC TV18] LTM secured a multi-million dollar AI-led managed services deal from a North American engineering firm to consolidate infrastructure and cybersecurity.",
+      "url": "https://www.cnbctv18.com/market/ltm-share-price-multi-million-dollar-deal-american-specialty-engineering-construction-firm-scope-implications-20012451.htm",
+      "date": "2026-10-15T08:15:03Z"
+    },
+    {
+      "title": "Hornetsecurity by Proofpoint introduces new capabilities to support secure AI adoption for organisations using Microsoft 365",
+      "description": "[PR NEWSWIRE UK] /PRNewswire/ -- Leading global cybersecurity company, Hornetsecurity by Proofpoint, has announced new capabilities across its next-gen security portfolio for...",
+      "url": "https://www.prnewswire.co.uk/news-releases/hornetsecurity-by-proofpoint-introduces-new-capabilities-to-support-secure-ai-adoption-for-organisations-using-microsoft-365-302908769.html",
+      "date": "2026-10-15T08:00:00Z"
     },
     {
       "title": "Jensen Huang says AI cyber incidents should not be tolerated, tells AI doomers to \u2018stop working on\u2019 the technology",
       "description": "[HINDUSTAN TIMES] Nvidia CEO Jensen Huang says AI cybersecurity incidents should not be tolerated as the technology advances. | Trending",
       "url": "https://www.hindustantimes.com/trending/jensen-huang-says-ai-cyber-incidents-should-not-be-tolerated-tells-ai-doomers-to-stop-working-on-the-technology-101792047295556.html",
       "date": "2026-10-15T07:20:06Z"
-    },
-    {
-      "title": "French fridge hack highlights need for connected equipment security in Korea",
-      "description": "[THE KOREA TIMES] A recent hacking incident involving commercial refrigerators at supermarkets in France is highlighting the importance of cybersecurity for connecte...",
-      "url": "https://www.koreatimes.co.kr/business/tech-science/20261015/french-fridge-hack-highlights-need-for-connected-equipment-security-in-korea",
-      "date": "2026-10-15T07:13:03Z"
-    },
-    {
-      "title": "Coro and Activa Digital Announce Strategic Partnership to Deliver Unified Workspace Cybersecurity",
-      "description": "[THE MANILA TIMES] NEW YORK, Oct. 15, 2026 (GLOBE NEWSWIRE) -- Coro, a leading workspace cybersecurity platform provider purpose-built for organizations with Lean IT teams, and Activa Digital, an Italian managed service provider (MSP) focused on delivering modular,...",
-      "url": "https://www.manilatimes.net/2026/10/15/tmt-newswire/globenewswire/coro-and-activa-digital-announce-strategic-partnership-to-deliver-unified-workspace-cybersecurity/2446232",
-      "date": "2026-10-15T07:13:02Z"
-    },
-    {
-      "title": "Swedish authorities approve Sectra's stationary phone to handle information on classification level SECRET",
-      "description": "[PR NEWSWIRE UK] /PRNewswire/ -- International cybersecurity and medical imaging IT company Sectra (STO: SECT B) has received approval from the Swedish authorities for its...",
-      "url": "https://www.prnewswire.co.uk/news-releases/swedish-authorities-approve-sectras-stationary-phone-to-handle-information-on-classification-level-secret-302909705.html",
-      "date": "2026-10-15T06:54:00Z"
-    },
-    {
-      "title": "South Korea plans tougher crypto security after 16 hacks",
-      "description": "[CRYPTO NEWS] South Korea plans tougher cybersecurity checks after breaches at 16 financial firms exposed 100,000 records, with crypto exchanges among those affected.",
-      "url": "https://crypto.news/south-korea-plans-tougher-crypto-security/",
-      "date": "2026-10-15T06:53:24Z"
-    },
-    {
-      "title": "LTM signs three-year deal to manage infrastructure, cybersecurity and applications",
-      "description": "[THE FINANCIAL EXPRESS] LTM has secured a multi-million-dollar managed services deal with a North American engineering firm to consolidate IT infrastructure, cybersecurity, and application services under an AI-driven model for enhanced efficiency and resilience.",
-      "url": "https://www.financialexpress.com/business/industry-ltm-signs-three-year-deal-to-manage-infrastructure-cybersecurity-and-applications-4361866/",
-      "date": "2026-10-15T06:47:51Z"
-    },
-    {
-      "title": "Shen Bin: Chinese steel industry still in period of deep adjustment",
-      "description": "[STEELORBIS] On October 13, China Iron and Steel Association (CISA) officials, including vice president Jiang Wei, vice chairmen Luo Tiejun and Liu Andong, deputy ...",
-      "url": "https://www.steelorbis.com/steel-news/latest-news/shen-bin-chinese-steel-industry-still-in-period-of-deep-adjustment-1483739.htm",
-      "date": "2026-10-15T06:42:35Z"
-    },
-    {
-      "title": "South Korea Plans Cybersecurity Overhaul After Crypto Exchange Incidents",
-      "description": "[COINTELEGRAPH] South Korea plans tighter cybersecurity rules after incidents involving 16 financial firms, including crypto exchanges Gopax and Prabang.",
-      "url": "https://cointelegraph.com/news/south-korea-cybersecurity-overhaul-crypto-exchanges",
-      "date": "2026-10-15T05:52:21Z"
-    },
-    {
-      "title": "LTM secures multi-million dollar AI managed services deal in North America",
-      "description": "[SCANX.TRADE] LTM secured a multi-million dollar managed services deal with a North American firm. The three-year engagement consolidates infrastructure, cybersecurity, and app services. LTM will deploy an AI-led operating model with observability and automation....",
-      "url": "https://scanx.trade/stock-market-news/companies/ltm-secures-multi-million-dollar-ai-managed-services-deal-north/53587184",
-      "date": "2026-10-15T05:19:54Z"
-    },
-    {
-      "title": "French cybersecurity authority warns attack may be ongoing as stores scramble to restock",
-      "description": "[THE STAR] France's cybersecurity authority has warned that a cyberattack targeting supermarkets may still be ongoing as stores restocked on Oct 14 after the attack sent refrigerator temperatures soaring.",
-      "url": "https://www.thestar.com.my/tech/tech-news/2026/10/15/french-cybersecurity-authority-warns-attack-may-be-ongoing-as-stores-scramble-to-restock",
-      "date": "2026-10-15T04:00:00Z"
     },
     {
       "title": "ISC Stormcast For Thursday, October 15th, 2026 https://isc.sans.edu/podcastdetail/10138, (Thu, Oct 15th)",
