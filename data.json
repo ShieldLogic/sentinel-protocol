@@ -1,209 +1,137 @@
 {
-  "updated": "2026-10-16 14:24:33 UTC",
-  "news": [
-    {
-      "title": "Employees using personal ChatGPT at work? Here's what IT admins need to do",
-      "description": "[BLEEPINGCOMPUTER] Employees using personal ChatGPT accounts at work can expose sensitive company data, even when their organization provides an approved Enterprise workspace. NordLayer explains how IT teams can investigate unauthorized AI use and block sensitive...",
-      "url": "https://www.bleepingcomputer.com/news/security/employees-using-personal-chatgpt-at-work-heres-what-it-admins-need-to-do/",
-      "date": "2026-10-16T13:50:59Z"
-    },
-    {
-      "title": "Burger King Japan data breach exposes 11 million customer records",
-      "description": "[BLEEPINGCOMPUTER] Burger King Japan, the Japanese subsidiary of global fast-food giant Burger King, disclosed a major data breach after attackers accessed a server containing 11.18 million customer records. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/burger-king-japan-data-breach-exposes-11-million-customer-records/",
-      "date": "2026-10-16T12:01:29Z"
-    },
-    {
-      "title": "AI Decision Models and Their Impact on AI SOC Platforms",
-      "description": "[FEEDS] In the space of a month, a new category of AI model went from nonexistent to everywhere. TypeSafe AI released Jev on September 15 and called it a System One model, a nod to Kahneman's fast, intuitive thinking. OpenAI announced its own Decisions API...",
-      "url": "https://thehackernews.com/2026/10/ai-decision-models-and-their-impact-on.html",
-      "date": "2026-10-16T11:30:00Z"
-    },
-    {
-      "title": "Backdooring Open-Weight AI Models",
-      "description": "[SCHNEIER] This is a problem: Any open model whose weights have been edited can carry a backdoor, whether it&#8217;s a task-specific fine-tune, a merged adapter or an abliterated build. We have abliterated models in the title because it&#8217;s the most...",
-      "url": "https://www.schneier.com/blog/archives/2026/10/backdooring-open-weight-ai-models.html",
-      "date": "2026-10-16T11:04:53Z"
-    },
-    {
-      "title": "Microsoft: October Windows update may break Smart App Control",
-      "description": "[BLEEPINGCOMPUTER] Microsoft says some users may have trouble turning on Smart App Control after installing this month's KB5127648 Windows 11 security update. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/kb5127648-windows-security-update-may-break-smart-app-control/",
-      "date": "2026-10-16T08:44:22Z"
-    },
-    {
-      "title": "BAE Systems cyberattack disrupts US federal court operations",
-      "description": "[BLEEPINGCOMPUTER] The Administrative Office of the US Courts says a cyberattack on government contractor BAE Systems has taken down the notice system used by federal bankruptcy courts. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/bae-systems-cyberattack-disrupts-us-federal-court-operations/",
-      "date": "2026-10-16T07:37:35Z"
-    },
-    {
-      "title": "China-Linked Hackers Exploited BeyondTrust Zero-Day to Take Over Remote Support Servers",
-      "description": "[FEEDS] The China-nexus cyber espionage group tracked as Armory Castle (previously UNC5221 or Warp Panda) exploited a newly disclosed security flaw in BeyondTrust Remote Support (formerly Bomgar) as a zero-day in late August 2026. The vulnerability, tracked...",
-      "url": "https://thehackernews.com/2026/10/china-linked-hackers-exploited.html",
-      "date": "2026-10-16T06:55:55Z"
-    },
-    {
-      "title": "CERT-In Warns AI Agents Accessed Sensitive Data at Indian Organizations During Testing",
-      "description": "[FEEDS] AI agents being tested online reached the live systems of Indian organizations and read business records, including personal data and confidential material, CERT-In&nbsp;said in an advisory&nbsp;on October 15. The agents went beyond their assigned...",
-      "url": "https://thehackernews.com/2026/10/cert-in-warns-ai-agents-accessed.html",
-      "date": "2026-10-16T06:53:09Z"
-    },
-    {
-      "title": "BeyondTrust patches zero-day exploited in attacks since August",
-      "description": "[BLEEPINGCOMPUTER] BeyondTrust warned customers on Thursday to patch a critical flaw in its Remote Support (RS) that has been exploited in zero-day attacks since late August. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/beyondtrust-patches-zero-day-exploited-in-attacks-since-august/",
-      "date": "2026-10-16T06:18:08Z"
-    },
-    {
-      "title": "PEERSTITCH Malware Deployed via FortiOS Flaw Bypasses Checks on Tagged VPN Sessions",
-      "description": "[FEEDS] A suspected advanced threat actor has been observed exploiting a security flaw in Fortinet FortiOS to deliver a previously unreported memory-resident ARM64 malware known as PEERSTITCH. The attack involves the exploitation of CVE-2025-61624 (CVSS...",
-      "url": "https://thehackernews.com/2026/10/attackers-exploit-fortios-flaw-to.html",
-      "date": "2026-10-16T04:59:36Z"
-    },
-    {
-      "title": "ISC Stormcast For Friday, October 16th, 2026 https://isc.sans.edu/podcastdetail/10140, (Fri, Oct 16th)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33432",
-      "date": "2026-10-16T02:00:03Z"
-    },
-    {
-      "title": "Proofpoint to Acquire Varonis in a $6.3 Billion Transaction",
-      "description": "[ITWIRE] Combination creates a new cybersecurity powerhouse to deliver a complete security platform that protects against AI-accelerated threats and data risks",
-      "url": "https://itwire.com/it-industry-news/deals/proofpoint-to-acquire-varonis-in-a-6-3-billion-transaction",
-      "date": "2026-10-16T01:01:42Z"
-    },
-    {
-      "title": "Small Agents, Smaller Blast Radius: Controlling What AI Can Do, (Fri, Oct 16th)",
-      "description": "[ISC] I believe the cybersecurity industry may be approaching AI security the wrong way.&#xd;",
-      "url": "https://isc.sans.edu/diary/rss/33430",
-      "date": "2026-10-16T00:46:35Z"
-    },
-    {
-      "title": "IT Support for CPAs: Why Cybersecurity and Workstation Performance Are Critical to Modern Accounting Firms",
-      "description": "[TECHBULLION] For CPA firms, reliable technology ultimately protects client trust while preserving the productivity that makes a",
-      "url": "https://techbullion.com/it-support-for-cpas-why-cybersecurity-and-workstation-performance-are-critical-to-modern-accounting-firms/",
-      "date": "2026-10-16T00:27:47Z"
-    },
-    {
-      "title": "Google warns suspected China-linked hackers could exploit BeyondTrust flaw",
-      "description": "[MARKETSCREENER] Google warned on Thursday that organizations should prepare for potential widespread exploitation after a new bug was found in US cybersecurity firm BeyondTrust's remote support appliances. ...",
-      "url": "https://www.marketscreener.com/news/google-warns-suspected-china-linked-hackers-could-exploit-beyondtrust-flaw-ce785dd3d08bf72c",
-      "date": "2026-10-15T23:28:21Z"
-    },
-    {
-      "title": "Anne Arundel County government was hacked in August",
-      "description": "[BALTIMORE SUN] Anne Arundel County will notify people affected by a 2025 cybersecurity incident as officials probe a separate breach found in August 2026.",
-      "url": "https://www.baltimoresun.com/2026/10/15/anne-arundel-county-government-cyberattack-august/",
-      "date": "2026-10-15T23:24:57Z"
-    },
-    {
-      "title": "Panchan's Mining Island &#x5b;Guest Diary&#x5d;, (Wed, Oct 14th)",
-      "description": "[ISC] &#x5b;This is a Guest Diary by Zachary Norwood, an ISC intern as part of the SANS.edu BACS program&#x5d;&#xd;",
-      "url": "https://isc.sans.edu/diary/rss/33426",
-      "date": "2026-10-15T23:03:42Z"
-    },
-    {
-      "title": "Survey: AI Tools Linked to Rise in Ransomware Attacks",
-      "description": "[NATURAL NEWS] More than 80% of ransomware victims in a new survey reported that their attackers had weaponized artificial intelligence as part of the scheme, according to data made public Wednesday [1]. The 2026 Ransomware Risk Report, produced by cybersecurity...",
-      "url": "https://www.naturalnews.com/2026-10-15-ai-tools-linked-rise-in-ransomware-attacks.html",
-      "date": "2026-10-15T22:55:40Z"
-    },
-    {
-      "title": "Anne Arundel County cyberattack: OfficiAnne Arundel County hit by cyberattack in late Augustals say some files copied in data breach",
-      "description": "[EUROPE SAYS] Anne Arundel County officials said Thursday that they are investigating after they \u201cdetected irregular activity\u201d on some systems within the county\u2019s computer",
-      "url": "https://www.europesays.com/3312869/",
-      "date": "2026-10-15T21:36:17Z"
-    },
-    {
-      "title": "Young entrepreneurs expand into clean energy, SpaceTech and defence, Hurun U35 list shows",
-      "description": "[BUSINESS TODAY] The Avendus Wealth\u2013Hurun India U35 List 2026 features seven entrepreneurs in clean energy and renewables, while 21 founders operate across DeepTech and HardTech segments, including AI, SpaceTech, aerospace and defence, and cybersecurity.",
-      "url": "https://www.businesstoday.in/entrepreneurship/news/story/young-entrepreneurs-expand-into-clean-energy-spacetech-and-defence-hurun-u35-list-shows-561845-2026-10-16",
-      "date": "2026-10-15T21:00:07Z"
-    },
-    {
-      "title": "Thoma Bravo's Proofpoint to buy Varonis Systems in $6.3 billion all-cash deal",
-      "description": "[MARKETSCREENER] Thoma Bravo-owned cybersecurity company Proofpoint will buy data security firm Varonis Systems in all-cash deal valued at about $6.3 billion, the companies said on Thursday. Under the...",
-      "url": "https://www.marketscreener.com/news/thoma-bravo-s-proofpoint-to-buy-varonis-systems-in-6-3-billion-all-cash-deal-ce785dd3d18ff325",
-      "date": "2026-10-15T20:33:16Z"
-    },
-    {
-      "title": "Bristol primary school hit by second cyber attack as records exported in data breach",
-      "description": "[BRISTOL POST] Dozens of schools were left without internet after the first attack last month",
-      "url": "https://www.bristolpost.co.uk/news/bristol-news/bristol-primary-school-hit-second-11201012",
-      "date": "2026-10-15T20:32:55Z"
-    },
-    {
-      "title": "Hackers exploit Collabora RCE flaw to backdoor Nextcloud servers",
-      "description": "[BLEEPINGCOMPUTER] Threat actors are exploiting a critical command execution flaw, now tracked as CVE-2026-110447, in the Collabora Online - Built-in CODE Server app (richdocumentscode) for Nextcloud. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-collabora-rce-flaw-to-backdoor-nextcloud-servers/",
-      "date": "2026-10-15T20:25:04Z"
-    },
-    {
-      "title": "Critical PwnEscape Linux Kernel Vulnerability Lets Guest VMs Read Host Memory",
-      "description": "[FEEDS] A newly disclosed critical flaw in the Linux kernel allows code inside a virtual machine to read memory on the host computer it runs on. A researcher demonstrated the leak against Vercel's live cloud sandboxes, and Vercel confirmed it. The flaw, now...",
-      "url": "https://thehackernews.com/2026/10/critical-pwnescape-linux-kernel.html",
-      "date": "2026-10-15T20:24:36Z"
-    },
-    {
-      "title": "Precision IT Consulting Examines How Fraud Bypassed Cybersecurity Defenses",
-      "description": "[THE EXPOSITOR] A support charge kept one critical call from happening as Precision IT Consulting traces how an everyday business cost became part of the security problem.",
-      "url": "https://www.brantfordexpositor.ca/press-releases/newsfile/precision-it-consulting-examines-how-fraud-bypassed-cybersecurity-defenses/",
-      "date": "2026-10-15T20:10:18Z"
-    },
-    {
-      "title": "ThreatsDay: Adobe RCE, DNS Wallet Theft, NVIDIA Container Escape, Self-Healing Backdoor + 23 More",
-      "description": "[FEEDS] Someone built a tool to steal data, then decided it should scare the victim for fun. Yes, that\u2019s an actual feature. And somehow, it fits right in with this week's security stories. The rest gets interesting in different ways. A small permission can...",
-      "url": "https://thehackernews.com/2026/10/threatsday-adobe-rce-dns-wallet-theft.html",
-      "date": "2026-10-15T18:49:33Z"
-    },
-    {
-      "title": "Measuring Human Cryptanalysis Effort",
-      "description": "[SCHNEIER] Matthew Green has a new site that tries to estimate the number of cryptanalyst-hours that have been spent analyzing different public-key algorithms: Abstract: We estimate how much public cryptanalysis each public-key assumption has received, using...",
-      "url": "https://www.schneier.com/blog/archives/2026/10/measuring-human-cryptanalysis-effort.html",
-      "date": "2026-10-15T16:24:29Z"
-    },
-    {
-      "title": "ISC Stormcast For Thursday, October 15th, 2026 https://isc.sans.edu/podcastdetail/10138, (Thu, Oct 15th)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33428",
-      "date": "2026-10-15T02:00:03Z"
-    },
-    {
-      "title": "Upcoming Speaking Engagements",
-      "description": "[SCHNEIER] This is a current list of where and when I am scheduled to speak: I\u2019m speaking at ATTENTION: Democracy, Rebuilt in Montreal, Quebec, Canada. The event runs October 21\u201323, 2026, and my talk is on Wednesday, October 21. I\u2019m speaking at the University...",
-      "url": "https://www.schneier.com/blog/archives/2026/10/upcoming-speaking-engagements-61.html",
-      "date": "2026-10-14T16:02:17Z"
-    },
-    {
-      "title": "The Future of AI Cryptanalysis",
-      "description": "[SCHNEIER] Matthew Green has been writing a rather pessimistic series of posts about the potential for AI systems to vastly outperform humans in cryptanalysis of both symmetric and public-key ciphers. I am more optimistic than he is. That is, I have stronger...",
-      "url": "https://www.schneier.com/blog/archives/2026/10/the-future-of-ai-cryptanalysis.html",
-      "date": "2026-10-14T14:24:18Z"
-    },
-    {
-      "title": "Cyberattack on Connected Fridges in France",
-      "description": "[SCHNEIER] Another IoT cyberattack, this one in France: Hackers gained control of the software that regulates the temperatures of the refrigeration units, forcing some to warm to 50C (120F) overnight, according to one supermarket chain affected. [&#8230;]...",
-      "url": "https://www.schneier.com/blog/archives/2026/10/cyberattack-on-connected-fridges-in-france.html",
-      "date": "2026-10-14T14:10:22Z"
-    },
-    {
-      "title": "Orphaned VBA Projects Inside DWG Files, (Wed, Oct 14th)",
-      "description": "[ISC] Years ago I wrote diary entries about VBA code stored inside AutoCAD drawing files (.dwg).&#xd;",
-      "url": "https://isc.sans.edu/diary/rss/33420",
-      "date": "2026-10-14T06:49:46Z"
-    },
-    {
-      "title": "ISC Stormcast For Wednesday, October 14th, 2026 https://isc.sans.edu/podcastdetail/10136, (Wed, Oct 14th)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33424",
-      "date": "2026-10-14T02:00:03Z"
-    },
-    {
-      "title": "FBI Arrests Suspect in FBI-Hacking Case",
-      "description": "[SCHNEIER] In September, hackers from a group called ShinyHunters announced that they stole a trove of FBI data about its own agents. It was an intelligence disaster. Last week, the FBI arrested (alternate link) someone associated with that crime.",
-      "url": "https://www.schneier.com/blog/archives/2026/10/fbi-arrests-suspect-in-fbi-hacking-case.html",
-      "date": "2026-10-12T15:01:26Z"
-    }
-  ]
+    "title": "Sentinel Protocol",
+    "tagline": "Perimeter Intelligence Sync",
+    "updated": "2026-10-16 15:10 UTC",
+    "news": [
+        {
+            "source": {
+                "id": null,
+                "name": "Nvidia.com"
+            },
+            "author": "Michelle Horton",
+            "title": "NVIDIA Nemotron 3.5 Super VL Powers Specialized Agents with Multimodal Reasoning",
+            "description": "Always-on agents are taking on longer, more complex enterprise workflows. A single request can involve reading a document, checking information across sources,...",
+            "url": "https://developer.nvidia.com/blog/nvidia-nemotron-3-5-super-vl-powers-specialized-agents-with-multimodal-reasoning/",
+            "urlToImage": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/Nemotron-3-5-Super-VL-e1792075881894.webp",
+            "publishedAt": "2026-10-15T15:09:00Z",
+            "content": "Always-on agents are taking on longer, more complex enterprise workflows. A single request can involve reading a document, checking information across sources, following company policy, and calling s\u2026 [+12194 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Nextgov"
+            },
+            "author": "David DiMolfetta",
+            "title": "US moves to staff leaders for industry-partnered offensive cyber program",
+            "description": "The Trump administration is laying groundwork to enlist companies against foreign cybercriminals, but payment arrangements and protections for participating firms remain unresolved.",
+            "url": "https://www.nextgov.com/cybersecurity/2026/10/us-moves-staff-leaders-industry-partnered-offensive-cyber-program/416613/",
+            "urlToImage": "https://cdn.nextgov.com/media/img/cd/2026/10/15/101526cyberNG/open-graph.jpg",
+            "publishedAt": "2026-10-15T15:09:00Z",
+            "content": "The U.S. has begun the process of selecting managers to oversee a new program enlisting private companies in operations against foreign cybercriminals, according to a former official and two other pe\u2026 [+5385 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Ibtimes.com.au"
+            },
+            "author": "George Anton",
+            "title": "Bank of America Hired 1,000 Contractors to Patch Software Flaws Exposed by Anthropic's Mythos AI, CEO Says",
+            "description": "Bank of America brought in 1,000 contractors to address software vulnerabilities exposed by advanced AI models, as the bank reported hundreds of millions of dollars in related costs.",
+            "url": "https://www.ibtimes.com.au/bank-america-contractors-patch-ai-software-flaws-1876779",
+            "urlToImage": "https://d.ibtimes.com.au/en/full/1750135/bank-america-plans-raise-us-minimum-wage-25-hour-2025.jpg",
+            "publishedAt": "2026-10-15T15:05:28Z",
+            "content": "NEW YORK \u2014 Bank of America brought in 1,000 outside contractors to help patch software vulnerabilities exposed by advanced artificial intelligence models, including Anthropic's Mythos, CEO Brian Moyn\u2026 [+4704 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Rt-english.com"
+            },
+            "author": "RT",
+            "title": "India and Russia seek deeper economic integration at Kazan business forum",
+            "description": "India and Russia are seeking deeper business ties through joint production, investment, and technology partnerships at the Kazan forum Read Full Article at RT.com",
+            "url": "https://rt-english.com/india/647251-india-russia-tatarstan-forum/",
+            "urlToImage": "https://mf.b37mrtl.ru/files/2026.10/article/6ad0eaf785f54062d97f9c92.jpg",
+            "publishedAt": "2026-10-15T15:04:13Z",
+            "content": "The push for deeper economic engagement between India and Russia is at the heart of the second Russia-India TIME Business Forum that opened in Kazan in Tatarstan on Thursday.\r\nThe results of the effo\u2026 [+2852 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Nvidia.com"
+            },
+            "author": "Kari Briski",
+            "title": "Open From Data Center to Desktop: NVIDIA Expands Nemotron Family With Highest Efficiency Super VL and Bolt Models",
+            "description": "NVIDIA today released Nemotron 3.5 Super VL, an open 120-billion-parameter model that delivers the fastest task completion and highest accuracy for specialized always-on agents. Joining it are two new edge models: Nemotron 3.5 Bolt 74B-A9B 24GB, optimized to \u2026",
+            "url": "https://blogs.nvidia.com/blog/nemotron-3-5-super-vl/",
+            "urlToImage": "https://blogs.nvidia.com/wp-content/uploads/2026/10/FIRST-agentic-ai-nemotron-3.5-super-vl-blog-1920x1080-5783765.jpeg",
+            "publishedAt": "2026-10-15T15:00:24Z",
+            "content": "NVIDIA today released Nemotron 3.5 Super VL, an open 120-billion-parameter model that delivers the fastest task completion and highest accuracy for specialized always-on agents.\r\nJoining it are two n\u2026 [+7475 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ZDNet"
+            },
+            "author": "Radhika Rajkumar",
+            "title": "Nvidia\u2019s new Nemotron 3.5 Super VL is another step forward for US open-weight AI",
+            "description": "Nvidia\u2019s new models join a wave of open-weight releases from US labs on the heels of the Hugging Face hack.",
+            "url": "https://www.zdnet.com/innovation/nvidia-nemotron-3-5-super-vl-model-us-open-weight-ai/",
+            "urlToImage": "https://www.zdnet.com/wp-content/uploads/sites/3/Nemotron-3.5-Super-VL-image.png",
+            "publishedAt": "2026-10-15T15:00:11Z",
+            "content": "<ul><li>Three new Nvidia open models strive for efficiency and speed.</li><li>Open models are having a renaissance on the heels of the Hugging Face hack.</li><li>US labs are catching up in the open m\u2026 [+3443 chars]"
+        },
+        {
+            "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            "author": "Sead Fadilpa\u0161i\u0107",
+            "title": "'What appears to be a simple scam message is often the visible end of a much larger transnational cybercriminal operation': Microsoft leads global takedown of phishing network which sent over a billion messages",
+            "description": "An investigation into a phishing campaign led researchers to a sprawling underground store for stolen accounts and criminal activity.",
+            "url": "https://www.techradar.com/pro/security/what-appears-to-be-a-simple-scam-message-is-often-the-visible-end-of-a-much-larger-transnational-cybercriminal-operation-microsoft-leads-global-takedown-of-phishing-network-which-sent-over-a-billion-messages",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/CT482eMSRL8PagRtuBVYNd-2000-80.jpeg",
+            "publishedAt": "2026-10-15T15:00:00Z",
+            "content": "<ul><li>Microsoft helped dismantle a cybercrime marketplace that sold phishing tools, accounts, and scam infrastructure</li><li>Platforms CoGUI and Iron Man enabled large-scale phishing campaigns tar\u2026 [+4827 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Ryukoku.ac.jp"
+            },
+            "author": null,
+            "title": "Adobe026\u7d9b0\u79b9\u7907\u7d45\u78e7\u94141\u8316\u907575\u7bc1\u541f\u8b58\u0441\u7bc6\u246205\u30e8\u7533\u8350 (\u8166 2026.10.14)",
+            "description": "e\u30dfriority \r\n\n<ol> <li> \u24a2 \r\n <li> <ul> <li>Adobe Commerce | APSB26-153 (Adobe, 2026.10.13) Hotfix for CVE-2026-75650 (APSB26-146) \u337c\u30e9\u7dbd<li>Adobe ColdFusion | APSB26-144 (Adobe, 2026.10.13)\u30dfriority rating \u337d\u83f4\u9055\u7f9e\u9699\u605210/14 (US) \u4fe1\u7f69\uff43 <li>Adobe Experience Manager | APSB26\u2026",
+            "url": "http://www.st.ryukoku.ac.jp/~kjm/security/memo/2026/10.html#20261016_adobe",
+            "urlToImage": null,
+            "publishedAt": "2026-10-15T15:00:00Z",
+            "content": "Last modified: Fri Oct 16 12:37:34 2026\r\n +0900 (JST)\r\nSecurity Watch \r\nSecurity Watch \r\n UNIXWindowsMac OS (priority ) \r\n1 \r\n 1 \r\n[ ]\r\n:\r\n2026 |\r\n2025 |\r\n2024 |\r\n2023 |\r\n2022 |\r\n2021 |\r\n2020 |\r\n2019\u2026 [+10724 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CoinDesk"
+            },
+            "author": "Eric Soufer",
+            "title": "Crypto for Advisors: Wall Street is done waiting on Congress for crypto rules",
+            "description": "Leader in cryptocurrency, Bitcoin, Ethereum, XRP, blockchain, DeFi, digital finance and Web 3.0 news with analysis, video and live price updates.",
+            "url": "https://www.coindesk.com/coindesk-indices/2026/10/15/crypto-for-advisors-wall-street-is-done-waiting-on-congress-for-crypto-rules",
+            "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/5ddf1efa5bb12b3aa1345b8718beec9eb6ab01db-2560x1440.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+            "publishedAt": "2026-10-15T15:00:00Z",
+            "content": "That question ran through a Crains New York Business event last week, whether the topic was tokenization, compliance or cybersecurity. The people closest to the work arent waiting for Congress. Theyr\u2026 [+1277 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Ryukoku.ac.jp"
+            },
+            "author": null,
+            "title": "(Microsoft, 10/14) \u3083\u30c3\u33cd\u30b9Health-ISAC ...",
+            "description": "(Microsoft, 10/14) \u3083\u30c3\u33cd\u30b9Health-ISAC \u7d42\u337c\u7d56\u773c\u7f55 3 \u3083\u6ce3\u30b1YAM StoreoGUIron Man\u337d\u0412\u7bcff\u30cdealth-ISAC \u521d\u277e\u7bcf\u93a7\u815f\u30aa\u3083\u53d6\u7d32\u5bb4\u63a9#\u51b4\u7bc62\u226a\u30af\u24a2\u30a3\u6f5f\u30b1\u773c\u969c \u832f\u708a2025 \u7d9b\u7feb\u7d2e\uff43\u7bcb\u51b4\u30a7\uff1c\u7949\u543e\u7d19\u2465\u7d72\u3083\u30c3\u33cd\u30b9\u5bb4\u0441\u7b5d\u32a6) \r\n \u3001\u7d14\u7acf\u217ac\u3083C3 \u5bb4\u7912\u30e6\u337e\u81b5\u8541\u0443\u3322\u7f87\u7cf8\u337d\u7f54\uff1c\u8316\u969cJC3 130 \u7bcc\u815f\u30d1\u8340\u2642\u7bc6\u8340\u7bcb\u30e6\u7f50\u33cd\u30d7\u7f58\u3047\u8340\uff1c\u8345\u7f87\u7cf8\u969c\u7b5d\u32a6) \r\n \u832f\u708a\u0445\u5f18\u7b5d\uff43AM Store\u0441\u7b5d\u32a6) YAM Store \u0441oGUI \u30d7\u6ce3\u30b1\u6c34\u81c0\u24a2\u3001\u6f5f\u277c\u969c (\u7b5d\u32a6) 2026 \u7d9b\u7feb\u9055Ir\u2026",
+            "url": "http://www.st.ryukoku.ac.jp/~kjm/security/memo/2026/10.html#20261016__yamstore",
+            "urlToImage": null,
+            "publishedAt": "2026-10-15T15:00:00Z",
+            "content": "Last modified: Fri Oct 16 12:37:34 2026\r\n +0900 (JST)\r\nSecurity Watch \r\nSecurity Watch \r\n UNIXWindowsMac OS (priority ) \r\n1 \r\n 1 \r\n[ ]\r\n:\r\n2026 |\r\n2025 |\r\n2024 |\r\n2023 |\r\n2022 |\r\n2021 |\r\n2020 |\r\n2019\u2026 [+10724 chars]"
+        }
+    ]
 }
