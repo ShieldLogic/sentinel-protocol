@@ -1,6 +1,12 @@
 {
-  "updated": "2026-10-17 02:09:49 UTC",
+  "updated": "2026-10-17 08:07:50 UTC",
   "news": [
+    {
+      "title": "Hackers Use Compromised ConnectWise Credential to Sign In to 173 Microsoft 365 Tenants",
+      "description": "[FEEDS] Cybersecurity researchers are sounding the alarm related to an active campaign in which unknown threat actors are abusing a compromised Microsoft 365 (M365) credential belonging to ConnectWise Cloud Backup (formerly SkyKick) to gain unauthorized...",
+      "url": "https://thehackernews.com/2026/10/hackers-use-compromised-connectwise.html",
+      "date": "2026-10-17T06:16:46Z"
+    },
     {
       "title": "Friday Squid Blogging: Squid Before the Chicxulub Meteor Impact",
       "description": "[SCHNEIER] New research shows that squid lived all around the globe even before the Cretaceous-Paleogene mass extinction event. As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered. Blog...",
@@ -14,10 +20,40 @@
       "date": "2026-10-16T20:00:59Z"
     },
     {
+      "title": "up call for India\u2019s cybersecurity ecosystem",
+      "description": "[THE TRIBUNE] A critical advisory issued by the Indian Computer Emergency Response Team (CERT-In) seeks to alert organisations racing to embrace artificial intelligence (AI). Autonomous AI agents, reportedly operating beyond their authorised scope, have accessed...",
+      "url": "https://www.tribuneindia.com/news/editorials/rogue-ai-agents-wake-up-call-for-indias-cybersecurity-ecosystem/",
+      "date": "2026-10-16T19:40:07Z"
+    },
+    {
+      "title": "Major US grocery chains hit by cybersecurity incident",
+      "description": "[FOX NEWS] Ahold Delhaize confirmed a cybersecurity incident disrupting online ordering and digital coupons at Stop & Shop, Food Lion, Hannaford and Giant Food stores.",
+      "url": "https://www.foxnews.com/tech/major-us-grocery-chains-hit-cybersecurity-incident",
+      "date": "2026-10-16T19:00:37Z"
+    },
+    {
+      "title": "Stop & Shop web outage follows parent company cybersecurity breach",
+      "description": "[MASSLIVE] The disruption is affecting online orders and digital coupons, while the company works to bring systems back online.",
+      "url": "https://www.masslive.com/business/2026/10/stop-shop-other-grocery-store-chains-hit-by-outages-after-cybersecurity-breach.html",
+      "date": "2026-10-16T18:40:07Z"
+    },
+    {
+      "title": "CERT-In flags AI agent cyber risks: Govt urges companies to tighten security, eyes AI regulation",
+      "description": "[MONEYCONTROL] India\u2019s cybersecurity agency CERT-In has issued a 'critical' advisory warning that autonomous AI agents have accessed live systems and confidential data of Indian organisations without authorisation.",
+      "url": "https://www.moneycontrol.com/technology/cert-in-flags-ai-agent-cyber-risks-govt-urges-companies-to-tighten-security-eyes-ai-regulation-article-14054202.html",
+      "date": "2026-10-16T18:32:38Z"
+    },
+    {
       "title": "Researchers Demonstrate OpenBSD Root Exploit Chaining 37-Year-Old Shared-Memory Bug",
       "description": "[FEEDS] A local privilege escalation exploit published today gains root on OpenBSD 7.9 by chaining a roughly 37-year-old integer overflow with a separate kernel flaw, bypassing OpenBSD's KARL kernel-address randomization and its SMAP and SMEP hardware...",
       "url": "https://thehackernews.com/2026/10/researchers-demonstrate-openbsd-root.html",
       "date": "2026-10-16T17:48:45Z"
+    },
+    {
+      "title": "'Cert-In alert on AI agents an early warning, no major financial loss'",
+      "description": "[BUSINESS STANDARD] Government sources said companies must invest in cybersecurity and pointed out that currently firms \"notoriously lack in fibre hygiene\"",
+      "url": "https://www.business-standard.com/technology/artificial-intelligence/cert-in-alert-on-ai-agents-an-early-warning-no-major-financial-loss-126101601525_1.html",
+      "date": "2026-10-16T17:36:13Z"
     },
     {
       "title": "Targeted ads installed Candiru spyware in zero-click attacks",
@@ -26,10 +62,28 @@
       "date": "2026-10-16T17:20:03Z"
     },
     {
+      "title": "US tells election officials to guard against AI-powered cyber threats ahead of midterm elections",
+      "description": "[TIMES OF INDIA] The FBI and the US Cybersecurity and Infrastructure Security Agency (CISA) have warned election officials, candidates and the American public to remain",
+      "url": "https://timesofindia.indiatimes.com/world/us/us-mid-term-elections/news/us-tells-election-officials-to-guard-against-ai-powered-cyber-threats-ahead-of-midterm-elections/articleshow/134997494.cms",
+      "date": "2026-10-16T17:16:00Z"
+    },
+    {
       "title": "Attackers Tampered with AOMEI Backupper's Update Servers for Minutes to Deliver a Backdoor",
       "description": "[FEEDS] Attackers repeatedly changed the files that AOMEI Backupper fetches from the vendor's own update servers, in windows of five to ten minutes at a time between May and July 2026, so that any copy of the Windows backup program that checked for an...",
       "url": "https://thehackernews.com/2026/10/attackers-tampered-with-aomei.html",
       "date": "2026-10-16T16:43:39Z"
+    },
+    {
+      "title": "Cybersecurity Stocks Sell Off Amid Palo Alto Vulnerability",
+      "description": "[INVESTOR'S BUSINESS DAILY] Cybersecurity stocks sold off again on Friday amid a hacker vulnerability involving a Palo Alto Networks network firewall platform.",
+      "url": "https://www.investors.com/news/technology/cybersecurity-stocks-sell-off-amid-palo-alto-vulnerability/",
+      "date": "2026-10-16T16:43:04Z"
+    },
+    {
+      "title": "'AI incident an early warning for companies,' say government sources",
+      "description": "[THE ECONOMIC TIMES] Government sources said no vital information was compromised in the AI-related incident flagged by CERT-In. However, they called it an early warning for companies to strengthen cybersecurity and improve cyber hygiene. Future AI rules may also...",
+      "url": "https://economictimes.indiatimes.com/ai/ai-insights/ai-incident-an-early-warning-for-companies-say-govt-sources/articleshow/134999326.cms",
+      "date": "2026-10-16T16:39:00Z"
     },
     {
       "title": "UAT-11985 Uses Fake Event Invites to Target Taiwan Research Affiliates With Google AitM Phishing",
@@ -38,16 +92,22 @@
       "date": "2026-10-16T16:16:44Z"
     },
     {
+      "title": "India, Vietnam hold 4th Security Dialogue, review counter",
+      "description": "[THE TRIBUNE] India and Vietnam on Friday held the fourth edition of their Security Dialogue in New Delhi, reviewing bilateral cooperation in counter-terrorism, cybersecurity, maritime engagements, economic security and emerging technologies.",
+      "url": "https://www.tribuneindia.com/news/world/india-vietnam-hold-4th-security-dialogue-review-counter-terrorism-cybersecurity-cooperation/",
+      "date": "2026-10-16T15:40:55Z"
+    },
+    {
+      "title": "India, Vietnam hold 4th Security Dialogue, review counter-terrorism, cybersecurity cooperation",
+      "description": "[ANI (ASIAN NEWS INTERNATIONAL)] India and Vietnam on Friday held the fourth edition of their Security Dialogue in New Delhi, reviewing bilateral cooperation in counter-terrorism, cybersecurity, maritime engagements, economic security and emerging technologies.",
+      "url": "https://www.aninews.in/news/world/asia/india-vietnam-hold-4th-security-dialogue-review-counter-terrorism-cybersecurity-cooperation20261016210754/",
+      "date": "2026-10-16T15:37:54Z"
+    },
+    {
       "title": "OpenAI Research Model Spent 3rd-Party Test ETH Without Permission to Deploy Smart Contract",
       "description": "[FEEDS] OpenAI has disclosed seven new incidents in which its artificial intelligence (AI) models exhibited misaligned behavior, including one case where its research model, after not having funds on an Ethereum test network, spent test cryptocurrency from...",
       "url": "https://thehackernews.com/2026/10/openai-research-model-spent-3rd-party.html",
       "date": "2026-10-16T14:03:04Z"
-    },
-    {
-      "title": "AI espionage is reality companies need to be wary of: DNI Jay Clayton",
-      "description": "[CNBC] AI \"amplifies\" existing cybersecurity risks toward U.S. digital infrastructure, Clayton said on \"Squawk Box.\"",
-      "url": "https://www.cnbc.com/2026/10/16/ai-espionage-openai-jay-clayton.html",
-      "date": "2026-10-16T13:55:56Z"
     },
     {
       "title": "Employees using personal ChatGPT at work? Here's what IT admins need to do",
@@ -56,46 +116,10 @@
       "date": "2026-10-16T13:50:59Z"
     },
     {
-      "title": "Stop and Shop offers a 10 percent discount this weekend following cybersecurity incident",
-      "description": "[BALTIMORE NEWS] The Stop and Shop grocery store chain is offering a 10 percent discount this weekend as an apology for the disruptions caused by a recent cybersecurity.",
-      "url": "https://foxbaltimore.com/news/nation-world/stop-and-shop-offers-a-10-percent-discount-this-weekend-following-cybersecurity-incident-oct-16-2026",
-      "date": "2026-10-16T13:43:26Z"
-    },
-    {
-      "title": "Stop and Shop offers a 10 percent discount this weekend following cybersecurity incident",
-      "description": "[WJLA] The Stop and Shop grocery store chain is offering a 10 percent discount this weekend as an apology for the disruptions caused by a recent cybersecurity.",
-      "url": "https://wjla.com/news/nation-world/stop-and-shop-offers-a-10-percent-discount-this-weekend-following-cybersecurity-incident-oct-16-2026",
-      "date": "2026-10-16T13:43:26Z"
-    },
-    {
-      "title": "Rogue AI agents broke into Indian firms' live systems, government says",
-      "description": "[THE STAR] BENGALURU, Oct \u206016 (Reuters) - AI models under test broke into Indian organisations' live \u2060systems and read confidential records undetected, India's cybersecurity agency \u200csaid, the country's first such official account after similar incidents of...",
-      "url": "https://www.thestar.com.my/tech/tech-news/2026/10/16/rogue-ai-agents-broke-into-indian-firms039-live-systems-government-says",
-      "date": "2026-10-16T13:41:00Z"
-    },
-    {
-      "title": "MSP Titans of the Industry Names GoTech IT Solutions a 2026 Midwest Finalist for the Second Year in a Row",
-      "description": "[THE MANILA TIMES] Brookfield managed IT and cybersecurity company recognized again among the top MSPs in the Midwest; winners announced December 9 in Beverly Hills",
-      "url": "https://www.manilatimes.net/2026/10/16/tmt-newswire/plentisoft/msp-titans-of-the-industry-names-gotech-it-solutions-a-2026-midwest-finalist-for-the-second-year-in-a-row/2447478",
-      "date": "2026-10-16T12:21:57Z"
-    },
-    {
-      "title": "Advantech and DEKRA Sign MOU to Advance Industrial Cybersecurity Compliance",
-      "description": "[THE MANILA TIMES] **media[1263334]** Collaboration supports EU CRA readiness and cybersecurity planning for industrial and edge AI applications.",
-      "url": "https://www.manilatimes.net/2026/10/16/tmt-newswire/pr-newswire/advantech-and-dekra-sign-mou-to-advance-industrial-cybersecurity-compliance/2447434",
-      "date": "2026-10-16T12:03:01Z"
-    },
-    {
       "title": "Burger King Japan data breach exposes 11 million customer records",
       "description": "[BLEEPINGCOMPUTER] Burger King Japan, the Japanese subsidiary of global fast-food giant Burger King, disclosed a major data breach after attackers accessed a server containing 11.18 million customer records. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/burger-king-japan-data-breach-exposes-11-million-customer-records/",
       "date": "2026-10-16T12:01:29Z"
-    },
-    {
-      "title": "Government issues critical warning as AI agents access Indian companies' confidential data",
-      "description": "[TIMES OF INDIA] India\u2019s cybersecurity agency, CERT-In has issued a 'critical' advisory warning artificial intelligence (AI) agents have accessed live systems and",
-      "url": "https://timesofindia.indiatimes.com/technology/tech-news/government-issues-critical-warning-as-ai-agents-access-indian-companies-confidential-data/articleshow/134994035.cms",
-      "date": "2026-10-16T11:53:00Z"
     },
     {
       "title": "AI Decision Models and Their Impact on AI SOC Platforms",
@@ -104,28 +128,10 @@
       "date": "2026-10-16T11:30:00Z"
     },
     {
-      "title": "Rogue AI agents accessed confidential Indian business records, CERT-In says",
-      "description": "[THE INDIAN EXPRESS] AI models accessed confidential records in Indian organisations during test runs, while attackers are using freely available AI tools to breach systems faster, India\u2019s cybersecurity agency said.",
-      "url": "https://indianexpress.com/article/technology/artificial-intelligence/rogue-ai-agents-accessed-confidential-indian-business-records-cert-in-says-10924636/",
-      "date": "2026-10-16T11:24:02Z"
-    },
-    {
       "title": "Backdooring Open-Weight AI Models",
       "description": "[SCHNEIER] This is a problem: Any open model whose weights have been edited can carry a backdoor, whether it&#8217;s a task-specific fine-tune, a merged adapter or an abliterated build. We have abliterated models in the title because it&#8217;s the most...",
       "url": "https://www.schneier.com/blog/archives/2026/10/backdooring-open-weight-ai-models.html",
       "date": "2026-10-16T11:04:53Z"
-    },
-    {
-      "title": "SecureKloud Introduces a New Conversational AI Feature Within DocuGenie.AI",
-      "description": "[THE TRIBUNE] Chennai (Tamill Nadu) [India], October 16: SecureKloud Technologies Limited, a global provider of AI-powered digital transformation, cloud managed services, and cybersecurity solutions, today announced the introduction of 'Hey, I'm DG', a new...",
-      "url": "https://www.tribuneindia.com/news/business/securekloud-introduces-a-new-conversational-ai-feature-within-docugenie-ai/",
-      "date": "2026-10-16T10:51:09Z"
-    },
-    {
-      "title": "SecureKloud Introduces a New Conversational AI Feature Within DocuGenie.AI",
-      "description": "[ANI (ASIAN NEWS INTERNATIONAL)] Chennai (Tamill Nadu) [India], October 16: SecureKloud Technologies Limited, a global provider of AI-powered digital transformation, cloud managed services, and cybersecurity solutions, today announced the introduction of \"Hey, I'm DG\", a new...",
-      "url": "https://www.aninews.in/news/business/securekloud-introduces-a-new-conversational-ai-feature-within-docugenieai20261016162027/",
-      "date": "2026-10-16T10:50:27Z"
     },
     {
       "title": "Microsoft: October Windows update may break Smart App Control",
@@ -138,12 +144,6 @@
       "description": "[BLEEPINGCOMPUTER] The Administrative Office of the US Courts says a cyberattack on government contractor BAE Systems has taken down the notice system used by federal bankruptcy courts. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/bae-systems-cyberattack-disrupts-us-federal-court-operations/",
       "date": "2026-10-16T07:37:35Z"
-    },
-    {
-      "title": "China-Linked Hackers Exploited BeyondTrust Zero-Day to Take Over Remote Support Servers",
-      "description": "[FEEDS] The China-nexus cyber espionage group tracked as Armory Castle (previously UNC5221 or Warp Panda) exploited a newly disclosed security flaw in BeyondTrust Remote Support (formerly Bomgar) as a zero-day in late August 2026. The vulnerability, tracked...",
-      "url": "https://thehackernews.com/2026/10/china-linked-hackers-exploited.html",
-      "date": "2026-10-16T06:55:55Z"
     },
     {
       "title": "ISC Stormcast For Friday, October 16th, 2026 https://isc.sans.edu/podcastdetail/10140, (Fri, Oct 16th)",
