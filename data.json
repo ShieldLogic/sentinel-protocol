@@ -1,245 +1,137 @@
 {
-  "updated": "2026-10-19 16:41:45 UTC",
-  "news": [
-    {
-      "title": "Microsoft fixes game, app crashes caused by recent Windows update",
-      "description": "[BLEEPINGCOMPUTER] Microsoft has resolved a bug that caused games and apps using AC-3 (Dolby Digital) audio decoding to crash after installing the September 2026 Windows 11 preview update (KB5124010). [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-game-app-crashes-caused-by-windows-kb5124010-preview-update/",
-      "date": "2026-10-19T14:55:23Z"
-    },
-    {
-      "title": "\u26a1 Weekly Recap: 98 Zero-Days, Rogue AI Agents, $100M Crypto Theft, 700 Supermarkets Hit and More",
-      "description": "[FEEDS] The worst problems don't always come with a warning. Sometimes they arrive through a service everyone trusts, a device someone bought, or a system nobody thought to check. By the time something looks wrong, the damage may already be done. This week...",
-      "url": "https://thehackernews.com/2026/10/weekly-recap-98-zero-days-rogue-ai.html",
-      "date": "2026-10-19T14:14:07Z"
-    },
-    {
-      "title": "Inside the Underground Market for Know Your Client Services",
-      "description": "[BLEEPINGCOMPUTER] Cybercriminals are selling forged identity documents, deepfake videos, and live verification services to help buyers bypass Know Your Client (KYC) checks. Flare examines how these underground services operate and the techniques used to create and...",
-      "url": "https://www.bleepingcomputer.com/news/security/inside-the-underground-market-for-know-your-client-services/",
-      "date": "2026-10-19T14:00:10Z"
-    },
-    {
-      "title": "F5 releases out-of-band patches for critical NGINX vulnerabilities",
-      "description": "[BLEEPINGCOMPUTER] F5 has released out-of-band security patches to address multiple NGINX web server flaws, including three critical-severity vulnerabilities that can let attackers execute code on vulnerable systems. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/f5-releases-out-of-band-patches-for-critical-nginx-vulnerabilities/",
-      "date": "2026-10-19T13:49:24Z"
-    },
-    {
-      "title": "GhostAction Attackers Plant Credential Stealer Disguised as Font in 94 GitHub Repositories",
-      "description": "[FEEDS] The threat actor behind the GhostAction supply chain attack has expanded beyond injecting malicious GitHub Actions workflows into compromised projects to phish open-source developers and deliver a stealer malware disguised within a fake font file....",
-      "url": "https://thehackernews.com/2026/10/ghostaction-attackers-plant-credential.html",
-      "date": "2026-10-19T13:05:45Z"
-    },
-    {
-      "title": "Microsoft fixes classic Outlook bug that hid Copilot buttons",
-      "description": "[BLEEPINGCOMPUTER] Microsoft has fixed a known issue that removed the Copilot Chat and Copilot buttons in the classic Outlook desktop mail client for some Windows users. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-that-hid-copilot-buttons-in-classic-outlook/",
-      "date": "2026-10-19T12:44:44Z"
-    },
-    {
-      "title": "From Email-to-Case to the Boardroom: How Inherited Agents Break Governance Built for Software",
-      "description": "[FEEDS] In Salesforce Agentforce, the recommended way to make an agent respond to events is a Flow: a record is created or a case is updated, and the Flow passes data into the agent's prompt. Separately, Email-to-Case and Web-to-Case turn inbound customer...",
-      "url": "https://thehackernews.com/2026/10/from-email-to-case-to-boardroom-how.html",
-      "date": "2026-10-19T11:50:00Z"
-    },
-    {
-      "title": "Training AIs to Solve CAPTCHAs",
-      "description": "[SCHNEIER] Interesting research: Abstract: Vision-language models (VLMs) can solve visual CAPTCHAs without task-specific training, but the agents built on them approach every challenge from scratch. For such an agent, the hundredth instance of a familiar...",
-      "url": "https://www.schneier.com/blog/archives/2026/10/training-ais-to-solve-captchas.html",
-      "date": "2026-10-19T11:07:43Z"
-    },
-    {
-      "title": "Fake Web3 Accelerator Uses npm Packages to Spread Malware and Hijack AI Agent Traffic",
-      "description": "[FEEDS] A fake Web3 accelerator has been observed pushing information stealers and backdoors to Windows and macOS systems using malicious npm packages under the pretext of offering free artificial intelligence (AI) credits for Anthropic Claude and Google...",
-      "url": "https://thehackernews.com/2026/10/fake-web3-accelerator-uses-npm-packages.html",
-      "date": "2026-10-19T10:06:40Z"
-    },
-    {
-      "title": "Microsoft: October Windows Server updates break Exchange sign-in, mail flow",
-      "description": "[BLEEPINGCOMPUTER] Microsoft has confirmed that this month's Windows Server security updates are causing OWA sign-in and mail delivery issues on some Exchange Server systems. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-october-windows-server-updates-cause-exchange-issues/",
-      "date": "2026-10-19T08:58:41Z"
-    },
-    {
-      "title": "Unpatched Broadcom Wi-Fi Flaw Lets Attackers in Range Run Code as Root on Routers",
-      "description": "[FEEDS] A flaw in Broadcom's Wi-Fi setup software lets an attacker within radio range run code as root on Broadcom-based routers, without the network password or any pairing step, security researcher Quentin Kaiser&nbsp;disclosed&nbsp;on October 16. He...",
-      "url": "https://thehackernews.com/2026/10/unpatched-broadcom-wi-fi-flaw-lets.html",
-      "date": "2026-10-19T06:29:44Z"
-    },
-    {
-      "title": "OpenCode Console Breach May Have Exposed OpenAI, Anthropic, and Google API Keys",
-      "description": "[FEEDS] An intruder reached a legacy system at OpenCode on the night of October 16 and may have exposed the third-party AI provider keys that users had saved in OpenCode Console, the company said. Console is OpenCode's optional hosted service: a workspace...",
-      "url": "https://thehackernews.com/2026/10/opencode-console-breach-may-have.html",
-      "date": "2026-10-19T06:07:08Z"
-    },
-    {
-      "title": "RailTel shares rise 2% after bagging two orders worth over \u20b9186 crore",
-      "description": "[BUSINESS TODAY] RailTel said it had received a purchase order from Health Insurance TPA of India Ltd for an IT infrastructure and cybersecurity solution.",
-      "url": "https://www.businesstoday.in/markets/stocks/story/railtel-shares-rise-2-after-bagging-two-orders-worth-over-rs186-crore-562332-2026-10-19",
-      "date": "2026-10-19T03:53:01Z"
-    },
-    {
-      "title": "Discovery of 98 zero-day vulnerabilities reveal persistent threat to everyday devices and AI systems",
-      "description": "[ITWIRE] Flaws found in phones, printers, smart home devices, AI infrastructure and AI coding agents show the growing attack surface facing Australian organisations",
-      "url": "https://itwire.com/business-it-news/security/discovery-of-98-zero-day-vulnerabilities-reveal-persistent-threat-to-everyday-devices-and-ai-systems",
-      "date": "2026-10-19T00:57:39Z"
-    },
-    {
-      "title": "As Geopolitical Risk Ramps Up, These Are Wall Street\u2019s Top Cybersecurity Stock Picks for October 2026",
-      "description": "[EUROPE SAYS] Trader by puhhha via Shutterstock",
-      "url": "https://www.europesays.com/3318614/",
-      "date": "2026-10-19T00:22:31Z"
-    },
-    {
-      "title": "Kinetic IT appoints Pierre Tagle to lead growing sovereign cyber security capability",
-      "description": "[ITWIRE] Kinetic IT has appointed experienced cybersecurity leader Pierre Tagle as Head of Cyber Security, strengthening the leadership of its growing cybersecurity practice as the...",
-      "url": "https://itwire.com/it-people-news/people-moves/kinetic-it-appoints-pierre-tagle-to-lead-growing-sovereign-cyber-security-capability",
-      "date": "2026-10-18T23:34:55Z"
-    },
-    {
-      "title": "Can businesses trust autonomous AI to defend them from cyber threats?",
-      "description": "[EUROPE SAYS] The next significant development in enterprise cybersecurity may not simply be the use of artificial intelligence to analyse threats. It could be allowing AI",
-      "url": "https://www.europesays.com/3318323/",
-      "date": "2026-10-18T21:04:44Z"
-    },
-    {
-      "title": "South Korea proposes stricter financial cybersecurity rules",
-      "description": "[EUROPE SAYS] The proposal comes amid growing concerns over cybersecurity risks in the financial sector and weaknesses identified across hundreds of institutions.",
-      "url": "https://www.europesays.com/3318115/",
-      "date": "2026-10-18T18:40:25Z"
-    },
-    {
-      "title": "Oracle Health data breach exposes nearly 20 million patients",
-      "description": "[FOX NEWS] Oracle Health breach reportedly exposed personal and medical data of nearly 20 million people. A credit freeze through Equifax, Experian and TransUnion can help.",
-      "url": "https://www.foxnews.com/tech/oracle-health-data-breach-exposes-nearly-20-million-patients",
-      "date": "2026-10-18T16:07:47Z"
-    },
-    {
-      "title": "PNP boosts cybersecurity infrastructure",
-      "description": "[THE MANILA TIMES] THE Philippine National Police (PNP) has intensified measures to protect and further improve its cybersecurity infrastructure amid growing concerns over overseas digital intrusions targeting the country\u2019s key institutions.",
-      "url": "https://www.manilatimes.net/2026/10/19/news/pnp-boosts-cybersecurity-infrastructure/2448198",
-      "date": "2026-10-18T16:07:00Z"
-    },
-    {
-      "title": "Karaoke hack shows cybercrime is routine",
-      "description": "[THE JAPAN TIMES ] The head of the ruling Liberal Democratic Party\u2019s cybersecurity body went so far as to describe it as a \u201cstate of emergency in cyberspace.\u201d",
-      "url": "https://www.japantimes.co.jp/commentary/2026/10/18/japan/karaoke-hack-cybercrime/",
-      "date": "2026-10-18T14:54:46Z"
-    },
-    {
-      "title": "Proofpoint Acquires Varonis (VRNS) in $6.3B AI Cybersecurity Deal",
-      "description": "[MARKETS INSIDER] Cybersecurity company Proofpoint has agreed to buy Israeli-founded data-security firm Varonis Systems (VRNS) for about $6.3 billion in cash, as ...",
-      "url": "https://markets.businessinsider.com/news/stocks/proofpoint-acquires-varonis-vrns-in-6-3b-ai-cybersecurity-deal-1036636922",
-      "date": "2026-10-18T14:49:15Z"
-    },
-    {
-      "title": "Hackers exploit SiteGuard WAF flaw to run commands as admins",
-      "description": "[BLEEPINGCOMPUTER] Attackers are targeting an OS command injection vulnerability in SiteGuard Server Edition that lets them execute commands as root or SYSTEM on affected servers. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-siteguard-waf-flaw-to-run-commands-as-system-root/",
-      "date": "2026-10-18T14:23:16Z"
-    },
-    {
-      "title": "Orphaned VBA Projects Inside DWG Files: YARA Rule, (Sun, Oct 18th)",
-      "description": "[ISC] Here is the YARA rule I used to detect \"Orphaned VBA Projects Inside DWG Files\".&#xd;",
-      "url": "https://isc.sans.edu/diary/rss/33434",
-      "date": "2026-10-18T12:59:30Z"
-    },
-    {
-      "title": "Friday Squid Blogging: Squid Before the Chicxulub Meteor Impact",
-      "description": "[SCHNEIER] New research shows that squid lived all around the globe even before the Cretaceous-Paleogene mass extinction event. As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered. Blog...",
-      "url": "https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-squid-before-the-chicxulub-meteor-impact.html",
-      "date": "2026-10-16T21:06:47Z"
-    },
-    {
-      "title": "CISA Urges Patching Critical Vulnerability in BeyondTrust Remote Support",
-      "description": "[CISA] CISA is aware of critical authentication bypass vulnerability CVE-2026-102764, affecting BeyondTrust Remote Support (formerly Bomgar) versions 26.2.3 and earlier. Patches are available for supported versions (24.3.1 and later); organizations using...",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/10/16/cisa-urges-patching-critical-vulnerability-beyondtrust-remote-support",
-      "date": "2026-10-16T12:00:00Z"
-    },
-    {
-      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
-      "description": "[CISA] CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-61624 Fortinet Multiple Products Path Traversal Vulnerability CVE-2026-102764 BeyondTrust Remote Support...",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/10/16/cisa-adds-two-known-exploited-vulnerabilities-catalog",
-      "date": "2026-10-16T12:00:00Z"
-    },
-    {
-      "title": "Backdooring Open-Weight AI Models",
-      "description": "[SCHNEIER] This is a problem: Any open model whose weights have been edited can carry a backdoor, whether it&#8217;s a task-specific fine-tune, a merged adapter or an abliterated build. We have abliterated models in the title because it&#8217;s the most...",
-      "url": "https://www.schneier.com/blog/archives/2026/10/backdooring-open-weight-ai-models.html",
-      "date": "2026-10-16T11:04:53Z"
-    },
-    {
-      "title": "ISC Stormcast For Friday, October 16th, 2026 https://isc.sans.edu/podcastdetail/10140, (Fri, Oct 16th)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33432",
-      "date": "2026-10-16T02:00:03Z"
-    },
-    {
-      "title": "Small Agents, Smaller Blast Radius: Controlling What AI Can Do, (Fri, Oct 16th)",
-      "description": "[ISC] I believe the cybersecurity industry may be approaching AI security the wrong way.&#xd;",
-      "url": "https://isc.sans.edu/diary/rss/33430",
-      "date": "2026-10-16T00:46:35Z"
-    },
-    {
-      "title": "Panchan's Mining Island &#x5b;Guest Diary&#x5d;, (Wed, Oct 14th)",
-      "description": "[ISC] &#x5b;This is a Guest Diary by Zachary Norwood, an ISC intern as part of the SANS.edu BACS program&#x5d;&#xd;",
-      "url": "https://isc.sans.edu/diary/rss/33426",
-      "date": "2026-10-15T23:03:42Z"
-    },
-    {
-      "title": "Measuring Human Cryptanalysis Effort",
-      "description": "[SCHNEIER] Matthew Green has a new site that tries to estimate the number of cryptanalyst-hours that have been spent analyzing different public-key algorithms: Abstract: We estimate how much public cryptanalysis each public-key assumption has received, using...",
-      "url": "https://www.schneier.com/blog/archives/2026/10/measuring-human-cryptanalysis-effort.html",
-      "date": "2026-10-15T16:24:29Z"
-    },
-    {
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "description": "[CISA] CISA has added one new vulnerability to its&nbsp;Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-21589 Atlassian Multiple Products Files or Directories Accessible to External Parties...",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/10/15/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "date": "2026-10-15T12:00:00Z"
-    },
-    {
-      "title": "ISC Stormcast For Thursday, October 15th, 2026 https://isc.sans.edu/podcastdetail/10138, (Thu, Oct 15th)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33428",
-      "date": "2026-10-15T02:00:03Z"
-    },
-    {
-      "title": "Upcoming Speaking Engagements",
-      "description": "[SCHNEIER] This is a current list of where and when I am scheduled to speak: I\u2019m speaking at ATTENTION: Democracy, Rebuilt in Montreal, Quebec, Canada. The event runs October 21\u201323, 2026, and my talk is on Wednesday, October 21. I\u2019m speaking at the University...",
-      "url": "https://www.schneier.com/blog/archives/2026/10/upcoming-speaking-engagements-61.html",
-      "date": "2026-10-14T16:02:17Z"
-    },
-    {
-      "title": "The Future of AI Cryptanalysis",
-      "description": "[SCHNEIER] Matthew Green has been writing a rather pessimistic series of posts about the potential for AI systems to vastly outperform humans in cryptanalysis of both symmetric and public-key ciphers. I am more optimistic than he is. That is, I have stronger...",
-      "url": "https://www.schneier.com/blog/archives/2026/10/the-future-of-ai-cryptanalysis.html",
-      "date": "2026-10-14T14:24:18Z"
-    },
-    {
-      "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
-      "description": "[CISA] CISA has added four new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation.&nbsp; CVE-2026-0322 Palo Alto Networks PAN-OS Code Injection Vulnerability&nbsp; CVE-2026-76519 Cisco Secure...",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/10/14/cisa-adds-four-known-exploited-vulnerabilities-catalog",
-      "date": "2026-10-14T12:00:00Z"
-    },
-    {
-      "title": "Orphaned VBA Projects Inside DWG Files, (Wed, Oct 14th)",
-      "description": "[ISC] Years ago I wrote diary entries about VBA code stored inside AutoCAD drawing files (.dwg).&#xd;",
-      "url": "https://isc.sans.edu/diary/rss/33420",
-      "date": "2026-10-14T06:49:46Z"
-    },
-    {
-      "title": "CISA Urges Patching Newly Exploited Vulnerability in Ivanti Connect Secure",
-      "description": "[CISA] CISA is aware of Ivanti\u2019s disclosure of a newly exploited vulnerability, CVE-2026-104935, affecting Ivanti Connect Secure versions 25.1.1.1 and prior, 25.1.2.2 and prior, and 22.8R2.4 and prior. CISA is aware of cyber threat actors exploiting this...",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/10/13/cisa-urges-patching-newly-exploited-vulnerability-ivanti-connect-secure",
-      "date": "2026-10-13T12:00:00Z"
-    },
-    {
-      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
-      "description": "[CISA] CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-96951 Microsoft Windows Command Injection Vulnerability CVE-2026-104935 Ivanti Connect Secure...",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/10/13/cisa-adds-two-known-exploited-vulnerabilities-catalog",
-      "date": "2026-10-13T12:00:00Z"
-    }
-  ]
+    "title": "Sentinel Protocol",
+    "tagline": "Perimeter Intelligence Sync",
+    "updated": "2026-10-19 17:18 UTC",
+    "news": [
+        {
+            "source": {
+                "id": null,
+                "name": "Worldnewsguru.us"
+            },
+            "author": "World News Guru Team",
+            "title": "Oracle Health data breach exposes nearly 20 million patients",
+            "description": "When you visit a doctor or hospital, you expect your medical information to stay private. After all, your health records can reveal some of the most personal details about your life. Now, a massive cy...",
+            "url": "https://worldnewsguru.us/technology-news/oracle-health-data-breach-exposes-nearly-20-million-patients",
+            "urlToImage": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/female-doctor-home-visit-medical-service.jpg?ve=1&tl=1",
+            "publishedAt": "2026-10-18T16:07:47Z",
+            "content": "When you visit a doctor or hospital, you expect your medical information to stay private. After all, your health records can reveal some of the most personal details about your life. Now, a massive c\u2026 [+11730 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": null,
+            "title": "Oracle Health data breach exposes nearly 20 million patients",
+            "description": "The Oracle Health breach exposed medical records, Social Security numbers and diagnoses of nearly 20 million patients across multiple states.",
+            "url": "https://www.foxnews.com/tech/oracle-health-data-breach-exposes-nearly-20-million-patients",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/08/female-doctor-home-visit-medical-service.jpg",
+            "publishedAt": "2026-10-18T16:07:47Z",
+            "content": "When you visit a doctor or hospital, you expect your medical information to stay private. After all, your health records can reveal some of the most personal details about your life. Now, a massive c\u2026 [+13475 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Medical Daily"
+            },
+            "author": "Dorothy Brooks",
+            "title": "Hacker Group Claims Data Theft From MyMichigan Health, but the System Has Found No Evidence of a Breach",
+            "description": "MyMichigan Health is investigating a hacker group's unverified data theft claim and says it has found no breach so far. What patients can do now.",
+            "url": "https://www.medicaldaily.com/mymichigan-health-investigates-data-theft-claim-480096",
+            "urlToImage": "https://d.medicaldaily.com/en/full/487447/hacker-group-claims-data-theft.jpg",
+            "publishedAt": "2026-10-18T16:00:48Z",
+            "content": "MyMichigan Health said Oct. 15 that it is investigating a hacker group's claim that it stole data from the Michigan health system, but so far it has found no evidence that its systems were accessed o\u2026 [+6003 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Ryukoku.ac.jp"
+            },
+            "author": null,
+            "title": "(\u543e\u6f5f online, 10/19) \u7b5df\u0441\u815f\u337c\u30e9\u6839\u0441\u7bcc ...",
+            "description": "(\u543e\u6f5f online, 10/19) \u7b5df\u0441\u815f\u337c\u30e9\u6839\u0441\u7bcc1\u6f14\u7dc7\u8396\u24a5\u815f\u6cbf\u8335\r\n\n\u33cd\u30ad\u222b#\u7d4e\u53e5\u8f1d\u8350\u30e3\u80b4\uff1b4\u30b1\u0444\u757f28990\u7b5d\u82e5\u81a34000\u7b5d\u941a1\u7d9b\u7feb\u815f\u7feb\u9055\u30b1\u7b5d000\u7bcb\u51b4\u7d9b\u7feb.6\u7d1c2\u5ce8\u4e03\u7dae\u80b4\u2503\u7f50\u33cd\u7feb",
+            "url": "http://www.st.ryukoku.ac.jp/~kjm/security/memo/2026/10.html#20261019__ruchina",
+            "urlToImage": null,
+            "publishedAt": "2026-10-18T15:00:00Z",
+            "content": "Last modified: Mon Oct 19 19:18:16 2026\r\n +0900 (JST)\r\nSecurity Watch \r\nSecurity Watch \r\n UNIXWindowsMac OS (priority ) \r\n1 \r\n 1 \r\n[ ]\r\n:\r\n2026 |\r\n2025 |\r\n2024 |\r\n2023 |\r\n2022 |\r\n2021 |\r\n2020 |\r\n2019\u2026 [+12538 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Ryukoku.ac.jp"
+            },
+            "author": null,
+            "title": "Firefox 158.0 / ESR 153.5.0 / ESR 115.43.0hunderbird 158.0 / 153.5.0esr (Mozilla, 2026.10.13)",
+            "description": "e\u30caSR 140 \u81a4\u7d2b\u8f1d\u30d1\u30d7\u8193\u32a5\u969c\n\r\n\n<ul> <li> Firefox 158 \u24a2\u9d3b (mozillaZine, 2026.10.14) \r\n <li> Firefox for Android 158 \u24a2\u9d3b (mozillaZine, 2026.10.14) \r\n <li> Thunderbird 158 \u24a2\u9d3b (mozillaZine, 2026.10.14) \r\n </li></li></li></ul>",
+            "url": "http://www.st.ryukoku.ac.jp/~kjm/security/memo/2026/10.html#20261019_firefox",
+            "urlToImage": null,
+            "publishedAt": "2026-10-18T15:00:00Z",
+            "content": "Last modified: Mon Oct 19 15:36:55 2026\r\n +0900 (JST)\r\nSecurity Watch \r\nSecurity Watch \r\n UNIXWindowsMac OS (priority ) \r\n1 \r\n 1 \r\n[ ]\r\n:\r\n2026 |\r\n2025 |\r\n2024 |\r\n2023 |\r\n2022 |\r\n2021 |\r\n2020 |\r\n2019\u2026 [+11650 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Ryukoku.ac.jp"
+            },
+            "author": null,
+            "title": "(2026.10.19) (various)",
+            "description": "seclists.org \u30aa\u82e5\u53d6\u251d\u7912\u5e25orz\n\r\n NSD\r\n \n<ul> <li>\r\n NSD\u337d\u7da3\u63a9' \u941a\u7f6eE-2026-101337VE-2026-101338VE-2026-101339VE-2026-101341\u941a/a> (JPRS, 2026.10.15) \r\n\n</li></ul>\n\r\n curl\r\n \n<ul> <li> [SECURITY ADVISORIES] curl 8.23.0 (oss-sec ML, 2026.10.14)\u30e2everity: High CVE-2026-92392\nHT\u2026",
+            "url": "http://www.st.ryukoku.ac.jp/~kjm/security/memo/2026/10.html#20261019_various",
+            "urlToImage": null,
+            "publishedAt": "2026-10-18T15:00:00Z",
+            "content": "Last modified: Mon Oct 19 18:33:14 2026\r\n +0900 (JST)\r\nSecurity Watch \r\nSecurity Watch \r\n UNIXWindowsMac OS (priority ) \r\n1 \r\n 1 \r\n[ ]\r\n:\r\n2026 |\r\n2025 |\r\n2024 |\r\n2023 |\r\n2022 |\r\n2021 |\r\n2020 |\r\n2019\u2026 [+12297 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Ryukoku.ac.jp"
+            },
+            "author": null,
+            "title": "Ledger Response to the Hardware Implant Attack (Ledger, 2026.10.15)",
+            "description": "c\u82e5\u30a1\u226a\u30f2\u277c Ledger \u8316\u821f\u30e3\u30d1\u83a2\u277e\uff12\u6563\u7da3\u708a\u815fDeepL AI \u8350\n\r\n\n\n\u856d\u58be\u81b5\u81c0\u24a2\u30fc\u7f50\u32a6\u0441\u0441\u8340\u277e\u718a\u7d4b\u7d19\u969c\u7db5\u82e5\u2462\u8340edger\u3083\u30b1\u9ab8\u30e3\u7d68\u7949\u78e7\u24a2\u30a9\u82e5\u51b4\u7acf\u2503\u7f88\u6f5f\u7bc1\u300c\u543e\u300c\u337d\u9d2c\u7d15\u4fc4\u64ae\u7f8c\u969c\n(\u7b5d\u32a6)\n\u6ce3\u277c\u3001\u30a1\u82e5\u839f\uff1c\u7d19\u0441\u24a2\u7d4e\u7f8c\u815f\u541b\u7d19\u0441\n\r\n \ng\u9d3b\u83a2\u277e\uff12\u8193\u5ce8\u7bcf\u7d72\u969c\u3047\u8340\uff1c\u7bb4\u7403\u3342\u8340\r\n \n\n\u7db5\u305e\u8153\u4e0a\u5144\u662d\u5e25\u969c\u0444\u7d0a\u0446\u7f54\uff1c\u832f\u708a\u7d14\u969c\u7db5\u305e\u30b5\u33cd\u24a2\uff47\u8165\u5036edger Donjon\u3001\u6f5f\u277c\u0412\u7bc1\u5e25\u8339\uff46\u3083\u773c\u7f87\u5197\u7dba\u0446\u9055\u3083\u30b1\u9ab8\u30e3\u8146\u80b4\u277c\u7533\u838a\uff1c\u30d1\u6606\u30aa\u6f5f\u3083\u30d1\u7f4e\u7949\u9d3b\u337d\u7b5d\u2462\u24a2\u30d1\u8340\u969c\r\n\n\u7db5\u305e\u7f69\uff48\u83a2\u277e\uff12\u7bc1\uff47\u7dba\u7acf\u9d2c\u7d15\u6211\u30ad\u6028\u226a\u30af\u226a\u7ad5\u03a9\u7acf\u9d2c\u7d15\u7f69\u226a\u832b\u969c\u969c\u7dba\u7f4e\u7d0a\u30aa\u6f5f\u8146\u80b4\u7bb4\u7403\u2026",
+            "url": "http://www.st.ryukoku.ac.jp/~kjm/security/memo/2026/10.html#20261019_ledger",
+            "urlToImage": null,
+            "publishedAt": "2026-10-18T15:00:00Z",
+            "content": "Last modified: Mon Oct 19 20:13:28 2026\r\n +0900 (JST)\r\nSecurity Watch \r\nSecurity Watch \r\n UNIXWindowsMac OS (priority ) \r\n1 \r\n 1 \r\n[ ]\r\n:\r\n2026 |\r\n2025 |\r\n2024 |\r\n2023 |\r\n2022 |\r\n2021 |\r\n2020 |\r\n2019\u2026 [+13575 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BusinessLine"
+            },
+            "author": null,
+            "title": "CERT-In agent alert: Organisations lacked basic cyber controls, some not aware of incident, say authorities",
+            "description": "The government is in constant touch with chief information security officers CISOs of sensitive sectors, urging them to step up cyber controls",
+            "url": "https://www.thehindubusinessline.com/news/cert-in-agent-alert-organisations-lacked-basic-cyber-controls-some-not-aware-of-incident-say-authorities/article71599643.ece",
+            "urlToImage": "https://bl-i.thgim.com/public/incoming/jzyo9j/article71600442.ece/alternates/LANDSCAPE_1200/2025-11-18T165236Z_1314521899_RC2XAS9545MF_RTRMADP_3_USA-CHINA-HACKING.JPG",
+            "publishedAt": "2026-10-18T14:45:08Z",
+            "content": "The breach of Indian organisations by AI agents was not a result of any sophisticated AI model cyberattack, but from basic lapses in cyber hygiene, government officials in the know have said, stressi\u2026 [+3054 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BleepingComputer"
+            },
+            "author": "",
+            "title": "Image file corrupted through malware attack",
+            "description": "Image file corrupted through malware attack - posted in Virus, Trojan, Spyware, and Malware Removal Help: Around 2016, I noticed an application encrypting files on my computer and stopped it. Some JPG photographs became unreadable. Their filenames and extensi\u2026",
+            "url": "https://www.bleepingcomputer.com/forums/t/819560/image-file-corrupted-through-malware-attack/",
+            "urlToImage": "https://www.bleepingcomputer.com/forums/public/style_images/master/meta_image.png",
+            "publishedAt": "2026-10-18T14:21:11Z",
+            "content": "Around 2016, I noticed an application encrypting files on my computer and stopped it. Some JPG photographs became unreadable. Their filenames and extensions remained unchanged. I uploaded the affecte\u2026 [+315 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Securityaffairs.com"
+            },
+            "author": "Pierluigi Paganini",
+            "title": "SECURITY AFFAIRS AI-CYBERSECURITY NEWSLETTER ROUND 4",
+            "description": "Security Affairs AI-CYBERSECURITY newsletter includes a collection of the best articles and research on AI in the international landscape Artificial intelligence is rapidly changing cybersecurity, reshaping both the techniques used by attackers and the tools \u2026",
+            "url": "https://securityaffairs.com/201251/ai/security-affairs-ai-cybersecurity-newsletter-round-4.html",
+            "urlToImage": "https://securityaffairs.com/wp-content/uploads/2026/09/Security-Affairs-NewsLetter-AI-Cyber.jpg",
+            "publishedAt": "2026-10-18T13:46:39Z",
+            "content": "SECURITY AFFAIRS AI-CYBERSECURITY NEWSLETTER ROUND 4\r\nArtificial intelligence is rapidly changing cybersecurity, reshaping both the techniques used by attackers and the tools available to defenders. \u2026 [+1605 chars]"
+        }
+    ]
 }
