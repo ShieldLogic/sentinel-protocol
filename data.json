@@ -1,11 +1,29 @@
 {
-  "updated": "2026-10-20 18:11:27 UTC",
+  "updated": "2026-10-20 22:49:27 UTC",
   "news": [
+    {
+      "title": "PHP warns admins of two critical flaws, emergency patches coming tomorrow",
+      "description": "[BLEEPINGCOMPUTER] The PHP security team is warning administrators to prepare for emergency security updates tomorrow to address two critical vulnerabilities, as information about the flaws has reportedly leaked ahead of their scheduled disclosure. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/php-warns-admins-of-two-critical-flaws-emergency-patches-coming-tomorrow/",
+      "date": "2026-10-20T20:56:43Z"
+    },
+    {
+      "title": "Zeabur shutting down after second security breach in two months",
+      "description": "[BLEEPINGCOMPUTER] Development platform Zeabur has disclosed details of a cybersecurity incident in which an attacker used leaked internal credentials stored in plaintext to compromise its infrastructure and steal over 3.2 million environment variable records and...",
+      "url": "https://www.bleepingcomputer.com/news/security/zeabur-shutting-down-after-second-security-breach-in-two-months/",
+      "date": "2026-10-20T19:33:02Z"
+    },
     {
       "title": "OpenAI says GPT-6.1 Sol is dramatically better at migrating legacy code",
       "description": "[BLEEPINGCOMPUTER] OpenAI confirmed that its newer models are much better at writing and migrating software in older programming languages. [...]",
       "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-gpt-61-sol-is-dramatically-better-at-migrating-legacy-code/",
       "date": "2026-10-20T18:11:03Z"
+    },
+    {
+      "title": "Eight eMudhra CA Keys Compromised, Triggering Emergency Fixes Across Browsers and Software",
+      "description": "[FEEDS] The private keys of eight eMudhra intermediate certificate authority (CA) certificates are compromised,&nbsp;Mozilla&nbsp;and&nbsp;Google's Chrome Root Program&nbsp;confirms on October 20. An intermediate CA signs the certificates that websites...",
+      "url": "https://thehackernews.com/2026/10/eight-emudhra-ca-keys-compromised.html",
+      "date": "2026-10-20T17:09:53Z"
     },
     {
       "title": "Critical FortiSIEM Flaw Gets Public Exploit PoC for Unauthenticated Remote Code Execution",
@@ -50,10 +68,10 @@
       "date": "2026-10-20T12:59:44Z"
     },
     {
-      "title": "Windows Server 2025 gets support for quick machine recovery",
-      "description": "[BLEEPINGCOMPUTER] Microsoft announced that IT administrators can now use quick machine recovery on Windows Server 2025 after installing the October 2026 security update. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-server-2025-gets-support-for-quick-machine-recovery/",
-      "date": "2026-10-20T12:16:32Z"
+      "title": "CISA Adds Six Known Exploited Vulnerabilities to Catalog",
+      "description": "[CISA] CISA has added six new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-96652 Plex Media Server Server-Side Request Forgery (SSRF) Vulnerability CVE-2026-96654 Plex Media Server...",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/10/20/cisa-adds-six-known-exploited-vulnerabilities-catalog",
+      "date": "2026-10-20T12:00:00Z"
     },
     {
       "title": "WhatsApp Hid Instructions in Help Pages Telling Its AI Chatbot Not to Recommend Privacy Regulators",
@@ -62,22 +80,40 @@
       "date": "2026-10-20T11:41:06Z"
     },
     {
-      "title": "What Security Teams Can Do To Tame Wild Code",
-      "description": "[FEEDS] A sales manager builds an AI-assisted workflow to route leads. It connects to customer records, summarizes inbound requests, and posts updates to a shared channel. The workflow saves time, reduces manual work, and soon becomes part of the team\u2019s...",
-      "url": "https://thehackernews.com/2026/10/what-security-teams-can-do-to-tame-wild.html",
-      "date": "2026-10-20T11:33:04Z"
-    },
-    {
-      "title": "OVHcloud CLI releases backdoored on GitHub to steal developer secrets",
-      "description": "[BLEEPINGCOMPUTER] French cloud and hosting provider OVHcloud is warning users that attackers compromised its open-source command-line interface (CLI) tool to distribute information-stealing malware. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/ovhcloud-cli-releases-backdoored-on-github-to-steal-developer-secrets/",
-      "date": "2026-10-20T11:31:22Z"
-    },
-    {
       "title": "Possible new Cellebrite iPhone Radio Zero-Day",
       "description": "[SCHNEIER] Justin.sh is reporting on a confidential Cellebrite document that has been leaked to him: Cellebrite calls it Advanced Unlocks (AU from here on), not to be confused with the &#8220;advanced unlocking services&#8221; they&#8217;ve marketed for years....",
       "url": "https://www.schneier.com/blog/archives/2026/10/possible-new-cellebrite-iphone-radio-zero-day.html",
       "date": "2026-10-20T11:03:13Z"
+    },
+    {
+      "title": "Columbus IT Provider Sabre IT Announces 2026 Client Growth And Cybersecurity Expansion",
+      "description": "[THE MANILA TIMES] Sabre Cybersecurity LLC (Sabre IT) has added managed clients across manufacturing, legal, logistics, energy, and professional services in 2026 while expanding its cybersecurity stack and introducing AI-powered service capabilities.",
+      "url": "https://www.manilatimes.net/2026/10/20/tmt-newswire/plentisoft/columbus-it-provider-sabre-it-announces-2026-client-growth-and-cybersecurity-expansion/2449549",
+      "date": "2026-10-20T10:35:00Z"
+    },
+    {
+      "title": "Sabre Cybersecurity Warns Ohio Businesses That Ransomware Attacks Strike When Nobody Is Watching",
+      "description": "[THE MANILA TIMES] Columbus, Ohio, Oct. 20, 2026 (GLOBE NEWSWIRE) -- Sabre Cybersecurity & IT Services, a Columbus-based managed IT and cybersecurity provider, is urging businesses to reassess their ransomware defenses as cybercriminals increasingly exploit overnight...",
+      "url": "https://www.manilatimes.net/2026/10/20/tmt-newswire/globenewswire/sabre-cybersecurity-warns-ohio-businesses-that-ransomware-attacks-strike-when-nobody-is-watching/2449507",
+      "date": "2026-10-20T10:04:15Z"
+    },
+    {
+      "title": "US cybersecurity startup bets $200m on London expansion",
+      "description": "[CITY A.M.] A US cybersecurity startup valued at $3.5bn is opening a new London hub as part of a $200m expansion across Europe",
+      "url": "https://www.cityam.com/us-cybersecurity-startup-bets-200m-on-london-expansion/",
+      "date": "2026-10-20T09:19:34Z"
+    },
+    {
+      "title": "Five sectors drawing investor attention in 2026",
+      "description": "[THE LEADER NEWSPAPER] Five sectors drawing investor attention in 2026 - Investors follow businesses solving costly problems. Electricity demand, digital transactions and healthcare needs promise new markets, yet popularity - The Leader - The No. 1 Spanish Newspaper Five...",
+      "url": "https://theleader.info/2026/10/20/five-sectors-drawing-investor-attention-in-2026/",
+      "date": "2026-10-20T09:16:14Z"
+    },
+    {
+      "title": "Chinese AI tool behind cyberattacks in Japan",
+      "description": "[THE MANILA TIMES] TOKYO \u2014 A Chinese AI cybersecurity tool called Artex was used in a spate of recent hacks of Japanese companies, the subsidiary of a major Tokyo-based internet company said Tuesday.",
+      "url": "https://www.manilatimes.net/2026/10/20/world/chinese-ai-tool-behind-cyberattacks-in-japan/2449447",
+      "date": "2026-10-20T08:27:00Z"
     },
     {
       "title": "Ahold Delhaize Restores Systems Following Cybersecurity Incident",
@@ -114,36 +150,6 @@
       "description": "[CP24 TORONTO] California Attorney General Rob Bonta on Monday announced the state will receive a US$6 million settlement payment in 23andMe\u2019s bankruptcy, resolving California\u2019s legal claims related to a 2023 data breach that exposed 6.9 million customers\u2019 genetic...",
       "url": "https://www.cp24.com/news/money/2026/10/19/california-settles-23andme-data-breach-claims-for-us6m/",
       "date": "2026-10-19T21:26:06Z"
-    },
-    {
-      "title": "California settles 23andMe data breach claims for US$6M",
-      "description": "[BNN BLOOMBERG] California Attorney General Rob Bonta on Monday announced the state will receive a US$6 million settlement payment in 23andMe\u2019s bankruptcy, resolving California\u2019s legal claims related to a 2023 data breach that exposed 6.9 million customers\u2019 genetic...",
-      "url": "https://www.bnnbloomberg.ca/business/technology/2026/10/19/california-settles-23andme-data-breach-claims-for-us6m/",
-      "date": "2026-10-19T21:26:06Z"
-    },
-    {
-      "title": "California settles 23andMe data breach claims for $6 million",
-      "description": "[LIVEMINT] 23ANDME-BANKRUPTCY/SETTLEMENT (PIX):California settles 23andMe data breach claims for $6 million",
-      "url": "https://www.livemint.com/companies/california-settles-23andme-data-breach-claims-for-6-million-11792443340273.html",
-      "date": "2026-10-19T20:55:39Z"
-    },
-    {
-      "title": "California settles 23andMe data breach claims for $6 million",
-      "description": "[DEVDISCOURSE] Read more about California settles 23andMe data breach claims for $6 million on Devdiscourse",
-      "url": "https://www.devdiscourse.com/article/international/3994958-california-settles-23andme-data-breach-claims-for-6-million",
-      "date": "2026-10-19T20:54:44Z"
-    },
-    {
-      "title": "The 3-2-1 backup rule has a glaring caveat that ransomware exploits perfectly",
-      "description": "[XDA DEVELOPERS] A backup that's always plugged in is just another target.",
-      "url": "https://www.xda-developers.com/air-gapped-backup-drive-malware-protection/",
-      "date": "2026-10-19T20:30:19Z"
-    },
-    {
-      "title": "How to Hire a Hacker: Services, Costs, Risks and How to Choose",
-      "description": "[TECHBULLION] Searching for a hacker for hire can mean many things. You might need to test your company's security, investigate a data breach, recover access to your own account, or determine whether a device or network has been compromised.",
-      "url": "https://techbullion.com/how-to-hire-a-hacker-services-costs-risks-and-how-to-choose/",
-      "date": "2026-10-19T19:59:43Z"
     },
     {
       "title": "Training AIs to Solve CAPTCHAs",
@@ -233,12 +239,6 @@
       "title": "CISA Urges Patching Newly Exploited Vulnerability in Ivanti Connect Secure",
       "description": "[CISA] CISA is aware of Ivanti\u2019s disclosure of a newly exploited vulnerability, CVE-2026-104935, affecting Ivanti Connect Secure versions 25.1.1.1 and prior, 25.1.2.2 and prior, and 22.8R2.4 and prior. CISA is aware of cyber threat actors exploiting this...",
       "url": "https://www.cisa.gov/news-events/alerts/2026/10/13/cisa-urges-patching-newly-exploited-vulnerability-ivanti-connect-secure",
-      "date": "2026-10-13T12:00:00Z"
-    },
-    {
-      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
-      "description": "[CISA] CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-96951 Microsoft Windows Command Injection Vulnerability CVE-2026-104935 Ivanti Connect Secure...",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/10/13/cisa-adds-two-known-exploited-vulnerabilities-catalog",
       "date": "2026-10-13T12:00:00Z"
     }
   ]
