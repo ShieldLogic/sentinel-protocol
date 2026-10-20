@@ -1,17 +1,71 @@
 {
-  "updated": "2026-10-20 06:51:20 UTC",
+  "updated": "2026-10-20 13:08:24 UTC",
   "news": [
     {
-      "title": "Ex-OpenAI Engineer Detained in Spy Device Case as Saudi Royal Contacts Emerge",
-      "description": "[FEEDS] A U.S. court on Monday granted the U.S. government's request to detain a former OpenAI engineer accused of planting a recording device in an executive conference room at the company's San Francisco office to allegedly steal sensitive secrets. In a...",
-      "url": "https://thehackernews.com/2026/10/ex-openai-engineer-detained-in-spy.html",
-      "date": "2026-10-20T05:53:16Z"
+      "title": "WhatsApp Hid Instructions in Help Pages Telling Its AI Chatbot Not to Recommend Privacy Regulators",
+      "description": "[FEEDS] WhatsApp's help pages carried hidden instructions for its support chatbot that told it not to recommend a data protection authority or regulator to users who could no longer delete their accounts, even though WhatsApp's own privacy policy for Europe...",
+      "url": "https://thehackernews.com/2026/10/whatsapp-hid-instructions-in-help-pages.html",
+      "date": "2026-10-20T11:41:06Z"
     },
     {
-      "title": "Hackers Use New ROMULUS ClickFix Platform to Deliver LegionLoader and Other Malware",
-      "description": "[FEEDS] Cybersecurity researchers have disclosed details of a ClickFix delivery platform called ROMULUS that's being used to distribute malware such as Legion Loader. According to Forescout Research - Vedere Labs, ROMULUS is akin to a malware delivery...",
-      "url": "https://thehackernews.com/2026/10/romulus-clickfix-platform-tricks-users.html",
-      "date": "2026-10-20T04:05:58Z"
+      "title": "What Security Teams Can Do To Tame Wild Code",
+      "description": "[FEEDS] A sales manager builds an AI-assisted workflow to route leads. It connects to customer records, summarizes inbound requests, and posts updates to a shared channel. The workflow saves time, reduces manual work, and soon becomes part of the team\u2019s...",
+      "url": "https://thehackernews.com/2026/10/what-security-teams-can-do-to-tame-wild.html",
+      "date": "2026-10-20T11:33:04Z"
+    },
+    {
+      "title": "Go Issues Emergency Update Blocking Eight CA Keys Over Undisclosed Security Concerns",
+      "description": "[FEEDS] Go 1.27.3 and Go 1.26.10, released on October 20, make Go's certificate verifier reject any certificate chain that passes through one of&nbsp;eight intermediate certificate authority keys. Programs built on the new release will refuse connections to...",
+      "url": "https://thehackernews.com/2026/10/go-issues-emergency-update-blocking.html",
+      "date": "2026-10-20T11:32:59Z"
+    },
+    {
+      "title": "OVHcloud CLI releases backdoored on GitHub to steal developer secrets",
+      "description": "[BLEEPINGCOMPUTER] French cloud and hosting provider OVHcloud is warning users that attackers compromised its open-source command-line interface (CLI) tool to distribute information-stealing malware. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/ovhcloud-cli-releases-backdoored-on-github-to-steal-developer-secrets/",
+      "date": "2026-10-20T11:31:22Z"
+    },
+    {
+      "title": "Windows Server 2025 gets support for quick machine recovery",
+      "description": "[BLEEPINGCOMPUTER] Microsoft announced that IT administrators can now use quick machine recovery on Windows Server 2025 after installing the October 2026 security update. [...]",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-server-2025-gets-support-for-quick-machine-recovery/",
+      "date": "2026-10-20T11:21:42Z"
+    },
+    {
+      "title": "Ahold Delhaize: Cyberattack affects services across US and Europe",
+      "description": "[BLEEPINGCOMPUTER] Ahold Delhaize, one of the world's largest food retail chains, confirmed that last week's cyberattack disrupted services at stores across Europe and the United States. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/ahold-delhaize-cyberattack-affects-services-across-us-and-europe/",
+      "date": "2026-10-20T11:18:35Z"
+    },
+    {
+      "title": "Russian APT28 Breaches NATO Naval Shipbuilder in NATO Country, Deploys New Reflective Loader",
+      "description": "[FEEDS] The Russia-linked state-sponsored threat actor tracked as APT28 (aka BlueDelta, Fancy Bear, and Forest Blizzard) has been attributed to attacks targeting two member states of the North Atlantic Treaty Organization (NATO). The Symantec Threat Hunter...",
+      "url": "https://thehackernews.com/2026/10/russian-apt28-breaches-nato-naval.html",
+      "date": "2026-10-20T11:06:25Z"
+    },
+    {
+      "title": "Possible new Cellebrite iPhone Radio Zero-Day",
+      "description": "[SCHNEIER] Justin.sh is reporting on a confidential Cellebrite document that has been leaked to him: Cellebrite calls it Advanced Unlocks (AU from here on), not to be confused with the &#8220;advanced unlocking services&#8221; they&#8217;ve marketed for years....",
+      "url": "https://www.schneier.com/blog/archives/2026/10/possible-new-cellebrite-iphone-radio-zero-day.html",
+      "date": "2026-10-20T11:03:13Z"
+    },
+    {
+      "title": "ConnectWise Resets Credentials as Cloud Backup Remains Offline After Security Incident",
+      "description": "[FEEDS] ConnectWise on Monday said it has taken remediation measures, including strengthening administrative-access protections and resetting accounts and replacing application credentials, as it continues to respond to a security incident that led to...",
+      "url": "https://thehackernews.com/2026/10/connectwise-resets-credentials-as-cloud.html",
+      "date": "2026-10-20T10:56:08Z"
+    },
+    {
+      "title": "Revolut outage disrupts online banking operations worldwide",
+      "description": "[BLEEPINGCOMPUTER] Fintech company Revolut is working to resolve a massive outage that disrupted most of its services worldwide earlier today. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/revolut-outage-disrupts-online-banking-operations-worldwide/",
+      "date": "2026-10-20T09:46:44Z"
+    },
+    {
+      "title": "Hackers Hijack Five OVHcloud CLI Releases to Distribute Secret-Stealing Malware",
+      "description": "[FEEDS] An attacker used a contributor's GitHub account to replace the download archives on five existing releases of OVHcloud's command-line tool on Monday, October 19. The account had been hijacked, and the new files were a build designed to steal secrets...",
+      "url": "https://thehackernews.com/2026/10/hackers-hijack-five-ovhcloud-cli.html",
+      "date": "2026-10-20T08:21:29Z"
     },
     {
       "title": "ISC Stormcast For Tuesday, October 20th, 2026 https://isc.sans.edu/podcastdetail/10142, (Tue, Oct 20th)",
@@ -20,10 +74,34 @@
       "date": "2026-10-20T02:00:03Z"
     },
     {
+      "title": "Florida says its DMV was hacked by \u2018an international cybercriminal organization.\u2019",
+      "description": "[THE VERGE] As Ars Technica reports, Florida\u2019s Department of Highway Safety and Motor Vehicles says the hackers accessed its systems using a local law enforcement employee\u2019s \u201ccompromised credentials.\u201d The FLHSMV has started notifying victims about the breach,...",
+      "url": "https://www.theverge.com/tech/1014082/florida-says-its-dmv-was-hacked-by-an-international-cybercriminal-organization",
+      "date": "2026-10-19T22:05:03Z"
+    },
+    {
       "title": "Nikkei discloses third data breach in a month, 1.8M records exposed",
       "description": "[BLEEPINGCOMPUTER] Nikkei Inc. disclosed a new data breach, the third in about a month, that exposed 1.83 million personal information records. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/nikkei-discloses-third-data-breach-in-a-month-18m-records-exposed/",
       "date": "2026-10-19T21:49:48Z"
+    },
+    {
+      "title": "California to recieve $6m settlement after 23andMe data breach",
+      "description": "[THE GUARDIAN] The 2023 breach exposed millions of customers\u2019 genetic and personal information, including more than 855,000 Californians",
+      "url": "https://www.theguardian.com/us-news/2026/oct/19/california-settlement-23andme-data-breach",
+      "date": "2026-10-19T21:34:30Z"
+    },
+    {
+      "title": "California settles 23andMe data breach claims for US$6M",
+      "description": "[CP24 TORONTO] California Attorney General Rob Bonta on Monday announced the state will receive a US$6 million settlement payment in 23andMe\u2019s bankruptcy, resolving California\u2019s legal claims related to a 2023 data breach that exposed 6.9 million customers\u2019 genetic...",
+      "url": "https://www.cp24.com/news/money/2026/10/19/california-settles-23andme-data-breach-claims-for-us6m/",
+      "date": "2026-10-19T21:26:06Z"
+    },
+    {
+      "title": "California settles 23andMe data breach claims for US$6M",
+      "description": "[BNN BLOOMBERG] California Attorney General Rob Bonta on Monday announced the state will receive a US$6 million settlement payment in 23andMe\u2019s bankruptcy, resolving California\u2019s legal claims related to a 2023 data breach that exposed 6.9 million customers\u2019 genetic...",
+      "url": "https://www.bnnbloomberg.ca/business/technology/2026/10/19/california-settles-23andme-data-breach-claims-for-us6m/",
+      "date": "2026-10-19T21:26:06Z"
     },
     {
       "title": "WordPress SEO plugin Rank Math compromised to backdoor websites",
@@ -32,112 +110,40 @@
       "date": "2026-10-19T21:24:51Z"
     },
     {
-      "title": "Hackers hijack AOMEI update servers to secretly spread malware",
-      "description": "[BLEEPINGCOMPUTER] Hackers reportedly compromised AOMEI's servers to distribute malware through a built-in promotional feature in its backup software, briefly tampering with configuration files before restoring them to their original state to hide the attacks.a [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-hijack-aomei-update-servers-to-secretly-spread-malware/",
-      "date": "2026-10-19T19:40:58Z"
+      "title": "California settles 23andMe data breach claims for $6 million",
+      "description": "[LIVEMINT] 23ANDME-BANKRUPTCY/SETTLEMENT (PIX):California settles 23andMe data breach claims for $6 million",
+      "url": "https://www.livemint.com/companies/california-settles-23andme-data-breach-claims-for-6-million-11792443340273.html",
+      "date": "2026-10-19T20:55:39Z"
     },
     {
-      "title": "Bullhorn takes staffing platform offline to contain cyberattack",
-      "description": "[BLEEPINGCOMPUTER] Staffing software company Bullhorn has disabled access to its platform to contain a cyberattack that caused a system-wide outage. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/bullhorn-takes-staffing-platform-offline-to-contain-cyberattack/",
-      "date": "2026-10-19T18:51:13Z"
+      "title": "California settles 23andMe data breach claims for $6 million",
+      "description": "[DEVDISCOURSE] Read more about California settles 23andMe data breach claims for $6 million on Devdiscourse",
+      "url": "https://www.devdiscourse.com/article/international/3994958-california-settles-23andme-data-breach-claims-for-6-million",
+      "date": "2026-10-19T20:54:44Z"
     },
     {
-      "title": "Man held for cheating Italian woman of \u20b998,000 dies in Gurugram's Bhondsi jail",
-      "description": "[HINDUSTAN TIMES] The 36-year-old, who worked at a multinational cybersecurity firm, was arrested on October 1 after the woman travelled to India and filed a cheating complaint.",
-      "url": "https://www.hindustantimes.com/cities/gurugram-news/man-held-for-cheating-italian-woman-of-98-000-dies-in-gurugrams-bhondsi-jail-101792433602229.html",
-      "date": "2026-10-19T18:13:21Z"
+      "title": "The 3-2-1 backup rule has a glaring caveat that ransomware exploits perfectly",
+      "description": "[XDA DEVELOPERS] A backup that's always plugged in is just another target.",
+      "url": "https://www.xda-developers.com/air-gapped-backup-drive-malware-protection/",
+      "date": "2026-10-19T20:30:19Z"
     },
     {
-      "title": "Florida confirms driver\u2019s licence and motor vehicle data breach by \u2018malicious actor\u2019",
-      "description": "[FIRSTPOST] Florida officials are offering affected residents one year of credit monitoring after a September data breach, while ShinyHunters has been linked to the incident by its own claims",
-      "url": "https://www.firstpost.com/tech/florida-confirms-drivers-licence-and-motor-vehicle-data-breach-by-malicious-actor-14053958.html",
-      "date": "2026-10-19T18:06:31Z"
+      "title": "How to Hire a Hacker: Services, Costs, Risks and How to Choose",
+      "description": "[TECHBULLION] Searching for a hacker for hire can mean many things. You might need to test your company's security, investigate a data breach, recover access to your own account, or determine whether a device or network has been compromised.",
+      "url": "https://techbullion.com/how-to-hire-a-hacker-services-costs-risks-and-how-to-choose/",
+      "date": "2026-10-19T19:59:43Z"
     },
     {
-      "title": "Hackers Exploit Plex2Shell Flaws to Install Crypto Miners and Linux Proxy Backdoor",
-      "description": "[FEEDS] Threat actors have begun to exploit a chain of vulnerabilities in Plex Media Server to deploy cryptocurrency miners and reverse proxy software, a day after a proof-of-concept (PoC) went public. According to a researcher who goes by the online alias...",
-      "url": "https://thehackernews.com/2026/10/hackers-exploit-plex2shell-flaws-to.html",
-      "date": "2026-10-19T17:32:13Z"
+      "title": "SBI data breach claim: Hackers allegedly access 3.75 lakh accounts",
+      "description": "[THE ECONOMIC TIMES] \"The threat actor describes this as the first disclosure of the dataset, Cyberpulse56 said, adding that the authenticity, origin and extent of the alleged exposure are inverified. If legitimate, the data could facilitate identity theft, financial...",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/sbi-data-breach-claim-hackers-allegedly-access-3-75-lakh-accounts/articleshow/135059062.cms",
+      "date": "2026-10-19T19:53:00Z"
     },
     {
-      "title": "OpenCode hack exposes API keys amid AI distillation attacks",
-      "description": "[BLEEPINGCOMPUTER] The open-source AI coding project OpenCode has notified a small number of users that API keys they used with external providers were exposed in a security breach. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/opencode-hack-exposes-api-keys-amid-ai-distillation-attacks/",
-      "date": "2026-10-19T17:27:15Z"
-    },
-    {
-      "title": "Microsoft: frontier models cannot be trusted.",
-      "description": "[THE VERGE] Microsoft CEO Satya Nadella said earlier this month that we should assume that all AI models are \u201ccompromised,\u201d and now Microsoft is going one step further. \u201cUnfortunately, frontier models, regardless of their origin, cannot be trusted,\u201d says Hayete...",
-      "url": "https://www.theverge.com/news/1013838/microsoft-frontier-models-cannot-be-trusted",
-      "date": "2026-10-19T17:26:01Z"
-    },
-    {
-      "title": "DICT Holds Digital Signature Workshop in Davao Occidental",
-      "description": "[SUNSTAR PHILIPPINES] DICT-Davao brings its PNPKI digital signature and cybersecurity advocacy campaign to Davao Occidental officials in Malita.",
-      "url": "https://www.sunstar.com.ph/davao/dict-holds-digital-signature-workshop-in-davao-occidental",
-      "date": "2026-10-19T17:04:23Z"
-    },
-    {
-      "title": "Florida DMV hacked after police dept insecurely stored login info",
-      "description": "[ARS TECHNICA] Florida issues alerts after statewide DMV data breach linked to ShinyHunters.",
-      "url": "https://arstechnica.com/tech-policy/2026/10/huge-dmv-data-breach-impacted-current-and-former-florida-residents/",
-      "date": "2026-10-19T16:38:13Z"
-    },
-    {
-      "title": "Popular WordPress SEO Plugin Rank Math PRO Hijacked to Deliver Self-Restoring Backdoor",
-      "description": "[FEEDS] Copies of Rank Math PRO, the paid version of the Rank Math SEO plugin for WordPress, that were downloaded from rankmath.com or delivered as updates between 20:02 UTC on October 15 and 07:12 UTC on October 16 contained malware, Rank Math said in...",
-      "url": "https://thehackernews.com/2026/10/popular-wordpress-seo-plugin-rank-math.html",
-      "date": "2026-10-19T16:28:47Z"
-    },
-    {
-      "title": "Cybersecurity firm hired by Hamilton says director arrested by FBI didn't handle city's ransomware response",
-      "description": "[CBC.CA] In the wake of the FBI's arrest of a former cybersecurity executive on another issue, the firm that was tasked with helping Hamilton recover from a 2024 cyberattack says he had no involvement in the work it did for the city.",
-      "url": "https://www.cbc.ca/news/canada/hamilton/ed-dubrovsky-cypfer-hamilton-ransom-fbi-arrest-9.7383552",
-      "date": "2026-10-19T16:12:57Z"
-    },
-    {
-      "title": "Who earned \u20b91 cr per annum salary while many got layoffs? These job professionals got pay package in 8 figures amount",
-      "description": "[LIVEMINT] The report identifies four major areas where specialised skills are attracting higher pay: AI, data, cloud computing and cybersecurity.",
-      "url": "https://www.livemint.com/companies/who-earned-rs-1-cr-per-annum-salary-while-many-got-layoffs-these-job-professionals-got-pay-package-in-8-figures-amount-11792424674850.html",
-      "date": "2026-10-19T16:05:25Z"
-    },
-    {
-      "title": "Exaforce recognized as a 'Progressive Player' in MarketsandMarkets\u2122 360Quadrants Platform for the AI-Security Operations Center (SOC) Market",
-      "description": "[PR NEWSWIRE UK] /PRNewswire/ -- Exaforce, is a cybersecurity company focused on using AI and automation to help organizations detect, investigate, and respond to cyber...",
-      "url": "https://www.prnewswire.co.uk/news-releases/exaforce-recognized-as-a-progressive-player-in-marketsandmarkets-360quadrants-platform-for-the-ai-security-operations-center-soc-market-302912825.html",
-      "date": "2026-10-19T16:04:00Z"
-    },
-    {
-      "title": "Trump officials reportedly asked staffers to secretly hack a voting machine.",
-      "description": "[THE VERGE] The request from political appointees at the Department of Homeland Security to the Cybersecurity and Infrastructure Security Agency was never fulfilled, ProPublica found, but staffers were shocked at the directive not to report flaws back to the...",
-      "url": "https://www.theverge.com/policy/1013724/trump-officials-reportedly-asked-staffers-to-secretly-hack-a-voting-machine",
-      "date": "2026-10-19T15:35:02Z"
-    },
-    {
-      "title": "US banning Chinese AI DeepSeek from government agency IT systems",
-      "description": "[MONEYCONTROL] The US Homeland Security Department has ordered civilian agencies to remove DeepSeek AI products, citing concerns over sensitive data transfers to China and potential cybersecurity risks.",
-      "url": "https://www.moneycontrol.com/world/us-banning-chinese-ai-deepseek-from-government-agency-it-systems-article-14055716.html",
-      "date": "2026-10-19T15:24:04Z"
-    },
-    {
-      "title": "Microsoft fixes game, app crashes caused by recent Windows update",
-      "description": "[BLEEPINGCOMPUTER] Microsoft has resolved a bug that caused games and apps using AC-3 (Dolby Digital) audio decoding to crash after installing the September 2026 Windows 11 preview update (KB5124010). [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-game-app-crashes-caused-by-windows-kb5124010-preview-update/",
-      "date": "2026-10-19T14:55:23Z"
-    },
-    {
-      "title": "\u26a1 Weekly Recap: 98 Zero-Days, Rogue AI Agents, $100M Crypto Theft, 700 Supermarkets Hit and More",
-      "description": "[FEEDS] The worst problems don't always come with a warning. Sometimes they arrive through a service everyone trusts, a device someone bought, or a system nobody thought to check. By the time something looks wrong, the damage may already be done. This week...",
-      "url": "https://thehackernews.com/2026/10/weekly-recap-98-zero-days-rogue-ai.html",
-      "date": "2026-10-19T14:14:07Z"
-    },
-    {
-      "title": "GhostAction Attackers Plant Credential Stealer Disguised as Font in 94 GitHub Repositories",
-      "description": "[FEEDS] The threat actor behind the GhostAction supply chain attack has expanded beyond injecting malicious GitHub Actions workflows into compromised projects to phish open-source developers and deliver a stealer malware disguised within a fake font file....",
-      "url": "https://thehackernews.com/2026/10/ghostaction-attackers-plant-credential.html",
-      "date": "2026-10-19T13:05:45Z"
+      "title": "SBI data breach claim: Hackers allegedly access 3.75 lakh accounts",
+      "description": "[THE ECONOMIC TIMES] \"The threat actor describes this as the first disclosure of the dataset, Cyberpulse56 said, adding that the authenticity, origin and extent of the alleged exposure are inverified. If legitimate, the data could facilitate identity theft, financial...",
+      "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/sbi-data-breach-claim-hackers-allegedly-access-3-75-lakh-accounts/articleshow/135055988.cms",
+      "date": "2026-10-19T19:53:00Z"
     },
     {
       "title": "Training AIs to Solve CAPTCHAs",
@@ -216,12 +222,6 @@
       "description": "[SCHNEIER] This is a current list of where and when I am scheduled to speak: I\u2019m speaking at ATTENTION: Democracy, Rebuilt in Montreal, Quebec, Canada. The event runs October 21\u201323, 2026, and my talk is on Wednesday, October 21. I\u2019m speaking at the University...",
       "url": "https://www.schneier.com/blog/archives/2026/10/upcoming-speaking-engagements-61.html",
       "date": "2026-10-14T16:02:17Z"
-    },
-    {
-      "title": "The Future of AI Cryptanalysis",
-      "description": "[SCHNEIER] Matthew Green has been writing a rather pessimistic series of posts about the potential for AI systems to vastly outperform humans in cryptanalysis of both symmetric and public-key ciphers. I am more optimistic than he is. That is, I have stronger...",
-      "url": "https://www.schneier.com/blog/archives/2026/10/the-future-of-ai-cryptanalysis.html",
-      "date": "2026-10-14T14:24:18Z"
     },
     {
       "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
