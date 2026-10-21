@@ -1,6 +1,36 @@
 {
-  "updated": "2026-10-21 19:46:39 UTC",
+  "updated": "2026-10-21 22:53:31 UTC",
   "news": [
+    {
+      "title": "Google Chrome adds Gemini-powered scam detection, warns users of ClickFix attacks",
+      "description": "[BLEEPINGCOMPUTER] Chrome is getting new scam protections that use Gemini to detect deceptive websites and warn users when they copy suspicious commands from ClickFix attacks. [...]",
+      "url": "https://www.bleepingcomputer.com/news/google/google-chrome-adds-gemini-powered-scam-detection-warns-users-of-clickfix-attacks/",
+      "date": "2026-10-21T22:16:26Z"
+    },
+    {
+      "title": "Japan's Onamae Desktop Cloud hacked, up to 27,000 servers affected",
+      "description": "[BLEEPINGCOMPUTER] Hackers compromised the infrastructure of Onamae Desktop Cloud, a popular provider of VPS services in Japan, and installed malware on up to 26,739 customers' servers. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/japans-onamae-desktop-cloud-hacked-up-to-27-000-servers-affected/",
+      "date": "2026-10-21T21:43:27Z"
+    },
+    {
+      "title": "Critical PHP Vulnerability (CVE-2026-109618, CVE-2026-109619) &#x5b;infocon yellow&#x5d;, (Wed, Oct 21st)",
+      "description": "[ISC] PHP.net announced that it will release a critical update today. We decided to change the infoCon to YELLOW due to the widespread use of PHP, the expected severity of the flaw (CVSS 9.4), and the availability of early PoC exploits before the patch...",
+      "url": "https://isc.sans.edu/diary/rss/33440",
+      "date": "2026-10-21T21:02:43Z"
+    },
+    {
+      "title": "Lazarus hackers use post-quantum cryptography for malware delivery",
+      "description": "[BLEEPINGCOMPUTER] North Korean hackers are using a post-quantum cryptographic mechanism to secure malicious payload delivery in new operations that combine old and new malware. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/lazarus-hackers-use-post-quantum-cryptography-for-malware-delivery/",
+      "date": "2026-10-21T20:31:48Z"
+    },
+    {
+      "title": "Critical GitLab Flaw (CVSS 10.0) Could Allow Unauthenticated RCE Across 12 Years of Releases",
+      "description": "[FEEDS] GitLab released fixes on October 21 for a flaw that lets an attacker run code on a self-managed server without logging in, and it affects every version of the software going back to 7.0, released in 2014. The fix matters even for administrators who...",
+      "url": "https://thehackernews.com/2026/10/critical-gitlab-flaw-cvss-100-could.html",
+      "date": "2026-10-21T18:57:34Z"
+    },
     {
       "title": "CISA: Hackers chain Plex flaws in Plex2Shell attacks to breach servers",
       "description": "[BLEEPINGCOMPUTER] The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning that attackers are actively exploiting four vulnerabilities in Plex Media Server. [...]",
@@ -26,22 +56,10 @@
       "date": "2026-10-21T16:26:53Z"
     },
     {
-      "title": "Critical PHP Vulnerability (CVE-2026-109618, CVE-2026-109619) &#x5b;infocon yellow&#x5d;, (Wed, Oct 21st)",
-      "description": "[ISC] PHP.net announced that it will release a critical update today. We decided to change the infoCon to YELLOW due to the widespread use of PHP, the expected severity of the flaw (CVSS 9.4), and the availability of early PoC exploits ahead of the patch...",
-      "url": "https://isc.sans.edu/diary/rss/33440",
-      "date": "2026-10-21T15:12:02Z"
-    },
-    {
       "title": "PHP ships emergency patches for critical PHP2Shell flaws",
       "description": "[BLEEPINGCOMPUTER] The PHP security team released emergency security patches for two critical remote code execution (RCE) vulnerabilities (CVE-2026-109618 and CVE-2026-109619) tracked collectively as PHP2Shell. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/php-ships-emergency-patches-for-critical-php2shell-flaws/",
       "date": "2026-10-21T14:07:05Z"
-    },
-    {
-      "title": "ClickFix has never been bigger, and AI tools are its most convincing lure yet",
-      "description": "[BLEEPINGCOMPUTER] ClickFix attacks are surging as cybercriminals use fake AI installers, malicious search results, and trusted chatbot platforms to trick users into executing malware. Push Security examines how these attacks evade traditional defenses and why AI...",
-      "url": "https://www.bleepingcomputer.com/news/security/clickfix-has-never-been-bigger-and-ai-tools-are-its-most-convincing-lure-yet/",
-      "date": "2026-10-21T14:00:10Z"
     },
     {
       "title": "PHP Issues Emergency Patches for Two Critical PHP2Shell RCE Flaws as Exploit Attempts Emerge",
@@ -56,12 +74,6 @@
       "date": "2026-10-21T13:15:09Z"
     },
     {
-      "title": "Microsoft PowerToys adds CursorHide, Button Lock mouse tools",
-      "description": "[BLEEPINGCOMPUTER] Microsoft has released PowerToys 0.102, with two new mouse utilities, new command-line tools, and Command Palette improvements. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-powertoys-adds-cursorhide-button-lock-mouse-tools/",
-      "date": "2026-10-21T12:20:34Z"
-    },
-    {
       "title": "China-Aligned Bronze Sandcastle Abuses Sandboxie DLL Sideloading to Deploy Backdoors",
       "description": "[FEEDS] Cybersecurity researchers have disclosed details of a previously undocumented China-aligned threat cluster known as Bronze Sandcastle that has been observed targeting organizations in Asia and Africa since mid-2025. \"The most distinctive technical...",
       "url": "https://thehackernews.com/2026/10/china-aligned-bronze-sandcastle-abuses.html",
@@ -74,82 +86,70 @@
       "date": "2026-10-21T12:00:00Z"
     },
     {
-      "title": "Generative AI Is Erasing Behavioral Tells, Weakening Behavior-Only Detection, Proofpoint Reports",
-      "description": "[FEEDS] Generative AI has changed what a malicious email looks like. Messages that once gave themselves away through clumsy wording, generic pretexts, and reused templates now arrive fluent, personalized, and unique to each recipient, and the behavioral...",
-      "url": "https://thehackernews.com/2026/10/generative-ai-is-erasing-behavioral.html",
-      "date": "2026-10-21T11:53:34Z"
-    },
-    {
       "title": "Workshop on Economics and Information Security (WEIS) Archive",
       "description": "[SCHNEIER] There&#8217;s a new archive of all the papers from twenty-five years of the Workshop on Economics and Information Security (WEIS). Really nice resource. It&#8217;s fun to reread my 2002 essay on the economics of information security.",
       "url": "https://www.schneier.com/blog/archives/2026/10/workshop-on-economics-and-information-security-weis-archive.html",
       "date": "2026-10-21T11:02:22Z"
     },
     {
-      "title": "Microsoft says October updates didn\u2019t actually fix VPN issues",
-      "description": "[BLEEPINGCOMPUTER] Microsoft says it mistakenly flagged a bug causing Always On VPN connection issues as fixed in the October 2026 Windows 11 cumulative updates. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-didnt-actually-fix-vpn-issues-caused-by-windows-updates/",
-      "date": "2026-10-21T10:14:53Z"
+      "title": "SBI data breach: Is your bank account safe? What was leaked and should you worry?",
+      "description": "[THE ECONOMIC TIMES] Country's largest bank, SBI, is investigating a suspected data leak involving 3,897 customer records identified on the dark web. Here is what information was exposed, whether your bank account is safe and the precautions customers should take.",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/sbi-data-breach-is-your-bank-account-safe-what-was-leaked-and-should-you-worry/articleshow/135088327.cms",
+      "date": "2026-10-21T10:49:00Z"
     },
     {
-      "title": "EU agency warns websites may need to be taken offline as PHP prepares patches for vulnerabilities",
-      "description": "[THE STAR] Oct \u206021 (Reuters) - The developers of the widely used PHP programming language said on Wednesday \u2060they would release patches for two critical vulnerabilities, as EU cybersecurity officials warned \u200corganisations unable to apply the fixes should take...",
-      "url": "https://www.thestar.com.my/tech/tech-news/2026/10/21/eu-agency-warns-websites-may-need-to-be-taken-offline-as-php-prepares-patches-for-vulnerabilities",
-      "date": "2026-10-21T07:36:00Z"
+      "title": "Warning websites may go dark as critical fix prepared",
+      "description": "[PERTHNOW] Major cybersecurity warnings have been issued after serious vulnerabilities were identified in widely used software, with Cloudflare reporting early attacks.",
+      "url": "https://www.perthnow.com.au/news/technology/warning-websites-may-go-dark-as-critical-fix-prepared-c-23055239",
+      "date": "2026-10-21T10:40:13Z"
     },
     {
-      "title": "CISA Orders Federal Agencies to Patch Exploited Plex2Shell, Siemens, and SiteGuard Flaws",
-      "description": "[THE HACKER NEWS] CISA flags six exploited flaws in Plex, Siemens, and SiteGuard, including Plex2Shell bugs used to deploy crypto miners and proxy malware.",
-      "url": "https://thehackernews.com/2026/10/cisa-orders-federal-agencies-to-patch.html",
-      "date": "2026-10-21T07:26:00Z"
+      "title": "Warning websites may go dark as critical fix prepared",
+      "description": "[THE CANBERRA TIMES] Major cybersecurity warnings have been issued after serious vulnerabilities were identified in widely used software, with Cloudflare reporting...",
+      "url": "https://www.canberratimes.com.au/story/9373026/warning-websites-may-go-dark-as-critical-fix-prepared/",
+      "date": "2026-10-21T10:38:31Z"
     },
     {
-      "title": "Data centres make Ireland a target for hackers",
-      "description": "[RTE.IE] A cybersecurity expert has said Ireland is \"in the crosshairs\" for hackers because the country hosts so many data centres.",
-      "url": "https://www.rte.ie/news/2026/1021/1596227-hackers-target-ireland-data-centres/",
-      "date": "2026-10-21T07:23:47Z"
+      "title": "CERT-In issues advisory on eMudhra cybersecurity fiasco, suggests best practices for online security",
+      "description": "[INDIA TODAY] CERT-In has warned of a security compromise involving eight intermediate digital certificate authorities linked to eMudhra. The flaw could allow attackers to create fake website security certificates, prompting the agency to recommend software...",
+      "url": "https://www.indiatoday.in/technology/news/story/cert-in-issues-advisory-on-emudhra-cybersecurity-fiasco-suggests-best-practices-for-online-security-3021958-2026-10-21",
+      "date": "2026-10-21T10:33:18Z"
     },
     {
-      "title": "Over 100 Japanese companies set up, expand GCCs in India as focus shifts to AI, engineering: Report",
-      "description": "[THE TRIBUNE] More than 100 Japanese companies have established or expanded their Global Capability Centres (GCCs) in India, with operations increasingly shifting towards artificial intelligence (AI), engineering, product development and cybersecurity, according...",
-      "url": "https://www.tribuneindia.com/news/business/over-100-japanese-companies-set-up-expand-gccs-in-india-as-focus-shifts-to-ai-engineering-report/",
-      "date": "2026-10-21T07:19:32Z"
+      "title": "How a single flaw in a key generation ceremony left Bengaluru-based eMudhra\u2019s global TLS certificates vulnerable, and what it means for websites that rely on them",
+      "description": "[TIMES OF INDIA] MUMBAI: Bengaluru-based digital trust and cybersecurity company eMudhra has acknowledged a cryptographic flaw that generated weak keys in its global",
+      "url": "https://timesofindia.indiatimes.com/city/mumbai/how-a-single-flaw-in-a-key-generation-ceremony-left-bengaluru-based-emudhras-global-tls-certificates-vulnerable-and-what-it-means-for-websites-that-rely-on-them/articleshow/135089174.cms",
+      "date": "2026-10-21T10:27:00Z"
     },
     {
-      "title": "Over 100 Japanese companies set up, expand GCCs in India as focus shifts to AI, engineering: Report",
-      "description": "[ANI (ASIAN NEWS INTERNATIONAL)] More than 100 Japanese companies have established or expanded their Global Capability Centres (GCCs) in India, with operations increasingly shifting towards artificial intelligence (AI), engineering, product development and cybersecurity, according...",
-      "url": "https://www.aninews.in/news/business/over-100-japanese-companies-set-up-expand-gccs-in-india-as-focus-shifts-to-ai-engineering-report20261021124531/",
-      "date": "2026-10-21T07:15:31Z"
+      "title": "EU cybersecurity team says unpatched PHP sites may need to go offline",
+      "description": "[TNW] CERT-EU says firms that cannot patch two critical PHP flaws should consider taking sites offline. PHP releases fixes at 14:00 UTC on October 21.",
+      "url": "https://thenextweb.com/news/php-vulnerability-cert-eu-websites-offline",
+      "date": "2026-10-21T10:01:41Z"
     },
     {
-      "title": "SBI Reports Data Leak Of 3,897 Customer Records On Dark Web; Names, Phone Numbers Exposed",
-      "description": "[NEWS18] The State Bank of India (SBI) has reported a cybersecurity incident involving the exposure of 3,897 customer records on the dark web.",
-      "url": "https://www.news18.com/tech/sbi-reports-data-leak-of-3897-customer-records-on-dark-web-names-phone-numbers-exposed-10390974.html",
-      "date": "2026-10-21T06:55:49Z"
+      "title": "Japan police data breach exposes 125,000 records",
+      "description": "[THE STRAITS TIMES] Data breach may have exposed 125,000 staff records across Japan\u2019s police forces, with other firms also hit by cyberattacks. Read more at straitstimes.com.",
+      "url": "https://www.straitstimes.com/asia/east-asia/data-breach-threatens-to-expose-125000-staff-records-across-japans-police-forces",
+      "date": "2026-10-21T09:13:49Z"
     },
     {
-      "title": "SBI confirms data leak, appoints cybersecurity agency to conduct assessment",
-      "description": "[TIMES OF INDIA] MUMBAI: The State Bank of India (SBI) has confirmed a data exposure involving customer information, identifying 3,897 records containing personally",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/sbi-confirms-data-leak-appoints-cybersecurity-agency-to-conduct-assessment/articleshow/135084806.cms",
-      "date": "2026-10-21T06:52:00Z"
+      "title": "eMudhra cybersecurity fiasco: What it means for you and how to stay protected",
+      "description": "[INDIA TODAY] Researchers recently uncovered a serious security flaw involving Indian cybersecurity company eMudhra. Google, Apple and other tech firms have also moved to block the affected certificates issued by the company. But should you worry? Here is what...",
+      "url": "https://www.indiatoday.in/technology/news/story/emudhra-cybersecurity-fiasco-what-it-means-for-you-and-how-to-stay-protected-3021912-2026-10-21",
+      "date": "2026-10-21T09:00:52Z"
     },
     {
-      "title": "SBI flags potential data breach involving 3.75L customer records",
-      "description": "[NEWSBYTES] State Bank of India has identified the exposure of 3,897 customer records on the dark web, including sensitive information such as names, mobile numbers, and addresses.",
-      "url": "https://www.newsbytesapp.com/news/business/sbi-probing-a-massive-data-breach-involving-customer-records/story",
-      "date": "2026-10-21T06:30:28Z"
+      "title": "eMudhra certificates blocked by Google and Mozilla; some legitimate websites may stop working from October 27; here's what happened",
+      "description": "[THE ECONOMIC TIMES] eMudhra intermediate CA certificates: Google and Mozilla have blocked eight compromised intermediate certificate keys linked to eMudhra, an Indian provider of digital trust and cybersecurity services. Weak randomness during key generation could have...",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/emudhra-certificates-blocked-by-google-and-mozilla-some-legitimate-websites-may-stop-working-from-october-27-heres-what-happened/articleshow/135086691.cms",
+      "date": "2026-10-21T08:49:00Z"
     },
     {
-      "title": "eMudhra flags weak keys in eight certificate authorities, rules out data breach",
-      "description": "[THE HINDU BUSINESS LINE] Digital trust services provider eMudhra informed exchanges on Wednesday that a flaw during a key generation event led to weak cryptographic keys being published for eight of its intermediate certificate authorities (CAs), prompting concerns over...",
-      "url": "https://www.thehindubusinessline.com/info-tech/emudhra-flags-weak-keys-in-eight-certificate-authorities-rules-out-data-breach/article71606447.ece",
-      "date": "2026-10-21T06:06:49Z"
-    },
-    {
-      "title": "Cyberattack on SBI: Bank confirms data breach, over 3,800 customer records stolen and shared on dark web - Is core banking affected?",
-      "description": "[INDIA.COM] The State Bank of India (SBI) has confirmed a cyberattack that may have exposed 3,897 customer records containing personal information on the dark web.",
-      "url": "https://www.india.com/business/cyberattack-on-sbi-bank-confirms-data-breach-over-3800-customer-records-stolen-and-shared-on-dark-web-is-core-banking-affected-cyberattack-online-scam-8537710/",
-      "date": "2026-10-21T05:46:46Z"
+      "title": "eMudhra share price hits 20% lower circuit after researcher flags weak keys",
+      "description": "[LIVEMINT] eMudhra shares hit a 20% lower circuit after the company disclosed a flaw that generated weak keys for eight intermediate certificate authorities in its global TLS business. It said there was no infrastructure compromise or data breach, and that its...",
+      "url": "https://www.livemint.com/market/stock-market-news/emudhra-share-price-hits-20-lower-circuit-after-researcher-flags-weak-keys-can-the-stock-recover-what-lies-ahead-11792570231752.html",
+      "date": "2026-10-21T08:30:22Z"
     },
     {
       "title": "ISC Stormcast For Wednesday, October 21st, 2026 https://isc.sans.edu/podcastdetail/10144, (Wed, Oct 21st)",
