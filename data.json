@@ -1,6 +1,78 @@
 {
-  "updated": "2026-10-21 08:58:50 UTC",
+  "updated": "2026-10-21 14:45:30 UTC",
   "news": [
+    {
+      "title": "Critical PHP Vulnerability (CVE-2026-109618, CVE-2026-109619) &#x5b;infocon yellow&#x5d;, (Wed, Oct 21st)",
+      "description": "[ISC] PHP.net announced that it will release a critical update today. We decided to change the infoCon to YELLOW due to the widespread use of PHP, the expected severity of the flaw (CVSS 9.4), and the availability of early PoC exploits ahead of the patch...",
+      "url": "https://isc.sans.edu/diary/rss/33440",
+      "date": "2026-10-21T14:34:28Z"
+    },
+    {
+      "title": "PHP ships emergency patches for critical PHP2Shell flaws",
+      "description": "[BLEEPINGCOMPUTER] The PHP security team released emergency security patches for two critical remote code execution (RCE) vulnerabilities (CVE-2026-109618 and CVE-2026-109619) tracked collectively as PHP2Shell. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/php-ships-emergency-patches-for-critical-php2shell-flaws/",
+      "date": "2026-10-21T14:07:05Z"
+    },
+    {
+      "title": "ClickFix has never been bigger, and AI tools are its most convincing lure yet",
+      "description": "[BLEEPINGCOMPUTER] ClickFix attacks are surging as cybercriminals use fake AI installers, malicious search results, and trusted chatbot platforms to trick users into executing malware. Push Security examines how these attacks evade traditional defenses and why AI...",
+      "url": "https://www.bleepingcomputer.com/news/security/clickfix-has-never-been-bigger-and-ai-tools-are-its-most-convincing-lure-yet/",
+      "date": "2026-10-21T14:00:10Z"
+    },
+    {
+      "title": "Google Chrome Adds ClickFix Warnings to Stop Users From Running Malicious Commands",
+      "description": "[FEEDS] Google on Tuesday said it's rolling out improved safeguards in its Chrome browser to secure users against ClickFix attacks when Enhanced Protection is enabled. ClickFix is a popular social engineering technique in which bad actors trick users into...",
+      "url": "https://thehackernews.com/2026/10/google-chrome-adds-clickfix-warnings-to.html",
+      "date": "2026-10-21T13:15:09Z"
+    },
+    {
+      "title": "Microsoft PowerToys adds CursorHide, Button Lock mouse tools",
+      "description": "[BLEEPINGCOMPUTER] Microsoft has released PowerToys 0.102, with two new mouse utilities, new command-line tools, and Command Palette improvements. [...]",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-powertoys-adds-cursorhide-button-lock-mouse-tools/",
+      "date": "2026-10-21T12:20:34Z"
+    },
+    {
+      "title": "China-Aligned Bronze Sandcastle Abuses Sandboxie DLL Sideloading to Deploy Backdoors",
+      "description": "[FEEDS] Cybersecurity researchers have disclosed details of a previously undocumented China-aligned threat cluster known as Bronze Sandcastle that has been observed targeting organizations in Asia and Africa since mid-2025. \"The most distinctive technical...",
+      "url": "https://thehackernews.com/2026/10/china-aligned-bronze-sandcastle-abuses.html",
+      "date": "2026-10-21T12:05:00Z"
+    },
+    {
+      "title": "Generative AI Is Erasing Behavioral Tells, Weakening Behavior-Only Detection, Proofpoint Reports",
+      "description": "[FEEDS] Generative AI has changed what a malicious email looks like. Messages that once gave themselves away through clumsy wording, generic pretexts, and reused templates now arrive fluent, personalized, and unique to each recipient, and the behavioral...",
+      "url": "https://thehackernews.com/2026/10/generative-ai-is-erasing-behavioral.html",
+      "date": "2026-10-21T11:53:34Z"
+    },
+    {
+      "title": "Workshop on Economics and Information Security (WEIS) Archive",
+      "description": "[SCHNEIER] There&#8217;s a new archive of all the papers from twenty-five years of the Workshop on Economics and Information Security (WEIS). Really nice resource. It&#8217;s fun to reread my 2002 essay on the economics of information security.",
+      "url": "https://www.schneier.com/blog/archives/2026/10/workshop-on-economics-and-information-security-weis-archive.html",
+      "date": "2026-10-21T11:02:22Z"
+    },
+    {
+      "title": "PHP2Shell: What Actually Protects You Before the 14:00 UTC PHP RCE Patch, and What Doesn't",
+      "description": "[FEEDS] You cannot fully block the two critical PHP flaws called PHP2Shell before today's fix, and the one setting being passed around as a workaround is not enough on its own, the security firm that suggested it now says. PHP will release the fix...",
+      "url": "https://thehackernews.com/2026/10/php2shell-what-actually-protects-you.html",
+      "date": "2026-10-21T10:36:53Z"
+    },
+    {
+      "title": "The Harness Is the Hard Part of Agentic Pentesting",
+      "description": "[FEEDS] An AppSec team can point an AI agent running on a general-purpose model at its own web apps with little setup. Sure, the model writes the attacks. But everything that makes those attacks safe to run against production and worth acting on afterward...",
+      "url": "https://thehackernews.com/2026/10/the-harness-is-hard-part-of-agentic.html",
+      "date": "2026-10-21T10:32:40Z"
+    },
+    {
+      "title": "Attackers Hijacked Over 300 Tor Exit Relays to Intercept SSH Connections",
+      "description": "[FEEDS] Attackers took control of more than 300 Tor exit relays in early October and used them to redirect SSH connections to servers that stole login passwords, a researcher found. Exit relays are the last hop in a Tor circuit, where traffic leaves the...",
+      "url": "https://thehackernews.com/2026/10/attackers-hijacked-over-300-tor-exit.html",
+      "date": "2026-10-21T10:30:27Z"
+    },
+    {
+      "title": "Microsoft says October updates didn\u2019t actually fix VPN issues",
+      "description": "[BLEEPINGCOMPUTER] Microsoft says it mistakenly flagged a bug causing Always On VPN connection issues as fixed in the October 2026 Windows 11 cumulative updates. [...]",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-didnt-actually-fix-vpn-issues-caused-by-windows-updates/",
+      "date": "2026-10-21T10:14:53Z"
+    },
     {
       "title": "CISA: SafePay ransomware hit over 600 critical infrastructure orgs",
       "description": "[BLEEPINGCOMPUTER] The Cybersecurity and Infrastructure Security Agency (CISA) says the SafePay ransomware gang has breached over 600 critical infrastructure organizations worldwide since 2024. [...]",
@@ -8,28 +80,10 @@
       "date": "2026-10-21T08:36:24Z"
     },
     {
-      "title": "State Bank of India Confirms Data Leak After 3,897 Customer Records Found on Dark Web",
-      "description": "[FEEDS] State Bank of India has identified 3,897 customer records containing personal information in a set of about 375,000 records available on the dark web, and it does not yet know where the data came from. The state-owned bank, India's largest, said in...",
-      "url": "https://thehackernews.com/2026/10/state-bank-of-india-confirms-data-leak.html",
-      "date": "2026-10-21T07:44:22Z"
-    },
-    {
-      "title": "CISA Orders Federal Agencies to Patch Exploited Plex2Shell, Siemens, and SiteGuard Flaws",
-      "description": "[FEEDS] The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added four vulnerabilities to its Known Exploited Vulnerabilities (KEV) catalog, including four vulnerabilities impacting Plex Media Server that's collectively called...",
-      "url": "https://thehackernews.com/2026/10/cisa-orders-federal-agencies-to-patch.html",
-      "date": "2026-10-21T07:26:49Z"
-    },
-    {
-      "title": "Hackers Hid Vasilek Backdoor in VMware Tools During 2-Year Russian Healthcare Intrusion",
-      "description": "[FEEDS] A Belarus-aligned hacktivist group spent nearly two years within the network of a Russian healthcare organization. According to a report published by Russian cybersecurity firm Solar, the activity has been attributed to a threat cluster dubbed...",
-      "url": "https://thehackernews.com/2026/10/hackers-hid-vasilek-backdoor-in-vmware.html",
-      "date": "2026-10-21T06:05:15Z"
-    },
-    {
-      "title": "PHP2Shell: Two Unpatched Critical PHP RCE Flaws (CVSS 9.2) Trigger Emergency Security Alert",
-      "description": "[FEEDS] This story is developing and was written before PHP's scheduled 14:00 UTC release on October 21. Once the release is out, the affected and fixed versions below are confirmed by the official advisory. PHP will ship an out-of-cycle security release at...",
-      "url": "https://thehackernews.com/2026/10/php2shell-two-unpatched-critical-php.html",
-      "date": "2026-10-21T04:57:50Z"
+      "title": "SBI data leak claim: CyberPulse flags alleged exposure of 3.75 lakh records, 2,722 PDFs",
+      "description": "[CNBC TV18] Cybersecurity account CyberPulse flags claims by Siriusim of a customer data leak at State Bank of India. Authenticity remains unverified.",
+      "url": "https://www.cnbctv18.com/technology/sbi-data-leak-claim-cyberpulse-alleged-exposure-3-75-lakh-records-2722-pdfs-20015714.htm",
+      "date": "2026-10-21T02:19:36Z"
     },
     {
       "title": "ISC Stormcast For Wednesday, October 21st, 2026 https://isc.sans.edu/podcastdetail/10144, (Wed, Oct 21st)",
@@ -44,16 +98,40 @@
       "date": "2026-10-21T01:01:50Z"
     },
     {
-      "title": "Mozilla, Google, Apple block compromised eMudhra CA certificates",
-      "description": "[BLEEPINGCOMPUTER] Certificate authority eMudhra revoked eight compromised intermediate certificates after researchers found their private keys were so weak that anyone could recover them almost instantly and use them to forge trusted certificates for legitimate...",
-      "url": "https://www.bleepingcomputer.com/news/security/mozilla-google-apple-block-compromised-emudhra-ca-certificates/",
-      "date": "2026-10-21T00:46:42Z"
+      "title": "\u201cOur Work Isn't Free\u201d: Cybersecurity Veteran Erin LaVaux Unveils Upcoming Armor for the Creative Indie Communities",
+      "description": "[TECHBULLION] Stay tuned as TNW Creations and Tawaci\u2122 Media prepare to roll out private access and launch timelines in the coming months.",
+      "url": "https://techbullion.com/our-work-isnt-free-cybersecurity-veteran-erin-lavaux-unveils-upcoming-armor-for-the-creative-indie-communities/",
+      "date": "2026-10-21T01:00:28Z"
     },
     {
-      "title": "PHP warns admins of two critical flaws, emergency patches coming tomorrow",
-      "description": "[BLEEPINGCOMPUTER] The PHP security team is warning administrators to prepare for emergency security updates tomorrow to address two critical vulnerabilities, as information about the flaws has reportedly leaked ahead of their scheduled disclosure. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/php-warns-admins-of-two-critical-flaws-emergency-patches-coming-tomorrow/",
-      "date": "2026-10-20T20:56:43Z"
+      "title": "Semperis 2026 Ransomware Report Reveals Increases in AI-Driven Attacks and a Rise in Physical Threats Against Australian Executives and Their Families",
+      "description": "[ITWIRE] The study reveals AI is reshaping ransomware as repeat attacks, threats to employees and their families, and attacks on identity systems outpace recovery readiness.",
+      "url": "https://itwire.com/guest-articles/guest-research/semperis-2026-ransomware-report-reveals-increases-in-ai-driven-attacks-and-a-rise-in-physical-threats-against-australian-executives-and-their-families",
+      "date": "2026-10-21T00:54:09Z"
+    },
+    {
+      "title": "Trump officials asked CISA to secretly hack a voting machine - and not disclose any vulnerabilities they found",
+      "description": "[TECHRADAR] CISA usually helps protect elections, but this time they were asked to help hack them",
+      "url": "https://www.techradar.com/pro/trump-officials-asked-cisa-to-secretly-hack-a-voting-machine-and-not-disclose-any-vulnerabilities-they-found",
+      "date": "2026-10-21T00:20:00Z"
+    },
+    {
+      "title": "SafePay ransomware group has targeted hundreds this year, US agencies say",
+      "description": "[DEVDISCOURSE] Read more about SafePay ransomware group has targeted hundreds this year, US agencies say on Devdiscourse",
+      "url": "https://www.devdiscourse.com/article/international/3995392-safepay-ransomware-group-has-targeted-hundreds-this-year-us-agencies-say",
+      "date": "2026-10-20T23:25:01Z"
+    },
+    {
+      "title": "SECP launches Security Operations Centre to strengthen cybersecurity",
+      "description": "[THE NATION] ISLAMABAD - The Securities and Exchange Commission of Pakistan (SECP) has launched its Security Operations Centre (SOC) to protect critical information assets,",
+      "url": "https://www.nation.com.pk/21-Oct-2026/secp-launches-security-operations-centre-strengthen-cybersecurity",
+      "date": "2026-10-20T21:27:00Z"
+    },
+    {
+      "title": "JPMorgan Chase invests $5 billion in U.S. national security firms",
+      "description": "[FOX BUSINESS] JPMorgan Chase invested $5 billion in companies underpinning U.S. national security, supporting defense technology, critical minerals, cybersecurity, AI and quantum computing.",
+      "url": "https://www.foxbusiness.com/economy/jpmorgan-invests-5b-companies-critical-us-national-security",
+      "date": "2026-10-20T20:59:39Z"
     },
     {
       "title": "Stop & Shop restores app, website after cybersecurity breach",
@@ -72,72 +150,6 @@
       "description": "[LOS ANGELES TIMES] Following a 2023 data breach and a bankruptcy and sale process in 2025, the genetic testing company 23andMe will pay $6 million to settle allegations that it did not responsibly protect its customers data.",
       "url": "https://www.latimes.com/business/story/2026-10-20/23andme-to-pay-6-million-to-settle-allegations-it-mishandled-customers-genetic-data",
       "date": "2026-10-20T19:55:41Z"
-    },
-    {
-      "title": "Winston-Salem law firm faces data breach of more than 4,400",
-      "description": "[WINSTON-SALEM JOURNAL] A phishing scheme targeting a Womble Bond Dickinson attorney led to the exposure of Social Security numbers, passports and driver's license information.",
-      "url": "https://journalnow.com/news/local/business/article_1daeba9f-83a3-4077-8da2-9c1e77a38a2b.html",
-      "date": "2026-10-20T19:45:00Z"
-    },
-    {
-      "title": "Winston-Salem law firm faces data breach of more than 4,400",
-      "description": "[GREENSBORO NEWS & RECORD] A phishing scheme targeting a Womble Bond Dickinson attorney led to the exposure of Social Security numbers, passports and driver's license information.",
-      "url": "https://greensboro.com/news/local/business/article_fe427d8c-4ead-56df-802b-eeca2d775ad6.html",
-      "date": "2026-10-20T19:45:00Z"
-    },
-    {
-      "title": "Zeabur shutting down after second security breach in two months",
-      "description": "[BLEEPINGCOMPUTER] Development platform Zeabur has disclosed details of a cybersecurity incident in which an attacker used leaked internal credentials stored in plaintext to compromise its infrastructure and steal over 3.2 million environment variable records and...",
-      "url": "https://www.bleepingcomputer.com/news/security/zeabur-shutting-down-after-second-security-breach-in-two-months/",
-      "date": "2026-10-20T19:33:02Z"
-    },
-    {
-      "title": "Unknown vulnerabilities: on the cybersecurity advisory by CERT-In",
-      "description": "[THE HINDU] India must strengthen its systems to detect and prevent data breaches",
-      "url": "https://www.thehindu.com/opinion/editorial/unknown-vulnerabilities-on-the-cybersecurity-advisory-by-cert-in/article71604650.ece",
-      "date": "2026-10-20T18:50:00Z"
-    },
-    {
-      "title": "Stop & Shop website, app back online after cybersecurity outage",
-      "description": "[MASSLIVE] Stop & Shop and Hannaford websites and apps came back online after an eight-day cybersecurity outage, with Stop & Shop offering a 10% in-store discount as an apology.",
-      "url": "https://www.masslive.com/news/2026/10/website-app-for-mass-grocery-chain-back-online-after-cybersecurity-issue.html",
-      "date": "2026-10-20T18:46:25Z"
-    },
-    {
-      "title": "OpenAI says GPT-6.1 Sol is dramatically better at migrating legacy code",
-      "description": "[BLEEPINGCOMPUTER] OpenAI confirmed that its newer models are much better at writing and migrating software in older programming languages. [...]",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-gpt-61-sol-is-dramatically-better-at-migrating-legacy-code/",
-      "date": "2026-10-20T18:11:03Z"
-    },
-    {
-      "title": "Giant website and app restored; 10% grocery discount remains",
-      "description": "[YORK DAILY RECORD] Giant Food Stores restored its website and app after a cybersecurity incident. Can customers still claim a 10 percent discount?",
-      "url": "https://www.ydr.com/story/money/business/2026/10/20/giant-grocery-chain-restores-website-app-after-cybersecurity-incident/92345845007/",
-      "date": "2026-10-20T18:05:05Z"
-    },
-    {
-      "title": "Eight eMudhra CA Keys Compromised, Triggering Emergency Fixes Across Browsers and Software",
-      "description": "[FEEDS] The private keys of eight eMudhra intermediate certificate authority (CA) certificates are compromised,&nbsp;Mozilla&nbsp;and&nbsp;Google's Chrome Root Program&nbsp;confirms on October 20. An intermediate CA signs the certificates that websites...",
-      "url": "https://thehackernews.com/2026/10/eight-emudhra-ca-keys-compromised.html",
-      "date": "2026-10-20T17:09:53Z"
-    },
-    {
-      "title": "To AI-proof jobs, think 'build and sell,' says Cloudflare co-founder",
-      "description": "[CNBC] Cloudflare co-founder and COO Michelle Zatlyn says AI will transform cybersecurity, but workers who learn to \"build and sell\" in roles will succeed.",
-      "url": "https://www.cnbc.com/2026/10/20/ai-jobs-coding-cybersecurity.html",
-      "date": "2026-10-20T16:44:41Z"
-    },
-    {
-      "title": "Indian companies struggle to staff cybersecurity teams even as AI agents go rogue",
-      "description": "[THE HINDU BUSINESS LINE] Indian firms struggle to fill cybersecurity roles despite rising AI-driven risks, with only a third of openings filled monthly.",
-      "url": "https://www.thehindubusinessline.com/news/indian-companies-struggle-to-staff-cybersecurity-teams-even-as-ai-agents-go-rogue/article71604839.ece",
-      "date": "2026-10-20T16:17:58Z"
-    },
-    {
-      "title": "Critical FortiSIEM Flaw Gets Public Exploit PoC for Unauthenticated Remote Code Execution",
-      "description": "[FEEDS] Cybersecurity researchers have released a proof-of-concept (PoC) exploit for a recently patched critical security flaw impacting Fortinet FortiSIEM that could result in arbitrary code execution. The vulnerability, tracked as CVE-2026-106173 (CVSS...",
-      "url": "https://thehackernews.com/2026/10/critical-fortisiem-flaw-gets-public.html",
-      "date": "2026-10-20T15:38:52Z"
     },
     {
       "title": "CISA Adds Six Known Exploited Vulnerabilities to Catalog",
@@ -206,12 +218,6 @@
       "date": "2026-10-16T00:46:35Z"
     },
     {
-      "title": "Panchan's Mining Island &#x5b;Guest Diary&#x5d;, (Wed, Oct 14th)",
-      "description": "[ISC] &#x5b;This is a Guest Diary by Zachary Norwood, an ISC intern as part of the SANS.edu BACS program&#x5d;&#xd;",
-      "url": "https://isc.sans.edu/diary/rss/33426",
-      "date": "2026-10-15T23:03:42Z"
-    },
-    {
       "title": "Measuring Human Cryptanalysis Effort",
       "description": "[SCHNEIER] Matthew Green has a new site that tries to estimate the number of cryptanalyst-hours that have been spent analyzing different public-key algorithms: Abstract: We estimate how much public cryptanalysis each public-key assumption has received, using...",
       "url": "https://www.schneier.com/blog/archives/2026/10/measuring-human-cryptanalysis-effort.html",
@@ -222,12 +228,6 @@
       "description": "[CISA] CISA has added one new vulnerability to its&nbsp;Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-21589 Atlassian Multiple Products Files or Directories Accessible to External Parties...",
       "url": "https://www.cisa.gov/news-events/alerts/2026/10/15/cisa-adds-one-known-exploited-vulnerability-catalog",
       "date": "2026-10-15T12:00:00Z"
-    },
-    {
-      "title": "Upcoming Speaking Engagements",
-      "description": "[SCHNEIER] This is a current list of where and when I am scheduled to speak: I\u2019m speaking at ATTENTION: Democracy, Rebuilt in Montreal, Quebec, Canada. The event runs October 21\u201323, 2026, and my talk is on Wednesday, October 21. I\u2019m speaking at the University...",
-      "url": "https://www.schneier.com/blog/archives/2026/10/upcoming-speaking-engagements-61.html",
-      "date": "2026-10-14T16:02:17Z"
     },
     {
       "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
