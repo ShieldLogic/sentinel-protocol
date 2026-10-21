@@ -1,6 +1,36 @@
 {
-  "updated": "2026-10-21 02:32:45 UTC",
+  "updated": "2026-10-21 08:58:50 UTC",
   "news": [
+    {
+      "title": "CISA: SafePay ransomware hit over 600 critical infrastructure orgs",
+      "description": "[BLEEPINGCOMPUTER] The Cybersecurity and Infrastructure Security Agency (CISA) says the SafePay ransomware gang has breached over 600 critical infrastructure organizations worldwide since 2024. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-and-fbi-safepay-ransomware-has-hit-over-600-critical-infrastructure-organizations/",
+      "date": "2026-10-21T08:36:24Z"
+    },
+    {
+      "title": "State Bank of India Confirms Data Leak After 3,897 Customer Records Found on Dark Web",
+      "description": "[FEEDS] State Bank of India has identified 3,897 customer records containing personal information in a set of about 375,000 records available on the dark web, and it does not yet know where the data came from. The state-owned bank, India's largest, said in...",
+      "url": "https://thehackernews.com/2026/10/state-bank-of-india-confirms-data-leak.html",
+      "date": "2026-10-21T07:44:22Z"
+    },
+    {
+      "title": "CISA Orders Federal Agencies to Patch Exploited Plex2Shell, Siemens, and SiteGuard Flaws",
+      "description": "[FEEDS] The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added four vulnerabilities to its Known Exploited Vulnerabilities (KEV) catalog, including four vulnerabilities impacting Plex Media Server that's collectively called...",
+      "url": "https://thehackernews.com/2026/10/cisa-orders-federal-agencies-to-patch.html",
+      "date": "2026-10-21T07:26:49Z"
+    },
+    {
+      "title": "Hackers Hid Vasilek Backdoor in VMware Tools During 2-Year Russian Healthcare Intrusion",
+      "description": "[FEEDS] A Belarus-aligned hacktivist group spent nearly two years within the network of a Russian healthcare organization. According to a report published by Russian cybersecurity firm Solar, the activity has been attributed to a threat cluster dubbed...",
+      "url": "https://thehackernews.com/2026/10/hackers-hid-vasilek-backdoor-in-vmware.html",
+      "date": "2026-10-21T06:05:15Z"
+    },
+    {
+      "title": "PHP2Shell: Two Unpatched Critical PHP RCE Flaws (CVSS 9.2) Trigger Emergency Security Alert",
+      "description": "[FEEDS] This story is developing and was written before PHP's scheduled 14:00 UTC release on October 21. Once the release is out, the affected and fixed versions below are confirmed by the official advisory. PHP will ship an out-of-cycle security release at...",
+      "url": "https://thehackernews.com/2026/10/php2shell-two-unpatched-critical-php.html",
+      "date": "2026-10-21T04:57:50Z"
+    },
     {
       "title": "ISC Stormcast For Wednesday, October 21st, 2026 https://isc.sans.edu/podcastdetail/10144, (Wed, Oct 21st)",
       "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
@@ -26,10 +56,52 @@
       "date": "2026-10-20T20:56:43Z"
     },
     {
+      "title": "Stop & Shop restores app, website after cybersecurity breach",
+      "description": "[NJ.COM] Stop & Shop restored its app and website following a cybersecurity breach at its parent company.",
+      "url": "https://www.nj.com/business/2026/10/stop-shop-restores-app-website-after-cybersecurity-breach.html",
+      "date": "2026-10-20T20:23:25Z"
+    },
+    {
+      "title": "Accenture, Dragos, SANS Institute Partner on Cybersecurity For Underresourced Utilities",
+      "description": "[MARKETSCREENER] By Elias Schisgall Accenture is joining forces with Dragos and the SANS Institute to provide around $10 million worth of cybersecurity measures for utilities in the U.S. The three groups are...",
+      "url": "https://www.marketscreener.com/news/accenture-dragos-sans-institute-partner-on-cybersecurity-for-underresourced-utilities-ce785cd8dd81ff20",
+      "date": "2026-10-20T20:15:19Z"
+    },
+    {
+      "title": "23andMe to pay $6 million to settle allegations it mishandled customers' genetic data",
+      "description": "[LOS ANGELES TIMES] Following a 2023 data breach and a bankruptcy and sale process in 2025, the genetic testing company 23andMe will pay $6 million to settle allegations that it did not responsibly protect its customers data.",
+      "url": "https://www.latimes.com/business/story/2026-10-20/23andme-to-pay-6-million-to-settle-allegations-it-mishandled-customers-genetic-data",
+      "date": "2026-10-20T19:55:41Z"
+    },
+    {
+      "title": "Winston-Salem law firm faces data breach of more than 4,400",
+      "description": "[WINSTON-SALEM JOURNAL] A phishing scheme targeting a Womble Bond Dickinson attorney led to the exposure of Social Security numbers, passports and driver's license information.",
+      "url": "https://journalnow.com/news/local/business/article_1daeba9f-83a3-4077-8da2-9c1e77a38a2b.html",
+      "date": "2026-10-20T19:45:00Z"
+    },
+    {
+      "title": "Winston-Salem law firm faces data breach of more than 4,400",
+      "description": "[GREENSBORO NEWS & RECORD] A phishing scheme targeting a Womble Bond Dickinson attorney led to the exposure of Social Security numbers, passports and driver's license information.",
+      "url": "https://greensboro.com/news/local/business/article_fe427d8c-4ead-56df-802b-eeca2d775ad6.html",
+      "date": "2026-10-20T19:45:00Z"
+    },
+    {
       "title": "Zeabur shutting down after second security breach in two months",
       "description": "[BLEEPINGCOMPUTER] Development platform Zeabur has disclosed details of a cybersecurity incident in which an attacker used leaked internal credentials stored in plaintext to compromise its infrastructure and steal over 3.2 million environment variable records and...",
       "url": "https://www.bleepingcomputer.com/news/security/zeabur-shutting-down-after-second-security-breach-in-two-months/",
       "date": "2026-10-20T19:33:02Z"
+    },
+    {
+      "title": "Unknown vulnerabilities: on the cybersecurity advisory by CERT-In",
+      "description": "[THE HINDU] India must strengthen its systems to detect and prevent data breaches",
+      "url": "https://www.thehindu.com/opinion/editorial/unknown-vulnerabilities-on-the-cybersecurity-advisory-by-cert-in/article71604650.ece",
+      "date": "2026-10-20T18:50:00Z"
+    },
+    {
+      "title": "Stop & Shop website, app back online after cybersecurity outage",
+      "description": "[MASSLIVE] Stop & Shop and Hannaford websites and apps came back online after an eight-day cybersecurity outage, with Stop & Shop offering a 10% in-store discount as an apology.",
+      "url": "https://www.masslive.com/news/2026/10/website-app-for-mass-grocery-chain-back-online-after-cybersecurity-issue.html",
+      "date": "2026-10-20T18:46:25Z"
     },
     {
       "title": "OpenAI says GPT-6.1 Sol is dramatically better at migrating legacy code",
@@ -38,10 +110,28 @@
       "date": "2026-10-20T18:11:03Z"
     },
     {
+      "title": "Giant website and app restored; 10% grocery discount remains",
+      "description": "[YORK DAILY RECORD] Giant Food Stores restored its website and app after a cybersecurity incident. Can customers still claim a 10 percent discount?",
+      "url": "https://www.ydr.com/story/money/business/2026/10/20/giant-grocery-chain-restores-website-app-after-cybersecurity-incident/92345845007/",
+      "date": "2026-10-20T18:05:05Z"
+    },
+    {
       "title": "Eight eMudhra CA Keys Compromised, Triggering Emergency Fixes Across Browsers and Software",
       "description": "[FEEDS] The private keys of eight eMudhra intermediate certificate authority (CA) certificates are compromised,&nbsp;Mozilla&nbsp;and&nbsp;Google's Chrome Root Program&nbsp;confirms on October 20. An intermediate CA signs the certificates that websites...",
       "url": "https://thehackernews.com/2026/10/eight-emudhra-ca-keys-compromised.html",
       "date": "2026-10-20T17:09:53Z"
+    },
+    {
+      "title": "To AI-proof jobs, think 'build and sell,' says Cloudflare co-founder",
+      "description": "[CNBC] Cloudflare co-founder and COO Michelle Zatlyn says AI will transform cybersecurity, but workers who learn to \"build and sell\" in roles will succeed.",
+      "url": "https://www.cnbc.com/2026/10/20/ai-jobs-coding-cybersecurity.html",
+      "date": "2026-10-20T16:44:41Z"
+    },
+    {
+      "title": "Indian companies struggle to staff cybersecurity teams even as AI agents go rogue",
+      "description": "[THE HINDU BUSINESS LINE] Indian firms struggle to fill cybersecurity roles despite rising AI-driven risks, with only a third of openings filled monthly.",
+      "url": "https://www.thehindubusinessline.com/news/indian-companies-struggle-to-staff-cybersecurity-teams-even-as-ai-agents-go-rogue/article71604839.ece",
+      "date": "2026-10-20T16:17:58Z"
     },
     {
       "title": "Critical FortiSIEM Flaw Gets Public Exploit PoC for Unauthenticated Remote Code Execution",
@@ -50,106 +140,16 @@
       "date": "2026-10-20T15:38:52Z"
     },
     {
-      "title": "Qilin and INC Ransomware Groups Exploit Palo Alto Networks Flaw to Bypass MFA",
-      "description": "[FEEDS] Palo Alto Networks has disclosed that it's continuing to observe exploitation of a now-patched security flaw impacting&nbsp; PAN-OS and Prisma Access by ransomware actors. The activity relates to CVE-2026-0257 (CVSS score: 7.8), an authentication...",
-      "url": "https://thehackernews.com/2026/10/qilin-and-inc-ransomware-groups-exploit.html",
-      "date": "2026-10-20T15:32:27Z"
-    },
-    {
-      "title": "SBI Data Breach Claim: 3.75 Lakh Records, 2,722 PDFs",
-      "description": "[OUTLOOK MONEY] SBI faces an unverified data breach allegation involving 3.75 lakh customer records and 2,722 PDFs. Know what the claims involve and how customers can protect themselves against phishing and banking fraud.",
-      "url": "https://www.outlookmoney.com/banking/sbi-data-breach-claim-hackers-allegedly-access-375-lakh-customer-records-2722-pdfs",
-      "date": "2026-10-20T14:30:48Z"
-    },
-    {
-      "title": "DHS bans DeepSeek products across US federal civilian agencies",
-      "description": "[BLEEPINGCOMPUTER] The U.S. Department of Homeland Security (DHS) is ordering federal civilian agencies to stop using DeepSeek products and remove them from government systems. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/dhs-bans-deepseek-products-across-us-federal-civilian-agencies/",
-      "date": "2026-10-20T14:19:05Z"
-    },
-    {
-      "title": "Hackers Use Autonomous AI Agents to Breach Company Websites, Target Over 1,200 Sites",
-      "description": "[FEEDS] A Chinese-speaking criminal pointed autonomous AI agents at company websites and let them break in with almost no help, and a security researcher watched it happen because the operators left their control panels open on the internet. The agents...",
-      "url": "https://thehackernews.com/2026/10/hackers-use-autonomous-ai-agents-to.html",
-      "date": "2026-10-20T14:07:17Z"
-    },
-    {
-      "title": "VikingCloud and Fiserv Expand Strategic Partnership to Deliver Cyber Risk Defense to Merchants",
-      "description": "[PR NEWSWIRE UK] /PRNewswire/ -- VikingCloud, a cybersecurity and compliance company utilized by more than four million businesses worldwide, today announced a multi-year...",
-      "url": "https://www.prnewswire.co.uk/news-releases/vikingcloud-and-fiserv-expand-strategic-partnership-to-deliver-cyber-risk-defense-to-merchants-302913119.html",
-      "date": "2026-10-20T13:00:00Z"
-    },
-    {
-      "title": "Pegasus Spyware Infection Confirmed on Serbian University Rector's iPhone Days Before Election",
-      "description": "[FEEDS] The iPhone of Vladan \u0110oki\u0107, rector of the University of Belgrade and a prominent supporter of Serbia's student protest movement, was infected with NSO Group's Pegasus spyware in 2026, the&nbsp;Citizen Lab said&nbsp;on October 19. The finding came...",
-      "url": "https://thehackernews.com/2026/10/pegasus-spyware-infection-confirmed-on.html",
-      "date": "2026-10-20T12:59:44Z"
-    },
-    {
-      "title": "Welsh firms 'Password1' and 'Test 2' fails led to hackers stealing children's data",
-      "description": "[DAILY POST] Ogi Networks Limited (ONL) and the Local Government Data Unit \u2013 Wales, known as Data Cymru, were issued reprimands following a ransomware cyberattack",
-      "url": "https://www.dailypost.co.uk/news/north-wales-news/welsh-firms-password1-test-2-34791209",
-      "date": "2026-10-20T12:37:20Z"
-    },
-    {
-      "title": "Frontier AI cannot be trusted so Microsoft is rolling out Guardian Agents",
-      "description": "[EUROPE SAYS] Big tech companies are quickly realising that the AI that they have been punting over the past few years presents a significant cybersecurity risk.",
-      "url": "https://www.europesays.com/3321755/",
-      "date": "2026-10-20T12:11:20Z"
-    },
-    {
-      "title": "SBI data breach? Hacker claims leak of 3.75 lakh records, over 2,700 documents",
-      "description": "[BUSINESS TODAY] The authenticity, source, and extent of the alleged data leak have not been independently verified",
-      "url": "https://www.businesstoday.in/india/story/sbi-data-breach-hacker-claims-leak-of-3-75-lakh-records-over-2700-documents-562638-2026-10-20",
-      "date": "2026-10-20T12:10:23Z"
-    },
-    {
-      "title": "WISeSat.Space and SEALSQ Advance Satellite Cybersecurity Hardening as FOSSA Launches New 6U Satellite Aboard SpaceX Falcon 9",
-      "description": "[THE MANILA TIMES] WISeSat.Space and SEALSQ Advance Satellite Cybersecurity Hardening as FOSSA Launches New 6U Satellite Aboard SpaceX Falcon 9",
-      "url": "https://www.manilatimes.net/2026/10/20/tmt-newswire/globenewswire/wisesatspace-and-sealsq-advance-satellite-cybersecurity-hardening-as-fossa-launches-new-6u-satellite-aboard-spacex-falcon-9/2449718",
-      "date": "2026-10-20T12:09:50Z"
-    },
-    {
       "title": "CISA Adds Six Known Exploited Vulnerabilities to Catalog",
       "description": "[CISA] CISA has added six new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-96652 Plex Media Server Server-Side Request Forgery (SSRF) Vulnerability CVE-2026-96654 Plex Media Server...",
       "url": "https://www.cisa.gov/news-events/alerts/2026/10/20/cisa-adds-six-known-exploited-vulnerabilities-catalog",
       "date": "2026-10-20T12:00:00Z"
     },
     {
-      "title": "Punjab National Bank: PNB cautions customers of AI",
-      "description": "[THE ECONOMIC TIMES] Punjab National Bank has alerted its customers about the escalating threat of AI-generated cyberattacks. These advanced phishing techniques employ AI voice cloning to trick individuals into hastily carrying out transactions. The bank strongly...",
-      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/pnb-cautions-customers-of-ai-led-cyberattacks-amid-surging-frauds/articleshow/135069574.cms",
-      "date": "2026-10-20T11:57:41Z"
-    },
-    {
-      "title": "WhatsApp Hid Instructions in Help Pages Telling Its AI Chatbot Not to Recommend Privacy Regulators",
-      "description": "[FEEDS] WhatsApp's help pages carried hidden instructions for its support chatbot that told it not to recommend a data protection authority or regulator to users who could no longer delete their accounts, even though WhatsApp's own privacy policy for Europe...",
-      "url": "https://thehackernews.com/2026/10/whatsapp-hid-instructions-in-help-pages.html",
-      "date": "2026-10-20T11:41:06Z"
-    },
-    {
       "title": "Possible new Cellebrite iPhone Radio Zero-Day",
       "description": "[SCHNEIER] Justin.sh is reporting on a confidential Cellebrite document that has been leaked to him: Cellebrite calls it Advanced Unlocks (AU from here on), not to be confused with the &#8220;advanced unlocking services&#8221; they&#8217;ve marketed for years....",
       "url": "https://www.schneier.com/blog/archives/2026/10/possible-new-cellebrite-iphone-radio-zero-day.html",
       "date": "2026-10-20T11:03:13Z"
-    },
-    {
-      "title": "SBI data breach claim: Hacker group alleges access to 3.75 lakh records, 2,722 documents",
-      "description": "[MONEYCONTROL] Cybersecurity account CyberPulse56 says hacker group Siriusim claims to possess SBI-linked customer records and loan documents. The authenticity and extent of the alleged leak remain unverified.",
-      "url": "https://www.moneycontrol.com/news/business/sbi-data-breach-claim-hacker-group-alleges-access-to-3-75-lakh-records-2-722-documents-14056008.html",
-      "date": "2026-10-20T10:58:09Z"
-    },
-    {
-      "title": "Columbus IT Provider Sabre IT Announces 2026 Client Growth And Cybersecurity Expansion",
-      "description": "[THE MANILA TIMES] Sabre Cybersecurity LLC (Sabre IT) has added managed clients across manufacturing, legal, logistics, energy, and professional services in 2026 while expanding its cybersecurity stack and introducing AI-powered service capabilities.",
-      "url": "https://www.manilatimes.net/2026/10/20/tmt-newswire/plentisoft/columbus-it-provider-sabre-it-announces-2026-client-growth-and-cybersecurity-expansion/2449549",
-      "date": "2026-10-20T10:35:00Z"
-    },
-    {
-      "title": "Sabre Cybersecurity Warns Ohio Businesses That Ransomware Attacks Strike When Nobody Is Watching",
-      "description": "[THE MANILA TIMES] Columbus, Ohio, Oct. 20, 2026 (GLOBE NEWSWIRE) -- Sabre Cybersecurity & IT Services, a Columbus-based managed IT and cybersecurity provider, is urging businesses to reassess their ransomware defenses as cybercriminals increasingly exploit overnight...",
-      "url": "https://www.manilatimes.net/2026/10/20/tmt-newswire/globenewswire/sabre-cybersecurity-warns-ohio-businesses-that-ransomware-attacks-strike-when-nobody-is-watching/2449507",
-      "date": "2026-10-20T10:04:15Z"
     },
     {
       "title": "ISC Stormcast For Tuesday, October 20th, 2026 https://isc.sans.edu/podcastdetail/10142, (Tue, Oct 20th)",
