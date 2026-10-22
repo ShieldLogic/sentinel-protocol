@@ -1,6 +1,60 @@
 {
-  "updated": "2026-10-22 09:01:17 UTC",
+  "updated": "2026-10-22 14:45:25 UTC",
   "news": [
+    {
+      "title": "Machine speed attacks require machine speed detection and response",
+      "description": "[BLEEPINGCOMPUTER] Attackers can steal credentials and begin exfiltrating data within minutes, often before security teams can respond. Exaforce examines real-world attacks involving stolen GitHub tokens, malicious AI installers, and MFA phishing, explaining why...",
+      "url": "https://www.bleepingcomputer.com/news/security/machine-speed-attacks-require-machine-speed-detection-and-response/",
+      "date": "2026-10-22T14:02:12Z"
+    },
+    {
+      "title": "INTERPOL Arrests 1,462 Suspects, Disrupts 10,909 Cybercrime Networks in Global Crackdown",
+      "description": "[FEEDS] INTERPOL on Thursday announced that a coordinated law enforcement action has disrupted 10,909 malicious networks and recovered more than $105 million in illicit funds. In tandem, the effort saw law enforcement agencies from 21 countries arrest 1,462...",
+      "url": "https://thehackernews.com/2026/10/interpol-arrests-1462-suspects-disrupts.html",
+      "date": "2026-10-22T13:38:22Z"
+    },
+    {
+      "title": "New Serious PHP Vulnerabilities Released and Patched",
+      "description": "[SCHNEIER] PHP maintainers have released fixes for two critical vulnerabilities: PHP 8.5.12, 8.4.27, 8.3.36 and 8.2.35 fix two critical vulnerabilities that can allow unauthenticated remote code execution. All PHP users are strongly encouraged to update...",
+      "url": "https://www.schneier.com/blog/archives/2026/10/new-serious-php-vulnerabilities-released-and-patched.html",
+      "date": "2026-10-22T13:26:51Z"
+    },
+    {
+      "title": "Amazon says PHP2Shell exploitation began 4 days before patches",
+      "description": "[BLEEPINGCOMPUTER] Security researchers at Amazon Threat Intelligence say attackers began targeting the PHP2Shell flaws four days before security patches were released on Wednesday. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/amazon-says-php2shell-exploitation-began-4-days-before-patches/",
+      "date": "2026-10-22T13:09:12Z"
+    },
+    {
+      "title": "The AI Agent Nobody Owns: Watch Expert Webinar On Your Newest Insider Threat",
+      "description": "[FEEDS] Right now, there is probably an AI agent running on a laptop somewhere in your network. It stores API keys and database passwords, can access your internal systems, and works without anyone watching. Nobody reviewed its access. Nobody owns it. If an...",
+      "url": "https://thehackernews.com/2026/10/the-ai-agent-nobody-owns-watch-expert.html",
+      "date": "2026-10-22T11:45:00Z"
+    },
+    {
+      "title": "GitLab warns of new max severity code execution vulnerability",
+      "description": "[BLEEPINGCOMPUTER] GitLab has released security patches for a maximum-severity Regular Expression Compiler flaw that can let remote attackers run arbitrary code on vulnerable servers. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-new-max-severity-code-execution-vulnerability/",
+      "date": "2026-10-22T11:41:48Z"
+    },
+    {
+      "title": "Railway Says Intruder May Have Accessed Customer Secrets, Urges Credential Rotation",
+      "description": "[FEEDS] Platform-as-a-Service (PaaS) provider Railway on Wednesday disclosed \"anomalous activity\" related to systems that store customer environment variables. Upon further investigation, the company found that an unauthorized third party may have gained...",
+      "url": "https://thehackernews.com/2026/10/railway-says-intruder-may-have-accessed.html",
+      "date": "2026-10-22T11:15:42Z"
+    },
+    {
+      "title": "OpenCode Flaw Lets Malicious MCP Servers Execute Code During Sign-In on Windows and WSL",
+      "description": "[FEEDS] A flaw in the OpenCode AI coding agent allowed a malicious or hijacked MCP server to run code on a developer's Windows or WSL machine when the developer signed in. OpenCode connects to MCP (Model Context Protocol) servers to add outside tools, and...",
+      "url": "https://thehackernews.com/2026/10/opencode-flaw-lets-malicious-mcp.html",
+      "date": "2026-10-22T10:44:05Z"
+    },
+    {
+      "title": "LiteLLM Suspects GitHub Token Leak in AI Gateway Logs Behind Malicious Package Release",
+      "description": "[FEEDS] LiteLLM on Wednesday disclosed that threat actors compromised \"multiple independent security controls\" to push a malicious version of the Python package containing a credential stealer and a backdoor. On October 21, 2026, LiteLLM's release pipeline...",
+      "url": "https://thehackernews.com/2026/10/litellm-suspects-github-token-leak-in.html",
+      "date": "2026-10-22T08:28:48Z"
+    },
     {
       "title": "Authorities disrupt nearly 11,000 cybercrime networks in Africa",
       "description": "[BLEEPINGCOMPUTER] Law enforcement agencies have disrupted nearly 11,000 cybercriminal networks and arrested more than 1,400 people in Operation Serengeti III, which targeted business email compromise, ransomware, and online scams. [...]",
@@ -8,16 +62,76 @@
       "date": "2026-10-22T08:27:11Z"
     },
     {
-      "title": "China-Linked Hackers Use ARTEX AI Agents in ConnectWise Supply Chain Attack",
-      "description": "[FEEDS] Microsoft on Wednesday disclosed that a China state-aligned actor dubbed Storm-0940 was behind the recent supply chain compromise of the ConnectWise Cloud Backup application. During the incident, Storm-0940 used ARTEX, a Go-based agentic AI...",
-      "url": "https://thehackernews.com/2026/10/china-linked-hackers-use-artex-ai.html",
-      "date": "2026-10-22T04:21:26Z"
+      "title": "Node.js Brotli Decoder Bug Could Allow Remote Code Execution in All Supported Versions",
+      "description": "[FEEDS] Node.js released&nbsp;security updates&nbsp;on October 21 for its three supported release lines, 22.x, 24.x and 26.x, fixing 10 flaws. The most serious is a bug in the Brotli decompression code that Node.js bundles, which the project says can allow...",
+      "url": "https://thehackernews.com/2026/10/nodejs-brotli-decoder-bug-could-allow.html",
+      "date": "2026-10-22T07:47:22Z"
+    },
+    {
+      "title": "How Soaring AI Bills Are Vexing Wall Street Executives",
+      "description": "[NDTV PROFIT] It's a simmering issue in banks, where technology budgets are already under pressure from competing demands ranging from legacy IT modernisation to cybersecurity.",
+      "url": "https://www.ndtvprofit.com/world/how-soaring-ai-bills-are-vexing-wall-street-executives-12217929",
+      "date": "2026-10-22T02:33:40Z"
+    },
+    {
+      "title": "Toronto Crime Stoppers pauses program after CBC investigation reveals more details of data leak",
+      "description": "[CBC.CA] Toronto Crime Stoppers is pausing its program, effective immediately, its chair Sean Sportun said in a statement sent late Wednesday evening. The news follows an exclusive CBC investigation from earlier in the day revealing that information from...",
+      "url": "https://www.cbc.ca/news/investigates/toronto-crime-stoppers-pausing-program-data-leak-hack-9.7391157",
+      "date": "2026-10-22T02:29:25Z"
+    },
+    {
+      "title": "Toronto Crime Stoppers shuts down tip line after data breach",
+      "description": "[TORONTO SUN] The temporary measure was announced after a CBC investigation showed 1.5 million nationwide tips were exposed in a data breach. Read more.",
+      "url": "https://torontosun.com/news/local-news/toronto-crime-stoppers-shutting-down-tip-line",
+      "date": "2026-10-22T02:26:53Z"
     },
     {
       "title": "ISC Stormcast For Thursday, October 22nd, 2026 https://isc.sans.edu/podcastdetail/10146, (Thu, Oct 22nd)",
       "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
       "url": "https://isc.sans.edu/diary/rss/33446",
       "date": "2026-10-22T02:00:02Z"
+    },
+    {
+      "title": "T\u00fcrkiye launches nationwide cyber alert over critical PHP flaws",
+      "description": "[EUROPE SAYS] T\u00fcrkiye has launched nationwide cybersecurity scans and issued urgent warnings to government agencies and businesses after critical vulnerabilities were",
+      "url": "https://www.europesays.com/3324294/",
+      "date": "2026-10-22T01:57:48Z"
+    },
+    {
+      "title": "SBI reports customer data breach, 3,897 records found on dark web",
+      "description": "[TELEGRAPH INDIA] The exposed data reportedly includes customers\u2019 names, gender, registered mobile numbers, date of birth, email IDs and residential addresses, along with branch and Customer Information File (CIF) identifiers, lead IDs and metadata associated with...",
+      "url": "https://www.telegraphindia.com/business/sbi-reports-customer-data-breach-3897-records-found-on-dark-web-prnt/cid/2185627",
+      "date": "2026-10-22T01:43:01Z"
+    },
+    {
+      "title": "SBI data breach: India\u2019s AI efforts must make cybersecurity a priority",
+      "description": "[LIVEMINT] Customer information of the country's largest bank has been found on the dark web. This is a wake-up call for the country to strengthen its cyber shields. India\u2019s quest for sovereign AI must focus on the financial sector\u2019s fortification too.",
+      "url": "https://www.livemint.com/opinion/online-views/mint-quick-edit-sbi-data-breach-india-ai-efforts-must-make-cybersecurity-a-priority-11792590737699.html",
+      "date": "2026-10-22T01:30:32Z"
+    },
+    {
+      "title": "more than 176K tips leaked",
+      "description": "[CP24 TORONTO] Toronto Crime Stoppers is temporarily not accepting any tips by phone or online after more than 176,000 tips submitted between 2022 and 2025 were stolen in a data breach.",
+      "url": "https://www.cp24.com/local/toronto/2026/10/22/please-do-not-send-us-tips-toronto-crime-stoppers-says-following-data-breach/",
+      "date": "2026-10-22T00:47:31Z"
+    },
+    {
+      "title": "SBI confirms data leak, says 4,000 customer records identified on dark web",
+      "description": "[TIMES OF INDIA] MUMBAI: SBI has confirmed a data breach involving 3,897 customer records containing personal information, which were found on the dark web.",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/sbi-confirms-data-leak-says-4000-customer-records-identified-on-dark-web/articleshow/135103369.cms",
+      "date": "2026-10-22T00:10:00Z"
+    },
+    {
+      "title": "How an AI-discovered flaw in PHP sparked a global security scramble",
+      "description": "[MARKETSCREENER] STORY: :: Washington, DC / October 21, 2026 :: Raphael Satter, Cybersecurity Reporter The entire internet is rushing to update their versions of PHP, whereas the entire...",
+      "url": "https://www.marketscreener.com/news/how-an-ai-discovered-flaw-in-php-sparked-a-global-security-scramble-ce785cd9dc8fff20",
+      "date": "2026-10-22T00:08:24Z"
+    },
+    {
+      "title": "Security flaw: eMudhra shares take a hit, fall 20%",
+      "description": "[TIMES OF INDIA] BANGLURU/ NEW DELHI: Bengaluru-based digital trust and cybersecurity company eMudhra has acknowledged a cryptographic flaw that generated weak private",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/security-flaw-emudhra-shares-take-a-hit-fall-20/articleshow/135100962.cms",
+      "date": "2026-10-21T23:57:00Z"
     },
     {
       "title": "Google Chrome adds Gemini-powered scam detection, warns users of ClickFix attacks",
@@ -36,114 +150,6 @@
       "description": "[ISC] PHP.net announced that it will release a critical update today. We decided to change the infoCon to YELLOW due to the widespread use of PHP, the expected severity of the flaw (CVSS 9.4), and the availability of early PoC exploits before the patch...",
       "url": "https://isc.sans.edu/diary/rss/33440",
       "date": "2026-10-21T21:02:43Z"
-    },
-    {
-      "title": "Government cybersecurity website hit in global flaw",
-      "description": "[PERTHNOW] Australian government websites, including the Australian Signals Directorate, have been affected by a critical flaw in programming that powers the internet.",
-      "url": "https://www.perthnow.com.au/news/technology/government-cybersecurity-website-hit-in-global-flaw-c-23055846",
-      "date": "2026-10-21T20:34:04Z"
-    },
-    {
-      "title": "Lazarus hackers use post-quantum cryptography for malware delivery",
-      "description": "[BLEEPINGCOMPUTER] North Korean hackers are using a post-quantum cryptographic mechanism to secure malicious payload delivery in new operations that combine old and new malware. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/lazarus-hackers-use-post-quantum-cryptography-for-malware-delivery/",
-      "date": "2026-10-21T20:31:48Z"
-    },
-    {
-      "title": "Government cybersecurity website hit in global flaw",
-      "description": "[THE CANBERRA TIMES] Australian government websites, including the Australian Signals Directorate, have been affected by a critical flaw in programming that...",
-      "url": "https://www.canberratimes.com.au/story/9373072/government-cybersecurity-website-hit-in-global-flaw/",
-      "date": "2026-10-21T20:31:45Z"
-    },
-    {
-      "title": "SBI data breach : Course correction must be guided by transparency",
-      "description": "[THE TRIBUNE] THE suspected leak of around 4,000 State Bank of India (SBI) customer records on the dark web has laid bare a critical weakness in India\u2019s digital banking ecosystem. It\u2019s a no-brainer that protecting business operations is not enough without...",
-      "url": "https://www.tribuneindia.com/news/editorials/sbi-data-breach-course-correction-must-be-guided-by-transparency/",
-      "date": "2026-10-21T19:45:36Z"
-    },
-    {
-      "title": "SBI investigates dark web leak of 3.8 lakh records",
-      "description": "[THE ECONOMIC TIMES] State Bank of India is currently investigating a suspected data breach involving customer information found online. The breach reportedly exposed around 375,000 records containing personally identifiable information. SBI activated protocols and...",
-      "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/sbi-investigates-dark-web-leak-of-3-8-lakh-records/articleshow/135100154.cms",
-      "date": "2026-10-21T19:40:00Z"
-    },
-    {
-      "title": "SBI investigates dark web leak of 3.8 lakh records",
-      "description": "[THE ECONOMIC TIMES] State Bank of India is currently investigating a suspected data breach involving customer information found online. The breach reportedly exposed around 375,000 records containing personally identifiable information. SBI activated protocols and...",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/sbi-investigates-dark-web-leak-of-3-8-lakh-records/articleshow/135103455.cms",
-      "date": "2026-10-21T19:40:00Z"
-    },
-    {
-      "title": "3,897 customer details found on dark web: SBI flags data breach",
-      "description": "[THE TRIBUNE] The State Bank of India (SBI) on Wednesday said it had identified 3,897 customer records containing personally identifiable information (PII) in data allegedly leaked on the dark web and had launched a detailed investigation into the incident.",
-      "url": "https://www.tribuneindia.com/news/india/3897-customer-details-found-on-dark-web-sbi-flags-data-breach/",
-      "date": "2026-10-21T19:37:43Z"
-    },
-    {
-      "title": "\u2018Password1\u2019: The weak password that exposed the personal data of 3,300 people, mostly children",
-      "description": "[FIRSTPOST] A ransomware attack exposed the personal information of 3,300 people, mostly children, after hackers accessed a 12-year-old test account protected by the easily compromised password \u201cPassword1\u201d.",
-      "url": "https://www.firstpost.com/tech/password1-the-weak-password-that-exposed-the-personal-data-of-3300-people-mostly-children-14054422.html",
-      "date": "2026-10-21T19:30:46Z"
-    },
-    {
-      "title": "Meta hit with $25 billion penalty over Cambridge Analytica data lawsuit",
-      "description": "[WASHINGTON EXAMINER] New Mexico sought $35 to $40 billion in penalties, while Meta sought to pay no more than $3.4 billion over the Cambridge Analytica data breach scandal.",
-      "url": "https://www.washingtonexaminer.com/policy/technology/4774437/meta-25-billion-penalty-data-privacy-violation-new-mexico/",
-      "date": "2026-10-21T19:21:48Z"
-    },
-    {
-      "title": "What Is PHP Software? Critical Security Flaw Forces Government Websites To Shut Down",
-      "description": "[TIMES NOW] AI-discovered PHP vulnerabilities have triggered website shutdowns across Europe, with governments and cybersecurity agencies racing to secure affected systems., World News, Times Now",
-      "url": "https://www.timesnownews.com/world/what-is-php-software-critical-security-flaw-puts-government-websites-at-risk-article-156381161",
-      "date": "2026-10-21T19:07:18Z"
-    },
-    {
-      "title": "The internet is having a very bad cybersecurity day",
-      "description": "[TECHCRUNCH] From AI-discovered PHP vulnerabilities to flaws in Node.js and popular AI tool LiteLLM, cybersecurity teams have plenty to worry about this week.",
-      "url": "https://techcrunch.com/2026/10/21/the-internet-is-having-a-very-bad-cybersecurity-day/",
-      "date": "2026-10-21T19:03:28Z"
-    },
-    {
-      "title": "Critical GitLab Flaw (CVSS 10.0) Could Allow Unauthenticated RCE Across 12 Years of Releases",
-      "description": "[FEEDS] GitLab released fixes on October 21 for a flaw that lets an attacker run code on a self-managed server without logging in, and it affects every version of the software going back to 7.0, released in 2014. The fix matters even for administrators who...",
-      "url": "https://thehackernews.com/2026/10/critical-gitlab-flaw-cvss-100-could.html",
-      "date": "2026-10-21T18:57:34Z"
-    },
-    {
-      "title": "CISA: Hackers chain Plex flaws in Plex2Shell attacks to breach servers",
-      "description": "[BLEEPINGCOMPUTER] The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning that attackers are actively exploiting four vulnerabilities in Plex Media Server. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-hackers-chain-plex-flaws-in-plex2shell-attacks-to-breach-servers/",
-      "date": "2026-10-21T18:34:42Z"
-    },
-    {
-      "title": "LiteLLM Compromised in Supply Chain Attack Delivering Credential Stealer and Backdoor",
-      "description": "[FEEDS] The popular LiteLLM Python package has been compromised as part of a software supply chain attack that delivered a credential stealer and a backdoor, according to reports from SafeDep, Socket, StepSecurity, and Upwind. The compromise affects LiteLLM...",
-      "url": "https://thehackernews.com/2026/10/litellm-compromised-in-supply-chain.html",
-      "date": "2026-10-21T18:01:57Z"
-    },
-    {
-      "title": "OpenAI's GPT-6 Agent Removed Safety Monitoring, Then Falsely Denied Doing So",
-      "description": "[FEEDS] OpenAI has revealed that two artificial intelligence (AI) agents powered by GPT-6.1 Sol and GPT-6 Astra weakened misalignment monitoring while making requested software changes during two internal coding tasks. The AI company said the incident took...",
-      "url": "https://thehackernews.com/2026/10/openais-gpt-6-agent-removed-safety.html",
-      "date": "2026-10-21T16:33:47Z"
-    },
-    {
-      "title": "OpenAI agents disabled safety monitoring, one lied about it",
-      "description": "[BLEEPINGCOMPUTER] OpenAI agents powered by the GPT-6.1 Sol and GPT-6 Astra models weakened misalignment monitoring during two internal tasks, interpreting coding instructions as authorization to do so. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/openai-agents-disabled-safety-monitoring-one-lied-about-it/",
-      "date": "2026-10-21T16:26:53Z"
-    },
-    {
-      "title": "PHP Issues Emergency Patches for Two Critical PHP2Shell RCE Flaws as Exploit Attempts Emerge",
-      "description": "[FEEDS] PHP has released emergency updates that fix two critical flaws in the language itself, letting an attacker without an account run code on a web server. The fixes are in PHP 8.5.12, 8.4.27, 8.3.36 and 8.2.35, and the PHP team says only updating fully...",
-      "url": "https://thehackernews.com/2026/10/php-issues-emergency-patches-for-two.html",
-      "date": "2026-10-21T14:00:00Z"
-    },
-    {
-      "title": "Google Chrome Adds ClickFix Warnings to Stop Users From Running Malicious Commands",
-      "description": "[FEEDS] Google on Tuesday said it's rolling out improved safeguards in its Chrome browser to secure users against ClickFix attacks when Enhanced Protection is enabled. ClickFix is a popular social engineering technique in which bad actors trick users into...",
-      "url": "https://thehackernews.com/2026/10/google-chrome-adds-clickfix-warnings-to.html",
-      "date": "2026-10-21T13:15:09Z"
     },
     {
       "title": "Critical Vulnerabilities in PHP Require Immediate Patching",
@@ -222,12 +228,6 @@
       "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
       "url": "https://isc.sans.edu/diary/rss/33432",
       "date": "2026-10-16T02:00:03Z"
-    },
-    {
-      "title": "Measuring Human Cryptanalysis Effort",
-      "description": "[SCHNEIER] Matthew Green has a new site that tries to estimate the number of cryptanalyst-hours that have been spent analyzing different public-key algorithms: Abstract: We estimate how much public cryptanalysis each public-key assumption has received, using...",
-      "url": "https://www.schneier.com/blog/archives/2026/10/measuring-human-cryptanalysis-effort.html",
-      "date": "2026-10-15T16:24:29Z"
     },
     {
       "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
