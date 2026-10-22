@@ -1,11 +1,35 @@
 {
-  "updated": "2026-10-22 19:37:41 UTC",
+  "updated": "2026-10-22 22:52:02 UTC",
   "news": [
+    {
+      "title": "Railway warns devs to rotate secrets after potential breach",
+      "description": "[BLEEPINGCOMPUTER] Cloud platform Railway published an urgent warning to users after detecting suspicious activity on its systems that store customer environment variables earlier this week. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/railway-warns-devs-to-rotate-secrets-after-potential-breach/",
+      "date": "2026-10-22T21:25:31Z"
+    },
+    {
+      "title": "Capcom confirms data breach affecting 11.7 million accounts",
+      "description": "[BLEEPINGCOMPUTER] Japanese gaming giant Capcom has confirmed that hackers breached its membership service, CAPCOM ID, exposing more than 11.7 million customer email addresses and associated information. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/capcom-confirms-data-breach-affecting-117-million-accounts/",
+      "date": "2026-10-22T20:22:45Z"
+    },
     {
       "title": "LiteLLM release pipeline hacked to distribute info-stealer malware",
       "description": "[BLEEPINGCOMPUTER] Hackers compromised the LiteLLM project's PyPI package and published malicious Docker images with a payload that steals credentials, secrets, and environment variables. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/litellm-release-pipeline-hacked-to-distribute-info-stealer-malware/",
       "date": "2026-10-22T19:12:51Z"
+    },
+    {
+      "title": "The AI Agent Nobody Owns: Watch Expert Webinar On Your Newest Insider Threat",
+      "description": "[FEEDS] Right now, there is probably an AI agent running on a laptop somewhere in your network. It stores API keys and database passwords, can access your internal systems, and works without anyone watching. Nobody reviewed its access. Nobody owns it. If an...",
+      "url": "https://thehackernews.com/2026/10/the-ai-agent-nobody-owns-watch-expert.html",
+      "date": "2026-10-22T19:05:35Z"
+    },
+    {
+      "title": "Arista Warns of Critical VeloCloud SQL Injection Zero-Day Exploited in Attacks",
+      "description": "[FEEDS] Attackers are exploiting a zero-day SQL injection flaw in Arista's VeloCloud Orchestrator (VCO), the&nbsp;central management system&nbsp;for VeloCloud SD-WAN networks, the company said in an&nbsp;advisory&nbsp;on October 22. The flaw lets anyone who...",
+      "url": "https://thehackernews.com/2026/10/arista-warns-of-critical-velocloud-sql.html",
+      "date": "2026-10-22T19:05:17Z"
     },
     {
       "title": "eMudhra to Exit Global SSL/TLS Business After 8 Intermediate CA Keys Found Easily Guessable",
@@ -50,100 +74,70 @@
       "date": "2026-10-22T14:02:12Z"
     },
     {
-      "title": "INTERPOL Arrests 1,462 Suspects, Disrupts 10,909 Cybercrime Networks in Global Crackdown",
-      "description": "[FEEDS] INTERPOL on Thursday announced that a coordinated law enforcement action has disrupted 10,909 malicious networks and recovered more than $105 million in illicit funds. In tandem, the effort saw law enforcement agencies from 21 countries arrest 1,462...",
-      "url": "https://thehackernews.com/2026/10/interpol-arrests-1462-suspects-disrupts.html",
-      "date": "2026-10-22T13:38:22Z"
-    },
-    {
       "title": "New Serious PHP Vulnerabilities Released and Patched",
       "description": "[SCHNEIER] PHP maintainers have released fixes for two critical vulnerabilities: PHP 8.5.12, 8.4.27, 8.3.36 and 8.2.35 fix two critical vulnerabilities that can allow unauthenticated remote code execution. All PHP users are strongly encouraged to update...",
       "url": "https://www.schneier.com/blog/archives/2026/10/new-serious-php-vulnerabilities-released-and-patched.html",
       "date": "2026-10-22T13:26:51Z"
     },
     {
-      "title": "Amazon says PHP2Shell exploitation began 4 days before patches",
-      "description": "[BLEEPINGCOMPUTER] Security researchers at Amazon Threat Intelligence say attackers began targeting the PHP2Shell flaws four days before security patches were released on Wednesday. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/amazon-says-php2shell-exploitation-began-4-days-before-patches/",
-      "date": "2026-10-22T13:09:12Z"
+      "title": "Thirty-two Government services offline amid PHP cybersecurity issue",
+      "description": "[KENT ONLINE] No 10 said no large UK public-facing critical services have been affected, but some \u2018limited\u2019 Government websites have temporarily gone dark.",
+      "url": "https://www.kentonline.co.uk/news/national/thirty-two-government-services-offline-amid-php-cybersecurity-issue-173321/",
+      "date": "2026-10-22T10:42:12Z"
     },
     {
-      "title": "CISA Adds 20 Known Exploited Vulnerabilities to Catalog",
-      "description": "[CISA] CISA has added six new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. ICSMA-26-295-01 - InterSystems Corporation InterSystems IRIS for Health ICSA-26-295-01 - Kiloview E3 NDI Encoder...",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/10/22/cisa-adds-20-known-exploited-vulnerabilities-catalog",
-      "date": "2026-10-22T12:00:00Z"
+      "title": "AI's future hinges on public safety concern, cybersecurity, regulatory work in Congress",
+      "description": "[FOX NEWS] Artificial intelligence faces a 'double-edge' sword of innovation versus growth, big tech executives warn",
+      "url": "https://www.foxnews.com/live-news/ai-tech-stocks-donald-trump-midterms-safeguards-regulations-october-22",
+      "date": "2026-10-22T10:30:30Z"
     },
     {
-      "title": "The AI Agent Nobody Owns: Watch Expert Webinar On Your Newest Insider Threat",
-      "description": "[FEEDS] Right now, there is probably an AI agent running on a laptop somewhere in your network. It stores API keys and database passwords, can access your internal systems, and works without anyone watching. Nobody reviewed its access. Nobody owns it. If an...",
-      "url": "https://thehackernews.com/2026/10/the-ai-agent-nobody-owns-watch-expert.html",
-      "date": "2026-10-22T11:45:00Z"
+      "title": "Cybersecurity expert warns situation is 'serious' as 'millions of sites impacted by PHP vulnerabilities'",
+      "description": "[THE MIRROR] Severe vulnerabilities in the PHP: Hypertext Preprocessor identified with the help of AI this week have led cybersecurity experts to issue warnings about potentially millions of affected sites",
+      "url": "https://www.mirror.co.uk/news/world-news/cyber-security-php-ai-vulnerable-37798908",
+      "date": "2026-10-22T10:28:51Z"
     },
     {
-      "title": "GitLab warns of new max severity code execution vulnerability",
-      "description": "[BLEEPINGCOMPUTER] GitLab has released security patches for a maximum-severity Regular Expression Compiler flaw that can let remote attackers run arbitrary code on vulnerable servers. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-new-max-severity-code-execution-vulnerability/",
-      "date": "2026-10-22T11:41:48Z"
+      "title": "\u2018Limited\u2019 Government services temporarily offline amid PHP cybersecurity issue",
+      "description": "[KENT ONLINE] Downing Street did not provide details of which websites are affected.",
+      "url": "https://www.kentonline.co.uk/news/national/limited-government-services-temporarily-offline-amid-php-cybersecurity-issue-173318/",
+      "date": "2026-10-22T10:08:55Z"
     },
     {
-      "title": "Amagi Media shares slip after company flags cybersecurity threat",
-      "description": "[CNBC TV18] The company said relevant authorities have been notified and the investigation is underway to determine the systems and data involved, as well as identify any customers who may be affected.",
-      "url": "https://www.cnbctv18.com/market/amagi-media-share-price-cybersecurity-extortion-attempt-no-service-disruption-20016900.htm",
-      "date": "2026-10-22T07:28:18Z"
+      "title": "SBI data breach: How the bank discovered the leak and what followed",
+      "description": "[THE HINDU] SBI's dark web data breach: timeline, scope, risks, and responses for customers and regulators.",
+      "url": "https://www.thehindu.com/business/Industry/sbi-data-breach-how-the-bank-discovered-the-leak-and-what-followed/article71610638.ece",
+      "date": "2026-10-22T10:08:29Z"
     },
     {
-      "title": "eMudhra, SBI To Reliance Group: Inside 5 Major Data Breach Incidents",
-      "description": "[OUTLOOK INDIA] From a cryptographic flaw at eMudhra to alleged data leaks involving banks and sensitive medical records, five incidents highlight the risks of cybersecurity failures.",
-      "url": "https://www.outlookindia.com/national/emudhra-sbi-to-reliance-group-inside-5-major-data-breach-incidents",
-      "date": "2026-10-22T06:53:29Z"
+      "title": "Europe Pulls Websites Offline After AI Helps Uncover Major PHP Security Flaws",
+      "description": "[IEFIMERIDA] Governments and businesses across Europe took websites offline after cybersecurity agencies issued urgent warnings about critical vulnerabilities in PHP, a programming language that underpins much of the internet.",
+      "url": "https://www.iefimerida.gr/english/europe-pulls-websites-offline-after-ai-helps-uncover-major-php-security-flaws",
+      "date": "2026-10-22T09:58:37Z"
     },
     {
-      "title": "eMudhra Share Price Crashes 33% In Just 2 Days, Know- Why Are Investors Selling The Stock After Major Cybersecurity Concerns?",
-      "description": "[FREE PRESS JOURNAL] eMudhra shares fell 16.22 percent to Rs 361.95 after a 20 percent crash on Wednesday, losing nearly 33 percent in two sessions amid concerns over weak security keys and a government cybersecurity probe.",
-      "url": "https://www.freepressjournal.in/business/emudhra-share-price-crashes-33-in-just-2-days-know-why-are-investors-selling-the-stock-after-major-cybersecurity-concerns",
-      "date": "2026-10-22T06:43:46Z"
+      "title": "Global Cybersecurity Alarm: Websites Shut Down as Critical PHP Flaws Trigger Worldwide Emergency",
+      "description": "[PAGENEWS.GR] Governments, banks, airlines and technology companies race to secure their systems after two critical vulnerabilities are discovered in PHP, a programming language underpinning much of the internet. AI-assisted research exposed the flaws, while...",
+      "url": "https://www.pagenews.gr/2026/10/22/english-edition/global-cybersecurity-alarm-websites-shut-down-as-critical-php-flaws-trigger-worldwide-emergency/",
+      "date": "2026-10-22T09:57:55Z"
     },
     {
-      "title": "What is PHP and what is wrong with it? Full cybersecurity fiasco explained in 5 points",
-      "description": "[INDIA TODAY] Businesses and government agencies are rushing to patch PHP flaws as hackers attempt exploitation. The language's vast reach and AI's dual role amplify the security challenge.",
-      "url": "https://www.indiatoday.in/technology/news/story/what-is-php-and-what-is-wrong-with-it-full-cybersecurity-fiasco-explained-in-5-points-3022533-2026-10-22",
-      "date": "2026-10-22T06:43:41Z"
+      "title": "SBI data breach: What information was exposed and what customers should do",
+      "description": "[THE HINDU] SBI data breach: which customer details were exposed, risks involved, and steps for customers and regulators to protect and respond.",
+      "url": "https://www.thehindu.com/business/Industry/sbi-data-breach-what-information-was-exposed-and-what-customers-should-do/article71610873.ece",
+      "date": "2026-10-22T09:56:14Z"
     },
     {
-      "title": "eMudhra and PHP not alone, last 24 hours have been absolute cybersecurity chaos for internet",
-      "description": "[INDIA TODAY] A lot has happened in cybersecurity in the past 24 hours. From eMudhra\u2019s weak security keys to ChatGPT finding critical flaws in PHP. India Today Tech has the full rundown.",
-      "url": "https://www.indiatoday.in/technology/news/story/emudhra-and-php-not-alone-last-24-hrs-have-been-absolute-cybersecurity-chaos-for-internet-3022456-2026-10-22",
-      "date": "2026-10-22T06:10:38Z"
+      "title": "What is PHP, and how did it take down thousands of websites across the world?",
+      "description": "[FIRSTPOST] Created in the early 1990s, PHP is a computer programming language that helps run around 70 per cent of the world's websites. According to cybersecurity firm Wiz Research, PHP is the 'backbone of the web.' Websites and tools went offline around the...",
+      "url": "https://www.firstpost.com/explainers/what-is-php-and-how-did-it-take-thousands-of-websites-down-across-the-world-14054580.html",
+      "date": "2026-10-22T09:52:18Z"
     },
     {
-      "title": "Cognizant is putting 18,000 engineers behind Google Gemini: What they will build and why",
-      "description": "[LIVEMINT] Cognizant and Google Cloud are assigning more than 18,000 employees to develop AI agents for clients, targeting software modernisation, developer tools, business-process automation and cybersecurity.",
-      "url": "https://www.livemint.com/companies/news/cognizant-is-putting-18-000-engineers-behind-google-gemini-what-they-will-build-and-why-11792646674895.html",
-      "date": "2026-10-22T06:00:38Z"
-    },
-    {
-      "title": "eMudhra Cybersecurity Issue: Weak Encryption Keys Raise Web Security Concerns",
-      "description": "[TIMES NOW] eMudhra Security Breach: The reported weak encryption keys linked to eMudhra have raised wider concerns about global website security, digital certificate reliability and potential risks to internet users., Companies, Times Now",
-      "url": "https://www.timesnownews.com/business-economy/companies/emudhra-cybersecurity-issue-weak-encryption-keys-raise-web-security-concerns-article-156382606",
-      "date": "2026-10-22T05:50:48Z"
-    },
-    {
-      "title": "eMudhra Cybersecurity Issue: Weak Encryption Keys Raise Web Security Concerns",
-      "description": "[TIMES NOW] eMudhra Cybersecurity Issue: Weak Encryption Keys Raise Web Security Concerns, Technology & Science, Times Now",
-      "url": "https://www.timesnownews.com/technology-science/emudhra-cybersecurity-issue-weak-encryption-keys-raise-web-security-concerns-article-156382683",
-      "date": "2026-10-22T05:50:48Z"
-    },
-    {
-      "title": "eMudhra shares crash 14% today, down 34% in 5 days: Here's why the stock is falling",
-      "description": "[INDIA TODAY] eMudhra shares fell 13.62% after a security flaw affected certificates in its global TLS business. The incident has raised reputational concerns despite no data breach or impact on Indian services.",
-      "url": "https://www.indiatoday.in/business/market/story/emudhra-shares-fall-crash-14-percent-today-cyber-security-flaw-hacked-data-breach-3022468-2026-10-22",
-      "date": "2026-10-22T05:24:42Z"
-    },
-    {
-      "title": "EC-Council Expands Technology Risk Capabilities Through Acquisition of Cyber Insurance Academy",
-      "description": "[ANI (ASIAN NEWS INTERNATIONAL)] Hyderabad (Telangana) [India], October 22: EC-Council, creator of the Certified Ethical Hacker (CEH) credential and a global leader advancing Cybersecurity and Responsible AI through its Adopt. Defend. Govern. (ADG) Framework, today announced the...",
-      "url": "https://www.aninews.in/news/business/ec-council-expands-technology-risk-capabilities-through-acquisition-of-cyber-insurance-academy20261022105011/",
-      "date": "2026-10-22T05:20:11Z"
+      "title": "Explained: What is PHP? Why govt websites went dark? International advisory issued as AI exposes serious cyber glitch",
+      "description": "[LIVEMINT] PHP has triggered international advisories and forced websites offline worldwide, marking a new phase in cybersecurity in which increasingly powerful AI can uncover software vulnerabilities that humans have missed for years.",
+      "url": "https://www.livemint.com/technology/explained-what-is-php-why-govt-websites-went-dark-international-advisory-issued-as-ai-exposes-serious-cyber-glitch-11792658091301.html",
+      "date": "2026-10-22T09:21:14Z"
     },
     {
       "title": "ISC Stormcast For Thursday, October 22nd, 2026 https://isc.sans.edu/podcastdetail/10146, (Thu, Oct 22nd)",
@@ -240,6 +234,12 @@
       "description": "[CISA] CISA has added one new vulnerability to its&nbsp;Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-21589 Atlassian Multiple Products Files or Directories Accessible to External Parties...",
       "url": "https://www.cisa.gov/news-events/alerts/2026/10/15/cisa-adds-one-known-exploited-vulnerability-catalog",
       "date": "2026-10-15T12:00:00Z"
+    },
+    {
+      "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
+      "description": "[CISA] CISA has added four new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation.&nbsp; CVE-2026-0322 Palo Alto Networks PAN-OS Code Injection Vulnerability&nbsp; CVE-2026-76519 Cisco Secure...",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/10/14/cisa-adds-four-known-exploited-vulnerabilities-catalog",
+      "date": "2026-10-14T12:00:00Z"
     }
   ]
 }
