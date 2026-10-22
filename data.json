@@ -1,137 +1,245 @@
 {
-    "title": "Sentinel Protocol",
-    "tagline": "Perimeter Intelligence Sync",
-    "updated": "2026-10-22 15:46 UTC",
-    "news": [
-        {
-            "source": {
-                "id": "techradar",
-                "name": "TechRadar"
-            },
-            "author": "Sead Fadilpa\u0161i\u0107",
-            "title": "Website admins across the world bracing for impact following major PHP flaw reveal",
-            "description": "PHP notifies the community of two critical RCE flaws, says patch is coming imminently.",
-            "url": "https://www.techradar.com/pro/security/website-admins-across-the-world-bracing-for-impact-following-major-php-flaw-reveal",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/pL5rBKGq88cnoqgdJgCXGS-2560-80.jpg",
-            "publishedAt": "2026-10-21T15:36:33Z",
-            "content": "<ul><li>PHP discloses two critical remote code execution vulnerabilities that could enable website takeover and data theft</li><li>Details leaked before patch release, prompting an early security adv\u2026 [+4228 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Decrypt"
-            },
-            "author": "Jose Antonio Lanz",
-            "title": "PHP Panic: Two Critical Bugs Put 70% of the Internet at Risk, and Everyone Is Freaking Out",
-            "description": "Two critical bugs in PHP, the language running most of the web, let strangers take over servers without a password. The patch is out, attacks started early, and governments pulled the plug.",
-            "url": "https://decrypt.co/381519/php-panic-critical-bugs-70-percent-internet-risk-everyone-freaking-out",
-            "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2026/10/panic-decrypt-style-02-gID_7.jpg",
-            "publishedAt": "2026-10-21T15:35:16Z",
-            "content": "In brief\r\n<ul><li>PHP released versions 8.5.12, 8.4.27, 8.3.36 and 8.2.35 on October 21 to fix CVE-2026-109618 and CVE-2026-109619, two flaws rated 9.2 out of 10 that allow unauthenticated remote cod\u2026 [+10386 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "PRNewswire"
-            },
-            "author": null,
-            "title": "Watchtower Labs Emerges From Stealth With $35 Million to Build AI-Native Decision Tools for Military Operations",
-            "description": "Watchtower uses AI, simulation, and optimization to help military planners anticipate what happens next and evaluate options while there is still time to act SEATTLE, Oct. 21, 2026 /PRNewswire/ -- Watchtower Labs today emerged from stealth with $35 million in\u2026",
-            "url": "https://www.prnewswire.com/news-releases/watchtower-labs-emerges-from-stealth-with-35-million-to-build-ai-native-decision-tools-for-military-operations-302914883.html",
-            "urlToImage": "https://mmx.prnewswire.com/media/MS2017641/Waatchtower-Logo.jpg?id=OA3030897&p=facebook",
-            "publishedAt": "2026-10-21T15:30:00Z",
-            "content": "Watchtower uses AI, simulation, and optimization to help military planners anticipate what happens next and evaluate options while there is still time to act\r\nSEATTLE, Oct. 21, 2026 /PRNewswire/ -- W\u2026 [+4691 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Krebs on Security"
-            },
-            "author": "BrianKrebs",
-            "title": "Widespread PHP Flaw May Cause Many Site Outages Today",
-            "description": "Expect to see quite a few websites serving \"404\" or \"Page Not Found\" errors today: Nearly 70 percent of websites need to update their core software to fix a pair of vulnerabilities that allow an attacker to seize full control over affected servers. Experts sa\u2026",
-            "url": "https://krebsonsecurity.com/2026/10/widespread-php-flaw-may-cause-many-site-outages-today/",
-            "urlToImage": null,
-            "publishedAt": "2026-10-21T15:26:07Z",
-            "content": "Expect to see quite a few websites serving error pages today: Nearly 70 percent of websites need to update their core software to fix a pair of vulnerabilities that allow an attacker to seize full co\u2026 [+3554 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "SiliconANGLE News"
-            },
-            "author": "Paul Gillin",
-            "title": "Red Hat and Nvidia expand their partnership to secure autonomous AI agents",
-            "description": "Red Hat Inc. today expanded its collaboration with Nvidia Corp. to help enterprises secure autonomous artificial intelligence agents, govern access to AI models and deploy workloads on Nvidia\u2019s upcoming Vera Rubin data center infrastructure. Announced at Nvid\u2026",
-            "url": "https://siliconangle.com/2026/10/21/red-hat-and-nvidia-expand-their-partnership-to-secure-autonomous-ai-agents/",
-            "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2024/05/image_2024-05-06_104934594.png",
-            "publishedAt": "2026-10-21T15:25:52Z",
-            "content": "Red Hat Inc. today expanded its collaboration with Nvidia Corp. to help enterprises secure autonomous artificial intelligence agents, govern access to AI models and deploy workloads on Nvidias upcomi\u2026 [+5206 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Offgridsurvival.com"
-            },
-            "author": "OFFGRID Survival",
-            "title": "PHP Flaw Puts Most of the Internet at Risk: 70% of Websites Told to Go Dark or Get Hacked",
-            "description": "PHP Flaw Puts Most of the Internet at Risk: 70% of Websites Told to Go Dark or Get Hacked\nA critical PHP flaw hitting 70% of websites forced governments to shut down their own sites. Here\u2019s how PHP2Shell affects you and how to protect your family.\nThis Articl\u2026",
-            "url": "https://offgridsurvival.com/php-flaw-puts-most-of-the-internet-at-risk-70-of-websites-told-to-go-dark-or-get-hacked/",
-            "urlToImage": "https://offgridsurvival.com/wp-content/themes/church_10/images/2026/10/phpexploit.jpg",
-            "publishedAt": "2026-10-21T15:16:41Z",
-            "content": "Yesterday afternoon, a warning went out that most people will never hear about. By this morning, governments were unplugging their own websites.\r\nThe problem is a pair of security holes in PHP. Most \u2026 [+12215 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Talosintelligence.com"
-            },
-            "author": "Cisco Talos",
-            "title": "Two critical RCEs in PHP core",
-            "description": "Two critical remote code execution vulnerabilities in PHP core could have implications across its wider ecosystem. Talos has published a blog to explain what we know so far, and details the Snort coverage available, including rules in the Community Ruleset.",
-            "url": "https://blog.talosintelligence.com/two-critical-rces-in-php-core/",
-            "urlToImage": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/size/w1200/2026/10/threat_advisory.jpg",
-            "publishedAt": "2026-10-21T15:10:53Z",
-            "content": "Cisco Talos is tracking the disclosure of two unauthenticated remote code execution (RCE) flaws in PHP core, dubbed php2shell, triggered by a plain HTTP request and exploitable before any application\u2026 [+5820 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Theregister.com"
-            },
-            "author": "Lindsay Clark",
-            "title": "PHP devs publish critical bug fix as site owners warned: Pull 'em offline if you're unpatched",
-            "description": "Websites down as precaution as exploits have already been published",
-            "url": "https://www.theregister.com/security/2026/10/21/php-devs-publish-critical-bug-fix-as-site-owners-warned-pull-em-offline-if-youre-unpatched/5304519",
-            "urlToImage": "https://image.theregister.com/263315.jpg?imageId=263315&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-            "publishedAt": "2026-10-21T15:08:51Z",
-            "content": "PHP developers have released emergency updates for two critical vulnerabilities after cybersecurity authorities warned organizations to patch immediately or consider taking exposed applications offli\u2026 [+1890 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "PCMag.com"
-            },
-            "author": "Michael Kan",
-            "title": "This Flaw Is So Serious Websites Should Consider Going Offline, NSA Says",
-            "description": "Two severe flaws in PHP can lead to unauthenticated remote code execution, enabling hackers to tamper with millions of websites. AI models were used to uncover the threat.\nThe IT industry is bracing for widespread cyberattacks due to a pair of severe flaws fo\u2026",
-            "url": "https://uk.pcmag.com/security/168035/php-flaw-is-so-serious-websites-should-consider-going-offline-nsa-says",
-            "urlToImage": "https://sm.pcmag.com/t/pcmag_uk/news/t/this-flaw-/this-flaw-is-so-serious-websites-should-consider-going-offli_w6a1.1200.jpg",
-            "publishedAt": "2026-10-21T15:08:23Z",
-            "content": "The IT industry is bracing for widespread cyberattacks due to a pair of severe flaws found in PHP, a scripting language widely used to operate millions of websites.\u00a0\r\nThe threat emerged on Tuesday af\u2026 [+3816 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Softwareunplugged.com"
-            },
-            "author": "Andrew Sabastian",
-            "title": "B2B Email Marketing Services for Enterprise Buyers",
-            "description": "Discover how B2B Email Marketing Services engage multiple enterprise stakeholders through personalized campaigns, targeted nurturing, and sales alignment.",
-            "url": "https://softwareunplugged.com/blog/b2b-email-marketing-services-enterprise-buyers",
-            "urlToImage": "https://softwareunplugged.com/wp-content/uploads/2026/10/445.webp",
-            "publishedAt": "2026-10-21T15:05:06Z",
-            "content": "Enterprise purchasing decisions rarely depend on a single individual. A business may identify a need for a new technology, service, or operational solution, but several departments often participate \u2026 [+13081 chars]"
-        }
-    ]
+  "updated": "2026-10-22 19:37:41 UTC",
+  "news": [
+    {
+      "title": "LiteLLM release pipeline hacked to distribute info-stealer malware",
+      "description": "[BLEEPINGCOMPUTER] Hackers compromised the LiteLLM project's PyPI package and published malicious Docker images with a payload that steals credentials, secrets, and environment variables. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/litellm-release-pipeline-hacked-to-distribute-info-stealer-malware/",
+      "date": "2026-10-22T19:12:51Z"
+    },
+    {
+      "title": "eMudhra to Exit Global SSL/TLS Business After 8 Intermediate CA Keys Found Easily Guessable",
+      "description": "[FEEDS] eMudhra, an Indian certificate authority (CA), will withdraw from its global SSL/TLS certificate business,&nbsp;its board decided on Thursday. The decision came five days after a researcher&nbsp;reported recovering the private keys&nbsp;of eight of...",
+      "url": "https://thehackernews.com/2026/10/emudhra-to-exit-global-ssltls-business.html",
+      "date": "2026-10-22T18:12:43Z"
+    },
+    {
+      "title": "ThreatsDay: AI Secrets Leak, PingCAP Source Theft, Signal Hang-Up Flaw, Laravel Auth Bypass + 21 More",
+      "description": "[FEEDS] This week has already been rough for cybersecurity. Critical PHP and GitLab RCE flaws, serious Linux security bugs, compromised eMudhra certificates, a Node.js RCE flaw, a hacked LiteLLM release, and hundreds of hijacked Tor relays. That's a lot to...",
+      "url": "https://thehackernews.com/2026/10/threatsday-ai-secrets-leak-pingcap.html",
+      "date": "2026-10-22T17:45:44Z"
+    },
+    {
+      "title": "Arista patches new VeloCloud Orchestrator zero-day exploited in attacks",
+      "description": "[BLEEPINGCOMPUTER] Arista Networks released security updates to patch an actively exploited zero-day vulnerability affecting VeloCloud Orchestrator (VCO) On-Prem deployments. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/arista-patches-new-velocloud-orchestrator-zero-day-exploited-in-attacks/",
+      "date": "2026-10-22T17:18:22Z"
+    },
+    {
+      "title": "Two CVSS 9.0 Linux KSMBD RCE Flaws Disclosed on Public Mailing Lists Before Kernel Fixes",
+      "description": "[FEEDS] Linux servers running KSMBD, the kernel's built-in SMB server, are exposed to two publicly reported remote code execution flaws rated 9.0 by&nbsp;Trend Micro's Zero Day Initiative, with no fix yet in the mainline kernel. One of them, ZDI-CAN-33774,...",
+      "url": "https://thehackernews.com/2026/10/two-cvss-90-linux-ksmbd-rce-flaws.html",
+      "date": "2026-10-22T17:01:53Z"
+    },
+    {
+      "title": "Meta Ordered to Pay $25 Billion After Court Finds 43 Million Privacy Violations",
+      "description": "[FEEDS] Social media giant Meta was ordered to pay 25 billion in penalties by a New Mexico court on Wednesday as part of a data privacy lawsuit that sprang from the company's Cambridge Analytica data scandal, which came to light in 2018. According to...",
+      "url": "https://thehackernews.com/2026/10/meta-ordered-to-pay-25-billion-after.html",
+      "date": "2026-10-22T16:12:31Z"
+    },
+    {
+      "title": "Microsoft shares how to fix broken Exchange Online EWS apps",
+      "description": "[BLEEPINGCOMPUTER] Microsoft says IT admins can re-enable the retired Exchange Web Services (EWS) API in Exchange Online to fix EWS apps that have stopped working. [...]",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-how-to-fix-broken-exchange-online-ews-apps/",
+      "date": "2026-10-22T15:49:32Z"
+    },
+    {
+      "title": "Machine speed attacks require machine speed detection and response",
+      "description": "[BLEEPINGCOMPUTER] Attackers can steal credentials and begin exfiltrating data within minutes, often before security teams can respond. Exaforce examines real-world attacks involving stolen GitHub tokens, malicious AI installers, and MFA phishing, explaining why...",
+      "url": "https://www.bleepingcomputer.com/news/security/machine-speed-attacks-require-machine-speed-detection-and-response/",
+      "date": "2026-10-22T14:02:12Z"
+    },
+    {
+      "title": "INTERPOL Arrests 1,462 Suspects, Disrupts 10,909 Cybercrime Networks in Global Crackdown",
+      "description": "[FEEDS] INTERPOL on Thursday announced that a coordinated law enforcement action has disrupted 10,909 malicious networks and recovered more than $105 million in illicit funds. In tandem, the effort saw law enforcement agencies from 21 countries arrest 1,462...",
+      "url": "https://thehackernews.com/2026/10/interpol-arrests-1462-suspects-disrupts.html",
+      "date": "2026-10-22T13:38:22Z"
+    },
+    {
+      "title": "New Serious PHP Vulnerabilities Released and Patched",
+      "description": "[SCHNEIER] PHP maintainers have released fixes for two critical vulnerabilities: PHP 8.5.12, 8.4.27, 8.3.36 and 8.2.35 fix two critical vulnerabilities that can allow unauthenticated remote code execution. All PHP users are strongly encouraged to update...",
+      "url": "https://www.schneier.com/blog/archives/2026/10/new-serious-php-vulnerabilities-released-and-patched.html",
+      "date": "2026-10-22T13:26:51Z"
+    },
+    {
+      "title": "Amazon says PHP2Shell exploitation began 4 days before patches",
+      "description": "[BLEEPINGCOMPUTER] Security researchers at Amazon Threat Intelligence say attackers began targeting the PHP2Shell flaws four days before security patches were released on Wednesday. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/amazon-says-php2shell-exploitation-began-4-days-before-patches/",
+      "date": "2026-10-22T13:09:12Z"
+    },
+    {
+      "title": "CISA Adds 20 Known Exploited Vulnerabilities to Catalog",
+      "description": "[CISA] CISA has added six new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. ICSMA-26-295-01 - InterSystems Corporation InterSystems IRIS for Health ICSA-26-295-01 - Kiloview E3 NDI Encoder...",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/10/22/cisa-adds-20-known-exploited-vulnerabilities-catalog",
+      "date": "2026-10-22T12:00:00Z"
+    },
+    {
+      "title": "The AI Agent Nobody Owns: Watch Expert Webinar On Your Newest Insider Threat",
+      "description": "[FEEDS] Right now, there is probably an AI agent running on a laptop somewhere in your network. It stores API keys and database passwords, can access your internal systems, and works without anyone watching. Nobody reviewed its access. Nobody owns it. If an...",
+      "url": "https://thehackernews.com/2026/10/the-ai-agent-nobody-owns-watch-expert.html",
+      "date": "2026-10-22T11:45:00Z"
+    },
+    {
+      "title": "GitLab warns of new max severity code execution vulnerability",
+      "description": "[BLEEPINGCOMPUTER] GitLab has released security patches for a maximum-severity Regular Expression Compiler flaw that can let remote attackers run arbitrary code on vulnerable servers. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-new-max-severity-code-execution-vulnerability/",
+      "date": "2026-10-22T11:41:48Z"
+    },
+    {
+      "title": "Amagi Media shares slip after company flags cybersecurity threat",
+      "description": "[CNBC TV18] The company said relevant authorities have been notified and the investigation is underway to determine the systems and data involved, as well as identify any customers who may be affected.",
+      "url": "https://www.cnbctv18.com/market/amagi-media-share-price-cybersecurity-extortion-attempt-no-service-disruption-20016900.htm",
+      "date": "2026-10-22T07:28:18Z"
+    },
+    {
+      "title": "eMudhra, SBI To Reliance Group: Inside 5 Major Data Breach Incidents",
+      "description": "[OUTLOOK INDIA] From a cryptographic flaw at eMudhra to alleged data leaks involving banks and sensitive medical records, five incidents highlight the risks of cybersecurity failures.",
+      "url": "https://www.outlookindia.com/national/emudhra-sbi-to-reliance-group-inside-5-major-data-breach-incidents",
+      "date": "2026-10-22T06:53:29Z"
+    },
+    {
+      "title": "eMudhra Share Price Crashes 33% In Just 2 Days, Know- Why Are Investors Selling The Stock After Major Cybersecurity Concerns?",
+      "description": "[FREE PRESS JOURNAL] eMudhra shares fell 16.22 percent to Rs 361.95 after a 20 percent crash on Wednesday, losing nearly 33 percent in two sessions amid concerns over weak security keys and a government cybersecurity probe.",
+      "url": "https://www.freepressjournal.in/business/emudhra-share-price-crashes-33-in-just-2-days-know-why-are-investors-selling-the-stock-after-major-cybersecurity-concerns",
+      "date": "2026-10-22T06:43:46Z"
+    },
+    {
+      "title": "What is PHP and what is wrong with it? Full cybersecurity fiasco explained in 5 points",
+      "description": "[INDIA TODAY] Businesses and government agencies are rushing to patch PHP flaws as hackers attempt exploitation. The language's vast reach and AI's dual role amplify the security challenge.",
+      "url": "https://www.indiatoday.in/technology/news/story/what-is-php-and-what-is-wrong-with-it-full-cybersecurity-fiasco-explained-in-5-points-3022533-2026-10-22",
+      "date": "2026-10-22T06:43:41Z"
+    },
+    {
+      "title": "eMudhra and PHP not alone, last 24 hours have been absolute cybersecurity chaos for internet",
+      "description": "[INDIA TODAY] A lot has happened in cybersecurity in the past 24 hours. From eMudhra\u2019s weak security keys to ChatGPT finding critical flaws in PHP. India Today Tech has the full rundown.",
+      "url": "https://www.indiatoday.in/technology/news/story/emudhra-and-php-not-alone-last-24-hrs-have-been-absolute-cybersecurity-chaos-for-internet-3022456-2026-10-22",
+      "date": "2026-10-22T06:10:38Z"
+    },
+    {
+      "title": "Cognizant is putting 18,000 engineers behind Google Gemini: What they will build and why",
+      "description": "[LIVEMINT] Cognizant and Google Cloud are assigning more than 18,000 employees to develop AI agents for clients, targeting software modernisation, developer tools, business-process automation and cybersecurity.",
+      "url": "https://www.livemint.com/companies/news/cognizant-is-putting-18-000-engineers-behind-google-gemini-what-they-will-build-and-why-11792646674895.html",
+      "date": "2026-10-22T06:00:38Z"
+    },
+    {
+      "title": "eMudhra Cybersecurity Issue: Weak Encryption Keys Raise Web Security Concerns",
+      "description": "[TIMES NOW] eMudhra Security Breach: The reported weak encryption keys linked to eMudhra have raised wider concerns about global website security, digital certificate reliability and potential risks to internet users., Companies, Times Now",
+      "url": "https://www.timesnownews.com/business-economy/companies/emudhra-cybersecurity-issue-weak-encryption-keys-raise-web-security-concerns-article-156382606",
+      "date": "2026-10-22T05:50:48Z"
+    },
+    {
+      "title": "eMudhra Cybersecurity Issue: Weak Encryption Keys Raise Web Security Concerns",
+      "description": "[TIMES NOW] eMudhra Cybersecurity Issue: Weak Encryption Keys Raise Web Security Concerns, Technology & Science, Times Now",
+      "url": "https://www.timesnownews.com/technology-science/emudhra-cybersecurity-issue-weak-encryption-keys-raise-web-security-concerns-article-156382683",
+      "date": "2026-10-22T05:50:48Z"
+    },
+    {
+      "title": "eMudhra shares crash 14% today, down 34% in 5 days: Here's why the stock is falling",
+      "description": "[INDIA TODAY] eMudhra shares fell 13.62% after a security flaw affected certificates in its global TLS business. The incident has raised reputational concerns despite no data breach or impact on Indian services.",
+      "url": "https://www.indiatoday.in/business/market/story/emudhra-shares-fall-crash-14-percent-today-cyber-security-flaw-hacked-data-breach-3022468-2026-10-22",
+      "date": "2026-10-22T05:24:42Z"
+    },
+    {
+      "title": "EC-Council Expands Technology Risk Capabilities Through Acquisition of Cyber Insurance Academy",
+      "description": "[ANI (ASIAN NEWS INTERNATIONAL)] Hyderabad (Telangana) [India], October 22: EC-Council, creator of the Certified Ethical Hacker (CEH) credential and a global leader advancing Cybersecurity and Responsible AI through its Adopt. Defend. Govern. (ADG) Framework, today announced the...",
+      "url": "https://www.aninews.in/news/business/ec-council-expands-technology-risk-capabilities-through-acquisition-of-cyber-insurance-academy20261022105011/",
+      "date": "2026-10-22T05:20:11Z"
+    },
+    {
+      "title": "ISC Stormcast For Thursday, October 22nd, 2026 https://isc.sans.edu/podcastdetail/10146, (Thu, Oct 22nd)",
+      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
+      "url": "https://isc.sans.edu/diary/rss/33446",
+      "date": "2026-10-22T02:00:02Z"
+    },
+    {
+      "title": "Critical PHP Vulnerability (CVE-2026-109618, CVE-2026-109619) &#x5b;infocon yellow&#x5d;, (Wed, Oct 21st)",
+      "description": "[ISC] PHP.net announced that it will release a critical update today. We decided to change the infoCon to YELLOW due to the widespread use of PHP, the expected severity of the flaw (CVSS 9.4), and the availability of early PoC exploits before the patch...",
+      "url": "https://isc.sans.edu/diary/rss/33440",
+      "date": "2026-10-21T21:02:43Z"
+    },
+    {
+      "title": "Critical Vulnerabilities in PHP Require Immediate Patching",
+      "description": "[CISA] CISA strongly urges organizations to immediately patch the recently disclosed critical vulnerabilities in PHP, CVE-2026-109618 and CVE-2026-109619. These vulnerabilities, known as \u201cphp2shell,\u201d allow for unauthenticated remote code execution in PHP...",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/10/21/critical-vulnerabilities-php-require-immediate-patching",
+      "date": "2026-10-21T12:00:00Z"
+    },
+    {
+      "title": "Workshop on Economics and Information Security (WEIS) Archive",
+      "description": "[SCHNEIER] There&#8217;s a new archive of all the papers from twenty-five years of the Workshop on Economics and Information Security (WEIS). Really nice resource. It&#8217;s fun to reread my 2002 essay on the economics of information security.",
+      "url": "https://www.schneier.com/blog/archives/2026/10/workshop-on-economics-and-information-security-weis-archive.html",
+      "date": "2026-10-21T11:02:22Z"
+    },
+    {
+      "title": "ISC Stormcast For Wednesday, October 21st, 2026 https://isc.sans.edu/podcastdetail/10144, (Wed, Oct 21st)",
+      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
+      "url": "https://isc.sans.edu/diary/rss/33438",
+      "date": "2026-10-21T02:00:03Z"
+    },
+    {
+      "title": "CISA Adds Six Known Exploited Vulnerabilities to Catalog",
+      "description": "[CISA] CISA has added six new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-96652 Plex Media Server Server-Side Request Forgery (SSRF) Vulnerability CVE-2026-96654 Plex Media Server...",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/10/20/cisa-adds-six-known-exploited-vulnerabilities-catalog",
+      "date": "2026-10-20T12:00:00Z"
+    },
+    {
+      "title": "Possible new Cellebrite iPhone Radio Zero-Day",
+      "description": "[SCHNEIER] Justin.sh is reporting on a confidential Cellebrite document that has been leaked to him: Cellebrite calls it Advanced Unlocks (AU from here on), not to be confused with the &#8220;advanced unlocking services&#8221; they&#8217;ve marketed for years....",
+      "url": "https://www.schneier.com/blog/archives/2026/10/possible-new-cellebrite-iphone-radio-zero-day.html",
+      "date": "2026-10-20T11:03:13Z"
+    },
+    {
+      "title": "ISC Stormcast For Tuesday, October 20th, 2026 https://isc.sans.edu/podcastdetail/10142, (Tue, Oct 20th)",
+      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
+      "url": "https://isc.sans.edu/diary/rss/33436",
+      "date": "2026-10-20T02:00:03Z"
+    },
+    {
+      "title": "Training AIs to Solve CAPTCHAs",
+      "description": "[SCHNEIER] Interesting research: Abstract: Vision-language models (VLMs) can solve visual CAPTCHAs without task-specific training, but the agents built on them approach every challenge from scratch. For such an agent, the hundredth instance of a familiar...",
+      "url": "https://www.schneier.com/blog/archives/2026/10/training-ais-to-solve-captchas.html",
+      "date": "2026-10-19T11:07:43Z"
+    },
+    {
+      "title": "Orphaned VBA Projects Inside DWG Files: YARA Rule, (Sun, Oct 18th)",
+      "description": "[ISC] Here is the YARA rule I used to detect \"Orphaned VBA Projects Inside DWG Files\".&#xd;",
+      "url": "https://isc.sans.edu/diary/rss/33434",
+      "date": "2026-10-18T12:59:30Z"
+    },
+    {
+      "title": "Friday Squid Blogging: Squid Before the Chicxulub Meteor Impact",
+      "description": "[SCHNEIER] New research shows that squid lived all around the globe even before the Cretaceous-Paleogene mass extinction event. As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered. Blog...",
+      "url": "https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-squid-before-the-chicxulub-meteor-impact.html",
+      "date": "2026-10-16T21:06:47Z"
+    },
+    {
+      "title": "CISA Urges Patching Critical Vulnerability in BeyondTrust Remote Support",
+      "description": "[CISA] CISA is aware of critical authentication bypass vulnerability CVE-2026-102764, affecting BeyondTrust Remote Support (formerly Bomgar) versions 26.2.3 and earlier. Patches are available for supported versions (24.3.1 and later); organizations using...",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/10/16/cisa-urges-patching-critical-vulnerability-beyondtrust-remote-support",
+      "date": "2026-10-16T12:00:00Z"
+    },
+    {
+      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+      "description": "[CISA] CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-61624 Fortinet Multiple Products Path Traversal Vulnerability CVE-2026-102764 BeyondTrust Remote Support...",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/10/16/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+      "date": "2026-10-16T12:00:00Z"
+    },
+    {
+      "title": "Backdooring Open-Weight AI Models",
+      "description": "[SCHNEIER] This is a problem: Any open model whose weights have been edited can carry a backdoor, whether it&#8217;s a task-specific fine-tune, a merged adapter or an abliterated build. We have abliterated models in the title because it&#8217;s the most...",
+      "url": "https://www.schneier.com/blog/archives/2026/10/backdooring-open-weight-ai-models.html",
+      "date": "2026-10-16T11:04:53Z"
+    },
+    {
+      "title": "ISC Stormcast For Friday, October 16th, 2026 https://isc.sans.edu/podcastdetail/10140, (Fri, Oct 16th)",
+      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
+      "url": "https://isc.sans.edu/diary/rss/33432",
+      "date": "2026-10-16T02:00:03Z"
+    },
+    {
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "description": "[CISA] CISA has added one new vulnerability to its&nbsp;Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-21589 Atlassian Multiple Products Files or Directories Accessible to External Parties...",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/10/15/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "date": "2026-10-15T12:00:00Z"
+    }
+  ]
 }
