@@ -1,245 +1,137 @@
 {
-  "updated": "2026-10-23 14:32:00 UTC",
-  "news": [
-    {
-      "title": "You gave your AI agent access, but who is giving it orders?",
-      "description": "[BLEEPINGCOMPUTER] AI agents can be manipulated through malicious emails, websites, and plugins into executing commands, stealing data, or deleting files using their legitimate permissions. Gen Digital explains how its Agent Trust Hub helps protect agents through...",
-      "url": "https://www.bleepingcomputer.com/news/security/you-gave-your-ai-agent-access-but-who-is-giving-it-orders/",
-      "date": "2026-10-23T14:00:10Z"
-    },
-    {
-      "title": "Hackers Breach Enterprise Firewalls and VPNs, Exposing Over 70,000 Credentials",
-      "description": "[FEEDS] Cybersecurity researchers have disclosed details of a large-scale campaign that has targeted exposed network edge devices such as Fortinet FortiGate and Palo Alto Networks GlobalProtect firewalls. \"Artifacts from this investigation also indicate...",
-      "url": "https://thehackernews.com/2026/10/hackers-breach-enterprise-firewalls-and.html",
-      "date": "2026-10-23T13:50:56Z"
-    },
-    {
-      "title": "PHP Vulnerability Wrap-Up, (Fri, Oct 23rd)",
-      "description": "[ISC] This morning, we returned to Infocon Green. As usual, we are raising the Infocon to alert you to emerging situations requiring immediate attention. PHP fit that description. By now, you either know about it, or you probably never will, so it is time...",
-      "url": "https://isc.sans.edu/diary/rss/33450",
-      "date": "2026-10-23T13:43:20Z"
-    },
-    {
-      "title": "HPE patches eight max severity RCE and auth bypass AOS flaws",
-      "description": "[BLEEPINGCOMPUTER] Hewlett Packard Enterprise (HPE) released security updates to patch 72 vulnerabilities in the Aruba Operating System (ArubaOS), including eight maximum-severity authentication bypass and code execution issues. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/hpe-patches-eight-max-severity-rce-and-auth-bypass-aos-flaws/",
-      "date": "2026-10-23T12:48:00Z"
-    },
-    {
-      "title": "PHP Warns of Another Unpatched RCE Two Days After Emergency PHP2Shell Patches",
-      "description": "[FEEDS] PHP has warned of another way an attacker could run code on a web server, two days after it shipped emergency fixes for the critical PHP2Shell flaws. The new issue, assigned CVE-2026-115560, affects only web applications configured in an unusual...",
-      "url": "https://thehackernews.com/2026/10/urgent-php-warns-of-another-unpatched.html",
-      "date": "2026-10-23T11:25:43Z"
-    },
-    {
-      "title": "Russian-Linked Hackers Used New Mesh Network Backdoor in Destructive Ukraine Attack",
-      "description": "[FEEDS] The Russian state-sponsored hacking group Sandworm teamed up with another threat actor to carry out a destructive wiping attack targeting a Ukrainian logistics company last year. According to ESET, the attack involved UAC-0099 (aka Earth Sirrush)...",
-      "url": "https://thehackernews.com/2026/10/russian-linked-hackers-used-new-mesh.html",
-      "date": "2026-10-23T11:11:23Z"
-    },
-    {
-      "title": "Compromised TLS Certificates",
-      "description": "[SCHNEIER] The Indian CA eMudhra Limited has eight TLS certificates with laughably weak private keys: The compromised eMudhra keys were defective at a level that\u2019s challenging the imagination of many of the engineers studying the incident. A normal size for a...",
-      "url": "https://www.schneier.com/blog/archives/2026/10/compromised-tls-certificates.html",
-      "date": "2026-10-23T11:04:22Z"
-    },
-    {
-      "title": "ISC Stormcast For Friday, October 23rd, 2026 https://isc.sans.edu/podcastdetail/10148, (Fri, Oct 23rd)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33448",
-      "date": "2026-10-23T10:25:11Z"
-    },
-    {
-      "title": "Critical Flaw in Python\u2019s Popular Pillow Image Library Allows Code Execution via a Crafted Image",
-      "description": "[FEEDS] Pillow, the most widely used image library for Python, can be made to run operating system commands on a server by specifying the name of a file it is told to open. The flaw,&nbsp;CVE-2026-112900, is in the way Pillow handles EPS images, which it...",
-      "url": "https://thehackernews.com/2026/10/critical-flaw-in-pythons-popular-pillow.html",
-      "date": "2026-10-23T09:36:00Z"
-    },
-    {
-      "title": "Researchers Demonstrate Node2Shell RCE Exploit on Node.js Build Using Crafted Brotli Data",
-      "description": "[FEEDS] Malicious Brotli data can make an application on an official build of Node.js run attacker-supplied code, security researchers at Imperva have&nbsp;demonstrated. Their \"Node2Shell\" proof of concept ran code on the official Node.js 24.22.0 image for...",
-      "url": "https://thehackernews.com/2026/10/researchers-demonstrate-node2shell-rce.html",
-      "date": "2026-10-23T08:40:43Z"
-    },
-    {
-      "title": "Critical x402 SDK Flaw Could Let Malicious APIs Drain AI Agents\u2019 Token Balances",
-      "description": "[FEEDS] AI agents paying for API calls with the&nbsp;x402 SDKs&nbsp;could sign a payment for their full balance of a supported token if a malicious API asked for it,&nbsp;security firm V12 said&nbsp;on October 22. The cause was the SDKs' default client,...",
-      "url": "https://thehackernews.com/2026/10/critical-x402-sdk-flaw-could-let.html",
-      "date": "2026-10-23T08:35:45Z"
-    },
-    {
-      "title": "eMudhra shuts global website certificate business after key flaws exposed, calls scrutiny \u2018disproportionate\u2019",
-      "description": "[HINDUSTAN TIMES] The vulnerabilities came to light after an independent cybersecurity researcher discovered that several of eMudhra's key certificates could be attacked. | India News",
-      "url": "https://www.hindustantimes.com/india-news/emudhra-shuts-global-website-certificate-business-after-key-flaws-exposed-calls-scrutiny-disproportionate-101792717595666.html",
-      "date": "2026-10-23T01:38:26Z"
-    },
-    {
-      "title": "What is PHP, and how did a flaw in its code lead several websites to go dark this week?",
-      "description": "[CBC.CA] PHP is an open-source computer language that powers an estimated 70 per cent of the internet. While websites being taken offline caused alarm, that was done to implement a fix \u2014 which cybersecurity experts say show the system for remedying such...",
-      "url": "https://www.cbc.ca/news/business/php-cybersecurity-vulnerability-explainer-9.7392394",
-      "date": "2026-10-23T00:29:08Z"
-    },
-    {
-      "title": "Police departments suspend tip line",
-      "description": "[CP24 TORONTO] A cybersecurity breach involving a platform used by Crime Stoppers exposed nearly 180,000 tips and 15,000 associated names, leading to several police departments suspending or restricting use of the platform.",
-      "url": "https://www.cp24.com/news/canada/2026/10/22/crime-stoppers-breach-raises-fears-for-tipsters-as-police-suspend-use-of-hacked-platform/",
-      "date": "2026-10-22T22:34:08Z"
-    },
-    {
-      "title": "More than 50,000 warnings sent to UK organisations over 'extremely serious' cybersecurity threat",
-      "description": "[ITV NEWS] There are 32 UK government services offline due to the critical security flaw in the programming language PHP, used by the majority of websites worldwide. | ITV National News",
-      "url": "https://www.itv.com/news/2026-10-22/more-than-30-government-services-offline-amid-global-php-cybersecurity-threat",
-      "date": "2026-10-22T22:27:54Z"
-    },
-    {
-      "title": "PHP security flaws trigger global scramble; CERT-In flags vulnerabilities",
-      "description": "[TIMES OF INDIA] BENGALURU: It has been a difficult day for cybersecurity, with critical vulnerabilities in PHP triggering an urgent global patching effort, millions of",
-      "url": "https://timesofindia.indiatimes.com/business/international-business/php-security-flaws-trigger-global-scramble/articleshow/135127762.cms",
-      "date": "2026-10-22T22:17:00Z"
-    },
-    {
-      "title": "Indian Patch Patrol Sets Out to Resolve PHP Risk",
-      "description": "[THE ECONOMIC TIMES] Indian organisations are scrambling to secure their systems after two critical vulnerabilities in PHP\u2014the programming language powering 70% of the web\u2014sparked a global cybersecurity panic.",
-      "url": "https://economictimes.indiatimes.com/epaper/delhicapital/2026/oct/23/et-front/indian-patch-patrol-setsout-to-resolve-php-risk/articleshow/135128152.cms",
-      "date": "2026-10-22T22:12:00Z"
-    },
-    {
-      "title": "Indian Patch Patrol Sets Out to Resolve PHP Risk",
-      "description": "[THE ECONOMIC TIMES] Indian organisations are scrambling to secure their systems after two critical vulnerabilities in PHP\u2014the programming language powering 70% of the web\u2014sparked a global cybersecurity panic.",
-      "url": "https://economictimes.indiatimes.com/et-front/indian-patch-patrol-setsout-to-resolve-php-risk/articleshow/135128152.cms",
-      "date": "2026-10-22T22:12:00Z"
-    },
-    {
-      "title": "Hackers struggle to exploit PHP flaws after cybersecurity crisis",
-      "description": "[NBC NEWS] There were few, if any, reports of widespread damage by hackers exploiting PHP flaws, experts said, one day after officials warned of severe vulnerabilities.",
-      "url": "https://www.nbcnews.com/tech/security/hackers-php-flaws-cybersecurity-crisis-rcna605112",
-      "date": "2026-10-22T22:07:15Z"
-    },
-    {
-      "title": "WCSD's reporting app breached, families alerted",
-      "description": "[RENO GAZETTE-JOURNAL] A data breach may have exposed personal information from some SafeVoice reports, prompting warnings to Washoe County families.",
-      "url": "https://www.rgj.com/story/news/education/2026/10/22/wcsds-reporting-app-breached-families-alerted/92384398007/",
-      "date": "2026-10-22T22:07:12Z"
-    },
-    {
-      "title": "Hackers appear to be struggling to exploit PHP flaws after global cybersecurity crisis",
-      "description": "[NEWSBREAK] One day after governments around the world warned that newly publicized software vulnerabilities were so severe that websites should consider going offline",
-      "url": "https://www.newsbreak.com/nbc-news-510074/4961659714467-hackers-appear-to-be-struggling-to-exploit-php-flaws-after-global-cybersecurity-crisis",
-      "date": "2026-10-22T22:07:00Z"
-    },
-    {
-      "title": "Railway warns devs to rotate secrets after potential breach",
-      "description": "[BLEEPINGCOMPUTER] Cloud platform Railway published an urgent warning to users after detecting suspicious activity on its systems that store customer environment variables earlier this week. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/railway-warns-devs-to-rotate-secrets-after-potential-breach/",
-      "date": "2026-10-22T21:25:31Z"
-    },
-    {
-      "title": "Capcom confirms data breach affecting 11.7 million accounts",
-      "description": "[BLEEPINGCOMPUTER] Japanese gaming giant Capcom has confirmed that hackers breached its membership service, CAPCOM ID, exposing more than 11.7 million customer email addresses and associated information. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/capcom-confirms-data-breach-affecting-117-million-accounts/",
-      "date": "2026-10-22T20:22:45Z"
-    },
-    {
-      "title": "LiteLLM release pipeline hacked to distribute info-stealer malware",
-      "description": "[BLEEPINGCOMPUTER] Hackers compromised the LiteLLM project's PyPI package and published malicious Docker images with a payload that steals credentials, secrets, and environment variables. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/litellm-release-pipeline-hacked-to-distribute-info-stealer-malware/",
-      "date": "2026-10-22T19:12:51Z"
-    },
-    {
-      "title": "Arista patches new VeloCloud Orchestrator zero-day exploited in attacks",
-      "description": "[BLEEPINGCOMPUTER] Arista Networks released security updates to patch an actively exploited zero-day vulnerability affecting VeloCloud Orchestrator (VCO) On-Prem deployments. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/arista-patches-new-velocloud-orchestrator-zero-day-exploited-in-attacks/",
-      "date": "2026-10-22T17:18:22Z"
-    },
-    {
-      "title": "New Serious PHP Vulnerabilities Released and Patched",
-      "description": "[SCHNEIER] PHP maintainers have released fixes for two critical vulnerabilities: PHP 8.5.12, 8.4.27, 8.3.36 and 8.2.35 fix two critical vulnerabilities that can allow unauthenticated remote code execution. All PHP users are strongly encouraged to update...",
-      "url": "https://www.schneier.com/blog/archives/2026/10/new-serious-php-vulnerabilities-released-and-patched.html",
-      "date": "2026-10-22T13:26:51Z"
-    },
-    {
-      "title": "ISC Stormcast For Thursday, October 22nd, 2026 https://isc.sans.edu/podcastdetail/10146, (Thu, Oct 22nd)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33446",
-      "date": "2026-10-22T02:00:02Z"
-    },
-    {
-      "title": "Critical PHP Vulnerability (CVE-2026-109618, CVE-2026-109619) &#x5b;infocon yellow&#x5d;, (Wed, Oct 21st)",
-      "description": "[ISC] PHP.net announced that it will release a critical update today. We decided to change the infoCon to YELLOW due to the widespread use of PHP, the expected severity of the flaw (CVSS 9.4), and the availability of early PoC exploits before the patch...",
-      "url": "https://isc.sans.edu/diary/rss/33440",
-      "date": "2026-10-21T21:02:43Z"
-    },
-    {
-      "title": "Critical Vulnerabilities in PHP Require Immediate Patching",
-      "description": "[CISA] CISA strongly urges organizations to immediately patch the recently disclosed critical vulnerabilities in PHP, CVE-2026-109618 and CVE-2026-109619. These vulnerabilities, known as \u201cphp2shell,\u201d allow for unauthenticated remote code execution in PHP...",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/10/21/critical-vulnerabilities-php-require-immediate-patching",
-      "date": "2026-10-21T12:00:00Z"
-    },
-    {
-      "title": "Workshop on Economics and Information Security (WEIS) Archive",
-      "description": "[SCHNEIER] There&#8217;s a new archive of all the papers from twenty-five years of the Workshop on Economics and Information Security (WEIS). Really nice resource. It&#8217;s fun to reread my 2002 essay on the economics of information security.",
-      "url": "https://www.schneier.com/blog/archives/2026/10/workshop-on-economics-and-information-security-weis-archive.html",
-      "date": "2026-10-21T11:02:22Z"
-    },
-    {
-      "title": "ISC Stormcast For Wednesday, October 21st, 2026 https://isc.sans.edu/podcastdetail/10144, (Wed, Oct 21st)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33438",
-      "date": "2026-10-21T02:00:03Z"
-    },
-    {
-      "title": "CISA Adds Six Known Exploited Vulnerabilities to Catalog",
-      "description": "[CISA] CISA has added six new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-96652 Plex Media Server Server-Side Request Forgery (SSRF) Vulnerability CVE-2026-96654 Plex Media Server...",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/10/20/cisa-adds-six-known-exploited-vulnerabilities-catalog",
-      "date": "2026-10-20T12:00:00Z"
-    },
-    {
-      "title": "Possible new Cellebrite iPhone Radio Zero-Day",
-      "description": "[SCHNEIER] Justin.sh is reporting on a confidential Cellebrite document that has been leaked to him: Cellebrite calls it Advanced Unlocks (AU from here on), not to be confused with the &#8220;advanced unlocking services&#8221; they&#8217;ve marketed for years....",
-      "url": "https://www.schneier.com/blog/archives/2026/10/possible-new-cellebrite-iphone-radio-zero-day.html",
-      "date": "2026-10-20T11:03:13Z"
-    },
-    {
-      "title": "ISC Stormcast For Tuesday, October 20th, 2026 https://isc.sans.edu/podcastdetail/10142, (Tue, Oct 20th)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33436",
-      "date": "2026-10-20T02:00:03Z"
-    },
-    {
-      "title": "Training AIs to Solve CAPTCHAs",
-      "description": "[SCHNEIER] Interesting research: Abstract: Vision-language models (VLMs) can solve visual CAPTCHAs without task-specific training, but the agents built on them approach every challenge from scratch. For such an agent, the hundredth instance of a familiar...",
-      "url": "https://www.schneier.com/blog/archives/2026/10/training-ais-to-solve-captchas.html",
-      "date": "2026-10-19T11:07:43Z"
-    },
-    {
-      "title": "Friday Squid Blogging: Squid Before the Chicxulub Meteor Impact",
-      "description": "[SCHNEIER] New research shows that squid lived all around the globe even before the Cretaceous-Paleogene mass extinction event. As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered. Blog...",
-      "url": "https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-squid-before-the-chicxulub-meteor-impact.html",
-      "date": "2026-10-16T21:06:47Z"
-    },
-    {
-      "title": "CISA Urges Patching Critical Vulnerability in BeyondTrust Remote Support",
-      "description": "[CISA] CISA is aware of critical authentication bypass vulnerability CVE-2026-102764, affecting BeyondTrust Remote Support (formerly Bomgar) versions 26.2.3 and earlier. Patches are available for supported versions (24.3.1 and later); organizations using...",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/10/16/cisa-urges-patching-critical-vulnerability-beyondtrust-remote-support",
-      "date": "2026-10-16T12:00:00Z"
-    },
-    {
-      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
-      "description": "[CISA] CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-61624 Fortinet Multiple Products Path Traversal Vulnerability CVE-2026-102764 BeyondTrust Remote Support...",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/10/16/cisa-adds-two-known-exploited-vulnerabilities-catalog",
-      "date": "2026-10-16T12:00:00Z"
-    },
-    {
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "description": "[CISA] CISA has added one new vulnerability to its&nbsp;Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-21589 Atlassian Multiple Products Files or Directories Accessible to External Parties...",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/10/15/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "date": "2026-10-15T12:00:00Z"
-    },
-    {
-      "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
-      "description": "[CISA] CISA has added four new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation.&nbsp; CVE-2026-0322 Palo Alto Networks PAN-OS Code Injection Vulnerability&nbsp; CVE-2026-76519 Cisco Secure...",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/10/14/cisa-adds-four-known-exploited-vulnerabilities-catalog",
-      "date": "2026-10-14T12:00:00Z"
-    }
-  ]
+    "title": "Sentinel Protocol",
+    "tagline": "Perimeter Intelligence Sync",
+    "updated": "2026-10-23 15:36 UTC",
+    "news": [
+        {
+            "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            "author": "Sead Fadilpa\u0161i\u0107",
+            "title": "Security breach at AI aggregator exposes over 18 million files, including some very embarrassing chat records",
+            "description": "An AI aggregator kept an open database unprotected on the internet containing personally identifiable information and some embarassing chat logs.",
+            "url": "https://www.techradar.com/pro/security/security-breach-at-ai-aggregator-exposes-over-18-million-files-including-some-very-embarrassing-chat-records",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/2GxzxstGJJpm8aJiATXE26-2560-80.jpg",
+            "publishedAt": "2026-10-22T15:35:00Z",
+            "content": "<ul><li>Researchers found 22.7TB of exposed data from AI aggregator 302.ai, including chat logs and personal information</li><li>Leaked records contained user prompts, AI responses, metadata, and sen\u2026 [+4233 chars]"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "ET Spotlight",
+            "title": "Bridging the AI production gap: Over 100,000 Indian engineers trained to build with Gemini",
+            "description": "India is seeing a significant shift in its technology workforce towards enterprise AI integration and solutions. The Build with Gemini initiative has trained over 100,000 developers and architects across several major organizations. This transition emphasizes\u2026",
+            "url": "https://economictimes.indiatimes.com/tech/technology/bridging-the-ai-production-gap-over-100000-indian-engineers-trained-to-build-with-gemini/articleshow/135122014.cms",
+            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-168642,resizemode-75,msid-135122014/tech/technology/bridging-the-ai-production-gap-over-100000-indian-engineers-trained-to-build-with-gemini.jpg",
+            "publishedAt": "2026-10-22T15:31:14Z",
+            "content": "As businesses move from exploring artificial intelligence to integrating it into everyday operations, the demand for professionals who can build, deploy and scale AI solutions is growing. This shift \u2026 [+11731 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Wccftech"
+            },
+            "author": "Rohail Saleem",
+            "title": "DeepSeek\u2019s V4.1-Flash-1017 Model Just Built An Exploit That Escapes Chrome\u2019s Sandbox, As The AI-Driven Assault On The Open Web Goes On An Overdrive",
+            "description": "DeepSeek is the poster child of China's ongoing AI revolution, and its latest model, dubbed the V4.1-Flash-1017, while still not at par with Anthropic's Fable or OpenAI's Astra, is certainly good enough to find hidden vulnerabilities and then build exploits o\u2026",
+            "url": "https://wccftech.com/deepseeks-v4-1-flash-1017-model-just-built-an-exploit-that-escapes-chromes-sandbox-as-the-ai-driven-assault-on-the-open-web-goes-on-an-overdrive/",
+            "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2026/10/DeepSeek-V4.1-Flash-1017-1-1920x1442.jpg",
+            "publishedAt": "2026-10-22T15:30:51Z",
+            "content": "DeepSeek is the poster child of China's ongoing AI revolution, and its latest model, dubbed the V4.1-Flash-1017, while still not at par with Anthropic's Fable or OpenAI's Astra, is certainly good eno\u2026 [+4337 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Biztoc.com"
+            },
+            "author": "theguardian.com",
+            "title": "Websites across world hit by millions of attempts to exploit PHP code flaw",
+            "description": "Websites around the world have been hit by millions of attempts to exploit a recently discovered vulnerability in their code, cybersecurity companies have said, as the US National Security Agency warned the flaw could allow attackers to take control of web se\u2026",
+            "url": "https://biztoc.com/x/bc679c9ecbd735c5",
+            "urlToImage": "https://biztoc.com/cdn/bc679c9ecbd735c5_s.webp",
+            "publishedAt": "2026-10-22T15:29:38Z",
+            "content": "Websites around the world have been hit by millions of attempts to exploit a recently discovered vulnerability in their code, cybersecurity companies have said, as the US National Security Agency war\u2026 [+157 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Biztoc.com"
+            },
+            "author": "foxnews.com",
+            "title": "AI's future hinges on public safety concern, cybersecurity, regulatory work in Congress",
+            "description": "Walmart unveils tools to let AI agents shop for customers\nWalmart announced a suite of new tools designed to allow autonomous AI agents to search products and make purchases on behalf of shoppers.\nThe move signals a major push into agentic e-commerce, drawing\u2026",
+            "url": "https://biztoc.com/x/53a0b8545b978218",
+            "urlToImage": "https://biztoc.com/cdn/53a0b8545b978218_s.webp",
+            "publishedAt": "2026-10-22T15:28:20Z",
+            "content": "Walmart unveils tools to let AI agents shop for customersWalmart announced a suite of new tools designed to allow autonomous AI agents to search products and make purchases on behalf of shoppers.The \u2026 [+144 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BusinessLine"
+            },
+            "author": "Sanjana B",
+            "title": "A crack in the code: PHP flaws raise cyber risks for Indian firms",
+            "description": "Experts urge businesses to patch vulnerable systems amid rising risks of cyberattacks",
+            "url": "https://www.thehindubusinessline.com/info-tech/a-crack-in-the-code-php-flaws-raise-cyber-risks-for-indian-firms/article71612444.ece",
+            "urlToImage": "https://bl-i.thgim.com/public/incoming/9hogfc/article71612563.ece/alternates/LANDSCAPE_1200/PHP_Software_Vulnerablility_JX.png",
+            "publishedAt": "2026-10-22T15:27:59Z",
+            "content": "Indian businesses that rely on PHP-powered websites and applications face potential risks after two critical vulnerabilities in the widely used programming language prompted CERT-In to issue a securi\u2026 [+6963 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Terrence O\u2019Brien",
+            "title": "PHP: The three little letters wreaking havoc across the web",
+            "description": "Two vulnerabilities found in the programming language PHP put enormous swaths of the internet in danger. By some accounts, up to 70 percent of websites use PHP in some capacity. It powers Wikipedia, WordPress, Drupal, and a host of other popular sites and pla\u2026",
+            "url": "https://www.theverge.com/tech/1016574/php2shell-security-vulnerability-websites-down",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/VRG_ILLO_STK001_carlo_cadenas_cybersecurity_virus.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-10-22T15:21:10Z",
+            "content": "Two vulnerabilities found in the programming language PHP put enormous swaths of the internet in danger.\r\nBy some accounts, up to 70 percent of websites use PHP in some capacity. It powers Wikipedia,\u2026 [+3507 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Biztoc.com"
+            },
+            "author": "cbsnews.com",
+            "title": "What to know about the PHP bug affecting 70% of world's websites",
+            "description": "Cybersecurity researchers used an advanced OpenAI artificial intelligence model to identify a longstanding internet vulnerability before hackers could exploit it.\nThat security weakness affects a programming language called PHP, short for \"Personal Home Page,\u2026",
+            "url": "https://biztoc.com/x/8e8a4052e540ba32",
+            "urlToImage": "https://biztoc.com/cdn/8e8a4052e540ba32_s.webp",
+            "publishedAt": "2026-10-22T15:12:49Z",
+            "content": "Cybersecurity researchers used an advanced OpenAI artificial intelligence model to identify a longstanding internet vulnerability before hackers could exploit it.That security weakness affects a prog\u2026 [+143 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Megan  Cerullo",
+            "title": "What to know about the PHP bug affecting 70% of world's websites",
+            "description": "AI was used to uncover a security weakness that affects most of the world's websites, researchers said. Here's what internet users should know.",
+            "url": "https://www.cbsnews.com/news/php2shell-vulnerability-ai-security-flaw/",
+            "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/10/21/4dc94f7b-099e-49e9-bb23-e708b20d29cb/thumbnail/1200x630/e4b2f01f8f0f92baa500c72193c9c592/gettyimages-2241194842.jpg",
+            "publishedAt": "2026-10-22T15:11:01Z",
+            "content": "Cybersecurity researchers used an advanced OpenAI artificial intelligence model to identify a longstanding internet vulnerability before hackers could exploit it.\r\nThat security weakness affects a pr\u2026 [+4753 chars]"
+        },
+        {
+            "source": {
+                "id": "financial-post",
+                "name": "Financial Post"
+            },
+            "author": "Business Wire",
+            "title": "Leading Academic Institutions Explore the Value of Integrating ISACA Credentials",
+            "description": "Upcoming webinar to further expand upon themes addressed during recent UPCEA Conference SCHAUMBURG, Ill. \u2014 Academic leaders from institutions across North America recently gathered at the UPCEA conference 2026 Convergence: Credential Innovation in Higher Educ\u2026",
+            "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/leading-academic-institutions-explore-the-value-of-integrating-isaca-credentials",
+            "urlToImage": null,
+            "publishedAt": "2026-10-22T15:03:32Z",
+            "content": "Upcoming webinar to further expand upon themes addressed during recent UPCEA Conference\r\nTHIS CONTENT IS RESERVED FOR SUBSCRIBERS ONLY\r\nSubscribe now to read the latest news in your city and across C\u2026 [+5777 chars]"
+        }
+    ]
 }
