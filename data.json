@@ -1,17 +1,131 @@
 {
-  "updated": "2026-10-23 08:56:14 UTC",
+  "updated": "2026-10-23 14:32:00 UTC",
   "news": [
+    {
+      "title": "You gave your AI agent access, but who is giving it orders?",
+      "description": "[BLEEPINGCOMPUTER] AI agents can be manipulated through malicious emails, websites, and plugins into executing commands, stealing data, or deleting files using their legitimate permissions. Gen Digital explains how its Agent Trust Hub helps protect agents through...",
+      "url": "https://www.bleepingcomputer.com/news/security/you-gave-your-ai-agent-access-but-who-is-giving-it-orders/",
+      "date": "2026-10-23T14:00:10Z"
+    },
+    {
+      "title": "Hackers Breach Enterprise Firewalls and VPNs, Exposing Over 70,000 Credentials",
+      "description": "[FEEDS] Cybersecurity researchers have disclosed details of a large-scale campaign that has targeted exposed network edge devices such as Fortinet FortiGate and Palo Alto Networks GlobalProtect firewalls. \"Artifacts from this investigation also indicate...",
+      "url": "https://thehackernews.com/2026/10/hackers-breach-enterprise-firewalls-and.html",
+      "date": "2026-10-23T13:50:56Z"
+    },
+    {
+      "title": "PHP Vulnerability Wrap-Up, (Fri, Oct 23rd)",
+      "description": "[ISC] This morning, we returned to Infocon Green. As usual, we are raising the Infocon to alert you to emerging situations requiring immediate attention. PHP fit that description. By now, you either know about it, or you probably never will, so it is time...",
+      "url": "https://isc.sans.edu/diary/rss/33450",
+      "date": "2026-10-23T13:43:20Z"
+    },
+    {
+      "title": "HPE patches eight max severity RCE and auth bypass AOS flaws",
+      "description": "[BLEEPINGCOMPUTER] Hewlett Packard Enterprise (HPE) released security updates to patch 72 vulnerabilities in the Aruba Operating System (ArubaOS), including eight maximum-severity authentication bypass and code execution issues. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/hpe-patches-eight-max-severity-rce-and-auth-bypass-aos-flaws/",
+      "date": "2026-10-23T12:48:00Z"
+    },
+    {
+      "title": "PHP Warns of Another Unpatched RCE Two Days After Emergency PHP2Shell Patches",
+      "description": "[FEEDS] PHP has warned of another way an attacker could run code on a web server, two days after it shipped emergency fixes for the critical PHP2Shell flaws. The new issue, assigned CVE-2026-115560, affects only web applications configured in an unusual...",
+      "url": "https://thehackernews.com/2026/10/urgent-php-warns-of-another-unpatched.html",
+      "date": "2026-10-23T11:25:43Z"
+    },
+    {
+      "title": "Russian-Linked Hackers Used New Mesh Network Backdoor in Destructive Ukraine Attack",
+      "description": "[FEEDS] The Russian state-sponsored hacking group Sandworm teamed up with another threat actor to carry out a destructive wiping attack targeting a Ukrainian logistics company last year. According to ESET, the attack involved UAC-0099 (aka Earth Sirrush)...",
+      "url": "https://thehackernews.com/2026/10/russian-linked-hackers-used-new-mesh.html",
+      "date": "2026-10-23T11:11:23Z"
+    },
+    {
+      "title": "Compromised TLS Certificates",
+      "description": "[SCHNEIER] The Indian CA eMudhra Limited has eight TLS certificates with laughably weak private keys: The compromised eMudhra keys were defective at a level that\u2019s challenging the imagination of many of the engineers studying the incident. A normal size for a...",
+      "url": "https://www.schneier.com/blog/archives/2026/10/compromised-tls-certificates.html",
+      "date": "2026-10-23T11:04:22Z"
+    },
+    {
+      "title": "ISC Stormcast For Friday, October 23rd, 2026 https://isc.sans.edu/podcastdetail/10148, (Fri, Oct 23rd)",
+      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
+      "url": "https://isc.sans.edu/diary/rss/33448",
+      "date": "2026-10-23T10:25:11Z"
+    },
+    {
+      "title": "Critical Flaw in Python\u2019s Popular Pillow Image Library Allows Code Execution via a Crafted Image",
+      "description": "[FEEDS] Pillow, the most widely used image library for Python, can be made to run operating system commands on a server by specifying the name of a file it is told to open. The flaw,&nbsp;CVE-2026-112900, is in the way Pillow handles EPS images, which it...",
+      "url": "https://thehackernews.com/2026/10/critical-flaw-in-pythons-popular-pillow.html",
+      "date": "2026-10-23T09:36:00Z"
+    },
     {
       "title": "Researchers Demonstrate Node2Shell RCE Exploit on Node.js Build Using Crafted Brotli Data",
       "description": "[FEEDS] Malicious Brotli data can make an application on an official build of Node.js run attacker-supplied code, security researchers at Imperva have&nbsp;demonstrated. Their \"Node2Shell\" proof of concept ran code on the official Node.js 24.22.0 image for...",
       "url": "https://thehackernews.com/2026/10/researchers-demonstrate-node2shell-rce.html",
-      "date": "2026-10-23T07:50:01Z"
+      "date": "2026-10-23T08:40:43Z"
     },
     {
-      "title": "PHP2Shell Exploit Attempts Hit Millions as Attackers Try to Deploy Mirai Malware",
-      "description": "[FEEDS] Threat actors have been observed unsuccessfully attempting to exploit the newly disclosed PHP2Shell vulnerabilities to rope infected systems into a Mirai botnet variant called Potassium, as it emerges that weaponizing the flaws may be harder than...",
-      "url": "https://thehackernews.com/2026/10/php2shell-exploit-attempts-hit-millions.html",
-      "date": "2026-10-23T07:40:45Z"
+      "title": "Critical x402 SDK Flaw Could Let Malicious APIs Drain AI Agents\u2019 Token Balances",
+      "description": "[FEEDS] AI agents paying for API calls with the&nbsp;x402 SDKs&nbsp;could sign a payment for their full balance of a supported token if a malicious API asked for it,&nbsp;security firm V12 said&nbsp;on October 22. The cause was the SDKs' default client,...",
+      "url": "https://thehackernews.com/2026/10/critical-x402-sdk-flaw-could-let.html",
+      "date": "2026-10-23T08:35:45Z"
+    },
+    {
+      "title": "eMudhra shuts global website certificate business after key flaws exposed, calls scrutiny \u2018disproportionate\u2019",
+      "description": "[HINDUSTAN TIMES] The vulnerabilities came to light after an independent cybersecurity researcher discovered that several of eMudhra's key certificates could be attacked. | India News",
+      "url": "https://www.hindustantimes.com/india-news/emudhra-shuts-global-website-certificate-business-after-key-flaws-exposed-calls-scrutiny-disproportionate-101792717595666.html",
+      "date": "2026-10-23T01:38:26Z"
+    },
+    {
+      "title": "What is PHP, and how did a flaw in its code lead several websites to go dark this week?",
+      "description": "[CBC.CA] PHP is an open-source computer language that powers an estimated 70 per cent of the internet. While websites being taken offline caused alarm, that was done to implement a fix \u2014 which cybersecurity experts say show the system for remedying such...",
+      "url": "https://www.cbc.ca/news/business/php-cybersecurity-vulnerability-explainer-9.7392394",
+      "date": "2026-10-23T00:29:08Z"
+    },
+    {
+      "title": "Police departments suspend tip line",
+      "description": "[CP24 TORONTO] A cybersecurity breach involving a platform used by Crime Stoppers exposed nearly 180,000 tips and 15,000 associated names, leading to several police departments suspending or restricting use of the platform.",
+      "url": "https://www.cp24.com/news/canada/2026/10/22/crime-stoppers-breach-raises-fears-for-tipsters-as-police-suspend-use-of-hacked-platform/",
+      "date": "2026-10-22T22:34:08Z"
+    },
+    {
+      "title": "More than 50,000 warnings sent to UK organisations over 'extremely serious' cybersecurity threat",
+      "description": "[ITV NEWS] There are 32 UK government services offline due to the critical security flaw in the programming language PHP, used by the majority of websites worldwide. | ITV National News",
+      "url": "https://www.itv.com/news/2026-10-22/more-than-30-government-services-offline-amid-global-php-cybersecurity-threat",
+      "date": "2026-10-22T22:27:54Z"
+    },
+    {
+      "title": "PHP security flaws trigger global scramble; CERT-In flags vulnerabilities",
+      "description": "[TIMES OF INDIA] BENGALURU: It has been a difficult day for cybersecurity, with critical vulnerabilities in PHP triggering an urgent global patching effort, millions of",
+      "url": "https://timesofindia.indiatimes.com/business/international-business/php-security-flaws-trigger-global-scramble/articleshow/135127762.cms",
+      "date": "2026-10-22T22:17:00Z"
+    },
+    {
+      "title": "Indian Patch Patrol Sets Out to Resolve PHP Risk",
+      "description": "[THE ECONOMIC TIMES] Indian organisations are scrambling to secure their systems after two critical vulnerabilities in PHP\u2014the programming language powering 70% of the web\u2014sparked a global cybersecurity panic.",
+      "url": "https://economictimes.indiatimes.com/epaper/delhicapital/2026/oct/23/et-front/indian-patch-patrol-setsout-to-resolve-php-risk/articleshow/135128152.cms",
+      "date": "2026-10-22T22:12:00Z"
+    },
+    {
+      "title": "Indian Patch Patrol Sets Out to Resolve PHP Risk",
+      "description": "[THE ECONOMIC TIMES] Indian organisations are scrambling to secure their systems after two critical vulnerabilities in PHP\u2014the programming language powering 70% of the web\u2014sparked a global cybersecurity panic.",
+      "url": "https://economictimes.indiatimes.com/et-front/indian-patch-patrol-setsout-to-resolve-php-risk/articleshow/135128152.cms",
+      "date": "2026-10-22T22:12:00Z"
+    },
+    {
+      "title": "Hackers struggle to exploit PHP flaws after cybersecurity crisis",
+      "description": "[NBC NEWS] There were few, if any, reports of widespread damage by hackers exploiting PHP flaws, experts said, one day after officials warned of severe vulnerabilities.",
+      "url": "https://www.nbcnews.com/tech/security/hackers-php-flaws-cybersecurity-crisis-rcna605112",
+      "date": "2026-10-22T22:07:15Z"
+    },
+    {
+      "title": "WCSD's reporting app breached, families alerted",
+      "description": "[RENO GAZETTE-JOURNAL] A data breach may have exposed personal information from some SafeVoice reports, prompting warnings to Washoe County families.",
+      "url": "https://www.rgj.com/story/news/education/2026/10/22/wcsds-reporting-app-breached-families-alerted/92384398007/",
+      "date": "2026-10-22T22:07:12Z"
+    },
+    {
+      "title": "Hackers appear to be struggling to exploit PHP flaws after global cybersecurity crisis",
+      "description": "[NEWSBREAK] One day after governments around the world warned that newly publicized software vulnerabilities were so severe that websites should consider going offline",
+      "url": "https://www.newsbreak.com/nbc-news-510074/4961659714467-hackers-appear-to-be-struggling-to-exploit-php-flaws-after-global-cybersecurity-crisis",
+      "date": "2026-10-22T22:07:00Z"
     },
     {
       "title": "Railway warns devs to rotate secrets after potential breach",
@@ -20,22 +134,10 @@
       "date": "2026-10-22T21:25:31Z"
     },
     {
-      "title": "Toronto chair speaks out",
-      "description": "[CP24 TORONTO] The chair of Toronto Crime Stoppers says the data breach that stole more than 176,000 tips has been \u201cdevastating\u201d for the program as well as for the public and police partners who relied on the anonymous tip line for decades.",
-      "url": "https://www.cp24.com/local/toronto/2026/10/22/toronto-crime-stoppers-chair-devastated-about-data-breach-says-pausing-program-is-right-decision/",
-      "date": "2026-10-22T20:45:01Z"
-    },
-    {
       "title": "Capcom confirms data breach affecting 11.7 million accounts",
       "description": "[BLEEPINGCOMPUTER] Japanese gaming giant Capcom has confirmed that hackers breached its membership service, CAPCOM ID, exposing more than 11.7 million customer email addresses and associated information. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/capcom-confirms-data-breach-affecting-117-million-accounts/",
       "date": "2026-10-22T20:22:45Z"
-    },
-    {
-      "title": "PHP Attacks: AI Giveth Global Cyber Security, AI Taketh Global Cyber Security",
-      "description": "[SEEKING ALPHA] Massive AI cyberattacks exposed internet vulnerabilities, boosting cybersecurity and AI investment. Click for a look at the current state of the market and where it may be headed.",
-      "url": "https://seekingalpha.com/article/4956605-php-attacks-ai-giveth-global-cyber-security-ai-taketh-global-cyber-security",
-      "date": "2026-10-22T19:37:14Z"
     },
     {
       "title": "LiteLLM release pipeline hacked to distribute info-stealer malware",
@@ -44,88 +146,10 @@
       "date": "2026-10-22T19:12:51Z"
     },
     {
-      "title": "RBI asks banks, payment firms to forensically clear tech environments in case of a data breach",
-      "description": "[THE ECONOMIC TIMES] The RBI has asked financial entities to remove management and administrative interfaces from public internet access, enforce multi-factor authentication for administrative access, and restrict access to cloud and backend systems on a least-privilege...",
-      "url": "https://economictimes.indiatimes.com/news/economy/policy/rbi-asks-banks-payment-firms-to-forensically-clear-tech-environments-in-case-of-a-data-breach/articleshow/135126425.cms",
-      "date": "2026-10-22T19:07:00Z"
-    },
-    {
-      "title": "The AI Agent Nobody Owns: Watch Expert Webinar On Your Newest Insider Threat",
-      "description": "[FEEDS] Right now, there is probably an AI agent running on a laptop somewhere in your network. It stores API keys and database passwords, can access your internal systems, and works without anyone watching. Nobody reviewed its access. Nobody owns it. If an...",
-      "url": "https://thehackernews.com/2026/10/the-ai-agent-nobody-owns-watch-expert.html",
-      "date": "2026-10-22T19:05:35Z"
-    },
-    {
-      "title": "Arista Warns of Critical VeloCloud SQL Injection Zero-Day Exploited in Attacks",
-      "description": "[FEEDS] Attackers are exploiting a zero-day SQL injection flaw in Arista's VeloCloud Orchestrator (VCO), the&nbsp;central management system&nbsp;for VeloCloud SD-WAN networks, the company said in an&nbsp;advisory&nbsp;on October 22. The flaw lets anyone who...",
-      "url": "https://thehackernews.com/2026/10/arista-warns-of-critical-velocloud-sql.html",
-      "date": "2026-10-22T19:05:17Z"
-    },
-    {
-      "title": "Streeting urges households to stockpile for crisis as UK under threat from 'increasingly sophisticated cyber attacks'",
-      "description": "[LBC] A fresh raft of guidance will encourage the public to be better prepared for emergencies - as dozens of government services were moved offline due to a cybersecurity issue",
-      "url": "https://www.lbc.co.uk/article/streeting-stockpile-cyber-attacks-5HjdkGc_2/",
-      "date": "2026-10-22T19:00:00Z"
-    },
-    {
-      "title": "Halton cops halt use of Crime Stoppers after data breach",
-      "description": "[TORONTO SUN] Police in Halton have suspended the use of Crime Stoppers a day after it was revealed that the Toronto tip line was hacked. Read more.",
-      "url": "https://torontosun.com/news/local-news/halton-cops-halt-crime-stoppers-data-breach",
-      "date": "2026-10-22T18:53:14Z"
-    },
-    {
-      "title": "General urged to step in as court data breach concerns grow",
-      "description": "[ABC (AUSTRALIAN BROADCASTING CORPORATION)] Pressure is mounting on the Attorney-General to take action over court data breaches after emails reveal the Federal Court CEO was informed about a 2014 breach for which no action was taken.",
-      "url": "https://www.abc.net.au/news/2026-10-23/family-court-data-breach-federal-court-ceo-sia-lagos/107295260",
-      "date": "2026-10-22T18:42:41Z"
-    },
-    {
-      "title": "Cybersecurity expert reveals three things everyone must do after website flaw increases chance of hackers",
-      "description": "[LADBIBLE] Internet users were warned about major security flaws which could gain access to people's personal data",
-      "url": "https://www.ladbible.com/technology/cybersecurity-expert-internet-data-php-safety-736495-20261022",
-      "date": "2026-10-22T18:28:21Z"
-    },
-    {
-      "title": "eMudhra to Exit Global SSL/TLS Business After 8 Intermediate CA Keys Found Easily Guessable",
-      "description": "[FEEDS] eMudhra, an Indian certificate authority (CA), will withdraw from its global SSL/TLS certificate business,&nbsp;its board decided on Thursday. The decision came five days after a researcher&nbsp;reported recovering the private keys&nbsp;of eight of...",
-      "url": "https://thehackernews.com/2026/10/emudhra-to-exit-global-ssltls-business.html",
-      "date": "2026-10-22T18:12:43Z"
-    },
-    {
-      "title": "ThreatsDay: AI Secrets Leak, PingCAP Source Theft, Signal Hang-Up Flaw, Laravel Auth Bypass + 21 More",
-      "description": "[FEEDS] This week has already been rough for cybersecurity. Critical PHP and GitLab RCE flaws, serious Linux security bugs, compromised eMudhra certificates, a Node.js RCE flaw, a hacked LiteLLM release, and hundreds of hijacked Tor relays. That's a lot to...",
-      "url": "https://thehackernews.com/2026/10/threatsday-ai-secrets-leak-pingcap.html",
-      "date": "2026-10-22T17:45:44Z"
-    },
-    {
-      "title": "Toronto Crime Stoppers pauses accepting tips after data breach, Halton also affected",
-      "description": "[SOOTODAY] TORONTO \u2014 Toronto Crime Stoppers has temporarily stopped accepting tips after it says more than 175,000 of them were stolen by hackers earlier this year, alongside nearly 15,000 names.",
-      "url": "https://www.sootoday.com/ontario-news/toronto-crime-stoppers-pauses-accepting-tips-after-data-breach-halton-also-affected-12924311",
-      "date": "2026-10-22T17:29:51Z"
-    },
-    {
-      "title": "Toronto Crime Stoppers pauses accepting tips after data breach, Halton also affected",
-      "description": "[BAYTODAY] TORONTO \u2014 Toronto Crime Stoppers has temporarily stopped accepting tips after it says more than 175,000 of them were stolen by hackers earlier this year, alongside nearly 15,000 names.",
-      "url": "https://www.baytoday.ca/ontario-news/toronto-crime-stoppers-pauses-accepting-tips-after-data-breach-halton-also-affected-12924311",
-      "date": "2026-10-22T17:29:51Z"
-    },
-    {
       "title": "Arista patches new VeloCloud Orchestrator zero-day exploited in attacks",
       "description": "[BLEEPINGCOMPUTER] Arista Networks released security updates to patch an actively exploited zero-day vulnerability affecting VeloCloud Orchestrator (VCO) On-Prem deployments. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/arista-patches-new-velocloud-orchestrator-zero-day-exploited-in-attacks/",
       "date": "2026-10-22T17:18:22Z"
-    },
-    {
-      "title": "Microsoft shares how to fix broken Exchange Online EWS apps",
-      "description": "[BLEEPINGCOMPUTER] Microsoft says IT admins can re-enable the retired Exchange Web Services (EWS) API in Exchange Online to fix EWS apps that have stopped working. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-how-to-fix-broken-exchange-online-ews-apps/",
-      "date": "2026-10-22T15:49:32Z"
-    },
-    {
-      "title": "Machine speed attacks require machine speed detection and response",
-      "description": "[BLEEPINGCOMPUTER] Attackers can steal credentials and begin exfiltrating data within minutes, often before security teams can respond. Exaforce examines real-world attacks involving stolen GitHub tokens, malicious AI installers, and MFA phishing, explaining why...",
-      "url": "https://www.bleepingcomputer.com/news/security/machine-speed-attacks-require-machine-speed-detection-and-response/",
-      "date": "2026-10-22T14:02:12Z"
     },
     {
       "title": "New Serious PHP Vulnerabilities Released and Patched",
@@ -188,12 +212,6 @@
       "date": "2026-10-19T11:07:43Z"
     },
     {
-      "title": "Orphaned VBA Projects Inside DWG Files: YARA Rule, (Sun, Oct 18th)",
-      "description": "[ISC] Here is the YARA rule I used to detect \"Orphaned VBA Projects Inside DWG Files\".&#xd;",
-      "url": "https://isc.sans.edu/diary/rss/33434",
-      "date": "2026-10-18T12:59:30Z"
-    },
-    {
       "title": "Friday Squid Blogging: Squid Before the Chicxulub Meteor Impact",
       "description": "[SCHNEIER] New research shows that squid lived all around the globe even before the Cretaceous-Paleogene mass extinction event. As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered. Blog...",
       "url": "https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-squid-before-the-chicxulub-meteor-impact.html",
@@ -210,18 +228,6 @@
       "description": "[CISA] CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-61624 Fortinet Multiple Products Path Traversal Vulnerability CVE-2026-102764 BeyondTrust Remote Support...",
       "url": "https://www.cisa.gov/news-events/alerts/2026/10/16/cisa-adds-two-known-exploited-vulnerabilities-catalog",
       "date": "2026-10-16T12:00:00Z"
-    },
-    {
-      "title": "Backdooring Open-Weight AI Models",
-      "description": "[SCHNEIER] This is a problem: Any open model whose weights have been edited can carry a backdoor, whether it&#8217;s a task-specific fine-tune, a merged adapter or an abliterated build. We have abliterated models in the title because it&#8217;s the most...",
-      "url": "https://www.schneier.com/blog/archives/2026/10/backdooring-open-weight-ai-models.html",
-      "date": "2026-10-16T11:04:53Z"
-    },
-    {
-      "title": "ISC Stormcast For Friday, October 16th, 2026 https://isc.sans.edu/podcastdetail/10140, (Fri, Oct 16th)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33432",
-      "date": "2026-10-16T02:00:03Z"
     },
     {
       "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
