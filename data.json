@@ -1,53 +1,77 @@
 {
-  "updated": "2026-10-25 02:20:23 UTC",
+  "updated": "2026-10-25 08:48:57 UTC",
   "news": [
+    {
+      "title": "OpenAI AI Agents Demonstrate VM Escapes and Secret Cross-Sandbox Communication",
+      "description": "[FEEDS] OpenAI has announced plans to conduct frontier model training with no live internet access, as it resumes reinforcement learning (RL) training and internal inference of its most advanced AI models. \"Based on the current state of alignment research,...",
+      "url": "https://thehackernews.com/2026/10/openai-ai-agents-demonstrate-vm-escapes.html",
+      "date": "2026-10-25T06:54:29Z"
+    },
+    {
+      "title": "\u2018An Unfortunate Mistake\u2019: Knicks Admit Error in Using Championship Rings as Phishing Bait",
+      "description": "[TODAY] The New York Knicks\u2019 parent company says it is giving out more than $3.7 million worth of championship rings and jewelry after acknowledging an \u201cunfortunate mistake\u201d of using an offer of free rings to lure employees into a cybersecurity test. As...",
+      "url": "https://www.today.com/news/sports/-unfortunate-mistake-knicks-admit-error-using-championship-rings-phish-rcna605407",
+      "date": "2026-10-24T20:33:13Z"
+    },
+    {
+      "title": "Cyber attack knocks out TG-iPASS, govt says backup available",
+      "description": "[TIMES OF INDIA] Ransomware attack disables Telangana\u2019s TG-iPASS portal; database encrypted on Cloud4C server. TGCSB probes under IT Act; backups available, restoration by Monday.",
+      "url": "https://timesofindia.indiatimes.com/city/hyderabad/cyber-attack-knocks-out-tg-ipass-govt-says-backup-available/articleshow/135177175.cms",
+      "date": "2026-10-24T19:05:00Z"
+    },
+    {
+      "title": "Defence Minister Rajnath Singh meets Yogi Adityanath ahead of PM Modi's Varanasi tour",
+      "description": "[ANI (ASIAN NEWS INTERNATIONAL)] Prime Minister Modi is set to visit Uttar Pradesh and Odisha on Sunday, October 25, during which he will inaugurate a garment manufacturing facility in Varanasi, witness an Indian Air Force aerial display at Namo Ghat and inaugurate the Reserve Bank...",
+      "url": "https://www.aninews.in/news/national/general-news/defence-minister-rajnath-singh-meets-yogi-adityanath-ahead-of-pm-modis-varanasi-tour20261024224432/",
+      "date": "2026-10-24T17:14:32Z"
+    },
+    {
+      "title": "PM Modi to inaugurate RBI data centre in Bhubaneswar, garment facility in Varanasi on October 25",
+      "description": "[MONEYCONTROL] PM Modi will inaugurate Arvind Limited\u2019s garment manufacturing facility in Varanasi, attend the IAF\u2019s \u2018Wings over Ganges\u2019 aerial display and open the RBI\u2019s data centre and cybersecurity institute in Bhubaneswar on October 25.",
+      "url": "https://www.moneycontrol.com/news/india/pm-modi-to-inaugurate-rbi-data-centre-in-bhubaneswar-garment-facility-in-varanasi-on-october-25-14059259.html",
+      "date": "2026-10-24T17:06:03Z"
+    },
+    {
+      "title": "Capcom Confirms Data Breach That Affected 11.7 Million Users",
+      "description": "[ENGADGET] Capcom ID is still available to use, but users may see more phishing scam emails.",
+      "url": "https://www.engadget.com/2296218/capcom-confirms-data-breach-that-affected-117-million-users/",
+      "date": "2026-10-24T16:40:45Z"
+    },
+    {
+      "title": "Sask. Crime Stoppers programs pause tip intake due to national data breach",
+      "description": "[CBC.CA] A news release issued jointly from Crime Stoppers agencies in Saskatchewan confirmed the impact of the national leak in Saskatchewan, saying \"the stolen data included information that could potentially identify some people who provided tips.\"",
+      "url": "https://www.cbc.ca/news/canada/saskatchewan/sask-crime-stoppers-pauses-tip-intake-national-data-breach-9.7394723",
+      "date": "2026-10-24T16:30:19Z"
+    },
+    {
+      "title": "\u2018An unfortunate mistake\u2019: Knicks admit error in using championship rings as phishing bait",
+      "description": "[NBC NEWS] The New York Knicks\u2019 parent company says it is giving out more than $3.7 million worth of championship rings and jewelry after acknowledging an \u201cunfortunate mistake\u201d of using an offer of free rings to lure employees into a cybersecurity test. As...",
+      "url": "https://www.nbcnews.com/sports/basketball/knicks-championship-ring-phising-rcna605380",
+      "date": "2026-10-24T16:12:48Z"
+    },
+    {
+      "title": "DDoS attacks on PH telecoms surge",
+      "description": "[THE MANILA TIMES] TELECOMMUNICATIONS and entertainment accounted for 45 percent of distributed denial-of-service (DDoS) attacks recorded in the Philippines from January to August 2026, with attacks against telecommunications networks increasing by 118 percent year...",
+      "url": "https://www.manilatimes.net/2026/10/25/business/sunday-business-it/ddos-attacks-on-ph-telecoms-surge/2453202",
+      "date": "2026-10-24T16:02:00Z"
+    },
+    {
+      "title": "Cybersecurity Awareness Week: How to remove your personal data from the internet, and why Apple's tools alone aren't enough",
+      "description": "[9TO5MAC] Apple's privacy tools stop some tracking but can't remove data already collected. Incogni automates removal from 420+ data broker websites..",
+      "url": "https://9to5mac.com/2026/10/24/cybersecurity-awareness-week-remove-personal-data-internet-apples-tools-alone-arent-enough/",
+      "date": "2026-10-24T16:00:00Z"
+    },
+    {
+      "title": "NIST Developing Tailored Cybersecurity Controls for AI Systems",
+      "description": "[EUROPE SAYS] The COSIS project will include five volumes of standards for control overlays on a variety of AI and super intelligence systems.",
+      "url": "https://www.europesays.com/3329366/",
+      "date": "2026-10-24T15:46:25Z"
+    },
     {
       "title": "BlackX UEFI bootkit exploits Baton Drop flaw to bypass Secure Boot",
       "description": "[BLEEPINGCOMPUTER] A new UEFI bootkit named BlackX, deployed in an espionage campaign in early 2026, exploited the old Baton Drop vulnerability to bypass Secure Boot and load a malicious driver designed to interfere with security solutions from Kaspersky and Avast....",
       "url": "https://www.bleepingcomputer.com/news/security/blackx-uefi-bootkit-exploits-baton-drop-flaw-to-bypass-secure-boot/",
       "date": "2026-10-24T14:17:32Z"
-    },
-    {
-      "title": "Stage set for PM to inaugurate RBI data centre near city",
-      "description": "[TIMES OF INDIA] PM Narendra Modi to inaugurate RBI\u2019s Rs 170-crore Chaitanya data centre and cybersecurity institute at Info Valley-II near Jatni, boosting Odisha\u2019s digital resilience.",
-      "url": "https://timesofindia.indiatimes.com/city/bhubaneswar/stage-set-for-pm-to-inaugurate-rbi-data-centre-near-city/articleshow/135172203.cms",
-      "date": "2026-10-24T14:09:00Z"
-    },
-    {
-      "title": "Jihadist groups call for attacks on police and demonstrators amid widespread European protests: Report",
-      "description": "[THE TRIBUNE] The report by El Pa\u00eds cites an internal document from Spain's Cybersecurity Coordination Office revealing instructions that encourage extremists to exploit crowded demonstrations and public clashes to launch violent acts.",
-      "url": "https://www.tribuneindia.com/news/world/jihadist-groups-call-for-attacks-on-police-and-demonstrators-amid-widespread-european-protests-report/",
-      "date": "2026-10-24T12:52:15Z"
-    },
-    {
-      "title": "Jihadist groups call for attacks on police and demonstrators amid widespread European protests: Report",
-      "description": "[ANI (ASIAN NEWS INTERNATIONAL)] The report by El Pa\u00eds cites an internal document from Spain's Cybersecurity Coordination Office revealing instructions that encourage extremists to exploit crowded demonstrations and public clashes to launch violent acts.",
-      "url": "https://www.aninews.in/news/world/asia/jihadist-groups-call-for-attacks-on-police-and-demonstrators-amid-widespread-european-protests-report20261024182125/",
-      "date": "2026-10-24T12:51:25Z"
-    },
-    {
-      "title": "Shamonda Virus, Arunachal stand-off, Legislative Councils",
-      "description": "[THE INDIAN EXPRESS] India-China border tensions, Legislative Councils, social unrest, bullet train delays, Shamonda virus, AI-driven cybersecurity threats, SIR.",
-      "url": "https://indianexpress.com/article/upsc-current-affairs/upsc-key-shamonda-virus-arunachal-stand-off-legislative-councils-upsc-10935200/",
-      "date": "2026-10-24T11:59:28Z"
-    },
-    {
-      "title": "Cybersecurity incident takes down RPS phone, email service",
-      "description": "[RICHMOND TIMES-DISPATCH] Richmond Public Schools on Wednesday morning experienced a cybersecurity incident that forced the shutdown of the district's internet access and compromised phone and email service, Superintendent Jason Kamras said.",
-      "url": "https://richmond.com/news/local/education/article_ad483077-cfe1-4725-9302-ded0cc84adb7.html",
-      "date": "2026-10-24T11:55:00Z"
-    },
-    {
-      "title": "eMudhra's rise from Indian digital signatures to global cybersecurity",
-      "description": "[THEPRINT] Bengaluru firm eMudhra cited its work for Indian govt to win browser trust in 2018. Now, its international business is under pressure.",
-      "url": "https://theprint.in/tech/emudhras-rise-from-indian-digital-signatures-to-global-cybersecurity-red-flags-ignored-along-the-way/3080266/",
-      "date": "2026-10-24T11:53:54Z"
-    },
-    {
-      "title": "UK on emergency? PM Andy Burnham urges citizens to store 3 days of food, water and cash at home; here's what's happening",
-      "description": "[LIVEMINT] The UK government has launched the \u2018Be Ready campaign and urged people to store essential items such as food, water, cash and more at home for up to three days. Here\u2019s why it is important amid wildfires, storm, cybersecurity threats and more in the...",
-      "url": "https://www.livemint.com/news/world/uk-on-emergency-pm-andy-burnham-urges-citizens-to-store-3-days-of-food-water-and-cash-at-home-heres-whats-happening-11792835230974.html",
-      "date": "2026-10-24T11:45:45Z"
     },
     {
       "title": "Brotli Decoder Flaw Behind Node.js RCE Also Affects Bun, Python and Other Widely Used Software",
@@ -62,28 +86,10 @@
       "date": "2026-10-24T11:03:33Z"
     },
     {
-      "title": "UP cybersecurity push: Yogi Adityanath highlights 75 cyber police stations, forensic expansion",
-      "description": "[INDIA TODAY] Chief Minister Yogi Adityanath outlined Uttar Pradesh's cybersecurity and forensic expansion ahead of TechSangam 2026. He linked emerging technologies with safer citizens, stronger justice and youth opportunities.",
-      "url": "https://www.indiatoday.in/india/story/uttar-pradesh-cybersecurity-yogi-adityanath-75-cyber-police-stations-forensic-expansion-3024193-2026-10-24",
-      "date": "2026-10-24T10:45:13Z"
-    },
-    {
       "title": "Google Says Gmail and Photos Data Shared With AI Search Could Be Used for Targeted Ads",
       "description": "[FEEDS] Google has updated its privacy policy to spell out that using personalized artificial intelligence (AI) features in Search or Gemini could allow the company to serve targeted ads to users based on their activity on other connected Google services....",
       "url": "https://thehackernews.com/2026/10/google-says-gmail-and-photos-data.html",
       "date": "2026-10-24T10:36:33Z"
-    },
-    {
-      "title": "PM Modi to visit Varanasi, Bhubaneswar on Sunday for key inaugurations",
-      "description": "[BUSINESS STANDARD] In Bhubaneswar, the prime minister will inaugurate the Reserve Bank of India's newly established Data Centre and Cybersecurity Training Institute",
-      "url": "https://www.business-standard.com/india-news/pm-modi-to-visit-varanasi-bhubaneswar-on-sunday-for-key-inaugurations-126102400694_1.html",
-      "date": "2026-10-24T10:22:45Z"
-    },
-    {
-      "title": "86% of cybersecurity leaders fear AI agents will outpace security safeguards: Rubrik",
-      "description": "[THE TRIBUNE] About 86 per cent of cybersecurity and IT leaders globally expect the proliferation of artificial intelligence (AI) agents to outpace their organisations\u2019 security safeguards within the next year, according to Rubrik, a security and AI company.",
-      "url": "https://www.tribuneindia.com/news/science-technology/86-of-cybersecurity-leaders-fear-ai-agents-will-outpace-security-safeguards-rubrik/",
-      "date": "2026-10-24T10:17:03Z"
     },
     {
       "title": "Researchers Push Over 2 Million Updates to Remotely Disable Popcorn Time Updater That Could Fuel a Botnet",
@@ -120,12 +126,6 @@
       "description": "[BLEEPINGCOMPUTER] Microsoft has announced plans to add AI-powered phishing detection to Teams messages starting in early November 2026. [...]",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-to-get-ai-powered-context-aware-phishing-detection/",
       "date": "2026-10-23T18:54:41Z"
-    },
-    {
-      "title": "BlackX UEFI Bootkit Bypasses Secure Boot on Patched Windows Systems Missing Revocations",
-      "description": "[FEEDS] Diplomatic organizations in Central Asia have been targeted by a sophisticated new Unified Extensible Firmware Interface (UEFI) bootkit called BlackX. The activity, which singled out diplomatic entities in Tajikistan, Uzbekistan, and Turkmenistan in...",
-      "url": "https://thehackernews.com/2026/10/blackx-uefi-bootkit-bypasses-secure.html",
-      "date": "2026-10-23T18:50:13Z"
     },
     {
       "title": "Microsoft: Windows Server 2016 reaches end of support in January",
