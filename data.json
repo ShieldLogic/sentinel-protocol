@@ -1,6 +1,66 @@
 {
-  "updated": "2026-10-26 09:29:34 UTC",
+  "updated": "2026-10-26 16:22:07 UTC",
   "news": [
+    {
+      "title": "Microsoft releases emergency .NET patches for critical Brotli flaw",
+      "description": "[BLEEPINGCOMPUTER] Microsoft released emergency .NET security updates to patch a critical vulnerability known as Broccoli2Shell, also tracked as Node2Shell and HTTP2Shell. [...]",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-net-patches-for-critical-brotli-flaw/",
+      "date": "2026-10-26T15:38:24Z"
+    },
+    {
+      "title": "\u26a1 Weekly Recap: This2Shell, That2Shell, Everything's an RCE? Rogue AI, Supply Chain Chaos and More",
+      "description": "[FEEDS] This2Shell, That2Shell, Everything2Shell. That's pretty much how the last week went. Critical bugs that let attackers run code remotely are showing up everywhere. Hackers are scanning for targets, some flaws are already being used in attacks, and...",
+      "url": "https://thehackernews.com/2026/10/weekly-recap-this2shell-that2shell.html",
+      "date": "2026-10-26T14:06:13Z"
+    },
+    {
+      "title": "When an AI Agent Is the Incident, the Identity Record Is the Evidence",
+      "description": "[BLEEPINGCOMPUTER] A new NIST, CISA, and NSA guide treats runaway agents as incidents to be rehearsed. The hard part of the response is answering whose authority the agent used, and that answer has to exist before the incident does. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/when-an-ai-agent-is-the-incident-the-identity-record-is-the-evidence/",
+      "date": "2026-10-26T14:00:10Z"
+    },
+    {
+      "title": "Chinese man extradited for role in $36 million cryptocurrency scam",
+      "description": "[BLEEPINGCOMPUTER] A Chinese national was arraigned in California after being extradited from the Netherlands for his alleged involvement in a cryptocurrency investment scam that stole nearly $37 million from 174 victims in the United States. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/chinese-man-extradited-for-role-in-36-million-cryptocurrency-scam/",
+      "date": "2026-10-26T13:56:44Z"
+    },
+    {
+      "title": "Two Critical Wasmtime Flaws Could Let Malicious WebAssembly Modules Escape Sandboxes",
+      "description": "[FEEDS] Two critical flaws in&nbsp;Wasmtime, a WebAssembly runtime that can be built into other software, could allow a malicious WebAssembly module to escape the sandbox intended to contain it, the project's maintainers say. An attacker would first need a...",
+      "url": "https://thehackernews.com/2026/10/two-critical-wasmtime-flaws-could-let.html",
+      "date": "2026-10-26T11:52:41Z"
+    },
+    {
+      "title": "Between alerts: What Attackers Do in the Spaces Ordinary Detection Misses",
+      "description": "[FEEDS] Every SOC struggles with a pile of alerts. Very few of those alerts explain how an attack started or how it progressed. Network data, like that from a network detection and response (NDR) platform, connects individual alerts into one timeline, and...",
+      "url": "https://thehackernews.com/2026/10/between-alerts-what-attackers-do-in.html",
+      "date": "2026-10-26T11:23:56Z"
+    },
+    {
+      "title": "Bias in Qwen3-Coder Model",
+      "description": "[SCHNEIER] Interesting research: TL;DR: Chinese AI models now sit inside Western products, and some carry geopolitical triggers: tell the model who the code is for, and the security of what it writes changes. For the first time, we showed that this...",
+      "url": "https://www.schneier.com/blog/archives/2026/10/bias-in-qwen3-coder-model.html",
+      "date": "2026-10-26T11:03:31Z"
+    },
+    {
+      "title": "Kali Linux 2026.3 released with 6 new tools, desktop updates",
+      "description": "[BLEEPINGCOMPUTER] Kali Linux has released version 2026.3, its third release this year, featuring six new hacking tools, desktop environment improvements, refreshed build scripts, and more. [...]",
+      "url": "https://www.bleepingcomputer.com/news/linux/kali-linux-20263-released-with-6-new-tools-desktop-updates/",
+      "date": "2026-10-26T10:26:52Z"
+    },
+    {
+      "title": "uCreator Android Spyware Can Steal Telegram 2FA Passwords and Clone WeChat Accounts",
+      "description": "[FEEDS] A rentable Android spyware kit called uCreator takes over Telegram and WeChat accounts by hiding its code inside working copies of the two apps, researcher Ovi found. It only reaches people who install one of these tampered copies, spread outside...",
+      "url": "https://thehackernews.com/2026/10/ucreator-android-spyware-can-steal.html",
+      "date": "2026-10-26T09:54:02Z"
+    },
+    {
+      "title": "Looking for a Language &#x5b;Guest Diary&#x5d;, (Wed, Oct 21st)",
+      "description": "[ISC] &#x5b;This is a Guest Diary by Jeffray Spence, an ISC intern as part of the SANS.edu BACS program&#x5d;&#xd;",
+      "url": "https://isc.sans.edu/diary/rss/33442",
+      "date": "2026-10-26T09:38:03Z"
+    },
     {
       "title": "PHP2Shell security flaws now sucessfully exploited in the wild",
       "description": "[BLEEPINGCOMPUTER] Two critical RCE vulnerabilities (CVE-2026-109618 and CVE-2026-109619), collectively tracked as PHP2Shell, have been successfully exploited in the wild. [...]",
@@ -20,16 +80,46 @@
       "date": "2026-10-26T07:49:46Z"
     },
     {
-      "title": "Malicious File in Downloads Folder Tries to Trick AI Coding Agent Into Installing Malware",
-      "description": "[FEEDS] A malicious instruction file sitting in a developer's Downloads folder tried to make their AI coding agent install a known-malicious npm package, security firm&nbsp;Forever Security said&nbsp;in a report published last week. The company caught the...",
-      "url": "https://thehackernews.com/2026/10/malicious-file-in-downloads-folder.html",
-      "date": "2026-10-26T06:03:48Z"
-    },
-    {
       "title": "ISC Stormcast For Monday, October 26th, 2026 https://isc.sans.edu/podcastdetail/10150, (Mon, Oct 26th)",
       "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
       "url": "https://isc.sans.edu/diary/rss/33456",
       "date": "2026-10-26T03:30:12Z"
+    },
+    {
+      "title": "From \u2018mines to microchips\u2019, Modi bets big on Odisha",
+      "description": "[TIMES OF INDIA] PM Modi inaugurates RBI Data Centre & Cybersecurity Training Institute in Bhubaneswar, touts Odisha\u2019s \u201cmines to microchips\u201d push, warns on cyber threats.",
+      "url": "https://timesofindia.indiatimes.com/city/bhubaneswar/from-mines-to-microchips-modi-bets-big-on-odisha/articleshow/135201993.cms",
+      "date": "2026-10-26T03:29:00Z"
+    },
+    {
+      "title": "Japan firms compensate users after cyberattacks",
+      "description": "[THE STRAITS TIMES] Japanese companies compensate users after cyberattacks disrupt services and trigger data breach concerns Read more at straitstimes.com.",
+      "url": "https://www.straitstimes.com/asia/east-asia/japan-companies-compensate-users-as-cyberattacks-buffet-economy",
+      "date": "2026-10-26T03:13:00Z"
+    },
+    {
+      "title": "From digital islands to unified national backbone: A blueprint to fix India\u2019s power grid",
+      "description": "[THE HINDU BUSINESS LINE] CEA blueprint for a unified digital backbone to stabilize India's grid, enabling green energy, AI insights, phased modernization, and cybersecurity.",
+      "url": "https://www.thehindubusinessline.com/specials/clean-tech/from-digital-islands-to-unified-national-backbone-a-blueprint-to-fix-indias-power-grid/article71624255.ece",
+      "date": "2026-10-26T01:13:00Z"
+    },
+    {
+      "title": "Questions arising out of PHP breach",
+      "description": "[THE HINDU BUSINESS LINE] For robust cybersecurity and prevention of breaches, investment in detection, containment and recovery is crucial",
+      "url": "https://www.thehindubusinessline.com/opinion/questions-arising-out-of-php-breach/article71624028.ece",
+      "date": "2026-10-26T00:45:00Z"
+    },
+    {
+      "title": "PM inaugurates RBI\u2019s Rs 169 cr data centre, Cybersecurity Training Institute in Odisha",
+      "description": "[THE HITAVADA] bhubaneswar : prime minister narendra modi on sunday inaugurated the reserve bank of india\u2019s rs 169 crore data centre and cybersecurity training institute in bhubaneswar, officials said. union finance minister nirmala sitharaman, r",
+      "url": "https://www.thehitavada.com/Encyc/2026/10/26/pm-inaugurates-rbis-rs-169-cr-data-centre-cybersecurity-training-institute-in-odisha.html",
+      "date": "2026-10-26T00:00:00Z"
+    },
+    {
+      "title": "Keeping all data centres sovereign, says RBI governor",
+      "description": "[TIMES OF INDIA] MUMBAI: Information technology has become a core function of RBI, with secure, sovereign data centres and cybersecurity capabilities increasingly critical",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/keeping-all-data-centres-sovereign-says-rbi-governor/articleshow/135197590.cms",
+      "date": "2026-10-25T21:51:00Z"
     },
     {
       "title": "Anishinabek Police Service suspends Crime Stoppers after cybersecurity incident",
@@ -56,52 +146,10 @@
       "date": "2026-10-25T19:09:00Z"
     },
     {
-      "title": "Unpatched Tailscale SSH Flaws Could Let a Hacked Device Reach Root on Other Servers",
-      "description": "[FEEDS] A single hacked device on a Tailscale network can be used to gain root access to other servers it can reach, according to a security researcher who published the findings this week. The attack requires two things: Tailscale SSH set up to allow port...",
-      "url": "https://thehackernews.com/2026/10/unpatched-tailscale-ssh-flaws-could-let.html",
-      "date": "2026-10-25T17:44:09Z"
-    },
-    {
-      "title": "PHP2Shell Exploitation Attempts Continue Amid Suspected N. Korea Global Scanning Activity",
-      "description": "[FEEDS] In an update, Palo Alto Networks Unit 42 said it's retracting its earlier assessment that the post-compromise activity targeting the European government agency involved the exploitation of the PHP2Shell flaws. \"What researchers saw was an attack...",
-      "url": "https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html",
-      "date": "2026-10-25T17:19:46Z"
-    },
-    {
       "title": "Why RBI built Rs 169-cr data centre in Odisha, and what it means for digital payments",
       "description": "[THE FINANCIAL EXPRESS] Prime Minister Narendra Modi inaugurated RBI's Rs 169-crore data centre and Cybersecurity Training Institute in Bhubaneswar, enhancing digital infrastructure and cybersecurity in India's financial sector.",
       "url": "https://www.financialexpress.com/india-news/why-rbi-built-rs-169-cr-data-centre-in-odisha-and-what-it-means-for-digital-payments/4369296/",
       "date": "2026-10-25T16:54:08Z"
-    },
-    {
-      "title": "Nirmala Sitharaman says UPI leads global real-time payments with over 2,400 crore monthly transactions",
-      "description": "[MONEYCONTROL] Sitharaman was speaking at an event in Bhubaneswar after Prime Minister Narendra Modi inaugurated the Reserve Bank of India\u2019s (RBI) data centre and Cybersecurity Training Institution.",
-      "url": "https://www.moneycontrol.com/news/business/nirmala-sitharaman-says-upi-leads-global-real-time-payments-with-over-2-400-crore-monthly-transactions-14059602.html",
-      "date": "2026-10-25T16:49:25Z"
-    },
-    {
-      "title": "Bhubaneswar: Prime Minister Narendra Modi on Sunday said a secure banking system needs secure digital infrastructure supported by robust data centres and powerful computing systems, as he inaugurated",
-      "description": "[FIRSTPOST] PM Modi inaugurates RBI\u2019s Data Centre and Cybersecurity Training Institute in Bhubaneswar, stressing the need for secure digital infrastructure, stronger banking systems and greater technological self-reliance.",
-      "url": "https://www.firstpost.com/tech/pm-modi-inaugurates-rbi-data-centre-stresses-stronger-cybersecurity-for-banking-sector-14055232.html",
-      "date": "2026-10-25T16:28:53Z"
-    },
-    {
-      "title": "RBI data centre to strengthen payment systems, cyber resilience",
-      "description": "[THE ECONOMIC TIMES] The Reserve Bank of India inaugurated a new sovereign data centre to enhance the resilience of financial services and reduce reliance on third-party cloud providers. Prime Minister Narendra Modi also inaugurated a cybersecurity training institute,...",
-      "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/rbi-data-centre-to-strengthen-payment-systems-cyber-resilience/articleshow/135194472.cms",
-      "date": "2026-10-25T16:26:00Z"
-    },
-    {
-      "title": "Secure banking system needs secure digital infrastructure, says PM Modi",
-      "description": "[THE HINDU BUSINESS LINE] Modi highlighted the significance of the RBI\u2019s Data Centre and Cybersecurity Training Institute in strengthening India\u2019s digital financial infrastructure and advancing its technological self-reliance",
-      "url": "https://www.thehindubusinessline.com/money-and-banking/secure-banking-system-needs-secure-digital-infrastructure-says-pm-modi/article71623970.ece",
-      "date": "2026-10-25T15:58:37Z"
-    },
-    {
-      "title": "From RBI facilities in Bhubaneswar to Air Force Day show in Varanasi, PM Modi highlights development, technology and national security",
-      "description": "[ANI (ASIAN NEWS INTERNATIONAL)] Prime Minister Narendra Modi today inaugurated the Reserve Bank of India\u2019s newly established Data Centre and Cybersecurity Training Institute in Bhubaneswar, Odisha. Invoking the blessings of Mahaprabhu Jagannath, the Prime Minister celebrated...",
-      "url": "https://www.aninews.in/news/national/general-news/from-rbi-facilities-in-bhubaneswar-to-air-force-day-show-in-varanasi-pm-modi-highlights-development-technology-and-national-security20261025212802/",
-      "date": "2026-10-25T15:58:02Z"
     },
     {
       "title": "AI coding agents hijacked using AGENTS.md file in Downloads folder",
@@ -110,52 +158,16 @@
       "date": "2026-10-25T15:49:38Z"
     },
     {
-      "title": "Protect banking system from cyber looters, cyber terrorists: PM Modi",
-      "description": "[LIVEMINT] Inaugurating the RBI\u2019s new data centre and cybersecurity training institute in Bhubaneswar, PM Modi said the next decade will focus on making Indian banking more efficient and reliable after expanding access to millions over the past 10 years.",
-      "url": "https://www.livemint.com/news/india/protect-banking-system-from-cyber-looters-cyber-terrorists-pm-modi-11792939217217.html",
-      "date": "2026-10-25T15:47:25Z"
-    },
-    {
-      "title": "OpenAI AI Agents Demonstrate VM Escapes and Secret Cross-Sandbox Communication",
-      "description": "[FEEDS] OpenAI has announced plans to conduct frontier model training with no live internet access, as it resumes reinforcement learning (RL) training and internal inference of its most advanced AI models. \"Based on the current state of alignment research,...",
-      "url": "https://thehackernews.com/2026/10/openai-ai-agents-demonstrate-vm-escapes.html",
-      "date": "2026-10-25T06:54:29Z"
-    },
-    {
-      "title": "BlackX UEFI bootkit exploits Baton Drop flaw to bypass Secure Boot",
-      "description": "[BLEEPINGCOMPUTER] A new UEFI bootkit named BlackX, deployed in an espionage campaign in early 2026, exploited the old Baton Drop vulnerability to bypass Secure Boot and load a malicious driver designed to interfere with security solutions from Kaspersky and Avast....",
-      "url": "https://www.bleepingcomputer.com/news/security/blackx-uefi-bootkit-exploits-baton-drop-flaw-to-bypass-secure-boot/",
-      "date": "2026-10-24T14:17:32Z"
-    },
-    {
       "title": "Friday Squid Blogging: Increasing Squid Populations",
       "description": "[SCHNEIER] This article in Nature argues that it&#8217;s due to an overfishing of predators and warming sea temperatures. As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered. Blog moderation...",
       "url": "https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-increasing-squid-populations.html",
       "date": "2026-10-23T21:00:09Z"
     },
     {
-      "title": "Abandoned Popcorn Time app exposed millions of devices to RCE attacks",
-      "description": "[BLEEPINGCOMPUTER] Researchers remotely disabled a vulnerable updater in the abandoned Time4Popcorn app, a fork of the Popcorn Time BitTorrent client, closing a security flaw that could have allowed attackers to execute malicious code with elevated privileges on...",
-      "url": "https://www.bleepingcomputer.com/news/security/abandoned-popcorn-time-app-exposed-millions-of-device-to-rce-attacks/",
-      "date": "2026-10-23T20:55:05Z"
-    },
-    {
       "title": "(Reliable)&#x3f; php2shell exploitability, (Fri, Oct 23rd)",
       "description": "[ISC] Yesterday everyone was running around like crazy (me included :) because of the php2shell vulnerability.&#xd;",
       "url": "https://isc.sans.edu/diary/rss/33452",
       "date": "2026-10-23T20:04:47Z"
-    },
-    {
-      "title": "Microsoft Teams to get AI-powered, context-aware phishing detection",
-      "description": "[BLEEPINGCOMPUTER] Microsoft has announced plans to add AI-powered phishing detection to Teams messages starting in early November 2026. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-to-get-ai-powered-context-aware-phishing-detection/",
-      "date": "2026-10-23T18:54:41Z"
-    },
-    {
-      "title": "Microsoft: Windows Server 2016 reaches end of support in January",
-      "description": "[BLEEPINGCOMPUTER] Microsoft says Windows Server 2016 will stop receiving security updates after it reaches the end of support in January 2027. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2016-reaches-end-of-support-in-january/",
-      "date": "2026-10-23T17:05:07Z"
     },
     {
       "title": "PHP Vulnerability Wrap-Up, (Fri, Oct 23rd)",
@@ -194,12 +206,6 @@
       "date": "2026-10-22T13:26:51Z"
     },
     {
-      "title": "ISC Stormcast For Thursday, October 22nd, 2026 https://isc.sans.edu/podcastdetail/10146, (Thu, Oct 22nd)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33446",
-      "date": "2026-10-22T02:00:02Z"
-    },
-    {
       "title": "Critical Vulnerabilities in PHP Require Immediate Patching",
       "description": "[CISA] Update October 23, 2026: CISA has updated this Alert to: (1) provide a SIGMA detection rule to help identify potentially suspicious activity; (2) incorporate partner resources; and (3) reinforce existing mitigation guidance. Purpose CISA strongly...",
       "url": "https://www.cisa.gov/news-events/alerts/2026/10/21/critical-vulnerabilities-php-require-immediate-patching",
@@ -222,12 +228,6 @@
       "description": "[SCHNEIER] Justin.sh is reporting on a confidential Cellebrite document that has been leaked to him: Cellebrite calls it Advanced Unlocks (AU from here on), not to be confused with the &#8220;advanced unlocking services&#8221; they&#8217;ve marketed for years....",
       "url": "https://www.schneier.com/blog/archives/2026/10/possible-new-cellebrite-iphone-radio-zero-day.html",
       "date": "2026-10-20T11:03:13Z"
-    },
-    {
-      "title": "Training AIs to Solve CAPTCHAs",
-      "description": "[SCHNEIER] Interesting research: Abstract: Vision-language models (VLMs) can solve visual CAPTCHAs without task-specific training, but the agents built on them approach every challenge from scratch. For such an agent, the hundredth instance of a familiar...",
-      "url": "https://www.schneier.com/blog/archives/2026/10/training-ais-to-solve-captchas.html",
-      "date": "2026-10-19T11:07:43Z"
     },
     {
       "title": "CISA Urges Patching Critical Vulnerability in BeyondTrust Remote Support",
