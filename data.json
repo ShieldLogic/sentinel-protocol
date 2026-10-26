@@ -1,11 +1,59 @@
 {
-  "updated": "2026-10-26 02:20:07 UTC",
+  "updated": "2026-10-26 09:29:34 UTC",
   "news": [
+    {
+      "title": "PHP2Shell security flaws now sucessfully exploited in the wild",
+      "description": "[BLEEPINGCOMPUTER] Two critical RCE vulnerabilities (CVE-2026-109618 and CVE-2026-109619), collectively tracked as PHP2Shell, have been successfully exploited in the wild. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/php2shell-security-flaws-now-sucessfully-exploited-in-the-wild/",
+      "date": "2026-10-26T09:19:57Z"
+    },
+    {
+      "title": "Microsoft 365 Token-Replay Attacks Compromise 97 Accounts at 79 Organizations",
+      "description": "[FEEDS] Cybersecurity researchers have disclosed a Microsoft 365 campaign that has been observed leveraging an adversary-in-the-middle (AitM) relay to capture sign-in sessions and then replay the stolen tokens to break into email accounts at 79...",
+      "url": "https://thehackernews.com/2026/10/microsoft-365-token-replay-attacks.html",
+      "date": "2026-10-26T08:35:51Z"
+    },
+    {
+      "title": "Gheist Uses Stolen GitHub Tokens to Steal Private Repository Secrets via Actions Logs",
+      "description": "[FEEDS] An automated campaign is using stolen GitHub tokens to plant workflows that print a repository's secrets into its GitHub Actions logs, which the attackers then download before deleting the runs. The attacks have succeeded in private repositories and...",
+      "url": "https://thehackernews.com/2026/10/gheist-uses-stolen-github-tokens-to.html",
+      "date": "2026-10-26T07:49:46Z"
+    },
+    {
+      "title": "Malicious File in Downloads Folder Tries to Trick AI Coding Agent Into Installing Malware",
+      "description": "[FEEDS] A malicious instruction file sitting in a developer's Downloads folder tried to make their AI coding agent install a known-malicious npm package, security firm&nbsp;Forever Security said&nbsp;in a report published last week. The company caught the...",
+      "url": "https://thehackernews.com/2026/10/malicious-file-in-downloads-folder.html",
+      "date": "2026-10-26T06:03:48Z"
+    },
+    {
+      "title": "ISC Stormcast For Monday, October 26th, 2026 https://isc.sans.edu/podcastdetail/10150, (Mon, Oct 26th)",
+      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
+      "url": "https://isc.sans.edu/diary/rss/33456",
+      "date": "2026-10-26T03:30:12Z"
+    },
+    {
+      "title": "Anishinabek Police Service suspends Crime Stoppers after cybersecurity incident",
+      "description": "[SOOTODAY] The safety of members of the public, tipsters, and police personnel is paramount, the police service said",
+      "url": "https://www.sootoday.com/city-police-beat/anishinabek-police-service-suspends-crime-stoppers-after-cybersecurity-incident-12934840",
+      "date": "2026-10-25T20:30:00Z"
+    },
     {
       "title": "YARA-X 1.22.0 Release, (Sun, Oct 25th)",
       "description": "[ISC] YARA-X&&#x23&#x3b;x26&#x3b;&#x23&#x3b;39&#x3b;s 1.22.0 release brings 11 improvements and 9 bugfixes.&#xd;",
       "url": "https://isc.sans.edu/diary/rss/33454",
       "date": "2026-10-25T19:57:53Z"
+    },
+    {
+      "title": "PM Modi inaugurates RBI\u2019s data centre, cybersecurity institute in Odisha",
+      "description": "[THE TRIBUNE] PM Narendra Modi on Sunday inaugurated the Reserve Bank of India\u2019s (RBI) Data Centre and Cybersecurity Training Institute at Info Valley-II in Jatni, near Bhubaneswar, Odisha.",
+      "url": "https://www.tribuneindia.com/news/india/pm-modi-launches-rbis-data-centre-cybersecurity-institute-in-odisha/",
+      "date": "2026-10-25T19:32:09Z"
+    },
+    {
+      "title": "TG-iPASS recovers data after ransomware attack",
+      "description": "[TIMES OF INDIA] TG-iPASS decrypted data after an Oct 22 ransomware attack encrypting records of 35,000 companies; Telangana probing suspects, restoring systems and security.",
+      "url": "https://timesofindia.indiatimes.com/city/hyderabad/tg-ipass-recovers-data-after-ransomware-attack/articleshow/135197177.cms",
+      "date": "2026-10-25T19:09:00Z"
     },
     {
       "title": "Unpatched Tailscale SSH Flaws Could Let a Hacked Device Reach Root on Other Servers",
@@ -14,10 +62,46 @@
       "date": "2026-10-25T17:44:09Z"
     },
     {
-      "title": "PHP2Shell Exploitation Hits Government Entity Amid Global Scanning and Signs of AI-Assisted Hacking",
-      "description": "[FEEDS] Threat actors have been observed using agentic artificial intelligence (AI) platforms for post-exploitation activity following the abuse of the PHP2Shell vulnerabilities tracked as CVE-2026-109618 and CVE-2026-109619. \"In one case, the attackers...",
+      "title": "PHP2Shell Exploitation Attempts Continue Amid Suspected N. Korea Global Scanning Activity",
+      "description": "[FEEDS] In an update, Palo Alto Networks Unit 42 said it's retracting its earlier assessment that the post-compromise activity targeting the European government agency involved the exploitation of the PHP2Shell flaws. \"What researchers saw was an attack...",
       "url": "https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html",
       "date": "2026-10-25T17:19:46Z"
+    },
+    {
+      "title": "Why RBI built Rs 169-cr data centre in Odisha, and what it means for digital payments",
+      "description": "[THE FINANCIAL EXPRESS] Prime Minister Narendra Modi inaugurated RBI's Rs 169-crore data centre and Cybersecurity Training Institute in Bhubaneswar, enhancing digital infrastructure and cybersecurity in India's financial sector.",
+      "url": "https://www.financialexpress.com/india-news/why-rbi-built-rs-169-cr-data-centre-in-odisha-and-what-it-means-for-digital-payments/4369296/",
+      "date": "2026-10-25T16:54:08Z"
+    },
+    {
+      "title": "Nirmala Sitharaman says UPI leads global real-time payments with over 2,400 crore monthly transactions",
+      "description": "[MONEYCONTROL] Sitharaman was speaking at an event in Bhubaneswar after Prime Minister Narendra Modi inaugurated the Reserve Bank of India\u2019s (RBI) data centre and Cybersecurity Training Institution.",
+      "url": "https://www.moneycontrol.com/news/business/nirmala-sitharaman-says-upi-leads-global-real-time-payments-with-over-2-400-crore-monthly-transactions-14059602.html",
+      "date": "2026-10-25T16:49:25Z"
+    },
+    {
+      "title": "Bhubaneswar: Prime Minister Narendra Modi on Sunday said a secure banking system needs secure digital infrastructure supported by robust data centres and powerful computing systems, as he inaugurated",
+      "description": "[FIRSTPOST] PM Modi inaugurates RBI\u2019s Data Centre and Cybersecurity Training Institute in Bhubaneswar, stressing the need for secure digital infrastructure, stronger banking systems and greater technological self-reliance.",
+      "url": "https://www.firstpost.com/tech/pm-modi-inaugurates-rbi-data-centre-stresses-stronger-cybersecurity-for-banking-sector-14055232.html",
+      "date": "2026-10-25T16:28:53Z"
+    },
+    {
+      "title": "RBI data centre to strengthen payment systems, cyber resilience",
+      "description": "[THE ECONOMIC TIMES] The Reserve Bank of India inaugurated a new sovereign data centre to enhance the resilience of financial services and reduce reliance on third-party cloud providers. Prime Minister Narendra Modi also inaugurated a cybersecurity training institute,...",
+      "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/rbi-data-centre-to-strengthen-payment-systems-cyber-resilience/articleshow/135194472.cms",
+      "date": "2026-10-25T16:26:00Z"
+    },
+    {
+      "title": "Secure banking system needs secure digital infrastructure, says PM Modi",
+      "description": "[THE HINDU BUSINESS LINE] Modi highlighted the significance of the RBI\u2019s Data Centre and Cybersecurity Training Institute in strengthening India\u2019s digital financial infrastructure and advancing its technological self-reliance",
+      "url": "https://www.thehindubusinessline.com/money-and-banking/secure-banking-system-needs-secure-digital-infrastructure-says-pm-modi/article71623970.ece",
+      "date": "2026-10-25T15:58:37Z"
+    },
+    {
+      "title": "From RBI facilities in Bhubaneswar to Air Force Day show in Varanasi, PM Modi highlights development, technology and national security",
+      "description": "[ANI (ASIAN NEWS INTERNATIONAL)] Prime Minister Narendra Modi today inaugurated the Reserve Bank of India\u2019s newly established Data Centre and Cybersecurity Training Institute in Bhubaneswar, Odisha. Invoking the blessings of Mahaprabhu Jagannath, the Prime Minister celebrated...",
+      "url": "https://www.aninews.in/news/national/general-news/from-rbi-facilities-in-bhubaneswar-to-air-force-day-show-in-varanasi-pm-modi-highlights-development-technology-and-national-security20261025212802/",
+      "date": "2026-10-25T15:58:02Z"
     },
     {
       "title": "AI coding agents hijacked using AGENTS.md file in Downloads folder",
@@ -26,64 +110,10 @@
       "date": "2026-10-25T15:49:38Z"
     },
     {
-      "title": "crore data centre and cybersecurity institute in Odisha",
-      "description": "[CNBC TV18] Prime Minister Narendra Modi inaugurated the Reserve Bank of India's \u20b9169-crore data centre and Cybersecurity Training Institute at Jatni near Bhubaneswar on October 25. The facility will support critical payment and settlement systems and...",
-      "url": "https://www.cnbctv18.com/india/pm-modi-inaugurates-rbi-data-centre-cybersecurity-institute-odisha-20018818.htm",
-      "date": "2026-10-25T14:05:29Z"
-    },
-    {
-      "title": "crore RBI data centre, cybersecurity institute in Odisha",
-      "description": "[THE TRIBUNE] Prime Minister Narendra Modi on Sunday launched the Reserve Bank of India\u2019s Data Centre and Cybersecurity Training Institute at Info Valley-II in Jatni, close to Bhubaneswar, Odisha.",
-      "url": "https://www.tribuneindia.com/news/india/pm-modi-launches-rs-169-crore-rbi-data-centre-cybersecurity-institute-in-odisha/",
-      "date": "2026-10-25T14:02:56Z"
-    },
-    {
-      "title": "PM Modi at RBI's data centre and cybersecurity training institute",
-      "description": "[INDIA.COM] Underlining that modern warfare extends beyond traditional weapons to economic targets, PM Narendra Modi called for safeguarding India's banking sector from cyber terrorists during the inauguration of the RBI's Rs 169-crore facility.",
-      "url": "https://www.india.com/news/india/need-to-protect-indias-banking-system-from-cyber-terrorists-pm-modi-at-rbis-data-centre-and-cybersecurity-training-institute-8539179/",
-      "date": "2026-10-25T13:42:51Z"
-    },
-    {
-      "title": "PM Modi at RBI's data centre and cybersecurity training institute",
-      "description": "[INDIA.COM] Underlining that modern warfare extends beyond traditional weapons to economic targets, PM Narendra Modi called for safeguarding India's banking sector from cyber terrorists during the inauguration of the RBI's Rs 169-crore facility.",
-      "url": "https://www.india.com/business/need-to-protect-indias-banking-system-from-cyber-terrorists-pm-modi-at-rbis-data-centre-and-cybersecurity-training-institute-8539179/",
-      "date": "2026-10-25T13:42:51Z"
-    },
-    {
-      "title": "Modi cyber security banking system",
-      "description": "[TELEGRAPH INDIA] The Prime Minister made the remarks after inaugurating the RBI\u2019s \u20b9169-crore data centre and Cybersecurity Training Institute in Odisha, saying the next decade must focus on making banking more efficient and reliable",
-      "url": "https://www.telegraphindia.com/india/wars-now-target-economies-not-just-borders-narendra-modi-flags-threat-from-cyber-terrorists/cid/2186214",
-      "date": "2026-10-25T13:33:20Z"
-    },
-    {
-      "title": "PM Modi inaugurates RBI facilities in Odisha",
-      "description": "[ANI (ASIAN NEWS INTERNATIONAL)] Prime Minister Narendra Modi on Sunday inaugurated the Reserve Bank of India\u2019s (RBI) newly established Data Centre and Cybersecurity Training Institute in Bhubaneswar, Odisha, describing the occasion as a significant step towards strengthening the...",
-      "url": "https://www.aninews.in/news/national/general-news/8220for-us-development-means-balanced-development-of-india8221-pm-modi-inaugurates-rbi-facilities-in-odisha20261025185945/",
-      "date": "2026-10-25T13:29:45Z"
-    },
-    {
-      "title": "\u2018Wars now target economies\u2019: PM Modi warns of \u2018cyber terrorists\u2019, calls for stronger banking security",
-      "description": "[THE ECONOMIC TIMES] Prime Minister Narendra Modi inaugurated the Reserve Bank of India's new data centre and Cybersecurity Training Institute in Bhubaneswar. He emphasized the importance of protecting India's banking system from potential cyber threats. Modi noted that...",
-      "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/wars-now-target-economies-pm-modi-warns-of-cyber-terrorists-calls-for-stronger-banking-security/articleshow/135192008.cms",
-      "date": "2026-10-25T13:22:00Z"
-    },
-    {
-      "title": "PM Modi inaugurates RBI data centre in Odisha, says Congress favoured influential borrowers",
-      "description": "[THE NEW INDIAN EXPRESS] Inaugurating the Reserve Bank of India's Rs 169-crore Data Centre and Cybersecurity Training Institute at Infovalley-II in Jatni, Modi said phone banking had be",
-      "url": "https://www.newindianexpress.com/states/odisha/2026/Oct/25/pm-modi-says-wars-target-economies-stresses-need-to-protect-banking-sector-from-cyber-terrorists",
-      "date": "2026-10-25T13:11:32Z"
-    },
-    {
-      "title": "PM inaugurates RBI's Rs 169-crore data centre, cybersecurity institute in Odisha",
-      "description": "[INDIA TODAY] Prime Minister Narendra Modi inaugurated RBI's new data centre and Cybersecurity Training Institute in Bhubaneswar. The Rs 169-crore facilities will reinforce digital finance infrastructure and sector-wide cyber resilience.",
-      "url": "https://www.indiatoday.in/india/story/rbi-data-centre-bhubaneswar-modi-cybersecurity-training-institute-ptag-3024741-2026-10-25",
-      "date": "2026-10-25T12:57:43Z"
-    },
-    {
-      "title": "University of Madras plans portal upgrade after four cyberattacks in six months",
-      "description": "[TIMES OF INDIA] University of Madras plans upgraded firewall, new servers and cybersecurity review after four cyberattacks in six months; no data breach found.",
-      "url": "https://timesofindia.indiatimes.com/city/chennai/university-of-madras-plans-portal-upgrade-after-four-cyberattacks-in-six-months/articleshow/135191332.cms",
-      "date": "2026-10-25T12:42:00Z"
+      "title": "Protect banking system from cyber looters, cyber terrorists: PM Modi",
+      "description": "[LIVEMINT] Inaugurating the RBI\u2019s new data centre and cybersecurity training institute in Bhubaneswar, PM Modi said the next decade will focus on making Indian banking more efficient and reliable after expanding access to millions over the past 10 years.",
+      "url": "https://www.livemint.com/news/india/protect-banking-system-from-cyber-looters-cyber-terrorists-pm-modi-11792939217217.html",
+      "date": "2026-10-25T15:47:25Z"
     },
     {
       "title": "OpenAI AI Agents Demonstrate VM Escapes and Secret Cross-Sandbox Communication",
@@ -96,24 +126,6 @@
       "description": "[BLEEPINGCOMPUTER] A new UEFI bootkit named BlackX, deployed in an espionage campaign in early 2026, exploited the old Baton Drop vulnerability to bypass Secure Boot and load a malicious driver designed to interfere with security solutions from Kaspersky and Avast....",
       "url": "https://www.bleepingcomputer.com/news/security/blackx-uefi-bootkit-exploits-baton-drop-flaw-to-bypass-secure-boot/",
       "date": "2026-10-24T14:17:32Z"
-    },
-    {
-      "title": "Brotli Decoder Flaw Behind Node.js RCE Also Affects Bun, Python and Other Widely Used Software",
-      "description": "[FEEDS] A memory-corruption flaw in Google's Brotli decoder sits in many programs that unpack Brotli-compressed data, among them Bun, the Python&nbsp;Brotli&nbsp;and&nbsp;brotlicffi&nbsp;packages, and Envoy proxies set up to decompress Brotli. Tracked...",
-      "url": "https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html",
-      "date": "2026-10-24T11:09:29Z"
-    },
-    {
-      "title": "Leaked LiteLLM Master Key Let Attackers Steal GitHub Tokens and Hijack Release Pipeline",
-      "description": "[FEEDS] LiteLLM on Friday revealed that an Agent Platform master key accidentally published to a public GitHub repository in late May 2026 ultimately allowed the threat actor to push a malicious version of the popular Python package. \"On May 27, 2026, a...",
-      "url": "https://thehackernews.com/2026/10/leaked-litellm-master-key-let-attackers.html",
-      "date": "2026-10-24T11:03:33Z"
-    },
-    {
-      "title": "Google Says Gmail and Photos Data Shared With AI Search Could Be Used for Targeted Ads",
-      "description": "[FEEDS] Google has updated its privacy policy to spell out that using personalized artificial intelligence (AI) features in Search or Gemini could allow the company to serve targeted ads to users based on their activity on other connected Google services....",
-      "url": "https://thehackernews.com/2026/10/google-says-gmail-and-photos-data.html",
-      "date": "2026-10-24T10:36:33Z"
     },
     {
       "title": "Friday Squid Blogging: Increasing Squid Populations",
@@ -144,12 +156,6 @@
       "description": "[BLEEPINGCOMPUTER] Microsoft says Windows Server 2016 will stop receiving security updates after it reaches the end of support in January 2027. [...]",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2016-reaches-end-of-support-in-january/",
       "date": "2026-10-23T17:05:07Z"
-    },
-    {
-      "title": "Quest Diagnostics confirms data breach exposed patient records",
-      "description": "[BLEEPINGCOMPUTER] American clinical laboratory company Quest Diagnostics disclosed that patient records have been exposed after a threat actor gained unauthorized access to its Quanum LSM system. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/quest-diagnostics-confirms-data-breach-exposed-patient-records/",
-      "date": "2026-10-23T16:40:07Z"
     },
     {
       "title": "PHP Vulnerability Wrap-Up, (Fri, Oct 23rd)",
@@ -192,12 +198,6 @@
       "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
       "url": "https://isc.sans.edu/diary/rss/33446",
       "date": "2026-10-22T02:00:02Z"
-    },
-    {
-      "title": "Critical PHP Vulnerability (CVE-2026-109618, CVE-2026-109619) &#x5b;infocon yellow&#x5d;, (Wed, Oct 21st)",
-      "description": "[ISC] PHP.net announced that it will release a critical update today. We decided to change the infoCon to YELLOW due to the widespread use of PHP, the expected severity of the flaw (CVSS 9.4), and the availability of early PoC exploits before the patch...",
-      "url": "https://isc.sans.edu/diary/rss/33440",
-      "date": "2026-10-21T21:02:43Z"
     },
     {
       "title": "Critical Vulnerabilities in PHP Require Immediate Patching",
