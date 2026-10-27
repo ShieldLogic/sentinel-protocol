@@ -1,6 +1,72 @@
 {
-  "updated": "2026-10-27 09:26:29 UTC",
+  "updated": "2026-10-27 15:36:34 UTC",
   "news": [
+    {
+      "title": "Tailscale warns of SSH flaws allowing root privilege escalation",
+      "description": "[BLEEPINGCOMPUTER] The Tailscale security team is working to patch almost a dozen security vulnerabilities that could be exploited to steal credentials, crash servers, gain root privileges, and more. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/tailscale-warns-of-serious-ssh-flaws-allowing-root-privilege-escalation/",
+      "date": "2026-10-27T14:09:46Z"
+    },
+    {
+      "title": "The Huntress Tragic Quadrant: Ranking Threats Hitting Businesses Hardest",
+      "description": "[BLEEPINGCOMPUTER] Attackers are increasingly abusing legitimate IT tools, Microsoft 365 sessions, and everyday workflows to compromise businesses without triggering traditional defenses. Huntress Labs ranks the threats hitting organizations hardest, highlighting...",
+      "url": "https://www.bleepingcomputer.com/news/security/the-huntress-tragic-quadrant-ranking-threats-hitting-businesses-hardest/",
+      "date": "2026-10-27T14:01:11Z"
+    },
+    {
+      "title": "Microsoft Authenticator Flaw Let Permissionless Android Apps Steal Work Account Tokens",
+      "description": "[FEEDS] Microsoft has fixed a flaw in its Authenticator app for Android that let a malicious app with no permissions pose as a trusted Microsoft app, such as Teams, and collect sign-in tokens for a victim's work account. Microsoft tracks the flaw...",
+      "url": "https://thehackernews.com/2026/10/microsoft-authenticator-flaw-let.html",
+      "date": "2026-10-27T12:09:50Z"
+    },
+    {
+      "title": "Keystone to Destroy 18,835 Hardware Wallets After Hackers Steal Device Verification Key",
+      "description": "[FEEDS] An attacker who gained access to Keystone's website obtained the key that its hardware wallets use to prove they are genuine, the company said in a&nbsp;statement&nbsp;on October 26. Someone with that key could build counterfeit devices that pass...",
+      "url": "https://thehackernews.com/2026/10/keystone-to-destroy-18835-hardware.html",
+      "date": "2026-10-27T11:46:00Z"
+    },
+    {
+      "title": "AI-Generated Fake Login Pages Are Making Account Takeovers Easier",
+      "description": "[FEEDS] Fake login pages are nothing new, but generative AI is making them easier to build and more convincing. Attackers can recreate familiar login screens, impersonate trusted brands and tailor phishing attempts to specific employees or...",
+      "url": "https://thehackernews.com/2026/10/ai-generated-fake-login-pages-are.html",
+      "date": "2026-10-27T11:32:46Z"
+    },
+    {
+      "title": "Lazarus Abuses South Korean Security Software to Deploy Malware Using Post-Quantum Encryption",
+      "description": "[FEEDS] The North Korea-linked Lazarus Group has been attributed to a cyber espionage campaign dubbed Operation FlashHole targeting at least three organizations in South Korea spanning the construction, software, and wire-communication equipment...",
+      "url": "https://thehackernews.com/2026/10/lazarus-abuses-south-korean-security.html",
+      "date": "2026-10-27T11:32:31Z"
+    },
+    {
+      "title": "Hiding Capabilities in AI Models",
+      "description": "[SCHNEIER] Interesting research: &#8220;AI Models Can Provably Hide Arbitrary Capabilities&#8221; Abstract: Capability evaluations aim to surface dangerous model behaviors before deployment, but their reliability depends on the assumption that hidden...",
+      "url": "https://www.schneier.com/blog/archives/2026/10/hiding-capabilities-in-ai-models.html",
+      "date": "2026-10-27T11:01:26Z"
+    },
+    {
+      "title": "Apple backports CoreGraphics zero-day patches to older iPhones",
+      "description": "[BLEEPINGCOMPUTER] \u200bApple has backported security patches released last month to older iPhones and iPads, addressing a zero-day bug exploited in \"extremely sophisticated\" targeted attacks on iOS devices. [...]",
+      "url": "https://www.bleepingcomputer.com/news/apple/apple-backports-coregraphics-zero-day-patches-to-older-iphones/",
+      "date": "2026-10-27T10:36:12Z"
+    },
+    {
+      "title": "Australia Gets Into Amadey Malware Backend, Cuts Off Access to 180,000 Infected Computers",
+      "description": "[FEEDS] A criminal using the Amadey malware can no longer access or steal data from 180,000 infected computers around the world, including some in Australia, the Australian Signals Directorate (ASD) says. The agency's operators gained access to the...",
+      "url": "https://thehackernews.com/2026/10/australia-gets-into-amadey-malware.html",
+      "date": "2026-10-27T09:33:06Z"
+    },
+    {
+      "title": "Energy giant ENGIE discloses data breach affecting customers",
+      "description": "[BLEEPINGCOMPUTER] French energy giant ENGIE, one of the world's largest power and natural gas providers, confirmed that attackers stole customer data after breaching a marketing platform used by business partners. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/energy-giant-engie-discloses-data-breach-affecting-customers/",
+      "date": "2026-10-27T09:25:50Z"
+    },
+    {
+      "title": "OpenAI Compaction Flaw Let Researchers Bypass Hidden Reasoning Protections",
+      "description": "[FEEDS] OpenAI's compaction feature, which shrinks a long conversation to save space, could be turned into a way to copy a model's hidden reasoning out in plain text,&nbsp;security firm Xint&nbsp;has shown. OpenAI's reasoning models work through a problem...",
+      "url": "https://thehackernews.com/2026/10/openai-compaction-flaw-let-researchers.html",
+      "date": "2026-10-27T08:22:43Z"
+    },
     {
       "title": "CISA confirms PHP2Shell vulnerabilities now exploited in attacks",
       "description": "[BLEEPINGCOMPUTER] The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added the PHP2Shell vulnerabilities to its catalog of actively exploited security flaws and ordered federal agencies to patch their systems by Thursday. [...]",
@@ -8,16 +74,16 @@
       "date": "2026-10-27T08:20:54Z"
     },
     {
-      "title": "Attackers Hijack Dahua IP Cameras in Ukraine Using P2P Access and Auth Weaknesses",
-      "description": "[FEEDS] The Computer Emergency Response Team of Ukraine (CERT-UA) has issued an alert warning of unauthorized remote access to video surveillance systems manufactured by Dahua. \"Cases of compromising IP cameras and DVRs with access to the video stream,...",
-      "url": "https://thehackernews.com/2026/10/attackers-hijack-dahua-ip-cameras-in.html",
-      "date": "2026-10-27T06:34:47Z"
+      "title": "AI agents accessed Anthropic's salary records and Slack messages in under 12 hours, report claims",
+      "description": "[FIRSTPOST] Cybersecurity startup Cathedral reportedly used autonomous AI agents to access parts of Anthropic's internal business systems, including HR records and Slack messages. The incident has renewed concerns about vulnerabilities in third-party enterprise...",
+      "url": "https://www.firstpost.com/tech/ai-agents-accessed-anthropics-salary-records-and-slack-messages-in-under-12-hours-report-claims-14055575.html",
+      "date": "2026-10-27T03:13:54Z"
     },
     {
-      "title": "CISA Confirms Active Exploitation of Two PHP2Shell Flaws Enabling Remote Code Execution",
-      "description": "[FEEDS] The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday confirmed active exploitation of the recently patched PHP2Shell flaws by adding them to its Known Exploited Vulnerabilities (KEV) catalog. The PHP vulnerabilities, both rated...",
-      "url": "https://thehackernews.com/2026/10/cisa-confirms-active-exploitation-of.html",
-      "date": "2026-10-27T04:37:59Z"
+      "title": "Cybersecurity in universities: How campuses are easy prey for AI-powered attacks",
+      "description": "[THE HINDU] With education the most-attacked sector worldwide and the DPDP Act holding institutions liable for student data, campuses need audited vendor contracts, real policies and student red teams, not paper compliance",
+      "url": "https://www.thehindu.com/education/cybersecurity-in-universities-how-campuses-are-easy-prey-for-ai-powered-attacks/article71627548.ece",
+      "date": "2026-10-27T03:00:00Z"
     },
     {
       "title": "ISC Stormcast For Tuesday, October 27th, 2026 https://isc.sans.edu/podcastdetail/10152, (Tue, Oct 27th)",
@@ -26,124 +92,64 @@
       "date": "2026-10-27T02:55:13Z"
     },
     {
+      "title": "Canada-wide freeze on Crime Stoppers programs, partnerships surges to 35 agencies",
+      "description": "[CBC.CA] Less than a week after an exclusive CBC investigation revealed over 1.5 million Canadian Crime Stoppers tips were compromised in a massive data breach, the fallout continues to grow, with more Crime Stoppers chapters and police services suspending...",
+      "url": "https://www.cbc.ca/news/investigates/crime-stoppers-breach-fallout-widens-9.7397211",
+      "date": "2026-10-27T02:28:46Z"
+    },
+    {
       "title": "Apple Patches for October 2026, (Mon, Oct 26th)",
       "description": "[ISC] Apple today released patches for 304 vulnerabilties. This number is still in line with prior Apple updates, and comes just about a month after the last apple update.&#xd;",
       "url": "https://isc.sans.edu/diary/rss/33458",
       "date": "2026-10-27T02:09:55Z"
     },
     {
+      "title": "Black October: An expert explains how AI is changing cybersecurity",
+      "description": "[THE INDIAN EXPRESS] AI is accelerating the discovery of critical software vulnerabilities. But can it strengthen cybersecurity without creating new risks? Vaishnavi Sundararajan, Assistant Professor at IIT Delhi working at the the intersection of formal verification...",
+      "url": "https://indianexpress.com/article/explained/explained-ai/ai-cybersecurity-risks-php2shell-emudhra-flaws-10937564/",
+      "date": "2026-10-27T01:32:38Z"
+    },
+    {
+      "title": "Cybersecurity in the AI era: Why cyber resilience matters",
+      "description": "[SILICONANGLE NEWS] Cybersecurity faces a new era as AI speeds vulnerability discovery for defenders and attackers alike, making cyber resilience essential.",
+      "url": "https://siliconangle.com/2026/10/26/cybersecurity-ai-resilience-recovery-thecube-aicybersecurityresiliencesummit/",
+      "date": "2026-10-27T01:31:47Z"
+    },
+    {
+      "title": "A cybersecurity issue forces a major New Mexico hospital to divert patients and close clinics",
+      "description": "[SFGATE] The University of New Mexico Health System is racing to fix a cybersecurity issue that forced it to divert ambulances and cancel patient appointments. On Monday, the hospital network told people not...",
+      "url": "https://www.sfgate.com/news/world/article/a-cybersecurity-issue-forces-a-major-new-mexico-22495417.php",
+      "date": "2026-10-27T01:14:51Z"
+    },
+    {
+      "title": "SBI launches CyRIS centre to strengthen cybersecurity capabilities",
+      "description": "[THE ECONOMIC TIMES] SBI proudly introduces CyRIS, its new Cybersecurity Centre of Excellence, designed to elevate digital protection and competence. This centre will delve into vital aspects like threat intelligence, cyber defense mechanisms, and ethical hacking...",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/sbi-launches-cyris-centre-to-strengthen-cybersecurity-capabilities/articleshow/135222316.cms",
+      "date": "2026-10-27T01:10:00Z"
+    },
+    {
+      "title": "Immunefi CEO: PHP flaw reinforces growing AI security risks",
+      "description": "[CRYPTO BREAKING NEWS] Cybersecurity professionals are urging website operators\u2014and anyone who uses crypto services on the web\u2014to treat PHP-related vulnerabilities as an active",
+      "url": "https://www.cryptobreaking.com/immunefi-ceo-php-flaw-reinforces/",
+      "date": "2026-10-27T01:00:39Z"
+    },
+    {
+      "title": "Japan PM vows swift response to wave of cyberattacks",
+      "description": "[THE STAR] Japan will draft an emergency cybersecurity policy package in response to a sudden recent wave of hacking incidents, Prime Minister Sanae Takaichi said on Oct 26.",
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/10/27/japan-pm-vows-swift-response-to-wave-of-cyberattacks",
+      "date": "2026-10-27T01:00:00Z"
+    },
+    {
+      "title": "Kaspersky Earns Frost & Sullivan's 2026 Global Company of the Year Recognition for Global APT Intelligence & Attribution",
+      "description": "[THE MANILA TIMES] Recognition highlights Kaspersky's capabilities in advanced threat intelligence, adversary attribution, and intelligence-led cybersecurity.",
+      "url": "https://www.manilatimes.net/2026/10/27/tmt-newswire/pr-newswire/kaspersky-earns-frost-sullivans-2026-global-company-of-the-year-recognition-for-global-apt-intelligence-attribution/2454540",
+      "date": "2026-10-27T00:17:31Z"
+    },
+    {
       "title": "University of Copenhagen data breach exposes data of 525,000 people",
       "description": "[BLEEPINGCOMPUTER] The University of Copenhagen in Denmark confirmed that hackers accessed one of its test environments containing personal data belonging to 525,000 people. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/university-of-copenhagen-data-breach-exposes-data-of-525-000-people/",
       "date": "2026-10-26T22:20:36Z"
-    },
-    {
-      "title": "Former pentester used ARTEX AI to steal 8.2 million data records",
-      "description": "[BLEEPINGCOMPUTER] South Korean police identified seven suspects linked to a cybercrime operation that breached more than 90 organizations in the country, with ARTEX AI pentesting framework used in most of the attacks. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/former-pentester-used-artex-ai-to-steal-82-million-data-records/",
-      "date": "2026-10-26T21:08:28Z"
-    },
-    {
-      "title": "Hoover mayor says undisclosed cybersecurity report found \u2018serious vulnerabilities\u2019",
-      "description": "[AL.COM] Mayor Nick Derzis said the city is buying more than $600,000 in technology equipment.",
-      "url": "https://www.al.com/news/birmingham/2026/10/hoover-mayor-says-undisclosed-cybersecurity-report-found-serious-vulnerabilities.html",
-      "date": "2026-10-26T20:58:08Z"
-    },
-    {
-      "title": "A cybersecurity issue forces a major New Mexico hospital to divert patients and close clinics",
-      "description": "[SAN DIEGO UNION-TRIBUNE] The extent and nature of the issue remains unclear.",
-      "url": "https://www.sandiegouniontribune.com/2026/10/26/new-mexico-healthcare-cybersecurity/",
-      "date": "2026-10-26T20:55:17Z"
-    },
-    {
-      "title": "A cybersecurity issue forces a major New Mexico hospital to divert patients and close clinics",
-      "description": "[NORFOLK VIRGINIAN-PILOT] The extent and nature of the issue remains unclear.",
-      "url": "https://www.pilotonline.com/2026/10/26/new-mexico-healthcare-cybersecurity/",
-      "date": "2026-10-26T20:55:17Z"
-    },
-    {
-      "title": "A cybersecurity issue forces a major New Mexico hospital to divert patients and close clinics",
-      "description": "[THE BOSTON HERALD] The extent and nature of the issue remains unclear.",
-      "url": "https://www.bostonherald.com/2026/10/26/new-mexico-healthcare-cybersecurity/",
-      "date": "2026-10-26T20:55:17Z"
-    },
-    {
-      "title": "A cybersecurity issue forces a major New Mexico hospital to divert patients and close clinics",
-      "description": "[HARTFORD COURANT] The extent and nature of the issue remains unclear.",
-      "url": "https://www.courant.com/2026/10/26/new-mexico-healthcare-cybersecurity/",
-      "date": "2026-10-26T20:55:17Z"
-    },
-    {
-      "title": "A cybersecurity issue forces a major New Mexico hospital to divert patients and close clinics",
-      "description": "[READING EAGLE] The extent and nature of the issue remains unclear.",
-      "url": "https://www.readingeagle.com/2026/10/26/new-mexico-healthcare-cybersecurity/",
-      "date": "2026-10-26T20:55:17Z"
-    },
-    {
-      "title": "A cybersecurity issue forces a major New Mexico hospital to divert patients and close clinics",
-      "description": "[BALTIMORE SUN] The extent and nature of the issue remains unclear.",
-      "url": "https://www.baltimoresun.com/2026/10/26/new-mexico-healthcare-cybersecurity/",
-      "date": "2026-10-26T20:55:17Z"
-    },
-    {
-      "title": "A cybersecurity issue forces a major New Mexico hospital to divert patients and close clinics",
-      "description": "[THE MERCURY NEWS] The extent and nature of the issue remains unclear.",
-      "url": "https://www.mercurynews.com/2026/10/26/new-mexico-healthcare-cybersecurity/",
-      "date": "2026-10-26T20:55:17Z"
-    },
-    {
-      "title": "A cybersecurity issue forces a major New Mexico hospital to divert patients and close clinics",
-      "description": "[SANTA ROSA PRESS DEMOCRAT] The extent and nature of the issue remains unclear.",
-      "url": "https://www.pressdemocrat.com/2026/10/26/new-mexico-healthcare-cybersecurity/",
-      "date": "2026-10-26T20:55:17Z"
-    },
-    {
-      "title": "A cybersecurity issue forces a major New Mexico hospital to divert patients and close clinics",
-      "description": "[SANTA ANA ORANGE COUNTY REGISTER] The extent and nature of the issue remains unclear.",
-      "url": "https://www.ocregister.com/2026/10/26/new-mexico-healthcare-cybersecurity/",
-      "date": "2026-10-26T20:55:17Z"
-    },
-    {
-      "title": "OpenAI launches GPT-6.1 Terra with 3x faster AI agents, 50% lower pricing",
-      "description": "[BLEEPINGCOMPUTER] OpenAI has launched GPT-6.1 Terra, a new model focused on computer use, visual reasoning, coding, and everyday work, while costing significantly less than its larger models. [...]",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-launches-gpt-61-terra-with-3x-faster-ai-agents-50-percent-lower-pricing/",
-      "date": "2026-10-26T20:46:49Z"
-    },
-    {
-      "title": "DreamHost forces password resets in ongoing \"incident\"",
-      "description": "[BLEEPINGCOMPUTER] DreamHost has forced password resets for email and FTP/SFTP users following an incident that disrupted connections to the File Manager interface. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/dreamhost-forces-email-ftp-sftp-password-resets-in-ongoing-incident/",
-      "date": "2026-10-26T19:26:20Z"
-    },
-    {
-      "title": "Hackers Infect 953 Online Stores With Scanner-Evading JavaScript, Mostly on Magento",
-      "description": "[FEEDS] An unknown threat actor has infected 953 online stores, most of them running Magento, as part of a long-running campaign active since July 2025. According to Dutch e-commerce security company Sansec, the activity is designed to add a small piece of...",
-      "url": "https://thehackernews.com/2026/10/hackers-infect-953-online-stores-with.html",
-      "date": "2026-10-26T18:12:22Z"
-    },
-    {
-      "title": "PHP Issues Second Windows Security Update in Five Days to Fix Brotli Code Execution Flaw",
-      "description": "[FEEDS] PHP has rebuilt its official Windows packages for PHP 8.2 through 8.5 to fix CVE-2026-111497, a flaw in the Brotli compression library that the packages include. The flaw can let an attacker corrupt memory and potentially run code. PHP says the flaw...",
-      "url": "https://thehackernews.com/2026/10/php-issues-second-windows-security.html",
-      "date": "2026-10-26T17:45:57Z"
-    },
-    {
-      "title": "Critical 'HTTP2Shell' Brotli vulnerability triggers emergency patches",
-      "description": "[BLEEPINGCOMPUTER] A critical flaw dubbed 'HTTP2Shell' in Brotli, the C decoder library built into Node.js, could allow attackers to corrupt memory and access sensitive data. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/critical-http2shell-brotli-vulnerability-triggers-emergency-patches/",
-      "date": "2026-10-26T16:27:57Z"
-    },
-    {
-      "title": "Attackers Use Microsoft Teams IT Support Scams to Deploy Malware and Ransomware",
-      "description": "[FEEDS] Cybersecurity researchers are calling attention to what they say is a \"recurring social engineering pattern\" across hundreds of cases in which threat actors use Microsoft Teams' external chat creation feature to conduct impersonation scams or to...",
-      "url": "https://thehackernews.com/2026/10/attackers-use-microsoft-teams-it.html",
-      "date": "2026-10-26T15:52:40Z"
-    },
-    {
-      "title": "\u26a1 Weekly Recap: This2Shell, That2Shell, Everything's an RCE? Rogue AI, Supply Chain Chaos and More",
-      "description": "[FEEDS] This2Shell, That2Shell, Everything2Shell. That's pretty much how the last week went. Critical bugs that let attackers run code remotely are showing up everywhere. Hackers are scanning for targets, some flaws are already being used in attacks, and...",
-      "url": "https://thehackernews.com/2026/10/weekly-recap-this2shell-that2shell.html",
-      "date": "2026-10-26T14:06:13Z"
     },
     {
       "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
@@ -228,12 +234,6 @@
       "description": "[CISA] CISA has added six new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-96652 Plex Media Server Server-Side Request Forgery (SSRF) Vulnerability CVE-2026-96654 Plex Media Server...",
       "url": "https://www.cisa.gov/news-events/alerts/2026/10/20/cisa-adds-six-known-exploited-vulnerabilities-catalog",
       "date": "2026-10-20T12:00:00Z"
-    },
-    {
-      "title": "Possible new Cellebrite iPhone Radio Zero-Day",
-      "description": "[SCHNEIER] Justin.sh is reporting on a confidential Cellebrite document that has been leaked to him: Cellebrite calls it Advanced Unlocks (AU from here on), not to be confused with the &#8220;advanced unlocking services&#8221; they&#8217;ve marketed for years....",
-      "url": "https://www.schneier.com/blog/archives/2026/10/possible-new-cellebrite-iphone-radio-zero-day.html",
-      "date": "2026-10-20T11:03:13Z"
     },
     {
       "title": "CISA Urges Patching Critical Vulnerability in BeyondTrust Remote Support",
