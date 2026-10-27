@@ -1,137 +1,245 @@
 {
-    "title": "Sentinel Protocol",
-    "tagline": "Perimeter Intelligence Sync",
-    "updated": "2026-10-27 16:10 UTC",
-    "news": [
-        {
-            "source": {
-                "id": null,
-                "name": "Laracraft.tech"
-            },
-            "author": "Zacharias Creutznacher",
-            "title": "PHP2Shell: you patched, but were you hit? A read-only triage script for your server",
-            "description": "Patching PHP2Shell (CVE-2026-109618 and CVE-2026-109619) closes the hole, but it does not tell you whether someone got in before you patched. Here is a read-only bash script that checks your PHP builds and looks for the few traces an exploitation attempt leav\u2026",
-            "url": "https://laracraft.tech/en/blog/php2shell-were-you-hit-a-read-only-triage-script-for-your-server",
-            "urlToImage": "https://laracraft.tech/blog/img/ogimages/php2shell-were-you-hit-a-read-only-triage-script-for-your-server.webp",
-            "publishedAt": "2026-10-26T16:00:00Z",
-            "content": "Today PHP shipped fixes for PHP2Shell, two use-after-free bugs tracked as CVE-2026-109618 and CVE-2026-109619. Both are rated CVSS 9.2, need no login, and are triggered by a multipart/form-data reque\u2026 [+7241 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Infosecurity Magazine"
-            },
-            "author": "James Coker",
-            "title": "CISA 2030 Sets Out \u2018Aggressive, Anticipatory\u2019 Cyber Defense Strategy for Critical Infrastructure",
-            "description": "CISA\u2019s new strategy, CISA 2030, will focus on rapid detection and response and resiliency of critical services ahead of \u201cpassive defense\u201d",
-            "url": "https://www.infosecurity-magazine.com/news/cisa-aggressive-strategy-critical/",
-            "urlToImage": "https://assets.infosecurity-magazine.com/webpage/og/9a5230b2-0aa4-4064-9f4e-5ce353d4f2d8.jpeg",
-            "publishedAt": "2026-10-26T16:00:00Z",
-            "content": "The US Cybersecurity and Infrastructure Agency (CISA) has promised to move away from passive defense and towards an aggressive, anticipatory approach to cyber-threats affecting critical infrastructur\u2026 [+3699 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Entrepreneur"
-            },
-            "author": "Nicholas Leighton",
-            "title": "Before You Hire Another Employee, Answer These 4 Questions (You May Not Need the Role After All)",
-            "description": "When a business runs out of capacity, the response is often to hire another person. AI, automation and specialist talent mean entrepreneurs now have a more important question to ask first.",
-            "url": "https://www.entrepreneur.com/building-a-business/before-you-hire-another-employee-answer-these-4-questions-you-may-not-need-the-role-after-all",
-            "urlToImage": "https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/10/questions-before-hiring-another-employee-1026_g2211338530.jpg",
-            "publishedAt": "2026-10-26T16:00:00Z",
-            "content": "Opinions expressed by Entrepreneur contributors are their own.Key Takeaways\r\n<ul><li>Before you create another job, ask: What outcome are we actually trying to buy? Design a system around the outcome\u2026 [+7755 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "SiliconANGLE News"
-            },
-            "author": "Mark Albertson",
-            "title": "Marvell\u2019s early chipmaking gamble pays off amid AI demand",
-            "description": "Eight years ago, chipmaker Marvell Technology Inc. decided to play leapfrog with nanometers, and its trajectory has been steadily upward since. In semiconductor manufacturing, nanometer designations identify generations of chipmaking technology, known as proc\u2026",
-            "url": "https://siliconangle.com/2026/10/26/ai-architectures-marvell-data-center-thecube-aifactoriesdatacenters/",
-            "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/Will-Chu-EVP-and-GM-at-Marvell-Technology-and-David-Lazovsky-EVP-and-GM-at-Marvell-Technology-AI-Factories-2026.png",
-            "publishedAt": "2026-10-26T15:58:44Z",
-            "content": "Eight years ago, chipmaker Marvell Technology Inc. decided to play leapfrog with nanometers, and its trajectory has been steadily upward since.\r\nIn semiconductor manufacturing, nanometer designations\u2026 [+5765 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Oreilly.com"
-            },
-            "author": "Christina Stathopoulos and Michelle Smith",
-            "title": "This Week in AI: AI\u2019s Growing Pains",
-            "description": "AI\u2019s rapid expansion is creating problems across the industry, from chip shortages to autonomous agents that exceed their instructions. On the latest episode of This Week in AI, we examined those challenges alongside growing regulatory scrutiny and an emergin\u2026",
-            "url": "https://www.oreilly.com/radar/this-week-in-ai-ais-growing-pains/#BlogPosting",
-            "urlToImage": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2026/08/USE_THIS_thisweek-ai-radar-1600x840-1.png",
-            "publishedAt": "2026-10-26T15:55:07Z",
-            "content": "AIs rapid expansion is creating problems across the industry, from chip shortages to autonomous agents that exceed their instructions. On the latest episode of This Week in AI, we examined those chal\u2026 [+5839 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Internet"
-            },
-            "author": "info@thehackernews.com (The Hacker News)",
-            "title": "Attackers Use Microsoft Teams IT Support Scams to Deploy Malware and Ransomware",
-            "description": "Cybersecurity researchers are calling attention to what they say is a \"recurring social engineering pattern\" across hundreds of cases in which threat actors use Microsoft Teams' external chat creation feature to conduct impersonation scams or to deliver malwa\u2026",
-            "url": "https://thehackernews.com/2026/10/attackers-use-microsoft-teams-it.html",
-            "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGj3R5UeJnb_pAG2XH5cEGUzKbzeRHLNAES48EgHC8ssOnuDbDOqJA9ydPHJqmxYONu2lCeu42YOv_e_XA2RtX5jVGsMkQY0QAGrzoqmY4qU6NnWrPTfX0V-U68B9Z80KHLJvZDtUeSm4dvkp06oJ9JmgJvr7CDYZ-48fwAOENt31Lrcpr4M6O_4x6ovLZ/s1700-nu-rw-lo-l85-e365/support.jpg",
-            "publishedAt": "2026-10-26T15:52:40Z",
-            "content": "Cybersecurity researchers are calling attention to what they say is a \"recurring social engineering pattern\" across hundreds of cases in which threat actors use Microsoft Teams' external chat creatio\u2026 [+5037 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "SiliconANGLE News"
-            },
-            "author": "Kyt Dotson",
-            "title": "Anthropic files S-1 paperwork for proposed IPO",
-            "description": "Artificial intelligence giant Anthropic PBC filed papers today for an initial public offering with the United States Securities and Exchange Commission, putting it on track for what will likely be the biggest stock market debut of an AI developer to come, ami\u2026",
-            "url": "https://siliconangle.com/2026/10/26/anthropic-files-s-1-paperwork-for-proposed-ipo/",
-            "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2025/01/Anthropic.png",
-            "publishedAt": "2026-10-26T15:50:30Z",
-            "content": "Artificial intelligence giant Anthropic PBC filed papers today for an initial public offering with the United States Securities and Exchange Commission, putting it on track for what will likely be th\u2026 [+4243 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "SiliconANGLE News"
-            },
-            "author": "Kyt Dotson",
-            "title": "Anthropic files S-1 paperwork for blockbuster AI IPO",
-            "description": "Artificial intelligence giant Anthropic PBC filed papers today for an initial public offering with the U.S. Securities and Exchange Commission, putting it on track for what will likely be the biggest stock market debut of an AI developer to come, amid warning\u2026",
-            "url": "https://siliconangle.com/2026/10/26/anthropic-files-s-1-paperwork-for-blockbuster-ai-ipo/",
-            "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2025/01/Anthropic.png",
-            "publishedAt": "2026-10-26T15:50:30Z",
-            "content": "Artificial intelligence giant Anthropic PBC filed papers today for an initial public offering with the U.S. Securities and Exchange Commission, putting it on track for what will likely be the biggest\u2026 [+4218 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Nextgov"
-            },
-            "author": "David DiMolfetta",
-            "title": "CISA plans service review, sharper focus on critical infrastructure threats",
-            "description": "The strategy sets a yearlong schedule for reviewing capabilities and reporting progress as the agency rebuilds after staffing cuts.",
-            "url": "https://www.nextgov.com/cybersecurity/2026/10/cisa-plans-service-review-sharper-focus-critical-infrastructure-threats/416813/",
-            "urlToImage": "https://cdn.nextgov.com/media/img/cd/2026/10/26/GettyImages_2271077491/open-graph.jpg",
-            "publishedAt": "2026-10-26T15:49:00Z",
-            "content": "The Cybersecurity and Infrastructure Security Agency will review its services and concentrate resources on infrastructure whose disruption would cause the greatest harm, under a strategy released Mon\u2026 [+3473 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Forkast.news"
-            },
-            "author": "Lena Park",
-            "title": "Mistral Large 4 Weights: The Final Week",
-            "description": "The Introducing Mistral Large 4 page has said the same thing since October 6: \u201cWeights drop end of this month,\u201d and, more fully, \u201cWe will release the weights by the end of the month, along with more details on the architecture, additional benchmarks, and our \u2026",
-            "url": "https://forkast.news/mistral-large-4-weights-the-final-week/",
-            "urlToImage": "https://forkast.news/wp-content/uploads/2026/10/mistral-large-4-final-week-hero-1024x687.jpg",
-            "publishedAt": "2026-10-26T15:38:51Z",
-            "content": "The Introducing Mistral Large 4 page has said the same thing since October 6: Weights drop end of this month, and, more fully, We will release the weights by the end of the month, along with more det\u2026 [+3664 chars]"
-        }
-    ]
+  "updated": "2026-10-27 20:18:19 UTC",
+  "news": [
+    {
+      "title": "CyberStrikeAI Uses 44 AI Agents to Automate Hacking Operations Against Japan Targets",
+      "description": "[FEEDS] Cybersecurity researchers have disclosed details of three cyber attacks targeting organizations in Japan in which artificial intelligence (AI) was a key element, either in the driving seat or to assist a human operator. TrendAI, which analyzed three...",
+      "url": "https://thehackernews.com/2026/10/cyberstrikeai-uses-44-ai-agents-to.html",
+      "date": "2026-10-27T18:26:46Z"
+    },
+    {
+      "title": "Microsoft releases Windows OOB updates to distrust eMudhra certificates",
+      "description": "[BLEEPINGCOMPUTER] Microsoft has released out-of-band (OOB) Windows updates to remove trust in certificates tied to compromised eMudhra certificate authority keys, protecting systems that do not receive automatic certificate trust updates. [...]",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-oob-updates-to-distrust-emudhra-certificates/",
+      "date": "2026-10-27T18:20:28Z"
+    },
+    {
+      "title": "Warp discloses breach exposing AI agent logs, user telemetry data",
+      "description": "[BLEEPINGCOMPUTER] Agent decision logs and telemetry data belonging to Warp agentic development environment users were exposed in an attack on a third-party vendor in the project's infrastructure. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/warp-discloses-breach-exposing-ai-agent-logs-user-telemetry-data/",
+      "date": "2026-10-27T16:15:39Z"
+    },
+    {
+      "title": "Tailscale warns of SSH flaws allowing root privilege escalation",
+      "description": "[BLEEPINGCOMPUTER] The Tailscale security team is working to patch almost a dozen security vulnerabilities that could be exploited to steal credentials, crash servers, gain root privileges, and more. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/tailscale-warns-of-serious-ssh-flaws-allowing-root-privilege-escalation/",
+      "date": "2026-10-27T14:09:46Z"
+    },
+    {
+      "title": "The Huntress Tragic Quadrant: Ranking Threats Hitting Businesses Hardest",
+      "description": "[BLEEPINGCOMPUTER] Attackers are increasingly abusing legitimate IT tools, Microsoft 365 sessions, and everyday workflows to compromise businesses without triggering traditional defenses. Huntress Labs ranks the threats hitting organizations hardest, highlighting...",
+      "url": "https://www.bleepingcomputer.com/news/security/the-huntress-tragic-quadrant-ranking-threats-hitting-businesses-hardest/",
+      "date": "2026-10-27T14:01:11Z"
+    },
+    {
+      "title": "GoAhead TLS Flaws Allow Revoked Client Certificates and Enable Session Decryption",
+      "description": "[FEEDS] The GoAhead embedded web server loaded a certificate revocation list into its default TLS backend but never turned revocation checking on, so a revoked client certificate could still pass login on affected setups. The flaw is in builds that use the...",
+      "url": "https://thehackernews.com/2026/10/goahead-tls-flaws-allow-revoked-client.html",
+      "date": "2026-10-27T13:59:48Z"
+    },
+    {
+      "title": "Apple Backports Fix for Exploited CoreGraphics Flaw to Older iPhones and iPads",
+      "description": "[FEEDS] Apple on Monday backported fixes for a high-severity security flaw that was exploited in real-world cyber attacks to older devices. The vulnerability, tracked as CVE-2026-86950 (CVSS score: 8.8), is an out-of-bounds write affecting CoreGraphics that...",
+      "url": "https://thehackernews.com/2026/10/apple-backports-fix-for-exploited.html",
+      "date": "2026-10-27T13:59:09Z"
+    },
+    {
+      "title": "Microsoft Authenticator Flaw Let Permissionless Android Apps Steal Work Account Tokens",
+      "description": "[FEEDS] Microsoft has fixed a flaw in its Authenticator app for Android that let a malicious app with no permissions pose as a trusted Microsoft app, such as Teams, and collect sign-in tokens for a victim's work account. Microsoft tracks the flaw...",
+      "url": "https://thehackernews.com/2026/10/microsoft-authenticator-flaw-let.html",
+      "date": "2026-10-27T12:09:50Z"
+    },
+    {
+      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+      "description": "[CISA] CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-48356 Adobe Commerce and Magento Unrestricted Upload of File with Dangerous Type Vulnerability...",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/10/27/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+      "date": "2026-10-27T12:00:00Z"
+    },
+    {
+      "title": "Keystone to Destroy 18,835 Hardware Wallets After Hackers Steal Device Verification Key",
+      "description": "[FEEDS] An attacker who gained access to Keystone's website obtained the key that its hardware wallets use to prove they are genuine, the company said in a&nbsp;statement&nbsp;on October 26. Someone with that key could build counterfeit devices that pass...",
+      "url": "https://thehackernews.com/2026/10/keystone-to-destroy-18835-hardware.html",
+      "date": "2026-10-27T11:46:00Z"
+    },
+    {
+      "title": "AI-Generated Fake Login Pages Are Making Account Takeovers Easier",
+      "description": "[FEEDS] Fake login pages are nothing new, but generative AI is making them easier to build and more convincing. Attackers can recreate familiar login screens, impersonate trusted brands and tailor phishing attempts to specific employees or...",
+      "url": "https://thehackernews.com/2026/10/ai-generated-fake-login-pages-are.html",
+      "date": "2026-10-27T11:32:46Z"
+    },
+    {
+      "title": "Hiding Capabilities in AI Models",
+      "description": "[SCHNEIER] Interesting research: &#8220;AI Models Can Provably Hide Arbitrary Capabilities&#8221; Abstract: Capability evaluations aim to surface dangerous model behaviors before deployment, but their reliability depends on the assumption that hidden...",
+      "url": "https://www.schneier.com/blog/archives/2026/10/hiding-capabilities-in-ai-models.html",
+      "date": "2026-10-27T11:01:26Z"
+    },
+    {
+      "title": "Apple backports CoreGraphics zero-day patches to older iPhones",
+      "description": "[BLEEPINGCOMPUTER] \u200bApple has backported security patches released last month to older iPhones and iPads, addressing a zero-day bug exploited in \"extremely sophisticated\" targeted attacks on iOS devices. [...]",
+      "url": "https://www.bleepingcomputer.com/news/apple/apple-backports-coregraphics-zero-day-patches-to-older-iphones/",
+      "date": "2026-10-27T10:36:12Z"
+    },
+    {
+      "title": "Energy giant ENGIE discloses data breach affecting customers",
+      "description": "[BLEEPINGCOMPUTER] French energy giant ENGIE, one of the world's largest power and natural gas providers, confirmed that attackers stole customer data after breaching a marketing platform used by business partners. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/energy-giant-engie-discloses-data-breach-affecting-customers/",
+      "date": "2026-10-27T09:25:50Z"
+    },
+    {
+      "title": "Think you can spot a scam? AI is making it harder",
+      "description": "[WJLA] Artificial Intelligence (AI) is changing everything, including how criminals steal from you. Cybersecurity is no longer just about keeping your password safe.",
+      "url": "https://wjla.com/news/local/ai-scams-fraud-how-to-avoid-prevention-phone-voice-cloning-phishing-emails-fake-websites-identity-theft-cybersecurity-tips-authentication-passkeys-explained-online-banking-security-financial-fraud-warning-signs",
+      "date": "2026-10-27T08:02:08Z"
+    },
+    {
+      "title": "A cybersecurity issue forces a major US hospital to divert patients and close clinics",
+      "description": "[THE STAR] A major hospital network in New Mexico raced to fix a cybersecurity issue on Oct 26 that forced it to send ambulances to other hospitals and left the state without an emergency department capable of treating the most serious injuries.",
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/10/27/a-cybersecurity-issue-forces-a-major-us-hospital-to-divert-patients-and-close-clinics",
+      "date": "2026-10-27T07:00:00Z"
+    },
+    {
+      "title": "Alibaba's AI tried to send data to China",
+      "description": "[NEWSBYTES] Canadian AI firm Cohere reported that Alibaba's Qwen3.8-Flash-Next model attempted to upload a file to a Beijing server during a cybersecurity test.",
+      "url": "https://www.newsbytesapp.com/news/science/alibaba-s-ai-tried-to-send-data-to-china/story",
+      "date": "2026-10-27T06:54:56Z"
+    },
+    {
+      "title": "Alliance Medinet data breach contained, says parent company",
+      "description": "[THE STRAITS TIMES] Alliance Medinet data breach contained after hacker access is blocked, with no further compromise detected, says parent company. Read more at straitstimes.com.",
+      "url": "https://www.straitstimes.com/singapore/no-further-compromise-to-alliance-medinets-system-hacker-access-blocked-says-parent-company",
+      "date": "2026-10-27T06:43:30Z"
+    },
+    {
+      "title": "How An AI Startup Hacked Anthropic In Just 12 Hours And Exposed Employee Details",
+      "description": "[TIMES NOW] A cybersecurity startup accessed Anthropic\u2019s internal systems in under 12 hours using AI agents, exposing sensitive company data. The incident raises fresh concerns about AI security and agents bypassing access restrictions., Technology & Science,...",
+      "url": "https://www.timesnownews.com/technology-science/how-an-ai-startup-hacked-anthropic-in-just-12-hours-and-exposed-employee-details-article-156412810",
+      "date": "2026-10-27T05:56:34Z"
+    },
+    {
+      "title": "Major holiday park operators warn guests about fraudulent emails, messages seeking credit card details",
+      "description": "[ABC (AUSTRALIAN BROADCASTING CORPORATION)] Australian travellers are being warned their personal information may have been exposed following a cybersecurity breach involving an accommodation software company.",
+      "url": "https://www.abc.net.au/news/2026-10-27/rms-holiday-booking-software-hacked/107315194",
+      "date": "2026-10-27T05:24:30Z"
+    },
+    {
+      "title": "IOB may raise \u20b95,000 crore of capital from December quarter-end: MD Srivastava",
+      "description": "[LIVEMINT] The capital raise could reduce the government\u2019s shareholding in IO. The bank plans to bolster cybersecurity safeguards by engaging consultants and increasing technology spending",
+      "url": "https://www.livemint.com/industry/banking/indian-overseas-bank-rs-5000-crore-capital-raise-government-stake-11793072741295.html",
+      "date": "2026-10-27T04:55:01Z"
+    },
+    {
+      "title": "CISA Confirms Active Exploitation of Two PHP2Shell Flaws Enabling Remote Code Execution",
+      "description": "[THE HACKER NEWS] CISA adds two exploited PHP2Shell flaws to its KEV catalog after honeypot tests confirm remote code execution on a single-worker mod_php setup.",
+      "url": "https://thehackernews.com/2026/10/cisa-confirms-active-exploitation-of.html",
+      "date": "2026-10-27T04:37:00Z"
+    },
+    {
+      "title": "This Qwen AI Model Tried To Send Data To China On Its Own: Know What Happened",
+      "description": "[TIMES NOW] Alibaba\u2019s Qwen AI model attempted to upload data to a server in Beijing during a cybersecurity test by Cohere. The request was blocked, raising questions about AI safety, model training and data security., Technology & Science, Times Now",
+      "url": "https://www.timesnownews.com/technology-science/this-qwen-ai-model-tried-to-send-data-to-china-on-its-own-know-what-happened-article-156412213",
+      "date": "2026-10-27T03:59:04Z"
+    },
+    {
+      "title": "AI agents accessed Anthropic's salary records and Slack messages in under 12 hours, report claims",
+      "description": "[FIRSTPOST] Cybersecurity startup Cathedral reportedly used autonomous AI agents to access parts of Anthropic's internal business systems, including HR records and Slack messages. The incident has renewed concerns about vulnerabilities in third-party enterprise...",
+      "url": "https://www.firstpost.com/tech/ai-agents-accessed-anthropics-salary-records-and-slack-messages-in-under-12-hours-report-claims-14055575.html",
+      "date": "2026-10-27T03:13:54Z"
+    },
+    {
+      "title": "ISC Stormcast For Tuesday, October 27th, 2026 https://isc.sans.edu/podcastdetail/10152, (Tue, Oct 27th)",
+      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
+      "url": "https://isc.sans.edu/diary/rss/33462",
+      "date": "2026-10-27T02:55:13Z"
+    },
+    {
+      "title": "Apple Patches for October 2026, (Mon, Oct 26th)",
+      "description": "[ISC] Apple today released patches for 304 vulnerabilties. This number is still in line with prior Apple updates, and comes just about a month after the last apple update.&#xd;",
+      "url": "https://isc.sans.edu/diary/rss/33458",
+      "date": "2026-10-27T02:09:55Z"
+    },
+    {
+      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+      "description": "[CISA] CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog and updated the PHP Alert, Critical Vulnerabilities in PHP Require Immediate Patching: &nbsp; CVE-2026-109618 \u2013 PHP Memory Corruption Vulnerability&nbsp;...",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/10/26/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+      "date": "2026-10-26T12:00:00Z"
+    },
+    {
+      "title": "Bias in Qwen3-Coder Model",
+      "description": "[SCHNEIER] Interesting research: TL;DR: Chinese AI models now sit inside Western products, and some carry geopolitical triggers: tell the model who the code is for, and the security of what it writes changes. For the first time, we showed that this...",
+      "url": "https://www.schneier.com/blog/archives/2026/10/bias-in-qwen3-coder-model.html",
+      "date": "2026-10-26T11:03:31Z"
+    },
+    {
+      "title": "Looking for a Language &#x5b;Guest Diary&#x5d;, (Wed, Oct 21st)",
+      "description": "[ISC] &#x5b;This is a Guest Diary by Jeffray Spence, an ISC intern as part of the SANS.edu BACS program&#x5d;&#xd;",
+      "url": "https://isc.sans.edu/diary/rss/33442",
+      "date": "2026-10-26T09:38:03Z"
+    },
+    {
+      "title": "ISC Stormcast For Monday, October 26th, 2026 https://isc.sans.edu/podcastdetail/10150, (Mon, Oct 26th)",
+      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
+      "url": "https://isc.sans.edu/diary/rss/33456",
+      "date": "2026-10-26T03:30:12Z"
+    },
+    {
+      "title": "YARA-X 1.22.0 Release, (Sun, Oct 25th)",
+      "description": "[ISC] YARA-X&&#x23&#x3b;x26&#x3b;&#x23&#x3b;39&#x3b;s 1.22.0 release brings 11 improvements and 9 bugfixes.&#xd;",
+      "url": "https://isc.sans.edu/diary/rss/33454",
+      "date": "2026-10-25T19:57:53Z"
+    },
+    {
+      "title": "Friday Squid Blogging: Increasing Squid Populations",
+      "description": "[SCHNEIER] This article in Nature argues that it&#8217;s due to an overfishing of predators and warming sea temperatures. As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered. Blog moderation...",
+      "url": "https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-increasing-squid-populations.html",
+      "date": "2026-10-23T21:00:09Z"
+    },
+    {
+      "title": "(Reliable)&#x3f; php2shell exploitability, (Fri, Oct 23rd)",
+      "description": "[ISC] Yesterday everyone was running around like crazy (me included :) because of the php2shell vulnerability.&#xd;",
+      "url": "https://isc.sans.edu/diary/rss/33452",
+      "date": "2026-10-23T20:04:47Z"
+    },
+    {
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "description": "[CISA] CISA has added one new vulnerability to its&nbsp;Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-110447 Collabora Online \u2013 Built-in CODE Server OS Command Injection Vulnerability&nbsp; This type of...",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/10/23/cisa-adds-one-known-exploited-vulnerability-catalog-0",
+      "date": "2026-10-23T12:00:00Z"
+    },
+    {
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "description": "[CISA] CISA has added one new vulnerability to its&nbsp;Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-114625 Arista VeloCloud Orchestrator SQL Injection Vulnerability This type of vulnerability is a...",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/10/23/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "date": "2026-10-23T12:00:00Z"
+    },
+    {
+      "title": "Compromised TLS Certificates",
+      "description": "[SCHNEIER] The Indian CA eMudhra Limited has eight TLS certificates with laughably weak private keys: The compromised eMudhra keys were defective at a level that\u2019s challenging the imagination of many of the engineers studying the incident. A normal size for a...",
+      "url": "https://www.schneier.com/blog/archives/2026/10/compromised-tls-certificates.html",
+      "date": "2026-10-23T11:04:22Z"
+    },
+    {
+      "title": "New Serious PHP Vulnerabilities Released and Patched",
+      "description": "[SCHNEIER] PHP maintainers have released fixes for two critical vulnerabilities: PHP 8.5.12, 8.4.27, 8.3.36 and 8.2.35 fix two critical vulnerabilities that can allow unauthenticated remote code execution. All PHP users are strongly encouraged to update...",
+      "url": "https://www.schneier.com/blog/archives/2026/10/new-serious-php-vulnerabilities-released-and-patched.html",
+      "date": "2026-10-22T13:26:51Z"
+    },
+    {
+      "title": "Critical Vulnerabilities in PHP Require Immediate Patching",
+      "description": "[CISA] Update October 26, 2026:&nbsp; CISA has updated this Alert to reflect the addition of CVE-2026-109618 and CVE-2026-109619 to its Known Exploited Vulnerabilities (KEV) Catalog on Oct. 26, 2026.&nbsp;&nbsp; Update October 23, 2026:&nbsp; CISA has...",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/10/21/critical-vulnerabilities-php-require-immediate-patching",
+      "date": "2026-10-21T12:00:00Z"
+    },
+    {
+      "title": "Workshop on Economics and Information Security (WEIS) Archive",
+      "description": "[SCHNEIER] There&#8217;s a new archive of all the papers from twenty-five years of the Workshop on Economics and Information Security (WEIS). Really nice resource. It&#8217;s fun to reread my 2002 essay on the economics of information security.",
+      "url": "https://www.schneier.com/blog/archives/2026/10/workshop-on-economics-and-information-security-weis-archive.html",
+      "date": "2026-10-21T11:02:22Z"
+    },
+    {
+      "title": "CISA Adds Six Known Exploited Vulnerabilities to Catalog",
+      "description": "[CISA] CISA has added six new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-96652 Plex Media Server Server-Side Request Forgery (SSRF) Vulnerability CVE-2026-96654 Plex Media Server...",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/10/20/cisa-adds-six-known-exploited-vulnerabilities-catalog",
+      "date": "2026-10-20T12:00:00Z"
+    }
+  ]
 }
