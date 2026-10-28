@@ -1,6 +1,30 @@
 {
-  "updated": "2026-10-27 20:18:19 UTC",
+  "updated": "2026-10-28 00:49:08 UTC",
   "news": [
+    {
+      "title": "Japan's GMO urges customers to shut down PCs amid ransomware threat",
+      "description": "[BLEEPINGCOMPUTER] The GMO Group has urged customers to disconnect their systems from the internet and shut down computers after a threat actor who breached the company's Onamae Desktop Cloud threatened to launch a ransomware attack today. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/japans-gmo-urges-customers-to-shut-down-pcs-amid-ransomware-threat/",
+      "date": "2026-10-27T23:35:51Z"
+    },
+    {
+      "title": "OpenAI's GPT-6.1 Terra is safer overall, but shows more destructive-action flags in tests",
+      "description": "[BLEEPINGCOMPUTER] OpenAI confirmed GPT-6.1 Terra is safer overall than some of its older models, but its safety testing also found other problems. [...]",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openais-gpt-61-terra-is-safer-overall-but-shows-more-destructive-action-flags-in-tests/",
+      "date": "2026-10-27T22:43:27Z"
+    },
+    {
+      "title": "UNM Health ransomware attack disrupts patient care, surgeries",
+      "description": "[BLEEPINGCOMPUTER] The University of New Mexico Health Sciences Center disclosed a cyberattack that caused system outages and disrupted patient care and academic activities. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/unm-health-ransomware-attack-disrupts-patient-care-surgeries/",
+      "date": "2026-10-27T22:07:34Z"
+    },
+    {
+      "title": "Hackers hijack Convertr analytics script to steal payment card data",
+      "description": "[BLEEPINGCOMPUTER] A credit card skimming group reportedly compromised a shared analytics script used by e-commerce platform Convertr to steal shoppers' payment data during checkout. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-hijack-convertr-analytics-script-to-steal-payment-card-data/",
+      "date": "2026-10-27T20:57:25Z"
+    },
     {
       "title": "CyberStrikeAI Uses 44 AI Agents to Automate Hacking Operations Against Japan Targets",
       "description": "[FEEDS] Cybersecurity researchers have disclosed details of three cyber attacks targeting organizations in Japan in which artificial intelligence (AI) was a key element, either in the driving seat or to assist a human operator. TrendAI, which analyzed three...",
@@ -20,18 +44,6 @@
       "date": "2026-10-27T16:15:39Z"
     },
     {
-      "title": "Tailscale warns of SSH flaws allowing root privilege escalation",
-      "description": "[BLEEPINGCOMPUTER] The Tailscale security team is working to patch almost a dozen security vulnerabilities that could be exploited to steal credentials, crash servers, gain root privileges, and more. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/tailscale-warns-of-serious-ssh-flaws-allowing-root-privilege-escalation/",
-      "date": "2026-10-27T14:09:46Z"
-    },
-    {
-      "title": "The Huntress Tragic Quadrant: Ranking Threats Hitting Businesses Hardest",
-      "description": "[BLEEPINGCOMPUTER] Attackers are increasingly abusing legitimate IT tools, Microsoft 365 sessions, and everyday workflows to compromise businesses without triggering traditional defenses. Huntress Labs ranks the threats hitting organizations hardest, highlighting...",
-      "url": "https://www.bleepingcomputer.com/news/security/the-huntress-tragic-quadrant-ranking-threats-hitting-businesses-hardest/",
-      "date": "2026-10-27T14:01:11Z"
-    },
-    {
       "title": "GoAhead TLS Flaws Allow Revoked Client Certificates and Enable Session Decryption",
       "description": "[FEEDS] The GoAhead embedded web server loaded a certificate revocation list into its default TLS backend but never turned revocation checking on, so a revoked client certificate could still pass login on affected setups. The flaw is in builds that use the...",
       "url": "https://thehackernews.com/2026/10/goahead-tls-flaws-allow-revoked-client.html",
@@ -42,6 +54,12 @@
       "description": "[FEEDS] Apple on Monday backported fixes for a high-severity security flaw that was exploited in real-world cyber attacks to older devices. The vulnerability, tracked as CVE-2026-86950 (CVSS score: 8.8), is an out-of-bounds write affecting CoreGraphics that...",
       "url": "https://thehackernews.com/2026/10/apple-backports-fix-for-exploited.html",
       "date": "2026-10-27T13:59:09Z"
+    },
+    {
+      "title": "How might you build a career on a combination of interests?",
+      "description": "[SILICONREPUBLIC.COM] TCS' Virginia Lee discusses how she found her way into cybersecurity and the many ways professionals can create career resilience.",
+      "url": "https://www.siliconrepublic.com/people/build-career-combination-interests-tcs-skills-innovation",
+      "date": "2026-10-27T12:34:10Z"
     },
     {
       "title": "Microsoft Authenticator Flaw Let Permissionless Android Apps Steal Work Account Tokens",
@@ -56,10 +74,28 @@
       "date": "2026-10-27T12:00:00Z"
     },
     {
+      "title": "Questions for board over massive Ninewells data breach",
+      "description": "[THE HERALD] A clinical scientist at Ninewells Hospital was sacked after accessing 386 patient records 497 times without authority \u2014 a breach the health board never made public, now exposed through an employment tribunal judgment.",
+      "url": "https://www.heraldscotland.com/news/26673569.questions-board-massive-ninewells-data-breach/",
+      "date": "2026-10-27T11:48:56Z"
+    },
+    {
+      "title": "Kingdom Come developer Warhorse Studios hit by cyberattack",
+      "description": "[ALTCHAR] Warhorse Studios, the developer behind Kingdom Come: Deliverance series, have confirmed they\u2019ve been hit by a cyberattack. The studio say they\u2019re working with cybersecurity specialists to secure their systems and understand the full extent of what...",
+      "url": "https://www.altchar.com/game-news/kingdom-come-developer-warhorse-studios-hit-by-cyberattack-aXW9h4f2otfh",
+      "date": "2026-10-27T11:48:35Z"
+    },
+    {
       "title": "Keystone to Destroy 18,835 Hardware Wallets After Hackers Steal Device Verification Key",
       "description": "[FEEDS] An attacker who gained access to Keystone's website obtained the key that its hardware wallets use to prove they are genuine, the company said in a&nbsp;statement&nbsp;on October 26. Someone with that key could build counterfeit devices that pass...",
       "url": "https://thehackernews.com/2026/10/keystone-to-destroy-18835-hardware.html",
       "date": "2026-10-27T11:46:00Z"
+    },
+    {
+      "title": "As Microsoft offers buyouts to 60,000 employees, a tech leader explains the hidden risks of such a large-scale offer",
+      "description": "[THE ECONOMIC TIMES] Microsoft's voluntary buyout offer to around 60,000 employees has led a technology advisor to flag two risks companies may overlook when experienced workers leave. Rob Zelinka warns that businesses could lose critical institutional knowledge and...",
+      "url": "https://economictimes.indiatimes.com/magazines/panache/as-microsoft-offers-buyouts-to-60000-employees-a-tech-leader-explains-the-hidden-risks-of-such-a-large-scale-offer/articleshow/135231327.cms",
+      "date": "2026-10-27T11:41:00Z"
     },
     {
       "title": "AI-Generated Fake Login Pages Are Making Account Takeovers Easier",
@@ -74,76 +110,40 @@
       "date": "2026-10-27T11:01:26Z"
     },
     {
-      "title": "Apple backports CoreGraphics zero-day patches to older iPhones",
-      "description": "[BLEEPINGCOMPUTER] \u200bApple has backported security patches released last month to older iPhones and iPads, addressing a zero-day bug exploited in \"extremely sophisticated\" targeted attacks on iOS devices. [...]",
-      "url": "https://www.bleepingcomputer.com/news/apple/apple-backports-coregraphics-zero-day-patches-to-older-iphones/",
-      "date": "2026-10-27T10:36:12Z"
+      "title": "Alliance Medinet says access path used in data breach has been secured",
+      "description": "[CNA] Cybersecurity specialists KPMG have validated the fixes implemented after the breach, which compromised the personal data of about 110,000 members.",
+      "url": "https://www.channelnewsasia.com/singapore/alliance-medinet-alliance-healthcare-group-unauthorised-access-route-secured-data-breach-6496186",
+      "date": "2026-10-27T10:52:07Z"
     },
     {
-      "title": "Energy giant ENGIE discloses data breach affecting customers",
-      "description": "[BLEEPINGCOMPUTER] French energy giant ENGIE, one of the world's largest power and natural gas providers, confirmed that attackers stole customer data after breaching a marketing platform used by business partners. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/energy-giant-engie-discloses-data-breach-affecting-customers/",
-      "date": "2026-10-27T09:25:50Z"
+      "title": "Ukraine and Japan Expand Cooperation in AI, Drones and Advanced Technologies",
+      "description": "[EUROPE SAYS] Joint projects in artificial intelligence, drones and unmanned systems, robotics, energy and cybersecurity, as well as support mechanisms for",
+      "url": "https://www.europesays.com/3335038/",
+      "date": "2026-10-27T10:48:22Z"
     },
     {
-      "title": "Think you can spot a scam? AI is making it harder",
-      "description": "[WJLA] Artificial Intelligence (AI) is changing everything, including how criminals steal from you. Cybersecurity is no longer just about keeping your password safe.",
-      "url": "https://wjla.com/news/local/ai-scams-fraud-how-to-avoid-prevention-phone-voice-cloning-phishing-emails-fake-websites-identity-theft-cybersecurity-tips-authentication-passkeys-explained-online-banking-security-financial-fraud-warning-signs",
-      "date": "2026-10-27T08:02:08Z"
+      "title": "CAIT, NASSCOM to launch nationwide campaign on AI adoption, cyber fraud prevention among traders: Praveen Khandelwal",
+      "description": "[THE ECONOMIC TIMES] The Confederation of All India Traders (CAIT) and NASSCOM will jointly launch a nationwide campaign to promote artificial intelligence (AI) adoption and cybersecurity awareness to boost business growth and prevent cyber fraud, said Praveen...",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/cait-nasscom-to-launch-nationwide-campaign-on-ai-adoption-cyber-fraud-prevention-among-traders-praveen-khandelwal/articleshow/135231306.cms",
+      "date": "2026-10-27T10:40:23Z"
     },
     {
-      "title": "A cybersecurity issue forces a major US hospital to divert patients and close clinics",
-      "description": "[THE STAR] A major hospital network in New Mexico raced to fix a cybersecurity issue on Oct 26 that forced it to send ambulances to other hospitals and left the state without an emergency department capable of treating the most serious injuries.",
-      "url": "https://www.thestar.com.my/tech/tech-news/2026/10/27/a-cybersecurity-issue-forces-a-major-us-hospital-to-divert-patients-and-close-clinics",
-      "date": "2026-10-27T07:00:00Z"
+      "title": "Hornetsecurity by Proofpoint Ransomware Report 2027 reveals nearly half of companies don't trust their own defences",
+      "description": "[PR NEWSWIRE UK] /PRNewswire/ -- Leading global cybersecurity company Hornetsecurity by Proofpoint has launched its Ransomware Report 2027, revealing that organisations are...",
+      "url": "https://www.prnewswire.co.uk/news-releases/hornetsecurity-by-proofpoint-ransomware-report-2027-reveals-nearly-half-of-companies-dont-trust-their-own-defences-302920556.html",
+      "date": "2026-10-27T10:30:00Z"
     },
     {
-      "title": "Alibaba's AI tried to send data to China",
-      "description": "[NEWSBYTES] Canadian AI firm Cohere reported that Alibaba's Qwen3.8-Flash-Next model attempted to upload a file to a Beijing server during a cybersecurity test.",
-      "url": "https://www.newsbytesapp.com/news/science/alibaba-s-ai-tried-to-send-data-to-china/story",
-      "date": "2026-10-27T06:54:56Z"
+      "title": "CAIT, NASSCOM to launch nationwide campaign on AI adoption, cyber fraud prevention among traders: Praveen Khandelwal",
+      "description": "[DEVDISCOURSE] The Confederation of All India Traders (CAIT) and NASSCOM will jointly launch a nationwide campaign to promote artificial intelligence (AI) adoption and cybersecurity awareness to boost business growth and prevent cyber fraud, said Praveen...",
+      "url": "https://www.devdiscourse.com/article/business/3997970-cait-nasscom-to-launch-nationwide-campaign-on-ai-adoption-cyber-fraud-prevention-among-traders-praveen-khandelwal",
+      "date": "2026-10-27T10:29:18Z"
     },
     {
-      "title": "Alliance Medinet data breach contained, says parent company",
-      "description": "[THE STRAITS TIMES] Alliance Medinet data breach contained after hacker access is blocked, with no further compromise detected, says parent company. Read more at straitstimes.com.",
-      "url": "https://www.straitstimes.com/singapore/no-further-compromise-to-alliance-medinets-system-hacker-access-blocked-says-parent-company",
-      "date": "2026-10-27T06:43:30Z"
-    },
-    {
-      "title": "How An AI Startup Hacked Anthropic In Just 12 Hours And Exposed Employee Details",
-      "description": "[TIMES NOW] A cybersecurity startup accessed Anthropic\u2019s internal systems in under 12 hours using AI agents, exposing sensitive company data. The incident raises fresh concerns about AI security and agents bypassing access restrictions., Technology & Science,...",
-      "url": "https://www.timesnownews.com/technology-science/how-an-ai-startup-hacked-anthropic-in-just-12-hours-and-exposed-employee-details-article-156412810",
-      "date": "2026-10-27T05:56:34Z"
-    },
-    {
-      "title": "Major holiday park operators warn guests about fraudulent emails, messages seeking credit card details",
-      "description": "[ABC (AUSTRALIAN BROADCASTING CORPORATION)] Australian travellers are being warned their personal information may have been exposed following a cybersecurity breach involving an accommodation software company.",
-      "url": "https://www.abc.net.au/news/2026-10-27/rms-holiday-booking-software-hacked/107315194",
-      "date": "2026-10-27T05:24:30Z"
-    },
-    {
-      "title": "IOB may raise \u20b95,000 crore of capital from December quarter-end: MD Srivastava",
-      "description": "[LIVEMINT] The capital raise could reduce the government\u2019s shareholding in IO. The bank plans to bolster cybersecurity safeguards by engaging consultants and increasing technology spending",
-      "url": "https://www.livemint.com/industry/banking/indian-overseas-bank-rs-5000-crore-capital-raise-government-stake-11793072741295.html",
-      "date": "2026-10-27T04:55:01Z"
-    },
-    {
-      "title": "CISA Confirms Active Exploitation of Two PHP2Shell Flaws Enabling Remote Code Execution",
-      "description": "[THE HACKER NEWS] CISA adds two exploited PHP2Shell flaws to its KEV catalog after honeypot tests confirm remote code execution on a single-worker mod_php setup.",
-      "url": "https://thehackernews.com/2026/10/cisa-confirms-active-exploitation-of.html",
-      "date": "2026-10-27T04:37:00Z"
-    },
-    {
-      "title": "This Qwen AI Model Tried To Send Data To China On Its Own: Know What Happened",
-      "description": "[TIMES NOW] Alibaba\u2019s Qwen AI model attempted to upload data to a server in Beijing during a cybersecurity test by Cohere. The request was blocked, raising questions about AI safety, model training and data security., Technology & Science, Times Now",
-      "url": "https://www.timesnownews.com/technology-science/this-qwen-ai-model-tried-to-send-data-to-china-on-its-own-know-what-happened-article-156412213",
-      "date": "2026-10-27T03:59:04Z"
-    },
-    {
-      "title": "AI agents accessed Anthropic's salary records and Slack messages in under 12 hours, report claims",
-      "description": "[FIRSTPOST] Cybersecurity startup Cathedral reportedly used autonomous AI agents to access parts of Anthropic's internal business systems, including HR records and Slack messages. The incident has renewed concerns about vulnerabilities in third-party enterprise...",
-      "url": "https://www.firstpost.com/tech/ai-agents-accessed-anthropics-salary-records-and-slack-messages-in-under-12-hours-report-claims-14055575.html",
-      "date": "2026-10-27T03:13:54Z"
+      "title": "CAIT, NASSCOM to launch nationwide campaign on AI adoption, cyber fraud prevention among traders: Praveen Khandelwal",
+      "description": "[THE TRIBUNE] The Confederation of All India Traders (CAIT) and NASSCOM will jointly launch a nationwide campaign to promote artificial intelligence (AI) adoption and cybersecurity awareness to boost business growth and prevent cyber fraud, said Praveen...",
+      "url": "https://www.tribuneindia.com/news/business/cait-nasscom-to-launch-nationwide-campaign-on-ai-adoption-cyber-fraud-prevention-among-traders-praveen-khandelwal/",
+      "date": "2026-10-27T10:27:36Z"
     },
     {
       "title": "ISC Stormcast For Tuesday, October 27th, 2026 https://isc.sans.edu/podcastdetail/10152, (Tue, Oct 27th)",
