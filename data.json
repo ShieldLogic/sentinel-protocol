@@ -1,245 +1,137 @@
 {
-  "updated": "2026-10-29 14:46:18 UTC",
-  "news": [
-    {
-      "title": "Microsoft fixes Remote Desktop failures caused by recent Windows updates",
-      "description": "[BLEEPINGCOMPUTER] Microsoft has resolved a known issue that prevents non-admin users from connecting to devices via Remote Desktop when the \"Administrator protection\" security feature is enabled. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-remote-desktop-failures-caused-by-recent-windows-updates/",
-      "date": "2026-10-29T14:35:40Z"
-    },
-    {
-      "title": "3 Ways AI Agents Already Operate in Your Browser",
-      "description": "[BLEEPINGCOMPUTER] AI agents can control authenticated browsers, interact with corporate applications, and access sensitive data while appearing to act as legitimate employees. Keep Aware examines three ways agents operate inside browsers and why traditional security...",
-      "url": "https://www.bleepingcomputer.com/news/security/3-ways-ai-agents-already-operate-in-your-browser/",
-      "date": "2026-10-29T14:00:10Z"
-    },
-    {
-      "title": "CISA warns of Fragnesia Linux flaw chained in PHP2Shell attacks",
-      "description": "[BLEEPINGCOMPUTER] The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies to patch a high-severity Linux kernel privilege escalation bug that attackers are chaining with the PHP2Shell flaws in the wild. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-fragnesia-linux-flaw-chained-in-php2shell-attacks/",
-      "date": "2026-10-29T13:59:48Z"
-    },
-    {
-      "title": "Google's Gemini 4 Carbon Leads Benchmarks for Finding, Exploiting, and Patching Vulnerabilities",
-      "description": "[FEEDS] Google on Wednesday took the wraps off Gemini 4 Carbon, its latest frontier model with state-of-the-art cybersecurity and long-horizon capabilities. \"It shows significant gains across coding and agentic tasks as well as across key capabilities...",
-      "url": "https://thehackernews.com/2026/10/googles-gemini-4-carbon-leads.html",
-      "date": "2026-10-29T13:42:40Z"
-    },
-    {
-      "title": "Windows 11 KB5127936 update released with 41 changes and fixes",
-      "description": "[BLEEPINGCOMPUTER] Microsoft released the KB5127936 preview cumulative update for Windows 11 versions 25H2 and 26H2, with 41 changes, including File Explorer and Cloud rebuild improvements. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5127936-update-released-with-41-changes-and-fixes/",
-      "date": "2026-10-29T12:00:07Z"
-    },
-    {
-      "title": "Webinar: How to Build AI Threat Readiness Into Your Security Operations",
-      "description": "[FEEDS] Security teams have spent years trying to detect threats faster. AI is changing the harder part: how much time defenders have left to act. Advanced AI models can now help attackers discover vulnerabilities, generate exploit code, and move through...",
-      "url": "https://thehackernews.com/2026/08/learn-how-to-build-security-operations.html",
-      "date": "2026-10-29T11:39:41Z"
-    },
-    {
-      "title": "Telegram Android Flaw Lets Attackers Run Code When Users Answer Voice Calls",
-      "description": "[FEEDS] A flaw in Telegram for Android allowed an attacker to run code on a victim's phone via a voice call once the victim answered, according to security startup NebuSec. The attacker needed only an ordinary Telegram account. Telegram fixed the flaw in...",
-      "url": "https://thehackernews.com/2026/10/telegram-android-flaw-lets-attackers.html",
-      "date": "2026-10-29T11:39:18Z"
-    },
-    {
-      "title": "The Rise of the Threat Operator: How AI Will Redefine Security Operations and Careers",
-      "description": "[FEEDS] AI is beginning to take over much of the work that has traditionally defined the security analyst's job. Investigating alerts, collecting evidence, correlating activity across tools, and executing response actions are becoming tasks that AI systems...",
-      "url": "https://thehackernews.com/2026/10/the-rise-of-threat-operator-how-ai-will.html",
-      "date": "2026-10-29T11:33:41Z"
-    },
-    {
-      "title": "26,400 Valid Cloud and AI Credentials Found Exposed in Public Gitee Repositories",
-      "description": "[FEEDS] 26,400 credentials that developers left in public code on Gitee, a Chinese code-hosting service, still worked when a researcher tested them. Anyone who copied one from that code could have used it. Independent researcher Ben Zimmermann found them by...",
-      "url": "https://thehackernews.com/2026/10/26400-valid-cloud-and-ai-credentials.html",
-      "date": "2026-10-29T11:33:15Z"
-    },
-    {
-      "title": "New Cisco firewall zero-day exploited to crash SSL VPN devices",
-      "description": "[BLEEPINGCOMPUTER] Cisco released security updates to patch a denial-of-service zero-day in Adaptive Security Appliance (ASA) and Threat Defense (FTD) software that attackers are exploiting to remotely crash vulnerable firewall devices. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-firewall-zero-day-exploited-to-crash-ssl-vpn-devices/",
-      "date": "2026-10-29T11:10:13Z"
-    },
-    {
-      "title": "Cisco Patches Actively Exploited ASA and FTD VPN Flaw That Can Crash Firewalls",
-      "description": "[FEEDS] Cisco has released patches to address a high-severity security flaw in Secure Firewall Adaptive Security Appliance (ASA) Software and Secure Firewall Threat Defense (FTD) Software that it said has been exploited in the wild. The vulnerability,...",
-      "url": "https://thehackernews.com/2026/10/cisco-patches-actively-exploited-asa.html",
-      "date": "2026-10-29T10:44:46Z"
-    },
-    {
-      "title": "Deploying a Local Ghidra Server for Your Malware Analysis Lab, (Thu, Oct 29th)",
-      "description": "[ISC] Building your malware analysis lab is a key point before playing with malware. Today, thanks to virtualization, it&&#x23&#x3b;x26&#x3b;&#x23&#x3b;39&#x3b;s convenient to play with snapshots in your lab. Start a new investigation from a clean...",
-      "url": "https://isc.sans.edu/diary/rss/33470",
-      "date": "2026-10-29T06:17:41Z"
-    },
-    {
-      "title": "ISC Stormcast For Thursday, October 29th, 2026 https://isc.sans.edu/podcastdetail/10156, (Thu, Oct 29th)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33468",
-      "date": "2026-10-29T03:10:12Z"
-    },
-    {
-      "title": "Google unveils Gemini 4 Carbon with top AI benchmark score, expands focus on cybersecurity",
-      "description": "[THE TRIBUNE] Google has unveiled Gemini 4 Carbon, its latest artificial intelligence model, which ranks first on the Artificial Analysis Intelligence Index with a score of 59 and shows improved capabilities in detecting software vulnerabilities, exploiting them...",
-      "url": "https://www.tribuneindia.com/news/business/google-unveils-gemini-4-carbon-with-top-ai-benchmark-score-expands-focus-on-cybersecurity/",
-      "date": "2026-10-29T02:27:35Z"
-    },
-    {
-      "title": "Google unveils Gemini 4 Carbon with top AI benchmark score, expands focus on cybersecurity",
-      "description": "[ANI (ASIAN NEWS INTERNATIONAL)] Google has unveiled Gemini 4 Carbon, its latest artificial intelligence model, which ranks first on the Artificial Analysis Intelligence Index with a score of 59 and shows improved capabilities in detecting software vulnerabilities, exploiting them...",
-      "url": "https://www.aninews.in/news/business/google-unveils-gemini-4-carbon-with-top-ai-benchmark-score-expands-focus-on-cybersecurity20261029075428/",
-      "date": "2026-10-29T02:24:28Z"
-    },
-    {
-      "title": "Yet Another ClickFix Campaign, (Wed, Oct 28th)",
-      "description": "[ISC] Introduction&#xd;",
-      "url": "https://isc.sans.edu/diary/rss/33466",
-      "date": "2026-10-29T00:42:15Z"
-    },
-    {
-      "title": "AI-powered cyberattacks siphon \u20b9300 crore from small NBFCs in two months",
-      "description": "[THE ECONOMIC TIMES] Recent cyberattacks have inflicted an estimated loss of \u20b9300 crore on India's non-banking financial companies, with around 150 fraud cases reported. Focus has shifted towards identifying Chinese hacking platforms and AI toolkit involvement in these...",
-      "url": "https://economictimes.indiatimes.com/industry/banking/finance/ai-powered-cyberattacks-siphon-300-crore-from-small-nbfcs-in-two-months/articleshow/135278215.cms",
-      "date": "2026-10-29T00:00:00Z"
-    },
-    {
-      "title": "Bithumb hack leaks staff data and regulators launch raid",
-      "description": "[CRYPTOSLATE] South Korean regulators launched inspections at Bithumb after a suspected data breach raised concerns over customer exposure.",
-      "url": "https://cryptoslate.com/bithumb-faces-on-site-inspections-after-reporting-signs-of-employee-data-leak/",
-      "date": "2026-10-28T23:40:57Z"
-    },
-    {
-      "title": "Google debuts flagship Gemini 4 Carbon model with cybersecurity upgrades",
-      "description": "[SILICONANGLE NEWS] Google debuts flagship Gemini 4 Carbon model with cybersecurity upgrades - SiliconANGLE",
-      "url": "https://siliconangle.com/2026/10/28/google-debuts-flagship-gemini-4-carbon-model-with-cybersecurity-upgrades/",
-      "date": "2026-10-28T23:27:13Z"
-    },
-    {
-      "title": "Australian Cybersecurity Teams Under Pressure as AI Exposes Skills Gaps and Drives Head Count Reduction",
-      "description": "[ITWIRE] New Barracuda Research Study Reveals 45% of Australian Organisations Have Replaced or Eliminated Entry-Level Security Roles With AI, While 68% of Security Teams Have AI-Related...",
-      "url": "https://itwire.com/guest-articles/guest-research/australian-cybersecurity-teams-under-pressure-as-ai-exposes-skills-gaps-and-drives-head-count-reduction",
-      "date": "2026-10-28T23:12:42Z"
-    },
-    {
-      "title": "Dell Technologies Strengthens Cybersecurity and Resilience Across AI Environments, Identity and Infrastructure",
-      "description": "[ITWIRE] New services and capabilities address emerging attack surfaces that most resilience strategies weren't built to handle",
-      "url": "https://itwire.com/business-it-news/security/dell-technologies-strengthens-cybersecurity-and-resilience-across-ai-environments-identity-and-infrastructure",
-      "date": "2026-10-28T22:41:19Z"
-    },
-    {
-      "title": "Cybersecurity Awareness: The Importance of Getting the Basics Right",
-      "description": "[ITWIRE] Recent reports of AI systems acting beyond their intended scope are a timely reminder to get the basics right. We wouldn't give a new contractor access to every file with no...",
-      "url": "https://itwire.com/guest-articles/guest-opinion/cybersecurity-awareness-the-importance-of-getting-the-basics-right",
-      "date": "2026-10-28T22:34:25Z"
-    },
-    {
-      "title": "Ransomware Pressure Moves Beyond Enterprise Systems to Theaten Employees' Families",
-      "description": "[EUROPE SAYS] Ransomware Pressure Moves Beyond Enterprise Systems to Theaten Employees' Families",
-      "url": "https://www.europesays.com/3338277/",
-      "date": "2026-10-28T22:33:26Z"
-    },
-    {
-      "title": "AI cybersecurity shifts to governing agents with Okta identity",
-      "description": "[SILICONANGLE NEWS] AI cybersecurity includes governing agents, and Okta\u2019s Harish Peri explains why agent identity, delegation and auditability matter.",
-      "url": "https://siliconangle.com/2026/10/28/ai-cybersecurity-shifts-governing-agents-okta-identity-aicybersecurityandresiliencesummit/",
-      "date": "2026-10-28T21:07:32Z"
-    },
-    {
-      "title": "Police seize Virtualine bulletproof service tied to ransowmare, cybercrime",
-      "description": "[BLEEPINGCOMPUTER] U.S. law enforcement has seized the primary domain of Virtualine, a bulletproof hosting service advertised on cybercrime forums for facilitating illegal activities. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/police-seize-virtualine-bulletproof-service-tied-to-ransowmare-cybercrime/",
-      "date": "2026-10-28T20:47:22Z"
-    },
-    {
-      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
-      "description": "[CISA] CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-41709 Broadcom VMWare ESX Insufficient Logging Vulnerability CVE-2026-46300 Linux Kernel Missing...",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/10/28/cisa-adds-two-known-exploited-vulnerabilities-catalog",
-      "date": "2026-10-28T12:00:00Z"
-    },
-    {
-      "title": "Studying Fraudulent North Korean IT Workers",
-      "description": "[SCHNEIER] Researchers set up a fake start-up company to study fraudulent North Korean IT workers.",
-      "url": "https://www.schneier.com/blog/archives/2026/10/studying-fraudulent-north-korean-it-workers.html",
-      "date": "2026-10-28T11:05:00Z"
-    },
-    {
-      "title": "ISC Stormcast For Wednesday, October 28th, 2026 https://isc.sans.edu/podcastdetail/10154, (Wed, Oct 28th)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33464",
-      "date": "2026-10-28T02:30:11Z"
-    },
-    {
-      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
-      "description": "[CISA] CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-48356 Adobe Commerce and Magento Unrestricted Upload of File with Dangerous Type Vulnerability...",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/10/27/cisa-adds-two-known-exploited-vulnerabilities-catalog",
-      "date": "2026-10-27T12:00:00Z"
-    },
-    {
-      "title": "Hiding Capabilities in AI Models",
-      "description": "[SCHNEIER] Interesting research: &#8220;AI Models Can Provably Hide Arbitrary Capabilities&#8221; Abstract: Capability evaluations aim to surface dangerous model behaviors before deployment, but their reliability depends on the assumption that hidden...",
-      "url": "https://www.schneier.com/blog/archives/2026/10/hiding-capabilities-in-ai-models.html",
-      "date": "2026-10-27T11:01:26Z"
-    },
-    {
-      "title": "ISC Stormcast For Tuesday, October 27th, 2026 https://isc.sans.edu/podcastdetail/10152, (Tue, Oct 27th)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33462",
-      "date": "2026-10-27T02:55:13Z"
-    },
-    {
-      "title": "Apple Patches for October 2026, (Mon, Oct 26th)",
-      "description": "[ISC] Apple today released patches for 304 vulnerabilties. This number is still in line with prior Apple updates, and comes just about a month after the last apple update.&#xd;",
-      "url": "https://isc.sans.edu/diary/rss/33458",
-      "date": "2026-10-27T02:09:55Z"
-    },
-    {
-      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
-      "description": "[CISA] CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog and updated the PHP Alert, Critical Vulnerabilities in PHP Require Immediate Patching: &nbsp; CVE-2026-109618 \u2013 PHP Memory Corruption Vulnerability&nbsp;...",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/10/26/cisa-adds-two-known-exploited-vulnerabilities-catalog",
-      "date": "2026-10-26T12:00:00Z"
-    },
-    {
-      "title": "Bias in Qwen3-Coder Model",
-      "description": "[SCHNEIER] Interesting research: TL;DR: Chinese AI models now sit inside Western products, and some carry geopolitical triggers: tell the model who the code is for, and the security of what it writes changes. For the first time, we showed that this...",
-      "url": "https://www.schneier.com/blog/archives/2026/10/bias-in-qwen3-coder-model.html",
-      "date": "2026-10-26T11:03:31Z"
-    },
-    {
-      "title": "Friday Squid Blogging: Increasing Squid Populations",
-      "description": "[SCHNEIER] This article in Nature argues that it&#8217;s due to an overfishing of predators and warming sea temperatures. As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered. Blog moderation...",
-      "url": "https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-increasing-squid-populations.html",
-      "date": "2026-10-23T21:00:09Z"
-    },
-    {
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "description": "[CISA] CISA has added one new vulnerability to its&nbsp;Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-110447 Collabora Online \u2013 Built-in CODE Server OS Command Injection Vulnerability&nbsp; This type of...",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/10/23/cisa-adds-one-known-exploited-vulnerability-catalog-0",
-      "date": "2026-10-23T12:00:00Z"
-    },
-    {
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "description": "[CISA] CISA has added one new vulnerability to its&nbsp;Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-114625 Arista VeloCloud Orchestrator SQL Injection Vulnerability This type of vulnerability is a...",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/10/23/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "date": "2026-10-23T12:00:00Z"
-    },
-    {
-      "title": "Compromised TLS Certificates",
-      "description": "[SCHNEIER] The Indian CA eMudhra Limited has eight TLS certificates with laughably weak private keys: The compromised eMudhra keys were defective at a level that\u2019s challenging the imagination of many of the engineers studying the incident. A normal size for a...",
-      "url": "https://www.schneier.com/blog/archives/2026/10/compromised-tls-certificates.html",
-      "date": "2026-10-23T11:04:22Z"
-    },
-    {
-      "title": "New Serious PHP Vulnerabilities Released and Patched",
-      "description": "[SCHNEIER] PHP maintainers have released fixes for two critical vulnerabilities: PHP 8.5.12, 8.4.27, 8.3.36 and 8.2.35 fix two critical vulnerabilities that can allow unauthenticated remote code execution. All PHP users are strongly encouraged to update...",
-      "url": "https://www.schneier.com/blog/archives/2026/10/new-serious-php-vulnerabilities-released-and-patched.html",
-      "date": "2026-10-22T13:26:51Z"
-    },
-    {
-      "title": "Critical Vulnerabilities in PHP Require Immediate Patching",
-      "description": "[CISA] Update October 26, 2026:&nbsp; CISA has updated this Alert to reflect the addition of CVE-2026-109618 and CVE-2026-109619 to its Known Exploited Vulnerabilities (KEV) Catalog on Oct. 26, 2026.&nbsp;&nbsp; Update October 23, 2026:&nbsp; CISA has...",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/10/21/critical-vulnerabilities-php-require-immediate-patching",
-      "date": "2026-10-21T12:00:00Z"
-    }
-  ]
+    "title": "Sentinel Protocol",
+    "tagline": "Perimeter Intelligence Sync",
+    "updated": "2026-10-29 17:17 UTC",
+    "news": [
+        {
+            "source": {
+                "id": null,
+                "name": "Nullpt.rs"
+            },
+            "author": "hazebooth",
+            "title": "Why Is This Fingerprinting Script Creating Bioweapons?",
+            "description": "Article URL: https://nullpt.rs/fingerprinting-bioweapons\nComments URL: https://news.ycombinator.com/item?id=50276998\nPoints: 5\n# Comments: 0",
+            "url": "https://nullpt.rs/fingerprinting-bioweapons",
+            "urlToImage": "https://nullpt.rs/opengraph-image.jpg",
+            "publishedAt": "2026-10-28T17:13:29Z",
+            "content": "Why Is This Fingerprinting Script Creating Bioweapons?\r\nPreamble\r\nI've always had a fascination with reverse-engineering browser fingerprinting scripts. Most of my time has been spent looking at the \u2026 [+11881 chars]"
+        },
+        {
+            "source": {
+                "id": "next-big-future",
+                "name": "Next Big Future"
+            },
+            "author": "cybernewswire",
+            "title": "OffSec Launches Free PHP2Shell Lab Following Critical Vulnerability Discovery",
+            "description": "New York, United States, 28th October 2026, CyberNewswire",
+            "url": "https://www.nextbigfuture.com/2026/10/offsec-launches-free-php2shell-lab-following-critical-vulnerability-discovery.html",
+            "urlToImage": null,
+            "publishedAt": "2026-10-28T17:10:40Z",
+            "content": "New York, United States, October 28th, 2026, CyberNewswire\r\nNew hands-on lab lets security practitioners explore PHP2Shell exploitation firsthand as AI-assisted research reshapes vulnerability discov\u2026 [+6665 chars]"
+        },
+        {
+            "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            "author": "Sead Fadilpa\u0161i\u0107",
+            "title": "A security flaw in these widely used barcode scanners could open up warehouses and stores to cyberattack",
+            "description": "A simple barcode scanner could be the gateway to a large-scale cyberattack, Kaspersky is warning.",
+            "url": "https://www.techradar.com/pro/security/a-security-flaw-in-these-widely-used-barcode-scanners-could-open-up-warehouses-and-stores-to-cyberattack",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/4ZfeZkmNTqyXyHPQxVPADT-2560-80.jpg",
+            "publishedAt": "2026-10-28T17:10:00Z",
+            "content": "<ul><li>Researchers find Bluetooth flaws in warehouse barcode scanners that could provide a foothold into enterprise networks</li><li>Attackers could spoof scanner input, inject keystrokes, and poten\u2026 [+4668 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Help Net Security"
+            },
+            "author": "Mirko Zorz",
+            "title": "GitHub\u2019s npm package firewall can block brand-new versions before they install",
+            "description": "GitHub announced a package firewall that checks npm packages against an enterprise\u2019s policy before they install. It blocks known malware, critical vulnerabilities, and brand-new versions, and any developer can turn it on by pointing npm at the firewall. The c\u2026",
+            "url": "https://www.helpnetsecurity.com/2026/10/28/github-package-firewall-npm/",
+            "urlToImage": "https://img.helpnetsecurity.com/wp-content/uploads/2026/10/28084444/github-logo-2026.webp",
+            "publishedAt": "2026-10-28T17:09:14Z",
+            "content": "GitHub announced a package firewall that checks npm packages against an enterprises policy before they install. It blocks known malware, critical vulnerabilities, and brand-new versions, and any deve\u2026 [+2093 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9to5google.com"
+            },
+            "author": "Abner Li",
+            "title": "Google announces Gemini 4 Carbon with \u2018significant gains across coding and agentic tasks\u2019",
+            "description": "Following the launch of Argon two weeks ago, Google today announced Gemini 4 Carbon as its next frontier model.\n\n\n\n more\u2026",
+            "url": "http://9to5google.com/2026/10/28/gemini-4-carbon-announcement/",
+            "urlToImage": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Gemini-4-Carbon-cover.webp?resize=1200,628",
+            "publishedAt": "2026-10-28T17:08:32Z",
+            "content": "Following the launch of Argon two weeks ago, Google today announced Gemini 4 Carbon as its next frontier model.\r\nGoogle notes significant gains in coding, agentic tasks, cybersecurity defense (findin\u2026 [+187 chars]"
+        },
+        {
+            "source": {
+                "id": "financial-post",
+                "name": "Financial Post"
+            },
+            "author": "GlobeNewswire",
+            "title": "When disaster strikes, recreation facilities become essential",
+            "description": "TORONTO, Oct. 28, 2026 (GLOBE NEWSWIRE) \u2014 The Ontario Recreation Facilities Association (ORFA) wrapped up its annual Symposium this week focused on the vital role of recreation facilities in emergency management planning. \u201cWhile your local arena may be a desi\u2026",
+            "url": "https://financialpost.com/globe-newswire/when-disaster-strikes-recreation-facilities-become-essential",
+            "urlToImage": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/10/fort-william-gardens-thunder-bay-1.jpeg",
+            "publishedAt": "2026-10-28T17:06:23Z",
+            "content": "TORONTO, Oct. 28, 2026 (GLOBE NEWSWIRE) The Ontario Recreation Facilities Association (ORFA) wrapped up its annual Symposium this week focused on the vital role of recreation facilities in emergency \u2026 [+5306 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Crypto Briefing"
+            },
+            "author": "Diego Almada Lopez",
+            "title": "Google DeepMind announces Gemini 4 Carbon with cybersecurity focus",
+            "description": "Gemini 4 Carbon's focus on cybersecurity and long-horizon tasks could redefine industry standards, impacting future AI deployment strategies.\nThe post Google DeepMind announces Gemini 4 Carbon with cybersecurity focus appeared first on Crypto Briefing.",
+            "url": "https://cryptobriefing.com/google-gemini-4-carbon-cybersecurity-model/",
+            "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/10/28130509/library-google-deepmind-announces-gemini-4-carbon-with-cybersecu-800x450.png",
+            "publishedAt": "2026-10-28T17:05:14Z",
+            "content": "Google calls its newest frontier model its strongest yet, with an emphasis on cybersecurity and long-horizon tasksAlphabet Inc. and its peers\r\nMissing figures stay unavailable. Forward P/E requires a\u2026 [+4215 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Rt-english.com"
+            },
+            "author": "RT",
+            "title": "Russia-Africa summit: Putin\u2019s key proposals on trade, technology and Western finance alternatives",
+            "description": "Russia-Africa forum: Putin outlined plans for closer Russia-Africa ties, from banking and energy to education, as African leaders seek investment and more local industry",
+            "url": "https://rt-english.com/russia/647950-russia-africa-summit-putin/",
+            "urlToImage": "https://mf.b37mrtl.ru/files/2026.10/article/6ae21d482030270cc5380e33.jpg",
+            "publishedAt": "2026-10-28T17:05:09Z",
+            "content": "Russia and Africa can expand trade and share technology while reducing dependence on Western financial systems, President Vladimir Putin said at the Russia-Africa Economic and Humanitarian Forum in M\u2026 [+6621 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "SiliconANGLE News"
+            },
+            "author": "Sloane Kali Faye",
+            "title": "Keeping a human in the loop is one part of AI agent resilience",
+            "description": "Keeping a human in the loop is one way enterprises can govern AI agents\u2019 actions. As those agents take on more work, security teams also need to consider how they would detect problems and recover from their effects. The relationship between AI trust and cybe\u2026",
+            "url": "https://siliconangle.com/2026/10/28/human-in-the-loop-ai-agent-recovery-plans-aicybersecurityandresiliencesummit/",
+            "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/Day-1-Wrap-Clean.jpg",
+            "publishedAt": "2026-10-28T17:00:23Z",
+            "content": "Keeping a human in the loop is one way enterprises can govern AI agents\u2019 actions. As those agents take on more work, security teams also need to consider how they would detect problems and recover fr\u2026 [+5157 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Blog.google"
+            },
+            "author": "Koray KavukcuogluSVP, Google DeepMind and Chief AI Architect, Google",
+            "title": "Gemini 4 Carbon: our next frontier model",
+            "description": "Gemini 4 Carbon is our strongest model with state-of-the-art cybersecurity and long horizon capabilities.",
+            "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
+            "urlToImage": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/gemini_carbon_102726_social_share.png",
+            "publishedAt": "2026-10-28T17:00:00Z",
+            "content": "Today, were announcing the next frontier model: Gemini 4 Carbon, our strongest model with state-of-the-art cybersecurity and long horizon capabilities.\r\nCarbon ranks #1 on the recently updated v5.0 o\u2026 [+1473 chars]"
+        }
+    ]
 }
