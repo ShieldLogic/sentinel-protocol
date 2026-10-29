@@ -1,11 +1,71 @@
 {
-  "updated": "2026-10-29 07:48:45 UTC",
+  "updated": "2026-10-29 14:46:18 UTC",
   "news": [
     {
-      "title": "China-Linked Hackers Exploited VMware ESX Zero-Day to Reduce Audit Trail Visibility",
-      "description": "[FEEDS] The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a security flaw impacting Broadcom VMware ESX to its Known Exploited Vulnerabilities (KEV) catalog, after CrowdStrike revealed that it had been weaponized by a...",
-      "url": "https://thehackernews.com/2026/10/china-linked-hackers-exploited-vmware.html",
-      "date": "2026-10-29T06:22:33Z"
+      "title": "Microsoft fixes Remote Desktop failures caused by recent Windows updates",
+      "description": "[BLEEPINGCOMPUTER] Microsoft has resolved a known issue that prevents non-admin users from connecting to devices via Remote Desktop when the \"Administrator protection\" security feature is enabled. [...]",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-remote-desktop-failures-caused-by-recent-windows-updates/",
+      "date": "2026-10-29T14:35:40Z"
+    },
+    {
+      "title": "3 Ways AI Agents Already Operate in Your Browser",
+      "description": "[BLEEPINGCOMPUTER] AI agents can control authenticated browsers, interact with corporate applications, and access sensitive data while appearing to act as legitimate employees. Keep Aware examines three ways agents operate inside browsers and why traditional security...",
+      "url": "https://www.bleepingcomputer.com/news/security/3-ways-ai-agents-already-operate-in-your-browser/",
+      "date": "2026-10-29T14:00:10Z"
+    },
+    {
+      "title": "CISA warns of Fragnesia Linux flaw chained in PHP2Shell attacks",
+      "description": "[BLEEPINGCOMPUTER] The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies to patch a high-severity Linux kernel privilege escalation bug that attackers are chaining with the PHP2Shell flaws in the wild. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-fragnesia-linux-flaw-chained-in-php2shell-attacks/",
+      "date": "2026-10-29T13:59:48Z"
+    },
+    {
+      "title": "Google's Gemini 4 Carbon Leads Benchmarks for Finding, Exploiting, and Patching Vulnerabilities",
+      "description": "[FEEDS] Google on Wednesday took the wraps off Gemini 4 Carbon, its latest frontier model with state-of-the-art cybersecurity and long-horizon capabilities. \"It shows significant gains across coding and agentic tasks as well as across key capabilities...",
+      "url": "https://thehackernews.com/2026/10/googles-gemini-4-carbon-leads.html",
+      "date": "2026-10-29T13:42:40Z"
+    },
+    {
+      "title": "Windows 11 KB5127936 update released with 41 changes and fixes",
+      "description": "[BLEEPINGCOMPUTER] Microsoft released the KB5127936 preview cumulative update for Windows 11 versions 25H2 and 26H2, with 41 changes, including File Explorer and Cloud rebuild improvements. [...]",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5127936-update-released-with-41-changes-and-fixes/",
+      "date": "2026-10-29T12:00:07Z"
+    },
+    {
+      "title": "Webinar: How to Build AI Threat Readiness Into Your Security Operations",
+      "description": "[FEEDS] Security teams have spent years trying to detect threats faster. AI is changing the harder part: how much time defenders have left to act. Advanced AI models can now help attackers discover vulnerabilities, generate exploit code, and move through...",
+      "url": "https://thehackernews.com/2026/08/learn-how-to-build-security-operations.html",
+      "date": "2026-10-29T11:39:41Z"
+    },
+    {
+      "title": "Telegram Android Flaw Lets Attackers Run Code When Users Answer Voice Calls",
+      "description": "[FEEDS] A flaw in Telegram for Android allowed an attacker to run code on a victim's phone via a voice call once the victim answered, according to security startup NebuSec. The attacker needed only an ordinary Telegram account. Telegram fixed the flaw in...",
+      "url": "https://thehackernews.com/2026/10/telegram-android-flaw-lets-attackers.html",
+      "date": "2026-10-29T11:39:18Z"
+    },
+    {
+      "title": "The Rise of the Threat Operator: How AI Will Redefine Security Operations and Careers",
+      "description": "[FEEDS] AI is beginning to take over much of the work that has traditionally defined the security analyst's job. Investigating alerts, collecting evidence, correlating activity across tools, and executing response actions are becoming tasks that AI systems...",
+      "url": "https://thehackernews.com/2026/10/the-rise-of-threat-operator-how-ai-will.html",
+      "date": "2026-10-29T11:33:41Z"
+    },
+    {
+      "title": "26,400 Valid Cloud and AI Credentials Found Exposed in Public Gitee Repositories",
+      "description": "[FEEDS] 26,400 credentials that developers left in public code on Gitee, a Chinese code-hosting service, still worked when a researcher tested them. Anyone who copied one from that code could have used it. Independent researcher Ben Zimmermann found them by...",
+      "url": "https://thehackernews.com/2026/10/26400-valid-cloud-and-ai-credentials.html",
+      "date": "2026-10-29T11:33:15Z"
+    },
+    {
+      "title": "New Cisco firewall zero-day exploited to crash SSL VPN devices",
+      "description": "[BLEEPINGCOMPUTER] Cisco released security updates to patch a denial-of-service zero-day in Adaptive Security Appliance (ASA) and Threat Defense (FTD) software that attackers are exploiting to remotely crash vulnerable firewall devices. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-firewall-zero-day-exploited-to-crash-ssl-vpn-devices/",
+      "date": "2026-10-29T11:10:13Z"
+    },
+    {
+      "title": "Cisco Patches Actively Exploited ASA and FTD VPN Flaw That Can Crash Firewalls",
+      "description": "[FEEDS] Cisco has released patches to address a high-severity security flaw in Secure Firewall Adaptive Security Appliance (ASA) Software and Secure Firewall Threat Defense (FTD) Software that it said has been exploited in the wild. The vulnerability,...",
+      "url": "https://thehackernews.com/2026/10/cisco-patches-actively-exploited-asa.html",
+      "date": "2026-10-29T10:44:46Z"
     },
     {
       "title": "Deploying a Local Ghidra Server for Your Malware Analysis Lab, (Thu, Oct 29th)",
@@ -14,16 +74,22 @@
       "date": "2026-10-29T06:17:41Z"
     },
     {
-      "title": "Attackers Exploit PHP2Shell Flaws in Internet-Exposed Palo Alto Networks Management Interfaces",
-      "description": "[FEEDS] Palo Alto Networks on Wednesday warned that threat actors are exploiting the recently patched PHP2Shell vulnerabilities against publicly-accessible management interfaces. \"Active exploitation has been observed targeting the Palo Alto Networks...",
-      "url": "https://thehackernews.com/2026/10/attackers-exploit-php2shell-flaws-in.html",
-      "date": "2026-10-29T05:50:17Z"
-    },
-    {
       "title": "ISC Stormcast For Thursday, October 29th, 2026 https://isc.sans.edu/podcastdetail/10156, (Thu, Oct 29th)",
       "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
       "url": "https://isc.sans.edu/diary/rss/33468",
       "date": "2026-10-29T03:10:12Z"
+    },
+    {
+      "title": "Google unveils Gemini 4 Carbon with top AI benchmark score, expands focus on cybersecurity",
+      "description": "[THE TRIBUNE] Google has unveiled Gemini 4 Carbon, its latest artificial intelligence model, which ranks first on the Artificial Analysis Intelligence Index with a score of 59 and shows improved capabilities in detecting software vulnerabilities, exploiting them...",
+      "url": "https://www.tribuneindia.com/news/business/google-unveils-gemini-4-carbon-with-top-ai-benchmark-score-expands-focus-on-cybersecurity/",
+      "date": "2026-10-29T02:27:35Z"
+    },
+    {
+      "title": "Google unveils Gemini 4 Carbon with top AI benchmark score, expands focus on cybersecurity",
+      "description": "[ANI (ASIAN NEWS INTERNATIONAL)] Google has unveiled Gemini 4 Carbon, its latest artificial intelligence model, which ranks first on the Artificial Analysis Intelligence Index with a score of 59 and shows improved capabilities in detecting software vulnerabilities, exploiting them...",
+      "url": "https://www.aninews.in/news/business/google-unveils-gemini-4-carbon-with-top-ai-benchmark-score-expands-focus-on-cybersecurity20261029075428/",
+      "date": "2026-10-29T02:24:28Z"
     },
     {
       "title": "Yet Another ClickFix Campaign, (Wed, Oct 28th)",
@@ -32,118 +98,58 @@
       "date": "2026-10-29T00:42:15Z"
     },
     {
+      "title": "AI-powered cyberattacks siphon \u20b9300 crore from small NBFCs in two months",
+      "description": "[THE ECONOMIC TIMES] Recent cyberattacks have inflicted an estimated loss of \u20b9300 crore on India's non-banking financial companies, with around 150 fraud cases reported. Focus has shifted towards identifying Chinese hacking platforms and AI toolkit involvement in these...",
+      "url": "https://economictimes.indiatimes.com/industry/banking/finance/ai-powered-cyberattacks-siphon-300-crore-from-small-nbfcs-in-two-months/articleshow/135278215.cms",
+      "date": "2026-10-29T00:00:00Z"
+    },
+    {
+      "title": "Bithumb hack leaks staff data and regulators launch raid",
+      "description": "[CRYPTOSLATE] South Korean regulators launched inspections at Bithumb after a suspected data breach raised concerns over customer exposure.",
+      "url": "https://cryptoslate.com/bithumb-faces-on-site-inspections-after-reporting-signs-of-employee-data-leak/",
+      "date": "2026-10-28T23:40:57Z"
+    },
+    {
+      "title": "Google debuts flagship Gemini 4 Carbon model with cybersecurity upgrades",
+      "description": "[SILICONANGLE NEWS] Google debuts flagship Gemini 4 Carbon model with cybersecurity upgrades - SiliconANGLE",
+      "url": "https://siliconangle.com/2026/10/28/google-debuts-flagship-gemini-4-carbon-model-with-cybersecurity-upgrades/",
+      "date": "2026-10-28T23:27:13Z"
+    },
+    {
+      "title": "Australian Cybersecurity Teams Under Pressure as AI Exposes Skills Gaps and Drives Head Count Reduction",
+      "description": "[ITWIRE] New Barracuda Research Study Reveals 45% of Australian Organisations Have Replaced or Eliminated Entry-Level Security Roles With AI, While 68% of Security Teams Have AI-Related...",
+      "url": "https://itwire.com/guest-articles/guest-research/australian-cybersecurity-teams-under-pressure-as-ai-exposes-skills-gaps-and-drives-head-count-reduction",
+      "date": "2026-10-28T23:12:42Z"
+    },
+    {
+      "title": "Dell Technologies Strengthens Cybersecurity and Resilience Across AI Environments, Identity and Infrastructure",
+      "description": "[ITWIRE] New services and capabilities address emerging attack surfaces that most resilience strategies weren't built to handle",
+      "url": "https://itwire.com/business-it-news/security/dell-technologies-strengthens-cybersecurity-and-resilience-across-ai-environments-identity-and-infrastructure",
+      "date": "2026-10-28T22:41:19Z"
+    },
+    {
+      "title": "Cybersecurity Awareness: The Importance of Getting the Basics Right",
+      "description": "[ITWIRE] Recent reports of AI systems acting beyond their intended scope are a timely reminder to get the basics right. We wouldn't give a new contractor access to every file with no...",
+      "url": "https://itwire.com/guest-articles/guest-opinion/cybersecurity-awareness-the-importance-of-getting-the-basics-right",
+      "date": "2026-10-28T22:34:25Z"
+    },
+    {
+      "title": "Ransomware Pressure Moves Beyond Enterprise Systems to Theaten Employees' Families",
+      "description": "[EUROPE SAYS] Ransomware Pressure Moves Beyond Enterprise Systems to Theaten Employees' Families",
+      "url": "https://www.europesays.com/3338277/",
+      "date": "2026-10-28T22:33:26Z"
+    },
+    {
+      "title": "AI cybersecurity shifts to governing agents with Okta identity",
+      "description": "[SILICONANGLE NEWS] AI cybersecurity includes governing agents, and Okta\u2019s Harish Peri explains why agent identity, delegation and auditability matter.",
+      "url": "https://siliconangle.com/2026/10/28/ai-cybersecurity-shifts-governing-agents-okta-identity-aicybersecurityandresiliencesummit/",
+      "date": "2026-10-28T21:07:32Z"
+    },
+    {
       "title": "Police seize Virtualine bulletproof service tied to ransowmare, cybercrime",
       "description": "[BLEEPINGCOMPUTER] U.S. law enforcement has seized the primary domain of Virtualine, a bulletproof hosting service advertised on cybercrime forums for facilitating illegal activities. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/police-seize-virtualine-bulletproof-service-tied-to-ransowmare-cybercrime/",
       "date": "2026-10-28T20:47:22Z"
-    },
-    {
-      "title": "Discord to let search engines index public server messages",
-      "description": "[BLEEPINGCOMPUTER] Discord will allow search engines to index discussions in Discoverable Servers and make them accessible on the web to users outside the platform without an account or invitation. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/discord-to-let-search-engines-index-public-server-messages/",
-      "date": "2026-10-28T18:44:16Z"
-    },
-    {
-      "title": "Security To Cybersecurity: 11 Nodal Officers To Oversee 2027 Manipur Polls",
-      "description": "[NDTV.COM] Senior Indian Police Service officer Kamei Angam Romanus will handle law and order and security arrangements, while Indian Administrative Service officer Hungyo Worshang has been assigned excise-related responsibilities.",
-      "url": "https://www.ndtv.com/india-news/security-to-cybersecurity-11-nodal-officers-to-oversee-2027-manipur-polls-12250854",
-      "date": "2026-10-28T18:37:11Z"
-    },
-    {
-      "title": "When swarms of AI agents fly the coop",
-      "description": "[THE HINDU] AI agents forming a rogue \u201cswarm\u201d challenge cybersecurity norms, raising fears about control, regulation, and human-defined limits.",
-      "url": "https://www.thehindu.com/opinion/op-ed/when-swarms-of-ai-agents-fly-the-coop/article71637198.ece",
-      "date": "2026-10-28T18:31:00Z"
-    },
-    {
-      "title": "Volt Typhoon Used Covert Silent Train Network in Four Zero-Day Exploitation Campaigns",
-      "description": "[FEEDS] The China-nexus cyber espionage group known as Volt Typhoon has been attributed to a now-disrupted covert access network dubbed Silent Train that has been put to use for zero-day exploitation and strategic access. \"First identified in late 2023,...",
-      "url": "https://thehackernews.com/2026/10/volt-typhoon-used-covert-silent-train.html",
-      "date": "2026-10-28T18:08:33Z"
-    },
-    {
-      "title": "Bandai Namco data breach: Over 300,000 users affected by third-party leak",
-      "description": "[TIMES OF INDIA] Bandai Namco, the publisher behind Tekken and a long list of other popular games, has confirmed a data breach that exposed customer information.",
-      "url": "https://timesofindia.indiatimes.com/sports/esports/news/bandai-namco-data-breach-over-300000-users-affected-by-third-party-leak/articleshow/135275434.cms",
-      "date": "2026-10-28T18:05:00Z"
-    },
-    {
-      "title": "Former employee sues Northeast Ohio manufacturing giant over data breach",
-      "description": "[CLEVELAND.COM] A former Swagelok employee is suing the Solon-based company after he said a data breach compromised his personal information.",
-      "url": "https://www.cleveland.com/court-justice/2026/10/former-employee-sues-northeast-ohio-manufacturing-giant-over-data-breach.html",
-      "date": "2026-10-28T17:55:19Z"
-    },
-    {
-      "title": "Google to Allow One-Tap Android App Installs From Approved Third-Party Stores Outside U.S.",
-      "description": "[FEEDS] Third-party Android app stores can now apply to Google for permission to install apps with one tap, without Android's usual confirmation screens, and to update them in the background. To qualify, a store must pass identity checks and send...",
-      "url": "https://thehackernews.com/2026/10/google-to-allow-one-tap-android-app.html",
-      "date": "2026-10-28T17:08:09Z"
-    },
-    {
-      "title": "Sony ISP subsidiary data breach exposes 2.5 million customer records",
-      "description": "[BLEEPINGCOMPUTER] Sony Network Communications has confirmed a data breach that compromised approximately 2.5 million records containing current and former customers' personal information. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/sony-isp-subsidiary-data-breach-exposes-25-million-customer-records/",
-      "date": "2026-10-28T16:45:47Z"
-    },
-    {
-      "title": "AI Cyber Security Threats: Companies Must Prioritize Addressing Risks, Says OpenAI CEO Sam Altman",
-      "description": "[LOKMAT TIMES] AI Cyber Security Threats: Companies Must Prioritize Addressing Risks, Says OpenAI CEO Sam Altman - LAS VEGAS: OpenAI CEO Sam Altman has urged companies to make understanding and mitigating AI-related cybersecurity threats their immediate ... Get...",
-      "url": "https://www.lokmattimes.com/business/ai-cyber-security-threats-companies-must-prioritize-addressing-risks-says-openai-ceo-sam-altman-a001-w03/",
-      "date": "2026-10-28T16:28:46Z"
-    },
-    {
-      "title": "Researcher Reveals How Logic Bugs Alone Cracked Microsoft Edge in $175,000 Pwn2Own Win",
-      "description": "[FEEDS] A chain of logic flaws, with no memory corruption, can turn a malicious web page into code running on a Windows computer outside Microsoft Edge's sandbox, a security researcher has shown. Orange Tsai of DEVCORE published the full method on October...",
-      "url": "https://thehackernews.com/2026/10/researcher-reveals-how-logic-bugs-alone.html",
-      "date": "2026-10-28T16:23:34Z"
-    },
-    {
-      "title": "PHP2Shell Attack Roots 25 Servers, Breaches U.S. Government-Affiliated Network",
-      "description": "[FEEDS] Cybersecurity researchers have disclosed details of what appears to be an artificial intelligence (AI)-assisted attack orchestrated by a suspected China-nexus threat actor that has leveraged the PHP2Shell vulnerabilities to breach exposed systems....",
-      "url": "https://thehackernews.com/2026/10/php2shell-attack-roots-25-servers.html",
-      "date": "2026-10-28T16:02:45Z"
-    },
-    {
-      "title": "National Cybersecurity Awareness Month: Expert Quotes On AI Security Principles for Businesses",
-      "description": "[TECHBULLION] This National Cybersecurity Awareness Month, AI is putting familiar security principles to a new test. Employees are adopting tools faster than organizations can govern them, autonomous agents are gaining access to sensitive systems, and...",
-      "url": "https://techbullion.com/national-cybersecurity-awareness-month-expert-quotes-on-ai-security-principles-for-businesses/",
-      "date": "2026-10-28T16:00:39Z"
-    },
-    {
-      "title": "Volt Typhoon hides zero-day attacks using 'Silent Train' framework",
-      "description": "[BLEEPINGCOMPUTER] Chinese state-sponsored hacking group Volt Typhoon has been using a framework that relies on rotating chains of connected devices compromised on demand, including for zero-day attacks targeting high-value systems. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/volt-typhoon-hides-zero-day-attacks-using-silent-train-framework/",
-      "date": "2026-10-28T16:00:00Z"
-    },
-    {
-      "title": "Filipino team wins 2026 Cyber SEA Game",
-      "description": "[THE MANILA TIMES] A FOUR-MEMBER Philippine team won the 2026 Cyber SEA Game, an annual cybersecurity competition among students and young engineers from ASEAN member states, with results announced on Oct. 27 in Bangkok, Thailand.",
-      "url": "https://www.manilatimes.net/2026/10/29/business/sunday-business-it/filipino-team-wins-2026-cyber-sea-game/2456762",
-      "date": "2026-10-28T16:00:00Z"
-    },
-    {
-      "title": "Cybersecurity Black October: Practical steps to protect yourself",
-      "description": "[CRYPTO BREAKING NEWS] \u201cBlack October\u201d is already turning into one of the most disruptive stretches the internet has seen in recent months, with security researchers and",
-      "url": "https://www.cryptobreaking.com/cybersecurity-black-october-practical-steps/",
-      "date": "2026-10-28T15:39:12Z"
-    },
-    {
-      "title": "Cylake Named to the Fortune Cyber 60\u2122 2026-2027 List",
-      "description": "[THE MANILA TIMES] Recognition comes as Cylake rebuilds cybersecurity from the metal up to address the needs of the world\u2019s largest and most regulated institutions",
-      "url": "https://www.manilatimes.net/2026/10/28/tmt-newswire/globenewswire/cylake-named-to-the-fortune-cyber-60-2026-2027-list/2456439",
-      "date": "2026-10-28T15:02:47Z"
-    },
-    {
-      "title": "Microsoft urges Entra ID admins to migrate users to passkeys",
-      "description": "[BLEEPINGCOMPUTER] Microsoft again asked Entra ID administrators to migrate users to phishing-resistant methods to avoid sign-in disruptions before it retires SMS and voice authentication in February 2027. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-reminds-entra-id-admins-to-migrate-users-to-passkeys/",
-      "date": "2026-10-28T14:48:32Z"
-    },
-    {
-      "title": "InfraTrust report warns of exploited flaws in critical network infrastructure",
-      "description": "[BLEEPINGCOMPUTER] Attackers are actively exploiting vulnerabilities across critical network infrastructure, and PHP flaws known as \"PHP2Shell\" put the web management interfaces of firewalls, VPNs, application delivery controllers, and other appliances at risk. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/infratrust-report-warns-of-exploited-flaws-in-critical-network-infrastructure/",
-      "date": "2026-10-28T14:00:00Z"
     },
     {
       "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
