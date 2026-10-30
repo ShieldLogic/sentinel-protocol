@@ -1,245 +1,137 @@
 {
-  "updated": "2026-10-30 14:41:30 UTC",
-  "news": [
-    {
-      "title": "Malicious Claude Code extension on Cursor planted SSH backdoors",
-      "description": "[BLEEPINGCOMPUTER] A malicious version of Anthropic's Claude Code VS Code extension was distributed through Cursor's extension marketplace for approximately 11 hours on October 29, exposing up to 5,000 developers to malware designed to install persistent SSH...",
-      "url": "https://www.bleepingcomputer.com/news/security/malicious-claude-code-extension-on-cursor-planted-ssh-backdoors/",
-      "date": "2026-10-30T14:36:54Z"
-    },
-    {
-      "title": "SS7 and Diameter Attacks: How Signaling Flaws Expose Your Phone",
-      "description": "[BLEEPINGCOMPUTER] Flaws in SS7 and Diameter signaling protocols can allow attackers to track phone locations, intercept calls and SMS verification codes, and impersonate subscribers without compromising their devices. Cape explains how these attacks exploit trust...",
-      "url": "https://www.bleepingcomputer.com/news/security/ss7-and-diameter-attacks-how-signaling-flaws-expose-your-phone/",
-      "date": "2026-10-30T14:00:10Z"
-    },
-    {
-      "title": "CISA says max severity GitLab flaw now exploited in the wild",
-      "description": "[BLEEPINGCOMPUTER] Attackers have started exploiting a maximum-severity GitLab vulnerability patched earlier this month, according to the US Cybersecurity and Infrastructure Security Agency (CISA). [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-now-exploiting-max-severity-gitlab-flaw-in-attacks/",
-      "date": "2026-10-30T13:00:32Z"
-    },
-    {
-      "title": "Trezor Warns of Suspected Hardware Implant in One of Its Wallets Sold by CryptoBilis",
-      "description": "[FEEDS] A Trezor Safe 5 hardware wallet bought from the reseller CryptoBilis has an extra circuit board that sends out the recovery phrase over a mobile network, a customer has reported. Trezor has not yet examined the device. It is telling everyone who...",
-      "url": "https://thehackernews.com/2026/10/trezor-warns-of-suspected-hardware.html",
-      "date": "2026-10-30T12:21:56Z"
-    },
-    {
-      "title": "Why Urgent Security Fixes Aren't Fixed. Observe, Prove, Act, Confirm Gets Them Moving",
-      "description": "[FEEDS] The alert is critical. The fix is known. And the ticket sits in a queue for days. Security teams understand the risk, but the people who keep applications available need proof that the change won\u2019t break anything.&nbsp; Their concerns are practical....",
-      "url": "https://thehackernews.com/2026/10/why-urgent-security-fixes-arent-fixed.html",
-      "date": "2026-10-30T11:58:53Z"
-    },
-    {
-      "title": "Microsoft finally fixes VPN issues caused by September updates",
-      "description": "[BLEEPINGCOMPUTER] Microsoft has resolved Always On VPN connection failures triggered after installing the September 2026 Windows 11 security updates. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-finally-fixes-vpn-issues-caused-by-september-updates/",
-      "date": "2026-10-30T11:20:26Z"
-    },
-    {
-      "title": "Syrian Hacker Behind Fake Tweet That Triggered $136 Billion Market Drop Gets 42 Months in Prison",
-      "description": "[FEEDS] Ahmad Umar Agha, a Syrian Electronic Army hacker known online as \"Th3Pr0,\" has been&nbsp;sentenced by a U.S. federal court&nbsp;to 42 months in prison for his role in a hacking conspiracy that targeted Western news outlets. The conspiracy was...",
-      "url": "https://thehackernews.com/2026/10/syrian-hacker-behind-fake-tweet-that.html",
-      "date": "2026-10-30T10:40:45Z"
-    },
-    {
-      "title": "Drupal warns of critical Commerce Core flaw exploited in attacks",
-      "description": "[BLEEPINGCOMPUTER] Drupal warned admins to patch a critical access bypass vulnerability in the Commerce Core module that attackers are exploiting in the wild. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/drupal-warns-of-critical-commerce-core-flaw-exploited-in-attacks/",
-      "date": "2026-10-30T10:16:07Z"
-    },
-    {
-      "title": "Binance links $6.3 billion crypto theft to compromised DevOps laptop",
-      "description": "[BLEEPINGCOMPUTER] Binance, the world's largest crypto exchange, has linked the theft of about $6.3 billion in cryptocurrency to a DevOps engineer's compromised laptop. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/binance-links-63-billion-crypto-theft-to-compromised-devops-laptop/",
-      "date": "2026-10-30T09:18:13Z"
-    },
-    {
-      "title": "Official Claude Code Extension on Cursor Marketplace Trojanized with Persistent SSH Backdoor",
-      "description": "[FEEDS] Cybersecurity researchers have disclosed that a trojanized version of Anthropic's official Claude Code extension was distributed through the Cursor Marketplace as a legitimate update, attempting to install a persistent SSH backdoor on affected...",
-      "url": "https://thehackernews.com/2026/10/official-claude-code-vs-code-extension.html",
-      "date": "2026-10-30T08:55:47Z"
-    },
-    {
-      "title": "Hackers Actively Exploit Highly Critical Drupal Commerce Core Authorization Bypass Flaw",
-      "description": "[FEEDS] Drupal has warned that threat actors are exploiting a \"highly critical\" security flaw in its Commerce Core component. The vulnerability, tracked as CVE-2026-118539 (CVSS score: N/A), is a case of missing authorization affecting Commerce Core...",
-      "url": "https://thehackernews.com/2026/10/hackers-actively-exploit-highly.html",
-      "date": "2026-10-30T07:45:30Z"
-    },
-    {
-      "title": "CISA Adds Actively Exploited GitLab RCE and Cisco Firewall DoS Flaws to KEV",
-      "description": "[FEEDS] The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added two security flaws impacting Cisco and GitLab software to its Known Exploited Vulnerabilities (KEV), citing evidence of active exploitation. The vulnerabilities are...",
-      "url": "https://thehackernews.com/2026/10/cisa-adds-actively-exploited-gitlab-rce.html",
-      "date": "2026-10-30T07:27:05Z"
-    },
-    {
-      "title": "ISC Stormcast For Friday, October 30th, 2026 https://isc.sans.edu/podcastdetail/10158, (Fri, Oct 30th)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33472",
-      "date": "2026-10-30T03:30:17Z"
-    },
-    {
-      "title": "Gemini 4 Carbon vs Argon: What Google says has improved and why access to the newer model starts differently",
-      "description": "[BUSINESS TODAY] Google\u2019s Gemini 4 Carbon follows Argon with new coding and cybersecurity claims. Compare the announced improvements, security test results, introductory API pricing and their different access plans.",
-      "url": "https://www.businesstoday.in/latest/trends/photo/gemini-4-carbon-vs-argon-what-google-says-has-improved-and-why-access-to-the-newer-model-starts-differently-564630-2026-10-30",
-      "date": "2026-10-30T01:30:34Z"
-    },
-    {
-      "title": "DHL IT Services expands footprint in Chennai",
-      "description": "[TIMES OF INDIA] DHL IT Services opens a 104,000 sq ft Chennai office, adding 800 jobs and boosting local capacity to 1,000; expanding AI, cybersecurity, cloud and automation.",
-      "url": "https://timesofindia.indiatimes.com/city/chennai/dhl-it-services-expands-footprint-in-chennai/articleshow/135324320.cms",
-      "date": "2026-10-29T22:30:00Z"
-    },
-    {
-      "title": "Extent of Crime Stoppers data breach unknown: Sault Police chief",
-      "description": "[SOOTODAY] Sault Police paused its relationship following news of a cyberattack that exposed thousands of anonymous tips",
-      "url": "https://www.sootoday.com/city-police-beat/extent-of-crime-stoppers-data-breach-unknown-sault-police-chief-12957507",
-      "date": "2026-10-29T20:58:00Z"
-    },
-    {
-      "title": "Telenor Pakistan secures No 1 position in cybersecurity excellence",
-      "description": "[THE NATION] ISLAMABAD - Pak Telecom Mobile Limited\u2019s brand, Telenor Pakistan has secured the No 1 position for the third consecutive year in Cybersecurity Excellence at the",
-      "url": "https://www.nation.com.pk/30-Oct-2026/telenor-pakistan-secures-1-position-cybersecurity-excellence",
-      "date": "2026-10-29T20:47:00Z"
-    },
-    {
-      "title": "Millions of students caught in California data breach",
-      "description": "[FOX NEWS] California student data breach exposed millions of records including names, addresses and disability details. Affected families can enroll in free identity theft protection.",
-      "url": "https://www.foxnews.com/tech/millions-students-caught-california-data-breach",
-      "date": "2026-10-29T20:30:34Z"
-    },
-    {
-      "title": "Hackers Target Crypto Users With Fake ChatGPT and Claude Apps",
-      "description": "[U.TODAY] Hackers are using fake ChatGPT and Claude desktop apps to secretly install cryptocurrency mining malware, according to cybersecurity researchers at Check Point Research.",
-      "url": "https://u.today/hackers-target-crypto-users-with-fake-chatgpt-and-claude-apps",
-      "date": "2026-10-29T20:17:07Z"
-    },
-    {
-      "title": "Hacker Leaks Data of 40,000+ Homeland Security Employees Including ICE Agents",
-      "description": "[BREITBART NEWS NETWORK] A hacker going by the name \"Department of Peace\" has published personal data belonging to more than 40,000 U.S. Department of Homeland Security employees, exposing ICE agents, cybersecurity staff and senior officials to potential harassment and...",
-      "url": "https://www.breitbart.com/tech/2026/10/29/hacker-leaks-data-of-40000-homeland-security-employees-including-ice-agents/",
-      "date": "2026-10-29T20:03:03Z"
-    },
-    {
-      "title": "Hacker Leaks Data of 40,000+ Homeland Security Employees Including ICE Agents",
-      "description": "[BREITBART NEWS NETWORK] A hacker going by the name \"Department of Peace\" has published personal data belonging to more than 40,000 U.S. Department of Homeland Security employees, exposing ICE agents, cybersecurity staff and senior officials to potential harassment and...",
-      "url": "https://www.breitbart.com/politics/2026/10/29/hacker-leaks-data-of-40000-homeland-security-employees-including-ice-agents/",
-      "date": "2026-10-29T20:03:03Z"
-    },
-    {
-      "title": "AI deepfakes pose risks to consumers, voters and others, security experts warn",
-      "description": "[CBS NEWS] \"When you can't tell what's legitimate, you question everything,\" said one cybersecurity expert focused on political campaigns.",
-      "url": "https://www.cbsnews.com/news/deepfakes-artificial-intelligence-consumer-risks-fraud/",
-      "date": "2026-10-29T19:45:44Z"
-    },
-    {
-      "title": "Fintechs to lay out a code for technology vendors amid rising cyberthreats and security risks",
-      "description": "[THE ECONOMIC TIMES] Unified Fintech Forum is developing a framework to encourage best practices among technology service providers. This initiative aims to improve cybersecurity preparedness and operational resilience in the fintech sector. Banks and fintech companies...",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/fintechs-to-lay-out-a-code-for-technology-vendors-amid-rising-cyberthreats-and-security-risks/articleshow/135337816.cms",
-      "date": "2026-10-29T19:39:00Z"
-    },
-    {
-      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
-      "description": "[CISA] CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-97229 GitLab Community Edition and Enterprise Edition Integer Overflow or Wraparound vulnerability...",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/10/29/cisa-adds-two-known-exploited-vulnerabilities-catalog",
-      "date": "2026-10-29T12:00:00Z"
-    },
-    {
-      "title": "Deploying a Local Ghidra Server for Your Malware Analysis Lab, (Thu, Oct 29th)",
-      "description": "[ISC] Building your malware analysis lab is a key point before playing with malware. Today, thanks to virtualization, it&&#x23&#x3b;x26&#x3b;&#x23&#x3b;39&#x3b;s convenient to play with snapshots in your lab. Start a new investigation from a clean...",
-      "url": "https://isc.sans.edu/diary/rss/33470",
-      "date": "2026-10-29T06:17:41Z"
-    },
-    {
-      "title": "ISC Stormcast For Thursday, October 29th, 2026 https://isc.sans.edu/podcastdetail/10156, (Thu, Oct 29th)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33468",
-      "date": "2026-10-29T03:10:12Z"
-    },
-    {
-      "title": "Yet Another ClickFix Campaign, (Wed, Oct 28th)",
-      "description": "[ISC] Introduction&#xd;",
-      "url": "https://isc.sans.edu/diary/rss/33466",
-      "date": "2026-10-29T00:42:15Z"
-    },
-    {
-      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
-      "description": "[CISA] CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-41709 Broadcom VMWare ESX Insufficient Logging Vulnerability CVE-2026-46300 Linux Kernel Missing...",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/10/28/cisa-adds-two-known-exploited-vulnerabilities-catalog",
-      "date": "2026-10-28T12:00:00Z"
-    },
-    {
-      "title": "Studying Fraudulent North Korean IT Workers",
-      "description": "[SCHNEIER] Researchers set up a fake start-up company to study fraudulent North Korean IT workers.",
-      "url": "https://www.schneier.com/blog/archives/2026/10/studying-fraudulent-north-korean-it-workers.html",
-      "date": "2026-10-28T11:05:00Z"
-    },
-    {
-      "title": "ISC Stormcast For Wednesday, October 28th, 2026 https://isc.sans.edu/podcastdetail/10154, (Wed, Oct 28th)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33464",
-      "date": "2026-10-28T02:30:11Z"
-    },
-    {
-      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
-      "description": "[CISA] CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-48356 Adobe Commerce and Magento Unrestricted Upload of File with Dangerous Type Vulnerability...",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/10/27/cisa-adds-two-known-exploited-vulnerabilities-catalog",
-      "date": "2026-10-27T12:00:00Z"
-    },
-    {
-      "title": "Hiding Capabilities in AI Models",
-      "description": "[SCHNEIER] Interesting research: &#8220;AI Models Can Provably Hide Arbitrary Capabilities&#8221; Abstract: Capability evaluations aim to surface dangerous model behaviors before deployment, but their reliability depends on the assumption that hidden...",
-      "url": "https://www.schneier.com/blog/archives/2026/10/hiding-capabilities-in-ai-models.html",
-      "date": "2026-10-27T11:01:26Z"
-    },
-    {
-      "title": "ISC Stormcast For Tuesday, October 27th, 2026 https://isc.sans.edu/podcastdetail/10152, (Tue, Oct 27th)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33462",
-      "date": "2026-10-27T02:55:13Z"
-    },
-    {
-      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
-      "description": "[CISA] CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog and updated the PHP Alert, Critical Vulnerabilities in PHP Require Immediate Patching: &nbsp; CVE-2026-109618 \u2013 PHP Memory Corruption Vulnerability&nbsp;...",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/10/26/cisa-adds-two-known-exploited-vulnerabilities-catalog",
-      "date": "2026-10-26T12:00:00Z"
-    },
-    {
-      "title": "Bias in Qwen3-Coder Model",
-      "description": "[SCHNEIER] Interesting research: TL;DR: Chinese AI models now sit inside Western products, and some carry geopolitical triggers: tell the model who the code is for, and the security of what it writes changes. For the first time, we showed that this...",
-      "url": "https://www.schneier.com/blog/archives/2026/10/bias-in-qwen3-coder-model.html",
-      "date": "2026-10-26T11:03:31Z"
-    },
-    {
-      "title": "Friday Squid Blogging: Increasing Squid Populations",
-      "description": "[SCHNEIER] This article in Nature argues that it&#8217;s due to an overfishing of predators and warming sea temperatures. As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered. Blog moderation...",
-      "url": "https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-increasing-squid-populations.html",
-      "date": "2026-10-23T21:00:09Z"
-    },
-    {
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "description": "[CISA] CISA has added one new vulnerability to its&nbsp;Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-110447 Collabora Online \u2013 Built-in CODE Server OS Command Injection Vulnerability&nbsp; This type of...",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/10/23/cisa-adds-one-known-exploited-vulnerability-catalog-0",
-      "date": "2026-10-23T12:00:00Z"
-    },
-    {
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "description": "[CISA] CISA has added one new vulnerability to its&nbsp;Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-114625 Arista VeloCloud Orchestrator SQL Injection Vulnerability This type of vulnerability is a...",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/10/23/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "date": "2026-10-23T12:00:00Z"
-    },
-    {
-      "title": "Compromised TLS Certificates",
-      "description": "[SCHNEIER] The Indian CA eMudhra Limited has eight TLS certificates with laughably weak private keys: The compromised eMudhra keys were defective at a level that\u2019s challenging the imagination of many of the engineers studying the incident. A normal size for a...",
-      "url": "https://www.schneier.com/blog/archives/2026/10/compromised-tls-certificates.html",
-      "date": "2026-10-23T11:04:22Z"
-    },
-    {
-      "title": "New Serious PHP Vulnerabilities Released and Patched",
-      "description": "[SCHNEIER] PHP maintainers have released fixes for two critical vulnerabilities: PHP 8.5.12, 8.4.27, 8.3.36 and 8.2.35 fix two critical vulnerabilities that can allow unauthenticated remote code execution. All PHP users are strongly encouraged to update...",
-      "url": "https://www.schneier.com/blog/archives/2026/10/new-serious-php-vulnerabilities-released-and-patched.html",
-      "date": "2026-10-22T13:26:51Z"
-    }
-  ]
+    "title": "Sentinel Protocol",
+    "tagline": "Perimeter Intelligence Sync",
+    "updated": "2026-10-30 16:55 UTC",
+    "news": [
+        {
+            "source": {
+                "id": "rte",
+                "name": "RTE"
+            },
+            "author": "Brian O'Donovan",
+            "title": "Suspected data breach of employment permit online system",
+            "description": "A suspected data breach is being investigated involving the Employment Permit Online System operated by the Department of Enterprise.",
+            "url": "https://www.rte.ie/news/ireland/2026/1029/1597264-data-breach-employment-permit/",
+            "urlToImage": "https://www.rte.ie/images/00254106-1600.jpg",
+            "publishedAt": "2026-10-29T16:54:14Z",
+            "content": "A suspected data breach is being investigated involving the Employment Permit Online System operated by the Department of Enterprise.\r\nThe site is currently unavailable.\r\nThe Data Protection Commissi\u2026 [+1384 chars]"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "TNN",
+            "title": "DHL IT Services expands footprint in Chennai",
+            "description": "DHL IT Services opens a 104,000 sq ft Chennai office, adding 800 jobs and boosting local capacity to 1,000; expanding AI, cybersecurity, cloud and automation.",
+            "url": "https://timesofindia.indiatimes.com/city/chennai/dhl-it-services-expands-footprint-in-chennai/articleshow/135324320.cms",
+            "urlToImage": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
+            "publishedAt": "2026-10-29T16:46:11Z",
+            "content": "Follow Us On Social Media\r\nAt 99, Pauline Kana became the worlds oldest crowd-surfer; the internet-famous Gangster Granny achieved the Guinness World Records title at a Texas concertMost of private e\u2026 [+1815 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "SiliconANGLE News"
+            },
+            "author": "Kyt Dotson",
+            "title": "Science robotics startup Opentrons raises $40M to standardize laboratory automation",
+            "description": "Opentrons Labworks Inc., a leader in artificial intelligence-driven robotic laboratory automation, today announced it raised $40 million in new funding to scale its robotics, software and data infrastructure tools. Healthcare investor Avego led the Series E r\u2026",
+            "url": "https://siliconangle.com/2026/10/29/science-robotics-startup-opentrons-raises-40m-to-standardize-laboratory-automation/",
+            "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/opentrons-image.png",
+            "publishedAt": "2026-10-29T16:40:44Z",
+            "content": "Opentrons Labworks Inc., a leader in artificial intelligence-driven robotic laboratory automation, today announced it raised $40 million in new funding to scale its robotics, software and data infras\u2026 [+3785 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Business Standard"
+            },
+            "author": "Aashish Aryan",
+            "title": "Companies should put all AI agents in zero-trust category: Netskope founder",
+            "description": "AI agents must operate under strict controls, with enterprises held accountable for their actions, says Netskope CEO Sanjay Beri",
+            "url": "https://www.business-standard.com/companies/start-ups/companies-should-put-all-ai-agents-in-zero-trust-category-netskope-founder-126102901491_1.html",
+            "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-10/29/thumb/fitandfill/1200X628/1793280727-3509.jpg",
+            "publishedAt": "2026-10-29T16:36:35Z",
+            "content": "AI agents must operate under strict controls, with enterprises held accountable for their actions, says Netskope CEO Sanjay Beri\r\nSanjay Beri, the founder and chief executive officer of Netskope\r\nAas\u2026 [+3489 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "SiliconANGLE News"
+            },
+            "author": "Jonathan Anthony",
+            "title": "Intuit rewires accounting education as AI pushes new hires toward client work",
+            "description": "As AI automates routine finance work, the repetitive tasks that once defined entry-level accounting are disappearing, and advisory services are moving to the center of how firms create value. That shift leaves colleges racing to prepare graduates for a job th\u2026",
+            "url": "https://siliconangle.com/2026/10/29/advisory-services-reshape-accounting-education-intuit-intuitconnect/",
+            "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/IMG_3072-1-scaled-e1793171670665.jpg",
+            "publishedAt": "2026-10-29T16:30:06Z",
+            "content": "As AI automates routine finance work, the repetitive tasks that once defined entry-level accounting are disappearing, and advisory services are moving to the center of how firms create value. That sh\u2026 [+4043 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Securityweek.com"
+            },
+            "author": "Steve Durbin",
+            "title": "When Risk Becomes Personal: What Security Leaders Can Learn From a Cancer Diagnosis",
+            "description": "Risk managers are trained to spot weak signals, plan for disruption and make hard decisions under uncertainty. But the discipline looks different when the risk is not a system or an enterprise, but you.\nThe post When Risk Becomes Personal: What Security Leade\u2026",
+            "url": "https://www.securityweek.com/when-risk-becomes-personal-what-security-leaders-can-learn-from-a-cancer-diagnosis/",
+            "urlToImage": "https://www.securityweek.com/wp-content/uploads/2023/01/Cybersecurity_News-SecurityWeek.jpg",
+            "publishedAt": "2026-10-29T16:30:00Z",
+            "content": "Risk management leaders educate people on measuring exposure, testing assumptions and advising on how best to prepare for incidents they hope wont occur. They know that the absence of a security aler\u2026 [+6045 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "HuffPost"
+            },
+            "author": "HuffPost",
+            "title": "Pentagon Treating Military Base Freezer Malfunctions As Suspected\u00a0Cyberattack, Officials Say",
+            "description": "The late August malfunctions in the United States affected at least six commissaries.",
+            "url": "https://www.huffpost.com/entry/military-base-cyberattacks_n_6ae372f0e4b0a2cccd470dbd",
+            "urlToImage": "https://img.huffingtonpost.com/asset/6ae3738414000039cde01a42.jpeg?ops=1200_630",
+            "publishedAt": "2026-10-29T16:28:56Z",
+            "content": "WASHINGTON, Oct 29 (Reuters) - The Pentagon is treating the spate of mysterious freezer malfunctions that spoiled food at military bases across the United States in August as a suspected hack, accord\u2026 [+4857 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Help Net Security"
+            },
+            "author": "Zeljka Zorz",
+            "title": "Chinese hackers used VMware ESX zero-day; PHP2Shell and Fragnesia chained to root firewalls",
+            "description": "China-nexus threat actors have exploited a VMware ESX zero-day to hide their tracks and chained PHP2Shell flaws with the \u201cFragnesia\u201d Linux kernel bug to root servers and firewalls, cybersecurity researchers claim. Cisco has also confirmed that attackers are c\u2026",
+            "url": "https://www.helpnetsecurity.com/2026/10/29/php2shell-fragnesia-vmware-esx-zero-day/",
+            "urlToImage": "https://img.helpnetsecurity.com/wp-content/uploads/2024/11/25153019/attack.webp",
+            "publishedAt": "2026-10-29T16:25:10Z",
+            "content": "China-nexus threat actors have exploited a VMware ESX zero-day to hide their tracks and chained PHP2Shell flaws with the \u201cFragnesia\u201d Linux kernel bug to root servers and firewalls, cybersecurity rese\u2026 [+5159 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Nextgov"
+            },
+            "author": "Grace Dille",
+            "title": "House Democrats call on Trump to preserve AI chatbot records",
+            "description": "The request to preserve AI conversations could signal what's to come if Democrats flip the House in next week\u2019s election.",
+            "url": "https://www.nextgov.com/artificial-intelligence/2026/10/house-democrats-call-trump-preserve-ai-chatbot-records/416913/",
+            "urlToImage": "https://cdn.nextgov.com/media/img/cd/2026/10/29/GettyImages_2300673368/open-graph.jpg",
+            "publishedAt": "2026-10-29T16:17:00Z",
+            "content": "The top Democrats on the House Judiciary and Oversight panels are calling on President Donald Trump to preserve his conversations with artificial intelligence chatbots, including billionaire Elon Mus\u2026 [+2082 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Securityaffairs.com"
+            },
+            "author": "Pierluigi Paganini",
+            "title": "U.S. CISA adds Linux Kernel\u00a0and Broadcom VMWare ESX\u00a0 flaws to its Known Exploited Vulnerabilities catalog",
+            "description": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds Linux Kernel\u00a0and Broadcom VMWare ESX flaws to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA)\u00a0added Linux Kernel\u00a0and Broadcom VMWar\u2026",
+            "url": "https://securityaffairs.com/202050/hacking/u-s-cisa-adds-linux-kernel-and-broadcom-vmware-esx-flaws-to-its-known-exploited-vulnerabilities-catalog.html",
+            "urlToImage": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg",
+            "publishedAt": "2026-10-29T16:05:56Z",
+            "content": "U.S. CISA adds Linux Kernel\u00a0and Broadcom VMWare ESX\u00a0 flaws to its Known Exploited Vulnerabilities catalog\r\nThe U.S. Cybersecurity and Infrastructure Security Agency (CISA)\u00a0added Linux Kernel\u00a0and Broa\u2026 [+3387 chars]"
+        }
+    ]
 }
