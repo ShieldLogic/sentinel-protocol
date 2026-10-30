@@ -1,17 +1,77 @@
 {
-  "updated": "2026-10-30 07:53:42 UTC",
+  "updated": "2026-10-30 14:41:30 UTC",
   "news": [
+    {
+      "title": "Malicious Claude Code extension on Cursor planted SSH backdoors",
+      "description": "[BLEEPINGCOMPUTER] A malicious version of Anthropic's Claude Code VS Code extension was distributed through Cursor's extension marketplace for approximately 11 hours on October 29, exposing up to 5,000 developers to malware designed to install persistent SSH...",
+      "url": "https://www.bleepingcomputer.com/news/security/malicious-claude-code-extension-on-cursor-planted-ssh-backdoors/",
+      "date": "2026-10-30T14:36:54Z"
+    },
+    {
+      "title": "SS7 and Diameter Attacks: How Signaling Flaws Expose Your Phone",
+      "description": "[BLEEPINGCOMPUTER] Flaws in SS7 and Diameter signaling protocols can allow attackers to track phone locations, intercept calls and SMS verification codes, and impersonate subscribers without compromising their devices. Cape explains how these attacks exploit trust...",
+      "url": "https://www.bleepingcomputer.com/news/security/ss7-and-diameter-attacks-how-signaling-flaws-expose-your-phone/",
+      "date": "2026-10-30T14:00:10Z"
+    },
+    {
+      "title": "CISA says max severity GitLab flaw now exploited in the wild",
+      "description": "[BLEEPINGCOMPUTER] Attackers have started exploiting a maximum-severity GitLab vulnerability patched earlier this month, according to the US Cybersecurity and Infrastructure Security Agency (CISA). [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-now-exploiting-max-severity-gitlab-flaw-in-attacks/",
+      "date": "2026-10-30T13:00:32Z"
+    },
+    {
+      "title": "Trezor Warns of Suspected Hardware Implant in One of Its Wallets Sold by CryptoBilis",
+      "description": "[FEEDS] A Trezor Safe 5 hardware wallet bought from the reseller CryptoBilis has an extra circuit board that sends out the recovery phrase over a mobile network, a customer has reported. Trezor has not yet examined the device. It is telling everyone who...",
+      "url": "https://thehackernews.com/2026/10/trezor-warns-of-suspected-hardware.html",
+      "date": "2026-10-30T12:21:56Z"
+    },
+    {
+      "title": "Why Urgent Security Fixes Aren't Fixed. Observe, Prove, Act, Confirm Gets Them Moving",
+      "description": "[FEEDS] The alert is critical. The fix is known. And the ticket sits in a queue for days. Security teams understand the risk, but the people who keep applications available need proof that the change won\u2019t break anything.&nbsp; Their concerns are practical....",
+      "url": "https://thehackernews.com/2026/10/why-urgent-security-fixes-arent-fixed.html",
+      "date": "2026-10-30T11:58:53Z"
+    },
+    {
+      "title": "Microsoft finally fixes VPN issues caused by September updates",
+      "description": "[BLEEPINGCOMPUTER] Microsoft has resolved Always On VPN connection failures triggered after installing the September 2026 Windows 11 security updates. [...]",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-finally-fixes-vpn-issues-caused-by-september-updates/",
+      "date": "2026-10-30T11:20:26Z"
+    },
+    {
+      "title": "Syrian Hacker Behind Fake Tweet That Triggered $136 Billion Market Drop Gets 42 Months in Prison",
+      "description": "[FEEDS] Ahmad Umar Agha, a Syrian Electronic Army hacker known online as \"Th3Pr0,\" has been&nbsp;sentenced by a U.S. federal court&nbsp;to 42 months in prison for his role in a hacking conspiracy that targeted Western news outlets. The conspiracy was...",
+      "url": "https://thehackernews.com/2026/10/syrian-hacker-behind-fake-tweet-that.html",
+      "date": "2026-10-30T10:40:45Z"
+    },
+    {
+      "title": "Drupal warns of critical Commerce Core flaw exploited in attacks",
+      "description": "[BLEEPINGCOMPUTER] Drupal warned admins to patch a critical access bypass vulnerability in the Commerce Core module that attackers are exploiting in the wild. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/drupal-warns-of-critical-commerce-core-flaw-exploited-in-attacks/",
+      "date": "2026-10-30T10:16:07Z"
+    },
+    {
+      "title": "Binance links $6.3 billion crypto theft to compromised DevOps laptop",
+      "description": "[BLEEPINGCOMPUTER] Binance, the world's largest crypto exchange, has linked the theft of about $6.3 billion in cryptocurrency to a DevOps engineer's compromised laptop. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/binance-links-63-billion-crypto-theft-to-compromised-devops-laptop/",
+      "date": "2026-10-30T09:18:13Z"
+    },
+    {
+      "title": "Official Claude Code Extension on Cursor Marketplace Trojanized with Persistent SSH Backdoor",
+      "description": "[FEEDS] Cybersecurity researchers have disclosed that a trojanized version of Anthropic's official Claude Code extension was distributed through the Cursor Marketplace as a legitimate update, attempting to install a persistent SSH backdoor on affected...",
+      "url": "https://thehackernews.com/2026/10/official-claude-code-vs-code-extension.html",
+      "date": "2026-10-30T08:55:47Z"
+    },
+    {
+      "title": "Hackers Actively Exploit Highly Critical Drupal Commerce Core Authorization Bypass Flaw",
+      "description": "[FEEDS] Drupal has warned that threat actors are exploiting a \"highly critical\" security flaw in its Commerce Core component. The vulnerability, tracked as CVE-2026-118539 (CVSS score: N/A), is a case of missing authorization affecting Commerce Core...",
+      "url": "https://thehackernews.com/2026/10/hackers-actively-exploit-highly.html",
+      "date": "2026-10-30T07:45:30Z"
+    },
     {
       "title": "CISA Adds Actively Exploited GitLab RCE and Cisco Firewall DoS Flaws to KEV",
       "description": "[FEEDS] The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added two security flaws impacting Cisco and GitLab software to its Known Exploited Vulnerabilities (KEV), citing evidence of active exploitation. The vulnerabilities are...",
       "url": "https://thehackernews.com/2026/10/cisa-adds-actively-exploited-gitlab-rce.html",
       "date": "2026-10-30T07:27:05Z"
-    },
-    {
-      "title": "Binance Suffers Security Breach Affecting $6.3 Billion in Assets, Nearly $3 Billion Frozen",
-      "description": "[FEEDS] Cryptocurrency giant Binance said on Thursday that a \"security incident\" on its platform has impacted about $6.3 billion worth of assets. The world's biggest cryptocurrency exchange said nearly $3 billion of those assets have been frozen on-chain so...",
-      "url": "https://thehackernews.com/2026/10/binance-suffers-security-breach.html",
-      "date": "2026-10-30T04:14:59Z"
     },
     {
       "title": "ISC Stormcast For Friday, October 30th, 2026 https://isc.sans.edu/podcastdetail/10158, (Fri, Oct 30th)",
@@ -20,34 +80,52 @@
       "date": "2026-10-30T03:30:17Z"
     },
     {
-      "title": "OpenAI doubles ChatGPT Pro usage limits after backlash over planned 50% cut",
-      "description": "[BLEEPINGCOMPUTER] OpenAI says it won't reduce usage limits for the $100, $200, and $500 ChatGPT Pro plans, as well as Business Premium, and it also promised to keep Dots usage independent. [...]",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-doubles-chatgpt-pro-usage-limits-after-backlash-over-planned-50-percent-cut/",
-      "date": "2026-10-29T23:35:52Z"
+      "title": "Gemini 4 Carbon vs Argon: What Google says has improved and why access to the newer model starts differently",
+      "description": "[BUSINESS TODAY] Google\u2019s Gemini 4 Carbon follows Argon with new coding and cybersecurity claims. Compare the announced improvements, security test results, introductory API pricing and their different access plans.",
+      "url": "https://www.businesstoday.in/latest/trends/photo/gemini-4-carbon-vs-argon-what-google-says-has-improved-and-why-access-to-the-newer-model-starts-differently-564630-2026-10-30",
+      "date": "2026-10-30T01:30:34Z"
     },
     {
-      "title": "Binance probes potential $5.8 billion crypto-theft hack",
-      "description": "[BLEEPINGCOMPUTER] Cryptocurrency exchange Binance is investigating a potential security breach involving up to $5.8 billion in digital assets, in what could become the largest cryptocurrency hack in history. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/binance-probes-potential-58-billion-crypto-theft-hack/",
-      "date": "2026-10-29T22:45:23Z"
+      "title": "DHL IT Services expands footprint in Chennai",
+      "description": "[TIMES OF INDIA] DHL IT Services opens a 104,000 sq ft Chennai office, adding 800 jobs and boosting local capacity to 1,000; expanding AI, cybersecurity, cloud and automation.",
+      "url": "https://timesofindia.indiatimes.com/city/chennai/dhl-it-services-expands-footprint-in-chennai/articleshow/135324320.cms",
+      "date": "2026-10-29T22:30:00Z"
     },
     {
-      "title": "Hugging Face malware campaign returns to hijack GPUs for crypto mining",
-      "description": "[BLEEPINGCOMPUTER] A crypto-mining campaign abusing Hugging Face models returned days after takedown, hijacking GPU servers and planting backdoors, with one model downloaded over 28,000 times. Separately, a fake Solana starter kit on GitHub is positioned to trick AI...",
-      "url": "https://www.bleepingcomputer.com/news/security/hugging-face-malware-campaign-returns-to-hijack-gpus-for-crypto-mining/",
-      "date": "2026-10-29T22:09:24Z"
+      "title": "Extent of Crime Stoppers data breach unknown: Sault Police chief",
+      "description": "[SOOTODAY] Sault Police paused its relationship following news of a cyberattack that exposed thousands of anonymous tips",
+      "url": "https://www.sootoday.com/city-police-beat/extent-of-crime-stoppers-data-breach-unknown-sault-police-chief-12957507",
+      "date": "2026-10-29T20:58:00Z"
     },
     {
-      "title": "Japan Airlines suffers third-party data breach exposing passenger info",
-      "description": "[BLEEPINGCOMPUTER] Japan Airlines (JAL) has announced that a data breach at Amadeus's Passenger Service System exposed the data of about 92,000 customers. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/japan-airlines-suffers-third-party-data-breach-exposing-passenger-info/",
-      "date": "2026-10-29T22:08:04Z"
+      "title": "Telenor Pakistan secures No 1 position in cybersecurity excellence",
+      "description": "[THE NATION] ISLAMABAD - Pak Telecom Mobile Limited\u2019s brand, Telenor Pakistan has secured the No 1 position for the third consecutive year in Cybersecurity Excellence at the",
+      "url": "https://www.nation.com.pk/30-Oct-2026/telenor-pakistan-secures-1-position-cybersecurity-excellence",
+      "date": "2026-10-29T20:47:00Z"
     },
     {
-      "title": "Polymarket halts trading after crypto-draining script breach, $2.5M traced",
-      "description": "[BLEEPINGCOMPUTER] Prediction market platform Polymarket temporarily suspended trading on Thursday after hackers compromised a third-party service to distribute cryptocurrency-draining JavaScript, with approximately $2.5 million in assets traced to a suspected...",
-      "url": "https://www.bleepingcomputer.com/news/security/polymarket-halts-trading-after-crypto-draining-script-breach-25m-traced/",
-      "date": "2026-10-29T21:47:25Z"
+      "title": "Millions of students caught in California data breach",
+      "description": "[FOX NEWS] California student data breach exposed millions of records including names, addresses and disability details. Affected families can enroll in free identity theft protection.",
+      "url": "https://www.foxnews.com/tech/millions-students-caught-california-data-breach",
+      "date": "2026-10-29T20:30:34Z"
+    },
+    {
+      "title": "Hackers Target Crypto Users With Fake ChatGPT and Claude Apps",
+      "description": "[U.TODAY] Hackers are using fake ChatGPT and Claude desktop apps to secretly install cryptocurrency mining malware, according to cybersecurity researchers at Check Point Research.",
+      "url": "https://u.today/hackers-target-crypto-users-with-fake-chatgpt-and-claude-apps",
+      "date": "2026-10-29T20:17:07Z"
+    },
+    {
+      "title": "Hacker Leaks Data of 40,000+ Homeland Security Employees Including ICE Agents",
+      "description": "[BREITBART NEWS NETWORK] A hacker going by the name \"Department of Peace\" has published personal data belonging to more than 40,000 U.S. Department of Homeland Security employees, exposing ICE agents, cybersecurity staff and senior officials to potential harassment and...",
+      "url": "https://www.breitbart.com/tech/2026/10/29/hacker-leaks-data-of-40000-homeland-security-employees-including-ice-agents/",
+      "date": "2026-10-29T20:03:03Z"
+    },
+    {
+      "title": "Hacker Leaks Data of 40,000+ Homeland Security Employees Including ICE Agents",
+      "description": "[BREITBART NEWS NETWORK] A hacker going by the name \"Department of Peace\" has published personal data belonging to more than 40,000 U.S. Department of Homeland Security employees, exposing ICE agents, cybersecurity staff and senior officials to potential harassment and...",
+      "url": "https://www.breitbart.com/politics/2026/10/29/hacker-leaks-data-of-40000-homeland-security-employees-including-ice-agents/",
+      "date": "2026-10-29T20:03:03Z"
     },
     {
       "title": "AI deepfakes pose risks to consumers, voters and others, security experts warn",
@@ -58,80 +136,8 @@
     {
       "title": "Fintechs to lay out a code for technology vendors amid rising cyberthreats and security risks",
       "description": "[THE ECONOMIC TIMES] Unified Fintech Forum is developing a framework to encourage best practices among technology service providers. This initiative aims to improve cybersecurity preparedness and operational resilience in the fintech sector. Banks and fintech companies...",
-      "url": "https://economictimes.indiatimes.com/industry/banking/finance/fintechs-to-lay-out-a-code-for-technology-vendors-amid-rising-cyberthreats-and-security-risks/articleshow/135329528.cms",
-      "date": "2026-10-29T19:39:00Z"
-    },
-    {
-      "title": "Fintechs to lay out a code for technology vendors amid rising cyberthreats and security risks",
-      "description": "[THE ECONOMIC TIMES] Unified Fintech Forum is developing a framework to encourage best practices among technology service providers. This initiative aims to improve cybersecurity preparedness and operational resilience in the fintech sector. Banks and fintech companies...",
       "url": "https://economictimes.indiatimes.com/markets/stocks/news/fintechs-to-lay-out-a-code-for-technology-vendors-amid-rising-cyberthreats-and-security-risks/articleshow/135337816.cms",
       "date": "2026-10-29T19:39:00Z"
-    },
-    {
-      "title": "Cybersecurity a challenge in the AI age",
-      "description": "[THE TRIBUNE] A SURGE in cyberattacks has crippled online services in many countries. Banks, insurance companies, government services, education and utilities have been affected in several instances.",
-      "url": "https://www.tribuneindia.com/news/comment/cybersecurity-a-challenge-in-the-ai-age/",
-      "date": "2026-10-29T19:31:25Z"
-    },
-    {
-      "title": "Owner of Lewiston, Bangor hospitals agrees to $2M settlement over data breach",
-      "description": "[PORTLAND PRESS HERALD] Patients at St. Mary's Regional Medical Center in Lewiston and St. Joseph Healthcare in Bangor could be eligible for cash payments.",
-      "url": "https://www.pressherald.com/2026/10/29/owner-of-bangor-lewiston-hospitals-agrees-to-2m-settlement-over-data-breach/",
-      "date": "2026-10-29T19:29:31Z"
-    },
-    {
-      "title": "Elon Musk Impressed By Sundar Pichai\u2019s New Gemini AI Model; Here\u2019s What It Can Do",
-      "description": "[MASHABLE INDIA] Elon Musk has praised Google\u2019s Gemini 4 Carbon AI model, designed for advanced coding and cybersecurity tasks. The model has reported strong benchmark results, but access remains restricted as Google evaluates safeguards.",
-      "url": "https://in.mashable.com/tech/115531/elon-musk-impressed-by-sundar-pichais-new-gemini-ai-model-heres-what-it-can-do",
-      "date": "2026-10-29T19:28:05Z"
-    },
-    {
-      "title": "DHS working to \u2018swiftly\u2019 address potential breach impacting over 40K staff",
-      "description": "[BALTIMORE NEWS] The activist group behind an apparent data breach at the Department of Homeland Security.",
-      "url": "https://foxbaltimore.com/news/nation-world/dhs-working-to-swiftly-address-potential-breach-impacting-over-40k-staff-security-pentagon",
-      "date": "2026-10-29T19:23:56Z"
-    },
-    {
-      "title": "DHS working to \u2018swiftly\u2019 address potential breach impacting over 40K staff",
-      "description": "[WJLA] The activist group behind an apparent data breach at the Department of Homeland Security.",
-      "url": "https://wjla.com/news/nation-world/dhs-working-to-swiftly-address-potential-breach-impacting-over-40k-staff-security-pentagon",
-      "date": "2026-10-29T19:23:56Z"
-    },
-    {
-      "title": "Fake crypto app on Apple App Store linked to $23K wallet theft",
-      "description": "[BLEEPINGCOMPUTER] A fake cryptocurrency trading app called Padre Terminal, previously available on the Apple App Store for iOS devices, has been linked to the theft of approximately $23,000 from 27 Solana wallets. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/fake-crypto-app-on-apple-app-store-linked-to-23k-wallet-theft/",
-      "date": "2026-10-29T19:23:41Z"
-    },
-    {
-      "title": "ThreatsDay: Critical Firewall Flaws, Banking Trojans Rented, Weaponized PDF, Token Theft + 26 More Stories",
-      "description": "[FEEDS] Some attacks take real skill. Others just need someone to leave a door open. This week has both. Exposed passwords, old bugs still getting exploited, and trusted software doing things it shouldn't. There's a strange mix of clever tricks and careless...",
-      "url": "https://thehackernews.com/2026/10/threatsday-critical-firewall-flaws.html",
-      "date": "2026-10-29T19:11:58Z"
-    },
-    {
-      "title": "Corporate law firm McCarthy T\u00e9trault hit by data breach",
-      "description": "[THE GLOBE AND MAIL] Breach that occurred over the last week affected 31,000 files, source says",
-      "url": "https://www.theglobeandmail.com/business/article-corporate-law-firm-mccarthy-tetrault-hit-by-major-data-breach/",
-      "date": "2026-10-29T18:59:05Z"
-    },
-    {
-      "title": "Linux Kernel TCP Flaw With 9.8 CVSS Score Affects Ubuntu, Red Hat and Other Distributions",
-      "description": "[FEEDS] A flaw in the Linux kernel's TCP code, tracked as&nbsp;CVE-2026-98432, affects Ubuntu, Red Hat Enterprise Linux (RHEL), and other Linux distributions. The kernel's own CVE team rates it 9.8 out of 10 on the CVSS scale. Anthropic said&nbsp;on October...",
-      "url": "https://thehackernews.com/2026/10/linux-kernel-tcp-flaw-with-98-cvss.html",
-      "date": "2026-10-29T15:57:05Z"
-    },
-    {
-      "title": "Fake ChatGPT and Claude Apps Abuse Signed Executables to Deploy Crypto Miners",
-      "description": "[FEEDS] Threat actors are delivering malicious loaders and cryptocurrency miners under the guise of artificial intelligence (AI) desktop applications for Anthropic Claude and OpenAI ChatGPT as part of a campaign dubbed Yoba. The activity involves creating...",
-      "url": "https://thehackernews.com/2026/10/fake-chatgpt-and-claude-apps-abuse.html",
-      "date": "2026-10-29T15:20:29Z"
-    },
-    {
-      "title": "Google's Gemini 4 Carbon Leads Benchmarks for Finding, Exploiting, and Patching Vulnerabilities",
-      "description": "[FEEDS] Google on Wednesday took the wraps off Gemini 4 Carbon, its latest frontier model with state-of-the-art cybersecurity and long-horizon capabilities. \"It shows significant gains across coding and agentic tasks as well as across key capabilities...",
-      "url": "https://thehackernews.com/2026/10/googles-gemini-4-carbon-leads.html",
-      "date": "2026-10-29T13:42:40Z"
     },
     {
       "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
