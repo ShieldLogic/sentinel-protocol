@@ -1,6 +1,36 @@
 {
-  "updated": "2026-10-29 20:44:21 UTC",
+  "updated": "2026-10-30 01:25:55 UTC",
   "news": [
+    {
+      "title": "OpenAI doubles ChatGPT Pro usage limits after backlash over planned 50% cut",
+      "description": "[BLEEPINGCOMPUTER] OpenAI says it won't reduce usage limits for the $100, $200, and $500 ChatGPT Pro plans, as well as Business Premium, and it also promised to keep Dots usage independent. [...]",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-doubles-chatgpt-pro-usage-limits-after-backlash-over-planned-50-percent-cut/",
+      "date": "2026-10-29T23:35:52Z"
+    },
+    {
+      "title": "Binance probes potential $5.8 billion crypto-theft hack",
+      "description": "[BLEEPINGCOMPUTER] Cryptocurrency exchange Binance is investigating a potential security breach involving up to $5.8 billion in digital assets, in what could become the largest cryptocurrency hack in history. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/binance-probes-potential-58-billion-crypto-theft-hack/",
+      "date": "2026-10-29T22:45:23Z"
+    },
+    {
+      "title": "Hugging Face malware campaign returns to hijack GPUs for crypto mining",
+      "description": "[BLEEPINGCOMPUTER] A crypto-mining campaign abusing Hugging Face models returned days after takedown, hijacking GPU servers and planting backdoors, with one model downloaded over 28,000 times. Separately, a fake Solana starter kit on GitHub is positioned to trick AI...",
+      "url": "https://www.bleepingcomputer.com/news/security/hugging-face-malware-campaign-returns-to-hijack-gpus-for-crypto-mining/",
+      "date": "2026-10-29T22:09:24Z"
+    },
+    {
+      "title": "Japan Airlines suffers third-party data breach exposing passenger info",
+      "description": "[BLEEPINGCOMPUTER] Japan Airlines (JAL) has announced that a data breach at Amadeus's Passenger Service System exposed the data of about 92,000 customers. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/japan-airlines-suffers-third-party-data-breach-exposing-passenger-info/",
+      "date": "2026-10-29T22:08:04Z"
+    },
+    {
+      "title": "Polymarket halts trading after crypto-draining script breach, $2.5M traced",
+      "description": "[BLEEPINGCOMPUTER] Prediction market platform Polymarket temporarily suspended trading on Thursday after hackers compromised a third-party service to distribute cryptocurrency-draining JavaScript, with approximately $2.5 million in assets traced to a suspected...",
+      "url": "https://www.bleepingcomputer.com/news/security/polymarket-halts-trading-after-crypto-draining-script-breach-25m-traced/",
+      "date": "2026-10-29T21:47:25Z"
+    },
     {
       "title": "Fake crypto app on Apple App Store linked to $23K wallet theft",
       "description": "[BLEEPINGCOMPUTER] A fake cryptocurrency trading app called Padre Terminal, previously available on the Apple App Store for iOS devices, has been linked to the theft of approximately $23,000 from 27 Solana wallets. [...]",
@@ -12,18 +42,6 @@
       "description": "[FEEDS] Some attacks take real skill. Others just need someone to leave a door open. This week has both. Exposed passwords, old bugs still getting exploited, and trusted software doing things it shouldn't. There's a strange mix of clever tricks and careless...",
       "url": "https://thehackernews.com/2026/10/threatsday-critical-firewall-flaws.html",
       "date": "2026-10-29T19:11:58Z"
-    },
-    {
-      "title": "Hackers exploit Cisco SD-WAN flaw to deploy custom KeyDrift malware",
-      "description": "[BLEEPINGCOMPUTER] A newly identified advanced persistent threat (APT) group tracked as UAT-11473 was observed exploiting CVE-2026-20127, an authentication-bypass flaw in Cisco Catalyst SD-WAN Controllers, to deploy a custom malware framework called KeyDrift. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-cisco-sd-wan-flaw-to-deploy-custom-keydrift-malware/",
-      "date": "2026-10-29T18:38:26Z"
-    },
-    {
-      "title": "Chrome extensions with 13.4 million installs caught hijacking searches",
-      "description": "[BLEEPINGCOMPUTER] A massive search-hijacking campaign involving 319 Chrome extensions with a combined 13.4 million reported installations redirected users' searches through tracking servers to generate advertising revenue from Bing and Yahoo. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/chrome-extensions-with-134-million-installs-caught-hijacking-searches/",
-      "date": "2026-10-29T16:10:31Z"
     },
     {
       "title": "Linux Kernel TCP Flaw With 9.8 CVSS Score Affects Ubuntu, Red Hat and Other Distributions",
@@ -38,28 +56,58 @@
       "date": "2026-10-29T15:20:29Z"
     },
     {
-      "title": "Microsoft fixes Remote Desktop failures caused by recent Windows updates",
-      "description": "[BLEEPINGCOMPUTER] Microsoft has resolved a known issue that prevents non-admin users from connecting to devices via Remote Desktop when the \"Administrator protection\" security feature is enabled. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-remote-desktop-failures-caused-by-recent-windows-updates/",
-      "date": "2026-10-29T14:35:40Z"
-    },
-    {
-      "title": "3 Ways AI Agents Already Operate in Your Browser",
-      "description": "[BLEEPINGCOMPUTER] AI agents can control authenticated browsers, interact with corporate applications, and access sensitive data while appearing to act as legitimate employees. Keep Aware examines three ways agents operate inside browsers and why traditional security...",
-      "url": "https://www.bleepingcomputer.com/news/security/3-ways-ai-agents-already-operate-in-your-browser/",
-      "date": "2026-10-29T14:00:10Z"
-    },
-    {
-      "title": "CISA warns of Fragnesia Linux flaw chained in PHP2Shell attacks",
-      "description": "[BLEEPINGCOMPUTER] The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies to patch a high-severity Linux kernel privilege escalation bug that attackers are chaining with the PHP2Shell flaws in the wild. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-fragnesia-linux-flaw-chained-in-php2shell-attacks/",
-      "date": "2026-10-29T13:59:48Z"
-    },
-    {
       "title": "Google's Gemini 4 Carbon Leads Benchmarks for Finding, Exploiting, and Patching Vulnerabilities",
       "description": "[FEEDS] Google on Wednesday took the wraps off Gemini 4 Carbon, its latest frontier model with state-of-the-art cybersecurity and long-horizon capabilities. \"It shows significant gains across coding and agentic tasks as well as across key capabilities...",
       "url": "https://thehackernews.com/2026/10/googles-gemini-4-carbon-leads.html",
       "date": "2026-10-29T13:42:40Z"
+    },
+    {
+      "title": "NSE flags broker lapses in margin trading, client funds and cybersecurity",
+      "description": "[BUSINESS STANDARD] NSE inspections found brokers extending margin trading against ineligible securities, mishandling client funds and failing to comply with cybersecurity and surveillance norms.",
+      "url": "https://www.business-standard.com/markets/news/nse-flags-broker-lapses-in-margin-trading-client-funds-and-cybersecurity-126102901449_1.html",
+      "date": "2026-10-29T13:11:22Z"
+    },
+    {
+      "title": "Data breach at Sony ISP subsidiary exposes 2.5 million customer records as Japan hit with another major cyberattack",
+      "description": "[TECHRADAR] Hackers are gunning for Japan's ISPs",
+      "url": "https://www.techradar.com/pro/security/data-breach-at-sony-isp-subsidiary-exposes-2-5-million-customer-records-as-japan-hit-with-another-major-cyberattack",
+      "date": "2026-10-29T13:05:00Z"
+    },
+    {
+      "title": "MEDIA ADVISORY - BMO Hosts Inaugural Technology and Innovation Leaders Conference in New York",
+      "description": "[THE EXPOSITOR] Participants include leaders in artificial intelligence, cybersecurity, fintech, enterprise software, semiconductors, quantum computing, digital media,",
+      "url": "https://www.brantfordexpositor.ca/press-releases/pr-newswire/media-advisory-bmo-hosts-inaugural-technology-and-innovation-leaders-conference-in-new-york/",
+      "date": "2026-10-29T12:34:31Z"
+    },
+    {
+      "title": "MEDIA ADVISORY - BMO Hosts Inaugural Technology and Innovation Leaders Conference in New York",
+      "description": "[THE NORTH BAY NUGGET] Participants include leaders in artificial intelligence, cybersecurity, fintech, enterprise software, semiconductors, quantum computing, digital media,",
+      "url": "https://www.nugget.ca/press-releases/pr-newswire/media-advisory-bmo-hosts-inaugural-technology-and-innovation-leaders-conference-in-new-york/",
+      "date": "2026-10-29T12:34:22Z"
+    },
+    {
+      "title": "MEDIA ADVISORY - BMO Hosts Inaugural Technology and Innovation Leaders Conference in New York",
+      "description": "[THE LONDON FREE PRESS] Participants include leaders in artificial intelligence, cybersecurity, fintech, enterprise software, semiconductors, quantum computing, digital media,",
+      "url": "https://lfpress.com/press-releases/pr-newswire/media-advisory-bmo-hosts-inaugural-technology-and-innovation-leaders-conference-in-new-york/",
+      "date": "2026-10-29T12:34:11Z"
+    },
+    {
+      "title": "MEDIA ADVISORY - BMO Hosts Inaugural Technology and Innovation Leaders Conference in New York",
+      "description": "[THE KINGSTON WHIG-STANDARD] Participants include leaders in artificial intelligence, cybersecurity, fintech, enterprise software, semiconductors, quantum computing, digital media,",
+      "url": "https://www.thewhig.com/press-releases/pr-newswire/media-advisory-bmo-hosts-inaugural-technology-and-innovation-leaders-conference-in-new-york/",
+      "date": "2026-10-29T12:34:06Z"
+    },
+    {
+      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+      "description": "[CISA] CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-97229 GitLab Community Edition and Enterprise Edition Integer Overflow or Wraparound vulnerability...",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/10/29/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+      "date": "2026-10-29T12:00:00Z"
+    },
+    {
+      "title": "\u201cThe attackers are winning\u201d: Cyber 60 founders say AI is giving hackers the upper hand",
+      "description": "[FORTUNE] This week marked the release of the Cyber 60, Fortune\u2019s annual list of cybersecurity\u2019s most innovative startups. And the message is clear: The stakes are high.",
+      "url": "https://fortune.com/2026/10/29/attackers-winning-cyber-60-founders-ai-giving-hackers-upper-hand/",
+      "date": "2026-10-29T11:57:06Z"
     },
     {
       "title": "Webinar: How to Build AI Threat Readiness Into Your Security Operations",
@@ -74,64 +122,22 @@
       "date": "2026-10-29T11:39:18Z"
     },
     {
-      "title": "Meritus Health goes live with Sectra One Cloud to streamline radiology workflows and speed up diagnostics",
-      "description": "[PR NEWSWIRE UK] /PRNewswire/ -- International medical imaging IT and cybersecurity company Sectra (STO: SECT B) announces that Meritus Health has gone live with Sectra's...",
-      "url": "https://www.prnewswire.co.uk/news-releases/meritus-health-goes-live-with-sectra-one-cloud-to-streamline-radiology-workflows-and-speed-up-diagnostics-302923389.html",
-      "date": "2026-10-29T08:23:00Z"
+      "title": "Elon Musk Calls Google's New Gemini 4 Carbon AI Model \"Impressive\"",
+      "description": "[NDTV.COM] Google's latest AI model focuses on cybersecurity, with the company claiming major gains in finding software vulnerabilities and generating secure code.",
+      "url": "https://www.ndtv.com/artificial-intelligence/elon-musk-calls-googles-new-gemini-4-carbon-ai-model-impressive-12253455",
+      "date": "2026-10-29T10:19:14Z"
     },
     {
-      "title": "Enhanced Cybersecurity Features",
-      "description": "[ANALYTICS INDIA MAGAZINE] Discover Google Gemini 4 Carbon's capabilities in cybersecurity and coding, including its benchmark scores and advanced features for software vulnerability dete",
-      "url": "https://analyticsindiamag.com/ai-news/google-announces-gemini-4-carbon-with-focus-on-cybersecurity-and-coding",
-      "date": "2026-10-29T08:22:12Z"
+      "title": "Regulatory Framework For India\u2019s Crypto Industry",
+      "description": "[OUTLOOK MONEY] The body will set voluntary guidelines for VDA participants, covering cybersecurity, consumer protection, grievance redressal, market integrity and compliance practices",
+      "url": "https://www.outlookmoney.com/invest/bharat-web3-association-establishes-self-regulatory-framework-for-indias-crypto-industry",
+      "date": "2026-10-29T10:11:19Z"
     },
     {
-      "title": "NSE flags brokers for MTF violations, including inadequate margins and funding against ineligible stocks, lapses in monitoring of APs",
-      "description": "[MONEYCONTROL] Exchange's inspection findings for October 2025-March 2026 also flag lapses in authorised persons' conduct, KYC compliance, client-fund reporting and cybersecurity.",
-      "url": "https://www.moneycontrol.com/news/business/markets/nse-flags-brokers-for-mtf-violations-including-inadequate-margins-and-funding-against-ineligible-stocks-lapses-in-monitoring-of-aps-14063345.html",
-      "date": "2026-10-29T08:15:18Z"
-    },
-    {
-      "title": "America needs a 911 line for cybersecurity",
-      "description": "[LIVEMINT] Who are you going to call when your business or critical infrastructure is being hacked with AI?",
-      "url": "https://www.livemint.com/global/america-needs-a-911-line-for-cybersecurity-11793256584772.html",
-      "date": "2026-10-29T08:10:14Z"
-    },
-    {
-      "title": "Google unveils Gemini 4 Carbon AI model with record-breaking cybersecurity capabilities",
-      "description": "[THE NEWS INTERNATIONAL] Google has officially announced Gemini 4 Carbon, its latest frontier AI model following the release of Gemini 4 Argon.Marking a major leap forward for the Gemini ecosystem, Carbon lands at the #1...",
-      "url": "https://www.thenews.com.pk/latest/1421701-google-unveils-gemini-4-carbon-ai-model-with-record-breaking-cybersecurity-capabilities",
-      "date": "2026-10-29T08:04:00Z"
-    },
-    {
-      "title": "CISA: Coking coal purchase costs in China up 20.45 percent in Jan-Sept 2026",
-      "description": "[STEELORBIS] In the January-September period this year, the weighted-average purchase costs in China of coking coal, metallurgical coke, domestically produced ...",
-      "url": "https://www.steelorbis.com/steel-news/latest-news/cisa-coking-coal-purchase-costs-in-china-up-2045-percent-in-jan-sept-2026-1486967.htm",
-      "date": "2026-10-29T08:03:09Z"
-    },
-    {
-      "title": "GMO cybersecurity team finds info critical to identifying hackers, CEO says",
-      "description": "[THE JAPAN TIMES ] The alleged hacker group has remained publicly silent since its website revealing GMO client personal data was taken down Wednesday.",
-      "url": "https://www.japantimes.co.jp/news/2026/10/29/japan/gmo-hacker-information/",
-      "date": "2026-10-29T08:00:36Z"
-    },
-    {
-      "title": "'Lowest In World': PhonePe CEO Sameer Nigam Backs 0.4% MDR",
-      "description": "[FREE PRESS JOURNAL] PhonePe aims to expand UPI adoption to one billion users over the next decade, CEO Sameer Nigam said. Advocating the return of merchant discount rates, he cited rising cybersecurity and compliance costs. Nigam also questioned the proposed 30% market...",
-      "url": "https://www.freepressjournal.in/business/lowest-in-world-phonepe-ceo-sameer-nigam-backs-04-mdr",
-      "date": "2026-10-29T07:58:34Z"
-    },
-    {
-      "title": "DHS data leak: Agency responds after massive breach exposes details of 41,000 officials, including ICE personnel",
-      "description": "[THE ECONOMIC TIMES] DHS data leak: A recent data breach exposed personal information of 41,000 Department of Homeland Security officials, which was published online. The hacktivist group, Department of Peace, claimed responsibility, stating that the information was...",
-      "url": "https://economictimes.indiatimes.com/world/us/dhs-data-leak-agency-responds-after-massive-breach-exposes-details-of-41000-officials-including-ice-personnel/articleshow/135296433.cms",
-      "date": "2026-10-29T07:58:00Z"
-    },
-    {
-      "title": "Trump\u2019s DHS hit by data breach as hackers expose records of 41,000 employees",
-      "description": "[TIMES OF INDIA] More than 41,000 employees and contractors of the US department of homeland security (DHS), including thousands of immigration and border enforcement",
-      "url": "https://timesofindia.indiatimes.com/world/us/trumps-dhs-hit-by-data-breach-as-hackers-expose-records-of-41000-employees/articleshow/135294676.cms",
-      "date": "2026-10-29T07:19:00Z"
+      "title": "As Google releases Gemini 4 Carbon, CEO Sundar Pichai may have just told two of the biggest frontier AI companies, Anthropic and OpenAI, where they went wrong; gets 'message' from Elon Musk",
+      "description": "[TIMES OF INDIA] Google has announced its next frontier model: Gemini 4 Carbon, which the company calls its 'strongest model with state-of-the-art cybersecurity and long",
+      "url": "https://timesofindia.indiatimes.com/technology/tech-news/as-google-releases-gemini-4-carbon-ceo-sundar-pichai-may-have-just-told-two-of-the-biggest-frontier-ai-companies-anthropic-and-openai-where-they-went-wrong-gets-message-from-elon-musk/articleshow/135300142.cms",
+      "date": "2026-10-29T09:56:00Z"
     },
     {
       "title": "Deploying a Local Ghidra Server for Your Malware Analysis Lab, (Thu, Oct 29th)",
@@ -234,12 +240,6 @@
       "description": "[SCHNEIER] PHP maintainers have released fixes for two critical vulnerabilities: PHP 8.5.12, 8.4.27, 8.3.36 and 8.2.35 fix two critical vulnerabilities that can allow unauthenticated remote code execution. All PHP users are strongly encouraged to update...",
       "url": "https://www.schneier.com/blog/archives/2026/10/new-serious-php-vulnerabilities-released-and-patched.html",
       "date": "2026-10-22T13:26:51Z"
-    },
-    {
-      "title": "Critical Vulnerabilities in PHP Require Immediate Patching",
-      "description": "[CISA] Update October 26, 2026:&nbsp; CISA has updated this Alert to reflect the addition of CVE-2026-109618 and CVE-2026-109619 to its Known Exploited Vulnerabilities (KEV) Catalog on Oct. 26, 2026.&nbsp;&nbsp; Update October 23, 2026:&nbsp; CISA has...",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/10/21/critical-vulnerabilities-php-require-immediate-patching",
-      "date": "2026-10-21T12:00:00Z"
     }
   ]
 }
