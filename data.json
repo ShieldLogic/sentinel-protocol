@@ -1,11 +1,71 @@
 {
-  "updated": "2026-11-01 03:17:40 UTC",
+  "updated": "2026-11-01 10:54:04 UTC",
   "news": [
+    {
+      "title": "OneNote File Extraction, (Sun, Nov 1st)",
+      "description": "[ISC] Recently, I had to extract embedded files from a set of OneNote files (extension .one).&#xd;",
+      "url": "https://isc.sans.edu/diary/rss/33478",
+      "date": "2026-11-01T09:12:23Z"
+    },
+    {
+      "title": "CVSS 10.0 LXD, MicroCloud Flaw Lets Attackers Impersonate Trusted Clients Without a Private Key",
+      "description": "[FEEDS] A critical flaw in Canonical's LXD and MicroCloud let an attacker log in as a trusted client without holding that client's private key. To do it, the attacker had to reach their HTTPS API over the network and have the trusted client's public...",
+      "url": "https://thehackernews.com/2026/11/critical-lxd-and-microcloud-flaw-cvss.html",
+      "date": "2026-11-01T08:51:31Z"
+    },
+    {
+      "title": "Hackers Steal About $2.7 Million From Polymarket Traders via Hijacked DebugBear Script",
+      "description": "[FEEDS] Malicious code on the website of prediction market Polymarket sold some signed-in traders' positions and moved their funds to the hackers on October 29. The code had replaced a page-speed script that the site loaded from an outside company....",
+      "url": "https://thehackernews.com/2026/11/hackers-steal-about-27-million-from.html",
+      "date": "2026-11-01T07:25:40Z"
+    },
+    {
+      "title": "FBI Links North Korea's TraderTraitor to Record $6.43 Billion Binance Crypto Heist",
+      "description": "[FEEDS] The U.S. Federal Bureau of Investigation (FBI) has officially attributed the theft of more than $6 billion in virtual assets to TraderTraitor, a North Korea-aligned elite hacking group also tracked as Jade Sleet, Pressure Chollima, PUKCHONG, Slow...",
+      "url": "https://thehackernews.com/2026/11/fbi-links-north-koreas-tradertraitor-to.html",
+      "date": "2026-11-01T07:03:00Z"
+    },
+    {
+      "title": "NetamLoader Malware Targets Government Windows 10 Systems in Asia via .NET Injection",
+      "description": "[FEEDS] Cybersecurity researchers have disclosed details of what has been described as a \"highly sophisticated infection chain\" targeting government organizations in Asia. The activity, detailed by Kaspersky this week, targeted a custom Windows 10 build...",
+      "url": "https://thehackernews.com/2026/11/netamloader-malware-targets-government.html",
+      "date": "2026-11-01T07:02:58Z"
+    },
+    {
+      "title": "Info minister proposes national council to counter digital threats",
+      "description": "[THE NATION] Islamabad - Minister for Information and Broadcasting Attaullah Tarar has proposed the establishment of a National Cybersecurity and Social Media Awareness Council to",
+      "url": "https://www.nation.com.pk/01-Nov-2026/info-minister-proposes-national-council-counter-digital-threats",
+      "date": "2026-10-31T19:59:00Z"
+    },
+    {
+      "title": "How suspected North Korean hackers swiped billions in crypto in only minutes",
+      "description": "[SPOKANE SPOKESMAN-REVIEW] Hackers pilfered $6.3 billion from the world\u2019s largest cryptocurrency exchange Thursday in a stunning attack that halted withdrawals on the platform and set off a race among digital currency companies to freeze billions in stolen funds. The main...",
+      "url": "https://www.spokesman.com/stories/2026/oct/31/how-suspected-north-korean-hackers-swiped-billions/",
+      "date": "2026-10-31T19:18:00Z"
+    },
     {
       "title": "Northflank security breach leads to abuse of customers' AI API keys",
       "description": "[BLEEPINGCOMPUTER] Cloud application hosting platform Northflank is warning customers to rotate all credentials and secrets stored on its platform after a security breach led to unauthorized use of customers' AI API keys. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/northflank-security-breach-leads-to-abuse-of-customers-ai-api-keys/",
       "date": "2026-10-31T18:01:12Z"
+    },
+    {
+      "title": "Shadow AI exposes identity security gaps",
+      "description": "[THE MANILA TIMES] UNAUTHORIZED artificial intelligence tools are creating cybersecurity risks for enterprises across Asia-Pacific as employees connect AI platforms to corporate systems and data without adequate oversight, according to leading cybersecurity companies.",
+      "url": "https://www.manilatimes.net/2026/11/01/business/sunday-business-it/shadow-ai-exposes-identity-security-gaps/2458710",
+      "date": "2026-10-31T16:06:00Z"
+    },
+    {
+      "title": "ECCP 2026 AI Forum drives dialogue on responsible AI, cyber resilience and economic growth",
+      "description": "[THE MANILA TIMES] THE European Chamber of Commerce of the Philippines (ECCP) held its 2026 AI Forum on Oct. 22 at Makati Shangri-La, gathering government officials, diplomats and industry leaders to discuss how artificial intelligence (AI) can strengthen economic...",
+      "url": "https://www.manilatimes.net/2026/11/01/tmt-newswire/eccp-2026-ai-forum-drives-dialogue-on-responsible-ai-cyber-resilience-and-economic-growth/2458687",
+      "date": "2026-10-31T16:01:00Z"
+    },
+    {
+      "title": "7 Fintech Leaders Warning About AI's Blind Spots - and Why Their Concerns Matter",
+      "description": "[INTERNATIONAL BUSINESS TIMES] Anthropic's IPO prospectus warns that advanced AI could create existential risks and aid malicious actors, while industry leaders outline threats involving payments, privacy, cybersecurity and human",
+      "url": "https://www.ibtimes.com/7-fintech-leaders-warning-about-ai-blind-spots-why-their-concerns-matter-3809251",
+      "date": "2026-10-31T15:58:06Z"
     },
     {
       "title": "New Android SMS of Death exploit can remotely crash unpatched phones",
@@ -68,18 +128,6 @@
       "date": "2026-10-31T11:55:03Z"
     },
     {
-      "title": "Chainalysis hit by security incident",
-      "description": "[COINTELEGRAPH] Blockchain analytics company Chainalysis hit by cybersecurity incident",
-      "url": "https://cointelegraph.com/news/blockchain-investigator-chainalysis-hit-by-cybersecurity-incident",
-      "date": "2026-10-31T11:22:49Z"
-    },
-    {
-      "title": "Salesforce denies vulnerability in AU Small Finance Bank data breach",
-      "description": "[NEWSBYTES] Salesforce reports no platform vulnerabilities linked to the AU Small Finance Bank data breach, while the bank assures that its core systems and services remain unaffected.",
-      "url": "https://www.newsbytesapp.com/news/science/au-small-finance-bank-data-leak-salesforce-denies-platform-vulnerability/story",
-      "date": "2026-10-31T11:10:09Z"
-    },
-    {
       "title": "Wireshark 5.0.0rc1 Release, (Sat, Oct 31st)",
       "description": "[ISC] Wireshark Release Candidate 5.0.0 was published: soon we can expect a new major version of Wireshark.&#xd;",
       "url": "https://isc.sans.edu/diary/rss/33476",
@@ -98,34 +146,10 @@
       "date": "2026-10-31T10:45:40Z"
     },
     {
-      "title": "Google in talks with Pentagon for cybersecurity role in $185 billion Golden Dome project",
-      "description": "[THE FINANCIAL EXPRESS] Google is in early talks with the US Department of Defence to support data protection for the $185 billion Golden Dome missile defence programme, marking a potential new role in national security amid recent market losses.",
-      "url": "https://www.financialexpress.com/world-news/us-news/google-in-talks-with-pentagon-for-cybersecurity-role-in-185-billion-golden-dome-project/4373794/",
-      "date": "2026-10-31T08:43:36Z"
-    },
-    {
       "title": "Attackers Chain Three Ivanti Connect Secure Flaws to Gain Unauthenticated Root Access",
       "description": "[FEEDS] The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two security flaws impacting Ivanti Connect Secure (ICS) to its Known Exploited Vulnerabilities (KEV) catalog, following active exploitation in the wild. The...",
       "url": "https://thehackernews.com/2026/10/attackers-chain-three-ivanti-connect.html",
       "date": "2026-10-31T08:27:43Z"
-    },
-    {
-      "title": "North Korean hackers linked to crypto thefts among world's best, experts say",
-      "description": "[THE ECONOMIC TIMES] Blockchain investigation firms TRM Labs and Chainalysis attribute the heist to a North Korean hacking group known as \"TraderTraitor,\" a name used in a 2022 joint warning from the FBI, CISA and US Treasury that described how hackers used malicious...",
-      "url": "https://economictimes.indiatimes.com/tech/technology/north-korean-hackers-linked-to-crypto-thefts-among-worlds-best-experts-say/articleshow/135391045.cms",
-      "date": "2026-10-31T06:18:03Z"
-    },
-    {
-      "title": "A Shared ChatGPT Link Could Run Attacker Code in Your Session and Read Private Chats",
-      "description": "[FEEDS] A malicious ChatGPT share link could run an attacker's code in the logged-in session of anyone who opened it, allowing them to read their private conversations, researchers at&nbsp;the security firm Parameter&nbsp;showed. The researchers reported...",
-      "url": "https://thehackernews.com/2026/10/a-shared-chatgpt-link-could-run.html",
-      "date": "2026-10-31T05:33:41Z"
-    },
-    {
-      "title": "Cloudflare Reports 18.2 Million Network-Layer DDoS Attacks in Q3, Up 38%",
-      "description": "[FEEDS] Threat actors are launching about 8,226 network-layer distributed denial-of-service (DDoS) attacks per hour, Cloudflare revealed Thursday. The web infrastructure and security company said it autonomously mitigated 18.2 million network-layer (L3)...",
-      "url": "https://thehackernews.com/2026/10/cloudflare-reports-182-million-network.html",
-      "date": "2026-10-31T04:56:12Z"
     },
     {
       "title": "Critical Linux kernel flaw allows remote root attacks on MPTCP servers",
@@ -140,22 +164,10 @@
       "date": "2026-10-30T21:04:36Z"
     },
     {
-      "title": "Chinese Hackers Use AI-Powered ARTEX to Target Over 200 Organizations Worldwide",
-      "description": "[FEEDS] Chinese state-sponsored threat actors have been observed using a Go-based artificial intelligence (AI)-powered penetration testing framework called ARTEX in attacks aimed at high-value targets simultaneously. The activity has been attributed by...",
-      "url": "https://thehackernews.com/2026/10/chinese-hackers-use-ai-powered-artex-to.html",
-      "date": "2026-10-30T16:58:44Z"
-    },
-    {
       "title": "Bloatware in Aftermarket Auto Parts",
       "description": "[SCHNEIER] This story is interesting: One Civic owner purchased a cheap aftermarket head unit off Amazon, and decided to have Claude work its magic on it, like it would a smart TV. What was reportedly discovered isn\u2019t surprising, but is worth knowing about....",
       "url": "https://www.schneier.com/blog/archives/2026/10/bloatware-in-aftermarket-auto-parts.html",
       "date": "2026-10-30T15:20:02Z"
-    },
-    {
-      "title": "TeamViewer Flaw Lets Remote Computers Attack Users Who Connect to Control Them",
-      "description": "[FEEDS] TeamViewer has fixed a flaw that lets the machine being controlled in a remote session attack the computer that connected to control it. In a TeamViewer session, the computer that connects and takes control is the viewer, and the machine it controls...",
-      "url": "https://thehackernews.com/2026/10/teamviewer-flaw-lets-remote-computers.html",
-      "date": "2026-10-30T15:17:28Z"
     },
     {
       "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
@@ -180,12 +192,6 @@
       "description": "[ISC] Building your malware analysis lab is a key point before playing with malware. Today, thanks to virtualization, it&&#x23&#x3b;x26&#x3b;&#x23&#x3b;39&#x3b;s convenient to play with snapshots in your lab. Start a new investigation from a clean...",
       "url": "https://isc.sans.edu/diary/rss/33470",
       "date": "2026-10-29T06:17:41Z"
-    },
-    {
-      "title": "ISC Stormcast For Thursday, October 29th, 2026 https://isc.sans.edu/podcastdetail/10156, (Thu, Oct 29th)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33468",
-      "date": "2026-10-29T03:10:12Z"
     },
     {
       "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
