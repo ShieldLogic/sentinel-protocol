@@ -1,245 +1,137 @@
 {
-  "updated": "2026-11-02 19:53:38 UTC",
-  "news": [
-    {
-      "title": "Fintech platform Sageworks taken offline after suspected cyberattack",
-      "description": "[BLEEPINGCOMPUTER] Financial technology company Abrigo has restored its Sageworks risk management application, except for borrower-facing capabilities, following an outage triggered by \"irregular activity\" in its environment. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/fintech-platform-sageworks-taken-offline-after-suspected-cyberattack/",
-      "date": "2026-11-02T19:00:45Z"
-    },
-    {
-      "title": "Google disrupts million-device XCPE Android malware botnet, bans TV box maker",
-      "description": "[BLEEPINGCOMPUTER] Google and industry partners have dismantled the XCPE malware botnet consisting of more than 1.3 million Android TV streaming TV boxes that Google says its manufacturer intentionally infected with malware to generate revenue through cybercrime...",
-      "url": "https://www.bleepingcomputer.com/news/security/google-disrupts-million-device-xcpe-android-malware-botnet-bans-tv-box-maker/",
-      "date": "2026-11-02T18:16:34Z"
-    },
-    {
-      "title": "\u26a1 Weekly Recap: Critical CVEs, Linux DDoS Botnet, Device-Code Phishing, Android Spyware and More",
-      "description": "[FEEDS] Some attacks this week didn't need much of a trick. A fake support call, a trusted extension, a shared link, or a device with no password. Small things that people barely think about. Yet each was enough to cause serious trouble. Then there were the...",
-      "url": "https://thehackernews.com/2026/11/weekly-recap-critical-cves-linux-ddos.html",
-      "date": "2026-11-02T16:57:56Z"
-    },
-    {
-      "title": "Google Disrupts 1.3 Million-Device Android Botnet, Says TV Box Maker Sold Criminal Access",
-      "description": "[FEEDS] A botnet of more than 1.3 million Android devices, mostly TV set-top boxes, lost control of its servers in late October in a takedown led by Google. Google says&nbsp;it is highly confident that device maker Videostrong intentionally put a backdoor...",
-      "url": "https://thehackernews.com/2026/11/google-disrupts-13-million-device.html",
-      "date": "2026-11-02T15:50:26Z"
-    },
-    {
-      "title": "BTCPay Server warns of hot wallet crypto thefts on outdated instances",
-      "description": "[BLEEPINGCOMPUTER] The maintainer of BTCPay Server, an open-source cryptocurrency payment processor, has urged users to install the latest version as hackers have been draining \"hot wallets\" on instances running older versions. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/btcpay-server-warns-of-hot-wallet-thefts-targeting-outdated-instances/",
-      "date": "2026-11-02T15:03:07Z"
-    },
-    {
-      "title": "Your Mobile Carrier Stores Your Call Logs for Years",
-      "description": "[BLEEPINGCOMPUTER] Mobile carriers can retain years of call and text metadata, exposing sensitive details about customers' relationships, locations, and daily routines if breached. Cape examines the privacy risks of long-term telecom data retention and how its mobile...",
-      "url": "https://www.bleepingcomputer.com/news/security/your-mobile-carrier-stores-your-call-logs-for-years/",
-      "date": "2026-11-02T15:01:11Z"
-    },
-    {
-      "title": "Mutipath TCP: Use and Detection, (Mon, Nov 2nd)",
-      "description": "[ISC] Last week, an often-ignored&&#x23&#x3b;x26&#x3b;&#x23&#x3b;xc2&#x3b;&&#x23&#x3b;x26&#x3b;&#x23&#x3b;xa0&#x3b;TCP option, introduced in 2020, made the news due to a new vulnerability in Linux&&#x23&#x3b;x26&#x3b;&#x23&#x3b;39&#x3b;s implementation...",
-      "url": "https://isc.sans.edu/diary/rss/33482",
-      "date": "2026-11-02T14:52:05Z"
-    },
-    {
-      "title": "DarkBlinders Compromises Israeli Target and Iraqi Kurdish Government Cloud Environment",
-      "description": "[FEEDS] Cybersecurity researchers have disclosed details of a cyber espionage campaign targeting Israel and the Kurdistan Region of Iraq by an Iran state-aligned threat actor between August and October 2026. According to a report published by Dream Research...",
-      "url": "https://thehackernews.com/2026/11/darkblinders-compromises-israeli-target.html",
-      "date": "2026-11-02T14:46:05Z"
-    },
-    {
-      "title": "Hackers disrupt refrigeration systems at European supermarkets",
-      "description": "[BLEEPINGCOMPUTER] A cyberattack on refrigeration systems has disrupted stores run by multiple supermarket chains across several European countries after hackers remotely changed temperature settings on freezers and cooling systems. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-disrupt-refrigeration-systems-at-european-supermarkets/",
-      "date": "2026-11-02T14:28:39Z"
-    },
-    {
-      "title": "Microsoft fixes Smart App Control broken by October Windows update",
-      "description": "[BLEEPINGCOMPUTER] Microsoft has resolved a known issue that prevented some users from activating the Smart App Control security feature after installing the October 2026 KB5127648 Windows 11 security update. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-smart-app-control-broken-by-october-windows-update/",
-      "date": "2026-11-02T13:57:29Z"
-    },
-    {
-      "title": "AI Vulnerability Finding",
-      "description": "[SCHNEIER] A comment: 3% of &#8216;critical&#8217; software security bugs, in all of recorded history, have been found in the last month. This is on pace to find another ~100,000 bugs this year alone, adding ~26% more vulnerabilities to the all time total Do...",
-      "url": "https://www.schneier.com/blog/archives/2026/11/ai-vulnerability-finding-2.html",
-      "date": "2026-11-02T12:02:34Z"
-    },
-    {
-      "title": "Critical Langflow Flaws Could Let Unauthenticated Attackers Run Code on Servers",
-      "description": "[FEEDS] Two critical flaws in Langflow could let a remote attacker with no account bypass authentication or run arbitrary code,&nbsp;IBM said last week. Langflow is an open-source tool for building AI agents and workflows, and&nbsp;its vulnerability reports...",
-      "url": "https://thehackernews.com/2026/11/critical-langflow-flaws-could-let.html",
-      "date": "2026-11-02T11:50:00Z"
-    },
-    {
-      "title": "Is Your SOC Ready for AI Agents? A Maturity Check Before You Deploy",
-      "description": "[FEEDS] Forty percent of security teams now use AI every day, and another 56% are testing it. Only 4% have no plans to adopt it, according to Prophet Security's State of AI in Security Operations 2026 survey of more than 250 CISOs, SOC leaders and...",
-      "url": "https://thehackernews.com/2026/11/is-your-soc-ready-for-ai-agents.html",
-      "date": "2026-11-02T11:30:00Z"
-    },
-    {
-      "title": "Attackers Pose as IT Support on Microsoft Teams, Abuse AD CS to Steal Company Data",
-      "description": "[FEEDS] Attackers posing as IT support on Microsoft Teams talked employees into giving them remote control of their PCs. They then used insecure Active Directory Certificate Services (AD CS) settings to obtain login certificates for privileged accounts,...",
-      "url": "https://thehackernews.com/2026/11/attackers-pose-as-it-support-on.html",
-      "date": "2026-11-02T11:08:45Z"
-    },
-    {
-      "title": "Hackers Use Claude, Gemini and Kimi to Identify Valuable Crypto Targets",
-      "description": "[U.TODAY] Cybercriminals are using AI models like Anthropic's Claude, Google's Gemini and Moonshot AI's Kimi to analyze stolen data, identify wealthy crypto holders and rank potential victims based on their financial worth, according to cybersecurity...",
-      "url": "https://u.today/hackers-use-claude-gemini-and-kimi-to-identify-valuable-crypto-targets",
-      "date": "2026-11-02T07:48:26Z"
-    },
-    {
-      "title": "HYBE data breach exposes employee medical records, financial details",
-      "description": "[THE KOREA TIMES] HYBE, the music agency behind K-pop group BTS, disclosed a cyberattack that exposed personal information of current and former employees and busine...",
-      "url": "https://www.koreatimes.co.kr/entertainment/k-pop/20261102/hybe-data-breach-exposes-employee-medical-records-financial-details",
-      "date": "2026-11-02T06:53:02Z"
-    },
-    {
-      "title": "GS E&C data breach exposes blind spots in Korea's smart apartments",
-      "description": "[THE KOREA TIMES] When Park, a 56-year-old homemaker living in an apartment complex in Suwon, Gyeonggi Province, heard that GS Engineering & Construction (GS E&C) ha...",
-      "url": "https://www.koreatimes.co.kr/economy/20261102/gs-ec-data-breach-exposes-blind-spots-in-koreas-smart-apartments",
-      "date": "2026-11-02T06:50:04Z"
-    },
-    {
-      "title": "ET Product of the Year Awards 2026: Categories recognising products driving market impact",
-      "description": "[THE ECONOMIC TIMES] The Economic Times Product of the Year Awards 2026 celebrate cutting-edge innovations that make a substantial difference in the market and attract customer loyalty across diverse industries. Categories feature Enterprise SaaS, FinTech,...",
-      "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/et-product-of-the-year-awards-2026-categories-recognising-products-driving-market-impact/articleshow/135448101.cms",
-      "date": "2026-11-02T06:39:00Z"
-    },
-    {
-      "title": "State agencies cease use of Russian-linked cybersecurity service following investigation",
-      "description": "[THE IRISH TIMES] Striking similarities identified with Passwork software which was licensed by Moscow intelligence service",
-      "url": "https://www.irishtimes.com/ireland/2026/11/02/state-agencies-cease-use-of-russian-linked-cybersecurity-service-following-investigation/",
-      "date": "2026-11-02T06:00:00Z"
-    },
-    {
-      "title": "GMO execs apologize over inadequate response to cyberattacks",
-      "description": "[THE JAPAN TIMES ] CEO Masatoshi Kumagai formally acknowledged failings at the firm\u2019s first public briefing since it became embroiled in a massive data breach scandal.",
-      "url": "https://www.japantimes.co.jp/news/2026/11/02/japan/gmo-news-conference-kumagai/",
-      "date": "2026-11-02T05:52:55Z"
-    },
-    {
-      "title": "North Korea said behind GMO cyberattack ahead of CEO\u2019s first briefing on hacking",
-      "description": "[THE JAPAN TIMES ] GMO CEO Masatoshi Kumagai is set to hold the firm\u2019s first public briefing since it became embroiled in a growing scandal over a massive data breach.",
-      "url": "https://www.japantimes.co.jp/news/2026/11/02/japan/gmo-news-conference/",
-      "date": "2026-11-02T05:52:55Z"
-    },
-    {
-      "title": "When cyber alarms ring, India gets to work",
-      "description": "[TIMES OF INDIA] When critical vulnerabilities in PHP triggered a worldwide security response, engineers of a global cybersecurity company in India were helping a bank",
-      "url": "https://timesofindia.indiatimes.com/technology/times-techies/when-cyber-alarms-ring-india-gets-to-work/articleshow/135445937.cms",
-      "date": "2026-11-02T05:06:00Z"
-    },
-    {
-      "title": "The biggest risk from always-on wearables isn\u2019t what most companies think",
-      "description": "[THE STAR] As companies turn to AI devices for workplace management, new risks include legal liabilities, identity theft, ransomware, and espionage.",
-      "url": "https://www.thestar.com.my/tech/tech-news/2026/11/02/the-biggest-risk-from-always-on-wearables-isnt-what-most-companies-think",
-      "date": "2026-11-02T05:00:00Z"
-    },
-    {
-      "title": "Shahjalal Islami Bank holds cyber awareness sessions for staff",
-      "description": "[THE DAILY STAR] Shahjalal Islami Bank PLC has organised a cybersecurity awareness workshop for its senior management at its corporate head office in Dhaka as part of the observance of National Cyber Security Awareness Month.",
-      "url": "https://www.thedailystar.net/business/organisation-news/news/shahjalal-islami-bank-holds-cyber-awareness-sessions-staff-4313926",
-      "date": "2026-11-02T04:00:00Z"
-    },
-    {
-      "title": "ISC Stormcast For Monday, November 2nd, 2026 https://isc.sans.edu/podcastdetail/10160, (Mon, Nov 2nd)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33480",
-      "date": "2026-11-02T02:00:03Z"
-    },
-    {
-      "title": "OneNote File Extraction, (Sun, Nov 1st)",
-      "description": "[ISC] Recently, I had to extract embedded files from a set of OneNote files (extension .one).&#xd;",
-      "url": "https://isc.sans.edu/diary/rss/33478",
-      "date": "2026-11-01T09:12:23Z"
-    },
-    {
-      "title": "Wireshark 5.0.0rc1 Release, (Sat, Oct 31st)",
-      "description": "[ISC] Wireshark Release Candidate 5.0.0 was published: soon we can expect a new major version of Wireshark.&#xd;",
-      "url": "https://isc.sans.edu/diary/rss/33476",
-      "date": "2026-10-31T10:52:53Z"
-    },
-    {
-      "title": "YARA-X 1.22.1 Release, (Sat, Oct 31st)",
-      "description": "[ISC] YARA-X&&#x23&#x3b;x26&#x3b;&#x23&#x3b;39&#x3b;s 1.22.1 is a bugfix version, it brings 2 bugfixes.&#xd;",
-      "url": "https://isc.sans.edu/diary/rss/33474",
-      "date": "2026-10-31T10:48:17Z"
-    },
-    {
-      "title": "YARA-X 1.22.0 Release, (Sun, Oct 25th)",
-      "description": "[ISC] YARA-X&&#x23;x26;&#x23;39&&#x23;x26;&#x23;x3b;s 1.22.0 release brings 11 improvements and 9 bugfixes.&#xd;",
-      "url": "https://isc.sans.edu/diary/rss/33454",
-      "date": "2026-10-31T10:45:40Z"
-    },
-    {
-      "title": "Friday Squid Blogging: Bigfin Squid Off California Coast",
-      "description": "[SCHNEIER] Neat video: The sighting, announced September 2, marks the first time anyone has spotted a live bigfin squid, which belongs to the Magnapinna genus, in the northeastern Pacific Ocean. As usual, you can also use this squid post to talk about the...",
-      "url": "https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-bigfin-squid-off-california-coast.html",
-      "date": "2026-10-30T21:04:36Z"
-    },
-    {
-      "title": "Bloatware in Aftermarket Auto Parts",
-      "description": "[SCHNEIER] This story is interesting: One Civic owner purchased a cheap aftermarket head unit off Amazon, and decided to have Claude work its magic on it, like it would a smart TV. What was reportedly discovered isn\u2019t surprising, but is worth knowing about....",
-      "url": "https://www.schneier.com/blog/archives/2026/10/bloatware-in-aftermarket-auto-parts.html",
-      "date": "2026-10-30T15:20:02Z"
-    },
-    {
-      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
-      "description": "[CISA] CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-111357 Ivanti Connect Secure Missing Authentication for Critical Function Vulnerability CVE-2026-118527...",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/10/30/cisa-adds-two-known-exploited-vulnerabilities-catalog",
-      "date": "2026-10-30T12:00:00Z"
-    },
-    {
-      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
-      "description": "[CISA] CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-97229 GitLab Community Edition and Enterprise Edition Integer Overflow or Wraparound vulnerability...",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/10/29/cisa-adds-two-known-exploited-vulnerabilities-catalog",
-      "date": "2026-10-29T12:00:00Z"
-    },
-    {
-      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
-      "description": "[CISA] CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-41709 Broadcom VMWare ESX Insufficient Logging Vulnerability CVE-2026-46300 Linux Kernel Missing...",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/10/28/cisa-adds-two-known-exploited-vulnerabilities-catalog",
-      "date": "2026-10-28T12:00:00Z"
-    },
-    {
-      "title": "Studying Fraudulent North Korean IT Workers",
-      "description": "[SCHNEIER] Researchers set up a fake start-up company to study fraudulent North Korean IT workers.",
-      "url": "https://www.schneier.com/blog/archives/2026/10/studying-fraudulent-north-korean-it-workers.html",
-      "date": "2026-10-28T11:05:00Z"
-    },
-    {
-      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
-      "description": "[CISA] CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-48356 Adobe Commerce and Magento Unrestricted Upload of File with Dangerous Type Vulnerability...",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/10/27/cisa-adds-two-known-exploited-vulnerabilities-catalog",
-      "date": "2026-10-27T12:00:00Z"
-    },
-    {
-      "title": "Hiding Capabilities in AI Models",
-      "description": "[SCHNEIER] Interesting research: &#8220;AI Models Can Provably Hide Arbitrary Capabilities&#8221; Abstract: Capability evaluations aim to surface dangerous model behaviors before deployment, but their reliability depends on the assumption that hidden...",
-      "url": "https://www.schneier.com/blog/archives/2026/10/hiding-capabilities-in-ai-models.html",
-      "date": "2026-10-27T11:01:26Z"
-    },
-    {
-      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
-      "description": "[CISA] CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog and updated the PHP Alert, Critical Vulnerabilities in PHP Require Immediate Patching: &nbsp; CVE-2026-109618 \u2013 PHP Memory Corruption Vulnerability&nbsp;...",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/10/26/cisa-adds-two-known-exploited-vulnerabilities-catalog",
-      "date": "2026-10-26T12:00:00Z"
-    },
-    {
-      "title": "Bias in Qwen3-Coder Model",
-      "description": "[SCHNEIER] Interesting research: TL;DR: Chinese AI models now sit inside Western products, and some carry geopolitical triggers: tell the model who the code is for, and the security of what it writes changes. For the first time, we showed that this...",
-      "url": "https://www.schneier.com/blog/archives/2026/10/bias-in-qwen3-coder-model.html",
-      "date": "2026-10-26T11:03:31Z"
-    },
-    {
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "description": "[CISA] CISA has added one new vulnerability to its&nbsp;Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-110447 Collabora Online \u2013 Built-in CODE Server OS Command Injection Vulnerability&nbsp; This type of...",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/10/23/cisa-adds-one-known-exploited-vulnerability-catalog-0",
-      "date": "2026-10-23T12:00:00Z"
-    }
-  ]
+    "title": "Sentinel Protocol",
+    "tagline": "Perimeter Intelligence Sync",
+    "updated": "2026-11-02 20:37 UTC",
+    "news": [
+        {
+            "source": {
+                "id": null,
+                "name": "Hugovk.dev"
+            },
+            "author": "Hugo van Kemenade",
+            "title": "Hugo van Kemenade: Lots of Python releases for Cybersecurity Awareness Month",
+            "description": "",
+            "url": "https://hugovk.dev/blog/2026/cybersecurity-awareness/",
+            "urlToImage": "https://hugovk.dev/blog/2026/cybersecurity-awareness/feature.jpg",
+            "publishedAt": "2026-11-01T20:30:16Z",
+            "content": "This\r\nCybersecurity Awareness Month,\r\nI made seven Python releases, when two were originally planned for October.\r\nAltogether, we made 16 Python releases, when five were originally planned. Of the ex\u2026 [+580 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "iTnews"
+            },
+            "author": null,
+            "title": "ARTEX AI hacking framework spreads to another China-linked group",
+            "description": "Open-source ARTEX framework linked to espionage and financially motivated campaigns.",
+            "url": "https://www.itnews.com.au/news/artex-ai-hacking-framework-spreads-to-another-china-linked-group-630045",
+            "urlToImage": "https://i.nextmedia.com.au/News/artex.png",
+            "publishedAt": "2026-11-01T20:08:14Z",
+            "content": "A China-linked hacking group used an open-source AI attack framework to target more than 200 organisations worldwide in less than a fortnight, security vendor CrowdStrike said.\r\nThe security vendor s\u2026 [+4325 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Danielmiessler.com"
+            },
+            "author": "daniel@danielmiessler.com (Daniel Miessler)",
+            "title": "The Post-AI Security Floor",
+            "description": "Hand-drawn diagram titled The Post-AI Security Floor with three numbered steps: know everything you have shipped, get it off the open internet, and lean on big vendors instead of small ones/images/post-ai-security-floor-diagram.webp/images/post-ai-security-fl\u2026",
+            "url": "https://danielmiessler.com/blog/post-ai-security-floor",
+            "urlToImage": "https://danielmiessler.com/images/og/post-ai-security-floor.jpg?t=1793573703344",
+            "publishedAt": "2026-11-01T20:00:00Z",
+            "content": "Cybersecurity recommendations during The Hackening. In 2023 I guessed that AI would help attackers before it helped defenders, and that their lead would last three to five years. We're inside that wi\u2026 [+5635 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Torpey",
+            "title": "Billboards in Multiple Countries Hacked to Show Porn",
+            "description": "Hackers say \"anyone with two brain cells\" could have done it.",
+            "url": "https://gizmodo.com/billboards-in-multiple-countries-hacked-to-show-porn-2000833555",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/11/Giza-Billboard-Hack-1200x675.jpg",
+            "publishedAt": "2026-11-01T19:54:41Z",
+            "content": "Sexually explicit footage appeared on digital LED billboards in Egypt, Malaysia, Brazil, and reportedly Iraq and China on Thursday. Following these incidents, a group on Telegram claimed responsibili\u2026 [+5836 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Kitploit.com"
+            },
+            "author": "Kitploit",
+            "title": "PEASS-ng v20261101-db78fb84",
+            "description": "PEASS - Privilege Escalation Awesome Scripts SUITE (with colors)",
+            "url": "https://kitploit.com/en/posts/peass-ng-44179c316621a9da",
+            "urlToImage": "https://assets.kitploit.com/production/public/tools/6539/38fe61449bd0ad2658a7894d10c7d728b9eff6b1393c47c751fade67424ae1fc.png",
+            "publishedAt": "2026-11-01T19:41:02Z",
+            "content": "PEASS-ng - Privilege Escalation Awesome Scripts SUITE new generation\r\nLinux Privesc official course to master LinPEAS\r\nCheck https://hacktricks-training.com/courses/lhe/ to learn tens of linux prives\u2026 [+1724 chars]"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "Debjit Sinha",
+            "title": "Are your freezers safe? Military commissary refrigeration cyberattack probe, French supermarkets systems crash raise fears",
+            "description": "Cyberattack latest: Refrigeration plays a critical role in the distribution of fresh food and the sabotage of cold storage facilities over the internet has long been seen as a nightmare scenario, alongside the loss of electricity or water plants.",
+            "url": "https://economictimes.indiatimes.com/news/international/us/are-your-freezers-safe-military-commissary-refrigeration-cyberattack-probe-french-supermarkets-systems-crash-raise-fears/articleshow/135435690.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-135435800,width-1200,height-900,imgsize-177196,overlay-economictimes/articleshow.jpg",
+            "publishedAt": "2026-11-01T18:42:25Z",
+            "content": "It's high time that one might be careful about his or her digitally controlled or AI-run freezer. Apprehensions have been raised after two high-profile instances. Hundreds of supermarkets in France s\u2026 [+2373 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Securityaffairs.com"
+            },
+            "author": "Pierluigi Paganini",
+            "title": "SECURITY AFFAIRS AI-CYBERSECURITY NEWSLETTER ROUND 6",
+            "description": "Security Affairs AI-CYBERSECURITY newsletter includes a collection of the best articles and research on AI in the international landscape Artificial intelligence is rapidly changing cybersecurity, reshaping both the techniques used by attackers and the tools \u2026",
+            "url": "https://securityaffairs.com/202216/ai/security-affairs-ai-cybersecurity-newsletter-round-6.html",
+            "urlToImage": "https://securityaffairs.com/wp-content/uploads/2026/09/Security-Affairs-NewsLetter-AI-Cyber.jpg",
+            "publishedAt": "2026-11-01T18:02:24Z",
+            "content": "SECURITY AFFAIRS AI-CYBERSECURITY NEWSLETTER ROUND 6\r\nArtificial intelligence is rapidly changing cybersecurity, reshaping both the techniques used by attackers and the tools available to defenders. \u2026 [+1742 chars]"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "Shilpy Sinha",
+            "title": "Cyberattacks on banks, including AU Small Finance Bank, worry insurers as claim risks rise",
+            "description": "Cyberattacks targeting financial institutions have raised concerns about security vulnerabilities and potential losses. AU Small Finance Bank is investigating a possible data breach involving customer information stored on Salesforce. Insurers have recently r\u2026",
+            "url": "https://economictimes.indiatimes.com/industry/banking/finance/insure/cyberattacks-on-banks-including-au-small-finance-bank-worry-insurers-as-claim-risks-rise/articleshow/135441593.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-135434709,width-1200,height-900,imgsize-53890,overlay-etmarkets/articleshow.jpg",
+            "publishedAt": "2026-11-01T17:59:56Z",
+            "content": "Mumbai: The spate of cyberattacks targeting financial institutions, including the one involving AU Small Finance Bank, is raising concerns about the growing vulnerability of banks and the potential s\u2026 [+2590 chars]"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "Shilpy Sinha",
+            "title": "Cyberattacks on banks, including AU Small Finance Bank, worry insurers as claim risks rise",
+            "description": "Cyberattacks targeting financial institutions have raised concerns about security vulnerabilities and potential losses. AU Small Finance Bank is investigating a possible data breach involving customer information stored on Salesforce. Insurers have recently r\u2026",
+            "url": "https://economictimes.indiatimes.com/industry/banking/finance/insure/cyberattacks-on-banks-including-au-small-finance-bank-worry-insurers-as-claim-risks-rise/articleshow/135434670.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-135434709,width-1200,height-900,imgsize-53890,overlay-economictimes/articleshow.jpg",
+            "publishedAt": "2026-11-01T17:59:56Z",
+            "content": "Mumbai: The spate of cyberattacks targeting financial institutions, including the one involving AU Small Finance Bank, is raising concerns about the growing vulnerability of banks and the potential s\u2026 [+2592 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Github.com"
+            },
+            "author": "myren11",
+            "title": "Show HN: Natively 3.0 \u2013 a local meeting assistant that hides from screen share",
+            "description": "Natively \u2014 Free open-source AI meeting assistant, interview copilot, and note taker. The best alternative to Cluely, Otter, Granola, Final Round AI, Fireflies, and Interview Coder. Real-time transc...",
+            "url": "https://github.com/Natively-AI-assistant/natively-cluely-ai-assistant",
+            "urlToImage": "https://opengraph.githubassets.com/b5e08251da44f04b83464754a34dba72b9d015d69c8050a94b8c038035e1e203/Natively-AI-assistant/natively-cluely-ai-assistant",
+            "publishedAt": "2026-11-01T17:51:51Z",
+            "content": "If youre looking for a hosted desktop recording API, consider checking out Recall.ai, an API that records Zoom, Google Meet, Microsoft Teams, in-person meetings, and more.\r\nThe best free alternative \u2026 [+64293 chars]"
+        }
+    ]
 }
