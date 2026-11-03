@@ -1,245 +1,137 @@
 {
-  "updated": "2026-11-03 17:25:51 UTC",
-  "news": [
-    {
-      "title": "Binance Reveals How Fake Job Interviews and AI Tool Abuse Led to $6.43 Billion Theft",
-      "description": "[FEEDS] Binance on Tuesday said the record-setting theft of $6.43 billion in assets from the world's largest cryptocurrency exchange was the culmination of a \"sophisticated, multi-stage campaign\" that involved the use of a tampered Homebrew installation and...",
-      "url": "https://thehackernews.com/2026/11/binance-reveals-how-fake-job-interviews.html",
-      "date": "2026-11-03T16:55:58Z"
-    },
-    {
-      "title": "Barracuda Flaws Could Be Chained to Bypass Authorization and Gain Root Access",
-      "description": "[FEEDS] Barracuda has disclosed details of two vulnerabilities affecting its products that, if chained together, could allow an attacker to bypass authorization controls and gain root access to a susceptible device. The vulnerabilities, a pre-authentication...",
-      "url": "https://thehackernews.com/2026/11/barracuda-flaws-could-be-chained-to.html",
-      "date": "2026-11-03T15:59:19Z"
-    },
-    {
-      "title": "Google Warns LLMjacking Attacks Are Costing Some Enterprises Up to $1 Million in Cloud Charges",
-      "description": "[FEEDS] Google on Monday warned that threat actors are hijacking enterprise access to Large Language Models (LLMs) to fraudulently leverage expensive computing resources and AI services. The tactic is called LLMjacking, a form of resource hijacking adapted...",
-      "url": "https://thehackernews.com/2026/11/google-warns-llmjacking-attacks-are.html",
-      "date": "2026-11-03T15:41:53Z"
-    },
-    {
-      "title": "cPGuard Update Channel Hijacked to Backdoor Linux Servers and Collect Password Hashes",
-      "description": "[FEEDS] An attacker broke into the update system of the cPGuard security tool on November 2 and used it to send a malicious script to customers' Linux servers. The script installed a backdoor and collected password hashes and other sensitive files from...",
-      "url": "https://thehackernews.com/2026/11/cpguard-update-channel-hijacked-to.html",
-      "date": "2026-11-03T15:16:32Z"
-    },
-    {
-      "title": "Barracuda warns of critical flaws allowing root access to devices",
-      "description": "[BLEEPINGCOMPUTER] Cybersecurity company Barracuda Networks warned customers to patch two vulnerabilities that can let attackers run commands with root privileges. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/barracuda-warns-of-critical-flaws-allowing-root-access-to-devices/",
-      "date": "2026-11-03T15:06:16Z"
-    },
-    {
-      "title": "Gartner Predicts SOCs Will Have 50% More Engineers Than Analysts by 2028",
-      "description": "[BLEEPINGCOMPUTER] Gartner predicts that security operations centers will have 50% more engineers than analysts by 2028 as AI agents take over routine alert handling. Prophet Security examines how AI is reshaping SOC roles, from analyst responsibilities and detection...",
-      "url": "https://www.bleepingcomputer.com/news/security/gartner-predicts-socs-will-have-50-percent-more-engineers-than-analysts-by-2028/",
-      "date": "2026-11-03T15:00:10Z"
-    },
-    {
-      "title": "UK school estate hit by 3AM ransomware in suspected AI-assisted attack",
-      "description": "[BLEEPINGCOMPUTER] A 3AM ransomware affiliate targeted a school estate in the UK and successfully encrypted around 37 of nearly 50 machines reached from an unmanaged host. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/uk-school-estate-hit-by-3am-ransomware-in-suspected-ai-assisted-attack/",
-      "date": "2026-11-03T14:00:00Z"
-    },
-    {
-      "title": "Police seizes over 100 servers in investment scam crackdown",
-      "description": "[BLEEPINGCOMPUTER] European law enforcement authorities arrested seven suspects and seized more than 100 servers in a joint action targeting an unnamed company suspected of providing fraudulent trading websites to criminal gangs. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/police-seizes-over-100-servers-in-investment-scam-crackdown/",
-      "date": "2026-11-03T13:33:49Z"
-    },
-    {
-      "title": "Google adds new $250,000 Cloud VRP reward for Root-in-Cloud bugs",
-      "description": "[BLEEPINGCOMPUTER] Google has expanded its Cloud Vulnerability Reward Program (VRP) with a new top-tier reward for high-impact architectural security flaws. [...]",
-      "url": "https://www.bleepingcomputer.com/news/google/google-adds-new-250-000-cloud-vrp-reward-for-root-in-cloud-bugs/",
-      "date": "2026-11-03T12:05:52Z"
-    },
-    {
-      "title": "AIs Hacking the Law",
-      "description": "[SCHNEIER] In both a 2021 essay and my 2022 book, A Hacker&#8217;s Mind, I talk about AIs finding vulnerabilities and exploits&#8212;hacking&#8212;the legal system. Here&#8217;s some demonstrations of this from Germany: Legal systems encode the foundations of...",
-      "url": "https://www.schneier.com/blog/archives/2026/11/ais-hacking-the-law.html",
-      "date": "2026-11-03T12:01:00Z"
-    },
-    {
-      "title": "Red Hat Patches 9.8-Rated Linux TCP RCE Flaw While Ubuntu Releases Fixes for Testing",
-      "description": "[FEEDS] Fixed kernels for a&nbsp;use-after-free vulnerability in the Linux kernel's IPv4 TCP code&nbsp;are now available for Red Hat Enterprise Linux 8, 9, and 10, while Ubuntu's fixes for its three newest long-term-support releases remain in its opt-in...",
-      "url": "https://thehackernews.com/2026/11/red-hat-patches-98-rated-linux-tcp-rce.html",
-      "date": "2026-11-03T11:23:53Z"
-    },
-    {
-      "title": "The 4 Elements of Exposure Prioritization and How to Operationalize Them",
-      "description": "[FEEDS] Your team is remediating more vulnerabilities than ever, yet your breach risk has barely changed. You\u2019re spending too much time and effort on exposures attackers may never exploit, while higher-risk exposures sit, waiting in the queue. Gartner\u00ae\u2019s...",
-      "url": "https://thehackernews.com/2026/11/the-4-elements-of-exposure.html",
-      "date": "2026-11-03T11:18:20Z"
-    },
-    {
-      "title": "Harvard University data breach exposed info of 851,000 accounts",
-      "description": "[BLEEPINGCOMPUTER] Hackers who breached Harvard University's Alumni Affairs and Development systems in November 2025 stole data linked to more than 850,000 unique email addresses, according to breach notification service Have I Been Pwned. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/harvard-university-data-breach-exposed-info-of-851-000-accounts/",
-      "date": "2026-11-03T10:53:25Z"
-    },
-    {
-      "title": "MoneySmart data breach affects Singapore and Hong Kong customers",
-      "description": "[THE STRAITS TIMES] MoneySmart says data breach affected customers in Singapore and Hong Kong after hackers accessed internal systems. Read more at straitstimes.com.",
-      "url": "https://www.straitstimes.com/singapore/moneysmart-data-breach-hits-spore-hk-users-ic-numbers-financial-info-potentially-exposed",
-      "date": "2026-11-03T05:03:25Z"
-    },
-    {
-      "title": "Why OpenAI has hired ex-US Army secretary Dan Driscoll for 'security' role",
-      "description": "[BUSINESS STANDARD] The appointment comes as OpenAI steps up its work with defence agencies and governments on AI applications in national security and cybersecurity",
-      "url": "https://www.business-standard.com/technology/tech-news/why-openai-has-hired-ex-us-army-secretary-dan-driscoll-for-security-role-126110300383_1.html",
-      "date": "2026-11-03T04:56:30Z"
-    },
-    {
-      "title": "South Korea: President's Personal Data Leaked, Emergency Meeting Called",
-      "description": "[LOKMAT TIMES] South Korea: President's Personal Data Leaked, Emergency Meeting Called - Seoul, Nov 3 \u2013 South Korea's presidential office convened an urgent meeting today to address a significant data breach ... Get Latest News on International only on...",
-      "url": "https://www.lokmattimes.com/international/south-korea-presidents-personal-data-leaked-emergency-meeting-called-a001-w02/",
-      "date": "2026-11-03T04:55:48Z"
-    },
-    {
-      "title": "OpenAI partners with security firms to strengthen AI-powered cyber defence",
-      "description": "[DEVDISCOURSE] OpenAI has partnered with cybersecurity research firm Cathedral to strengthen its AI-powered cyber defence systems, bringing external security experts and advanced AI models together to identify vulnerabilities and improve safeguards.",
-      "url": "https://www.devdiscourse.com/article/business/4001024-openai-partners-with-security-firms-to-strengthen-ai-powered-cyber-defence",
-      "date": "2026-11-03T04:30:50Z"
-    },
-    {
-      "title": "OpenAI partners with security firms to strengthen AI",
-      "description": "[THE TRIBUNE] OpenAI has partnered with cybersecurity research firm Cathedral to strengthen its AI-powered cyber defence systems, bringing external security experts and advanced AI models together to identify vulnerabilities and improve safeguards.",
-      "url": "https://www.tribuneindia.com/news/business/openai-partners-with-security-firms-to-strengthen-ai-powered-cyber-defence/",
-      "date": "2026-11-03T04:07:24Z"
-    },
-    {
-      "title": "OpenAI partners with security firms to strengthen AI-powered cyber defence",
-      "description": "[ANI (ASIAN NEWS INTERNATIONAL)] OpenAI has partnered with cybersecurity research firm Cathedral to strengthen its AI-powered cyber defence systems, bringing external security experts and advanced AI models together to identify vulnerabilities and improve safeguards.",
-      "url": "https://www.aninews.in/news/business/openai-partners-with-security-firms-to-strengthen-ai-powered-cyber-defence20261103093400/",
-      "date": "2026-11-03T04:04:00Z"
-    },
-    {
-      "title": "UK Warns AI Ransomware Attack on Infrastructure by 2028",
-      "description": "[COINTELEGRAPH] The UK\u2019s National Cyber Security Centre says AI-powered malware is highly likely to be used in a ransomware attack on critical infrastructure by 2028.",
-      "url": "https://cointelegraph.com/news/uk-warns-ai-ransomware-attack-on-infrastructure-highly-likely-by-2028",
-      "date": "2026-11-03T03:58:45Z"
-    },
-    {
-      "title": "UK Warns Of AI-Powered Cyberattacks On Critical Infrastructure By 2028, Flags Growing Threat To Essential Services",
-      "description": "[FREE PRESS JOURNAL] The UK could face AI-powered cyberattacks on critical infrastructure by 2028, cyber chief Richard Horne warned. The NCSC flagged growing threats from China, Russia and criminals, urging organisations to strengthen cybersecurity and update outdated...",
-      "url": "https://www.freepressjournal.in/tech/uk-warns-of-ai-powered-cyberattacks-on-critical-infrastructure-by-2028-flags-growing-threat-to-essential-services",
-      "date": "2026-11-03T03:55:31Z"
-    },
-    {
-      "title": "NIS asks 2,100 public institutions to conduct emergency cybersecurity checks",
-      "description": "[THE KOREA TIMES] Korea's spy agency has asked 2,100 public institutions to conduct emergency cybersecurity inspections following a series of cyberattacks on financi...",
-      "url": "https://www.koreatimes.co.kr/southkorea/20261103/nis-asks-2100-public-institutions-to-conduct-emergency-cybersecurity-checks",
-      "date": "2026-11-03T03:12:04Z"
-    },
-    {
-      "title": "UK cyber chief says the UK will face AI cyberattacks on critical infrastructure by 2028",
-      "description": "[THE ECONOMIC TIMES] The UK's National Cyber Security Center warns of potential AI-driven cyberattacks targeting critical infrastructure by 2028. Increased sophistication in cyber activities from states like China and Russia poses significant risks. Past incidents...",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/uk-cyber-chief-warns-of-ai-cyberattacks-on-critical-infrastructure-by-2028/articleshow/135479188.cms",
-      "date": "2026-11-03T02:31:00Z"
-    },
-    {
-      "title": "ISC Stormcast For Tuesday, November 3rd, 2026 https://isc.sans.edu/podcastdetail/10162, (Tue, Nov 3rd)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33484",
-      "date": "2026-11-03T02:00:02Z"
-    },
-    {
-      "title": "Mutipath TCP: Use and Detection, (Mon, Nov 2nd)",
-      "description": "[ISC] Last week, an often-ignored&&#x23&#x3b;x26&#x3b;&#x23&#x3b;xc2&#x3b;&&#x23&#x3b;x26&#x3b;&#x23&#x3b;xa0&#x3b;TCP option, introduced in 2020, made the news due to a new vulnerability in Linux&&#x23&#x3b;x26&#x3b;&#x23&#x3b;39&#x3b;s implementation...",
-      "url": "https://isc.sans.edu/diary/rss/33482",
-      "date": "2026-11-02T14:52:05Z"
-    },
-    {
-      "title": "AI Vulnerability Finding",
-      "description": "[SCHNEIER] A comment: 3% of &#8216;critical&#8217; software security bugs, in all of recorded history, have been found in the last month. This is on pace to find another ~100,000 bugs this year alone, adding ~26% more vulnerabilities to the all time total Do...",
-      "url": "https://www.schneier.com/blog/archives/2026/11/ai-vulnerability-finding-2.html",
-      "date": "2026-11-02T12:02:34Z"
-    },
-    {
-      "title": "ISC Stormcast For Monday, November 2nd, 2026 https://isc.sans.edu/podcastdetail/10160, (Mon, Nov 2nd)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33480",
-      "date": "2026-11-02T02:00:03Z"
-    },
-    {
-      "title": "OneNote File Extraction, (Sun, Nov 1st)",
-      "description": "[ISC] Recently, I had to extract embedded files from a set of OneNote files (extension .one).&#xd;",
-      "url": "https://isc.sans.edu/diary/rss/33478",
-      "date": "2026-11-01T09:12:23Z"
-    },
-    {
-      "title": "Wireshark 5.0.0rc1 Release, (Sat, Oct 31st)",
-      "description": "[ISC] Wireshark Release Candidate 5.0.0 was published: soon we can expect a new major version of Wireshark.&#xd;",
-      "url": "https://isc.sans.edu/diary/rss/33476",
-      "date": "2026-10-31T10:52:53Z"
-    },
-    {
-      "title": "YARA-X 1.22.1 Release, (Sat, Oct 31st)",
-      "description": "[ISC] YARA-X&&#x23&#x3b;x26&#x3b;&#x23&#x3b;39&#x3b;s 1.22.1 is a bugfix version, it brings 2 bugfixes.&#xd;",
-      "url": "https://isc.sans.edu/diary/rss/33474",
-      "date": "2026-10-31T10:48:17Z"
-    },
-    {
-      "title": "Friday Squid Blogging: Bigfin Squid Off California Coast",
-      "description": "[SCHNEIER] Neat video: The sighting, announced September 2, marks the first time anyone has spotted a live bigfin squid, which belongs to the Magnapinna genus, in the northeastern Pacific Ocean. As usual, you can also use this squid post to talk about the...",
-      "url": "https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-bigfin-squid-off-california-coast.html",
-      "date": "2026-10-30T21:04:36Z"
-    },
-    {
-      "title": "Bloatware in Aftermarket Auto Parts",
-      "description": "[SCHNEIER] This story is interesting: One Civic owner purchased a cheap aftermarket head unit off Amazon, and decided to have Claude work its magic on it, like it would a smart TV. What was reportedly discovered isn\u2019t surprising, but is worth knowing about....",
-      "url": "https://www.schneier.com/blog/archives/2026/10/bloatware-in-aftermarket-auto-parts.html",
-      "date": "2026-10-30T15:20:02Z"
-    },
-    {
-      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
-      "description": "[CISA] CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-111357 Ivanti Connect Secure Missing Authentication for Critical Function Vulnerability CVE-2026-118527...",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/10/30/cisa-adds-two-known-exploited-vulnerabilities-catalog",
-      "date": "2026-10-30T12:00:00Z"
-    },
-    {
-      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
-      "description": "[CISA] CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-97229 GitLab Community Edition and Enterprise Edition Integer Overflow or Wraparound vulnerability...",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/10/29/cisa-adds-two-known-exploited-vulnerabilities-catalog",
-      "date": "2026-10-29T12:00:00Z"
-    },
-    {
-      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
-      "description": "[CISA] CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-41709 Broadcom VMWare ESX Insufficient Logging Vulnerability CVE-2026-46300 Linux Kernel Missing...",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/10/28/cisa-adds-two-known-exploited-vulnerabilities-catalog",
-      "date": "2026-10-28T12:00:00Z"
-    },
-    {
-      "title": "Studying Fraudulent North Korean IT Workers",
-      "description": "[SCHNEIER] Researchers set up a fake start-up company to study fraudulent North Korean IT workers.",
-      "url": "https://www.schneier.com/blog/archives/2026/10/studying-fraudulent-north-korean-it-workers.html",
-      "date": "2026-10-28T11:05:00Z"
-    },
-    {
-      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
-      "description": "[CISA] CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-48356 Adobe Commerce and Magento Unrestricted Upload of File with Dangerous Type Vulnerability...",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/10/27/cisa-adds-two-known-exploited-vulnerabilities-catalog",
-      "date": "2026-10-27T12:00:00Z"
-    },
-    {
-      "title": "Hiding Capabilities in AI Models",
-      "description": "[SCHNEIER] Interesting research: &#8220;AI Models Can Provably Hide Arbitrary Capabilities&#8221; Abstract: Capability evaluations aim to surface dangerous model behaviors before deployment, but their reliability depends on the assumption that hidden...",
-      "url": "https://www.schneier.com/blog/archives/2026/10/hiding-capabilities-in-ai-models.html",
-      "date": "2026-10-27T11:01:26Z"
-    },
-    {
-      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
-      "description": "[CISA] CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog and updated the PHP Alert, Critical Vulnerabilities in PHP Require Immediate Patching: &nbsp; CVE-2026-109618 \u2013 PHP Memory Corruption Vulnerability&nbsp;...",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/10/26/cisa-adds-two-known-exploited-vulnerabilities-catalog",
-      "date": "2026-10-26T12:00:00Z"
-    },
-    {
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "description": "[CISA] CISA has added one new vulnerability to its&nbsp;Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-110447 Collabora Online \u2013 Built-in CODE Server OS Command Injection Vulnerability&nbsp; This type of...",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/10/23/cisa-adds-one-known-exploited-vulnerability-catalog-0",
-      "date": "2026-10-23T12:00:00Z"
-    }
-  ]
+    "title": "Sentinel Protocol",
+    "tagline": "Perimeter Intelligence Sync",
+    "updated": "2026-11-03 18:12 UTC",
+    "news": [
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "Faiz Rahman Siddiqui",
+            "title": "CSA students briefed on cybersecurity",
+            "description": "CSA University Kanpur briefs new students on cybersecurity at Diksharambh, highlighting 2FA, Tafcop, cyber helpline 1930, and women helpline 1090.",
+            "url": "https://timesofindia.indiatimes.com/city/kanpur/csa-students-briefed-on-cybersecurity/articleshow/135471175.cms",
+            "urlToImage": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
+            "publishedAt": "2026-11-02T18:10:02Z",
+            "content": "Follow Us On Social Media\r\nCopyright \u00a9 2026 Bennett, Coleman &amp; Co. Ltd. All rights reserved. For reprint rights: Times Syndication Service"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "pymnts.com"
+            },
+            "author": "PYMNTS",
+            "title": "CFTC\u2019s Selig Uses Binance Theft to Press for Federal Crypto Exchange Oversight",
+            "description": "Commodity Futures Trading Commission (CFTC) Chairman Michael Selig is using the theft of more than $6.3 billion from Binance to press his case for bringing offshore cryptocurrency exchanges under federal supervision. In an appearance on CNBC on Friday (Oct. 3\u2026",
+            "url": "https://www.pymnts.com/legal/2026/cftcs-selig-uses-binance-theft-to-press-for-federal-crypto-exchange-oversight/",
+            "urlToImage": "https://www.pymnts.com/wp-content/uploads/2026/10/Binance.jpeg",
+            "publishedAt": "2026-11-02T18:00:15Z",
+            "content": "Commodity Futures Trading Commission (CFTC) Chairman Michael Selig is using the theft of more than $6.3 billion from Binance to press his case for bringing offshore cryptocurrency exchanges under fed\u2026 [+4217 chars]"
+        },
+        {
+            "source": {
+                "id": "cbc-news",
+                "name": "CBC News"
+            },
+            "author": null,
+            "title": "Another cyberattack on supermarket fridges sweeps Europe, leaving food spoiled",
+            "description": "The incident comes after a very similar cyberattack last month that sent fridge temperatures in some French supermarkets way up. While no one has claimed responsibility for either attack, they have heightened \u200bconcerns among European authorities about hybrid \u2026",
+            "url": "https://www.cbc.ca/news/business/europe-fridge-cyber-incident-9.7405834",
+            "urlToImage": "https://i.cbc.ca/ais/d530df1c-2434-4226-9ed9-286dd7ecf016,1793639685326/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C5500%2C3093%29%3BResize%3D620",
+            "publishedAt": "2026-11-02T17:58:12Z",
+            "content": "A hacking attack on European supermarkets spread across the continent on Monday, hitting fridges and freezers from Sweden to Belgium and forcing stores to throw away food in an incident that echoed a\u2026 [+7123 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "pymnts.com"
+            },
+            "author": "PYMNTS",
+            "title": "Enterprises Brush Off Wall Street Jitters and Double Down on AI Deployment",
+            "description": "Market jitters around artificial intelligence will not slow enterprise demand for the technology, although it may lead corporations to sharpen their focus on outcomes, The Wall Street Journal reported Monday (Nov. 2). Chief information officers and tech insid\u2026",
+            "url": "https://www.pymnts.com/news/artificial-intelligence/2026/enterprises-brush-off-wall-street-jitters-double-down-on-ai-deployment/",
+            "urlToImage": "https://www.pymnts.com/wp-content/uploads/2026/11/AI-businesses-stock-market.jpeg",
+            "publishedAt": "2026-11-02T17:53:40Z",
+            "content": "Market jitters around artificial intelligence will not slow enterprise demand for the technology, although it may lead corporations to sharpen their focus on outcomes, The Wall Street Journal reporte\u2026 [+2080 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Daily Caller"
+            },
+            "author": "Sean Moran",
+            "title": "EXCLUSIVE: AI Safety Could Decide House Majority And Beyond, Poll Shows",
+            "description": "Republicans\u2019 failure to embrace AI safety could cost them dearly during the midterm elections and beyond, according to a poll.",
+            "url": "https://dailycaller.com/2026/11/02/exclusive-poll-battleground-house-districts-trust-democrats-republicans-regulating-artificial-intelligence-mike-lawler-cait-conley",
+            "urlToImage": "https://images.dailycaller.com/image/width=1280,height=549,fit=cover,format=webp,f=auto/https://cdn01.dailycaller.com/wp-content/uploads/2026/11/Mike%20Lawler%20Getty.jpg",
+            "publishedAt": "2026-11-02T17:48:02Z",
+            "content": "Republicans failure to embrace artificial intelligence safety could cost them dearly during the midterm elections and beyond, according to a poll exclusively obtained by the Daily Caller News Foundat\u2026 [+7629 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Blog.google"
+            },
+            "author": "Blog Team",
+            "title": "The latest AI news we announced in October 2026",
+            "description": "Here are Google\u2019s latest AI updates from October 2026",
+            "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
+            "urlToImage": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Oct_AI_Recap_social.width-1300.png",
+            "publishedAt": "2026-11-02T17:45:00Z",
+            "content": "Put Gemini 4 Argon to work today, and see whats next for Gemini 4 at the frontier. Following early safety testing, Gemini 4 Argon rolled out globally for complex coding, financial analysis, and legal\u2026 [+1112 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Decrypt"
+            },
+            "author": "Decrypt Staff",
+            "title": "Nvidia and Nike Lead Biggest Wave Yet of Tokenized Stock Objections",
+            "description": "Nvidia, Costco, Nike and nine other companies objected to trading of their shares on the planned OKX-ICE tokenized stock venue, bringing the total to 50.",
+            "url": "https://decrypt.co/382348/nvidia-nike-biggest-wave-yet-tokenized-stock-objections",
+            "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2026/01/decrypt-style-nvidia-jensen-huang-gID_7.png",
+            "publishedAt": "2026-11-02T17:36:03Z",
+            "content": "In brief\r\n<ul><li>Twelve more companies, including Nvidia, Costco and Nike, objected to trading of their shares on OKXICE TSV, according to its Oct. 30 notice, the largest batch yet.</li><li>The tota\u2026 [+3198 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "hackernoon.com"
+            },
+            "author": "Guarddog Ai",
+            "title": null,
+            "description": "GuardDog is a digital guardian that uses elite instincts and AI to detect and contain cyber threats in real-time, providing a proactive and loyal defense for ne",
+            "url": "https://hackernoon.com/unleashing-the-digital-guarddog",
+            "urlToImage": "https://hackernoon.imgix.net/images/TQ1YYoS2VuV24G8CCN6BSlz4Sjo1-5883b3l.jpeg",
+            "publishedAt": "2026-11-02T17:22:48Z",
+            "content": "The Digital Guard Dog: Why Proactive Guardianship is the Future of Cybersecurity\r\nFor thousands of years, the relationship between humans and guard dogs has been built on a simple foundation: trust, \u2026 [+4962 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Dailymail.com"
+            },
+            "author": "Ananya Swaroop",
+            "title": "Cybersecurity student, 21, found dead days after vanishing near Niagara Falls",
+            "description": "Maximilian 'Max' Cardone was a fourth-year student who was pursuing a degree in cybersecurity at Golisano College of Computing & Information Sciences.",
+            "url": "https://www.dailymail.com/news/article-16259153/Cybersecurity-student-dead-vanishing-Niagara-Falls.html",
+            "urlToImage": "https://i.dailymail.com/1s/2026/11/02/16/112249309-0-image-m-24_1793638579022.jpg",
+            "publishedAt": "2026-11-02T17:12:19Z",
+            "content": "A Rochester University student was found dead after he was reported missing for over a week, school officials said.\r\nMaximilian Max Cardone, who was a Rochester Institute of Technology (RIT) student,\u2026 [+1854 chars]"
+        },
+        {
+            "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            "author": "Sead Fadilpa\u0161i\u0107",
+            "title": "This new Windows malware steals all your data, then uses AI to rank how valuable you are as a victim",
+            "description": "Sifting through a mountain of data is tedious work - so why not let AI do it for you?",
+            "url": "https://www.techradar.com/pro/security/this-new-windows-malware-steals-all-your-data-then-uses-ai-to-rank-how-valuable-you-are-as-a-victim",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/qP76MS2BAb7kSuWrvJXXYL-2560-80.jpg",
+            "publishedAt": "2026-11-02T17:05:00Z",
+            "content": "<ul><li>New malware uses AI to analyze stolen data, rank victims, and identify the most profitable targets</li><li>VOLTA-AUTODOXER steals credentials, crypto wallets, tokens, and personal information\u2026 [+4398 chars]"
+        }
+    ]
 }
