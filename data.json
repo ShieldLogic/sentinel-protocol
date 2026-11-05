@@ -1,209 +1,137 @@
 {
-  "updated": "2026-11-05 17:45:08 UTC",
-  "news": [
-    {
-      "title": "Hackers backdoor Linux servers using trojanized CWP web server",
-      "description": "[BLEEPINGCOMPUTER] A new Linux malware called CWPdoor is being distributed through a trojanized version of cwpsrv, the web server behind the Control Web Panel (CWP) management interface. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-backdoor-linux-servers-using-trojanized-cwp-web-server/",
-      "date": "2026-11-05T16:24:26Z"
-    },
-    {
-      "title": "DigiCert data breach exposes customer information, identity documents",
-      "description": "[BLEEPINGCOMPUTER] DigiCert warns it suffered a data breach after a server migration mistakenly exposed an internal business system to the internet, allowing unauthorized access to customer information and identity documents. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/digicert-data-breach-exposes-customer-information-identity-documents/",
-      "date": "2026-11-05T16:12:46Z"
-    },
-    {
-      "title": "Vulnerability Scans for Older Cisco IOS Vulnerability / Opt-Out Headers, (Thu, Nov 5th)",
-      "description": "[ISC] This morning, I was browsing our honeypot data for any new and existing PHP exploit attempts. Instead, I first ran into some GeoServer exploits, but found them to be too boring to write up. This Cisco IOS exploit attempt was a bit more interesting....",
-      "url": "https://isc.sans.edu/diary/rss/33492",
-      "date": "2026-11-05T15:29:08Z"
-    },
-    {
-      "title": "Closing the Identity Gap at the Service Desk",
-      "description": "[BLEEPINGCOMPUTER] Attackers target IT service desks to bypass MFA by impersonating employees and convincing staff to reset passwords or register new authentication devices. Specops Software explains why traditional identity verification methods are no longer...",
-      "url": "https://www.bleepingcomputer.com/news/security/closing-the-identity-gap-at-the-service-desk/",
-      "date": "2026-11-05T15:00:10Z"
-    },
-    {
-      "title": "ThreatsDay: Apache OFBiz RCE, DreamHost Breach, DeFi Site Hijacks + 17 More Stories",
-      "description": "[FEEDS] How much damage can someone do without breaking much? Quite a lot, it seems. A stolen login can open doors across several systems. A trusted setting can be used to lock people out. Even a simple file copy can reach places it shouldn't. And while new...",
-      "url": "https://thehackernews.com/2026/11/threatsday-apache-ofbiz-rce-dreamhost.html",
-      "date": "2026-11-05T14:41:10Z"
-    },
-    {
-      "title": "Is Your Exposure Management Platform Leaving You Exposed? Five Tests to Find Out",
-      "description": "[FEEDS] A critical finding can move through several security tools and still leave the organization exposed.&nbsp; The vulnerability has a severity score, and a ticket has reached the queue. Progress then depends on information the finding may lack: who...",
-      "url": "https://thehackernews.com/2026/11/is-your-exposure-management-platform.html",
-      "date": "2026-11-05T12:25:00Z"
-    },
-    {
-      "title": "OpenAI AI Pipeline Generates 948 Linux Root Escalation Exploits in 30-Hour Run",
-      "description": "[FEEDS] OpenAI on Wednesday detailed a pipeline that employed an upcoming cyber-focused artificial intelligence (AI) model to validate and patch 948 local privilege escalation vulnerabilities in Linux for $1.2 million in API costs. \"Our prototype identified...",
-      "url": "https://thehackernews.com/2026/11/openai-ai-pipeline-generates-948-linux.html",
-      "date": "2026-11-05T12:08:54Z"
-    },
-    {
-      "title": "ISC Stormcast For Thursday, November 5th, 2026 https://isc.sans.edu/podcastdetail/10166, (Thu, Nov 5th)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33490",
-      "date": "2026-11-05T11:25:11Z"
-    },
-    {
-      "title": "5 Active Cyber Threats That Put US Enterprises at Risk in October 2026",
-      "description": "[FEEDS] October 2026 brought another wave of cyber threats targeting US businesses, with attackers exploiting trusted platforms, legitimate authentication processes, and everyday business workflows. For enterprises, these campaigns raise the stakes beyond...",
-      "url": "https://thehackernews.com/2026/11/5-active-cyber-threats-that-put-us.html",
-      "date": "2026-11-05T10:06:19Z"
-    },
-    {
-      "title": "GhostMap Android flaw lets malicious app trigger persistent boot loop",
-      "description": "[BLEEPINGCOMPUTER] Attackers can force Android devices into a continuous boot loop using a specially crafted app that requires no permissions and only needs to be installed. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/ghostmap-android-flaw-lets-malicious-app-trigger-persistent-boot-loop/",
-      "date": "2026-11-05T09:18:29Z"
-    },
-    {
-      "title": "Apple to Start Scanning Publicly Shared iCloud Photos and Files for Harmful Content",
-      "description": "[FEEDS] Apple has revealed that it plans to start checking public iCloud links for harmful content starting with iOS 27.3, iPadOS 27.3, macOS 27.3, and visionOS 27.3. The change specifically applies to scenarios where users share iCloud content, such as...",
-      "url": "https://thehackernews.com/2026/11/apple-to-start-scanning-publicly-shared.html",
-      "date": "2026-11-05T09:13:28Z"
-    },
-    {
-      "title": "CERT-In Flags AI-Driven Attacks as Backdoored ARTEX Exposes 62 Consoles to Root Access",
-      "description": "[FEEDS] The Indian Computer Emergency Response Team (CERT-In) has disclosed that an artificial intelligence (AI)-assisted threat actor it tracks as Crafty Falcon is targeting organizations in the Banking, Financial Services, and Insurance (BFSI) sectors in...",
-      "url": "https://thehackernews.com/2026/11/backdoored-docker-image-for-artex-ai.html",
-      "date": "2026-11-05T08:42:03Z"
-    },
-    {
-      "title": "Visa Establishes Global Capability Hubs in Singapore to Build the Future of Global Commerce",
-      "description": "[THE TRIBUNE] Singapore, November 5: Visa (NYSE: V), a global leader in digital payments, today announced the establishment of six global capability hubs at its new Solution Center in Singapore. Spanning AI, cybersecurity, quantum computing and next-generation...",
-      "url": "https://www.tribuneindia.com/news/business/visa-establishes-global-capability-hubs-in-singapore-to-build-the-future-of-global-commerce/",
-      "date": "2026-11-05T05:27:26Z"
-    },
-    {
-      "title": "Visa Establishes Global Capability Hubs in Singapore to Build the Future of Global Commerce",
-      "description": "[ANI (ASIAN NEWS INTERNATIONAL)] Singapore, November 5: Visa (NYSE: V), a global leader in digital payments, today announced the establishment of six global capability hubs at its new Solution Center in Singapore. Spanning AI, cybersecurity, quantum computing and next-generation...",
-      "url": "https://www.aninews.in/news/business/visa-establishes-global-capability-hubs-in-singapore-to-build-the-future-of-global-commerce20261105105612/",
-      "date": "2026-11-05T05:26:12Z"
-    },
-    {
-      "title": "Hackers Exploit Patched Apple Flaw to Deliver Info-Stealing Malware, CISA Says",
-      "description": "[THE HACKER NEWS] CISA adds Apple CVE-2024-27834 to its KEV catalog after reports of active exploitation involving a pointer authentication bypass.",
-      "url": "https://thehackernews.com/2026/11/hackers-exploit-patched-apple-flaw-to.html",
-      "date": "2026-11-05T05:17:00Z"
-    },
-    {
-      "title": "Cert-In warns banks, fintech firms of AI-driven fund transfer fraud",
-      "description": "[BUSINESS STANDARD] India's cybersecurity watchdog has flagged an escalating AI-powered campaign targeting banks, NBFCs and fintech firms, with attackers exploiting payment APIs to carry out unauthorised fund transfers",
-      "url": "https://www.business-standard.com/industry/banking/cert-in-warns-banks-fintech-firms-of-ai-driven-fund-transfer-fraud-126110500550_1.html",
-      "date": "2026-11-05T05:04:46Z"
-    },
-    {
-      "title": "After reinventing mathematics, can AI eradicate computer bugs?",
-      "description": "[THE STAR] Using the same techniques that allowed AI technologies to crack a million-dollar math problem, researchers are building new systems that aim to solve the world's cybersecurity crisis.",
-      "url": "https://www.thestar.com.my/tech/tech-news/2026/11/05/after-reinventing-mathematics-can-ai-eradicate-computer-bugs",
-      "date": "2026-11-05T05:00:00Z"
-    },
-    {
-      "title": "80% of Australian Organisations Hand Human Decisions to AI, but Half Can\u2019t Audit Its Actions",
-      "description": "[ITWIRE] Australia has highest number of organisations globally that use AI in cybersecurity operations Australian IT security leaders let AI take autonomous action, while many also...",
-      "url": "https://itwire.com/guest-articles/guest-research/80-of-australian-organisations-hand-human-decisions-to-ai-but-half-can-t-audit-its-actions",
-      "date": "2026-11-05T04:34:55Z"
-    },
-    {
-      "title": "Stocks To Buy: Motilal Oswal projects 190% bull case upside potential for its latest stock pick",
-      "description": "[CNBC TV18] Redington is also well positioned to benefit from rising enterprise technology spend, large data center deals, cybersecurity and AI spend, increase localization and premiumization in India, along with continued market share gains by Apple, Motilal...",
-      "url": "https://www.cnbctv18.com/market/redington-share-price-motilal-oswal-buy-rating-bull-case-190-percent-upside-key-triggers-iphone-apple-risks-20027584.htm",
-      "date": "2026-11-05T04:14:39Z"
-    },
-    {
-      "title": "Take cyber threats seriously and stay vigilant but calm, says consumer group",
-      "description": "[THE STAR] KOTA KINABALU: National cybersecurity defences must be strengthened amid concerns of threats facing the country as mentioned by Prime Minister Datuk Seri Anwar Ibrahim recently, says a consumer group.",
-      "url": "https://www.thestar.com.my/news/nation/2026/11/05/take-cyber-threats-seriously-and-stay-vigilant-but-calm-says-consumer-group",
-      "date": "2026-11-05T03:29:00Z"
-    },
-    {
-      "title": "India Warns AI-Driven Hackers Targeting Crypto Exchanges at Scale",
-      "description": "[CRYPTO BREAKING NEWS] India\u2019s national cybersecurity agency has warned that an AI-assisted threat actor is stepping up attacks against cryptocurrency exchanges and other",
-      "url": "https://www.cryptobreaking.com/india-warns-ai-driven-hackers/",
-      "date": "2026-11-05T02:51:23Z"
-    },
-    {
-      "title": "Harvard University reveals data breach exposed 851,000 accounts",
-      "description": "[TECHRADAR] ShinyHunters attack on Harvard is finally analyzed",
-      "url": "https://www.techradar.com/pro/security/harvard-university-reveals-data-breach-exposed-851-000-accounts",
-      "date": "2026-11-05T02:50:00Z"
-    },
-    {
-      "title": "Vercel rolls out new protection against stolen session cookie attacks",
-      "description": "[BLEEPINGCOMPUTER] Vercel is gradually rolling out Device Bound Session Credentials (DBSC) on its platform as a key defense against information stealer malware. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/vercel-rolls-out-new-protection-against-stolen-session-cookie-attacks/",
-      "date": "2026-11-04T21:31:18Z"
-    },
-    {
-      "title": "Zyxel fixes zero-day exploited to hack nearly 1,000 network switches",
-      "description": "[BLEEPINGCOMPUTER] Zyxel has patched a zero-day vulnerability in its GS1900 series network switches that hackers exploited to compromise nearly 1,000 devices worldwide and steal configuration files and credentials. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/zyxel-fixes-zero-day-exploited-to-hack-nearly-1-000-network-switches/",
-      "date": "2026-11-04T20:58:19Z"
-    },
-    {
-      "title": "The Classics Return: Vulnerable E-Mail Scripts, (Wed, Nov 4th)",
-      "description": "[ISC] One of the early web application vulnerabilities I remember was CVE-2000-0411 &#x5b;CVE&#x5d;. This was a simple vulnerability in a CGI-bin script used to send e-mail. The vulnerability was pretty straightforward: Adding additional parameters to the...",
-      "url": "https://isc.sans.edu/diary/rss/33488",
-      "date": "2026-11-04T13:24:13Z"
-    },
-    {
-      "title": "ISC Stormcast For Wednesday, November 4th, 2026 https://isc.sans.edu/podcastdetail/10164, (Wed, Nov 4th)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33486",
-      "date": "2026-11-04T02:10:02Z"
-    },
-    {
-      "title": "AIs Hacking the Law",
-      "description": "[SCHNEIER] In both a 2021 essay and my 2022 book, A Hacker&#8217;s Mind, I talk about AIs finding vulnerabilities and exploits&#8212;hacking&#8212;the legal system. Here&#8217;s some demonstrations of this from Germany: Legal systems encode the foundations of...",
-      "url": "https://www.schneier.com/blog/archives/2026/11/ais-hacking-the-law.html",
-      "date": "2026-11-03T12:01:00Z"
-    },
-    {
-      "title": "ISC Stormcast For Tuesday, November 3rd, 2026 https://isc.sans.edu/podcastdetail/10162, (Tue, Nov 3rd)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33484",
-      "date": "2026-11-03T02:00:02Z"
-    },
-    {
-      "title": "Mutipath TCP: Use and Detection, (Mon, Nov 2nd)",
-      "description": "[ISC] Last week, an often-ignored&&#x23&#x3b;x26&#x3b;&#x23&#x3b;xc2&#x3b;&&#x23&#x3b;x26&#x3b;&#x23&#x3b;xa0&#x3b;TCP option, introduced in 2020, made the news due to a new vulnerability in Linux&&#x23&#x3b;x26&#x3b;&#x23&#x3b;39&#x3b;s implementation...",
-      "url": "https://isc.sans.edu/diary/rss/33482",
-      "date": "2026-11-02T14:52:05Z"
-    },
-    {
-      "title": "AI Vulnerability Finding",
-      "description": "[SCHNEIER] A comment: 3% of &#8216;critical&#8217; software security bugs, in all of recorded history, have been found in the last month. This is on pace to find another ~100,000 bugs this year alone, adding ~26% more vulnerabilities to the all time total Do...",
-      "url": "https://www.schneier.com/blog/archives/2026/11/ai-vulnerability-finding-2.html",
-      "date": "2026-11-02T12:02:34Z"
-    },
-    {
-      "title": "Friday Squid Blogging: Bigfin Squid Off California Coast",
-      "description": "[SCHNEIER] Neat video: The sighting, announced September 2, marks the first time anyone has spotted a live bigfin squid, which belongs to the Magnapinna genus, in the northeastern Pacific Ocean. As usual, you can also use this squid post to talk about the...",
-      "url": "https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-bigfin-squid-off-california-coast.html",
-      "date": "2026-10-30T21:04:36Z"
-    },
-    {
-      "title": "Bloatware in Aftermarket Auto Parts",
-      "description": "[SCHNEIER] This story is interesting: One Civic owner purchased a cheap aftermarket head unit off Amazon, and decided to have Claude work its magic on it, like it would a smart TV. What was reportedly discovered isn\u2019t surprising, but is worth knowing about....",
-      "url": "https://www.schneier.com/blog/archives/2026/10/bloatware-in-aftermarket-auto-parts.html",
-      "date": "2026-10-30T15:20:02Z"
-    },
-    {
-      "title": "Studying Fraudulent North Korean IT Workers",
-      "description": "[SCHNEIER] Researchers set up a fake start-up company to study fraudulent North Korean IT workers.",
-      "url": "https://www.schneier.com/blog/archives/2026/10/studying-fraudulent-north-korean-it-workers.html",
-      "date": "2026-10-28T11:05:00Z"
-    },
-    {
-      "title": "Hiding Capabilities in AI Models",
-      "description": "[SCHNEIER] Interesting research: &#8220;AI Models Can Provably Hide Arbitrary Capabilities&#8221; Abstract: Capability evaluations aim to surface dangerous model behaviors before deployment, but their reliability depends on the assumption that hidden...",
-      "url": "https://www.schneier.com/blog/archives/2026/10/hiding-capabilities-in-ai-models.html",
-      "date": "2026-10-27T11:01:26Z"
-    }
-  ]
+    "title": "Sentinel Protocol",
+    "tagline": "Perimeter Intelligence Sync",
+    "updated": "2026-11-05 18:28 UTC",
+    "news": [
+        {
+            "source": {
+                "id": null,
+                "name": "Page Six"
+            },
+            "author": "Amanda Rubio",
+            "title": "Matthew Broderick lived at Warren Beatty\u2019s home for 3 months as \u2018victim\u2019 to the \u2018longest meeting ever\u2019",
+            "description": "Broderick and Beatty both starred in \"Rules Don't Apply,\" which Beatty also directed and co-wrote.",
+            "url": "https://pagesix.com/2026/11/04/celebrity-news/matthew-broderick-says-meeting-with-warren-beatty-turned-into-3-month-stay/",
+            "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2026/11/147532566.jpg?quality=75&strip=all&w=1200",
+            "publishedAt": "2026-11-04T18:27:22Z",
+            "content": "Matthew Broderick claims he may have been the \u201cvictim\u201d of the \u201clongest meeting ever\u201d with Warren Beatty ahead of filming their 2016 rom-com \u201cRules Don\u2019t Apply.\u201d\r\nDuring an Oct. 22 appearance on the n\u2026 [+3918 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": "Omar Gallaga",
+            "title": "Microsoft Teams Hack Report Shows Old-School Attacks Are Still a Thing",
+            "description": "By impersonating help desk personnel, hackers were able to infiltrate corporate systems.",
+            "url": "https://www.cnet.com/tech/services-and-software/microsoft-teams-hack-report-social-engineering/",
+            "urlToImage": "https://www.cnet.com/wp-content/uploads/sites/2/GettyImages-2268667083.jpg",
+            "publishedAt": "2026-11-04T18:19:59Z",
+            "content": "Over the last year, the public has been trained to view the biggest new wave of emerging cyberthreats as AI-driven. In fact, frontier AI models accelerating the pace of cyberattacks \u2014 and even jumpin\u2026 [+3880 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forrester.com"
+            },
+            "author": "Geoff Cairns",
+            "title": "AI Agents Need More Than Least Privilege. They Need Least Agency.",
+            "description": "For decades, cybersecurity professionals have relied on the principle of least privilege: Only give identities the access needed to perform their jobs. That principle remains essential. But AI agents have exposed its limits. An AI agent can have exactly the r\u2026",
+            "url": "https://www.forrester.com/blogs/ai-agents-need-more-than-least-privilege-they-need-least-agency/",
+            "urlToImage": "https://go.forrester.com/wp-content/uploads/2026/11/AI-Agents-Need-More-Than-Least-Privilege.-They-Need-Least-Agency.-.jpg",
+            "publishedAt": "2026-11-04T18:07:49Z",
+            "content": "For decades, cybersecurity professionals have relied on the principle of least privilege: Only give identities the access needed to perform their jobs.\r\nThat principle remains essential. But AI agent\u2026 [+3053 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Dailymail.com"
+            },
+            "author": "Emma Richter",
+            "title": "From Abdul El-Sayed's psychiatrist wife to Chris Pappas' fixer husband and James Talarico's very well-connected girlfriend: Meet DC's newest power spouses",
+            "description": "Democratic rising stars Abdul El-Sayed, James Talarico and Chis Pappas are headed to the US Senate with their partners who have been by their side during their campaigns.",
+            "url": "https://www.dailymail.com/news/article-16265001/democractic-winners-spouses-house-senate-seats.html",
+            "urlToImage": "https://i.dailymail.com/1s/2026/11/04/17/112295875-0-image-m-44_1793812369076.jpg",
+            "publishedAt": "2026-11-04T18:04:58Z",
+            "content": "A historic blue wave swept the US House and Senate overnight,\u00a0putting new Democratic rising stars in the spotlight.\u00a0\r\nFor months, Abdul El-Sayed, Chris Pappas, James Talarico, and more have taken on \u2026 [+7099 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BleepingComputer"
+            },
+            "author": "Lawrence Abrams",
+            "title": "Cyberattack disrupts blood storage refrigeration systems in France",
+            "description": "France's national blood service has confirmed that a cyberattack targeting a refrigeration equipment provider raised temperature and defrost settings at three of its facilities, threatening stored blood products. [...]",
+            "url": "https://www.bleepingcomputer.com/news/security/cyberattack-disrupts-blood-storage-refrigeration-systems-in-france/",
+            "urlToImage": "https://www.bleepstatic.com/content/hl-images/2026/11/04/blood-bags.jpg",
+            "publishedAt": "2026-11-04T18:02:56Z",
+            "content": "France's national blood service has confirmed that a cyberattack targeting a refrigeration equipment provider raised temperature and defrost settings at three of its facilities, threatening stored bl\u2026 [+4404 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "DW (English)"
+            },
+            "author": "Wesley Rahn",
+            "title": "French blood banks targeted by refrigerator cyberattack",
+            "description": "A cyberattack had attempted to destroy blood plasma by raising the temperatures in cold storage facilities past the boiling point.",
+            "url": "https://www.dw.com/en/french-blood-banks-targeted-by-refrigerator-cyberattack/a-79857981",
+            "urlToImage": "https://static.dw.com/image/79832114_6.jpg",
+            "publishedAt": "2026-11-04T17:57:00Z",
+            "content": "Blood banks in France were included among cyberattacks that hit refrigeration systems in several European countries on Sunday and Monday, French authorities said on Wednesday.\r\nThe French Blood Estab\u2026 [+2242 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Daily Hodl"
+            },
+            "author": "Daily Hodl Agent",
+            "title": "New York Healthcare Tech Firm Breached, Potentially Exposing Medical Data of 49,467 People \u2013 Names, Birthdates and Insurance Info at Risk",
+            "description": "Cognitive Health Technologies says a network intrusion exposed names, birthdates, insurance details and medical histories for 49,467 people.\nThe post New York Healthcare Tech Firm Breached, Potentially Exposing Medical Data of 49,467 People \u2013 Names, Birthdate\u2026",
+            "url": "https://dailyhodl.com/2026/11/04/new-york-healthcare-tech-firm-breached-potentially-exposing-medical-data-of-49467-people-names-birthdates-and-insurance-info-at-risk/",
+            "urlToImage": "https://dailyhodl.com/wp-content/uploads/2026/11/hackers-west-firm_pink.jpg?resize=1365,800",
+            "publishedAt": "2026-11-04T17:55:35Z",
+            "content": "A New York healthcare technology company has disclosed a data breach that exposed the medical information of nearly 50,000 people.\r\nIn its latest bulletin, the U.S. Department of Health and Human Ser\u2026 [+2200 chars]"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "Samdani MN",
+            "title": "Nandan Nilekani meets Naidu, discusses reforms in examination system",
+            "description": "Nandan Nilekani met Andhra CM Chandrababu Naidu in Amaravati to discuss national exam reforms, tech solutions to prevent leaks, and cybersecurity measures.",
+            "url": "https://timesofindia.indiatimes.com/city/vijayawada/nandan-nilekani-meets-naidu-discusses-reforms-in-examination-system/articleshow/135547990.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-135547989,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "publishedAt": "2026-11-04T17:44:42Z",
+            "content": "Follow Us On Social Media\r\nCopyright \u00a9 2026 Bennett, Coleman &amp; Co. Ltd. All rights reserved. For reprint rights: Times Syndication Service"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Pypi.org"
+            },
+            "author": null,
+            "title": "cyguide 1.0.0",
+            "description": "A TUI-based guided cybersecurity learning platform",
+            "url": "https://pypi.org/project/cyguide/1.0.0/",
+            "urlToImage": null,
+            "publishedAt": "2026-11-04T17:37:35Z",
+            "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe\u2026 [+12 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Pypi.org"
+            },
+            "author": null,
+            "title": "cyguide added to PyPI",
+            "description": "A TUI-based guided cybersecurity learning platform",
+            "url": "https://pypi.org/project/cyguide/",
+            "urlToImage": null,
+            "publishedAt": "2026-11-04T17:37:31Z",
+            "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe\u2026 [+12 chars]"
+        }
+    ]
 }
