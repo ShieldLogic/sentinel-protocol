@@ -1,6 +1,24 @@
 {
-  "updated": "2026-11-05 00:38:16 UTC",
+  "updated": "2026-11-05 08:44:04 UTC",
   "news": [
+    {
+      "title": "Zyxel GS1900 Patch Fails to Block Zero-Day Exploit Allowing Root Command Execution",
+      "description": "[FEEDS] Zyxel GS1900 network switches that received the vendor's earlier fix for an actively exploited flaw are still open to the exploit attackers used, researchers at Binarly found. The exploit lets anyone who can reach a switch's web management interface...",
+      "url": "https://thehackernews.com/2026/11/zyxel-gs1900-patch-fails-to-block-zero.html",
+      "date": "2026-11-05T07:06:33Z"
+    },
+    {
+      "title": "Hackers Exploit Patched Apple Flaw to Deliver Info-Stealing Malware, CISA Says",
+      "description": "[FEEDS] The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a medium-severity security flaw impacting multiple Apple operating systems to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active...",
+      "url": "https://thehackernews.com/2026/11/hackers-exploit-patched-apple-flaw-to.html",
+      "date": "2026-11-05T05:17:04Z"
+    },
+    {
+      "title": "OpenAI AI Pipeline Generates 948 Linux Root Escalation Exploits in 30-Hour Run",
+      "description": "[FEEDS] OpenAI on Wednesday detailed a pipeline that employed an upcoming cyber-focused artificial intelligence (AI) model to validate and patch 948 local privilege escalation vulnerabilities in Linux for $1.2 million in API costs. \"Our prototype identified...",
+      "url": "https://thehackernews.com/2026/11/openai-ai-pipeline-generates-948-linux.html",
+      "date": "2026-11-05T04:31:16Z"
+    },
     {
       "title": "Vercel rolls out new protection against stolen session cookie attacks",
       "description": "[BLEEPINGCOMPUTER] Vercel is gradually rolling out Device Bound Session Credentials (DBSC) on its platform as a key defense against information stealer malware. [...]",
@@ -14,16 +32,46 @@
       "date": "2026-11-04T20:58:19Z"
     },
     {
+      "title": "Temiskaming OPP suspends use of Crime Stoppers",
+      "description": "[BAYTODAY] The suspension is the result of a cybersecurity incident involving a third party",
+      "url": "https://www.baytoday.ca/local-news/temiskaming-opp-suspends-use-of-crime-stoppers-12978785",
+      "date": "2026-11-04T20:00:00Z"
+    },
+    {
+      "title": "SBI-led banking alliance comes together to mount a defence to AI threats",
+      "description": "[THE ECONOMIC TIMES] Indian Banks' Association, led by State Bank of India, is developing a strategy for cybersecurity in the AI era. The initiative focuses on improving coordination among banks and facilitating timely information sharing. Increasing digitalization has...",
+      "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/sbi-led-banking-alliance-comes-together-to-mount-a-defence-to-ai-threats/articleshow/135550486.cms",
+      "date": "2026-11-04T19:25:00Z"
+    },
+    {
+      "title": "Cybersecurity demand creates new opportunities for Happiest Minds as clients add AI safeguards",
+      "description": "[THE NEW INDIAN EXPRESS] The demand is creating opportunities for the company\u2019s Infrastructure Management and Security Services (IMSS) business unit, company's co-chairman and chief exe",
+      "url": "https://www.newindianexpress.com/business/2026/Nov/04/cybersecurity-demand-creates-new-opportunities-for-happiest-minds-as-clients-add-ai-safeguards",
+      "date": "2026-11-04T19:09:58Z"
+    },
+    {
       "title": "DreamHost confirms data breach exposed FTP logins and webmail sessions",
       "description": "[BLEEPINGCOMPUTER] DreamHost is warning of a data breach after attackers gained access to its File Manager platform for two months and stole customers' FTP/SFTP usernames and passwords. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/dreamhost-confirms-data-breach-exposed-ftp-logins-and-webmail-sessions/",
       "date": "2026-11-04T19:05:19Z"
     },
     {
+      "title": "Home-Grown AI, Cybersecurity, LoT Tech Takes Centre Stage At C-DAC Show",
+      "description": "[DECCAN CHRONICLE] MosChip Technologies CEO and managing director Kakumanu Srinivasa and IIIT Hyderabad professor Sandeep Kumar Shukla attended as guests of honour.",
+      "url": "https://www.deccanchronicle.com/southern-states/telangana/home-grown-ai-cybersecurity-lot-tech-takes-centre-stage-at-c-dac-show-2001840",
+      "date": "2026-11-04T18:36:31Z"
+    },
+    {
       "title": "Cyberattack disrupts blood storage refrigeration systems in France",
       "description": "[BLEEPINGCOMPUTER] France's national blood service has confirmed that a cyberattack targeting a refrigeration equipment provider raised temperature and defrost settings at three of its facilities, threatening stored blood products. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/cyberattack-disrupts-blood-storage-refrigeration-systems-in-france/",
       "date": "2026-11-04T18:02:56Z"
+    },
+    {
+      "title": "CrowdStrike launches AI kill switch to shut down rogue AI agents before they cause damage",
+      "description": "[TECHSTARTUPS.COM] CrowdStrike has launched a new AI kill switch that lets companies shut down rogue artificial intelligence agents before they can cause serious damage, addressing one of the biggest security concerns around the growing use of autonomous AI systems....",
+      "url": "https://techstartups.com/2026/11/04/crowdstrike-launches-ai-kill-switch-to-shut-down-rogue-ai-agents-before-they-cause-damage/",
+      "date": "2026-11-04T17:12:43Z"
     },
     {
       "title": "Debian and Ubuntu APT Flaw Lets MitM Attackers Swap Verified Packages and Run Code as Root",
@@ -50,94 +98,46 @@
       "date": "2026-11-04T16:06:43Z"
     },
     {
+      "title": "Singapore Airlines booking records compromised",
+      "description": "[THE MANILA TIMES] SINGAPORE \u2014 Singapore Airlines said on Tuesday that about 46,000 booking records may have been affected by a cybersecurity incident involving Amadeus, its reservation technology provider.",
+      "url": "https://www.manilatimes.net/2026/11/05/business/foreign-business/singapore-airlines-booking-records-compromised/2462026",
+      "date": "2026-11-04T16:06:00Z"
+    },
+    {
       "title": "mSecure password manager hack prompts password reset warnings",
       "description": "[BLEEPINGCOMPUTER] mSeven Software is warning current and former mSecure password manager customers to change passwords, reset two-factor authentication, and remove passkeys following a cyberattack that reportedly exposed an encrypted customer database. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/msecure-password-manager-hack-prompts-password-reset-warnings/",
       "date": "2026-11-04T16:00:18Z"
     },
     {
-      "title": "APT29-Linked Hackers Hijack Web Analytics Script to Deliver iOS and Android Exploits",
-      "description": "[FEEDS] The Russia-linked threat actor known as APT29 is said to be behind a large-scale watering hole campaign targeting iOS and Android users through compromised websites, fake domains, and a supply chain attack involving a Ukrainian web analytics service...",
-      "url": "https://thehackernews.com/2026/11/apt29-linked-hackers-hijack-web.html",
-      "date": "2026-11-04T14:27:52Z"
+      "title": "Tencent launches AI model with safeguards against cyberattacks and biological misuse",
+      "description": "[FIRSTPOST] Tencent says its new model is restricted to defensive cybersecurity applications and has safeguards against misuse in cyberattacks and harmful biological research.",
+      "url": "https://www.firstpost.com/tech/tencent-launches-ai-model-with-safeguards-against-cyberattacks-and-biological-misuse-14057886.html",
+      "date": "2026-11-04T15:29:38Z"
+    },
+    {
+      "title": "CrowdStrike launches \u2018Kill Switch\u2019 for rogue AI agents, CEO George Kurtz explains how it works",
+      "description": "[TIMES OF INDIA] Cybersecurity firm CrowdStrike has launched an emergency \u201ckill switch\u201d designed to instantly shut down rogue artificial intelligence (AI) agents operating",
+      "url": "https://timesofindia.indiatimes.com/technology/tech-news/crowdstrike-launches-kill-switch-for-rogue-ai-agents-ceo-george-kurtz-explains-how-it-works/articleshow/135542912.cms",
+      "date": "2026-11-04T14:46:00Z"
+    },
+    {
+      "title": "UK cyber agency warns of AI-powered ransomware on infrastructure by 2028",
+      "description": "[TNW] \u201cFor decades we have collectively got away with tech on the cheap,\u201d NCSC chief Richard Horne said as the NCSC annual review warned of AI attacks.",
+      "url": "https://thenextweb.com/news/ncsc-annual-review-2026-ai-malware-critical-infrastructure",
+      "date": "2026-11-04T14:32:29Z"
+    },
+    {
+      "title": "4 Best Managed IT Service Providers in Sacramento Compared",
+      "description": "[TECHBULLION] Compare four managed IT service providers in Sacramento for cybersecurity, help desk support, cloud services, and business IT management.",
+      "url": "https://techbullion.com/4-best-managed-it-service-providers-in-sacramento-compared/",
+      "date": "2026-11-04T14:14:17Z"
     },
     {
       "title": "The Classics Return: Vulnerable E-Mail Scripts, (Wed, Nov 4th)",
       "description": "[ISC] One of the early web application vulnerabilities I remember was CVE-2000-0411 &#x5b;CVE&#x5d;. This was a simple vulnerability in a CGI-bin script used to send e-mail. The vulnerability was pretty straightforward: Adding additional parameters to the...",
       "url": "https://isc.sans.edu/diary/rss/33488",
       "date": "2026-11-04T13:24:13Z"
-    },
-    {
-      "title": "Hackers target French blood banks in latest freezer attack - as UK cybersecurity chief warns of 'sliding doors' moment for 'unprecedented' threat",
-      "description": "[TECHRADAR] Critical infrastructure is under sustained attack",
-      "url": "https://www.techradar.com/computing/cybercrime/hackers-target-french-blood-banks-in-latest-freezer-attack-as-uk-cybersecurity-chief-warns-of-sliding-doors-moment-for-unprecedented-threat",
-      "date": "2026-11-04T12:35:24Z"
-    },
-    {
-      "title": "Critical Rails Flaw Lets Attackers Write Server Files via Crafted ImageMagick Uploads",
-      "description": "[FEEDS] A critical flaw in Ruby on Rails could allow an unauthenticated attacker to write arbitrary files on an app's server by uploading a crafted file if the app processes uploads using ImageMagick. The Rails project disclosed the flaw in&nbsp;an...",
-      "url": "https://thehackernews.com/2026/11/critical-rails-flaw-lets-attackers.html",
-      "date": "2026-11-04T12:07:04Z"
-    },
-    {
-      "title": "I asked a cybersecurity expert how to shop more safely with AI - these are their 5 non-negotiables",
-      "description": "[TOM'S GUIDE] As more and more people are using AI for shopping, I spoke with a cybersecurity expert about the best way to do so securely.",
-      "url": "https://www.tomsguide.com/ai/i-asked-a-cybersecurity-expert-how-to-shop-more-safely-with-ai-these-are-their-5-non-negotiables",
-      "date": "2026-11-04T12:00:00Z"
-    },
-    {
-      "title": "Redington Q2 PAT up 20% as IT infra spends grow",
-      "description": "[THE HINDU BUSINESS LINE] Redington posts 20% Q2 PAT rise on 48% revenue growth, led by enterprise tech, data centres, cloud, and cybersecurity demand.",
-      "url": "https://www.thehindubusinessline.com/companies/redington-q2-pat-up-20-as-it-infra-spends-grow/article71665128.ece",
-      "date": "2026-11-04T11:51:58Z"
-    },
-    {
-      "title": "Xen Hypervisor Flaws Let One Malicious VM Read and Write Any Other VM's Memory",
-      "description": "[FEEDS] Two flaws in the Xen hypervisor allow a malicious guest virtual machine (VM) to read and write the memory of other VMs on the same host, including dom0. Dom0 is the VM that, by default, has full permissions and manages the others. Patches are out,...",
-      "url": "https://thehackernews.com/2026/11/xen-hypervisor-flaws-let-one-malicious.html",
-      "date": "2026-11-04T11:46:27Z"
-    },
-    {
-      "title": "Ransomware attacks on Japanese companies more than double in 5 years",
-      "description": "[THE STRAITS TIMES] A survey found that 37% of targeted Japanese firms paid ransoms. Read more at straitstimes.com.",
-      "url": "https://www.straitstimes.com/asia/east-asia/ransomware-attacks-on-japanese-companies-more-than-double-in-5-years",
-      "date": "2026-11-04T11:35:00Z"
-    },
-    {
-      "title": "Tencent rolls out AI model trained with limited cybersecurity data amid hacking fears",
-      "description": "[THE STRAITS TIMES] Tencent said it filtered out content during training to limit Hy4\u2018s potential \u201coffensive\u201d capabilities. Read more at straitstimes.com.",
-      "url": "https://www.straitstimes.com/world/tencent-rolls-out-ai-model-trained-with-limited-cybersecurity-data-amid-hacking-fears",
-      "date": "2026-11-04T11:31:52Z"
-    },
-    {
-      "title": "OpenAI partners with Cathedral to find security flaws, raises critical bug bounty rewards",
-      "description": "[INDIA TV NEWS] OpenAI has partnered with cybersecurity firm Cathedral to identify vulnerabilities in its systems using AI models and security researchers. The company is also increasing rewards for critical bug reports by more than four times and plans to share...",
-      "url": "https://www.indiatvnews.com/technology/news/openai-partners-with-cathedral-to-find-security-flaws-raises-critical-bug-bounty-rewards-2026-11-04-1058670",
-      "date": "2026-11-04T11:21:01Z"
-    },
-    {
-      "title": "Tencent Rolls Out AI Model Trained With Limited Cybersecurity Data Amid Hacking Fears",
-      "description": "[DECCAN CHRONICLE] Tencent said it filtered out content during training such as exploit development, reverse engineering, and penetration testing \u200cto \u2060limit Hy4's potential \\\"offensive\\\" capabilities",
-      "url": "https://www.deccanchronicle.com/technology/tencent-rolls-out-ai-model-trained-with-limited-cybersecurity-data-amid-hacking-fears-2001673",
-      "date": "2026-11-04T11:17:22Z"
-    },
-    {
-      "title": "Cyberattack hits French blood bank site but no blood products are compromised",
-      "description": "[THE ATLANTA JOURNAL-CONSTITUTION] French authorities say a cyberattack on several blood banks tried to raise temperatures to dangerous levels but was stopped before causing damage. The attack happened Monday at three cold-storage sites for plasma. Monitoring systems detected the...",
-      "url": "https://www.ajc.com/news/2026/11/cyberattack-hits-french-blood-bank-site-but-no-blood-products-were-compromised/",
-      "date": "2026-11-04T11:03:08Z"
-    },
-    {
-      "title": "Tencent rolls out AI model trained with limited cybersecurity data amid hacking fears",
-      "description": "[THE ECONOMIC TIMES] Tencent on Wednesday released Hy4, its new open-source model, that the company said was trained with limited cybersecurity data to \"defensive\" content to reduce the risks of the model's ability to aid cyberattacks.",
-      "url": "https://economictimes.indiatimes.com/ai/ai-insights/tencent-rolls-out-ai-model-trained-with-limited-cybersecurity-data-amid-hacking-fears/articleshow/135536446.cms",
-      "date": "2026-11-04T11:00:00Z"
-    },
-    {
-      "title": "Thousands of bookings across global airlines affected by 'Amadeus breach' incident: What flyers should do",
-      "description": "[MALAYALA MANORAMA] Spanish booking firm Amadeus suffered a major data breach exposing global airline passenger details via valid login credentials, prompting ongoing",
-      "url": "https://www.onmanorama.com/travel/travel-news/2026/11/04/thousands-of-bookings-airlines-affected-by-amadeus-breach.html",
-      "date": "2026-11-04T10:44:59Z"
     },
     {
       "title": "ISC Stormcast For Wednesday, November 4th, 2026 https://isc.sans.edu/podcastdetail/10164, (Wed, Nov 4th)",
