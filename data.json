@@ -1,6 +1,24 @@
 {
-  "updated": "2026-11-04 19:04:52 UTC",
+  "updated": "2026-11-05 00:38:16 UTC",
   "news": [
+    {
+      "title": "Vercel rolls out new protection against stolen session cookie attacks",
+      "description": "[BLEEPINGCOMPUTER] Vercel is gradually rolling out Device Bound Session Credentials (DBSC) on its platform as a key defense against information stealer malware. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/vercel-rolls-out-new-protection-against-stolen-session-cookie-attacks/",
+      "date": "2026-11-04T21:31:18Z"
+    },
+    {
+      "title": "Zyxel fixes zero-day exploited to hack nearly 1,000 network switches",
+      "description": "[BLEEPINGCOMPUTER] Zyxel has patched a zero-day vulnerability in its GS1900 series network switches that hackers exploited to compromise nearly 1,000 devices worldwide and steal configuration files and credentials. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/zyxel-fixes-zero-day-exploited-to-hack-nearly-1-000-network-switches/",
+      "date": "2026-11-04T20:58:19Z"
+    },
+    {
+      "title": "DreamHost confirms data breach exposed FTP logins and webmail sessions",
+      "description": "[BLEEPINGCOMPUTER] DreamHost is warning of a data breach after attackers gained access to its File Manager platform for two months and stole customers' FTP/SFTP usernames and passwords. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/dreamhost-confirms-data-breach-exposed-ftp-logins-and-webmail-sessions/",
+      "date": "2026-11-04T19:05:19Z"
+    },
     {
       "title": "Cyberattack disrupts blood storage refrigeration systems in France",
       "description": "[BLEEPINGCOMPUTER] France's national blood service has confirmed that a cyberattack targeting a refrigeration equipment provider raised temperature and defrost settings at three of its facilities, threatening stored blood products. [...]",
@@ -38,18 +56,6 @@
       "date": "2026-11-04T16:00:18Z"
     },
     {
-      "title": "Google Calendar phishing campaign hijacks sessions, bypasses MFA",
-      "description": "[BLEEPINGCOMPUTER] A phishing campaign used Google Calendar invites, trusted redirects, and fake login pages to hijack corporate Google sessions and bypass MFA protections. Material Security examines how Operation CloudFire tracked the attacks, blocked malicious...",
-      "url": "https://www.bleepingcomputer.com/news/security/google-calendar-phishing-campaign-hijacks-sessions-bypasses-mfa/",
-      "date": "2026-11-04T15:00:10Z"
-    },
-    {
-      "title": "SonicWall warns of unpatched flaws in end-of-life GMS software",
-      "description": "[BLEEPINGCOMPUTER] SonicWall warned customers of two security flaws affecting end-of-life Global Management System (GMS) systems that will not be patched. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-unpatched-flaws-in-end-of-life-gms-software/",
-      "date": "2026-11-04T14:42:25Z"
-    },
-    {
       "title": "APT29-Linked Hackers Hijack Web Analytics Script to Deliver iOS and Android Exploits",
       "description": "[FEEDS] The Russia-linked threat actor known as APT29 is said to be behind a large-scale watering hole campaign targeting iOS and Android users through compromised websites, fake domains, and a supply chain attack involving a Ukrainian web analytics service...",
       "url": "https://thehackernews.com/2026/11/apt29-linked-hackers-hijack-web.html",
@@ -62,10 +68,10 @@
       "date": "2026-11-04T13:24:13Z"
     },
     {
-      "title": "US charges two Canadians accused of hacking US universities",
-      "description": "[BLEEPINGCOMPUTER] A federal grand jury indicted two Canadians suspected of hacking multiple US universities and using the compromised systems to mine for cryptocurrency. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/us-charges-two-canadians-accused-of-hacking-us-universities/",
-      "date": "2026-11-04T13:13:20Z"
+      "title": "Hackers target French blood banks in latest freezer attack - as UK cybersecurity chief warns of 'sliding doors' moment for 'unprecedented' threat",
+      "description": "[TECHRADAR] Critical infrastructure is under sustained attack",
+      "url": "https://www.techradar.com/computing/cybercrime/hackers-target-french-blood-banks-in-latest-freezer-attack-as-uk-cybersecurity-chief-warns-of-sliding-doors-moment-for-unprecedented-threat",
+      "date": "2026-11-04T12:35:24Z"
     },
     {
       "title": "Critical Rails Flaw Lets Attackers Write Server Files via Crafted ImageMagick Uploads",
@@ -74,70 +80,64 @@
       "date": "2026-11-04T12:07:04Z"
     },
     {
+      "title": "I asked a cybersecurity expert how to shop more safely with AI - these are their 5 non-negotiables",
+      "description": "[TOM'S GUIDE] As more and more people are using AI for shopping, I spoke with a cybersecurity expert about the best way to do so securely.",
+      "url": "https://www.tomsguide.com/ai/i-asked-a-cybersecurity-expert-how-to-shop-more-safely-with-ai-these-are-their-5-non-negotiables",
+      "date": "2026-11-04T12:00:00Z"
+    },
+    {
+      "title": "Redington Q2 PAT up 20% as IT infra spends grow",
+      "description": "[THE HINDU BUSINESS LINE] Redington posts 20% Q2 PAT rise on 48% revenue growth, led by enterprise tech, data centres, cloud, and cybersecurity demand.",
+      "url": "https://www.thehindubusinessline.com/companies/redington-q2-pat-up-20-as-it-infra-spends-grow/article71665128.ece",
+      "date": "2026-11-04T11:51:58Z"
+    },
+    {
       "title": "Xen Hypervisor Flaws Let One Malicious VM Read and Write Any Other VM's Memory",
       "description": "[FEEDS] Two flaws in the Xen hypervisor allow a malicious guest virtual machine (VM) to read and write the memory of other VMs on the same host, including dom0. Dom0 is the VM that, by default, has full permissions and manages the others. Patches are out,...",
       "url": "https://thehackernews.com/2026/11/xen-hypervisor-flaws-let-one-malicious.html",
       "date": "2026-11-04T11:46:27Z"
     },
     {
-      "title": "CISA Confirms Hackers Exploiting WordPress Core Flaw During Software Upgrades",
-      "description": "[THE HACKER NEWS] CISA confirms active exploitation of CVE-2026-119977, a WordPress Core flaw that allows unauthenticated code execution during upgrades.",
-      "url": "https://thehackernews.com/2026/11/cisa-confirms-hackers-exploiting.html",
-      "date": "2026-11-04T05:43:00Z"
+      "title": "Ransomware attacks on Japanese companies more than double in 5 years",
+      "description": "[THE STRAITS TIMES] A survey found that 37% of targeted Japanese firms paid ransoms. Read more at straitstimes.com.",
+      "url": "https://www.straitstimes.com/asia/east-asia/ransomware-attacks-on-japanese-companies-more-than-double-in-5-years",
+      "date": "2026-11-04T11:35:00Z"
     },
     {
-      "title": "Singapore Airlines booking data for 46,000 records compromised in Amadeus data breach; 620 had additional details exposed",
-      "description": "[MALAY MAIL] SINGAPORE, Nov 4 \u2014 The names of some Singapore Airlines (SIA) customers and their travel booking details were accessed without authorisation after airline technology provider...",
-      "url": "https://www.malaymail.com/news/singapore/2026/11/04/singapore-airlines-booking-data-for-46000-records-compromised-in-amadeus-data-breach-620-had-additional-details-exposed/241931",
-      "date": "2026-11-04T05:06:12Z"
+      "title": "Tencent rolls out AI model trained with limited cybersecurity data amid hacking fears",
+      "description": "[THE STRAITS TIMES] Tencent said it filtered out content during training to limit Hy4\u2018s potential \u201coffensive\u201d capabilities. Read more at straitstimes.com.",
+      "url": "https://www.straitstimes.com/world/tencent-rolls-out-ai-model-trained-with-limited-cybersecurity-data-amid-hacking-fears",
+      "date": "2026-11-04T11:31:52Z"
     },
     {
-      "title": "IndiaAI Mission's three indigenous AI models target offline mobile access, secure use in critical sectors",
-      "description": "[THE ECONOMIC TIMES] Three indigenous artificial intelligence (AI) models launched under the Centre's IndiaAI Mission are being developed for applications ranging from offline access on mobile phones to secure use in critical sectors such as defence, cybersecurity and...",
-      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/indiaai-missions-three-indigenous-ai-models-target-offline-mobile-access-secure-use-in-critical-sectors/articleshow/135524432.cms",
-      "date": "2026-11-04T05:02:29Z"
+      "title": "OpenAI partners with Cathedral to find security flaws, raises critical bug bounty rewards",
+      "description": "[INDIA TV NEWS] OpenAI has partnered with cybersecurity firm Cathedral to identify vulnerabilities in its systems using AI models and security researchers. The company is also increasing rewards for critical bug reports by more than four times and plans to share...",
+      "url": "https://www.indiatvnews.com/technology/news/openai-partners-with-cathedral-to-find-security-flaws-raises-critical-bug-bounty-rewards-2026-11-04-1058670",
+      "date": "2026-11-04T11:21:01Z"
     },
     {
-      "title": "United States \u2022 Cyber Test Systems gets set to open share capital to investors",
-      "description": "[INTELLIGENCE ONLINE] The sale of a minority stake in the French cybersecurity gem to investment funds is shaping up to be one of the financial deals to watch in the first half of 2027.",
-      "url": "https://www.intelligenceonline.com/europe-russia/2026/11/04/cyber-test-systems-gets-set-to-open-share-capital-to-investors,110913277-art",
-      "date": "2026-11-04T05:00:00Z"
+      "title": "Tencent Rolls Out AI Model Trained With Limited Cybersecurity Data Amid Hacking Fears",
+      "description": "[DECCAN CHRONICLE] Tencent said it filtered out content during training such as exploit development, reverse engineering, and penetration testing \u200cto \u2060limit Hy4's potential \\\"offensive\\\" capabilities",
+      "url": "https://www.deccanchronicle.com/technology/tencent-rolls-out-ai-model-trained-with-limited-cybersecurity-data-amid-hacking-fears-2001673",
+      "date": "2026-11-04T11:17:22Z"
     },
     {
-      "title": "IndiaAI Mission's three indigenous AI models target offline mobile access, secure use in critical sectors",
-      "description": "[DEVDISCOURSE] Three indigenous artificial intelligence (AI) models launched under the Centre's IndiaAI Mission are being developed for applications ranging from offline access on mobile phones to secure use in critical sectors such as defence, cybersecurity and...",
-      "url": "https://www.devdiscourse.com/article/business/4001307-indiaai-missions-three-indigenous-ai-models-target-offline-mobile-access-secure-use-in-critical-sectors",
-      "date": "2026-11-04T04:48:30Z"
+      "title": "Cyberattack hits French blood bank site but no blood products are compromised",
+      "description": "[THE ATLANTA JOURNAL-CONSTITUTION] French authorities say a cyberattack on several blood banks tried to raise temperatures to dangerous levels but was stopped before causing damage. The attack happened Monday at three cold-storage sites for plasma. Monitoring systems detected the...",
+      "url": "https://www.ajc.com/news/2026/11/cyberattack-hits-french-blood-bank-site-but-no-blood-products-were-compromised/",
+      "date": "2026-11-04T11:03:08Z"
     },
     {
-      "title": "Overseas hackers suspected in state health data breach",
-      "description": "[THE CANBERRA TIMES] A health department is looking to notify potential victims of a data breach, after hackers are believed to...",
-      "url": "https://www.canberratimes.com.au/story/9385516/overseas-hackers-suspected-in-state-health-data-breach/",
-      "date": "2026-11-04T04:38:54Z"
+      "title": "Tencent rolls out AI model trained with limited cybersecurity data amid hacking fears",
+      "description": "[THE ECONOMIC TIMES] Tencent on Wednesday released Hy4, its new open-source model, that the company said was trained with limited cybersecurity data to \"defensive\" content to reduce the risks of the model's ability to aid cyberattacks.",
+      "url": "https://economictimes.indiatimes.com/ai/ai-insights/tencent-rolls-out-ai-model-trained-with-limited-cybersecurity-data-amid-hacking-fears/articleshow/135536446.cms",
+      "date": "2026-11-04T11:00:00Z"
     },
     {
-      "title": "IndiaAI Mission's three indigenous AI models target offline mobile access, secure use in critical sectors",
-      "description": "[THE TRIBUNE] Three indigenous artificial intelligence (AI) models launched under the Centre's IndiaAI Mission are being developed for applications ranging from offline access on mobile phones to secure use in critical sectors such as defence, cybersecurity and...",
-      "url": "https://www.tribuneindia.com/news/business/indiaai-missions-three-indigenous-ai-models-target-offline-mobile-access-secure-use-in-critical-sectors/",
-      "date": "2026-11-04T04:27:22Z"
-    },
-    {
-      "title": "IndiaAI Mission's three indigenous AI models target offline mobile access, secure use in critical sectors",
-      "description": "[ANI (ASIAN NEWS INTERNATIONAL)] Three indigenous artificial intelligence (AI) models launched under the Centre's IndiaAI Mission are being developed for applications ranging from offline access on mobile phones to secure use in critical sectors such as defence, cybersecurity and...",
-      "url": "https://www.aninews.in/news/business/indiaai-missions-three-indigenous-ai-models-target-offline-mobile-access-secure-use-in-critical-sectors20261104095326/",
-      "date": "2026-11-04T04:23:26Z"
-    },
-    {
-      "title": "Coupang Reports Significant Q3 Loss Amidst Warehouse Fire and Data Breach Aftermath",
-      "description": "[LOKMAT TIMES] Coupang Reports Significant Q3 Loss Amidst Warehouse Fire and Data Breach Aftermath - Seoul, South Korea \u2014 E-commerce giant Coupang has announced a substantial net loss for the third quarter, largely attributed ... Get Latest News on Technology only...",
-      "url": "https://www.lokmattimes.com/technology/coupang-reports-significant-q3-loss-amidst-warehouse-fire-and-data-breach-aftermath-a001-w02/",
-      "date": "2026-11-04T03:44:30Z"
-    },
-    {
-      "title": "CERT-In is now using Claude Mythos to test cybersecurity flaws, report says",
-      "description": "[INDIA TODAY] India\u2019s cybersecurity agency, CERT-In, has gained access to Anthropic\u2019s Claude Mythos AI model. CERT-In is now using this model to test the security of its systems as AI models become better at identifying cyber weaknesses.",
-      "url": "https://www.indiatoday.in/technology/news/story/cert-in-is-now-using-claude-mythos-to-test-cybersecurity-flaws-report-says-3031862-2026-11-04",
-      "date": "2026-11-04T03:21:22Z"
+      "title": "Thousands of bookings across global airlines affected by 'Amadeus breach' incident: What flyers should do",
+      "description": "[MALAYALA MANORAMA] Spanish booking firm Amadeus suffered a major data breach exposing global airline passenger details via valid login credentials, prompting ongoing",
+      "url": "https://www.onmanorama.com/travel/travel-news/2026/11/04/thousands-of-bookings-airlines-affected-by-amadeus-breach.html",
+      "date": "2026-11-04T10:44:59Z"
     },
     {
       "title": "ISC Stormcast For Wednesday, November 4th, 2026 https://isc.sans.edu/podcastdetail/10164, (Wed, Nov 4th)",
