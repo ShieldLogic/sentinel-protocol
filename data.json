@@ -1,23 +1,137 @@
 {
-  "updated": "2026-11-05 08:44:04 UTC",
+  "updated": "2026-11-05 17:45:08 UTC",
   "news": [
     {
-      "title": "Zyxel GS1900 Patch Fails to Block Zero-Day Exploit Allowing Root Command Execution",
-      "description": "[FEEDS] Zyxel GS1900 network switches that received the vendor's earlier fix for an actively exploited flaw are still open to the exploit attackers used, researchers at Binarly found. The exploit lets anyone who can reach a switch's web management interface...",
-      "url": "https://thehackernews.com/2026/11/zyxel-gs1900-patch-fails-to-block-zero.html",
-      "date": "2026-11-05T07:06:33Z"
+      "title": "Hackers backdoor Linux servers using trojanized CWP web server",
+      "description": "[BLEEPINGCOMPUTER] A new Linux malware called CWPdoor is being distributed through a trojanized version of cwpsrv, the web server behind the Control Web Panel (CWP) management interface. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-backdoor-linux-servers-using-trojanized-cwp-web-server/",
+      "date": "2026-11-05T16:24:26Z"
     },
     {
-      "title": "Hackers Exploit Patched Apple Flaw to Deliver Info-Stealing Malware, CISA Says",
-      "description": "[FEEDS] The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a medium-severity security flaw impacting multiple Apple operating systems to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active...",
-      "url": "https://thehackernews.com/2026/11/hackers-exploit-patched-apple-flaw-to.html",
-      "date": "2026-11-05T05:17:04Z"
+      "title": "DigiCert data breach exposes customer information, identity documents",
+      "description": "[BLEEPINGCOMPUTER] DigiCert warns it suffered a data breach after a server migration mistakenly exposed an internal business system to the internet, allowing unauthorized access to customer information and identity documents. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/digicert-data-breach-exposes-customer-information-identity-documents/",
+      "date": "2026-11-05T16:12:46Z"
+    },
+    {
+      "title": "Vulnerability Scans for Older Cisco IOS Vulnerability / Opt-Out Headers, (Thu, Nov 5th)",
+      "description": "[ISC] This morning, I was browsing our honeypot data for any new and existing PHP exploit attempts. Instead, I first ran into some GeoServer exploits, but found them to be too boring to write up. This Cisco IOS exploit attempt was a bit more interesting....",
+      "url": "https://isc.sans.edu/diary/rss/33492",
+      "date": "2026-11-05T15:29:08Z"
+    },
+    {
+      "title": "Closing the Identity Gap at the Service Desk",
+      "description": "[BLEEPINGCOMPUTER] Attackers target IT service desks to bypass MFA by impersonating employees and convincing staff to reset passwords or register new authentication devices. Specops Software explains why traditional identity verification methods are no longer...",
+      "url": "https://www.bleepingcomputer.com/news/security/closing-the-identity-gap-at-the-service-desk/",
+      "date": "2026-11-05T15:00:10Z"
+    },
+    {
+      "title": "ThreatsDay: Apache OFBiz RCE, DreamHost Breach, DeFi Site Hijacks + 17 More Stories",
+      "description": "[FEEDS] How much damage can someone do without breaking much? Quite a lot, it seems. A stolen login can open doors across several systems. A trusted setting can be used to lock people out. Even a simple file copy can reach places it shouldn't. And while new...",
+      "url": "https://thehackernews.com/2026/11/threatsday-apache-ofbiz-rce-dreamhost.html",
+      "date": "2026-11-05T14:41:10Z"
+    },
+    {
+      "title": "Is Your Exposure Management Platform Leaving You Exposed? Five Tests to Find Out",
+      "description": "[FEEDS] A critical finding can move through several security tools and still leave the organization exposed.&nbsp; The vulnerability has a severity score, and a ticket has reached the queue. Progress then depends on information the finding may lack: who...",
+      "url": "https://thehackernews.com/2026/11/is-your-exposure-management-platform.html",
+      "date": "2026-11-05T12:25:00Z"
     },
     {
       "title": "OpenAI AI Pipeline Generates 948 Linux Root Escalation Exploits in 30-Hour Run",
       "description": "[FEEDS] OpenAI on Wednesday detailed a pipeline that employed an upcoming cyber-focused artificial intelligence (AI) model to validate and patch 948 local privilege escalation vulnerabilities in Linux for $1.2 million in API costs. \"Our prototype identified...",
       "url": "https://thehackernews.com/2026/11/openai-ai-pipeline-generates-948-linux.html",
-      "date": "2026-11-05T04:31:16Z"
+      "date": "2026-11-05T12:08:54Z"
+    },
+    {
+      "title": "ISC Stormcast For Thursday, November 5th, 2026 https://isc.sans.edu/podcastdetail/10166, (Thu, Nov 5th)",
+      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
+      "url": "https://isc.sans.edu/diary/rss/33490",
+      "date": "2026-11-05T11:25:11Z"
+    },
+    {
+      "title": "5 Active Cyber Threats That Put US Enterprises at Risk in October 2026",
+      "description": "[FEEDS] October 2026 brought another wave of cyber threats targeting US businesses, with attackers exploiting trusted platforms, legitimate authentication processes, and everyday business workflows. For enterprises, these campaigns raise the stakes beyond...",
+      "url": "https://thehackernews.com/2026/11/5-active-cyber-threats-that-put-us.html",
+      "date": "2026-11-05T10:06:19Z"
+    },
+    {
+      "title": "GhostMap Android flaw lets malicious app trigger persistent boot loop",
+      "description": "[BLEEPINGCOMPUTER] Attackers can force Android devices into a continuous boot loop using a specially crafted app that requires no permissions and only needs to be installed. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/ghostmap-android-flaw-lets-malicious-app-trigger-persistent-boot-loop/",
+      "date": "2026-11-05T09:18:29Z"
+    },
+    {
+      "title": "Apple to Start Scanning Publicly Shared iCloud Photos and Files for Harmful Content",
+      "description": "[FEEDS] Apple has revealed that it plans to start checking public iCloud links for harmful content starting with iOS 27.3, iPadOS 27.3, macOS 27.3, and visionOS 27.3. The change specifically applies to scenarios where users share iCloud content, such as...",
+      "url": "https://thehackernews.com/2026/11/apple-to-start-scanning-publicly-shared.html",
+      "date": "2026-11-05T09:13:28Z"
+    },
+    {
+      "title": "CERT-In Flags AI-Driven Attacks as Backdoored ARTEX Exposes 62 Consoles to Root Access",
+      "description": "[FEEDS] The Indian Computer Emergency Response Team (CERT-In) has disclosed that an artificial intelligence (AI)-assisted threat actor it tracks as Crafty Falcon is targeting organizations in the Banking, Financial Services, and Insurance (BFSI) sectors in...",
+      "url": "https://thehackernews.com/2026/11/backdoored-docker-image-for-artex-ai.html",
+      "date": "2026-11-05T08:42:03Z"
+    },
+    {
+      "title": "Visa Establishes Global Capability Hubs in Singapore to Build the Future of Global Commerce",
+      "description": "[THE TRIBUNE] Singapore, November 5: Visa (NYSE: V), a global leader in digital payments, today announced the establishment of six global capability hubs at its new Solution Center in Singapore. Spanning AI, cybersecurity, quantum computing and next-generation...",
+      "url": "https://www.tribuneindia.com/news/business/visa-establishes-global-capability-hubs-in-singapore-to-build-the-future-of-global-commerce/",
+      "date": "2026-11-05T05:27:26Z"
+    },
+    {
+      "title": "Visa Establishes Global Capability Hubs in Singapore to Build the Future of Global Commerce",
+      "description": "[ANI (ASIAN NEWS INTERNATIONAL)] Singapore, November 5: Visa (NYSE: V), a global leader in digital payments, today announced the establishment of six global capability hubs at its new Solution Center in Singapore. Spanning AI, cybersecurity, quantum computing and next-generation...",
+      "url": "https://www.aninews.in/news/business/visa-establishes-global-capability-hubs-in-singapore-to-build-the-future-of-global-commerce20261105105612/",
+      "date": "2026-11-05T05:26:12Z"
+    },
+    {
+      "title": "Hackers Exploit Patched Apple Flaw to Deliver Info-Stealing Malware, CISA Says",
+      "description": "[THE HACKER NEWS] CISA adds Apple CVE-2024-27834 to its KEV catalog after reports of active exploitation involving a pointer authentication bypass.",
+      "url": "https://thehackernews.com/2026/11/hackers-exploit-patched-apple-flaw-to.html",
+      "date": "2026-11-05T05:17:00Z"
+    },
+    {
+      "title": "Cert-In warns banks, fintech firms of AI-driven fund transfer fraud",
+      "description": "[BUSINESS STANDARD] India's cybersecurity watchdog has flagged an escalating AI-powered campaign targeting banks, NBFCs and fintech firms, with attackers exploiting payment APIs to carry out unauthorised fund transfers",
+      "url": "https://www.business-standard.com/industry/banking/cert-in-warns-banks-fintech-firms-of-ai-driven-fund-transfer-fraud-126110500550_1.html",
+      "date": "2026-11-05T05:04:46Z"
+    },
+    {
+      "title": "After reinventing mathematics, can AI eradicate computer bugs?",
+      "description": "[THE STAR] Using the same techniques that allowed AI technologies to crack a million-dollar math problem, researchers are building new systems that aim to solve the world's cybersecurity crisis.",
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/11/05/after-reinventing-mathematics-can-ai-eradicate-computer-bugs",
+      "date": "2026-11-05T05:00:00Z"
+    },
+    {
+      "title": "80% of Australian Organisations Hand Human Decisions to AI, but Half Can\u2019t Audit Its Actions",
+      "description": "[ITWIRE] Australia has highest number of organisations globally that use AI in cybersecurity operations Australian IT security leaders let AI take autonomous action, while many also...",
+      "url": "https://itwire.com/guest-articles/guest-research/80-of-australian-organisations-hand-human-decisions-to-ai-but-half-can-t-audit-its-actions",
+      "date": "2026-11-05T04:34:55Z"
+    },
+    {
+      "title": "Stocks To Buy: Motilal Oswal projects 190% bull case upside potential for its latest stock pick",
+      "description": "[CNBC TV18] Redington is also well positioned to benefit from rising enterprise technology spend, large data center deals, cybersecurity and AI spend, increase localization and premiumization in India, along with continued market share gains by Apple, Motilal...",
+      "url": "https://www.cnbctv18.com/market/redington-share-price-motilal-oswal-buy-rating-bull-case-190-percent-upside-key-triggers-iphone-apple-risks-20027584.htm",
+      "date": "2026-11-05T04:14:39Z"
+    },
+    {
+      "title": "Take cyber threats seriously and stay vigilant but calm, says consumer group",
+      "description": "[THE STAR] KOTA KINABALU: National cybersecurity defences must be strengthened amid concerns of threats facing the country as mentioned by Prime Minister Datuk Seri Anwar Ibrahim recently, says a consumer group.",
+      "url": "https://www.thestar.com.my/news/nation/2026/11/05/take-cyber-threats-seriously-and-stay-vigilant-but-calm-says-consumer-group",
+      "date": "2026-11-05T03:29:00Z"
+    },
+    {
+      "title": "India Warns AI-Driven Hackers Targeting Crypto Exchanges at Scale",
+      "description": "[CRYPTO BREAKING NEWS] India\u2019s national cybersecurity agency has warned that an AI-assisted threat actor is stepping up attacks against cryptocurrency exchanges and other",
+      "url": "https://www.cryptobreaking.com/india-warns-ai-driven-hackers/",
+      "date": "2026-11-05T02:51:23Z"
+    },
+    {
+      "title": "Harvard University reveals data breach exposed 851,000 accounts",
+      "description": "[TECHRADAR] ShinyHunters attack on Harvard is finally analyzed",
+      "url": "https://www.techradar.com/pro/security/harvard-university-reveals-data-breach-exposed-851-000-accounts",
+      "date": "2026-11-05T02:50:00Z"
     },
     {
       "title": "Vercel rolls out new protection against stolen session cookie attacks",
@@ -30,108 +144,6 @@
       "description": "[BLEEPINGCOMPUTER] Zyxel has patched a zero-day vulnerability in its GS1900 series network switches that hackers exploited to compromise nearly 1,000 devices worldwide and steal configuration files and credentials. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/zyxel-fixes-zero-day-exploited-to-hack-nearly-1-000-network-switches/",
       "date": "2026-11-04T20:58:19Z"
-    },
-    {
-      "title": "Temiskaming OPP suspends use of Crime Stoppers",
-      "description": "[BAYTODAY] The suspension is the result of a cybersecurity incident involving a third party",
-      "url": "https://www.baytoday.ca/local-news/temiskaming-opp-suspends-use-of-crime-stoppers-12978785",
-      "date": "2026-11-04T20:00:00Z"
-    },
-    {
-      "title": "SBI-led banking alliance comes together to mount a defence to AI threats",
-      "description": "[THE ECONOMIC TIMES] Indian Banks' Association, led by State Bank of India, is developing a strategy for cybersecurity in the AI era. The initiative focuses on improving coordination among banks and facilitating timely information sharing. Increasing digitalization has...",
-      "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/sbi-led-banking-alliance-comes-together-to-mount-a-defence-to-ai-threats/articleshow/135550486.cms",
-      "date": "2026-11-04T19:25:00Z"
-    },
-    {
-      "title": "Cybersecurity demand creates new opportunities for Happiest Minds as clients add AI safeguards",
-      "description": "[THE NEW INDIAN EXPRESS] The demand is creating opportunities for the company\u2019s Infrastructure Management and Security Services (IMSS) business unit, company's co-chairman and chief exe",
-      "url": "https://www.newindianexpress.com/business/2026/Nov/04/cybersecurity-demand-creates-new-opportunities-for-happiest-minds-as-clients-add-ai-safeguards",
-      "date": "2026-11-04T19:09:58Z"
-    },
-    {
-      "title": "DreamHost confirms data breach exposed FTP logins and webmail sessions",
-      "description": "[BLEEPINGCOMPUTER] DreamHost is warning of a data breach after attackers gained access to its File Manager platform for two months and stole customers' FTP/SFTP usernames and passwords. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/dreamhost-confirms-data-breach-exposed-ftp-logins-and-webmail-sessions/",
-      "date": "2026-11-04T19:05:19Z"
-    },
-    {
-      "title": "Home-Grown AI, Cybersecurity, LoT Tech Takes Centre Stage At C-DAC Show",
-      "description": "[DECCAN CHRONICLE] MosChip Technologies CEO and managing director Kakumanu Srinivasa and IIIT Hyderabad professor Sandeep Kumar Shukla attended as guests of honour.",
-      "url": "https://www.deccanchronicle.com/southern-states/telangana/home-grown-ai-cybersecurity-lot-tech-takes-centre-stage-at-c-dac-show-2001840",
-      "date": "2026-11-04T18:36:31Z"
-    },
-    {
-      "title": "Cyberattack disrupts blood storage refrigeration systems in France",
-      "description": "[BLEEPINGCOMPUTER] France's national blood service has confirmed that a cyberattack targeting a refrigeration equipment provider raised temperature and defrost settings at three of its facilities, threatening stored blood products. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/cyberattack-disrupts-blood-storage-refrigeration-systems-in-france/",
-      "date": "2026-11-04T18:02:56Z"
-    },
-    {
-      "title": "CrowdStrike launches AI kill switch to shut down rogue AI agents before they cause damage",
-      "description": "[TECHSTARTUPS.COM] CrowdStrike has launched a new AI kill switch that lets companies shut down rogue artificial intelligence agents before they can cause serious damage, addressing one of the biggest security concerns around the growing use of autonomous AI systems....",
-      "url": "https://techstartups.com/2026/11/04/crowdstrike-launches-ai-kill-switch-to-shut-down-rogue-ai-agents-before-they-cause-damage/",
-      "date": "2026-11-04T17:12:43Z"
-    },
-    {
-      "title": "Debian and Ubuntu APT Flaw Lets MitM Attackers Swap Verified Packages and Run Code as Root",
-      "description": "[FEEDS] A flaw in APT, the package manager for Debian and Ubuntu, allows an attacker who can modify package downloads to swap a checked package for their own. The attacker's code then runs as root, according to advisories that&nbsp;Debian,&nbsp;Ubuntu,...",
-      "url": "https://thehackernews.com/2026/11/debian-and-ubuntu-apt-flaw-lets-mitm.html",
-      "date": "2026-11-04T17:00:46Z"
-    },
-    {
-      "title": "SonicWall Won't Patch EoL GMS Flaws That Could Expose Files, Alter Database Records",
-      "description": "[FEEDS] SonicWall has warned of two vulnerabilities impacting end-of-life Global Management System (GMS) systems that it said will not be patched. Details of the security flaws, which affect SonicWall GMS 9.5.2 and earlier versions, are below -...",
-      "url": "https://thehackernews.com/2026/11/sonicwall-wont-patch-eol-gms-flaws-that.html",
-      "date": "2026-11-04T17:00:38Z"
-    },
-    {
-      "title": "NIKKE PC game launcher hacked to spread remote access, data-stealing malware",
-      "description": "[BLEEPINGCOMPUTER] The developers of Goddess of Victory: NIKKE have confirmed that hackers tampered with the game's PC launcher scripts in a supply-chain attack, distributing malware capable of stealing credentials and cryptocurrency wallet data. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/nikke-pc-game-launcher-hacked-to-spread-remote-access-data-stealing-malware/",
-      "date": "2026-11-04T16:58:46Z"
-    },
-    {
-      "title": "Researchers Uncover Prompt Adware Hidden in OpenAI Codex Jailbreak Toolkit",
-      "description": "[FEEDS] Cybersecurity researchers have disclosed details of an OpenAI Codex jailbreak bundle that's designed to modify an artificial intelligence (AI) agent's trusted instructions to insert advertisements for a third-party AI gateway. The phenomenon has...",
-      "url": "https://thehackernews.com/2026/11/researchers-uncover-prompt-adware.html",
-      "date": "2026-11-04T16:06:43Z"
-    },
-    {
-      "title": "Singapore Airlines booking records compromised",
-      "description": "[THE MANILA TIMES] SINGAPORE \u2014 Singapore Airlines said on Tuesday that about 46,000 booking records may have been affected by a cybersecurity incident involving Amadeus, its reservation technology provider.",
-      "url": "https://www.manilatimes.net/2026/11/05/business/foreign-business/singapore-airlines-booking-records-compromised/2462026",
-      "date": "2026-11-04T16:06:00Z"
-    },
-    {
-      "title": "mSecure password manager hack prompts password reset warnings",
-      "description": "[BLEEPINGCOMPUTER] mSeven Software is warning current and former mSecure password manager customers to change passwords, reset two-factor authentication, and remove passkeys following a cyberattack that reportedly exposed an encrypted customer database. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/msecure-password-manager-hack-prompts-password-reset-warnings/",
-      "date": "2026-11-04T16:00:18Z"
-    },
-    {
-      "title": "Tencent launches AI model with safeguards against cyberattacks and biological misuse",
-      "description": "[FIRSTPOST] Tencent says its new model is restricted to defensive cybersecurity applications and has safeguards against misuse in cyberattacks and harmful biological research.",
-      "url": "https://www.firstpost.com/tech/tencent-launches-ai-model-with-safeguards-against-cyberattacks-and-biological-misuse-14057886.html",
-      "date": "2026-11-04T15:29:38Z"
-    },
-    {
-      "title": "CrowdStrike launches \u2018Kill Switch\u2019 for rogue AI agents, CEO George Kurtz explains how it works",
-      "description": "[TIMES OF INDIA] Cybersecurity firm CrowdStrike has launched an emergency \u201ckill switch\u201d designed to instantly shut down rogue artificial intelligence (AI) agents operating",
-      "url": "https://timesofindia.indiatimes.com/technology/tech-news/crowdstrike-launches-kill-switch-for-rogue-ai-agents-ceo-george-kurtz-explains-how-it-works/articleshow/135542912.cms",
-      "date": "2026-11-04T14:46:00Z"
-    },
-    {
-      "title": "UK cyber agency warns of AI-powered ransomware on infrastructure by 2028",
-      "description": "[TNW] \u201cFor decades we have collectively got away with tech on the cheap,\u201d NCSC chief Richard Horne said as the NCSC annual review warned of AI attacks.",
-      "url": "https://thenextweb.com/news/ncsc-annual-review-2026-ai-malware-critical-infrastructure",
-      "date": "2026-11-04T14:32:29Z"
-    },
-    {
-      "title": "4 Best Managed IT Service Providers in Sacramento Compared",
-      "description": "[TECHBULLION] Compare four managed IT service providers in Sacramento for cybersecurity, help desk support, cloud services, and business IT management.",
-      "url": "https://techbullion.com/4-best-managed-it-service-providers-in-sacramento-compared/",
-      "date": "2026-11-04T14:14:17Z"
     },
     {
       "title": "The Classics Return: Vulnerable E-Mail Scripts, (Wed, Nov 4th)",
@@ -168,18 +180,6 @@
       "description": "[SCHNEIER] A comment: 3% of &#8216;critical&#8217; software security bugs, in all of recorded history, have been found in the last month. This is on pace to find another ~100,000 bugs this year alone, adding ~26% more vulnerabilities to the all time total Do...",
       "url": "https://www.schneier.com/blog/archives/2026/11/ai-vulnerability-finding-2.html",
       "date": "2026-11-02T12:02:34Z"
-    },
-    {
-      "title": "ISC Stormcast For Monday, November 2nd, 2026 https://isc.sans.edu/podcastdetail/10160, (Mon, Nov 2nd)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33480",
-      "date": "2026-11-02T02:00:03Z"
-    },
-    {
-      "title": "OneNote File Extraction, (Sun, Nov 1st)",
-      "description": "[ISC] Recently, I had to extract embedded files from a set of OneNote files (extension .one).&#xd;",
-      "url": "https://isc.sans.edu/diary/rss/33478",
-      "date": "2026-11-01T09:12:23Z"
     },
     {
       "title": "Friday Squid Blogging: Bigfin Squid Off California Coast",
