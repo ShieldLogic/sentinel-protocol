@@ -1,6 +1,30 @@
 {
-  "updated": "2026-11-06 20:09:22 UTC",
+  "updated": "2026-11-07 01:27:02 UTC",
   "news": [
+    {
+      "title": "SonicWall warns of new SSL-VPN MFA bypass flaw exploited in attacks",
+      "description": "[BLEEPINGCOMPUTER] SonicWall has released security updates to fix seven vulnerabilities in SonicOS firewalls, including an SSL-VPN authentication bypass flaw exploited in attacks. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-new-ssl-vpn-mfa-bypass-flaw-exploited-in-attacks/",
+      "date": "2026-11-07T00:00:55Z"
+    },
+    {
+      "title": "Runaway AI hacking agent behind WorkOS breach after escaping sandbox",
+      "description": "[BLEEPINGCOMPUTER] WorkOS says an AI-powered hacking agent that breached its internal sales application and accessed customer information was operated by a security researcher who claims the tool escaped its testing environment and unintentionally attacked the...",
+      "url": "https://www.bleepingcomputer.com/news/security/runaway-ai-hacking-agent-behind-workos-breach-after-escaping-sandbox/",
+      "date": "2026-11-06T22:27:25Z"
+    },
+    {
+      "title": "Friday Squid Blogging: New Jurassic Squid Predecessors",
+      "description": "[SCHNEIER] News story: &#8220;Scientists discover a bizarre Jurassic &#8216;squid&#8217; unlike anything ever seen.&#8221; Scientists have identified the &#8220;fattest&#8221; belemnite ever discovered, a bizarre, barrel-shaped squid relative that lived in...",
+      "url": "https://www.schneier.com/blog/archives/2026/11/friday-squid-blogging-new-jurassic-squid-predecessors.html",
+      "date": "2026-11-06T22:05:12Z"
+    },
+    {
+      "title": "OpenAI's new GPT-6 Cyber AI finds 81 Firefox flaws, 948 Linux bugs",
+      "description": "[BLEEPINGCOMPUTER] OpenAI has revealed GPT-6 Cyber, a new artificial intelligence model that has discovered 81 previously unknown high-severity Firefox vulnerabilities and developed working exploits for 948 distinct Linux kernel flaws. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/openais-new-gpt-6-cyber-ai-finds-81-firefox-flaws-948-linux-bugs/",
+      "date": "2026-11-06T20:24:19Z"
+    },
     {
       "title": "Fake security tools on GitHub push backdoors and infostealers",
       "description": "[BLEEPINGCOMPUTER] Cybersecurity professionals are being targeted with infected security projects on GitHub that deploy a backdoor and information stealer malware. [...]",
@@ -32,12 +56,6 @@
       "date": "2026-11-06T15:21:49Z"
     },
     {
-      "title": "IMSI vs IMEI: What Your Phone Broadcasts and Who Can Read It",
-      "description": "[BLEEPINGCOMPUTER] IMSI and IMEI are IDs your phone shares with networks. Learn how they differ, how attackers get them, and why rotating your IMSI blunts tracking. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/imsi-vs-imei-what-your-phone-broadcasts-and-who-can-read-it/",
-      "date": "2026-11-06T15:00:10Z"
-    },
-    {
       "title": "OpenAI Launches GPT-6 Cyber After AI Helps Find 81 Firefox Flaws, 948 Linux Exploits",
       "description": "[FEEDS] OpenAI on Thursday unveiled GPT\u20116 Cyber, which it described as a major step forward in security research that brings together stronger cybersecurity capabilities with a step-change improvement in model alignment. The new model is \"more capable at...",
       "url": "https://thehackernews.com/2026/11/openai-launches-gpt-6-cyber-after-ai.html",
@@ -50,16 +68,10 @@
       "date": "2026-11-06T14:57:48Z"
     },
     {
-      "title": "Chainalysis says breach exposed credentials for all customers",
-      "description": "[BLEEPINGCOMPUTER] Blockchain intelligence firm Chainalysis says a recent attack on its systems and internal tools has exposed credentials and live tokens for all customers. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/chainalysis-says-breach-exposed-credentials-for-all-customers/",
-      "date": "2026-11-06T14:17:07Z"
-    },
-    {
-      "title": "D-Link warns of multiple zero-days in DGS-3130 Series switches",
-      "description": "[BLEEPINGCOMPUTER] D-Link shared mitigation measures for multiple unpatched security flaws affecting DGS-3130 series managed Gigabit stackable switches. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/d-link-warns-of-multiple-zero-days-in-dgs-3130-series-switches/",
-      "date": "2026-11-06T12:37:22Z"
+      "title": "Stockal scam: Borderless says 13 accounts affected in $6.26 million unauthorised US stock trades, blames DriveWealth",
+      "description": "[MONEYCONTROL] Borderless said it had drawn DriveWealth's attention to the striking similarities between the September exposure of customer data held by the US brokerage firm and the subsequent unauthorised activity targeting Stockal users. The company said all 26...",
+      "url": "https://www.moneycontrol.com/news/business/stockal-scam-borderless-says-13-accounts-affected-in-6-26-million-unauthorised-us-stock-trades-blames-drivewealth-14073461.html",
+      "date": "2026-11-06T12:29:47Z"
     },
     {
       "title": "Microsoft Paint RCE Fix Now Available, but Windows Update Won't Deliver It",
@@ -74,10 +86,40 @@
       "date": "2026-11-06T12:06:35Z"
     },
     {
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "description": "[CISA] CISA has added one new vulnerability to its&nbsp;Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-19868 SonicWall SonicOS SSLVPN Use of Single-factor Authentication Vulnerability This type of...",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/11/06/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "date": "2026-11-06T12:00:00Z"
+    },
+    {
       "title": "The Flood is Coming And The Pipes Were Already Full",
       "description": "[FEEDS] An update on Athena, and some unsolicited predictions on what's coming next On Saturday, Dario Amodei published We Must Pace the Frontier. I agree with him. Go read it if you haven't. I've spent the summer looking at what these models find, and the...",
       "url": "https://thehackernews.com/2026/11/the-flood-is-coming-and-pipes-were.html",
       "date": "2026-11-06T11:30:00Z"
+    },
+    {
+      "title": "Doctor Anywhere hit by data breach, clinical records 'not affected'",
+      "description": "[CNA] The healthcare provider said the affected users are in the process of being notified.",
+      "url": "https://www.channelnewsasia.com/singapore/doctor-anywhere-data-breach-6530871",
+      "date": "2026-11-06T11:18:34Z"
+    },
+    {
+      "title": "OpenAI Launches GPT-6 Cyber With 'Critical' Cybersecurity Rating",
+      "description": "[DECCAN CHRONICLE] The model is meant to help security researchers find vulnerabilities, test how they could be exploited and fix flaws before attackers do, OpenAI said",
+      "url": "https://www.deccanchronicle.com/technology/openai-launches-gpt-6-cyber-with-critical-cybersecurity-rating-2002275",
+      "date": "2026-11-06T11:03:13Z"
+    },
+    {
+      "title": "Doctor Anywhere hit by data breach",
+      "description": "[THE STRAITS TIMES] Doctor Anywhere data breach leaks users\u2019 personal data in Singapore cyber incident Read more at straitstimes.com.",
+      "url": "https://www.straitstimes.com/singapore/doctor-anywhere-hit-by-data-breach",
+      "date": "2026-11-06T10:16:42Z"
+    },
+    {
+      "title": "BNM tightens cybersecurity safeguards for financial institutions amid rising global threats",
+      "description": "[MALAY MAIL] KUALA LUMPUR, Nov 6 \u2014 Bank Negara Malaysia (BNM) has put in place regulatory requirements for financial institutions to maintain adequate cybersecurity safeguards, continuously...",
+      "url": "https://www.malaymail.com/news/money/2026/11/06/bnm-tightens-cybersecurity-safeguards-for-financial-institutions-amid-rising-global-threats/242226",
+      "date": "2026-11-06T09:04:15Z"
     },
     {
       "title": "Chainalysis: Breach leaked password hashes and active token data",
@@ -108,36 +150,6 @@
       "description": "[MALAY MAIL] KUALA TERENGGANU, Nov 6 \u2014 All government agencies must conduct cybersecurity audits to identify vulnerabilities in their respective digital systems and infrastructure amid...",
       "url": "https://www.malaymail.com/news/malaysia/2026/11/06/teo-nie-ching-urges-govt-agencies-to-conduct-cybersecurity-audits-amid-rising-hacking-threats/242200",
       "date": "2026-11-06T06:36:22Z"
-    },
-    {
-      "title": "Japan to use US$63mil from reserve funds for cybersecurity measures",
-      "description": "[THE STAR] TOKYO: (Bernama-Kyodo) Japan's government on Friday (Nov 6) decided to tap 10 billion yen (US$63 million) from its fiscal 2026 budget reserve funds to beef up cybersecurity measures, amid recent personal data breaches following unauthorised access,...",
-      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/06/japan-to-use-us63mil-from-reserve-funds-for-cybersecurity-measures",
-      "date": "2026-11-06T06:23:00Z"
-    },
-    {
-      "title": "OpenAI Launches GPT-6 Cyber To Take On Claude Mythos And Gemini, Finds Flaws Hackers Could Exploit",
-      "description": "[TIMES NOW] OpenAI has introduced GPT-6 Cyber, an advanced AI model designed to identify software vulnerabilities and develop working exploits, as it takes on rivals Anthropic, Google and Microsoft in the cybersecurity AI race. Here's what the new model can...",
-      "url": "https://www.timesnownews.com/technology-science/openai-launches-gpt-6-cyber-to-take-on-claude-mythos-and-gemini-finds-flaws-hackers-could-exploit-article-156473244",
-      "date": "2026-11-06T06:06:20Z"
-    },
-    {
-      "title": "Maia Sandu convenes Supreme Security Council meeting to assess government systems security",
-      "description": "[EUROPE SAYS] President Maia Sandu has convened a meeting of the National Security Council (NSC) for Friday, November 6, to discuss the Republic of Moldova\u2019s cybersecurity",
-      "url": "https://www.europesays.com/3355728/",
-      "date": "2026-11-06T05:39:08Z"
-    },
-    {
-      "title": "OpenAI launches GPT-6 Cyber, finds 81 high-severity Firefox flaws and 948 Linux exploits",
-      "description": "[TIMES OF INDIA] OpenAI has launched GPT-6 Cyber, a new artificial intelligence (AI) model designed to help cybersecurity researchers find, validate and fix software",
-      "url": "https://timesofindia.indiatimes.com/technology/tech-news/openai-launches-gpt-6-cyber-finds-81-high-severity-firefox-flaws-and-948-linux-exploits/articleshow/135595138.cms",
-      "date": "2026-11-06T05:26:00Z"
-    },
-    {
-      "title": "OpenAI Launches GPT-6 Cyber, New AI Model Designed To Detect Software Vulnerabilities, Test Security Risks & Help Fix Flaws",
-      "description": "[FREE PRESS JOURNAL] OpenAI has launched GPT-6 Cyber, an advanced cybersecurity model that identified 81 previously unknown high-severity Firefox vulnerabilities and developed exploits for 948 Linux kernel flaws. The model will initially be available to selected...",
-      "url": "https://www.freepressjournal.in/tech/openai-launches-gpt-6-cyber-new-ai-model-designed-to-detect-software-vulnerabilities-test-security-risks-help-fix-flaws",
-      "date": "2026-11-06T04:38:04Z"
     },
     {
       "title": "ISC Stormcast For Friday, November 6th, 2026 https://isc.sans.edu/podcastdetail/10168, (Fri, Nov 6th)",
@@ -228,18 +240,6 @@
       "description": "[CISA] CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-41709 Broadcom VMWare ESX Insufficient Logging Vulnerability CVE-2026-46300 Linux Kernel Missing...",
       "url": "https://www.cisa.gov/news-events/alerts/2026/10/28/cisa-adds-two-known-exploited-vulnerabilities-catalog",
       "date": "2026-10-28T12:00:00Z"
-    },
-    {
-      "title": "Studying Fraudulent North Korean IT Workers",
-      "description": "[SCHNEIER] Researchers set up a fake start-up company to study fraudulent North Korean IT workers.",
-      "url": "https://www.schneier.com/blog/archives/2026/10/studying-fraudulent-north-korean-it-workers.html",
-      "date": "2026-10-28T11:05:00Z"
-    },
-    {
-      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
-      "description": "[CISA] CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-48356 Adobe Commerce and Magento Unrestricted Upload of File with Dangerous Type Vulnerability...",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/10/27/cisa-adds-two-known-exploited-vulnerabilities-catalog",
-      "date": "2026-10-27T12:00:00Z"
     }
   ]
 }
