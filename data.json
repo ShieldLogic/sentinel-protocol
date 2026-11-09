@@ -1,23 +1,149 @@
 {
-  "updated": "2026-11-09 08:51:51 UTC",
+  "updated": "2026-11-09 20:16:53 UTC",
   "news": [
     {
-      "title": "Former OpenAI Engineer Pleads Not Guilty to Planting Covert Device in Executive Meeting Room",
-      "description": "[FEEDS] The OpenAI engineer who was arrested and charged last month for planting a covert audio recording device in the company's office has pleaded not guilty. According to reports from Bloomberg and CNBC, Saudi national Abdulrahman Alfozan made an...",
-      "url": "https://thehackernews.com/2026/11/former-openai-engineer-pleads-not.html",
-      "date": "2026-11-09T07:05:48Z"
+      "title": "France blames Iranian hackers for supermarket attacks that sparked fires",
+      "description": "[BLEEPINGCOMPUTER] France has linked October cyberattacks that disrupted refrigeration systems at more than 700 supermarkets and other retail locations to Iranian state-backed hackers, saying the attacks caused food losses and sparked at least 15 fires. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/france-blames-iranian-hackers-for-supermarket-attacks-that-sparked-fires/",
+      "date": "2026-11-09T18:32:42Z"
     },
     {
-      "title": "U.S. Agencies Warn Refrigeration Controller Attacks Could Cause Fires and Inventory Losses",
-      "description": "[FEEDS] U.S. government agencies have warned that threat actors are actively targeting industrial refrigeration and cold-chain monitoring systems globally with an aim to cause service disruptions, fire hazards, and loss of inventory. \"The actors may exploit...",
-      "url": "https://thehackernews.com/2026/11/us-agencies-warn-refrigeration.html",
-      "date": "2026-11-09T06:15:10Z"
+      "title": "Attackers Searching for SAP Netweaver Webshells, (Mon, Nov 9th)",
+      "description": "[ISC] Just saw a new (to me) URL in our honeypot data today:&#xd;",
+      "url": "https://isc.sans.edu/diary/rss/33502",
+      "date": "2026-11-09T18:18:15Z"
+    },
+    {
+      "title": "Hackers Exploit Qubole's Trusted AWS Access to Breach Customer Accounts and Steal Data",
+      "description": "[FEEDS] An attacker broke into AWS accounts belonging to multiple Qubole customers between October 14 and October 26 and stole stored secrets and data, cloud security company Wiz said today. The attacker used credentials for an AWS account that Qubole's...",
+      "url": "https://thehackernews.com/2026/11/hackers-exploit-quboles-trusted-aws.html",
+      "date": "2026-11-09T17:51:21Z"
+    },
+    {
+      "title": "Russian cloud firm Beget rebuilds from scratch after data wiper attack",
+      "description": "[BLEEPINGCOMPUTER] A data-wiping malware attack has forced Russian cloud services provider Beget to rebuild its cloud infrastructure from scratch, the company said. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/russian-cloud-firm-beget-rebuilds-from-scratch-after-data-wiper-attack/",
+      "date": "2026-11-09T17:50:32Z"
+    },
+    {
+      "title": "Hackers Compromise Ethersphere's bee-js and Swarm Desktop to Deliver Wallet-Stealing Malware",
+      "description": "[FEEDS] Attackers used the Ethersphere project's own release automation to publish malicious versions of two of its tools for the Swarm decentralized storage network: bee-js 13.3.0 and Swarm Desktop 0.56.2. Both releases download and run code built to steal...",
+      "url": "https://thehackernews.com/2026/11/hackers-compromise-etherspheres-bee-js.html",
+      "date": "2026-11-09T17:36:28Z"
+    },
+    {
+      "title": "Binance denies data breach after alleged ShinyHunters claims",
+      "description": "[BLEEPINGCOMPUTER] Binance, the world's largest crypto exchange, has denied claims of a new security breach made by a threat actor using the 'ShinyHunters' handle on a newly emerged underground cybercrime forum. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/binance-denies-data-breach-after-alleged-shinyhunters-claims/",
+      "date": "2026-11-09T16:12:39Z"
+    },
+    {
+      "title": "Hackers exploit SSHole OpenSSH flaw to breach Linux systems",
+      "description": "[BLEEPINGCOMPUTER] Hackers are actively exploiting the \"SSHole\" vulnerability (CVE-2026-123158) in OpenSSH to execute commands, steal credentials, and establish persistent access. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-sshole-openssh-flaw-to-breach-linux-systems/",
+      "date": "2026-11-09T16:04:57Z"
+    },
+    {
+      "title": "The Biggest Threat to Your GRC Job Isn\u2019t AI. It\u2019s Ignoring AI.",
+      "description": "[BLEEPINGCOMPUTER] AI agents are taking over routine governance, risk, and compliance tasks, forcing GRC professionals to rethink the skills needed to stay relevant. Anecdotes examines three essential skills for the AI-driven GRC workplace: data literacy, agent...",
+      "url": "https://www.bleepingcomputer.com/news/security/the-biggest-threat-to-your-grc-job-isnt-ai-its-ignoring-ai/",
+      "date": "2026-11-09T15:05:15Z"
+    },
+    {
+      "title": "FBI agent stole $2.5 million in crypto from hackers under investigation",
+      "description": "[BLEEPINGCOMPUTER] A former FBI agent has pleaded guilty to stealing nearly $2.5 million from the wallets of fraud victims and nation-state hackers under investigation. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/fbi-agent-stole-25-million-in-crypto-from-hackers-fraud-victims/",
+      "date": "2026-11-09T14:34:03Z"
+    },
+    {
+      "title": "Bitter Hackers Deploy New PapRAT Backdoor in Cyberespionage Campaign Targeting South Asia",
+      "description": "[FEEDS] The South Asian cyber espionage group known as Bitter (aka APT-C-08, APT-Q-37, Hazy Tiger, Orange Yali, T-APT-17, and TA397) has been observed targeting South Asian organizations with a previously unreported remote access trojan called PapRAT....",
+      "url": "https://thehackernews.com/2026/11/bitter-hackers-deploy-new-paprat.html",
+      "date": "2026-11-09T14:31:29Z"
+    },
+    {
+      "title": "\u26a1 Weekly Recap: SSHole Exploited, APT Root RCE, Robot Takeovers, 15K Hacked Sites, and More",
+      "description": "[FEEDS] A system doesn't always need a complicated bug to let someone in. Sometimes, a blank password is enough. That's one of the bigger stories this week. And it gets worse when the tools meant to keep systems updated or running safely become part of the...",
+      "url": "https://thehackernews.com/2026/11/weekly-recap-sshole-exploited-apt-root.html",
+      "date": "2026-11-09T13:28:25Z"
+    },
+    {
+      "title": "AI Security",
+      "description": "[SCHNEIER] Two weeks ago, I attended the [un]prompted AI security conference in San Francisco. It was an excellent event: three days of very dense talks about all aspects of AI security. (My talk was about integrous AI, and I will post it when it is online.)...",
+      "url": "https://www.schneier.com/blog/archives/2026/11/ai-security.html",
+      "date": "2026-11-09T12:05:39Z"
+    },
+    {
+      "title": "Default 'admin:admin' Server Password Helps Researchers Hack Two Automakers, Unlock and Start Cars",
+      "description": "[FEEDS] The login systems behind two car brands' mobile apps could be taken over completely, two security researchers found, allowing them to access any customer's account and, for an owner with a connected car, unlock the doors and start the engine. Both...",
+      "url": "https://thehackernews.com/2026/11/default-adminadmin-server-password.html",
+      "date": "2026-11-09T11:27:53Z"
+    },
+    {
+      "title": "Web3Auth Flaw Exploited to Steal Keplr Crypto, Provider Empties Other Wallets for Safety",
+      "description": "[FEEDS] Some people who set up a Keplr crypto wallet with their Google or Apple account have had money stolen by an attacker. Keplr uses a company called Web3Auth to run that Google and Apple sign-in. The attacker used a security flaw at that company to...",
+      "url": "https://thehackernews.com/2026/11/web3auth-flaw-exploited-to-steal-keplr.html",
+      "date": "2026-11-09T10:56:25Z"
+    },
+    {
+      "title": "BOJ's Ueda sees upside risks to inflation, says price growth may accelerate into early 2027",
+      "description": "[THE ECONOMIC TIMES] Bank of Japan Governor Kazuo Ueda flagged upside risks to inflation, warning that rising energy costs could accelerate price growth into early 2027. He said the central bank was targeting sustainable 2% inflation while monitoring global monetary...",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/bojs-ueda-sees-upside-risks-to-inflation-says-price-growth-may-accelerate-into-early-2027/articleshow/135675238.cms",
+      "date": "2026-11-09T07:51:00Z"
+    },
+    {
+      "title": "Banks ramp up cybersecurity budgets for 2027 following hacking spree",
+      "description": "[THE KOREA TIMES] Korea's major banks are sharply increasing their cybersecurity budgets for next year following a series of hacking incidents, with some lenders pla...",
+      "url": "https://www.koreatimes.co.kr/business/banking-finance/20261109/banks-ramp-up-cybersecurity-budgets-for-2027-following-hacking-spree",
+      "date": "2026-11-09T07:09:02Z"
+    },
+    {
+      "title": "Peter Grant oversaw the Queensland demerit points system, he says government must fix 'cybersecurity flaw'",
+      "description": "[ABC (AUSTRALIAN BROADCASTING CORPORATION)] After demerit points black markets are exposed by 7.30, the man who oversaw the introduction of Queensland's system in the 90s says the Crisafulli government must act.",
+      "url": "https://www.abc.net.au/news/2026-11-09/queensland-demerit-points-system-not-changed-since-1990s/107363230",
+      "date": "2026-11-09T06:57:02Z"
+    },
+    {
+      "title": "Hackers used DeepSeek AI in massive global cyberattack",
+      "description": "[BANGKOK POST] Cybersecurity firm CrowdStrike revealed in a report on Oct 29 that Chinese-linked hacking group VAPOR PANDA used DeepSeek AI alongside an AI agent tool named ARTEX to breach systems and steal data from organisations worldwide.",
+      "url": "https://www.bangkokpost.com/life/tech/3351546/hackers-used-deepseek-ai-in-massive-global-cyberattack",
+      "date": "2026-11-09T06:56:00Z"
+    },
+    {
+      "title": "CISA mills' daily crude steel output down 7.0% in late October 2026, stocks down 13.5%",
+      "description": "[STEELORBIS] The China Iron and Steel Association (CISA) has announced that in late October (October 21-31) this year the average aggregate daily crude steel ...",
+      "url": "https://www.steelorbis.com/steel-news/latest-news/cisa-mills-daily-crude-steel-output-down-70-in-late-october-2026-stocks-down-135-1489143.htm",
+      "date": "2026-11-09T06:53:40Z"
     },
     {
       "title": "CISA Flags SonicWall SonicOS MFA Bypass Flaw Amid Reports of Possible Exploitation",
-      "description": "[FEEDS] The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a high-severity vulnerability impacting SonicWall SonicOS to its Known Exploited Vulnerabilities (KEV) catalog, following reports that it said may have been exploited in...",
+      "description": "[THE HACKER NEWS] CISA adds SonicWall SonicOS flaw CVE-2026-19868 to its KEV catalog following reports of possible exploitation involving SAML authentication bypass.",
       "url": "https://thehackernews.com/2026/11/cisa-flags-sonicwall-sonicos-mfa-bypass.html",
-      "date": "2026-11-09T06:05:24Z"
+      "date": "2026-11-09T06:05:00Z"
+    },
+    {
+      "title": "Ex-PM says Britain needs universal \u2018resilience corps\u2019 as he renews national service push",
+      "description": "[LADBIBLE] Rishi Sunak has said a modern national service could offer young people a choice of roles including military service and cybersecurity",
+      "url": "https://www.ladbible.com/news/uk-news/rishi-sunak-renews-national-service-push-amid-cyberattacks-578935-20261109",
+      "date": "2026-11-09T05:03:54Z"
+    },
+    {
+      "title": "Japanese retailer reports data breach affecting 7.7 million people",
+      "description": "[NEWSBYTES] Iris Ohyama, a Japanese retailer, has reported a data breach potentially exposing the personal information of 7.7 million users due to unauthorized access to their cloud service.",
+      "url": "https://www.newsbytesapp.com/news/science/japanese-retailer-reports-data-breach-affecting-7-7-million-people/story",
+      "date": "2026-11-09T04:59:06Z"
+    },
+    {
+      "title": "Hexaware to Drive EBRD\u2019s Banking Tech Ops for 5 Years",
+      "description": "[ANALYTICS INDIA MAGAZINE] The agreement covers software engineering, cloud, cybersecurity, and SAP modernisation, alongside plans to introduce Hexaware's AI frameworks.",
+      "url": "https://analyticsindiamag.com/ai-news/hexaware-to-drive-ebrds-banking-tech-ops-for-5-years",
+      "date": "2026-11-09T04:23:47Z"
+    },
+    {
+      "title": "Fahmi pushes quantum-safe communications as cybersecurity enters a new era",
+      "description": "[MALAY MAIL] DOHA, Nov 9 \u2014 Malaysia is considering accelerating its quantum migration process to strengthen national data security amid advances in quantum computing technology that are...",
+      "url": "https://www.malaymail.com/news/malaysia/2026/11/09/fahmi-pushes-quantum-safe-communications-as-cybersecurity-enters-a-new-era/242545",
+      "date": "2026-11-09T03:10:11Z"
     },
     {
       "title": "ISC Stormcast For Monday, November 9th, 2026 https://isc.sans.edu/podcastdetail/10170, (Mon, Nov 9th)",
@@ -26,130 +152,16 @@
       "date": "2026-11-09T02:05:10Z"
     },
     {
-      "title": "York University investigating cybersecurity incident, data theft",
-      "description": "[CP24 TORONTO] York University is investigating a cybersecurity incident resulting in the theft of personal data which was discovered last month.",
-      "url": "https://www.cp24.com/local/toronto/2026/11/08/york-university-investigating-cybersecurity-incident-data-theft/",
-      "date": "2026-11-08T19:35:07Z"
-    },
-    {
-      "title": "York University investigating cybersecurity incident, data theft",
-      "description": "[SOOTODAY] TORONTO \u2014 York University is investigating a cybersecurity incident resulting in the theft of personal data which was discovered last month.",
-      "url": "https://www.sootoday.com/ontario-news/york-university-investigating-cybersecurity-incident-data-theft-12994065",
-      "date": "2026-11-08T19:09:14Z"
-    },
-    {
-      "title": "York University investigating cybersecurity incident, data theft",
-      "description": "[BAYTODAY] TORONTO \u2014 York University is investigating a cybersecurity incident resulting in the theft of personal data which was discovered last month.",
-      "url": "https://www.baytoday.ca/ontario-news/york-university-investigating-cybersecurity-incident-data-theft-12994065",
-      "date": "2026-11-08T19:09:14Z"
-    },
-    {
-      "title": "York University warns of personal data theft in cybersecurity incident",
-      "description": "[CBC.CA] York University is warning the community of a cybersecurity incident that resulted in the theft of personal information, including personal contact details and student identification numbers.",
-      "url": "https://www.cbc.ca/news/canada/toronto/york-university-department-forms-cybersecurity-incident-9.7414235",
-      "date": "2026-11-08T17:50:29Z"
-    },
-    {
-      "title": "He arrested a hacker, then spent 18 months clearing his own name. Now he\u2019s a cybersecurity VC.",
-      "description": "[TECHCRUNCH] Stephen Ward, a former Secret Service agent and Home Depot CISO, is preparing a second fund of roughly $250 million for Brightmind Partners.",
-      "url": "https://techcrunch.com/2026/11/08/the-ex-secret-service-agent-who-flipped-a-hacker-is-now-raising-a-second-250m-cybersecurity-fund/",
-      "date": "2026-11-08T17:30:00Z"
-    },
-    {
       "title": "Scans for Sshole Vulnerability (CVE-2026-123158), (Sun, Nov 8th)",
       "description": "[ISC] Our honeypots use \"Cowrie\" to collect SSH data. With the emergence of the \"sshole\" vulnerability last week, we are now seeing an increase in attempts to exploit the vulnerability. Our data is a bit limited in this respect. Our honeypots collect only...",
       "url": "https://isc.sans.edu/diary/rss/33498",
       "date": "2026-11-08T15:44:33Z"
     },
     {
-      "title": "Iris Ohyama data cloud breach exposes info of 7.7 million customers",
-      "description": "[BLEEPINGCOMPUTER] Japanese manufacturer Iris Ohyama, the operator of the Iris Plaza shopping platform, disclosed that personal information belonging to about 7.7 million people may have been exposed after unauthorized access to a third-party cloud service the company...",
-      "url": "https://www.bleepingcomputer.com/news/security/iris-ohyama-data-cloud-breach-exposes-info-of-77-million-customers/",
-      "date": "2026-11-08T15:43:08Z"
-    },
-    {
-      "title": "Missing the Point: Isolation Alone Will Not Build AI Safety",
-      "description": "[EUROPE SAYS] In a recently published article in MedCity News, Fran Rosch, the CEO of Imprivata, a cybersecurity firm focused on credentialing and identity security across",
-      "url": "https://www.europesays.com/3361278/",
-      "date": "2026-11-08T14:22:06Z"
-    },
-    {
-      "title": "2026 US midterms likely to reshape cybersecurity, AI policy",
-      "description": "[THE NEWS INTERNATIONAL] The 2026 US midterm elections have delivered more than a shift in political power. Voters have also sent a message about artificial intelligence, data centres and the government's role in protecting...",
-      "url": "https://www.thenews.com.pk/latest/1422914-2026-us-midterms-likely-to-reshape-cybersecurity-ai-policy",
-      "date": "2026-11-08T11:08:58Z"
-    },
-    {
-      "title": "A human in the loop can\u2019t be your whole AI security plan",
-      "description": "[EUROPE SAYS] This year\u2019s Cybersecurity Awareness Month theme, \u201cDon\u2019t Make It Easy for Them\u201d, ought to apply to the permissions we hand AI agents. I sometimes hear \u201chuman",
-      "url": "https://www.europesays.com/3360739/",
-      "date": "2026-11-08T08:32:10Z"
-    },
-    {
-      "title": "Mirae Asset elevates tech, cybersecurity leadership in AI",
-      "description": "[THE KOREA TIMES] Mirae Asset Financial Group is strengthening its artificial intelligence (AI) and cybersecurity capabilities in its latest executive reshuffle, pro...",
-      "url": "https://www.koreatimes.co.kr/business/banking-finance/20261108/mirae-asset-elevates-tech-cybersecurity-leadership-in-ai-focused-reshuffle",
-      "date": "2026-11-08T07:30:03Z"
-    },
-    {
-      "title": "Who Gives A Crap customers caught up in data breach after third-party provider hacked",
-      "description": "[PERTHNOW] The eco-friendly toilet paper company says customer names, addresses and spending information were exposed after hackers gained access to a third-party software provider.",
-      "url": "https://www.perthnow.com.au/news/australia/who-gives-a-crap-customers-caught-up-in-data-breach-after-third-party-provider-hacked-c-23131829",
-      "date": "2026-11-08T05:08:29Z"
-    },
-    {
-      "title": "Hackers pull off $133 million French bank heist via service provider",
-      "description": "[BLEEPINGCOMPUTER] French cooperative bank Cr\u00e9dit Mutuel Ark\u00e9a was targeted in a cyberattack that enabled fraudulent transactions of up to $133 million, forcing it to respond by suspending certain systems.v [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-pull-off-133-million-french-bank-heist-via-service-provider/",
-      "date": "2026-11-07T15:25:35Z"
-    },
-    {
-      "title": "CTM360 Exposes Fake Gift Card Scams Exploiting Trusted Brands",
-      "description": "[BLEEPINGCOMPUTER] Scammers are impersonating major brands and celebrities to lure consumers into fake gift card giveaways that collect personal information and trigger unwanted subscriptions. CTM360 reveals how these campaigns use deceptive verification steps and...",
-      "url": "https://www.bleepingcomputer.com/news/security/ctm360-exposes-fake-gift-card-scams-exploiting-trusted-brands/",
-      "date": "2026-11-07T14:10:19Z"
-    },
-    {
-      "title": "Claude Code's \u201cDon't Ask Again\u201d File Exposes Passwords and Keys in 1,122 Public Copies on GitHub",
-      "description": "[FEEDS] Passwords and API keys that developers typed into commands they approved in Claude Code are sitting in public GitHub repositories, where anyone can read them. When a user selects \"Yes, and don't ask again,\" Anthropic's AI coding assistant can save...",
-      "url": "https://thehackernews.com/2026/11/claude-codes-dont-ask-again-file.html",
-      "date": "2026-11-07T06:44:17Z"
-    },
-    {
-      "title": "SonicWall warns of new SSL-VPN MFA bypass flaw exploited in attacks",
-      "description": "[BLEEPINGCOMPUTER] SonicWall has released security updates to fix seven vulnerabilities in SonicOS firewalls, including an SSL-VPN authentication bypass flaw exploited in attacks. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-new-ssl-vpn-mfa-bypass-flaw-exploited-in-attacks/",
-      "date": "2026-11-07T00:00:55Z"
-    },
-    {
-      "title": "Runaway AI hacking agent behind WorkOS breach after escaping sandbox",
-      "description": "[BLEEPINGCOMPUTER] WorkOS says an AI-powered hacking agent that breached its internal sales application and accessed customer information was operated by a security researcher who claims the tool escaped its testing environment and unintentionally attacked the...",
-      "url": "https://www.bleepingcomputer.com/news/security/runaway-ai-hacking-agent-behind-workos-breach-after-escaping-sandbox/",
-      "date": "2026-11-06T22:27:25Z"
-    },
-    {
       "title": "Friday Squid Blogging: New Jurassic Squid Predecessors",
       "description": "[SCHNEIER] News story: &#8220;Scientists discover a bizarre Jurassic &#8216;squid&#8217; unlike anything ever seen.&#8221; Scientists have identified the &#8220;fattest&#8221; belemnite ever discovered, a bizarre, barrel-shaped squid relative that lived in...",
       "url": "https://www.schneier.com/blog/archives/2026/11/friday-squid-blogging-new-jurassic-squid-predecessors.html",
       "date": "2026-11-06T22:05:12Z"
-    },
-    {
-      "title": "OpenAI's new GPT-6 Cyber AI finds 81 Firefox flaws, 948 Linux bugs",
-      "description": "[BLEEPINGCOMPUTER] OpenAI has revealed GPT-6 Cyber, a new artificial intelligence model that has discovered 81 previously unknown high-severity Firefox vulnerabilities and developed working exploits for 948 distinct Linux kernel flaws. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/openais-new-gpt-6-cyber-ai-finds-81-firefox-flaws-948-linux-bugs/",
-      "date": "2026-11-06T20:24:19Z"
-    },
-    {
-      "title": "Installing the Fix for an Exploited WordPress Flaw Can Expose Some Sites One Last Time",
-      "description": "[FEEDS] Some WordPress sites can still be attacked while they install the fix for an actively exploited flaw, according to Umut Bayram, the Picus Security researcher who found it. The update that installs the fix still unpacks its files using the site's...",
-      "url": "https://thehackernews.com/2026/11/installing-fix-for-exploited-wordpress.html",
-      "date": "2026-11-06T16:08:38Z"
-    },
-    {
-      "title": "Hackers Target OpenSSH SSHole Flaw Within Hours of Disclosure, Gain Root on Honeypot",
-      "description": "[FEEDS] Threat actors are attempting to exploit a recently disclosed security flaw impacting OpenSSH that can enable sign-ins to accounts that have no password set, according to Previdian. The vulnerability, tracked as CVE-2026-123158 (CVSS score: 8.1) and...",
-      "url": "https://thehackernews.com/2026/11/hackers-exploited-openssh-sshole-flaw.html",
-      "date": "2026-11-06T15:21:49Z"
     },
     {
       "title": "Pinpointing Location of Videos from Background Airplane Sounds",
@@ -182,12 +194,6 @@
       "date": "2026-11-05T11:25:11Z"
     },
     {
-      "title": "The Classics Return: Vulnerable E-Mail Scripts, (Wed, Nov 4th)",
-      "description": "[ISC] One of the early web application vulnerabilities I remember was CVE-2000-0411 &#x5b;CVE&#x5d;. This was a simple vulnerability in a CGI-bin script used to send e-mail. The vulnerability was pretty straightforward: Adding additional parameters to the...",
-      "url": "https://isc.sans.edu/diary/rss/33488",
-      "date": "2026-11-04T13:24:13Z"
-    },
-    {
       "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
       "description": "[CISA] CISA has added one new vulnerability to its&nbsp;Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2024-27834 Apple Multiple Products Improper Authentication Vulnerability This type of vulnerability is a...",
       "url": "https://www.cisa.gov/news-events/alerts/2026/11/04/cisa-adds-one-known-exploited-vulnerability-catalog",
@@ -216,12 +222,6 @@
       "description": "[SCHNEIER] Neat video: The sighting, announced September 2, marks the first time anyone has spotted a live bigfin squid, which belongs to the Magnapinna genus, in the northeastern Pacific Ocean. As usual, you can also use this squid post to talk about the...",
       "url": "https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-bigfin-squid-off-california-coast.html",
       "date": "2026-10-30T21:04:36Z"
-    },
-    {
-      "title": "Bloatware in Aftermarket Auto Parts",
-      "description": "[SCHNEIER] This story is interesting: One Civic owner purchased a cheap aftermarket head unit off Amazon, and decided to have Claude work its magic on it, like it would a smart TV. What was reportedly discovered isn\u2019t surprising, but is worth knowing about....",
-      "url": "https://www.schneier.com/blog/archives/2026/10/bloatware-in-aftermarket-auto-parts.html",
-      "date": "2026-10-30T15:20:02Z"
     },
     {
       "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
