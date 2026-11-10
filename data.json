@@ -1,245 +1,137 @@
 {
-  "updated": "2026-11-10 11:56:33 UTC",
-  "news": [
-    {
-      "title": "Beyond the Alert: The Case for Rich Network Data",
-      "description": "[FEEDS] At some point your security will fail. This isn\u2019t pessimism. It\u2019s not because your team and tools aren\u2019t sophisticated enough. It\u2019s the reason we have detections in the first place. And, it\u2019s why once we accept that prevention has its limits, we...",
-      "url": "https://thehackernews.com/2026/11/beyond-alert-case-for-rich-network-data.html",
-      "date": "2026-11-10T11:38:13Z"
-    },
-    {
-      "title": "Apple Patches iMessage Group Chat Privacy Flaws and Bluetooth Pairing Vulnerabilities",
-      "description": "[FEEDS] An iMessage flaw could let a remote attacker join a group chat and receive its messages, Apple said yesterday, and it released updates to fix it. The updates also fix a separate iMessage flaw that could let someone added to a group access messages...",
-      "url": "https://thehackernews.com/2026/11/apple-patches-imessage-group-chat.html",
-      "date": "2026-11-10T10:16:51Z"
-    },
-    {
-      "title": "Hackers now exploit critical Barracuda ESG flaws to gain root access",
-      "description": "[BLEEPINGCOMPUTER] Cybersecurity company Barracuda Networks warned that attackers have begun exploiting two recently patched Email Security Gateway (ESG) vulnerabilities that let them run commands with root privileges. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-barracuda-email-security-gateway-flaws-to-get-root-access/",
-      "date": "2026-11-10T10:10:20Z"
-    },
-    {
-      "title": "Russian Turla Hackers Use New Cereal Malware to Steal Emails From Government Exchange Servers",
-      "description": "[FEEDS] The Russia-aligned state-sponsored threat actor known as Turla (aka Snake) is wielding a previously undocumented cyber espionage toolset called Cereal that's used to break into victims' Microsoft Exchange servers with an aim to surreptitiously...",
-      "url": "https://thehackernews.com/2026/11/russian-turla-hackers-use-new-cereal.html",
-      "date": "2026-11-10T10:07:29Z"
-    },
-    {
-      "title": "Turla hackers use new Cereal malware to spy on govt Exchange servers",
-      "description": "[BLEEPINGCOMPUTER] The Russian state-backed threat group Turla has been using a new malicious toolset called 'Cereal' to intercept emails on Microsoft Exchange servers at government organizations. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/turla-hackers-use-new-ceral-malware-to-spy-on-govt-exchange-servers/",
-      "date": "2026-11-10T10:04:32Z"
-    },
-    {
-      "title": "SAP Patches Four CVSS 10.0 Flaws, Including Two Enabling Remote Code Execution",
-      "description": "[FEEDS] Four flaws that attackers could exploit without logging in were fixed today as part of SAP's monthly Security Patch Day\u2014the vendor rates all four 10.0, the maximum CVSS score. Three are in the SAP NetWeaver application server, the software SAP...",
-      "url": "https://thehackernews.com/2026/11/sap-patches-four-cvss-100-flaws.html",
-      "date": "2026-11-10T10:02:40Z"
-    },
-    {
-      "title": "France Blames Iran for Sabotage Attack on Refrigeration Controllers at About 700 Retail Sites",
-      "description": "[FEEDS] An October cyberattack on refrigeration controllers at about 700 French retail sites was carried out by a cyber unit of Iran's Islamic Revolutionary Guard Corps (IRGC), the French government said yesterday. The attackers broke into controllers on...",
-      "url": "https://thehackernews.com/2026/11/france-blames-iran-for-sabotage-attack.html",
-      "date": "2026-11-10T09:08:20Z"
-    },
-    {
-      "title": "Google patches eighth Chrome zero-day exploited in attacks this year",
-      "description": "[BLEEPINGCOMPUTER] Google has released emergency security updates to patch a new Chrome vulnerability exploited in zero-day attacks, the eighth such flaw since the start of the year. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/google-patches-eighth-chrome-zero-day-exploited-in-attacks-this-year/",
-      "date": "2026-11-10T08:51:25Z"
-    },
-    {
-      "title": "Anthropic's Claude Fable 5.2 Beats GPT-6 Cyber in Multi-Stage Cyberattack Benchmark",
-      "description": "[FEEDS] Anthropic on Monday released Claude Fable 5.2 and Claude Mythos 5.2 models, which it said exhibit improvements in coding, reasoning, and vision. During pre-release training, the large language models (LLMs) helped its engineers \"complete...",
-      "url": "https://thehackernews.com/2026/11/anthropics-claude-fable-52-beats-gpt-6.html",
-      "date": "2026-11-10T08:16:14Z"
-    },
-    {
-      "title": "Fireworks AI discloses new breach after cloud provider hack",
-      "description": "[BLEEPINGCOMPUTER] AI infrastructure startup Fireworks has disclosed a new security breach in which attackers accessed its development machines after breaching a third-party cloud provider. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/fireworks-ai-discloses-new-breach-after-cloud-provider-hack/",
-      "date": "2026-11-10T07:49:58Z"
-    },
-    {
-      "title": "ISC Stormcast For Tuesday, November 10th, 2026 https://isc.sans.edu/podcastdetail/10172, (Tue, Nov 10th)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33504",
-      "date": "2026-11-10T02:00:02Z"
-    },
-    {
-      "title": "Vanderbilt University hit in BYOD ransomware attack, data theft claimed",
-      "description": "[BLEEPINGCOMPUTER] Vanderbilt University warns it is responding to a cyberattack claimed by the BYOD ransomware gang, which claims to have encrypted the university's databases and stolen sensitive student, employee, and research data. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/vanderbilt-university-hit-in-byod-ransomware-attack-data-theft-claimed/",
-      "date": "2026-11-09T23:52:12Z"
-    },
-    {
-      "title": "White House nominates Palantir's LoSapio to lead Homeland Security's cyber agency",
-      "description": "[MARKETSCREENER] WASHINGTON, Nov 9 - The White House said on Monday it has nominated Michael LoSapio to be the director of the US Department of Homeland Security's Cybersecurity and Infrastructure Security Agency. o...",
-      "url": "https://www.marketscreener.com/news/white-house-nominates-palantir-s-losapio-to-lead-homeland-security-s-cyber-agency-ce785fd3d08af621",
-      "date": "2026-11-09T23:33:06Z"
-    },
-    {
-      "title": "Michigan State investigating possible cybersecurity threat",
-      "description": "[WDIV CLICKONDETROIT] Michigan State University is investigating a possible cybersecurity threat.",
-      "url": "https://www.clickondetroit.com/news/local/2026/11/09/michigan-state-investigating-possible-cybersecurity-threat/",
-      "date": "2026-11-09T23:30:19Z"
-    },
-    {
-      "title": "Attackers Claim to Have Stolen Data on Over 1 Million Vanderbilt Students and Staff",
-      "description": "[GIZMODO] Vanderbilt officials warned users to \"SHUT DOWN YOUR DEVICE IMMEDIATELY\" after a reported ransomware attack on Monday.",
-      "url": "https://gizmodo.com/attackers-claim-to-have-stolen-data-on-over-1-million-vanderbilt-students-and-staff-2000837388",
-      "date": "2026-11-09T23:12:22Z"
-    },
-    {
-      "title": "Data leak hits 170 users of investment association website",
-      "description": "[BANGKOK POST] The Association of Investment Management Companies (AIMC) has confirmed a personal data leak affecting 170 users of its website, although an investigation found no direct breach of its database. The incident highlights growing cybersecurity risks as...",
-      "url": "https://www.bangkokpost.com/business/general/3351819/data-leak-hits-170-users-of-investment-association-website",
-      "date": "2026-11-09T22:46:00Z"
-    },
-    {
-      "title": "BoT urges banks to step up cybersecurity",
-      "description": "[BANGKOK POST] Commercial banks are being urged to strengthen their cybersecurity measures amid a global rise in cyberthreats involving artificial intelligence (AI) over the past 1-2 weeks.",
-      "url": "https://www.bangkokpost.com/business/general/3351884/bot-urges-banks-to-step-up-cybersecurity",
-      "date": "2026-11-09T22:40:00Z"
-    },
-    {
-      "title": "Vanderbilt University shuts down devices after cyber attack",
-      "description": "[THE WASHINGTON POST] A ransomware group claimed to have accessed Social Security numbers and other records.",
-      "url": "https://www.washingtonpost.com/education/2026/11/09/vanderbilt-university-shuts-down-devices-after-cyber-attack/",
-      "date": "2026-11-09T22:16:38Z"
-    },
-    {
-      "title": "SEGA newsletter data breach exposes 2.2 million email addresses",
-      "description": "[BLEEPINGCOMPUTER] Japanese gaming giant SEGA has disclosed that a data breach at its third-party newsletter provider, ARARA, exposed the email addresses of 2.2 million newsletter subscribers. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/sega-newsletter-data-breach-exposes-22-million-email-addresses/",
-      "date": "2026-11-09T22:09:33Z"
-    },
-    {
-      "title": "Qualys Stock Falls As Earnings Beat, Revenue Outlook Underwhelms",
-      "description": "[INVESTOR'S BUSINESS DAILY] Qualys stock fell amid Q3 earnings that topped estimates. The cybersecurity firm's revenue guidance came in slightly above expectations.",
-      "url": "https://www.investors.com/news/technology/qualys-stock-q32026-earnings-qlys/",
-      "date": "2026-11-09T21:27:53Z"
-    },
-    {
-      "title": "Fable 5.2, Mythos 5.2: Anthropic Launches Powerful AI Models Ahead Of Wall Street Debut",
-      "description": "[NEWS18] Both are built on the same underlying model. Fable 5.2 has safeguards that block most cybersecurity and biology tasks, which lets Anthropic offer it to all users.",
-      "url": "https://www.news18.com/world/anthropic-launches-powerful-ai-models-ahead-of-wall-street-debut-ipo-launch-fable-5-2-mythos-5-2-10419320.html",
-      "date": "2026-11-09T19:47:41Z"
-    },
-    {
-      "title": "New AI malware ranks victims by how much they're worth",
-      "description": "[FOX NEWS] AI cybersecurity researchers uncovered VOLTA-AUTODOXER malware that steals your data and uses AI to profile victims. Get cybersecurity tips to stay protected.",
-      "url": "https://www.foxnews.com/tech/new-ai-malware-ranks-victims-how-much-theyre-worth",
-      "date": "2026-11-09T19:30:21Z"
-    },
-    {
-      "title": "The End of Image-Only KYC: How the VerifTools Takedown is Reshaping Fintech Security in 2026",
-      "description": "[TECHBULLION] The global financial technology (Fintech) sector is facing a crisis of trust. For years, digital banks, cryptocurrency exchanges, and trading platforms relied on a frictionless onboarding model: users simply uploaded a static photograph of their...",
-      "url": "https://techbullion.com/the-end-of-image-only-kyc-how-the-veriftools-takedown-is-reshaping-fintech-security-in-2026/",
-      "date": "2026-11-09T18:36:55Z"
-    },
-    {
-      "title": "Attackers Searching for SAP Netweaver Webshells, (Mon, Nov 9th)",
-      "description": "[ISC] Just saw a new (to me) URL in our honeypot data today:&#xd;",
-      "url": "https://isc.sans.edu/diary/rss/33502",
-      "date": "2026-11-09T18:18:15Z"
-    },
-    {
-      "title": "AI Security",
-      "description": "[SCHNEIER] Two weeks ago, I attended the [un]prompted AI security conference in San Francisco. It was an excellent event: three days of very dense talks about all aspects of AI security. (My talk was about integrous AI, and I will post it when it is online.)...",
-      "url": "https://www.schneier.com/blog/archives/2026/11/ai-security.html",
-      "date": "2026-11-09T12:05:39Z"
-    },
-    {
-      "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
-      "description": "[CISA] CISA has added four new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation.&nbsp; CVE-2026-102895 GPUStack Improper Authentication Vulnerability&nbsp; CVE-2026-116779 SignalWire FreeSwitch...",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/11/09/cisa-adds-four-known-exploited-vulnerabilities-catalog",
-      "date": "2026-11-09T12:00:00Z"
-    },
-    {
-      "title": "ISC Stormcast For Monday, November 9th, 2026 https://isc.sans.edu/podcastdetail/10170, (Mon, Nov 9th)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33500",
-      "date": "2026-11-09T02:05:10Z"
-    },
-    {
-      "title": "Scans for Sshole Vulnerability (CVE-2026-123158), (Sun, Nov 8th)",
-      "description": "[ISC] Our honeypots use \"Cowrie\" to collect SSH data. With the emergence of the \"sshole\" vulnerability last week, we are now seeing an increase in attempts to exploit the vulnerability. Our data is a bit limited in this respect. Our honeypots collect only...",
-      "url": "https://isc.sans.edu/diary/rss/33498",
-      "date": "2026-11-08T15:44:33Z"
-    },
-    {
-      "title": "Friday Squid Blogging: New Jurassic Squid Predecessors",
-      "description": "[SCHNEIER] News story: &#8220;Scientists discover a bizarre Jurassic &#8216;squid&#8217; unlike anything ever seen.&#8221; Scientists have identified the &#8220;fattest&#8221; belemnite ever discovered, a bizarre, barrel-shaped squid relative that lived in...",
-      "url": "https://www.schneier.com/blog/archives/2026/11/friday-squid-blogging-new-jurassic-squid-predecessors.html",
-      "date": "2026-11-06T22:05:12Z"
-    },
-    {
-      "title": "Pinpointing Location of Videos from Background Airplane Sounds",
-      "description": "[SCHNEIER] This is fascinating: The video describes a technique that can reveal where an otherwise unidentifiable recording was made by analyzing its audio for the faint sounds of passing aircraft. The technique is both fascinating and frightening. It works by...",
-      "url": "https://www.schneier.com/blog/archives/2026/11/pinpointing-location-of-videos-from-background-airplane-sounds.html",
-      "date": "2026-11-06T14:57:48Z"
-    },
-    {
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "description": "[CISA] CISA has added one new vulnerability to its&nbsp;Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-19868 SonicWall SonicOS SSLVPN Use of Single-factor Authentication Vulnerability This type of...",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/11/06/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "date": "2026-11-06T12:00:00Z"
-    },
-    {
-      "title": "ISC Stormcast For Friday, November 6th, 2026 https://isc.sans.edu/podcastdetail/10168, (Fri, Nov 6th)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33494",
-      "date": "2026-11-06T02:00:02Z"
-    },
-    {
-      "title": "Vulnerability Scans for Older Cisco IOS Vulnerability / Opt-Out Headers, (Thu, Nov 5th)",
-      "description": "[ISC] This morning, I was browsing our honeypot data for any new and existing PHP exploit attempts. Instead, I first ran into some GeoServer exploits, but found them to be too boring to write up. This Cisco IOS exploit attempt was a bit more interesting....",
-      "url": "https://isc.sans.edu/diary/rss/33492",
-      "date": "2026-11-05T15:29:08Z"
-    },
-    {
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "description": "[CISA] CISA has added one new vulnerability to its&nbsp;Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2024-27834 Apple Multiple Products Improper Authentication Vulnerability This type of vulnerability is a...",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/11/04/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "date": "2026-11-04T12:00:00Z"
-    },
-    {
-      "title": "AIs Hacking the Law",
-      "description": "[SCHNEIER] In both a 2021 essay and my 2022 book, A Hacker&#8217;s Mind, I talk about AIs finding vulnerabilities and exploits&#8212;hacking&#8212;the legal system. Here&#8217;s some demonstrations of this from Germany: Legal systems encode the foundations of...",
-      "url": "https://www.schneier.com/blog/archives/2026/11/ais-hacking-the-law.html",
-      "date": "2026-11-03T12:01:00Z"
-    },
-    {
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "description": "[CISA] CISA has added one new vulnerability to its&nbsp;Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-119977 WordPress Core Time-of-check Time-of-use (TOCTOU) Race Condition Vulnerability This type of...",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/11/03/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "date": "2026-11-03T12:00:00Z"
-    },
-    {
-      "title": "AI Vulnerability Finding",
-      "description": "[SCHNEIER] A comment: 3% of &#8216;critical&#8217; software security bugs, in all of recorded history, have been found in the last month. This is on pace to find another ~100,000 bugs this year alone, adding ~26% more vulnerabilities to the all time total Do...",
-      "url": "https://www.schneier.com/blog/archives/2026/11/ai-vulnerability-finding-2.html",
-      "date": "2026-11-02T12:02:34Z"
-    },
-    {
-      "title": "Friday Squid Blogging: Bigfin Squid Off California Coast",
-      "description": "[SCHNEIER] Neat video: The sighting, announced September 2, marks the first time anyone has spotted a live bigfin squid, which belongs to the Magnapinna genus, in the northeastern Pacific Ocean. As usual, you can also use this squid post to talk about the...",
-      "url": "https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-bigfin-squid-off-california-coast.html",
-      "date": "2026-10-30T21:04:36Z"
-    },
-    {
-      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
-      "description": "[CISA] CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-111357 Ivanti Connect Secure Missing Authentication for Critical Function Vulnerability CVE-2026-118527...",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/10/30/cisa-adds-two-known-exploited-vulnerabilities-catalog",
-      "date": "2026-10-30T12:00:00Z"
-    },
-    {
-      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
-      "description": "[CISA] CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-97229 GitLab Community Edition and Enterprise Edition Integer Overflow or Wraparound vulnerability...",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/10/29/cisa-adds-two-known-exploited-vulnerabilities-catalog",
-      "date": "2026-10-29T12:00:00Z"
-    }
-  ]
+    "title": "Sentinel Protocol",
+    "tagline": "Perimeter Intelligence Sync",
+    "updated": "2026-11-10 18:26 UTC",
+    "news": [
+        {
+            "source": {
+                "id": null,
+                "name": "Business Standard"
+            },
+            "author": "Hemant Kumar Rout",
+            "title": "Odisha approves \u20b9394 crore scheme for free Wi-Fi in 601 state colleges",
+            "description": "The Odisha Shikshanet scheme will provide up to 1 GB of free internet daily to students across 601 government and aided colleges, benefiting over six lakh students and faculty members.",
+            "url": "https://www.business-standard.com/education/news/odisha-approves-394-crore-scheme-for-free-wi-fi-in-601-state-colleges-126110901615_1.html",
+            "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-11/09/thumb/fitandfill/1200X628/1794248158-9818.jpg",
+            "publishedAt": "2026-11-09T18:17:07Z",
+            "content": "The Odisha Shikshanet scheme will provide up to 1 GB of free internet daily to students across 601 government and aided colleges, benefiting over six lakh students and faculty members.\r\nChief Ministe\u2026 [+4535 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Daily Hodl"
+            },
+            "author": "Daily Hodl Agent",
+            "title": "Wisconsin Company Offering Up To $5,000 Per Person in Data Breach Settlement Covering 578,699 People",
+            "description": "A Wisconsin-based company has agreed to pay millions into a fund to resolve claims from a data breach that exposed sensitive personal details of hundreds of thousands of people. Johnson Controls says it became aware on or about September 24th of 2023 of a cyb\u2026",
+            "url": "https://dailyhodl.com/2026/11/09/wisconsin-company-offering-up-to-5000-per-person-in-data-breach-settlement-covering-578699-people/",
+            "urlToImage": "https://dailyhodl.com/wp-content/uploads/2026/11/android-hack-target_pink.jpg?resize=266,156",
+            "publishedAt": "2026-11-09T18:12:52Z",
+            "content": "A Wisconsin-based company has agreed to pay millions into a fund to resolve claims from a data breach that exposed sensitive personal details of hundreds of thousands of people.\r\nJohnson Controls say\u2026 [+2021 chars]"
+        },
+        {
+            "source": {
+                "id": "the-irish-times",
+                "name": "The Irish Times"
+            },
+            "author": "Raphael Satter, Gabriel Stargardter",
+            "title": "French officials accuse Iran of carrying out refrigerator hacks",
+            "description": "Officials said there would be consequences for cyber incident that struck hundreds of French supermarkets",
+            "url": "https://www.irishtimes.com/world/2026/11/09/french-officials-accuse-iran-of-carrying-out-refrigerator-hacks/",
+            "urlToImage": "https://www.irishtimes.com/resizer/v2/3KXJDVM3JCYSXOIQWKGM4GLJYQ.jpg?smart=true&auth=f7ed3c3276eea53c8812bb028eb2d262c0fe825bd54fe48a8c3f67942135b436&width=1200&height=630",
+            "publishedAt": "2026-11-09T18:10:57Z",
+            "content": "French officials on Monday accused Irans Revolutionary Guards of responsibility for the cyberattacks that knocked out commercial refrigerators and freezers across France last month. The officials sai\u2026 [+3361 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Dealnews.com"
+            },
+            "author": null,
+            "title": "Wiley Machine Learning For Dummies 3rd Edition eBook: Free",
+            "description": "This Wiley eBook is free, down from a $19 regular price. The 3rd edition is a 2025 update to the 2021 edition, written by Luca Massaron and John Paul Mueller. Its chapters run from machine learning basics through coding and math to recommendation and sentimen\u2026",
+            "url": "https://www.dealnews.com/Wiley-Machine-Learning-For-Dummies-3-rd-Edition-eBook-Free/22370625.html",
+            "urlToImage": "https://d.dlnws.com/64599/1794247847-w_wile939c8.jpg?h=1024&w=790",
+            "publishedAt": "2026-11-09T18:10:53Z",
+            "content": "moreThis Wiley eBook is free, down from a $30 regular price. The author is St\u00e9phane Duguin, who previously worked at Europol on cybersecurity and international security. The book was first published \u2026 [+705 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PCMag.com"
+            },
+            "author": "Kim Key",
+            "title": "Keeper Password Manager Review: A Polished Vault at a Premium Price",
+            "description": "Keeper is one of the most polished password managers available, with sleek apps, reliable autofill, and an unusually wide range of multi-factor authentication options. Its sharing tools are the best I've tested, letting you hand off passwords to family and fr\u2026",
+            "url": "https://uk.pcmag.com/password-managers/34942/keeper",
+            "urlToImage": "https://sm.pcmag.com/t/pcmag_uk/review/k/keeper-pas/keeper-password-manager-review-a-polished-vault-at-a-premium_may2.1200.jpg",
+            "publishedAt": "2026-11-09T18:05:59Z",
+            "content": "Keeper is one of the most polished password managers available, with sleek apps, reliable autofill, and an unusually wide range of multi-factor authentication options. Its sharing tools are the best \u2026 [+16322 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Meta.ai"
+            },
+            "author": "Meta AI Research",
+            "title": "Our Smallest, Most Efficient Model: Muse Ember",
+            "description": "Muse Ember is our smallest and most efficient model, designed for complex reasoning execution and the work agents repeat all day.",
+            "url": "https://research.meta.ai/blog/muse-ember",
+            "urlToImage": "https://research.meta.ai/articles/muse-glint/hero/blog-header-light-v1.webp",
+            "publishedAt": "2026-11-09T17:58:46Z",
+            "content": "Agents\r\nAgents spend most of their tokens on many small, structured steps, and Muse\u00a0Ember is built for exactly that. It can carry a business workflow end to end, pulling records, calling tools in seq\u2026 [+12170 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BleepingComputer"
+            },
+            "author": "Bill Toulas",
+            "title": "Russian cloud firm Beget rebuilds from scratch after data wiper attack",
+            "description": "A data-wiping malware attack has forced Russian cloud services provider Beget to rebuild its cloud infrastructure from scratch, the company said. [...]",
+            "url": "https://www.bleepingcomputer.com/news/security/russian-cloud-firm-beget-rebuilds-from-scratch-after-data-wiper-attack/",
+            "urlToImage": "https://www.bleepstatic.com/content/hl-images/2026/11/09/beget.jpg",
+            "publishedAt": "2026-11-09T17:50:32Z",
+            "content": "A data-wiping malware attack has forced Russian cloud services provider Beget to rebuild its cloud infrastructure from scratch, the company said.\r\nOn the night of November 1st, the attacker gained ac\u2026 [+2729 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Graphicdesignjunction.com"
+            },
+            "author": "Muhammad Faisal",
+            "title": "50+ Best Logos of 2026",
+            "description": "Another creative year is nearing its end, and it is time to look back at the best logos that caught our attention. Every year, we showcase logos of the year designed by graphic designers and branding agencies around the world. \nThe post 50+ Best Logos of 2026\u2026",
+            "url": "https://graphicdesignjunction.com/2026/11/50-best-logos-of-2026/",
+            "urlToImage": "https://i0.wp.com/graphicdesignjunction.com/wp-content/uploads/2026/11/50-Best-Logos-Of-2026.jpg",
+            "publishedAt": "2026-11-09T17:42:02Z",
+            "content": "Another creative year is nearing its end, and it is time to look back at the best logos that caught our attention. Every year, we showcase logos of the year designed by graphic designers and branding\u2026 [+6600 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Elizabeth Lopatto",
+            "title": "The future of AI hinges on\u2026 Jensen Huang\u2019s sex life?",
+            "description": "I would prefer that these people's sex lives were none of my business but I guess we have to talk about Jensen Huang and the National Security Incident. Who could have guessed that the guy who was out here signing titties might not have great judgment about h\u2026",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/1029990/jensen-huang-the-spy-who-loved-me",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STKP210_JENSEN_HUANG_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-11-09T17:36:26Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nNVIDIOT.\r\nby\r\nElizabeth LopattoClose\r\nPosts from this author will be added to your daily email digest and your homepage feed.\r\nFollow\r\nFollowSee All by Elizabeth\u2026 [+9161 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Nextgov"
+            },
+            "author": "David DiMolfetta",
+            "title": "Congress returns to slew of cyber deadlines and unfinished AI safety bills",
+            "description": "Cyber threat-sharing protections expire Dec. 11, while proposals to oversee advanced AI and strengthen a global vulnerability-tracking program await action.",
+            "url": "https://www.nextgov.com/cybersecurity/2026/11/congress-returns-slew-cyber-deadlines-and-unfinished-ai-safety-bills/417123/",
+            "urlToImage": "https://cdn.nextgov.com/media/img/cd/2026/11/09/GettyImages_2302777459/open-graph.jpg",
+            "publishedAt": "2026-11-09T17:35:00Z",
+            "content": "Lawmakers return to Washington on Monday with only weeks left to preserve expiring cybersecurity protections and a smattering of unfinished proposals to put federal oversight around increasingly powe\u2026 [+4793 chars]"
+        }
+    ]
 }
