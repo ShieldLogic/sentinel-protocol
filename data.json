@@ -1,29 +1,143 @@
 {
-  "updated": "2026-11-11 08:38:44 UTC",
+  "updated": "2026-11-11 17:33:39 UTC",
   "news": [
     {
-      "title": "Microsoft Patches 1,259 Flaws, Including Exploited Outlook Bug That May Expose NTLMv2 Hashes",
-      "description": "[FEEDS] Microsoft on Tuesday released patches for a total of 1,259 vulnerabilities spanning its software portfolio, the second consecutive month where the patch volume has exceeded 1,000 flaws. These cover 726 flaws in Windows, 174 in Office, 61 in...",
-      "url": "https://thehackernews.com/2026/11/microsoft-patches-1259-flaws-including.html",
-      "date": "2026-11-11T08:17:53Z"
+      "title": "Maersk confirms data breach as WhiteArmor ransomware demands $5 million",
+      "description": "[BLEEPINGCOMPUTER] Maersk announced that a threat actor gained unauthorized access to a local legacy system inherited through an earlier acquisition and extracted data from it. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/maersk-confirms-data-breach-as-whitearmor-ransomware-demands-5-million/",
+      "date": "2026-11-11T16:24:18Z"
     },
     {
-      "title": "Railway Says Stolen Customer AI Keys Led to $740,000 in Estimated Unauthorized Usage Charges",
-      "description": "[FEEDS] AI provider keys that customers stored on Railway were stolen in an October breach and used to commit an estimated $740,000 in unauthorized spending, the platform-as-a-service provider said yesterday. It has promised to pay those charges itself when...",
-      "url": "https://thehackernews.com/2026/11/railway-says-stolen-customer-ai-keys.html",
-      "date": "2026-11-11T07:49:04Z"
+      "title": "Critical Zoom Workplace Flaw Could Allow Unauthenticated Remote Privilege Escalation",
+      "description": "[FEEDS] Zoom has released software updates to address two security flaws impacting Zoom Workplace for Windows, including a critical bug that could result in privilege escalation on affected systems. The vulnerabilities are listed below - CVE-2026-108186...",
+      "url": "https://thehackernews.com/2026/11/critical-zoom-workplace-flaw-could.html",
+      "date": "2026-11-11T16:12:46Z"
     },
     {
-      "title": "Microsoft Researchers Show AI Agents Can Be Backdoored by Editing Fewer Than 10 Neurons",
-      "description": "[FEEDS] An AI model can be given a hidden backdoor by editing fewer than 10 of its rarely used neurons, without retraining the model, Microsoft researchers have shown. When a chosen trigger appears, the model outputs an attacker's command, which an agent...",
-      "url": "https://thehackernews.com/2026/11/microsoft-researchers-show-ai-agents.html",
-      "date": "2026-11-11T07:21:05Z"
+      "title": "AntiFox AI Pentesting Platform Linked to Attacks That Accessed AWS Production Secrets",
+      "description": "[FEEDS] Cybersecurity researchers have disclosed details of a campaign in which an emerging agentic penetration testing platform called AntiFox has been used to steal Amazon Web Services (AWS) credentials and pivot laterally into compromised environments....",
+      "url": "https://thehackernews.com/2026/11/antifox-ai-pentesting-platform-linked.html",
+      "date": "2026-11-11T15:34:27Z"
     },
     {
-      "title": "Cisco BroadWorks and Openwave Flaws Actively Exploited Despite Available Patches",
-      "description": "[FEEDS] The U.S. Cybersecurity and Infrastructure Security Agency (CISA) Tuesday added two security flaws impacting Cisco BroadWorks and Openwave Messaging Webtop Media Transcoder to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of...",
-      "url": "https://thehackernews.com/2026/11/cisco-broadworks-and-openwave-flaws.html",
-      "date": "2026-11-11T06:04:02Z"
+      "title": "Hackers use AntiFox AI agents in AWS credential-theft attacks",
+      "description": "[BLEEPINGCOMPUTER] Attackers are using Alibaba Cloud to host self-managed instances of AntiFox, an open-source agentic penetration testing platform, to target web services and AWS environments. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-use-antifox-ai-agents-in-aws-credential-theft-attacks/",
+      "date": "2026-11-11T15:12:59Z"
+    },
+    {
+      "title": "eBPF Rootkits: Why Underground Actors Are Taking Notice",
+      "description": "[BLEEPINGCOMPUTER] Linux eBPF rootkits can hide malicious activity and evade traditional detection methods without loading kernel modules. Flare reveals how these techniques are spreading through underground forums, where threat actors are sharing rootkit source code,...",
+      "url": "https://www.bleepingcomputer.com/news/security/ebpf-rootkits-why-underground-actors-are-taking-notice/",
+      "date": "2026-11-11T15:01:11Z"
+    },
+    {
+      "title": "Hackers Target Qlik Sense Servers With Reverse Shells, Stage ActiveMQ and Veeam Exploits",
+      "description": "[FEEDS] Threat actors have been observed targeting Qlik Sense servers to unsuccessfully deliver PowerShell reverse shell commands against multiple environments in October 2026. Cynet's CyOps and Research teams said they identified the suspicious activity in...",
+      "url": "https://thehackernews.com/2026/11/hackers-target-qlik-sense-servers-with.html",
+      "date": "2026-11-11T14:01:00Z"
+    },
+    {
+      "title": "N-able releases security hotfixes for zero-day vulnerabilities",
+      "description": "[BLEEPINGCOMPUTER] N-able released hotfixes to address zero-day bugs affecting its N-central remote monitoring and management (RMM) platform, which were publicly disclosed over the weekend and forced it to take vulnerable hosted environments offline. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/n-able-releases-security-hotfixes-for-zero-day-vulnerabilities/",
+      "date": "2026-11-11T12:32:27Z"
+    },
+    {
+      "title": "Over 35,000 Grok-Built Apps Exposed Online, Some Leaking Confidential Data and Passwords",
+      "description": "[FEEDS] Of the 37,571 Grok-built apps that security company Claroc found online, 35,578 were open to anyone without a sign-in, the researchers said yesterday. They included 24 apps built by staff at the social network X and at SpaceXSI, the company that...",
+      "url": "https://thehackernews.com/2026/11/over-35000-grok-built-apps-exposed.html",
+      "date": "2026-11-11T12:19:40Z"
+    },
+    {
+      "title": "Three People Arrested for AI-Enhanced Impersonation Fraud",
+      "description": "[SCHNEIER] It&#8217;s hard to believe how lucrative this crime can be: According to a press release from the United States attorney\u2019s office for the southern district of New York, three men \u00ad Jacob Soall, Sharon Hazan, and Guy Sheetrit \u00ad were arrested for...",
+      "url": "https://www.schneier.com/blog/archives/2026/11/three-people-arrested-for-ai-enhanced-impersonation-fraud.html",
+      "date": "2026-11-11T12:05:34Z"
+    },
+    {
+      "title": "We Built An Agent That Broke All of Our Security Rules. Here's What We Learned.",
+      "description": "[FEEDS] We tell customers three things about securing AI agents: they need their own identities, access that fits the job they\u2019re given, and traceability that\u2019s separate from any human\u2019s. That was true for us at Token as well. Then, we built an agent that...",
+      "url": "https://thehackernews.com/2026/11/we-built-agent-that-broke-all-of-our.html",
+      "date": "2026-11-11T12:01:59Z"
+    },
+    {
+      "title": "eMudhra Revokes 8 More CAs It Previously Declared Unaffected by Key Compromise",
+      "description": "[FEEDS] The in-house Python script behind eMudhra's October key compromise has now cost the company 8 more of its intermediate certificate authorities (CAs), even though it did not weaken their keys. Each intermediate CA has its own private key, which the...",
+      "url": "https://thehackernews.com/2026/11/emudhra-revokes-8-more-cas-it.html",
+      "date": "2026-11-11T12:00:53Z"
+    },
+    {
+      "title": "Microsoft fixes audio issues caused by September security updates",
+      "description": "[BLEEPINGCOMPUTER] Microsoft says the November 2026 cumulative updates resolve USB audio issues plaguing Windows users who have installed security updates released since September. [...]",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-usb-audio-issues-caused-by-september-security-updates/",
+      "date": "2026-11-11T11:18:36Z"
+    },
+    {
+      "title": "CISA flags Cisco BroadWorks flaw as actively exploited in attacks",
+      "description": "[BLEEPINGCOMPUTER] The US Cybersecurity and Infrastructure Security Agency (CISA) warned on Tuesday that hackers are now exploiting a high-severity Cisco BroadWorks vulnerability in attacks. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-flags-cisco-broadworks-flaw-as-actively-exploited-in-attacks/",
+      "date": "2026-11-11T10:12:08Z"
+    },
+    {
+      "title": "Google's Gemini 4 Carbon now available globally",
+      "description": "[NEWSBYTES] Google's Gemini 4 Carbon, initially released to select cybersecurity firms, is now accessible worldwide, offering advanced capabilities in AI coding and scientific research.",
+      "url": "https://www.newsbytesapp.com/news/science/google-s-gemini-4-carbon-now-available-globally/story",
+      "date": "2026-11-11T05:05:43Z"
+    },
+    {
+      "title": "Thailand orders tighter aviation cyber security after data breaches across Asia",
+      "description": "[THE STAR] BANGKOK: Thailand's Transport Ministry has instructed the country's aviation agencies and service providers holding personal data to strengthen cybersecurity after Thai Airways disclosed on Nov 9 that about 60,529 passenger booking records may have...",
+      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/11/thailand-orders-tighter-aviation-cyber-security-after-data-breaches-across-asia",
+      "date": "2026-11-11T04:46:00Z"
+    },
+    {
+      "title": "eMudhra shares full report on security key incident, here is what caused the internet meltdown",
+      "description": "[INDIA TODAY] The Indian cybersecurity firm eMudhra shook the internet with its weak security keys last month. The company, which has exited the digital certificate businesses, has now revealed what caused the incident in its full report.",
+      "url": "https://www.indiatoday.in/technology/news/story/emudhra-shares-full-report-on-security-key-incident-here-is-what-caused-the-internet-meltdown-3036523-2026-11-11",
+      "date": "2026-11-11T04:42:56Z"
+    },
+    {
+      "title": "Google Expands Gemini 4 Carbon AI Access For Developers, Businesses With Advanced Coding, Cybersecurity And Research Capabilities",
+      "description": "[FREE PRESS JOURNAL] Google has expanded access to Gemini 4 Carbon, its advanced AI model designed for complex coding, cybersecurity, financial research and scientific reasoning. The model supports multi-agent workflows and is being rolled out to developers, enterprises...",
+      "url": "https://www.freepressjournal.in/tech/google-expands-gemini-4-carbon-ai-access-for-developers-businesses-with-advanced-coding-cybersecurity-and-research-capabilities",
+      "date": "2026-11-11T04:38:15Z"
+    },
+    {
+      "title": "CNA Explains: Your flight booking details have been leaked. What can hackers do with them?",
+      "description": "[CNA] Exposed airline booking details could be used to carry out convincing scams and other forms of fraud, cybersecurity experts say. Here's what passengers should know and how they can protect themselves.",
+      "url": "https://www.channelnewsasia.com/singapore/airline-booking-data-leak-hackers-phishing-fraud-6534076",
+      "date": "2026-11-11T04:01:35Z"
+    },
+    {
+      "title": "Gemini 4 Carbon opens to developers, enterprises with advanced AI capabilities for complex tasks",
+      "description": "[THE ECONOMIC TIMES] Google has expanded access to its Gemini 4 Carbon artificial intelligence (AI) model to developers, businesses, scientists and consumers, as it seeks to bring advanced AI capabilities to tasks such as software development, financial research and...",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/gemini-4-carbon-opens-to-developers-enterprises-with-advanced-ai-capabilities-for-complex-tasks/articleshow/135724889.cms",
+      "date": "2026-11-11T03:49:40Z"
+    },
+    {
+      "title": "Vietnam\u2019s first homegrown security chip unveiled",
+      "description": "[THE STAR] HANOI: The Government Cipher Committee and military-run telecom group Viettel on Tuesday unveiled the VGC v1.0 security chip and Vietnam's first domestically designed secure semiconductor platform, marking a step forward in mastering core...",
+      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/11/vietnams-first-homegrown-security-chip-unveiled",
+      "date": "2026-11-11T02:49:00Z"
+    },
+    {
+      "title": "Thailand orders tighter aviation cyber security",
+      "description": "[THE STRAITS TIMES] Thailand orders tighter aviation cyber security after Thai Airways data breach involving 60,529 passenger records. Read more at straitstimes.com.",
+      "url": "https://www.straitstimes.com/asia/se-asia/thailand-orders-tighter-aviation-cyber-security-after-data-breaches-across-asia",
+      "date": "2026-11-11T02:40:00Z"
+    },
+    {
+      "title": "Fullerton Health server supporting migrant worker care programme hit by cybersecurity incident",
+      "description": "[CNA] Personal information, including migrant workers' names, foreign identification numbers and mobile numbers, may have been affected, the healthcare provider said.",
+      "url": "https://www.channelnewsasia.com/singapore/fullerton-health-migrant-worker-care-plan-cybersecurity-incident-6541451",
+      "date": "2026-11-11T02:39:00Z"
+    },
+    {
+      "title": "Gemini 4 Carbon opens to developers, enterprises with advanced AI capabilities for complex tasks",
+      "description": "[THE TRIBUNE] Google has expanded access to its Gemini 4 Carbon artificial intelligence (AI) model to developers, businesses, scientists and consumers, as it seeks to bring advanced AI capabilities to tasks such as software development, financial research and...",
+      "url": "https://www.tribuneindia.com/news/business/gemini-4-carbon-opens-to-developers-enterprises-with-advanced-ai-capabilities-for-complex-tasks/",
+      "date": "2026-11-11T02:22:26Z"
     },
     {
       "title": "ISC Stormcast For Wednesday, November 11th, 2026 https://isc.sans.edu/podcastdetail/10174, (Wed, Nov 11th)",
@@ -32,118 +146,10 @@
       "date": "2026-11-11T02:00:03Z"
     },
     {
-      "title": "Railway breach leads to $740,000 in fraudulent AI charges",
-      "description": "[BLEEPINGCOMPUTER] Cloud hosting provider Railway says hackers exploited vulnerabilities in its infrastructure to steal customer authentication secrets and generate approximately $740,000 in fraudulent AI usage, potentially exposing credentials for up to 100,000...",
-      "url": "https://www.bleepingcomputer.com/news/apple/railway-breach-leads-to-740-000-in-fraudulent-ai-charges/",
-      "date": "2026-11-10T22:20:19Z"
-    },
-    {
-      "title": "Japanese furniture giant Nitori says hackers stole 37.6M customer records",
-      "description": "[BLEEPINGCOMPUTER] Nitori, a major Japanese furniture and home accessories retailer, discovered that an attacker accessed a system on its network and may have stolen 37.62 million customer records. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/japanese-furniture-giant-nitori-says-hackers-stole-376m-customer-records/",
-      "date": "2026-11-10T20:54:55Z"
-    },
-    {
-      "title": "Microsoft releases Windows 10 KB5131096 extended security update",
-      "description": "[BLEEPINGCOMPUTER] Microsoft released the Windows 10 KB5131096 extended security update, which includes this month's November 2026 Patch Tuesday fixes and a few bug fixes and changes. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5131096-extended-security-update/",
-      "date": "2026-11-10T20:04:36Z"
-    },
-    {
-      "title": "Hackers exploit trusted AWS access to breach multiple cloud environments",
-      "description": "[BLEEPINGCOMPUTER] A threat actor used compromised identity and access management (IAM) credentials for a Qubole big data platform's AWS account to access and exfiltrate data from multiple customers' AWS environments. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-trusted-aws-access-to-breach-multiple-cloud-environments/",
-      "date": "2026-11-10T19:31:11Z"
-    },
-    {
-      "title": "Git Patches Flaw That Lets Malicious Repositories Execute Code During Recursive Clones",
-      "description": "[FEEDS] A flaw in Git can let a malicious repository run an attacker's code on a computer that clones it recursively, together with its submodules. The Git project fixed it this week in Git 2.56.1, with matching fixes for the 2.50 through 2.55 series in...",
-      "url": "https://thehackernews.com/2026/11/git-patches-flaw-that-lets-malicious.html",
-      "date": "2026-11-10T19:23:10Z"
-    },
-    {
-      "title": "SGLang RCE Exploit Breaches NEAR AI, Steals Data From 18 Agents and About 100 Users",
-      "description": "[FEEDS] An attacker exploited a remote code execution flaw in SGLang, an open-source inference engine, and ran code on one of NEAR AI's inference servers last Sunday. The attacker could also have seen requests being processed on that server that day,...",
-      "url": "https://thehackernews.com/2026/11/sglang-rce-exploit-breaches-near-ai.html",
-      "date": "2026-11-10T19:19:39Z"
-    },
-    {
       "title": "Microsoft Patch Tuesday November 2027 , (Tue, Nov 10th)",
       "description": "[ISC] Microsoft continues its AI-induced patch surge, addressing 1,260 different vulnerabilities this month. 68 of these vulnerabilities are considered critical. 167 of the vulnerabilities are Chromium issues affecting Microsoft Edge.&#xd;",
       "url": "https://isc.sans.edu/diary/rss/33508",
       "date": "2026-11-10T19:09:32Z"
-    },
-    {
-      "title": "Microsoft November 2026 Patch Tuesday fixes 1,235 flaws, Outlook zero-day",
-      "description": "[BLEEPINGCOMPUTER] Today is Microsoft's November 2026 Patch Tuesday, with security updates addressing a record-breaking 1,235 flaws, including one actively exploited Microsoft Outlook zero-day vulnerability. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-november-2026-patch-tuesday-fixes-1-235-flaws-outlook-zero-day/",
-      "date": "2026-11-10T19:07:36Z"
-    },
-    {
-      "title": "Hearing aid giant Amplifon reveals data breach hits thousands of US customers - Social Security numbers and medical information stolen",
-      "description": "[TECHRADAR] Some sources are saying more than a million people are affected",
-      "url": "https://www.techradar.com/pro/security/hearing-aid-giant-amplifon-reveals-data-breach-hits-thousands-of-us-customers-social-security-numbers-and-medical-information-stolen",
-      "date": "2026-11-10T18:35:00Z"
-    },
-    {
-      "title": "Windows 11 KB5132061 & KB5131087 cumulative updates released",
-      "description": "[BLEEPINGCOMPUTER] Microsoft has released the Patch Tuesday Windows 11 and cumulative updates for versions 26H2/25H2/24H2 and 23H2 to fix security vulnerabilities and bugs, and add new features. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5132061-and-kb5131087-cumulative-updates-released/",
-      "date": "2026-11-10T18:33:26Z"
-    },
-    {
-      "title": "Dhaka seeks \u2018$250m\u2019 ADB loan for Bangla AI, cybersecurity",
-      "description": "[THE DAILY STAR] Bangladesh $250 Million ADB Loan for AI: Bangladesh has sought funds from the Asian Development Bank (ADB), with potential co-financing from South Korea, for an indicative $250 million programme to develop the country\u2019s first native Bangla-language...",
-      "url": "https://www.thedailystar.net/news/bangladesh/news/dhaka-seeks-250m-adb-loan-bangla-ai-cybersecurity-4320756",
-      "date": "2026-11-10T18:00:00Z"
-    },
-    {
-      "title": "DQS certifies Samsung Display's automotive cybersecurity management",
-      "description": "[PR NEWSWIRE UK] /PRNewswire/ -- DQS has completed independent assessments of Samsung Display's automotive cybersecurity management, resulting in ISO/SAE 21434 certification...",
-      "url": "https://www.prnewswire.co.uk/news-releases/dqs-certifies-samsung-displays-automotive-cybersecurity-management-302935297.html",
-      "date": "2026-11-10T17:47:00Z"
-    },
-    {
-      "title": "Europe's Refrigeration Cyberattacks Expose a Weak Link in Critical Infrastructure, Cybersecurity Expert Warns",
-      "description": "[INTERNATIONAL BUSINESS TIMES] The breach exploited internet-connected refrigeration systems maintained by an outside supplier, highlighting cybersecurity risks for hospitals and blood banks.",
-      "url": "https://www.ibtimes.com/cyberattack-french-plasma-storage-sites-supplier-access-3809615",
-      "date": "2026-11-10T17:43:02Z"
-    },
-    {
-      "title": "Google unveils Gemini 4 Carbon with upgraded agentic coding and cybersecurity capabilities",
-      "description": "[FIRSTPOST] Google's Gemini 4 Carbon brings upgraded agentic coding, advanced cybersecurity and scientific reasoning capabilities, with expanded access for developers, enterprises, researchers and eligible consumers.",
-      "url": "https://www.firstpost.com/tech/google-unveils-gemini-4-carbon-with-upgraded-agentic-coding-and-cybersecurity-capabilities-14059126.html",
-      "date": "2026-11-10T17:35:01Z"
-    },
-    {
-      "title": "EU cyber chief warns home appliances could be next",
-      "description": "[THE STRAITS TIMES] EU cyber chief warns home appliances could be next after supermarket fridge hacks, urging more investment in cybersecurity. Read more at straitstimes.com.",
-      "url": "https://www.straitstimes.com/world/europe/after-fridge-hacks-home-appliances-could-be-next-warns-eu-cyber-chief",
-      "date": "2026-11-10T17:25:44Z"
-    },
-    {
-      "title": "SEC probes data breach; says no records affected",
-      "description": "[THE MANILA TIMES] THE Securities and Exchange Commission (SEC) said initial findings showed that its internal database infrastructure and system integrity remain intact following a data security incident detected on Nov. 6.",
-      "url": "https://www.manilatimes.net/2026/11/11/business/top-business/sec-probes-data-breach-says-no-records-affected/2467058",
-      "date": "2026-11-10T16:16:00Z"
-    },
-    {
-      "title": "Americans eligible for up to $2,500 payout from $15m settlement pot in healthcare privacy breakdown",
-      "description": "[THE SUN U.S EDITION] AMERICANS can claim up to $2,500 from a $15million data breach settlement against a healthcare company. DaVita, an American health care company...",
-      "url": "https://www.the-sun.com/money/17284661/davita-denver-colorado-data-breach-settlement-claim/",
-      "date": "2026-11-10T16:04:05Z"
-    },
-    {
-      "title": "Google's Gemini 4 Carbon Is Now Widely Available Around The World",
-      "description": "[ENGADGET] Google is rolling out Gemini 4 Carbon after a limited release to cybersecurity companies.",
-      "url": "https://www.engadget.com/2311855/gemini-4-carbon-now-available-worldwide/",
-      "date": "2026-11-10T16:00:00Z"
-    },
-    {
-      "title": "M\u2019sians take precautions as global cyberattacks escalate",
-      "description": "[THE STAR] JOHOR BARU: Rising concerns over cyberattacks have prompted the public to be on high alert and stay better informed about potential cybersecurity threats.",
-      "url": "https://www.thestar.com.my/news/nation/2026/11/11/msians-take-precautions-as-global-cyberattacks-escalate",
-      "date": "2026-11-10T16:00:00Z"
     },
     {
       "title": "Apple Patches Everyting: November 2026 Edition, (Tue, Nov 10th)",
@@ -228,12 +234,6 @@
       "description": "[CISA] CISA has added one new vulnerability to its&nbsp;Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-119977 WordPress Core Time-of-check Time-of-use (TOCTOU) Race Condition Vulnerability This type of...",
       "url": "https://www.cisa.gov/news-events/alerts/2026/11/03/cisa-adds-one-known-exploited-vulnerability-catalog",
       "date": "2026-11-03T12:00:00Z"
-    },
-    {
-      "title": "AI Vulnerability Finding",
-      "description": "[SCHNEIER] A comment: 3% of &#8216;critical&#8217; software security bugs, in all of recorded history, have been found in the last month. This is on pace to find another ~100,000 bugs this year alone, adding ~26% more vulnerabilities to the all time total Do...",
-      "url": "https://www.schneier.com/blog/archives/2026/11/ai-vulnerability-finding-2.html",
-      "date": "2026-11-02T12:02:34Z"
     },
     {
       "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
