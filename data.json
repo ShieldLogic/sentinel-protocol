@@ -1,6 +1,42 @@
 {
-  "updated": "2026-11-10 19:11:23 UTC",
+  "updated": "2026-11-11 00:18:47 UTC",
   "news": [
+    {
+      "title": "Railway breach leads to $740,000 in fraudulent AI charges",
+      "description": "[BLEEPINGCOMPUTER] Cloud hosting provider Railway says hackers exploited vulnerabilities in its infrastructure to steal customer authentication secrets and generate approximately $740,000 in fraudulent AI usage, potentially exposing credentials for up to 100,000...",
+      "url": "https://www.bleepingcomputer.com/news/apple/railway-breach-leads-to-740-000-in-fraudulent-ai-charges/",
+      "date": "2026-11-10T22:20:19Z"
+    },
+    {
+      "title": "Japanese furniture giant Nitori says hackers stole 37.6M customer records",
+      "description": "[BLEEPINGCOMPUTER] Nitori, a major Japanese furniture and home accessories retailer, discovered that an attacker accessed a system on its network and may have stolen 37.62 million customer records. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/japanese-furniture-giant-nitori-says-hackers-stole-376m-customer-records/",
+      "date": "2026-11-10T20:54:55Z"
+    },
+    {
+      "title": "Microsoft releases Windows 10 KB5131096 extended security update",
+      "description": "[BLEEPINGCOMPUTER] Microsoft released the Windows 10 KB5131096 extended security update, which includes this month's November 2026 Patch Tuesday fixes and a few bug fixes and changes. [...]",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5131096-extended-security-update/",
+      "date": "2026-11-10T20:04:36Z"
+    },
+    {
+      "title": "Hackers exploit trusted AWS access to breach multiple cloud environments",
+      "description": "[BLEEPINGCOMPUTER] A threat actor used compromised identity and access management (IAM) credentials for a Qubole big data platform's AWS account to access and exfiltrate data from multiple customers' AWS environments. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-trusted-aws-access-to-breach-multiple-cloud-environments/",
+      "date": "2026-11-10T19:31:11Z"
+    },
+    {
+      "title": "Git Patches Flaw That Lets Malicious Repositories Execute Code During Recursive Clones",
+      "description": "[FEEDS] A flaw in Git can let a malicious repository run an attacker's code on a computer that clones it recursively, together with its submodules. The Git project fixed it this week in Git 2.56.1, with matching fixes for the 2.50 through 2.55 series in...",
+      "url": "https://thehackernews.com/2026/11/git-patches-flaw-that-lets-malicious.html",
+      "date": "2026-11-10T19:23:10Z"
+    },
+    {
+      "title": "SGLang RCE Exploit Breaches NEAR AI, Steals Data From 18 Agents and About 100 Users",
+      "description": "[FEEDS] An attacker exploited a remote code execution flaw in SGLang, an open-source inference engine, and ran code on one of NEAR AI's inference servers last Sunday. The attacker could also have seen requests being processed on that server that day,...",
+      "url": "https://thehackernews.com/2026/11/sglang-rce-exploit-breaches-near-ai.html",
+      "date": "2026-11-10T19:19:39Z"
+    },
     {
       "title": "Microsoft Patch Tuesday November 2027 , (Tue, Nov 10th)",
       "description": "[ISC] Microsoft continues its AI-induced patch surge, addressing 1,260 different vulnerabilities this month. 68 of these vulnerabilities are considered critical. 167 of the vulnerabilities are Chromium issues affecting Microsoft Edge.&#xd;",
@@ -20,22 +56,22 @@
       "date": "2026-11-10T18:33:26Z"
     },
     {
-      "title": "Critical Xen Orchestra auth bypass flaw exploited to hijack VM servers",
-      "description": "[BLEEPINGCOMPUTER] A critical authentication bypass vulnerability in Xen Orchestra is being actively exploited in attacks that could grant administrator privileges and allow takeover of XCP-ng virtualization hosts. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/critical-xen-orchestra-auth-bypass-flaw-exploited-to-hijack-vm-servers/",
-      "date": "2026-11-10T16:17:16Z"
+      "title": "Hackers Exploit Critical Xen Orchestra Auth Bypass Flaw to Gain Admin Access",
+      "description": "[FEEDS] French software company Vates VMS has warned of a critical security vulnerability in Xen Orchestra that it said is being actively exploited in the wild. The authentication bypass flaw, which does not yet have a CVE identifier, is tracked as...",
+      "url": "https://thehackernews.com/2026/11/hackers-exploit-critical-xen-orchestra.html",
+      "date": "2026-11-10T18:12:21Z"
+    },
+    {
+      "title": "Three China-Nexus Espionage Campaigns Linked Through Sparrow Malware Ecosystem",
+      "description": "[FEEDS] Three distinct threat activity clusters with shared infrastructure and malware code similarities have been observed targeting telecommunications providers, government organizations, military entities, research institutions, and critical...",
+      "url": "https://thehackernews.com/2026/11/three-china-nexus-espionage-campaigns.html",
+      "date": "2026-11-10T17:43:23Z"
     },
     {
       "title": "Attackers Exploit AhsayCBS Flaws to Deploy Sandbox-Evading Python Backdoor",
-      "description": "[FEEDS] Cybersecurity researchers have disclosed details of an attack that exploited two now-patched vulnerabilities in AhsayCBS to deliver a Python-based implant. The activity, observed by Huntress in October 2026, involves the exploitation of a chain...",
+      "description": "[FEEDS] Cybersecurity researchers have disclosed details of an attack that exploited two now-patched vulnerabilities in AhsayCBS to deliver a Python-based implant. The activity, observed by Huntress in early October 2026, involves the exploitation of a...",
       "url": "https://thehackernews.com/2026/11/attackers-exploit-ahsaycbs-flaws-to.html",
       "date": "2026-11-10T16:00:55Z"
-    },
-    {
-      "title": "Binance warns of iOS flaw that could leak crypto wallet secrets",
-      "description": "[BLEEPINGCOMPUTER] Binance is warning about a vulnerability in Apple's iOS 26.7.1, 27.0.1, and 27.2 that could allow third-party apps to read private files stored by other apps, including cryptocurrency seed phrases, secret keys, and login credentials. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/binance-warns-of-ios-flaw-that-could-leak-crypto-wallet-secrets/",
-      "date": "2026-11-10T15:59:19Z"
     },
     {
       "title": "Blind Eagle Uses Fake Court Notices to Deliver Remote Access Trojan Across Latin America",
@@ -44,34 +80,10 @@
       "date": "2026-11-10T15:58:44Z"
     },
     {
-      "title": "Fireworks AI Breach Widens to Expose Customer Billing Data and Incomplete Model Weights",
-      "description": "[FEEDS] Fireworks AI disclosed on Monday that its investigation into a security incident first reported early last month&nbsp; uncovered further malicious activity, affecting account and billing information, alongside secrets, datasets, and incomplete...",
-      "url": "https://thehackernews.com/2026/11/fireworks-ai-breach-widens-to-expose.html",
-      "date": "2026-11-10T15:33:59Z"
-    },
-    {
-      "title": "Ransomware recovery is now a client retention metric",
-      "description": "[BLEEPINGCOMPUTER] Recovering from ransomware doesn't guarantee an MSP will retain its clients, especially when delays, poor communication, and unexpected costs undermine trust. Kaseya examines how disconnected recovery tools create these problems and how integrated...",
-      "url": "https://www.bleepingcomputer.com/news/security/ransomware-recovery-is-now-a-client-retention-metric/",
-      "date": "2026-11-10T15:01:11Z"
-    },
-    {
       "title": "Apple Patches Everyting: November 2026 Edition, (Tue, Nov 10th)",
       "description": "[ISC] &#xd;",
       "url": "https://isc.sans.edu/diary/rss/33506",
       "date": "2026-11-10T12:48:55Z"
-    },
-    {
-      "title": "Binance Warns of iOS Sandbox Escape That Could Expose Crypto Wallet Keys, No Fix Confirmed",
-      "description": "[FEEDS] An iOS sandbox escape published on GitHub lets an app read other apps' files on iPhones running iOS 26 and 27. That puts seed phrases, private keys, and login credentials at risk of exposure to malicious apps, Binance warned today. Apple's updates...",
-      "url": "https://thehackernews.com/2026/11/binance-warns-of-ios-sandbox-escape.html",
-      "date": "2026-11-10T12:15:31Z"
-    },
-    {
-      "title": "SAP patches ICM2SHELL and PROXYGATE maximum severity flaws",
-      "description": "[BLEEPINGCOMPUTER] SAP patched 35 vulnerabilities in its November 2026 security updates, including four maximum-severity issues affecting its NetWeaver, Web Dispatcher, and Gateway software. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/sap-patches-four-maximum-severity-security-vulnerabilities/",
-      "date": "2026-11-10T12:07:03Z"
     },
     {
       "title": "New OpenSSH Vulnerability",
@@ -80,76 +92,70 @@
       "date": "2026-11-10T12:02:38Z"
     },
     {
-      "title": "Beyond the Alert: The Case for Rich Network Data",
-      "description": "[FEEDS] At some point your security will fail. This isn\u2019t pessimism. It\u2019s not because your team and tools aren\u2019t sophisticated enough. It\u2019s the reason we have detections in the first place. And, it\u2019s why once we accept that prevention has its limits, we...",
-      "url": "https://thehackernews.com/2026/11/beyond-alert-case-for-rich-network-data.html",
-      "date": "2026-11-10T11:38:13Z"
+      "title": "CISA Adds Six Known Exploited Vulnerabilities to Catalog",
+      "description": "[CISA] CISA has added six new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-20320 Cisco BroadWorks Improper Restriction of XML External Entity Reference Vulnerability&nbsp;...",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/11/10/cisa-adds-six-known-exploited-vulnerabilities-catalog",
+      "date": "2026-11-10T12:00:00Z"
+    },
+    {
+      "title": "CSA awards $5.6m for cybersecurity tool projects",
+      "description": "[THE STRAITS TIMES] CSA awards $5.6m to 13 projects developing cybersecurity tools Read more at straitstimes.com.",
+      "url": "https://www.straitstimes.com/tech/csa-awards-5-6m-to-13-projects-developing-cybersecurity-tools",
+      "date": "2026-11-10T11:05:00Z"
     },
     {
       "title": "Apple Patches iMessage Group Chat Privacy Flaws and Bluetooth Pairing Vulnerabilities",
-      "description": "[FEEDS] An iMessage flaw could let a remote attacker join a group chat and receive its messages, Apple said yesterday, and it released updates to fix it. The updates also fix a separate iMessage flaw that could let someone added to a group access messages...",
+      "description": "[THE HACKER NEWS] Apple fixes two iMessage flaws that could expose group messages, alongside a Brotli vulnerability listed in CISA's exploited catalog.",
       "url": "https://thehackernews.com/2026/11/apple-patches-imessage-group-chat.html",
-      "date": "2026-11-10T10:16:51Z"
+      "date": "2026-11-10T10:16:00Z"
     },
     {
-      "title": "Anthropic Launches New Claude AI Models for Advanced Coding, Cybersecurity",
-      "description": "[LOKMAT TIMES] Anthropic Launches New Claude AI Models for Advanced Coding, Cybersecurity - AI giant Anthropic has introduced two upgraded models, Claude Fable 5.2 and Claude Mythos 5.2, designed to revolutionize advanced ... Get Latest News on Technology only on...",
-      "url": "https://www.lokmattimes.com/technology/anthropic-launches-new-claude-ai-models-for-advanced-coding-cybersecurity-a001-w02/",
-      "date": "2026-11-10T07:10:28Z"
+      "title": "SATS Tappee data breach affects four Singapore schools",
+      "description": "[THE STRAITS TIMES] SATS says a Tappee data breach exposed student and parent details at four Singapore schools, with the app temporarily unavailable. Read more at straitstimes.com.",
+      "url": "https://www.straitstimes.com/singapore/sats-meal-ordering-app-tappee-suffers-cyber-breach-four-schools-affected",
+      "date": "2026-11-10T09:59:26Z"
     },
     {
-      "title": "Google Issues Chrome Security Update for Eighth Actively Exploited Zero-Day of 2026",
-      "description": "[THE HACKER NEWS] Google patches nine Chrome flaws, including actively exploited CVE-2026-125350, a high-severity use-after-free vulnerability in the XML component.",
-      "url": "https://thehackernews.com/2026/11/google-issues-chrome-security-update.html",
-      "date": "2026-11-10T06:52:00Z"
+      "title": "SATS Tappee data breach affects four Singapore schools",
+      "description": "[THE STRAITS TIMES] SATS says a Tappee data breach exposed student and parent details at four Singapore schools, with the app temporarily unavailable. Read more at straitstimes.com.",
+      "url": "https://www.straitstimes.com/singapore/meal-ordering-app-tappee-suffers-cyber-breach-says-sats-four-schools-affected",
+      "date": "2026-11-10T09:59:26Z"
     },
     {
-      "title": "CertiK urges crypto exchanges to cap withdrawals from hot wallets",
-      "description": "[CRYPTO BREAKING NEWS] Crypto exchanges should not rely on cold-storage percentages alone to judge security, according to cybersecurity firm CertiK. The company argues that",
-      "url": "https://www.cryptobreaking.com/certik-urges-crypto-exchanges-to-2/",
-      "date": "2026-11-10T06:43:07Z"
+      "title": "Thai freshman detects cybersecurity flaw at NASA",
+      "description": "[BANGKOK POST] America's National Aeronautics and Space Administration has thanked a Thai freshman at Khon Kaen University for detecting a cybersecurity flaw in the US space agency's computer system.",
+      "url": "https://www.bangkokpost.com/life/tech/3352240/thai-freshman-detects-cybersecurity-flaw-at-nasa",
+      "date": "2026-11-10T09:39:00Z"
     },
     {
-      "title": "CISA Warns of Active Exploitation of OpenSSH, GPUStack, FreeSWITCH, and IBM Flaws",
-      "description": "[THE HACKER NEWS] CISA adds four exploited flaws to KEV as OpenSSH SSHole attacks involve TAC Agent deployment, credential access attempts, and botnet activity.",
-      "url": "https://thehackernews.com/2026/11/cisa-warns-of-active-exploitation-of.html",
-      "date": "2026-11-10T06:31:00Z"
+      "title": "Australia tightens AI oversight rules after OpenAI agent breached government website",
+      "description": "[THE ECONOMIC TIMES] Australia has announced stringent new measures for artificial intelligence companies, mandating immediate reporting of any misaligned actions to bolster cybersecurity. Additionally, open evaluations of AI models will ensure adherence to established...",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/australia-tightens-ai-oversight-rules-after-openai-agent-breached-government-website/articleshow/135706510.cms",
+      "date": "2026-11-10T09:37:37Z"
     },
     {
-      "title": "Fires, protests and pollution: Apple's supply chain challenges in India",
-      "description": "[BUSINESS STANDARD] The Hosur incident is the latest setback for Apple's manufacturing network in India, following a ransomware attack, pollution-control concerns and scrutiny of hiring practices at supplier plants",
-      "url": "https://www.business-standard.com/india-news/fires-protests-and-pollution-apple-s-supply-chain-challenges-in-india-126111000237_1.html",
-      "date": "2026-11-10T06:25:52Z"
+      "title": "Sri Lanka's Digital Future Gets $98 Million Boost for Broadband and Cybersecurity",
+      "description": "[DEVDISCOURSE] ADB will provide an additional $1 million technical assistance grant through its Technical Assistance Special Fund to support project preparation, technical design and capacity building for the agencies responsible for implementation.",
+      "url": "https://www.devdiscourse.com/article/business/4004380-sri-lankas-digital-future-gets-98-million-boost-for-broadband-and-cybersecurity",
+      "date": "2026-11-10T09:37:05Z"
     },
     {
-      "title": "Claude Fable 5.2 vs Mythos 5.2: What's New In Anthropic's Latest AI Models?",
-      "description": "[NEWS18] Anthropic has launched Claude Fable 5.2 and Claude Mythos 5.2 with improvements in coding, reasoning, scientific research and cybersecurity.",
-      "url": "https://www.news18.com/tech/claude-fable-5-2-vs-mythos-5-2-whats-new-in-anthropics-latest-ai-models-10419677.html",
-      "date": "2026-11-10T05:55:17Z"
+      "title": "Thai Airways reports passenger data breach",
+      "description": "[THE STRAITS TIMES] Thai Airways reports cybersecurity incident affecting passenger records, with booking data potentially accessed but no credit card information exposed. Read more at straitstimes.com.",
+      "url": "https://www.straitstimes.com/asia/se-asia/thai-airways-reports-unauthorised-access-to-passenger-records",
+      "date": "2026-11-10T08:39:45Z"
     },
     {
-      "title": "Amid questions over Japan\u2019s cybersecurity, just how safe is the My Number system?",
-      "description": "[THE JAPAN TIMES ] With over 80% of the population using My Number, concerns have emerged over the country\u2019s all-in-one card and the personal information stored in it.",
-      "url": "https://www.japantimes.co.jp/news/2026/11/10/japan/my-number-security/",
-      "date": "2026-11-10T05:29:09Z"
+      "title": "Anthropic Unveils Claude Fable 5.2 and Claude Mythos 5.2 For Advanced Coding, Cybersecurity",
+      "description": "[FREE PRESS JOURNAL] Anthropic has launched Claude Fable 5.2 and Mythos 5.2, upgraded AI models designed for advanced coding, mathematics, cybersecurity and scientific research. The models can autonomously handle complex tasks for extended periods. Fable offers broader...",
+      "url": "https://www.freepressjournal.in/tech/anthropic-unveils-claude-fable-52-and-claude-mythos-52-for-advanced-coding-cybersecurity",
+      "date": "2026-11-10T08:23:13Z"
     },
     {
-      "title": "Japan Unveils $63 Million Emergency Cybersecurity Package Amid Surge in AI",
-      "description": "[NATURAL NEWS] Japan launched a multimillion-dollar emergency cybersecurity package on Friday, Nov. 6, in response to a wave of hacking incidents targeting businesses and government agencies, the government said. Prime Minister Sanae Takaichi said dozens of...",
-      "url": "https://www.naturalnews.com/2026-11-10-japan-unveils-emergency-cybersecurity-package-amid-hacking-attacks.html",
-      "date": "2026-11-10T04:50:13Z"
-    },
-    {
-      "title": "Kenya's Crypto Boom Raises Big Questions About Consumer Safety, Stablecoins and Financial Crime",
-      "description": "[DEVDISCOURSE] Kenya\u2019s estimated $6 billion cryptocurrency market offers new opportunities for digital payments and international trade, but rising fraud, weak consumer protection and financial risks demand stronger regulation. The IMF urges Kenya to strengthen...",
-      "url": "https://www.devdiscourse.com/article/other/4003468-kenyas-crypto-boom-raises-big-questions-about-consumer-safety-stablecoins-and-financial-crime",
-      "date": "2026-11-10T03:52:29Z"
-    },
-    {
-      "title": "KT Corp's Q3 Profit Dips Amid Data Breach Payouts, AI Investments",
-      "description": "[LOKMAT TIMES] KT Corp's Q3 Profit Dips Amid Data Breach Payouts, AI Investments - South Korea's leading mobile carrier, KT Corp., reported a 6.1% drop in its third-quarter operating profit compared to the ... Get Latest News on Technology only on lokmattimes.com",
-      "url": "https://www.lokmattimes.com/technology/kt-corps-q3-profit-dips-amid-data-breach-payouts-ai-investments-a001-w02/",
-      "date": "2026-11-10T03:43:17Z"
+      "title": "60,000 THAI bookings \u2018compromised\u2019 in Amadeus breach",
+      "description": "[BANGKOK POST] More than 60,000 passenger bookings on Thai Airways International (THAI) were compromised over a three-year period by cybersecurity breaches on the Amadeus booking and ticketing platform, according to the national carrier.",
+      "url": "https://www.bangkokpost.com/thailand/general/3352180/60000-thai-bookings-compromised-in-amadeus-breach",
+      "date": "2026-11-10T07:47:00Z"
     },
     {
       "title": "ISC Stormcast For Tuesday, November 10th, 2026 https://isc.sans.edu/podcastdetail/10172, (Tue, Nov 10th)",
@@ -234,12 +240,6 @@
       "description": "[CISA] CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-111357 Ivanti Connect Secure Missing Authentication for Critical Function Vulnerability CVE-2026-118527...",
       "url": "https://www.cisa.gov/news-events/alerts/2026/10/30/cisa-adds-two-known-exploited-vulnerabilities-catalog",
       "date": "2026-10-30T12:00:00Z"
-    },
-    {
-      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
-      "description": "[CISA] CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-97229 GitLab Community Edition and Enterprise Edition Integer Overflow or Wraparound vulnerability...",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/10/29/cisa-adds-two-known-exploited-vulnerabilities-catalog",
-      "date": "2026-10-29T12:00:00Z"
     }
   ]
 }
