@@ -1,6 +1,36 @@
 {
-  "updated": "2026-11-11 00:18:47 UTC",
+  "updated": "2026-11-11 08:38:44 UTC",
   "news": [
+    {
+      "title": "Microsoft Patches 1,259 Flaws, Including Exploited Outlook Bug That May Expose NTLMv2 Hashes",
+      "description": "[FEEDS] Microsoft on Tuesday released patches for a total of 1,259 vulnerabilities spanning its software portfolio, the second consecutive month where the patch volume has exceeded 1,000 flaws. These cover 726 flaws in Windows, 174 in Office, 61 in...",
+      "url": "https://thehackernews.com/2026/11/microsoft-patches-1259-flaws-including.html",
+      "date": "2026-11-11T08:17:53Z"
+    },
+    {
+      "title": "Railway Says Stolen Customer AI Keys Led to $740,000 in Estimated Unauthorized Usage Charges",
+      "description": "[FEEDS] AI provider keys that customers stored on Railway were stolen in an October breach and used to commit an estimated $740,000 in unauthorized spending, the platform-as-a-service provider said yesterday. It has promised to pay those charges itself when...",
+      "url": "https://thehackernews.com/2026/11/railway-says-stolen-customer-ai-keys.html",
+      "date": "2026-11-11T07:49:04Z"
+    },
+    {
+      "title": "Microsoft Researchers Show AI Agents Can Be Backdoored by Editing Fewer Than 10 Neurons",
+      "description": "[FEEDS] An AI model can be given a hidden backdoor by editing fewer than 10 of its rarely used neurons, without retraining the model, Microsoft researchers have shown. When a chosen trigger appears, the model outputs an attacker's command, which an agent...",
+      "url": "https://thehackernews.com/2026/11/microsoft-researchers-show-ai-agents.html",
+      "date": "2026-11-11T07:21:05Z"
+    },
+    {
+      "title": "Cisco BroadWorks and Openwave Flaws Actively Exploited Despite Available Patches",
+      "description": "[FEEDS] The U.S. Cybersecurity and Infrastructure Security Agency (CISA) Tuesday added two security flaws impacting Cisco BroadWorks and Openwave Messaging Webtop Media Transcoder to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of...",
+      "url": "https://thehackernews.com/2026/11/cisco-broadworks-and-openwave-flaws.html",
+      "date": "2026-11-11T06:04:02Z"
+    },
+    {
+      "title": "ISC Stormcast For Wednesday, November 11th, 2026 https://isc.sans.edu/podcastdetail/10174, (Wed, Nov 11th)",
+      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
+      "url": "https://isc.sans.edu/diary/rss/33510",
+      "date": "2026-11-11T02:00:03Z"
+    },
     {
       "title": "Railway breach leads to $740,000 in fraudulent AI charges",
       "description": "[BLEEPINGCOMPUTER] Cloud hosting provider Railway says hackers exploited vulnerabilities in its infrastructure to steal customer authentication secrets and generate approximately $740,000 in fraudulent AI usage, potentially exposing credentials for up to 100,000...",
@@ -50,34 +80,70 @@
       "date": "2026-11-10T19:07:36Z"
     },
     {
+      "title": "Hearing aid giant Amplifon reveals data breach hits thousands of US customers - Social Security numbers and medical information stolen",
+      "description": "[TECHRADAR] Some sources are saying more than a million people are affected",
+      "url": "https://www.techradar.com/pro/security/hearing-aid-giant-amplifon-reveals-data-breach-hits-thousands-of-us-customers-social-security-numbers-and-medical-information-stolen",
+      "date": "2026-11-10T18:35:00Z"
+    },
+    {
       "title": "Windows 11 KB5132061 & KB5131087 cumulative updates released",
       "description": "[BLEEPINGCOMPUTER] Microsoft has released the Patch Tuesday Windows 11 and cumulative updates for versions 26H2/25H2/24H2 and 23H2 to fix security vulnerabilities and bugs, and add new features. [...]",
       "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5132061-and-kb5131087-cumulative-updates-released/",
       "date": "2026-11-10T18:33:26Z"
     },
     {
-      "title": "Hackers Exploit Critical Xen Orchestra Auth Bypass Flaw to Gain Admin Access",
-      "description": "[FEEDS] French software company Vates VMS has warned of a critical security vulnerability in Xen Orchestra that it said is being actively exploited in the wild. The authentication bypass flaw, which does not yet have a CVE identifier, is tracked as...",
-      "url": "https://thehackernews.com/2026/11/hackers-exploit-critical-xen-orchestra.html",
-      "date": "2026-11-10T18:12:21Z"
+      "title": "Dhaka seeks \u2018$250m\u2019 ADB loan for Bangla AI, cybersecurity",
+      "description": "[THE DAILY STAR] Bangladesh $250 Million ADB Loan for AI: Bangladesh has sought funds from the Asian Development Bank (ADB), with potential co-financing from South Korea, for an indicative $250 million programme to develop the country\u2019s first native Bangla-language...",
+      "url": "https://www.thedailystar.net/news/bangladesh/news/dhaka-seeks-250m-adb-loan-bangla-ai-cybersecurity-4320756",
+      "date": "2026-11-10T18:00:00Z"
     },
     {
-      "title": "Three China-Nexus Espionage Campaigns Linked Through Sparrow Malware Ecosystem",
-      "description": "[FEEDS] Three distinct threat activity clusters with shared infrastructure and malware code similarities have been observed targeting telecommunications providers, government organizations, military entities, research institutions, and critical...",
-      "url": "https://thehackernews.com/2026/11/three-china-nexus-espionage-campaigns.html",
-      "date": "2026-11-10T17:43:23Z"
+      "title": "DQS certifies Samsung Display's automotive cybersecurity management",
+      "description": "[PR NEWSWIRE UK] /PRNewswire/ -- DQS has completed independent assessments of Samsung Display's automotive cybersecurity management, resulting in ISO/SAE 21434 certification...",
+      "url": "https://www.prnewswire.co.uk/news-releases/dqs-certifies-samsung-displays-automotive-cybersecurity-management-302935297.html",
+      "date": "2026-11-10T17:47:00Z"
     },
     {
-      "title": "Attackers Exploit AhsayCBS Flaws to Deploy Sandbox-Evading Python Backdoor",
-      "description": "[FEEDS] Cybersecurity researchers have disclosed details of an attack that exploited two now-patched vulnerabilities in AhsayCBS to deliver a Python-based implant. The activity, observed by Huntress in early October 2026, involves the exploitation of a...",
-      "url": "https://thehackernews.com/2026/11/attackers-exploit-ahsaycbs-flaws-to.html",
-      "date": "2026-11-10T16:00:55Z"
+      "title": "Europe's Refrigeration Cyberattacks Expose a Weak Link in Critical Infrastructure, Cybersecurity Expert Warns",
+      "description": "[INTERNATIONAL BUSINESS TIMES] The breach exploited internet-connected refrigeration systems maintained by an outside supplier, highlighting cybersecurity risks for hospitals and blood banks.",
+      "url": "https://www.ibtimes.com/cyberattack-french-plasma-storage-sites-supplier-access-3809615",
+      "date": "2026-11-10T17:43:02Z"
     },
     {
-      "title": "Blind Eagle Uses Fake Court Notices to Deliver Remote Access Trojan Across Latin America",
-      "description": "[FEEDS] The threat actor known as Blind Eagle has resurfaced with a new campaign targeting organizations in Latin America through judicial and administrative-themed phishing lures to deliver a remote access trojan (RAT) that shares its lineage with AsyncRAT...",
-      "url": "https://thehackernews.com/2026/11/blind-eagle-uses-fake-court-notices-to.html",
-      "date": "2026-11-10T15:58:44Z"
+      "title": "Google unveils Gemini 4 Carbon with upgraded agentic coding and cybersecurity capabilities",
+      "description": "[FIRSTPOST] Google's Gemini 4 Carbon brings upgraded agentic coding, advanced cybersecurity and scientific reasoning capabilities, with expanded access for developers, enterprises, researchers and eligible consumers.",
+      "url": "https://www.firstpost.com/tech/google-unveils-gemini-4-carbon-with-upgraded-agentic-coding-and-cybersecurity-capabilities-14059126.html",
+      "date": "2026-11-10T17:35:01Z"
+    },
+    {
+      "title": "EU cyber chief warns home appliances could be next",
+      "description": "[THE STRAITS TIMES] EU cyber chief warns home appliances could be next after supermarket fridge hacks, urging more investment in cybersecurity. Read more at straitstimes.com.",
+      "url": "https://www.straitstimes.com/world/europe/after-fridge-hacks-home-appliances-could-be-next-warns-eu-cyber-chief",
+      "date": "2026-11-10T17:25:44Z"
+    },
+    {
+      "title": "SEC probes data breach; says no records affected",
+      "description": "[THE MANILA TIMES] THE Securities and Exchange Commission (SEC) said initial findings showed that its internal database infrastructure and system integrity remain intact following a data security incident detected on Nov. 6.",
+      "url": "https://www.manilatimes.net/2026/11/11/business/top-business/sec-probes-data-breach-says-no-records-affected/2467058",
+      "date": "2026-11-10T16:16:00Z"
+    },
+    {
+      "title": "Americans eligible for up to $2,500 payout from $15m settlement pot in healthcare privacy breakdown",
+      "description": "[THE SUN U.S EDITION] AMERICANS can claim up to $2,500 from a $15million data breach settlement against a healthcare company. DaVita, an American health care company...",
+      "url": "https://www.the-sun.com/money/17284661/davita-denver-colorado-data-breach-settlement-claim/",
+      "date": "2026-11-10T16:04:05Z"
+    },
+    {
+      "title": "Google's Gemini 4 Carbon Is Now Widely Available Around The World",
+      "description": "[ENGADGET] Google is rolling out Gemini 4 Carbon after a limited release to cybersecurity companies.",
+      "url": "https://www.engadget.com/2311855/gemini-4-carbon-now-available-worldwide/",
+      "date": "2026-11-10T16:00:00Z"
+    },
+    {
+      "title": "M\u2019sians take precautions as global cyberattacks escalate",
+      "description": "[THE STAR] JOHOR BARU: Rising concerns over cyberattacks have prompted the public to be on high alert and stay better informed about potential cybersecurity threats.",
+      "url": "https://www.thestar.com.my/news/nation/2026/11/11/msians-take-precautions-as-global-cyberattacks-escalate",
+      "date": "2026-11-10T16:00:00Z"
     },
     {
       "title": "Apple Patches Everyting: November 2026 Edition, (Tue, Nov 10th)",
@@ -96,66 +162,6 @@
       "description": "[CISA] CISA has added six new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-20320 Cisco BroadWorks Improper Restriction of XML External Entity Reference Vulnerability&nbsp;...",
       "url": "https://www.cisa.gov/news-events/alerts/2026/11/10/cisa-adds-six-known-exploited-vulnerabilities-catalog",
       "date": "2026-11-10T12:00:00Z"
-    },
-    {
-      "title": "CSA awards $5.6m for cybersecurity tool projects",
-      "description": "[THE STRAITS TIMES] CSA awards $5.6m to 13 projects developing cybersecurity tools Read more at straitstimes.com.",
-      "url": "https://www.straitstimes.com/tech/csa-awards-5-6m-to-13-projects-developing-cybersecurity-tools",
-      "date": "2026-11-10T11:05:00Z"
-    },
-    {
-      "title": "Apple Patches iMessage Group Chat Privacy Flaws and Bluetooth Pairing Vulnerabilities",
-      "description": "[THE HACKER NEWS] Apple fixes two iMessage flaws that could expose group messages, alongside a Brotli vulnerability listed in CISA's exploited catalog.",
-      "url": "https://thehackernews.com/2026/11/apple-patches-imessage-group-chat.html",
-      "date": "2026-11-10T10:16:00Z"
-    },
-    {
-      "title": "SATS Tappee data breach affects four Singapore schools",
-      "description": "[THE STRAITS TIMES] SATS says a Tappee data breach exposed student and parent details at four Singapore schools, with the app temporarily unavailable. Read more at straitstimes.com.",
-      "url": "https://www.straitstimes.com/singapore/sats-meal-ordering-app-tappee-suffers-cyber-breach-four-schools-affected",
-      "date": "2026-11-10T09:59:26Z"
-    },
-    {
-      "title": "SATS Tappee data breach affects four Singapore schools",
-      "description": "[THE STRAITS TIMES] SATS says a Tappee data breach exposed student and parent details at four Singapore schools, with the app temporarily unavailable. Read more at straitstimes.com.",
-      "url": "https://www.straitstimes.com/singapore/meal-ordering-app-tappee-suffers-cyber-breach-says-sats-four-schools-affected",
-      "date": "2026-11-10T09:59:26Z"
-    },
-    {
-      "title": "Thai freshman detects cybersecurity flaw at NASA",
-      "description": "[BANGKOK POST] America's National Aeronautics and Space Administration has thanked a Thai freshman at Khon Kaen University for detecting a cybersecurity flaw in the US space agency's computer system.",
-      "url": "https://www.bangkokpost.com/life/tech/3352240/thai-freshman-detects-cybersecurity-flaw-at-nasa",
-      "date": "2026-11-10T09:39:00Z"
-    },
-    {
-      "title": "Australia tightens AI oversight rules after OpenAI agent breached government website",
-      "description": "[THE ECONOMIC TIMES] Australia has announced stringent new measures for artificial intelligence companies, mandating immediate reporting of any misaligned actions to bolster cybersecurity. Additionally, open evaluations of AI models will ensure adherence to established...",
-      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/australia-tightens-ai-oversight-rules-after-openai-agent-breached-government-website/articleshow/135706510.cms",
-      "date": "2026-11-10T09:37:37Z"
-    },
-    {
-      "title": "Sri Lanka's Digital Future Gets $98 Million Boost for Broadband and Cybersecurity",
-      "description": "[DEVDISCOURSE] ADB will provide an additional $1 million technical assistance grant through its Technical Assistance Special Fund to support project preparation, technical design and capacity building for the agencies responsible for implementation.",
-      "url": "https://www.devdiscourse.com/article/business/4004380-sri-lankas-digital-future-gets-98-million-boost-for-broadband-and-cybersecurity",
-      "date": "2026-11-10T09:37:05Z"
-    },
-    {
-      "title": "Thai Airways reports passenger data breach",
-      "description": "[THE STRAITS TIMES] Thai Airways reports cybersecurity incident affecting passenger records, with booking data potentially accessed but no credit card information exposed. Read more at straitstimes.com.",
-      "url": "https://www.straitstimes.com/asia/se-asia/thai-airways-reports-unauthorised-access-to-passenger-records",
-      "date": "2026-11-10T08:39:45Z"
-    },
-    {
-      "title": "Anthropic Unveils Claude Fable 5.2 and Claude Mythos 5.2 For Advanced Coding, Cybersecurity",
-      "description": "[FREE PRESS JOURNAL] Anthropic has launched Claude Fable 5.2 and Mythos 5.2, upgraded AI models designed for advanced coding, mathematics, cybersecurity and scientific research. The models can autonomously handle complex tasks for extended periods. Fable offers broader...",
-      "url": "https://www.freepressjournal.in/tech/anthropic-unveils-claude-fable-52-and-claude-mythos-52-for-advanced-coding-cybersecurity",
-      "date": "2026-11-10T08:23:13Z"
-    },
-    {
-      "title": "60,000 THAI bookings \u2018compromised\u2019 in Amadeus breach",
-      "description": "[BANGKOK POST] More than 60,000 passenger bookings on Thai Airways International (THAI) were compromised over a three-year period by cybersecurity breaches on the Amadeus booking and ticketing platform, according to the national carrier.",
-      "url": "https://www.bangkokpost.com/thailand/general/3352180/60000-thai-bookings-compromised-in-amadeus-breach",
-      "date": "2026-11-10T07:47:00Z"
     },
     {
       "title": "ISC Stormcast For Tuesday, November 10th, 2026 https://isc.sans.edu/podcastdetail/10172, (Tue, Nov 10th)",
@@ -186,12 +192,6 @@
       "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
       "url": "https://isc.sans.edu/diary/rss/33500",
       "date": "2026-11-09T02:05:10Z"
-    },
-    {
-      "title": "Scans for Sshole Vulnerability (CVE-2026-123158), (Sun, Nov 8th)",
-      "description": "[ISC] Our honeypots use \"Cowrie\" to collect SSH data. With the emergence of the \"sshole\" vulnerability last week, we are now seeing an increase in attempts to exploit the vulnerability. Our data is a bit limited in this respect. Our honeypots collect only...",
-      "url": "https://isc.sans.edu/diary/rss/33498",
-      "date": "2026-11-08T15:44:33Z"
     },
     {
       "title": "Friday Squid Blogging: New Jurassic Squid Predecessors",
