@@ -1,11 +1,101 @@
 {
-  "updated": "2026-11-12 04:55:29 UTC",
+  "updated": "2026-11-12 14:15:58 UTC",
   "news": [
+    {
+      "title": "Microsoft: Recent Windows updates cause SQL Server performance issues",
+      "description": "[BLEEPINGCOMPUTER] Microsoft has confirmed that Windows updates released since the October 2026 Patch Tuesday are causing SQL Server performance and stability issues. [...]",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-recent-windows-updates-cause-sql-server-performance-issues/",
+      "date": "2026-11-12T12:11:11Z"
+    },
+    {
+      "title": "Google Cloud Warns Three AMD Turin CPU Flaws Could Leak Data Across Processes in VMs",
+      "description": "[FEEDS] Google Cloud VMs on AMD Turin chips need a guest OS patch and a stop-and-start to protect against three CPU side-channel flaws, Google said this week. The company has already applied mitigations against attacks between VMs, and between VMs and the...",
+      "url": "https://thehackernews.com/2026/11/google-cloud-warns-three-amd-turin-cpu.html",
+      "date": "2026-11-12T12:09:14Z"
+    },
+    {
+      "title": "Another Way Police Are Locating People from Their Smartphones",
+      "description": "[SCHNEIER] Penlink&#8217;s Webloc is an application that locates people using information from the weather, gaming, email, and religious apps on their phone. It&#8217;s sold to the police. The tool collects vast quantities of location data from smartphones via...",
+      "url": "https://www.schneier.com/blog/archives/2026/11/another-way-police-are-locating-people-from-their-smartphones.html",
+      "date": "2026-11-12T12:02:58Z"
+    },
+    {
+      "title": "Webinar: See How Identity Blind Spots Put Your SOC at Risk and How to Close Them",
+      "description": "[FEEDS] Security teams have more alerts, logs, and monitoring tools than ever. Yet when an attack happens, one simple question can still take too long to answer: Who or what is behind this activity, and what can they access? A suspicious login might belong...",
+      "url": "https://thehackernews.com/2026/11/your-soc-sees-alert-but-does-it-know.html",
+      "date": "2026-11-12T12:02:51Z"
+    },
+    {
+      "title": "Exploit Attempts for GPUStack Authentication Bypass (CVE-2026-102895), (Thu, Nov 12th)",
+      "description": "[ISC] CVE-2026-102895 is a trivial authentication-bypass vulnerability. GPUStack is also an attractive target. It is open-source software that manages clusters of GPUs, which are typically used to run AI workloads. All versions of GPUStack prior to 2.2.0,...",
+      "url": "https://isc.sans.edu/diary/rss/33514",
+      "date": "2026-11-12T11:56:24Z"
+    },
+    {
+      "title": "New N-central Exploits Work Against Patched Servers, Enable Root RCE and Windows SYSTEM Access",
+      "description": "[FEEDS] N-able on Thursday said it's investigating a new public disclosure containing claims of additional vulnerabilities in on-premise versions of N-central running version 2026.4.1 HF2. \"Based on our initial review, the server issue described depends on...",
+      "url": "https://thehackernews.com/2026/11/new-n-central-exploits-work-against.html",
+      "date": "2026-11-12T11:51:43Z"
+    },
+    {
+      "title": "Calendar Invites and Live Proxies: Inside a Google Session Hijacking Campaign",
+      "description": "[FEEDS] Since mid-August 2026, a phishing operation has been stealing live Google sessions from corporate users. Every check defenders normally lean on to judge a link came back clean, and the operator designed it that way on purpose. The Threat Research...",
+      "url": "https://thehackernews.com/2026/11/calendar-invites-and-live-proxies.html",
+      "date": "2026-11-12T11:51:31Z"
+    },
+    {
+      "title": "PTC Patches Critical Windchill and FlexPLM Flaw That Could Enable Remote Code Execution",
+      "description": "[FEEDS] PTC has released patches for a new critical vulnerability impacting Windchill and FlexPLM software that, if successfully exploited, could result in remote code execution. The security flaw, tracked as CVE-2026-126325, carries a CVSS v4 score of 9.2...",
+      "url": "https://thehackernews.com/2026/11/ptc-patches-critical-windchill-and.html",
+      "date": "2026-11-12T11:33:15Z"
+    },
+    {
+      "title": "Microsoft confirms Windows security updates installation issues",
+      "description": "[BLEEPINGCOMPUTER] Microsoft has confirmed reports that the November 2026 security updates are failing to install on Windows 11 systems with the October preview update. [...]",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-kb5132061-installation-issues-0x80070306-0x800f0989-0x800f0993-errors/",
+      "date": "2026-11-12T10:24:07Z"
+    },
+    {
+      "title": "Hackers plant GSocket on Linux servers for persistent access",
+      "description": "[BLEEPINGCOMPUTER] Multiple threat actors are abusing GSocket, a legitimate open-source remote access tool, to maintain access to Linux servers even after patching the vulnerabilities exploited to gain initial access. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-plant-gsocket-on-linux-servers-for-persistent-access/",
+      "date": "2026-11-12T09:38:00Z"
+    },
+    {
+      "title": "Critical Pre-Auth MongoDB Flaw (CVE-2026-118383) Can Crash Lagging Servers on Failover",
+      "description": "[FEEDS] A critical flaw in MongoDB Server allows an unauthenticated attacker to send two requests that trigger a crash on the database server. The crash occurs only if that server is later chosen to take over as the main server while it still lacks some...",
+      "url": "https://thehackernews.com/2026/11/critical-pre-auth-mongodb-flaw-cve-2026.html",
+      "date": "2026-11-12T09:25:00Z"
+    },
     {
       "title": "ISC Stormcast For Thursday, November 12th, 2026 https://isc.sans.edu/podcastdetail/10176, (Thu, Nov 12th)",
       "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
       "url": "https://isc.sans.edu/diary/rss/33512",
       "date": "2026-11-12T02:00:03Z"
+    },
+    {
+      "title": "Cyber Attacks Remain a Third Higher Than Last Year as AI-Powered Extortion Group Breaks into the Top Three",
+      "description": "[ITWIRE] Education stays at the top of attackers\u2019 target list, risky GenAI use and ransomware keep growing, with a new extortion group making use of AI tooling to climb to top 3",
+      "url": "https://itwire.com/business-it-news/security/cyber-attacks-remain-a-third-higher-than-last-year-as-ai-powered-extortion-group-breaks-into-the-top-three",
+      "date": "2026-11-12T01:01:15Z"
+    },
+    {
+      "title": "Cyberattacks escalating in Romania: 353% increase in compromised accounts and ransomware incidents up by 153%",
+      "description": "[EUROPE SAYS] Aon highlights the rapid transformation of cyber risk, which is extending beyond IT departments and becoming a direct threat to business continuity and",
+      "url": "https://www.europesays.com/3369295/",
+      "date": "2026-11-12T00:48:13Z"
+    },
+    {
+      "title": "Cyberattacks hit a third of Japan firms or their service providers this year: Reuters poll",
+      "description": "[THE STAR] TOKYO, Nov 12 (Reuters) - One-third of \u2060Japanese firms have been hit by cyberattacks targeting either their own systems or those of external \u2060service providers this year, a Reuters survey showed on Thursday, prompting companies to ramp up spending...",
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/11/12/cyberattacks-hit-a-third-of-japan-firms-or-their-service-providers-this-year-reuters-poll",
+      "date": "2026-11-12T00:05:00Z"
+    },
+    {
+      "title": "Personal user data breached after Queensland Parks and Wildlife Service's booking system hacked",
+      "description": "[ABC (AUSTRALIAN BROADCASTING CORPORATION)] The Queensland Parks and Wildlife Service's booking system has suffered a data breach, with hackers stealing personal user information.",
+      "url": "https://www.abc.net.au/news/2026-11-12/queensland-parks-booking-system-hacked/107376788",
+      "date": "2026-11-11T23:54:20Z"
     },
     {
       "title": "Baker Tilly notifies clients of data breach at third-party provider",
@@ -26,10 +116,22 @@
       "date": "2026-11-11T21:27:40Z"
     },
     {
-      "title": "Notion says Fireworks breach exposed customer AI chat transcripts",
-      "description": "[BLEEPINGCOMPUTER] Notion, the digital workspace platform, disclosed that a security breach at its AI infrastructure provider, Fireworks AI, exposed Notion AI chat transcripts in a small number of workspaces. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/notion-says-fireworks-breach-exposed-customer-ai-chat-transcripts/",
-      "date": "2026-11-11T20:54:20Z"
+      "title": "Trump Picks Palantir's Security Chief To Run CISA",
+      "description": "[ZEROHEDGE] ZeroHedge - On a long enough timeline, the survival rate for everyone drops to zero",
+      "url": "https://www.zerohedge.com/political/trump-picks-palantirs-security-chief-run-cisa",
+      "date": "2026-11-11T19:50:00Z"
+    },
+    {
+      "title": "Turla Hackers Stole NATO Emails From Romania via Cereal",
+      "description": "[EUROPE SAYS] Slovak cybersecurity firm ESET says a hacking group it tracks as Turla, which it links with high confidence to Russia\u2019s FSB, breached the Microsoft Exchange",
+      "url": "https://www.europesays.com/3368754/",
+      "date": "2026-11-11T19:26:05Z"
+    },
+    {
+      "title": "4 tech investing themes",
+      "description": "[CNBC] While Nvidia becomes a battleground, other areas of tech could power ahead. The case for cybersecurity, hyperscalers, robotics and quantum computing.",
+      "url": "https://www.cnbc.com/2026/11/11/nvidia-alternatives-4-tech-investing-themes.html",
+      "date": "2026-11-11T19:03:32Z"
     },
     {
       "title": "Microsoft Patch Tuesday November 2026, (Tue, Nov 10th)",
@@ -38,118 +140,28 @@
       "date": "2026-11-11T18:28:43Z"
     },
     {
+      "title": "Preparing your business for holiday cyberattacks",
+      "description": "[ABC17NEWS.COM] By Chris Sellers for Jewelers Mutual Group With the holidays fast approaching, cyberattacks and threats are bound to follow. Semperis found roughly half of surveyed organizations were targeted on a holiday or weekend, and nearly 80% of companies cut...",
+      "url": "https://abc17news.com/stacker-small-business/2026/11/11/preparing-your-business-for-holiday-cyberattacks/",
+      "date": "2026-11-11T17:39:42Z"
+    },
+    {
+      "title": "Cybersecurity chiefs warn hackers could hit our home appliances - here\u2019s how they would do it",
+      "description": "[THE INDEPENDENT] As the EU cyber chief issues a chilling warning that bad actors could soon start to target home appliances, Chris Stokel-Walker investigates the ways that hacks could get very personal and cause maximum chaos",
+      "url": "https://www.independent.co.uk/tech/cyber-attack-uk-fridges-hackers-security-b3083311.html",
+      "date": "2026-11-11T17:29:52Z"
+    },
+    {
       "title": "Binance $6.36 billion hack exposes critical cybersecurity vulnerabilities across crypto industry",
       "description": "[THE NEWS INTERNATIONAL] The massive $6.36 billion breach of Binance stands as a stark watershed moment for the cryptocurrency industry, highlighting just how vulnerable even the most heavily fortified digital asset...",
       "url": "https://www.thenews.com.pk/latest/1423291-binance-636-billion-hack-exposes-critical-cybersecurity-vulnerabilities-across-crypto-industry",
       "date": "2026-11-11T16:54:00Z"
     },
     {
-      "title": "led funding to fight cyber threats with AI agents",
-      "description": "[TECHSTARTUPS.COM] AI cybersecurity startup Daylight has raised $80 million in Series B funding led by Goldman Sachs Alternatives after reporting more than 40-fold revenue growth over the past year, reflecting growing corporate demand for AI agents that can detect and...",
-      "url": "https://techstartups.com/2026/11/11/daylight-raises-80m-in-goldman-sachs-led-funding-to-fight-cyber-threats-with-ai-agents/",
-      "date": "2026-11-11T16:43:09Z"
-    },
-    {
-      "title": "Maersk confirms data breach as WhiteArmor ransomware demands $5 million",
-      "description": "[BLEEPINGCOMPUTER] Maersk announced that a threat actor gained unauthorized access to a local legacy system inherited through an earlier acquisition and extracted data from it. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/maersk-confirms-data-breach-as-whitearmor-ransomware-demands-5-million/",
-      "date": "2026-11-11T16:24:18Z"
-    },
-    {
-      "title": "Critical Zoom Workplace Flaw Could Allow Unauthenticated Remote Privilege Escalation",
-      "description": "[FEEDS] Zoom has released software updates to address two security flaws impacting Zoom Workplace for Windows, including a critical bug that could result in privilege escalation on affected systems. The vulnerabilities are listed below - CVE-2026-108186...",
-      "url": "https://thehackernews.com/2026/11/critical-zoom-workplace-flaw-could.html",
-      "date": "2026-11-11T16:12:46Z"
-    },
-    {
-      "title": "BIR probes possible data exposure after cyberattacks",
-      "description": "[THE MANILA TIMES] THE Bureau of Internal Revenue (BIR) on Wednesday said it is investigating cybersecurity incidents that may have exposed taxpayer profile information.",
-      "url": "https://www.manilatimes.net/2026/11/12/business/top-business/bir-probes-possible-data-exposure-after-cyberattacks/2467917",
-      "date": "2026-11-11T16:12:00Z"
-    },
-    {
-      "title": "Startup Funding News Today, November 11, 2026: Alta, Blue J, Mercor, Path Robotics, Clara, Reflect Orbital & More",
-      "description": "[TECHSTARTUPS.COM] Venture capital poured more than $1.6 billion into 10 major startup financing announcements over the past 24 hours, but the biggest story is where investors are placing their bets. From AI training and industrial robotics to cybersecurity,...",
-      "url": "https://techstartups.com/2026/11/11/startup-funding-news-today-november-11-2026-alta-mercor-path-robotics-clara-reflect-orbital-more/",
-      "date": "2026-11-11T15:59:21Z"
-    },
-    {
-      "title": "India calls for stronger global cooperation to tackle cross",
-      "description": "[THE TRIBUNE] India has called for stronger international cooperation to tackle cross-border cyber fraud and protect digital infrastructure, with Union Minister of State for Communications Dr Chandra Sekhar Pemmasani stressing the need for countries to work...",
-      "url": "https://www.tribuneindia.com/news/business/india-calls-for-stronger-global-cooperation-to-tackle-cross-border-cyber-fraud-at-itu-conference/",
-      "date": "2026-11-11T15:52:33Z"
-    },
-    {
-      "title": "India calls for stronger global cooperation to tackle cross-border cyber fraud at ITU conference",
-      "description": "[DEVDISCOURSE] India has called for stronger international cooperation to tackle cross-border cyber fraud and protect digital infrastructure, with Union Minister of State for Communications Dr Chandra Sekhar Pemmasani stressing the need for countries to work...",
-      "url": "https://www.devdiscourse.com/article/business/4005325-india-calls-for-stronger-global-cooperation-to-tackle-cross-border-cyber-fraud-at-itu-conference",
-      "date": "2026-11-11T15:45:34Z"
-    },
-    {
-      "title": "India calls for stronger global cooperation to tackle cross-border cyber fraud at ITU conference",
-      "description": "[ANI (ASIAN NEWS INTERNATIONAL)] India has called for stronger international cooperation to tackle cross-border cyber fraud and protect digital infrastructure, with Union Minister of State for Communications Dr Chandra Sekhar Pemmasani stressing the need for countries to work...",
-      "url": "https://www.aninews.in/news/business/india-calls-for-stronger-global-cooperation-to-tackle-cross-border-cyber-fraud-at-itu-conference20261111211046/",
-      "date": "2026-11-11T15:40:46Z"
-    },
-    {
-      "title": "AntiFox AI Pentesting Platform Linked to Attacks That Accessed AWS Production Secrets",
-      "description": "[FEEDS] Cybersecurity researchers have disclosed details of a campaign in which an emerging agentic penetration testing platform called AntiFox has been used to steal Amazon Web Services (AWS) credentials and pivot laterally into compromised environments....",
-      "url": "https://thehackernews.com/2026/11/antifox-ai-pentesting-platform-linked.html",
-      "date": "2026-11-11T15:34:27Z"
-    },
-    {
-      "title": "Trust the \"Super Intelligence\" for mission",
-      "description": "[BREAKING DEFENSE] Learn how defense organizations can secure Enterprise Super Intelligence with trusted data, continuous cybersecurity validation, and human oversight for mission-critical military operations.",
-      "url": "https://breakingdefense.com/2026/11/trust-the-super-intelligence-for-mission-critical-operations/",
-      "date": "2026-11-11T15:30:51Z"
-    },
-    {
-      "title": "Hackers use AntiFox AI agents in AWS credential-theft attacks",
-      "description": "[BLEEPINGCOMPUTER] Attackers are using Alibaba Cloud to host self-managed instances of AntiFox, an open-source agentic penetration testing platform, to target web services and AWS environments. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-use-antifox-ai-agents-in-aws-credential-theft-attacks/",
-      "date": "2026-11-11T15:12:59Z"
-    },
-    {
-      "title": "Personal data of Dementia Singapore\u2019s app users potentially compromised in cybersecurity incident",
-      "description": "[THE STRAITS TIMES] Names, e-mails, phone numbers and membership IDs were potentially compromised. NRIC numbers were not compromised. Read more at straitstimes.com.",
-      "url": "https://www.straitstimes.com/singapore/personal-data-of-dementia-singapores-app-users-potentially-compromised-in-cybersecurity-incident",
-      "date": "2026-11-11T15:08:51Z"
-    },
-    {
-      "title": "Cloud hosting firm Railway says recent breach leads to $740,000 in fraudulent AI charges",
-      "description": "[TECHRADAR] A zero-day in a cloud provider's infrastructure granted attackers access to paid AI models",
-      "url": "https://www.techradar.com/pro/security/cloud-hosting-firm-railway-says-recent-breach-leads-to-usd740-000-in-fraudulent-ai-charges",
-      "date": "2026-11-11T14:54:03Z"
-    },
-    {
-      "title": "Hackers Target Qlik Sense Servers With Reverse Shells, Stage ActiveMQ and Veeam Exploits",
-      "description": "[FEEDS] Threat actors have been observed targeting Qlik Sense servers to unsuccessfully deliver PowerShell reverse shell commands against multiple environments in October 2026. Cynet's CyOps and Research teams said they identified the suspicious activity in...",
-      "url": "https://thehackernews.com/2026/11/hackers-target-qlik-sense-servers-with.html",
-      "date": "2026-11-11T14:01:00Z"
-    },
-    {
-      "title": "Over 35,000 Grok-Built Apps Exposed Online, Some Leaking Confidential Data and Passwords",
-      "description": "[FEEDS] Of the 37,571 Grok-built apps that security company Claroc found online, 35,578 were open to anyone without a sign-in, the researchers said yesterday. They included 24 apps built by staff at the social network X and at SpaceXSI, the company that...",
-      "url": "https://thehackernews.com/2026/11/over-35000-grok-built-apps-exposed.html",
-      "date": "2026-11-11T12:19:40Z"
-    },
-    {
       "title": "Three People Arrested for AI-Enhanced Impersonation Fraud",
       "description": "[SCHNEIER] It&#8217;s hard to believe how lucrative this crime can be: According to a press release from the United States attorney\u2019s office for the southern district of New York, three men \u00ad Jacob Soall, Sharon Hazan, and Guy Sheetrit \u00ad were arrested for...",
       "url": "https://www.schneier.com/blog/archives/2026/11/three-people-arrested-for-ai-enhanced-impersonation-fraud.html",
       "date": "2026-11-11T12:05:34Z"
-    },
-    {
-      "title": "We Built An Agent That Broke All of Our Security Rules. Here's What We Learned.",
-      "description": "[FEEDS] We tell customers three things about securing AI agents: they need their own identities, access that fits the job they\u2019re given, and traceability that\u2019s separate from any human\u2019s. That was true for us at Token as well. Then, we built an agent that...",
-      "url": "https://thehackernews.com/2026/11/we-built-agent-that-broke-all-of-our.html",
-      "date": "2026-11-11T12:01:59Z"
-    },
-    {
-      "title": "eMudhra Revokes 8 More CAs It Previously Declared Unaffected by Key Compromise",
-      "description": "[FEEDS] The in-house Python script behind eMudhra's October key compromise has now cost the company 8 more of its intermediate certificate authorities (CAs), even though it did not weaken their keys. Each intermediate CA has its own private key, which the...",
-      "url": "https://thehackernews.com/2026/11/emudhra-revokes-8-more-cas-it.html",
-      "date": "2026-11-11T12:00:53Z"
     },
     {
       "title": "ISC Stormcast For Wednesday, November 11th, 2026 https://isc.sans.edu/podcastdetail/10174, (Wed, Nov 11th)",
@@ -180,12 +192,6 @@
       "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
       "url": "https://isc.sans.edu/diary/rss/33504",
       "date": "2026-11-10T02:00:02Z"
-    },
-    {
-      "title": "Attackers Searching for SAP Netweaver Webshells, (Mon, Nov 9th)",
-      "description": "[ISC] Just saw a new (to me) URL in our honeypot data today:&#xd;",
-      "url": "https://isc.sans.edu/diary/rss/33502",
-      "date": "2026-11-09T18:18:15Z"
     },
     {
       "title": "AI Security",
@@ -222,12 +228,6 @@
       "description": "[CISA] CISA has added one new vulnerability to its&nbsp;Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2024-27834 Apple Multiple Products Improper Authentication Vulnerability This type of vulnerability is a...",
       "url": "https://www.cisa.gov/news-events/alerts/2026/11/04/cisa-adds-one-known-exploited-vulnerability-catalog",
       "date": "2026-11-04T12:00:00Z"
-    },
-    {
-      "title": "AIs Hacking the Law",
-      "description": "[SCHNEIER] In both a 2021 essay and my 2022 book, A Hacker&#8217;s Mind, I talk about AIs finding vulnerabilities and exploits&#8212;hacking&#8212;the legal system. Here&#8217;s some demonstrations of this from Germany: Legal systems encode the foundations of...",
-      "url": "https://www.schneier.com/blog/archives/2026/11/ais-hacking-the-law.html",
-      "date": "2026-11-03T12:01:00Z"
     },
     {
       "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
