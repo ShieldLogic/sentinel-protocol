@@ -1,6 +1,42 @@
 {
-  "updated": "2026-11-13 02:22:09 UTC",
+  "updated": "2026-11-13 11:42:44 UTC",
   "news": [
+    {
+      "title": "Check Point warns of zero-day flaw exploited for root access",
+      "description": "[BLEEPINGCOMPUTER] Check Point Software has released emergency hotfixes to address a high-severity flaw that hackers have been exploiting to gain root privileges and establish persistence on vulnerable devices since late October. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/check-point-patches-zero-day-that-lets-hackers-get-root-access/",
+      "date": "2026-11-13T10:44:22Z"
+    },
+    {
+      "title": "Microsoft confirms Windows activation failures after November updates",
+      "description": "[BLEEPINGCOMPUTER] Microsoft has confirmed that this month's Patch Tuesday security updates are causing Windows activation and licensing failures with 0x80041008 error codes. [...]",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-windows-activation-failures-after-november-updates/",
+      "date": "2026-11-13T09:36:18Z"
+    },
+    {
+      "title": "Police arrest 354 suspects in dark web cybercrime crackdown",
+      "description": "[BLEEPINGCOMPUTER] Authorities arrested 354 suspects in a joint international operation targeting vendors and buyers on the Archetyp, Nemesis, Tor2Door, Bohemia, and Kingdom dark web marketplaces. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/police-arrest-354-vendors-buyers-in-global-cybercrime-crackdown/",
+      "date": "2026-11-13T08:34:20Z"
+    },
+    {
+      "title": "Hackers Exploit PHP2Shell Flaws in Check Point Gateways to Deploy TSGA Backdoor and Wipe ESXi Files",
+      "description": "[FEEDS] An unknown threat actor has been observed targeting unpatched Check Point Security Gateways to obtain initial access via the PHP2Shell vulnerabilities and then a previously unreported local privilege escalation flaw in Gaia OS&nbsp; to deploy a...",
+      "url": "https://thehackernews.com/2026/11/hackers-exploit-php2shell-flaws-in.html",
+      "date": "2026-11-13T08:05:49Z"
+    },
+    {
+      "title": "Hackers Exploit N-central Flaws to Infect 21 Servers, Including 19 Running Hotfix 2",
+      "description": "[FEEDS] N-able on Thursday said it's taking additional precautions in the wake of public disclosure of a new set of flaws tracked as 4EverAble2Shell and Agent2Shell. \"We are restricting certain N-central features and integrations,\" the company said in a...",
+      "url": "https://thehackernews.com/2026/11/hackers-exploit-n-central-flaws-to.html",
+      "date": "2026-11-13T05:43:28Z"
+    },
+    {
+      "title": "Macfinger ClickFix campaign sends DownTheDRAIN infostealer for macOS, (Fri, Nov 13th)",
+      "description": "[ISC] Introduction&#xd;",
+      "url": "https://isc.sans.edu/diary/rss/33518",
+      "date": "2026-11-13T03:41:41Z"
+    },
     {
       "title": "ISC Stormcast For Friday, November 13th, 2026 https://isc.sans.edu/podcastdetail/10178, (Fri, Nov 13th)",
       "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
@@ -8,10 +44,22 @@
       "date": "2026-11-13T02:00:03Z"
     },
     {
+      "title": "Burger King Japan's Data Breach Leaked 11 Million Customer Details - Here's What We Can Learn From It",
+      "description": "[BGR] Burger King's whopper of a security breach affects 11 million people, and is a good reminder of how important corporate disclosure can be.",
+      "url": "https://www.bgr.com/2311191/burger-king-japan-data-breach-lessons/",
+      "date": "2026-11-12T23:17:00Z"
+    },
+    {
       "title": "New worm-like 'SCKit' malware targets MSPs in ScreenConnect attacks",
       "description": "[BLEEPINGCOMPUTER] A new worm-like malware toolkit named SCKit was deployed in the recent ScreenConnect attacks targeting managed service providers (MSPs), designed to spread from infected customer devices to MSP technicians' computers and compromise additional...",
       "url": "https://www.bleepingcomputer.com/news/security/new-worm-like-sckit-malware-targets-msps-in-screenconnect-attacks/",
       "date": "2026-11-12T22:53:10Z"
+    },
+    {
+      "title": "Australia's cybersecurity chief investigating Microsoft outage",
+      "description": "[ABC (AUSTRALIAN BROADCASTING CORPORATION)] Australians are reporting that their businesses, government agencies and other organisations have been brought to a standstill as they wait to regain access to their email and other online systems.",
+      "url": "https://www.abc.net.au/news/2026-11-13/microsoft-outage-teams-outlook-copilot/107381196",
+      "date": "2026-11-12T22:25:47Z"
     },
     {
       "title": "Hackers compromise 4,800 GitHub accounts to steal cloud credentials",
@@ -26,16 +74,28 @@
       "date": "2026-11-12T20:15:16Z"
     },
     {
-      "title": "New N-able \"4EverAble2Shell\" zero-day exploited hours after PoC released",
-      "description": "[BLEEPINGCOMPUTER] Hackers are actively exploiting a newly disclosed N-able N-central zero-day vulnerability dubbed \"4EverAble2Shell\" to compromise servers and deploy cryptocurrency miners, with researchers reporting at least 21 affected systems, including 19 running...",
-      "url": "https://www.bleepingcomputer.com/news/security/new-n-able-4everable2shell-zero-day-exploited-hours-after-poc-released/",
-      "date": "2026-11-12T19:51:16Z"
+      "title": "Wealth, Privacy, and Risk: Why Family Offices Are Becoming Prime Targets for Cybercriminals",
+      "description": "[TECHBULLION] Why family offices are becoming prime targets for cybercriminals: social engineering, identity theft, and the cybersecurity strategy that protects wealth and privacy.",
+      "url": "https://techbullion.com/wealth-privacy-and-risk-why-family-offices-are-becoming-prime-targets-for-cybercriminals/",
+      "date": "2026-11-12T18:51:12Z"
     },
     {
-      "title": "Apache HTTP Server patches critical HTTP/2 remote code execution flaw",
-      "description": "[BLEEPINGCOMPUTER] A critical vulnerability in the HTTP/2 module of Apache HTTP Server could be exploited by an unauthenticated attacker to obtain remote code execution (RCE). [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/apache-http-server-patches-critical-http-2-remote-code-execution-flaw/",
-      "date": "2026-11-12T19:12:55Z"
+      "title": "Cybersecurity researchers warn of Gmail flaw that survives password resets",
+      "description": "[WDIV CLICKONDETROIT] Cybersecurity researchers warn Gmail users to check their security settings because hackers may be able to access their Gmail accounts even if the password has been changed.",
+      "url": "https://www.clickondetroit.com/news/local/2026/11/12/cybersecurity-researchers-warn-of-gmail-flaw-that-survives-password-resets/",
+      "date": "2026-11-12T18:37:35Z"
+    },
+    {
+      "title": "Goodbody client portal down for more than two days after cybersecurity incident",
+      "description": "[THE IRISH TIMES] Investigations so far have found no evidence of clients\u2019 assets being affected",
+      "url": "https://www.irishtimes.com/business/2026/11/12/goodbody-client-portal-down-for-more-than-two-days-after-cybersecurity-incident/",
+      "date": "2026-11-12T18:23:09Z"
+    },
+    {
+      "title": "Vanderbilt hack: Clark Lea talks cybersecurity before Alabama football game",
+      "description": "[AL.COM] Vanderbilt was the victim of a major cybersecurity incident.",
+      "url": "https://www.al.com/alabamafootball/2026/11/how-vanderbilt-hack-has-impacted-prep-for-alabama-football-game-some-hiccups.html",
+      "date": "2026-11-12T18:21:29Z"
     },
     {
       "title": "Webinar: See How Identity Blind Spots Put Your SOC at Risk and How to Close Them",
@@ -56,70 +116,22 @@
       "date": "2026-11-12T17:50:27Z"
     },
     {
+      "title": "Americans who visited healthcare center eligible for up to $2,000 payments",
+      "description": "[THE SUN U.S EDITION] HEALTHCARE patients are in line for some cold hard cash from a data breach settlement pot. Those who file a claim form by the January 29...",
+      "url": "https://www.the-sun.com/money/17295944/dothouse-health-data-breach-settlement-payment-massachusetts/",
+      "date": "2026-11-12T17:41:09Z"
+    },
+    {
+      "title": "United Airlines blocks AI agents from booking flights, citing cybersecurity risks",
+      "description": "[TECHCRUNCH] The airline said it will not allow customers to use AI agents to book flights and manage reservations.",
+      "url": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/",
+      "date": "2026-11-12T17:17:58Z"
+    },
+    {
       "title": "Critical Red Hat Quay Flaw Lets Attackers Read and Overwrite All Private Container Images in a Registry",
       "description": "[FEEDS] A critical flaw in Red Hat Quay allows an attacker who can access a Quay registry to read and overwrite private container images in every repository. Quay enables anonymous access by default, and while it is enabled, the attacker needs no account....",
       "url": "https://thehackernews.com/2026/11/critical-red-hat-quay-flaw-lets.html",
       "date": "2026-11-12T16:27:01Z"
-    },
-    {
-      "title": "New Windows SignDrop zero-day gives hackers SYSTEM privileges",
-      "description": "[BLEEPINGCOMPUTER] Security researcher Abdelhamid Naceri (also known as Nightmare Eclipse) has released a new Windows zero-day exploit that can let attackers gain SYSTEM privileges. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/new-windows-signdrop-zero-day-gives-hackers-system-privileges/",
-      "date": "2026-11-12T16:04:00Z"
-    },
-    {
-      "title": "Citrix Patches 12 NetScaler and Secure Access Client Flaws, Including Authentication Bypass",
-      "description": "[FEEDS] Citrix has released patches for multiple critical security flaws impacting NetScaler ADC, Citrix NetScaler Gateway, and NetScaler Console that could lead to denial-of-service (DoS) or an authentication bypass. The critical vulnerabilities that...",
-      "url": "https://thehackernews.com/2026/11/citrix-patches-12-netscaler-and-secure.html",
-      "date": "2026-11-12T15:38:49Z"
-    },
-    {
-      "title": "186 Fake AI Domains Redirect Users to ClickFix Lures, Browser Malware, and Search Hijackers",
-      "description": "[FEEDS] Cybersecurity researchers have found that lookalike domains masquerading as artificial intelligence (AI) tools are being used to serve ClickFix-style lures, browser-hijacking malware, and a set of extensions that hijack user searches. This delivery...",
-      "url": "https://thehackernews.com/2026/11/186-fake-ai-domains-redirect-users-to.html",
-      "date": "2026-11-12T15:15:40Z"
-    },
-    {
-      "title": "Shipping giant Maersk confirms data breach as hackers demand $5 million ransom",
-      "description": "[TECHRADAR] World, say 'hi' to WhiteArmor, a new ransomware player on the block.",
-      "url": "https://www.techradar.com/pro/security/shipping-giant-maersk-confirms-data-breach-as-hackers-demand-usd5-million-ransom",
-      "date": "2026-11-12T14:20:00Z"
-    },
-    {
-      "title": "Google Gemini 4 Carbon rolls out to developers and AI Ultra subscribers: Features and price",
-      "description": "[INDIA TV NEWS] Gemini 4 Carbon, its advanced AI model for complex reasoning, software engineering and cybersecurity. Developers and enterprises can access it through paid services, while AI Ultra subscribers get it in select products, including the Gemini app and...",
-      "url": "https://www.indiatvnews.com/technology/news/google-gemini-4-carbon-rolls-out-to-developers-and-ai-ultra-subscribers-features-and-price-2026-11-12-1059296",
-      "date": "2026-11-12T14:18:48Z"
-    },
-    {
-      "title": "Coinbase CEO Brian Armstrong talks Binance hack, Democrats' sweep",
-      "description": "[CNBC] Brian Armstrong joins Squawk Box in his first TV interview since the Binance hack to talk about the crypto market, cybersecurity and future of agentic finance.",
-      "url": "https://www.cnbc.com/2026/11/12/coinbase-ceo-brian-armstrong-talks-binance-hack-democrats-sweep.html",
-      "date": "2026-11-12T13:44:27Z"
-    },
-    {
-      "title": "Security Software Results Arrive in Stages, With Another Report Set for Nov. 18",
-      "description": "[THE EXPOSITOR] NEW YORK, Nov. 12, 2026 /CNW/ -- Equity Insider News Commentary - Cybersecurity software companies have spent the past two weeks putting new quarterly",
-      "url": "https://www.brantfordexpositor.ca/press-releases/pr-newswire/security-software-results-arrive-in-stages-with-another-report-set-for-nov-18/",
-      "date": "2026-11-12T12:27:34Z"
-    },
-    {
-      "title": "Security Software Results Arrive in Stages, With Another Report Set for Nov. 18",
-      "description": "[THE NORTH BAY NUGGET] NEW YORK, Nov. 12, 2026 /CNW/ -- Equity Insider News Commentary - Cybersecurity software companies have spent the past two weeks putting new quarterly",
-      "url": "https://www.nugget.ca/press-releases/pr-newswire/security-software-results-arrive-in-stages-with-another-report-set-for-nov-18/",
-      "date": "2026-11-12T12:27:14Z"
-    },
-    {
-      "title": "Security Software Results Arrive in Stages, With Another Report Set for Nov. 18",
-      "description": "[FINANCIAL POST] NEW YORK, Nov. 12, 2026 /CNW/ -- Equity Insider News Commentary - Cybersecurity software companies have spent the past two weeks putting new quarterly",
-      "url": "https://financialpost.com/press-releases/pr-newswire/security-software-results-arrive-in-stages-with-another-report-set-for-nov-18/",
-      "date": "2026-11-12T12:26:16Z"
-    },
-    {
-      "title": "Security Software Results Arrive in Stages, With Another Report Set for Nov. 18",
-      "description": "[NATIONAL POST] NEW YORK, Nov. 12, 2026 /CNW/ -- Equity Insider News Commentary - Cybersecurity software companies have spent the past two weeks putting new quarterly",
-      "url": "https://nationalpost.com/press-releases/pr-newswire/security-software-results-arrive-in-stages-with-another-report-set-for-nov-18/",
-      "date": "2026-11-12T12:26:12Z"
     },
     {
       "title": "Another Way Police Are Locating People from Their Smartphones",
@@ -132,24 +144,6 @@
       "description": "[ISC] CVE-2026-102895 is a trivial authentication-bypass vulnerability. GPUStack is also an attractive target. It is open-source software that manages clusters of GPUs, which are typically used to run AI workloads. All versions of GPUStack prior to 2.2.0,...",
       "url": "https://isc.sans.edu/diary/rss/33514",
       "date": "2026-11-12T11:56:24Z"
-    },
-    {
-      "title": "Sekoia recognized as an Innovator in Frost & Sullivan's Frost Radar\u2122: AI SOC",
-      "description": "[THE EXPOSITOR] PARIS, France, November 12, 2026: Sekoia, the European cybersecurity company building the infrastructure for autonomous defensive intelligence, today",
-      "url": "https://www.brantfordexpositor.ca/press-releases/globe-newswire/sekoia-recognized-as-an-innovator-in-frost-sullivans-frost-radar-ai-soc/",
-      "date": "2026-11-12T11:51:14Z"
-    },
-    {
-      "title": "Sekoia recognized as an Innovator in Frost & Sullivan's Frost Radar\u2122: AI SOC",
-      "description": "[THE LONDON FREE PRESS] PARIS, France, November 12, 2026: Sekoia, the European cybersecurity company building the infrastructure for autonomous defensive intelligence, today",
-      "url": "https://lfpress.com/press-releases/globe-newswire/sekoia-recognized-as-an-innovator-in-frost-sullivans-frost-radar-ai-soc/",
-      "date": "2026-11-12T11:51:01Z"
-    },
-    {
-      "title": "Data of over 4,000 healthcare, community care employees potentially accessed in AIC cybersecurity incident",
-      "description": "[CNA] The data that may have been accessed includes names, contact numbers, email addresses and NRIC numbers.",
-      "url": "https://www.channelnewsasia.com/singapore/aic-cybersecurity-cyber-attack-healthcare-6545671",
-      "date": "2026-11-12T10:17:00Z"
     },
     {
       "title": "ISC Stormcast For Thursday, November 12th, 2026 https://isc.sans.edu/podcastdetail/10176, (Thu, Nov 12th)",
@@ -174,12 +168,6 @@
       "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
       "url": "https://isc.sans.edu/diary/rss/33510",
       "date": "2026-11-11T02:00:03Z"
-    },
-    {
-      "title": "Apple Patches Everyting: November 2026 Edition, (Tue, Nov 10th)",
-      "description": "[ISC] &#xd;",
-      "url": "https://isc.sans.edu/diary/rss/33506",
-      "date": "2026-11-10T12:48:55Z"
     },
     {
       "title": "New OpenSSH Vulnerability",
