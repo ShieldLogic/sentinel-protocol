@@ -1,245 +1,137 @@
 {
-  "updated": "2026-11-14 16:14:41 UTC",
-  "news": [
-    {
-      "title": "US disrupts North Korean campaign behind $400 million crypto theft",
-      "description": "[BLEEPINGCOMPUTER] The U.S. government has disrupted a North Korean social engineering campaign called 'FaceStealer', responsible for stealing more than $400 million in cryptocurrency. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/us-disrupts-north-korean-campaign-behind-400-million-crypto-theft/",
-      "date": "2026-11-14T15:15:49Z"
-    },
-    {
-      "title": "Attackers Exploit UnrealIRCd Flaw That Enables Server-Level Command Injection",
-      "description": "[FEEDS] The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a high-severity security flaw impacting UnrealIRCd, an open-source Internet Relay Chat (IRC) server, to its Known Exploited Vulnerabilities (KEV) catalog, following...",
-      "url": "https://thehackernews.com/2026/11/attackers-exploit-unrealircd-flaw-that.html",
-      "date": "2026-11-14T12:38:35Z"
-    },
-    {
-      "title": "Uber Data Breach Exposes Thousands of Drivers Through AI Firm",
-      "description": "[GIZMODO] Hackers stole personal data belonging to thousands of Uber drivers after breaching Fireworks AI, a third-party AI provider.",
-      "url": "https://gizmodo.com/hackers-stole-thousands-of-uber-drivers-data-through-an-ai-startup-2000839947",
-      "date": "2026-11-13T22:30:52Z"
-    },
-    {
-      "title": "Friday Squid Blogging: Pacific Flying Squid Populations Dropping in Korean Waters",
-      "description": "[SCHNEIER] Climate change is the issue. As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered. Blog moderation policy.",
-      "url": "https://www.schneier.com/blog/archives/2026/11/friday-squid-blogging-pacific-flying-squid-populations-dropping-in-korean-waters.html",
-      "date": "2026-11-13T22:00:46Z"
-    },
-    {
-      "title": "Don't Overstay Your Welcome, Especially In A Choppy Tape",
-      "description": "[INVESTOR'S BUSINESS DAILY] Cybersecurity stocks were good buys on pullbacks. Selling into strength gave us the cash to do so. Here's how we handle the trade on Rubrik stock.",
-      "url": "https://www.investors.com/research/swing-trading/rubrik-stock-gave-us-another-swing-trade-in-cybersecurity/",
-      "date": "2026-11-13T21:57:46Z"
-    },
-    {
-      "title": "Houston\u2019s Technology Leaders Move from AI Experimentation to Enterprise Execution at HMG Strategy\u2019s 16th Annual Houston C-Level Technology Leadership Summit",
-      "description": "[THE MANILA TIMES] CIOs, CISOs, and senior technology executives from Houston\u2019s energy, healthcare, manufacturing, financial services, and consumer sectors will gather November 19 at Houston Country Club to address AI integration, cybersecurity, data modernization,...",
-      "url": "https://www.manilatimes.net/2026/11/14/tmt-newswire/globenewswire/houstons-technology-leaders-move-from-ai-experimentation-to-enterprise-execution-at-hmg-strategys-16th-annual-houston-c-level-technology-leadership-summit/2469849",
-      "date": "2026-11-13T20:40:07Z"
-    },
-    {
-      "title": "Trezor confirms crypto-stealing implants in three wallets, releases fix",
-      "description": "[BLEEPINGCOMPUTER] Cryptocurrency hardware wallet maker Trezor has confirmed that three Safe 5 devices sold by Southeast Asian reseller CryptoBilis contained malicious hardware implants designed to steal wallet recovery phrases and send them to attackers over cellular...",
-      "url": "https://www.bleepingcomputer.com/news/cryptocurrency/trezor-confirms-crypto-stealing-implants-in-three-wallets-releases-fix/",
-      "date": "2026-11-13T19:38:36Z"
-    },
-    {
-      "title": "Uber data breach: Thousands of US drivers affected, license data stolen in vendor hack",
-      "description": "[THE NEWS INTERNATIONAL] Uber recently disclosed a data breach that exposed personal information\u2014including US drivers' license details\u2014for thousands of drivers. The said an unauthorized party used compromised...",
-      "url": "https://www.thenews.com.pk/latest/1423529-uber-data-breach-thousands-of-us-drivers-affected-license-data-stolen-in-vendor-hack",
-      "date": "2026-11-13T19:34:00Z"
-    },
-    {
-      "title": "Uber Drivers' License Details Stolen in Major Data Breach. Thousands Affected Across US.",
-      "description": "[INTERNATIONAL BUSINESS TIMES] A security breach at third-party technology provider Fireworks AI exposed sensitive driver records, with additional notifications expected as the investigation continues.",
-      "url": "https://www.ibtimes.com/uber-driver-data-breach-fireworks-ai-3809743",
-      "date": "2026-11-13T19:05:09Z"
-    },
-    {
-      "title": "German military drone operations disrupted by cyberattack",
-      "description": "[BLEEPINGCOMPUTER] German defense technology company Quantum Systems confirmed that it detected an incident in late October that was part of an active cyberattack by \"hostile actors.\" [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/german-military-drone-operations-disrupted-by-cyberattack/",
-      "date": "2026-11-13T17:31:56Z"
-    },
-    {
-      "title": "Microsoft 365 Outage: Millions Regain Access After 18 Hours, But Outlook Users May Still Face Problems",
-      "description": "[NEWS18] Microsoft Outage: Microsoft said the outage was not caused by a cybersecurity breach and that it was not aware of any malicious activity behind the incident.",
-      "url": "https://www.news18.com/tech/microsoft-365-outage-millions-regain-access-after-18-hours-but-outlook-users-may-still-face-problems-ws-rt-10424952.html",
-      "date": "2026-11-13T17:22:31Z"
-    },
-    {
-      "title": "UAH accepting applications for cybersecurity scholarships",
-      "description": "[AL.COM] Any cybersecurity-related degree is eligible.",
-      "url": "https://www.al.com/news/huntsville/2026/11/uah-accepting-applications-for-cybersecurity-scholarships.html",
-      "date": "2026-11-13T16:57:07Z"
-    },
-    {
-      "title": "PostgreSQL Patches 52 Flaws, Including 22-Year-Old Bug Enabling Authenticated RCE",
-      "description": "[FEEDS] A type confusion flaw in PostgreSQL lets a database user who can create objects run code on the server. Updates released yesterday fix it, along with 51 other security flaws. Full protection from this flaw also requires rebuilding any C-language...",
-      "url": "https://thehackernews.com/2026/11/postgresql-patches-52-flaws-including.html",
-      "date": "2026-11-13T16:53:08Z"
-    },
-    {
-      "title": "Eversource data breach should be reviewed, consumer counsel says",
-      "description": "[HARTFORD COURANT] Eversource said that the FBI had knowledge of the attacker, who was under investigation, and that the breach \"did not access any customer systems or Critical Energy/Electric Infrastructure Systems Information.\"",
-      "url": "https://www.courant.com/2026/11/13/consumer-counsel-faults-eversource-response-to-a-spring-cyber-attack-wants-further-review-as-part-of-rate-hike-case/",
-      "date": "2026-11-13T16:42:43Z"
-    },
-    {
-      "title": "Check Point gateways hacked via PHP2Shell to deploy VMware ESXi wiper",
-      "description": "[BLEEPINGCOMPUTER] Vulnerable Check Point Security Gateway instances have been targeted in PHP2Shell attacks that deployed data-wiping malware on VMware ESXi hosts. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/check-point-gateways-hacked-via-php2shell-to-deploy-vmware-esxi-wiper/",
-      "date": "2026-11-13T16:21:43Z"
-    },
-    {
-      "title": "Lapses could prove costly",
-      "description": "[THE STAR] PETALING JAYA: Cybersecurity is no longer merely a technological concern but a business risk that could undermine financial stability, operations and the livelihood of employees, say employers and business groups.",
-      "url": "https://www.thestar.com.my/news/nation/2026/11/14/lapses-could-prove-costly",
-      "date": "2026-11-13T16:00:00Z"
-    },
-    {
-      "title": "New Mior and Skyfall Attacks Let Rogue Cloud Hosts Steal Secrets From AMD SEV-SNP VMs",
-      "description": "[FEEDS] Two attacks made public this week allow a malicious host to read data inside AMD SEV-SNP-protected virtual machines (VMs), which are built to keep the server's operator out. One of them, Mior, can also modify a VM's memory and fake the signed report...",
-      "url": "https://thehackernews.com/2026/11/new-mior-and-skyfall-attacks-let-rogue.html",
-      "date": "2026-11-13T15:27:05Z"
-    },
-    {
-      "title": "PSU bank learns 3.8L stolen records posted on dark web one month after data theft; FIR registered",
-      "description": "[TIMES OF INDIA] SBI GITC data breach: 3.75 lakh bank records and customer PII stolen in Oct; leak spotted on dark web a month later, FIR filed Nov 12 in Navi Mumbai.",
-      "url": "https://timesofindia.indiatimes.com/city/mumbai/psu-bank-learns-3-8l-stolen-records-posted-on-dark-web-one-month-after-data-theft-fir-registered/articleshow/135807985.cms",
-      "date": "2026-11-13T15:14:00Z"
-    },
-    {
-      "title": "How one AI agent exposed five critical enterprise security gaps",
-      "description": "[BLEEPINGCOMPUTER] An AI agent built to automate invoice processing could be manipulated into changing vendor bank details through a malicious email, without triggering traditional security alerts. Token Security examines five critical AI agent security gaps and...",
-      "url": "https://www.bleepingcomputer.com/news/security/how-one-ai-agent-exposed-five-critical-enterprise-security-gaps/",
-      "date": "2026-11-13T15:01:11Z"
-    },
-    {
-      "title": "FBI Says North Korean Hackers Stole Over $400 Million in Crypto Using Deepfake Video Calls",
-      "description": "[FEEDS] The U.S. Federal Bureau of Investigation (FBI) has established that threat actors tied to the Democratic People's Republic of Korea (DPRK aka North Korea) have stolen more than $400 million worth of cryptocurrency as part of a social engineering...",
-      "url": "https://thehackernews.com/2026/11/fbi-says-north-korean-hackers-stole.html",
-      "date": "2026-11-13T14:28:58Z"
-    },
-    {
-      "title": "Trezor Confirms Hidden Implants in CryptoBilis-Sold Wallets That Can Steal Recovery Phrases",
-      "description": "[FEEDS] Three Trezor Safe 5 wallets bought from the reseller CryptoBilis contain an implant, an extra circuit board that can copy their recovery phrases, hardware wallet maker Trezor said yesterday. The implant reads the phrase from the wallet's screen and...",
-      "url": "https://thehackernews.com/2026/11/trezor-confirms-hidden-hardware.html",
-      "date": "2026-11-13T13:54:20Z"
-    },
-    {
-      "title": "Microsoft says November security updates cause printing issues",
-      "description": "[BLEEPINGCOMPUTER] Microsoft warned customers earlier this week that the November 2026 security updates may break printing for documents with complex formatting. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-november-security-updates-cause-printing-issues/",
-      "date": "2026-11-13T12:27:40Z"
-    },
-    {
-      "title": "AI Doesn\u2019t Have to Go Rogue to Break the World",
-      "description": "[SCHNEIER] This essay is adapted from a keynote speech delivered at the DEF CON 34 conference in Las Vegas on August 7, 2026. The essay originally appeared in CyberScoop. I want to talk about AI hacking. There are three aspects: people hacking AI systems,...",
-      "url": "https://www.schneier.com/blog/archives/2026/11/ai-doesnt-have-to-go-rogue-to-break-the-world.html",
-      "date": "2026-11-13T12:03:30Z"
-    },
-    {
-      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
-      "description": "[CISA] CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-114713 UnrealIRCd Improper Neutralization of Delimiters Vulnerability CVE-2026-123039 Check Point...",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/11/13/cisa-adds-two-known-exploited-vulnerabilities-catalog",
-      "date": "2026-11-13T12:00:00Z"
-    },
-    {
-      "title": "When an AI Agent Goes Wrong, Can You Stop It?",
-      "description": "[FEEDS] Suppose an AI agent is asked to sort support tickets and look up account details. A ticket contains instructions that lead the agent to export records to an unfamiliar destination. The agent can make the request because its identity has access to...",
-      "url": "https://thehackernews.com/2026/11/when-ai-agent-goes-wrong-can-you-stop-it.html",
-      "date": "2026-11-13T11:52:31Z"
-    },
-    {
-      "title": "Macfinger ClickFix campaign sends DownTheDRAIN infostealer for macOS, (Fri, Nov 13th)",
-      "description": "[ISC] Introduction&#xd;",
-      "url": "https://isc.sans.edu/diary/rss/33518",
-      "date": "2026-11-13T03:41:41Z"
-    },
-    {
-      "title": "ISC Stormcast For Friday, November 13th, 2026 https://isc.sans.edu/podcastdetail/10178, (Fri, Nov 13th)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33516",
-      "date": "2026-11-13T02:00:03Z"
-    },
-    {
-      "title": "Another Way Police Are Locating People from Their Smartphones",
-      "description": "[SCHNEIER] Penlink&#8217;s Webloc is an application that locates people using information from the weather, gaming, email, and religious apps on their phone. It&#8217;s sold to the police. The tool collects vast quantities of location data from smartphones via...",
-      "url": "https://www.schneier.com/blog/archives/2026/11/another-way-police-are-locating-people-from-their-smartphones.html",
-      "date": "2026-11-12T12:02:58Z"
-    },
-    {
-      "title": "Exploit Attempts for GPUStack Authentication Bypass (CVE-2026-102895), (Thu, Nov 12th)",
-      "description": "[ISC] CVE-2026-102895 is a trivial authentication-bypass vulnerability. GPUStack is also an attractive target. It is open-source software that manages clusters of GPUs, which are typically used to run AI workloads. All versions of GPUStack prior to 2.2.0,...",
-      "url": "https://isc.sans.edu/diary/rss/33514",
-      "date": "2026-11-12T11:56:24Z"
-    },
-    {
-      "title": "ISC Stormcast For Thursday, November 12th, 2026 https://isc.sans.edu/podcastdetail/10176, (Thu, Nov 12th)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33512",
-      "date": "2026-11-12T02:00:03Z"
-    },
-    {
-      "title": "Microsoft Patch Tuesday November 2026, (Tue, Nov 10th)",
-      "description": "[ISC] Microsoft continues its AI-induced patch surge, addressing 1,260 different vulnerabilities this month. 68 of these vulnerabilities are considered critical. 167 of the vulnerabilities are Chromium issues affecting Microsoft Edge.&#xd;",
-      "url": "https://isc.sans.edu/diary/rss/33508",
-      "date": "2026-11-11T18:28:43Z"
-    },
-    {
-      "title": "Three People Arrested for AI-Enhanced Impersonation Fraud",
-      "description": "[SCHNEIER] It&#8217;s hard to believe how lucrative this crime can be: According to a press release from the United States attorney\u2019s office for the southern district of New York, three men \u00ad Jacob Soall, Sharon Hazan, and Guy Sheetrit \u00ad were arrested for...",
-      "url": "https://www.schneier.com/blog/archives/2026/11/three-people-arrested-for-ai-enhanced-impersonation-fraud.html",
-      "date": "2026-11-11T12:05:34Z"
-    },
-    {
-      "title": "ISC Stormcast For Wednesday, November 11th, 2026 https://isc.sans.edu/podcastdetail/10174, (Wed, Nov 11th)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33510",
-      "date": "2026-11-11T02:00:03Z"
-    },
-    {
-      "title": "New OpenSSH Vulnerability",
-      "description": "[SCHNEIER] It&#8217;s a bad one, and it&#8217;s been in the code for a decade: A newly disclosed flaw involving OpenSSH and musl, dubbed &#8220;*sshole,&#8221; allows attackers to log in to certain Alpine Linux and other musl-based Linux accounts configured to...",
-      "url": "https://www.schneier.com/blog/archives/2026/11/new-openssh-vulnerability.html",
-      "date": "2026-11-10T12:02:38Z"
-    },
-    {
-      "title": "CISA Adds Six Known Exploited Vulnerabilities to Catalog",
-      "description": "[CISA] CISA has added six new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-20320 Cisco BroadWorks Improper Restriction of XML External Entity Reference Vulnerability&nbsp;...",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/11/10/cisa-adds-six-known-exploited-vulnerabilities-catalog",
-      "date": "2026-11-10T12:00:00Z"
-    },
-    {
-      "title": "AI Security",
-      "description": "[SCHNEIER] Two weeks ago, I attended the [un]prompted AI security conference in San Francisco. It was an excellent event: three days of very dense talks about all aspects of AI security. (My talk was about integrous AI, and I will post it when it is online.)...",
-      "url": "https://www.schneier.com/blog/archives/2026/11/ai-security.html",
-      "date": "2026-11-09T12:05:39Z"
-    },
-    {
-      "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
-      "description": "[CISA] CISA has added four new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation.&nbsp; CVE-2026-102895 GPUStack Improper Authentication Vulnerability&nbsp; CVE-2026-116779 SignalWire FreeSwitch...",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/11/09/cisa-adds-four-known-exploited-vulnerabilities-catalog",
-      "date": "2026-11-09T12:00:00Z"
-    },
-    {
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "description": "[CISA] CISA has added one new vulnerability to its&nbsp;Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-19868 SonicWall SonicOS SSLVPN Use of Single-factor Authentication Vulnerability This type of...",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/11/06/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "date": "2026-11-06T12:00:00Z"
-    },
-    {
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "description": "[CISA] CISA has added one new vulnerability to its&nbsp;Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2024-27834 Apple Multiple Products Improper Authentication Vulnerability This type of vulnerability is a...",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/11/04/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "date": "2026-11-04T12:00:00Z"
-    },
-    {
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "description": "[CISA] CISA has added one new vulnerability to its&nbsp;Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-119977 WordPress Core Time-of-check Time-of-use (TOCTOU) Race Condition Vulnerability This type of...",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/11/03/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "date": "2026-11-03T12:00:00Z"
-    }
-  ]
+    "title": "Sentinel Protocol",
+    "tagline": "Perimeter Intelligence Sync",
+    "updated": "2026-11-14 16:49 UTC",
+    "news": [
+        {
+            "source": {
+                "id": null,
+                "name": "SiliconANGLE News"
+            },
+            "author": "Kyt Dotson",
+            "title": "NeuralSat raises $3.2M to bring high-speed data connectivity and compute to space",
+            "description": "German startup\u00a0NeuralSat GmbH announced Thursday that it\u00a0raised \u20ac2.9 million, about $3.2 million, in pre-seed funding to develop a 72-satellite data-relay processing network aimed at speeding up the flow of data from space. Capnamic and Bayern Kapital co-led \u2026",
+            "url": "https://siliconangle.com/2026/11/13/neuralsat-raises-3-2m-to-bring-high-speed-data-connectivity-and-compute-to-space/",
+            "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2022/11/satellite-4269348_960_720.jpg",
+            "publishedAt": "2026-11-13T16:45:11Z",
+            "content": "German startup\u00a0NeuralSat GmbH announced Thursday that it\u00a0raised 2.9 million, about $3.2 million, in pre-seed funding to develop a 72-satellite data-relay processing network aimed at speeding up the f\u2026 [+4749 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Tmx Newsfile",
+            "title": "ALZAI Health Corp. Enters into MOU with Quanterix Corporation to Advance Early Alzheimer's Disease Identification",
+            "description": "Toronto, Ontario--(Newsfile Corp. - November 13, 2026) - ALZAI Health Corp. (TSXV: ALZI) (OTCQB: ALZIF) (FSE: H2F) (\"ALZAI\" or the \"Company\"), a healthcare t...",
+            "url": "https://finance.yahoo.com/healthcare/articles/alzai-health-corp-enters-mou-110000755.html",
+            "urlToImage": "https://s.yimg.com/lo/mysterio/api/855571f9cff04af75d98519707553433e4ca09d06ea5df144bec4cb88ea3a7ec/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fnewsfile_64%2F7b0585a07d384aaa3af01d536ffbdd3f.jpg",
+            "publishedAt": "2026-11-13T16:44:50Z",
+            "content": "Toronto, Ontario--(Newsfile Corp. - November 13, 2026) - ALZAI Health Corp. (TSXV: ALZI) (OTCQB: ALZIF) (FSE: H2F) (\"ALZAI\" or the \"Company\"), a healthcare technology company developing artificial in\u2026 [+7126 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Addicted2success.com"
+            },
+            "author": "Addicted2Success Publishing",
+            "title": "What Is Managed Detection and Response (MDR) for Small Businesses?",
+            "description": "Picture a growing design studio. Sales are up, new hires join every quarter, and the whole team runs on email, laptops, and cloud apps. Security alerts land in the founder\u2019s inbox and get skimmed between client calls. Nobody is watching at 2 a.m., and that is\u2026",
+            "url": "https://addicted2success.com/success-advice/managed-detection-and-response-small-businesses/",
+            "urlToImage": "https://addicted2success.com/wp-content/uploads/2026/11/managed-detection-and-response-small-businesses-1000x600.jpg",
+            "publishedAt": "2026-11-13T16:27:03Z",
+            "content": "Picture a growing design studio. Sales are up, new hires join every quarter, and the whole team runs on email, laptops, and cloud apps. Security alerts land in the founder\u2019s inbox and get skimmed bet\u2026 [+12028 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Addicted2success.com"
+            },
+            "author": "Addicted2Success Publishing",
+            "title": "What Is Managed Detection and Response (MDR) for Small Businesses?",
+            "description": "Picture a growing design studio. Sales are up, new hires join every quarter, and the whole team runs on email, laptops, and cloud apps. Security alerts land in the founder\u2019s inbox and get skimmed between client calls. Nobody is watching at 2 a.m., and that is\u2026",
+            "url": "https://addicted2success.com/business-advice/managed-detection-and-response-small-businesses/",
+            "urlToImage": "https://addicted2success.com/wp-content/uploads/2026/11/managed-detection-and-response-small-businesses-1000x600.jpg",
+            "publishedAt": "2026-11-13T16:27:03Z",
+            "content": "Picture a growing design studio. Sales are up, new hires join every quarter, and the whole team runs on email, laptops, and cloud apps. Security alerts land in the founder\u2019s inbox and get skimmed bet\u2026 [+12028 chars]"
+        },
+        {
+            "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            "author": "Sead Fadilpa\u0161i\u0107",
+            "title": "FBI seizes tools used by North Korean hackers, freezes $1.2bilion in stolen Binance funds",
+            "description": "The US Department of Justice said it obtained a court order to freeze $1.2 billion stolen from Binance.",
+            "url": "https://www.techradar.com/pro/security/fbi-seizes-tools-used-by-north-korean-hackers-freezes-usd1-2bilion-in-stolen-binance-funds",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/PcYLLwL2xvYvPfjEXYpZrD-2122-80.jpg",
+            "publishedAt": "2026-11-13T16:25:00Z",
+            "content": "<ul><li>The us DoJ said it obtained a court order to \"freeze or seize\" $1.2 billion out of the $6.7bn stolen from Binance</li><li>It also disrupted the infrastructure used in FaceStealer attacks</li>\u2026 [+4212 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BleepingComputer"
+            },
+            "author": "Bill Toulas",
+            "title": "Check Point gateways hacked via PHP2Shell to deploy VMware ESXi wiper",
+            "description": "Vulnerable Check Point Security Gateway instances have been targeted in PHP2Shell attacks that deployed data-wiping malware on VMware ESXi hosts. [...]",
+            "url": "https://www.bleepingcomputer.com/news/security/check-point-gateways-hacked-via-php2shell-to-deploy-vmware-esxi-wiper/",
+            "urlToImage": "https://www.bleepstatic.com/content/hl-images/2026/10/26/PHP.jpg",
+            "publishedAt": "2026-11-13T16:21:43Z",
+            "content": "Vulnerable Check Point Security Gateway instances have been targeted in PHP2Shell attacks that deployed data-wiping malware on VMware ESXi hosts.\r\nThe attacks started on October 30, initially against\u2026 [+3563 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "SiliconANGLE News"
+            },
+            "author": "David Vellante and Amit Eyal Govrin",
+            "title": "Sovereign or not? The 2026 Hyperscaler Buyer\u2019s Guide",
+            "description": "Sovereignty is everywhere right now, and most people still can\u2019t agree on what it means and, just as importantly, what it all means to them. This week theCUBE Research releases its new market report,\u00a0Sovereign or Not? The 2026 Hyperscaler Buyer\u2019s Guide. In th\u2026",
+            "url": "https://siliconangle.com/2026/11/13/sovereign-or-not-the-2026-hyperscaler-buyers-guide/",
+            "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/11/Cloud-Leaders-Behind-the-Hedges-800x431.png",
+            "publishedAt": "2026-11-13T16:03:38Z",
+            "content": "Sovereignty is everywhere right now, and most people still cant agree on what it means and, just as importantly, what it all means to them.\r\nThis week theCUBE Research releases its new market report,\u2026 [+13586 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "WWD"
+            },
+            "author": "Angelajvelasquez1",
+            "title": "A New Guide Maps the Path to Digital\u00a0Manufacturing",
+            "description": "Though obstacles to digital transition may seem daunting, Advanced Functional Fabrics of America's report said the benefits far outweigh those difficulties.",
+            "url": "http://wwd.com/sourcing-journal/industry-news/affoa-new-guide-maps-path-to-digital-manufacturing-1239415159/",
+            "urlToImage": "https://wwd.com/wp-content/uploads/2026/11/GettyImages-2228840531.jpg?w=1000&h=563&crop=1",
+            "publishedAt": "2026-11-13T15:51:50Z",
+            "content": "Advanced Functional Fabrics of America (AFFOA) has released a new guide for textile manufacturers in the United States, designed to help them identify opportunities for improvement and take actionabl\u2026 [+4902 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Biztoc.com"
+            },
+            "author": "benzinga.com",
+            "title": "Palo Alto, CrowdStrike Stocks Reverse Lower Despite Analyst Upgrade, Rosenblatt Price Target Hike",
+            "description": "Palo Alto Networks and cybersecurity peer CrowdStrike Holdings are trading lower Friday despite positive analyst actions.",
+            "url": "https://biztoc.com/x/96e5c809d3127d18",
+            "urlToImage": "https://biztoc.com/cdn/996/og.png",
+            "publishedAt": "2026-11-13T15:45:52Z",
+            "content": "Palo Alto Networks and cybersecurity peer CrowdStrike Holdings are trading lower Friday despite positive analyst actions.\r\nThis story appeared on benzinga.com, 2026-11-13 15:15:07."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Thurrott.com"
+            },
+            "author": "Laurent Giret",
+            "title": "Google\u2019s New Gemini 4 Hydrogen Model is Rolling Out to All Users",
+            "description": "Google rolled out yesterday a new Gemini 4 model, Hydrogen, across its Gemini app and Google Search.\nThe post Google\u2019s New Gemini 4 Hydrogen Model is Rolling Out to All Users appeared first on Thurrott.com.",
+            "url": "https://www.thurrott.com/a-i/343828/googles-new-gemini-4-hydrogen-model-is-rolling-out-to-all-users",
+            "urlToImage": "https://thurrott-assets.nyc3.digitaloceanspaces.com/web/wp-content/uploads/sites/2/2026/11/Google-Gemini-4-Hydrogen.jpg",
+            "publishedAt": "2026-11-13T15:44:29Z",
+            "content": "Google rolled out yesterday a new Gemini 4 model, Hydrogen, across its Gemini app and Google Search. Unlike its previous Gemini 4 frontier models, Argon and Carbon, which were only made available for\u2026 [+1700 chars]"
+        }
+    ]
 }
