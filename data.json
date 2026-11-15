@@ -1,6 +1,30 @@
 {
-  "updated": "2026-11-15 08:37:54 UTC",
+  "updated": "2026-11-15 16:42:17 UTC",
   "news": [
+    {
+      "title": "TSMC employee data breach linked to cloud provider",
+      "description": "[BLEEPINGCOMPUTER] Taiwan Semiconductor Manufacturing Company (TSMC) confirmed that personal employee data has been leaked online after a threat actor put 6.9GB of information allegedly stolen from the company up for auction. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/tsmc-employee-data-breach-linked-to-cloud-provider/",
+      "date": "2026-11-15T15:23:48Z"
+    },
+    {
+      "title": "Italy Fines Meta \u20ac805 Million Over Facebook's Android Gallery Access Without Explicit Consent",
+      "description": "[FEEDS] Meta was fined \u20ac805 million in Italy yesterday over a Facebook for Android feature that suggests photos and videos from users' phone galleries for them to post. The Garante, Italy's data protection authority, found that the feature was enabled by...",
+      "url": "https://thehackernews.com/2026/11/italy-fines-meta-805-million-over.html",
+      "date": "2026-11-15T11:27:31Z"
+    },
+    {
+      "title": "Cursor Says Stolen Fireworks AI Key Led to Trojanized Claude Code Extension Incident",
+      "description": "[FEEDS] The compromise of Anthropic's official Claude Code extension on Cursor's extension marketplace was the result of the theft of an access key that was exposed in the wake of a breach targeting Fireworks AI. \"An attacker obtained an access key we had...",
+      "url": "https://thehackernews.com/2026/11/stolen-fireworks-ai-key-led-to-cursor.html",
+      "date": "2026-11-15T08:22:04Z"
+    },
+    {
+      "title": "Personal information possibly exposed in gov't data leaks",
+      "description": "[RAPPLER] Despite the Data Privacy Act requiring prompt data breach disclosures, most affected state agencies have yet to inform the public",
+      "url": "https://www.rappler.com/technology/data-exposed-government-agencies-leaks-november-2026/",
+      "date": "2026-11-15T03:57:32Z"
+    },
     {
       "title": "Cursor confirms security breach led to malicious Claude Code extension",
       "description": "[BLEEPINGCOMPUTER] Cursor confirmed it suffered a security breach that let hackers distribute a malicious Claude Code extension through its marketplace after stealing credentials from AI infrastructure provider Fireworks AI. [...]",
@@ -74,12 +98,6 @@
       "date": "2026-11-14T11:20:00Z"
     },
     {
-      "title": "Records of about 140,000 migrant workers exposed in Fullerton Health's recent data breach",
-      "description": "[CNA] About 43,000 records belonged to individuals whose work passes were no longer valid, the healthcare provider said in response to CNA's queries.",
-      "url": "https://www.channelnewsasia.com/singapore/fullerton-health-cybersecurity-data-incident-work-pass-holder-records-6551586",
-      "date": "2026-11-14T10:47:48Z"
-    },
-    {
       "title": "Friday Squid Blogging: Pacific Flying Squid Populations Dropping in Korean Waters",
       "description": "[SCHNEIER] Climate change is the issue. As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered. Blog moderation policy.",
       "url": "https://www.schneier.com/blog/archives/2026/11/friday-squid-blogging-pacific-flying-squid-populations-dropping-in-korean-waters.html",
@@ -116,22 +134,10 @@
       "date": "2026-11-13T15:27:05Z"
     },
     {
-      "title": "How one AI agent exposed five critical enterprise security gaps",
-      "description": "[BLEEPINGCOMPUTER] An AI agent built to automate invoice processing could be manipulated into changing vendor bank details through a malicious email, without triggering traditional security alerts. Token Security examines five critical AI agent security gaps and...",
-      "url": "https://www.bleepingcomputer.com/news/security/how-one-ai-agent-exposed-five-critical-enterprise-security-gaps/",
-      "date": "2026-11-13T15:01:11Z"
-    },
-    {
       "title": "FBI Says North Korean Hackers Stole Over $400 Million in Crypto Using Deepfake Video Calls",
       "description": "[FEEDS] The U.S. Federal Bureau of Investigation (FBI) has established that threat actors tied to the Democratic People's Republic of Korea (DPRK aka North Korea) have stolen more than $400 million worth of cryptocurrency as part of a social engineering...",
       "url": "https://thehackernews.com/2026/11/fbi-says-north-korean-hackers-stole.html",
       "date": "2026-11-13T14:28:58Z"
-    },
-    {
-      "title": "Trezor Confirms Hidden Implants in CryptoBilis-Sold Wallets That Can Steal Recovery Phrases",
-      "description": "[FEEDS] Three Trezor Safe 5 wallets bought from the reseller CryptoBilis contain an implant, an extra circuit board that can copy their recovery phrases, hardware wallet maker Trezor said yesterday. The implant reads the phrase from the wallet's screen and...",
-      "url": "https://thehackernews.com/2026/11/trezor-confirms-hidden-hardware.html",
-      "date": "2026-11-13T13:54:20Z"
     },
     {
       "title": "AI Doesn\u2019t Have to Go Rogue to Break the World",
@@ -144,12 +150,6 @@
       "description": "[CISA] CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-114713 UnrealIRCd Improper Neutralization of Delimiters Vulnerability CVE-2026-123039 Check Point...",
       "url": "https://www.cisa.gov/news-events/alerts/2026/11/13/cisa-adds-two-known-exploited-vulnerabilities-catalog",
       "date": "2026-11-13T12:00:00Z"
-    },
-    {
-      "title": "When an AI Agent Goes Wrong, Can You Stop It?",
-      "description": "[FEEDS] Suppose an AI agent is asked to sort support tickets and look up account details. A ticket contains instructions that lead the agent to export records to an unfamiliar destination. The agent can make the request because its identity has access to...",
-      "url": "https://thehackernews.com/2026/11/when-ai-agent-goes-wrong-can-you-stop-it.html",
-      "date": "2026-11-13T11:52:31Z"
     },
     {
       "title": "Macfinger ClickFix campaign sends DownTheDRAIN infostealer for macOS, (Fri, Nov 13th)",
