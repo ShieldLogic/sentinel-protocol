@@ -1,245 +1,137 @@
 {
-  "updated": "2026-11-16 12:16:04 UTC",
-  "news": [
-    {
-      "title": "Usable Security at Luxury Hotels",
-      "description": "[SCHNEIER] Interesting case study from luxury hotels. Attackers used a fake booking request to gain access to a reservations inbox, where they copied genuine refund requests and got fraudulent ones approved. This is a good illustration why &#8220;just...",
-      "url": "https://www.schneier.com/blog/archives/2026/11/usable-security-at-luxury-hotels.html",
-      "date": "2026-11-16T12:04:42Z"
-    },
-    {
-      "title": "Australian retail giant Coles investigates cybersecurity incident",
-      "description": "[BLEEPINGCOMPUTER] Coles Group Limited, Australia's second-largest retailer, is investigating what it described as a \"cyber security incident\" that has not impacted the company's stores. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/australian-retail-giant-coles-investigates-cybersecurity-incident/",
-      "date": "2026-11-16T11:18:09Z"
-    },
-    {
-      "title": "Anthropic\u2019s Claude Fable 5.2 blocks fewer security tasks, while Mythos gets better at finding bugs",
-      "description": "[BLEEPINGCOMPUTER] Anthropic recently rolled out Claude Mythos 5.2 to selected partners and Fable 5.2 to regular users, with improvements to coding and reasoning. But we also noticed some interesting cybersecurity changes. [...]",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropics-claude-fable-52-blocks-fewer-security-tasks-while-mythos-gets-better-at-finding-bugs/",
-      "date": "2026-11-16T11:00:00Z"
-    },
-    {
-      "title": "SANSAR Linux Cryptomining Malware Uses Modified NVIDIA Library to Hide GPU Activity",
-      "description": "[FEEDS] A financially motivated threat activity cluster tracked as REF3364 has been attributed to a Linux-focused cryptocurrency mining operation that tampers with the readings used to detect high GPU workloads. Central to the intrusion is a toolkit called...",
-      "url": "https://thehackernews.com/2026/11/sansar-linux-cryptomining-malware-uses.html",
-      "date": "2026-11-16T09:32:57Z"
-    },
-    {
-      "title": "New NoisyTCP vulnerability lets attackers crash Linux servers",
-      "description": "[BLEEPINGCOMPUTER] An 11-year-old Linux kernel vulnerability, dubbed NoisyTCP, affects almost all Linux distributions and lets attackers crash systems running Nginx, Apache, and SSH servers with default configurations. [...]",
-      "url": "https://www.bleepingcomputer.com/news/linux/new-noisytcp-linux-kernel-flaw-lets-attackers-crash-servers/",
-      "date": "2026-11-16T09:30:04Z"
-    },
-    {
-      "title": "Microsoft pushes Windows emergency updates to fix activation failures",
-      "description": "[BLEEPINGCOMPUTER] Microsoft has released emergency out-of-band updates to fix Windows activation and licensing failures caused by this month's security updates. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-new-windows-emergency-updates-fix-activation-licensing-failures/",
-      "date": "2026-11-16T08:26:52Z"
-    },
-    {
-      "title": "Amazon Uncovers AI Agent Campaign Targeting LiteLLM, Dify, and Other Apps for API Keys",
-      "description": "[FEEDS] Attackers' AI agents have been hunting for weak spots in internet-exposed AI apps such as LiteLLM, One API, and Dify to steal the AI provider keys stored inside, according to the agents' own records. The records, which Amazon's threat intelligence...",
-      "url": "https://thehackernews.com/2026/11/amazon-uncovers-ai-agent-campaign.html",
-      "date": "2026-11-16T07:34:21Z"
-    },
-    {
-      "title": "BO Team Exploits Log4Shell in VMware vCenter, Compromises Russian Firm's Code-Signing Server",
-      "description": "[FEEDS] An investigation into suspicious activity within a Russian software developer's network has uncovered a months-long compromise of its development infrastructure and a software code-signing server. The activity, documented by Kaspersky's ICS CERT...",
-      "url": "https://thehackernews.com/2026/11/bo-team-exploits-log4shell-in-vmware.html",
-      "date": "2026-11-16T06:53:34Z"
-    },
-    {
-      "title": "ISC Stormcast For Monday, November 16th, 2026 https://isc.sans.edu/podcastdetail/10180, (Mon, Nov 16th)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33520",
-      "date": "2026-11-16T02:00:05Z"
-    },
-    {
-      "title": "Data Breach Exposes Uber Drivers\u2019 Info",
-      "description": "[THE ECONOMIC TIMES] Uber Technologies has disclosed a data breach linked to third-party vendor Fireworks AI that exposed personal information belonging to some individuals, including drivers.",
-      "url": "https://economictimes.indiatimes.com/et-cbl/data-breach-exposes-uber-drivers-info/articleshow/135865969.cms",
-      "date": "2026-11-15T22:09:00Z"
-    },
-    {
-      "title": "Data Breach Exposes Uber Drivers\u2019 Info",
-      "description": "[THE ECONOMIC TIMES] Uber Technologies has disclosed a data breach linked to third-party vendor Fireworks AI that exposed personal information belonging to some individuals, including drivers.",
-      "url": "https://economictimes.indiatimes.com/epaper/delhicapital/2026/nov/15/sunet-front/data-breach-exposes-uber-drivers-info/articleshow/135865969.cms",
-      "date": "2026-11-15T22:09:00Z"
-    },
-    {
-      "title": "Google, CrowdStrike and Kroll struggle to handle surge in AI-powered cyberattacks",
-      "description": "[HINDUSTAN TIMES] AI-powered cyberattacks are overwhelming Google Mandiant, CrowdStrike and Kroll as US cybersecurity firms struggle to handle rising hacking threats.",
-      "url": "https://www.hindustantimes.com/world-news/us-news/google-crowdstrike-and-kroll-struggle-to-handle-surge-in-ai-powered-cyberattacks-101794769059784.html",
-      "date": "2026-11-15T19:34:33Z"
-    },
-    {
-      "title": "RBI's 6-hour reporting rule to help curb cyber threats, say experts",
-      "description": "[THE ECONOMIC TIMES] The Reserve Bank of India has issued new guidelines for non-bank payment system operators regarding cybersecurity. Payment system operators are required to report unusual incidents, including cyberattacks and system outages, within six hours. This...",
-      "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/rbis-6-hour-reporting-rule-to-help-curb-cyber-threats-say-experts/articleshow/135864134.cms",
-      "date": "2026-11-15T18:43:00Z"
-    },
-    {
-      "title": "FBI warns ARTEX AI hacking tool is powering global cyberattacks",
-      "description": "[BLEEPINGCOMPUTER] The FBI is warning that hackers are using an AI-powered penetration testing framework called ARTEX to automate cyberattacks against organizations worldwide, including a recent ConnectWise supply-chain breach that compromised Microsoft 365 customer...",
-      "url": "https://www.bleepingcomputer.com/news/security/fbi-warns-artex-ai-hacking-tool-is-powering-global-cyberattacks/",
-      "date": "2026-11-15T18:29:53Z"
-    },
-    {
-      "title": "YARA-X 1.23.0 Release, (Sun, Nov 15th)",
-      "description": "[ISC] YARA-X&&#x23;x26;&#x23;39&&#x23;x26;&#x23;x3b;s 1.23.0 release brings 4 improvements and 16 bugfixes.&#xd;",
-      "url": "https://isc.sans.edu/diary/rss/33496",
-      "date": "2026-11-15T18:17:27Z"
-    },
-    {
-      "title": "Windows 11 \u201cSignDrop\u201d Zero-Day Exploit Turns Microsoft\u2019s Own Security Fix Against Itself, Grants SYSTEM Privileges",
-      "description": "[WCCFTECH] A new Windows 11 zero-day called SignDrop exploits Microsoft's CLFS security mitigation to gain SYSTEM privileges. Microsoft is investigating.",
-      "url": "https://wccftech.com/windows-11-signdrop-zero-day-exploit-turns-microsofts-own-security-fix-against-itself-grants-system-privileges/",
-      "date": "2026-11-15T18:00:00Z"
-    },
-    {
-      "title": "Caribbean Airlines hit by data breach affecting passenger information",
-      "description": "[EUROPE SAYS] Caribbean Airlines is reporting that it has been hit by a data breach in which an unauthorised party gained access to passengers' booking and reservation",
-      "url": "https://www.europesays.com/3377526/",
-      "date": "2026-11-15T17:35:06Z"
-    },
-    {
-      "title": "TSMC employee data breach linked to cloud provider",
-      "description": "[BLEEPINGCOMPUTER] Taiwan Semiconductor Manufacturing Company (TSMC) confirmed that personal employee data has been leaked online after a threat actor put 6.9GB of information allegedly stolen from the company up for auction. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/tsmc-employee-data-breach-linked-to-cloud-provider/",
-      "date": "2026-11-15T15:23:48Z"
-    },
-    {
-      "title": "Top cybersecurity expert issues major warning to Brits",
-      "description": "[DAILY EXPRESS] EXCLUSIVE: A cybersecurity expert has warned that this is 'just the beginning' and that 'there is no time to wait.'",
-      "url": "https://www.express.co.uk/news/uk/2264792/top-cybersecurity-expert-issues-major-brits",
-      "date": "2026-11-15T14:47:00Z"
-    },
-    {
-      "title": "SEBI to issue AI usage guidelines for capital markets, focus on investor protection: Chairman",
-      "description": "[MONEYCONTROL] Tuhin Kanta Pandey said the regulator has been continuously strengthening its cybersecurity framework to address rising cyber threats.",
-      "url": "https://www.moneycontrol.com/news/business/markets/sebi-to-issue-ai-usage-guidelines-for-capital-markets-focus-on-investor-protection-chairman-14080601.html",
-      "date": "2026-11-15T14:09:06Z"
-    },
-    {
-      "title": "hour reporting rule to help curb cyber threats, fraud in digital payments: Experts",
-      "description": "[CNBC TV18] RBI mandates non-bank payment system operators to report cyberattacks and system outages within six hours to strengthen digital payment cybersecurity.",
-      "url": "https://www.cnbctv18.com/business/rbis-6-hour-reporting-rule-to-help-curb-cyber-threats-fraud-in-digital-payments-experts-20034427.htm",
-      "date": "2026-11-15T13:57:27Z"
-    },
-    {
-      "title": "Italy Fines Meta \u20ac805 Million Over Facebook's Android Gallery Access Without Explicit Consent",
-      "description": "[FEEDS] Meta was fined \u20ac805 million in Italy yesterday over a Facebook for Android feature that suggests photos and videos from users' phone galleries for them to post. The Garante, Italy's data protection authority, found that the feature was enabled by...",
-      "url": "https://thehackernews.com/2026/11/italy-fines-meta-805-million-over.html",
-      "date": "2026-11-15T11:27:31Z"
-    },
-    {
-      "title": "South Korea's Coinone data breach may expose passwords, IDs, wallet addresses",
-      "description": "[CRYPTO NEWS] Coinone disclosed a breach at contractor MetaM that may have exposed passwords and ID data, warning affected customers about phishing and identity theft.",
-      "url": "https://crypto.news/coinone-data-breach-customer-support-hack/",
-      "date": "2026-11-15T11:18:41Z"
-    },
-    {
-      "title": "Cursor Says Stolen Fireworks AI Key Led to Trojanized Claude Code Extension Incident",
-      "description": "[FEEDS] The compromise of Anthropic's official Claude Code extension on Cursor's extension marketplace was the result of the theft of an access key that was exposed in the wake of a breach targeting Fireworks AI. \"An attacker obtained an access key we had...",
-      "url": "https://thehackernews.com/2026/11/stolen-fireworks-ai-key-led-to-cursor.html",
-      "date": "2026-11-15T08:22:04Z"
-    },
-    {
-      "title": "Upcoming Speaking Engagements",
-      "description": "[SCHNEIER] This is a current list of where and when I am scheduled to speak: I\u2019m speaking at the Catalyst Summit in Brampton, Ontario, Canada, on Wednesday, November 18, 2026. I\u2019m speaking at QT Qonference 2026 in Toronto, Ontario, Canada, on Thursday,...",
-      "url": "https://www.schneier.com/blog/archives/2026/11/upcoming-speaking-engagements-62.html",
-      "date": "2026-11-14T17:02:39Z"
-    },
-    {
-      "title": "Attackers Exploit UnrealIRCd Flaw That Enables Server-Level Command Injection",
-      "description": "[FEEDS] The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a high-severity security flaw impacting UnrealIRCd, an open-source Internet Relay Chat (IRC) server, to its Known Exploited Vulnerabilities (KEV) catalog, following...",
-      "url": "https://thehackernews.com/2026/11/attackers-exploit-unrealircd-flaw-that.html",
-      "date": "2026-11-14T12:38:35Z"
-    },
-    {
-      "title": "Friday Squid Blogging: Pacific Flying Squid Populations Dropping in Korean Waters",
-      "description": "[SCHNEIER] Climate change is the issue. As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered. Blog moderation policy.",
-      "url": "https://www.schneier.com/blog/archives/2026/11/friday-squid-blogging-pacific-flying-squid-populations-dropping-in-korean-waters.html",
-      "date": "2026-11-13T22:00:46Z"
-    },
-    {
-      "title": "AI Doesn\u2019t Have to Go Rogue to Break the World",
-      "description": "[SCHNEIER] This essay is adapted from a keynote speech delivered at the DEF CON 34 conference in Las Vegas on August 7, 2026. The essay originally appeared in CyberScoop. I want to talk about AI hacking. There are three aspects: people hacking AI systems,...",
-      "url": "https://www.schneier.com/blog/archives/2026/11/ai-doesnt-have-to-go-rogue-to-break-the-world.html",
-      "date": "2026-11-13T12:03:30Z"
-    },
-    {
-      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
-      "description": "[CISA] CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-114713 UnrealIRCd Improper Neutralization of Delimiters Vulnerability CVE-2026-123039 Check Point...",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/11/13/cisa-adds-two-known-exploited-vulnerabilities-catalog",
-      "date": "2026-11-13T12:00:00Z"
-    },
-    {
-      "title": "Macfinger ClickFix campaign sends DownTheDRAIN infostealer for macOS, (Fri, Nov 13th)",
-      "description": "[ISC] Introduction&#xd;",
-      "url": "https://isc.sans.edu/diary/rss/33518",
-      "date": "2026-11-13T03:41:41Z"
-    },
-    {
-      "title": "ISC Stormcast For Friday, November 13th, 2026 https://isc.sans.edu/podcastdetail/10178, (Fri, Nov 13th)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33516",
-      "date": "2026-11-13T02:00:03Z"
-    },
-    {
-      "title": "Another Way Police Are Locating People from Their Smartphones",
-      "description": "[SCHNEIER] Penlink&#8217;s Webloc is an application that locates people using information from the weather, gaming, email, and religious apps on their phone. It&#8217;s sold to the police. The tool collects vast quantities of location data from smartphones via...",
-      "url": "https://www.schneier.com/blog/archives/2026/11/another-way-police-are-locating-people-from-their-smartphones.html",
-      "date": "2026-11-12T12:02:58Z"
-    },
-    {
-      "title": "Exploit Attempts for GPUStack Authentication Bypass (CVE-2026-102895), (Thu, Nov 12th)",
-      "description": "[ISC] CVE-2026-102895 is a trivial authentication-bypass vulnerability. GPUStack is also an attractive target. It is open-source software that manages clusters of GPUs, which are typically used to run AI workloads. All versions of GPUStack prior to 2.2.0,...",
-      "url": "https://isc.sans.edu/diary/rss/33514",
-      "date": "2026-11-12T11:56:24Z"
-    },
-    {
-      "title": "ISC Stormcast For Thursday, November 12th, 2026 https://isc.sans.edu/podcastdetail/10176, (Thu, Nov 12th)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33512",
-      "date": "2026-11-12T02:00:03Z"
-    },
-    {
-      "title": "Three People Arrested for AI-Enhanced Impersonation Fraud",
-      "description": "[SCHNEIER] It&#8217;s hard to believe how lucrative this crime can be: According to a press release from the United States attorney\u2019s office for the southern district of New York, three men \u00ad Jacob Soall, Sharon Hazan, and Guy Sheetrit \u00ad were arrested for...",
-      "url": "https://www.schneier.com/blog/archives/2026/11/three-people-arrested-for-ai-enhanced-impersonation-fraud.html",
-      "date": "2026-11-11T12:05:34Z"
-    },
-    {
-      "title": "CISA Adds Six Known Exploited Vulnerabilities to Catalog",
-      "description": "[CISA] CISA has added six new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-20320 Cisco BroadWorks Improper Restriction of XML External Entity Reference Vulnerability&nbsp;...",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/11/10/cisa-adds-six-known-exploited-vulnerabilities-catalog",
-      "date": "2026-11-10T12:00:00Z"
-    },
-    {
-      "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
-      "description": "[CISA] CISA has added four new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation.&nbsp; CVE-2026-102895 GPUStack Improper Authentication Vulnerability&nbsp; CVE-2026-116779 SignalWire FreeSwitch...",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/11/09/cisa-adds-four-known-exploited-vulnerabilities-catalog",
-      "date": "2026-11-09T12:00:00Z"
-    },
-    {
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "description": "[CISA] CISA has added one new vulnerability to its&nbsp;Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-19868 SonicWall SonicOS SSLVPN Use of Single-factor Authentication Vulnerability This type of...",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/11/06/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "date": "2026-11-06T12:00:00Z"
-    },
-    {
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "description": "[CISA] CISA has added one new vulnerability to its&nbsp;Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2024-27834 Apple Multiple Products Improper Authentication Vulnerability This type of vulnerability is a...",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/11/04/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "date": "2026-11-04T12:00:00Z"
-    },
-    {
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "description": "[CISA] CISA has added one new vulnerability to its&nbsp;Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-119977 WordPress Core Time-of-check Time-of-use (TOCTOU) Race Condition Vulnerability This type of...",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/11/03/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "date": "2026-11-03T12:00:00Z"
-    }
-  ]
+    "title": "Sentinel Protocol",
+    "tagline": "Perimeter Intelligence Sync",
+    "updated": "2026-11-16 20:47 UTC",
+    "news": [
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": null,
+            "title": "'The Odyssey' actor John Leguizamo demands Democrats 'abolish ICE,' shut down detention centers",
+            "description": "Actor John Leguizamo's Instagram video demands abolishing ICE, shutting down detention centers and ending the Electoral College in a sweeping policy list.",
+            "url": "https://www.foxnews.com/media/odyssey-actor-john-leguizamo-demands-democrats-abolish-ice-shut-down-detention-centers",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/01/john-leguizamo-new-york-premiere.jpg",
+            "publishedAt": "2026-11-15T20:25:07Z",
+            "content": "\"The Odyssey\" actor John Leguizamo urged Democrats to abolish Immigration and Customs Enforcement (ICE), shut down detention centers and protect abortion rights and transgender Americans on Friday, w\u2026 [+5644 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Addicted2success.com"
+            },
+            "author": "Joel Brown (Founder of Addicted2Success.com)",
+            "title": "Cyber Insurance for Small Business: What It Covers, What It Costs and When You Need It",
+            "description": "Cyber insurance for small business is a policy that pays for the fallout when your systems, data or accounts get hit: breach response, data recovery, lost income while you\u2019re down, ransomware and the claims customers or regulators bring against you. It doesn\u2019\u2026",
+            "url": "https://addicted2success.com/business-advice/cyber-insurance-for-small-business/",
+            "urlToImage": "https://addicted2success.com/wp-content/uploads/2026/11/cyber-insurance-for-small-business-1000x600.jpg",
+            "publishedAt": "2026-11-15T19:51:21Z",
+            "content": "The Profit First method is a cash-management system created by Mike Michalowicz in his book Profit First. It flips the usual formula. Instead of Sales minus Expenses equals Profit, you take a predete\u2026 [+10406 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Kitploit.com"
+            },
+            "author": "Kitploit",
+            "title": "awesome-cybersecurity-blueteam",
+            "description": "Curated blue-team resource list covering SOC operations, detection engineering, threat hunting, incident response, DFIR, malware analysis, and hands-on labs for defenders.",
+            "url": "https://kitploit.com/en/tools/github/devtox/awesome-cybersecurity-blueteam",
+            "urlToImage": "https://assets.kitploit.com/production/public/tools/60071/2c4fd3858b4ec24e57e6f2594b16b525201bf1ba0f58d555665be71a450686e1-social-v1.webp",
+            "publishedAt": "2026-11-15T19:35:41Z",
+            "content": "A curated, practical map of platforms, tools, references, and learning paths for defenders: SOC analysts, incident responders, threat hunters, detection engineers, and DFIR practitioners.\r\nEverything\u2026 [+5469 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Pypi.org"
+            },
+            "author": null,
+            "title": "argus-guard 0.1.0a1",
+            "description": "Modular cybersecurity auditing, DevSecOps verification, and monitoring toolkit.",
+            "url": "https://pypi.org/project/argus-guard/0.1.0a1/",
+            "urlToImage": null,
+            "publishedAt": "2026-11-15T19:27:59Z",
+            "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe\u2026 [+12 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Pypi.org"
+            },
+            "author": null,
+            "title": "argus-guard added to PyPI",
+            "description": "Modular cybersecurity auditing, DevSecOps verification, and monitoring toolkit.",
+            "url": "https://pypi.org/project/argus-guard/",
+            "urlToImage": null,
+            "publishedAt": "2026-11-15T19:27:50Z",
+            "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe\u2026 [+12 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Charleston Post Courier"
+            },
+            "author": "Tom Corwin",
+            "title": "Grants from federal cash to fuel SC rural health projects",
+            "description": "The federal government wanted to spread $10 billion in federal health grants for rural health quickly, and South Carolina got $167 million to pass out. But details on those projects are lacking.",
+            "url": "https://www.postandcourier.com/news/local_state_news/federal-rural-health-grants-south-carolina-projects/article_a8bae2ae-21c4-493f-8c27-4cc79d3f255b.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/postandcourier.com/content/tncms/assets/v3/editorial/a/7e/a7ed2290-2000-4767-af29-4957d42732b7/6af72933980b4.image.jpg?crop=1821%2C956%2C0%2C90&resize=1200%2C630&order=crop%2Cresize",
+            "publishedAt": "2026-11-15T18:31:19Z",
+            "content": "There's just a significant amount needed across the state for ensuring that people have access to top-of-the line imaging, for example, or new equipment and spaces, said Jordan Desai, deputy director\u2026 [+1945 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Digital Journal"
+            },
+            "author": "Dr. Tim Sandle",
+            "title": "AI agents are becoming identities in their own right, and security needs to catch up",
+            "description": "As artificial intelligence moves from answering questions to taking actions, cybersecurity faces a fundamental shift. AI agents need identities, constrained permissions and stronger oversight, while AI itself is starting to expose vulnerabilities that have re\u2026",
+            "url": "https://www.digitaljournal.com/article/ai-agents-are-becoming-identities-in-their-own-right-and-security-needs-to-catch-up/",
+            "urlToImage": "https://www.digitaljournal.com/wp-content/uploads/2026/04/e2c272bbe87510fd7b3adb56b8df266525976092-1.jpg",
+            "publishedAt": "2026-11-15T18:30:31Z",
+            "content": "The next phase of artificial intelligence is likely to create an unusual identity problem for businesses. Increasingly, the entity attempting to access an online account, purchase a product, change a\u2026 [+8021 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BleepingComputer"
+            },
+            "author": "Lawrence Abrams",
+            "title": "FBI warns ARTEX AI hacking tool is powering global cyberattacks",
+            "description": "The FBI is warning that hackers are using an AI-powered penetration testing framework called ARTEX to automate cyberattacks against organizations worldwide, including a recent ConnectWise supply-chain breach that compromised Microsoft 365 customer environment\u2026",
+            "url": "https://www.bleepingcomputer.com/news/security/fbi-warns-artex-ai-hacking-tool-is-powering-global-cyberattacks/",
+            "urlToImage": "https://www.bleepstatic.com/content/hl-images/2025/10/23/AI-2.jpg",
+            "publishedAt": "2026-11-15T18:29:53Z",
+            "content": "The FBI is warning that hackers are using an AI-powered penetration testing framework called ARTEX to automate cyberattacks against organizations worldwide, including a recent ConnectWise supply-chai\u2026 [+6489 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Wccftech"
+            },
+            "author": "Sebastian Castellanos",
+            "title": "Windows 11 \u201cSignDrop\u201d Zero-Day Exploit Turns Microsoft\u2019s Own Security Fix Against Itself, Grants SYSTEM Privileges",
+            "description": "A newly disclosed Windows zero-day vulnerability, dubbed SignDrop, could allow attackers with standard user privileges to gain full SYSTEM access by exploiting a security mechanism Microsoft introduced last year. Ironically, the affected component was specifi\u2026",
+            "url": "https://wccftech.com/windows-11-signdrop-zero-day-exploit-turns-microsofts-own-security-fix-against-itself-grants-system-privileges/",
+            "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2026/11/FI-42.jpg",
+            "publishedAt": "2026-11-15T18:00:00Z",
+            "content": "A newly disclosed Windows zero-day vulnerability, dubbed SignDrop, could allow attackers with standard user privileges to gain full SYSTEM access by exploiting a security mechanism Microsoft introduc\u2026 [+3880 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "POLITICO.eu"
+            },
+            "author": "Antoaneta Roussi, Gerardo Fortuna",
+            "title": "Honeypots to wastepaper clues: Brussels bureaucrats get spy training",
+            "description": "EU officials are being schooled in espionage as fears of foreign spying reach new heights across Europe.",
+            "url": "https://www.politico.eu/article/eu-brussels-bureaucrats-espionage-training/",
+            "urlToImage": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/11/15/GettyImages-1181611495-scaled.jpg",
+            "publishedAt": "2026-11-15T17:52:09Z",
+            "content": "We were asked to search for information in an office, said a Parliament official who participated in the training. The aim was to make us realize just how much we can find out by combining informatio\u2026 [+835 chars]"
+        }
+    ]
 }
