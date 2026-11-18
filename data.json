@@ -1,245 +1,137 @@
 {
-  "updated": "2026-11-18 14:48:11 UTC",
-  "news": [
-    {
-      "title": "New Attack Bypasses TPM Lockout to Crack Windows Hello and BitLocker PINs in Days, Not Years",
-      "description": "[FEEDS] On AMD-based PCs and some Intel PCs, the TPM lockout for Windows Hello and BitLocker PINs can be reset by someone who opens the PC's case, researchers at Technische Universit\u00e4t Berlin say. That leaves short PINs open to guessing. In lab tests, the...",
-      "url": "https://thehackernews.com/2026/11/flash-chip-attack-bypasses-tpm-lockout.html",
-      "date": "2026-11-18T12:28:30Z"
-    },
-    {
-      "title": "AI Pentesting Checklist for Web Apps: 15 Questions to Ask Before Choosing a Vendor",
-      "description": "[FEEDS] TL;DR Attackers move first. On average, exploitation now starts before a patch exists (Mandiant M-Trends 2026). In 1H 2026, 23% of vulnerabilities VulnCheck added to its exploited list were hit on or before disclosure day. AI pentesting vendors...",
-      "url": "https://thehackernews.com/2026/11/ai-pentesting-checklist-for-web-apps-15.html",
-      "date": "2026-11-18T12:15:00Z"
-    },
-    {
-      "title": "France Is Blaming Iran for the Fridge Cyberattack",
-      "description": "[SCHNEIER] Interesting: U.S. intelligence agencies have recently reached a &#8220;&#8221;ow confidence&#8221; assessment that Iran was responsible for the attacks in France, according to three U.S. officials who spoke on the condition of anonymity to discuss...",
-      "url": "https://www.schneier.com/blog/archives/2026/11/france-is-blaming-iran-for-the-fridge-cyberattack.html",
-      "date": "2026-11-18T12:05:35Z"
-    },
-    {
-      "title": "Java4Shell Flaw (CVE-2026-114938) Enables Pre-Auth RCE in Jira, Jenkins, Keycloak and More",
-      "description": "[FEEDS] A Java flaw called Java4Shell can let attackers without an account run their own code on Jira, Jenkins, Keycloak, and three other widely used applications, says Calif, the security research firm that disclosed it this week. The flaw is present in...",
-      "url": "https://thehackernews.com/2026/11/java4shell-cve-2026-114938-enables-pre.html",
-      "date": "2026-11-18T11:55:49Z"
-    },
-    {
-      "title": "Dizigom illegal streaming service with 21M monthly visits shuts down",
-      "description": "[BLEEPINGCOMPUTER] The Alliance for Creativity and Entertainment (ACE) has announced the shutdown of Dizigom, one of Turkey's largest piracy sites, after a settlement agreement with the site's operators. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/dizigom-illegal-streaming-service-with-21m-monthly-visits-shuts-down/",
-      "date": "2026-11-18T11:50:25Z"
-    },
-    {
-      "title": "Quality Isn\u2019t The Main Worry About AI Pentesting \u2014 Data Privacy and Production Safety Are",
-      "description": "[FEEDS] AI is speeding up how software is built, which means more code, more changes, and more chances for vulnerabilities to reach production. It's speeding up how attackers find and exploit them too, with time-to-exploit now down to a single day. Security...",
-      "url": "https://thehackernews.com/2026/11/quality-isnt-main-worry-about-ai.html",
-      "date": "2026-11-18T11:03:57Z"
-    },
-    {
-      "title": "Apache warns of Roller RCE vulnerability exploited in attacks",
-      "description": "[BLEEPINGCOMPUTER] Apache has released security updates to address a critical Roller flaw that threat actors are exploiting to gain code execution on vulnerable servers. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/apache-warns-of-roller-rce-vulnerability-exploited-in-attacks/",
-      "date": "2026-11-18T10:35:05Z"
-    },
-    {
-      "title": "Microsoft announces Windows Server 2028 with hardened security",
-      "description": "[BLEEPINGCOMPUTER] Microsoft has announced Windows Server 2028, the next major release of its server operating system, at the Ignite 2026 conference on Tuesday. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-windows-server-2028-with-hardened-security/",
-      "date": "2026-11-18T09:24:31Z"
-    },
-    {
-      "title": "Hackers Exploiting Critical Puppet RCE Flaw Affecting Enterprise Management Servers",
-      "description": "[FEEDS] The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a critical security flaw impacting Perforce Puppet, an enterprise infrastructure-as-code (IaC) and configuration management platform, to its Known Exploited...",
-      "url": "https://thehackernews.com/2026/11/hackers-exploiting-critical-puppet-rce.html",
-      "date": "2026-11-18T08:24:31Z"
-    },
-    {
-      "title": "CISA Urges Immediate Patching of Java4Shell Flaw That Could Allow Remote Code Execution",
-      "description": "[FEEDS] The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has urged organizations to immediately patch a newly disclosed critical security flaw impacting Oracle Java. The flaw, tracked as CVE-2026-114938 (CVSS score: 8.1), refers to a case of...",
-      "url": "https://thehackernews.com/2026/11/cisa-urges-immediate-patching-of.html",
-      "date": "2026-11-18T08:24:23Z"
-    },
-    {
-      "title": "British Scattered Spider hacker sentenced to 6 years in prison",
-      "description": "[BLEEPINGCOMPUTER] A leader of the Scattered Spider cybercrime collective has been sentenced to six years in prison in the United States for stealing millions in cryptocurrency and conspiring to hack a dozen companies. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/british-scattered-spider-hacker-sentenced-to-6-years-in-prison/",
-      "date": "2026-11-18T08:24:18Z"
-    },
-    {
-      "title": "\"Parlay tech advances into real outcomes\": Microsoft CEO Satya Nadella unveils new models for coding, cybersecurity",
-      "description": "[THE ECONOMIC TIMES] Nadella highlighted how the company plans to provide nearly every layer of the technology businesses will need to build, deploy and manage increasingly autonomous AI systems.",
-      "url": "https://economictimes.indiatimes.com/tech/technology/parlay-tech-advances-into-real-outcomes-microsoft-ceo-satya-nadella-unveils-new-models-for-coding-cybersecurity/articleshow/135946214.cms",
-      "date": "2026-11-18T02:40:15Z"
-    },
-    {
-      "title": "ISC Stormcast For Wednesday, November 18th, 2026 https://isc.sans.edu/podcastdetail/10184, (Wed, Nov 18th)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33528",
-      "date": "2026-11-18T02:00:03Z"
-    },
-    {
-      "title": "After Black October, OffSec Turns PHPH2Shell and Other New Vulnerabilities Into Hands-On Labs",
-      "description": "[TECHBULLION] OffSec launched 14 hands-on labs based on real CVEs in just two weeks, alongside its Level 20 offer giving learners $550 off Learn One cybersecurity training.",
-      "url": "https://techbullion.com/after-black-october-offsec-turns-phph2shell-and-other-new-vulnerabilities-into-hands-on-labs/",
-      "date": "2026-11-18T01:24:27Z"
-    },
-    {
-      "title": "\"Parlay tech advances into real outcomes\": Microsoft CEO Satya Nadella unveils new models for coding, cybersecurity",
-      "description": "[THE TRIBUNE] Nadella highlighted how the company plans to provide nearly every layer of the technology businesses will need to build, deploy and manage increasingly autonomous AI systems.",
-      "url": "https://www.tribuneindia.com/news/business/parlay-tech-advances-into-real-outcomes-microsoft-ceo-satya-nadella-unveils-new-models-for-coding-cybersecurity/",
-      "date": "2026-11-18T01:12:39Z"
-    },
-    {
-      "title": "\"Parlay tech advances into real outcomes\": Microsoft CEO Satya Nadella unveils new models for coding, cybersecurity",
-      "description": "[ANI (ASIAN NEWS INTERNATIONAL)] Nadella highlighted how the company plans to provide nearly every layer of the technology businesses will need to build, deploy and manage increasingly autonomous AI systems.",
-      "url": "https://www.aninews.in/news/business/parlay-tech-advances-into-real-outcomes-microsoft-ceo-satya-nadella-unveils-new-models-for-coding-cybersecurity20261118064145/",
-      "date": "2026-11-18T01:11:45Z"
-    },
-    {
-      "title": "Tech outages and cybersecurity risks: 5 ways to protect your data",
-      "description": "[THE HINDU BUSINESS LINE] Recent tech outages highlight cybersecurity risks. Experts recommend multi-factor authentication, automatic updates, strong passwords and vigilance against scams.",
-      "url": "https://www.thehindubusinessline.com/info-tech/tech-disruptions-expose-digital-vulnerabilities-how-to-protect-your-accounts-and-data/article71714315.ece",
-      "date": "2026-11-18T00:46:50Z"
-    },
-    {
-      "title": "Banking reform is long overdue",
-      "description": "[THE HINDU BUSINESS LINE] Improving MSME access to finance, strengthening cybersecurity and incentives for deposits are vital",
-      "url": "https://www.thehindubusinessline.com/opinion/banking-reform-is-long-overdue/article71712763.ece",
-      "date": "2026-11-18T00:30:00Z"
-    },
-    {
-      "title": "Quad sets up biz forum, strengthens maritime intelligence ties",
-      "description": "[THE ECONOMIC TIMES] The Quad nations of India, the US, Japan, and Australia will convene a new business leaders' forum next year. They aim to strengthen economic collaboration and enhance security across various sectors including maritime and cybersecurity. A Quad...",
-      "url": "https://economictimes.indiatimes.com/news/india/quad-nations-strengthen-ties-new-business-forum-and-maritime-security-measures-against-chinas-influence/articleshow/135939181.cms",
-      "date": "2026-11-18T00:00:00Z"
-    },
-    {
-      "title": "Nozomi Networks Lands Co-Development Project with Lockheed Martin to Strengthen Cybersecurity for Government and Defence Environments",
-      "description": "[ITWIRE] Lockheed Martin is providing offset funding and technical expertise to support Nozomi Networks in developing advanced cybersecurity and automated security configuration...",
-      "url": "https://itwire.com/business-it-news/security/nozomi-networks-lands-co-development-project-with-lockheed-martin-to-strengthen-cybersecurity-for-government-and-defence-environments",
-      "date": "2026-11-17T23:56:38Z"
-    },
-    {
-      "title": "Korea issues cybersecurity advisory after flaws discovered in Java platform",
-      "description": "[THE KOREA TIMES] Korea's science ministry advised companies Wednesday to carry out emergency security checks and update their systems after vulnerabilities were dis...",
-      "url": "https://www.koreatimes.co.kr/southkorea/20261118/korea-issues-cybersecurity-advisory-after-flaws-discovered-in-java-platform",
-      "date": "2026-11-17T23:54:03Z"
-    },
-    {
-      "title": "BeyondTrust Experts Reveal Top Cybersecurity Predictions for 2027 and Beyond",
-      "description": "[ITWIRE] Autonomous AI agents will redefine identity security as organisations confront new risks from over-privileged agents, delegated authority, and increasingly autonomous attacks...",
-      "url": "https://itwire.com/guest-articles/company-news/beyondtrust-experts-reveal-top-cybersecurity-predictions-for-2027-and-beyond",
-      "date": "2026-11-17T23:48:28Z"
-    },
-    {
-      "title": "Critical Java4Shell flaw allows RCE attacks on major Java applications",
-      "description": "[BLEEPINGCOMPUTER] A critical vulnerability dubbed Java4Shell in OpenJDK, the open-source implementation of Java, can allow unauthenticated attackers to remotely execute code on popular enterprise applications, including Jenkins, Atlassian Jira, Confluence, and...",
-      "url": "https://www.bleepingcomputer.com/news/security/critical-java4shell-flaw-allows-rce-attacks-on-major-java-applications/",
-      "date": "2026-11-17T23:04:21Z"
-    },
-    {
-      "title": "Cloud keys leaked in Docker Hub images are stolen within seconds",
-      "description": "[BLEEPINGCOMPUTER] Credentials and access secrets exposed in public Docker Hub images are being extracted and exploited by attackers within as little as eight seconds of publication. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/cloud-keys-leaked-in-docker-hub-images-are-stolen-within-seconds/",
-      "date": "2026-11-17T21:27:17Z"
-    },
-    {
-      "title": "Formal Verification of the Signal Protocol Using AI",
-      "description": "[SCHNEIER] This seems like a good thing: Google Deepmind researchers used agentic AI to mathematically prove, or \u201cformally verify,\u201d a number of the Signal protocol\u2019s key cryptographic guarantees\u00ada landmark development for the widely used cryptography and AI...",
-      "url": "https://www.schneier.com/blog/archives/2026/11/formal-verification-of-the-signal-protocol-using-ai.html",
-      "date": "2026-11-17T12:05:43Z"
-    },
-    {
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "description": "[CISA] CISA has added one new vulnerability to its&nbsp;Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-115731 Perforce Puppet Enterprise Deserialization of Untrusted Data Vulnerability This type of...",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/11/17/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "date": "2026-11-17T12:00:00Z"
-    },
-    {
-      "title": "Critical Java Vulnerability Requires Immediate Patching",
-      "description": "[CISA] Purpose CISA strongly urges organizations to immediately patch the recently disclosed Oracle Java vulnerability CVE-2026-114938. This critical memory-corruption vulnerability, known as \u201cJava4Shell,\u201d affects the Base64 decoder of the x86-64 HotSpot...",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/11/17/critical-java-vulnerability-requires-immediate-patching",
-      "date": "2026-11-17T12:00:00Z"
-    },
-    {
-      "title": "A phishing page interested in MX records, (Tue, Nov 17th)",
-      "description": "[ISC] I&&#x23&#x3b;x26&#x3b;&#x23&#x3b;xe2&#x3b;&&#x23&#x3b;x26&#x3b;&#x23&#x3b;x80&#x3b;&&#x23&#x3b;x26&#x3b;&#x23&#x3b;x99&#x3b;ve mentioned before in some of my diaries that it can be instructive to look at what appear to be...",
-      "url": "https://isc.sans.edu/diary/rss/33526",
-      "date": "2026-11-17T10:56:38Z"
-    },
-    {
-      "title": "ISC Stormcast For Tuesday, November 17th, 2026 https://isc.sans.edu/podcastdetail/10182, (Tue, Nov 17th)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33524",
-      "date": "2026-11-17T02:05:15Z"
-    },
-    {
-      "title": "Scans for LiteLLM/Starlette (CVE-2026-42271, CVE-2026-48710), (Mon, Nov 16th)",
-      "description": "[ISC] This weekend, we started seeing requests for /mcp-rest/test/tools/list hitting our honeypots. These requests appear to attempt to exploit CVE-2026-42271 and CVE-2026-48710. Horizon3.ai published a short write-up about how these vulnerabilities can...",
-      "url": "https://isc.sans.edu/diary/rss/33522",
-      "date": "2026-11-16T13:11:04Z"
-    },
-    {
-      "title": "Usable Security at Luxury Hotels",
-      "description": "[SCHNEIER] Interesting case study from luxury hotels. Attackers used a fake booking request to gain access to a reservations inbox, where they copied genuine refund requests and got fraudulent ones approved. This is a good illustration why &#8220;just...",
-      "url": "https://www.schneier.com/blog/archives/2026/11/usable-security-at-luxury-hotels.html",
-      "date": "2026-11-16T12:04:42Z"
-    },
-    {
-      "title": "ISC Stormcast For Monday, November 16th, 2026 https://isc.sans.edu/podcastdetail/10180, (Mon, Nov 16th)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33520",
-      "date": "2026-11-16T02:00:05Z"
-    },
-    {
-      "title": "YARA-X 1.23.0 Release, (Sun, Nov 15th)",
-      "description": "[ISC] YARA-X&&#x23;x26;&#x23;39&&#x23;x26;&#x23;x3b;s 1.23.0 release brings 4 improvements and 16 bugfixes.&#xd;",
-      "url": "https://isc.sans.edu/diary/rss/33496",
-      "date": "2026-11-15T18:17:27Z"
-    },
-    {
-      "title": "Upcoming Speaking Engagements",
-      "description": "[SCHNEIER] This is a current list of where and when I am scheduled to speak: I\u2019m speaking at the Catalyst Summit in Brampton, Ontario, Canada, on Wednesday, November 18, 2026. I\u2019m speaking at QT Qonference 2026 in Toronto, Ontario, Canada, on Thursday,...",
-      "url": "https://www.schneier.com/blog/archives/2026/11/upcoming-speaking-engagements-62.html",
-      "date": "2026-11-14T17:02:39Z"
-    },
-    {
-      "title": "Friday Squid Blogging: Pacific Flying Squid Populations Dropping in Korean Waters",
-      "description": "[SCHNEIER] Climate change is the issue. As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered. Blog moderation policy.",
-      "url": "https://www.schneier.com/blog/archives/2026/11/friday-squid-blogging-pacific-flying-squid-populations-dropping-in-korean-waters.html",
-      "date": "2026-11-13T22:00:46Z"
-    },
-    {
-      "title": "AI Doesn\u2019t Have to Go Rogue to Break the World",
-      "description": "[SCHNEIER] This essay is adapted from a keynote speech delivered at the DEF CON 34 conference in Las Vegas on August 7, 2026. The essay originally appeared in CyberScoop. I want to talk about AI hacking. There are three aspects: people hacking AI systems,...",
-      "url": "https://www.schneier.com/blog/archives/2026/11/ai-doesnt-have-to-go-rogue-to-break-the-world.html",
-      "date": "2026-11-13T12:03:30Z"
-    },
-    {
-      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
-      "description": "[CISA] CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-114713 UnrealIRCd Improper Neutralization of Delimiters Vulnerability CVE-2026-123039 Check Point...",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/11/13/cisa-adds-two-known-exploited-vulnerabilities-catalog",
-      "date": "2026-11-13T12:00:00Z"
-    },
-    {
-      "title": "CISA Adds Six Known Exploited Vulnerabilities to Catalog",
-      "description": "[CISA] CISA has added six new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-20320 Cisco BroadWorks Improper Restriction of XML External Entity Reference Vulnerability&nbsp;...",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/11/10/cisa-adds-six-known-exploited-vulnerabilities-catalog",
-      "date": "2026-11-10T12:00:00Z"
-    },
-    {
-      "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
-      "description": "[CISA] CISA has added four new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation.&nbsp; CVE-2026-102895 GPUStack Improper Authentication Vulnerability&nbsp; CVE-2026-116779 SignalWire FreeSwitch...",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/11/09/cisa-adds-four-known-exploited-vulnerabilities-catalog",
-      "date": "2026-11-09T12:00:00Z"
-    },
-    {
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "description": "[CISA] CISA has added one new vulnerability to its&nbsp;Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-19868 SonicWall SonicOS SSLVPN Use of Single-factor Authentication Vulnerability This type of...",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/11/06/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "date": "2026-11-06T12:00:00Z"
-    }
-  ]
+    "title": "Sentinel Protocol",
+    "tagline": "Perimeter Intelligence Sync",
+    "updated": "2026-11-18 19:13 UTC",
+    "news": [
+        {
+            "source": {
+                "id": null,
+                "name": "Securityaffairs.com"
+            },
+            "author": "Pierluigi Paganini",
+            "title": "Fireworks AI Breach Exposes Uber Data and Highlights Supply Chain Risks",
+            "description": "Hackers used compromised Fireworks AI credentials to steal personal data and driver\u2019s license information belonging to nearly 150,000 Uber users. Uber is notifying nearly 150,000 people after attackers used compromised credentials belonging to one of its tech\u2026",
+            "url": "https://securityaffairs.com/203339/data-breach/fireworks-ai-breach-exposes-uber-data-and-highlights-supply-chain-risks.html",
+            "urlToImage": "https://securityaffairs.com/wp-content/uploads/2022/09/uber-logo.jpg",
+            "publishedAt": "2026-11-17T19:11:20Z",
+            "content": "Fireworks AI Breach Exposes Uber Data and Highlights Supply Chain Risks\r\nUber is notifying nearly 150,000 people after attackers used compromised credentials belonging to one of its technology provid\u2026 [+6512 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Biztoc.com"
+            },
+            "author": null,
+            "title": "Coffee Break: Armed Madhouse \u2013 Cyberwar: The Pandora\u2019s Box of Digital Destruction",
+            "description": "In 2010, cybersecurity researchers discovered Stuxnet, a sophisticated computer worm designed to sabotage uranium enrichment operations at Iran\u2019s Natanz nuclear facility. The malicious software infiltrated industrial control systems and manipulated the operat\u2026",
+            "url": "https://biztoc.com/x/c2fa27a2774b411f",
+            "urlToImage": "https://cdn.biztoc.com/c2fa27a2774b411f_s.webp",
+            "publishedAt": "2026-11-17T19:05:59Z",
+            "content": "In 2010, cybersecurity researchers discovered Stuxnet, a sophisticated computer worm designed to sabotage uranium enrichment operations at Irans Natanz nuclear facility. The malicious software infilt\u2026 [+137 chars]"
+        },
+        {
+            "source": {
+                "id": "next-big-future",
+                "name": "Next Big Future"
+            },
+            "author": "cybernewswire",
+            "title": "After Black October, OffSec Turns PHPH2Shell and Other New Vulnerabilities Into Hands-On Labs",
+            "description": "New York City, United States, 17th November 2026, CyberNewswire",
+            "url": "https://www.nextbigfuture.com/2026/11/after-black-october-offsec-turns-phph2shell-and-other-new-vulnerabilities-into-hands-on-labs.html",
+            "urlToImage": null,
+            "publishedAt": "2026-11-17T19:05:34Z",
+            "content": "New York City, United States, November 18th, 2026, CyberNewswire\r\nOffSec built 14 labs on real CVEs in two weeks. Its Level 20 offer takes $550 off Learn One for learners ready to train against threa\u2026 [+5130 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "HackRead"
+            },
+            "author": "CyberNewswire",
+            "title": "After Black October, OffSec Turns PHPH2Shell and Other New Vulnerabilities Into Hands-On Labs",
+            "description": "New York City, United States, 17th November 2026, CyberNewswire",
+            "url": "https://hackread.com/after-black-october-offsec-turns-phph2shell-and-other-new-vulnerabilities-into-hands-on-labs/",
+            "urlToImage": "https://hackread.com/wp-content/uploads/2026/10/OffSec_Vertical__Full_Color_1793198192FgGLnUGLoN.jpg",
+            "publishedAt": "2026-11-17T19:05:02Z",
+            "content": "New York City, United States, November 18th, 2026, CyberNewswire\r\nOffSec built 14 labs on real CVEs in two weeks. Its Level 20 offer takes $550 off Learn One for learners ready to train against threa\u2026 [+5109 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Nakedcapitalism.com"
+            },
+            "author": "Haig Hovaness",
+            "title": "Coffee Break: Armed Madhouse \u2013 Cyberwar: The Pandora\u2019s Box of Digital Destruction",
+            "description": "Cyberwarfare promises extraordinary military capabilities, but the pursuit of offensive superiority may undermine national security. From Stuxnet to AI-driven cyberweapons, the proliferation of digital attack capabilities threatens critical infrastructure, in\u2026",
+            "url": "https://www.nakedcapitalism.com/2026/11/coffee-break-armed-madhouse-cyberwar-the-pandoras-box-of-digital-destruction.html",
+            "urlToImage": "https://www.nakedcapitalism.com/wp-content/uploads/2026/11/cyberwar-personnel.jpg",
+            "publishedAt": "2026-11-17T19:00:30Z",
+            "content": "In 2010, cybersecurity researchers discovered Stuxnet, a sophisticated computer worm designed to sabotage uranium enrichment operations at Iran\u2019s Natanz nuclear facility. The malicious software infil\u2026 [+34656 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Bitcoinfoundation.org"
+            },
+            "author": "Eddie Muller",
+            "title": "Skladon Breach Leaks Personal Data From 27,000 Trezor Orders",
+            "description": "The Trezor data breach at shipping partner Skladon exposed personal details from 27,000 orders, giving scammers information to impersonate support staff.\nThe post Skladon Breach Leaks Personal Data From 27,000 Trezor Orders appeared first on Bitcoin Foundatio\u2026",
+            "url": "https://bitcoinfoundation.org/news/security/skladon-breach-leaks-personal-data-from-27-000-trezor-orders/",
+            "urlToImage": "https://bitcoinfoundation.org/wp-content/uploads/2026/11/skladon-breach-leaks-personal-data-from-27-000-trezor-orders.webp",
+            "publishedAt": "2026-11-17T18:57:07Z",
+            "content": "Trezors shipping partner Skladon suffered a data breach Monday that exposed personal information tied to roughly 27,000 hardware-wallet orders placed between August 9 and November 7. This Trezor data\u2026 [+10437 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Crypto Briefing"
+            },
+            "author": "Diego Almada Lopez",
+            "title": "OpenAI says GPT-6.2 Astra is first deployed model to hit High self-improvement threshold",
+            "description": "The deployment of GPT-6.2 Astra marks a pivotal shift in AI development, potentially accelerating AI evolution and raising safety concerns.\nThe post OpenAI says GPT-6.2 Astra is first deployed model to hit High self-improvement threshold appeared first on Cry\u2026",
+            "url": "https://cryptobriefing.com/openai-gpt-6-2-astra-self-improvement-threshold/",
+            "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/11/17135304/library-openai-says-gpt-6-2-astra-is-first-deployed-model-to-hit-800x450.webp",
+            "publishedAt": "2026-11-17T18:53:13Z",
+            "content": "OpenAI's new flagship crossed a line in its own Preparedness Framework, while sibling model GPT-6.2 Sol landed at Critical for cybersecurityOpenAI has released a model that, by its own measurement, i\u2026 [+3237 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BleepingComputer"
+            },
+            "author": "cdrees",
+            "title": "FBI Flash: ARTEX breakdown",
+            "description": "FBI Flash: ARTEX breakdown - posted in General Security: \n\tFBI Warns ARTEX AI Agents Reach Privileged Access in Under Three Hours\n\u00a0\n\u00a0\n\n\tNov 17, 2026\n\u00b7 @Chris Rees\n\nDraft for a BleepingComputer sponsored post. Every Skillthropic link carries utm_source=bleepin\u2026",
+            "url": "https://www.bleepingcomputer.com/forums/t/820000/fbi-flash-artex-breakdown/",
+            "urlToImage": "https://www.bleepingcomputer.com/forums/public/style_images/master/meta_image.png",
+            "publishedAt": "2026-11-17T18:52:16Z",
+            "content": "FBI Warns ARTEX AI Agents Reach Privileged Access in Under Three Hours\r\nNov 17, 2026\r\n\u00b7 @Chris Rees\r\nDraft for a BleepingComputer sponsored post. Every Skillthropic link carries utm_source=bleepingco\u2026 [+2743 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Amazon.com"
+            },
+            "author": "Marco Larrea",
+            "title": "Build WhatsApp AI agents with Amazon Bedrock AgentCore",
+            "description": "SMART, an open-source Python SDK and Terraform stack, deploys the full WhatsApp channel layer to your AWS account with one command. Bring any agent that runs on Amazon Bedrock AgentCore, and SMART handles webhook ingestion, media, conversation memory, schedul\u2026",
+            "url": "https://aws.amazon.com/blogs/machine-learning/build-whatsapp-ai-agents-with-amazon-bedrock-agentcore/",
+            "urlToImage": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/13/ML-21698-featured-image.png",
+            "publishedAt": "2026-11-17T18:48:50Z",
+            "content": "Across Latin America, India, and Southeast Asia, WhatsApp is one of the most widely used messaging applications. That makes it an obvious place to build an AI agent. For many end users, it is how the\u2026 [+19540 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Biztoc.com"
+            },
+            "author": null,
+            "title": "Cycurion: 3 Key Takeaways for Long-Term Investors",
+            "description": "On its third-quarter 2026 earnings call, held on Nov. 16, 2026, Cycurion (NASDAQ:CYCU) reported third-quarter revenue of $5.4 million. The cybersecurity provider is shifting toward higher-margin software and predictive threat detection to narrow its operating\u2026",
+            "url": "https://biztoc.com/x/c8498cf6af180045",
+            "urlToImage": "https://cdn.biztoc.com/c8498cf6af180045_s.webp",
+            "publishedAt": "2026-11-17T18:38:00Z",
+            "content": "On its third-quarter 2026 earnings call, held on Nov. 16, 2026, Cycurion (NASDAQ:CYCU) reported third-quarter revenue of $5.4 million. The cybersecurity provider is shifting toward higher-margin soft\u2026 [+149 chars]"
+        }
+    ]
 }
