@@ -1,245 +1,137 @@
 {
-  "updated": "2026-11-19 14:54:47 UTC",
-  "news": [
-    {
-      "title": "Drupal patches critical RCE flaw, warns exploits may surface quickly",
-      "description": "[BLEEPINGCOMPUTER] The Drupal Security Team has patched a critical remote code execution vulnerability that can let attackers take over vulnerable sites. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaw-warns-exploits-may-surface-quickly/",
-      "date": "2026-11-19T13:08:08Z"
-    },
-    {
-      "title": "Everything Is a Web Application, Including Your Firewall",
-      "description": "[FEEDS] One of the early targets of PHP2Shell exploitation was the firewall. On October 28, Palo Alto Networks confirmed that attackers were exploiting the two PHP vulnerabilities, CVE-2026-109618 and CVE-2026-109619, against PAN-OS management interfaces...",
-      "url": "https://thehackernews.com/2026/11/everything-is-web-application-including.html",
-      "date": "2026-11-19T11:52:23Z"
-    },
-    {
-      "title": "Microsoft tests new Edge Lockdown Mode that disables GPU APIs",
-      "description": "[BLEEPINGCOMPUTER] Microsoft is developing a new Edge security feature to reduce the attack surface by disabling the WebGL, WebGL2, and WebGPU APIs. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-new-edge-lockdown-mode-that-disables-gpu-apis/",
-      "date": "2026-11-19T11:46:00Z"
-    },
-    {
-      "title": "Microsoft confirms app installation, launch issues after hotpatch",
-      "description": "[BLEEPINGCOMPUTER] Microsoft has shared a workaround for installation and launch issues affecting Office and third-party applications after installing this month's Windows 11 hotpatch. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-app-installation-launch-issues-after-hotpatch/",
-      "date": "2026-11-19T10:35:05Z"
-    },
-    {
-      "title": "Hackers Breach N-able Cloud Server, Disrupting Email Security Management Across 3 Regions",
-      "description": "[FEEDS] N-able on Wednesday disclosed that unknown threat actors gained unauthorized access to one of the servers in the Mail Assure and Spam Experts Hosted Cloud, causing it to disable management interfaces and APIs. \"We have taken steps to mitigate the...",
-      "url": "https://thehackernews.com/2026/11/n-able-confirms-hackers-accessed-cloud.html",
-      "date": "2026-11-19T09:31:26Z"
-    },
-    {
-      "title": "NVIDIA investigating Gentlemen ransomware breach claims",
-      "description": "[BLEEPINGCOMPUTER] NVIDIA is investigating claims of a security breach after the Gentlemen ransomware group has added the company to its dark web data leak site. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/nvidia-investigating-gentlemen-ransomware-breach-claims/",
-      "date": "2026-11-19T09:23:21Z"
-    },
-    {
-      "title": "Ruby Releases Fixes for 7 Regex and String Flaws, Warns 5 Have Proof-of-Concept RCE",
-      "description": "[FEEDS] Ruby contains seven memory-safety flaws in its regular expression engine and its string case-conversion code. For five of them, its maintainers say, proof-of-concept exploits, or PoCs, have shown that crafted input can run code on the machine. \"We...",
-      "url": "https://thehackernews.com/2026/11/ruby-releases-fixes-for-7-regex-and.html",
-      "date": "2026-11-19T08:42:11Z"
-    },
-    {
-      "title": "Researcher Demonstrates Database RCE Exploits Affecting PostgreSQL, MySQL and Oracle",
-      "description": "[FEEDS] Low-privilege database accounts that cannot read a single application table can still be used to run code on the database server itself, a researcher has shown, by reaching memory-corruption bugs in the engine code behind ordinary SQL. The exploits,...",
-      "url": "https://thehackernews.com/2026/11/researcher-demonstrates-database-rce.html",
-      "date": "2026-11-19T08:14:00Z"
-    },
-    {
-      "title": "CISA Warns of 4 Exploited Flaws Linked to Ransomware, Cryptomining, and LLMjacking Attacks",
-      "description": "[FEEDS] The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added four vulnerabilities impacting Synology DiskStation Manager (DSM), BerriAI LiteLLM, Apache Axis, and Vanderbilt University Research Electronic Data Capture (REDCap)...",
-      "url": "https://thehackernews.com/2026/11/cisa-warns-of-4-exploited-flaws-linked.html",
-      "date": "2026-11-19T08:00:00Z"
-    },
-    {
-      "title": "PHP Warns of Critical Security Flaws Affecting All Supported Versions, Fixes Coming November 19",
-      "description": "[FEEDS] The maintainers of the PHP programming language on Wednesday issued an advisory announcing an upcoming security release that addresses critical flaws. The release is scheduled for November 19, 2026, between 2 and 2:30 p.m. UTC. \"These releases are...",
-      "url": "https://thehackernews.com/2026/11/php-warns-of-critical-security-flaws.html",
-      "date": "2026-11-19T04:33:46Z"
-    },
-    {
-      "title": "Satya Nadella Calls Microsoft Outage Result Of 'Perfect Storm\u2019 Of Events, Warns Of AI Threats",
-      "description": "[NDTV PROFIT] Microsoft CEO Satya Nadella highlighted how AI is changing the cybersecurity landscape.",
-      "url": "https://www.ndtvprofit.com/technology/satya-nadella-calls-microsoft-outage-result-of-perfect-storm-of-events-warns-of-ai-threats-12346719",
-      "date": "2026-11-19T02:37:55Z"
-    },
-    {
-      "title": "Surge in software patches likely behind recent tech outages; bank regulators on alert",
-      "description": "[LIVEMINT] CYBERSECURITY-OUTAGES-PATCHES:Surge in software patches likely behind recent tech outages; bank regulators on alert",
-      "url": "https://www.livemint.com/technology/surge-in-software-patches-likely-behind-recent-tech-outages-bank-regulators-on-alert-11795055574230.html",
-      "date": "2026-11-19T02:32:53Z"
-    },
-    {
-      "title": "ISC Stormcast For Thursday, November 19th, 2026 https://isc.sans.edu/podcastdetail/10186, (Thu, Nov 19th)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33536",
-      "date": "2026-11-19T02:00:03Z"
-    },
-    {
-      "title": "Treat Your Honeypot Analysis Like Code: Git, Pull Requests and a Human Gate for AI &#x5b;Guest Diary&#x5d;, (Wed, Nov 18th)",
-      "description": "[ISC] &#x5b;This is a Guest Diary by Kevin Truong, an ISC intern as part of the SANS.edu BACS program&#x5d;&#xd;",
-      "url": "https://isc.sans.edu/diary/rss/33534",
-      "date": "2026-11-19T01:53:48Z"
-    },
-    {
-      "title": "Wavelink and OneDot61 Partner to Accelerate Emerging Technology Vendors Across ANZ",
-      "description": "[ITWIRE] Wavelink, an Infinigate Group company, and OneDot61 today announced a strategic partnership to identify, develop and accelerate emerging cybersecurity and technology vendors...",
-      "url": "https://itwire.com/it-industry-news/deals/wavelink-and-onedot61-partner-to-accelerate-emerging-technology-vendors-across-anz",
-      "date": "2026-11-19T01:31:36Z"
-    },
-    {
-      "title": "Palo Alto surges as all signs point to cybersecurity need in the AI age",
-      "description": "[CNBC] The need for all-encompassing, rapid-response cybersecurity platforms has never been greater.",
-      "url": "https://www.cnbc.com/investingclub/2026/11/18/palo-alto-surges-as-all-signs-point-to-cybersecurity-need-in-the-ai-age.html",
-      "date": "2026-11-19T01:29:06Z"
-    },
-    {
-      "title": "Technology outages highlight need for backup plans, cybersecurity adviser says",
-      "description": "[WJLA] A cybersecurity adviser urges families and businesses to prepare for outages and watch for fraudulent messages exploiting public concern.",
-      "url": "https://wjla.com/news/local/technology-outages-cybersecurity-chetrice-mosley-romero-ice-miller-megan-clarke-scams-phishing-preparedness-resilience-cash-emergency-contacts-banking-disruptions-businesses-personal-information-protection-7news",
-      "date": "2026-11-19T01:05:58Z"
-    },
-    {
-      "title": "Widespread Tech Outages Put Focus on Trump\u2019s National Security Cuts",
-      "description": "[THE NEW YORK TIMES] Lawmakers and cyberdefense experts said diminished staffing at the Cybersecurity and Infrastructure Security Agency and National Security Council could be hobbling the administration\u2019s response.",
-      "url": "https://www.nytimes.com/2026/11/18/us/politics/tech-outages-trump-national-security.html",
-      "date": "2026-11-19T01:04:36Z"
-    },
-    {
-      "title": "Sebi has no plans to extend trading hours for market: Tuhin Kanta Pandey",
-      "description": "[THE ECONOMIC TIMES] Securities and Exchange Board of India Chairman Tuhin Kanta Pandey stated on Wednesday that market trading hours will not be extended. This decision comes in light of Nasdaq's announcement to expand US equity trading hours. Pandey highlighted...",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-has-no-plans-to-extend-trading-hours-for-market-tuhin-kanta-pandey/articleshow/135974378.cms",
-      "date": "2026-11-19T00:56:00Z"
-    },
-    {
-      "title": "How Java4shell Cybersecurity Bug Threatens Organizations: Experts",
-      "description": "[NEWSWEEK] Researchers said exploitation could allow attackers to access sensitive information or crash affected applications.",
-      "url": "https://www.newsweek.com/how-java4shell-cybersecurity-bug-threatens-organizations-experts-12736836",
-      "date": "2026-11-19T00:04:05Z"
-    },
-    {
-      "title": "A.I. Makes More Tech Outages Likely, Microsoft\u2019s Chief Warns",
-      "description": "[THE NEW YORK TIMES] Satya Nadella said that A.I. tools were finding cybersecurity bugs at a breakneck pace, and that companies were having to create fixes and deploy them \u201cinstantaneously.\u201d",
-      "url": "https://www.nytimes.com/2026/11/18/business/dealbook/microsoft-satya-nadella-outages-ai.html",
-      "date": "2026-11-18T23:54:23Z"
-    },
-    {
-      "title": "Issues shaping cybersecurity in 2027: Predictions from FortiGuard Labs",
-      "description": "[ITWIRE] Fortinet\u2019s annual predictions report examines how AI, trusted access, and criminal services are changing the outlook for defenders.",
-      "url": "https://itwire.com/guest-articles/guest-opinion/issues-shaping-cybersecurity-in-2027-predictions-from-fortiguard-labs",
-      "date": "2026-11-18T23:49:39Z"
-    },
-    {
-      "title": "Ukraine, FBI arrest ransomware gang members tied to $40M in ransoms",
-      "description": "[BLEEPINGCOMPUTER] Ukrainian authorities, working with the FBI, have arrested four suspected members of an international ransomware organization linked to more than $40.5 million in ransom payments from at least 28 companies worldwide. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/ukraine-fbi-arrest-ransomware-gang-members-tied-to-40m-in-ransoms/",
-      "date": "2026-11-18T23:08:33Z"
-    },
-    {
-      "title": "Coinbase blocks $4.7 million in transfers to Elon Musk deepfake scam",
-      "description": "[BLEEPINGCOMPUTER] Coinbase says it blocked $4.7 million in cryptocurrency transfers to scammers promoting a fake giveaway using an AI-generated deepfake of Elon Musk during a Tesla livestream that attracted more than 500,000 viewers. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/coinbase-blocks-47-million-in-transfers-to-elon-musk-deepfake-scam/",
-      "date": "2026-11-18T20:49:32Z"
-    },
-    {
-      "title": "Java4Shell, NGINX2Shell and more: Why we are not at \"Yellow\", (Wed, Nov 18th)",
-      "description": "[ISC] About a month ago, we went to Infocon Yellow for the first time in a few years. We decided to address the php2shell vulnerability and alert our readers to its significant impact. Following php2shell, we had a number of vulnerabilities and events...",
-      "url": "https://isc.sans.edu/diary/rss/33532",
-      "date": "2026-11-18T19:54:50Z"
-    },
-    {
-      "title": "France Is Blaming Iran for the Fridge Cyberattack",
-      "description": "[SCHNEIER] Interesting: U.S. intelligence agencies have recently reached a &#8220;low confidence&#8221; assessment that Iran was responsible for the attacks in France, according to three U.S. officials who spoke on the condition of anonymity to discuss...",
-      "url": "https://www.schneier.com/blog/archives/2026/11/france-is-blaming-iran-for-the-fridge-cyberattack.html",
-      "date": "2026-11-18T12:05:35Z"
-    },
-    {
-      "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
-      "description": "[CISA] CISA has added four new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation.&nbsp; CVE-2024-10441 Synology DiskStation Manager (DSM) Improper Encoding or Escaping of Output Vulnerability...",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/11/18/cisa-adds-four-known-exploited-vulnerabilities-catalog",
-      "date": "2026-11-18T12:00:00Z"
-    },
-    {
-      "title": "ISC Stormcast For Wednesday, November 18th, 2026 https://isc.sans.edu/podcastdetail/10184, (Wed, Nov 18th)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33528",
-      "date": "2026-11-18T02:00:03Z"
-    },
-    {
-      "title": "Formal Verification of the Signal Protocol Using AI",
-      "description": "[SCHNEIER] This seems like a good thing: Google Deepmind researchers used agentic AI to mathematically prove, or \u201cformally verify,\u201d a number of the Signal protocol\u2019s key cryptographic guarantees\u00ada landmark development for the widely used cryptography and AI...",
-      "url": "https://www.schneier.com/blog/archives/2026/11/formal-verification-of-the-signal-protocol-using-ai.html",
-      "date": "2026-11-17T12:05:43Z"
-    },
-    {
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "description": "[CISA] CISA has added one new vulnerability to its&nbsp;Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-115731 Perforce Puppet Enterprise Deserialization of Untrusted Data Vulnerability This type of...",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/11/17/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "date": "2026-11-17T12:00:00Z"
-    },
-    {
-      "title": "Critical Java Vulnerability Requires Immediate Patching",
-      "description": "[CISA] Purpose CISA strongly urges organizations to immediately patch the recently disclosed Oracle Java vulnerability CVE-2026-114938. This critical memory-corruption vulnerability, known as \u201cJava4Shell,\u201d affects the Base64 decoder of the x86-64 HotSpot...",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/11/17/critical-java-vulnerability-requires-immediate-patching",
-      "date": "2026-11-17T12:00:00Z"
-    },
-    {
-      "title": "A phishing page interested in MX records, (Tue, Nov 17th)",
-      "description": "[ISC] I&&#x23&#x3b;x26&#x3b;&#x23&#x3b;xe2&#x3b;&&#x23&#x3b;x26&#x3b;&#x23&#x3b;x80&#x3b;&&#x23&#x3b;x26&#x3b;&#x23&#x3b;x99&#x3b;ve mentioned before in some of my diaries that it can be instructive to look at what appear to be...",
-      "url": "https://isc.sans.edu/diary/rss/33526",
-      "date": "2026-11-17T10:56:38Z"
-    },
-    {
-      "title": "ISC Stormcast For Tuesday, November 17th, 2026 https://isc.sans.edu/podcastdetail/10182, (Tue, Nov 17th)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33524",
-      "date": "2026-11-17T02:05:15Z"
-    },
-    {
-      "title": "Usable Security at Luxury Hotels",
-      "description": "[SCHNEIER] Interesting case study from luxury hotels. Attackers used a fake booking request to gain access to a reservations inbox, where they copied genuine refund requests and got fraudulent ones approved. This is a good illustration why &#8220;just...",
-      "url": "https://www.schneier.com/blog/archives/2026/11/usable-security-at-luxury-hotels.html",
-      "date": "2026-11-16T12:04:42Z"
-    },
-    {
-      "title": "Upcoming Speaking Engagements",
-      "description": "[SCHNEIER] This is a current list of where and when I am scheduled to speak: I\u2019m speaking at the Catalyst Summit in Brampton, Ontario, Canada, on Wednesday, November 18, 2026. I\u2019m speaking at QT Qonference 2026 in Toronto, Ontario, Canada, on Thursday,...",
-      "url": "https://www.schneier.com/blog/archives/2026/11/upcoming-speaking-engagements-62.html",
-      "date": "2026-11-14T17:02:39Z"
-    },
-    {
-      "title": "Friday Squid Blogging: Pacific Flying Squid Populations Dropping in Korean Waters",
-      "description": "[SCHNEIER] Climate change is the issue. As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered. Blog moderation policy.",
-      "url": "https://www.schneier.com/blog/archives/2026/11/friday-squid-blogging-pacific-flying-squid-populations-dropping-in-korean-waters.html",
-      "date": "2026-11-13T22:00:46Z"
-    },
-    {
-      "title": "AI Doesn\u2019t Have to Go Rogue to Break the World",
-      "description": "[SCHNEIER] This essay is adapted from a keynote speech delivered at the DEF CON 34 conference in Las Vegas on August 7, 2026. The essay originally appeared in CyberScoop. I want to talk about AI hacking. There are three aspects: people hacking AI systems,...",
-      "url": "https://www.schneier.com/blog/archives/2026/11/ai-doesnt-have-to-go-rogue-to-break-the-world.html",
-      "date": "2026-11-13T12:03:30Z"
-    },
-    {
-      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
-      "description": "[CISA] CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-114713 UnrealIRCd Improper Neutralization of Delimiters Vulnerability CVE-2026-123039 Check Point...",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/11/13/cisa-adds-two-known-exploited-vulnerabilities-catalog",
-      "date": "2026-11-13T12:00:00Z"
-    },
-    {
-      "title": "CISA Adds Six Known Exploited Vulnerabilities to Catalog",
-      "description": "[CISA] CISA has added six new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-20320 Cisco BroadWorks Improper Restriction of XML External Entity Reference Vulnerability&nbsp;...",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/11/10/cisa-adds-six-known-exploited-vulnerabilities-catalog",
-      "date": "2026-11-10T12:00:00Z"
-    },
-    {
-      "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
-      "description": "[CISA] CISA has added four new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation.&nbsp; CVE-2026-102895 GPUStack Improper Authentication Vulnerability&nbsp; CVE-2026-116779 SignalWire FreeSwitch...",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/11/09/cisa-adds-four-known-exploited-vulnerabilities-catalog",
-      "date": "2026-11-09T12:00:00Z"
-    }
-  ]
+    "title": "Sentinel Protocol",
+    "tagline": "Perimeter Intelligence Sync",
+    "updated": "2026-11-19 19:19 UTC",
+    "news": [
+        {
+            "source": {
+                "id": null,
+                "name": "Dailymail.com"
+            },
+            "author": "Alex Hammer",
+            "title": "Jimmy Kimmel's dark joke about the federal government falls flat: 'Wow, we're really in trouble'",
+            "description": "'That was a joke,' he was forced to clarify, finally leading some to light laughs from the LA crowd.",
+            "url": "https://www.dailymail.com/media/article-16302863/jimmy-kimmel-alert-joke-dead-emmergency.html",
+            "urlToImage": "https://i.dailymail.com/1s/2026/11/18/17/112584513-0-image-a-40_1795024419575.jpg",
+            "publishedAt": "2026-11-18T19:16:50Z",
+            "content": "Jimmy Kimmel attempted to rile up his audience with a questionable crack about the federal government on Tuesday.\r\nThe effort, however, fell flat after the deadpan dud didn't register with the LA cro\u2026 [+3238 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Raw Story"
+            },
+            "author": "Alexander Willis",
+            "title": "Trump ally outraged after Mullin 'blatantly lied' under oath: 'Such an embarrassment'",
+            "description": "Far-right influencer and longtime Trump ally Laura Loomer accused Homeland Security Secretary Markwayne Mullin of lying to lawmakers Wednesday and predicted his tenure would end in disgrace.Loomer, a self-described \u201cproud Islamophobe\r\n,\u201d has wielded outsized \u2026",
+            "url": "https://www.rawstory.com/markwayne-mullin-2678445787/",
+            "urlToImage": "https://www.rawstory.com/media-library/us-secretary-of-homeland-security-markwayne-mullin-takes-oath-ahead-of-testifying-before-the-house-homeland-security-committee-h.jpg?id=68710318&width=1200&height=1200&coordinates=250%2C0%2C250%2C0",
+            "publishedAt": "2026-11-18T19:06:19Z",
+            "content": "Far-right influencer and longtime Trump ally Laura Loomer accused Homeland Security Secretary Markwayne Mullin of lying to lawmakers Wednesday and predicted his tenure would end in disgrace.\r\nLoomer,\u2026 [+2085 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Israelnationalnews.com"
+            },
+            "author": null,
+            "title": "Palo Alto Networks founder to invest tens of millions in Israeli digital bank",
+            "description": "Nir Zuk is expected to fund most of a $47 million capital raise for digital bank Esh, increasing his ownership stake after a planned acquisition by Isracard collapsed.",
+            "url": "https://www.israelnationalnews.com/news/436561",
+            "urlToImage": "https://2.a7.org/files/pictures/000/1046155.jpg",
+            "publishedAt": "2026-11-18T19:02:07Z",
+            "content": "Israeli cybersecurity entrepreneur Nir Zuk, founder of Palo Alto Networks, is expected to invest tens of millions of dollars in digital bank Esh as part of a planned NIS 150 million ($47 million) cap\u2026 [+2244 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Nakedcapitalism.com"
+            },
+            "author": "Nat Wilson Turner",
+            "title": "Coffee Break: Tech Outages Everywhere and Nary a Hacker to Thank",
+            "description": "A series of technical outages impacting Google, Microsoft, Apple, 911 systems, the FAA, Amazon, and the NSA have people asking why?",
+            "url": "https://www.nakedcapitalism.com/2026/11/tech-outages-faa-msft-nsa-banks-united-apple-ai-hackers.html",
+            "urlToImage": null,
+            "publishedAt": "2026-11-18T19:00:52Z",
+            "content": "The past month has seen a series of well-publicized technical outages in the US and Europe that have attracted increasing levels of media attention and have more and more people speculating as to the\u2026 [+17079 chars]"
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Nick Lichtenberg",
+            "title": "Oklahoma\u2019s governor sees universities as \u2018stuck in their ways.\u2019 His fix, a 3-year bachelor\u2019s degree, is already spreading fast",
+            "description": "\u201cThe academic community are kind of stuck in their ways,\u201d Oklahoma Gov. Kevin Stitt told Fortune. \"They don\u2019t like to change.\"",
+            "url": "https://fortune.com/2026/11/18/oklahoma-governor-stitt-three-year-college-degree-fortune-500-innovation-forum/",
+            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/11/kevin-stitt-fortune-500-innovation-forum-2026.jpg",
+            "publishedAt": "2026-11-18T18:48:39Z",
+            "content": "Oklahoma Gov. Kevin Stitt has a problem with the four-year degree, and he brought it to a room full of the people who hire its graduates.The academic community are kind of stuck in their ways. They d\u2026 [+5399 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNA"
+            },
+            "author": null,
+            "title": "GTA VI frenzy spotlights potential insurance risks lurking in digital infrastructure",
+            "description": "Nov 18 : Millions of gamers around the world have logged on for the launch of \"Grand Theft Auto VI,\" arguably the century's most anticipated video game, offering a glimpse of the vast, interconnected digital infrastructure the global economy increasingly reli\u2026",
+            "url": "https://www.channelnewsasia.com/business/gta-vi-frenzy-spotlights-potential-insurance-risks-lurking-in-digital-infrastructure-6563661",
+            "urlToImage": "https://dam.mediacorp.sg/image/upload/s--1ixbO7ng--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-11-18T184526Z_1_LYNXNPEMAH1YH_RTROPTP_3_GAMING-GTA-VI-USA.JPG?itok=8GQTdt31",
+            "publishedAt": "2026-11-18T18:45:26Z",
+            "content": "Nov 18 : Millions of gamers around the world have logged on for the launch of \"Grand Theft Auto VI,\" arguably the century's most anticipated video game, offering a glimpse of the vast, interconnected\u2026 [+2459 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Dailymail.com"
+            },
+            "author": "Breanne Deppisch",
+            "title": "Trump's Director of National Intelligence insists 'no coordinated attack' as US systems go down",
+            "description": "A spate of recent US industry outages and disruptions sparked concerns as to whether a foreign adversary might be responsible.",
+            "url": "https://www.dailymail.com/news/article-16303289/Trumps-National-Intelligence-Director-US-coordinated-attack-threat.html",
+            "urlToImage": "https://i.dailymail.com/1s/2026/11/18/18/112590235-0-image-a-11_1795025369457.jpg",
+            "publishedAt": "2026-11-18T18:34:49Z",
+            "content": "Director of National Intelligence Jay Clayton told House lawmakers that a spate of nationwide outages that included grounded flights was caused by maintenance upgrades, not a coordinated attack by an\u2026 [+3205 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Storagereview.com"
+            },
+            "author": "Harold Fritts",
+            "title": "Dell PowerMaxOS 10.5 Brings Back PowerPath With Up to 29% Higher IOPS and Adds Cyber Detect Snapshot Scans",
+            "description": "Dell announced PowerMaxOS 10.5 today, a software update for the PowerMax 2500 and 8500 that returns PowerPath multipathing to the platform, adds Dell Cyber Detect scanning of PowerMax snapshots, and opens array telemetry through OpenTelemetry and faster bulk \u2026",
+            "url": "https://www.storagereview.com/news/dell-powermaxos-10-5-powerpath-cyber-detect-opentelemetry-nvme-tcp",
+            "urlToImage": "https://www.storagereview.com/wp-content/uploads/2023/01/StorageReview-Dell-PowerMax-OnSite-01.jpg",
+            "publishedAt": "2026-11-18T18:32:24Z",
+            "content": "Dell announced PowerMaxOS 10.5 today, a software update for the PowerMax 2500 and 8500 that returns PowerPath multipathing to the platform, adds Dell Cyber Detect scanning of PowerMax snapshots, and \u2026 [+6047 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MakeUseOf"
+            },
+            "author": "Oluwaseun Bamisile",
+            "title": "Microsoft wants you to use a PIN instead of a password for a reason",
+            "description": "Your Windows password follows you everywhere. Your PIN doesn\u2019t.",
+            "url": "https://www.makeuseof.com/microsoft-wants-you-to-use-a-pin-instead-of-a-password-for-a-reason/",
+            "urlToImage": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/11/microsoft-windows-11-sign-in-option-pin-lock-screen.jpg?w=1600&h=900&fit=crop",
+            "publishedAt": "2026-11-18T18:30:17Z",
+            "content": "When setting up Windows, you're required to create a Windows Hello PIN first, even if you plan to use biometrics like facial recognition or a fingerprint. You might be wondering why Microsoft doesn't\u2026 [+4821 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Abcnews.com"
+            },
+            "author": "REBECCA SANTANA Associated Press",
+            "title": "Mullin, appearing before Congress, defends his flight to LSU-Texas game after nationwide ground stop",
+            "description": "Homeland Security Secretary Markwayne Mullin is defending his flight to a football game during a nationwide flight grounding",
+            "url": "https://abcnews.com/Technology/wireStory/mullin-appearing-congress-defends-flight-lsu-texas-game-138253736",
+            "urlToImage": "https://i.abcnewsfe.com/a/0b9ba564-d518-4e6e-828a-9a6e449f15fd/wirestory_ce63a22797c61ee53d88678000236c37_16x9.jpg?w=1600",
+            "publishedAt": "2026-11-18T18:22:00Z",
+            "content": "WASHINGTON -- Homeland Security Secretary Markwayne Mullin defended before a House committee Wednesday his flight to a weekend LSU-Texas football game as travelers across the U.S. were still stuck at\u2026 [+5758 chars]"
+        }
+    ]
 }
