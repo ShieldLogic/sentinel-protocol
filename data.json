@@ -1,11 +1,77 @@
 {
-  "updated": "2026-11-19 05:03:24 UTC",
+  "updated": "2026-11-19 14:54:47 UTC",
   "news": [
+    {
+      "title": "Drupal patches critical RCE flaw, warns exploits may surface quickly",
+      "description": "[BLEEPINGCOMPUTER] The Drupal Security Team has patched a critical remote code execution vulnerability that can let attackers take over vulnerable sites. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaw-warns-exploits-may-surface-quickly/",
+      "date": "2026-11-19T13:08:08Z"
+    },
+    {
+      "title": "Everything Is a Web Application, Including Your Firewall",
+      "description": "[FEEDS] One of the early targets of PHP2Shell exploitation was the firewall. On October 28, Palo Alto Networks confirmed that attackers were exploiting the two PHP vulnerabilities, CVE-2026-109618 and CVE-2026-109619, against PAN-OS management interfaces...",
+      "url": "https://thehackernews.com/2026/11/everything-is-web-application-including.html",
+      "date": "2026-11-19T11:52:23Z"
+    },
+    {
+      "title": "Microsoft tests new Edge Lockdown Mode that disables GPU APIs",
+      "description": "[BLEEPINGCOMPUTER] Microsoft is developing a new Edge security feature to reduce the attack surface by disabling the WebGL, WebGL2, and WebGPU APIs. [...]",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-new-edge-lockdown-mode-that-disables-gpu-apis/",
+      "date": "2026-11-19T11:46:00Z"
+    },
+    {
+      "title": "Microsoft confirms app installation, launch issues after hotpatch",
+      "description": "[BLEEPINGCOMPUTER] Microsoft has shared a workaround for installation and launch issues affecting Office and third-party applications after installing this month's Windows 11 hotpatch. [...]",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-app-installation-launch-issues-after-hotpatch/",
+      "date": "2026-11-19T10:35:05Z"
+    },
+    {
+      "title": "Hackers Breach N-able Cloud Server, Disrupting Email Security Management Across 3 Regions",
+      "description": "[FEEDS] N-able on Wednesday disclosed that unknown threat actors gained unauthorized access to one of the servers in the Mail Assure and Spam Experts Hosted Cloud, causing it to disable management interfaces and APIs. \"We have taken steps to mitigate the...",
+      "url": "https://thehackernews.com/2026/11/n-able-confirms-hackers-accessed-cloud.html",
+      "date": "2026-11-19T09:31:26Z"
+    },
+    {
+      "title": "NVIDIA investigating Gentlemen ransomware breach claims",
+      "description": "[BLEEPINGCOMPUTER] NVIDIA is investigating claims of a security breach after the Gentlemen ransomware group has added the company to its dark web data leak site. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/nvidia-investigating-gentlemen-ransomware-breach-claims/",
+      "date": "2026-11-19T09:23:21Z"
+    },
+    {
+      "title": "Ruby Releases Fixes for 7 Regex and String Flaws, Warns 5 Have Proof-of-Concept RCE",
+      "description": "[FEEDS] Ruby contains seven memory-safety flaws in its regular expression engine and its string case-conversion code. For five of them, its maintainers say, proof-of-concept exploits, or PoCs, have shown that crafted input can run code on the machine. \"We...",
+      "url": "https://thehackernews.com/2026/11/ruby-releases-fixes-for-7-regex-and.html",
+      "date": "2026-11-19T08:42:11Z"
+    },
+    {
+      "title": "Researcher Demonstrates Database RCE Exploits Affecting PostgreSQL, MySQL and Oracle",
+      "description": "[FEEDS] Low-privilege database accounts that cannot read a single application table can still be used to run code on the database server itself, a researcher has shown, by reaching memory-corruption bugs in the engine code behind ordinary SQL. The exploits,...",
+      "url": "https://thehackernews.com/2026/11/researcher-demonstrates-database-rce.html",
+      "date": "2026-11-19T08:14:00Z"
+    },
+    {
+      "title": "CISA Warns of 4 Exploited Flaws Linked to Ransomware, Cryptomining, and LLMjacking Attacks",
+      "description": "[FEEDS] The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added four vulnerabilities impacting Synology DiskStation Manager (DSM), BerriAI LiteLLM, Apache Axis, and Vanderbilt University Research Electronic Data Capture (REDCap)...",
+      "url": "https://thehackernews.com/2026/11/cisa-warns-of-4-exploited-flaws-linked.html",
+      "date": "2026-11-19T08:00:00Z"
+    },
     {
       "title": "PHP Warns of Critical Security Flaws Affecting All Supported Versions, Fixes Coming November 19",
       "description": "[FEEDS] The maintainers of the PHP programming language on Wednesday issued an advisory announcing an upcoming security release that addresses critical flaws. The release is scheduled for November 19, 2026, between 2 and 2:30 p.m. UTC. \"These releases are...",
       "url": "https://thehackernews.com/2026/11/php-warns-of-critical-security-flaws.html",
       "date": "2026-11-19T04:33:46Z"
+    },
+    {
+      "title": "Satya Nadella Calls Microsoft Outage Result Of 'Perfect Storm\u2019 Of Events, Warns Of AI Threats",
+      "description": "[NDTV PROFIT] Microsoft CEO Satya Nadella highlighted how AI is changing the cybersecurity landscape.",
+      "url": "https://www.ndtvprofit.com/technology/satya-nadella-calls-microsoft-outage-result-of-perfect-storm-of-events-warns-of-ai-threats-12346719",
+      "date": "2026-11-19T02:37:55Z"
+    },
+    {
+      "title": "Surge in software patches likely behind recent tech outages; bank regulators on alert",
+      "description": "[LIVEMINT] CYBERSECURITY-OUTAGES-PATCHES:Surge in software patches likely behind recent tech outages; bank regulators on alert",
+      "url": "https://www.livemint.com/technology/surge-in-software-patches-likely-behind-recent-tech-outages-bank-regulators-on-alert-11795055574230.html",
+      "date": "2026-11-19T02:32:53Z"
     },
     {
       "title": "ISC Stormcast For Thursday, November 19th, 2026 https://isc.sans.edu/podcastdetail/10186, (Thu, Nov 19th)",
@@ -18,6 +84,54 @@
       "description": "[ISC] &#x5b;This is a Guest Diary by Kevin Truong, an ISC intern as part of the SANS.edu BACS program&#x5d;&#xd;",
       "url": "https://isc.sans.edu/diary/rss/33534",
       "date": "2026-11-19T01:53:48Z"
+    },
+    {
+      "title": "Wavelink and OneDot61 Partner to Accelerate Emerging Technology Vendors Across ANZ",
+      "description": "[ITWIRE] Wavelink, an Infinigate Group company, and OneDot61 today announced a strategic partnership to identify, develop and accelerate emerging cybersecurity and technology vendors...",
+      "url": "https://itwire.com/it-industry-news/deals/wavelink-and-onedot61-partner-to-accelerate-emerging-technology-vendors-across-anz",
+      "date": "2026-11-19T01:31:36Z"
+    },
+    {
+      "title": "Palo Alto surges as all signs point to cybersecurity need in the AI age",
+      "description": "[CNBC] The need for all-encompassing, rapid-response cybersecurity platforms has never been greater.",
+      "url": "https://www.cnbc.com/investingclub/2026/11/18/palo-alto-surges-as-all-signs-point-to-cybersecurity-need-in-the-ai-age.html",
+      "date": "2026-11-19T01:29:06Z"
+    },
+    {
+      "title": "Technology outages highlight need for backup plans, cybersecurity adviser says",
+      "description": "[WJLA] A cybersecurity adviser urges families and businesses to prepare for outages and watch for fraudulent messages exploiting public concern.",
+      "url": "https://wjla.com/news/local/technology-outages-cybersecurity-chetrice-mosley-romero-ice-miller-megan-clarke-scams-phishing-preparedness-resilience-cash-emergency-contacts-banking-disruptions-businesses-personal-information-protection-7news",
+      "date": "2026-11-19T01:05:58Z"
+    },
+    {
+      "title": "Widespread Tech Outages Put Focus on Trump\u2019s National Security Cuts",
+      "description": "[THE NEW YORK TIMES] Lawmakers and cyberdefense experts said diminished staffing at the Cybersecurity and Infrastructure Security Agency and National Security Council could be hobbling the administration\u2019s response.",
+      "url": "https://www.nytimes.com/2026/11/18/us/politics/tech-outages-trump-national-security.html",
+      "date": "2026-11-19T01:04:36Z"
+    },
+    {
+      "title": "Sebi has no plans to extend trading hours for market: Tuhin Kanta Pandey",
+      "description": "[THE ECONOMIC TIMES] Securities and Exchange Board of India Chairman Tuhin Kanta Pandey stated on Wednesday that market trading hours will not be extended. This decision comes in light of Nasdaq's announcement to expand US equity trading hours. Pandey highlighted...",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-has-no-plans-to-extend-trading-hours-for-market-tuhin-kanta-pandey/articleshow/135974378.cms",
+      "date": "2026-11-19T00:56:00Z"
+    },
+    {
+      "title": "How Java4shell Cybersecurity Bug Threatens Organizations: Experts",
+      "description": "[NEWSWEEK] Researchers said exploitation could allow attackers to access sensitive information or crash affected applications.",
+      "url": "https://www.newsweek.com/how-java4shell-cybersecurity-bug-threatens-organizations-experts-12736836",
+      "date": "2026-11-19T00:04:05Z"
+    },
+    {
+      "title": "A.I. Makes More Tech Outages Likely, Microsoft\u2019s Chief Warns",
+      "description": "[THE NEW YORK TIMES] Satya Nadella said that A.I. tools were finding cybersecurity bugs at a breakneck pace, and that companies were having to create fixes and deploy them \u201cinstantaneously.\u201d",
+      "url": "https://www.nytimes.com/2026/11/18/business/dealbook/microsoft-satya-nadella-outages-ai.html",
+      "date": "2026-11-18T23:54:23Z"
+    },
+    {
+      "title": "Issues shaping cybersecurity in 2027: Predictions from FortiGuard Labs",
+      "description": "[ITWIRE] Fortinet\u2019s annual predictions report examines how AI, trusted access, and criminal services are changing the outlook for defenders.",
+      "url": "https://itwire.com/guest-articles/guest-opinion/issues-shaping-cybersecurity-in-2027-predictions-from-fortiguard-labs",
+      "date": "2026-11-18T23:49:39Z"
     },
     {
       "title": "Ukraine, FBI arrest ransomware gang members tied to $40M in ransoms",
@@ -38,114 +152,6 @@
       "date": "2026-11-18T19:54:50Z"
     },
     {
-      "title": "Data breach impacts 40 Irish credit unions in reported IT provider hack",
-      "description": "[BLEEPINGCOMPUTER] A reported cyberattack on Wellington IT has exposed sensitive information belonging to members of 50 credit unions, the majority of which are located in Ireland. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/data-breach-impacts-40-irish-credit-unions-in-reported-it-provider-hack/",
-      "date": "2026-11-18T19:39:33Z"
-    },
-    {
-      "title": "10-Year-Old NGINX HTTP/2 Flaw Lets Unauthenticated Attackers Execute Code on Servers",
-      "description": "[FEEDS] A flaw in NGINX's HTTP/2 support can allow an attacker to run code on servers with HTTP/2 enabled, without needing to log in. The decade-old flaw, CVE-2026-123007, dubbed \"nginx2root,\" has been present in NGINX's open-source code since version...",
-      "url": "https://thehackernews.com/2026/11/10-year-old-nginx-http2-flaw-lets.html",
-      "date": "2026-11-18T18:31:17Z"
-    },
-    {
-      "title": "F5 Warns 6 Critical BIG-IP Flaws Can Crash Traffic in Specific Setups, May Allow RCE",
-      "description": "[FEEDS] Six critical vulnerabilities in F5 BIG-IP allow an attacker to crash the Traffic Management Microkernel (TMM) without logging in, disrupting traffic until the TMM restarts. Each flaw needs a specific setup on a virtual server: an iRule that uses a...",
-      "url": "https://thehackernews.com/2026/11/f5-warns-6-critical-big-ip-flaws-can.html",
-      "date": "2026-11-18T18:15:39Z"
-    },
-    {
-      "title": "Critical Apache Roller RCE Flaw Under Active Exploitation, No Authentication Required",
-      "description": "[FEEDS] A critical security flaw in Apache Roller, an open-source, Java-based blogging platform, has come under active exploitation in the wild, according to the Apache Software Foundation (ASF) The vulnerability, tracked as CVE-2026-129448 (CVSS score:...",
-      "url": "https://thehackernews.com/2026/11/critical-apache-roller-rce-flaw-under.html",
-      "date": "2026-11-18T17:10:45Z"
-    },
-    {
-      "title": "Microsoft\u2019s Agent Framework PyPI package compromised to steal credentials",
-      "description": "[BLEEPINGCOMPUTER] Hackers compromised Microsoft's official Agent Framework Python package on PyPI, publishing two malicious versions designed to steal cloud credentials and other sensitive information from developers' systems. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/microsofts-agent-framework-pypi-package-compromised-to-steal-credentials/",
-      "date": "2026-11-18T16:58:42Z"
-    },
-    {
-      "title": "Nvidia faces data leak threat as ransomware group starts 10-day countdown to publish allegedly stolen data",
-      "description": "[FIRSTPOST] The ransomware group The Gentlemen has listed Nvidia on its dark web leak site and set a 10-day countdown, threatening to publish allegedly stolen information, although no evidence of a breach has emerged so far.",
-      "url": "https://www.firstpost.com/tech/nvidia-faces-data-leak-threat-as-ransomware-group-starts-10-day-countdown-to-publish-allegedly-stolen-data-14061059.html",
-      "date": "2026-11-18T16:57:39Z"
-    },
-    {
-      "title": "How hacktivist saboteurs exposed federal agents and how to fix the breach",
-      "description": "[WASHINGTON EXAMINER] DHS data breach exposed 41,000 personnel records. Segmenting credentials and enforcing zero trust are the fixes that agents\u2019 safety demands.",
-      "url": "https://www.washingtonexaminer.com/op-eds/4805181/dhs-data-breach-zero-trust-fix-via-an-audit-necessary-border-protection-employees/",
-      "date": "2026-11-18T16:00:00Z"
-    },
-    {
-      "title": "Cybersecurity expert says there could be more",
-      "description": "[CP24 TORONTO] The recent spate of tech outages has some concerned about whether something awry is afoot in cyberspace. While authorities have brushed them off as software glitches and human errors, one cyber expert says there could be more to come in the future.",
-      "url": "https://www.cp24.com/news/canada/2026/11/18/after-multiple-tech-outages-in-one-week-one-expert-says-there-could-be-more/",
-      "date": "2026-11-18T15:30:53Z"
-    },
-    {
-      "title": "Contract staffing grows 4X faster than permanent employees in Indian IT: report",
-      "description": "[THE HINDU BUSINESS LINE] Indian IT contract staffing surges 4x vs permanent hires as AI and cybersecurity drive demand, boosting flexible, project-based workforce growth.",
-      "url": "https://www.thehindubusinessline.com/info-tech/contract-staffing-grows-4x-faster-than-permanent-employees-in-indian-it-report/article71716388.ece",
-      "date": "2026-11-18T15:30:33Z"
-    },
-    {
-      "title": "Market hours extension not a priority; SEBI mulling to strengthen margin trading facility: Pandey",
-      "description": "[THE HINDU BUSINESS LINE] Challenges to implement such a rule begin with cybersecurity, the US itself is witnessing some breaches on a daily basis: SEBI Chairman",
-      "url": "https://www.thehindubusinessline.com/markets/market-hours-extension-not-a-priority-sebi-mulling-to-strengthen-margin-trading-facility-pandey/article71716105.ece",
-      "date": "2026-11-18T15:11:11Z"
-    },
-    {
-      "title": "From Cybersecurity to Baking: Valley View Expands High School Course Offerings",
-      "description": "[JOLIET, IL PATCH] The courses will be implemented in the 2027-28 school year.",
-      "url": "https://patch.com/illinois/bolingbrook/cybersecurity-baking-valley-view-expands-high-school-course-offerings",
-      "date": "2026-11-18T15:01:38Z"
-    },
-    {
-      "title": "From Deepfakes to Helpdesk Impersonation: Why Stronger Verification Matters",
-      "description": "[BLEEPINGCOMPUTER] Attackers are using deepfakes, helpdesk impersonation, and fake IT support requests to deceive employees and gain unauthorized access to corporate systems. Specops Software examines real-world attacks and explains how stronger identity verification...",
-      "url": "https://www.bleepingcomputer.com/news/security/from-deepfakes-to-helpdesk-impersonation-why-stronger-verification-matters/",
-      "date": "2026-11-18T15:00:10Z"
-    },
-    {
-      "title": "British hackers face prison for GTA 6 data breach and crypto thefts",
-      "description": "[TECHCRUNCH] Two British hackers face lengthy prison sentences for hacks that broke into the Grand Theft Auto gamemaker and for stealing millions in crypto.",
-      "url": "https://techcrunch.com/2026/11/18/british-hackers-face-prison-for-gta-6-data-breach-and-crypto-thefts/",
-      "date": "2026-11-18T14:55:13Z"
-    },
-    {
-      "title": "Ransomware Gang 'The Gentlemen' Reportedly Hacked Nvidia",
-      "description": "[ZEROHEDGE] ZeroHedge - On a long enough timeline, the survival rate for everyone drops to zero",
-      "url": "https://www.zerohedge.com/technology/ransomware-gang-gentlemen-reportedly-hacked-nvidia",
-      "date": "2026-11-18T14:55:00Z"
-    },
-    {
-      "title": "Ransomware group lists Nvidia on dark web extortion site",
-      "description": "[THE NEWS INTERNATIONAL] On Wednesday, cybersecurity trackers reported that the ransomware group known as The Gentleman added Nvidia to its Nvidia dark web leak site.Primarily, the entry encompasses listed company...",
-      "url": "https://www.thenews.com.pk/latest/1424137-ransomware-group-lists-nvidia-on-dark-web-extortion-site",
-      "date": "2026-11-18T14:54:00Z"
-    },
-    {
-      "title": "Nvidia faces ransomware threat as hackers set 10-day countdown to leak alleged stolen data",
-      "description": "[INDIA TODAY] Nvidia has been listed on the dark web leak site of ransomware group The Gentlemen, which has threatened to publish allegedly stolen company data in less than 10 days. However, the group has not provided any evidence of a breach.",
-      "url": "https://www.indiatoday.in/technology/news/story/nvidia-faces-ransomware-threat-as-hackers-set-10-day-countdown-to-leak-alleged-stolen-data-3041783-2026-11-18",
-      "date": "2026-11-18T14:47:59Z"
-    },
-    {
-      "title": "New EggStreme Malware Variant Goes Silent to Evade Security Tools in Government Attacks",
-      "description": "[FEEDS] The suspected Chinese advanced persistent threat (APT) group behind the sophisticated EggStreme malware has rebuilt its toolkit as it continues to target government organizations in the Philippines. \"When attackers are exposed, the cheap response is...",
-      "url": "https://thehackernews.com/2026/11/eggstreme-hackers-rebuild-malware-with.html",
-      "date": "2026-11-18T14:11:28Z"
-    },
-    {
-      "title": "New Attack Bypasses TPM Lockout to Crack Windows Hello and BitLocker PINs in Days, Not Years",
-      "description": "[FEEDS] On AMD-based PCs and some Intel PCs, the TPM lockout for Windows Hello and BitLocker PINs can be reset by someone who opens the PC's case, researchers at Technische Universit\u00e4t Berlin say. That leaves short PINs open to guessing. In lab tests, the...",
-      "url": "https://thehackernews.com/2026/11/flash-chip-attack-bypasses-tpm-lockout.html",
-      "date": "2026-11-18T12:28:30Z"
-    },
-    {
       "title": "France Is Blaming Iran for the Fridge Cyberattack",
       "description": "[SCHNEIER] Interesting: U.S. intelligence agencies have recently reached a &#8220;low confidence&#8221; assessment that Iran was responsible for the attacks in France, according to three U.S. officials who spoke on the condition of anonymity to discuss...",
       "url": "https://www.schneier.com/blog/archives/2026/11/france-is-blaming-iran-for-the-fridge-cyberattack.html",
@@ -156,12 +162,6 @@
       "description": "[CISA] CISA has added four new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation.&nbsp; CVE-2024-10441 Synology DiskStation Manager (DSM) Improper Encoding or Escaping of Output Vulnerability...",
       "url": "https://www.cisa.gov/news-events/alerts/2026/11/18/cisa-adds-four-known-exploited-vulnerabilities-catalog",
       "date": "2026-11-18T12:00:00Z"
-    },
-    {
-      "title": "Dizigom illegal streaming service with 21M monthly visits shuts down",
-      "description": "[BLEEPINGCOMPUTER] The Alliance for Creativity and Entertainment (ACE) has announced the shutdown of Dizigom, one of Turkey's largest piracy sites, after a settlement agreement with the site's operators. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/dizigom-illegal-streaming-service-with-21m-monthly-visits-shuts-down/",
-      "date": "2026-11-18T11:50:25Z"
     },
     {
       "title": "ISC Stormcast For Wednesday, November 18th, 2026 https://isc.sans.edu/podcastdetail/10184, (Wed, Nov 18th)",
