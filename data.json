@@ -1,11 +1,137 @@
 {
-  "updated": "2026-11-20 04:54:04 UTC",
+  "updated": "2026-11-20 14:36:15 UTC",
   "news": [
+    {
+      "title": "N-able says recent security breach led to major service outage",
+      "description": "[BLEEPINGCOMPUTER] N-able says attackers who breached one of its servers have caused a major outage affecting Mail Assure and SpamExperts Hosted Cloud services worldwide. [...]",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/n-able-says-recent-security-breach-led-to-major-service-outage/",
+      "date": "2026-11-20T13:18:36Z"
+    },
+    {
+      "title": "Linux KVM Flaw CVE-2026-99312 Lets Guest VMs Access Host Memory on AMD Hosts",
+      "description": "[FEEDS] A flaw in KVM, the hypervisor built into the Linux kernel, let researchers read about 127 GB of a cloud server's memory from inside a virtual machine of their own on DigitalOcean. On a shared server, that memory can include other customers' virtual...",
+      "url": "https://thehackernews.com/2026/11/new-linux-kvm-flaw-cve-2026-99312-lets.html",
+      "date": "2026-11-20T12:20:00Z"
+    },
+    {
+      "title": "Microsoft now automatically installs Windows 11 26H2 on unmanaged devices",
+      "description": "[BLEEPINGCOMPUTER] Starting this week, Microsoft has begun automatically upgrading eligible devices that aren't managed by an IT department to Windows 11 26H2. [...]",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-now-automatically-installs-windows-11-26h2-on-personal-and-unmanaged-pcs/",
+      "date": "2026-11-20T12:14:28Z"
+    },
+    {
+      "title": "Opening a 400-Year-Old Cryptex",
+      "description": "[SCHNEIER] Researchers used CT scanning technology to recover the code and open a 400-year-old cryptex padlock. You can buy a USB-drive cryptex.",
+      "url": "https://www.schneier.com/blog/archives/2026/11/opening-a-400-year-old-cryptex.html",
+      "date": "2026-11-20T12:04:46Z"
+    },
+    {
+      "title": "The Path to AI Autonomy in the SOC",
+      "description": "[FEEDS] Security leaders are about to hand AI agents a lot more authority. In a recent a16z survey of CISOs at organizations with more than 1,000 employees, 36% said they are comfortable today letting AI agents act autonomously on low-risk security actions....",
+      "url": "https://thehackernews.com/2026/11/the-path-to-ai-autonomy-in-soc.html",
+      "date": "2026-11-20T12:00:00Z"
+    },
+    {
+      "title": "F5 releases emergency patches for critical BIG-IP RCE flaws",
+      "description": "[BLEEPINGCOMPUTER] US cybersecurity company F5 warned customers to patch five critical BIG-IP vulnerabilities that attackers can exploit to trigger denial-of-service (DoS) or gain remote code execution. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/f5-releases-emergency-patches-for-critical-big-ip-rce-flaws/",
+      "date": "2026-11-20T10:57:43Z"
+    },
+    {
+      "title": "SonicWall Warns Gen 6 Firewalls Won't Get Security Patches, Even for Critical Flaws",
+      "description": "[FEEDS] SonicWall has urged all customers still running Generation 6 firewalls to retire and replace them immediately and stop exposing the devices on the internet edge, citing security risks fueled by AI-assisted attacks. \"Attackers now use automation and...",
+      "url": "https://thehackernews.com/2026/11/sonicwall-warns-gen-6-firewalls-wont.html",
+      "date": "2026-11-20T10:38:22Z"
+    },
+    {
+      "title": "Hackers Exploit Critical Cisco Expressway Flaw, Breach Four Devices and Reach Internal Network",
+      "description": "[FEEDS] Threat actors have been observed exploiting a recently disclosed critical security flaw in Cisco Expressway to breach a Russian organization shortly after the public release of a proof-of-concept (PoC) exploit. The activity involves the exploitation...",
+      "url": "https://thehackernews.com/2026/11/hackers-exploit-critical-cisco.html",
+      "date": "2026-11-20T10:32:50Z"
+    },
+    {
+      "title": "China-Linked Hackers Exploit Critical VMware vCenter Zero-Day to Gain Admin Access and Steal Data",
+      "description": "[FEEDS] The suspected China-nexus cyber espionage group known as Armory Castle (formerly UNC5221) has been attributed to the zero-day exploitation of a critical security flaw in VMware vCenter Server in early September 2026. The vulnerability, tracked as...",
+      "url": "https://thehackernews.com/2026/11/china-linked-hackers-exploit-critical.html",
+      "date": "2026-11-20T09:38:15Z"
+    },
+    {
+      "title": "Windows 11 KB5132057 update released with 28 changes and fixes",
+      "description": "[BLEEPINGCOMPUTER] Microsoft released the KB5132057 November Windows 11 preview update, which comes with 28 changes, including improvements to Windows Search, Windows Hello, and the Run dialog. [...]",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5132057-update-released-with-28-changes-and-fixes/",
+      "date": "2026-11-20T09:25:35Z"
+    },
+    {
+      "title": "ROMULUS ClickFix Attacks Deliver RAT That Can Spy on Users and Control PCs",
+      "description": "[FEEDS] Threat actors have been observed using the ROMULUS ClickFix malware delivery platform to deliver a previously undocumented remote access trojan (RAT) that shares similarities with CNCMachineRMS. \"ROMULUS likely operates as a delivery service,...",
+      "url": "https://thehackernews.com/2026/11/romulus-clickfix-attacks-deliver-rat.html",
+      "date": "2026-11-20T07:11:39Z"
+    },
+    {
+      "title": "USDA staff \u2018frustrated\u2019 by days-long outages after cybersecurity incident; disruptions \u2018may continue\u2019 through the week, internal email says",
+      "description": "[THE ECONOMIC TIMES] USDA applications experienced outages starting Monday due to a cybersecurity incident that hampered financial services. These disruptions impacted crucial systems used for farm loans and financial aid payments. Officials have warned that outages...",
+      "url": "https://economictimes.indiatimes.com/world/us/usda-staff-frustrated-by-days-long-outages-after-cybersecurity-incident-disruptions-may-continue-through-the-week-internal-email-says/articleshow/136010545.cms",
+      "date": "2026-11-20T02:36:00Z"
+    },
+    {
+      "title": "From cybercrime to AI: UP Police teams up with IIT Kanpur for tech overhaul",
+      "description": "[INDIA TODAY] Uttar Pradesh Police signed three agreements to advance cybersecurity, AI and digital policing. The partnerships aim to build sustainable technical capacity and improve citizen services.",
+      "url": "https://www.indiatoday.in/india/uttar-pradesh/story/up-police-cybersecurity-pacts-iit-kanpur-digital-india-protean-egov-ptag-3042780-2026-11-20",
+      "date": "2026-11-20T02:16:59Z"
+    },
+    {
+      "title": "Kirsten Davies set to replace Sean Cairncross as national cyber director as US battles outages: Reports",
+      "description": "[HINDUSTAN TIMES] Sean Cairncross has served as head of the Office of the National Cyber Director since August 2025, overseeing all government cybersecurity policy and strategy.",
+      "url": "https://www.hindustantimes.com/world-news/us-news/who-is-kirsten-davies-set-to-replace-sean-cairncross-as-national-cyber-director-as-us-battles-outages-reports-101795140111116.html",
+      "date": "2026-11-20T02:07:56Z"
+    },
     {
       "title": "ISC Stormcast For Friday, November 20th, 2026 https://isc.sans.edu/podcastdetail/10188, (Fri, Nov 20th)",
       "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
       "url": "https://isc.sans.edu/diary/rss/33538",
       "date": "2026-11-20T02:00:02Z"
+    },
+    {
+      "title": "Sean Cairncross Out As National Cyber Director",
+      "description": "[GIZMODO] The White House's most senior cybersecurity official is out, allegedly at the behest of Stephen Miller.",
+      "url": "https://gizmodo.com/sean-cairncross-out-as-national-cyber-director-2000842896",
+      "date": "2026-11-20T01:49:02Z"
+    },
+    {
+      "title": "Trump Fires US Cybersecurity Chief Sean Cairncross Amid Outages, AI Threat Concerns",
+      "description": "[NEWS18] Before taking over as National Cyber Director, Cairncross held various positions as a White House insider during Trump's first term.",
+      "url": "https://www.news18.com/world/trump-fires-us-cybersecurity-chief-sean-cairncross-amid-outages-ai-threat-concerns-ws-l-10433276.html",
+      "date": "2026-11-20T01:45:32Z"
+    },
+    {
+      "title": "White House fires cybersecurity chief after widespread outages",
+      "description": "[MONEYCONTROL] In recent days and weeks, major outages in America have disrupted travel, communications and e-commerce for countless users, but also affected a top-secret internal communications network at the National Security Administration.",
+      "url": "https://www.moneycontrol.com/world/white-house-fires-cybersecurity-chief-after-widespread-outages-article-14085264.html",
+      "date": "2026-11-20T01:42:15Z"
+    },
+    {
+      "title": "White House cybersecurity chief fired after outages",
+      "description": "[CP24 TORONTO] Cyber security chief Sean Cairncross was fired from his post, a source close to the White House told AFP on Thursday, following major outages and growing concerns about AI threats.",
+      "url": "https://www.cp24.com/news/world/2026/11/20/white-house-fires-cybersecurity-chief-after-widespread-outages/",
+      "date": "2026-11-20T01:26:39Z"
+    },
+    {
+      "title": "Trump's National Cyber Director Sean Cairncross Steps Down Amid US Tech Outages, Banking Disruptions: Report",
+      "description": "[REPUBLIC WORLD] Trump's National Cyber Director Sean Cairncross is reportedly stepping down amid US tech outages, banking disruptions and growing cybersecurity concerns.",
+      "url": "https://www.republicworld.com/global-news/trump-xi-and-putin-issue-joint-peace-declaration-at-historic-summit-pledge-dialogue-on-nuclear-risk-reduction-2026-11-20-141414",
+      "date": "2026-11-20T01:07:06Z"
+    },
+    {
+      "title": "Sebi, NISM plan capacity-building network for independent directors",
+      "description": "[THE ECONOMIC TIMES] Sebi Chairman Tuhin Kanta Pandey announced plans for a new network to support independent directors' training. The initiative aims to prepare directors for complex issues including financial structures and cybersecurity challenges. This network will...",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-nism-plan-capacity-building-network-for-independent-directors/articleshow/136009310.cms",
+      "date": "2026-11-20T01:06:00Z"
+    },
+    {
+      "title": "Chase, Visa and Mastercard confirm data breach involving third",
+      "description": "[THE OREGONIAN] The bank says the data breach is unrelated to this week\u2019s banking outage.",
+      "url": "https://www.oregonlive.com/business/2026/11/cyberattack-exposes-thousands-of-chase-customers-personal-information.html",
+      "date": "2026-11-20T01:00:10Z"
     },
     {
       "title": "VMware patches vCenter zero-day exploited in attacks since September",
@@ -18,126 +144,6 @@
       "description": "[BLEEPINGCOMPUTER] SBC Medical Group has warned in a filing with the U.S. Securities and Exchange Commission (SEC) that two cybersecurity incidents exposed sensitive customer and employee information, including personal data belonging to 1.6 million people. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-steal-data-of-16-million-sbc-medical-group-customers/",
       "date": "2026-11-19T22:25:42Z"
-    },
-    {
-      "title": "ASUS warns of critical hard-coded key flaw in Control Center Express",
-      "description": "[BLEEPINGCOMPUTER] ASUS released Control Center Express v1.7.29 to fix three critical vulnerabilities that could let remote attackers gain administrative control of the management console and the devices it manages. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/asus-warns-of-critical-hard-coded-key-flaw-in-control-center-express/",
-      "date": "2026-11-19T21:15:59Z"
-    },
-    {
-      "title": "ThreatsDay: GPT-6.2 Jailbreak Flaws, BubbleLoader PNG Malware, $500M Ransom Demands + 17 More Stories",
-      "description": "[FEEDS] The easiest way to fool someone is to give them something they already expect. A job offer. A message about a service outage. A familiar app. Nothing looks strange at first. And that's the problem. This week's stories show how ordinary things are...",
-      "url": "https://thehackernews.com/2026/11/threatsday-gpt-62-jailbreak-flaws.html",
-      "date": "2026-11-19T18:47:58Z"
-    },
-    {
-      "title": "Transport for London breach exposes 265,000 Oyster card users' data",
-      "description": "[BLEEPINGCOMPUTER] Transport for London (TfL) has announced that around 265,000 Oyster photocard customers may have had their account details exposed in a data breach. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/transport-for-london-breach-exposes-265-000-oyster-card-users-data/",
-      "date": "2026-11-19T18:20:01Z"
-    },
-    {
-      "title": "phpAfterShell Explained: How Hackers Could Turn a PHP Session Flaw Into Code Execution",
-      "description": "[FEEDS] PHP's default file-based session storage can be made to return objects an attacker chose, by cutting off a session write at the right moment. When combined with a second weakness, such as a suitable gadget chain in the app, those objects can allow...",
-      "url": "https://thehackernews.com/2026/11/phpaftershell-explained-how-hackers.html",
-      "date": "2026-11-19T16:59:56Z"
-    },
-    {
-      "title": "Company investigation missed Credit Union breach",
-      "description": "[RTE.IE] Affected credit unions were not informed of a potential data breach at an IT company for over a month as an initial investigation by the company did not identify it, according to Irish League of Credit Unions CEO David Malone.",
-      "url": "https://www.rte.ie/news/business/2026/1119/1599900-credit-union-it-company-breach/",
-      "date": "2026-11-19T16:51:05Z"
-    },
-    {
-      "title": "PHP security updates fix 18 flaws, including critical RCE bugs",
-      "description": "[BLEEPINGCOMPUTER] The PHP development team released security updates addressing 18 vulnerabilities, including critical flaws that could allow unauthenticated attackers to remotely execute code on vulnerable servers. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/php-security-updates-fix-18-flaws-including-critical-rce-bugs/",
-      "date": "2026-11-19T16:28:23Z"
-    },
-    {
-      "title": "\u2018Code Orange\u2019: Facility monitoring cybersecurity in Middle East is latest impacted by ongoing NSA outage",
-      "description": "[THE INDEPENDENT] There was concern about how the disruption could impact internal communications related to the war in Iran, according to a report",
-      "url": "https://www.independent.co.uk/news/world/americas/us-politics/nsa-outage-georgia-middle-east-b3088077.html",
-      "date": "2026-11-19T16:25:24Z"
-    },
-    {
-      "title": "A cyberattack using AI targeted the EU in October, official says",
-      "description": "[BALTIMORE SUN] Cybersecurity experts have been dealing with an AI-generated attack on a key European Union institution for almost a month, an official confirmed on Thursday. Some of the bloc's digital tools are still offline.",
-      "url": "https://www.baltimoresun.com/2026/11/19/eu-ai-cyberattack/",
-      "date": "2026-11-19T16:23:45Z"
-    },
-    {
-      "title": "A cyberattack using AI targeted the EU in October, official says",
-      "description": "[SAN DIEGO UNION-TRIBUNE] Cybersecurity experts have been dealing with an AI-generated attack on a key European Union institution for almost a month, an official confirmed on Thursday. Some of the bloc's digital tools are still offline.",
-      "url": "https://www.sandiegouniontribune.com/2026/11/19/eu-ai-cyberattack/",
-      "date": "2026-11-19T16:23:45Z"
-    },
-    {
-      "title": "A cyberattack using AI targeted the EU in October, official says",
-      "description": "[READING EAGLE] Cybersecurity experts have been dealing with an AI-generated attack on a key European Union institution for almost a month, an official confirmed on Thursday. Some of the bloc's digital tools are still offline.",
-      "url": "https://www.readingeagle.com/2026/11/19/eu-ai-cyberattack/",
-      "date": "2026-11-19T16:23:45Z"
-    },
-    {
-      "title": "A cyberattack using AI targeted the EU in October, official says",
-      "description": "[NEW YORK DAILY NEWS] Cybersecurity experts have been dealing with an AI-generated attack on a key European Union institution for almost a month, an official confirmed on Thursday. Some of the bloc's digital tools are still offline.",
-      "url": "https://www.nydailynews.com/2026/11/19/eu-ai-cyberattack/",
-      "date": "2026-11-19T16:23:45Z"
-    },
-    {
-      "title": "A cyberattack using AI targeted the EU in October, official says",
-      "description": "[SANTA ROSA PRESS DEMOCRAT] Cybersecurity experts have been dealing with an AI-generated attack on a key European Union institution for almost a month, an official confirmed on Thursday. Some of the bloc's digital tools are still offline.",
-      "url": "https://www.pressdemocrat.com/2026/11/19/eu-ai-cyberattack/",
-      "date": "2026-11-19T16:23:45Z"
-    },
-    {
-      "title": "A cyberattack using AI targeted the EU in October, official says",
-      "description": "[BOULDER DAILY CAMERA] Cybersecurity experts have been dealing with an AI-generated attack on a key European Union institution for almost a month, an official confirmed on Thursday. Some of the bloc's digital tools are still offline.",
-      "url": "https://www.dailycamera.com/2026/11/19/eu-ai-cyberattack/",
-      "date": "2026-11-19T16:23:45Z"
-    },
-    {
-      "title": "A cyberattack using AI targeted the EU in October, official says",
-      "description": "[THE MERCURY NEWS] Cybersecurity experts have been dealing with an AI-generated attack on a key European Union institution for almost a month, an official confirmed on Thursday. Some of the bloc's digital tools are still offline.",
-      "url": "https://www.mercurynews.com/2026/11/19/eu-ai-cyberattack/",
-      "date": "2026-11-19T16:23:45Z"
-    },
-    {
-      "title": "A cyberattack using AI targeted the EU in October, official says",
-      "description": "[ST. PAUL PIONEER PRESS] Cybersecurity experts have been dealing with an AI-generated attack on a key European Union institution for almost a month, an official confirmed on Thursday. Some of the bloc's digital tools are still offline.",
-      "url": "https://www.twincities.com/2026/11/19/eu-ai-cyberattack/",
-      "date": "2026-11-19T16:23:45Z"
-    },
-    {
-      "title": "PHP Fixes 7 Critical Flaws, Including Bugs That Could Allow Remote Code Execution",
-      "description": "[FEEDS] The PHP Foundation has released security updates to address multiple critical security flaws that could be exploited to achieve remote code execution on affected deployments, including CVE-2026-115560. The release of the patch follows an advance...",
-      "url": "https://thehackernews.com/2026/11/php-fixes-7-critical-flaws-including.html",
-      "date": "2026-11-19T15:18:07Z"
-    },
-    {
-      "title": "Critical VMware vCenter Zero-Day Flaw Lets Network Attackers Bypass Authentication",
-      "description": "[FEEDS] A critical flaw in VMware vCenter lets an attacker with network access bypass authentication and gain unauthorized access to the system, Broadcom, which owns VMware, said in an advisory published today. Fixed versions are out for all supported...",
-      "url": "https://thehackernews.com/2026/11/critical-vmware-vcenter-flaw-cvss-98.html",
-      "date": "2026-11-19T15:11:06Z"
-    },
-    {
-      "title": "Five warning signs of ransomware breach before encryption or data theft",
-      "description": "[BLEEPINGCOMPUTER] Ransomware attacks often involve credential theft, lateral movement, and attempts to disable security controls long before encryption begins. Acronis examines five warning signs that can help defenders detect intrusions earlier, contain malicious...",
-      "url": "https://www.bleepingcomputer.com/news/security/five-warning-signs-of-ransomware-breach-before-encryption-or-data-theft/",
-      "date": "2026-11-19T15:00:10Z"
-    },
-    {
-      "title": "Drupal Patches Critical Installer Flaw That Could Give Unauthenticated Attackers Control of Sites",
-      "description": "[FEEDS] Under specific conditions, a critical vulnerability in Drupal core can allow an attacker without login credentials to use the built-in installer to attempt to reinstall a site. That can lead to a site takeover or remote code execution, and the...",
-      "url": "https://thehackernews.com/2026/11/drupal-patches-critical-installer-flaw.html",
-      "date": "2026-11-19T14:33:06Z"
-    },
-    {
-      "title": "Everything Is a Web Application, Including Your Firewall",
-      "description": "[FEEDS] One of the early targets of PHP2Shell exploitation was the firewall. On October 28, Palo Alto Networks confirmed that attackers were exploiting the two PHP vulnerabilities, CVE-2026-109618 and CVE-2026-109619, against PAN-OS management interfaces...",
-      "url": "https://thehackernews.com/2026/11/everything-is-web-application-including.html",
-      "date": "2026-11-19T11:52:23Z"
     },
     {
       "title": "ISC Stormcast For Thursday, November 19th, 2026 https://isc.sans.edu/podcastdetail/10186, (Thu, Nov 19th)",
@@ -216,12 +222,6 @@
       "description": "[SCHNEIER] Climate change is the issue. As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered. Blog moderation policy.",
       "url": "https://www.schneier.com/blog/archives/2026/11/friday-squid-blogging-pacific-flying-squid-populations-dropping-in-korean-waters.html",
       "date": "2026-11-13T22:00:46Z"
-    },
-    {
-      "title": "AI Doesn\u2019t Have to Go Rogue to Break the World",
-      "description": "[SCHNEIER] This essay is adapted from a keynote speech delivered at the DEF CON 34 conference in Las Vegas on August 7, 2026. The essay originally appeared in CyberScoop. I want to talk about AI hacking. There are three aspects: people hacking AI systems,...",
-      "url": "https://www.schneier.com/blog/archives/2026/11/ai-doesnt-have-to-go-rogue-to-break-the-world.html",
-      "date": "2026-11-13T12:03:30Z"
     },
     {
       "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
