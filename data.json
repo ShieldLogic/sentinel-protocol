@@ -1,245 +1,137 @@
 {
-  "updated": "2026-11-20 14:36:15 UTC",
-  "news": [
-    {
-      "title": "N-able says recent security breach led to major service outage",
-      "description": "[BLEEPINGCOMPUTER] N-able says attackers who breached one of its servers have caused a major outage affecting Mail Assure and SpamExperts Hosted Cloud services worldwide. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/n-able-says-recent-security-breach-led-to-major-service-outage/",
-      "date": "2026-11-20T13:18:36Z"
-    },
-    {
-      "title": "Linux KVM Flaw CVE-2026-99312 Lets Guest VMs Access Host Memory on AMD Hosts",
-      "description": "[FEEDS] A flaw in KVM, the hypervisor built into the Linux kernel, let researchers read about 127 GB of a cloud server's memory from inside a virtual machine of their own on DigitalOcean. On a shared server, that memory can include other customers' virtual...",
-      "url": "https://thehackernews.com/2026/11/new-linux-kvm-flaw-cve-2026-99312-lets.html",
-      "date": "2026-11-20T12:20:00Z"
-    },
-    {
-      "title": "Microsoft now automatically installs Windows 11 26H2 on unmanaged devices",
-      "description": "[BLEEPINGCOMPUTER] Starting this week, Microsoft has begun automatically upgrading eligible devices that aren't managed by an IT department to Windows 11 26H2. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-now-automatically-installs-windows-11-26h2-on-personal-and-unmanaged-pcs/",
-      "date": "2026-11-20T12:14:28Z"
-    },
-    {
-      "title": "Opening a 400-Year-Old Cryptex",
-      "description": "[SCHNEIER] Researchers used CT scanning technology to recover the code and open a 400-year-old cryptex padlock. You can buy a USB-drive cryptex.",
-      "url": "https://www.schneier.com/blog/archives/2026/11/opening-a-400-year-old-cryptex.html",
-      "date": "2026-11-20T12:04:46Z"
-    },
-    {
-      "title": "The Path to AI Autonomy in the SOC",
-      "description": "[FEEDS] Security leaders are about to hand AI agents a lot more authority. In a recent a16z survey of CISOs at organizations with more than 1,000 employees, 36% said they are comfortable today letting AI agents act autonomously on low-risk security actions....",
-      "url": "https://thehackernews.com/2026/11/the-path-to-ai-autonomy-in-soc.html",
-      "date": "2026-11-20T12:00:00Z"
-    },
-    {
-      "title": "F5 releases emergency patches for critical BIG-IP RCE flaws",
-      "description": "[BLEEPINGCOMPUTER] US cybersecurity company F5 warned customers to patch five critical BIG-IP vulnerabilities that attackers can exploit to trigger denial-of-service (DoS) or gain remote code execution. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/f5-releases-emergency-patches-for-critical-big-ip-rce-flaws/",
-      "date": "2026-11-20T10:57:43Z"
-    },
-    {
-      "title": "SonicWall Warns Gen 6 Firewalls Won't Get Security Patches, Even for Critical Flaws",
-      "description": "[FEEDS] SonicWall has urged all customers still running Generation 6 firewalls to retire and replace them immediately and stop exposing the devices on the internet edge, citing security risks fueled by AI-assisted attacks. \"Attackers now use automation and...",
-      "url": "https://thehackernews.com/2026/11/sonicwall-warns-gen-6-firewalls-wont.html",
-      "date": "2026-11-20T10:38:22Z"
-    },
-    {
-      "title": "Hackers Exploit Critical Cisco Expressway Flaw, Breach Four Devices and Reach Internal Network",
-      "description": "[FEEDS] Threat actors have been observed exploiting a recently disclosed critical security flaw in Cisco Expressway to breach a Russian organization shortly after the public release of a proof-of-concept (PoC) exploit. The activity involves the exploitation...",
-      "url": "https://thehackernews.com/2026/11/hackers-exploit-critical-cisco.html",
-      "date": "2026-11-20T10:32:50Z"
-    },
-    {
-      "title": "China-Linked Hackers Exploit Critical VMware vCenter Zero-Day to Gain Admin Access and Steal Data",
-      "description": "[FEEDS] The suspected China-nexus cyber espionage group known as Armory Castle (formerly UNC5221) has been attributed to the zero-day exploitation of a critical security flaw in VMware vCenter Server in early September 2026. The vulnerability, tracked as...",
-      "url": "https://thehackernews.com/2026/11/china-linked-hackers-exploit-critical.html",
-      "date": "2026-11-20T09:38:15Z"
-    },
-    {
-      "title": "Windows 11 KB5132057 update released with 28 changes and fixes",
-      "description": "[BLEEPINGCOMPUTER] Microsoft released the KB5132057 November Windows 11 preview update, which comes with 28 changes, including improvements to Windows Search, Windows Hello, and the Run dialog. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5132057-update-released-with-28-changes-and-fixes/",
-      "date": "2026-11-20T09:25:35Z"
-    },
-    {
-      "title": "ROMULUS ClickFix Attacks Deliver RAT That Can Spy on Users and Control PCs",
-      "description": "[FEEDS] Threat actors have been observed using the ROMULUS ClickFix malware delivery platform to deliver a previously undocumented remote access trojan (RAT) that shares similarities with CNCMachineRMS. \"ROMULUS likely operates as a delivery service,...",
-      "url": "https://thehackernews.com/2026/11/romulus-clickfix-attacks-deliver-rat.html",
-      "date": "2026-11-20T07:11:39Z"
-    },
-    {
-      "title": "USDA staff \u2018frustrated\u2019 by days-long outages after cybersecurity incident; disruptions \u2018may continue\u2019 through the week, internal email says",
-      "description": "[THE ECONOMIC TIMES] USDA applications experienced outages starting Monday due to a cybersecurity incident that hampered financial services. These disruptions impacted crucial systems used for farm loans and financial aid payments. Officials have warned that outages...",
-      "url": "https://economictimes.indiatimes.com/world/us/usda-staff-frustrated-by-days-long-outages-after-cybersecurity-incident-disruptions-may-continue-through-the-week-internal-email-says/articleshow/136010545.cms",
-      "date": "2026-11-20T02:36:00Z"
-    },
-    {
-      "title": "From cybercrime to AI: UP Police teams up with IIT Kanpur for tech overhaul",
-      "description": "[INDIA TODAY] Uttar Pradesh Police signed three agreements to advance cybersecurity, AI and digital policing. The partnerships aim to build sustainable technical capacity and improve citizen services.",
-      "url": "https://www.indiatoday.in/india/uttar-pradesh/story/up-police-cybersecurity-pacts-iit-kanpur-digital-india-protean-egov-ptag-3042780-2026-11-20",
-      "date": "2026-11-20T02:16:59Z"
-    },
-    {
-      "title": "Kirsten Davies set to replace Sean Cairncross as national cyber director as US battles outages: Reports",
-      "description": "[HINDUSTAN TIMES] Sean Cairncross has served as head of the Office of the National Cyber Director since August 2025, overseeing all government cybersecurity policy and strategy.",
-      "url": "https://www.hindustantimes.com/world-news/us-news/who-is-kirsten-davies-set-to-replace-sean-cairncross-as-national-cyber-director-as-us-battles-outages-reports-101795140111116.html",
-      "date": "2026-11-20T02:07:56Z"
-    },
-    {
-      "title": "ISC Stormcast For Friday, November 20th, 2026 https://isc.sans.edu/podcastdetail/10188, (Fri, Nov 20th)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33538",
-      "date": "2026-11-20T02:00:02Z"
-    },
-    {
-      "title": "Sean Cairncross Out As National Cyber Director",
-      "description": "[GIZMODO] The White House's most senior cybersecurity official is out, allegedly at the behest of Stephen Miller.",
-      "url": "https://gizmodo.com/sean-cairncross-out-as-national-cyber-director-2000842896",
-      "date": "2026-11-20T01:49:02Z"
-    },
-    {
-      "title": "Trump Fires US Cybersecurity Chief Sean Cairncross Amid Outages, AI Threat Concerns",
-      "description": "[NEWS18] Before taking over as National Cyber Director, Cairncross held various positions as a White House insider during Trump's first term.",
-      "url": "https://www.news18.com/world/trump-fires-us-cybersecurity-chief-sean-cairncross-amid-outages-ai-threat-concerns-ws-l-10433276.html",
-      "date": "2026-11-20T01:45:32Z"
-    },
-    {
-      "title": "White House fires cybersecurity chief after widespread outages",
-      "description": "[MONEYCONTROL] In recent days and weeks, major outages in America have disrupted travel, communications and e-commerce for countless users, but also affected a top-secret internal communications network at the National Security Administration.",
-      "url": "https://www.moneycontrol.com/world/white-house-fires-cybersecurity-chief-after-widespread-outages-article-14085264.html",
-      "date": "2026-11-20T01:42:15Z"
-    },
-    {
-      "title": "White House cybersecurity chief fired after outages",
-      "description": "[CP24 TORONTO] Cyber security chief Sean Cairncross was fired from his post, a source close to the White House told AFP on Thursday, following major outages and growing concerns about AI threats.",
-      "url": "https://www.cp24.com/news/world/2026/11/20/white-house-fires-cybersecurity-chief-after-widespread-outages/",
-      "date": "2026-11-20T01:26:39Z"
-    },
-    {
-      "title": "Trump's National Cyber Director Sean Cairncross Steps Down Amid US Tech Outages, Banking Disruptions: Report",
-      "description": "[REPUBLIC WORLD] Trump's National Cyber Director Sean Cairncross is reportedly stepping down amid US tech outages, banking disruptions and growing cybersecurity concerns.",
-      "url": "https://www.republicworld.com/global-news/trump-xi-and-putin-issue-joint-peace-declaration-at-historic-summit-pledge-dialogue-on-nuclear-risk-reduction-2026-11-20-141414",
-      "date": "2026-11-20T01:07:06Z"
-    },
-    {
-      "title": "Sebi, NISM plan capacity-building network for independent directors",
-      "description": "[THE ECONOMIC TIMES] Sebi Chairman Tuhin Kanta Pandey announced plans for a new network to support independent directors' training. The initiative aims to prepare directors for complex issues including financial structures and cybersecurity challenges. This network will...",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-nism-plan-capacity-building-network-for-independent-directors/articleshow/136009310.cms",
-      "date": "2026-11-20T01:06:00Z"
-    },
-    {
-      "title": "Chase, Visa and Mastercard confirm data breach involving third",
-      "description": "[THE OREGONIAN] The bank says the data breach is unrelated to this week\u2019s banking outage.",
-      "url": "https://www.oregonlive.com/business/2026/11/cyberattack-exposes-thousands-of-chase-customers-personal-information.html",
-      "date": "2026-11-20T01:00:10Z"
-    },
-    {
-      "title": "VMware patches vCenter zero-day exploited in attacks since September",
-      "description": "[BLEEPINGCOMPUTER] Broadcom has released security updates to fix a critical VMware vCenter Server authentication bypass vulnerability that Chinese-linked hackers have exploited in zero-day attacks since September 2026. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/vmware-patches-vcenter-zero-day-exploited-in-attacks-since-september/",
-      "date": "2026-11-20T00:26:25Z"
-    },
-    {
-      "title": "Hackers steal data of 1.6 million SBC Medical Group customers",
-      "description": "[BLEEPINGCOMPUTER] SBC Medical Group has warned in a filing with the U.S. Securities and Exchange Commission (SEC) that two cybersecurity incidents exposed sensitive customer and employee information, including personal data belonging to 1.6 million people. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-steal-data-of-16-million-sbc-medical-group-customers/",
-      "date": "2026-11-19T22:25:42Z"
-    },
-    {
-      "title": "ISC Stormcast For Thursday, November 19th, 2026 https://isc.sans.edu/podcastdetail/10186, (Thu, Nov 19th)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33536",
-      "date": "2026-11-19T02:00:03Z"
-    },
-    {
-      "title": "Treat Your Honeypot Analysis Like Code: Git, Pull Requests and a Human Gate for AI &#x5b;Guest Diary&#x5d;, (Wed, Nov 18th)",
-      "description": "[ISC] &#x5b;This is a Guest Diary by Kevin Truong, an ISC intern as part of the SANS.edu BACS program&#x5d;&#xd;",
-      "url": "https://isc.sans.edu/diary/rss/33534",
-      "date": "2026-11-19T01:53:48Z"
-    },
-    {
-      "title": "Java4Shell, NGINX2Shell and more: Why we are not at \"Yellow\", (Wed, Nov 18th)",
-      "description": "[ISC] About a month ago, we went to Infocon Yellow for the first time in a few years. We decided to address the php2shell vulnerability and alert our readers to its significant impact. Following php2shell, we had a number of vulnerabilities and events...",
-      "url": "https://isc.sans.edu/diary/rss/33532",
-      "date": "2026-11-18T19:54:50Z"
-    },
-    {
-      "title": "France Is Blaming Iran for the Fridge Cyberattack",
-      "description": "[SCHNEIER] Interesting: U.S. intelligence agencies have recently reached a &#8220;low confidence&#8221; assessment that Iran was responsible for the attacks in France, according to three U.S. officials who spoke on the condition of anonymity to discuss...",
-      "url": "https://www.schneier.com/blog/archives/2026/11/france-is-blaming-iran-for-the-fridge-cyberattack.html",
-      "date": "2026-11-18T12:05:35Z"
-    },
-    {
-      "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
-      "description": "[CISA] CISA has added four new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation.&nbsp; CVE-2024-10441 Synology DiskStation Manager (DSM) Improper Encoding or Escaping of Output Vulnerability...",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/11/18/cisa-adds-four-known-exploited-vulnerabilities-catalog",
-      "date": "2026-11-18T12:00:00Z"
-    },
-    {
-      "title": "ISC Stormcast For Wednesday, November 18th, 2026 https://isc.sans.edu/podcastdetail/10184, (Wed, Nov 18th)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33528",
-      "date": "2026-11-18T02:00:03Z"
-    },
-    {
-      "title": "Formal Verification of the Signal Protocol Using AI",
-      "description": "[SCHNEIER] This seems like a good thing: Google Deepmind researchers used agentic AI to mathematically prove, or \u201cformally verify,\u201d a number of the Signal protocol\u2019s key cryptographic guarantees\u00ada landmark development for the widely used cryptography and AI...",
-      "url": "https://www.schneier.com/blog/archives/2026/11/formal-verification-of-the-signal-protocol-using-ai.html",
-      "date": "2026-11-17T12:05:43Z"
-    },
-    {
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "description": "[CISA] CISA has added one new vulnerability to its&nbsp;Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-115731 Perforce Puppet Enterprise Deserialization of Untrusted Data Vulnerability This type of...",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/11/17/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "date": "2026-11-17T12:00:00Z"
-    },
-    {
-      "title": "Critical Java Vulnerability Requires Immediate Patching",
-      "description": "[CISA] Purpose CISA strongly urges organizations to immediately patch the recently disclosed Oracle Java vulnerability CVE-2026-114938. This critical memory-corruption vulnerability, known as \u201cJava4Shell,\u201d affects the Base64 decoder of the x86-64 HotSpot...",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/11/17/critical-java-vulnerability-requires-immediate-patching",
-      "date": "2026-11-17T12:00:00Z"
-    },
-    {
-      "title": "A phishing page interested in MX records, (Tue, Nov 17th)",
-      "description": "[ISC] I&&#x23&#x3b;x26&#x3b;&#x23&#x3b;xe2&#x3b;&&#x23&#x3b;x26&#x3b;&#x23&#x3b;x80&#x3b;&&#x23&#x3b;x26&#x3b;&#x23&#x3b;x99&#x3b;ve mentioned before in some of my diaries that it can be instructive to look at what appear to be...",
-      "url": "https://isc.sans.edu/diary/rss/33526",
-      "date": "2026-11-17T10:56:38Z"
-    },
-    {
-      "title": "Usable Security at Luxury Hotels",
-      "description": "[SCHNEIER] Interesting case study from luxury hotels. Attackers used a fake booking request to gain access to a reservations inbox, where they copied genuine refund requests and got fraudulent ones approved. This is a good illustration why &#8220;just...",
-      "url": "https://www.schneier.com/blog/archives/2026/11/usable-security-at-luxury-hotels.html",
-      "date": "2026-11-16T12:04:42Z"
-    },
-    {
-      "title": "Upcoming Speaking Engagements",
-      "description": "[SCHNEIER] This is a current list of where and when I am scheduled to speak: I\u2019m speaking at the Catalyst Summit in Brampton, Ontario, Canada, on Wednesday, November 18, 2026. I\u2019m speaking at QT Qonference 2026 in Toronto, Ontario, Canada, on Thursday,...",
-      "url": "https://www.schneier.com/blog/archives/2026/11/upcoming-speaking-engagements-62.html",
-      "date": "2026-11-14T17:02:39Z"
-    },
-    {
-      "title": "Friday Squid Blogging: Pacific Flying Squid Populations Dropping in Korean Waters",
-      "description": "[SCHNEIER] Climate change is the issue. As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered. Blog moderation policy.",
-      "url": "https://www.schneier.com/blog/archives/2026/11/friday-squid-blogging-pacific-flying-squid-populations-dropping-in-korean-waters.html",
-      "date": "2026-11-13T22:00:46Z"
-    },
-    {
-      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
-      "description": "[CISA] CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-114713 UnrealIRCd Improper Neutralization of Delimiters Vulnerability CVE-2026-123039 Check Point...",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/11/13/cisa-adds-two-known-exploited-vulnerabilities-catalog",
-      "date": "2026-11-13T12:00:00Z"
-    },
-    {
-      "title": "CISA Adds Six Known Exploited Vulnerabilities to Catalog",
-      "description": "[CISA] CISA has added six new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-20320 Cisco BroadWorks Improper Restriction of XML External Entity Reference Vulnerability&nbsp;...",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/11/10/cisa-adds-six-known-exploited-vulnerabilities-catalog",
-      "date": "2026-11-10T12:00:00Z"
-    },
-    {
-      "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
-      "description": "[CISA] CISA has added four new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation.&nbsp; CVE-2026-102895 GPUStack Improper Authentication Vulnerability&nbsp; CVE-2026-116779 SignalWire FreeSwitch...",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/11/09/cisa-adds-four-known-exploited-vulnerabilities-catalog",
-      "date": "2026-11-09T12:00:00Z"
-    }
-  ]
+    "title": "Sentinel Protocol",
+    "tagline": "Perimeter Intelligence Sync",
+    "updated": "2026-11-20 18:56 UTC",
+    "news": [
+        {
+            "source": {
+                "id": null,
+                "name": "Theregister.com"
+            },
+            "author": "Jessica Lyons",
+            "title": "Nvidia adds possible hack to list of very bad things under investigation",
+            "description": "Ransomware group sets a deadline for the chipmaker to pay up - or see its data leaked",
+            "url": "https://www.theregister.com/security/2026/11/19/nvidia-adds-possible-hack-to-list-of-very-bad-things-under-investigation/5311153",
+            "urlToImage": "https://image.theregister.com/5311157.webp?width=1200",
+            "publishedAt": "2026-11-19T18:52:53Z",
+            "content": "Finding a new CEO is just one of their problems. Nvidia is reportedly investigating an alleged breach following claims by ransomware group The Gentlemen's affiliates that they hacked the AI giant and\u2026 [+1843 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BleepingComputer"
+            },
+            "author": null,
+            "title": "ransomware [random 10 chars].[vricpe@aol.com].vricpe (Proton/Shinra)",
+            "description": "ransomware [random 10 chars].[vricpe@aol.com].vricpe (Proton/Shinra) - posted in Ransomware Help & Tech Support: \n=== BLEEPINGCOMPUTER - FINAL POST-READY VERSION ===\nBoard: Ransomware Help & Tech Support (f/239)\n\u00a0\nTITLE (type/paste this - shortened to fit the\u2026",
+            "url": "https://www.bleepingcomputer.com/forums/t/819880/ransomware-random-10-charsvricpeaolcomvricpe-protonshinra/",
+            "urlToImage": "https://www.bleepingcomputer.com/forums/public/style_images/master/meta_image.png",
+            "publishedAt": "2026-11-19T18:46:27Z",
+            "content": "I previously published Python scripts for decrypting files for early versions of Proton/Shinra.\r\nWriting a decryptor for Proton/Shinra is not difficult. But, as you have already been told, it will be\u2026 [+638 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "SiliconANGLE News"
+            },
+            "author": "Kelly Knight",
+            "title": "Hitachi Vantara bets smarter storage can close AI\u2019s pilot-to-production gap",
+            "description": "Enterprises pushing AI from pilot to production are learning that data, not GPUs, is the hardest part, and open table formats such as Apache Iceberg are part of the answer. Demand for AI infrastructure shows few signs of slowing, but much of the information c\u2026",
+            "url": "https://siliconangle.com/2026/11/19/apache-iceberg-intelligent-storage-help-ai-reach-production-sc26/",
+            "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/11/D4_V-p0RkVc-HD.jpg",
+            "publishedAt": "2026-11-19T18:39:55Z",
+            "content": "Enterprises pushing AI from pilot to production are learning that data, not GPUs, is the hardest part, and open table formats such as Apache Iceberg are part of the answer. Demand for AI infrastructu\u2026 [+4399 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Crypto Briefing"
+            },
+            "author": "Vivian Nguyen",
+            "title": "Palo Alto Networks posts 39% revenue growth, agrees to buy Applied Compute in all-stock deal",
+            "description": "Palo Alto Networks' acquisition of Applied Compute signals a strategic push into AI, potentially reshaping cybersecurity and cloud integration.\nThe post Palo Alto Networks posts 39% revenue growth, agrees to buy Applied Compute in all-stock deal appeared firs\u2026",
+            "url": "https://cryptobriefing.com/palo-alto-networks-revenue-applied-compute-acquisition/",
+            "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/11/19133934/library-palo-alto-networks-posts-39-revenue-growth-agrees-to-buy-800x450.jpg",
+            "publishedAt": "2026-11-19T18:39:47Z",
+            "content": "The cybersecurity giant raised its fiscal 2027 outlook and is paying roughly $4.5 billion in stock for an AI infrastructure startup founded by former OpenAI researchersPalo Alto Networks just reporte\u2026 [+2234 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Biztoc.com"
+            },
+            "author": null,
+            "title": "Trump\u2019s CISA nominee dodges questions on who won the 2020 election and whether Jan. 6 was an insurrection",
+            "description": "President Donald Trump\u2019s nominee to lead the Cybersecurity and Infrastructure Security Agency refused to give a clear answer on who won the 2020 election and whether the events of Jan. 6, 2021, constituted an attack on the U.S. Capitol when questioned by lawm\u2026",
+            "url": "https://biztoc.com/x/68b76141677cb463",
+            "urlToImage": "https://biztoc.com/cdn/996/og.png",
+            "publishedAt": "2026-11-19T18:36:41Z",
+            "content": "President Donald Trumps nominee to lead the Cybersecurity and Infrastructure Security Agency refused to give a clear answer on who won the 2020 election and whether the events of Jan. 6, 2021, consti\u2026 [+140 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "pymnts.com"
+            },
+            "author": "PYMNTS",
+            "title": "Visa, Mastercard and JPMorgan Customer Data Leaked in Breach",
+            "description": "Ransomware attackers have reportedly leaked data from thousands of\u00a0Visa,\u00a0Mastercard\u00a0and\u00a0JPMorganChase\u00a0customers. That\u2019s according to a\u00a0report\u00a0Thursday (Nov. 19) by The Wall Street Journal (WSJ), which notes that this is the latest in a series of recent tech i\u2026",
+            "url": "https://www.pymnts.com/cybersecurity/2026/visa-mastercard-and-jpmorgan-customer-data-leaked-in-breach/",
+            "urlToImage": "https://www.pymnts.com/wp-content/uploads/2026/11/data-breach.jpeg",
+            "publishedAt": "2026-11-19T18:36:22Z",
+            "content": "Ransomware attackers have reportedly leaked data from thousands of\u00a0Visa,\u00a0Mastercard\u00a0and\u00a0JPMorganChase\u00a0customers.Thats according to a\u00a0report\u00a0Thursday (Nov. 19) by The Wall Street Journal (WSJ), which \u2026 [+2406 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Economictimes.com"
+            },
+            "author": "Anshu Sharma",
+            "title": "C-urity had a black great October: AI exposes flaws in traditional cybersecurity models",
+            "description": "October witnessed a surge in both cybersecurity threats and the stock prices of cybersecurity firms, as companies grappled with the limitations of traditional security strategies. The rise of AI is prompting a reevaluation of data protection approaches, empha\u2026",
+            "url": "https://m.economictimes.com/opinion/et-commentary/c-urity-had-a-black-great-october-ai-exposes-flaws-in-traditional-cybersecurity-models/articleshow/136002583.cms",
+            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-147650,resizemode-75,msid-136002583/opinion/et-commentary/c-urity-had-a-black-great-october-ai-exposes-flaws-in-traditional-cybersecurity-models.jpg",
+            "publishedAt": "2026-11-19T18:35:48Z",
+            "content": "October was a terrible month for cybersecurity. AI-powered attacks exposed vulnerabilities across widely used enterprise software, attackers compromised systems at unprecedented speeds, and security \u2026 [+4588 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNA"
+            },
+            "author": null,
+            "title": "US was warned of telecom security risks years before Salt Typhoon",
+            "description": "Nov 19 : The US government was warned in a report it commissioned about major national security risks from weaknesses in the country's telecom networks in 2022, two years before sweeping Chinese-linked cyberespionage known as Salt Typhoon.The report commissio\u2026",
+            "url": "https://www.channelnewsasia.com/business/us-was-warned-telecom-security-risks-years-salt-typhoon-6567076",
+            "urlToImage": "https://dam.mediacorp.sg/image/upload/s--jQNG30e9--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-11-19T183359Z_1_LYNXNPEMAI26K_RTROPTP_3_FRANCE-CYBER.JPG?itok=c3PidItk",
+            "publishedAt": "2026-11-19T18:33:59Z",
+            "content": "Nov 19 : The US government was warned in a report it commissioned about major national security risks from weaknesses in the country's telecom networks in 2022, two years before sweeping Chinese-link\u2026 [+1511 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Radaronline.com"
+            },
+            "author": "Patrick Previty",
+            "title": "Megyn Kelly Mocks 'Idiot' DHS Chief Markwayne Mullin Amid Tech Outages: 'I Have Zero Faith in This Man'",
+            "description": "Megyn Kelly criticized Homeland Security Secretary Markwayne Mullin over his response to a series of technology outages in the last week.",
+            "url": "https://radaronline.com/p/megyn-kelly-mocks-dhs-markwayne-mullin-amid-tech-outages/",
+            "urlToImage": "https://media.radaronline.com/brand-img/fuxIjufaL/0x0/megyn-kelly-mocks-dhs-director-markwayne-mullin-amid-tech-outages-1-1795110415958.jpg",
+            "publishedAt": "2026-11-19T18:30:00Z",
+            "content": "Former Fox News host Megyn Kelly has criticized Homeland Security Secretary Markwayne Mullin over his response to a series of technology outages affecting airlines, banks, and government systems, cal\u2026 [+2727 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Amazon.com"
+            },
+            "author": "Rakesh Vangari",
+            "title": "From learning to leaderboard: How Cisco upskilled 1,200 engineers in agentic AI with AWS AI League",
+            "description": "Cisco and AWS used Cisco Transformation Fest and AWS AI League to turn hands-on AI learning into a culture of building. A Cisco engineer won the 2025 AWS AI League global title and 1,200 engineers competed in 2026. This post shares Cisco's journey, lessons fr\u2026",
+            "url": "https://aws.amazon.com/blogs/machine-learning/from-learning-to-leaderboard-how-cisco-upskilled-1200-engineers-in-agentic-ai-with-aws-ai-league/",
+            "urlToImage": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/02/ML-22161-featured-image.png",
+            "publishedAt": "2026-11-19T18:26:22Z",
+            "content": "Cisco, like many large engineering organizations, is adopting generative and agentic AI to change how its engineers build software. The hard part is no longer access to the technology. Its helping th\u2026 [+19163 chars]"
+        }
+    ]
 }
