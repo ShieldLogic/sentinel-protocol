@@ -1,6 +1,12 @@
 {
-  "updated": "2026-11-21 20:18:10 UTC",
+  "updated": "2026-11-22 01:47:38 UTC",
   "news": [
+    {
+      "title": "Rackspace Spot breach let hackers access customer Kubernetes secrets",
+      "description": "[BLEEPINGCOMPUTER] Rackspace warned customers that hackers breached its Rackspace Spot cloud platform using compromised credentials, allowing them to deploy unauthorized workloads and access Kubernetes secrets in customer clusters. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/rackspace-spot-breach-let-hackers-access-customer-kubernetes-secrets/",
+      "date": "2026-11-21T22:59:58Z"
+    },
     {
       "title": "Microsoft Entra Connect Health flaw exploited to steal tenant data",
       "description": "[BLEEPINGCOMPUTER] Microsoft is warning organizations that it suffered a data breach after attackers exploited a vulnerability in its Entra Connect Health service to gain unauthorized access to administrator email addresses and tenant configuration information. [...]",
@@ -20,10 +26,52 @@
       "date": "2026-11-21T14:26:04Z"
     },
     {
+      "title": "Workmates Core2Cloud sets up wholly owned subsidiary in Delaware",
+      "description": "[SCANX.TRADE] Incorporated Workmates Digital Technologies Inc in Delaware, USA. Focus areas include cloud migration, cybersecurity, and AI solutions. Subsidiary has nil turnover and was incorporated on October 23, 2026. Consideration is cash at face value,...",
+      "url": "https://scanx.trade/stock-market-news/companies/workmates-core2cloud-sets-up-wholly-owned-subsidiary-delaware/56810814",
+      "date": "2026-11-21T12:47:02Z"
+    },
+    {
+      "title": "UK operation wards off risk of cyber-attack on supermarket fridges and freezers",
+      "description": "[EUROPE SAYS] A secret government cybersecurity operation recently warded off the risk of a cyber-attack on fridges and freezers in UK supermarkets, warehouses,",
+      "url": "https://www.europesays.com/3390676/",
+      "date": "2026-11-21T12:37:14Z"
+    },
+    {
+      "title": "RBI To Meet NBFCs On November 23: Microfinance Stress, Gold Loans And Cybersecurity Risks On Agenda",
+      "description": "[TIMES NOW] RBI To Meet NBFCs On November 23: Microfinance Stress, Gold Loans And Cybersecurity Risks On Agenda, Economy, Times Now",
+      "url": "https://www.timesnownews.com/business-economy/economy/rbi-to-meet-nbfcs-on-november-23-microfinance-stress-gold-loans-and-cybersecurity-risks-on-agenda-article-156546799",
+      "date": "2026-11-21T12:08:16Z"
+    },
+    {
       "title": "A Single Malicious Webpage Let Researchers Hijack Meta Muse and Access Private Chats",
       "description": "[FEEDS] A malicious webpage could extract a Meta Muse user's private conversations and stored memories from the assistant without triggering any approval prompt, researchers have shown. The same attack could be extended to reach the credentials Muse stores...",
       "url": "https://thehackernews.com/2026/11/a-single-malicious-webpage-let.html",
       "date": "2026-11-21T11:53:07Z"
+    },
+    {
+      "title": "UK launches secret operation to protect supermarket fridges, freezers from hackers",
+      "description": "[MONEYCONTROL] Britain has carried out a secret cybersecurity operation to protect thousands of commercial refrigeration controllers from potential hacking, following attacks on supermarket cooling systems across Europe that caused food losses worth millions of...",
+      "url": "https://www.moneycontrol.com/world/uk-launches-secret-operation-to-protect-supermarket-fridges-freezers-from-hackers-article-14086213.html",
+      "date": "2026-11-21T11:52:00Z"
+    },
+    {
+      "title": "YMCA\u2019s Youth For Causes portal, associated database hit by cybersecurity breach",
+      "description": "[CNA] A subsequent investigation could neither establish nor rule out whether personal data had been accessed, copied or extracted.",
+      "url": "https://www.channelnewsasia.com/singapore/ymca-youth-causes-cybersecurity-data-breach-6571441",
+      "date": "2026-11-21T11:34:00Z"
+    },
+    {
+      "title": "Staples says customer information accessed in data breach",
+      "description": "[CP24 TORONTO] Staples Canada says hackers accessed customer information in a cyberattack this month.",
+      "url": "https://www.cp24.com/local/york/2026/11/21/staples-canada-says-customer-information-accessed-in-data-breach/",
+      "date": "2026-11-21T11:13:22Z"
+    },
+    {
+      "title": "RBI to meet NBFCs on November 23: Microfinance stress, gold loans and cybersecurity risks in focus",
+      "description": "[BUSINESS TODAY] RBI Governor Sanjay Malhotra and the deputy governors are expected to hold discussions with executives from the non-banking financial services sector on various issues.",
+      "url": "https://www.businesstoday.in/latest/economy/story/rbi-to-meet-nbfcs-on-november-23-microfinance-stress-gold-loans-and-cybersecurity-risks-in-focus-568901-2026-11-21",
+      "date": "2026-11-21T11:11:58Z"
     },
     {
       "title": "GnuPG Warns Critical GPGME Flaw Could Expose App Data via Malicious OpenPGP Keys",
@@ -38,6 +86,18 @@
       "date": "2026-11-21T11:03:17Z"
     },
     {
+      "title": "Republican senator Tillis blocks Trump's CISA nominee after Jan 6 attack denial",
+      "description": "[TIMES OF INDIA] US Senator Thom Tillis has put a hold on Michael LoSapio's nomination to lead CISA after LoSapio failed to acknowledge the Capitol attack on January 6, 2021, raising concerns about cybersecurity leadership amid rising tensions.",
+      "url": "https://timesofindia.indiatimes.com/world/us/republican-senator-tillis-blocks-trumps-cisa-nominee-after-jan-6-attack-denial/articleshow/136051399.cms",
+      "date": "2026-11-21T10:30:00Z"
+    },
+    {
+      "title": "Carnegie Endowment hit by a cyberattack, donor information leaked",
+      "description": "[NEWSBYTES] A third-party data breach on October 28 compromised donor information at the Carnegie Endowment for International Peace, affecting their online donation system.",
+      "url": "https://www.newsbytesapp.com/news/science/carnegie-endowment-for-international-peace-suffers-data-breach-affecting-donor-information/story",
+      "date": "2026-11-21T09:37:26Z"
+    },
+    {
       "title": "Signal Blocks AI Agents From Reading Private Chats via Screenshots on Android and iOS",
       "description": "[FEEDS] Signal has announced that it will restrict screenshots by default to stop artificial intelligence (AI) agents from reading private chats on Android and iOS devices, but conceded that the protection is \"incomplete.\" The feature applies to agentic...",
       "url": "https://thehackernews.com/2026/11/signal-blocks-ai-agents-from-reading.html",
@@ -48,66 +108,6 @@
       "description": "[FEEDS] The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added four flaws impacting Apache Roller, Cisco Expressway, SAP NetWeaver, and Broadcom VMware vCenter to its Known Exploited Vulnerabilities (KEV), citing evidence of active...",
       "url": "https://thehackernews.com/2026/11/hackers-exploit-critical-vmware-cisco.html",
       "date": "2026-11-21T08:49:13Z"
-    },
-    {
-      "title": "Hack effort spurs Nissan shutdown",
-      "description": "[ARKANSAS ONLINE] Japanese carmaker Nissan said a cybersecurity incident has prompted it to shut down a system that allows repair shops to diagnose problems with vehicle electronics. Among other things, the shutdown prevents car dealers from making replacement key...",
-      "url": "https://www.arkansasonline.com/news/2026/nov/21/hack-effort-spurs-nissan-shutdown/",
-      "date": "2026-11-21T07:46:00Z"
-    },
-    {
-      "title": "Australian DigiTech Mission explores technology partnerships in Hyderabad",
-      "description": "[THE HINDU BUSINESS LINE] Australia\u2019s 36-company DigiTech Mission visited Hyderabad to explore partnerships in AI, cybersecurity, digital health and deep tech with Indian companies.",
-      "url": "https://www.thehindubusinessline.com/news/australian-digitech-mission-explores-tech-partnerships-in-hyderabad/article71727590.ece",
-      "date": "2026-11-21T07:19:39Z"
-    },
-    {
-      "title": "Govt Warns Hackers Are Exploiting Payment And Business Systems: Is Your Money At Risk?",
-      "description": "[TIMES NOW] CERT-In has issued a critical cybersecurity warning over AI-powered hacking tools and unauthorised payment transactions, alerting organisations to emerging threats involving agentic AI frameworks, business payment workflows and data security.,...",
-      "url": "https://www.timesnownews.com/technology-science/govt-warns-hackers-are-exploiting-payment-and-business-systems-is-your-money-at-risk-article-156545476",
-      "date": "2026-11-21T06:52:44Z"
-    },
-    {
-      "title": "CrowdStrike in talks to acquire Zscaler, sources say",
-      "description": "[THE HINDU BUSINESS LINE] CrowdStrike and Zscaler discuss a potential merger to form a leading, multi-product cybersecurity platform amid sector consolidation.",
-      "url": "https://www.thehindubusinessline.com/info-tech/crowdstrike-in-talks-to-acquire-zscaler-sources-say/article71727400.ece",
-      "date": "2026-11-21T06:10:14Z"
-    },
-    {
-      "title": "FBI Investigates Suspected Hack Of National Crime Information Centre Database Amid Fresh US Cybersecurity Concerns",
-      "description": "[FREE PRESS JOURNAL] The FBI is investigating a suspected hack of its National Crime Information Centre (NCIC), raising fresh concerns over US cybersecurity. The incident follows previous breaches, as FBI Director Kash Patel announces an offensive push against cyber...",
-      "url": "https://www.freepressjournal.in/world/fbi-investigates-suspected-hack-of-national-crime-information-centre-database-amid-fresh-us-cybersecurity-concerns",
-      "date": "2026-11-21T05:34:25Z"
-    },
-    {
-      "title": "From fintechs to govt payouts: CERT-In flags expanding AI-driven cyberattacks",
-      "description": "[MONEYCONTROL] In a November 20 advisory, the cybersecurity agency warned that hackers are manipulating business records and payment approval workflows to divert funds, while using open-source agentic AI frameworks to automate reconnaissance and intrusion across...",
-      "url": "https://www.moneycontrol.com/artificial-intelligence/from-fintechs-to-govt-payouts-cert-in-flags-expanding-ai-driven-cyberattacks-article-14085964.html",
-      "date": "2026-11-21T04:55:35Z"
-    },
-    {
-      "title": "Beyond Digital Cash: IMF Reveals How Central Banks Are Building the Next Era of Global Finance",
-      "description": "[DEVDISCOURSE] The IMF reports that 146 countries and currency unions are exploring digital currencies, with growing emphasis on faster cross-border payments, wholesale banking and modern financial infrastructure. While CBDCs could improve financial efficiency,...",
-      "url": "https://www.devdiscourse.com/article/other/4009203-beyond-digital-cash-imf-reveals-how-central-banks-are-building-the-next-era-of-global-finance",
-      "date": "2026-11-21T04:10:25Z"
-    },
-    {
-      "title": "Faisal Rahman Explores the Intersection of Artificial Intelligence, Cybersecurity, and Intelligent Digital Systems Through Research",
-      "description": "[TECHBULLION] Faisal Rahman explores artificial intelligence, cybersecurity, machine learning and intelligent digital systems through interdisciplinary research.",
-      "url": "https://techbullion.com/faisal-rahman-explores-the-intersection-of-artificial-intelligence-cybersecurity-and-intelligent-digital-systems-through-research/",
-      "date": "2026-11-21T03:55:58Z"
-    },
-    {
-      "title": "Hackers allegedly breach USDA system used to pay farmers: reports",
-      "description": "[WJLA] Hackers allegedly accessed a U.S. Department of Agriculture (USDA) system used to pay farmers, as a cybersecurity incident disrupted agency applications, according to reports.",
-      "url": "https://wjla.com/news/nation-world/hackers-allegedly-breach-usda-system-used-to-pay-farmers-reports-payment-system-us-department-of-agriculture-cybersecurity-cyberthreat-united-states-government",
-      "date": "2026-11-21T03:36:22Z"
-    },
-    {
-      "title": "Hackers allegedly breach USDA system used to pay farmers: reports",
-      "description": "[BALTIMORE NEWS] Hackers allegedly accessed a U.S. Department of Agriculture (USDA) system used to pay farmers, as a cybersecurity incident disrupted agency applications, according to reports.",
-      "url": "https://foxbaltimore.com/news/nation-world/hackers-allegedly-breach-usda-system-used-to-pay-farmers-reports-payment-system-us-department-of-agriculture-cybersecurity-cyberthreat-united-states-government",
-      "date": "2026-11-21T03:36:22Z"
     },
     {
       "title": "Friday Squid Blogging: The Largest Squid Ever Filmed",
@@ -132,12 +132,6 @@
       "description": "[BLEEPINGCOMPUTER] Threat actors used the open-source AI penetration-testing framework Cairn to find a previously unknown vulnerability in a medical imaging application. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-use-autonomous-ai-tool-cairn-to-find-zero-day-take-over-server/",
       "date": "2026-11-20T17:30:00Z"
-    },
-    {
-      "title": "Vendor data breach exposes Chase, Visa, Mastercard customer info",
-      "description": "[BLEEPINGCOMPUTER] J.P. Morgan Chase warned it suffered a data breach after a cyberattack at a third-party service provider exposed customers' personal information and marketing data. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/vendor-data-breach-exposes-chase-visa-mastercard-customer-info/",
-      "date": "2026-11-20T15:58:06Z"
     },
     {
       "title": "Opening a 400-Year-Old Cryptex",
