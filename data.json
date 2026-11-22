@@ -1,6 +1,24 @@
 {
-  "updated": "2026-11-22 09:03:11 UTC",
+  "updated": "2026-11-22 17:29:35 UTC",
   "news": [
+    {
+      "title": "Cleverbridge warns hackers stole credit card numbers, CVVs in data breach",
+      "description": "[BLEEPINGCOMPUTER] E-commerce platform Cleverbridge is warning that hackers breached its systems and stole customers' payment card information, including credit card numbers and CVV security codes. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/cleverbridge-warns-hackers-stole-credit-card-numbers-cvvs-in-data-breach/",
+      "date": "2026-11-22T15:43:04Z"
+    },
+    {
+      "title": "Signal to block Siri, Gemini AI from capturing chats on iOS, Android",
+      "description": "[BLEEPINGCOMPUTER] Signal has announced new protections that block screenshots on iOS 27 and prevent AI assistants from capturing conversations on supported Android devices. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/signal-to-block-siri-gemini-ai-from-capturing-chats-on-ios-android/",
+      "date": "2026-11-22T15:15:25Z"
+    },
+    {
+      "title": "Cybersecurity Firm Says OpenAI Model Found Critical Java Vulnerability",
+      "description": "[NATURAL NEWS] The cybersecurity firm Calif said on Tuesday that it used a new OpenAI model to discover a critical flaw in Java, one of the most widely used programming languages in the world, according to the company. The flaw, which researchers call Java4Shell,...",
+      "url": "https://www.naturalnews.com/2026-11-22-cybersecurity-firm-openai-found-critical-java-vulnerability.html",
+      "date": "2026-11-22T05:10:45Z"
+    },
     {
       "title": "OpenRouter Drops 3 Providers After Researchers Catch Months of Prompt Theft at AI Hosting Firms",
       "description": "[FEEDS] Attackers stole data from inside three AI inference providers for months, and none of the three knew until researchers told them, the industrial cybersecurity company Dragos said this week. Some of the stolen requests were flagged as Zero Data...",
@@ -14,10 +32,52 @@
       "date": "2026-11-22T05:03:41Z"
     },
     {
+      "title": "YMCA Singapore data breach may have exposed details of over 13,000 youth programme participants",
+      "description": "[MALAY MAIL] SINGAPORE, Nov 22 \u2014 The personal details of more than 13,000 people may have been compromised after a YMCA of Singapore online portal for youth community projects was breached in...",
+      "url": "https://www.malaymail.com/news/singapore/2026/11/22/ymca-singapore-data-breach-may-have-exposed-details-of-over-13000-youth-programme-participants/244286",
+      "date": "2026-11-22T03:33:00Z"
+    },
+    {
+      "title": "Fake AI websites mimic ChatGPT, Gemini and Claude in malware threat",
+      "description": "[BANGKOK POST] Cybersecurity firm Island has uncovered 186 fake websites impersonating 27 major artificial intelligence (AI) brands including ChatGPT, Gemini, Claude, Copilot, DeepSeek and Perplexity. The attackers use a typosquatting technique dubbed...",
+      "url": "https://www.bangkokpost.com/life/tech/3359246/fake-ai-websites-mimic-chatgpt-gemini-and-claude-in-malware-threat",
+      "date": "2026-11-22T03:28:00Z"
+    },
+    {
+      "title": "17 major federal agencies flagged over cybersecurity gaps as watchdog warns of increased attack risk",
+      "description": "[NEWSBREAK] A new Government Accountability Office report found 17 of 22 federal agencies, including HHS and DHS, failed to fully address zero trust guidance, raising",
+      "url": "https://www.newsbreak.com/fox-news-510075/5022120404247-17-major-federal-agencies-flagged-over-cybersecurity-gaps-as-watchdog-warns-of-increased-attack-risk",
+      "date": "2026-11-22T01:36:00Z"
+    },
+    {
+      "title": "Trump downplays FBI data breach of NCIC, adds 'positive spin'",
+      "description": "[BREITBART NEWS NETWORK] Nov. 21 (UPI) -- An FBI database that police all over the country use was hacked in the second major security breach in two months, and President Donald",
+      "url": "https://www.breitbart.com/news/trump-downplays-fbi-data-breach-of-ncic-adds-positive-spin/",
+      "date": "2026-11-21T23:45:37Z"
+    },
+    {
       "title": "Rackspace Spot breach let hackers access customer Kubernetes secrets",
       "description": "[BLEEPINGCOMPUTER] Rackspace warned customers that hackers breached its Rackspace Spot cloud platform using compromised credentials, allowing them to deploy unauthorized workloads and access Kubernetes secrets in customer clusters. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/rackspace-spot-breach-let-hackers-access-customer-kubernetes-secrets/",
       "date": "2026-11-21T22:59:58Z"
+    },
+    {
+      "title": "Fullerton Health data breach: Migrant workers face risks of employment scams, impersonation",
+      "description": "[CNA] Worker groups say leaked names, addresses and phone numbers could make fake work permit and job messages harder to spot.",
+      "url": "https://www.channelnewsasia.com/singapore/fullerton-health-data-breach-migrant-workers-6565521",
+      "date": "2026-11-21T22:00:00Z"
+    },
+    {
+      "title": "Espionage: The boardroom is the new border in protecting India\u2019s intellectual capital",
+      "description": "[DECCAN HERALD] Industrial espionage: CERT-In recorded 29.44 lakh cybersecurity incidents in 2025 as cyber threats target Indian corporate networks and intellectual property.",
+      "url": "https://www.deccanherald.com/specials/espionage-the-boardroom-is-the-new-border-in-protecting-indias-intellectual-capital-4227022",
+      "date": "2026-11-21T21:37:38Z"
+    },
+    {
+      "title": "Staples says customer information accessed in data breach",
+      "description": "[BNN BLOOMBERG] Staples Canada says hackers accessed customer information in a cyberattack this month.",
+      "url": "https://www.bnnbloomberg.ca/business/company-news/2026/11/21/staples-canada-says-customer-information-accessed-in-data-breach/",
+      "date": "2026-11-21T21:06:23Z"
     },
     {
       "title": "CrowdStrike\u2019s Talks with Zscaler Show AI-Led Cyber Consolidation",
@@ -36,54 +96,6 @@
       "description": "[BREITBART NEWS NETWORK] Both Democratic and Republican lawmakers are expressing concern over possible threats to America's critical infrastructure in the wake of a 10-day wave of tech outages and glitches affecting major industries and government databases.",
       "url": "https://www.breitbart.com/politics/2026/11/21/report-senators-sound-bipartisan-alarm-threats-cybersecurity/",
       "date": "2026-11-21T17:56:43Z"
-    },
-    {
-      "title": "FBI Hacked, Trump Sees Opportunity: 'Maybe We'll Learn About Russia Hoax'",
-      "description": "[TIMES NOW] This incident follows a prior attack on an FBI recruitment site and reflects broader cybersecurity issues affecting US government agencies, US News, Times Now",
-      "url": "https://www.timesnownews.com/world/us/us-news/fbi-hack-critical-database-cyberattack-trump-reaction-russia-hoax-article-156547636",
-      "date": "2026-11-21T17:12:37Z"
-    },
-    {
-      "title": "SA Asks: Who's the best-positioned cybersecurity provider right now?",
-      "description": "[SEEKING ALPHA] Who's the best-positioned, publicly traded cybersecurity provider right now? Analysts weigh in with their stock picks. Read more here.",
-      "url": "https://seekingalpha.com/news/4675381-sa-asks-whos-the-best-positioned-cybersecurity-provider-right-now",
-      "date": "2026-11-21T17:00:22Z"
-    },
-    {
-      "title": "Anonymous Sources Disclose Purported Hack of FBI Network After Kash Patel Praised Bureau's Cybersecurity",
-      "description": "[BREITBART NEWS NETWORK] The FBI reportedly is investigating a breach of its criminal information database used by law enforcement across the U.S. to run background checks, view rap sheets, and detect criminal activity across state lines. | Law and Order",
-      "url": "https://www.breitbart.com/politics/2026/11/21/anonymous-sources-disclose-purported-hack-of-fbi-network-after-kash-patel-praised-bureaus-cybersecurity/",
-      "date": "2026-11-21T16:25:28Z"
-    },
-    {
-      "title": "Anonymous Sources Disclose Purported Hack of FBI Network After Kash Patel Praised Bureau's Cybersecurity",
-      "description": "[BREITBART NEWS NETWORK] The FBI reportedly is investigating a breach of its criminal information database used by law enforcement across the U.S. to run background checks, view rap sheets, and detect criminal activity across state lines. | Law and Order",
-      "url": "https://www.breitbart.com/law-and-order/2026/11/21/anonymous-sources-disclose-purported-hack-of-fbi-network-after-kash-patel-praised-bureaus-cybersecurity/",
-      "date": "2026-11-21T16:25:28Z"
-    },
-    {
-      "title": "Anonymous Sources Disclose Purported Hack of FBI Network After Kash Patel Praises Bureau's Cybersecurity",
-      "description": "[BREITBART NEWS NETWORK] The FBI reportedly is investigating a breach of its criminal information database used by law enforcement across the U.S. to run background checks, view rap sheets, and detect criminal activity across state lines. | Law and Order",
-      "url": "https://www.breitbart.com/law-and-order/2026/11/21/anonymous-sources-disclose-purported-hack-of-fbi-network-after-kash-patel-praises-bureaus-cybersecurity/",
-      "date": "2026-11-21T16:25:28Z"
-    },
-    {
-      "title": "Target, Biotech Lead 5 Stocks Showing Strength In Brutal Market",
-      "description": "[INVESTOR'S BUSINESS DAILY] Target stock withstood last week's S&P 500 thrashing to flirt with a buy point. A biotech and AI cybersecurity play are watchlist worthy too.",
-      "url": "https://www.investors.com/news/target-biotech-lead-5-stocks-showing-strength-in-brutal-market/",
-      "date": "2026-11-21T16:10:45Z"
-    },
-    {
-      "title": "PH cyber threats intensify in Q3",
-      "description": "[THE MANILA TIMES] MORE than 9 million credentials linked to Philippine users were compromised in the third quarter of 2026, as phishing attacks, data breaches and ransomware incidents increased, exposing government agencies, financial institutions and private...",
-      "url": "https://www.manilatimes.net/2026/11/22/business/sunday-business-it/ph-cyber-threats-intensify-in-q3/2475428",
-      "date": "2026-11-21T16:03:00Z"
-    },
-    {
-      "title": "Krishna Sastry Pendyala warns AI-powered cyberattacks threaten banks, supply chains",
-      "description": "[NEWSBYTES] Cybersecurity expert Krishna Sastry Pendyala emphasized the urgent need for stronger cyber resilience against AI-driven threats at the India Data Protection Summit 2026.",
-      "url": "https://www.newsbytesapp.com/news/science/krishna-sastry-pendyala-warns-ai-powered-cyberattacks-threaten-banks-supply-chains/tldr",
-      "date": "2026-11-21T15:54:32Z"
     },
     {
       "title": "BADBOX botnet returns with record-breaking 40 billion daily ad requests",
@@ -126,18 +138,6 @@
       "description": "[SCHNEIER] This is the story of the largest squid ever filmed, in December 2006 near Japan&#8217;s Ogasawara Islands. As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered. Blog moderation policy.",
       "url": "https://www.schneier.com/blog/archives/2026/11/friday-squid-blogging-the-largest-squid-ever-filmed.html",
       "date": "2026-11-20T22:04:12Z"
-    },
-    {
-      "title": "Bell Canada says 'agentic' hacker stole enterprise customer data",
-      "description": "[BLEEPINGCOMPUTER] Bell Canada has confirmed that an \"agentic\" threat actor breached its systems on November 17, 2026, and stole enterprise customer data, including information from a system used to order and provision telecommunications circuits. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/bell-canada-says-agentic-hacker-stole-enterprise-customer-data/",
-      "date": "2026-11-20T18:51:43Z"
-    },
-    {
-      "title": "Hackers use autonomous AI tool Cairn to find zero-day, take over server",
-      "description": "[BLEEPINGCOMPUTER] Threat actors used the open-source AI penetration-testing framework Cairn to find a previously unknown vulnerability in a medical imaging application. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-use-autonomous-ai-tool-cairn-to-find-zero-day-take-over-server/",
-      "date": "2026-11-20T17:30:00Z"
     },
     {
       "title": "Opening a 400-Year-Old Cryptex",
