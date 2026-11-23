@@ -1,245 +1,137 @@
 {
-  "updated": "2026-11-23 16:51:11 UTC",
-  "news": [
-    {
-      "title": "GlobeTopper loses $2.5 million after hackers steal $70k in gift cards",
-      "description": "[BLEEPINGCOMPUTER] A cyberattack disrupted operations at B2B top-up solutions provider GlobeTopper, causing an estimated $2.5 million in lost revenue, while the attacker redeemed digital gift cards worth $70,000. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/globetopper-loses-25-million-after-hackers-steal-70k-in-gift-cards/",
-      "date": "2026-11-23T16:50:01Z"
-    },
-    {
-      "title": "\u26a1 Weekly Recap: VMware 0-Day, Java4Shell, NGINX2Root, Ruby2Shell, and a Whole Lot of Shell Trouble",
-      "description": "[FEEDS] A stolen key. A trusted message. A routine update. None of these looks like the start of a major security problem. That's partly why they work. Attackers don't always need to break down a door. Sometimes they just use one that's already open. This...",
-      "url": "https://thehackernews.com/2026/11/weekly-recap-vmware-0-day-java4shell.html",
-      "date": "2026-11-23T15:10:48Z"
-    },
-    {
-      "title": "AI Agents Are Creating a Shared Responsibility Gap",
-      "description": "[BLEEPINGCOMPUTER] AI agents operate across multiple platforms, creating security gaps when no single vendor can see or control their actions. Token Security examines the shared responsibility problem and explains how organizations can better manage agent identities,...",
-      "url": "https://www.bleepingcomputer.com/news/security/ai-agents-are-creating-a-shared-responsibility-gap/",
-      "date": "2026-11-23T15:00:10Z"
-    },
-    {
-      "title": "Microsoft testing fix for Windows 11 Bluetooth audio quality drops",
-      "description": "[BLEEPINGCOMPUTER] Microsoft is working to fix a long-standing Windows issue that has been causing significant audio quality drops for Bluetooth headphone users. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-fix-for-windows-11-bluetooth-audio-quality-drops/",
-      "date": "2026-11-23T13:28:45Z"
-    },
-    {
-      "title": "Critical binary-parser Flaw Enables JavaScript Injection via Malicious Parser Definitions",
-      "description": "[FEEDS] A critical security flaw has been disclosed in the popular binary-parser library that could allow an attacker who controls parser definitions to execute arbitrary code. The vulnerability, tracked as CVE-2026-134814 (CVSS score: 9.2 / 8.1), is a case...",
-      "url": "https://thehackernews.com/2026/11/critical-binary-parser-flaw-enables.html",
-      "date": "2026-11-23T13:22:20Z"
-    },
-    {
-      "title": "Hackers Exploit Critical ScreenConnect Flaw to Hijack MSP Technician PCs Without Warning",
-      "description": "[FEEDS] Threat actors are exploiting a now-patched security flaw in ConnectWise ScreenConnect to target managed service provider (MSP) servers. The activity revolves around CVE-2026-84869 (CVSS score: 9.9), a critical ScreenConnect client flaw that allows a...",
-      "url": "https://thehackernews.com/2026/11/hackers-exploit-critical-screenconnect.html",
-      "date": "2026-11-23T12:41:04Z"
-    },
-    {
-      "title": "N-able Discloses Critical Mail Assure Vulnerability Found During Breach Investigation",
-      "description": "[FEEDS] N-able yesterday disclosed a critical flaw it found while investigating the breach of its Mail Assure and SpamExperts Hosted Cloud, an email filtering service it runs for managed service providers. The bug, tracked as CVE-2026-134624, is a...",
-      "url": "https://thehackernews.com/2026/11/n-able-discloses-critical-mail-assure.html",
-      "date": "2026-11-23T12:28:09Z"
-    },
-    {
-      "title": "Call center operator gets 8 years for helping scam 30,000 Americans",
-      "description": "[BLEEPINGCOMPUTER] A Peruvian call center operator was sentenced to eight years in prison for helping steal millions of dollars from over 30,000 Spanish-speaking US residents in a years-long government-impersonation fraud scheme. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/call-center-operator-gets-8-years-for-helping-scam-30-000-americans/",
-      "date": "2026-11-23T12:02:23Z"
-    },
-    {
-      "title": "Humans Have Rights. Machines Do Not.",
-      "description": "[SCHNEIER] This essay originally appeared in Tech Policy Press. Last year, Character.AI asked a federal court in Florida to dismiss a wrongful-death suit, brought by the mother of a fourteen-year-old boy who had killed himself after months of conversation with...",
-      "url": "https://www.schneier.com/blog/archives/2026/11/humans-have-rights-machines-do-not.html",
-      "date": "2026-11-23T12:00:54Z"
-    },
-    {
-      "title": "Hackers Exploit Critical ASP.NET Anti-CSRF Library Flaw Allowing Unauthenticated RCE",
-      "description": "[FEEDS] Cybersecurity researchers have urged users to discontinue using a legacy ASP.NET anti-CSRF library named Idunno.AntiCsrf (\"Idunno.AntiCsrf.dll\") following the discovery of a critical vulnerability that has been exploited in the wild. The...",
-      "url": "https://thehackernews.com/2026/11/hackers-exploit-critical-aspnet-anti.html",
-      "date": "2026-11-23T09:11:56Z"
-    },
-    {
-      "title": "Microsoft confirms Windows printing issues affecting Forcepoint users",
-      "description": "[BLEEPINGCOMPUTER] Microsoft confirmed printing issues on systems running Forcepoint DLP software after installing the KB5132043 November 2026 Windows 11 hotpatch. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-printing-issues-after-kb5132043-windows-hotpatch/",
-      "date": "2026-11-23T09:11:15Z"
-    },
-    {
-      "title": "Hackers Exploited GL.iNet Cloud Flaw to Install Malware on Routers and KVM Devices",
-      "description": "[FEEDS] Hackers exploited a vulnerability in GL.iNet's GoodCloud remote management service to install malware on some customer routers and KVM devices, the maker of travel routers and remote-access KVM hardware said in a security notice updated today. The...",
-      "url": "https://thehackernews.com/2026/11/hackers-exploited-glinet-cloud-flaw-to.html",
-      "date": "2026-11-23T09:04:08Z"
-    },
-    {
-      "title": "CISA flags critical Cisco RCE flaw as actively exploited in attacks",
-      "description": "[BLEEPINGCOMPUTER] The US Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies that attackers are now exploiting a recently patched critical Cisco Expressway vulnerability in the wild. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-flags-critical-cisco-expressway-rce-flaw-as-actively-exploited/",
-      "date": "2026-11-23T07:44:19Z"
-    },
-    {
-      "title": "After Microsoft, JPMorgan Outages, Why There Could Be More Tech Disruptions In Coming Months",
-      "description": "[TIMES NOW] US intelligence chief Jay Clayton and Microsoft President Brad Smith warn of more tech outages in the coming months as AI advances and companies upgrade ageing infrastructure and cybersecurity systems., Technology & Science, Times Now",
-      "url": "https://www.timesnownews.com/technology-science/after-microsoft-jpmorgan-outages-why-there-could-be-more-tech-disruptions-in-coming-months-article-156552452",
-      "date": "2026-11-23T03:21:46Z"
-    },
-    {
-      "title": "ISC Stormcast For Monday, November 23rd, 2026 https://isc.sans.edu/podcastdetail/10190, (Mon, Nov 23rd)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33548",
-      "date": "2026-11-23T02:00:04Z"
-    },
-    {
-      "title": "Tower Records becomes latest Japan retailer hit by data breach",
-      "description": "[THE JAPAN TIMES ] The intrusion exposed login information for about 10.2 million accounts, including email addresses and user IDs.",
-      "url": "https://www.japantimes.co.jp/business/2026/11/23/tower-records-data-breach/",
-      "date": "2026-11-23T01:40:42Z"
-    },
-    {
-      "title": "IT firms report solid earnings growth",
-      "description": "[BANGKOK POST] Purchases of new premium smartphones, mainly through instalment plans, business spending on cybersecurity, energy management, high-performance computing and artificial intelligence projects contributed to earnings growth among SET-listed IT...",
-      "url": "https://www.bangkokpost.com/business/general/3359625/it-firms-report-solid-earnings-growth",
-      "date": "2026-11-23T00:08:00Z"
-    },
-    {
-      "title": "US intelligence chief predicts more tech outages as systems undergo upgrades",
-      "description": "[THE STRAITS TIMES] The upgrades were necessary to improve performance and cybersecurity, he said. Read more at straitstimes.com.",
-      "url": "https://www.straitstimes.com/world/united-states/us-intelligence-chief-predicts-more-tech-outages-as-systems-undergo-upgrades",
-      "date": "2026-11-22T22:47:00Z"
-    },
-    {
-      "title": "Staples says customer information accessed in data breach",
-      "description": "[BNN BLOOMBERG] Staples Canada says hackers accessed customer information in a cyberattack this month.",
-      "url": "https://www.bnnbloomberg.ca/business/company-news/2026/11/21/staples-canada-says-customer-information-accessed-in-data-breach/",
-      "date": "2026-11-22T21:43:31Z"
-    },
-    {
-      "title": "Hack AI: Cybersecurity in the Agentic Era",
-      "description": "[EUROPE SAYS] Find the holes before attackers do.",
-      "url": "https://www.europesays.com/3393623/",
-      "date": "2026-11-22T20:26:06Z"
-    },
-    {
-      "title": "Why tech outages could be the new normal for months",
-      "description": "[NEW YORK POST] Cybersecurity experts warn that more major infrastructure outages similar to the recent financial, tech and air-travel debacles will become the new normal for months thanks to AI changes.",
-      "url": "https://nypost.com/2026/11/22/us-news/why-tech-outages-could-be-the-new-normal-for-months/",
-      "date": "2026-11-22T20:14:31Z"
-    },
-    {
-      "title": "NYC tech outages raise questions about cybersecurity readiness",
-      "description": "[AM NEW YORK] A recent string of outages and cyberattacks has raised questions about how secure technology systems and cybersecurity are in NYC.",
-      "url": "https://www.amny.com/news/nyc-tech-outages-cybersecurity-readiness/",
-      "date": "2026-11-22T20:00:49Z"
-    },
-    {
-      "title": "US intelligence chief warns of more tech glitches amid system upgrades",
-      "description": "[INDIA TODAY] US intelligence chief Jay Clayton warned Americans to expect further technology outages during system upgrades. He said the disruptions were inevitable as ageing infrastructure is modernised and cybersecurity strengthened.",
-      "url": "https://www.indiatoday.in/world/story/us-technology-outages-ageing-system-upgrades-jay-clayton-warning-3044670-2026-11-23",
-      "date": "2026-11-22T19:01:47Z"
-    },
-    {
-      "title": "A brief history of syslog timestamps, (Sun, Nov 22nd)",
-      "description": "[ISC] BLUF: Debian and Ubuntu dropped a config directive in the rsyslogd package in early 2023.&#xd;",
-      "url": "https://isc.sans.edu/diary/rss/33530",
-      "date": "2026-11-22T18:40:18Z"
-    },
-    {
-      "title": "Jay Clayton cautions Americans about possible tech disruptions amid system upgrades",
-      "description": "[FIRSTPOST] US officials warn that technology upgrades and increased cybersecurity investments could bring further disruptions, even as the government plays down concerns about a coordinated cyberattack.",
-      "url": "https://www.firstpost.com/tech/director-of-national-intelligence-jay-clayton-warns-us-tech-outages-could-continue-amid-ongoing-system-upgrades-14061844.html",
-      "date": "2026-11-22T18:29:01Z"
-    },
-    {
-      "title": "Friday Squid Blogging: The Largest Squid Ever Filmed",
-      "description": "[SCHNEIER] This is the story of the largest squid ever filmed, in December 2006 near Japan&#8217;s Ogasawara Islands. As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered. Blog moderation policy.",
-      "url": "https://www.schneier.com/blog/archives/2026/11/friday-squid-blogging-the-largest-squid-ever-filmed.html",
-      "date": "2026-11-20T22:04:12Z"
-    },
-    {
-      "title": "Opening a 400-Year-Old Cryptex",
-      "description": "[SCHNEIER] Researchers used CT scanning technology to recover the code and open a 400-year-old cryptex padlock. You can buy a USB-drive cryptex.",
-      "url": "https://www.schneier.com/blog/archives/2026/11/opening-a-400-year-old-cryptex.html",
-      "date": "2026-11-20T12:04:46Z"
-    },
-    {
-      "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
-      "description": "[CISA] CISA has added four new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-42884 SAP NetWeaver Improper Neutralization of Special Elements in Data Query Logic Vulnerability...",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/11/20/cisa-adds-four-known-exploited-vulnerabilities-catalog",
-      "date": "2026-11-20T12:00:00Z"
-    },
-    {
-      "title": "ISC Stormcast For Friday, November 20th, 2026 https://isc.sans.edu/podcastdetail/10188, (Fri, Nov 20th)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33538",
-      "date": "2026-11-20T02:00:02Z"
-    },
-    {
-      "title": "ISC Stormcast For Thursday, November 19th, 2026 https://isc.sans.edu/podcastdetail/10186, (Thu, Nov 19th)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33536",
-      "date": "2026-11-19T02:00:03Z"
-    },
-    {
-      "title": "Treat Your Honeypot Analysis Like Code: Git, Pull Requests and a Human Gate for AI &#x5b;Guest Diary&#x5d;, (Wed, Nov 18th)",
-      "description": "[ISC] &#x5b;This is a Guest Diary by Kevin Truong, an ISC intern as part of the SANS.edu BACS program&#x5d;&#xd;",
-      "url": "https://isc.sans.edu/diary/rss/33534",
-      "date": "2026-11-19T01:53:48Z"
-    },
-    {
-      "title": "Java4Shell, NGINX2Shell and more: Why we are not at \"Yellow\", (Wed, Nov 18th)",
-      "description": "[ISC] About a month ago, we went to Infocon Yellow for the first time in a few years. We decided to address the php2shell vulnerability and alert our readers to its significant impact. Following php2shell, we had a number of vulnerabilities and events...",
-      "url": "https://isc.sans.edu/diary/rss/33532",
-      "date": "2026-11-18T19:54:50Z"
-    },
-    {
-      "title": "France Is Blaming Iran for the Fridge Cyberattack",
-      "description": "[SCHNEIER] Interesting: U.S. intelligence agencies have recently reached a &#8220;low confidence&#8221; assessment that Iran was responsible for the attacks in France, according to three U.S. officials who spoke on the condition of anonymity to discuss...",
-      "url": "https://www.schneier.com/blog/archives/2026/11/france-is-blaming-iran-for-the-fridge-cyberattack.html",
-      "date": "2026-11-18T12:05:35Z"
-    },
-    {
-      "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
-      "description": "[CISA] CISA has added four new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation.&nbsp; CVE-2024-10441 Synology DiskStation Manager (DSM) Improper Encoding or Escaping of Output Vulnerability...",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/11/18/cisa-adds-four-known-exploited-vulnerabilities-catalog",
-      "date": "2026-11-18T12:00:00Z"
-    },
-    {
-      "title": "Formal Verification of the Signal Protocol Using AI",
-      "description": "[SCHNEIER] This seems like a good thing: Google Deepmind researchers used agentic AI to mathematically prove, or \u201cformally verify,\u201d a number of the Signal protocol\u2019s key cryptographic guarantees\u00ada landmark development for the widely used cryptography and AI...",
-      "url": "https://www.schneier.com/blog/archives/2026/11/formal-verification-of-the-signal-protocol-using-ai.html",
-      "date": "2026-11-17T12:05:43Z"
-    },
-    {
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "description": "[CISA] CISA has added one new vulnerability to its&nbsp;Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-115731 Perforce Puppet Enterprise Deserialization of Untrusted Data Vulnerability This type of...",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/11/17/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "date": "2026-11-17T12:00:00Z"
-    },
-    {
-      "title": "Critical Java Vulnerability Requires Immediate Patching",
-      "description": "[CISA] Purpose CISA strongly urges organizations to immediately patch the recently disclosed Oracle Java vulnerability CVE-2026-114938. This critical memory-corruption vulnerability, known as \u201cJava4Shell,\u201d affects the Base64 decoder of the x86-64 HotSpot...",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/11/17/critical-java-vulnerability-requires-immediate-patching",
-      "date": "2026-11-17T12:00:00Z"
-    },
-    {
-      "title": "Usable Security at Luxury Hotels",
-      "description": "[SCHNEIER] Interesting case study from luxury hotels. Attackers used a fake booking request to gain access to a reservations inbox, where they copied genuine refund requests and got fraudulent ones approved. This is a good illustration why &#8220;just...",
-      "url": "https://www.schneier.com/blog/archives/2026/11/usable-security-at-luxury-hotels.html",
-      "date": "2026-11-16T12:04:42Z"
-    },
-    {
-      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
-      "description": "[CISA] CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-114713 UnrealIRCd Improper Neutralization of Delimiters Vulnerability CVE-2026-123039 Check Point...",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/11/13/cisa-adds-two-known-exploited-vulnerabilities-catalog",
-      "date": "2026-11-13T12:00:00Z"
-    },
-    {
-      "title": "CISA Adds Six Known Exploited Vulnerabilities to Catalog",
-      "description": "[CISA] CISA has added six new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-20320 Cisco BroadWorks Improper Restriction of XML External Entity Reference Vulnerability&nbsp;...",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/11/10/cisa-adds-six-known-exploited-vulnerabilities-catalog",
-      "date": "2026-11-10T12:00:00Z"
-    }
-  ]
+    "title": "Sentinel Protocol",
+    "tagline": "Perimeter Intelligence Sync",
+    "updated": "2026-11-23 22:25 UTC",
+    "news": [
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Anneta Konstantinides,Samantha Grindell Pettyjohn,Amanda Krause",
+            "title": "Meet the 116 women competing to be Miss Universe 2026",
+            "description": "The 75th Miss Universe pageant will take place in Puerto Rico on November 24. This year, 116 women from around the world will compete for the crown.",
+            "url": "https://www.businessinsider.com/miss-universe-pageant-contestants-photos-2026-11",
+            "urlToImage": "https://i.insider.com/6afcc05268dc6b6660b83e95?width=1200&format=jpeg",
+            "publishedAt": "2026-11-22T22:23:30Z",
+            "content": "Miss Universe 2025 was filled with drama from the start. There was a heated confrontation that went viral, judges dropping out, rigging allegations, and a contestant falling off the stage \u00a0all within\u2026 [+43069 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Lillian Brown",
+            "title": "NordVPN Black Friday deal: Save up to 78% and get three months extra",
+            "description": "NordVPN is a stellar virtual private network provider, and the service is offering steep discounts for Black Friday.",
+            "url": "https://www.businessinsider.com/guides/deals/nordvpn-black-friday-deal-2026-11-20",
+            "urlToImage": "https://i.insider.com/6b00c2cc0b69407d788a5387?width=1200&format=jpeg",
+            "publishedAt": "2026-11-22T21:48:09Z",
+            "content": "NordVPN, one of the top virtual private network providers on the market, has launched its Black Friday deal ahead of the shopping holiday. The NordVPN Black Friday deals reach up to 78% off a two-yea\u2026 [+3033 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Anthony Ha",
+            "title": "OpenAI\u2019s chief scientist has thoughts on how to limit AI development | TechCrunch",
+            "description": "OpenAI\u2019s chief scientist has thoughts on how to limit AI development | TechCrunchtechcrunch.com",
+            "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798",
+            "publishedAt": "2026-11-22T21:14:07Z",
+            "content": "A new blog post from OpenAIs chief scientist Jakub Pachocki discusses potential limits on AI development, with a focus on a measurement called perplexity.\r\nSlowing AI development became a particularl\u2026 [+2060 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Offgridsurvival.com"
+            },
+            "author": null,
+            "title": "They\u2019re Telling You More Outages Are Coming: Intelligence Chief Warns of Disruptions as AI Cyber Threats Grow",
+            "description": "They\u2019re Telling You More Outages Are Coming: Intelligence Chief Warns of Disruptions as AI Cyber Threats Grow\nU.S. intelligence officials warn more outages are coming as AI cyber threats grow. Experts warn of major disruptions to banking, power, and infrastru\u2026",
+            "url": "https://offgridsurvival.com/theyre-telling-you-more-outages-are-coming-intelligence-chief-warns-of-disruptions-as-ai-cyber-threats-grow/",
+            "urlToImage": "https://offgridsurvival.com/wp-content/themes/church_10/images/2026/11/outagescoming.jpg",
+            "publishedAt": "2026-11-22T20:55:24Z",
+            "content": "Microsoft went down. Banks had problems. Flights were grounded. Even the NSA\u2019s classified communications network suffered an outage. Now America\u2019s intelligence chief says more disruptions are coming,\u2026 [+8106 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Alex Mitchell",
+            "title": "Why tech outages could be the new normal for months",
+            "description": "\u201cIn many cases, you\u2019ve got AI-powered humans that are on offense, and you have traditional software-powered humans that are playing defense.\"",
+            "url": "https://nypost.com/2026/11/22/us-news/why-tech-outages-could-be-the-new-normal-for-months/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/11/Outages.jpg?quality=75&strip=all&w=1200",
+            "publishedAt": "2026-11-22T20:14:31Z",
+            "content": "The intelligence may be artificial, but the problems are real.\r\nCybersecurity experts warn that more major infrastructure outages similar to the recent financial, tech and air-travel debacles will be\u2026 [+4994 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BleepingComputer"
+            },
+            "author": "RenuxCyber",
+            "title": "hey admins",
+            "description": "hey admins - posted in General Chat: hello admins is it ok if i share my cybersecurity focused instagram groups link on introduction forum ? you guys can look at it if needed thanks :D",
+            "url": "https://www.bleepingcomputer.com/forums/t/820084/hey-admins/",
+            "urlToImage": "https://www.bleepingcomputer.com/forums/public/style_images/master/meta_image.png",
+            "publishedAt": "2026-11-22T19:43:54Z",
+            "content": "0 members, 9 guests, 0 anonymous users"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Daily Caller"
+            },
+            "author": "Jillian Butler",
+            "title": "Bessent Moves To Calm Fears Of Cyberattacks Taking Out Financial Institutions By Drawing Parallel To Vaccination",
+            "description": "\u2018Your arm may hurt, you may feel a little bad the next day, but it increases your long-term immunity and resiliency\u2019",
+            "url": "https://dailycaller.com/2026/11/22/scott-bessent-calms-fears-financial-cyberattacks-vaccination-cbs-news-face-nation-margaret-brennan/",
+            "urlToImage": "https://images.dailycaller.com/image/width=1280,height=549,fit=cover,format=webp,f=auto/https%3A%2F%2Fcdn01.dailycaller.com%2Fwp-content%2Fuploads%2F2026%2F11%2FScreenshot%25202026-11-22%2520at%25202.02.51%25E2%2580%25AFPM.png",
+            "publishedAt": "2026-11-22T19:40:26Z",
+            "content": "Treasury Secretary Scott Bessent moved to calm fears of cyberattacks crippling American financial institutions during a Sunday interview on Face the Nation, comparing recent tech outages to the side \u2026 [+1229 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Logisticsviewpoints.com"
+            },
+            "author": "Jim Frazer",
+            "title": "When One Character Stops the Workflow: The Hidden Digital Dependencies of Modern Supply Chains",
+            "description": "A single misplaced character can stop a business process. I was reminded of that recently when a WordPress workflow supporting Logistics Viewpoints stopped functioning. After working through the failure, I found an unexpected double quotation mark at the end \u2026",
+            "url": "https://logisticsviewpoints.com/2026/11/22/when-one-character-stops-the-workflow-the-hidden-digital-dependencies-of-modern-supply-chains/",
+            "urlToImage": "https://logisticsviewpoints.com/wp-content/uploads/2026/11/php-cabecera.jpg.webp",
+            "publishedAt": "2026-11-22T19:40:01Z",
+            "content": "A single misplaced character can stop a business process. I was reminded of that recently when a WordPress workflow supporting Logistics Viewpoints stopped functioning. After working through the fail\u2026 [+8742 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": null,
+            "title": "Full transcript of \"Face the Nation with Margaret Brennan,\" Nov. 22, 2026",
+            "description": "On this \"Face the Nation with Margaret Brennan\" broadcast, Treasury Secretary Scott Bessent and House Minority Leader Hakeem Jeffries join Margaret Brennan.",
+            "url": "https://www.cbsnews.com/news/full-transcript-of-face-the-nation-with-margaret-brennan-nov-22-2026/",
+            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/22/63f84da3-9530-4a37-8e96-cd68fb42b690/thumbnail/1200x630g3/76aa2c66e399b163dec21acbd1abba2b/6-11-20261122-102933-ftn-segment1-cln-mxf.png",
+            "publishedAt": "2026-11-22T19:32:22Z",
+            "content": "On this \"Face the Nation with Margaret Brennan\" broadcast, moderated by Margaret Brennan:\u00a0\r\n<ul><li>Treasury Secretary Scott Bessent</li><li>Brad Smith, Microsoft president and vice chair</li><li>Hou\u2026 [+48652 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Biztoc.com"
+            },
+            "author": null,
+            "title": "Puts Claude Into Enterprise Security As Its AI Builds Successors",
+            "description": "Anthropic PBC (NasdaqGS:ANT) has integrated its Claude Mythos 5.1 model into Zscaler Endpoint AI Security for enterprise threat detection.\n- Anthropic and Zscaler report that Claude Mythos 5.1 now supports next generation endpoint analysis for corporate cyber\u2026",
+            "url": "https://biztoc.com/x/d5106b74d1b1714c",
+            "urlToImage": "https://cdn.biztoc.com/d5106b74d1b1714c_s.webp",
+            "publishedAt": "2026-11-22T19:14:50Z",
+            "content": "Anthropic PBC (NasdaqGS:ANT) has integrated its Claude Mythos 5.1 model into Zscaler Endpoint AI Security for enterprise threat detection.- Anthropic and Zscaler report that Claude Mythos 5.1 now sup\u2026 [+148 chars]"
+        }
+    ]
 }
