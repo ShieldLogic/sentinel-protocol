@@ -1,245 +1,137 @@
 {
-  "updated": "2026-11-24 14:24:41 UTC",
-  "news": [
-    {
-      "title": "McDonald's Japan data breach exposes customer location information",
-      "description": "[BLEEPINGCOMPUTER] McDonald's Japan, the fast-food giant's Japanese subsidiary, has disclosed a data breach after attackers accessed a database containing sensitive information for users of the company's official smartphone app. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/mcdonalds-japan-data-breach-exposes-customer-location-information/",
-      "date": "2026-11-24T14:09:37Z"
-    },
-    {
-      "title": "New Shirudo tool uses AI to shield unpatched Linux systems from exploits",
-      "description": "[BLEEPINGCOMPUTER] OpenAI and Cisco launched an open-source Linux security tool named Shirudo that deploys temporary runtime protections to block vulnerability exploitation while administrators prepare and roll out patches, without restarting services. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/new-shirudo-tool-uses-ai-to-shield-unpatched-linux-systems-from-exploits/",
-      "date": "2026-11-24T13:34:23Z"
-    },
-    {
-      "title": "VMware vCenter Hit by Another Critical 9.8-Rated Auth Bypass Flaw After Zero-Day Exploitation",
-      "description": "[FEEDS] Broadcom has shipped patches to address 23 vulnerabilities impacting VMware ESX, vCenter, Workstation, Fusion, and Avi Load Balancer, including one critical bug that could be abused to bypass authentication. The critical vulnerability, tracked as...",
-      "url": "https://thehackernews.com/2026/11/vmware-vcenter-hit-by-another-critical.html",
-      "date": "2026-11-24T13:28:26Z"
-    },
-    {
-      "title": "Okta Links ShinyHunters-Associated Vishing Group to New INCEPTION Data Leak Site",
-      "description": "[FEEDS] A threat cluster previously assessed to be affiliated with the ShinyHunters extortion crew may have rebranded and continued operations under a new name called INCEPTION, according to Okta's Threat Intelligence team. The cluster, dubbed O-UNC-053, is...",
-      "url": "https://thehackernews.com/2026/11/okta-links-shinyhunters-associated.html",
-      "date": "2026-11-24T13:28:21Z"
-    },
-    {
-      "title": "Hackers Found a Way Around GitHub SHA Pinning. This Webinar Explains How to Close the Gap",
-      "description": "[FEEDS] Pinning GitHub Actions to an exact version of their code, known as SHA pinning, has become the go-to defense against software supply chain attacks. Attackers have already found a way around it. In March 2026, the hackers who hijacked Trivy, a widely...",
-      "url": "https://thehackernews.com/2026/11/hackers-found-way-around-github-sha.html",
-      "date": "2026-11-24T12:42:09Z"
-    },
-    {
-      "title": "We Get the Infrastructure We Pay For",
-      "description": "[SCHNEIER] This essay originally appeared as part of a round table in The Free Press entitled &#8220;Is America\u2019s Infrastructure Under Attack?&#8221; Microsoft, the FAA, banks, United Airlines, the NSA&#8212;it&#8217;s been a really bad week in cyberspace....",
-      "url": "https://www.schneier.com/blog/archives/2026/11/we-get-the-infrastructure-we-pay-for.html",
-      "date": "2026-11-24T12:06:50Z"
-    },
-    {
-      "title": "Google Researcher Shows How a Single Bit Change in .NET Files Bypassed Windows Code Integrity",
-      "description": "[FEEDS] A quirk in how the .NET Framework loads a program file let a local attacker run untrusted code past two separate protections on Windows built to block it, Google Project Zero researcher James Forshaw showed in a write-up published yesterday. The...",
-      "url": "https://thehackernews.com/2026/11/google-researcher-shows-how-single-bit.html",
-      "date": "2026-11-24T12:02:00Z"
-    },
-    {
-      "title": "2027 SOC Budget Reset: 5 Priorities to Cut Costs and Reduce Cyber Risk",
-      "description": "[FEEDS] What if your biggest SOC budget problem isn't how much you spend, but how much analyst time you lose? According to ANY.RUN's estimates, SOC teams could recover 450 analyst hours per 1,000 investigated alerts through faster threat analysis and IOC...",
-      "url": "https://thehackernews.com/2026/11/2027-soc-budget-reset-5-priorities-to.html",
-      "date": "2026-11-24T12:01:54Z"
-    },
-    {
-      "title": "Microsoft Fixes Azure API Management Classic Flaw as Actor Targets Customer Secrets",
-      "description": "[FEEDS] Norway's National Security Authority (NSM) has disclosed that it became aware of a security vulnerability in Microsoft's Azure API Management (APIM) that has affected multiple businesses in the country, including energy companies Equinor and...",
-      "url": "https://thehackernews.com/2026/11/microsoft-fixes-azure-api-management.html",
-      "date": "2026-11-24T10:44:49Z"
-    },
-    {
-      "title": "Scanning from Subnet 109.160.32.0/24, (Mon, Nov 23rd)",
-      "description": "[ISC] This subnet is assigned to a web hosting and virtual private server (VPS) provider BANATSYNC SRL with AS198364, located in Timisoara, Romania. This graph shows the DShield sensor activity over the past 90 days for this subnet and it is still ongoing...",
-      "url": "https://isc.sans.edu/diary/rss/33550",
-      "date": "2026-11-24T02:32:00Z"
-    },
-    {
-      "title": "ISC Stormcast For Tuesday, November 24th, 2026 https://isc.sans.edu/podcastdetail/10192, (Tue, Nov 24th)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33552",
-      "date": "2026-11-24T02:00:04Z"
-    },
-    {
-      "title": "Chaudhry's new high as CrowdStrike buys Zscaler",
-      "description": "[TIMES OF INDIA] BENGALURU: Even as the cybersecurity industry witnesses a mega-deal, with CrowdStrike acquiring Zscaler in a $43 billion transaction, the story of Zscaler",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/chaudhrys-new-high-as-crowdstrike-buys-zscaler/articleshow/136117256.cms",
-      "date": "2026-11-24T01:58:00Z"
-    },
-    {
-      "title": "Italian cybersecurity agency sounds alarm on AI agents",
-      "description": "[AGENZIA ANSA] Italy's National Cybersecurity Agency (ACN) on Tuesday sounded the alarm about the dangers posed by AI agents - artificial intelligence programs that can make decisions, pursue goals, plan activities, interact with corporate software, access...",
-      "url": "https://www.ansa.it/english/news/general_news/2026/11/24/italian-cybersecurity-agency-sounds-alarm-on-ai-agents_c8a90b44-4b95-415c-8cdd-1667d86f30c5.html",
-      "date": "2026-11-24T00:00:00Z"
-    },
-    {
-      "title": "Experts weigh national security implications of Huang's return to Nvidia",
-      "description": "[PBS NEWS] For a closer look at Jensen Huang\u2019s return to Nvidia, and the national security implications, Amna Nawaz spoke with Dmitri Alperovitch and James Lewis. Alperovitch co-founded and was chief technology officer of the cybersecurity firm CrowdStrike....",
-      "url": "https://www.pbs.org/newshour/show/experts-weigh-national-security-implications-of-huangs-return-to-nvidia",
-      "date": "2026-11-23T23:50:21Z"
-    },
-    {
-      "title": "Factbox-From Symantec to Zscaler, the biggest cybersecurity acquisitions",
-      "description": "[THE STAR] Nov 23 (Reuters) - \u2060CrowdStrike will buy \u2060cloud security firm Zscaler in \u200can about $43.9 billion all-stock deal, marking one of the largest \u200bacquisitions in the \u2060cybersecurity sector, \u2060as companies race to counter \u2060increasingly \u200csophisticated...",
-      "url": "https://www.thestar.com.my/tech/tech-news/2026/11/24/factbox-from-symantec-to-zscaler-the-biggest-cybersecurity-acquisitions",
-      "date": "2026-11-23T23:02:00Z"
-    },
-    {
-      "title": "South Korea\u2019s power giant KEPCO confirms data breach impacting 1.5 million",
-      "description": "[BLEEPINGCOMPUTER] A threat actor breached the internal network of Korea Electric Power Corporation (KEPCO) and accessed two systems containing customer, employee, and contractor data. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/south-koreas-power-giant-kepco-confirms-data-breach-impacting-15-million/",
-      "date": "2026-11-23T20:54:51Z"
-    },
-    {
-      "title": "Alberta seeks to tighten criteria to access provincial voters list after massive data breach impacted 2.9 million Albertans",
-      "description": "[CALGARY HERALD] Alberta's new bill looks to restrict who can access the provincial voters list after a massive data breach occurred this spring.",
-      "url": "https://calgaryherald.com/news/alberta-tighten-criteria-provincial-voters-list/wcm/0f75efa5-0107-475c-b549-3677514b4b9d",
-      "date": "2026-11-23T20:54:26Z"
-    },
-    {
-      "title": "Fact Check Team: GTA VI generates $3.79 billion in first-day sales",
-      "description": "[WJLA] The blockbuster video game launch is raising questions about gaming's economic power while cybersecurity experts warn of a surge in phishing attacks targeting fans.",
-      "url": "https://wjla.com/news/nation-world/fact-check-team-gta-vi-generates-379-billion-in-first-day-sales-industry-rockstar-games",
-      "date": "2026-11-23T20:25:04Z"
-    },
-    {
-      "title": "Fact Check Team: GTA VI generates $3.79 billion in first-day sales",
-      "description": "[BALTIMORE NEWS] The blockbuster video game launch is raising questions about gaming's economic power while cybersecurity experts warn of a surge in phishing attacks targeting fans.",
-      "url": "https://foxbaltimore.com/news/nation-world/fact-check-team-gta-vi-generates-379-billion-in-first-day-sales-industry-rockstar-games",
-      "date": "2026-11-23T20:25:04Z"
-    },
-    {
-      "title": "Xfinity Fiber-powered internet, FAQs, cybersecurity",
-      "description": "[DES MOINES REGISTER] Looking to upgrade your internet? Xfinity Fiber-powered internet may be your answer. Here's a look at what it is and how it's different.",
-      "url": "https://www.desmoinesregister.com/story/shopping/tech/2026/11/23/xfinity-fiber-powered-internet-faqs-cybersecurity/92882512007/",
-      "date": "2026-11-23T20:22:00Z"
-    },
-    {
-      "title": "Xfinity Fiber-powered internet, FAQs, cybersecurity",
-      "description": "[TOPEKA CAPITAL-JOURNAL] Looking to upgrade your internet? Xfinity Fiber-powered internet may be your answer. Here's a look at what it is and how it's different.",
-      "url": "https://www.cjonline.com/story/shopping/tech/2026/11/23/xfinity-fiber-powered-internet-faqs-cybersecurity/92882512007/",
-      "date": "2026-11-23T20:22:00Z"
-    },
-    {
-      "title": "Xfinity Fiber-powered internet, FAQs, cybersecurity",
-      "description": "[TCPALM] Looking to upgrade your internet? Xfinity Fiber-powered internet may be your answer. Here's a look at what it is and how it's different.",
-      "url": "https://www.tcpalm.com/story/shopping/tech/2026/11/23/xfinity-fiber-powered-internet-faqs-cybersecurity/92882512007/",
-      "date": "2026-11-23T20:22:00Z"
-    },
-    {
-      "title": "OpenRouter drops AI providers over leaked prompts and secrets",
-      "description": "[BLEEPINGCOMPUTER] OpenRouter removed three AI providers from its platform after discovering that they had violated their stated data-handling policies and exposed sensitive data. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/openrouter-drops-ai-providers-over-leaked-prompts-and-secrets/",
-      "date": "2026-11-23T20:00:20Z"
-    },
-    {
-      "title": "Microsoft Azure flaw exploited to steal customers' API credentials",
-      "description": "[BLEEPINGCOMPUTER] Microsoft is warning customers that a security vulnerability in Azure API Management (APIM) Classic tiers was exploited to steal stored API credentials, with Norwegian authorities linking the flaw to cyberattacks against energy companies. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/microsoft-azure-flaw-exploited-to-steal-customers-api-credentials/",
-      "date": "2026-11-23T19:42:20Z"
-    },
-    {
-      "title": "Spanish LaLiga confirms hackers stole soccer fans\u2019 personal data",
-      "description": "[BLEEPINGCOMPUTER] LaLiga, Spain's top men's football league, disclosed a data breach that exposed personal information belonging to users of its services and those of some affiliated clubs. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/spanish-laliga-confirms-hackers-stole-soccer-fans-personal-data/",
-      "date": "2026-11-23T18:38:40Z"
-    },
-    {
-      "title": "Humans Have Rights. Machines Do Not.",
-      "description": "[SCHNEIER] This essay originally appeared in Tech Policy Press. Last year, Character.AI asked a federal court in Florida to dismiss a wrongful-death suit, brought by the mother of a fourteen-year-old boy who had killed himself after months of conversation with...",
-      "url": "https://www.schneier.com/blog/archives/2026/11/humans-have-rights-machines-do-not.html",
-      "date": "2026-11-23T12:00:54Z"
-    },
-    {
-      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
-      "description": "[CISA] CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-133968 Project MONAI MONAI Label Path Traversal Vulnerability &nbsp;CVE-2026-134624 N-able Mail Assure...",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/11/23/cisa-adds-two-known-exploited-vulnerabilities-catalog",
-      "date": "2026-11-23T12:00:00Z"
-    },
-    {
-      "title": "ISC Stormcast For Monday, November 23rd, 2026 https://isc.sans.edu/podcastdetail/10190, (Mon, Nov 23rd)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33548",
-      "date": "2026-11-23T02:00:04Z"
-    },
-    {
-      "title": "A brief history of syslog timestamps, (Sun, Nov 22nd)",
-      "description": "[ISC] BLUF: Debian and Ubuntu dropped a config directive in the rsyslogd package in early 2023.&#xd;",
-      "url": "https://isc.sans.edu/diary/rss/33530",
-      "date": "2026-11-22T18:40:18Z"
-    },
-    {
-      "title": "Friday Squid Blogging: The Largest Squid Ever Filmed",
-      "description": "[SCHNEIER] This is the story of the largest squid ever filmed, in December 2006 near Japan&#8217;s Ogasawara Islands. As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered. Blog moderation policy.",
-      "url": "https://www.schneier.com/blog/archives/2026/11/friday-squid-blogging-the-largest-squid-ever-filmed.html",
-      "date": "2026-11-20T22:04:12Z"
-    },
-    {
-      "title": "Opening a 400-Year-Old Cryptex",
-      "description": "[SCHNEIER] Researchers used CT scanning technology to recover the code and open a 400-year-old cryptex padlock. You can buy a USB-drive cryptex.",
-      "url": "https://www.schneier.com/blog/archives/2026/11/opening-a-400-year-old-cryptex.html",
-      "date": "2026-11-20T12:04:46Z"
-    },
-    {
-      "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
-      "description": "[CISA] CISA has added four new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-42884 SAP NetWeaver Improper Neutralization of Special Elements in Data Query Logic Vulnerability...",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/11/20/cisa-adds-four-known-exploited-vulnerabilities-catalog",
-      "date": "2026-11-20T12:00:00Z"
-    },
-    {
-      "title": "ISC Stormcast For Friday, November 20th, 2026 https://isc.sans.edu/podcastdetail/10188, (Fri, Nov 20th)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33538",
-      "date": "2026-11-20T02:00:02Z"
-    },
-    {
-      "title": "ISC Stormcast For Thursday, November 19th, 2026 https://isc.sans.edu/podcastdetail/10186, (Thu, Nov 19th)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33536",
-      "date": "2026-11-19T02:00:03Z"
-    },
-    {
-      "title": "France Is Blaming Iran for the Fridge Cyberattack",
-      "description": "[SCHNEIER] Interesting: U.S. intelligence agencies have recently reached a &#8220;low confidence&#8221; assessment that Iran was responsible for the attacks in France, according to three U.S. officials who spoke on the condition of anonymity to discuss...",
-      "url": "https://www.schneier.com/blog/archives/2026/11/france-is-blaming-iran-for-the-fridge-cyberattack.html",
-      "date": "2026-11-18T12:05:35Z"
-    },
-    {
-      "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
-      "description": "[CISA] CISA has added four new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation.&nbsp; CVE-2024-10441 Synology DiskStation Manager (DSM) Improper Encoding or Escaping of Output Vulnerability...",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/11/18/cisa-adds-four-known-exploited-vulnerabilities-catalog",
-      "date": "2026-11-18T12:00:00Z"
-    },
-    {
-      "title": "Formal Verification of the Signal Protocol Using AI",
-      "description": "[SCHNEIER] This seems like a good thing: Google Deepmind researchers used agentic AI to mathematically prove, or \u201cformally verify,\u201d a number of the Signal protocol\u2019s key cryptographic guarantees\u00ada landmark development for the widely used cryptography and AI...",
-      "url": "https://www.schneier.com/blog/archives/2026/11/formal-verification-of-the-signal-protocol-using-ai.html",
-      "date": "2026-11-17T12:05:43Z"
-    },
-    {
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "description": "[CISA] CISA has added one new vulnerability to its&nbsp;Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-115731 Perforce Puppet Enterprise Deserialization of Untrusted Data Vulnerability This type of...",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/11/17/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "date": "2026-11-17T12:00:00Z"
-    },
-    {
-      "title": "Critical Java Vulnerability Requires Immediate Patching",
-      "description": "[CISA] Purpose CISA strongly urges organizations to immediately patch the recently disclosed Oracle Java vulnerability CVE-2026-114938. This critical memory-corruption vulnerability, known as \u201cJava4Shell,\u201d affects the Base64 decoder of the x86-64 HotSpot...",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/11/17/critical-java-vulnerability-requires-immediate-patching",
-      "date": "2026-11-17T12:00:00Z"
-    },
-    {
-      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
-      "description": "[CISA] CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-114713 UnrealIRCd Improper Neutralization of Delimiters Vulnerability CVE-2026-123039 Check Point...",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/11/13/cisa-adds-two-known-exploited-vulnerabilities-catalog",
-      "date": "2026-11-13T12:00:00Z"
-    }
-  ]
+    "title": "Sentinel Protocol",
+    "tagline": "Perimeter Intelligence Sync",
+    "updated": "2026-11-24 20:58 UTC",
+    "news": [
+        {
+            "source": {
+                "id": null,
+                "name": "BleepingComputer"
+            },
+            "author": "Bill Toulas",
+            "title": "South Korea\u2019s power giant KEPCO confirms data breach impacting 1.5 million",
+            "description": "A threat actor breached the internal network of\u00a0Korea Electric Power Corporation (KEPCO) and accessed\u00a0two systems containing customer, employee, and contractor data. [...]",
+            "url": "https://www.bleepingcomputer.com/news/security/south-koreas-power-giant-kepco-confirms-data-breach-impacting-15-million/",
+            "urlToImage": "https://www.bleepstatic.com/content/hl-images/2026/11/23/towers.jpg",
+            "publishedAt": "2026-11-23T20:54:51Z",
+            "content": "A threat actor breached the internal network of\u00a0Korea Electric Power Corporation (KEPCO) and accessed\u00a0two systems containing customer, employee, and contractor data.\r\nThe attack exposed details of mo\u2026 [+2996 chars]"
+        },
+        {
+            "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            "author": "Christian Cawley",
+            "title": "This security company is offering $10,000 to anyone able to hack its AI agent protection tool",
+            "description": "Cato Networks is challenging white hat hackers to compromise its new AI agent monitoring tool - and offering $10,000 for the first three successful hacks.",
+            "url": "https://www.techradar.com/pro/security/this-security-company-is-offering-usd10-000-to-anyone-able-to-hack-its-ai-agent-protection-tool",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/AmEJLHX4gdtYcYyM8sQkKZ-2560-80.jpg",
+            "publishedAt": "2026-11-23T20:25:00Z",
+            "content": "<ul><li>Cato Networks has announced a $10,000 prize for anyone that can hack its new AI security tool</li><li>AgentSense is a new AI agent monitoring tool, designed to help enterprises run AI-managed\u2026 [+3229 chars]"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "Poulomi Ghosh",
+            "title": "Indian-origin billionaire Neil Mehta, wife Jash announce $6 million donation to Trump Accounts for San Francisco children",
+            "description": "Billionaire venture capitalist Neil Mehta and his wife, Jash, announced their contribution of around $6 million to fund $100 to each of the 60,000",
+            "url": "https://timesofindia.indiatimes.com/world/us/indian-origin-billionaire-neil-mehta-wife-jash-announce-6-million-donation-to-trump-accounts-for-san-francisco-children/articleshow/136113662.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-136113673/136113673.jpg",
+            "publishedAt": "2026-11-23T20:17:55Z",
+            "content": "Billionaire venture capitalist Neil Mehta and his wife, Jash, announced their contribution of around $6 million to fund $100 to each of the 60,000 children in San Francisco through Trump Accounts. Th\u2026 [+2692 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Kitploit.com"
+            },
+            "author": null,
+            "title": "CyberStrikeAI \u2014 Updated!",
+            "description": "The system of action for AI-native cybersecurity\u2014where intent becomes governed execution, evidence becomes operational memory, and every operation improves the next.",
+            "url": "https://kitploit.com/en/posts/cyberstrikeai-844aa3a888d2101d",
+            "urlToImage": "https://assets.kitploit.com/production/public/tools/8/7515842e367d7b0acd1e7a946949289d1a9f14edd3dda50f803e171d3de0034d.png",
+            "publishedAt": "2026-11-23T20:01:20Z",
+            "content": "| English\r\nThe system of action for AI-native cybersecuritywhere intent becomes governed execution, evidence becomes operational memory, and every operation improves the next.\r\nCyberStrikeAI connects\u2026 [+2956 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Biztoc.com"
+            },
+            "author": null,
+            "title": "Palo Alto Networks' Acquisition Spree Continues",
+            "description": "Palo Alto is reportedly weighing a Terra Security acquisition, expanding its AI cybersecurity portfolio amid sector consolidation.",
+            "url": "https://biztoc.com/x/c5ebc9c05c8f0868",
+            "urlToImage": "https://biztoc.com/cdn/996/og.png",
+            "publishedAt": "2026-11-23T19:45:39Z",
+            "content": "Palo Alto is reportedly weighing a Terra Security acquisition, expanding its AI cybersecurity portfolio amid sector consolidation.\r\nThis story appeared on benzinga.com, 2026-11-23 18:47:44."
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Catherine Nouhan",
+            "title": "As tech outages mount, some New Yorkers prepare for the worst",
+            "description": "As digital disruptions raise concerns about essential services, some residents are preparing for prolonged outages.",
+            "url": "https://www.aljazeera.com/news/2026/11/23/as-tech-outages-mount-some-new-yorkers-prepare-for-the-worst",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/11/2019-07-14T011940Z_2110804009_RC1E2C380100_RTRMADP_3_NEW-YORK-OUTAGES-1795385001.jpg?resize=1920%2C1440",
+            "publishedAt": "2026-11-23T19:43:45Z",
+            "content": "New York City, New York When a series of technology outages struck services across the United States this month, Kristyn Lavery began thinking about what might happen if the disruptions lasted longer\u2026 [+6404 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BleepingComputer"
+            },
+            "author": "Lawrence Abrams",
+            "title": "Microsoft Azure flaw exploited to steal customers' API credentials",
+            "description": "Microsoft is warning customers that a security vulnerability in Azure API Management (APIM) Classic tiers was exploited to steal stored API credentials, with Norwegian authorities linking the flaw to cyberattacks against energy companies. [...]",
+            "url": "https://www.bleepingcomputer.com/news/security/microsoft-azure-flaw-exploited-to-steal-customers-api-credentials/",
+            "urlToImage": "https://www.bleepstatic.com/content/hl-images/2026/08/21/Microsoft.jpg",
+            "publishedAt": "2026-11-23T19:42:20Z",
+            "content": "Microsoft is warning customers that a security vulnerability in Azure API Management (APIM) Classic tiers was exploited to steal stored API credentials, with Norwegian authorities linking the flaw to\u2026 [+5579 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Biztoc.com"
+            },
+            "author": null,
+            "title": "3 Trust And Safety Stocks Retail Investors Are Watching Right Now",
+            "description": "AI deepfakes involving Grok and the lawsuits against SpaceX have pushed trust, safety, and cybersecurity from background concern to front-page risk. Platforms, advertisers, and regulators now care a lot more about who can actually police harmful content. That\u2026",
+            "url": "https://biztoc.com/x/61fb7b4777040070",
+            "urlToImage": "https://cdn.biztoc.com/61fb7b4777040070_s.webp",
+            "publishedAt": "2026-11-23T19:17:45Z",
+            "content": "AI deepfakes involving Grok and the lawsuits against SpaceX have pushed trust, safety, and cybersecurity from background concern to front-page risk. Platforms, advertisers, and regulators now care a \u2026 [+150 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Conversation Africa"
+            },
+            "author": "Michael J. Davern Professor of Accounting, Business Information Systems",
+            "title": "No email, no payments, no cloud: could your workplace survive a digital blackout?",
+            "description": "A backup plan that is out of date \u2013 or difficult for staff to implement \u2013 won\u2019t be much help in a crisis.",
+            "url": "https://theconversation.com/no-email-no-payments-no-cloud-could-your-workplace-survive-a-digital-blackout-296947",
+            "urlToImage": "https://images.theconversation.com/files/772888/original/file-20261118-64-rn5mih.jpg?ixlib=rb-4.1.1&rect=0%2C0%2C2950%2C1475&q=45&auto=format&w=1356&h=668&fit=crop",
+            "publishedAt": "2026-11-23T19:16:05Z",
+            "content": "leszekglasner/Getty\r\nThis month\u2019s global Microsoft outage provided an uncomfortable reminder of our digital dependence. The true cost to the global economy may never be known, but early estimates are\u2026 [+6148 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Securityaffairs.com"
+            },
+            "author": "Pierluigi Paganini",
+            "title": "Cleverbridge Confirms Attackers Copied Payment Card Data From Its Platform",
+            "description": "Cleverbridge confirms attackers stole payment card numbers, expiry dates and CVV codes, warning customers to watch for fraudulent transactions. Cleverbridge, which runs checkouts, payments and subscriptions for other companies, has confirmed that attackers co\u2026",
+            "url": "https://securityaffairs.com/203851/data-breach/cleverbridge-confirms-attackers-copied-payment-card-data-from-its-platform.html",
+            "urlToImage": "https://securityaffairs.com/wp-content/uploads/2026/11/image-58.png",
+            "publishedAt": "2026-11-23T19:14:17Z",
+            "content": "Cleverbridge Confirms Attackers Copied Payment Card Data From Its Platform\r\nCleverbridge, which runs checkouts, payments and subscriptions for other companies, has confirmed that attackers copied pay\u2026 [+3441 chars]"
+        }
+    ]
 }
