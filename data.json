@@ -1,6 +1,60 @@
 {
-  "updated": "2026-11-24 03:37:09 UTC",
+  "updated": "2026-11-24 14:24:41 UTC",
   "news": [
+    {
+      "title": "McDonald's Japan data breach exposes customer location information",
+      "description": "[BLEEPINGCOMPUTER] McDonald's Japan, the fast-food giant's Japanese subsidiary, has disclosed a data breach after attackers accessed a database containing sensitive information for users of the company's official smartphone app. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/mcdonalds-japan-data-breach-exposes-customer-location-information/",
+      "date": "2026-11-24T14:09:37Z"
+    },
+    {
+      "title": "New Shirudo tool uses AI to shield unpatched Linux systems from exploits",
+      "description": "[BLEEPINGCOMPUTER] OpenAI and Cisco launched an open-source Linux security tool named Shirudo that deploys temporary runtime protections to block vulnerability exploitation while administrators prepare and roll out patches, without restarting services. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/new-shirudo-tool-uses-ai-to-shield-unpatched-linux-systems-from-exploits/",
+      "date": "2026-11-24T13:34:23Z"
+    },
+    {
+      "title": "VMware vCenter Hit by Another Critical 9.8-Rated Auth Bypass Flaw After Zero-Day Exploitation",
+      "description": "[FEEDS] Broadcom has shipped patches to address 23 vulnerabilities impacting VMware ESX, vCenter, Workstation, Fusion, and Avi Load Balancer, including one critical bug that could be abused to bypass authentication. The critical vulnerability, tracked as...",
+      "url": "https://thehackernews.com/2026/11/vmware-vcenter-hit-by-another-critical.html",
+      "date": "2026-11-24T13:28:26Z"
+    },
+    {
+      "title": "Okta Links ShinyHunters-Associated Vishing Group to New INCEPTION Data Leak Site",
+      "description": "[FEEDS] A threat cluster previously assessed to be affiliated with the ShinyHunters extortion crew may have rebranded and continued operations under a new name called INCEPTION, according to Okta's Threat Intelligence team. The cluster, dubbed O-UNC-053, is...",
+      "url": "https://thehackernews.com/2026/11/okta-links-shinyhunters-associated.html",
+      "date": "2026-11-24T13:28:21Z"
+    },
+    {
+      "title": "Hackers Found a Way Around GitHub SHA Pinning. This Webinar Explains How to Close the Gap",
+      "description": "[FEEDS] Pinning GitHub Actions to an exact version of their code, known as SHA pinning, has become the go-to defense against software supply chain attacks. Attackers have already found a way around it. In March 2026, the hackers who hijacked Trivy, a widely...",
+      "url": "https://thehackernews.com/2026/11/hackers-found-way-around-github-sha.html",
+      "date": "2026-11-24T12:42:09Z"
+    },
+    {
+      "title": "We Get the Infrastructure We Pay For",
+      "description": "[SCHNEIER] This essay originally appeared as part of a round table in The Free Press entitled &#8220;Is America\u2019s Infrastructure Under Attack?&#8221; Microsoft, the FAA, banks, United Airlines, the NSA&#8212;it&#8217;s been a really bad week in cyberspace....",
+      "url": "https://www.schneier.com/blog/archives/2026/11/we-get-the-infrastructure-we-pay-for.html",
+      "date": "2026-11-24T12:06:50Z"
+    },
+    {
+      "title": "Google Researcher Shows How a Single Bit Change in .NET Files Bypassed Windows Code Integrity",
+      "description": "[FEEDS] A quirk in how the .NET Framework loads a program file let a local attacker run untrusted code past two separate protections on Windows built to block it, Google Project Zero researcher James Forshaw showed in a write-up published yesterday. The...",
+      "url": "https://thehackernews.com/2026/11/google-researcher-shows-how-single-bit.html",
+      "date": "2026-11-24T12:02:00Z"
+    },
+    {
+      "title": "2027 SOC Budget Reset: 5 Priorities to Cut Costs and Reduce Cyber Risk",
+      "description": "[FEEDS] What if your biggest SOC budget problem isn't how much you spend, but how much analyst time you lose? According to ANY.RUN's estimates, SOC teams could recover 450 analyst hours per 1,000 investigated alerts through faster threat analysis and IOC...",
+      "url": "https://thehackernews.com/2026/11/2027-soc-budget-reset-5-priorities-to.html",
+      "date": "2026-11-24T12:01:54Z"
+    },
+    {
+      "title": "Microsoft Fixes Azure API Management Classic Flaw as Actor Targets Customer Secrets",
+      "description": "[FEEDS] Norway's National Security Authority (NSM) has disclosed that it became aware of a security vulnerability in Microsoft's Azure API Management (APIM) that has affected multiple businesses in the country, including energy companies Equinor and...",
+      "url": "https://thehackernews.com/2026/11/microsoft-fixes-azure-api-management.html",
+      "date": "2026-11-24T10:44:49Z"
+    },
     {
       "title": "Scanning from Subnet 109.160.32.0/24, (Mon, Nov 23rd)",
       "description": "[ISC] This subnet is assigned to a web hosting and virtual private server (VPS) provider BANATSYNC SRL with AS198364, located in Timisoara, Romania. This graph shows the DShield sensor activity over the past 90 days for this subnet and it is still ongoing...",
@@ -14,10 +68,70 @@
       "date": "2026-11-24T02:00:04Z"
     },
     {
+      "title": "Chaudhry's new high as CrowdStrike buys Zscaler",
+      "description": "[TIMES OF INDIA] BENGALURU: Even as the cybersecurity industry witnesses a mega-deal, with CrowdStrike acquiring Zscaler in a $43 billion transaction, the story of Zscaler",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/chaudhrys-new-high-as-crowdstrike-buys-zscaler/articleshow/136117256.cms",
+      "date": "2026-11-24T01:58:00Z"
+    },
+    {
+      "title": "Italian cybersecurity agency sounds alarm on AI agents",
+      "description": "[AGENZIA ANSA] Italy's National Cybersecurity Agency (ACN) on Tuesday sounded the alarm about the dangers posed by AI agents - artificial intelligence programs that can make decisions, pursue goals, plan activities, interact with corporate software, access...",
+      "url": "https://www.ansa.it/english/news/general_news/2026/11/24/italian-cybersecurity-agency-sounds-alarm-on-ai-agents_c8a90b44-4b95-415c-8cdd-1667d86f30c5.html",
+      "date": "2026-11-24T00:00:00Z"
+    },
+    {
+      "title": "Experts weigh national security implications of Huang's return to Nvidia",
+      "description": "[PBS NEWS] For a closer look at Jensen Huang\u2019s return to Nvidia, and the national security implications, Amna Nawaz spoke with Dmitri Alperovitch and James Lewis. Alperovitch co-founded and was chief technology officer of the cybersecurity firm CrowdStrike....",
+      "url": "https://www.pbs.org/newshour/show/experts-weigh-national-security-implications-of-huangs-return-to-nvidia",
+      "date": "2026-11-23T23:50:21Z"
+    },
+    {
+      "title": "Factbox-From Symantec to Zscaler, the biggest cybersecurity acquisitions",
+      "description": "[THE STAR] Nov 23 (Reuters) - \u2060CrowdStrike will buy \u2060cloud security firm Zscaler in \u200can about $43.9 billion all-stock deal, marking one of the largest \u200bacquisitions in the \u2060cybersecurity sector, \u2060as companies race to counter \u2060increasingly \u200csophisticated...",
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/11/24/factbox-from-symantec-to-zscaler-the-biggest-cybersecurity-acquisitions",
+      "date": "2026-11-23T23:02:00Z"
+    },
+    {
       "title": "South Korea\u2019s power giant KEPCO confirms data breach impacting 1.5 million",
       "description": "[BLEEPINGCOMPUTER] A threat actor breached the internal network of Korea Electric Power Corporation (KEPCO) and accessed two systems containing customer, employee, and contractor data. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/south-koreas-power-giant-kepco-confirms-data-breach-impacting-15-million/",
       "date": "2026-11-23T20:54:51Z"
+    },
+    {
+      "title": "Alberta seeks to tighten criteria to access provincial voters list after massive data breach impacted 2.9 million Albertans",
+      "description": "[CALGARY HERALD] Alberta's new bill looks to restrict who can access the provincial voters list after a massive data breach occurred this spring.",
+      "url": "https://calgaryherald.com/news/alberta-tighten-criteria-provincial-voters-list/wcm/0f75efa5-0107-475c-b549-3677514b4b9d",
+      "date": "2026-11-23T20:54:26Z"
+    },
+    {
+      "title": "Fact Check Team: GTA VI generates $3.79 billion in first-day sales",
+      "description": "[WJLA] The blockbuster video game launch is raising questions about gaming's economic power while cybersecurity experts warn of a surge in phishing attacks targeting fans.",
+      "url": "https://wjla.com/news/nation-world/fact-check-team-gta-vi-generates-379-billion-in-first-day-sales-industry-rockstar-games",
+      "date": "2026-11-23T20:25:04Z"
+    },
+    {
+      "title": "Fact Check Team: GTA VI generates $3.79 billion in first-day sales",
+      "description": "[BALTIMORE NEWS] The blockbuster video game launch is raising questions about gaming's economic power while cybersecurity experts warn of a surge in phishing attacks targeting fans.",
+      "url": "https://foxbaltimore.com/news/nation-world/fact-check-team-gta-vi-generates-379-billion-in-first-day-sales-industry-rockstar-games",
+      "date": "2026-11-23T20:25:04Z"
+    },
+    {
+      "title": "Xfinity Fiber-powered internet, FAQs, cybersecurity",
+      "description": "[DES MOINES REGISTER] Looking to upgrade your internet? Xfinity Fiber-powered internet may be your answer. Here's a look at what it is and how it's different.",
+      "url": "https://www.desmoinesregister.com/story/shopping/tech/2026/11/23/xfinity-fiber-powered-internet-faqs-cybersecurity/92882512007/",
+      "date": "2026-11-23T20:22:00Z"
+    },
+    {
+      "title": "Xfinity Fiber-powered internet, FAQs, cybersecurity",
+      "description": "[TOPEKA CAPITAL-JOURNAL] Looking to upgrade your internet? Xfinity Fiber-powered internet may be your answer. Here's a look at what it is and how it's different.",
+      "url": "https://www.cjonline.com/story/shopping/tech/2026/11/23/xfinity-fiber-powered-internet-faqs-cybersecurity/92882512007/",
+      "date": "2026-11-23T20:22:00Z"
+    },
+    {
+      "title": "Xfinity Fiber-powered internet, FAQs, cybersecurity",
+      "description": "[TCPALM] Looking to upgrade your internet? Xfinity Fiber-powered internet may be your answer. Here's a look at what it is and how it's different.",
+      "url": "https://www.tcpalm.com/story/shopping/tech/2026/11/23/xfinity-fiber-powered-internet-faqs-cybersecurity/92882512007/",
+      "date": "2026-11-23T20:22:00Z"
     },
     {
       "title": "OpenRouter drops AI providers over leaked prompts and secrets",
@@ -38,108 +152,6 @@
       "date": "2026-11-23T18:38:40Z"
     },
     {
-      "title": "Webworm Suspected of Modifying SoftEther VPN to Evade Detection and Hide Remote Access",
-      "description": "[FEEDS] The China-aligned threat actor known as Webworm is suspected to be using a custom version of the open-source SoftEther VPN Bridge tool in an attempt to remove recognizable detection fingerprints, while disguising it as network-monitoring software to...",
-      "url": "https://thehackernews.com/2026/11/webworm-suspected-of-modifying.html",
-      "date": "2026-11-23T17:45:15Z"
-    },
-    {
-      "title": "GlobeTopper loses $2.5 million after hackers steal $70k in gift cards",
-      "description": "[BLEEPINGCOMPUTER] A cyberattack disrupted operations at B2B top-up solutions provider GlobeTopper, causing an estimated $2.5 million in lost revenue, while the attacker redeemed digital gift cards worth $70,000. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/globetopper-loses-25-million-after-hackers-steal-70k-in-gift-cards/",
-      "date": "2026-11-23T16:50:01Z"
-    },
-    {
-      "title": "Persistent Systems, LTTS flag cybersecurity alerts",
-      "description": "[THE FINANCIAL EXPRESS] Persistent Systems and L&T Technology Services reported separate cybersecurity incidents, with potential data exposure involving a US-based law firm and employee immigration documents, while core systems remain secure.",
-      "url": "https://www.financialexpress.com/business/industry-persistent-systems-ltts-flag-cybersecurity-alerts-4392059/",
-      "date": "2026-11-23T15:16:47Z"
-    },
-    {
-      "title": "\u26a1 Weekly Recap: VMware 0-Day, Java4Shell, NGINX2Root, Ruby2Shell, and a Whole Lot of Shell Trouble",
-      "description": "[FEEDS] A stolen key. A trusted message. A routine update. None of these looks like the start of a major security problem. That's partly why they work. Attackers don't always need to break down a door. Sometimes they just use one that's already open. This...",
-      "url": "https://thehackernews.com/2026/11/weekly-recap-vmware-0-day-java4shell.html",
-      "date": "2026-11-23T15:10:48Z"
-    },
-    {
-      "title": "RBI Governor urges NBFCs, cooperative banks to focus on responsible lending, governance",
-      "description": "[CNBC TV18] RBI Governor met with representatives of NBFCs, HFCs, and UCBs in Mumbai to emphasize responsible credit growth, strong governance, and robust cybersecurity.",
-      "url": "https://www.cnbctv18.com/economy/rbi-governor-urges-nbfcs-cooperative-banks-to-focus-on-responsible-lending-governance-20040209.htm",
-      "date": "2026-11-23T15:05:45Z"
-    },
-    {
-      "title": "AI Agents Are Creating a Shared Responsibility Gap",
-      "description": "[BLEEPINGCOMPUTER] AI agents operate across multiple platforms, creating security gaps when no single vendor can see or control their actions. Token Security examines the shared responsibility problem and explains how organizations can better manage agent identities,...",
-      "url": "https://www.bleepingcomputer.com/news/security/ai-agents-are-creating-a-shared-responsibility-gap/",
-      "date": "2026-11-23T15:00:10Z"
-    },
-    {
-      "title": "Trump\u2019s new cyber chief sat on boards of firms founded by Israeli intelligence veterans",
-      "description": "[MIDDLE EAST MONITOR] Kirsten Davies, the Pentagon official whom US President Donald Trump has just put in charge of national cybersecurity policy, spent years on the boards of cybersecurity firms founded by former offi\u2026",
-      "url": "https://www.middleeastmonitor.com/20261123-trumps-new-cyber-chief-sat-on-boards-of-firms-founded-by-israeli-intelligence-veterans/",
-      "date": "2026-11-23T14:33:01Z"
-    },
-    {
-      "title": "RBI Governor meets UCB, NBFC and HFC heads in Mumbai; Stresses governance and cyber resilience",
-      "description": "[THE TRIBUNE] The Governor of the Reserve Bank of India (RBI) met with the Chairpersons, Managing Directors and Chief Executive Officers of select Urban Cooperative Banks (UCBs), Non-Banking Financial Companies (NBFCs), Housing Finance Companies (HFCs) and...",
-      "url": "https://www.tribuneindia.com/news/business/rbi-governor-meets-ucb-nbfc-and-hfc-heads-in-mumbai-stresses-governance-and-cyber-resilience/",
-      "date": "2026-11-23T14:32:38Z"
-    },
-    {
-      "title": "CrowdStrike to acquire Zscaler for $44bn, now moveing into a new league",
-      "description": "[MARKETSCREENER] US cybersecurity specialist CrowdStrike has announced the acquisition of Zscaler, the US software developer behind the Zscaler Zero Trust Exchange platform, in a deal valuing the company at...",
-      "url": "https://www.marketscreener.com/news/crowdstrike-to-acquire-zscaler-for-44bn-now-moveing-into-a-new-league-ce7851dadb8cf320",
-      "date": "2026-11-23T14:32:09Z"
-    },
-    {
-      "title": "RBI Governor meets UCB, NBFC and HFC heads in Mumbai; Stresses governance and cyber resilience",
-      "description": "[ANI (ASIAN NEWS INTERNATIONAL)] The Governor of the Reserve Bank of India (RBI) met with the Chairpersons, Managing Directors and Chief Executive Officers of select Urban Cooperative Banks (UCBs), Non-Banking Financial Companies (NBFCs), Housing Finance Companies (HFCs) and...",
-      "url": "https://www.aninews.in/news/business/rbi-governor-meets-ucb-nbfc-and-hfc-heads-in-mumbai-stresses-governance-and-cyber-resilience20261123200118/",
-      "date": "2026-11-23T14:31:18Z"
-    },
-    {
-      "title": "Binance Engages Mandiant, SlowMist and Verichains for Independent Third-Party Security Review",
-      "description": "[THE MANILA TIMES] **media[1321709]**ABU DHABI, UAE, Nov. 23, 2026 /PRNewswire/ -- Binance today announced it has engaged three leading independent cybersecurity firms - Mandiant, SlowMist and Verichains - to conduct comprehensive, independent reviews of its security...",
-      "url": "https://www.manilatimes.net/2026/11/23/tmt-newswire/pr-newswire/binance-engages-mandiant-slowmist-and-verichains-for-independent-third-party-security-review/2476420",
-      "date": "2026-11-23T14:30:26Z"
-    },
-    {
-      "title": "Why CrowdStrike (CRWD) stock falls today after $43.9 Billion Zscaler deal while ZS stock rallies",
-      "description": "[THE ECONOMIC TIMES] CrowdStrike (CRWD) and Zscaler (ZS) stock: CrowdStrike's acquisition of Zscaler aims to strengthen its position in the cybersecurity market, addressing growing AI-related security threats with an all-stock deal valued at $43.9 billion.",
-      "url": "https://economictimes.indiatimes.com/world/business/why-crowdstrike-crwd-stock-falls-today-after-43-9-billion-zscaler-deal-while-zs-stock-rallies/articleshow/136104731.cms",
-      "date": "2026-11-23T14:25:00Z"
-    },
-    {
-      "title": "Key1 Capital, founded by Former Goldman Sachs executives, raises $320M for second fund following two major exits",
-      "description": "[TECHSTARTUPS.COM] Key1 Capital, a technology investment firm founded by three former Goldman Sachs executives, has raised $320 million in the first close of its second fund, following two successful exits from its inaugural fund. The Tel Aviv-based firm is doubling...",
-      "url": "https://techstartups.com/2026/11/23/key1-capital-founded-by-former-goldman-sachs-executives-raises-320m-for-second-fund-following-two-major-exits/",
-      "date": "2026-11-23T14:18:50Z"
-    },
-    {
-      "title": "Binance Engages Mandiant, SlowMist and Verichains for Independent Third-Party Security Review",
-      "description": "[PR NEWSWIRE UK] /PRNewswire/ -- Binance today announced it has engaged three leading independent cybersecurity firms - Mandiant, SlowMist and Verichains - to conduct...",
-      "url": "https://www.prnewswire.co.uk/news-releases/binance-engages-mandiant-slowmist-and-verichains-for-independent-third-party-security-review-302948296.html",
-      "date": "2026-11-23T14:14:00Z"
-    },
-    {
-      "title": "Critical binary-parser Flaw Enables JavaScript Injection via Malicious Parser Definitions",
-      "description": "[FEEDS] A critical security flaw has been disclosed in the popular binary-parser library that could allow an attacker who controls parser definitions to execute arbitrary code. The vulnerability, tracked as CVE-2026-134814 (CVSS score: 9.2 / 8.1), is a case...",
-      "url": "https://thehackernews.com/2026/11/critical-binary-parser-flaw-enables.html",
-      "date": "2026-11-23T13:22:20Z"
-    },
-    {
-      "title": "Hackers Exploit Critical ScreenConnect Flaw to Hijack MSP Technician PCs Without Warning",
-      "description": "[FEEDS] Threat actors are exploiting a now-patched security flaw in ConnectWise ScreenConnect to target managed service provider (MSP) servers. The activity revolves around CVE-2026-84869 (CVSS score: 9.9), a critical ScreenConnect client flaw that allows a...",
-      "url": "https://thehackernews.com/2026/11/hackers-exploit-critical-screenconnect.html",
-      "date": "2026-11-23T12:41:04Z"
-    },
-    {
-      "title": "N-able Discloses Critical Mail Assure Vulnerability Found During Breach Investigation",
-      "description": "[FEEDS] N-able yesterday disclosed a critical flaw it found while investigating the breach of its Mail Assure and SpamExperts Hosted Cloud, an email filtering service it runs for managed service providers. The bug, tracked as CVE-2026-134624, is a...",
-      "url": "https://thehackernews.com/2026/11/n-able-discloses-critical-mail-assure.html",
-      "date": "2026-11-23T12:28:09Z"
-    },
-    {
       "title": "Humans Have Rights. Machines Do Not.",
       "description": "[SCHNEIER] This essay originally appeared in Tech Policy Press. Last year, Character.AI asked a federal court in Florida to dismiss a wrongful-death suit, brought by the mother of a fourteen-year-old boy who had killed himself after months of conversation with...",
       "url": "https://www.schneier.com/blog/archives/2026/11/humans-have-rights-machines-do-not.html",
@@ -150,12 +162,6 @@
       "description": "[CISA] CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-133968 Project MONAI MONAI Label Path Traversal Vulnerability &nbsp;CVE-2026-134624 N-able Mail Assure...",
       "url": "https://www.cisa.gov/news-events/alerts/2026/11/23/cisa-adds-two-known-exploited-vulnerabilities-catalog",
       "date": "2026-11-23T12:00:00Z"
-    },
-    {
-      "title": "Hackers Exploit Critical ASP.NET Anti-CSRF Library Flaw Allowing Unauthenticated RCE",
-      "description": "[FEEDS] Cybersecurity researchers have urged users to discontinue using a legacy ASP.NET anti-CSRF library named Idunno.AntiCsrf (\"Idunno.AntiCsrf.dll\") following the discovery of a critical vulnerability that has been exploited in the wild. The...",
-      "url": "https://thehackernews.com/2026/11/hackers-exploit-critical-aspnet-anti.html",
-      "date": "2026-11-23T09:11:56Z"
     },
     {
       "title": "ISC Stormcast For Monday, November 23rd, 2026 https://isc.sans.edu/podcastdetail/10190, (Mon, Nov 23rd)",
@@ -228,12 +234,6 @@
       "description": "[CISA] Purpose CISA strongly urges organizations to immediately patch the recently disclosed Oracle Java vulnerability CVE-2026-114938. This critical memory-corruption vulnerability, known as \u201cJava4Shell,\u201d affects the Base64 decoder of the x86-64 HotSpot...",
       "url": "https://www.cisa.gov/news-events/alerts/2026/11/17/critical-java-vulnerability-requires-immediate-patching",
       "date": "2026-11-17T12:00:00Z"
-    },
-    {
-      "title": "Usable Security at Luxury Hotels",
-      "description": "[SCHNEIER] Interesting case study from luxury hotels. Attackers used a fake booking request to gain access to a reservations inbox, where they copied genuine refund requests and got fraudulent ones approved. This is a good illustration why &#8220;just...",
-      "url": "https://www.schneier.com/blog/archives/2026/11/usable-security-at-luxury-hotels.html",
-      "date": "2026-11-16T12:04:42Z"
     },
     {
       "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
