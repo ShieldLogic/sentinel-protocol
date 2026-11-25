@@ -1,245 +1,137 @@
 {
-  "updated": "2026-11-25 10:41:27 UTC",
-  "news": [
-    {
-      "title": "Hackers now exploit critical Drupal RCE flaw to hijack sites",
-      "description": "[BLEEPINGCOMPUTER] The Drupal security team has confirmed that a critical vulnerability that lets attackers hijack unpatched sites has been actively exploited since at least Thursday. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-drupal-rce-flaw-to-hijack-sites/",
-      "date": "2026-11-25T10:10:20Z"
-    },
-    {
-      "title": "Hackers Exploited CVSS 10.0 Hex.pm RCE Flaw to Compromise 6 Package Registry Servers",
-      "description": "[FEEDS] An attacker ran operating system commands on Monday on six production servers of Hex.pm, the package registry that Elixir and Erlang developers fetch their dependencies from. The flaw used in the attack had been in the registry's code since February...",
-      "url": "https://thehackernews.com/2026/11/hackers-exploited-cvss-100-hexpm-rce.html",
-      "date": "2026-11-25T09:06:59Z"
-    },
-    {
-      "title": "Microsoft confirms authentication issues after November updates",
-      "description": "[BLEEPINGCOMPUTER] Microsoft has confirmed that customers may experience authentication issues after installing November security updates that address a high-severity remote code execution vulnerability. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-authentication-issues-after-november-updates/",
-      "date": "2026-11-25T09:02:57Z"
-    },
-    {
-      "title": "Hackers reportedly breached CIA intelligence analysis system",
-      "description": "[BLEEPINGCOMPUTER] Unknown attackers have reportedly breached an open-source intelligence analysis system at the US Central Intelligence Agency (CIA) [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-reportedly-breached-cia-intelligence-analysis-system/",
-      "date": "2026-11-25T07:45:03Z"
-    },
-    {
-      "title": "Hackers Compromise 24 Check Point Management Servers in Suspected AI-Driven Attack Campaign",
-      "description": "[FEEDS] An unknown threat actor has been using artificial intelligence (AI)-driven offensive tooling in a campaign targeting Check Point Security Management servers, impacting 22 distinct organizations across the world. The intrusion activity, tracked by...",
-      "url": "https://thehackernews.com/2026/11/hackers-compromise-24-check-point.html",
-      "date": "2026-11-25T06:50:19Z"
-    },
-    {
-      "title": "Com-Affiliated Hackers Hijack Cloud Accounts via Vishing for Data Theft and Extortion",
-      "description": "[FEEDS] Palo Alto Networks Unit 42 has disclosed that it's tracking and has responded to \"numerous waves of vishing attacks\" orchestrated by Com-affiliated threat actors since August 2026 that have led to data theft and extortion attempts. The attacks have...",
-      "url": "https://thehackernews.com/2026/11/com-affiliated-hackers-hijack-cloud.html",
-      "date": "2026-11-25T06:37:06Z"
-    },
-    {
-      "title": "WordPress Blocks Six Backdoored WP Connect Plugins Before Malicious Releases Go Live",
-      "description": "[FEEDS] WordPress has removed six WordPress plugins developed by WP Connect after they were backdoored on November 22, 2026, to enable arbitrary code execution on sites that have them installed, following a suspected compromise of the developer's account....",
-      "url": "https://thehackernews.com/2026/11/wordpress-blocks-six-backdoored-wp.html",
-      "date": "2026-11-25T06:21:12Z"
-    },
-    {
-      "title": "ISC Stormcast For Wednesday, November 25th, 2026 https://isc.sans.edu/podcastdetail/10194, (Wed, Nov 25th)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33554",
-      "date": "2026-11-25T02:00:03Z"
-    },
-    {
-      "title": "Amazon: Cairn AI autonomously exploited 0-day in university imaging app",
-      "description": "[NEWSBYTES] Amazon disclosed that an open-source AI agent autonomously exploited a zero-day vulnerability, breaching an East Asian university's server with minimal human intervention.",
-      "url": "https://www.newsbytesapp.com/news/science/amazon-cairn-ai-autonomously-exploited-0-day-in-university-imaging-app/tldr",
-      "date": "2026-11-24T22:29:20Z"
-    },
-    {
-      "title": "Amazon Says Open-Source AI Agent (Mostly) Autonomously Exploited a Zero-Day",
-      "description": "[GIZMODO] The hacker that never sleeps (because it is AI).",
-      "url": "https://gizmodo.com/amazon-says-open-source-ai-agent-mostly-autonomously-exploited-a-zero-day-2000844891",
-      "date": "2026-11-24T22:17:41Z"
-    },
-    {
-      "title": "We\u2019re Living in a Cybersecurity Nightmare. Proton VPN Can Help, and It\u2019s 75% Off",
-      "description": "[VICE] Proton VPN is one of the few trustworthy VPNs on the market. I should know. I tested it thoroughly when I reviewed it.",
-      "url": "https://www.vice.com/en/via/proton-vpn-protect-yourself-black-friday-deal/",
-      "date": "2026-11-24T22:11:53Z"
-    },
-    {
-      "title": "US CIA, ODNI suffer cybersecurity breach of some unclassified information, source says",
-      "description": "[DEVDISCOURSE] Read more about US CIA, ODNI suffer cybersecurity breach of some unclassified information, source says on Devdiscourse",
-      "url": "https://www.devdiscourse.com/article/international/4011674-us-cia-odni-suffer-cybersecurity-breach-of-some-unclassified-informationsource-says",
-      "date": "2026-11-24T21:58:41Z"
-    },
-    {
-      "title": "U.S. CIA, ODNI suffer cybersecurity breach of some unclassified information, NYT reports",
-      "description": "[THE HINDU] CIA and ODNI disclose breach exposing some unclassified data, with potential spillover across other agencies, per NYT.",
-      "url": "https://www.thehindu.com/news/international/us-cia-odni-suffer-cybersecurity-breach-of-some-unclassified-information-nyt-reports/article71740185.ece",
-      "date": "2026-11-24T21:42:44Z"
-    },
-    {
-      "title": "Rackspace shuts down Spot cloud platform after security breach",
-      "description": "[BLEEPINGCOMPUTER] Rackspace is shutting down its Rackspace Spot cloud platform after a security breach allowed hackers to access customer Kubernetes clusters and secrets, giving customers until December 8 to migrate their services and download their data. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/rackspace-shuts-down-spot-cloud-platform-after-security-breach/",
-      "date": "2026-11-24T21:37:30Z"
-    },
-    {
-      "title": "CIA Hacked in Cybersecurity Breach: Here\u2019s What Was Impacted",
-      "description": "[NEWSWEEK] A CIA system was reportedly compromised in a cyberattack, but officials said no classified information was affected.",
-      "url": "https://www.newsweek.com/cia-hacked-in-cybersecurity-breach-heres-what-was-impacted-12765090",
-      "date": "2026-11-24T21:18:32Z"
-    },
-    {
-      "title": "Unclassified CIA system \u200csuffered cybersecurity breach",
-      "description": "[PERTHNOW] An unclassified US \u200cCentral Intelligence Agency system was recently breached in a cyberattack, the New York Times and AP are reporting.",
-      "url": "https://www.perthnow.com.au/news/crime/unclassified-cia-system-suffered-cybersecurity-breach-c-23208692",
-      "date": "2026-11-24T20:55:21Z"
-    },
-    {
-      "title": "Unclassified CIA system \u200csuffered cybersecurity breach",
-      "description": "[THE CANBERRA TIMES] An unclassified US \u200cCentral Intelligence Agency system was recently breached in a cyberattack, the New York Times and...",
-      "url": "https://www.canberratimes.com.au/story/9397734/unclassified-cia-system-suffered-cybersecurity-breach/",
-      "date": "2026-11-24T20:54:22Z"
-    },
-    {
-      "title": "Cybersecurity breach at CIA and Office of the Director of National Intelligence - Reports",
-      "description": "[FOX 4 NEWS] The Central \u200cIntelligence Agency (CIA) and the Office of the Director of National Intelligence (ODNI) both suffered a cybersecurity breach, according to reports.",
-      "url": "https://www.fox4news.com/news/cybersecurity-breach-cia-office-director-national-intelligence",
-      "date": "2026-11-24T20:48:24Z"
-    },
-    {
-      "title": "US intelligence agencies CIA and ODNI hit by cybersecurity breach, unclassified data exposed: Report",
-      "description": "[HINDUSTAN TIMES] The breach reportedly targeted a network used to identify intelligence insights from publicly available, unclassified information.",
-      "url": "https://www.hindustantimes.com/world-news/us-news/us-intelligence-agencies-cia-and-odni-hit-by-cybersecurity-breach-unclassified-data-exposed-report-101795549890380.html",
-      "date": "2026-11-24T20:48:24Z"
-    },
-    {
-      "title": "New Inception extortion gang launches large-scale vishing campaign",
-      "description": "[BLEEPINGCOMPUTER] A newly formed data extortion group named 'Inception' has been linked to a large-scale campaign that targets single sign-on (SSO) credentials of multiple global brands and firms. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/new-inception-extortion-gang-launches-large-scale-vishing-campaign/",
-      "date": "2026-11-24T20:21:20Z"
-    },
-    {
-      "title": "Turnitin discloses cyberattack affecting customer-facing systems",
-      "description": "[BLEEPINGCOMPUTER] Turnitin disclosed via a statement from its CEO, Chris Caren, that it recently detected unauthorized activity involving certain customer-facing systems. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/turnitin-discloses-cyberattack-affecting-customer-facing-systems/",
-      "date": "2026-11-24T18:59:52Z"
-    },
-    {
-      "title": "Iran-Aligned Volant Manticore Uses IPFS-Based KuboShell Backdoor in Espionage Campaigns",
-      "description": "[FEEDS] A previously undocumented Iran-aligned cyber espionage group called Volant Manticore has targeted telecommunications companies, airlines, and critical infrastructure in Cyprus. Central to the group's operations is a backdoor called KuboShell that...",
-      "url": "https://thehackernews.com/2026/11/iran-aligned-volant-manticore-uses-ipfs.html",
-      "date": "2026-11-24T16:54:07Z"
-    },
-    {
-      "title": "VMware vCenter Hit by Another Critical 9.8-Rated Auth Bypass Flaw After Zero-Day Exploitation",
-      "description": "[FEEDS] Broadcom has shipped patches to address 23 vulnerabilities impacting VMware ESX, vCenter, Workstation, Fusion, and Avi Load Balancer, including one critical bug that could be abused to bypass authentication. The critical vulnerability, tracked as...",
-      "url": "https://thehackernews.com/2026/11/vmware-vcenter-hit-by-another-critical.html",
-      "date": "2026-11-24T13:28:26Z"
-    },
-    {
-      "title": "We Get the Infrastructure We Pay For",
-      "description": "[SCHNEIER] This essay originally appeared as part of a round table in The Free Press entitled &#8220;Is America\u2019s Infrastructure Under Attack?&#8221; Microsoft, the FAA, banks, United Airlines, the NSA&#8212;it&#8217;s been a really bad week in cyberspace....",
-      "url": "https://www.schneier.com/blog/archives/2026/11/we-get-the-infrastructure-we-pay-for.html",
-      "date": "2026-11-24T12:06:50Z"
-    },
-    {
-      "title": "CISA Adds Three Known Exploited Vulnerabilities to Catalog",
-      "description": "[CISA] CISA has added three new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-131914 Idunno AntiCsrf Deserialization of Untrusted Data Vulnerability&nbsp; CVE-2026-132165 Drupal...",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/11/24/cisa-adds-three-known-exploited-vulnerabilities-catalog",
-      "date": "2026-11-24T12:00:00Z"
-    },
-    {
-      "title": "Scanning from Subnet 109.160.32.0/24, (Mon, Nov 23rd)",
-      "description": "[ISC] This subnet is assigned to a web hosting and virtual private server (VPS) provider BANATSYNC SRL with AS198364, located in Timisoara, Romania. This graph shows the DShield sensor activity over the past 90 days for this subnet and it is still ongoing...",
-      "url": "https://isc.sans.edu/diary/rss/33550",
-      "date": "2026-11-24T02:32:00Z"
-    },
-    {
-      "title": "ISC Stormcast For Tuesday, November 24th, 2026 https://isc.sans.edu/podcastdetail/10192, (Tue, Nov 24th)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33552",
-      "date": "2026-11-24T02:00:04Z"
-    },
-    {
-      "title": "Humans Have Rights. Machines Do Not.",
-      "description": "[SCHNEIER] This essay originally appeared in Tech Policy Press. Last year, Character.AI asked a federal court in Florida to dismiss a wrongful-death suit, brought by the mother of a fourteen-year-old boy who had killed himself after months of conversation with...",
-      "url": "https://www.schneier.com/blog/archives/2026/11/humans-have-rights-machines-do-not.html",
-      "date": "2026-11-23T12:00:54Z"
-    },
-    {
-      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
-      "description": "[CISA] CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-133968 Project MONAI MONAI Label Path Traversal Vulnerability &nbsp;CVE-2026-134624 N-able Mail Assure...",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/11/23/cisa-adds-two-known-exploited-vulnerabilities-catalog",
-      "date": "2026-11-23T12:00:00Z"
-    },
-    {
-      "title": "ISC Stormcast For Monday, November 23rd, 2026 https://isc.sans.edu/podcastdetail/10190, (Mon, Nov 23rd)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33548",
-      "date": "2026-11-23T02:00:04Z"
-    },
-    {
-      "title": "A brief history of syslog timestamps, (Sun, Nov 22nd)",
-      "description": "[ISC] BLUF: Debian and Ubuntu dropped a config directive in the rsyslogd package in early 2023.&#xd;",
-      "url": "https://isc.sans.edu/diary/rss/33530",
-      "date": "2026-11-22T18:40:18Z"
-    },
-    {
-      "title": "Friday Squid Blogging: The Largest Squid Ever Filmed",
-      "description": "[SCHNEIER] This is the story of the largest squid ever filmed, in December 2006 near Japan&#8217;s Ogasawara Islands. As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered. Blog moderation policy.",
-      "url": "https://www.schneier.com/blog/archives/2026/11/friday-squid-blogging-the-largest-squid-ever-filmed.html",
-      "date": "2026-11-20T22:04:12Z"
-    },
-    {
-      "title": "Opening a 400-Year-Old Cryptex",
-      "description": "[SCHNEIER] Researchers used CT scanning technology to recover the code and open a 400-year-old cryptex padlock. You can buy a USB-drive cryptex.",
-      "url": "https://www.schneier.com/blog/archives/2026/11/opening-a-400-year-old-cryptex.html",
-      "date": "2026-11-20T12:04:46Z"
-    },
-    {
-      "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
-      "description": "[CISA] CISA has added four new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-42884 SAP NetWeaver Improper Neutralization of Special Elements in Data Query Logic Vulnerability...",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/11/20/cisa-adds-four-known-exploited-vulnerabilities-catalog",
-      "date": "2026-11-20T12:00:00Z"
-    },
-    {
-      "title": "ISC Stormcast For Friday, November 20th, 2026 https://isc.sans.edu/podcastdetail/10188, (Fri, Nov 20th)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33538",
-      "date": "2026-11-20T02:00:02Z"
-    },
-    {
-      "title": "France Is Blaming Iran for the Fridge Cyberattack",
-      "description": "[SCHNEIER] Interesting: U.S. intelligence agencies have recently reached a &#8220;low confidence&#8221; assessment that Iran was responsible for the attacks in France, according to three U.S. officials who spoke on the condition of anonymity to discuss...",
-      "url": "https://www.schneier.com/blog/archives/2026/11/france-is-blaming-iran-for-the-fridge-cyberattack.html",
-      "date": "2026-11-18T12:05:35Z"
-    },
-    {
-      "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
-      "description": "[CISA] CISA has added four new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation.&nbsp; CVE-2024-10441 Synology DiskStation Manager (DSM) Improper Encoding or Escaping of Output Vulnerability...",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/11/18/cisa-adds-four-known-exploited-vulnerabilities-catalog",
-      "date": "2026-11-18T12:00:00Z"
-    },
-    {
-      "title": "Formal Verification of the Signal Protocol Using AI",
-      "description": "[SCHNEIER] This seems like a good thing: Google Deepmind researchers used agentic AI to mathematically prove, or \u201cformally verify,\u201d a number of the Signal protocol\u2019s key cryptographic guarantees\u00ada landmark development for the widely used cryptography and AI...",
-      "url": "https://www.schneier.com/blog/archives/2026/11/formal-verification-of-the-signal-protocol-using-ai.html",
-      "date": "2026-11-17T12:05:43Z"
-    },
-    {
-      "title": "Critical Java Vulnerability Requires Immediate Patching",
-      "description": "[CISA] Purpose CISA strongly urges organizations to immediately patch the recently disclosed Oracle Java vulnerability CVE-2026-114938. This critical memory-corruption vulnerability, known as \u201cJava4Shell,\u201d affects the Base64 decoder of the x86-64 HotSpot...",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/11/17/critical-java-vulnerability-requires-immediate-patching",
-      "date": "2026-11-17T12:00:00Z"
-    },
-    {
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "description": "[CISA] CISA has added one new vulnerability to its&nbsp;Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-115731 Perforce Puppet Enterprise Deserialization of Untrusted Data Vulnerability This type of...",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/11/17/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "date": "2026-11-17T12:00:00Z"
-    }
-  ]
+    "title": "Sentinel Protocol",
+    "tagline": "Perimeter Intelligence Sync",
+    "updated": "2026-11-25 20:20 UTC",
+    "news": [
+        {
+            "source": {
+                "id": null,
+                "name": "Digital Journal"
+            },
+            "author": "Dr Tim Sandle",
+            "title": "Scammers love a data breach headline. Here\u2019s how they use it",
+            "description": "The disclosure of a serious cybersecurity vulnerability usually triggers a familiar sequence: security researchers publish their findings, organisations scramble to establish their exposure, patches are issued and headlines warn of the possible consequences. \u2026",
+            "url": "https://www.digitaljournal.com/article/scammers-love-a-data-breach-headline-heres-how-they-use-it/",
+            "urlToImage": "https://www.digitaljournal.com/wp-content/uploads/2025/01/209e57755d4e07b3d84e9144b0e6a22a48dee19a.jpg",
+            "publishedAt": "2026-11-24T20:14:05Z",
+            "content": "The disclosure of a serious cybersecurity vulnerability usually triggers a familiar sequence: security researchers publish their findings, organisations scramble to establish their exposure, patches \u2026 [+7117 chars]"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "Poulomi Ghosh",
+            "title": "Meet Yash Patil, Indian-origin entrepreneur who took leave from Stanford to work with OpenAI, founded his own startup and then sold it for $4.5 billion",
+            "description": "Meet Yash Patil, Indian-origin entrepreneur who took leave from Stanford to work with OpenAI, founded his own startup and then sold it for $4.5 billion",
+            "url": "https://timesofindia.indiatimes.com/world/us/meet-yash-patil-indian-origin-entrepreneur-who-took-leave-from-stanford-to-work-with-open-ai-started-his-own-startup-and-then-sold-it-for-4-5-billion/articleshow/136141678.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-136141681/136141681.jpg",
+            "publishedAt": "2026-11-24T20:14:03Z",
+            "content": "A 23-year-old Indian-origin entrepreneur who left Stanford University, joined OpenAI and later founded an artificial intelligence startup has struck a $4.5-billion acquisition deal barely 18 months a\u2026 [+4219 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Freerepublic.com"
+            },
+            "author": "100% Fed Up",
+            "title": "BREAKING: Microsoft Just Declared a \u201cCode Red\u201d \u2014 Here\u2019s Exactly What That Means to You.",
+            "description": "Microsoft has declared an internal \u201cCode Red\u201d after the historic Microsoft 365 outage that knocked out email and other critical services around the world earlier this month. The declaration does not mean your computer was hacked, and Microsoft has given custo\u2026",
+            "url": "https://freerepublic.com/focus/f-chat/4404185/posts",
+            "urlToImage": null,
+            "publishedAt": "2026-11-24T20:07:50Z",
+            "content": "Skip to comments.\r\nBREAKING: Microsoft Just Declared a Code Red Heres Exactly What That Means to You.\r\n100% Fed Up ^\r\n | November 24, 2026\r\n | Jack\r\nPosted on 11/24/2026 12:07:50 PM PST by Red Badger\u2026 [+7652 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "HackRead"
+            },
+            "author": "Owais Sultan",
+            "title": "Free vs. Paid Security Tools: Where Free Options Fall Short",
+            "description": "Compare free and paid cybersecurity tools for small businesses with a look at where free options fall short on monitoring, investigation and response.",
+            "url": "https://hackread.com/free-vs-paid-security-tools-free-options-fall-short/",
+            "urlToImage": "https://hackread.com/wp-content/uploads/2026/11/free-vs-paid-security-tools-free-options-fall-short.jpg",
+            "publishedAt": "2026-11-24T20:05:05Z",
+            "content": "Many free security tools offer solid protection, helping companies detect and block threats and keep daily operations secure. For small businesses, startups, and independent companies with limited IT\u2026 [+5764 chars]"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "TNN",
+            "title": "Bahraich researcher wins energy award at US supercomputing meet",
+            "description": "Bahraich researcher Samarendra Rai wins Readers\u2019 Choice \u201cBest Use of Energy\u201d award at Supercomputing Conference 2026 in Chicago for HPC and AI work.",
+            "url": "https://timesofindia.indiatimes.com/city/lucknow/bahraich-researcher-wins-energy-award-at-us-supercomputing-meet/articleshow/136141670.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/resizemode-72,width-1280,height-720,msid-136141669/136141669.jpg",
+            "publishedAt": "2026-11-24T20:01:40Z",
+            "content": "Follow Us On Social Media\r\nA year after KKR release, Mustafizur Rahman missing from IPL auction list as 11 Bangladesh players registerDetroit Lions owner Martha Firestone Ford dies at 101; Inside her\u2026 [+2184 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Biztoc.com"
+            },
+            "author": null,
+            "title": "Cyber breach said to expose unclassified CIA docs",
+            "description": "The United States Central Intelligence Agency (CIA) and the Office of the Director of National Intelligence uncovered a cybersecurity breach of their unclassified documents, sources told The New York ...",
+            "url": "https://biztoc.com/x/7b7fca1660b61f97",
+            "urlToImage": "https://cdn.biztoc.com/7b7fca1660b61f97_s.webp",
+            "publishedAt": "2026-11-24T19:54:09Z",
+            "content": "The United States Central Intelligence Agency (CIA) and the Office of the Director of National Intelligence uncovered a cybersecurity breach of their unclassified documents, sources told The New York\u2026 [+69 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news-au",
+                "name": "ABC News (AU)"
+            },
+            "author": "Jessica Ross, Sabrina Guse",
+            "title": "Permit data breach causes 4WD 'free-for-all' on turtle nesting beach",
+            "description": "The National Parks booking system is down, sparking a surge in 4WDs at a Queensland beach that is also a critical nesting site.",
+            "url": "https://www.abc.net.au/news/2026-11-25/4wd-ban-plea-as-turtle-season-starts/107403252",
+            "urlToImage": "https://live-production.wcms.abc-cdn.net.au/f8284a3433aeac09a9903f89becceb61?impolicy=wcms_crop_resize&cropH=761&cropW=1353&xPos=2&yPos=0&width=862&height=485",
+            "publishedAt": "2026-11-24T19:54:02Z",
+            "content": "The Queensland government has been accused of ignoring its own advice by not implementing four-wheel-drive vehicle restrictions on Bribie Island during the turtle nesting season.\r\nIt comes after the \u2026 [+4074 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNA"
+            },
+            "author": null,
+            "title": "US CIA, ODNI suffer cybersecurity breach of some unclassified information,\u00a0source says",
+            "description": "WASHINGTON, Nov 24 : The US Central Intelligence Agency and the Office of the Director of National Intelligence recently discovered a cybersecurity breach that exposed some of their unclassified information, according to a person familiar with the matter.The \u2026",
+            "url": "https://www.channelnewsasia.com/business/us-cia-odni-suffer-cybersecurity-breach-some-unclassified-information-source-says-6579426",
+            "urlToImage": "https://dam.mediacorp.sg/image/upload/s--O3MhPch4--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-11-24T194557Z_1_LYNXNPEMAN1T6_RTROPTP_3_USA-IRAN-CIA.JPG?itok=RQZYRQqp",
+            "publishedAt": "2026-11-24T19:45:57Z",
+            "content": "WASHINGTON, Nov 24 : The US Central Intelligence Agency and the Office of the Director of National Intelligence recently discovered a cybersecurity breach that exposed some of their unclassified info\u2026 [+917 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNA"
+            },
+            "author": null,
+            "title": "US CIA, ODNI suffer cybersecurity breach of some unclassified information, NYT reports",
+            "description": "WASHINGTON, Nov 24 : The US Central Intelligence Agency and the Office of the Director of National Intelligence recently discovered a cybersecurity breach that exposed some of their unclassified information, the New York Times reported on Tuesday, citing peop\u2026",
+            "url": "https://www.channelnewsasia.com/business/us-cia-odni-suffer-cybersecurity-breach-some-unclassified-information-nyt-reports-6579426",
+            "urlToImage": "https://dam.mediacorp.sg/image/upload/s--O3MhPch4--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-11-24T194557Z_1_LYNXNPEMAN1T6_RTROPTP_3_USA-IRAN-CIA.JPG?itok=RQZYRQqp",
+            "publishedAt": "2026-11-24T19:45:57Z",
+            "content": "WASHINGTON, Nov 24 : The US Central Intelligence Agency and the Office of the Director of National Intelligence recently discovered a cybersecurity breach that exposed some of their unclassified info\u2026 [+742 chars]"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "TNN",
+            "title": "Class 6 girl dragged into park, molested in Jankipuram",
+            "description": "Lucknow Jankipuram: Police file FIR after Class 6 girl alleges she was dragged into a park, assaulted and molested; case under BNS 74 and POCSO Act.",
+            "url": "https://timesofindia.indiatimes.com/city/lucknow/class-6-girl-dragged-into-park-molested-in-jankipuram/articleshow/136141562.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/resizemode-72,width-1280,height-720,msid-47529300/47529300.jpg",
+            "publishedAt": "2026-11-24T19:43:53Z",
+            "content": "Follow Us On Social Media\r\nA year after KKR release, Mustafizur Rahman missing from IPL auction list as 11 Bangladesh players registerDetroit Lions owner Martha Firestone Ford dies at 101; Inside her\u2026 [+2184 chars]"
+        }
+    ]
 }
