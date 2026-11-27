@@ -1,245 +1,137 @@
 {
-  "updated": "2026-11-27 15:50:19 UTC",
-  "news": [
-    {
-      "title": "US Air Force cloud platform reportedly hacked in latest federal breach",
-      "description": "[BLEEPINGCOMPUTER] Hackers have reportedly breached the US Air Force's Cloud One computing platform, adding to a recent wave of cyberattacks affecting US government agencies, including the FBI, CIA, and Treasury Department. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/us-air-force-cloud-platform-reportedly-hacked-in-latest-federal-breach/",
-      "date": "2026-11-27T15:09:40Z"
-    },
-    {
-      "title": "Your Firewall Isn't Enough: The Hidden Risk of Unmanaged VMs",
-      "description": "[BLEEPINGCOMPUTER] Forgotten virtual machines, unpatched servers, and excessive access permissions can create security blind spots across IT infrastructure. ISPsystem explains how centralized infrastructure management, access controls, and resource lifecycle...",
-      "url": "https://www.bleepingcomputer.com/news/security/your-firewall-isnt-enough-the-hidden-risk-of-unmanaged-vms/",
-      "date": "2026-11-27T15:00:10Z"
-    },
-    {
-      "title": "Malwarebytes Antivirus: Get 50% off during Black Friday 2026",
-      "description": "[BLEEPINGCOMPUTER] Malwarebytes' 2026 Black Friday and Cyber Monday sale is now live, offering 50% off security subscriptions for individuals, families, and small businesses, including its antivirus software, VPN, identity theft protection, and personal data removal...",
-      "url": "https://www.bleepingcomputer.com/news/security/malwarebytes-antivirus-get-50-percent-off-during-black-friday-2026/",
-      "date": "2026-11-27T14:22:06Z"
-    },
-    {
-      "title": "Recent Outages Have Economic Causes",
-      "description": "[SCHNEIER] This essay originally appeared in The Guardian. It&#8217;s an expanded version of the one I posted as &#8220;We Get the Infrastructure We Pay For.&#8221; It&#8217;s been a bad week for our computerized infrastructure. We&#8217;ve seen outages at...",
-      "url": "https://www.schneier.com/blog/archives/2026/11/recent-outages-have-economic-causes.html",
-      "date": "2026-11-27T12:02:23Z"
-    },
-    {
-      "title": "Microsoft Store App Found Delivering Vinci RAT Capable of Remote System Control",
-      "description": "[FEEDS] Cybersecurity researchers have disclosed details of a cyber attack in which a threat actor leveraged a Microsoft Store application to deliver a remote access trojan (RAT) called Vinci RAT. The intrusion, according to eSentire, begins with a...",
-      "url": "https://thehackernews.com/2026/11/microsoft-store-app-found-delivering.html",
-      "date": "2026-11-27T11:49:34Z"
-    },
-    {
-      "title": "Microsoft removes WSUS server role in Windows Server 2028",
-      "description": "[BLEEPINGCOMPUTER] Microsoft will remove the WSUS server role from Windows Server 2028, the next major release of its server operating system. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-removes-wsus-server-role-in-windows-server-2028/",
-      "date": "2026-11-27T11:18:36Z"
-    },
-    {
-      "title": "How to Keep Your Security Picture Current When Attackers Move at AI Speed",
-      "description": "[FEEDS] Most security metrics are not built to be used. They are built to be shown. Somewhere between the quarterly review and the next status update, a set of numbers gets assembled that looks reassuring in a room and tells almost no one what is actually...",
-      "url": "https://thehackernews.com/2026/11/how-to-keep-your-security-picture.html",
-      "date": "2026-11-27T10:32:18Z"
-    },
-    {
-      "title": "Drupal warns of new site takeover flaw exploited in attacks",
-      "description": "[BLEEPINGCOMPUTER] The Drupal security team says attackers are exploiting a second critical vulnerability that lets them breach and hijack unpatched websites. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/drupal-warns-of-new-access-bypass-flaw-exploited-in-attacks/",
-      "date": "2026-11-27T10:10:15Z"
-    },
-    {
-      "title": "SAP confirms security incident after suspicious GitHub activity",
-      "description": "[BLEEPINGCOMPUTER] SAP has confirmed to BleepingComputer that it took urgent action to protect its customers after detecting suspicious activity in its IT environment. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/sap-confirms-security-incident-after-suspicious-github-activity/",
-      "date": "2026-11-27T09:56:36Z"
-    },
-    {
-      "title": "Hackers Trojanize Official Q-Dir and DesktopOK Downloads to Deliver Remote Access Malware",
-      "description": "[FEEDS] Cybersecurity researchers have disclosed details of a software supply chain attack that has tampered with Q-Dir and DesktopOK installation files distributed via the official SoftwareOK website. \"Evidence indicates that malicious files were generated...",
-      "url": "https://thehackernews.com/2026/11/hackers-trojanize-official-q-dir-and.html",
-      "date": "2026-11-27T09:29:30Z"
-    },
-    {
-      "title": "Switzerland Confirms AI-Assisted Cyberattacks Breached Critical Infrastructure Operators",
-      "description": "[FEEDS] Attackers using AI agents have broken into computer systems at Swiss organizations in four of five confirmed attacks, the first such cases in the country, the country's cybersecurity agency said yesterday. Three of the attacks targeted critical...",
-      "url": "https://thehackernews.com/2026/11/switzerland-confirms-ai-assisted.html",
-      "date": "2026-11-27T06:04:20Z"
-    },
-    {
-      "title": "Unpatched Cacti Zero-Day Enables RCE in Just Four HTTP Requests via Guest Access",
-      "description": "[FEEDS] Details have emerged about a new zero-day vulnerability in Cacti, an open-source network monitoring tool, that could be exploited to achieve remote code execution. The proof-of-concept (PoC) exploit, which has yet to be assigned a CVE identifier,...",
-      "url": "https://thehackernews.com/2026/11/unpatched-cacti-zero-day-enables-rce-in.html",
-      "date": "2026-11-27T05:48:20Z"
-    },
-    {
-      "title": "AI could bring intelligence costs close to zero in 2",
-      "description": "[CNBC TV18] Speaking about the impact of AI on cybersecurity, Arora linked recent technology outages to a surge in efforts to patch vulnerabilities exposed by Anthropic's Mythos model. He said patching activity had increased five to seven times above normal...",
-      "url": "https://www.cnbctv18.com/technology/ai-could-bring-intelligence-costs-close-to-zero-in-2-3-years-says-palo-alto-networks-ceo-nikesh-arora-20042460.htm",
-      "date": "2026-11-27T03:29:14Z"
-    },
-    {
-      "title": "Bank of Japan calls on policy makers to create \u2018anchor of trust\u2019 amid cybersecurity risks",
-      "description": "[THE NEWS INTERNATIONAL] Bank of Japan Executive Director Kazushige Kamiyama has just stepped forward to challenge the status quo and has even begun urging policymakers to strengthen defences against the rising fears...",
-      "url": "https://www.thenews.com.pk/latest/1425338-bank-of-japan-calls-on-policy-makers-to-create-anchor-of-trust-amid-cybersecurity-risks",
-      "date": "2026-11-27T03:20:00Z"
-    },
-    {
-      "title": "1Password hacked: Customer names, email addresses exposed in data breach",
-      "description": "[THE INDIAN EXPRESS] The data downloaded by the threat actor did not include vaults, keys used to protect customer vaults, account recovery keys, and 1Password apps and browser extensions.",
-      "url": "https://indianexpress.com/article/technology/tech-news-technology/1password-hacked-customer-names-email-data-breach-10980497/",
-      "date": "2026-11-27T03:19:47Z"
-    },
-    {
-      "title": "Japan central bank warns on digital money and AI risks",
-      "description": "[THE STRAITS TIMES] Bank of Japan official urges safeguards against digital money, tokenisation and AI cybersecurity risks. Read more at straitstimes.com.",
-      "url": "https://www.straitstimes.com/business/japan-central-bank-calls-for-safeguards-against-digital-money-ai-risks",
-      "date": "2026-11-27T02:50:00Z"
-    },
-    {
-      "title": "BOJ calls for safeguards against digital money, AI risks",
-      "description": "[THE STAR] TOKYO, \u2060Nov 27 (Reuters) - Global policymakers must strengthen defences \u2060against financial stability and cybersecurity risks posed \u200cby the emergence of new forms of digital money and financial infrastructure, Bank of Japan Executive Director...",
-      "url": "https://www.thestar.com.my/tech/tech-news/2026/11/27/boj-calls-for-safeguards-against-digital-money-ai-risks",
-      "date": "2026-11-27T02:07:00Z"
-    },
-    {
-      "title": "Global news agency AFP reports cyberattack, shuts down content platform",
-      "description": "[AL JAZEERA] France\u2019s cybersecurity chief urges collective action to combat unprecedented threat levels in the nation.",
-      "url": "https://www.aljazeera.com/news/2026/11/27/global-news-agency-afp-reports-cyberattack-shuts-down-content-platform",
-      "date": "2026-11-27T01:07:44Z"
-    },
-    {
-      "title": "Standard Chartered's Crypto Unit Zodia Reports Data Breach",
-      "description": "[MARKETSCREENER] Zodia Custody, Standard Chartered's cryptocurrency custody unit, experienced a cyber incident earlier this week that leaked data, including names and email addresses, of some clients and employees,...",
-      "url": "https://www.marketscreener.com/news/standard-chartered-s-crypto-unit-zodia-reports-data-breach-ce7851d9d881f523",
-      "date": "2026-11-27T00:39:20Z"
-    },
-    {
-      "title": "Flight Centre investigates booking provider data breach",
-      "description": "[THE CANBERRA TIMES] Limited passport details may have been exposed. Flight Centre will contact affected customers and says existing accommodation bookings can go ahead.",
-      "url": "https://www.canberratimes.com.au/story/9399222/flight-centre-investigates-booking-provider-data-breach/",
-      "date": "2026-11-26T22:04:00Z"
-    },
-    {
-      "title": "Standard Chartered's Crypto Unit Suffers Data Breach Just Weeks After Bank Agreed To Take Full Ownership",
-      "description": "[INTERNATIONAL BUSINESS TIMES] The cryptocurrency custodian temporarily disabled software connecting institutional customers to its platform and notified regulators following the security incident.",
-      "url": "https://www.ibtimes.com/standard-chartered-zodia-crypto-data-breach-3810243",
-      "date": "2026-11-26T21:30:39Z"
-    },
-    {
-      "title": "Toronto cybersecurity firm 1Password says hacker stole customer names, e-mail addresses",
-      "description": "[THE GLOBE AND MAIL] Company says customer password information was not accessed in attack",
-      "url": "https://www.theglobeandmail.com/business/technology/article-toronto-cybersecurity-firm-1password-says-hacker-stole-customer-names/",
-      "date": "2026-11-26T20:04:39Z"
-    },
-    {
-      "title": "ThreatsDay: 10M NGINX Services at Risk, 250+ Malicious Extensions, AI Server Hijacking + 17 More Stories",
-      "description": "[FEEDS] A website can look perfectly fine to the person running it. Log out, visit the same page, and things might look different. Something similar is happening with browser extensions, where even the way you find and install one can change what it does....",
-      "url": "https://thehackernews.com/2026/11/threatsday-250-rogue-extensions-10m.html",
-      "date": "2026-11-26T19:39:57Z"
-    },
-    {
-      "title": "Tracking Incidents of Hacking Using AI Tools",
-      "description": "[SCHNEIER] Daniel Meissler is tracking incidents of AI-enhanced hacking, and the offensive harnesses the hackers are using.",
-      "url": "https://www.schneier.com/blog/archives/2026/11/tracking-incidents-of-hacking-using-ai-tools.html",
-      "date": "2026-11-25T12:07:21Z"
-    },
-    {
-      "title": "CISA Adds 10 Known Exploited Vulnerabilities to Catalog",
-      "description": "[CISA] CISA has added 10 new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2023-25914 Danfoss AK-SM 800A Series Path Traversal Vulnerability CVE-2023-25915 Danfoss AK-SM 800A Series...",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/11/25/cisa-adds-10-known-exploited-vulnerabilities-catalog",
-      "date": "2026-11-25T12:00:00Z"
-    },
-    {
-      "title": "ISC Stormcast For Wednesday, November 25th, 2026 https://isc.sans.edu/podcastdetail/10194, (Wed, Nov 25th)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33554",
-      "date": "2026-11-25T02:00:03Z"
-    },
-    {
-      "title": "We Get the Infrastructure We Pay For",
-      "description": "[SCHNEIER] This essay originally appeared as part of a round table in The Free Press entitled &#8220;Is America\u2019s Infrastructure Under Attack?&#8221; Microsoft, the FAA, banks, United Airlines, the NSA&#8212;it&#8217;s been a really bad week in cyberspace....",
-      "url": "https://www.schneier.com/blog/archives/2026/11/we-get-the-infrastructure-we-pay-for.html",
-      "date": "2026-11-24T12:06:50Z"
-    },
-    {
-      "title": "CISA Adds Three Known Exploited Vulnerabilities to Catalog",
-      "description": "[CISA] CISA has added three new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-131914 Idunno AntiCsrf Deserialization of Untrusted Data Vulnerability&nbsp; CVE-2026-132165 Drupal...",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/11/24/cisa-adds-three-known-exploited-vulnerabilities-catalog",
-      "date": "2026-11-24T12:00:00Z"
-    },
-    {
-      "title": "Scanning from Subnet 109.160.32.0/24, (Mon, Nov 23rd)",
-      "description": "[ISC] This subnet is assigned to a web hosting and virtual private server (VPS) provider BANATSYNC SRL with AS198364, located in Timisoara, Romania. This graph shows the DShield sensor activity over the past 90 days for this subnet and it is still ongoing...",
-      "url": "https://isc.sans.edu/diary/rss/33550",
-      "date": "2026-11-24T02:32:00Z"
-    },
-    {
-      "title": "ISC Stormcast For Tuesday, November 24th, 2026 https://isc.sans.edu/podcastdetail/10192, (Tue, Nov 24th)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33552",
-      "date": "2026-11-24T02:00:04Z"
-    },
-    {
-      "title": "Humans Have Rights. Machines Do Not.",
-      "description": "[SCHNEIER] This essay originally appeared in Tech Policy Press. Last year, Character.AI asked a federal court in Florida to dismiss a wrongful-death suit, brought by the mother of a fourteen-year-old boy who had killed himself after months of conversation with...",
-      "url": "https://www.schneier.com/blog/archives/2026/11/humans-have-rights-machines-do-not.html",
-      "date": "2026-11-23T12:00:54Z"
-    },
-    {
-      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
-      "description": "[CISA] CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-133968 Project MONAI MONAI Label Path Traversal Vulnerability &nbsp;CVE-2026-134624 N-able Mail Assure...",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/11/23/cisa-adds-two-known-exploited-vulnerabilities-catalog",
-      "date": "2026-11-23T12:00:00Z"
-    },
-    {
-      "title": "ISC Stormcast For Monday, November 23rd, 2026 https://isc.sans.edu/podcastdetail/10190, (Mon, Nov 23rd)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33548",
-      "date": "2026-11-23T02:00:04Z"
-    },
-    {
-      "title": "A brief history of syslog timestamps, (Sun, Nov 22nd)",
-      "description": "[ISC] BLUF: Debian and Ubuntu dropped a config directive in the rsyslogd package in early 2023.&#xd;",
-      "url": "https://isc.sans.edu/diary/rss/33530",
-      "date": "2026-11-22T18:40:18Z"
-    },
-    {
-      "title": "Friday Squid Blogging: The Largest Squid Ever Filmed",
-      "description": "[SCHNEIER] This is the story of the largest squid ever filmed, in December 2006 near Japan&#8217;s Ogasawara Islands. As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered. Blog moderation policy.",
-      "url": "https://www.schneier.com/blog/archives/2026/11/friday-squid-blogging-the-largest-squid-ever-filmed.html",
-      "date": "2026-11-20T22:04:12Z"
-    },
-    {
-      "title": "Opening a 400-Year-Old Cryptex",
-      "description": "[SCHNEIER] Researchers used CT scanning technology to recover the code and open a 400-year-old cryptex padlock. You can buy a USB-drive cryptex.",
-      "url": "https://www.schneier.com/blog/archives/2026/11/opening-a-400-year-old-cryptex.html",
-      "date": "2026-11-20T12:04:46Z"
-    },
-    {
-      "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
-      "description": "[CISA] CISA has added four new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-42884 SAP NetWeaver Improper Neutralization of Special Elements in Data Query Logic Vulnerability...",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/11/20/cisa-adds-four-known-exploited-vulnerabilities-catalog",
-      "date": "2026-11-20T12:00:00Z"
-    },
-    {
-      "title": "ISC Stormcast For Friday, November 20th, 2026 https://isc.sans.edu/podcastdetail/10188, (Fri, Nov 20th)",
-      "description": "[ISC] (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33538",
-      "date": "2026-11-20T02:00:02Z"
-    },
-    {
-      "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
-      "description": "[CISA] CISA has added four new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation.&nbsp; CVE-2024-10441 Synology DiskStation Manager (DSM) Improper Encoding or Escaping of Output Vulnerability...",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/11/18/cisa-adds-four-known-exploited-vulnerabilities-catalog",
-      "date": "2026-11-18T12:00:00Z"
-    },
-    {
-      "title": "Critical Java Vulnerability Requires Immediate Patching",
-      "description": "[CISA] Purpose CISA strongly urges organizations to immediately patch the recently disclosed Oracle Java vulnerability CVE-2026-114938. This critical memory-corruption vulnerability, known as \u201cJava4Shell,\u201d affects the Base64 decoder of the x86-64 HotSpot...",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/11/17/critical-java-vulnerability-requires-immediate-patching",
-      "date": "2026-11-17T12:00:00Z"
-    }
-  ]
+    "title": "Sentinel Protocol",
+    "tagline": "Perimeter Intelligence Sync",
+    "updated": "2026-11-27 19:46 UTC",
+    "news": [
+        {
+            "source": {
+                "id": null,
+                "name": "Securityaffairs.com"
+            },
+            "author": "Pierluigi Paganini",
+            "title": "Drupal Warns of New Critical Flaw Exploited in the Wild",
+            "description": "Drupal fixes a critical flaw exploited in the wild that could let attackers take over vulnerable websites. Drupal has warned of a new highly critical vulnerability in Drupal Core that attackers are actively exploiting to take over vulnerable websites. Tracked\u2026",
+            "url": "https://securityaffairs.com/204085/security/drupal-warns-of-new-critical-flaw-exploited-in-the-wild.html",
+            "urlToImage": "https://securityaffairs.com/wp-content/uploads/2014/10/drupal.jpg",
+            "publishedAt": "2026-11-26T19:45:57Z",
+            "content": "Drupal Warns of New Critical Flaw Exploited in the Wild\r\nDrupal has warned of a new highly critical vulnerability in Drupal Core that attackers are actively exploiting to take over vulnerable website\u2026 [+3007 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Dailymail.com"
+            },
+            "author": "Jennifer Pearson",
+            "title": "Colman Domingo claps back at critic who panned his 'mid performance' as Joe Jackson in Michael... as he garners Oscar buzz for the role",
+            "description": "The 56-year-old Euphoria actor had a three-word response: 'Who hurt you?'",
+            "url": "https://www.dailymail.com/tvshowbiz/article-16325013/Oscar-Colman-Domingo-critic-slammed-Michael.html",
+            "urlToImage": "https://i.dailymail.com/1s/2026/11/26/18/112748987-0-image-m-32_1795718738772.jpg",
+            "publishedAt": "2026-11-26T19:34:19Z",
+            "content": "Colman Domingo clapped back at a critic who slammed his Joe Jackson performance in the movie Michael as undeserving of the Oscar buzz he's been generating.\r\n'Hot take: Awards prognosticators adding C\u2026 [+5153 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Rt-english.com"
+            },
+            "author": "RT",
+            "title": "Evgeny Kaspersky: AI won\u2019t press the red button, unless we let it",
+            "description": "AI agents are changing the cybersecurity battle Read Full Article at RT.com",
+            "url": "https://rt-english.com/news/649400-evgeny-kaspersky-ai-wont-press/",
+            "urlToImage": "https://mf.b37mrtl.ru/files/2026.11/article/6b08821685f5402fb35697ee.jpg",
+            "publishedAt": "2026-11-26T19:06:58Z",
+            "content": "I\u2019ve always been a fan of science fiction, whether on screen or on the page, so I know how people imagine a future ruled by artificial intelligence in which machines overthrow humanity, or slowly mak\u2026 [+5441 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Theregister.com"
+            },
+            "author": "Connor Jones",
+            "title": "Microsoft: Hackers in China, N Korea using ARTEX AI tool to break into global tech systems",
+            "description": "Agentic offensive framework automates familiar attack techniques, with weak defenses potentially breached in minutes",
+            "url": "https://www.theregister.com/security/2026/11/26/microsoft-hackers-in-china-n-korea-using-artex-ai-tool-to-break-into-global-tech-systems/5312433",
+            "urlToImage": "https://image.theregister.com/5310524.webp?width=1200",
+            "publishedAt": "2026-11-26T19:04:00Z",
+            "content": "Chinese and North Korean state-sponsored hacking crews are among the growing number of groups known for using the ARTEX pentesting tool in attacks, Microsoft said this week.\r\nARTEX is an open source,\u2026 [+3794 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "iTnews"
+            },
+            "author": null,
+            "title": "AI\u2019s skills gaps need IT, HR and L&D working to one plan",
+            "description": "Building the workforce capabilities for AI success.",
+            "url": "https://www.itnews.com.au/video/ais-skills-gaps-need-it-hr-and-ld-working-to-one-plan-630638",
+            "urlToImage": "https://i.nextmedia.com.au/Videos/Finding_Graphics_(33).jpg",
+            "publishedAt": "2026-11-26T19:00:00Z",
+            "content": "Almost three-quarters of organisations are short of the resources or expertise needed to manage their cloud environments, and Pluralsight\u2019s Geo Verghese says gaps like that will stall an AI program u\u2026 [+3121 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Military.com"
+            },
+            "author": "Brandon Wile",
+            "title": "$2,500 Stipend for Student Veterans: How to Apply in 2027",
+            "description": "The Recycling Education and Research Foundation's Veterans Stipend goes straight to the veteran and can pay for groceries, gas or child care.",
+            "url": "https://www.military.com/a-2500-stipend-covers-costs-the-gi-bill-wont-heres-how-veterans-can-apply",
+            "urlToImage": "https://static0.mltimages.com/wordpress/wp-content/uploads/2026/11/graduates-wearing-mortarboards.jpg?w=1600&h=900&fit=crop",
+            "publishedAt": "2026-11-26T18:15:30Z",
+            "content": "Veterans in college, trade school or an apprenticeship can apply for a $2,500 stipend that pays the veteran directly and can go toward everyday bills, and they don't need any connection to the indust\u2026 [+4204 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Ariel Zilber",
+            "title": "Six in 10 shoppers plan to use AI for Black Friday shopping \u2014 here\u2019s what could go wrong",
+            "description": "Artificial intelligence bots are offering to do the bargain hunting for shoppers this Black Friday -- but they could also saddle consumers with bad recommendations and worse.",
+            "url": "https://nypost.com/2026/11/26/business/six-in-10-shoppers-plan-to-use-ai-for-black-friday-shopping-heres-what-could-go-wrong/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/11/150118278.jpg?quality=75&strip=all&w=1200",
+            "publishedAt": "2026-11-26T18:14:09Z",
+            "content": "Artificial intelligence bots are offering to do the bargain hunting for shoppers this Black Friday \u2014 but they could also saddle consumers with bad recommendations, unwanted purchases and privacy head\u2026 [+7122 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BleepingComputer"
+            },
+            "author": null,
+            "title": "NordVPN Black Friday Deal: Get 78% off VPN plans in 2026",
+            "description": "NordVPN's 2026 Black Friday and Cyber Monday deal is now live, offering savings of up to 78% on VPN subscriptions, plus three extra months of protection. [...]",
+            "url": "https://www.bleepingcomputer.com/news/security/nordvpn-black-friday-deal-get-78-percent-off-vpn-plans-in-2026/",
+            "urlToImage": "https://www.bleepstatic.com/content/posts/2026/11/26/nordvpn-blackfriday-2026.jpg",
+            "publishedAt": "2026-11-26T17:58:42Z",
+            "content": "NordVPN's 2026 Black Friday and Cyber Monday deal is now live, offering savings of up to 78% on VPN subscriptions, plus three extra months of protection.\r\nThe NordVPN Black Friday deal is an great op\u2026 [+4858 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MakeUseOf"
+            },
+            "author": "Yadullah Abidi",
+            "title": "Your smart TV, smart plugs, and NAS are the weakest links in your home network",
+            "description": "67% of home network flaws come from three devices you never think about.",
+            "url": "https://www.makeuseof.com/smart-tv-smart-plugs-nas-weakest-links-network/",
+            "urlToImage": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/03/tp-link-router-full-body.png?w=1600&h=900&fit=crop",
+            "publishedAt": "2026-11-26T17:31:19Z",
+            "content": "You've probably spent a good amount of time and effort picking out a router and setting a decent Wi-Fi password. Meanwhile, the TV in your living room, those cheap smart plugs you've got around the h\u2026 [+5327 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BGR"
+            },
+            "author": "Gerard Griessel",
+            "title": "Your Password Manager Can Do More Than Store Logins - Here Are 4 Features Worth Using",
+            "description": "While highly rated password managers fulfill the key role of storing and recalling passwords securely, they also offer a host of other features.",
+            "url": "https://www.bgr.com/2324870/password-manager-security-features-worth-using/",
+            "urlToImage": "https://www.bgr.com/img/gallery/your-password-manager-can-do-more-than-store-logins-here-are-4-features-worth-using/l-intro-1795442362.jpg",
+            "publishedAt": "2026-11-26T17:17:00Z",
+            "content": "Modern password managers have become a very important part of accessing the internet. The huge upswing in cybersecurity breaches and targeted online fraud has made password managers a must. Websites \u2026 [+1250 chars]"
+        }
+    ]
 }
